@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:04:52+00:00",
+  "generatedAt": "2026-08-31T22:05:01+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
+          "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
+          "published": "2026-08-31T21:09:55+00:00",
+          "summary": "Beim G20-Finanzministertreffen ist der russische Minister persönlich vor Ort - erstmals seit dem Angriff auf die Ukraine. Finanzminister Klingbeil kritisierte deshalb den Gastgeber USA und richtete …"
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12830.html",
+          "published": "2026-08-31T20:52:15+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
+          "published": "2026-08-31T20:28:25+00:00",
+          "summary": "In Sachsen-Anhalt grenzt sich CDU-Spitzenkandidat Schulze im Wahlkampf von Kanzler Merz und der Bundespolitik ab. Nun gab es doch einen gemeinsamen Auftritt. Den nutzte Merz erneut für eine klare …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1640552.html",
           "published": "2026-08-31T19:58:32+00:00",
           "summary": ""
         },
         {
-          "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
-          "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
-          "published": "2026-08-31T19:52:21+00:00",
-          "summary": "Beim G20-Finanzministertreffen ist der russische Minister persönlich vor Ort - erstmals seit dem Angriff auf die Ukraine. Finanzminister Klingbeil kritisierte deshalb den Gastgeber USA und richtete …"
-        },
-        {
           "title": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
           "link": "https://www.tagesschau.de/ausland/amerika/grand-canyon-sturzflut-100.html",
           "published": "2026-08-31T18:57:05+00:00",
           "summary": "Eine Sturzflut im Grand-Canyon-Nationalpark im Westen der USA hat zwei Menschen getötet, nach 20 weiteren wird noch gesucht. Es ist unklar, ob die Menschen vermisst werden oder ob sie sich woanders …"
-        },
-        {
-          "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html",
-          "published": "2026-08-31T18:30:16+00:00",
-          "summary": "Wer steckt hinter den Sprengstoff-Drohnen am Flughafen Leipzig? Vieles deutet auf Russland als Drahtzieher hin. Doch noch steht eine offizielle Schuldzuweisung der Bundesregierung aus. Welche …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-80714.html",
-          "published": "2026-08-31T18:16:49+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen liegen uneinheitlich – doch die August-Bilanz ist positiv",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-liegen-uneinheitlich-doch-die-august-bilanz-ist-positiv/100250821.html",
+          "title": "Clouddienst: Weltweite Störung bei Microsoft Outlook legt E-Mail lahm",
+          "link": "https://www.handelsblatt.com/technik/clouddienst-weltweite-stoerung-bei-microsoft-outlook-legt-e-mail-lahm/100250957.html",
+          "published": "2026-08-31T21:06:17+00:00",
+          "summary": "Ein Fehler bei Microsoft Exchange Online sorgt weltweit für E-Mail-Probleme. Was Nutzer jetzt beachten sollten und wie Microsoft reagiert."
+        },
+        {
+          "title": "E-Commerce: US-Behörde verklagt Amazon – Vorwurf der Preismanipulation bei Werbung",
+          "link": "https://www.handelsblatt.com/technik/it-internet/e-commerce-us-behoerde-verklagt-amazon-vorwurf-der-preismanipulation-bei-werbung/100250952.html",
+          "published": "2026-08-31T20:45:34+00:00",
+          "summary": "Die Kläger werfen Amazon vor, heimlich Mindestpreise für Werbeanzeigen angehoben zu haben. In ähnlichen Fällen in der Vergangenheit hatte sich der Konzern außergerichtlich geeinigt."
+        },
+        {
+          "title": "Clouddienst gestört: Weltweite Störung bei Microsoft Outlook legt E-Mail lahm",
+          "link": "https://www.handelsblatt.com/technik/it-internet/clouddienst-gestoert-weltweite-stoerung-bei-microsoft-outlook-legt-e-mail-lahm/100250953.html",
+          "published": "2026-08-31T20:38:08+00:00",
+          "summary": "Ein Fehler bei Microsoft Exchange Online sorgt weltweit für E-Mail-Probleme. Was Nutzer jetzt beachten sollten und wie Microsoft reagiert."
+        },
+        {
+          "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen schließen leicht im Minus – doch die August-Bilanz ist positiv",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-leicht-im-minus-doch-die-august-bilanz-ist-positiv/100250821.html",
           "published": "2026-08-31T19:54:45+00:00",
-          "summary": "Der Dow Jones steuert auf seinen fünften Monatsgewinn in Folge zu. S&P 500 und Nasdaq stehen vor der ersten positiven Bilanz seit Mai. Belastend wirken weiter steigende Bondrenditen."
+          "summary": "Der Dow Jones verbucht seinen fünften Monatsgewinn in Folge. Für S&P 500 und Nasdaq ist es die erste positive Bilanz seit Mai. Belastend wirken weiter steigende Bondrenditen."
         },
         {
           "title": "Vor den Landtagswahlen: Fischbrötchen, Pfiffe und eine Warnung – Merz im Wahlkampf",
           "link": "https://www.handelsblatt.com/politik/deutschland/vor-den-landtagswahlen-fischbroetchen-pfiffe-und-eine-warnung-merz-im-wahlkampf/100250913.html",
           "published": "2026-08-31T19:32:49+00:00",
           "summary": "An der Ostseeküste wird Merz mit Pfiffen und Beschimpfungen begrüßt, im Harz wird er abgeschottet. Der Kanzler wagt sich erstmals in den Wahlkampf im Osten."
-        },
-        {
-          "title": "US-Bondmarkt: Streit um US-Anleiherückkäufe: Bessent weist Kritik seines ehemaligen Mentors zurück",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/us-bondmarkt-verliert-nicht-gern-geld-bessent-schiesst-gegen-alten-mentor/100250942.html",
-          "published": "2026-08-31T19:20:08+00:00",
-          "summary": "US-Finanzminister Scott Bessent verteidigt die Ausweitung des Rückkaufprogramms für US-Staatsanleihen und wehrt sich gegen Kritik des Investors Stanley Druckenmiller."
-        },
-        {
-          "title": "Landtagswahl: Merz: Sachsen-Anhalt darf kein Experimentierfeld für „Wutbürger“ werden",
-          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-merz-warnt-in-sachsen-anhalt-vor-wutbuergern/100250947.html",
-          "published": "2026-08-31T18:32:09+00:00",
-          "summary": "Eine Woche vor der Landtagswahl in Sachsen-Anhalt mahnt Friedrich Merz vor einer AfD-Regierung und deren wirtschaftlichen Folgen. Aber der Kanzler zeigt sich optimistisch."
-        },
-        {
-          "title": "+++ Ukraine-Krieg +++: CIA-Chef hat laut Litauens Präsident Ziele in Moskau erreicht",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-cia-chef-hat-laut-litauens-praesident-ziele-in-moskau-erreicht/27982126.html",
-          "published": "2026-08-31T17:39:00+00:00",
-          "summary": "Türkei dringt auf neues Abkommen zwischen Moskau und Kiew +++ Russischer Finanzminister nimmt an G20-Treffen teil +++ Estland erhöht Sicherheitsmaßnahmen bei E-Mails aus Russland +++ Der Newsblog."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Spekulation um Fed-Entscheidung: Hohe Ölpreise und Zinssorgen belasten die Wall Street",
+          "link": "https://www.n-tv.de/wirtschaft/Hohe-Oelpreise-und-Zinssorgen-belasten-die-Wall-Street-id31253476.html",
+          "published": "2026-08-31T21:08:43+00:00",
+          "summary": "Die jüngsten US-Angriffe in der Straße von Hormus treiben die Ölpreise nach oben. Unterdessen wirkt die Rede des US-Notenbankchefs Warsh nach, der eine straffere Geldpolitik signalisiert. An der Wall …"
+        },
         {
           "title": "Schlechtes Omen vor Börsengang: Shein mit milliardenschwerer Bewertung - aber Aktie schmiert ab",
           "link": "https://www.n-tv.de/wirtschaft/Shein-mit-milliardenschwerer-Bewertung-aber-Aktie-schmiert-ab-id31252705.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Trumps-Zolldrohung-gegen-Kanada-trifft-japanische-Autobauer-id31251279.html",
           "published": "2026-08-31T13:22:17+00:00",
           "summary": "Trump plant, Zölle auf kanadische Autoimporte auf 50 Prozent zu verdoppeln. Das trifft nicht nur den Nachbarn der USA, sondern auch die japanischen Unternehmen Toyota und Honda. Experten warnen vor …"
-        },
-        {
-          "title": "\"Leider schon seit Jahren\": Agrarministerin findet Lebensmittel zu günstig",
-          "link": "https://www.n-tv.de/wirtschaft/Agrarministerin-findet-Lebensmittel-zu-guenstig-id31251717.html",
-          "published": "2026-08-31T13:18:37+00:00",
-          "summary": "Regional, nachhaltig und möglichst aus heimischer Produktion - in Umfragen wünschen sich viele Verbraucher genau das. An der Supermarktkasse sieht es jedoch oft anders aus. Eine Ministerin sieht …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Bayer-Aktie höher: Kerendia zeigt Wirkung bei hypertensiver Nephropathie",
-          "link": "https://www.finanzen.net/nachricht/aktien/studiendaten-bayer-aktie-hoeher-kerendia-zeigt-wirkung-bei-hypertensiver-nephropathie-15908824",
-          "published": "2026-08-31T20:01:00+00:00",
-          "summary": "Das ist eine Nierenschädigung, die durch chronischen Bluthochdruck entstehen kann. Eine Subgruppenanalyse der zulassungsrelevanten Phase-III-Studie FIND-CKD zeigte nach Unternehmensangaben vom …"
+          "title": "August 2026: So performten die einzelnen DAX-Aktien im vergangenen Monat",
+          "link": "https://www.finanzen.net/nachricht/aktien/tops-flops-august-2026-so-performten-die-einzelnen-dax-aktien-im-vergangenen-monat-15896670",
+          "published": "2026-08-31T21:41:00+00:00",
+          "summary": "So bewegten sich die DAX-Werte im August 2026"
         },
         {
-          "title": "Auf dem Verkaufszettel: Diese Aktien empfehlen Experten zu verkaufen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verkaufsempfehlungen-kw-35-auf-dem-verkaufszettel-diese-aktien-empfehlen-experten-zu-verkaufen-15903538",
-          "published": "2026-08-31T19:59:00+00:00",
-          "summary": "In eigener Sache - Tipp: Handeln Sie Ihre Aktien jetzt für 0,00 € bei finanzen.net zero!"
+          "title": "SHEIN-Aktie wagt den Sprung an die Börse: IPO in Hongkong am 1. September",
+          "link": "https://www.finanzen.net/nachricht/aktien/milliardenbewertung-shein-aktie-wagt-den-sprung-an-die-boerse-ipo-in-hongkong-am-1-september-00-15906173",
+          "published": "2026-08-31T20:54:00+00:00",
+          "summary": "SHEIN bietet rund 280 Millionen Aktien an • Bewertung bleibt deutlich unter dem Rekordniveau von 2022 • Börsenpläne in New York und London waren zuvor gescheitert Der Weg nach Hongkong Die Geschichte …"
         },
         {
-          "title": "Allianz-Aktie tiefer: Versicherer erwägt offenbar Milliarden-Übernahme in Großbritannien",
-          "link": "https://www.finanzen.net/nachricht/aktien/deal-voraus-allianz-aktie-tiefer-versicherer-erwaegt-offenbar-milliarden-uebernahme-in-grossbritannien-15909477",
-          "published": "2026-08-31T19:58:00+00:00",
-          "summary": "Der DAX -Konzern erwäge eine Übernahme des britischen Pannenhilfeunternehmens AA Ltd für umgerechnet rund 5,8 Milliarden Euro, berichtete der Nachrichtensender Sky News unter Berufung auf mit der …"
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-08-31T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
         },
         {
-          "title": "Mercedes-Benz-Aktie in Grün: Startschuss für Milliarden-Rückkaufprogramm am Dienstag",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktienrueckkauf-mercedes-benz-aktie-in-gruen-startschuss-fuer-milliarden-rueckkaufprogramm-am-dienstag-15909611",
-          "published": "2026-08-31T19:57:00+00:00",
-          "summary": "Im Zeitraum vom 1. September 2026 bis zum 6. April 2027 will der Autokonzern bis zu 58 Millionen eigene Aktien über die Börse oder über ein multilaterales Handelssystem erwerben, wie"
+          "title": "Weltweite Störung bei Microsoft Outlook legt E-Mail lahm",
+          "link": "https://www.finanzen.net/nachricht/aktien/weltweite-stoerung-bei-microsoft-outlook-legt-e-mail-lahm-15911040",
+          "published": "2026-08-31T20:46:38+00:00",
+          "summary": "REDMOND/BERLIN (dpa-AFX) - Ein großflächiger Ausfall bei Microsoft hat am Montagabend den E-Mail-Verkehr von Millionen Nutzern weltweit beeinträchtigt. Betroffen sind sowohl Unternehmenskunden von …"
         },
         {
-          "title": "Höhere Zinssignale und steigende Ölpreise bremsen: DAX fällt nach Rekordlauf zurück",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-hoehere-zinssignale-und-steigende-oelpreise-bremsen-dax-faellt-nach-rekordlauf-zurueck-15909432",
-          "published": "2026-08-31T19:57:00+00:00",
-          "summary": "Nach dem Rekordhoch des Leitindex DAX vom Freitag schalteten die Anleger zu Beginn der neuen Woche zunächst einen Gang runter. Zur Eröffnung ging es bereits nach unten und das Börsenbarometer baute …"
+          "title": "ROUNDUP/Aktien New York Schluss: Dow gibt nach - Ölpreis steigt wieder",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-dow-gibt-nach-oelpreis-steigt-wieder-15911039",
+          "published": "2026-08-31T20:34:39+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Die erneute Zuspitzung im Iran-Krieg hat den Dow Jones Industrial am Montag belastet. Der Leitindex litt unter dem wieder steigenden Ölpreis und den damit verbundenen …"
         }
       ],
       "error": null
