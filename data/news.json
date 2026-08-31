@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:58:02+00:00",
+  "generatedAt": "2026-08-31T14:05:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -86,6 +86,12 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Modi spricht von Herkulesaufgabe: Indien behält hohes Wachstumstempo - Nahost-Krieg belastet",
+          "link": "https://www.n-tv.de/wirtschaft/Indien-behaelt-hohes-Wachstumstempo-Nahost-Krieg-belastet-id31252325.html",
+          "published": "2026-08-31T14:00:02+00:00",
+          "summary": "Die indische Wirtschaft ist massiv auf Energieimporte angewiesen. Die gestiegenen Kosten für Öl und Gas lasten auf der großen Volkswirtschaft. Doch das Land weist auch für das Frühjahr solide Raten …"
+        },
+        {
           "title": "Hunderttausende Jobs betroffen: Trumps Zolldrohung gegen Kanada trifft japanische Autobauer",
           "link": "https://www.n-tv.de/wirtschaft/Trumps-Zolldrohung-gegen-Kanada-trifft-japanische-Autobauer-id31251279.html",
           "published": "2026-08-31T13:22:17+00:00",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/EU-ueberwacht-ChatGPT-kuenftig-nach-strengsten-Vorschriften-id31251136.html",
           "published": "2026-08-31T11:40:21+00:00",
           "summary": "Mit deutlich mehr als 45 Millionen monatlichen Nutzern zählt ChatGPT nun offiziell zu den \"sehr großen Suchmaschinen\". Damit öffnet die EU eine Tür, um das KI-Modell künftig strenger zu bewerten. …"
-        },
-        {
-          "title": "Angriff in wichtigem Segment: BYD exportiert Chinas Auto-Preiskrieg nach Deutschland",
-          "link": "https://www.n-tv.de/wirtschaft/BYD-exportiert-Chinas-Auto-Preiskrieg-nach-Deutschland-id31250873.html",
-          "published": "2026-08-31T11:30:49+00:00",
-          "summary": "In China schrumpft der Automarkt. Die Verkaufszahlen auch von BYD brechen ein. Stattdessen setzt der E-Autoriese auf den Export und greift auch in Deutschland mit Kampfpreisen an - ausgerechnet in …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Umschichtungen in den Top 10: So hat die Deutsche Bank ihr US-Aktiendepot im 2. Quartal neu ausgerichtet",
-          "link": "https://www.finanzen.net/nachricht/aktien/zukaeufe-ueberwiegen-umschichtungen-in-den-top-10-so-hat-die-deutsche-bank-ihr-us-aktiendepot-im-2-quartal-neu-ausgerichtet-00-15903263",
-          "published": "2026-08-31T13:52:00+00:00",
-          "summary": "Deutsche Bank hat ihr US-Aktienportfolio zum 30. Juni offengelegt Im Portfolio gab es sowohl neue Werte als auch spürbare Umschichtungen Zu- und Verkäufe in den Top 10 Da das US- Aktiendepot ..."
+          "title": "Ministerpräsident Schulze zum Renten-Streit: Werde mich nicht verbiegen",
+          "link": "https://www.finanzen.net/nachricht/aktien/ministerpraesident-schulze-zum-renten-streit-werde-mich-nicht-verbiegen-15910413",
+          "published": "2026-08-31T14:01:39+00:00",
+          "summary": "MAGDEBURG (dpa-AFX) - Kurz vor der Landtagswahl in Sachsen-Anhalt an diesem Sonntag wirbt Ministerpräsident Sven Schulze (CDU) weiter dafür, die abschlagsfreie Frührente nach 45 Beitragsjahren zu …"
         },
         {
-          "title": "MÄRKTE USA/Etwas leichter - Inflations- und Zinssorgen bremsen",
-          "link": "https://www.finanzen.net/nachricht/aktien/maerkte-usa-etwas-leichter-inflations-und-zinssorgen-bremsen-15910243",
-          "published": "2026-08-31T13:47:42+00:00",
-          "summary": "DOW JONES--Inflationssorgen bremsen die US-Börsen am Montag im frühen Geschäft. Der Dow-Jones-Index fällt um 0,5 Prozent auf 53.284 Punkte. Der SP-500 sinkt um 0,4 Prozent und der Nasdaq-Composite um …"
+          "title": "Italien schrumpft: Fast vier Millionen Einwohner weniger bis 2050",
+          "link": "https://www.finanzen.net/nachricht/aktien/italien-schrumpft-fast-vier-millionen-einwohner-weniger-bis-2050-15910412",
+          "published": "2026-08-31T14:01:38+00:00",
+          "summary": "ROM (dpa-AFX) - Italiens Bevölkerung wird in den kommenden Jahrzehnten deutlich schrumpfen. Bis 2050 dürfte das Land fast vier Millionen Einwohner verlieren, wie aus neuen Prognosen des Statistikamts …"
         },
         {
-          "title": "GameStop-Aktie zieht an: Zahlen zum zweiten Quartal zeigen Gewinnsprung dank eBay",
-          "link": "https://www.finanzen.net/nachricht/aktien/gewinnsprung-umsatz-sinkt-gamestop-aktie-zieht-an-zahlen-zum-zweiten-quartal-zeigen-gewinnsprung-dank-ebay-00-15910167",
-          "published": "2026-08-31T13:43:00+00:00",
-          "summary": "Nettogewinn steigt deutlich, während der Umsatz zurückgeht eBay-Engagement prägt das Ergebnis stärker als das operative Geschäft Anleihe-Umtausch wird um eine Barkomponente ergänzt"
+          "title": "S&P 500-Papier BlackRock-Aktie: So viel Gewinn hätte eine Investition in BlackRock von vor 3 Jahren abgeworfen",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-blackrock-aktie-so-viel-gewinn-haette-eine-investition-in-blackrock-von-vor-3-jahren-abgeworfen-15910411",
+          "published": "2026-08-31T14:00:47+00:00",
+          "summary": "Am 31.08.2023 wurden BlackRock -Anteile via Börse NYSE gehandelt. Diesen Tag beendete die BlackRock-Aktie bei 700,54 USD. Bei einem BlackRock-Investment von 10.000 USD zu diesem Zeitpunkt, hätte ein …"
         },
         {
-          "title": "Die ersten 100 Euro investieren: So einfach gelingt der Einstieg",
-          "link": "https://www.finanzen.net/nachricht/aktien/die-ersten-100-euro-investieren-so-einfach-gelingt-der-einstieg-15910241",
-          "published": "2026-08-31T13:40:32+00:00",
-          "summary": ""
+          "title": "S&P 500-Titel Evergy-Aktie: So viel Gewinn hätte ein Investment in Evergy von vor 3 Jahren eingefahren",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-evergy-aktie-so-viel-gewinn-haette-ein-investment-in-evergy-von-vor-3-jahren-eingefahren-15910410",
+          "published": "2026-08-31T14:00:47+00:00",
+          "summary": "Vor 3 Jahren wurden Evergy -Anteile via Börse NAS gehandelt. Diesen Handelstag beendete das Papier bei 54,97 USD. Bei einer 10.000-USD-Investition vor 3 Jahren, hätten Anleger nun 181,917 …"
         },
         {
-          "title": "Multiorder beim Online-Broker: Mit einem Trade in mehrere Aktien gleichzeitig investieren",
-          "link": "https://www.finanzen.net/nachricht/aktien/multiorder-beim-online-broker-mit-einem-trade-in-mehrere-aktien-gleichzeitig-investieren-15910240",
-          "published": "2026-08-31T13:40:23+00:00",
-          "summary": ""
+          "title": "S&P 500-Titel Tapestry-Aktie: So viel Gewinn hätte eine Investition in Tapestry von vor 10 Jahren abgeworfen",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-tapestry-aktie-so-viel-gewinn-haette-eine-investition-in-tapestry-von-vor-10-jahren-abgeworfen-15910409",
+          "published": "2026-08-31T14:00:47+00:00",
+          "summary": "Tapestry -Anteile wurden heute vor 10 Jahren an der Börse NYSE gehandelt. Diesen Tag beendete das Tapestry-Papier bei 38,18 USD. Anleger, die zu diesem Zeitpunkt 100 USD in den Konzern investierten …"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "VW-Betriebsversammlungen: „Wir bauen gute Autos, verdienen damit aber zu wenig“",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-betriebsversammlungen-kostenproblem-im-werk-hannover-zukunft-ungewiss/100250842.html",
+          "published": "2026-08-31T13:55:00+00:00",
+          "summary": "Welche Zukunft hat das Volkswagen-Werk Hannover? VW-Finanzchef Arno Antlitz zeichnet ein düsteres Bild."
+        },
+        {
           "title": "2,9 Prozent Inflation: „An der Inflationsfront kehrt so schnell keine Ruhe ein“",
           "link": "https://www.wiwo.de/politik/konjunktur/inflation-in-deutschland-verbraucherpreise-steigen-im-august-um-29-prozent/100250861.html",
           "published": "2026-08-31T13:37:00+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/dienstleister/cargoboard-wie-ein-ehemaliger-speditions-azubi-die-logistik-digitalisiert/100248803.html",
           "published": "2026-08-31T13:32:00+00:00",
           "summary": "Vom Speditions-Azubi zum Gründer: Lukas Petrasch macht den Palettenversand mit Cargoboard so einfach wie eine Flug- oder Hotelbuchung."
-        },
-        {
-          "title": "Preisfrage: Kühl kalkuliert – der richtige Kaufmoment fürs Klimagerät",
-          "link": "https://www.wiwo.de/unternehmen/industrie/klimaanlage-kaufen-wann-ist-der-beste-zeitpunkt-um-zu-sparen/100247935.html",
-          "published": "2026-08-31T13:26:00+00:00",
-          "summary": "„Antizyklisch einkaufen“ ist eine kluge Devise, wenn man sich Produkte mit saisonalem Nutzwert anschafft. Also: Jetzt eine Klimaanlage kaufen? Oder besser noch ein bisschen warten?"
         }
       ],
       "error": null

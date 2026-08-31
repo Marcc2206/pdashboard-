@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:58:06+00:00",
+  "generatedAt": "2026-08-31T14:05:12+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-08-31T15:45",
-    "temperatur": 18.3,
-    "gefuehlt": 16.4,
+    "zeit": "2026-08-31T16:00",
+    "temperatur": 18.2,
+    "gefuehlt": 16.2,
     "luftfeuchte": 77,
-    "niederschlag": 0.7,
-    "wind": 22.4,
+    "niederschlag": 0.1,
+    "wind": 23.4,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
