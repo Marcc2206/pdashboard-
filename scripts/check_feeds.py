@@ -46,9 +46,11 @@ def check(url: str) -> None:
         print(f"    Anfang: {raw[:160]!r}")
         return
 
-    print(f"    OK: {len(items)} Eintraege")
+    mit_text = sum(1 for i in items if i["summary"])
+    print(f"    OK: {len(items)} Eintraege, davon {mit_text} mit Anreisser-Text")
     for item in items[:3]:
         print(f"      - [{item['published']}] {item['title'][:80]}")
+        print(f"        Text: {item['summary'][:110] or '(keiner)'}")
     if not items:
         print(f"    Anfang: {raw[:160]!r}")
 
