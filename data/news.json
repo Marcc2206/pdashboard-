@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:11:52+00:00",
+  "generatedAt": "2026-08-31T13:21:42+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -10,8 +10,20 @@
         {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-80716.html",
-          "published": "2026-08-31T13:08:45+00:00",
+          "published": "2026-08-31T13:15:44+00:00",
           "summary": ""
+        },
+        {
+          "title": "USA greifen Iran erneut an",
+          "link": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-gegenangriffe-100.html",
+          "published": "2026-08-31T13:13:24+00:00",
+          "summary": "Einen Monat lang herrschte relative Ruhe am Golf. Nun haben die USA wieder iranische Stellungen angegriffen. Ziel waren nach US-Angaben iranische Raketenwerfer auf der Insel Larak. Teheran antwortete …"
+        },
+        {
+          "title": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html",
+          "published": "2026-08-31T13:11:00+00:00",
+          "summary": "Mit einer waghalsigen Aktion ist am Morgen ein Mann aus der JVA Duisburg-Hamborn entkommen. Der Häftling sägte das Gitter am Fenster seiner Zelle durch und floh über das Dach der Anstalt. Die …"
         },
         {
           "title": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1640276.html",
           "published": "2026-08-31T13:00:37+00:00",
           "summary": ""
-        },
-        {
-          "title": "Neue Sternbrücke in Hamburg: Jetzt rollen die Züge",
-          "link": "https://www.tagesschau.de/inland/regional/hamburg/neue-sternbruecke-in-hamburg-jetzt-rollen-die-zuege,sternbruecke-260.html",
-          "published": "2026-08-31T12:56:04+00:00",
-          "summary": "Die neue Sternbrücke in der Hansestadt Hamburg ist seit dem frühen Morgen in Betrieb. Zwischen Altona und Sternschanze war die Bahnverbindung sechs Wochen lang gesperrt."
-        },
-        {
-          "title": "Opferzahl nach Sturzflut im Himalaya steigt weiter",
-          "link": "https://www.tagesschau.de/video/video-1640264.html",
-          "published": "2026-08-31T12:54:22+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Verbraucherpreise: Liste der Preistreiber wird länger: Inflation wieder auf Kurs über drei Prozent",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-in-deutschland-steigt-im-august-auf-29-prozent/100248643.html",
+          "published": "2026-08-31T13:13:07+00:00",
+          "summary": "Nach einem Zwischentief ist die Inflation wieder auf dem Vormarsch. Die EZB dürfte handeln – auch weil es sich nicht um ein „deutsches Sonderproblem“ handelt."
+        },
+        {
+          "title": "Pharmaindustrie: Eli Lilly stärkt Immunologiegeschäft mit Milliardenzukauf",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/pharmaindustrie-eli-lilly-staerkt-immunologiegeschaeft-mit-milliardenzukauf/100250881.html",
+          "published": "2026-08-31T13:12:56+00:00",
+          "summary": "Bis zu 2,88 Milliarden Dollar gibt der Pharmakonzern für die Übernahme der Biotechfirma Merida Biosciences aus. Finanziert wird der Kauf mit den Milliarden aus dem Abnehmspritzen-Boom."
+        },
+        {
+          "title": "Pflegeversicherung: „Pflege akut in Not“: Was bedeutet der Weckruf der Kassen?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/pflegeversicherung-pflege-akut-in-not-was-bedeutet-der-weckruf-der-kassen/100250784.html",
+          "published": "2026-08-31T13:03:16+00:00",
+          "summary": "Bei den Pflegekassen droht ein Milliardendefizit - und die Lage spitzt sich aus ihrer Sicht zu. Sie drängen die Regierung zum raschen Handeln. An Pflegebedürftige richten sie eine andere Botschaft."
+        },
+        {
+          "title": "Migration: Italien und Spanien verlängern gegenseitige Grenzkontrollen",
+          "link": "https://www.handelsblatt.com/politik/international/migration-italien-und-spanien-verlaengern-gegenseitige-grenzkontrollen/100250888.html",
+          "published": "2026-08-31T13:03:07+00:00",
+          "summary": "Reisende zwischen Spanien und Italien müssen sich weiter auf Grenzkontrollen einstellen. Italien verlängert die umstrittene Maßnahme wegen der Ceuta-Krise erneut und Madrid zieht umgehend nach."
+        },
+        {
           "title": "IPO: Modehändler Shein vor Börsendebüt unter Druck",
           "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/ipo-modehaendler-shein-vor-boersendebuet-unter-druck/100250879.html",
           "published": "2026-08-31T13:02:48+00:00",
           "summary": "Am Tag vor dem Börsengang in Hongkong brechen Sheins Aktien im außerbörslichen Handel um mehr als zehn Prozent ein. Der Fashion-Gigant will eigentlich 1,49 Milliarden Euro einsammeln."
-        },
-        {
-          "title": "Pepsi, Lay's, Lipton: Diese Marken gehören zu PepsiCo",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/pepsi-produkte-diese-marken-gehoeren-zu-pepsico/26597634.html",
-          "published": "2026-08-31T12:59:00+00:00",
-          "summary": "Pepsi ist vor allem als Coca-Cola-Konkurrent bekannt. Dabei ist der US-Konzern einer der größten Nahrungsmittelhersteller der Welt. Hinter welchen Getränken und Snacks steckt das Unternehmen?"
-        },
-        {
-          "title": "Verbraucherpreise: Steigende Energiepreise treiben Inflation auf 2,9 Prozent",
-          "link": "https://www.handelsblatt.com/politik/deutschland/verbraucherpreise-steigende-energiepreise-treiben-inflation-auf-29-prozent/100250868.html",
-          "published": "2026-08-31T12:53:51+00:00",
-          "summary": "Hohe Energiepreise heizen die Teuerung in Deutschland an. Mit der Entlastung an der Tankstelle ist es vorerst vorbei. Volkswirte rechnen mit weiter steigenden Verbraucherpreisen."
-        },
-        {
-          "title": "Stauprognose: Die Stausaison endet - ganz ohne Störungen geht's aber nicht",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/stauprognose-die-stausaison-endet-ganz-ohne-stoerungen-gehts-aber-nicht/100250883.html",
-          "published": "2026-08-31T12:53:35+00:00",
-          "summary": "Die großen Sommerstaus sind vorbei, doch auf manchen Autobahnen bleibt die Staugefahr hoch. Welche Strecken das betrifft und wie man Stauzeiten vielleicht umgehen kann."
-        },
-        {
-          "title": "Dax aktuell: Dax notiert im Minus – Ölpreis steigt",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-steigt/100250724.html",
-          "published": "2026-08-31T12:50:16+00:00",
-          "summary": "Der Dax steuert weiter auf die Rekordmarke von 27.000 Punkten zu. Anleger können am Montag auf neue Konjunkturdaten aus Deutschland hoffen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP 2: Steigende Energiepreise treiben Inflation auf 2,9 Prozent",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-steigende-energiepreise-treiben-inflation-auf-2-9-prozent-15910149",
-          "published": "2026-08-31T13:05:38+00:00",
-          "summary": "(Neu: Einschätzung von Ökonomen.)WIESBADEN (dpa-AFX) - Hohe Energiepreise treiben die Teuerung in Deutschland erneut bis knapp unter die Drei-Prozent-Marke. Wie schon im April erreichte die …"
+          "title": "Allianz-Aktie etwas tiefer: Versicherer erwägt offenbar Milliarden-Übernahme in Großbritannien",
+          "link": "https://www.finanzen.net/nachricht/aktien/deal-voraus-allianz-aktie-etwas-tiefer-versicherer-erwaegt-offenbar-milliarden-uebernahme-in-grossbritannien-15909477",
+          "published": "2026-08-31T13:15:00+00:00",
+          "summary": "Der DAX -Konzern erwäge eine Übernahme des britischen Pannenhilfeunternehmens AA Ltd für umgerechnet rund 5,8 Milliarden Euro, berichtete der Nachrichtensender Sky News unter Berufung auf mit der …"
         },
         {
-          "title": "Stellantis-Aktie fester: Ex-Renault-Manager übernimmt die Leitung von Fiat und Co.",
-          "link": "https://www.finanzen.net/nachricht/aktien/fuehrungskraft-stellantis-aktie-fester-ex-renault-manager-uebernimmt-die-leitung-von-fiat-und-co-15910134",
-          "published": "2026-08-31T13:03:40+00:00",
-          "summary": "Wie der Automobilkonzern mitteilte, hat er Arnaud Belloni zum Chef dieser Marken und zum Chief Marketing Officer für Europa ernannt. Belloni ersetzt Olivier Francois. Für Belloni ist es eine Rückkehr …"
+          "title": "Mercedes-Benz-Aktie tiefer: Startschuss für Milliarden-Rückkaufprogramm am Dienstag",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktienrueckkauf-mercedes-benz-aktie-tiefer-startschuss-fuer-milliarden-rueckkaufprogramm-am-dienstag-15909611",
+          "published": "2026-08-31T13:13:00+00:00",
+          "summary": "Im Zeitraum vom 1. September 2026 bis zum 6. April 2027 will der Autokonzern bis zu 58 Millionen eigene Aktien über die Börse oder über ein multilaterales Handelssystem erwerben, wie"
         },
         {
-          "title": "Börse Stuttgart: Nvidia steht offenbar vor Übernahme von Hugging Face",
-          "link": "https://www.finanzen.net/nachricht/aktien/boerse-stuttgart-nvidia-steht-offenbar-vor-uebernahme-von-hugging-face-15910136",
-          "published": "2026-08-31T13:00:39+00:00",
-          "summary": "EUWAX Trends 31.08.2026, 13:00 Uhr | Verfasser: Steffen HeizerederNvidia steht offenbar vor Übernahme von Hugging Face Nvidia verhandelt über Kauf von Hugging FaceNvidia steht Medienberichten zufolge …"
+          "title": "ROUNDUP 3/'Pflege akut in Not': Was bedeutet der Weckruf der Kassen?",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-3-pflege-akut-in-not-was-bedeutet-der-weckruf-der-kassen-15910163",
+          "published": "2026-08-31T13:12:38+00:00",
+          "summary": "(Aktualisierung: ergänzt wurden Reaktionen im vorletzten und im letzten Absatz)BERLIN (dpa-AFX) - Die Pflegekassen schlagen wegen eines immer größeren Finanzlochs Alarm. \"Die Pflege ist akut in Not\" …"
         },
         {
-          "title": "Höhere Zinssignale und steigende Ölpreise bremsen: DAX fällt nach Rekordlauf zurück",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-hoehere-zinssignale-und-steigende-oelpreise-bremsen-dax-faellt-nach-rekordlauf-zurueck-15909432",
-          "published": "2026-08-31T13:00:00+00:00",
-          "summary": "Nach dem Rekordhoch des Leitindex DAX vom Freitag schalten die Anleger zu Beginn der neuen Woche zunächst einen Gang runter. Zur Eröffnung ging es 0,4 Prozent auf 26.464,14 Punkte nach unten und auch …"
+          "title": "SHEIN-Aktie wagt den Sprung an die Börse: IPO in Hongkong am 1. September",
+          "link": "https://www.finanzen.net/nachricht/aktien/milliardenbewertung-shein-aktie-wagt-den-sprung-an-die-boerse-ipo-in-hongkong-am-1-september-00-15906173",
+          "published": "2026-08-31T13:12:00+00:00",
+          "summary": "SHEIN bietet rund 280 Millionen Aktien an • Bewertung bleibt deutlich unter dem Rekordniveau von 2022 • Börsenpläne in New York und London waren zuvor gescheitert Der Weg nach Hongkong Die Geschichte …"
         },
         {
-          "title": "ROUNDUP: Was steckt hinter der neuen Eskalation am Persischen Golf?",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-was-steckt-hinter-der-neuen-eskalation-am-persischen-golf-15910133",
-          "published": "2026-08-31T12:56:39+00:00",
-          "summary": "WASHINGTON/TEHERAN (dpa-AFX) - Im festgefahrenen Krieg zwischen den USA und dem Iran ist es in der Nacht erstmals seit Ende Juli wieder zu gegenseitigen Angriffen gekommen. Das für die Region …"
+          "title": "Klarna: CEO investiert 10 Mio. USD – ich folge dem Insider!",
+          "link": "https://www.finanzen.net/nachricht/aktien/Klarna-CEO-investiert-10-Mio-USD-ich-folge-dem-Insider-15910166",
+          "published": "2026-08-31T13:07:10+00:00",
+          "summary": "Klarna (KLAR) (i.) konnte jüngst noch über ein starkes 2."
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
       "items": [
         {
+          "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
+          "link": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
+          "published": "2026-08-31T13:12:00+00:00",
+          "summary": "Dismissed as “not a product guy,” the outgoing CEO proved that supply-chain mastery could take Apple to new heights."
+        },
+        {
           "title": "America is asking the wrong question about its $40 trillion in debt, this MIT expert warns",
           "link": "https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories",
           "published": "2026-08-31T13:10:00+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
           "published": "2026-08-31T12:21:00+00:00",
           "summary": "Oil prices jumped on Monday after the U.S. and Iran exchanged fire for the first time in a month."
-        },
-        {
-          "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
-          "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
-          "published": "2026-08-31T12:00:00+00:00",
-          "summary": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons"
         }
       ],
       "error": null
@@ -242,6 +242,24 @@
       "url": "https://finance.yahoo.com/news/rssindex",
       "items": [
         {
+          "title": "Former Fed Vice Chair Predicts 2 Rate Hikes After Fed “Missed the Inflation Target for Roughly Five Years”",
+          "link": "https://finance.yahoo.com/economy/policy/articles/former-fed-vice-chair-predicts-131211884.html",
+          "published": "2026-08-31T13:12:11+00:00",
+          "summary": ""
+        },
+        {
+          "title": "A 71-Year-Old With $600,000 in an IRA Parked $150,000 in a QLAC. Her RMDs Dropped by a Quarter, and the Check Starts at 85.",
+          "link": "https://finance.yahoo.com/markets/options/articles/71-old-600-000-ira-130538629.html",
+          "published": "2026-08-31T13:05:38+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Barclays forecasts two Fed rate hikes after Warsh Jackson Hole speech",
+          "link": "https://finance.yahoo.com/economy/policy/articles/barclays-forecasts-two-fed-rate-130416339.html",
+          "published": "2026-08-31T13:04:16+00:00",
+          "summary": ""
+        },
+        {
           "title": "How Construction Loan Disbursement Works",
           "link": "https://finance.yahoo.com/real-estate/articles/construction-loan-disbursement-works-130050272.html",
           "published": "2026-08-31T13:00:50+00:00",
@@ -251,24 +269,6 @@
           "title": "This Little-Known AI Company Is Quietly Building for the Data Center Boom",
           "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-company-quietly-130022722.html",
           "published": "2026-08-31T13:00:22+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Pinterest Falls 4% as CFO Resigns, Snap Inches Higher, Alphabet Holds Flat",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/pinterest-falls-4-cfo-resigns-125658228.html",
-          "published": "2026-08-31T12:56:58+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Stock Market Today: Dow Falls, Oil Prices Jump As U.S., Iran Exchange New Strikes (Live Coverage)",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump/?src=A00220&yptr=yahoo",
-          "published": "2026-08-31T12:54:01+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Silver prices today, Monday, August 31, 2026: Silver opens lower as rate-hike expectations rise",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-31-2026-silver-opens-lower-as-rate-hike-expectations-rise-125201881.html",
-          "published": "2026-08-31T12:52:01+00:00",
           "summary": ""
         }
       ],
