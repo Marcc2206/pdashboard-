@@ -1,11 +1,17 @@
-name: Feed-Adressen testen
+name: Adressen testen
 
 on:
   workflow_dispatch:
     inputs:
       urls:
-        description: "Feed-Adressen, durch Leerzeichen getrennt"
-        required: true
+        description: "Feed-Adressen (RSS/Atom), durch Leerzeichen getrennt"
+        required: false
+        default: ""
+        type: string
+      raw_urls:
+        description: "Beliebige Adressen - zeigt den Anfang der Antwort"
+        required: false
+        default: ""
         type: string
 
 permissions:
@@ -19,9 +25,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Adressen pruefen
+      - name: Feeds pruefen
+        if: inputs.urls != ''
         env:
           # Ueber die Umgebung uebergeben, damit die Eingabe nicht in die
           # Kommandozeile des Workflows hineininterpretiert werden kann.
           URLS: ${{ inputs.urls }}
         run: python3 scripts/check_feeds.py $URLS
+
+      - name: Beliebige Adressen pruefen
+        if: inputs.raw_urls != ''
+        env:
+          RAW_URLS: ${{ inputs.raw_urls }}
+        run: python3 scripts/check_url.py $RAW_URLS

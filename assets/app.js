@@ -4,6 +4,7 @@
 
   var NEWS_URL = "data/news.json";
   var WEATHER_URL = "data/weather.json";
+  var MARKETS_URL = "data/markets.json";
   var TIME_ZONE = "Europe/Berlin";
 
   var newsEl = document.getElementById("news");
@@ -14,6 +15,8 @@
   var weatherEl = document.getElementById("weather");
   var weatherPlaceEl = document.getElementById("weather-place");
   var weatherUpdatedEl = document.getElementById("weather-updated");
+  var marketsEl = document.getElementById("markets");
+  var marketsUpdatedEl = document.getElementById("markets-updated");
 
   var timeFmt = new Intl.DateTimeFormat("de-DE", {
     hour: "2-digit",
@@ -264,6 +267,103 @@
       });
   }
 
+
+  /* ---------- Kurse ---------- */
+
+  var priceFmt = new Intl.NumberFormat("de-DE", {
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2
+  });
+  var percentFmt = new Intl.NumberFormat("de-DE", {
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2,
+    signDisplay: "always"
+  });
+
+  var CURRENCY_SIGNS = { EUR: "€", USD: "$", GBP: "£", CHF: "CHF" };
+
+  function formatPrice(value, currency, typ) {
+    if (value == null) return "–";
+    // Grosse Zahlen (Index, Bitcoin) ohne Nachkommastellen - liest sich ruhiger.
+    var rounded = Math.abs(value) >= 1000
+      ? new Intl.NumberFormat("de-DE", { maximumFractionDigits: 0 }).format(value)
+      : priceFmt.format(value);
+    // Ein Index ist ein Punktestand, keine Geldsumme - dort keine Waehrung.
+    if (typ === "index") return rounded;
+    var sign = CURRENCY_SIGNS[currency];
+    return sign ? rounded + " " + sign : rounded + (currency ? " " + currency : "");
+  }
+
+  function buildRow(wert) {
+    var row = document.createElement("li");
+    row.className = "quote";
+
+    var left = el("div", "quote-name");
+    left.appendChild(el("span", "quote-label", wert.name || wert.symbol || "?"));
+    if (wert.symbol && wert.symbol !== wert.name) {
+      left.appendChild(el("span", "quote-symbol", wert.symbol));
+    }
+    row.appendChild(left);
+
+    if (wert.error || wert.kurs == null) {
+      row.appendChild(el("div", "quote-value quote-missing", "keine Daten"));
+      return row;
+    }
+
+    var right = el("div", "quote-value");
+    right.appendChild(el("span", "quote-price", formatPrice(wert.kurs, wert.waehrung, wert.typ)));
+
+    if (wert.prozent != null) {
+      var richtung = wert.prozent > 0 ? " is-up" : wert.prozent < 0 ? " is-down" : "";
+      var text = percentFmt.format(wert.prozent) + " %";
+      if (wert.veraenderung != null) {
+        text += " (" + percentFmt.format(wert.veraenderung) + ")";
+      }
+      right.appendChild(el("span", "quote-change" + richtung, text));
+    }
+
+    row.appendChild(right);
+    return row;
+  }
+
+  function renderMarkets(data) {
+    marketsEl.textContent = "";
+    var werte = Array.isArray(data.werte) ? data.werte : [];
+
+    if (!werte.length) {
+      marketsEl.appendChild(el("p", "placeholder-text", "Keine Kurse konfiguriert."));
+      marketsUpdatedEl.textContent = "";
+      return;
+    }
+
+    var list = el("ul", "quotes");
+    werte.forEach(function (wert) {
+      list.appendChild(buildRow(wert));
+    });
+    marketsEl.appendChild(list);
+    marketsEl.appendChild(
+      el("p", "quotes-note", "Kurse verzögert, alle 2 Stunden abgerufen. Keine Anlageberatung.")
+    );
+
+    var stamp = data.generatedAt ? new Date(data.generatedAt) : null;
+    marketsUpdatedEl.textContent =
+      stamp && !isNaN(stamp.getTime()) ? timeFmt.format(stamp) + " Uhr" : "";
+  }
+
+  function loadMarkets() {
+    fetch(MARKETS_URL + "?t=" + Date.now(), { cache: "no-store" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then(renderMarkets)
+      .catch(function () {
+        marketsEl.textContent = "";
+        marketsEl.appendChild(el("p", "placeholder-text", "Kursdaten noch nicht verfügbar."));
+        marketsUpdatedEl.textContent = "";
+      });
+  }
+
   function tickClock() {
     clockEl.textContent = timeFmt.format(new Date());
   }
@@ -271,6 +371,7 @@
   function loadAll() {
     load();
     loadWeather();
+    loadMarkets();
   }
 
   reloadBtn.addEventListener("click", loadAll);

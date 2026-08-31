@@ -9,8 +9,10 @@ on:
     paths:
       - "feeds.json"        # Feed-Liste geaendert -> sofort neu holen.
       - "weather.json"      # Ort geaendert -> sofort neu holen.
+      - "markets.json"      # Kursliste geaendert -> sofort neu holen.
       - "scripts/fetch_feeds.py"
       - "scripts/fetch_weather.py"
+      - "scripts/fetch_markets.py"
       - ".github/workflows/update-news.yml"
 
 permissions:
@@ -39,6 +41,10 @@ jobs:
         # Ein Ausfall des Wetterdienstes soll die Nachrichten nicht blockieren.
         continue-on-error: true
         run: python3 scripts/fetch_weather.py
+
+      - name: Kurse abrufen
+        continue-on-error: true
+        run: python3 scripts/fetch_markets.py
 
       - name: Daten committen (nur bei Aenderung)
         run: |

@@ -1,0 +1,10 @@
+{
+  "_hinweis": "Kurse fuer das Markt-Modul. symbol = Kuerzel bei Yahoo Finance (z. B. SAP.DE fuer SAP an der deutschen Boerse). quelle: yahoo oder coingecko.",
+  "werte": [
+    { "id": "dax",      "name": "DAX",      "symbol": "^GDAXI",  "quelle": "yahoo",     "typ": "index" },
+    { "id": "bitcoin",  "name": "Bitcoin",  "symbol": "bitcoin", "quelle": "coingecko", "waehrung": "eur", "typ": "krypto" },
+    { "id": "sap",      "name": "SAP",      "symbol": "SAP.DE",  "quelle": "yahoo",     "typ": "aktie" },
+    { "id": "siemens",  "name": "Siemens",  "symbol": "SIE.DE",  "quelle": "yahoo",     "typ": "aktie" },
+    { "id": "allianz",  "name": "Allianz",  "symbol": "ALV.DE",  "quelle": "yahoo",     "typ": "aktie" }
+  ]
+}
