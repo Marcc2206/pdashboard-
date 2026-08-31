@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:11:52+00:00",
+  "generatedAt": "2026-08-31T12:56:36+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,24 +7,6 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80716.html",
-          "published": "2026-08-31T13:08:45+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
-          "link": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
-          "published": "2026-08-31T13:07:15+00:00",
-          "summary": "Der Streit zwischen Spanien und Italien nach dem Ansturm auf die Exklave Ceuta dauert an. Beide Staaten verlängerten gegenseitige Grenzkontrollen. Die spanische Regierung erhebt zudem Vorwürfe in …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1640276.html",
-          "published": "2026-08-31T13:00:37+00:00",
-          "summary": ""
-        },
         {
           "title": "Neue Sternbrücke in Hamburg: Jetzt rollen die Züge",
           "link": "https://www.tagesschau.de/inland/regional/hamburg/neue-sternbruecke-in-hamburg-jetzt-rollen-die-zuege,sternbruecke-260.html",
@@ -35,7 +17,25 @@
           "title": "Opferzahl nach Sturzflut im Himalaya steigt weiter",
           "link": "https://www.tagesschau.de/video/video-1640264.html",
           "published": "2026-08-31T12:54:22+00:00",
-          "summary": ""
+          "summary": "Opferzahl nach Sturzflut im Himalaya steigt weiter"
+        },
+        {
+          "title": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
+          "published": "2026-08-31T12:36:46+00:00",
+          "summary": "Das Leben in Deutschland hat sich im August weiter verteuert. Die Verbraucherpreise lagen zuletzt um 2,9 Prozent über dem Niveau des Vorjahresmonats. Der Grund sind gestiegene Ölpreise und auch das Rhein-Niedrigwasser."
+        },
+        {
+          "title": "Schüsse auf ein Café in Köln",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-cafe-koeln-100.html",
+          "published": "2026-08-31T12:34:00+00:00",
+          "summary": "In der Kölner Südstadt sind am Morgen vor einem Café mehrere Schüsse gefallen. Verletzte gab es laut Polizei nicht. Die Einsatzkräfte fahnden jetzt nach einem männlichen Tatverdächtigen."
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80718.html",
+          "published": "2026-08-31T12:24:11+00:00",
+          "summary": "tagesschau"
         }
       ],
       "error": null
