@@ -53,6 +53,17 @@ def strip_html(value: str) -> str:
     return " ".join(value.split())
 
 
+# WordPress haengt an den Auszug einen Hinweis auf den Originalbeitrag an.
+BOILERPLATE_RE = re.compile(
+    r"\s*(The post\b.*?appeared first on\b.*|Der Beitrag\b.*?erschien zuerst auf\b.*)$",
+    re.IGNORECASE | re.DOTALL,
+)
+
+
+def clean_summary(value: str) -> str:
+    return BOILERPLATE_RE.sub("", value).strip(" –-•|")
+
+
 def parse_date(value: str):
     """RSS (RFC 822) und Atom (ISO 8601) Datumsangaben -> aware datetime."""
     value = (value or "").strip()
@@ -126,7 +137,7 @@ def parse_feed(raw: bytes, limit: int):
         seen.add(link)
         date_node = find_child(node, "pubDate", "published", "updated", "date")
         published = parse_date(text_of(date_node))
-        summary = strip_html(text_of(find_child(node, "description", "summary")))
+        summary = clean_summary(strip_html(text_of(find_child(node, "description", "summary"))))
         # Manche Feeds (u. a. die Tagesschau) wiederholen nur die Ueberschrift.
         # Ein Anreisser, der nichts Neues sagt, wird weggelassen.
         if summary.rstrip(" .…").lower() == title.rstrip(" .…").lower():
