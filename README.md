@@ -1,9 +1,10 @@
 # Persönliches Dashboard
 
 Statische Seite für GitHub Pages: links die Nachrichten aus mehreren RSS-Feeds,
-rechts Platz für spätere Module. Die Seite selbst holt **keine** Feeds ab – das
-macht alle 2 Stunden ein GitHub-Actions-Workflow und legt das Ergebnis als
-`data/news.json` ab. Dadurch gibt es keine CORS-Probleme im Browser.
+rechts das Wetter und Platz für weitere Module. Die Seite holt selbst **nichts**
+ab – das macht alle 2 Stunden ein GitHub-Actions-Workflow und legt das Ergebnis
+als `data/news.json` und `data/weather.json` ab. Dadurch gibt es keine
+CORS-Probleme im Browser.
 
 ## Dateien
 
@@ -13,9 +14,14 @@ macht alle 2 Stunden ein GitHub-Actions-Workflow und legt das Ergebnis als
 | `assets/style.css` | Dunkles Design, zwei Spalten |
 | `assets/app.js` | Lädt `data/news.json` und baut die Karten |
 | `feeds.json` | **Hier die Feeds pflegen** |
-| `data/news.json` | Ergebnis des letzten Abrufs (wird automatisch aktualisiert) |
+| `weather.json` | **Hier den Wetterort pflegen** |
+| `data/news.json` | Schlagzeilen des letzten Abrufs (automatisch) |
+| `data/weather.json` | Wetter des letzten Abrufs (automatisch) |
 | `scripts/fetch_feeds.py` | Holt und parst die Feeds (nur Python-Standardbibliothek) |
-| `.github/workflows/update-news.yml` | Läuft alle 2 Stunden, committet `data/news.json` |
+| `scripts/fetch_weather.py` | Holt die Vorhersage von Open-Meteo (kostenlos, ohne Anmeldung) |
+| `scripts/check_feeds.py` | Prüft Feed-Adressen, bevor sie in `feeds.json` kommen |
+| `.github/workflows/update-news.yml` | Läuft alle 2 Stunden, committet die Daten |
+| `.github/workflows/check-feeds.yml` | Manueller Test von Feed-Adressen |
 
 ## Feeds ändern
 
@@ -30,7 +36,16 @@ macht alle 2 Stunden ein GitHub-Actions-Workflow und legt das Ergebnis als
 }
 ```
 
-Nach dem Commit läuft der Workflow automatisch einmal neu.
+Nach dem Commit läuft der Workflow automatisch einmal neu. Vorher testen:
+**Actions → „Feed-Adressen testen" → Run workflow**, Adressen durch Leerzeichen
+getrennt eintragen. Die Ausgabe zeigt, ob die Quelle antwortet, wie viele
+Einträge sie liefert und ob Anreißer-Texte dabei sind.
+
+## Wetterort ändern
+
+`weather.json` bearbeiten. Entweder Koordinaten eintragen oder `latitude` und
+`longitude` auf `null` setzen – dann wird `ort` über die Ortssuche von
+Open-Meteo aufgelöst.
 
 ## GitHub Pages einschalten
 
