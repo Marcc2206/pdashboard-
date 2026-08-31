@@ -1,0 +1,29 @@
+{
+  "generatedAt": null,
+  "feeds": [
+    {
+      "id": "tagesschau",
+      "name": "Tagesschau",
+      "site": "https://www.tagesschau.de",
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "items": [],
+      "error": null
+    },
+    {
+      "id": "spiegel-wirtschaft",
+      "name": "Spiegel Wirtschaft",
+      "site": "https://www.spiegel.de/wirtschaft/",
+      "url": "https://www.spiegel.de/wirtschaft/index.rss",
+      "items": [],
+      "error": null
+    },
+    {
+      "id": "heise",
+      "name": "heise online",
+      "site": "https://www.heise.de",
+      "url": "https://www.heise.de/rss/heise-atom.xml",
+      "items": [],
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+name: RSS-Feeds aktualisieren
+
+on:
+  schedule:
+    # Alle 2 Stunden (Zeiten in UTC).
+    - cron: "0 */2 * * *"
+  workflow_dispatch:        # Manueller Start ueber den Actions-Tab.
+  push:
+    paths:
+      - "feeds.json"        # Feed-Liste geaendert -> sofort neu holen.
+      - "scripts/fetch_feeds.py"
+      - ".github/workflows/update-news.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Feeds abrufen
+        run: python3 scripts/fetch_feeds.py
+
+      - name: data/news.json committen (nur bei Aenderung)
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- data/news.json; then
+            echo "Keine neuen Schlagzeilen - nichts zu committen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "chore(news): Feeds aktualisiert"
+          git push

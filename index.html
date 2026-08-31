@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0f1216">
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>📰</text></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Dashboard</h1>
+    <div class="topbar-meta">
+      <span id="clock" class="clock">--:--</span>
+      <span id="status" class="status">lädt …</span>
+      <button id="reload" type="button" class="reload">Aktualisieren</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="column" aria-labelledby="news-heading">
+      <h2 id="news-heading" class="column-title">Nachrichten</h2>
+      <div id="news" class="cards">
+        <p class="placeholder-text">Lade Feeds …</p>
+      </div>
+    </section>
+
+    <aside class="column" aria-labelledby="modules-heading">
+      <h2 id="modules-heading" class="column-title">Module</h2>
+      <div class="cards">
+        <!-- Platzhalter: hier können später eigene Module rein (Wetter, Kalender, Notizen …). -->
+        <article class="card module-placeholder">
+          <header class="card-head"><h3>Wetter</h3></header>
+          <p class="placeholder-text">Platz für ein Wetter-Modul.</p>
+        </article>
+        <article class="card module-placeholder">
+          <header class="card-head"><h3>Termine</h3></header>
+          <p class="placeholder-text">Platz für Kalender oder To-dos.</p>
+        </article>
+        <article class="card module-placeholder">
+          <header class="card-head"><h3>Notizen</h3></header>
+          <p class="placeholder-text">Platz für eigene Inhalte.</p>
+        </article>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    <span id="generated">–</span>
+    <span class="footer-note">Daten werden alle 2 Stunden per GitHub Action erneuert.</span>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

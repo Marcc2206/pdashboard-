@@ -1,0 +1,23 @@
+{
+  "feeds": [
+    {
+      "id": "tagesschau",
+      "name": "Tagesschau",
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "site": "https://www.tagesschau.de"
+    },
+    {
+      "id": "spiegel-wirtschaft",
+      "name": "Spiegel Wirtschaft",
+      "url": "https://www.spiegel.de/wirtschaft/index.rss",
+      "site": "https://www.spiegel.de/wirtschaft/"
+    },
+    {
+      "id": "heise",
+      "name": "heise online",
+      "url": "https://www.heise.de/rss/heise-atom.xml",
+      "site": "https://www.heise.de"
+    }
+  ],
+  "maxItemsPerFeed": 5
+}
