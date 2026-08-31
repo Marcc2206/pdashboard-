@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:21:44+00:00",
+  "generatedAt": "2026-08-31T13:22:35+00:00",
   "werte": [
     {
       "id": "dax",
@@ -7,14 +7,14 @@
       "symbol": "^GDAXI",
       "typ": "index",
       "error": null,
-      "kurs": 26372.37,
+      "kurs": 26372.08,
       "waehrung": "EUR",
-      "veraenderung": -197.68118078503903,
-      "prozent": -0.744,
-      "vortag": 26570.051180785038,
+      "veraenderung": -197.94669890685327,
+      "prozent": -0.745,
+      "vortag": 26570.026698906855,
       "hoch52": 26618.74,
       "tief52": 21863.81,
-      "stand": 1788181604,
+      "stand": 1788181652,
       "boerse": "XETRA"
     },
     {
@@ -23,11 +23,11 @@
       "symbol": "bitcoin",
       "typ": "krypto",
       "error": null,
-      "kurs": 67208,
+      "kurs": 67223,
       "waehrung": "EUR",
-      "veraenderung": -1308.7667867099517,
-      "prozent": -1.9101409014002209,
-      "vortag": 68516.76678670995,
+      "veraenderung": -1293.910310808773,
+      "prozent": -1.8884539669685674,
+      "vortag": 68516.91031080877,
       "hoch52": null,
       "tief52": null,
       "stand": null,
@@ -39,14 +39,14 @@
       "symbol": "SAP.DE",
       "typ": "aktie",
       "error": null,
-      "kurs": 189.58,
+      "kurs": 189.42,
       "waehrung": "EUR",
-      "veraenderung": -1.7390905329444877,
-      "prozent": -0.909,
-      "vortag": 191.3190905329445,
+      "veraenderung": -1.8998056703061366,
+      "prozent": -0.993,
+      "vortag": 191.31980567030612,
       "hoch52": 244.3,
       "tief52": 127.5,
-      "stand": 1788181603,
+      "stand": 1788181652,
       "boerse": "XETRA"
     },
     {
@@ -55,14 +55,14 @@
       "symbol": "SIE.DE",
       "typ": "aktie",
       "error": null,
-      "kurs": 288.0,
+      "kurs": 287.95,
       "waehrung": "EUR",
-      "veraenderung": -1.849238139328918,
-      "prozent": -0.638,
-      "vortag": 289.8492381393289,
+      "veraenderung": -1.901425350297984,
+      "prozent": -0.656,
+      "vortag": 289.851425350298,
       "hoch52": 291.7,
       "tief52": 198.0,
-      "stand": 1788181588,
+      "stand": 1788181651,
       "boerse": "XETRA"
     },
     {
@@ -78,7 +78,7 @@
       "vortag": 453.00079192437624,
       "hoch52": 453.4,
       "tief52": 338.8,
-      "stand": 1788181582,
+      "stand": 1788181651,
       "boerse": "XETRA"
     }
   ]

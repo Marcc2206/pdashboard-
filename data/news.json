@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:21:42+00:00",
+  "generatedAt": "2026-08-31T13:22:32+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,12 +7,6 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
-        {
-          "title": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
-          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html",
-          "published": "2026-08-31T13:11:00+00:00",
-          "summary": "Mit einer waghalsigen Aktion ist am Morgen ein Mann aus der JVA Duisburg-Hamborn entkommen. Der Häftling sägte das Gitter am Fenster seiner Zelle durch und floh über das Dach der Anstalt. Die …"
-        },
         {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-80716.html",
