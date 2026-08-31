@@ -20,4 +20,8 @@ jobs:
         with:
           python-version: "3.12"
       - name: Adressen pruefen
-        run: python3 scripts/check_feeds.py ${{ inputs.urls }}
+        env:
+          # Ueber die Umgebung uebergeben, damit die Eingabe nicht in die
+          # Kommandozeile des Workflows hineininterpretiert werden kann.
+          URLS: ${{ inputs.urls }}
+        run: python3 scripts/check_feeds.py $URLS
