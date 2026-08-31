@@ -119,11 +119,16 @@ def parse_feed(raw: bytes, limit: int):
         nodes = [c for c in root.iter() if local(c.tag) == "item"]
 
     items = []
+    seen = set()
     for node in nodes:
         title = strip_html(text_of(find_child(node, "title")))
         link = entry_link(node).strip()
         if not title or not link:
             continue
+        # Manche Feeds listen denselben Artikel mehrfach (z. B. in zwei Rubriken).
+        if link in seen:
+            continue
+        seen.add(link)
         date_node = find_child(node, "pubDate", "published", "updated", "date")
         published = parse_date(text_of(date_node))
         summary = strip_html(text_of(find_child(node, "description", "summary")))
