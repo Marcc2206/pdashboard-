@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T11:52:18+00:00",
+  "generatedAt": "2026-08-31T12:14:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "EU verschärft Regeln für ChatGPT",
+          "link": "https://www.tagesschau.de/wirtschaft/digitales/eu-kommission-chat-gpt-100.html",
+          "published": "2026-08-31T11:16:57+00:00",
+          "summary": "Die EU-Kommission stellt mit ChatGPT erstmals ein KI-Sprachmodell unter verschärfte Beobachtung des Digital Services Act. Der Chatbot wird künftig als \"sehr große Suchmaschine\" eingestuft. Was bedeutet das? Von Kathrin…"
+        },
         {
           "title": "EU verschärft Regeln für ChatGPT",
           "link": "https://www.tagesschau.de/wirtschaft/digitales/eu-kommission-chat-gpt-100.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-cafe-koeln-100.html",
           "published": "2026-08-31T10:51:00+00:00",
           "summary": "In der Kölner Südstadt sind am Morgen vor einem Café mehrere Schüsse gefallen. Verletzte gab es laut Polizei nicht. Die Einsatzkräfte fahnden jetzt nach einem männlichen Tatverdächtigen."
-        },
-        {
-          "title": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
-          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
-          "published": "2026-08-31T10:44:03+00:00",
-          "summary": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John."
         }
       ],
       "error": null
@@ -46,6 +46,12 @@
       "site": "https://www.spiegel.de/wirtschaft/",
       "url": "https://www.spiegel.de/wirtschaft/index.rss",
       "items": [
+        {
+          "title": "Pflegeversicherung: Was der Weckruf der Kassen bedeutet",
+          "link": "https://www.spiegel.de/wirtschaft/pflegeversicherung-was-der-weckruf-der-kassen-bedeutet-a-c56f78f5-4f35-4066-a990-7c7d1235ba40#ref=rss",
+          "published": "2026-08-31T11:55:00+00:00",
+          "summary": "Die Pflegekassen haben vor einer dramatischen Finanzlage gewarnt. Sie drängen die Regierung zum raschen Handeln – und signalisieren den Patienten trotzdem Entwarnung."
+        },
         {
           "title": "Pflegeversicherung: Den Kassen geht das Geld aus",
           "link": "https://www.spiegel.de/wirtschaft/pflegeversicherung-den-kassen-geht-das-geld-aus-a-1e453255-e306-4eb7-b6cb-4888b13c89f6#ref=rss",
@@ -69,12 +75,6 @@
           "link": "https://www.spiegel.de/wirtschaft/deutsche-bahn-sternbruecke-in-hamburg-wieder-offen-zuege-rollen-nach-mega-bauprojekt-a-9a4843bc-b37f-48a5-83f9-f79f9ef8d5dd#ref=rss",
           "published": "2026-08-31T05:01:00+00:00",
           "summary": "In Hamburg ist mit der Sternbrücke ein Bauprojekt der Bahn abgeschlossen worden. Interessant daran für Leser aus Stuttgart oder Berlin: Der Termin für die Fertigstellung wurde fast eingehalten."
-        },
-        {
-          "title": "Krieg gegen Ukraine: Moskau kündigt »massive Angriffe« an",
-          "link": "https://www.spiegel.de/wirtschaft/krieg-gegen-ukraine-moskau-kuendigt-massive-angriffe-an-a-bdafde31-7947-4e29-9652-641932f4a1e7#ref=rss",
-          "published": "2026-08-30T10:40:00+00:00",
-          "summary": "Russland bereitet nach eigenen Angaben umfassende Attacken gegen den ukrainischen Energiesektor vor. Aber auch die Regierung in Kyjiw macht nach ihren jüngsten Drohungen offenbar ernst."
         }
       ],
       "error": null
@@ -86,13 +86,25 @@
       "url": "https://www.heise.de/rss/heise-atom.xml",
       "items": [
         {
+          "title": "heise-Angebot: iX-Workshop: Multiagentensysteme entwickeln und in eigene Software integrieren",
+          "link": "https://www.heise.de/news/iX-Workshop-Multiagentensysteme-entwickeln-und-in-eigene-Software-integrieren-11413808.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "published": "2026-08-31T12:00:00+00:00",
+          "summary": "Üben Sie direkt am Code, wie Sie aus spezialisierten KI-Agenten ein eigenes Multiagentensystem aufbauen, das komplexe Aufgaben automatisiert erledigen kann."
+        },
+        {
+          "title": "WatchGuard Security-Appliances: Schadcode-Lücken in Firebox OS geschlossen",
+          "link": "https://www.heise.de/news/WatchGuard-Security-Appliances-Schadcode-Luecken-in-Firebox-OS-geschlossen-11434937.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "published": "2026-08-31T11:52:00+00:00",
+          "summary": "Firewalls und VPN-Technik von WatchGuard sind attackierbar. Reparierte Versionen von Firebox OS sind verfügbar."
+        },
+        {
           "title": "Sicheres Netz aus dem All: OHB bekommt Milliardenauftrag für Iris²",
           "link": "https://www.heise.de/news/Sicheres-Netz-aus-dem-All-OHB-bekommt-Milliardenauftrag-fuer-Iris2-11435376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
           "published": "2026-08-31T11:38:00+00:00",
           "summary": "Die Europäische Union plant ein neues Satellitennetz. Welche Rolle der Bremer Raumfahrtkonzern OHB dabei spielt und wie Bürger davon profitieren sollen."
         },
         {
-          "title": "Letzter Tag für Tim Cook: Ab morgen übernimmt John Ternus als Apple-CEO",
+          "title": "Apple-CEO-Wechsel: Tim Cook tritt letzten Arbeitstag an",
           "link": "https://www.heise.de/news/Letzter-Tag-fuer-Tim-Cook-Ab-morgen-uebernimmt-John-Ternus-als-Apple-CEO-11435143.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
           "published": "2026-08-31T11:33:00+00:00",
           "summary": "Mit dem 1. September endet Tim Cooks 15-jährige Tätigkeit an der Spitze des iPhone-Herstellers. John Ternus, 51, übernimmt. Der setzt auf Kontinuität."
@@ -102,18 +114,6 @@
           "link": "https://www.heise.de/hintergrund/Mehr-als-ein-gruener-Linter-Check-weitere-Faktoren-guter-Softwareentwicklung-11415914.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
           "published": "2026-08-31T11:30:00+00:00",
           "summary": "Ein grüner Linter-Check bedeutet nicht, dass eine API fachlich überzeugt. Architektur erfordert mehr als Automatisierung, sie braucht Kontext und Verantwortung."
-        },
-        {
-          "title": "BYD könnte mit Kei-Car-Technik den europäischen Kleinstwagenmarkt aufmischen",
-          "link": "https://www.heise.de/news/Elektro-Kleinwagen-mit-Kei-Car-Technik-BYD-entwickelt-Ableger-fuer-Europa-11434905.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-          "published": "2026-08-31T10:52:00+00:00",
-          "summary": "BYD will die Batterietechnik seines japanischen Kei-Cars Racco für kleine E-Autos in Europa nutzen. Das könnte VW, Renault und Stellantis unter Druck setzen."
-        },
-        {
-          "title": "iPhone Ultra: Stift getestet, aber verworfen",
-          "link": "https://www.heise.de/news/iPhone-Ultra-Stift-getestet-aber-verworfen-11435135.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-          "published": "2026-08-31T10:41:00+00:00",
-          "summary": "Samsung-Handys werden in der Note-Variante seit Jahren mit Stylus verkauft. Apple soll zumindest intern für sein erstes Faltbares einen Pencil erwogen haben."
         }
       ],
       "error": null
