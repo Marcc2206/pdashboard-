@@ -1,0 +1,456 @@
+{
+  "_hinweis": "Englisch-Vokabeln fuer das Sprach-Modul: einfache Woerter und staerkere Alternativen. Pro Tag werden mehrere Eintraege gezeigt, danach rotiert die Liste weiter.",
+  "proTag": 2,
+  "eintraege": [
+    {
+      "einfach": "good",
+      "alternativen": [
+        { "wort": "solid", "bedeutung": "solide, verlässlich", "beispiel": "That's a solid argument." },
+        { "wort": "compelling", "bedeutung": "überzeugend, zwingend", "beispiel": "She made a compelling case." },
+        { "wort": "outstanding", "bedeutung": "herausragend", "beispiel": "His work has been outstanding." }
+      ],
+      "tipp": "„Good\" ist selten falsch, sagt aber nichts. Frag dich: gut warum? Verlässlich, überzeugend oder herausragend?"
+    },
+    {
+      "einfach": "bad",
+      "alternativen": [
+        { "wort": "poor", "bedeutung": "schwach, mangelhaft", "beispiel": "The results were poor." },
+        { "wort": "flawed", "bedeutung": "fehlerhaft im Ansatz", "beispiel": "The plan is flawed." },
+        { "wort": "dire", "bedeutung": "verheerend, ernst", "beispiel": "The situation is dire." }
+      ],
+      "tipp": "„Poor\" klingt sachlich, „dire\" dramatisch. Im Beruf ist „poor\" fast immer die bessere Wahl."
+    },
+    {
+      "einfach": "big",
+      "alternativen": [
+        { "wort": "substantial", "bedeutung": "erheblich, beträchtlich", "beispiel": "A substantial increase in revenue." },
+        { "wort": "vast", "bedeutung": "riesig, weit", "beispiel": "A vast amount of data." },
+        { "wort": "significant", "bedeutung": "bedeutend, spürbar", "beispiel": "A significant difference." }
+      ],
+      "tipp": "„Substantial\" für Mengen und Beträge, „vast\" für Flächen und Weite."
+    },
+    {
+      "einfach": "very",
+      "alternativen": [
+        { "wort": "highly", "bedeutung": "höchst (vor Adjektiven)", "beispiel": "Highly unlikely." },
+        { "wort": "remarkably", "bedeutung": "bemerkenswert", "beispiel": "Remarkably consistent." },
+        { "wort": "particularly", "bedeutung": "besonders", "beispiel": "Particularly useful." }
+      ],
+      "tipp": "Am stärksten wirkt es, „very\" ganz zu streichen und das Adjektiv zu steigern: statt „very big\" lieber „huge\"."
+    },
+    {
+      "einfach": "important",
+      "alternativen": [
+        { "wort": "crucial", "bedeutung": "entscheidend", "beispiel": "Timing is crucial here." },
+        { "wort": "vital", "bedeutung": "lebenswichtig, unverzichtbar", "beispiel": "Vital for the project." },
+        { "wort": "key", "bedeutung": "zentral (sehr gebräuchlich)", "beispiel": "The key point is this." }
+      ],
+      "tipp": "„Crucial\" heißt: Ohne das geht es schief. Nicht für Nettigkeiten benutzen."
+    },
+    {
+      "einfach": "think",
+      "alternativen": [
+        { "wort": "reckon", "bedeutung": "meinen, schätzen (umgangssprachlich, BE)", "beispiel": "I reckon we'll make it." },
+        { "wort": "suppose", "bedeutung": "vermuten, annehmen", "beispiel": "I suppose that's fair." },
+        { "wort": "argue", "bedeutung": "die Position vertreten", "beispiel": "I would argue the opposite." }
+      ],
+      "tipp": "„I would argue\" ist der Klassiker in Diskussionen: höflich, aber bestimmt."
+    },
+    {
+      "einfach": "get",
+      "alternativen": [
+        { "wort": "obtain", "bedeutung": "erhalten, beschaffen (formell)", "beispiel": "We obtained permission." },
+        { "wort": "acquire", "bedeutung": "erwerben, sich aneignen", "beispiel": "He acquired the skill quickly." },
+        { "wort": "receive", "bedeutung": "empfangen, bekommen", "beispiel": "I received your message." }
+      ],
+      "tipp": "„Get\" ist im Gespräch völlig in Ordnung. In E-Mails und Berichten wirkt „receive\" gepflegter."
+    },
+    {
+      "einfach": "say",
+      "alternativen": [
+        { "wort": "state", "bedeutung": "feststellen, erklären (sachlich)", "beispiel": "The report states that..." },
+        { "wort": "point out", "bedeutung": "hinweisen auf", "beispiel": "He pointed out the risk." },
+        { "wort": "claim", "bedeutung": "behaupten (mit Zweifel)", "beispiel": "They claim it's finished." }
+      ],
+      "tipp": "Achtung: „Claim\" signalisiert, dass du der Aussage nicht ganz traust. Nicht neutral!"
+    },
+    {
+      "einfach": "a lot of",
+      "alternativen": [
+        { "wort": "plenty of", "bedeutung": "reichlich, mehr als genug", "beispiel": "Plenty of time left." },
+        { "wort": "numerous", "bedeutung": "zahlreiche (formell)", "beispiel": "Numerous attempts failed." },
+        { "wort": "considerable", "bedeutung": "beachtlich (bei Mengen)", "beispiel": "Considerable effort." }
+      ],
+      "tipp": "„Plenty\" hat einen positiven Beiklang: Es ist genug da. „Numerous\" ist rein zählend."
+    },
+    {
+      "einfach": "problem",
+      "alternativen": [
+        { "wort": "issue", "bedeutung": "Angelegenheit, Punkt (weicher)", "beispiel": "We ran into an issue." },
+        { "wort": "obstacle", "bedeutung": "Hindernis", "beispiel": "The main obstacle is cost." },
+        { "wort": "setback", "bedeutung": "Rückschlag", "beispiel": "A temporary setback." }
+      ],
+      "tipp": "Im Job sagt man fast immer „issue\" statt „problem\" – klingt lösbar statt bedrohlich."
+    },
+    {
+      "einfach": "help",
+      "alternativen": [
+        { "wort": "assist", "bedeutung": "unterstützen (formell)", "beispiel": "Happy to assist you." },
+        { "wort": "support", "bedeutung": "stützen, begleiten", "beispiel": "We support the team." },
+        { "wort": "facilitate", "bedeutung": "ermöglichen, erleichtern", "beispiel": "This tool facilitates the process." }
+      ],
+      "tipp": "„Facilitate\" heißt nicht helfen, sondern etwas leichter machen – gern in Prozessbeschreibungen."
+    },
+    {
+      "einfach": "show",
+      "alternativen": [
+        { "wort": "demonstrate", "bedeutung": "aufzeigen, belegen", "beispiel": "The data demonstrates a trend." },
+        { "wort": "reveal", "bedeutung": "enthüllen, offenlegen", "beispiel": "The audit revealed gaps." },
+        { "wort": "highlight", "bedeutung": "hervorheben", "beispiel": "I'd like to highlight one point." }
+      ],
+      "tipp": "„Reveal\" impliziert, dass etwas vorher verborgen war. Nicht für Selbstverständliches nutzen."
+    },
+    {
+      "einfach": "change",
+      "alternativen": [
+        { "wort": "adjust", "bedeutung": "anpassen (klein)", "beispiel": "Let's adjust the schedule." },
+        { "wort": "revise", "bedeutung": "überarbeiten", "beispiel": "I revised the document." },
+        { "wort": "transform", "bedeutung": "grundlegend umwandeln", "beispiel": "It transformed the industry." }
+      ],
+      "tipp": "Die Skala geht von adjust (Feinjustierung) über revise bis transform (nichts bleibt, wie es war)."
+    },
+    {
+      "einfach": "want",
+      "alternativen": [
+        { "wort": "would like", "bedeutung": "möchte (höflich)", "beispiel": "I would like to suggest..." },
+        { "wort": "seek", "bedeutung": "suchen, anstreben", "beispiel": "We seek a long-term partner." },
+        { "wort": "aim to", "bedeutung": "beabsichtigen", "beispiel": "We aim to finish by Friday." }
+      ],
+      "tipp": "„I want\" klingt im Englischen fordernder als das deutsche „ich will\". Im Zweifel „I'd like\"."
+    },
+    {
+      "einfach": "difficult",
+      "alternativen": [
+        { "wort": "challenging", "bedeutung": "anspruchsvoll (positiv gefärbt)", "beispiel": "A challenging task." },
+        { "wort": "demanding", "bedeutung": "fordernd, kräftezehrend", "beispiel": "A demanding client." },
+        { "wort": "tricky", "bedeutung": "heikel, verzwickt (locker)", "beispiel": "That's a tricky question." }
+      ],
+      "tipp": "„Challenging\" ist der höfliche Weg zu sagen, dass etwas schwer ist, ohne zu jammern."
+    },
+    {
+      "einfach": "make sure",
+      "alternativen": [
+        { "wort": "ensure", "bedeutung": "sicherstellen", "beispiel": "Please ensure the data is correct." },
+        { "wort": "verify", "bedeutung": "überprüfen, verifizieren", "beispiel": "Verify the numbers first." },
+        { "wort": "confirm", "bedeutung": "bestätigen", "beispiel": "Can you confirm receipt?" }
+      ],
+      "tipp": "„Ensure\" heißt dafür sorgen, „verify\" heißt nachprüfen. Verwechsel die beiden nicht."
+    },
+    {
+      "einfach": "start",
+      "alternativen": [
+        { "wort": "launch", "bedeutung": "starten (Produkt, Kampagne)", "beispiel": "We launch in March." },
+        { "wort": "initiate", "bedeutung": "einleiten (formell)", "beispiel": "Initiate the process." },
+        { "wort": "kick off", "bedeutung": "anstoßen (locker)", "beispiel": "Let's kick off the meeting." }
+      ],
+      "tipp": "„Kick off\" ist im Arbeitsalltag sehr verbreitet und wirkt schwungvoll, aber nicht salopp."
+    },
+    {
+      "einfach": "end",
+      "alternativen": [
+        { "wort": "conclude", "bedeutung": "abschließen, schlussfolgern", "beispiel": "Let me conclude with this." },
+        { "wort": "wrap up", "bedeutung": "zu Ende bringen (locker)", "beispiel": "Let's wrap up." },
+        { "wort": "terminate", "bedeutung": "beenden (hart, vertraglich)", "beispiel": "They terminated the contract." }
+      ],
+      "tipp": "„Terminate\" nur bei Verträgen und Kündigungen – bei einem Meeting klingt es bedrohlich."
+    },
+    {
+      "einfach": "happy",
+      "alternativen": [
+        { "wort": "pleased", "bedeutung": "erfreut (sachlich)", "beispiel": "I'm pleased with the outcome." },
+        { "wort": "delighted", "bedeutung": "hocherfreut", "beispiel": "Delighted to hear that." },
+        { "wort": "content", "bedeutung": "zufrieden, ausgeglichen", "beispiel": "She seems content." }
+      ],
+      "tipp": "„Delighted\" ist der Standard in freundlichen Geschäfts-E-Mails: „Delighted to meet you.\"" 
+    },
+    {
+      "einfach": "angry",
+      "alternativen": [
+        { "wort": "frustrated", "bedeutung": "frustriert (mildernd)", "beispiel": "I'm frustrated with the delay." },
+        { "wort": "upset", "bedeutung": "aufgebracht, getroffen", "beispiel": "He was visibly upset." },
+        { "wort": "furious", "bedeutung": "wütend, außer sich", "beispiel": "The client was furious." }
+      ],
+      "tipp": "Im Konflikt wirkt „I'm frustrated\" konstruktiv, „I'm angry\" eskalierend."
+    },
+    {
+      "einfach": "tell",
+      "alternativen": [
+        { "wort": "inform", "bedeutung": "informieren, mitteilen", "beispiel": "Please inform the team." },
+        { "wort": "notify", "bedeutung": "benachrichtigen (offiziell)", "beispiel": "We'll notify you by email." },
+        { "wort": "brief", "bedeutung": "kurz einweisen", "beispiel": "Let me brief you on the case." }
+      ],
+      "tipp": "„Brief someone\" heißt jemanden auf den Stand bringen – ein sehr nützliches Verb im Beruf."
+    },
+    {
+      "einfach": "need",
+      "alternativen": [
+        { "wort": "require", "bedeutung": "erfordern, benötigen (formell)", "beispiel": "This requires approval." },
+        { "wort": "call for", "bedeutung": "verlangen, nötig machen", "beispiel": "The situation calls for patience." },
+        { "wort": "depend on", "bedeutung": "angewiesen sein auf", "beispiel": "We depend on their input." }
+      ],
+      "tipp": "„Require\" bezieht sich auf Sachen und Prozesse, „need\" eher auf Personen."
+    },
+    {
+      "einfach": "use",
+      "alternativen": [
+        { "wort": "apply", "bedeutung": "anwenden", "beispiel": "Apply the same method." },
+        { "wort": "utilise / utilize", "bedeutung": "nutzen (formell, oft überflüssig)", "beispiel": "Utilise existing resources." },
+        { "wort": "leverage", "bedeutung": "gezielt ausnutzen (Wirtschaft)", "beispiel": "Leverage our network." }
+      ],
+      "tipp": "„Utilize\" wirkt oft aufgeblasen – gute Autoren schreiben schlicht „use\". Ein Wort zu kennen heißt nicht, es zu brauchen."
+    },
+    {
+      "einfach": "look at",
+      "alternativen": [
+        { "wort": "examine", "bedeutung": "untersuchen", "beispiel": "Let's examine the figures." },
+        { "wort": "review", "bedeutung": "durchsehen, prüfen", "beispiel": "I'll review it tonight." },
+        { "wort": "assess", "bedeutung": "bewerten, einschätzen", "beispiel": "We need to assess the risk." }
+      ],
+      "tipp": "„Assess\" enthält immer ein Urteil, „review\" erst mal nur das Durchsehen."
+    },
+    {
+      "einfach": "cheap",
+      "alternativen": [
+        { "wort": "affordable", "bedeutung": "erschwinglich (positiv)", "beispiel": "An affordable option." },
+        { "wort": "cost-effective", "bedeutung": "wirtschaftlich, lohnend", "beispiel": "The most cost-effective solution." },
+        { "wort": "low-cost", "bedeutung": "günstig, neutral", "beispiel": "A low-cost alternative." }
+      ],
+      "tipp": "„Cheap\" heißt im Englischen oft auch billig im Sinne von minderwertig. Für Angebote lieber „affordable\"."
+    },
+    {
+      "einfach": "expensive",
+      "alternativen": [
+        { "wort": "costly", "bedeutung": "kostspielig (auch übertragen)", "beispiel": "A costly mistake." },
+        { "wort": "pricey", "bedeutung": "ganz schön teuer (locker)", "beispiel": "That restaurant is pricey." },
+        { "wort": "premium", "bedeutung": "hochpreisig, gehoben", "beispiel": "A premium product." }
+      ],
+      "tipp": "„A costly mistake\" muss kein Geld kosten – auch Zeit oder Ansehen."
+    },
+    {
+      "einfach": "maybe",
+      "alternativen": [
+        { "wort": "possibly", "bedeutung": "möglicherweise", "beispiel": "Possibly next week." },
+        { "wort": "arguably", "bedeutung": "wohl, man könnte sagen", "beispiel": "Arguably the best option." },
+        { "wort": "presumably", "bedeutung": "vermutlich (mit Grund)", "beispiel": "Presumably they forgot." }
+      ],
+      "tipp": "„Arguably\" ist elegant: Du behauptest etwas und räumst gleichzeitig ein, dass man streiten kann."
+    },
+    {
+      "einfach": "because",
+      "alternativen": [
+        { "wort": "since", "bedeutung": "da (Grund, bekannt)", "beispiel": "Since we agree, let's move on." },
+        { "wort": "as", "bedeutung": "da, weil (schriftlich)", "beispiel": "As time is short, ..." },
+        { "wort": "due to", "bedeutung": "aufgrund (vor Substantiv)", "beispiel": "Delayed due to weather." }
+      ],
+      "tipp": "„Due to\" steht vor einem Substantiv, „because\" vor einem ganzen Satz. Häufiger Fehler."
+    },
+    {
+      "einfach": "but",
+      "alternativen": [
+        { "wort": "however", "bedeutung": "jedoch (Satzanfang)", "beispiel": "However, costs rose." },
+        { "wort": "although", "bedeutung": "obwohl", "beispiel": "Although it worked, it was slow." },
+        { "wort": "nevertheless", "bedeutung": "dennoch, trotzdem", "beispiel": "Nevertheless, we continued." }
+      ],
+      "tipp": "„However\" braucht ein Komma dahinter. „Although\" leitet einen Nebensatz ein, kein Komma davor nötig."
+    },
+    {
+      "einfach": "so",
+      "alternativen": [
+        { "wort": "therefore", "bedeutung": "daher, folglich", "beispiel": "Therefore, we declined." },
+        { "wort": "consequently", "bedeutung": "infolgedessen", "beispiel": "Consequently, sales dropped." },
+        { "wort": "as a result", "bedeutung": "als Folge davon", "beispiel": "As a result, we changed course." }
+      ],
+      "tipp": "„So\" am Satzanfang wirkt gesprochen. Geschrieben nimm „therefore\" oder „as a result\"."
+    },
+    {
+      "einfach": "buy",
+      "alternativen": [
+        { "wort": "purchase", "bedeutung": "erwerben (formell)", "beispiel": "Purchase the licence online." },
+        { "wort": "invest in", "bedeutung": "investieren in", "beispiel": "We invested in new tools." },
+        { "wort": "procure", "bedeutung": "beschaffen (Einkauf)", "beispiel": "Procure the parts locally." }
+      ],
+      "tipp": "„Procurement\" ist die Einkaufsabteilung – ein Wort, das dir in jeder Firma begegnet."
+    },
+    {
+      "einfach": "sell",
+      "alternativen": [
+        { "wort": "market", "bedeutung": "vermarkten", "beispiel": "We market it to students." },
+        { "wort": "offload", "bedeutung": "abstoßen (loswerden)", "beispiel": "They offloaded the shares." },
+        { "wort": "distribute", "bedeutung": "vertreiben", "beispiel": "We distribute across Europe." }
+      ],
+      "tipp": "„Offload\" hat einen Beiklang von Loswerden – passend bei Aktien, die man nicht mehr will."
+    },
+    {
+      "einfach": "grow",
+      "alternativen": [
+        { "wort": "expand", "bedeutung": "ausweiten", "beispiel": "We plan to expand to Spain." },
+        { "wort": "scale", "bedeutung": "skalieren, hochfahren", "beispiel": "Hard to scale the model." },
+        { "wort": "surge", "bedeutung": "sprunghaft steigen", "beispiel": "Demand surged in July." }
+      ],
+      "tipp": "„Surge\" bedeutet plötzlich und stark – in Börsentexten ständig zu lesen."
+    },
+    {
+      "einfach": "fall",
+      "alternativen": [
+        { "wort": "decline", "bedeutung": "zurückgehen (stetig)", "beispiel": "Sales declined slightly." },
+        { "wort": "plunge", "bedeutung": "abstürzen", "beispiel": "The stock plunged 12%." },
+        { "wort": "ease", "bedeutung": "nachgeben (leicht)", "beispiel": "Prices eased after the news." }
+      ],
+      "tipp": "In Börsenmeldungen ist die Reihenfolge: ease (leicht) – decline – slide – plunge (Absturz)."
+    },
+    {
+      "einfach": "boss",
+      "alternativen": [
+        { "wort": "manager", "bedeutung": "Vorgesetzter (neutral)", "beispiel": "Ask your manager." },
+        { "wort": "supervisor", "bedeutung": "direkter Vorgesetzter", "beispiel": "My supervisor approved it." },
+        { "wort": "executive", "bedeutung": "Führungskraft (oben)", "beispiel": "A senior executive." }
+      ],
+      "tipp": "„Boss\" ist umgangssprachlich. Im Schriftverkehr nimm „manager\" oder „line manager\"."
+    },
+    {
+      "einfach": "meeting",
+      "alternativen": [
+        { "wort": "briefing", "bedeutung": "kurze Einweisung", "beispiel": "A quick briefing at nine." },
+        { "wort": "workshop", "bedeutung": "Arbeitssitzung", "beispiel": "A two-day workshop." },
+        { "wort": "catch-up", "bedeutung": "kurzer Austausch (locker)", "beispiel": "Let's have a catch-up." }
+      ],
+      "tipp": "„Catch-up\" ist informell und beliebt für kurze Abstimmungen unter Kollegen."
+    },
+    {
+      "einfach": "soon",
+      "alternativen": [
+        { "wort": "shortly", "bedeutung": "in Kürze", "beispiel": "I'll get back to you shortly." },
+        { "wort": "in due course", "bedeutung": "zu gegebener Zeit", "beispiel": "Details will follow in due course." },
+        { "wort": "imminently", "bedeutung": "unmittelbar bevorstehend", "beispiel": "A decision is expected imminently." }
+      ],
+      "tipp": "„In due course\" heißt höflich: irgendwann, frag nicht nach. Kennen ist nützlich – auch um es zu durchschauen."
+    },
+    {
+      "einfach": "really",
+      "alternativen": [
+        { "wort": "genuinely", "bedeutung": "wirklich, aufrichtig", "beispiel": "I'm genuinely impressed." },
+        { "wort": "truly", "bedeutung": "wahrhaftig", "beispiel": "A truly unique case." },
+        { "wort": "indeed", "bedeutung": "in der Tat (bekräftigend)", "beispiel": "It is indeed correct." }
+      ],
+      "tipp": "„Indeed\" bestätigt etwas bereits Gesagtes. Als Antwort allein reicht oft ein schlichtes „Indeed.\"" 
+    },
+    {
+      "einfach": "idea",
+      "alternativen": [
+        { "wort": "approach", "bedeutung": "Herangehensweise", "beispiel": "A different approach." },
+        { "wort": "concept", "bedeutung": "Konzept, Grundgedanke", "beispiel": "The concept is sound." },
+        { "wort": "proposal", "bedeutung": "Vorschlag (formell)", "beispiel": "I've drafted a proposal." }
+      ],
+      "tipp": "Aus „I have an idea\" wird im Meeting besser „I'd like to propose an approach\"."
+    },
+    {
+      "einfach": "job",
+      "alternativen": [
+        { "wort": "role", "bedeutung": "Rolle, Position", "beispiel": "In my previous role..." },
+        { "wort": "position", "bedeutung": "Stelle", "beispiel": "I applied for the position." },
+        { "wort": "assignment", "bedeutung": "Aufgabe, Auftrag", "beispiel": "A short assignment abroad." }
+      ],
+      "tipp": "Im Lebenslauf heißt es fast immer „role\", nie „job\"."
+    },
+    {
+      "einfach": "learn",
+      "alternativen": [
+        { "wort": "grasp", "bedeutung": "begreifen, erfassen", "beispiel": "He grasped it immediately." },
+        { "wort": "pick up", "bedeutung": "nebenbei aufschnappen", "beispiel": "I picked up some Spanish." },
+        { "wort": "master", "bedeutung": "beherrschen lernen", "beispiel": "It takes years to master." }
+      ],
+      "tipp": "„Pick up a language\" ist genau das, was du beim Vokabelmodul machst: nebenbei mitnehmen."
+    },
+    {
+      "einfach": "fix",
+      "alternativen": [
+        { "wort": "resolve", "bedeutung": "lösen (Problem, Konflikt)", "beispiel": "We resolved the issue." },
+        { "wort": "address", "bedeutung": "angehen, sich kümmern um", "beispiel": "We'll address your concerns." },
+        { "wort": "remedy", "bedeutung": "beheben, abhelfen", "beispiel": "Steps to remedy the situation." }
+      ],
+      "tipp": "„Address an issue\" heißt: Wir kümmern uns darum. Ob es gelöst ist, sagt es bewusst nicht."
+    },
+    {
+      "einfach": "know",
+      "alternativen": [
+        { "wort": "be aware of", "bedeutung": "sich bewusst sein", "beispiel": "I'm aware of the deadline." },
+        { "wort": "be familiar with", "bedeutung": "vertraut sein mit", "beispiel": "Are you familiar with the tool?" },
+        { "wort": "recognise / recognize", "bedeutung": "erkennen, anerkennen", "beispiel": "We recognise the effort." }
+      ],
+      "tipp": "„Are you familiar with...?\" ist höflicher als „Do you know...?\" – es unterstellt keine Wissenslücke."
+    },
+    {
+      "einfach": "and",
+      "alternativen": [
+        { "wort": "as well as", "bedeutung": "sowie, ebenso wie", "beispiel": "Berlin as well as Munich." },
+        { "wort": "in addition", "bedeutung": "zusätzlich", "beispiel": "In addition, we cut costs." },
+        { "wort": "moreover", "bedeutung": "überdies (formell)", "beispiel": "Moreover, the data supports it." }
+      ],
+      "tipp": "„Moreover\" gehört in geschriebene Argumentationen, im Gespräch klingt es steif."
+    },
+    {
+      "einfach": "about",
+      "alternativen": [
+        { "wort": "regarding", "bedeutung": "bezüglich", "beispiel": "Regarding your question..." },
+        { "wort": "concerning", "bedeutung": "betreffend", "beispiel": "Concerning the budget..." },
+        { "wort": "roughly", "bedeutung": "ungefähr (bei Zahlen)", "beispiel": "Roughly 200 people." }
+      ],
+      "tipp": "Aufpassen: „About\" heißt sowohl über als auch ungefähr. Bei Zahlen nimm „roughly\" oder „approximately\"."
+    },
+    {
+      "einfach": "nice",
+      "alternativen": [
+        { "wort": "pleasant", "bedeutung": "angenehm", "beispiel": "A pleasant surprise." },
+        { "wort": "thoughtful", "bedeutung": "aufmerksam, mitdenkend", "beispiel": "That was thoughtful of you." },
+        { "wort": "elegant", "bedeutung": "elegant (auch bei Lösungen)", "beispiel": "An elegant solution." }
+      ],
+      "tipp": "„Nice\" gilt als blasses Wort. „That's thoughtful\" wirkt persönlich statt beliebig."
+    },
+    {
+      "einfach": "sure",
+      "alternativen": [
+        { "wort": "certain", "bedeutung": "sicher, gewiss", "beispiel": "I'm certain about it." },
+        { "wort": "confident", "bedeutung": "zuversichtlich", "beispiel": "I'm confident we'll finish." },
+        { "wort": "convinced", "bedeutung": "überzeugt", "beispiel": "She's convinced it works." }
+      ],
+      "tipp": "„Confident\" heißt zuversichtlich, nicht überheblich – im Beruf ein sehr nützliches Wort."
+    },
+    {
+      "einfach": "wrong",
+      "alternativen": [
+        { "wort": "incorrect", "bedeutung": "unzutreffend (sachlich)", "beispiel": "The figure is incorrect." },
+        { "wort": "misleading", "bedeutung": "irreführend", "beispiel": "The chart is misleading." },
+        { "wort": "off", "bedeutung": "daneben, nicht stimmig (locker)", "beispiel": "Something feels off." }
+      ],
+      "tipp": "„You're wrong\" ist hart. „I think that's incorrect\" oder „I see it differently\" wirkt professionell."
+    },
+    {
+      "einfach": "quick",
+      "alternativen": [
+        { "wort": "prompt", "bedeutung": "prompt, unverzüglich", "beispiel": "Thanks for your prompt reply." },
+        { "wort": "swift", "bedeutung": "zügig, rasch", "beispiel": "A swift decision." },
+        { "wort": "brief", "bedeutung": "kurz (zeitlich)", "beispiel": "A brief update." }
+      ],
+      "tipp": "„Thanks for your prompt reply\" ist eine der nützlichsten Standardfloskeln überhaupt."
+    },
+    {
+      "einfach": "let's talk",
+      "alternativen": [
+        { "wort": "let's discuss", "bedeutung": "lass uns besprechen", "beispiel": "Let's discuss it on Monday." },
+        { "wort": "let's touch base", "bedeutung": "kurz abstimmen (locker)", "beispiel": "Let's touch base tomorrow." },
+        { "wort": "let's align", "bedeutung": "auf einen Stand kommen", "beispiel": "Let's align on the timeline." }
+      ],
+      "tipp": "„Touch base\" und „align\" sind Büro-Englisch. Nützlich zu verstehen, sparsam zu verwenden."
+    }
+  ]
+}

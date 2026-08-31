@@ -24,6 +24,8 @@ USER_AGENT = "personal-dashboard/1.0 (+https://github.com)"
 TIMEOUT = 30
 YAHOO_URL = "https://query1.finance.yahoo.com/v8/finance/chart/"
 COINGECKO_URL = "https://api.coingecko.com/api/v3/simple/price"
+COINGECKO_CHART_URL = "https://api.coingecko.com/api/v3/coins/{}/market_chart"
+VERLAUF_PUNKTE = 7  # Stuetzstellen fuer die kleine Verlaufskurve
 
 
 def get_json(url: str, params: dict = None) -> dict:
@@ -34,11 +36,21 @@ def get_json(url: str, params: dict = None) -> dict:
         return json.loads(response.read().decode("utf-8"))
 
 
+def ausduennen(werte: list, anzahl: int) -> list:
+    """Gleichmaessig auf 'anzahl' Punkte reduzieren, letzter Wert bleibt erhalten."""
+    werte = [w for w in werte if w is not None]
+    if len(werte) <= anzahl:
+        return werte
+    schritt = (len(werte) - 1) / (anzahl - 1)
+    return [werte[round(i * schritt)] for i in range(anzahl)]
+
+
 def from_yahoo(eintrag: dict) -> dict:
     symbol = eintrag["symbol"]
+    # 1 Monat abfragen, damit auch nach Feiertagen genug Handelstage vorliegen.
     data = get_json(
         YAHOO_URL + urllib.parse.quote(symbol),
-        {"interval": "1d", "range": "5d"},
+        {"interval": "1d", "range": "1mo"},
     )
     ergebnis = (data.get("chart", {}).get("result") or [None])[0]
     if not ergebnis:
@@ -58,6 +70,14 @@ def from_yahoo(eintrag: dict) -> dict:
         if prozent is None and kurs is not None and vortag:
             prozent = (kurs - vortag) / vortag * 100
 
+    schluss = (
+        ergebnis.get("indicators", {}).get("quote", [{}])[0].get("close") or []
+    )
+    verlauf = [w for w in schluss if w is not None][-VERLAUF_PUNKTE:]
+    # Der aktuelle Kurs ist der juengste Punkt der Kurve.
+    if kurs is not None and (not verlauf or verlauf[-1] != kurs):
+        verlauf = (verlauf + [kurs])[-VERLAUF_PUNKTE:]
+
     return {
         "kurs": kurs,
         "waehrung": meta.get("currency", ""),
@@ -68,6 +88,7 @@ def from_yahoo(eintrag: dict) -> dict:
         "tief52": meta.get("fiftyTwoWeekLow"),
         "stand": meta.get("regularMarketTime"),
         "boerse": meta.get("fullExchangeName", ""),
+        "verlauf": verlauf,
     }
 
 
@@ -88,6 +109,16 @@ def from_coingecko(eintrag: dict) -> dict:
     if kurs is not None and prozent is not None:
         vortag = kurs / (1 + prozent / 100)
 
+    # Verlauf der letzten 7 Tage; CoinGecko liefert dafuer Stundenwerte.
+    verlauf = []
+    try:
+        chart = get_json(
+            COINGECKO_CHART_URL.format(coin), {"vs_currency": waehrung, "days": 7}
+        )
+        verlauf = ausduennen([p[1] for p in chart.get("prices", [])], VERLAUF_PUNKTE)
+    except (urllib.error.URLError, OSError, ValueError, KeyError, json.JSONDecodeError) as exc:
+        print(f"     Verlauf fuer {coin} nicht verfuegbar: {exc}", file=sys.stderr)
+
     return {
         "kurs": kurs,
         "waehrung": waehrung.upper(),
@@ -98,6 +129,7 @@ def from_coingecko(eintrag: dict) -> dict:
         "tief52": None,
         "stand": None,
         "boerse": "CoinGecko",
+        "verlauf": verlauf,
     }
 
 

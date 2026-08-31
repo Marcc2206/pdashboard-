@@ -16,6 +16,8 @@ CORS-Probleme im Browser.
 | `feeds.json` | **Hier die Feeds pflegen** |
 | `weather.json` | **Hier den Wetterort pflegen** |
 | `markets.json` | **Hier die Kurse pflegen** |
+| `knowledge.json` | **Allgemeinwissen-Sammlung** – frei ergänzbar |
+| `vocab.json` | **Englisch-Vokabeln** – frei ergänzbar |
 | `data/news.json` | Schlagzeilen des letzten Abrufs (automatisch) |
 | `data/weather.json` | Wetter des letzten Abrufs (automatisch) |
 | `data/markets.json` | Kurse des letzten Abrufs (automatisch) |
@@ -57,6 +59,13 @@ Open-Meteo aufgelöst.
 Aktien enden auf `.DE` (z. B. `BMW.DE`), Indizes beginnen mit `^` (z. B. `^GDAXI`).
 Für Kryptowährungen `"quelle": "coingecko"` setzen; `symbol` ist dann der Name
 bei CoinGecko (z. B. `ethereum`).
+
+## Lernmodule
+
+`knowledge.json` und `vocab.json` sind reine Textdateien ohne Abruf von außen.
+Die Seite zeigt pro Tag `proTag` Einträge und rotiert danach weiter; der Knopf
+„Weiter" springt zum nächsten Satz. Neue Einträge einfach im gleichen Format
+anhängen – je länger die Liste, desto später wiederholt sie sich.
 
 ## GitHub Pages einschalten
 
