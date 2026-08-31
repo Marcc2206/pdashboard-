@@ -7,16 +7,28 @@
       "site": "https://www.tagesschau.de"
     },
     {
-      "id": "spiegel-wirtschaft",
-      "name": "Spiegel Wirtschaft",
-      "url": "https://www.spiegel.de/wirtschaft/index.rss",
-      "site": "https://www.spiegel.de/wirtschaft/"
+      "id": "handelsblatt",
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+      "site": "https://www.handelsblatt.com"
     },
     {
-      "id": "heise",
-      "name": "heise online",
-      "url": "https://www.heise.de/rss/heise-atom.xml",
-      "site": "https://www.heise.de"
+      "id": "finanzen-net",
+      "name": "Finanzen.net",
+      "url": "https://www.finanzen.net/rss/news",
+      "site": "https://www.finanzen.net/nachrichten/"
+    },
+    {
+      "id": "tagesschau-boerse",
+      "name": "Tagesschau Börse",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+      "site": "https://www.tagesschau.de/wirtschaft/finanzen"
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "site": "https://www.bbc.com/business"
     }
   ],
   "maxItemsPerFeed": 5
