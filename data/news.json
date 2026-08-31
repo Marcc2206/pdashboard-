@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:15:02+00:00",
+  "generatedAt": "2026-08-31T12:55:35+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,112 +8,190 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "EU verschärft Regeln für ChatGPT",
-          "link": "https://www.tagesschau.de/wirtschaft/digitales/eu-kommission-chat-gpt-100.html",
-          "published": "2026-08-31T11:16:57+00:00",
-          "summary": "Die EU-Kommission stellt mit ChatGPT erstmals ein KI-Sprachmodell unter verschärfte Beobachtung des Digital Services Act. Der Chatbot wird künftig als \"sehr große Suchmaschine\" eingestuft. Was bedeutet das? Von Kathrin…"
+          "title": "Opferzahl nach Sturzflut im Himalaya steigt weiter",
+          "link": "https://www.tagesschau.de/video/video-1640264.html",
+          "published": "2026-08-31T12:54:22+00:00",
+          "summary": "Opferzahl nach Sturzflut im Himalaya steigt weiter"
         },
         {
-          "title": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
-          "link": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
-          "published": "2026-08-31T11:13:44+00:00",
-          "summary": "Hitze, Dürre und Unwetter: Der diesjährige Sommer erreichte laut Deutschem Wetterdienst \"Dimensionen, wie sie in Deutschland bislang nicht beobachtet wurden\". Nur 2003 war es wärmer."
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-08-31T11:04:39+00:00",
-          "summary": "Am Dienstag gibt es im Süden viel Sonne. Im restlichen Land scheint mal die Sonnen, mal ist es dicht bewölkt und es gibt einzelne Schauer, in Küstennähe auch Gewitter. Dazu ist es im Norden windig. 19 bis 27 Grad."
+          "title": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
+          "published": "2026-08-31T12:36:46+00:00",
+          "summary": "Das Leben in Deutschland hat sich im August weiter verteuert. Die Verbraucherpreise lagen zuletzt um 2,9 Prozent über dem Niveau des Vorjahresmonats. Der Grund sind gestiegene Ölpreise und auch das Rhein-Niedrigwasser."
         },
         {
           "title": "Schüsse auf ein Café in Köln",
           "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-cafe-koeln-100.html",
-          "published": "2026-08-31T10:51:00+00:00",
+          "published": "2026-08-31T12:34:00+00:00",
           "summary": "In der Kölner Südstadt sind am Morgen vor einem Café mehrere Schüsse gefallen. Verletzte gab es laut Polizei nicht. Die Einsatzkräfte fahnden jetzt nach einem männlichen Tatverdächtigen."
         },
         {
-          "title": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
-          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
-          "published": "2026-08-31T10:44:03+00:00",
-          "summary": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John."
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80718.html",
+          "published": "2026-08-31T12:24:11+00:00",
+          "summary": "tagesschau"
+        },
+        {
+          "title": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html",
+          "published": "2026-08-31T12:22:00+00:00",
+          "summary": "Mit einer waghalsigen Aktion ist am Morgen ein Mann aus der JVA Duisburg-Hamborn entkommen. Der Häftling sägte das Gitter am Fenster seiner Zelle durch und floh über das Dach der Anstalt. Die Fahndung läuft."
         }
       ],
       "error": null
     },
     {
-      "id": "spiegel-wirtschaft",
-      "name": "Spiegel Wirtschaft",
-      "site": "https://www.spiegel.de/wirtschaft/",
-      "url": "https://www.spiegel.de/wirtschaft/index.rss",
+      "id": "handelsblatt",
+      "name": "Handelsblatt",
+      "site": "https://www.handelsblatt.com",
+      "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Pflegeversicherung: Was der Weckruf der Kassen bedeutet",
-          "link": "https://www.spiegel.de/wirtschaft/pflegeversicherung-was-der-weckruf-der-kassen-bedeutet-a-c56f78f5-4f35-4066-a990-7c7d1235ba40#ref=rss",
-          "published": "2026-08-31T11:55:00+00:00",
-          "summary": "Die Pflegekassen haben vor einer dramatischen Finanzlage gewarnt. Sie drängen die Regierung zum raschen Handeln – und signalisieren den Patienten trotzdem Entwarnung."
+          "title": "Dax aktuell: Dax notiert im Minus – Ölpreis steigt",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-steigt/100250724.html",
+          "published": "2026-08-31T12:50:16+00:00",
+          "summary": "Der Dax steuert weiter auf die Rekordmarke von 27.000 Punkten zu. Anleger können am Montag auf neue Konjunkturdaten aus Deutschland hoffen."
         },
         {
-          "title": "Pflegeversicherung: Den Kassen geht das Geld aus",
-          "link": "https://www.spiegel.de/wirtschaft/pflegeversicherung-den-kassen-geht-das-geld-aus-a-1e453255-e306-4eb7-b6cb-4888b13c89f6#ref=rss",
-          "published": "2026-08-31T08:28:00+00:00",
-          "summary": "Die Bundesregierung versucht verzweifelt, die Kosten für die Pflege unter Kontrolle zu bringen. Wie dringend die geplante Reform ist, zeigen die aktuellen Zahlen für die ersten sechs Monate des Jahres."
+          "title": "EU: Ungarn erfüllt Bedingungen zur Freigabe von EU-Mitteln in Milliardenhöhe",
+          "link": "https://www.handelsblatt.com/politik/international/eu-ungarn-erfuellt-bedingungen-zur-freigabe-von-eu-mitteln/100250866.html",
+          "published": "2026-08-31T12:39:05+00:00",
+          "summary": "Ungarn erhält Milliarden an eingefrorenen Corona-Mitteln. Wofür das Geld verwendet wird, hat Brüssel mit Budapest bereits bis ins Detail festgelegt."
         },
         {
-          "title": "Wegovy: Wie lange müssen Patienten für die neue Abnehmpille noch zahlen?",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/wegovy-wie-lange-muessen-patienten-fuer-die-neue-abnehmpille-noch-zahlen-a-841e09aa-ef60-4f9b-8203-770d6be04b48#ref=rss",
-          "published": "2026-08-31T08:08:00+00:00",
-          "summary": "Deutsche Apotheken verkaufen ab Dienstag das Schlankheitsmittel Wegovy als Tablette. Das Präparat müssen Abnehmwillige selbst bezahlen – wenn Politik und Gesundheitswächter nicht umdenken."
+          "title": "Kommentar: Aufrüstung verschlingt Milliarden – das kann nicht ewig gut gehen",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-aufruestung-verschlingt-milliarden-das-kann-nicht-ewig-gut-gehen/100250733.html",
+          "published": "2026-08-31T12:37:25+00:00",
+          "summary": "Der Rüstungsboom sichert viele Jobs. Doch das Tempo der Aufrüstung lässt sich auf Dauer nicht halten. Gesucht werden smarte Lösungen der Verteidigung für die Zukunft."
         },
         {
-          "title": "Deutsche Wirtschaft ist wieder attraktiv für Investoren - Fusionen, Übernahmen, Beteiligungen",
-          "link": "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-ist-wieder-attraktiv-fuer-investoren-fusionen-uebernahmen-beteiligungen-a-737da937-ed76-4c89-821d-174c2f926496#ref=rss",
-          "published": "2026-08-31T06:06:00+00:00",
-          "summary": "Der Standort Deutschland genießt hierzulande nicht den besten Ruf. Investoren aus dem Ausland sehen das ganz anders. Das Interesse an Beteiligungen hat deutlich zugenommen."
+          "title": "Migranten vor Ort: Spanien: Vorwürfe wegen Ceuta Richtung Russland und Israel",
+          "link": "https://www.handelsblatt.com/politik/international/migranten-vor-ort-spanien-vorwuerfe-wegen-ceuta-richtung-russland-und-israel/100250852.html",
+          "published": "2026-08-31T12:33:06+00:00",
+          "summary": "Spaniens Regierungschef Sánchez wirft sozialen Netzwerken mit Verbindungen zu Russland und Israel vor, Falschmeldungen zum Massenandrang auf Ceuta verbreitet zu haben."
         },
         {
-          "title": "Deutsche Bahn: Sternbrücke in Hamburg wieder offen – Züge rollen nach Mega-Bauprojekt",
-          "link": "https://www.spiegel.de/wirtschaft/deutsche-bahn-sternbruecke-in-hamburg-wieder-offen-zuege-rollen-nach-mega-bauprojekt-a-9a4843bc-b37f-48a5-83f9-f79f9ef8d5dd#ref=rss",
-          "published": "2026-08-31T05:01:00+00:00",
-          "summary": "In Hamburg ist mit der Sternbrücke ein Bauprojekt der Bahn abgeschlossen worden. Interessant daran für Leser aus Stuttgart oder Berlin: Der Termin für die Fertigstellung wurde fast eingehalten."
+          "title": "Iran-Krieg: Was steckt hinter der neuen Eskalation am Persischen Golf?",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-was-steckt-hinter-der-neuen-eskalation-am-persischen-golf/100250876.html",
+          "published": "2026-08-31T12:32:10+00:00",
+          "summary": "In der Nacht kommt es erstmals seit Wochen wieder zu Angriffen zwischen den USA und dem Iran. Geht es um die Hoheit in der Straße von Hormus?"
         }
       ],
       "error": null
     },
     {
-      "id": "heise",
-      "name": "heise online",
-      "site": "https://www.heise.de",
-      "url": "https://www.heise.de/rss/heise-atom.xml",
+      "id": "finanzen-net",
+      "name": "Finanzen.net",
+      "site": "https://www.finanzen.net/nachrichten/",
+      "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "heise-Angebot: iX-Workshop: Multiagentensysteme entwickeln und in eigene Software integrieren",
-          "link": "https://www.heise.de/news/iX-Workshop-Multiagentensysteme-entwickeln-und-in-eigene-Software-integrieren-11413808.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-          "published": "2026-08-31T12:00:00+00:00",
-          "summary": "Üben Sie direkt am Code, wie Sie aus spezialisierten KI-Agenten ein eigenes Multiagentensystem aufbauen, das komplexe Aufgaben automatisiert erledigen kann."
+          "title": "Hot Stocks heute: DAX vor dem Herbst? Dieser Put setzt auf fallende Kurse | Trade der Woche",
+          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-dax-vor-dem-herbst-dieser-put-setzt-auf-fallende-kurse-trade-der-woche-15909969",
+          "published": "2026-08-31T12:48:00+00:00",
+          "summary": "Im Trade der Woche geht es deshalb um einen klassischen Put- Optionsschein auf den DAX : Basispreis 26.000 Punkte, Laufzeit ..."
         },
         {
-          "title": "WatchGuard Security-Appliances: Schadcode-Lücken in Firebox OS geschlossen",
-          "link": "https://www.heise.de/news/WatchGuard-Security-Appliances-Schadcode-Luecken-in-Firebox-OS-geschlossen-11434937.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-          "published": "2026-08-31T11:52:00+00:00",
-          "summary": "Firewalls und VPN-Technik von WatchGuard sind attackierbar. Reparierte Versionen von Firebox OS sind verfügbar."
+          "title": "Gold: Starke Treiber für das Comeback",
+          "link": "https://www.finanzen.net/nachricht/aktien/value-stars-kolumne-gold-starke-treiber-fuer-das-comeback-15909968",
+          "published": "2026-08-31T12:46:49+00:00",
+          "summary": "Eine Kolumne von Holger Steffen, Anlage­experte und Berater für den Value-Stars-Deutschland-Index . [...]Nach ..."
         },
         {
-          "title": "Sicheres Netz aus dem All: OHB bekommt Milliardenauftrag für Iris²",
-          "link": "https://www.heise.de/news/Sicheres-Netz-aus-dem-All-OHB-bekommt-Milliardenauftrag-fuer-Iris2-11435376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-          "published": "2026-08-31T11:38:00+00:00",
-          "summary": "Die Europäische Union plant ein neues Satellitennetz. Welche Rolle der Bremer Raumfahrtkonzern OHB dabei spielt und wie Bürger davon profitieren sollen."
+          "title": "Einstiegschance bei Chip-Aktien? BofA nennt acht Werte rund um NVIDIA und Micron mit Kurspotenzial",
+          "link": "https://www.finanzen.net/nachricht/aktien/einstiegschance-bei-chip-aktien-bofa-nennt-acht-werte-rund-um-nvidia-und-micron-mit-kurspotenzial-15910123",
+          "published": "2026-08-31T12:44:00+00:00",
+          "summary": "Trotz Rückschlagrisiko bei der NVIDIA-Aktie und weiteren Chip-Werten sieht eine grosse US-Bank acht Titel jetzt mit deutlich attraktiverem Chance-Risiko-Verhältnis."
         },
         {
-          "title": "Apple-CEO-Wechsel: Tim Cook tritt letzten Arbeitstag an",
-          "link": "https://www.heise.de/news/Letzter-Tag-fuer-Tim-Cook-Ab-morgen-uebernimmt-John-Ternus-als-Apple-CEO-11435143.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-          "published": "2026-08-31T11:33:00+00:00",
-          "summary": "Mit dem 1. September endet Tim Cooks 15-jährige Tätigkeit an der Spitze des iPhone-Herstellers. John Ternus, 51, übernimmt. Der setzt auf Kontinuität."
+          "title": "ROUNDUP/Sommer 2026: 'Historische Hitze, verbreitete Trockenheit'",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-sommer-2026-historische-hitze-verbreitete-trockenheit-15910120",
+          "published": "2026-08-31T12:40:38+00:00",
+          "summary": "OFFENBACH (dpa-AFX) - Zu trocken, zu warm, zu sonnig: Der Sommer ist in diesem Jahr extrem gewesen. Nach einer vorläufigen Auswertung ist er der zweitwärmste, der in Deutschland jemals offiziell gemessen wurde. Das teil…"
         },
         {
-          "title": "heise+ | Mehr als ein grüner Linter-Check: weitere Faktoren guter Softwareentwicklung",
-          "link": "https://www.heise.de/hintergrund/Mehr-als-ein-gruener-Linter-Check-weitere-Faktoren-guter-Softwareentwicklung-11415914.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-          "published": "2026-08-31T11:30:00+00:00",
-          "summary": "Ein grüner Linter-Check bedeutet nicht, dass eine API fachlich überzeugt. Architektur erfordert mehr als Automatisierung, sie braucht Kontext und Verantwortung."
+          "title": "MÄRKTE USA/Inflationssorgen dürften Börse bremsen",
+          "link": "https://www.finanzen.net/nachricht/aktien/maerkte-usa-inflationssorgen-duerften-boerse-bremsen-15910119",
+          "published": "2026-08-31T12:39:44+00:00",
+          "summary": "DOW JONES--Inflationssorgen dürften die US-Börsen am Montag bremsen. Die Futures auf die großen Aktienindizes deuten eine knapp behauptete Eröffnung am Kassamarkt an. Marktteilnehmer verweisen auf den \"falkenhaften\" Auf…"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "tagesschau-boerse",
+      "name": "Tagesschau Börse",
+      "site": "https://www.tagesschau.de/wirtschaft/finanzen",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
+      "items": [
+        {
+          "title": "Marktbericht: Ölpreise klettern wieder",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html",
+          "published": "2026-08-31T12:42:21+00:00",
+          "summary": "Neue Angriffe im Persischen Golf treiben die Ölpreise wieder nach oben. Neue Entwicklungen in Venezuela könnten aber Entlastung bringen - insbesondere ein Austritt aus der OPEC. Von Detlev Landmesser."
+        },
+        {
+          "title": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html",
+          "published": "2026-08-31T11:50:36+00:00",
+          "summary": "Die Pflegekassen haben im ersten Halbjahr ein Minus von 770 Millionen Euro eingefahren. Der Spitzenverband warnt: Schon im Oktober könnten die Einnahmen nicht mehr reichen, um Pflegeleistungen voll zu finanzieren."
+        },
+        {
+          "title": "Marktbericht: Der Kater nach dem DAX-Rekord?",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+          "published": "2026-08-31T08:36:51+00:00",
+          "summary": "Zinssorgen, Inflationsangst und eine mögliche Eskalation im Nahen Osten - die Themen an der Börse sind vielfältig. Nach dem Rekordhoch vom Freitag bleiben die Investoren heute zunächst zurückhaltend."
+        },
+        {
+          "title": "Marktbericht: Nvidia: Zahlen von einem anderen Stern",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-nvidia-100.html",
+          "published": "2026-08-27T11:36:22+00:00",
+          "summary": "Die im Vorfeld mit Spannung erwarteten Quartalszahlen des KI-Chipriesen Nvidia fielen beeindruckend aus. Im DAX profitieren Infineon und Siemens Energy vom Boom des US-Konzerns."
+        },
+        {
+          "title": "Zweifel wegen des KI-Booms: SAP-Aktie tief im Minus",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-sap-100.html",
+          "published": "2026-08-26T12:43:15+00:00",
+          "summary": "Der Softwareriese SAP gilt als eines der wenigen deutschen Tech-Unternehmen mit überregionaler Bedeutung. Aber der KI-Hype setzt der gesamten Branche zu und sorgt für viel Volatilität. Was kann Künstliche Intelligenz wi…"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC Business",
+      "site": "https://www.bbc.com/business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "items": [
+        {
+          "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
+          "link": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-31T11:56:50+00:00",
+          "summary": "More than 20 organisations have written a joint letter to John Swinney urging him to scrap his plan for a legal cap on some food and drink prices."
+        },
+        {
+          "title": "How the US-Canada trade war is being felt on both sides of the border",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-31T00:05:22+00:00",
+          "summary": "The US-Canada trade war is being felt on both sides of the border."
+        },
+        {
+          "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+          "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-30T23:22:24+00:00",
+          "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it"
+        },
+        {
+          "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
+          "link": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-30T17:16:18+00:00",
+          "summary": "A free initiative which started with one school four years ago now has more than 200 involved."
+        },
+        {
+          "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-30T04:01:02+00:00",
+          "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
         }
       ],
       "error": null
