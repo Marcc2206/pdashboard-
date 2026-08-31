@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:14:09+00:00",
+  "generatedAt": "2026-08-31T12:15:21+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,12 +7,6 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
-        {
-          "title": "EU verschärft Regeln für ChatGPT",
-          "link": "https://www.tagesschau.de/wirtschaft/digitales/eu-kommission-chat-gpt-100.html",
-          "published": "2026-08-31T11:16:57+00:00",
-          "summary": "Die EU-Kommission stellt mit ChatGPT erstmals ein KI-Sprachmodell unter verschärfte Beobachtung des Digital Services Act. Der Chatbot wird künftig als \"sehr große Suchmaschine\" eingestuft. Was bedeutet das? Von Kathrin…"
-        },
         {
           "title": "EU verschärft Regeln für ChatGPT",
           "link": "https://www.tagesschau.de/wirtschaft/digitales/eu-kommission-chat-gpt-100.html",
@@ -36,6 +30,12 @@
           "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-cafe-koeln-100.html",
           "published": "2026-08-31T10:51:00+00:00",
           "summary": "In der Kölner Südstadt sind am Morgen vor einem Café mehrere Schüsse gefallen. Verletzte gab es laut Polizei nicht. Die Einsatzkräfte fahnden jetzt nach einem männlichen Tatverdächtigen."
+        },
+        {
+          "title": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
+          "published": "2026-08-31T10:44:03+00:00",
+          "summary": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John."
         }
       ],
       "error": null
