@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:57:16+00:00",
+  "generatedAt": "2026-08-31T13:58:02+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -203,12 +203,6 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "VW-Betriebsversammlungen: „Wir bauen gute Autos, verdienen damit aber zu wenig“",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-betriebsversammlungen-kostenproblem-im-werk-hannover-zukunft-ungewiss/100250842.html",
-          "published": "2026-08-31T13:55:00+00:00",
-          "summary": "Welche Zukunft hat das Volkswagen-Werk Hannover? VW-Finanzchef Arno Antlitz zeichnet ein düsteres Bild."
-        },
-        {
           "title": "2,9 Prozent Inflation: „An der Inflationsfront kehrt so schnell keine Ruhe ein“",
           "link": "https://www.wiwo.de/politik/konjunktur/inflation-in-deutschland-verbraucherpreise-steigen-im-august-um-29-prozent/100250861.html",
           "published": "2026-08-31T13:37:00+00:00",
@@ -231,6 +225,12 @@
           "link": "https://www.wiwo.de/unternehmen/dienstleister/cargoboard-wie-ein-ehemaliger-speditions-azubi-die-logistik-digitalisiert/100248803.html",
           "published": "2026-08-31T13:32:00+00:00",
           "summary": "Vom Speditions-Azubi zum Gründer: Lukas Petrasch macht den Palettenversand mit Cargoboard so einfach wie eine Flug- oder Hotelbuchung."
+        },
+        {
+          "title": "Preisfrage: Kühl kalkuliert – der richtige Kaufmoment fürs Klimagerät",
+          "link": "https://www.wiwo.de/unternehmen/industrie/klimaanlage-kaufen-wann-ist-der-beste-zeitpunkt-um-zu-sparen/100247935.html",
+          "published": "2026-08-31T13:26:00+00:00",
+          "summary": "„Antizyklisch einkaufen“ ist eine kluge Devise, wenn man sich Produkte mit saisonalem Nutzwert anschafft. Also: Jetzt eine Klimaanlage kaufen? Oder besser noch ein bisschen warten?"
         }
       ],
       "error": null
