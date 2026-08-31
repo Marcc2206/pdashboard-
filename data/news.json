@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:05:12+00:00",
+  "generatedAt": "2026-08-31T18:05:08+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Nach 207 Länderspielen: Weltmeister Lionel Messi beendet Nationalelf-Karriere",
-          "link": "https://www.sportschau.de/fussball/lionel-messi-beendet-nationalelf-karriere,messi-karrieende-nationalteam-argentinien-100.html",
-          "published": "2026-08-31T15:53:17+00:00",
-          "summary": "Lionel Messi hat seinen Rücktritt aus der argentinischen Nationalmannschaft erklärt. Der Superstar bestritt 207 Länderspiele und wurde 2022 in Katar Weltmeister."
-        },
-        {
-          "title": "Siedlergewalt im Westjordanland: Netanjahu versucht den Balanceakt",
-          "link": "https://www.tagesschau.de/ausland/asien/netanjahu-siedlergewalt-100.html",
-          "published": "2026-08-31T15:32:56+00:00",
-          "summary": "Wegen der Gewalt von Siedlern im Westjordanland steht Premier Netanjahu unter Druck. Nach dem jüngsten Vorfall fand er zwar ungewohnt scharfe Worte. Doch vor den Wahlen will er die Siedlerbewegung …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80712.html",
-          "published": "2026-08-31T15:19:13+00:00",
+          "title": "Gastmahl in Dresden, Karneval in Notting-Hill, Fuchs auf Nahrungssuche",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10416.html",
+          "published": "2026-08-31T17:26:04+00:00",
           "summary": ""
         },
         {
-          "title": "Apfel-Produzenten unter Druck",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/aepfel-ernte-deutschland-apfelsaft-100.html",
-          "published": "2026-08-31T14:43:46+00:00",
-          "summary": "Die Apfel-Ernte fällt wegen Frost und Hitze, aber auch aus natürlichen Gründen geringer aus. Obwohl die Preise steigen, haben Obstbauern wenig davon. Sie leiden unter hohen Kosten und scharfer …"
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-08-31T17:12:24+00:00",
+          "summary": "Dienstag gibts im Süden viel Sonnenschein, sonst scheint mal die Sonne, mal ist es dicht bewölkt mit einzelnen Schauern, in Küstennähe auch mit Blitz und Donner. Dazu ist es im Norden windig. 19 bis …"
         },
         {
-          "title": "VW-Führung fordert weitere Kostensenkungen",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/betriebsversammlung-wie-geht-mit-vw-in-hannover-weiter,vw-1394.html",
-          "published": "2026-08-31T14:23:00+00:00",
-          "summary": "In Hannover endete heute eine ganze Reihe von Betriebsversammlungen im Zuge der VW-Krise. Finanzvorstand Antlitz verlangte mehr Wettbewerbsfähigkeit. Arbeitnehmervertreter zeigten sich enttäuscht."
+          "title": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
+          "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
+          "published": "2026-08-31T17:04:55+00:00",
+          "summary": "In Nepal läuft die Suche nach Überlebenden der Flutkatastrophe auf Hochtouren. Im Fokus stehen derzeit Hunderte Arbeiter, die in den Tunneln von Wasserkraftwerken eingeschlossen sind. Die Zahl der …"
+        },
+        {
+          "title": "Warntag, Steuer, Garantie: Was sich im September ändert",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
+          "published": "2026-08-31T17:00:05+00:00",
+          "summary": "Nicht erschrecken: Im September gibt es bundesweit Alarm - beim Warntag werden Sirenen und Warn-Apps getestet. Ein neues Label zeigt künftig die Garantiezeit. Und es gibt Vereinfachungen bei …"
+        },
+        {
+          "title": "Nach 207 Länderspielen: Weltmeister Lionel Messi beendet Nationalelf-Karriere",
+          "link": "https://www.sportschau.de/fussball/lionel-messi-beendet-nationalelf-karriere,messi-karrieende-nationalteam-argentinien-100.html",
+          "published": "2026-08-31T16:49:37+00:00",
+          "summary": "Lionel Messi hat seinen Rücktritt aus der argentinischen Nationalmannschaft erklärt. Der Superstar bestritt 207 Länderspiele und wurde 2022 in Katar Weltmeister."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Gipfeltreffen: Xi und Putin betonen trotz Gegenwind ihre Zusammenarbeit",
-          "link": "https://www.handelsblatt.com/politik/international/gipfeltreffen-xi-und-putin-betonen-trotz-gegenwind-ihre-zusammenarbeit/100250927.html",
-          "published": "2026-08-31T15:57:04+00:00",
-          "summary": "Beim Gipfeltreffen der russlandfreundlichen SCO zeigen die beiden Länder demonstrative Einigkeit. Zu den Gesprächen in Kirgisistan werden auch Erdoğan, Modi und der iranische Staatschef erwartet."
+          "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen liegen tiefer – doch die August-Bilanz ist positiv",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-liegentiefer-doch-die-august-bilanz-ist-positiv/100250821.html",
+          "published": "2026-08-31T17:45:35+00:00",
+          "summary": "Der Dow Jones steuert auf seinen fünften Monatsgewinn in Folge zu. S&P 500 und Nasdaq stehen vor der ersten positiven Bilanz seit Mai. Belastend wirken weiter steigende Bondrenditen."
         },
         {
-          "title": "Iran-Krieg: Am Persischen Golf droht ein Dauerkonflikt – wie Reeder reagieren",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-am-golf-droht-ein-dauerkonflikt/100250751.html",
-          "published": "2026-08-31T15:53:39+00:00",
-          "summary": "Erstmals seit Wochen haben die USA den Iran angegriffen. Dieser reagierte mit Angriffen auf Jordanien und die Emirate. Im Zentrum steht der Konflikt um die Straße von Hormus."
+          "title": "+++ Ukraine-Krieg +++: CIA-Chef hat laut Litauens Präsident Ziele in Moskau erreicht",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-cia-chef-hat-laut-litauens-praesident-ziele-in-moskau-erreicht/27982126.html",
+          "published": "2026-08-31T17:39:00+00:00",
+          "summary": "Türkei dringt auf neues Abkommen zwischen Moskau und Kiew +++ Russischer Finanzminister nimmt an G20-Treffen teil +++ Estland erhöht Sicherheitsmaßnahmen bei E-Mails aus Russland +++ Der Newsblog."
         },
         {
-          "title": "Parteien: Pfiffe für Merz bei seiner Wahlkampfpremiere im Osten",
-          "link": "https://www.handelsblatt.com/politik/deutschland/parteien-pfiffe-fuer-merz-bei-seiner-wahlkampfpremiere-im-osten/100250913.html",
-          "published": "2026-08-31T15:52:13+00:00",
-          "summary": "Erst ein Fischbrötchen, dann ein Besuch an einem CDU-Stand an der Strandpromenade: Bei seinem Wahlkampfauftakt im Osten wird es ungemütlich für den Kanzler."
+          "title": "KI: Werbegeschäft von OpenAI wächst",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-werbegeschaeft-von-openai-waechst/100250938.html",
+          "published": "2026-08-31T17:25:21+00:00",
+          "summary": "OpenAI knackt mit „ChatGPT Ads“ die Milliarden-Dollar-Marke. Das Geschäft startet nun auch in Europa, Indien und dem Nahen Osten. Ein Branchenanalyst wertet die Zahlen trotzdem als Enttäuschung."
         },
         {
-          "title": "Bau von riesigen Rechenzentren: Trump attackiert Rechenzentren-Gegner: Wollen „arm“ sein",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bau-von-riesigen-rechenzentren-trump-attackiert-rechenzentren-gegner-wollen-arm-sein/100250933.html",
-          "published": "2026-08-31T15:51:28+00:00",
-          "summary": "Es ist längst zum politischen Thema in der US-Bevölkerung geworden: Ist man für oder gegen den Bau von Riesen-Rechenzentren, mit denen KI weiterentwickelt werden soll? Trump passt der Protest nicht."
+          "title": "Russland: Xi und Putin betonen bei Gipfeltreffen ihre Zusammenarbeit",
+          "link": "https://www.handelsblatt.com/politik/international/russland-xi-und-putin-betonen-bei-gipfeltreffen-ihre-zusammenarbeit/100250927.html",
+          "published": "2026-08-31T17:19:51+00:00",
+          "summary": "Beim Treffen der russlandfreundlichen SCO zeigen die beiden Länder demonstrative Einigkeit. Zu den Gesprächen in Kirgisistan werden auch Erdoğan, Modi und der iranische Staatschef erwartet."
         },
         {
-          "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-sich-ein-ehevertrag-lohnt-und-was-es-zu-beachten-gibt/100224359.html",
-          "published": "2026-08-31T15:51:00+00:00",
-          "summary": "Ein Ehevertrag gilt als unromantisch. Doch ohne Vertrag gelten starre Regeln. Für Unternehmer, Immobilienbesitzer und Paare mit Kindern kann das teuer werden."
+          "title": "Diplomatischer Eklat: Auf US-Einladung: Russischer Finanzminister bei G20-Treffen",
+          "link": "https://www.handelsblatt.com/politik/international/diplomatischer-eklat-auf-us-einladung-russischer-finanzminister-bei-g20-treffen/100250921.html",
+          "published": "2026-08-31T17:01:10+00:00",
+          "summary": "Als das letzte Mal ein Russe beim Finanzministertreffen der G20 sprach, gab es einen Eklat. Jetzt ist der russische Minister persönlich vor Ort. Könnte das ein Vorbote sein?"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Schlechtes Omen vor Börsengang: Shein mit milliardenschwerer Bewertung - aber Aktie schmiert ab",
+          "link": "https://www.n-tv.de/wirtschaft/Shein-mit-milliardenschwerer-Bewertung-aber-Aktie-schmiert-ab-id31252705.html",
+          "published": "2026-08-31T16:06:46+00:00",
+          "summary": "Shein wagt den nächsten Anlauf aufs Börsenparkett. Doch vom einstigen Höhenflug des Modehändlers ist nicht mehr viel übrig. Wachstumsprobleme, neue Handelsbarrieren und anhaltende Kritik haben …"
+        },
         {
           "title": "Abschied als Chef nach 15 Jahren: So extrem ist die Apple-Aktie unter Tim Cook gestiegen",
           "link": "https://www.n-tv.de/wirtschaft/So-extrem-ist-die-Apple-Aktie-unter-Tim-Cook-gestiegen-id31250713.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Agrarministerin-findet-Lebensmittel-zu-guenstig-id31251717.html",
           "published": "2026-08-31T13:18:37+00:00",
           "summary": "Regional, nachhaltig und möglichst aus heimischer Produktion - in Umfragen wünschen sich viele Verbraucher genau das. An der Supermarktkasse sieht es jedoch oft anders aus. Eine Ministerin sieht …"
-        },
-        {
-          "title": "Anstieg um 2,9 Prozent: Ölpreis und Niedrigwasser treiben die Inflation an",
-          "link": "https://www.n-tv.de/wirtschaft/Oelpreis-und-Niedrigwasser-treiben-die-Inflation-an-id31251612.html",
-          "published": "2026-08-31T12:03:27+00:00",
-          "summary": "Die Preise für Verbraucher steigen im August erneut schneller als im Vormonat. Die Gründe dafür liegen vor allem im anhaltenden Nahost-Krieg. Aber auch das Niedrigwasser in deutschen Flüssen trägt …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Deutsche Anleihen: 10-jährige Rendite steigt auf höchsten Stand seit 15 Jahren",
-          "link": "https://www.finanzen.net/nachricht/anleihen/deutsche-anleihen-10-jaehrige-rendite-steigt-auf-hoechsten-stand-seit-15-jahren-15910936",
-          "published": "2026-08-31T16:00:38+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Die Kurse deutscher Staatsanleihen sind am Montag unter Druck geraten. Der richtungweisende Euro-Bund-Future fiel um 0,29 Prozent auf 123,17 Punkte. Im Gegenzug legten die …"
+          "title": "Schweizer Kommission will schärfere Eigenkapitalvorschriften für Banken",
+          "link": "https://www.finanzen.net/nachricht/aktien/schweizer-kommission-will-schaerfere-eigenkapitalvorschriften-fuer-banken-15910992",
+          "published": "2026-08-31T17:44:38+00:00",
+          "summary": "BERN (dpa-AFX) - Systemrelevante Schweizer Banken sollen Auslandsbeteiligungen nicht zu 100 Prozent mit hartem Kernkapital unterlegen müssen. Die zuständige Ständeratskommission forderte am …"
         },
         {
-          "title": "Linde-Aktie: Das sind die Analysten-Einstufungen des vergangenen Monats",
-          "link": "https://www.finanzen.net/nachricht/aktien/linde-aktie-das-sind-die-analysten-einstufungen-des-vergangenen-monats-15910935",
-          "published": "2026-08-31T16:00:38+00:00",
-          "summary": "Die Linde -Aktie wurde im August 2026 von 8 Analysten analysiert.8 Experten empfehlen die Linde-Aktie zu kaufen.Das durchschnittliche Kursziel wird auf 566,13 USD beziffert, während sich der aktuelle …"
+          "title": "Wie viel Anleger mit einem Investment in Ethereum Classic von vor 1 Jahr verloren hätten",
+          "link": "https://www.finanzen.net/nachricht/devisen/wie-viel-anleger-mit-einem-investment-in-ethereum-classic-von-vor-1-jahr-verloren-haetten-15910991",
+          "published": "2026-08-31T17:43:04+00:00",
+          "summary": "Ethereum Classic wurde gestern vor 1 Jahr bei 20,94 USD gehandelt. Bei einem ETC-Investment von 1.000 USD zu diesem Zeitpunkt, hätte ein Anleger nun 47,77 Ethereum Classic in seinem Portfolio. ..."
         },
         {
-          "title": "August 2026: So haben Analysten ihre Einstufung der BioNTech (ADRs)-Aktie angepasst",
-          "link": "https://www.finanzen.net/nachricht/aktien/august-2026-so-haben-analysten-ihre-einstufung-der-biontech-adrs-aktie-angepasst-15910934",
-          "published": "2026-08-31T16:00:38+00:00",
-          "summary": "Im August 2026 haben 8 Experten die BioNTech (ADRs) -Aktie analysiert.7 Experten empfehlen die BioNTech (ADRs)-Aktie zu kaufen, 1 Experte empfiehlt, die Aktie zu halten.Das durchschnittliche Kursziel …"
+          "title": "So viel Verlust hätte eine Investition in Bitcoin Cash von vor 1 Jahr bedeutet",
+          "link": "https://www.finanzen.net/nachricht/devisen/so-viel-verlust-haette-eine-investition-in-bitcoin-cash-von-vor-1-jahr-bedeutet-15910990",
+          "published": "2026-08-31T17:43:04+00:00",
+          "summary": "Gestern vor 1 Jahr wurde Bitcoin Cash bei 553,18 USD gehandelt. Bei einem Investment von 1.000 USD in BCH zu diesem Zeitpunkt, wäre ein Investor nun im Besitz von 1,808 Bitcoin Cash. Mit dem ..."
         },
         {
-          "title": "August 2026: Das sind die Expertenmeinungen zur Hennes Mauritz (H M, H&M)-Aktie",
-          "link": "https://www.finanzen.net/nachricht/aktien/august-2026-das-sind-die-expertenmeinungen-zur-hennes-mauritz-h-m-h-m-aktie-15910933",
-          "published": "2026-08-31T16:00:38+00:00",
-          "summary": "5 Analysten haben im vergangenen Monat ihre Analyse zur Hennes Mauritz (H M, H&M) -Aktie veröffentlicht.3 Analysten stufen die Anteilsscheine von Hennes Mauritz (H M, H&M) mit Halten ein, 2 Analysten …"
+          "title": "SHEIN-Aktie wagt den Sprung an die Börse: IPO in Hongkong am 1. September",
+          "link": "https://www.finanzen.net/nachricht/aktien/milliardenbewertung-shein-aktie-wagt-den-sprung-an-die-boerse-ipo-in-hongkong-am-1-september-00-15906173",
+          "published": "2026-08-31T17:43:00+00:00",
+          "summary": "SHEIN bietet rund 280 Millionen Aktien an • Bewertung bleibt deutlich unter dem Rekordniveau von 2022 • Börsenpläne in New York und London waren zuvor gescheitert Der Weg nach Hongkong Die Geschichte …"
         },
         {
-          "title": "Unilever-Aktie: Was Analysten im August vom Papier halten",
-          "link": "https://www.finanzen.net/nachricht/aktien/unilever-aktie-was-analysten-im-august-vom-papier-halten-15910932",
-          "published": "2026-08-31T16:00:38+00:00",
-          "summary": "Im vergangenen August haben 5 Experten die Aktie von Unilever wie folgt eingeschätzt.2 Experten raten die Unilever-Aktie zu kaufen, 1 Experte empfiehlt, die Aktie zu halten, 2 Analysten sehen im …"
+          "title": "Umschichtungen in den Top 10: So hat die Deutsche Bank ihr US-Aktiendepot im 2. Quartal neu ausgerichtet",
+          "link": "https://www.finanzen.net/nachricht/aktien/zukaeufe-ueberwiegen-umschichtungen-in-den-top-10-so-hat-die-deutsche-bank-ihr-us-aktiendepot-im-2-quartal-neu-ausgerichtet-00-15903263",
+          "published": "2026-08-31T17:43:00+00:00",
+          "summary": "Deutsche Bank hat ihr US-Aktienportfolio zum 30. Juni offengelegt Im Portfolio gab es sowohl neue Werte als auch spürbare Umschichtungen Zu- und Verkäufe in den Top 10 Da das US- Aktiendepot ..."
         }
       ],
       "error": null
@@ -163,6 +163,18 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
+          "published": "2026-08-31T16:46:46+00:00",
+          "summary": "Vor 50 Jahren ging der erste Indexfonds für Privatanleger an den Start. Er gilt als Vorläufer der heutigen ETFs und hat den Vermögensaufbau an der Börse einem breiteren Publikum geöffnet."
+        },
+        {
+          "title": "Marktbericht: Herbe Verluste zum Monatsende",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+          "published": "2026-08-31T16:23:35+00:00",
+          "summary": "Neue Militärschläge im Persischen Golf und Zinssorgen haben den DAX zu Wochenbeginn in die Knie gezwungen. Der August endet dennoch mit einem Monatsplus von 2,5 Prozent."
+        },
         {
           "title": "Marktbericht: Ölpreise klettern wieder",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html",
@@ -176,22 +188,10 @@
           "summary": "Die Pflegekassen haben im ersten Halbjahr ein Minus von 770 Millionen Euro eingefahren. Der Spitzenverband warnt: Schon im Oktober könnten die Einnahmen nicht mehr reichen, um Pflegeleistungen voll …"
         },
         {
-          "title": "Marktbericht: Der Kater nach dem DAX-Rekord?",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
-          "published": "2026-08-31T08:36:51+00:00",
-          "summary": "Zinssorgen, Inflationsangst und eine mögliche Eskalation im Nahen Osten - die Themen an der Börse sind vielfältig. Nach dem Rekordhoch vom Freitag bleiben die Investoren heute zunächst zurückhaltend."
-        },
-        {
           "title": "Marktbericht: Nvidia: Zahlen von einem anderen Stern",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-nvidia-100.html",
           "published": "2026-08-27T11:36:22+00:00",
           "summary": "Die im Vorfeld mit Spannung erwarteten Quartalszahlen des KI-Chipriesen Nvidia fielen beeindruckend aus. Im DAX profitieren Infineon und Siemens Energy vom Boom des US-Konzerns."
-        },
-        {
-          "title": "Zweifel wegen des KI-Booms: SAP-Aktie tief im Minus",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-sap-100.html",
-          "published": "2026-08-26T12:43:15+00:00",
-          "summary": "Der Softwareriese SAP gilt als eines der wenigen deutschen Tech-Unternehmen mit überregionaler Bedeutung. Aber der KI-Hype setzt der gesamten Branche zu und sorgt für viel Volatilität. Was kann …"
         }
       ],
       "error": null
@@ -202,6 +202,18 @@
       "site": "https://www.wiwo.de",
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
+        {
+          "title": "VW-Werk Emden: Ministerpräsident Lies setzt auf mehr E-Autos",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-werk-emden-ministerpraesident-olaf-lies-setzt-auf-mehr-e-autos/100250941.html",
+          "published": "2026-08-31T17:42:13+00:00",
+          "summary": "Bei Volkswagen in Emden werden inzwischen ausschließliche E-Autos gebaut – dennoch droht dem Werk das Aus. Olaf Lies betont das Potenzial des Standortes."
+        },
+        {
+          "title": "Betriebsrente erklärt: So funktioniert die betriebliche Altersversorgung",
+          "link": "https://www.wiwo.de/finanzen/vorsorge/betriebsrente-so-funktioniert-die-betriebliche-altersversorgung-2026/100250812.html",
+          "published": "2026-08-31T16:45:08+00:00",
+          "summary": "Die Betriebsrente soll Arbeitnehmer im Ruhestand zusätzlich absichern. Welche Möglichkeiten Angestellte haben, wann Arbeitgeber die Betriebsrente mitfinanzieren müssen und was beim Jobwechsel …"
+        },
         {
           "title": "Hongkong: Sheins startet voraussichtlich am Dienstag an der Börse",
           "link": "https://www.wiwo.de/unternehmen/handel/hongkong-sheins-startet-voraussichtlich-am-dienstag-an-der-boerse/100250926.html",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/politik/konjunktur/inflation-in-deutschland-verbraucherpreise-steigen-im-august-um-29-prozent/100250861.html",
           "published": "2026-08-31T15:41:00+00:00",
           "summary": "Die Inflation in Deutschland ist im August erneut gestiegen: Waren und Dienstleistungen verteuerten sich um 2,9 Prozent. Das Niedrigwasser und der hohe Ölpreis belasten."
-        },
-        {
-          "title": "Börsenhandel: Wer profitiert von längeren Handelszeiten?",
-          "link": "https://www.wiwo.de/finanzen/boerse/boersenhandel-wer-profitiert-von-laengeren-handelszeiten/100249821.html",
-          "published": "2026-08-31T15:39:00+00:00",
-          "summary": "An der NYSE, der Nasdaq und der London Stock Exchange können Anleger bald 23 Stunden am Tag handeln. Wozu das gut ist und wer profitiert."
-        },
-        {
-          "title": "Sozialmissbrauch: Bas verteidigt Zeitplan für Vorgehen gegen Sozialmissbrauch",
-          "link": "https://www.wiwo.de/politik/deutschland/sozialmissbrauch-bas-verteidigt-zeitplan-fuer-vorgehen-gegen-sozialmissbrauch/100250908.html",
-          "published": "2026-08-31T15:25:47+00:00",
-          "summary": "Die Arbeitsministerin hat für Juli einen Aktionsplan angekündigt. Nun fragt die Union: Wo ist der eigentlich? Es geht auch um Leistungen für Menschen, die mit Haftbefehl gesucht werden."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Felssturz an der Loreley: Warum selbst überwachte Hänge gefährlich bleiben",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/felssturz-an-der-loreley-warum-selbst-ueberwachte-haenge-gefaehrlich-bleiben/",
+          "published": "2026-08-31T16:33:45+00:00",
+          "summary": "Nach dem Felssturz an der Loreley bleibt die B42 gesperrt. Experten prüfen den Hang und planen bereits ein Fangnetz. So funktioniert Felssicherung."
+        },
         {
           "title": "83 Windräder standen längst: Warum Borkum Riffgrund 3 erst jetzt voll startet",
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/83-windraeder-standen-laengst-warum-borkum-riffgrund-3-erst-jetzt-voll-startet/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/advertorial/erp-fuer-bau-und-ingenieurbuerosstaware-businessnavigator-im-erp-wettbewerb-2026/",
           "published": "2026-08-31T11:13:19+00:00",
           "summary": "Die Digitalisierung in Bauunternehmen und Ingenieurbüros ist häufig weniger durch fehlende Software als durch deren Vielzahl geprägt. Kalkulation, Projektmanagement, Dokumentenverwaltung, Finanzwesen …"
-        },
-        {
-          "title": "TUM greift EU-Klimarechnung an: E-Autos sparen demnach nur 41 % CO₂",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/muessen-e-autos-neu-bewertet-werden-studie-der-tum-stellt-deren-klimabilanz-in-frage/",
-          "published": "2026-08-31T10:30:00+00:00",
-          "summary": "TUM-Studie kritisiert die EU-Klimabilanz von E-Autos: Sie sparen CO₂, sind über den Lebenszyklus aber nicht klimaneutral."
         }
       ],
       "error": null
