@@ -5,6 +5,7 @@ Bewusst ohne externe Abhaengigkeiten (nur Python-Standardbibliothek), damit der
 GitHub-Actions-Workflow ohne pip-Install auskommt.
 """
 
+import html
 import json
 import pathlib
 import re
@@ -47,14 +48,8 @@ def text_of(node) -> str:
 
 def strip_html(value: str) -> str:
     value = re.sub(r"<[^>]+>", " ", value)
-    value = (
-        value.replace("&nbsp;", " ")
-        .replace("&amp;", "&")
-        .replace("&lt;", "<")
-        .replace("&gt;", ">")
-        .replace("&quot;", '"')
-        .replace("&#39;", "'")
-    )
+    # html.unescape kennt auch benannte und numerische Entities wie &#8217;.
+    value = html.unescape(value).replace("\xa0", " ")
     return " ".join(value.split())
 
 
@@ -132,8 +127,13 @@ def parse_feed(raw: bytes, limit: int):
         date_node = find_child(node, "pubDate", "published", "updated", "date")
         published = parse_date(text_of(date_node))
         summary = strip_html(text_of(find_child(node, "description", "summary")))
-        if len(summary) > 220:
-            summary = summary[:219].rstrip() + "…"
+        # Manche Feeds (u. a. die Tagesschau) wiederholen nur die Ueberschrift.
+        # Ein Anreisser, der nichts Neues sagt, wird weggelassen.
+        if summary.rstrip(" .…").lower() == title.rstrip(" .…").lower():
+            summary = ""
+        if len(summary) > 200:
+            gekuerzt = summary[:200].rsplit(" ", 1)[0]
+            summary = (gekuerzt or summary[:200]).rstrip(" ,;:–-") + " …"
         items.append(
             {
                 "title": title,
