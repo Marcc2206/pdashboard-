@@ -1,0 +1,481 @@
+{
+  "_hinweis": "Allgemeinwissen fuer das Wissens-Modul. Pro Tag werden mehrere Eintraege gezeigt, danach rotiert die Liste weiter. Eintraege duerfen frei ergaenzt oder geloescht werden.",
+  "proTag": 3,
+  "eintraege": [
+    {
+      "titel": "Die Kubakrise",
+      "kategorie": "Geschichte",
+      "text": "Im Oktober 1962 entdeckten US-Aufklärungsflugzeuge sowjetische Atomraketen auf Kuba, keine 150 Kilometer vor Florida. Die Sowjetunion reagierte damit auf US-Raketen in der Türkei. Dreizehn Tage lang stand die Welt am Rand eines Atomkriegs, während Kennedy eine Seeblockade verhängte. Chruschtschow zog die Raketen ab, im Gegenzug räumten die USA still ihre Stellungen in der Türkei. Danach wurde ein direkter Draht zwischen Washington und Moskau eingerichtet."
+    },
+    {
+      "titel": "Warum es Jahreszeiten gibt",
+      "kategorie": "Naturwissenschaft",
+      "text": "Nicht der Abstand zur Sonne verursacht die Jahreszeiten, sondern die Neigung der Erdachse um 23,5 Grad. Im Sommer ist die eigene Halbkugel der Sonne zugeneigt, das Licht trifft steiler auf und die Tage sind länger. Tatsächlich ist die Erde Anfang Januar der Sonne am nächsten, also mitten im europäischen Winter."
+    },
+    {
+      "titel": "Der Marshallplan",
+      "kategorie": "Geschichte",
+      "text": "Ab 1948 pumpten die USA rund 13 Milliarden Dollar in den Wiederaufbau Westeuropas. Das Motiv war nicht nur Großzügigkeit: Ein wirtschaftlich stabiles Europa sollte dem Kommunismus wenig Angriffsfläche bieten und zugleich Absatzmarkt für US-Waren bleiben. Die Sowjetunion verbot ihren Satellitenstaaten die Teilnahme, was die Teilung Europas vertiefte."
+    },
+    {
+      "titel": "Was Inflation wirklich bedeutet",
+      "kategorie": "Wirtschaft",
+      "text": "Inflation heißt, dass Geld an Kaufkraft verliert: Für denselben Betrag bekommt man weniger. Gemessen wird sie an einem Warenkorb typischer Ausgaben. Ein wenig Inflation gilt als gesund, weil sie zum Ausgeben und Investieren anregt; die Europäische Zentralbank zielt auf rund zwei Prozent. Gefährlich wird es, wenn Löhne nicht mitwachsen oder wenn Preise und Löhne sich gegenseitig hochschaukeln."
+    },
+    {
+      "titel": "Die Seidenstraße",
+      "kategorie": "Geschichte",
+      "text": "Die Seidenstraße war keine einzelne Straße, sondern ein Geflecht von Handelsrouten zwischen China und dem Mittelmeer, ab etwa 130 v. Chr. Neben Seide reisten Papier, Schießpulver, Religionen und Krankheiten mit. Der Schwarze Tod erreichte Europa im 14. Jahrhundert vermutlich über diese Wege."
+    },
+    {
+      "titel": "Wie ein Impfstoff funktioniert",
+      "kategorie": "Medizin",
+      "text": "Ein Impfstoff zeigt dem Immunsystem ein Erkennungsmerkmal des Erregers, ohne die Krankheit auszulösen. Der Körper bildet daraufhin Antikörper und Gedächtniszellen. Bei echtem Kontakt reagiert die Abwehr dann sofort statt erst nach Tagen. Je mehr Menschen geimpft sind, desto schwerer findet der Erreger neue Wirte – das schützt auch die, die selbst nicht geimpft werden können."
+    },
+    {
+      "titel": "Der Westfälische Friede 1648",
+      "kategorie": "Geschichte",
+      "text": "Er beendete den Dreißigjährigen Krieg, der Mitteleuropa entvölkert hatte – in manchen Regionen starb ein Drittel der Menschen. Ausgehandelt wurde er in Münster und Osnabrück. Sein bleibendes Erbe ist die Idee souveräner Staaten, die sich gegenseitig nicht in innere Angelegenheiten einmischen. Darauf beruht das Völkerrecht bis heute."
+    },
+    {
+      "titel": "Warum der Himmel blau ist",
+      "kategorie": "Naturwissenschaft",
+      "text": "Sonnenlicht enthält alle Farben. In der Luft werden kurzwellige Anteile – blau und violett – von den Molekülen viel stärker in alle Richtungen gestreut als langwellige. Wir sehen deshalb blaues Licht aus dem ganzen Himmel kommen. Bei Sonnenuntergang legt das Licht einen längeren Weg zurück, das Blau wird herausgestreut, übrig bleibt Rot."
+    },
+    {
+      "titel": "Angebot und Nachfrage",
+      "kategorie": "Wirtschaft",
+      "text": "Der Preis ist der Punkt, an dem sich die Menge trifft, die Verkäufer anbieten wollen, und die Menge, die Käufer haben wollen. Steigt die Nachfrage bei gleichem Angebot, steigt der Preis – und der höhere Preis lockt neue Anbieter an, bis sich das wieder einpendelt. Deshalb sind Eingriffe wie Preisdeckel heikel: Sie halten den Preis unten, bremsen aber das Angebot."
+    },
+    {
+      "titel": "Die Französische Revolution",
+      "kategorie": "Geschichte",
+      "text": "1789 stürzte in Frankreich die absolute Monarchie. Auslöser waren Staatsbankrott, Missernten und eine Ständeordnung, in der Adel und Klerus kaum Steuern zahlten. Aus ihr stammen die Ideen von Freiheit, Gleichheit und Brüderlichkeit sowie die Erklärung der Menschenrechte. Sie kippte aber auch in Terror und endete in der Diktatur Napoleons."
+    },
+    {
+      "titel": "Was Zinseszins anrichtet",
+      "kategorie": "Wirtschaft",
+      "text": "Zinsen bringen selbst wieder Zinsen, deshalb wächst Kapital nicht gerade, sondern gekrümmt. Faustregel: Teile 72 durch den Zinssatz, dann hast du die Jahre bis zur Verdopplung. Bei 6 Prozent sind das zwölf Jahre. Dasselbe wirkt gegen dich, wenn du Schulden hast – Dispozinsen fressen sich genauso schnell."
+    },
+    {
+      "titel": "Plattentektonik",
+      "kategorie": "Naturwissenschaft",
+      "text": "Die Erdkruste besteht aus Platten, die auf zähflüssigem Gestein schwimmen und sich einige Zentimeter pro Jahr bewegen – etwa so schnell wie Fingernägel wachsen. Wo sie aneinander reiben, gibt es Erdbeben; wo eine unter die andere taucht, entstehen Vulkane. Deshalb liegen Japan, Kalifornien und Italien in Risikozonen."
+    },
+    {
+      "titel": "Der Fall der Berliner Mauer",
+      "kategorie": "Geschichte",
+      "text": "Am 9. November 1989 verlas SED-Funktionär Günter Schabowski eine neue Reiseregelung und antwortete auf die Nachfrage, wann sie gelte, mit „sofort, unverzüglich\". Das war ein Versehen – die Regelung sollte erst am nächsten Tag greifen. Tausende zogen daraufhin an die Übergänge, die Grenzer öffneten ohne Befehl. Elf Monate später war Deutschland wiedervereinigt."
+    },
+    {
+      "titel": "Wie das Internet aufgebaut ist",
+      "kategorie": "Technik",
+      "text": "Das Internet ist kein zentraler Computer, sondern ein Verbund unabhängiger Netze, die sich auf gemeinsame Regeln geeinigt haben. Daten werden in kleine Pakete zerlegt, die getrennte Wege nehmen und beim Empfänger neu zusammengesetzt werden. Diese Struktur stammt aus der Idee, dass ein Netz auch dann funktioniert, wenn Teile davon ausfallen."
+    },
+    {
+      "titel": "Die Weltwirtschaftskrise 1929",
+      "kategorie": "Wirtschaft",
+      "text": "Nach Jahren spekulativer Übertreibung brach im Oktober 1929 die New Yorker Börse ein. Banken kollabierten, die Arbeitslosigkeit in Deutschland stieg auf über sechs Millionen. Die Regierungen sparten damals in die Krise hinein und verschärften sie dadurch. Diese Erfahrung ist der Grund, warum Staaten heute in Krisen Geld ausgeben statt zu kürzen."
+    },
+    {
+      "titel": "Warum es Ebbe und Flut gibt",
+      "kategorie": "Naturwissenschaft",
+      "text": "Die Anziehungskraft des Mondes zieht das Wasser der Erde zu sich hin. Auf der Gegenseite entsteht ein zweiter Flutberg, weil dort die Fliehkraft überwiegt. Deshalb gibt es zweimal am Tag Hochwasser. Steht die Sonne mit dem Mond in einer Linie, addieren sich die Kräfte – das ist die Springflut."
+    },
+    {
+      "titel": "Die Aufklärung",
+      "kategorie": "Philosophie",
+      "text": "Eine europäische Denkbewegung des 18. Jahrhunderts, die Vernunft über Tradition und kirchliche Autorität stellte. Kant fasste sie zusammen als „Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit\". Daraus entstanden Gewaltenteilung, Pressefreiheit und die Idee, dass Herrschaft der Rechtfertigung bedarf."
+    },
+    {
+      "titel": "Was eine Aktie ist",
+      "kategorie": "Wirtschaft",
+      "text": "Eine Aktie ist ein Anteil an einem Unternehmen. Wer sie besitzt, gehört zu den Eigentümern, hat Stimmrecht auf der Hauptversammlung und Anspruch auf einen Teil des Gewinns, die Dividende. Der Kurs schwankt mit den Erwartungen an die künftigen Gewinne – deshalb kann er fallen, obwohl die Firma Gewinn macht, wenn Anleger mehr erhofft hatten."
+    },
+    {
+      "titel": "Das Römische Reich",
+      "kategorie": "Geschichte",
+      "text": "Aus einer Stadt am Tiber wurde ein Reich, das vom heutigen Schottland bis nach Ägypten reichte. Es hinterließ Straßen, Wasserleitungen, das lateinische Alphabet und ein Rechtssystem, auf dem das deutsche Zivilrecht bis heute aufbaut. 476 endete der weströmische Teil, der oströmische bestand als Byzanz noch fast tausend Jahre weiter."
+    },
+    {
+      "titel": "Wie Strom ins Haus kommt",
+      "kategorie": "Technik",
+      "text": "Kraftwerke und Windräder erzeugen Strom, der auf sehr hohe Spannung gebracht wird – bei hoher Spannung gehen unterwegs weniger Verluste verloren. Über Höchstspannungsleitungen geht es quer durchs Land, dann stufenweise herunter bis auf die 230 Volt in der Steckdose. Das Netz muss dabei in jedem Moment genau so viel einspeisen, wie verbraucht wird."
+    },
+    {
+      "titel": "Die Vereinten Nationen",
+      "kategorie": "Politik",
+      "text": "1945 nach dem Zweiten Weltkrieg gegründet, um Kriege zu verhindern. Fast alle Staaten der Welt sind Mitglied. Kernproblem ist der Sicherheitsrat: Fünf Staaten – USA, Russland, China, Frankreich, Großbritannien – haben ein Vetorecht und können jede Entscheidung blockieren. Deshalb ist die UNO oft handlungsunfähig, wenn eine Großmacht selbst beteiligt ist."
+    },
+    {
+      "titel": "Evolution durch Selektion",
+      "kategorie": "Naturwissenschaft",
+      "text": "In jeder Generation entstehen zufällige Abweichungen im Erbgut. Wer damit in seiner Umwelt besser zurechtkommt, hinterlässt mehr Nachkommen – so verschiebt sich die Art über viele Generationen. Wichtig: Nicht das Individuum passt sich an, sondern die Zusammensetzung der Population verändert sich. Darwin veröffentlichte die Idee 1859."
+    },
+    {
+      "titel": "Was ein Zentralbankzins bewirkt",
+      "kategorie": "Wirtschaft",
+      "text": "Die Zentralbank legt fest, zu welchem Zins sich Geschäftsbanken bei ihr Geld leihen. Steigt dieser Satz, werden Kredite für Firmen und Haushalte teurer, es wird weniger investiert und konsumiert – das bremst die Inflation, aber auch die Konjunktur. Sinkt er, passiert das Gegenteil. Es ist der wichtigste Hebel der Geldpolitik."
+    },
+    {
+      "titel": "Der Erste Weltkrieg",
+      "kategorie": "Geschichte",
+      "text": "1914 bis 1918, ausgelöst durch das Attentat von Sarajevo, aber vorbereitet durch ein Geflecht von Bündnissen, Wettrüsten und Nationalismus. Neu waren Maschinengewehre, Giftgas und Grabenkrieg – rund 17 Millionen Menschen starben. Der Versailler Vertrag legte Deutschland hohe Lasten auf, was den Nährboden für den Zweiten Weltkrieg mitbereitete."
+    },
+    {
+      "titel": "Warum Flugzeuge fliegen",
+      "kategorie": "Naturwissenschaft",
+      "text": "Der Flügel lenkt die anströmende Luft nach unten ab. Nach dem Prinzip actio gleich reactio drückt die Luft den Flügel dafür nach oben. Entscheidend sind Anstellwinkel und Geschwindigkeit, nicht allein die Wölbung – deshalb können Flugzeuge auch auf dem Rücken fliegen."
+    },
+    {
+      "titel": "Die Europäische Union",
+      "kategorie": "Politik",
+      "text": "Entstanden aus der Montanunion von 1951, die Kohle und Stahl von Deutschland und Frankreich zusammenlegte – wer gemeinsam produziert, führt schwerer Krieg gegeneinander. Heute ein Binnenmarkt mit 27 Staaten, freiem Waren-, Personen- und Kapitalverkehr. Nicht alle EU-Länder haben den Euro, und nicht alle Euro-Länder sind im Schengenraum."
+    },
+    {
+      "titel": "Was DNA ist",
+      "kategorie": "Naturwissenschaft",
+      "text": "Ein langes Molekül in Form einer verdrehten Leiter, dessen Sprossen aus vier Bausteinen bestehen. Ihre Reihenfolge ist der Bauplan für Proteine. Beim Zellteilen wird die Leiter aufgetrennt, jede Hälfte dient als Vorlage für eine neue – so wird Erbinformation kopiert. Watson, Crick und Franklin klärten die Struktur 1953 auf."
+    },
+    {
+      "titel": "Der Kalte Krieg",
+      "kategorie": "Geschichte",
+      "text": "Nach 1945 standen sich USA und Sowjetunion mit unvereinbaren Ordnungsvorstellungen gegenüber, ohne je direkt gegeneinander zu kämpfen. Stattdessen Stellvertreterkriege in Korea, Vietnam und Afghanistan, Wettrüsten und Wettlauf ins All. Abschreckung funktionierte, weil beide Seiten sich gegenseitig vernichten konnten. 1991 zerfiel die Sowjetunion."
+    },
+    {
+      "titel": "Wie eine Versicherung funktioniert",
+      "kategorie": "Wirtschaft",
+      "text": "Viele zahlen kleine Beiträge, wenige erleiden einen großen Schaden und werden daraus bezahlt. Das funktioniert nur, wenn die Schäden unabhängig voneinander eintreten – deshalb sind Naturkatastrophen und Pandemien für Versicherer schwierig, da dort alle gleichzeitig betroffen sind. Ein zweites Problem: Wer weiß, dass er ein hohes Risiko hat, versichert sich eher."
+    },
+    {
+      "titel": "Die Industrielle Revolution",
+      "kategorie": "Geschichte",
+      "text": "Ab etwa 1760 in England: Dampfmaschine, Kohle und mechanische Webstühle ersetzten Muskelkraft. Die Produktion vervielfachte sich, Menschen zogen vom Land in die Städte, und es entstand eine Arbeiterschaft ohne Absicherung. Daraus wuchsen Gewerkschaften, Sozialgesetze – und die Umweltprobleme, die uns heute beschäftigen."
+    },
+    {
+      "titel": "Was Künstliche Intelligenz heute kann",
+      "kategorie": "Technik",
+      "text": "Heutige KI-Systeme erkennen Muster in riesigen Datenmengen und sagen vorher, was am wahrscheinlichsten als Nächstes kommt. Sie verstehen nicht im menschlichen Sinn und haben kein Weltbild, können aber Texte, Bilder und Code erzeugen, die überzeugend wirken. Deshalb sind sie stark bei Routine mit klarem Muster und unzuverlässig bei Fakten, die sie nicht gesehen haben."
+    },
+    {
+      "titel": "Gewaltenteilung",
+      "kategorie": "Politik",
+      "text": "Die Staatsmacht wird auf drei Bereiche verteilt: Gesetzgebung, Regierung und Gerichte. Keiner soll die anderen beherrschen. Montesquieu formulierte das im 18. Jahrhundert als Schutz vor Willkür. In Deutschland zeigt sich das daran, dass das Bundesverfassungsgericht Gesetze des Bundestags kippen kann."
+    },
+    {
+      "titel": "Warum es Zeitzonen gibt",
+      "kategorie": "Naturwissenschaft",
+      "text": "Die Erde dreht sich in 24 Stunden einmal um sich selbst, also 15 Grad pro Stunde. Vor der Eisenbahn hatte jede Stadt ihre eigene Zeit nach dem Sonnenstand. Erst Fahrpläne machten eine Vereinheitlichung nötig. 1884 legte man Greenwich als Nullmeridian fest, davon zählen die Zonen nach Osten und Westen."
+    },
+    {
+      "titel": "Was das Bruttoinlandsprodukt misst",
+      "kategorie": "Wirtschaft",
+      "text": "Das BIP ist der Wert aller Waren und Dienstleistungen, die in einem Land in einem Jahr produziert werden. Es sagt wenig über Verteilung, Umwelt oder Lebensqualität – Autounfälle erhöhen es, weil Reparaturen anfallen, unbezahlte Care-Arbeit taucht gar nicht auf. Trotzdem bleibt es die wichtigste Kennzahl, weil es vergleichbar und regelmäßig verfügbar ist."
+    },
+    {
+      "titel": "Der Buchdruck",
+      "kategorie": "Geschichte",
+      "text": "Um 1450 kombinierte Johannes Gutenberg bewegliche Metalllettern, eine Presse und geeignete Farbe. Ein Buch kostete danach einen Bruchteil und war in Wochen statt Jahren fertig. Das machte Reformation, Wissenschaft und Zeitungen erst möglich – Luthers Thesen verbreiteten sich in Wochen über Europa."
+    },
+    {
+      "titel": "Wie das Auge Farben sieht",
+      "kategorie": "Medizin",
+      "text": "Auf der Netzhaut sitzen drei Typen von Zapfen, die auf rotes, grünes und blaues Licht ansprechen. Alle Farbeindrücke entstehen aus dem Mischungsverhältnis ihrer Signale. Bei schwachem Licht übernehmen die Stäbchen, die nur Helligkeit unterscheiden – deshalb sind nachts alle Katzen grau."
+    },
+    {
+      "titel": "Die NATO",
+      "kategorie": "Politik",
+      "text": "1949 als Verteidigungsbündnis gegen die Sowjetunion gegründet. Kern ist Artikel 5: Ein Angriff auf ein Mitglied gilt als Angriff auf alle. Ausgerufen wurde er bisher genau einmal – nach den Anschlägen vom 11. September 2001 zugunsten der USA. Nach dem russischen Angriff auf die Ukraine traten Finnland und Schweden bei."
+    },
+    {
+      "titel": "Was Antibiotika können und was nicht",
+      "kategorie": "Medizin",
+      "text": "Antibiotika wirken gegen Bakterien, indem sie deren Zellwand oder Stoffwechsel angreifen. Gegen Viren – also gegen Erkältung und Grippe – sind sie wirkungslos. Werden sie zu oft oder zu kurz eingenommen, überleben die widerstandsfähigsten Bakterien und vermehren sich. Diese Resistenzen gelten als eine der größten Gesundheitsgefahren der kommenden Jahrzehnte."
+    },
+    {
+      "titel": "Warum Kartelle verboten sind",
+      "kategorie": "Wirtschaft",
+      "text": "Sprechen sich Konkurrenten über Preise ab, verhalten sie sich wie ein Monopolist: Preise steigen, Qualität sinkt, Kunden haben keine Ausweichmöglichkeit. Deshalb verfolgen Kartellbehörden solche Absprachen mit hohen Bußgeldern. Kronzeugenregelungen setzen zusätzlich auf Misstrauen – wer als Erster auspackt, kommt oft straffrei davon."
+    },
+    {
+      "titel": "Der Zweite Weltkrieg",
+      "kategorie": "Geschichte",
+      "text": "1939 bis 1945, ausgelöst durch den deutschen Überfall auf Polen. Er kostete rund 60 Millionen Menschen das Leben und umfasste den industriell organisierten Mord an sechs Millionen Juden. Aus seinen Lehren entstanden die UNO, die Menschenrechtserklärung und in Deutschland ein Grundgesetz, das die Menschenwürde an den Anfang stellt."
+    },
+    {
+      "titel": "Wie ein Kühlschrank kühlt",
+      "kategorie": "Technik",
+      "text": "Ein Kühlschrank erzeugt keine Kälte, er transportiert Wärme nach außen. Ein Kältemittel verdampft im Inneren und entzieht dabei Wärme, wird dann außen zusammengepresst, gibt die Wärme an die Raumluft ab und wird wieder flüssig. Deshalb ist die Rückseite warm – und deshalb kühlt ein offener Kühlschrank die Küche nicht, sondern heizt sie."
+    },
+    {
+      "titel": "Was Demokratie ausmacht",
+      "kategorie": "Politik",
+      "text": "Mehr als nur Wahlen: Dazu gehören freie Presse, unabhängige Gerichte, Minderheitenschutz und die Möglichkeit, eine Regierung ohne Gewalt abzuwählen. Regime, die wählen lassen, aber Opposition und Justiz kontrollieren, nennt man defekte Demokratien. Der Test ist weniger, ob gewählt wird, sondern ob ein Machtwechsel tatsächlich möglich wäre."
+    },
+    {
+      "titel": "Der Treibhauseffekt",
+      "kategorie": "Naturwissenschaft",
+      "text": "Sonnenlicht erreicht den Boden und wird als Wärmestrahlung zurückgeworfen. Gase wie CO₂ und Methan halten einen Teil davon in der Atmosphäre fest. Ohne diesen natürlichen Effekt wäre die Erde etwa 33 Grad kälter und unbewohnbar. Problematisch ist die Verstärkung: Mehr CO₂ bedeutet mehr gehaltene Wärme."
+    },
+    {
+      "titel": "Was eine Anleihe ist",
+      "kategorie": "Wirtschaft",
+      "text": "Eine Anleihe ist ein Kredit, den viele Anleger einem Staat oder Unternehmen geben. Man bekommt regelmäßig Zinsen und am Ende den Betrag zurück. Anders als bei Aktien ist man Gläubiger, nicht Miteigentümer. Wichtig: Steigen die Marktzinsen, fallen die Kurse alter Anleihen, weil deren feste Zinsen plötzlich unattraktiv sind."
+    },
+    {
+      "titel": "Die Renaissance",
+      "kategorie": "Kultur",
+      "text": "Ab dem 14. Jahrhundert besannen sich italienische Städte auf Antike und Mensch statt allein auf Jenseits und Kirche. Die Zentralperspektive machte Bilder räumlich, Anatomiestudien machten Körper realistisch. Leonardo, Michelangelo und Raffael stehen dafür. Getragen wurde das von reichen Handelsfamilien wie den Medici in Florenz."
+    },
+    {
+      "titel": "Wie GPS funktioniert",
+      "kategorie": "Technik",
+      "text": "Satelliten senden ständig Signale mit sehr genauer Uhrzeit. Das Gerät misst, wie lange jedes Signal unterwegs war, und errechnet daraus die Abstände. Aus vier Abständen ergibt sich der eigene Standort. Weil die Satelliten sich schnell bewegen und die Schwerkraft dort schwächer ist, muss dabei Einsteins Relativitätstheorie einbezogen werden – sonst wäre die Position täglich um Kilometer daneben."
+    },
+    {
+      "titel": "Der Kolonialismus",
+      "kategorie": "Geschichte",
+      "text": "Ab dem 15. Jahrhundert unterwarfen europäische Staaten weite Teile Amerikas, Afrikas und Asiens. Rohstoffe und Menschen wurden abtransportiert, Grenzen mit dem Lineal gezogen. Die Berliner Konferenz 1884 teilte Afrika unter europäischen Mächten auf, ohne dass ein Afrikaner am Tisch saß. Viele heutige Konflikte folgen diesen willkürlichen Linien."
+    },
+    {
+      "titel": "Was Schmerz ist",
+      "kategorie": "Medizin",
+      "text": "Schmerz entsteht nicht in der verletzten Stelle, sondern im Gehirn. Nervenenden melden Reize, das Gehirn bewertet sie im Zusammenhang und erzeugt daraus die Empfindung. Deshalb kann Ablenkung Schmerz mindern und Angst ihn verstärken. Bei chronischem Schmerz kann sich diese Verarbeitung verselbstständigen, obwohl die ursprüngliche Verletzung längst verheilt ist."
+    },
+    {
+      "titel": "Föderalismus in Deutschland",
+      "kategorie": "Politik",
+      "text": "Macht ist zwischen Bund und 16 Ländern verteilt. Bildung, Polizei und Kultur sind Ländersache – deshalb unterscheiden sich Schulsysteme von Land zu Land. Über den Bundesrat reden die Länder bei Bundesgesetzen mit. Das bremst Entscheidungen, war nach 1945 aber genau so gewollt: Machtkonzentration sollte nie wieder möglich sein."
+    },
+    {
+      "titel": "Warum Wasser besonders ist",
+      "kategorie": "Naturwissenschaft",
+      "text": "Wasser dehnt sich beim Gefrieren aus, statt sich zusammenzuziehen. Deshalb schwimmt Eis oben und Seen frieren von oben zu – darunter überleben Fische. Wasser speichert außerdem viel Wärme, was das Klima an Küsten ausgleicht, und löst mehr Stoffe als fast jede andere Flüssigkeit. Ohne diese Eigenschaften gäbe es kein Leben, wie wir es kennen."
+    },
+    {
+      "titel": "Was ein ETF ist",
+      "kategorie": "Wirtschaft",
+      "text": "Ein börsengehandelter Fonds, der einen Index einfach nachbildet, statt einzelne Werte auszuwählen. Wer einen Welt-ETF kauft, besitzt anteilig Tausende Firmen weltweit. Vorteil sind niedrige Kosten und breite Streuung, weil kein teures Fondsmanagement bezahlt wird. Nachteil: Man macht jede Talfahrt des Marktes vollständig mit."
+    },
+    {
+      "titel": "Die Mondlandung",
+      "kategorie": "Geschichte",
+      "text": "Am 20. Juli 1969 betraten Armstrong und Aldrin den Mond. Der Bordcomputer hatte weniger Rechenleistung als ein heutiges Handy, und beim Landeanflug musste Armstrong manuell übernehmen, weil der Zielort voller Felsbrocken war – der Treibstoff reichte noch für rund 25 Sekunden. Hintergrund war der Wettlauf mit der Sowjetunion, die 1957 mit Sputnik vorgelegt hatte."
+    },
+    {
+      "titel": "Wie Verschlüsselung schützt",
+      "kategorie": "Technik",
+      "text": "Moderne Verfahren nutzen zwei Schlüssel: einen öffentlichen zum Verschlüsseln, den jeder haben darf, und einen privaten zum Entschlüsseln, den nur der Empfänger hat. Sicher ist das, weil das Zurückrechnen astronomisch lange dauern würde. Genau darauf zielen Quantencomputer – deshalb wird bereits an Verfahren gearbeitet, die auch dann noch halten."
+    },
+    {
+      "titel": "Die Weimarer Republik",
+      "kategorie": "Geschichte",
+      "text": "Deutschlands erste Demokratie, 1919 bis 1933. Sie hatte eine fortschrittliche Verfassung, litt aber unter Hyperinflation, Weltwirtschaftskrise und einer Öffentlichkeit, in der viele die Republik ablehnten. Notverordnungen des Reichspräsidenten hebelten das Parlament aus, bevor Hitler legal an die Macht kam. Das Grundgesetz von 1949 zog daraus Konsequenzen – etwa das konstruktive Misstrauensvotum."
+    },
+    {
+      "titel": "Was Statistik verschweigen kann",
+      "kategorie": "Wissenschaft",
+      "text": "Ein Zusammenhang ist keine Ursache. Wo mehr Störche nisten, gibt es mehr Geburten – beides hängt an ländlichen Gegenden, nicht aneinander. Ebenso wichtig: der Durchschnitt kann täuschen, wenn wenige Extremwerte ihn hochziehen. Deshalb ist der Median oft ehrlicher, etwa bei Einkommen und Vermögen."
+    },
+    {
+      "titel": "Klima und Wetter",
+      "kategorie": "Naturwissenschaft",
+      "text": "Wetter ist der Zustand der Atmosphäre gerade jetzt, Klima ist dessen statistisches Mittel über mindestens 30 Jahre. Ein kalter Winter widerlegt die Erderwärmung genauso wenig, wie ein verlorenes Spiel eine gute Saison widerlegt. Klimamodelle sagen deshalb keine einzelnen Tage voraus, sondern Verschiebungen von Häufigkeiten."
+    },
+    {
+      "titel": "Der Euro",
+      "kategorie": "Wirtschaft",
+      "text": "1999 als Buchgeld, 2002 als Bargeld eingeführt, heute in 20 Ländern gültig. Vorteil ist der Wegfall von Wechselkursrisiken im Binnenmarkt. Schwachstelle: Eine gemeinsame Geldpolitik muss für sehr unterschiedliche Volkswirtschaften passen – ein Zinssatz, der Deutschland bremst, kann Griechenland würgen. Genau das brach in der Eurokrise ab 2010 auf."
+    },
+    {
+      "titel": "Wie Muskeln wachsen",
+      "kategorie": "Medizin",
+      "text": "Belastung erzeugt winzige Risse in den Muskelfasern. Der Körper repariert sie und legt dabei etwas mehr an, als vorher da war – aber nur, wenn Eiweiß und Erholung vorhanden sind. Deshalb wächst Muskulatur in der Pause, nicht im Training. Wer zu selten pausiert, baut ab statt auf."
+    },
+    {
+      "titel": "Die Magna Carta",
+      "kategorie": "Geschichte",
+      "text": "1215 zwangen englische Barone König Johann Ohneland, eine Urkunde zu unterzeichnen, die seine Macht begrenzte. Wichtig ist bis heute der Grundsatz, dass niemand ohne rechtmäßiges Urteil eingesperrt werden darf. Sie war zunächst ein Adelsprivileg, wurde aber zum Bezugspunkt für Rechtsstaat und Verfassungen weltweit."
+    },
+    {
+      "titel": "Was Zölle bewirken",
+      "kategorie": "Wirtschaft",
+      "text": "Ein Zoll verteuert eingeführte Waren. Das schützt heimische Anbieter, verteuert aber alles für Verbraucher und für Firmen, die importierte Teile brauchen. Meist zahlt nicht das Ausland die Rechnung, sondern der Käufer im eigenen Land. Zudem folgen oft Gegenzölle, und beide Seiten stehen schlechter da als vorher."
+    },
+    {
+      "titel": "Schwarze Löcher",
+      "kategorie": "Naturwissenschaft",
+      "text": "Wenn ein sehr massereicher Stern am Ende seines Lebens kollabiert, wird die Masse so dicht, dass nicht einmal Licht entkommt. Die Grenze heißt Ereignishorizont. 2019 gelang das erste Bild eines solchen Schattens. Im Zentrum fast jeder Galaxie sitzt ein supermassereiches Exemplar – auch in unserer Milchstraße."
+    },
+    {
+      "titel": "Die Reformation",
+      "kategorie": "Geschichte",
+      "text": "1517 kritisierte Martin Luther den Ablasshandel, mit dem sich Gläubige von Sündenstrafen freikaufen sollten. Seine Bibelübersetzung machte den Text für Laien lesbar und prägte die deutsche Schriftsprache. Die Spaltung der Kirche zog Religionskriege nach sich, förderte aber auch Alphabetisierung und die Idee individueller Gewissensfreiheit."
+    },
+    {
+      "titel": "Wie das Immunsystem lernt",
+      "kategorie": "Medizin",
+      "text": "Es besteht aus zwei Teilen: einer angeborenen Abwehr, die sofort und unspezifisch reagiert, und einer erworbenen, die gezielt Antikörper baut und sich Erreger merkt. Deshalb bekommt man Masern nur einmal, Erkältungen dagegen ständig – die Erkältungsviren verändern sich laufend und sind zudem sehr zahlreich."
+    },
+    {
+      "titel": "Was Gewaltenteilung im Alltag bedeutet",
+      "kategorie": "Politik",
+      "text": "Wird man geblitzt, verhängt die Behörde ein Bußgeld – das ist die ausführende Gewalt. Die Höhe steht in einem Katalog, den der Gesetzgeber beschlossen hat. Wer widerspricht, landet vor Gericht, das unabhängig von der Behörde entscheidet. Genau dieses Auseinanderziehen verhindert, dass eine Stelle Regel, Strafe und Urteil in einer Hand hält."
+    },
+    {
+      "titel": "Die Entdeckung des Penicillins",
+      "kategorie": "Medizin",
+      "text": "1928 bemerkte Alexander Fleming, dass auf einer vergessenen Bakterienkultur ein Schimmelpilz wuchs und ringsum die Bakterien abtötete. Erst über zehn Jahre später gelang es anderen, den Wirkstoff in Mengen herzustellen – rechtzeitig für den Zweiten Weltkrieg, wo er unzählige Leben rettete. Bis dahin starben Menschen an einer entzündeten Schürfwunde."
+    },
+    {
+      "titel": "Warum Sprachen verwandt sind",
+      "kategorie": "Kultur",
+      "text": "Deutsch, Englisch, Hindi, Persisch und Latein gehen auf eine gemeinsame Ursprache zurück, das Indogermanische, gesprochen vor rund 6000 Jahren. Erkennbar ist das an Grundwörtern: Mutter, mother, mata, madar. Sprachen verändern sich nach Regeln, weshalb sich Verwandtschaften rekonstruieren lassen, obwohl niemand die Ursprache je aufgeschrieben hat."
+    },
+    {
+      "titel": "Was eine Bilanz zeigt",
+      "kategorie": "Wirtschaft",
+      "text": "Eine Bilanz hat zwei Seiten, die immer gleich groß sind. Links steht, was das Unternehmen besitzt – Maschinen, Vorräte, Geld. Rechts steht, woher dieses Vermögen finanziert ist: Eigenkapital der Eigentümer oder Schulden. Ein hoher Eigenkapitalanteil bedeutet, dass eine Firma Verluste aushalten kann, ohne sofort ins Wanken zu geraten."
+    },
+    {
+      "titel": "Der Nahostkonflikt in Grundzügen",
+      "kategorie": "Geschichte",
+      "text": "Zwei nationale Bewegungen erheben Anspruch auf dasselbe Gebiet. 1947 sah ein UN-Teilungsplan zwei Staaten vor; nach der israelischen Staatsgründung 1948 folgte Krieg, viele Palästinenser wurden vertrieben oder flohen. Seither prägen Besatzung, Siedlungsbau, Terror und gescheiterte Friedensprozesse die Lage. Kernstreitpunkte sind Grenzen, Jerusalem, Sicherheit und das Schicksal der Flüchtlinge."
+    },
+    {
+      "titel": "Wie Batterien funktionieren",
+      "kategorie": "Technik",
+      "text": "In einer Batterie laufen zwei chemische Reaktionen ab, die räumlich getrennt sind. Elektronen können nur über den äußeren Stromkreis von einer Seite zur anderen – das ist der nutzbare Strom. Beim Aufladen kehrt man den Vorgang um. Lithium eignet sich besonders gut, weil es sehr leicht ist und Elektronen bereitwillig abgibt."
+    },
+    {
+      "titel": "Das Grundgesetz",
+      "kategorie": "Politik",
+      "text": "1949 als Provisorium für Westdeutschland gedacht, gilt es seit 1990 für ganz Deutschland. Artikel 1 stellt die Menschenwürde an den Anfang und ist zusammen mit dem Bundesstaatsprinzip durch die Ewigkeitsklausel selbst mit Zweidrittelmehrheit nicht änderbar. Diese Bauweise ist eine direkte Antwort auf das Scheitern der Weimarer Verfassung."
+    },
+    {
+      "titel": "Warum Bakterien nicht immer schaden",
+      "kategorie": "Medizin",
+      "text": "Im und auf dem Menschen leben etwa so viele Bakterienzellen wie Körperzellen. Im Darm helfen sie beim Verdauen, produzieren Vitamine und halten Krankheitserreger in Schach. Antibiotika treffen auch diese Mitbewohner, weshalb danach oft Verdauungsprobleme auftreten. Die Forschung untersucht, wie stark diese Gemeinschaft Immunsystem und sogar Stimmung beeinflusst."
+    },
+    {
+      "titel": "Was Souveränität heute bedeutet",
+      "kategorie": "Politik",
+      "text": "Klassisch heißt es: Ein Staat bestimmt auf seinem Gebiet allein. In der Praxis geben Staaten freiwillig Teile davon ab – an die EU, an Handelsabkommen, an internationale Gerichte –, weil sie im Tausch Einfluss und Stabilität gewinnen. Der Streit um Souveränität ist deshalb selten ein Ja oder Nein, sondern eine Frage, wo die Grenze verläuft."
+    },
+    {
+      "titel": "Die Erfindung des Nullpunkts",
+      "kategorie": "Wissenschaft",
+      "text": "Die Null als eigenständige Zahl kam aus Indien, wurde von arabischen Gelehrten übernommen und erreichte Europa im Mittelalter. Ohne sie gäbe es kein Stellenwertsystem: Erst die Null macht den Unterschied zwischen 15 und 105. Das römische Zahlensystem kannte sie nicht – deshalb war Rechnen dort mühsam."
+    },
+    {
+      "titel": "Wie Zentralbanken Krisen bekämpfen",
+      "kategorie": "Wirtschaft",
+      "text": "Neben dem Zins können sie Anleihen aufkaufen und so Geld ins System pumpen, damit Kredite fließen. Das stützt kurzfristig die Wirtschaft, treibt aber Vermögenspreise und kann Inflation nachziehen. Kritisch ist der Ausstieg: Zieht man Geld zu schnell ab, drohen Rezession und fallende Kurse, zu langsam bleibt die Inflation."
+    },
+    {
+      "titel": "Die Antarktis",
+      "kategorie": "Geografie",
+      "text": "Ein Kontinent unter bis zu vier Kilometer dickem Eis, in dem rund 70 Prozent des Süßwassers der Erde gebunden sind. Niemandem gehört er: Der Antarktisvertrag von 1959 friert alle Gebietsansprüche ein und erlaubt nur friedliche, wissenschaftliche Nutzung. Es ist eines der wenigen funktionierenden Beispiele globaler Zusammenarbeit."
+    },
+    {
+      "titel": "Was Rendite und Risiko verbindet",
+      "kategorie": "Wirtschaft",
+      "text": "Höhere erwartete Rendite gibt es nur gegen höheres Risiko – niemand zahlt freiwillig mehr für sichere Erträge. Wer hohe Gewinne ohne Risiko verspricht, verschweigt etwas oder betrügt. Streuung über viele Anlagen senkt das Risiko, ohne die erwartete Rendite im gleichen Maß zu senken; das ist der einzige Vorteil, den man ohne Gegenleistung bekommt."
+    },
+    {
+      "titel": "Der Suezkanal",
+      "kategorie": "Geografie",
+      "text": "1869 eröffnet, verbindet er Mittelmeer und Rotes Meer und spart Schiffen die Fahrt um Afrika – rund 6000 Kilometer. Etwa zwölf Prozent des Welthandels laufen hindurch. Als 2021 ein Containerschiff quer im Kanal steckte, stockten binnen Tagen Lieferketten weltweit. Das zeigt, wie verletzlich der Handel an wenigen Nadelöhren hängt."
+    },
+    {
+      "titel": "Wie Schlaf wirkt",
+      "kategorie": "Medizin",
+      "text": "Im Schlaf sortiert das Gehirn Erlebtes und überträgt Wichtiges ins Langzeitgedächtnis. Zugleich werden Abfallstoffe aus dem Gewebe gespült. Chronischer Schlafmangel verschlechtert nachweislich Konzentration, Immunabwehr und Stimmung – und man merkt es selbst am wenigsten, weil auch die Selbsteinschätzung leidet."
+    },
+    {
+      "titel": "Was Populismus kennzeichnet",
+      "kategorie": "Politik",
+      "text": "Die Grundfigur ist immer dieselbe: ein angeblich einheitliches, gutes Volk gegen eine korrupte Elite. Wer widerspricht, gehört zur Elite oder ist kein echter Teil des Volkes. Populismus gibt es links wie rechts. Gefährlich wird er dort, wo er beansprucht, allein das Volk zu vertreten – dann werden Opposition und Gerichte zu Gegnern statt zu Mitspielern."
+    },
+    {
+      "titel": "Die Ozonschicht",
+      "kategorie": "Naturwissenschaft",
+      "text": "In etwa 20 bis 30 Kilometern Höhe filtert Ozon die schädliche UV-Strahlung. In den 1980ern entdeckte man ein Loch über der Antarktis, verursacht durch Treibgase aus Spraydosen und Kühlschränken. Das Montrealer Protokoll von 1987 verbot sie weltweit, und die Schicht erholt sich seither messbar – der erfolgreichste Umweltvertrag der Geschichte."
+    },
+    {
+      "titel": "Was ein Monopol problematisch macht",
+      "kategorie": "Wirtschaft",
+      "text": "Ohne Konkurrenz kann ein Anbieter Preise setzen, statt sie hinzunehmen. Er produziert weniger und verlangt mehr, als bei Wettbewerb entstünde. Zusätzlich fehlt der Druck, besser zu werden. Bei Netzen wie Wasser oder Schiene ist ein einziger Anbieter dagegen sinnvoll – deshalb werden sie reguliert statt zerschlagen."
+    },
+    {
+      "titel": "Die Hanse",
+      "kategorie": "Geschichte",
+      "text": "Ein Bund von Kaufleuten und Städten, der vom 12. bis ins 17. Jahrhundert den Handel in Nord- und Ostsee beherrschte. Lübeck war das Zentrum, Kontore reichten von London bis Nowgorod. Die Hanse hatte keine Verfassung und kein Heer, konnte aber Handelsblockaden verhängen, die ganze Königreiche in die Knie zwangen."
+    },
+    {
+      "titel": "Warum Medikamente in Studien getestet werden",
+      "kategorie": "Medizin",
+      "text": "Viele Beschwerden bessern sich von allein, und Erwartung wirkt körperlich – der Placeboeffekt. Deshalb wird verglichen: Eine Gruppe bekommt den Wirkstoff, eine ein Scheinpräparat, und weder Patient noch Arzt wissen wer was. Nur so lässt sich unterscheiden, ob das Mittel wirkt oder ob es der Verlauf ohnehin getan hätte."
+    },
+    {
+      "titel": "Der Panamakanal",
+      "kategorie": "Geografie",
+      "text": "1914 eröffnet, verbindet er Atlantik und Pazifik. Weil beide Ozeane auf unterschiedlichem Niveau liegen und ein Gebirge dazwischen ist, werden Schiffe in Schleusen 26 Meter angehoben und wieder abgesenkt. Beim Bau starben Zehntausende, vor allem an Malaria und Gelbfieber. Bis 1999 kontrollierten ihn die USA, seither Panama selbst."
+    },
+    {
+      "titel": "Was Anonymität im Netz begrenzt",
+      "kategorie": "Technik",
+      "text": "Jedes Gerät hinterlässt Spuren: IP-Adresse, Browserkennung, Bildschirmgröße, installierte Schriften. Zusammen ergeben sie oft einen fast eindeutigen Fingerabdruck, auch ohne Cookies. Wirklich anonym ist man deshalb selten – und wer einen Dienst kostenlos nutzt, bezahlt in aller Regel mit genau diesen Daten."
+    },
+    {
+      "titel": "Die Sklaverei und ihre Abschaffung",
+      "kategorie": "Geschichte",
+      "text": "Über drei Jahrhunderte wurden schätzungsweise zwölf Millionen Menschen aus Afrika nach Amerika verschleppt. Großbritannien verbot den Handel 1807, die USA schafften Sklaverei erst 1865 nach dem Bürgerkrieg ab. Formal ist sie heute überall verboten, doch Zwangsarbeit und Menschenhandel betreffen nach Schätzungen der ILO weiterhin Millionen."
+    },
+    {
+      "titel": "Wie Erdöl entstand",
+      "kategorie": "Naturwissenschaft",
+      "text": "Vor Millionen Jahren sanken abgestorbene Kleinlebewesen auf den Meeresgrund, wurden von Sedimenten bedeckt und unter Druck und Hitze langsam in Kohlenwasserstoffe umgewandelt. Was wir in Jahrzehnten verbrennen, hat sich über Jahrmillionen gebildet – deshalb gilt Erdöl als nicht erneuerbar."
+    },
+    {
+      "titel": "Was Lobbyismus ist",
+      "kategorie": "Politik",
+      "text": "Interessenvertretung gegenüber Politik – von Konzernen, aber auch von Gewerkschaften, Umweltverbänden und Sozialverbänden. An sich legitim: Gesetzgeber brauchen Fachwissen aus der Praxis. Problematisch wird es bei Ungleichgewicht, wenn finanzstarke Interessen dauerhaft mehr Zugang haben. Deshalb gibt es Lobbyregister, die offenlegen, wer mit wem spricht."
+    },
+    {
+      "titel": "Die Erfindung der Null-Emissions-Illusion",
+      "kategorie": "Wirtschaft",
+      "text": "Kompensation heißt, dass Emissionen anderswo eingespart werden, statt sie zu vermeiden – etwa durch Aufforstung. Das funktioniert nur, wenn die Einsparung ohne die Zahlung nicht stattgefunden hätte und dauerhaft ist. Untersuchungen haben vielen Projekten beides abgesprochen. Deshalb gilt heute: Erst vermeiden, dann reduzieren, erst zuletzt kompensieren."
+    },
+    {
+      "titel": "Warum Gebirge entstehen",
+      "kategorie": "Geografie",
+      "text": "Wo zwei Kontinentalplatten zusammenstoßen, kann keine unter die andere abtauchen, weil beide leicht sind – also faltet sich das Gestein auf. So entstand der Himalaya, als Indien nach Norden gegen Asien drückte, und er wächst bis heute um etwa einen Zentimeter im Jahr. Erosion trägt gleichzeitig ab, weshalb Gebirge nicht endlos wachsen."
+    },
+    {
+      "titel": "Was Meinungsfreiheit abdeckt",
+      "kategorie": "Politik",
+      "text": "Sie schützt vor staatlichen Eingriffen, nicht vor Widerspruch oder davor, dass ein privates Unternehmen einen Beitrag löscht. Auch geschützte Meinungen haben Grenzen: Beleidigung, Volksverhetzung und Aufruf zu Straftaten sind strafbar. Der Kern des Schutzes gilt gerade unbequemen Äußerungen – populäre Meinungen brauchen keinen Schutz."
+    },
+    {
+      "titel": "Wie Kompassnadeln wissen, wo Norden ist",
+      "kategorie": "Naturwissenschaft",
+      "text": "Der flüssige Eisenkern der Erde erzeugt ein Magnetfeld, an dem sich die Nadel ausrichtet. Der magnetische Pol fällt nicht mit dem geografischen zusammen und wandert jährlich um mehrere Dutzend Kilometer. In der Erdgeschichte hat sich das Feld zudem mehrfach umgepolt – nachweisbar an erstarrtem Lavagestein."
+    },
+    {
+      "titel": "Was hinter Lieferketten steckt",
+      "kategorie": "Wirtschaft",
+      "text": "Ein Auto besteht aus Teilen von Hunderten Zulieferern in Dutzenden Ländern. Jahrzehntelang galt Lagerhaltung als Verschwendung, Teile kamen genau zum Bedarfszeitpunkt. Corona und blockierte Kanäle zeigten die Kehrseite: Fällt ein Glied aus, steht die ganze Kette. Seither bauen Firmen wieder Puffer auf – teurer, aber robuster."
+    },
+    {
+      "titel": "Der Untergang der Titanic",
+      "kategorie": "Geschichte",
+      "text": "1912 sank das damals größte Schiff der Welt auf der Jungfernfahrt nach einer Kollision mit einem Eisberg; rund 1500 Menschen starben. Rettungsboote gab es nur für etwa die Hälfte der Passagiere – das entsprach den damaligen Vorschriften, die sich nach Schiffstonnage richteten, nicht nach Passagierzahl. Die Katastrophe führte zu weltweit verschärften Sicherheitsregeln auf See."
+    },
+    {
+      "titel": "Wie Recycling an Grenzen stößt",
+      "kategorie": "Technik",
+      "text": "Papier lässt sich fünf- bis siebenmal recyceln, dann sind die Fasern zu kurz. Kunststoff verliert bei jedem Durchgang Qualität und wird zu minderwertigeren Produkten. Nur Glas und Metalle lassen sich praktisch endlos wiederverwerten, ohne schlechter zu werden. Deshalb bringt Vermeiden mehr als Trennen."
+    }
+  ]
+}

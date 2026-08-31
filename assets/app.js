@@ -5,6 +5,8 @@
   var NEWS_URL = "data/news.json";
   var WEATHER_URL = "data/weather.json";
   var MARKETS_URL = "data/markets.json";
+  var KNOWLEDGE_URL = "knowledge.json";
+  var VOCAB_URL = "vocab.json";
   var TIME_ZONE = "Europe/Berlin";
 
   var newsEl = document.getElementById("news");
@@ -17,6 +19,10 @@
   var weatherUpdatedEl = document.getElementById("weather-updated");
   var marketsEl = document.getElementById("markets");
   var marketsUpdatedEl = document.getElementById("markets-updated");
+  var knowledgeEl = document.getElementById("knowledge");
+  var knowledgeNextBtn = document.getElementById("knowledge-next");
+  var vocabEl = document.getElementById("vocab");
+  var vocabNextBtn = document.getElementById("vocab-next");
 
   var timeFmt = new Intl.DateTimeFormat("de-DE", {
     hour: "2-digit",
@@ -294,6 +300,53 @@
     return sign ? rounded + " " + sign : rounded + (currency ? " " + currency : "");
   }
 
+
+  /* Kleine Verlaufskurve als SVG. Die Werte werden auf die Box normiert,
+     es geht also um die Form, nicht um absolute Hoehen. */
+  function sparkline(werte, prozent) {
+    var breite = 62;
+    var hoehe = 24;
+    var rand = 2;
+    var min = Math.min.apply(null, werte);
+    var max = Math.max.apply(null, werte);
+    var spanne = max - min || 1;
+
+    var punkte = werte.map(function (wert, index) {
+      var x = (index / (werte.length - 1)) * breite;
+      var y = hoehe - rand - ((wert - min) / spanne) * (hoehe - 2 * rand);
+      return x.toFixed(1) + "," + y.toFixed(1);
+    });
+
+    var farbe = prozent > 0 ? "#5fd39a" : prozent < 0 ? "#ff8a8a" : "#9aa7b4";
+    var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("class", "spark");
+    svg.setAttribute("viewBox", "0 0 " + breite + " " + hoehe);
+    svg.setAttribute("width", String(breite));
+    svg.setAttribute("height", String(hoehe));
+    svg.setAttribute("aria-hidden", "true");
+    svg.setAttribute("focusable", "false");
+
+    var linie = document.createElementNS("http://www.w3.org/2000/svg", "polyline");
+    linie.setAttribute("points", punkte.join(" "));
+    linie.setAttribute("fill", "none");
+    linie.setAttribute("stroke", farbe);
+    linie.setAttribute("stroke-width", "1.6");
+    linie.setAttribute("stroke-linejoin", "round");
+    linie.setAttribute("stroke-linecap", "round");
+    svg.appendChild(linie);
+
+    // Punkt auf dem aktuellsten Wert, damit die Leserichtung klar ist.
+    var letzte = punkte[punkte.length - 1].split(",");
+    var punkt = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+    punkt.setAttribute("cx", letzte[0]);
+    punkt.setAttribute("cy", letzte[1]);
+    punkt.setAttribute("r", "1.9");
+    punkt.setAttribute("fill", farbe);
+    svg.appendChild(punkt);
+
+    return svg;
+  }
+
   function buildRow(wert) {
     var row = document.createElement("li");
     row.className = "quote";
@@ -308,6 +361,11 @@
     if (wert.error || wert.kurs == null) {
       row.appendChild(el("div", "quote-value quote-missing", "keine Daten"));
       return row;
+    }
+
+    var verlauf = Array.isArray(wert.verlauf) ? wert.verlauf : [];
+    if (verlauf.length >= 2) {
+      row.appendChild(sparkline(verlauf, wert.prozent));
     }
 
     var right = el("div", "quote-value");
@@ -364,6 +422,101 @@
       });
   }
 
+
+  /* ---------- Lernmodule (Allgemeinwissen, Englisch) ---------- */
+
+  /* Tagesnummer seit 1970. Dadurch wechselt der Inhalt taeglich von selbst,
+     bleibt aber innerhalb eines Tages gleich. */
+  function tagesNummer() {
+    var jetzt = new Date();
+    return Math.floor(
+      Date.UTC(jetzt.getFullYear(), jetzt.getMonth(), jetzt.getDate()) / 86400000
+    );
+  }
+
+  /* Nimmt 'anzahl' Eintraege ab einer Startstelle und laeuft am Ende
+     wieder vorne weiter, sodass die Liste endlos rotiert. */
+  function auswahl(liste, anzahl, verschiebung) {
+    var ergebnis = [];
+    if (!liste.length) return ergebnis;
+    var start = ((tagesNummer() + verschiebung) * anzahl) % liste.length;
+    for (var i = 0; i < Math.min(anzahl, liste.length); i++) {
+      ergebnis.push(liste[(start + i) % liste.length]);
+    }
+    return ergebnis;
+  }
+
+  function lernModul(behaelter, knopf, url, zeichne) {
+    var eintraege = [];
+    var proTag = 3;
+    var verschiebung = 0;
+
+    function zeigen() {
+      behaelter.textContent = "";
+      var teil = auswahl(eintraege, proTag, verschiebung);
+      if (!teil.length) {
+        behaelter.appendChild(el("p", "placeholder-text", "Keine Einträge vorhanden."));
+        return;
+      }
+      teil.forEach(function (eintrag) {
+        behaelter.appendChild(zeichne(eintrag));
+      });
+    }
+
+    knopf.addEventListener("click", function () {
+      verschiebung += 1;
+      zeigen();
+    });
+
+    fetch(url, { cache: "no-store" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then(function (data) {
+        eintraege = Array.isArray(data.eintraege) ? data.eintraege : [];
+        proTag = data.proTag || proTag;
+        zeigen();
+      })
+      .catch(function () {
+        behaelter.textContent = "";
+        behaelter.appendChild(el("p", "placeholder-text", "Inhalte konnten nicht geladen werden."));
+        knopf.disabled = true;
+      });
+  }
+
+  function zeichneWissen(eintrag) {
+    var block = el("article", "lern-eintrag");
+    var kopf = el("div", "lern-kopf");
+    kopf.appendChild(el("h4", "lern-titel", eintrag.titel || ""));
+    if (eintrag.kategorie) kopf.appendChild(el("span", "lern-tag", eintrag.kategorie));
+    block.appendChild(kopf);
+    block.appendChild(el("p", "lern-text", eintrag.text || ""));
+    return block;
+  }
+
+  function zeichneVokabel(eintrag) {
+    var block = el("article", "lern-eintrag");
+    var kopf = el("div", "lern-kopf");
+    kopf.appendChild(el("h4", "lern-titel", "statt „" + (eintrag.einfach || "") + "“"));
+    block.appendChild(kopf);
+
+    var liste = el("ul", "vokabeln");
+    (eintrag.alternativen || []).forEach(function (alternative) {
+      var zeile = document.createElement("li");
+      zeile.appendChild(el("span", "vokabel-wort", alternative.wort || ""));
+      zeile.appendChild(el("span", "vokabel-bedeutung", alternative.bedeutung || ""));
+      if (alternative.beispiel) {
+        zeile.appendChild(el("span", "vokabel-beispiel", alternative.beispiel));
+      }
+      liste.appendChild(zeile);
+    });
+    block.appendChild(liste);
+
+    if (eintrag.tipp) block.appendChild(el("p", "lern-tipp", eintrag.tipp));
+    return block;
+  }
+
   function tickClock() {
     clockEl.textContent = timeFmt.format(new Date());
   }
@@ -380,6 +533,9 @@
   document.addEventListener("visibilitychange", function () {
     if (!document.hidden) loadAll();
   });
+
+  lernModul(knowledgeEl, knowledgeNextBtn, KNOWLEDGE_URL, zeichneWissen);
+  lernModul(vocabEl, vocabNextBtn, VOCAB_URL, zeichneVokabel);
 
   tickClock();
   setInterval(tickClock, 30 * 1000);

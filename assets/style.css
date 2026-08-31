@@ -351,3 +351,101 @@ body {
   line-height: 1.4;
   color: var(--text-muted);
 }
+
+/* --- Verlaufskurve in der Kurszeile --- */
+.spark {
+  flex: 0 0 auto;
+  margin: 0 4px;
+  opacity: 0.9;
+}
+
+/* --- Lernmodule --- */
+.card-button {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  font: inherit;
+  font-size: 13px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  min-height: 32px;
+}
+
+.card-button:hover { background: var(--bg-hover); color: var(--text); }
+.card-button:disabled { opacity: 0.4; cursor: default; }
+
+.lern-eintrag + .lern-eintrag {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.lern-kopf {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.lern-titel {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.lern-tag {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.lern-text {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--text);
+}
+
+.lern-tipp {
+  margin: 9px 0 0;
+  padding-left: 10px;
+  border-left: 2px solid var(--accent);
+  font-size: 14px;
+  line-height: 1.45;
+  color: var(--text-muted);
+}
+
+.vokabeln {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.vokabeln li {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  padding: 7px 0;
+}
+
+.vokabeln li + li { border-top: 1px solid var(--border); }
+
+.vokabel-wort {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.vokabel-bedeutung { font-size: 14px; color: var(--text-muted); }
+
+.vokabel-beispiel {
+  font-size: 14px;
+  font-style: italic;
+  color: var(--text);
+  opacity: 0.85;
+}
