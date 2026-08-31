@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:10:46+00:00",
+  "generatedAt": "2026-08-31T13:11:52+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -167,31 +167,31 @@
           "title": "The edge AI wall: Why embodied AI requires new mathematics",
           "link": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/",
           "published": "2026-08-30T12:45:51+00:00",
-          "summary": "Computational overload is not a bug of a specific planner, but an edge AI wall limiting physical and embodied AI. The post The edge AI wall: Why embodied AI requires new mathematics appeared first on …"
+          "summary": "Computational overload is not a bug of a specific planner, but an edge AI wall limiting physical and embodied AI."
         },
         {
           "title": "The differences between decentralized and centralized power in swarm robotics",
           "link": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
           "published": "2026-08-29T12:25:31+00:00",
-          "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both. The post The differences between decentralized and centralized …"
+          "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both."
         },
         {
           "title": "From teach and repeat to SelfPath AI: The next robotics leap",
           "link": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
           "published": "2026-08-28T23:25:06+00:00",
-          "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI. The post From teach and repeat to SelfPath AI: The next robotics leap appeared …"
+          "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI."
         },
         {
           "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
           "link": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/",
           "published": "2026-08-28T21:06:40+00:00",
-          "summary": "Deere beats Q3 expectations, raises guidance, and partners with Reservoir on a $10 million agtech AI initiative. The post Deere faces headwinds in Q3 update and announces Reservoir R&D partnership …"
+          "summary": "Deere beats Q3 expectations, raises guidance, and partners with Reservoir on a $10 million agtech AI initiative."
         },
         {
           "title": "EXL acquires physical AI model developer iMerit",
           "link": "https://www.therobotreport.com/exl-acquires-physical-ai-model-developer-imerit/",
           "published": "2026-08-28T17:36:09+00:00",
-          "summary": "The EXL and iMerit executives explain how their companies' combined expertise and platforms will help developers with reliable physical AI. The post EXL acquires physical AI model developer iMerit …"
+          "summary": "The EXL and iMerit executives explain how their companies' combined expertise and platforms will help developers with reliable physical AI."
         }
       ],
       "error": null
@@ -202,6 +202,12 @@
       "site": "https://www.marketwatch.com",
       "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
       "items": [
+        {
+          "title": "America is asking the wrong question about its $40 trillion in debt, this MIT expert warns",
+          "link": "https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories",
+          "published": "2026-08-31T13:10:00+00:00",
+          "summary": "The federal debt may be sustainable, but rising burdens may still be troublesome to the U.S. economy, says one expert."
+        },
         {
           "title": "‘Her life was very challenging before we got custody’: At 62, how can we afford to put our granddaughter through college?",
           "link": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
@@ -225,12 +231,6 @@
           "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
           "published": "2026-08-31T12:00:00+00:00",
           "summary": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons"
-        },
-        {
-          "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-          "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-          "published": "2026-08-31T11:45:00+00:00",
-          "summary": "“I paid a significant amount into Social Security.”"
         }
       ],
       "error": null
