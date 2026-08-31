@@ -5,6 +5,7 @@ Bewusst ohne externe Abhaengigkeiten (nur Python-Standardbibliothek), damit der
 GitHub-Actions-Workflow ohne pip-Install auskommt.
 """
 
+import html
 import json
 import pathlib
 import re
@@ -47,15 +48,20 @@ def text_of(node) -> str:
 
 def strip_html(value: str) -> str:
     value = re.sub(r"<[^>]+>", " ", value)
-    value = (
-        value.replace("&nbsp;", " ")
-        .replace("&amp;", "&")
-        .replace("&lt;", "<")
-        .replace("&gt;", ">")
-        .replace("&quot;", '"')
-        .replace("&#39;", "'")
-    )
+    # html.unescape kennt auch benannte und numerische Entities wie &#8217;.
+    value = html.unescape(value).replace("\xa0", " ")
     return " ".join(value.split())
+
+
+# WordPress haengt an den Auszug einen Hinweis auf den Originalbeitrag an.
+BOILERPLATE_RE = re.compile(
+    r"\s*(The post\b.*?appeared first on\b.*|Der Beitrag\b.*?erschien zuerst auf\b.*)$",
+    re.IGNORECASE | re.DOTALL,
+)
+
+
+def clean_summary(value: str) -> str:
+    return BOILERPLATE_RE.sub("", value).strip(" –-•|")
 
 
 def parse_date(value: str):
@@ -131,9 +137,14 @@ def parse_feed(raw: bytes, limit: int):
         seen.add(link)
         date_node = find_child(node, "pubDate", "published", "updated", "date")
         published = parse_date(text_of(date_node))
-        summary = strip_html(text_of(find_child(node, "description", "summary")))
-        if len(summary) > 220:
-            summary = summary[:219].rstrip() + "…"
+        summary = clean_summary(strip_html(text_of(find_child(node, "description", "summary"))))
+        # Manche Feeds (u. a. die Tagesschau) wiederholen nur die Ueberschrift.
+        # Ein Anreisser, der nichts Neues sagt, wird weggelassen.
+        if summary.rstrip(" .…").lower() == title.rstrip(" .…").lower():
+            summary = ""
+        if len(summary) > 200:
+            gekuerzt = summary[:200].rsplit(" ", 1)[0]
+            summary = (gekuerzt or summary[:200]).rstrip(" ,;:–-") + " …"
         items.append(
             {
                 "title": title,

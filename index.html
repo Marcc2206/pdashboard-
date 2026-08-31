@@ -30,11 +30,15 @@
     <aside class="column" aria-labelledby="modules-heading">
       <h2 id="modules-heading" class="column-title">Module</h2>
       <div class="cards">
-        <!-- Platzhalter: hier können später eigene Module rein (Wetter, Kalender, Notizen …). -->
-        <article class="card module-placeholder">
-          <header class="card-head"><h3>Wetter</h3></header>
-          <p class="placeholder-text">Platz für ein Wetter-Modul.</p>
+        <article class="card" id="weather-card">
+          <header class="card-head">
+            <h3 id="weather-place">Wetter</h3>
+            <span id="weather-updated" class="card-count"></span>
+          </header>
+          <div id="weather"><p class="placeholder-text">Lade Wetter …</p></div>
         </article>
+
+        <!-- Platzhalter: hier können später weitere Module rein. -->
         <article class="card module-placeholder">
           <header class="card-head"><h3>Termine</h3></header>
           <p class="placeholder-text">Platz für Kalender oder To-dos.</p>

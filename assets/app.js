@@ -3,6 +3,7 @@
   "use strict";
 
   var NEWS_URL = "data/news.json";
+  var WEATHER_URL = "data/weather.json";
   var TIME_ZONE = "Europe/Berlin";
 
   var newsEl = document.getElementById("news");
@@ -10,6 +11,9 @@
   var generatedEl = document.getElementById("generated");
   var clockEl = document.getElementById("clock");
   var reloadBtn = document.getElementById("reload");
+  var weatherEl = document.getElementById("weather");
+  var weatherPlaceEl = document.getElementById("weather-place");
+  var weatherUpdatedEl = document.getElementById("weather-updated");
 
   var timeFmt = new Intl.DateTimeFormat("de-DE", {
     hour: "2-digit",
@@ -96,13 +100,16 @@
       link.rel = "noopener noreferrer";
       link.appendChild(el("span", "headline-title", item.title || "Ohne Titel"));
 
+      if (item.summary) {
+        link.appendChild(el("span", "headline-summary", item.summary));
+      }
+
       var stamp = formatStamp(item.published);
       if (stamp) {
         var time = el("time", "headline-time", stamp);
         time.dateTime = item.published;
         link.appendChild(time);
       }
-      if (item.summary) link.title = item.summary;
 
       var li = document.createElement("li");
       li.appendChild(link);
@@ -163,19 +170,118 @@
       });
   }
 
+
+  /* ---------- Wetter ---------- */
+
+  var weekdayFmt = new Intl.DateTimeFormat("de-DE", { weekday: "short", timeZone: TIME_ZONE });
+
+  function clockOf(iso) {
+    if (!iso) return "";
+    // Open-Meteo liefert lokale Zeiten ohne Zeitzonen-Kennung ("2026-08-31T14:30").
+    var match = /T(\d{2}:\d{2})/.exec(iso);
+    return match ? match[1] : "";
+  }
+
+  function labelForDay(iso, index) {
+    if (index === 0) return "Heute";
+    if (index === 1) return "Morgen";
+    var date = new Date(iso + "T12:00:00");
+    return isNaN(date.getTime()) ? iso : weekdayFmt.format(date);
+  }
+
+  function degrees(value, unit) {
+    return value == null ? "–" : Math.round(value) + (unit || "°");
+  }
+
+  function renderWeather(data) {
+    weatherEl.textContent = "";
+    weatherPlaceEl.textContent = "Wetter " + (data.ort || "");
+
+    var now = data.jetzt || {};
+    var unit = now.einheit || "°C";
+    var wetter = now.wetter || {};
+
+    var head = el("div", "weather-now");
+    head.appendChild(el("span", "weather-icon", wetter.icon || "•"));
+
+    var block = el("div", "weather-now-text");
+    block.appendChild(el("span", "weather-temp", degrees(now.temperatur, unit)));
+    block.appendChild(el("span", "weather-desc", wetter.text || ""));
+    head.appendChild(block);
+    weatherEl.appendChild(head);
+
+    var facts = [];
+    if (now.gefuehlt != null) facts.push("gefühlt " + degrees(now.gefuehlt, unit));
+    if (now.wind != null) facts.push("Wind " + Math.round(now.wind) + " " + (now.windEinheit || "km/h"));
+    if (now.luftfeuchte != null) facts.push(now.luftfeuchte + " % Luftfeuchte");
+    if (facts.length) weatherEl.appendChild(el("p", "weather-facts", facts.join(" · ")));
+
+    var days = Array.isArray(data.tage) ? data.tage : [];
+    if (days.length) {
+      var list = el("ul", "forecast");
+      days.forEach(function (day, index) {
+        var row = document.createElement("li");
+        row.appendChild(el("span", "forecast-day", labelForDay(day.datum, index)));
+        row.appendChild(el("span", "forecast-icon", (day.wetter || {}).icon || "•"));
+
+        var rain = day.regenwahrscheinlichkeit;
+        row.appendChild(el("span", "forecast-rain", rain == null ? "" : rain + " %"));
+        row.appendChild(
+          el("span", "forecast-temp", degrees(day.max, "°") + " / " + degrees(day.min, "°"))
+        );
+        list.appendChild(row);
+      });
+      weatherEl.appendChild(list);
+
+      var today = days[0];
+      if (today && today.sonnenaufgang && today.sonnenuntergang) {
+        weatherEl.appendChild(
+          el(
+            "p",
+            "weather-sun",
+            "Sonne heute: " + clockOf(today.sonnenaufgang) + " bis " + clockOf(today.sonnenuntergang) + " Uhr"
+          )
+        );
+      }
+    }
+
+    var stamp = data.generatedAt ? new Date(data.generatedAt) : null;
+    weatherUpdatedEl.textContent =
+      stamp && !isNaN(stamp.getTime()) ? timeFmt.format(stamp) + " Uhr" : "";
+  }
+
+  function loadWeather() {
+    fetch(WEATHER_URL + "?t=" + Date.now(), { cache: "no-store" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then(renderWeather)
+      .catch(function () {
+        weatherEl.textContent = "";
+        weatherEl.appendChild(el("p", "placeholder-text", "Wetterdaten noch nicht verfügbar."));
+        weatherUpdatedEl.textContent = "";
+      });
+  }
+
   function tickClock() {
     clockEl.textContent = timeFmt.format(new Date());
   }
 
-  reloadBtn.addEventListener("click", load);
+  function loadAll() {
+    load();
+    loadWeather();
+  }
+
+  reloadBtn.addEventListener("click", loadAll);
 
   // Wenn das iPad aus dem Standby kommt: frische Daten holen.
   document.addEventListener("visibilitychange", function () {
-    if (!document.hidden) load();
+    if (!document.hidden) loadAll();
   });
 
   tickClock();
   setInterval(tickClock, 30 * 1000);
-  setInterval(load, 15 * 60 * 1000);
-  load();
+  setInterval(loadAll, 15 * 60 * 1000);
+  loadAll();
 })();
