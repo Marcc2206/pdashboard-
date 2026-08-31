@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:15:21+00:00",
+  "generatedAt": "2026-08-31T12:56:36+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,22 +8,22 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Neue Sternbrücke in Hamburg: Jetzt rollen die Züge",
+          "link": "https://www.tagesschau.de/inland/regional/hamburg/neue-sternbruecke-in-hamburg-jetzt-rollen-die-zuege,sternbruecke-260.html",
+          "published": "2026-08-31T12:56:04+00:00",
+          "summary": "Die neue Sternbrücke in der Hansestadt Hamburg ist seit dem frühen Morgen in Betrieb. Zwischen Altona und Sternschanze war die Bahnverbindung sechs Wochen lang gesperrt."
+        },
+        {
           "title": "Opferzahl nach Sturzflut im Himalaya steigt weiter",
           "link": "https://www.tagesschau.de/video/video-1640264.html",
           "published": "2026-08-31T12:54:22+00:00",
           "summary": "Opferzahl nach Sturzflut im Himalaya steigt weiter"
         },
         {
-          "title": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
-          "link": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
-          "published": "2026-08-31T11:13:44+00:00",
-          "summary": "Hitze, Dürre und Unwetter: Der diesjährige Sommer erreichte laut Deutschem Wetterdienst \"Dimensionen, wie sie in Deutschland bislang nicht beobachtet wurden\". Nur 2003 war es wärmer."
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-08-31T11:04:39+00:00",
-          "summary": "Am Dienstag gibt es im Süden viel Sonne. Im restlichen Land scheint mal die Sonnen, mal ist es dicht bewölkt und es gibt einzelne Schauer, in Küstennähe auch Gewitter. Dazu ist es im Norden windig. 19 bis 27 Grad."
+          "title": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
+          "published": "2026-08-31T12:36:46+00:00",
+          "summary": "Das Leben in Deutschland hat sich im August weiter verteuert. Die Verbraucherpreise lagen zuletzt um 2,9 Prozent über dem Niveau des Vorjahresmonats. Der Grund sind gestiegene Ölpreise und auch das Rhein-Niedrigwasser."
         },
         {
           "title": "Schüsse auf ein Café in Köln",
@@ -32,10 +32,10 @@
           "summary": "In der Kölner Südstadt sind am Morgen vor einem Café mehrere Schüsse gefallen. Verletzte gab es laut Polizei nicht. Die Einsatzkräfte fahnden jetzt nach einem männlichen Tatverdächtigen."
         },
         {
-          "title": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
-          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
-          "published": "2026-08-31T10:44:03+00:00",
-          "summary": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John."
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80718.html",
+          "published": "2026-08-31T12:24:11+00:00",
+          "summary": "tagesschau"
         }
       ],
       "error": null
