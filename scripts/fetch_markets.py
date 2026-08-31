@@ -74,9 +74,14 @@ def from_yahoo(eintrag: dict) -> dict:
         ergebnis.get("indicators", {}).get("quote", [{}])[0].get("close") or []
     )
     verlauf = [w for w in schluss if w is not None][-VERLAUF_PUNKTE:]
-    # Der aktuelle Kurs ist der juengste Punkt der Kurve.
-    if kurs is not None and (not verlauf or verlauf[-1] != kurs):
-        verlauf = (verlauf + [kurs])[-VERLAUF_PUNKTE:]
+    # Die letzte Tageskerze ist der laufende Handelstag. Ihr Schlusswert wird
+    # durch den aktuellen Kurs ersetzt, statt ihn zusaetzlich anzuhaengen -
+    # sonst enden alle Kurven mit zwei fast gleichen Punkten.
+    if kurs is not None:
+        if verlauf:
+            verlauf[-1] = kurs
+        else:
+            verlauf = [kurs]
 
     return {
         "kurs": kurs,
