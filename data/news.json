@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:09:21+00:00",
+  "generatedAt": "2026-09-01T22:08:04+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Kommentar zu Sanktionen gegen Russland: Auch politische Waffen sind schmerzhaft",
-          "link": "https://www.tagesschau.de/kommentar/kommentar-anschlag-russland-100.html",
-          "published": "2026-09-01T19:56:04+00:00",
-          "summary": "Deutschland benennt Russland als Drahtzieher des Anschlagsversuchs, ohne sich provozieren zu lassen. Die Regierung hat damit einen Balanceakt geschafft, meint Markus Sambale. Denn die Demokratie …"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12824.html",
+          "published": "2026-09-01T21:29:52+00:00",
+          "summary": ""
+        },
+        {
+          "title": "DFB-Pokal: Dortmund siegt 5:0 bei Fünftligist aus Hamburg",
+          "link": "https://www.tagesschau.de/sport/borussia-dortmund-mit-pflichtsieg-in-eimsbuettel,spielbericht-dfb-pokal-eimsbuettel-borussia-dortmund-100.html",
+          "published": "2026-09-01T21:23:36+00:00",
+          "summary": "Borussia Dortmund hat seine Pflichtaufgabe erfüllt und steht nach einem 5:0 beim Hamburg-Eimsbütteler-Ballspiel-Club in der 2. Runde des DFB-Pokals. Der Fünftligist erwies sich als hartnäckiger …"
+        },
+        {
+          "title": "Welche Gefahren drohen durch die Gletscherschmelze in den Alpen?",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1641200.html",
+          "published": "2026-09-01T21:04:05+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Über 1.000 Tote und mehr als 5.000 Vermisste: Was die Lage in Nepal so unübersichtlich macht",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1641198.html",
+          "published": "2026-09-01T21:01:26+00:00",
+          "summary": ""
         },
         {
           "title": "Bundesregierung: Russland für Drohnen-Anschlagsversuch in Leipzig verantwortlich",
           "link": "https://www.tagesschau.de/eilmeldung/bundesregierung-drohne-flughafen-leipzig-halle-russland-100.html",
-          "published": "2026-09-01T19:47:05+00:00",
+          "published": "2026-09-01T20:51:18+00:00",
           "summary": "Deutschland macht Russland für den versuchten Drohnenanschlag am Flughafen Leipzig/Halle verantwortlich und hat weitere Sanktionen gegen russische Staatsbürger und Einrichtungen angekündigt. Der …"
-        },
-        {
-          "title": "USA und Iran melden erneut heftige Angriffe",
-          "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
-          "published": "2026-09-01T19:37:07+00:00",
-          "summary": "Mehrere Wochen lang war es vergleichsweise ruhig an der Straße von Hormus. Doch seit dem Wochenende greifen sich Iran und die USA wieder gegenseitig an. Nun meldeten beide Seiten erneut heftige …"
-        },
-        {
-          "title": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
-          "published": "2026-09-01T19:09:43+00:00",
-          "summary": "In Brandenburg haben Unbekannte mit selbstgebauten Flugkörpern Kurzschlüsse an einer Hochspannungsleitung verursacht. Zu einem Stromausfall kam es nicht, aber Brandenburgs Innenminister warnt: \"Das …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12222.html",
-          "published": "2026-09-01T18:47:31+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,10 +47,22 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street im Minus – Ölpreise steigen nach US-Angriffen",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-oelpreise-steigen-nach-us-angriffen/100251215.html",
-          "published": "2026-09-01T19:49:00+00:00",
-          "summary": "Ölpreise und Anleiherenditen steigen weiter. Das wirft den Fokus auf die Geldpolitik in den USA. Unterdessen könnte die US-Notenbank Fed in ein Dilemma kommen."
+          "title": "Ukraine-Krieg: Selenskyj warnt vor Flügen über Russland - Putin droht",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-warnt-vor-fluegen-ueber-russland-putin-droht/100251309.html",
+          "published": "2026-09-01T21:39:19+00:00",
+          "summary": "Nach heftigen russischen Luftangriffen wendet sich der ukrainische Präsident Selenskyj mit einer Warnung an Fluggesellschaften, die weiter über Russland fliegen. Kremlchef Putin reagiert prompt."
+        },
+        {
+          "title": "Krieg: USA und Iran verkünden neue gegenseitige Angriffe",
+          "link": "https://www.handelsblatt.com/politik/international/krieg-usa-und-iran-verkuenden-neue-gegenseitige-angriffe/100251269.html",
+          "published": "2026-09-01T21:36:27+00:00",
+          "summary": "In der Nacht zu Montag ist der Iran-Krieg erstmals seit Wochen mit gegenseitigen Angriffen wieder militärisch eskaliert. Nun folgen weitere Angriffe - und Trump droht dem Iran einmal mehr martialisch."
+        },
+        {
+          "title": "+++ Iran-Krieg +++: Explosionen über Stadt im Süden Jordaniens – Ölpreis steigt",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-explosionen-ueber-stadt-im-sueden-jordaniens-oelpreis-steigt/100136895.html",
+          "published": "2026-09-01T20:54:00+00:00",
+          "summary": "USA melden neue Angriffe auf Iran +++ Iranische Revolutionsgarden: USA werden neue Angriffe bereuen +++ Trump: USA greifen iranische Ziele nahe Straße von Hormus an +++ Der Newsblog."
         },
         {
           "title": "Konzernumbau: Nestlé verkauft Vitamingeschäft an Finanzinvestor",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/usa-reise-klingbeil-deutet-haertere-gangart-gegenueber-china-an/100251302.html",
           "published": "2026-09-01T19:29:54+00:00",
           "summary": "Muss Europa mehr gegen unfaire Handelspraktiken in China unternehmen? Finanzminister Klingbeil hat Ideen."
-        },
-        {
-          "title": "Kommentar: Berlins Antwort auf die Drohnenattacke kann nur der Anfang sein",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-berlins-antwort-auf-die-drohnenattacke-kann-nur-der-anfang-sein/100251291.html",
-          "published": "2026-09-01T18:58:47+00:00",
-          "summary": "Friedrich Merz kündigte einen hohen Preis für den versuchten Drohnenanschlag an, doch die jetzt beschlossenen Maßnahmen sind überschaubar. Wird Russland am Ende wirklich bezahlen?"
-        },
-        {
-          "title": "Drohnenvorfall Leipzig/Halle: Bundesregierung ordnet Maßnahmen gegen Russland an",
-          "link": "https://www.handelsblatt.com/video/politik/bundesregierung-ordnet-massnahmen-gegen-russland-an/100251297.html",
-          "published": "2026-09-01T18:57:23+00:00",
-          "summary": "Innenminister Dobrindt hat am Dienstagabend bekanntgegeben, dass die Bundesregierung den versuchten Anschlag am Flughafen Leipzig/Halle als „hybride Operation“ Russlands bewertet. Zusammen mit …"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Ölpreis legt zu: Stimmung an der Wall Street trübt sich weiter ein",
+          "link": "https://www.n-tv.de/wirtschaft/Stimmung-an-der-Wall-Street-truebt-sich-weiter-ein-id31258797.html",
+          "published": "2026-09-01T21:26:04+00:00",
+          "summary": "Die Wall Street ist auf Abwärtskurs: Den dritten Tag in Folge schließen die US-Börsen im Minus. Vor allem die neuen Militärschläge in der Straße von Hormus heizen die Inflationssorgen an. Inzwischen …"
+        },
         {
           "title": "Konzern stoppt Aktienrückkauf : Großaktionär Frasers greift nach Mehrheit bei Hugo Boss",
           "link": "https://www.n-tv.de/wirtschaft/Grossaktionaer-Frasers-greift-nach-Mehrheit-bei-Hugo-Boss-id31258646.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Mittelstand-blickt-ueberraschend-positiv-in-die-Zukunft-id31256893.html",
           "published": "2026-09-01T14:07:17+00:00",
           "summary": "Die Geschäftsaussichten werden beim deutschen Mittelstand zuversichtlich betrachtet. Das entsprechende Barometer von Ifo und KfW steigt bereits den vierten Monat in Folge. Dazu trägt den Experten …"
-        },
-        {
-          "title": "Sitz bleibt in Deutschland: Schwedische Craft-Mutter kauft Uhlsport und Kempa",
-          "link": "https://www.n-tv.de/wirtschaft/Schwedische-Craft-Mutter-kauft-Uhlsport-und-Kempa-id31257419.html",
-          "published": "2026-09-01T14:03:30+00:00",
-          "summary": "Unter anderem mit Bällen, Schienbeinschonern und Torwarthandschuhen haben sich die Sportmarken Uhlsport und Kempa einen Namen gemacht. Vereine und Klubs spricht auch der schwedische Textilhersteller …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP/Iran: Vergeltung nach US-Angriff gestartet",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-iran-vergeltung-nach-us-angriff-gestartet-15913122",
-          "published": "2026-09-01T19:56:38+00:00",
-          "summary": "TEHERAN (dpa-AFX) - Der Iran hat eigenen Angaben zufolge nach dem US-Angriff auf Stellungen in seinem Land eine Vergeltungsaktion gestartet. Die iranischen Revolutionsgarden teilten in einer von …"
-        },
-        {
-          "title": "GNW-News: BlackLine erweitert Leistungsangebot für komplexe Finanz-Workflows mit PCI DSS-Compliance-Validierung",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-blackline-erweitert-leistungsangebot-fuer-komplexe-finanz-workflows-mit-pci-dss-compliance-validierung-15913121",
-          "published": "2026-09-01T19:54:38+00:00",
-          "summary": "^LOS ANGELES, Sept. 01, 2026 (GLOBE NEWSWIRE) -- BlackLine, Inc. (Nasdaq: BL),die Agentic Financial Operations Platform(TM) (https://www.blackline.com/products/studio360/) für Finanzteams in …"
-        },
-        {
-          "title": "Weltgrößter Juwelier Pandora hält an Platin-Strategie fest - trotz fallender Silberpreise",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/edelmetallwende-weltgroesster-juwelier-pandora-haelt-an-platin-strategie-fest-trotz-fallender-silberpreise-00-15903639",
-          "published": "2026-09-01T19:53:00+00:00",
-          "summary": "Pandora-CEO bekräftigt Umstieg auf platinbeschichteten Schmuck trotz gesunkener Silberpreise • Silberbedarf für 2027 zu rund 65 US-Dollar je Feinunze abgesichert • Jahresprognose für Wachstum und …"
-        },
-        {
           "title": "PayPal-Aktie hundertfach aufgestockt: Das Commerzbank-Depot im zweiten Quartal 2026",
           "link": "https://www.finanzen.net/nachricht/aktien/13f-offenlegung-paypal-aktie-hundertfach-aufgestockt-das-commerzbank-depot-im-zweiten-quartal-2026-00-15905911",
-          "published": "2026-09-01T19:47:00+00:00",
+          "published": "2026-09-01T21:43:00+00:00",
           "summary": "Commerzbank meldet ihr US-Depot für das zweite Quartal 2026 an die SEC Bei Deutsche Bank und Honeywell schrumpft der Anteil drastisch zusammen PayPal-Aktie wächst im Depot stark, reicht aber nicht …"
         },
         {
-          "title": "Klingbeil deutet härtere Gangart gegenüber China an",
-          "link": "https://www.finanzen.net/nachricht/aktien/klingbeil-deutet-haertere-gangart-gegenueber-china-an-15913110",
-          "published": "2026-09-01T19:39:38+00:00",
-          "summary": "SPARTANBURG (dpa-AFX) - Finanzminister Lars Klingbeil hat in der Debatte über unfaire Handelspraktiken eine härtere Gangart gegenüber China angedeutet. \"Das heißt nicht, dass wir die Konfrontation …"
+          "title": "GESAMT-ROUNDUP: USA und Iran verkünden neue gegenseitige Angriffe",
+          "link": "https://www.finanzen.net/nachricht/aktien/gesamt-roundup-usa-und-iran-verkuenden-neue-gegenseitige-angriffe-15913157",
+          "published": "2026-09-01T21:10:38+00:00",
+          "summary": "WASHINGTON/TEHERAN (dpa-AFX) - Die USA und der Iran haben neue gegenseitige Angriffe gemeldet. Die Vereinigten Staaten nahmen nach Angaben von Präsident Donald Trump iranische Ziele nahe der Straße …"
+        },
+        {
+          "title": "August 2026: Bitcoin, Ether & Co. - Monatsperformance der Kryptowährungen",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-august-2026-bitcoin-ether-co-monatsperformance-der-kryptowaehrungen-15896675",
+          "published": "2026-09-01T21:10:00+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen im August 2026"
+        },
+        {
+          "title": "August 2026: So bewegten sich die MDAX-Aktien im abgelaufenen Monat",
+          "link": "https://www.finanzen.net/nachricht/aktien/tops-flops-august-2026-so-bewegten-sich-die-mdax-aktien-im-abgelaufenen-monat-15896673",
+          "published": "2026-09-01T21:08:00+00:00",
+          "summary": "Diese Ausschläge wiesen MDAX-Aktien im August 2026 aus"
+        },
+        {
+          "title": "INDEXÄNDERUNG/Engie und Nokia ersetzen VW und Prosus im Euro-Stoxx-50",
+          "link": "https://www.finanzen.net/nachricht/aktien/indexaenderung-engie-und-nokia-ersetzen-vw-und-prosus-im-euro-stoxx-50-15913151",
+          "published": "2026-09-01T20:54:44+00:00",
+          "summary": "FRANKFURT (Dow Jones)--Der Börsenbetreiber Stoxx hat am Dienstag Änderungen in der Zusammensetzung der Indizes Euro-Stoxx-50 und Stoxx-50 mitgeteilt. In den Euro-Stoxx-50 rücken demnach die Aktien …"
         }
       ],
       "error": null
