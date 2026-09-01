@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T14:09:17+00:00",
+  "generatedAt": "2026-09-01T16:36:20+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Matthias Deiß, ARD Berlin, zur möglichen Beteiligung Russlands an den Sprengstoffdrohnen-Funden in Leipzig",
-          "link": "https://www.tagesschau.de/video/video-1640922.html",
-          "published": "2026-09-01T14:06:07+00:00",
+          "title": "Marktbericht: DAX verliert erneut deutlich",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+          "published": "2026-09-01T16:33:27+00:00",
+          "summary": "Steigende Zinsen haben die Anleger zum Start in den September nervös gemacht. Der DAX verliert heute erneut mehr als ein Prozent und fällt unter die Marke von 26.000 Punkten."
+        },
+        {
+          "title": "Regierung: Russland für Drohnen-Vorfall in Leipzig verantwortlich",
+          "link": "https://www.tagesschau.de/eilmeldung/bundesregierung-drohne-flughafen-leipzig-halle-russland-100.html",
+          "published": "2026-09-01T16:33:08+00:00",
+          "summary": "Russland ist nach Erkenntnissen der Bundesregierung für den Anschlagsversuch am Flughafen Leipzig/Halle verantwortlich. Das teilten Innenminister Dobrindt und Außenminister Wadephul mit. Als Reaktion …"
+        },
+        {
+          "title": "Christoph Mestmacher, ARD Berlin, zur Reaktion auf den Drohnenvorfall am Flughafen Halle/Leipzig",
+          "link": "https://www.tagesschau.de/video/video-1641028.html",
+          "published": "2026-09-01T16:19:44+00:00",
           "summary": ""
         },
         {
-          "title": "Bundesregierung ist uneins bei der Einkommensteuerreform",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-klingbeil-reiche-100.html",
-          "published": "2026-09-01T14:03:01+00:00",
-          "summary": "Die Einkommensteuerreform gilt als eines der großen Projekte der schwarz-roten Koalition. Morgen will sie das Kabinett auf den Weg bringen. Doch innerhalb der Koalition gibt es immer noch Streit …"
-        },
-        {
-          "title": "Solar überholt Kohle erstmals als größte Stromquelle Chinas",
-          "link": "https://www.tagesschau.de/wirtschaft/energie/china-stromquelle-solar-kohle-100.html",
-          "published": "2026-09-01T13:59:31+00:00",
-          "summary": "In China soll erstmals mehr Strom aus Sonnenenergie als aus Kohle gewonnen worden sein. Das Land treibt den Ausbau von Photovoltaik seit Jahren voran - und gehört dennoch mit Abstand zu den größten …"
-        },
-        {
-          "title": "Liveblog zum Deadline Day: Ansah verlässt Union schon wieder, Vieira zurück beim HSV",
-          "link": "https://www.sportschau.de/fussball/bundesliga/bremen-stellt-spieler-frei-dortmund-sucht-mit-hochdruck,liveblog-transferende-100.html",
-          "published": "2026-09-01T13:54:25+00:00",
+          "title": "Liveblog zum Deadline Day: Bremen holt Ndiaye, Ben Farhat nach Freiburg",
+          "link": "https://www.sportschau.de/fussball/bundesliga/ex-schalker-wechselt-nach-bremen-ansah-verlaesst-union,liveblog-transferende-100.html",
+          "published": "2026-09-01T16:07:40+00:00",
           "summary": "Wer wechselt noch wohin? Für die Fußball-Bundesligisten bietet sich heute die letzte Chance in diesem Sommer, neue Spieler zu verpflichten. Um 20 Uhr endet das Sommer-Transferfenster. Hier gibt es …"
         },
         {
-          "title": "Brandenburg: Sprengvorrichtung an Umspannwerk gefunden",
-          "link": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
-          "published": "2026-09-01T13:34:49+00:00",
-          "summary": "In Brandenburg sind in der Nähe des Kraftwerks Jänschwalde Sprengvorrichtungen gefunden worden. Der Kraftwerksbetreiber spricht von einem Anschlag. Für die Bevölkerung besteht laut Polizei keine …"
+          "title": "tagesschau in Einfacher Sprache",
+          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1404.html",
+          "published": "2026-09-01T16:04:18+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Sabotage: Anschlag auf Stromnetz? „Silvesterraketen“ an Kraftwerk gefunden",
-          "link": "https://www.handelsblatt.com/politik/deutschland/brandenburg-anschlag-auf-stromnetz-silvesterraketen-an-kraftwerk-gefunden/100251191.html",
-          "published": "2026-09-01T14:01:15+00:00",
-          "summary": "Nahe dem Kohlekraftwerk Jänschwalde in der Lausitz hat die Polizei mehrere Sprengvorrichtungen an einem Umspannwerk entdeckt. Betreiber Leag spricht von einem Anschlag."
+          "title": "Ukraine-Krieg: „Russland hat den Angriff zu verantworten“ – Berlin schließt Konsulat und Russisches Haus nach Drohnenangriff",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-berlin-macht-russland-direkt-fuer-angriff-in-leipzig-verantwortlich/27982126.html",
+          "published": "2026-09-01T16:30:04+00:00",
+          "summary": "Dobrindt und Wadephul verkünden schärfere Einreisekontrollen und neue Sanktionen +++ Höherer Druck auf Schattenflotte geplant +++ Der Newsblog."
         },
         {
-          "title": "Autoindustrie: Keine Einigung mit Land und Arbeitnehmern – die Suche von VW nach Kompromissen droht zu scheitern",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bei-vw-droht-die-suche-nach-kompromissen-zu-scheitern/100250809.html",
-          "published": "2026-09-01T14:00:29+00:00",
-          "summary": "Die zerstrittenen Parteien finden im Vorfeld der Aufsichtsratssitzung bislang keine gemeinsame Linie für ein Sparprogramm. Somit bahnt sich ein historischer Schritt an."
+          "title": "Misslungener Anschlagsversuch: Bundesregierung: Russland für Drohnen-Angriff verantwortlich",
+          "link": "https://www.handelsblatt.com/politik/deutschland/misslungener-anschlagsversuch-bundesregierung-russland-fuer-drohnen-angriff-verantwortlich/100251058.html",
+          "published": "2026-09-01T16:25:51+00:00",
+          "summary": "Wer hat die Sprengstoff-Drohne auf den Leipziger Flughafen manövriert? Fast einem Monat nach dem Vorfall gibt die Bundesregierung eine Antwort - und zieht Konsequenzen."
         },
         {
-          "title": "Aufstiegschancen: „Excel statt Exzellenz“: Drei Faktoren entscheiden, wer es in deutschen Firmen nach ganz oben schafft",
-          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-so-entscheiden-unternehmen-welche-mitarbeiter-aufsteigen/100147821.html",
-          "published": "2026-09-01T14:00:00+00:00",
-          "summary": "Viele Unternehmen befördern stets die gleichen Menschentypen und lassen die Belegschaft frustriert zurück. Experten erklären die entscheidenden Mechanismen – und was sich ändern muss."
+          "title": "Anleihen: Auch die G20 schafft kein Vertrauen an den Märkten",
+          "link": "https://www.handelsblatt.com/politik/international/anleihen-auch-die-g20-schafft-kein-vertrauen-an-den-maerkten/100250966.html",
+          "published": "2026-09-01T16:12:24+00:00",
+          "summary": "Offene Fragen statt klarer Ansagen: Nach dem Finanzministertreffen in Asheville steigen die Anleiherenditen weiter. Auch, weil die US-Antwort auf die drohende Schuldenkrise nicht überzeugt."
         },
         {
-          "title": "Dow Jones, S&P 500, Nasdaq: Steigende Renditen drücken Wall Street ins Minus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-steigende-renditen-druecken-wall-street-ins-minus/100251215.html",
-          "published": "2026-09-01T13:58:43+00:00",
-          "summary": "Ölpreise und Anleiherenditen steigen weiter. Das wirft den Fokus auf die Geldpolitik in den USA. Unterdessen könnte die US-Notenbank Fed in ein Dilemma kommen."
+          "title": "Dax aktuell: Dax schließt unter 26.000er-Marke – Inflationssorgen drücken Kurse",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unter-26.000er-marke-inflationssorgen-druecken-kurse/100251017.html",
+          "published": "2026-09-01T16:03:33+00:00",
+          "summary": "Anleger im deutschen Leitindex zeigen sich zu Beginn des neuen Monats zurückhaltend. Steigende Zinsen am Anleihemarkt und hohe Ölpreise belasten den Dax."
         },
         {
-          "title": "Cyberangriff: Nach Hackerangriff - Senat bestätigt Millionenforderung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cyberangriff-nach-hackerangriff-senat-bestaetigt-millionenforderung/100251233.html",
-          "published": "2026-09-01T13:57:06+00:00",
-          "summary": "Das Land Berlin wird nach einem umfangreichen Cyberangriff auf die Verwaltung erpresst. Die Täter verlangen bis Freitag Bitcoins im Wert von zwei Millionen Euro."
+          "title": "Märkte Insight: Bitcoin schützt wie Gold vor einem Dollar-Crash? Von wegen",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/bitcoin-die-kryptowaehrung-schuetzt-anleger-kaum-vor-einem-dollar-crash/100250792.html",
+          "published": "2026-09-01T16:00:41+00:00",
+          "summary": "Die weltgrößte Kryptowährung wird vielfach als digitales Gold bezeichnet. Trotzdem profitiert der Bitcoin kaum von der Demontage der US-Währung, meint Jakob Blume."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP: TU München wirft EU falsche Klimavorgaben für Autos vor",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-tu-muenchen-wirft-eu-falsche-klimavorgaben-fuer-autos-vor-15912532",
-          "published": "2026-09-01T14:01:38+00:00",
-          "summary": "MÜNCHEN (dpa-AFX) - Wissenschaftler der TU München werfen der EU vor, die Autohersteller beim Klimaschutz in die falsche Richtung zu lenken: In einem neuen Weißbuch fordern die Forscher, nicht mehr …"
+          "title": "Neu: Die finanzen AI Analyse in deinem Portal",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-neu-die-finanzen-ai-analyse-in-deinem-portal-15892205",
+          "published": "2026-09-01T16:30:00+00:00",
+          "summary": "Im Vordergrund der neuen finanzen AI Analyse steht 'Actionable Intelligence'. Keine stundenlange Recherche mehr durch Geschäfts­berichte, Foren und Analysten­meinungen. Die finanzen AI Analyse …"
         },
         {
-          "title": "S&P 500-Titel Reddit-Aktie: So viel Verlust hätte ein Investment in Reddit von vor einem Jahr eingebracht",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-reddit-aktie-so-viel-verlust-haette-ein-investment-in-reddit-von-vor-einem-jahr-eingebracht-15912530",
-          "published": "2026-09-01T14:00:47+00:00",
-          "summary": "Heute vor 1 Jahr wurden Trades Reddit -Anteilen via Börse NYSE ausgeführt. Der Schlusskurs des Papiers betrug an diesem Tag 225,08 USD. Bei einem Reddit-Investment von 100 USD zu diesem Zeitpunkt …"
+          "title": "MÄRKTE USA/Etwas leichter - Zins- und Inflationssorgen belasten Börse",
+          "link": "https://www.finanzen.net/nachricht/aktien/maerkte-usa-etwas-leichter-zins-und-inflationssorgen-belasten-boerse-15912883",
+          "published": "2026-09-01T16:27:40+00:00",
+          "summary": "DOW JONES--An den US-Börsen geht es am Dienstag abwärts. Der Dow-Jones-Index fällt gegen Mittag (Ortszeit New York) um 0,6 Prozent auf 52.882 Punkte. Der SP-500 verliert 0,6 Prozent und der …"
         },
         {
-          "title": "S&P 500-Wert Marvell Technology-Aktie: So viel hätten Anleger an einem Marvell Technology-Investment von vor 5 Jahren verdient",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-wert-marvell-technology-aktie-so-viel-haetten-anleger-an-einem-marvell-technology-investment-von-vor-5-jahren-verdient-15912529",
-          "published": "2026-09-01T14:00:47+00:00",
-          "summary": "Am 01.09.2021 wurden Marvell Technology -Anteile via Börse NAS gehandelt. Der Schlusskurs der Anteile betrug an diesem Tag 60,72 USD. Bei einer 100-USD-Investition vor 5 Jahren, hätten Anleger nun …"
+          "title": "ROUNDUP/Aktien Europa Schluss: EuroStoxx sinkt - Ölpreisanstieg verunsichert",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-europa-schluss-eurostoxx-sinkt-oelpreisanstieg-verunsichert-15912871",
+          "published": "2026-09-01T16:26:39+00:00",
+          "summary": "PARIS/LONDON/ZÜRICH (dpa-AFX) - Der Eurozonen-Leitindex EuroStoxx 50 hat am Dienstag seine zu Wochenbeginn erlittenen Verluste ausgeweitet. Die erneute Zuspitzung der Lage im Iran-Krieg und wieder …"
         },
         {
-          "title": "S&P 500-Papier Datadog A-Aktie: So viel Gewinn hätte ein Investment in Datadog A von vor einem Jahr abgeworfen",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-datadog-a-aktie-so-viel-gewinn-haette-ein-investment-in-datadog-a-von-vor-einem-jahr-abgeworfen-15912528",
-          "published": "2026-09-01T14:00:47+00:00",
-          "summary": "Heute vor 1 Jahr fand an der Börse NAS Handel mit der Datadog A -Aktie statt. Diesen Handelstag beendete das Papier bei 136,68 USD. Hätte ein Anleger 100 USD zu diesem Zeitpunkt in die Datadog …"
+          "title": "Aktien Wien Schluss: ATX gibt leicht nach",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-wien-schluss-atx-gibt-leicht-nach-15912870",
+          "published": "2026-09-01T16:26:39+00:00",
+          "summary": "WIEN (dpa-AFX) - Der Wiener Aktienmarkt hat den Handel am Dienstag trotz eines Endspurts mit Abschlägen beendet. Der Leitindex ATX ging um 0,15 Prozent tiefer bei 6.758,19 Einheiten aus der Sitzung. …"
         },
         {
-          "title": "S&P 500-Papier Blackstone-Aktie: So viel hätten Anleger an einem Blackstone-Investment von vor 5 Jahren verdient",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-blackstone-aktie-so-viel-haetten-anleger-an-einem-blackstone-investment-von-vor-5-jahren-verdient-15912527",
-          "published": "2026-09-01T14:00:47+00:00",
-          "summary": "Das Blackstone -Papier wurde heute vor 5 Jahren an der Börse NYSE gehandelt. Diesen Tag beendete die Aktie bei 127,52 USD. Bei einem Investment von 100 USD in die Blackstone-Aktie vor 5 Jahren, wäre …"
+          "title": "Siemens Energy-Aktie tiefer: SpaceX-Turbinenpläne belasten weiterhin - Analysten beruhigen",
+          "link": "https://www.finanzen.net/nachricht/aktien/experteneinschaetzung-siemens-energy-aktie-tiefer-spacex-turbinenplaene-belasten-weiterhin-analysten-beruhigen-15911038",
+          "published": "2026-09-01T16:21:00+00:00",
+          "summary": "Die Aktien von Siemens Energy haben am Dienstag die Mitte August begonnenen Kursverluste ausgeweitet. Mit minus knapp zwei Prozent auf 139,50 Euro fielen sie zeitweise auf den tiefsten Stand seit …"
         }
       ],
       "error": null
@@ -164,16 +164,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: DAX verliert erneut deutlich",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+          "published": "2026-09-01T16:33:27+00:00",
+          "summary": "Steigende Zinsen haben die Anleger zum Start in den September nervös gemacht. Der DAX verliert heute erneut mehr als ein Prozent und fällt unter die Marke von 26.000 Punkten."
+        },
+        {
           "title": "Marktbericht: Warum fällt der DAX?",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
           "published": "2026-09-01T12:50:59+00:00",
           "summary": "Mit deutlichen Verlusten startet der DAX in den September. Gerade hatte er noch auf Rekordkurs gelegen. Dafür sind heute gleich mehrere negative Faktoren zusammengekommen. Von Detlev Landmesser."
-        },
-        {
-          "title": "Marktbericht: DAX-Korrektur nach dem Rekord hält an",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
-          "published": "2026-09-01T08:59:56+00:00",
-          "summary": "Seit dem Rekordhoch vom Freitag ist der DAX im Rückwärtsgang. Die kritische Lage im Nahen Osten macht die Anleger nervös, auch die Aussicht auf steigende Zinsen belastet."
         },
         {
           "title": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Das VW-Dossier: VW-Vorstand plant Ende der Produktion in diesen vier deutschen Werken",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-sanierungsplan-volkswagen-vorstand-plant-ende-der-produktion-in-diesen-vier-deutschen-werken/100251232.html",
-          "published": "2026-09-01T14:06:52+00:00",
-          "summary": "Geheimer Bericht für den VW-Aufsichtsrat: Die Produktion endet an vier deutschen Standorten zwischen 2031 und 2034. Welche Städte es trifft."
+          "title": "Misslungener Anschlag: Bundesregierung sieht Russland hinter der Sprengstoff-Drohnen-Attacke in Leipzig",
+          "link": "https://www.wiwo.de/politik/deutschland/misslungener-anschlag-bundesregierung-sieht-russland-hinter-der-sprengstoff-drohnen-attacke-in-leipzig/100251264.html",
+          "published": "2026-09-01T16:16:56+00:00",
+          "summary": "Der versuchte Anschlag mit einer Sprengstoff-Drohne auf dem Flughafen Leipzig/Halle ist nach Erkenntnissen der Bundesregierung in russischem Auftrag verübt worden."
         },
         {
-          "title": "Das VW-Dossier: Auf 147 Seiten: der Abschied von Volkswagen, wie wir es kennen",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-geheimpapier-das-steht-in-volkswagens-vertraulichem-bericht-zum-konzeptbeschluss/100250907.html",
-          "published": "2026-09-01T13:56:00+00:00",
-          "summary": "Bei VW tagt bald der Aufsichtsrat. Ein Geheimpapier offenbart: Er wird über einen Umbau entscheiden, der in der Wirtschaftsgeschichte seinesgleichen sucht. Radikal, schmerzhaft – und wohl die letzte …"
+          "title": "Landtagswahl Sachsen-Anhalt: „Wir befinden uns jetzt an einem Kipppunkt“",
+          "link": "https://www.wiwo.de/unternehmen/industrie/addinol-chef-warnt-vor-wahl-in-sachsen-anhaltbefinden-uns-an-einem-kipppunkt/100248344.html",
+          "published": "2026-09-01T16:10:00+00:00",
+          "summary": "Georg Wildegger hat aus einem DDR-Betrieb den einzigen Weltmarktführer Sachsen-Anhalts geformt. Vor der Landtagswahl legt der Addinol-Chef seine Zurückhaltung ab – und warnt seine Belegschaft."
         },
         {
-          "title": "Jänschwalde: Sprengvorrichtung an Umspannwerk in Brandenburg gefunden",
-          "link": "https://www.wiwo.de/politik/deutschland/vorfall-in-kraftwerksnaehe-sprengvorrichtungen-an-umspannwerk-gefunden/100251188.html",
-          "published": "2026-09-01T13:42:00+00:00",
-          "summary": "In der Nähe des großen Kohlekraftwerks Jänschwalde an der Landesgrenze von Brandenburg zu Sachsen findet die Polizei Sprengvorrichtungen. Was hat es damit auf sich?"
+          "title": "Klimaanlagen-Preise: Der richtige Kaufmoment für Klimageräte",
+          "link": "https://www.wiwo.de/unternehmen/industrie/klimaanlage-der-beste-zeitpunkt-zum-kauf/100247935.html",
+          "published": "2026-09-01T16:02:00+00:00",
+          "summary": "„Antizyklisch einkaufen“ ist eine kluge Devise, wenn man sich Produkte mit saisonalem Nutzwert anschafft. Also: Jetzt eine Klimaanlage kaufen? Oder besser noch ein bisschen warten?"
         },
         {
-          "title": "Kryptowährungen: Handeln ohne Ende auf Hyperliquid",
-          "link": "https://www.wiwo.de/finanzen/boerse/hyperliquid-chancen-und-risiken-beim-24-7-handel-mit-bitcoin-und-aktien/100250022.html",
-          "published": "2026-09-01T13:37:28+00:00",
-          "summary": "Auf Hyperliquid können Anleger nicht nur rund um die Uhr Krypto handeln, sondern auch ausgewählte Aktien. Welche Chancen und Risiken das birgt."
+          "title": "John Ternus: Apples neuer Chef blieb im Großraum sitzen, als das Eckbüro frei wurde",
+          "link": "https://www.wiwo.de/unternehmen/it/john-ternus-wird-neuer-apple-ceo-was-auf-tim-cooks-nachfolger-wartet/100218613.html",
+          "published": "2026-09-01T16:00:00+00:00",
+          "summary": "John Ternus übernimmt als Apple-Chef von Tim Cook. Was nach dem Amtsantritt von ihm zu erwarten ist und worin das größte Risiko für den iPhone-Konzern liegt."
         },
         {
-          "title": "C24 Bank: Großes Wachstum, vages Geschäftsmodell",
-          "link": "https://www.wiwo.de/unternehmen/banken/c24-bank-aerger-mit-der-bafin-und-ein-vages-geschaeftsmodell-ohne-ambitionen/100247839.html",
-          "published": "2026-09-01T13:36:38+00:00",
-          "summary": "Die einst von Check24 gegründete Digitalbank C24 hat mehr als eine Million Kunden. Aber sie schreibt hohe Verluste, hat die Finanzaufsicht im Haus – und ein Geschäftsmodell ohne Ambitionen."
+          "title": "Novo Nordisk vs. Eli Lilly: Wer macht das beste Abnehm-Präparat?",
+          "link": "https://www.wiwo.de/unternehmen/industrie/wegovy-tablette-deutschland-novo-nordisk-eli-lilly/100249818.html",
+          "published": "2026-09-01T15:57:00+00:00",
+          "summary": "Novo Nordisk bringt seine erfolgreiche Tablette gegen Übergewicht auf den deutschen Markt. Die Nachfrage ist riesig. Die Konkurrenz hellwach."
         }
       ],
       "error": null
@@ -242,16 +242,16 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Selbstgebaute Flugkörper am Stromnetz: Dann fällt Block B in Jänschwalde aus",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/selbstgebaute-flugkoerper-am-stromnetz-dann-faellt-block-b-in-jaenschwalde-aus/",
+          "published": "2026-09-01T15:51:48+00:00",
+          "summary": "Sprengvorrichtungen beschädigen Leitungen bei Jänschwalde, ein 500-MW-Block fällt aus. Warum die Stromversorgung trotzdem stabil blieb."
+        },
+        {
           "title": "Versuchsingenieur: Aufgaben, Studium, Gehalt und Karriere",
           "link": "https://www.ingenieur.de/karriere/berufsprofile/karriere-berufsprofile-versuchsingenieur/",
           "published": "2026-09-01T12:59:00+00:00",
           "summary": "Versuchsingenieur: Aufgaben wie das Planen und Realisieren kompletter Testabläufe für die Entwicklung oder Optimierung neuer Produkte, Infos zum Studium, Voraussetzungen, Gehalt und Karriere im …"
-        },
-        {
-          "title": "Angriff bei Jänschwalde: Sprengvorrichtungen an wichtigem Stromnetz-Knoten",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/sprengvorrichtungen-an-380-kv-umspannwerk-angriff-auf-einen-knoten-des-deutschen-stromnetzes/",
-          "published": "2026-09-01T12:23:49+00:00",
-          "summary": "Angriff auf das Umspannwerk Preilack: Sprengvorrichtungen beschädigen Leitungen. Warum der 380-kV-Knoten für das Stromnetz wichtig ist."
         },
         {
           "title": "Physiker filmen erstmals, was passiert, bevor aus Licht Strom wird",
