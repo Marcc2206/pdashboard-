@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T08:10:20+00:00",
+  "generatedAt": "2026-09-01T10:09:13+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,18 +7,18 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-01T10:00",
-    "temperatur": 17.5,
-    "gefuehlt": 16.4,
-    "luftfeuchte": 81,
+    "zeit": "2026-09-01T12:00",
+    "temperatur": 19.3,
+    "gefuehlt": 18.2,
+    "luftfeuchte": 72,
     "niederschlag": 0.0,
-    "wind": 17.4,
+    "wind": 16.7,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 2,
-      "text": "Teils bewölkt",
-      "icon": "⛅"
+      "code": 3,
+      "text": "Bedeckt",
+      "icon": "☁️"
     }
   },
   "tage": [
@@ -26,9 +26,9 @@
       "datum": "2026-09-01",
       "max": 19.3,
       "min": 14.2,
-      "regenwahrscheinlichkeit": 58,
+      "regenwahrscheinlichkeit": 80,
       "sonnenaufgang": "2026-09-01T06:37",
-      "sonnenuntergang": "2026-09-01T20:14",
+      "sonnenuntergang": "2026-09-01T20:13",
       "wetter": {
         "code": 80,
         "text": "Leichte Schauer",
@@ -40,7 +40,7 @@
       "max": 21.5,
       "min": 11.2,
       "regenwahrscheinlichkeit": 5,
-      "sonnenaufgang": "2026-09-02T06:39",
+      "sonnenaufgang": "2026-09-02T06:38",
       "sonnenuntergang": "2026-09-02T20:11",
       "wetter": {
         "code": 61,
@@ -52,9 +52,9 @@
       "datum": "2026-09-03",
       "max": 20.7,
       "min": 15.2,
-      "regenwahrscheinlichkeit": 20,
+      "regenwahrscheinlichkeit": 23,
       "sonnenaufgang": "2026-09-03T06:40",
-      "sonnenuntergang": "2026-09-03T20:09",
+      "sonnenuntergang": "2026-09-03T20:08",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
@@ -65,9 +65,9 @@
       "datum": "2026-09-04",
       "max": 23.6,
       "min": 18.2,
-      "regenwahrscheinlichkeit": 69,
+      "regenwahrscheinlichkeit": 70,
       "sonnenaufgang": "2026-09-04T06:42",
-      "sonnenuntergang": "2026-09-04T20:07",
+      "sonnenuntergang": "2026-09-04T20:06",
       "wetter": {
         "code": 95,
         "text": "Gewitter",
