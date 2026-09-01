@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T04:08:29+00:00",
+  "generatedAt": "2026-09-01T06:11:51+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1640654.html",
-          "published": "2026-09-01T03:05:02+00:00",
-          "summary": ""
+          "title": "Marktbericht: Geldpolitik und Ölpreis belasten die Anlegerlaune",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+          "published": "2026-09-01T05:30:07+00:00",
+          "summary": "Der anziehende Ölpreis und die Aussicht auf steigende Leitzinsen in den USA und der Eurozone belasten die Stimmung am Markt. Vor frischen Inflationsdaten bleiben die Anleger zurückhaltend."
         },
         {
-          "title": "Mord an Rapper Tupac Shakur: Angeklagter schuldig gesprochen",
-          "link": "https://www.tagesschau.de/ausland/amerika/tupac-prozess-mord-urteil-100.html",
-          "published": "2026-09-01T02:18:12+00:00",
-          "summary": "Er soll der Drahtzieher hinter dem Tod von Tupac Shakur gewesen sein: Der frühere Gang-Anführer Duane Davis ist im Prozess um den Mord des US-Rappers schuldig gesprochen worden. Jedoch soll er nicht …"
+          "title": "E-Mail-Störung bei Microsoft: Systeme laufen wieder an",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/microsoft-stoerung-100.html",
+          "published": "2026-09-01T05:29:08+00:00",
+          "summary": "Ein Fehler in der Cloud-Infrastruktur von Exchange Online hat weltweit für Probleme im E-Mail-Verkehr der Microsoft-Systeme gesorgt. Die Systeme erholen sich - doch nicht alle Nutzer sind schon …"
         },
         {
-          "title": "Außenminister Wadephul in Nordafrika: Migration statt Wirtschaft",
-          "link": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-reise-100.html",
-          "published": "2026-09-01T02:17:52+00:00",
-          "summary": "Wenige Wochen nach dem Massenansturm von Migranten auf Ceuta steht die Migration über die Mittelmeerroute weiter im Fokus. Ein Thema, um das Außenminister Wadephul bei seinem Besuch in Nordafrika …"
+          "title": "11KM-Podcast: Wenn Jugendliche zu Rechtsterroristen werden",
+          "link": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-jugendliche-rechtsextrem-100.html",
+          "published": "2026-09-01T04:58:26+00:00",
+          "summary": "Sie radikalisieren sich über Social Media und sind teils erst 12 Jahre alt: eine neue Generation gewaltbereiter Neonazis. 11KM fragt: Ist das die neue Normalität in Ostdeutschland?"
         },
         {
-          "title": "Supreme Court: Trump darf Ballsaal im Weißen Haus vorerst weiterbauen",
-          "link": "https://www.tagesschau.de/ausland/amerika/weisses-haus-ballsaal-100.html",
-          "published": "2026-09-01T02:17:13+00:00",
-          "summary": "Der Rechtsstreit um den Bau des Ballsaals am Weißen Haus ist noch nicht abgeschlossen, doch die Arbeiten daran dürfen laut dem Supreme Court weiterlaufen. Damit könnte der Rohbau bereits vor Ende des …"
+          "title": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
+          "link": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html",
+          "published": "2026-09-01T04:47:47+00:00",
+          "summary": "Mit manipulierten Auktionen für Online-Werbung soll sich Amazon zweistellige Milliardenbeträge erschlichen haben. Das wirft die US-Wettbewerbsbehörder FTC dem Konzern vor - und klagt zusammen mit 22 …"
         },
         {
-          "title": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-handyverbot-schule-100.html",
-          "published": "2026-09-01T02:12:02+00:00",
-          "summary": "Willkommen zurück - heißt es heute an französischen Schulen. Mit einer Neuerung: Nun gilt für alle Jahrgänge ein Handyverbot, auch für die Oberstufe. Aber wie setzt man das um, wenn die …"
+          "title": "Wirtschaft in Sachsen-Anhalt, Klagen gegen Landarztquote",
+          "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15-min-podcast-wahl-landarztquote-100.html",
+          "published": "2026-09-01T04:36:54+00:00",
+          "summary": "In wenigen Tagen wird in Sachsen-Anhalt gewählt. Wie steht das Bundesland wirtschaftlich da? Außerdem: Klagen gegen die Landarztquote. Warum ziehen Medizinstudierende vor Gericht? Die Themen im …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Web- und App-Tipp: PDF-Dokumente sicher bearbeiten - diese Software hilft Ihnen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/web-und-app-tipp-pdf-dokumente-sicher-bearbeiten-diese-software-hilft-ihnen/100251001.html",
-          "published": "2026-09-01T03:52:04+00:00",
-          "summary": "Online-PDF-Dienste können zur Kostenfalle werden und bergen Datenschutzrisiken. Doch es braucht sie auch nicht - eine kostenlose Software für den Rechner bietet alle nötigen Funktionen."
+          "title": "Start-up: Wie ein Quereinsteiger die laserbasierte Drohnenabwehr in Deutschland etablieren will",
+          "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-up-ein-quereinsteiger-will-die-deutsche-drohnenabwehr-revolutionieren/100250729.html",
+          "published": "2026-09-01T06:00:00+00:00",
+          "summary": "Das Hannoveraner Start-up Inleap Photonics entwickelt Lasersystemtechnik und will Angriffe wie in Leipzig verhindern. Jetzt bekommt die Firma neues Geld, um die Produktion zu skalieren."
         },
         {
-          "title": "Morning Briefing: Provoziert Trump Europa als nächstes mit Putin?",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-provoziert-trump-europa-als-naechstes-mit-putin/100250959.html",
-          "published": "2026-09-01T03:47:34+00:00",
-          "summary": "Beim G20-Finanzministertreffen trifft die alte Welt auf Trumps Machtshow – und muss sich mit dem Finanzier des Ukrainekriegs auseinandersetzen. Womöglich nicht der letzte Schlag."
+          "title": "Konzern in der Krise: IG-Metall-Chefin wirft VW-Chef schwere Fehler vor",
+          "link": "https://www.handelsblatt.com/politik/deutschland/konzern-in-der-krise-ig-metall-chefin-wirft-vw-chef-schwere-fehler-vor/100250979.html",
+          "published": "2026-09-01T05:55:53+00:00",
+          "summary": "IG-Metall-Chefin Benner kündigt Widerstand gegen geplante Werkschließungen an – und ist wütend über die Vorgehensweise des VW-Vorstands."
         },
         {
-          "title": "Japan: Börsen in Asien – Nahost-Konflikt treibt Ölpreis und Anleiherenditen",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/japan-boersen-in-asien-nahost-konflikt-treibt-oelpreis-und-anleiherenditen/100250989.html",
-          "published": "2026-09-01T03:12:25+00:00",
-          "summary": "In Japan nähert sich die Rendite der zehnjährigen Anleihen der Marke von drei Prozent. Das und die hohen Ölpreise machen die asiatischen Anleger nervös."
+          "title": "Landtagswahl in Sachsen-Anhalt: Merz zieht Grenzen für Kooperation mit der Linken",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-in-sachsen-anhalt-merz-zieht-grenzen-fuer-kooperation-mit-der-linken/100251027.html",
+          "published": "2026-09-01T05:47:32+00:00",
+          "summary": "In Sachsen und in Thüringen bilden CDU-geführte Landesregierungen Mehrheiten mit der Linken. Mit Blick auf die Wahl in Sachsen-Anhalt zieht Friedrich Merz aber klare Grenzen."
         },
         {
-          "title": "Halbjahresbilanz: US-Konkurrenz enteilt Europas Großbanken",
-          "link": "https://www.handelsblatt.com/politik/deutschland/halbjahresbilanz-us-konkurrenz-enteilt-europas-grossbanken/100250992.html",
-          "published": "2026-09-01T03:00:37+00:00",
-          "summary": "Die zehn größten Banken Europas haben zuletzt gut verdient. Doch die Wettbewerber in den USA bleiben unerreicht: JPMorgan Chase macht mehr als doppelt so viel Gewinn wie Europas Spitzenreiter HSBC."
+          "title": "Steuer: Finanzamt fordert Steuer – obwohl der Erbe leer ausgeht",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-erbschaft-verpasst-und-das-finanzamt-langt-trotzdem-zu/100246436.html",
+          "published": "2026-09-01T05:47:00+00:00",
+          "summary": "Selbst wenn ein Erbe erst spät von seinem Anspruch erfährt und leer ausgeht, fällt Erbschaftsteuer an. Der Bundesfinanzhof klärte, wieso das so ist – und welche Ausnahmen es gibt."
         },
         {
-          "title": "Steuern: Einigung in Koalition: Steuergesetz kommt ins Kabinett",
-          "link": "https://www.handelsblatt.com/politik/deutschland/steuern-einigung-in-koalition-steuergesetz-kommt-ins-kabinett/100250994.html",
-          "published": "2026-09-01T03:00:31+00:00",
-          "summary": "Für sein Steuergesetz musste Finanzminister Klingbeil zuletzt kräftig einstecken. Jetzt soll es die erste formelle Hürde nehmen."
+          "title": "Kommentar: Die Inflation entlarvt Europas große Schwäche",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-inflation-entlarvt-europas-grosse-schwaeche-01/100250741.html",
+          "published": "2026-09-01T05:38:00+00:00",
+          "summary": "Der Anstieg der Teuerung ist, anders als in den USA, kein Ausdruck wirtschaftlicher Stärke. Die EZB wirkt entschlossen, wird aber vor allem von äußeren Faktoren getrieben."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Systeme erholen sich langsam: Störung bei Microsoft legt E-Mail-Dienst Outlook weltweit lahm",
+          "link": "https://www.n-tv.de/wirtschaft/Stoerung-bei-Microsoft-legt-E-Mail-Dienst-Outlook-weltweit-lahm-id31254037.html",
+          "published": "2026-09-01T06:08:00+00:00",
+          "summary": "Millionen Nutzer können sich stundenlang nicht bei Outlook anmelden, E-Mails senden oder empfangen. Ein Fehler in der Cloud-Infrastruktur von Exchange Online führt weltweit zu Unterbrechungen. …"
+        },
+        {
+          "title": "Modehändler unter Druck: Shein-Aktie kurz nach Börsendebüt tief im Minus",
+          "link": "https://www.n-tv.de/wirtschaft/Shein-Aktie-kurz-nach-Boersendebuet-tief-im-Minus-id31253948.html",
+          "published": "2026-09-01T05:30:56+00:00",
+          "summary": "Nach langer Zeit schafft es Shein doch noch an die Börse. Dort läuft es für den Modehändler zu Beginn allerdings nicht gut. Immerhin aber ist nun viel Geld vorhanden, um in die eigene Marke zu …"
+        },
+        {
+          "title": "Deutsche Post wird degradiert: Was bedeutet das Kürzel DHL?",
+          "link": "https://www.n-tv.de/wirtschaft/Was-bedeutet-das-Kuerzel-DHL-id30787094.html",
+          "published": "2026-09-01T05:15:00+00:00",
+          "summary": "Die Post hat im Laufe der Jahrzehnte mehrere Namen getragen - von Bundespost über Deutsche Post World Net bis zu Deutsche Post DHL. Künftig heißt das Unternehmen DHL AG. Die Wandlung zum globalen …"
+        },
+        {
+          "title": "Deutsche Bahn greift durch: Alkoholverbot gilt nun in weiteren Bahnhöfen",
+          "link": "https://www.n-tv.de/wirtschaft/Alkoholverbot-gilt-nun-in-weiteren-Bahnhoefen-id31248496.html",
+          "published": "2026-09-01T04:19:36+00:00",
+          "summary": "Bis Mitte Oktober führt die Bahn schrittweise an allen Bahnhöfen das geplante Alkoholverbot ein - ab diesem Dienstag greift es in weiteren Städten. Was bedeutet das für die Fahrgäste? Und naht nun …"
+        },
+        {
           "title": "Unfaire Preise für Werbung?: US-Behörde verklagt Amazon wegen mutmaßlicher Manipulation",
           "link": "https://www.n-tv.de/wirtschaft/US-Behoerde-verklagt-Amazon-wegen-mutmasslicher-Manipulation-id31253545.html",
           "published": "2026-08-31T22:48:39+00:00",
           "summary": "Amazon steht erneut unter Druck: Die US-Wettbewerbsbehörde FTC und mehr als 20 Bundesstaaten werfen dem Online-Riesen vor, Preise von Werbeanzeigen manipuliert zu haben. Die mutmaßliche Schadenssumme …"
-        },
-        {
-          "title": "Spekulation um Fed-Entscheidung: Hohe Ölpreise und Zinssorgen belasten die Wall Street",
-          "link": "https://www.n-tv.de/wirtschaft/Hohe-Oelpreise-und-Zinssorgen-belasten-die-Wall-Street-id31253476.html",
-          "published": "2026-08-31T21:08:43+00:00",
-          "summary": "Die jüngsten US-Angriffe in der Straße von Hormus treiben die Ölpreise nach oben. Unterdessen wirkt die Rede des US-Notenbankchefs Warsh nach, der eine straffere Geldpolitik signalisiert. An der Wall …"
-        },
-        {
-          "title": "Schlechtes Omen vor Börsengang: Shein mit milliardenschwerer Bewertung - aber Aktie schmiert ab",
-          "link": "https://www.n-tv.de/wirtschaft/Shein-mit-milliardenschwerer-Bewertung-aber-Aktie-schmiert-ab-id31252705.html",
-          "published": "2026-08-31T16:06:46+00:00",
-          "summary": "Shein wagt den nächsten Anlauf aufs Börsenparkett. Doch vom einstigen Höhenflug des Modehändlers ist nicht mehr viel übrig. Wachstumsprobleme, neue Handelsbarrieren und anhaltende Kritik haben …"
-        },
-        {
-          "title": "Abschied als Chef nach 15 Jahren: So extrem ist die Apple-Aktie unter Tim Cook gestiegen",
-          "link": "https://www.n-tv.de/wirtschaft/So-extrem-ist-die-Apple-Aktie-unter-Tim-Cook-gestiegen-id31250713.html",
-          "published": "2026-08-31T15:27:45+00:00",
-          "summary": "Tim Cook hat Apple kein völlig neues Gesicht gegeben. Stattdessen machte er aus einem bereits erfolgreichen Konzern eine Geldmaschine. Er übergibt den Chefposten seinem Nachfolger mit einer …"
-        },
-        {
-          "title": "Modi spricht von Herkulesaufgabe: Indien behält hohes Wachstumstempo - Nahost-Krieg belastet",
-          "link": "https://www.n-tv.de/wirtschaft/Indien-behaelt-hohes-Wachstumstempo-Nahost-Krieg-belastet-id31252325.html",
-          "published": "2026-08-31T14:00:02+00:00",
-          "summary": "Die indische Wirtschaft ist massiv auf Energieimporte angewiesen. Die gestiegenen Kosten für Öl und Gas lasten auf der großen Volkswirtschaft. Doch das Land weist auch für das Frühjahr solide Raten …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Wadephul schließt Nordafrikareise in Algerien ab",
-          "link": "https://www.finanzen.net/nachricht/aktien/wadephul-schliesst-nordafrikareise-in-algerien-ab-15911051",
-          "published": "2026-09-01T03:49:39+00:00",
-          "summary": "ALGIER (dpa-AFX) - Außenminister Johann Wadephul setzt an diesem Dienstag seine zweitägige Nordafrikareise in Algerien fort. Schon am Montagabend sollte der CDU-Politiker den algerischen …"
+          "title": "ANALYSE-FLASH: Jefferies hebt Symrise auf 'Buy' - Ziel hoch auf 110 Euro",
+          "link": "https://www.finanzen.net/nachricht/aktien/analyse-flash-jefferies-hebt-symrise-auf-buy-ziel-hoch-auf-110-euro-15911234",
+          "published": "2026-09-01T06:04:38+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Das Analysehaus Jefferies hat das Kursziel für Symrise von 80 auf 110 Euro angehoben und die Aktien von \"Hold\" auf \"Buy\" hochgestuft. Analyst Marcus Dunford-Castro strich am …"
         },
         {
-          "title": "Bahn rollt Alkoholkonsumverbot an Bahnhöfen weiter aus",
-          "link": "https://www.finanzen.net/nachricht/aktien/bahn-rollt-alkoholkonsumverbot-an-bahnhoefen-weiter-aus-15911050",
-          "published": "2026-09-01T03:49:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Bei der Deutschen Bahn gilt ab Dienstag an vier weiteren Bahnhöfen ein Alkoholkonsumverbot. Damit beginnt die schrittweise Umsetzung des angekündigten Verbots an allen Stationen. …"
+          "title": "Symrise verkauft sein Terpen-Geschäft an Mutares",
+          "link": "https://www.finanzen.net/nachricht/aktien/symrise-verkauft-sein-terpen-geschaeft-an-mutares-15911231",
+          "published": "2026-09-01T06:02:40+00:00",
+          "summary": "DOW JONES--Das von Symrise ausgegliederte und zum Verkauf gestellte Geschäft mit Terpen-Inhaltsstoffen geht an die Münchner Beteiligungsgesellschaft Mutares. Die Transaktion mit AmeriTerpenes ..."
         },
         {
-          "title": "EU: Verteidigungs- und Außenminister beraten in Irland",
-          "link": "https://www.finanzen.net/nachricht/aktien/eu-verteidigungs-und-aussenminister-beraten-in-irland-15911049",
-          "published": "2026-09-01T03:49:38+00:00",
-          "summary": "WICKLOW (dpa-AFX) - Die Verteidigungsminister der EU-Staaten wollen an diesem Dienstag bei einem informellen Treffen in Irland über die weitere militärische Unterstützung der Ukraine beraten. Im …"
+          "title": "Merz zieht Grenzen für Kooperation mit der Linken",
+          "link": "https://www.finanzen.net/nachricht/aktien/merz-zieht-grenzen-fuer-kooperation-mit-der-linken-15911230",
+          "published": "2026-09-01T06:00:38+00:00",
+          "summary": "MAGDEBURG/HALLE (dpa-AFX) - Aus Sicht von CDU-Chef und Bundeskanzler Friedrich Merz darf es nach der Landtagswahl in Sachsen-Anhalt kein gemeinsames Regierungsprogramm mit der AfD oder der Linken …"
         },
         {
-          "title": "Pressestimme: 'Frankfurter Allgemeine Zeitung' zum Drohnenangriff",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-frankfurter-allgemeine-zeitung-zum-drohnenangriff-15911048",
-          "published": "2026-09-01T03:34:41+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - \"Frankfurter Allgemeine Zeitung\" zum Drohnenangriff:\"Der Drohnenangriff hätte, wäre er geglückt, auf dem Leipziger Flughafen ein Inferno ausgelöst. Diese Attacke ist die bislang …"
+          "title": "Top 10: Das Wichtigste zum Börsengeschehen heute - Augen auf SHEIN-IPO",
+          "link": "https://www.finanzen.net/nachricht/aktien/10-vor-9-top-10-das-wichtigste-zum-boersengeschehen-heute-augen-auf-shein-ipo-15881864",
+          "published": "2026-09-01T06:00:00+00:00",
+          "summary": "Behalten Sie hier den kompletten aktuellen Handelstag im Auge. 1. DAX etwas schwächer erwartetDer"
         },
         {
-          "title": "Pressestimme: 'Augsburger Allgemeine' zu Milliardendefiziten der Pflegekasse",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-augsburger-allgemeine-zu-milliardendefiziten-der-pflegekasse-15911047",
-          "published": "2026-09-01T03:34:41+00:00",
-          "summary": "AUGSBURG (dpa-AFX) - \"Augsburger Allgemeine\" zu Milliardendefiziten der Pflegekasse:\"Carsten Linnemann, der neue Gesundheitsminister, steht vor der größten Herausforderung seines bisherigen …"
+          "title": "Mutares erwirbt von Symrise US-Geschäft mit Terpen-Inhaltsstoffen",
+          "link": "https://www.finanzen.net/nachricht/aktien/mutares-erwirbt-von-symrise-us-geschaeft-mit-terpen-inhaltsstoffen-15911228",
+          "published": "2026-09-01T05:58:38+00:00",
+          "summary": "MÜNCHEN (dpa-AFX) - Die Beteiligungsgesellschaft Mutares kauft dem Duftstoff- und Aromen-Hersteller Symrise dessen US-Geschäft mit Terpen-Inhaltsstoffen ab. Die Transaktion stärke ..."
         }
       ],
       "error": null
@@ -164,16 +164,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Geldpolitik und Ölpreis belasten die Anlegerlaune",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+          "published": "2026-09-01T05:30:07+00:00",
+          "summary": "Der anziehende Ölpreis und die Aussicht auf steigende Leitzinsen in den USA und der Eurozone belasten die Stimmung am Markt. Vor frischen Inflationsdaten bleiben die Anleger zurückhaltend."
+        },
+        {
           "title": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
           "published": "2026-08-31T16:46:46+00:00",
           "summary": "Vor 50 Jahren ging der erste Indexfonds für Privatanleger an den Start. Er gilt als Vorläufer der heutigen ETFs und hat den Vermögensaufbau an der Börse einem breiteren Publikum geöffnet."
-        },
-        {
-          "title": "Marktbericht: Herbe Verluste zum Monatsende",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
-          "published": "2026-08-31T16:23:35+00:00",
-          "summary": "Neue Militärschläge im Persischen Golf und Zinssorgen haben den DAX zu Wochenbeginn in die Knie gezwungen. Der August endet dennoch mit einem Monatsplus von 2,5 Prozent."
         },
         {
           "title": "Marktbericht: Ölpreise klettern wieder",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "KI-Rechenzentren: Anthropic baut Rechenkapazität für den KI-Boom massiv aus",
+          "link": "https://www.wiwo.de/unternehmen/it/ki-rechenzentren-anthropic-baut-rechenkapazitaet-fuer-den-ki-boom-massiv-aus/100251023.html",
+          "published": "2026-09-01T05:32:33+00:00",
+          "summary": "Der KI-Konzern Anthropic sichert sich Rechenleistung für 35 Milliarden Dollar. Was hinter dem Deal mit Nvidia-Partner Lambda steckt."
+        },
+        {
+          "title": "Gelber Riese: Deutsche Post verschwindet aus DHL-Konzernnamen",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/gelber-riese-deutsche-post-verschwindet-aus-konzernnamen/100251010.html",
+          "published": "2026-09-01T04:00:08+00:00",
+          "summary": "Nach dem Jahrtausendwechsel verleibte sich die Ex-Bundespost DHL ein. Die Deutsche Post wurde internationaler, der Name aber blieb deutsch. Bis jetzt."
+        },
+        {
           "title": "Arbeitsmarkt: Ist das Handwerk der Ausweg aus der Jobmisere?",
           "link": "https://www.wiwo.de/erfolg/beruf/ausbildung-im-handwerk-sicherer-job-im-zeitalter-der-ki/100247689.html",
           "published": "2026-09-01T03:47:41+00:00",
           "summary": "Auf Montage statt im Hörsaal: Immer mehr junge Menschen zieht es ins Handwerk. Auch weil diese Berufe sicher vor KI sind. Das ist aber nicht der einzige Grund."
         },
         {
-          "title": "Drogenabhängigkeit: Koksende Manager – wie Kokain Karrieren zerstört",
-          "link": "https://www.wiwo.de/erfolg/management/kokainsucht-betroffene-erzaehlen-wie-sie-den-ausstieg-geschafft-haben/100249550.html",
-          "published": "2026-08-31T18:19:00+00:00",
-          "summary": "Kokain wird von einigen Managern konsumiert wie Kaffee oder Obst. Zwei Unternehmer geben ­seltene Einblicke in ihre Sucht – und ihren Weg aus der Krise."
+          "title": "Halbjahresbilanz: Europas Großbanken fallen trotz guter Geschäfte weiter zurück",
+          "link": "https://www.wiwo.de/unternehmen/banken/halbjahresbilanz-us-konkurrenz-enteilt-europas-grossbanken/100250999.html",
+          "published": "2026-09-01T03:00:37+00:00",
+          "summary": "Die zehn größten Banken Europas haben zuletzt gut verdient. Doch die Wettbewerber in den USA bleiben unerreicht, wie eine EY-Analyse zeigt."
         },
         {
-          "title": "Volkswagen-Sanierung: VW droht eine Hauptversammlung, die den Konzern zerreißen könnte",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-volkswagen-droht-eine-hauptversammlung-die-den-konzern-zerreissen-koennte/100250841.html",
-          "published": "2026-08-31T18:17:00+00:00",
-          "summary": "Der VW-Aufsichtsrat streitet um die Sanierung des Konzerns. Am Ende könnte der Konflikt via Hauptversammlung entschieden werden. Mit brisanten Folgen."
-        },
-        {
-          "title": "Diplomatischer Eklat: Russischer Finanzminister auf US-Einladung bei G20-Treffen",
-          "link": "https://www.wiwo.de/politik/ausland/diplomatischer-eklat-auf-us-einladung-russischer-finanzminister-bei-g20-treffen/100250915.html",
-          "published": "2026-08-31T18:16:00+00:00",
-          "summary": "Der russische Finanzminister nimmt erstmal seit vier Jahren am G20-Treffen teil – während Pressevertreter ausgeladen worden. Das sorgt für Kritik."
-        },
-        {
-          "title": "VW-Werk Emden: Ministerpräsident Lies setzt auf mehr E-Autos",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-werk-emden-ministerpraesident-olaf-lies-setzt-auf-mehr-e-autos/100250941.html",
-          "published": "2026-08-31T17:42:13+00:00",
-          "summary": "Bei Volkswagen in Emden werden inzwischen ausschließliche E-Autos gebaut – dennoch droht dem Werk das Aus. Olaf Lies betont das Potenzial des Standortes."
+          "title": "Steuern: Einigung in Koalition – Steuergesetz kommt ins Kabinett",
+          "link": "https://www.wiwo.de/politik/deutschland/steuern-einigung-in-koalition-steuergesetz-kommt-ins-kabinett/100250997.html",
+          "published": "2026-09-01T03:00:31+00:00",
+          "summary": "Für sein Steuergesetz musste Finanzminister Klingbeil zuletzt kräftig einstecken. Jetzt soll es die erste formelle Hürde nehmen."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Was macht ein Ingenieur? Aufgaben, Studium, Gehalt und Karriere",
+          "link": "https://www.ingenieur.de/karriere/berufsprofile/was-macht-ein-ingenieur/",
+          "published": "2026-09-01T05:46:31+00:00",
+          "summary": "Was machen Ingenieurinnen und Ingenieure? Aufgaben, Arbeitsalltag, Studium, Gehalt und Berufsaussichten verständlich erklärt."
+        },
         {
           "title": "Felssturz an der Loreley: Warum selbst überwachte Hänge gefährlich bleiben",
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/felssturz-an-der-loreley-warum-selbst-ueberwachte-haenge-gefaehrlich-bleiben/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/496-kmh-das-ist-das-schnellste-serienauto-der-welt/",
           "published": "2026-08-31T11:15:00+00:00",
           "summary": "Welches ist das schnellste Auto der Welt? Der Yangwang U9 Xtreme erreicht 496,22 km/h. Das aktuelle Ranking der schnellsten Serienautos."
-        },
-        {
-          "title": "ERP für Bau- und Ingenieurbüros:Sta*Ware BusinessNavigator im ERP – Wettbewerb 2026",
-          "link": "https://www.ingenieur.de/advertorial/erp-fuer-bau-und-ingenieurbuerosstaware-businessnavigator-im-erp-wettbewerb-2026/",
-          "published": "2026-08-31T11:13:19+00:00",
-          "summary": "Die Digitalisierung in Bauunternehmen und Ingenieurbüros ist häufig weniger durch fehlende Software als durch deren Vielzahl geprägt. Kalkulation, Projektmanagement, Dokumentenverwaltung, Finanzwesen …"
         }
       ],
       "error": null
