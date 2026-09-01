@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:05:01+00:00",
+  "generatedAt": "2026-09-01T00:14:23+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1640586.html",
+          "published": "2026-08-31T23:55:20+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
+          "published": "2026-08-31T23:43:53+00:00",
+          "summary": "Mit seinem Öl-Deal mit Venezuela will US-Präsident Trump die Engpässe im Nahen Osten ausgleichen und für schnell sinkende Benzinpreise in seinem Land sorgen. Doch damit verspricht er zu viel, sagen …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80678.html",
+          "published": "2026-08-31T22:24:27+00:00",
+          "summary": ""
+        },
         {
           "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
           "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
@@ -18,24 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/tt-12830.html",
           "published": "2026-08-31T20:52:15+00:00",
           "summary": ""
-        },
-        {
-          "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
-          "published": "2026-08-31T20:28:25+00:00",
-          "summary": "In Sachsen-Anhalt grenzt sich CDU-Spitzenkandidat Schulze im Wahlkampf von Kanzler Merz und der Bundespolitik ab. Nun gab es doch einen gemeinsamen Auftritt. Den nutzte Merz erneut für eine klare …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1640552.html",
-          "published": "2026-08-31T19:58:32+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
-          "link": "https://www.tagesschau.de/ausland/amerika/grand-canyon-sturzflut-100.html",
-          "published": "2026-08-31T18:57:05+00:00",
-          "summary": "Eine Sturzflut im Grand-Canyon-Nationalpark im Westen der USA hat zwei Menschen getötet, nach 20 weiteren wird noch gesucht. Es ist unklar, ob die Menschen vermisst werden oder ob sie sich woanders …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Pentagon: Staatssekretär des US-Heeres reicht laut US-Medien Rücktritt ein",
+          "link": "https://www.handelsblatt.com/politik/international/pentagon-staatssekretaer-des-us-heeres-reicht-laut-us-medien-ruecktritt-ein/100250972.html",
+          "published": "2026-08-31T23:59:39+00:00",
+          "summary": "Das Personalkarussell dreht sich weiter. Der für das Heer zuständige Staatssekretär will seinen Hut nehmen. Grund soll Streit mit Verteidigungsminister Hegseth gewesen sein."
+        },
+        {
+          "title": "281 PS und 345 Nm: Elektrischer Opel Corsa GSE kostet ab 39.900 Euro",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/281-ps-und-345-nm-elektrischer-opel-corsa-gse-kostet-ab-39900-euro/100250969.html",
+          "published": "2026-08-31T23:01:04+00:00",
+          "summary": "Opel macht den Corsa wieder zum Sportler. Diesmal allerdings elektrisch und besonders antrittsstark als GSE. Das kompakte Modell soll ab Oktober für viel Fahrspaß sorgen."
+        },
+        {
+          "title": "Vorwurf der Trickserei: Unfaire Preise für Werbung? Klage gegen Amazon in den USA",
+          "link": "https://www.handelsblatt.com/politik/deutschland/vorwurf-der-trickserei-unfaire-preise-fuer-werbung-klage-gegen-amazon-in-den-usa/100250964.html",
+          "published": "2026-08-31T22:35:00+00:00",
+          "summary": "Der Internet-Riese Amazon verdient Milliarden mit seinem Werbegeschäft. Doch laut US-Wettbewerbshütern geht es dabei nicht immer mit rechten Dingen zu."
+        },
+        {
+          "title": "Kinderarmut: Umfrage: Finanzsorgen von Eltern nehmen zu",
+          "link": "https://www.handelsblatt.com/politik/deutschland/kinderarmut-umfrage-finanzsorgen-von-eltern-nehmen-zu/100250961.html",
+          "published": "2026-08-31T22:01:04+00:00",
+          "summary": "Reicht das Geld für Heizen, Kleidung und Essen für die Familie? Viele Mütter und Väter äußern Zweifel. Der Anteil ist seit Anfang letzten Jahres deutlich gestiegen."
+        },
+        {
           "title": "Clouddienst: Weltweite Störung bei Microsoft Outlook legt E-Mail lahm",
           "link": "https://www.handelsblatt.com/technik/clouddienst-weltweite-stoerung-bei-microsoft-outlook-legt-e-mail-lahm/100250957.html",
           "published": "2026-08-31T21:06:17+00:00",
           "summary": "Ein Fehler bei Microsoft Exchange Online sorgt weltweit für E-Mail-Probleme. Was Nutzer jetzt beachten sollten und wie Microsoft reagiert."
-        },
-        {
-          "title": "E-Commerce: US-Behörde verklagt Amazon – Vorwurf der Preismanipulation bei Werbung",
-          "link": "https://www.handelsblatt.com/technik/it-internet/e-commerce-us-behoerde-verklagt-amazon-vorwurf-der-preismanipulation-bei-werbung/100250952.html",
-          "published": "2026-08-31T20:45:34+00:00",
-          "summary": "Die Kläger werfen Amazon vor, heimlich Mindestpreise für Werbeanzeigen angehoben zu haben. In ähnlichen Fällen in der Vergangenheit hatte sich der Konzern außergerichtlich geeinigt."
-        },
-        {
-          "title": "Clouddienst gestört: Weltweite Störung bei Microsoft Outlook legt E-Mail lahm",
-          "link": "https://www.handelsblatt.com/technik/it-internet/clouddienst-gestoert-weltweite-stoerung-bei-microsoft-outlook-legt-e-mail-lahm/100250953.html",
-          "published": "2026-08-31T20:38:08+00:00",
-          "summary": "Ein Fehler bei Microsoft Exchange Online sorgt weltweit für E-Mail-Probleme. Was Nutzer jetzt beachten sollten und wie Microsoft reagiert."
-        },
-        {
-          "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen schließen leicht im Minus – doch die August-Bilanz ist positiv",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-leicht-im-minus-doch-die-august-bilanz-ist-positiv/100250821.html",
-          "published": "2026-08-31T19:54:45+00:00",
-          "summary": "Der Dow Jones verbucht seinen fünften Monatsgewinn in Folge. Für S&P 500 und Nasdaq ist es die erste positive Bilanz seit Mai. Belastend wirken weiter steigende Bondrenditen."
-        },
-        {
-          "title": "Vor den Landtagswahlen: Fischbrötchen, Pfiffe und eine Warnung – Merz im Wahlkampf",
-          "link": "https://www.handelsblatt.com/politik/deutschland/vor-den-landtagswahlen-fischbroetchen-pfiffe-und-eine-warnung-merz-im-wahlkampf/100250913.html",
-          "published": "2026-08-31T19:32:49+00:00",
-          "summary": "An der Ostseeküste wird Merz mit Pfiffen und Beschimpfungen begrüßt, im Harz wird er abgeschottet. Der Kanzler wagt sich erstmals in den Wahlkampf im Osten."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Unfaire Preise für Werbung?: US-Behörde verklagt Amazon wegen mutmaßlicher Manipulation",
+          "link": "https://www.n-tv.de/wirtschaft/US-Behoerde-verklagt-Amazon-wegen-mutmasslicher-Manipulation-id31253545.html",
+          "published": "2026-08-31T22:48:39+00:00",
+          "summary": "Amazon steht erneut unter Druck: Die US-Wettbewerbsbehörde FTC und mehr als 20 Bundesstaaten werfen dem Online-Riesen vor, Preise von Werbeanzeigen manipuliert zu haben. Die mutmaßliche Schadenssumme …"
+        },
         {
           "title": "Spekulation um Fed-Entscheidung: Hohe Ölpreise und Zinssorgen belasten die Wall Street",
           "link": "https://www.n-tv.de/wirtschaft/Hohe-Oelpreise-und-Zinssorgen-belasten-die-Wall-Street-id31253476.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Indien-behaelt-hohes-Wachstumstempo-Nahost-Krieg-belastet-id31252325.html",
           "published": "2026-08-31T14:00:02+00:00",
           "summary": "Die indische Wirtschaft ist massiv auf Energieimporte angewiesen. Die gestiegenen Kosten für Öl und Gas lasten auf der großen Volkswirtschaft. Doch das Land weist auch für das Frühjahr solide Raten …"
-        },
-        {
-          "title": "Hunderttausende Jobs betroffen: Trumps Zolldrohung gegen Kanada trifft japanische Autobauer",
-          "link": "https://www.n-tv.de/wirtschaft/Trumps-Zolldrohung-gegen-Kanada-trifft-japanische-Autobauer-id31251279.html",
-          "published": "2026-08-31T13:22:17+00:00",
-          "summary": "Trump plant, Zölle auf kanadische Autoimporte auf 50 Prozent zu verdoppeln. Das trifft nicht nur den Nachbarn der USA, sondern auch die japanischen Unternehmen Toyota und Honda. Experten warnen vor …"
         }
       ],
       "error": null
@@ -124,6 +124,12 @@
       "site": "https://www.finanzen.net/nachrichten/",
       "url": "https://www.finanzen.net/rss/news",
       "items": [
+        {
+          "title": "Danke für Dein Feedback zum Standpunkt",
+          "link": "https://www.finanzen.net/nachricht/aktien/danke-fuer-dein-feedback-zum-standpunkt-15791164",
+          "published": "2026-08-31T22:01:00+00:00",
+          "summary": "Kennst Du schon unser gesamtes Angebot an Börsen-Newslettern? Newsletter von finanzen.net Was gibt's Neues an der Börse? Top-News ..."
+        },
         {
           "title": "August 2026: So performten die einzelnen DAX-Aktien im vergangenen Monat",
           "link": "https://www.finanzen.net/nachricht/aktien/tops-flops-august-2026-so-performten-die-einzelnen-dax-aktien-im-vergangenen-monat-15896670",
@@ -147,12 +153,6 @@
           "link": "https://www.finanzen.net/nachricht/aktien/weltweite-stoerung-bei-microsoft-outlook-legt-e-mail-lahm-15911040",
           "published": "2026-08-31T20:46:38+00:00",
           "summary": "REDMOND/BERLIN (dpa-AFX) - Ein großflächiger Ausfall bei Microsoft hat am Montagabend den E-Mail-Verkehr von Millionen Nutzern weltweit beeinträchtigt. Betroffen sind sowohl Unternehmenskunden von …"
-        },
-        {
-          "title": "ROUNDUP/Aktien New York Schluss: Dow gibt nach - Ölpreis steigt wieder",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-dow-gibt-nach-oelpreis-steigt-wieder-15911039",
-          "published": "2026-08-31T20:34:39+00:00",
-          "summary": "NEW YORK (dpa-AFX) - Die erneute Zuspitzung im Iran-Krieg hat den Dow Jones Industrial am Montag belastet. Der Leitindex litt unter dem wieder steigenden Ölpreis und den damit verbundenen …"
         }
       ],
       "error": null
