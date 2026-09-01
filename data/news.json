@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:10:38+00:00",
+  "generatedAt": "2026-09-01T20:09:21+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Anschlagsversuch mit Drohne: \"Bekanntes Muster russischer Operationen\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
-          "published": "2026-09-01T17:54:06+00:00",
-          "summary": "Die Spuren des Anschlagversuchs am Flughafen Leipzig/Halle sollen zu sogenannten Wegwerfagenten eines russischen Geheimdienstes führen. Michael Götschenberg erklärt, wie Ermittler und Bundesregierung …"
+          "title": "Kommentar zu Sanktionen gegen Russland: Auch politische Waffen sind schmerzhaft",
+          "link": "https://www.tagesschau.de/kommentar/kommentar-anschlag-russland-100.html",
+          "published": "2026-09-01T19:56:04+00:00",
+          "summary": "Deutschland benennt Russland als Drahtzieher des Anschlagsversuchs, ohne sich provozieren zu lassen. Die Regierung hat damit einen Balanceakt geschafft, meint Markus Sambale. Denn die Demokratie …"
         },
         {
-          "title": "Liveblog zum Deadline Day: Zwei Topspieler für Leverkusen und Gladbach",
-          "link": "https://www.sportschau.de/fussball/bundesliga/zwei-topspieler-fuer-leverkusen-und-gladbahc,liveblog-transferende-100.html",
-          "published": "2026-09-01T17:48:35+00:00",
-          "summary": "Wer wechselt noch wohin? Für die Fußball-Bundesligisten bietet sich heute die letzte Chance in diesem Sommer, neue Spieler zu verpflichten. Um 20 Uhr endet das Sommer-Transferfenster. Hier gibt es …"
+          "title": "Bundesregierung: Russland für Drohnen-Anschlagsversuch in Leipzig verantwortlich",
+          "link": "https://www.tagesschau.de/eilmeldung/bundesregierung-drohne-flughafen-leipzig-halle-russland-100.html",
+          "published": "2026-09-01T19:47:05+00:00",
+          "summary": "Deutschland macht Russland für den versuchten Drohnenanschlag am Flughafen Leipzig/Halle verantwortlich und hat weitere Sanktionen gegen russische Staatsbürger und Einrichtungen angekündigt. Der …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-01T17:35:39+00:00",
-          "summary": "Mittwoch gibts einen Mix aus Sonne und mal mehr, mal weniger dichten Wolken, im Nordwesten vor allem am Nachmittag Schauer und einzelne Gewitter. Im Süden scheint dagegen oft die Sonne.19 bis 27 Grad."
+          "title": "USA und Iran melden erneut heftige Angriffe",
+          "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+          "published": "2026-09-01T19:37:07+00:00",
+          "summary": "Mehrere Wochen lang war es vergleichsweise ruhig an der Straße von Hormus. Doch seit dem Wochenende greifen sich Iran und die USA wieder gegenseitig an. Nun meldeten beide Seiten erneut heftige …"
         },
         {
-          "title": "\"The Art of Johnny Depp\" in Düsseldorf: Kitsch oder Imagepflege?",
-          "link": "https://www.tagesschau.de/kultur/kunst-von-johnny-depp-duesseldorf-schloss-benrath-100.html",
-          "published": "2026-09-01T17:22:05+00:00",
-          "summary": "Johnny Depp ist zurück. Zwischen Fanmomenten, umstrittener Kunst und einem Image, das nach dem Rosenkrieg schwer beschädigt schien, inszeniert er als als Maler und Rockmusiker im Düsseldorfer Schloss …"
+          "title": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
+          "published": "2026-09-01T19:09:43+00:00",
+          "summary": "In Brandenburg haben Unbekannte mit selbstgebauten Flugkörpern Kurzschlüsse an einer Hochspannungsleitung verursacht. Zu einem Stromausfall kam es nicht, aber Brandenburgs Innenminister warnt: \"Das …"
         },
         {
-          "title": "Ist der Hype um Shein & Co. vorbei?",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
-          "published": "2026-09-01T17:18:25+00:00",
-          "summary": "Der chinesische Billig-Onlinehändler Shein verpatzt sein Börsendebut. Die Zeiten des hohen Wachstums scheinen für das Unternehmen vorbei zu sein. Im Fokus von Investoren sind andere Branchen. Von …"
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12222.html",
+          "published": "2026-09-01T18:47:31+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Strafmaßnahme: Was ist das Russische Haus in Berlin?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/strafmassnahme-was-ist-das-russische-haus-in-berlin/100251284.html",
-          "published": "2026-09-01T17:46:29+00:00",
-          "summary": "Deutschland will den Vertrag über das Russische Haus in Berlin kündigen. Es besteht seit längerem der Verdacht, dass das Kulturinstitut zu Spionagezwecken genutzt wird."
-        },
-        {
-          "title": "Ukraine-Krieg: Moskau kündigt Reaktion auf „anti-russische Maßnahmen“ an",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-kuendigt-reaktion-auf-anti-russische-massnahmen-an/27982126.html",
-          "published": "2026-09-01T17:31:00+00:00",
-          "summary": "Rutte zu Leipziger Drohne: „Die Beweise sind eindeutig“ +++ Von der Leyen betont Solidarität der EU mit Deutschland +++ Der Newsblog."
-        },
-        {
-          "title": "Dow Jones, S&P 500, Nasdaq: Steigende Renditen drücken Wall Street ins Minus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-steigende-renditen-druecken-wall-street-ins-minus/100251215.html",
-          "published": "2026-09-01T17:13:00+00:00",
+          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street im Minus – Ölpreise steigen nach US-Angriffen",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-oelpreise-steigen-nach-us-angriffen/100251215.html",
+          "published": "2026-09-01T19:49:00+00:00",
           "summary": "Ölpreise und Anleiherenditen steigen weiter. Das wirft den Fokus auf die Geldpolitik in den USA. Unterdessen könnte die US-Notenbank Fed in ein Dilemma kommen."
         },
         {
-          "title": "Hybride Bedrohung: Wie reagiert Deutschland auf die Sprengstoff-Drohne?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/hybride-bedrohung-wie-reagiert-deutschland-auf-die-sprengstoff-drohne/100251270.html",
-          "published": "2026-09-01T17:04:26+00:00",
-          "summary": "Einschränkungen für russische Einrichtungen, Druck auf die Schattenflotte: Wie will Deutschland auf den Anschlagsversuch am Flughafen Leipzig/Halle reagieren? Welche Optionen bergen welche Risiken?"
+          "title": "Konzernumbau: Nestlé verkauft Vitamingeschäft an Finanzinvestor",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/konzernumbau-nestle-verkauft-vitamingeschaeft-an-finanzinvestor/100251300.html",
+          "published": "2026-09-01T19:39:46+00:00",
+          "summary": "Nestlé trennt sich für eine Milliarde Dollar von seinem Geschäft mit Vitaminen und Nahrungsergänzungsmitteln. Käufer ist der US-Finanzinvestor Yellow Wood."
         },
         {
-          "title": "Krieg: US-Militär: Greifen wieder Ziele im Iran an",
-          "link": "https://www.handelsblatt.com/politik/international/krieg-us-militaer-greifen-wieder-ziele-im-iran-an/100251269.html",
-          "published": "2026-09-01T16:59:14+00:00",
-          "summary": "Am Wochenende ist der Iran-Krieg erstmals seit Wochen wieder mit gegenseitigen Angriffen militärisch eskaliert. Nun folgt ein weiterer Angriff der USA."
+          "title": "USA-Reise: Klingbeil deutet härtere Gangart gegenüber China an",
+          "link": "https://www.handelsblatt.com/politik/deutschland/usa-reise-klingbeil-deutet-haertere-gangart-gegenueber-china-an/100251302.html",
+          "published": "2026-09-01T19:29:54+00:00",
+          "summary": "Muss Europa mehr gegen unfaire Handelspraktiken in China unternehmen? Finanzminister Klingbeil hat Ideen."
+        },
+        {
+          "title": "Kommentar: Berlins Antwort auf die Drohnenattacke kann nur der Anfang sein",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-berlins-antwort-auf-die-drohnenattacke-kann-nur-der-anfang-sein/100251291.html",
+          "published": "2026-09-01T18:58:47+00:00",
+          "summary": "Friedrich Merz kündigte einen hohen Preis für den versuchten Drohnenanschlag an, doch die jetzt beschlossenen Maßnahmen sind überschaubar. Wird Russland am Ende wirklich bezahlen?"
+        },
+        {
+          "title": "Drohnenvorfall Leipzig/Halle: Bundesregierung ordnet Maßnahmen gegen Russland an",
+          "link": "https://www.handelsblatt.com/video/politik/bundesregierung-ordnet-massnahmen-gegen-russland-an/100251297.html",
+          "published": "2026-09-01T18:57:23+00:00",
+          "summary": "Innenminister Dobrindt hat am Dienstagabend bekanntgegeben, dass die Bundesregierung den versuchten Anschlag am Flughafen Leipzig/Halle als „hybride Operation“ Russlands bewertet. Zusammen mit …"
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Konzern stoppt Aktienrückkauf : Großaktionär Frasers greift nach Mehrheit bei Hugo Boss",
+          "link": "https://www.n-tv.de/wirtschaft/Grossaktionaer-Frasers-greift-nach-Mehrheit-bei-Hugo-Boss-id31258646.html",
+          "published": "2026-09-01T20:01:18+00:00",
+          "summary": "Beim Modekonzern Hugo Boss spitzt sich der Machtkampf mit dem größten Aktionär zu. Eine neue Ankündigung aus Großbritannien zwingt das Unternehmen zum Kurswechsel - und wirft erneut Fragen zur …"
+        },
+        {
+          "title": "\"Wirtschaft braucht Zuwanderung\": Hunderte Unternehmen sorgen sich um die Demokratie - Bündnis gegründet",
+          "link": "https://www.n-tv.de/wirtschaft/2500-Unternehmen-gruenden-Verein-fuer-Demokratiefoerderung-id31258330.html",
+          "published": "2026-09-01T18:24:37+00:00",
+          "summary": "Für Hunderte Unternehmen ist es an der Zeit, Position zu beziehen. Demokratieförderung und Weltoffenheit seien Zukunftsinvestitionen, sagen sie und werben für mehr Einwanderung. Mit Sorge blicken sie …"
+        },
         {
           "title": "Genialer Trick oder Weg in Ruin: Was passiert, wenn die Notenbank Frankreichs Staatsschulden einfach löscht?",
           "link": "https://www.n-tv.de/wirtschaft/Was-passiert-wenn-die-Notenbank-Frankreichs-Staatsschulden-einfach-loescht-id31257663.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Schwedische-Craft-Mutter-kauft-Uhlsport-und-Kempa-id31257419.html",
           "published": "2026-09-01T14:03:30+00:00",
           "summary": "Unter anderem mit Bällen, Schienbeinschonern und Torwarthandschuhen haben sich die Sportmarken Uhlsport und Kempa einen Namen gemacht. Vereine und Klubs spricht auch der schwedische Textilhersteller …"
-        },
-        {
-          "title": "Bisher nur Verlustgeschäft: Victoria Beckhams Modelabel ist nach 18 Jahren endlich profitabel",
-          "link": "https://www.n-tv.de/wirtschaft/Victoria-Beckhams-Modelabel-ist-nach-18-Jahren-endlich-profitabel-id31254913.html",
-          "published": "2026-09-01T13:20:18+00:00",
-          "summary": "Vom Verlustgeschäft zum Millionengewinn: Das Label von Victoria Beckham schreibt erstmals seit seiner Gründung schwarze Zahlen. Den Turnaround verdankt die Modedesignerin vor allem einer Entscheidung."
-        },
-        {
-          "title": "Klagen im \"Mietenreport\": Jeder zweite Mieter befürchtet, keine bezahlbare Wohnung zu finden",
-          "link": "https://www.n-tv.de/wirtschaft/Jeder-zweite-Mieter-befuerchtet-keine-bezahlbare-Wohnung-zu-finden-id31256741.html",
-          "published": "2026-09-01T13:17:54+00:00",
-          "summary": "Viele Mieter in Deutschland leben in Angst, ihre Wohnung zu verlieren. Das ergibt eine Untersuchung des Deutschen Mieterbunds. Die Interessenvertreter fordern vom Bund mehrere Maßnahmen, um die Krise …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Schwache Performance in New York: NASDAQ 100 legt nachmittags den Rückwärtsgang ein",
-          "link": "https://www.finanzen.net/nachricht/aktien/schwache-performance-in-new-york-nasdaq-100-legt-nachmittags-den-rueckwaertsgang-ein-15913027",
-          "published": "2026-09-01T18:02:30+00:00",
-          "summary": "Am Dienstag tendiert der NASDAQ 100 um 20:00 Uhr via NASDAQ 1,23 Prozent tiefer bei 29.093,25 Punkten. Zuvor ging der NASDAQ 100 1,36 Prozent schwächer bei 29.056,58 Punkten in den Handel, ..."
+          "title": "ROUNDUP/Iran: Vergeltung nach US-Angriff gestartet",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-iran-vergeltung-nach-us-angriff-gestartet-15913122",
+          "published": "2026-09-01T19:56:38+00:00",
+          "summary": "TEHERAN (dpa-AFX) - Der Iran hat eigenen Angaben zufolge nach dem US-Angriff auf Stellungen in seinem Land eine Vergeltungsaktion gestartet. Die iranischen Revolutionsgarden teilten in einer von …"
         },
         {
-          "title": "Börse New York in Rot: S&P 500 gibt nach",
-          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-in-rot-s-p-500-gibt-nach-15913026",
-          "published": "2026-09-01T18:02:30+00:00",
-          "summary": "Um 20:00 Uhr steht im NYSE-Handel ein Minus von 0,66 Prozent auf 7.635,34 Punkte an der S&P 500 -Kurstafel. Die Marktkapitalisierung der enthaltenen Werte beträgt damit 61,905 Bio. Euro. In den ..."
+          "title": "GNW-News: BlackLine erweitert Leistungsangebot für komplexe Finanz-Workflows mit PCI DSS-Compliance-Validierung",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-blackline-erweitert-leistungsangebot-fuer-komplexe-finanz-workflows-mit-pci-dss-compliance-validierung-15913121",
+          "published": "2026-09-01T19:54:38+00:00",
+          "summary": "^LOS ANGELES, Sept. 01, 2026 (GLOBE NEWSWIRE) -- BlackLine, Inc. (Nasdaq: BL),die Agentic Financial Operations Platform(TM) (https://www.blackline.com/products/studio360/) für Finanzteams in …"
         },
         {
-          "title": "Minuszeichen in New York: NASDAQ Composite notiert am Nachmittag im Minus",
-          "link": "https://www.finanzen.net/nachricht/aktien/minuszeichen-in-new-york-nasdaq-composite-notiert-am-nachmittag-im-minus-15913025",
-          "published": "2026-09-01T18:02:30+00:00",
-          "summary": "Um 20:00 Uhr tendiert der NASDAQ Composite im NASDAQ-Handel 0,93 Prozent schwächer bei 26.124,83 Punkten. Zum Handelsstart standen Verluste von 1,29 Prozent auf 26.031,67 Punkte an ..."
-        },
-        {
-          "title": "Handel in New York: Dow Jones fällt",
-          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-dow-jones-faellt-15913024",
-          "published": "2026-09-01T18:02:30+00:00",
-          "summary": "Um 20:00 Uhr gibt der Dow Jones im NYSE-Handel um 0,79 Prozent auf 52.765,42 Punkte nach. Die Dow Jones-Mitglieder kommen damit auf eine Marktkapitalisierung von 24,961 Bio. Euro. In den …"
+          "title": "Weltgrößter Juwelier Pandora hält an Platin-Strategie fest - trotz fallender Silberpreise",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/edelmetallwende-weltgroesster-juwelier-pandora-haelt-an-platin-strategie-fest-trotz-fallender-silberpreise-00-15903639",
+          "published": "2026-09-01T19:53:00+00:00",
+          "summary": "Pandora-CEO bekräftigt Umstieg auf platinbeschichteten Schmuck trotz gesunkener Silberpreise • Silberbedarf für 2027 zu rund 65 US-Dollar je Feinunze abgesichert • Jahresprognose für Wachstum und …"
         },
         {
           "title": "PayPal-Aktie hundertfach aufgestockt: Das Commerzbank-Depot im zweiten Quartal 2026",
           "link": "https://www.finanzen.net/nachricht/aktien/13f-offenlegung-paypal-aktie-hundertfach-aufgestockt-das-commerzbank-depot-im-zweiten-quartal-2026-00-15905911",
-          "published": "2026-09-01T17:52:00+00:00",
+          "published": "2026-09-01T19:47:00+00:00",
           "summary": "Commerzbank meldet ihr US-Depot für das zweite Quartal 2026 an die SEC Bei Deutsche Bank und Honeywell schrumpft der Anteil drastisch zusammen PayPal-Aktie wächst im Depot stark, reicht aber nicht …"
+        },
+        {
+          "title": "Klingbeil deutet härtere Gangart gegenüber China an",
+          "link": "https://www.finanzen.net/nachricht/aktien/klingbeil-deutet-haertere-gangart-gegenueber-china-an-15913110",
+          "published": "2026-09-01T19:39:38+00:00",
+          "summary": "SPARTANBURG (dpa-AFX) - Finanzminister Lars Klingbeil hat in der Debatte über unfaire Handelspraktiken eine härtere Gangart gegenüber China angedeutet. \"Das heißt nicht, dass wir die Konfrontation …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Das VW-Dossier: Das sind Volkswagens Pläne für seine Werke weltweit",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-dossier-das-sind-volkswagens-plaene-fuer-seine-werke-weltweit/100251169.html",
+          "published": "2026-09-02T03:30:00+00:00",
+          "summary": "Im Strategiepapier zur Zukunft des Konzerns stehen vier deutsche Werke auf der Streichliste. Es gibt auch Chancen auf neue Standorte – aber nicht in Deutschland."
+        },
+        {
+          "title": "Misslungener Anschlag: Die neue Russland-Härte der Bundesregierung",
+          "link": "https://www.wiwo.de/politik/deutschland/misslungener-drohnen-anschlag-in-leipzig-die-neue-russland-haerte-der-bundesregierung/100251264.html",
+          "published": "2026-09-01T19:24:25+00:00",
+          "summary": "Berlin macht Moskau für die gescheiterten Anschläge von Leipzig verantwortlich und leitet historische Schritte ein. Ihre Botschaft: Die Zeit der Zurückhaltung ist vorbei."
+        },
+        {
+          "title": "Das VW-Dossier: VW-Vorstand plant Ende der Produktion in diesen vier deutschen Werken",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-sanierungsplan-fuer-diese-4-deutschen-werke-hat-der-vorstand-das-ende-beschlossen/100251232.html",
+          "published": "2026-09-01T19:05:00+00:00",
+          "summary": "Geheimer Bericht für den VW-Aufsichtsrat: Die Produktion endet an vier deutschen Standorten zwischen 2031 und 2034. Welche Städte es trifft."
+        },
+        {
+          "title": "Kohlekraftwerk Jänschwalde: Sabotage an Stromnetz in Brandenburg",
+          "link": "https://www.wiwo.de/politik/deutschland/vorfall-in-kraftwerksnaehe-sprengvorrichtungen-an-umspannwerk-gefunden/100251188.html",
+          "published": "2026-09-01T18:42:00+00:00",
+          "summary": "In der Nähe des großen Kohlekraftwerks Jänschwalde wird mit Raketen ein Kurzschluss ausgelöst, doch die Stromversorgung bleibt stabil. Was bisher über die Täter und das Vorgehen bekannt ist."
+        },
+        {
           "title": "Landtagswahl in Sachsen-Anhalt: Wie ein AfD-Erfolg die Fachkräftelücke noch vergrößern könnte",
           "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-ein-afd-erfolg-die-fachkraefteluecke-noch-vergroessern-koennte/100250372.html",
           "published": "2026-09-01T16:50:33+00:00",
           "summary": "Sachsen-Anhalt braucht Fachkräfte aus dem Ausland. Doch auch der Rechtsruck erschwert es, sie zu gewinnen und zu halten. So gefährdet das Bundesland seinen Wohlstand."
-        },
-        {
-          "title": "Misslungener Anschlag: Bundesregierung sieht Russland hinter der Sprengstoff-Drohnen-Attacke in Leipzig",
-          "link": "https://www.wiwo.de/politik/deutschland/misslungener-anschlag-bundesregierung-sieht-russland-hinter-der-sprengstoff-drohnen-attacke-in-leipzig/100251264.html",
-          "published": "2026-09-01T16:34:00+00:00",
-          "summary": "Der versuchte Anschlag mit einer Sprengstoff-Drohne auf dem Flughafen Leipzig/Halle ist nach Erkenntnissen der Bundesregierung in russischem Auftrag verübt worden."
-        },
-        {
-          "title": "Landtagswahl Sachsen-Anhalt: „Wir befinden uns jetzt an einem Kipppunkt“",
-          "link": "https://www.wiwo.de/unternehmen/industrie/addinol-chef-warnt-vor-wahl-in-sachsen-anhaltbefinden-uns-an-einem-kipppunkt/100248344.html",
-          "published": "2026-09-01T16:10:00+00:00",
-          "summary": "Georg Wildegger hat aus einem DDR-Betrieb den einzigen Weltmarktführer Sachsen-Anhalts geformt. Vor der Landtagswahl legt der Addinol-Chef seine Zurückhaltung ab – und warnt seine Belegschaft."
-        },
-        {
-          "title": "Klimaanlagen-Preise: Der richtige Kaufmoment für Klimageräte",
-          "link": "https://www.wiwo.de/unternehmen/industrie/klimaanlage-der-beste-zeitpunkt-zum-kauf/100247935.html",
-          "published": "2026-09-01T16:02:00+00:00",
-          "summary": "„Antizyklisch einkaufen“ ist eine kluge Devise, wenn man sich Produkte mit saisonalem Nutzwert anschafft. Also: Jetzt eine Klimaanlage kaufen? Oder besser noch ein bisschen warten?"
-        },
-        {
-          "title": "John Ternus: Apples neuer Chef blieb im Großraum sitzen, als das Eckbüro frei wurde",
-          "link": "https://www.wiwo.de/unternehmen/it/john-ternus-wird-neuer-apple-ceo-was-auf-tim-cooks-nachfolger-wartet/100218613.html",
-          "published": "2026-09-01T16:00:00+00:00",
-          "summary": "John Ternus übernimmt als Apple-Chef von Tim Cook. Was nach dem Amtsantritt von ihm zu erwarten ist und worin das größte Risiko für den iPhone-Konzern liegt."
         }
       ],
       "error": null
