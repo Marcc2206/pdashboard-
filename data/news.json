@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:14:23+00:00",
+  "generatedAt": "2026-09-01T02:07:58+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
+          "link": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
+          "published": "2026-09-01T00:49:12+00:00",
+          "summary": "Etwa ein Fünftel des Ölvorkommens Venezuelas soll künftig den USA gehören. Die Vorteile des Deals liegen für Washington auf der Hand. Doch hilft das Abkommen auch der maroden venezolanischen …"
+        },
+        {
+          "title": "Störung bei Microsoft: Maildienst Outlook lahmgelegt",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/microsoft-stoerung-100.html",
+          "published": "2026-09-01T00:46:50+00:00",
+          "summary": "Microsoft-Nutzer weltweit haben aktuell erhebliche Probleme, auf ihre E-Mails des Dienstes Outlook zuzugreifen. Sowohl der Login als auch der Empfang und Versand von Mails sind betroffen."
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1640586.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesschau/ts-80678.html",
           "published": "2026-08-31T22:24:27+00:00",
           "summary": ""
-        },
-        {
-          "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
-          "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
-          "published": "2026-08-31T21:09:55+00:00",
-          "summary": "Beim G20-Finanzministertreffen ist der russische Minister persönlich vor Ort - erstmals seit dem Angriff auf die Ukraine. Finanzminister Klingbeil kritisierte deshalb den Gastgeber USA und richtete …"
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12830.html",
-          "published": "2026-08-31T20:52:15+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "USA: Trump verkündet weitere Abkommen zur Senkung von Medikamentenpreisen",
+          "link": "https://www.handelsblatt.com/politik/international/usa-trump-verkuendet-weitere-abkommen-zur-senkung-von-medikamentenpreisen/100250974.html",
+          "published": "2026-09-01T01:06:24+00:00",
+          "summary": "Das Weiße Haus spricht von „enormen Rabatten“, die die Pharmakonzerne US-Kosten geben wollen. Verbraucherschutzorganisationen äußern sich jedoch skeptisch."
+        },
         {
           "title": "Pentagon: Staatssekretär des US-Heeres reicht laut US-Medien Rücktritt ein",
           "link": "https://www.handelsblatt.com/politik/international/pentagon-staatssekretaer-des-us-heeres-reicht-laut-us-medien-ruecktritt-ein/100250972.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/kinderarmut-umfrage-finanzsorgen-von-eltern-nehmen-zu/100250961.html",
           "published": "2026-08-31T22:01:04+00:00",
           "summary": "Reicht das Geld für Heizen, Kleidung und Essen für die Familie? Viele Mütter und Väter äußern Zweifel. Der Anteil ist seit Anfang letzten Jahres deutlich gestiegen."
-        },
-        {
-          "title": "Clouddienst: Weltweite Störung bei Microsoft Outlook legt E-Mail lahm",
-          "link": "https://www.handelsblatt.com/technik/clouddienst-weltweite-stoerung-bei-microsoft-outlook-legt-e-mail-lahm/100250957.html",
-          "published": "2026-08-31T21:06:17+00:00",
-          "summary": "Ein Fehler bei Microsoft Exchange Online sorgt weltweit für E-Mail-Probleme. Was Nutzer jetzt beachten sollten und wie Microsoft reagiert."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Danke für Dein Feedback zum Standpunkt",
-          "link": "https://www.finanzen.net/nachricht/aktien/danke-fuer-dein-feedback-zum-standpunkt-15791164",
-          "published": "2026-08-31T22:01:00+00:00",
-          "summary": "Kennst Du schon unser gesamtes Angebot an Börsen-Newslettern? Newsletter von finanzen.net Was gibt's Neues an der Börse? Top-News ..."
+          "title": "PayPal-Aktie hundertfach aufgestockt: Das Commerzbank-Depot im zweiten Quartal 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/13f-offenlegung-paypal-aktie-hundertfach-aufgestockt-das-commerzbank-depot-im-zweiten-quartal-2026-00-15905911",
+          "published": "2026-09-01T01:53:29+00:00",
+          "summary": "Commerzbank meldet ihr US-Depot für das zweite Quartal 2026 an die SEC Bei Deutsche Bank und Honeywell schrumpft der Anteil drastisch zusammen PayPal-Aktie wächst im Depot stark, reicht aber nicht …"
         },
         {
-          "title": "August 2026: So performten die einzelnen DAX-Aktien im vergangenen Monat",
-          "link": "https://www.finanzen.net/nachricht/aktien/tops-flops-august-2026-so-performten-die-einzelnen-dax-aktien-im-vergangenen-monat-15896670",
-          "published": "2026-08-31T21:41:00+00:00",
-          "summary": "So bewegten sich die DAX-Werte im August 2026"
+          "title": "August 2026: So bewegten sich die MDAX-Aktien im abgelaufenen Monat",
+          "link": "https://www.finanzen.net/nachricht/aktien/tops-flops-august-2026-so-bewegten-sich-die-mdax-aktien-im-abgelaufenen-monat-15896673",
+          "published": "2026-09-01T01:46:57+00:00",
+          "summary": "Diese Ausschläge wiesen MDAX-Aktien im August 2026 aus"
         },
         {
-          "title": "SHEIN-Aktie wagt den Sprung an die Börse: IPO in Hongkong am 1. September",
-          "link": "https://www.finanzen.net/nachricht/aktien/milliardenbewertung-shein-aktie-wagt-den-sprung-an-die-boerse-ipo-in-hongkong-am-1-september-00-15906173",
-          "published": "2026-08-31T20:54:00+00:00",
-          "summary": "SHEIN bietet rund 280 Millionen Aktien an • Bewertung bleibt deutlich unter dem Rekordniveau von 2022 • Börsenpläne in New York und London waren zuvor gescheitert Der Weg nach Hongkong Die Geschichte …"
+          "title": "Weltgrößter Juwelier Pandora hält an Platin-Strategie fest - trotz fallender Silberpreise",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/edelmetallwende-weltgroesster-juwelier-pandora-haelt-an-platin-strategie-fest-trotz-fallender-silberpreise-00-15903639",
+          "published": "2026-09-01T01:43:16+00:00",
+          "summary": "Pandora-CEO bekräftigt Umstieg auf platinbeschichteten Schmuck trotz gesunkener Silberpreise • Silberbedarf für 2027 zu rund 65 US-Dollar je Feinunze abgesichert • Jahresprognose für Wachstum und …"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-08-31T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "Aktien von AMD, NVIDIA, Intel und Arm im Fokus: BofA hebt Prognose für Server-CPU-Markt an",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-agenten-aktien-von-amd-nvidia-intel-und-arm-im-fokus-bofa-hebt-prognose-fuer-server-cpu-markt-an-00-15896848",
+          "published": "2026-09-01T01:22:21+00:00",
+          "summary": "BofA hebt Prognose für Server-CPU-Markt an • KI-Agenten gelten laut Analyst Vivek Arya als zentraler Wachstumstreiber • AMD bleibt Top-Pick, NVIDIA bevorzugter Wert im Gesamtsektor BofA korrigiert …"
         },
         {
-          "title": "Weltweite Störung bei Microsoft Outlook legt E-Mail lahm",
-          "link": "https://www.finanzen.net/nachricht/aktien/weltweite-stoerung-bei-microsoft-outlook-legt-e-mail-lahm-15911040",
-          "published": "2026-08-31T20:46:38+00:00",
-          "summary": "REDMOND/BERLIN (dpa-AFX) - Ein großflächiger Ausfall bei Microsoft hat am Montagabend den E-Mail-Verkehr von Millionen Nutzern weltweit beeinträchtigt. Betroffen sind sowohl Unternehmenskunden von …"
+          "title": "Bernstein setzt trotz gesenkter Kursziele auf chinesische E-Auto-Aktien BYD und Xiaomi",
+          "link": "https://www.finanzen.net/nachricht/aktien/gegenwind-bernstein-setzt-trotz-gesenkter-kursziele-auf-chinesische-e-auto-aktien-byd-und-xiaomi-00-15898677",
+          "published": "2026-09-01T01:09:47+00:00",
+          "summary": "BYD bleibt bei Bernstein der Top-Pick im chinesischen E-Auto-Sektor • Bernstein stuft BYD und Xiaomi weiterhin mit \"Outperform\" ein • Underperformance gegenüber dem Gesamtmarkt, dafür weniger …"
         }
       ],
       "error": null
