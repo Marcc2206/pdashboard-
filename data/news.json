@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:08:50+00:00",
+  "generatedAt": "2026-09-02T22:09:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12834.html",
-          "published": "2026-09-02T19:55:46+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80770.html",
+          "published": "2026-09-02T22:02:20+00:00",
+          "summary": ""
+        },
+        {
+          "title": "DFB-Pokal: Bayern arbeitet sich gegen Osnabrück in Runde zwei",
+          "link": "https://www.tagesschau.de/sport/bayern-arbeitet-sich-in-runde-zwei,spielbericht-dfb-pokal-osnabrueck-bayern-100.html",
+          "published": "2026-09-02T21:45:48+00:00",
+          "summary": "Der FC Bayern München hat in der ersten Runde des DFB-Pokals gegen den tapferen Zweitligisten VfL Osnabrück mehr Mühe gehabt als gedacht. Schuld daran war auch ein frühes Traumtor der Gastgeber."
+        },
+        {
+          "title": "Warnstreik in mehreren Nordseehäfen angekündigt",
+          "link": "https://www.tagesschau.de/inland/regional/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
+          "published": "2026-09-02T21:43:54+00:00",
+          "summary": "Die Gewerkschaft ver.di hat zu einem neuen Warnstreik aufgerufen. Mit Beginn der Nachtschicht sollen die Beschäftigten unter anderem in Hamburg, Bremerhaven und Wilhelmshaven ihre Arbeit für 48 …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1641796.html",
+          "published": "2026-09-02T21:39:01+00:00",
           "summary": ""
         },
         {
           "title": "VfL Wolfsburg verpasst dramatisch Champions League",
           "link": "https://www.ndr.de/sport/fussball/VfL-Wolfsburg-Frauen,vfl-wolfsburg-frauen-206.html",
-          "published": "2026-09-02T19:54:18+00:00",
+          "published": "2026-09-02T20:29:13+00:00",
           "summary": "Die VfL-Frauen verspielten gegen Inter Mailand die 2:0-Führung aus dem Hinspiel und in der Verlängerung das schon sicher geglaubte Weiterkommen."
-        },
-        {
-          "title": "Kritische Infrastruktur: Erneuter Anschlag auf Stromversorgung",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1641766.html",
-          "published": "2026-09-02T19:53:29+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Tina Hassel, ARD Brüssel, über die Reaktionen aus EU und NATO zum deutschen Vorgehen gegen Russland",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1641764.html",
-          "published": "2026-09-02T19:52:15+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Warnstreik in mehreren Nordseehäfen angekündigt",
-          "link": "https://www.tagesschau.de/inland/regional/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
-          "published": "2026-09-02T19:52:11+00:00",
-          "summary": "Die Gewerkschaft ver.di hat zu einem neuen Warnstreik aufgerufen. Mit Beginn der Nachtschicht sollen die Beschäftigten unter anderem in Hamburg, Bremerhaven und Wilhelmshaven ihre Arbeit für 48 …"
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Ukraine-Krieg: Nachrichtendienst: Russland plant Sabotage in Dänemark",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-plant-offenbar-sabotage-in-daenemark/27982126.html",
+          "published": "2026-09-02T21:45:00+00:00",
+          "summary": "Bericht – BKA ermittelt gegen zwei Tatverdächtige im Fall Leipzig +++ Gelb und Rot: Ukraine gibt sich neue Regeln für Luftalarm +++ Merz sichert Selenskyj weitere Unterstützung zu +++ Der Newsblog."
+        },
+        {
+          "title": "Rüstungsindustrie im Visier: Nachrichtendienst: Russland plant Sabotage in Dänemark",
+          "link": "https://www.handelsblatt.com/politik/international/ruestungsindustrie-im-visier-nachrichtendienst-russland-plant-sabotage-in-daenemark/100251633.html",
+          "published": "2026-09-02T21:22:57+00:00",
+          "summary": "Russland plant laut dem dänischen Inlandsnachrichtendienst Sabotage in Dänemark – und versucht dafür sogar, ahnungslose Bürger anzuwerben. Im Visier: die Rüstungsindustrie und Ukraine-Hilfe."
+        },
+        {
+          "title": "+++ Geschäftszahlen +++: Snowflake hebt Umsatzprognose an – Aktie springt um 22 Prozent",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-snowflake-hebt-umsatzprognose-an-aktie-springt-um-22-prozent/24098412.html",
+          "published": "2026-09-02T20:32:00+00:00",
+          "summary": "KI-Nachfrage beflügelt HPE – Aktie gibt dennoch nach +++ KI-Boom beflügelt Dell – Umsatz- und Gewinnprognose angehoben +++ Swiss Life streicht 600 Stellen trotz Gewinnplus +++ Der Newsblog."
+        },
+        {
           "title": "Helfer unter Druck: Demos in Spanien für Ceuta und gegen Sánchez",
           "link": "https://www.handelsblatt.com/politik/international/helfer-unter-druck-demos-in-spanien-fuer-ceuta-und-gegen-sanchez/100251627.html",
           "published": "2026-09-02T19:35:27+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/konjunktur-us-wirtschaft-waechst-trotz-groesserer-unsicherheit/100251624.html",
           "published": "2026-09-02T19:25:11+00:00",
           "summary": "Die Fed sieht eine leicht anziehende Wirtschaft und steigende Preise. Zugleich erschweren Energiepreise und Konflikte den Ausblick für Unternehmen."
-        },
-        {
-          "title": "Ölvorkommen: US-Energieminister: Öl-Deals mit Venezuela sind „historisch“",
-          "link": "https://www.handelsblatt.com/politik/international/oelvorkommen-us-energieminister-oel-deals-mit-venezuela-sind-historisch/100251625.html",
-          "published": "2026-09-02T19:21:41+00:00",
-          "summary": "Erst im Januar hatte Washington den autoritären Machthaber des südamerikanischen Landes festgenommen. Nun machen die USA dort Geschäfte mit Öl. Minister Wright schwärmt von den Vereinbarungen."
-        },
-        {
-          "title": "Spektakulärer Fall: Freispruch nach Mord an Journalistin in Malta",
-          "link": "https://www.handelsblatt.com/politik/international/spektakulaerer-fall-freispruch-nach-mord-an-journalistin-in-malta/100251621.html",
-          "published": "2026-09-02T19:08:04+00:00",
-          "summary": "Der Anschlag auf die Bloggerin Daphne Caruana Galizia gilt als der spektakulärste Mordfall Maltas. Ein prominenter Geschäftsmann galt als mutmaßlicher Drahtzieher. Nun wird er freigesprochen."
-        },
-        {
-          "title": "Dow Jones, S&P 500, Nasdaq: US-Arbeitsmarkt schwächer als erwartet – Wall Street im Plus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-arbeitsmarkt-schwaecher-als-erwartet-wall-street-im-plus/100251557.html",
-          "published": "2026-09-02T18:55:00+00:00",
-          "summary": "Steigende Energiepreise und Anleiherenditen drücken die Kurse vorerst nicht weiter. Doch weniger Neueinstellungen als gedacht verfestigen Erwartungen an die Fed."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Halbleiterwerte wieder gefragt: US-Anleger sind auf Schnäppchenjagd",
+          "link": "https://www.n-tv.de/wirtschaft/US-Anleger-sind-auf-Schnaeppchenjagd-id31263510.html",
+          "published": "2026-09-02T21:32:07+00:00",
+          "summary": "Seit Freitag schließt die Wall Street im Minus, jetzt nutzen die Anleger die Gelegenheit für einen Wiedereinstieg. Sorgen über die Lage im Nahen Osten und den steigenden Ölpreis können die Kauflaune …"
+        },
         {
           "title": "In der Machtfalle: VW droht am eigenen System zu ersticken - wer rettet den Konzern?",
           "link": "https://www.n-tv.de/wirtschaft/VW-droht-am-eigenen-System-zu-ersticken-wer-rettet-den-Konzern-id31261906.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Autohaus-Kette-Koenig-ist-insolvent-id31262777.html",
           "published": "2026-09-02T15:39:54+00:00",
           "summary": "Im 61. Jahr ihres Bestehens gerät die Autohaus-Kette König bedrohlich in Schieflage. Ein Insolvenzverfahren soll das Unternehmen nun in sicheres Fahrwasser zurückbringen. Was das für die mehr als …"
-        },
-        {
-          "title": "Präsident mit finsterem Blick: Goldener Trump-Dollar kommt in Umlauf",
-          "link": "https://www.n-tv.de/wirtschaft/Goldener-Trump-Dollar-kommt-in-Umlauf-id31262669.html",
-          "published": "2026-09-02T15:34:50+00:00",
-          "summary": "Donald Trump ist nun auch im amerikanischen Kleingeld präsent: Zum 250. Geburtstag der USA gibt die Münzanstalt ein ungewöhnliches Zahlungsmittel heraus. Die Premiere sorgt allerdings auch für Kritik."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "NVIDIA-Aktie günstig bewertet: Warum sich Analysten an Apple erinnert fühlen",
-          "link": "https://www.finanzen.net/nachricht/aktien/kgv-parallele-zu-apple-2015-nvidia-aktie-guenstig-bewertet-warum-sich-analysten-an-apple-erinnert-fuehlen-00-15914323",
-          "published": "2026-09-02T20:04:00+00:00",
-          "summary": "NVIDIA übertrifft im zweiten Quartal 2027 erneut deutlich die Erwartungen Früh vorgelegter Ausblick fürs Geschäftsjahr 2028 überrascht Analysten KGV weckt bei Analysten Erinnerungen an Apples …"
+          "title": "ROUNDUP: Broadcom wächst dank hoher KI-Nachfrage weiter rasant",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-broadcom-waechst-dank-hoher-ki-nachfrage-weiter-rasant-15915386",
+          "published": "2026-09-02T21:59:39+00:00",
+          "summary": "SAN JOSE (dpa-AFX) - Der Chipkonzern Broadcom rechnet dank florierender Geschäfte mit Chips für Angebote rund um die Künstliche Intelligenz (KI) mit einem anhaltend hohen Wachstum. Das Geschäft mit …"
         },
         {
-          "title": "Selenskyj wütend: Kiewer Geheimdienste beschießen einander",
-          "link": "https://www.finanzen.net/nachricht/aktien/selenskyj-wuetend-kiewer-geheimdienste-beschiessen-einander-15915317",
-          "published": "2026-09-02T20:03:39+00:00",
-          "summary": "KIEW (dpa-AFX) - Der ukrainische Präsident Wolodymyr Selenskyj hat eine undurchsichtige Schießerei zwischen seinen Geheimdiensten scharf kritisiert. Er sprach von einer \"absolut skandalösen …"
+          "title": "Aktien im Fokus: KI-Rechenleistung wird zur Anlageklasse - CME startet Compute-Futures",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-infrastruktur-aktien-im-fokus-ki-rechenleistung-wird-zur-anlageklasse-cme-startet-compute-futures-00-15910547",
+          "published": "2026-09-02T21:50:00+00:00",
+          "summary": "Kontrakte bilden monatliche Mietpreise für GPU-Rechenleistung ab und sollen Preisschwankungen für Unternehmen planbar machen • US-Aufsichtsbehörde CFTC hat eine öffentliche Konsultation zu …"
         },
         {
-          "title": "Dell-Aktie zieht kräftig an: Rekordumsatz und angehobene Prognose durch KI-Server-Boom",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-server-treiben-rekord-dell-aktie-zieht-kraeftig-an-rekordumsatz-und-angehobene-prognose-durch-ki-server-boom-00-15913645",
-          "published": "2026-09-02T20:03:00+00:00",
-          "summary": "KI-Server-Sparte meldet Rekordauftragseingang und historischen Auftragsbestand Konzern hebt Umsatz und Gewinnprognose fürs Gesamtjahr kräftig an Mehrere Analysten bestätigen nach den Zahlen ihre …"
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-02T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
         },
         {
-          "title": "Aktie von BioNTech-Konkurrent Moderna springt kräftig an: Das steckt hinter der Milliardenanleihe",
-          "link": "https://www.finanzen.net/nachricht/aktien/kapitalmassnahme-aktie-von-biontech-konkurrent-moderna-springt-kraeftig-an-das-steckt-hinter-der-milliardenanleihe-00-15913715",
-          "published": "2026-09-02T20:02:00+00:00",
-          "summary": "Moderna-Aktie springt am Dienstag um knapp zehn Prozent nach oben Konzern schließt Wandelanleihe über 3 Milliarden US-Dollar ab Kapital fließt in Onkologiesparte und Schuldenabbau"
+          "title": "Broadcom wächst dank hoher KI-Nachfrage weiter rasant - Ausblick enttäuscht",
+          "link": "https://www.finanzen.net/nachricht/aktien/broadcom-waechst-dank-hoher-ki-nachfrage-weiter-rasant-ausblick-enttaeuscht-15915340",
+          "published": "2026-09-02T20:46:39+00:00",
+          "summary": "SAN JOSE (dpa-AFX) - Der Chipkonzern Broadcom rechnet dank florierender Geschäfte mit Chips für Angebote rund um die Künstliche Intelligenz (KI) mit einem anhaltend hohen Wachstum. Allerdings liegt …"
         },
         {
-          "title": "Demos in Spanien für Ceuta und gegen Sánchez",
-          "link": "https://www.finanzen.net/nachricht/aktien/demos-in-spanien-fuer-ceuta-und-gegen-sánchez-15915298",
-          "published": "2026-09-02T19:40:38+00:00",
-          "summary": "MADRID/CEUTA (dpa-AFX) - Angesichts der Migrationskrise in Ceuta haben Zehntausende Menschen bei landesweiten Kundgebungen für die Zugehörigkeit der Nordafrika-Exklave zu Spanien und gegen die …"
+          "title": "ASML-Aktie nach 54-Prozent-Rally in 2026: Wie weit tragen Prognose und Analysten noch?",
+          "link": "https://www.finanzen.net/nachricht/aktien/analysten-sehen-potenzial-asml-aktie-nach-54-prozent-rally-in-2026-wie-weit-tragen-prognose-und-analysten-noch-00-15911455",
+          "published": "2026-09-02T20:44:00+00:00",
+          "summary": "Angehobene Jahresprognose und volle Auftragsbücher stützen die Kursfantasie Analysten trauen der Aktie trotz hoher Bewertung weiteres Potenzial zu China-Geschäft schrumpft, politische Risiken in den …"
         }
       ],
       "error": null
