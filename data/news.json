@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:13:54+00:00",
+  "generatedAt": "2026-09-02T02:14:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Filmfestfan wartet seit Tagen am roten Teppich in Venedig",
+          "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-lido-100.html",
+          "published": "2026-09-02T01:46:49+00:00",
+          "summary": "Penélope Cruz, Javier Bardem, Orlando Bloom: Viele Stars haben sich für die Filmfestspiele Venedig angekündigt. Am roten Teppich wartet seit Tagen ein 25-jähriger Fan auf sie. Vor allem aber auf …"
+        },
+        {
+          "title": "Putin bezeichnet deutsche Strafmaßnahmen als schweren Fehler",
+          "link": "https://www.tagesschau.de/ausland/asien/putin-ukraine-deutschland-100.html",
+          "published": "2026-09-02T00:43:28+00:00",
+          "summary": "Siegesgewiss - so präsentierte sich der russische Präsident bei einer Pressekonferenz. In der Ukraine rückten russische Soldaten vielerorts vor, so Putin. Und die deutschen Strafmaßnahmen seien ein …"
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1641240.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/video/video-1641222.html",
           "published": "2026-09-01T22:30:00+00:00",
           "summary": ""
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80750.html",
-          "published": "2026-09-01T22:25:37+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12824.html",
-          "published": "2026-09-01T21:29:52+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Kommentar: Reiche sollte im Kabinett gegen Klingbeils Steuerpläne stimmen",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-reiche-sollte-im-kabinett-gegen-klingbeils-steuerplaene-stimmen/100251239.html",
+          "published": "2026-09-02T02:03:43+00:00",
+          "summary": "Die Wirtschaftsministerin legt den Finger in die Wunde beim Reformplan des Finanzministers. Ohne den Ausgleich der kalten Progression ist die Steuerreform ein Täuschungsmanöver."
+        },
+        {
+          "title": "Luftfahrt: Intern oder extern – wer führt künftig Lufthansa Technik?",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-intern-oder-extern-wer-fuehrt-kuenftig-lufthansa-technik/100249490.html",
+          "published": "2026-09-02T02:00:08+00:00",
+          "summary": "Die Wartungstochter rettet regelmäßig die Bilanz des Konzerns. Im Januar geht der Chef in den Ruhestand. Ein Kandidat hat gute Chancen, am Freitag zum Nachfolger berufen zu werden."
+        },
+        {
+          "title": "Rüstung: Deutsche Marine testet erfolgreich weitreichende Rakete",
+          "link": "https://www.handelsblatt.com/politik/deutschland/ruestung-deutsche-marine-testet-erfolgreich-weitreichende-rakete/100251327.html",
+          "published": "2026-09-02T00:30:28+00:00",
+          "summary": "Im Nordatlantik testet die Marine inmitten neuer Spannungen ein israelisches Raketensystem. Der Marinechef spricht von einem neuen Kapitel in der Verteidigungsbereitschaft."
+        },
+        {
+          "title": "Rüstungsprojekte: Deutsche Marine testet erfolgreich weitreichende Rakete",
+          "link": "https://www.handelsblatt.com/politik/deutschland/ruestungsprojekte-deutsche-marine-testet-erfolgreich-weitreichende-rakete/100251324.html",
+          "published": "2026-09-02T00:00:16+00:00",
+          "summary": "Abschreckung Russlands: Im Nordatlantik testet die Marine inmitten neuer Spannungen ein israelisches Raketensystem. Der Marinechef spricht von einem neuen Kapitel in der Verteidigungsbereitschaft."
+        },
+        {
           "title": "Finanzminister: Schaden am Flieger – Klingbeil nach G20-Treffen in den USA gestrandet",
           "link": "https://www.handelsblatt.com/politik/deutschland/finanzminister-schaden-am-flieger-klingbeil-nach-g20-treffen-in-den-usa-gestrandet/100251315.html",
           "published": "2026-09-01T23:21:28+00:00",
           "summary": "Lars Klingbeil ist nach dem G20-Treffen wegen eines defekten Fliegers in den USA gestrandet. Und verpasst ausgerechnet das Kabinett, in dem sein Steuergesetz beschlossen wird."
-        },
-        {
-          "title": "Minister auf Reisen: Schaden am Regierungsflieger: Klingbeil in USA gestrandet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/minister-auf-reisen-schaden-am-regierungsflieger-klingbeil-in-usa-gestrandet/100251319.html",
-          "published": "2026-09-01T23:07:10+00:00",
-          "summary": "Heute soll sein Steuergesetz im Kabinett beschlossen werden - doch wohl ohne Finanzminister Klingbeil. Sein Flieger steht kaputt in den USA."
-        },
-        {
-          "title": "E- Luxus-SUV: Allrad-Adel unter Strom: Der Range Rover wird elektrisch",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/e-luxus-suv-allrad-adel-unter-strom-der-range-rover-wird-elektrisch/100251317.html",
-          "published": "2026-09-01T23:01:04+00:00",
-          "summary": "Ihre Lordschaft brauchen bald eine Ladesäule. Denn Land Rover ersetzt bei seinem Flaggschiff-SUV den Benzintank durch eine Batterie. An Finesse und Fahrgefühl soll sich indes nichts ändern."
-        },
-        {
-          "title": "Russischer Angriffskrieg: Putin spricht bei Vormarsch in der Ukraine von Fortschritten",
-          "link": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-putin-spricht-bei-vormarsch-in-der-ukraine-von-fortschritten/100251312.html",
-          "published": "2026-09-01T22:24:27+00:00",
-          "summary": "Im russischen Krieg gegen die Ukraine gibt es vor dem nächsten Winter nur wenig Bewegung entlang der Frontlinie. Beide Seiten konzentrieren sich auf Luftschläge gegen Ziele im Hinterland des Gegners."
-        },
-        {
-          "title": "Ukraine-Krieg: Selenskyj warnt vor Flügen über Russland - Putin droht",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-warnt-vor-fluegen-ueber-russland-putin-droht/100251309.html",
-          "published": "2026-09-01T21:39:19+00:00",
-          "summary": "Nach heftigen russischen Luftangriffen wendet sich der ukrainische Präsident Selenskyj mit einer Warnung an Fluggesellschaften, die weiter über Russland fliegen. Kremlchef Putin reagiert prompt."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "PayPal-Aktie hundertfach aufgestockt: Das Commerzbank-Depot im zweiten Quartal 2026",
-          "link": "https://www.finanzen.net/nachricht/aktien/13f-offenlegung-paypal-aktie-hundertfach-aufgestockt-das-commerzbank-depot-im-zweiten-quartal-2026-00-15905911",
-          "published": "2026-09-01T21:43:00+00:00",
-          "summary": "Commerzbank meldet ihr US-Depot für das zweite Quartal 2026 an die SEC Bei Deutsche Bank und Honeywell schrumpft der Anteil drastisch zusammen PayPal-Aktie wächst im Depot stark, reicht aber nicht …"
+          "title": "NVIDIA-Aktie im Blick: Depotwert mehr als verdreifacht - so hat der KI-Gigant in Q2 investiert",
+          "link": "https://www.finanzen.net/nachricht/aktien/neuzugang-nvidia-aktie-im-blick-depotwert-mehr-als-verdreifacht-so-hat-der-ki-gigant-in-q2-investiert-15911445",
+          "published": "2026-09-02T01:56:17+00:00",
+          "summary": "Für US-Großinvestoren mit einem verwalteten Vermögen ab 100 Millionen US-Dollar gelten strenge Offenlegungspflichten: Sie müssen der Börsenaufsicht SEC ihre US-Portfoliobestände vierteljährlich über …"
         },
         {
-          "title": "GESAMT-ROUNDUP: USA und Iran verkünden neue gegenseitige Angriffe",
-          "link": "https://www.finanzen.net/nachricht/aktien/gesamt-roundup-usa-und-iran-verkuenden-neue-gegenseitige-angriffe-15913157",
-          "published": "2026-09-01T21:10:38+00:00",
-          "summary": "WASHINGTON/TEHERAN (dpa-AFX) - Die USA und der Iran haben neue gegenseitige Angriffe gemeldet. Die Vereinigten Staaten nahmen nach Angaben von Präsident Donald Trump iranische Ziele nahe der Straße …"
+          "title": "Q2-US-Portfolio von Zurich Insurance: Kräftige Aufstockungen bei Aktien von AMD und Eli Lilly, Verkäufe bei Microsoft",
+          "link": "https://www.finanzen.net/nachricht/aktien/q2-us-portfolio-von-zurich-insurance-kraeftige-aufstockungen-bei-aktien-von-amd-und-eli-lilly-verkaeufe-bei-microsoft-15913296",
+          "published": "2026-09-02T01:54:40+00:00",
+          "summary": "Wie gewohnt hat die Zurich Insurance Group auch im zweiten Quartal 2026 ihr US-Aktiendepot veröffentlicht. So hat der Schweizer Finanzdienstleister im abgelaufenen Jahresviertel investiert."
         },
         {
-          "title": "August 2026: Bitcoin, Ether & Co. - Monatsperformance der Kryptowährungen",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-august-2026-bitcoin-ether-co-monatsperformance-der-kryptowaehrungen-15896675",
-          "published": "2026-09-01T21:10:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen im August 2026"
+          "title": "Rohstoffe im August 2026: So bewegten sich Gold, Öl und Co. im vergangenen Monat",
+          "link": "https://www.finanzen.net/nachricht/aktien/rohstoffe-im-august-2026-so-bewegten-sich-gold-oel-und-co-im-vergangenen-monat-15913295",
+          "published": "2026-09-02T01:48:57+00:00",
+          "summary": "Im abgelaufenen Monat kam es am Rohstoff-Markt zu deutlichen Ausschlägen. So bewegten sich die Commodities im Detail."
         },
         {
-          "title": "August 2026: So bewegten sich die MDAX-Aktien im abgelaufenen Monat",
-          "link": "https://www.finanzen.net/nachricht/aktien/tops-flops-august-2026-so-bewegten-sich-die-mdax-aktien-im-abgelaufenen-monat-15896673",
-          "published": "2026-09-01T21:08:00+00:00",
-          "summary": "Diese Ausschläge wiesen MDAX-Aktien im August 2026 aus"
+          "title": "Weltgrösster Juwelier Pandora setzt trotz Silberpreis-Rückgang auf Platin",
+          "link": "https://www.finanzen.net/nachricht/aktien/weltgroesster-juwelier-pandora-setzt-trotz-silberpreis-rueckgang-auf-platin-15913289",
+          "published": "2026-09-02T01:40:39+00:00",
+          "summary": "Pandora treibt den Wechsel von Silber zu platinbeschichtetem Schmuck weiter voran, obwohl der Silberpreis deutlich gefallen ist."
         },
         {
-          "title": "INDEXÄNDERUNG/Engie und Nokia ersetzen VW und Prosus im Euro-Stoxx-50",
-          "link": "https://www.finanzen.net/nachricht/aktien/indexaenderung-engie-und-nokia-ersetzen-vw-und-prosus-im-euro-stoxx-50-15913151",
-          "published": "2026-09-01T20:54:44+00:00",
-          "summary": "FRANKFURT (Dow Jones)--Der Börsenbetreiber Stoxx hat am Dienstag Änderungen in der Zusammensetzung der Indizes Euro-Stoxx-50 und Stoxx-50 mitgeteilt. In den Euro-Stoxx-50 rücken demnach die Aktien …"
+          "title": "Aktien von BYD und Xiaomi: Bernstein sieht trotz Kurszielsenkung weiteres Potenzial",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-von-byd-und-xiaomi-bernstein-sieht-trotz-kurszielsenkung-weiteres-potenzial-15913288",
+          "published": "2026-09-02T01:37:47+00:00",
+          "summary": "Das Analysehaus Bernstein bekräftigt seine Kaufempfehlung für BYD und Xiaomi, senkt aber gleichzeitig die Kursziele für beide chinesischen E-Auto-Werte."
         }
       ],
       "error": null

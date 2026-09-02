@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:13:59+00:00",
+  "generatedAt": "2026-09-02T02:14:20+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,54 +7,54 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-02T02:00",
-    "temperatur": 11.7,
-    "gefuehlt": 11.0,
-    "luftfeuchte": 85,
+    "zeit": "2026-09-02T04:00",
+    "temperatur": 9.7,
+    "gefuehlt": 8.9,
+    "luftfeuchte": 96,
     "niederschlag": 0.0,
     "wind": 4.0,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 2,
-      "text": "Teils bewölkt",
-      "icon": "⛅"
+      "code": 3,
+      "text": "Bedeckt",
+      "icon": "☁️"
     }
   },
   "tage": [
     {
       "datum": "2026-09-02",
-      "max": 21.0,
-      "min": 10.5,
+      "max": 20.9,
+      "min": 9.7,
       "regenwahrscheinlichkeit": 5,
-      "sonnenaufgang": "2026-09-02T06:39",
+      "sonnenaufgang": "2026-09-02T06:38",
       "sonnenuntergang": "2026-09-02T20:11",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-09-03",
-      "max": 21.9,
-      "min": 15.1,
+      "max": 22.3,
+      "min": 15.2,
       "regenwahrscheinlichkeit": 23,
       "sonnenaufgang": "2026-09-03T06:40",
-      "sonnenuntergang": "2026-09-03T20:09",
+      "sonnenuntergang": "2026-09-03T20:08",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-09-04",
       "max": 22.6,
-      "min": 17.3,
+      "min": 17.2,
       "regenwahrscheinlichkeit": 73,
       "sonnenaufgang": "2026-09-04T06:42",
-      "sonnenuntergang": "2026-09-04T20:07",
+      "sonnenuntergang": "2026-09-04T20:06",
       "wetter": {
         "code": 80,
         "text": "Leichte Schauer",
@@ -66,7 +66,7 @@
       "max": 20.8,
       "min": 14.3,
       "regenwahrscheinlichkeit": 64,
-      "sonnenaufgang": "2026-09-05T06:44",
+      "sonnenaufgang": "2026-09-05T06:43",
       "sonnenuntergang": "2026-09-05T20:04",
       "wetter": {
         "code": 3,
