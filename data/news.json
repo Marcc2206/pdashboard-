@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:09:43+00:00",
+  "generatedAt": "2026-09-02T18:10:57+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Warnstreik in mehreren Nordseehäfen angekündigt",
-          "link": "https://www.tagesschau.de/inland/regional/Artikelvorlage-HH,hafenstreik-104.html",
-          "published": "2026-09-02T16:04:43+00:00",
-          "summary": "Die Gewerkschaft ver.di hat zu einem neuen Warnstreik aufgerufen. Mit Beginn der Nachtschicht sollen die Beschäftigten unter am Mittwoch unter anderem in Hamburg, Bremerhaven und Wilhelmshaven ihre …"
+          "title": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-streit-werksschliessungen-100.html",
+          "published": "2026-09-02T18:06:02+00:00",
+          "summary": "Freitag soll der VW-Aufsichtsrat über den Sparkurs und mögliche Werksschließungen beraten. Doch es gibt viel Streit und Drohkulissen. Ein Kompromiss ist nicht in Sicht - und einigen scheint das ganz …"
         },
         {
-          "title": "Thüringen: Weitere Abgeordnete verlassen BSW - und gründen neue Partei",
-          "link": "https://www.tagesschau.de/inland/regional/thueringen/partei-austritt-wogawa-kobelt-hoffmeister,bsw-202.html",
-          "published": "2026-09-02T15:54:37+00:00",
-          "summary": "Drei Thüringer BSW-Abgeordnete verlassen Partei und Fraktion: Stefan Wogawa, Dirk Hoffmeister und Roberto Kobelt treten aus. Sie gründen stattdessen ihre eigene Partei."
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80742.html",
-          "published": "2026-09-02T15:51:19+00:00",
-          "summary": ""
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-02T17:31:55+00:00",
+          "summary": "Donnerstag ist es in der Nordhälfte stark bewölkt und zeitweise wird es nass, vor allem in Küstennähe sind auch Gewitter dabei. Dazu ist es windig. Sonst gibt es Sonne und Wolken, im Süden ist es …"
         },
         {
           "title": "Großeinsatz am Umspannwerk in Bergheim in Nordrhein-Westfalen",
           "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moeglicher-anschlag-umspannwerk-nordrhein-westfalen-100.html",
-          "published": "2026-09-02T15:47:00+00:00",
+          "published": "2026-09-02T17:31:00+00:00",
           "summary": "In der Nacht gab es einen Störfall an einem Umspannwerk in Bergheim in Nordrhein-Westfalen. Die Polizei geht von einer vorsätzlichen Tat aus. Die allgemeine Stromversorgung sei nicht betroffen."
         },
         {
-          "title": "Stellenabbau bei Uber trifft auch Führungskräfte",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-stellenabbau-100.html",
-          "published": "2026-09-02T15:46:08+00:00",
-          "summary": "Der US-Fahrdienstvermittler Uber will rund 3.300 Stellen streichen. Besonders Führungskräfte sollen davon betroffen sein. Von Gabi Biesinger."
+          "title": "Einsatz am Umspannwerk in Bergheim: Ermittlungen wegen verfassungsfeindlicher Sabotage",
+          "link": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
+          "published": "2026-09-02T17:15:59+00:00",
+          "summary": "Nach dem Kurzschluss an einem Umspannwerk bei Köln wird wegen verfassungsfeindlicher Sabotage ermittelt. \"Das war Absicht\", sagte NRW-Innenminister Reul. Inzwischen wurden Abschussvorrichtungen …"
+        },
+        {
+          "title": "Umfrage zu Berlin-Wahl: CDU wieder vorn, Linke verliert",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/ard-berlintrend-100.html",
+          "published": "2026-09-02T16:48:29+00:00",
+          "summary": "Zweieinhalb Wochen vor der Abgeordnetenhauswahl verliert die Linkspartei im BerlinTrend an Zuspruch und fällt hinter die CDU zurück. Die regierende Koalition aus CDU und SPD hätte aber keine Mehrheit …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Vor Sitzung des Aufsichtsrats: VW-Spardebatte spitzt sich zu - Werke bangen um ihre Zukunft",
-          "link": "https://www.handelsblatt.com/politik/deutschland/vor-sitzung-des-aufsichtsrats-vw-spardebatte-spitzt-sich-zu-werke-bangen-um-ihre-zukunft/100251335.html",
-          "published": "2026-09-02T16:04:25+00:00",
-          "summary": "Am Freitag tagt der Aufsichtsrat von Volkswagen. Auf der Tagesordnung stehen die Sparpläne des Vorstands. Besonders ungewiss: die Zukunft der Werke in Emden, Hannover, Zwickau und Neckarsulm."
+          "title": "Dow Jones, S&P 500, Nasdaq: US-Arbeitsmarkt schwächer als erwartet – Wall Street im Plus",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-arbeitsmarkt-schwaecher-als-erwartet-wall-street-im-plus/100251557.html",
+          "published": "2026-09-02T17:48:00+00:00",
+          "summary": "Steigende Energiepreise und Anleiherenditen drücken die Kurse vorerst nicht weiter. Doch weniger Neueinstellungen als gedacht verfestigen Erwartungen an die Fed."
         },
         {
-          "title": "Mitbestimmung im Betrieb: Arbeitgeber: Mitwirkung von Betriebsräten auf den Prüfstand",
-          "link": "https://www.handelsblatt.com/politik/deutschland/mitbestimmung-im-betrieb-arbeitgeber-mitwirkung-von-betriebsraeten-auf-den-pruefstand/100251600.html",
-          "published": "2026-09-02T16:00:09+00:00",
-          "summary": "Betriebsräte haben gesetzlich festgelegte Rechte, im Unternehmen mitzubestimmen. Den Arbeitgebern geht vieles zu langsam, manches auch zu weit. Sie dringen auf eine Reform."
+          "title": "Übernahme: Delivery Hero empfiehlt Uber-Kaufofferte",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/uebernahme-delivery-hero-empfiehlt-uber-kaufofferte/100251618.html",
+          "published": "2026-09-02T17:46:03+00:00",
+          "summary": "Mit dem Angebot von Uber könnte Delivery Hero den Besitzer wechseln. Die Führung des Berliner Konzerns unterstützt die geplante Übernahme. Die Annahmefrist läuft bis zum 5. November."
         },
         {
-          "title": "Arbeitsrecht: Betriebsrat als Standortrisiko – Arbeitgeber fordern Reform",
-          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsrecht-betriebsrat-als-standortrisiko-arbeitgeber-fordern-reform/100251399.html",
-          "published": "2026-09-02T16:00:00+00:00",
-          "summary": "Vom Software-Update bis hin zur Umstellung der Produktion redet der Betriebsrat mit. Das bremst den Strukturwandel und wirft Deutschland im Wettbewerb zurück, warnen die Arbeitgeber im BDA."
+          "title": "Berichte über mögliche Täter: Leipziger Sprengstoffdrohne: Rom prüft Infos zu Verdächtigem",
+          "link": "https://www.handelsblatt.com/politik/international/berichte-ueber-moegliche-taeter-leipziger-sprengstoffdrohne-rom-prueft-infos-zu-verdaechtigem/100251612.html",
+          "published": "2026-09-02T17:31:51+00:00",
+          "summary": "Italien will prüfen, ob ein möglicher Verdächtiger im Fall der Leipziger Sprengstoffdrohne mit einem Touristenvisum in die EU eingereist ist. Auf EU-Ebene kocht eine brisante Diskussion wieder hoch."
         },
         {
-          "title": "Handelsblatt Live: US-Börsenexperte Koch: Dieses Arbeitsmarktszenario wäre für die Wall Street ideal",
-          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-dieses-arbeitsmarktszenario-waere-fuer-die-wall-street-ideal/100251596.html",
-          "published": "2026-09-02T15:56:13+00:00",
-          "summary": "Am Freitag steht der US-Arbeitsmarktbericht an. Die Großbank JP Morgan hat analysiert, was das beste Ergebnis für den Aktienmarkt wäre. Vor allem zu viele neue Jobs wären demnach schädlich für den …"
+          "title": "Abwehrkampf gegen Russland: Ukraine erhält bei EU-Treffen Zusagen für Luftverteidigung",
+          "link": "https://www.handelsblatt.com/politik/international/abwehrkampf-gegen-russland-ukraine-erhaelt-bei-eu-treffen-zusagen-fuer-luftverteidigung/100251616.html",
+          "published": "2026-09-02T17:29:52+00:00",
+          "summary": "Die Ukraine braucht dringend neue Flugabwehrraketen zum Schutz vor russischen Angriffen. Nach langem Drängen gibt es nun offensichtlich neue Zusagen."
         },
         {
-          "title": "Sabotage-Verdacht: Störung in NRW-Umspannwerk war laut Reul „eine Straftat“",
-          "link": "https://www.handelsblatt.com/video/politik/sabotage-verdacht-stoerung-in-nrw-umspannwerk-war-laut-reul-eine-straftat/100251586.html",
-          "published": "2026-09-02T15:50:31+00:00",
-          "summary": "Nach der Störung an einem Umspannwerk bei Köln besteht laut dem NRW-Innenminister „der Anfangsverdacht einer verfassungsfeindlichen Sabotage“. Es werde in zwei Richtungen ermittelt, sagte Reul …"
+          "title": "Geldpolitik: Investoren wetten auf mehrere Zinserhöhungen – doch damit könnten sie falschliegen",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-sind-die-zinserwartungen-der-investoren-ueberzogen/100248637.html",
+          "published": "2026-09-02T17:12:31+00:00",
+          "summary": "Die Märkte rechnen noch mit mindestens drei Zinserhöhungen der EZB bis Mitte 2027. Doch eine Analyse von Notenbanker-Reden sowie Insider- und Experten-Einschätzungen wecken Zweifel."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "In der Machtfalle: VW droht am eigenen System zu ersticken - wer rettet den Konzern?",
+          "link": "https://www.n-tv.de/wirtschaft/VW-droht-am-eigenen-System-zu-ersticken-wer-rettet-den-Konzern-id31261906.html",
+          "published": "2026-09-02T18:04:45+00:00",
+          "summary": "VW muss sich radikal neu aufstellen - droht dabei aber am eigenen Machtgefüge zu scheitern. Vorstand, Eigentümer, Arbeitnehmer und Niedersachsen ringen um den richtigen Kurs. Was auf dem Spiel steht …"
+        },
+        {
+          "title": "86 Tonnen abgezogen : Niederlande holen Teile der Goldreserven aus den USA und Kanada nach Europa",
+          "link": "https://www.n-tv.de/wirtschaft/Niederlande-holen-Teile-der-Goldreserven-aus-den-USA-und-Kanada-nach-Europa-id31263016.html",
+          "published": "2026-09-02T17:22:33+00:00",
+          "summary": "Rund die Hälfte der niederländischen Goldreserven lagerte bislang in Nordamerika. Die Zentralbank in Amsterdam transferiert nun einen großen Teil der Barren nach London. Diese Maßnahme begründet sie …"
+        },
+        {
+          "title": "Online-Werbung im Fokus: Gericht lehnt Google-Zerschlagung ab - Schlappe für US-Regierung",
+          "link": "https://www.n-tv.de/wirtschaft/Gericht-lehnt-Google-Zerschlagung-ab-Schlappe-fuer-US-Regierung-id31263036.html",
+          "published": "2026-09-02T16:18:40+00:00",
+          "summary": "Das US-Justizministerium und mehrere Bundesstaaten streiten mit dem Internet-Giganten Google um dessen Plattform AdX. Der Konzern hat mit seiner Sicht der Dinge vor Gericht Erfolg. Damit scheitert …"
+        },
+        {
           "title": "80 Filialen, 1200 Beschäftigte: Autohaus-Kette König ist insolvent",
           "link": "https://www.n-tv.de/wirtschaft/Autohaus-Kette-Koenig-ist-insolvent-id31262777.html",
           "published": "2026-09-02T15:39:54+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Goldener-Trump-Dollar-kommt-in-Umlauf-id31262669.html",
           "published": "2026-09-02T15:34:50+00:00",
           "summary": "Donald Trump ist nun auch im amerikanischen Kleingeld präsent: Zum 250. Geburtstag der USA gibt die Münzanstalt ein ungewöhnliches Zahlungsmittel heraus. Die Premiere sorgt allerdings auch für Kritik."
-        },
-        {
-          "title": "EU droht mit Anti-China-Pakt: \"Der Club der Demokratien muss China gemeinsam unter Druck setzen\"",
-          "link": "https://www.n-tv.de/wirtschaft/Der-Club-der-Demokratien-muss-China-gemeinsam-unter-Druck-setzen-id31257570.html",
-          "published": "2026-09-02T15:11:22+00:00",
-          "summary": "Mit Japan, Südkorea und Großbritannien will Brüssel die Autobranche gegen chinesische Konkurrenz wappnen. Bernd Lange, Vorsitzender des Handelsausschusses im Europaparlament, erklärt im Gespräch mit …"
-        },
-        {
-          "title": "Ausweitung der Ölförderung: Chevron legt nach neuem Trump-Deal in Venezuela vor",
-          "link": "https://www.n-tv.de/wirtschaft/Chevron-legt-nach-neuem-Trump-Deal-in-Venezuela-vor-id31262387.html",
-          "published": "2026-09-02T14:48:56+00:00",
-          "summary": "Venezuela rückt wieder ins Zentrum der globalen Ölindustrie. Der US-Konzern Chevron plant dort eine massive Ausweitung seiner Förderung - und setzt auf Investitionen über Jahrzehnte. Auch Washington …"
-        },
-        {
-          "title": "Wirtschaft wächst stabil: Griechenland will Rettungskredite wohl früher tilgen",
-          "link": "https://www.n-tv.de/wirtschaft/Griechenland-will-Rettungskredite-wohl-frueher-tilgen-id31262242.html",
-          "published": "2026-09-02T14:42:30+00:00",
-          "summary": "Einst stand Griechenland am Rand des Euro-Austritts, heute wächst die Wirtschaft stärker als der Durchschnitt im Währungsraum. Nun könnte Athen ein weiteres Kapitel der Schuldenkrise deutlich früher …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Glencore-Aktie im Fokus: Mehr Fremdkapital für kanadische Abcourt Mines",
-          "link": "https://www.finanzen.net/nachricht/aktien/glencore-aktie-im-fokus-mehr-fremdkapital-fuer-kanadische-abcourt-mines-15915011",
-          "published": "2026-09-02T16:05:00+00:00",
-          "summary": "Der Rohstoffkonzern Glencore erhöht das Engagement beim kanadischen Minenbetreiber Abcourt Mines."
+          "title": "Microsoft-Aktie dennoch tiefer: BofA-Experte nach starkem Quartal weiter optimistisch - Kursziel kräftig angehoben",
+          "link": "https://www.finanzen.net/nachricht/aktien/bullishe-einschaetzung-microsoft-aktie-dennoch-tiefer-bofa-experte-nach-starkem-quartal-weiter-optimistisch-kursziel-kraeftig-angehoben-00-15914076",
+          "published": "2026-09-02T18:03:00+00:00",
+          "summary": "BofA-Analyst Tal Liani hebt Kursziel für Microsoft auf 600 US-Dollar an Cloudgeschäft als Wachstumstreiber Analystenkonsens durchweg positiv Die"
         },
         {
-          "title": "Aktien Europa Schluss: EuroStoxx nach jüngsten Verlusten nur noch knapp im Minus",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-europa-schluss-eurostoxx-nach-juengsten-verlusten-nur-noch-knapp-im-minus-15914994",
-          "published": "2026-09-02T16:02:39+00:00",
-          "summary": "PARIS/LONDON/ZÜRICH (dpa-AFX) - Nach zwei schwachen Handelstagen hat der EuroStoxx 50 am Mittwoch nur noch leicht nachgegeben. Gestützt wurde der Eurozone-Leitindex von der freundlich ..."
+          "title": "Amazon-Aktie vor Kurssprung? Morgan Stanley sieht Potenzial bis 500 US-Dollar",
+          "link": "https://www.finanzen.net/nachricht/aktien/aws-potenzial-amazon-aktie-vor-kurssprung-morgan-stanley-sieht-potenzial-bis-500-us-dollar-00-15910040",
+          "published": "2026-09-02T18:03:00+00:00",
+          "summary": "Morgan Stanley sieht die Amazon-Aktie im optimistischen Szenario bis Ende 2027 bei 500 US-Dollar • AWS könnte nach dem Modell langfristig eine Billion US-Dollar Jahresumsatz erreichen • Im zweiten …"
         },
         {
-          "title": "US-Anleihen: Leichte Kursgewinne",
-          "link": "https://www.finanzen.net/nachricht/anleihen/us-anleihen-leichte-kursgewinne-15914992",
-          "published": "2026-09-02T16:00:38+00:00",
-          "summary": "NEW YORK (dpa-AFX) - Die Kurse von US-Staatsanleihen haben am Mittwoch etwas zugelegt. Der Terminkontrakt für zehnjährige Staatsanleihen (T-Note-Future) stieg um 0,03 Prozent auf 107,41 Punkte. Die …"
+          "title": "NASDAQ-Handel: NASDAQ 100 zeigt sich am Nachmittag fester",
+          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-handel-nasdaq-100-zeigt-sich-am-nachmittag-fester-15915230",
+          "published": "2026-09-02T18:02:36+00:00",
+          "summary": "Um 20:00 Uhr tendiert der NASDAQ 100 im NASDAQ-Handel 0,12 Prozent stärker bei 29.112,60 Punkten. Zuvor eröffnete der Index bei 29.016,00 Zählern und damit 0,211 Prozent unter seinem Schlusskurs ..."
         },
         {
-          "title": "Handel in New York: Börsianer lassen NASDAQ 100 am Mittag steigen",
-          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-boersianer-lassen-nasdaq-100-am-mittag-steigen-15914985",
-          "published": "2026-09-02T15:59:31+00:00",
-          "summary": "Der NASDAQ 100 bewegt sich im NASDAQ-Handel um 17:57 Uhr um 0,07 Prozent stärker bei 29.098,78 Punkten. In den Mittwochshandel ging der NASDAQ 100 0,211 Prozent leichter bei 29.016,00 Punkten, ..."
+          "title": "Freundlicher Handel: S&P 500 legt nachmittags zu",
+          "link": "https://www.finanzen.net/nachricht/aktien/freundlicher-handel-s-p-500-legt-nachmittags-zu-15915229",
+          "published": "2026-09-02T18:02:36+00:00",
+          "summary": "Am Mittwoch notiert der S&P 500 um 20:00 Uhr via NYSE 0,48 Prozent höher bei 7.668,35 Punkten. An der Börse sind die im Index enthaltenen Werte damit 61,765 Bio. Euro wert. Zum Handelsbeginn ..."
         },
         {
-          "title": "Börse New York: Pluszeichen im S&P 500",
-          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-pluszeichen-im-s-p-500-15914984",
-          "published": "2026-09-02T15:59:31+00:00",
-          "summary": "Um 17:57 Uhr bewegt sich der S&P 500 im NYSE-Handel 0,49 Prozent fester bei 7.668,57 Punkten. Die S&P 500-Mitglieder kommen damit auf eine Marktkapitalisierung von 61,765 Bio. Euro. Zum Handelsstart …"
+          "title": "Handel in New York: NASDAQ Composite steigt am Mittwochnachmittag",
+          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-nasdaq-composite-steigt-am-mittwochnachmittag-15915228",
+          "published": "2026-09-02T18:02:36+00:00",
+          "summary": "Der NASDAQ Composite notiert im NASDAQ-Handel um 20:00 Uhr um 0,40 Prozent höher bei 26.203,37 Punkten. Zum Start des Mittwochshandels standen Verluste von 0,022 Prozent auf 26.094,00 ..."
         }
       ],
       "error": null
@@ -164,16 +164,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Hohe Ölpreise drücken die Stimmung",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
+          "published": "2026-09-02T16:30:29+00:00",
+          "summary": "Das Anlageumfeld bleibt weiter herausfordernd. Denn wieder höhere Ölpreise schieben die Inflationserwartungen an. In einem solchen Umfeld blieben die DAX-Anleger vorsichtig."
+        },
+        {
           "title": "Ryanair senkt Prognose - Luftfahrt unter Kostendruck",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-luftfahrt-100.html",
           "published": "2026-09-02T12:48:13+00:00",
           "summary": "Die Luftfahrtbranche leidet besonders unter der Energiekrise - denn Kerosin ist ein zentraler Kostenfaktor. Der Billigflieger Ryanair ist das jüngste Opfer. Aber die Probleme der Branche sind …"
-        },
-        {
-          "title": "Marktbericht: DAX bleibt unter Druck",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
-          "published": "2026-09-02T08:51:51+00:00",
-          "summary": "Eine neue Welle von Inflationssorgen belastet die Weltbörsen. Grund ist die neue Eskalation im Iran-Krieg. Der DAX gibt zum Handelsstart weiter nach, hat seine Talfahrt aber deutlich verlangsamt."
         },
         {
           "title": "Marktbericht: Warum fällt der DAX?",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Krisenvorsorge stärken: Niederlande ziehen Teil von Goldreserve aus den USA ab",
-          "link": "https://www.wiwo.de/politik/ausland/krisenvorsorge-staerken-niederlande-ziehen-teil-von-goldreserve-aus-den-usa-ab/100251587.html",
-          "published": "2026-09-02T15:48:00+00:00",
-          "summary": "Viele Länder lagern Goldvorräte in den USA. Die Attacken von Trump auf die US-Notenbank Fed gaben Anlass zur Sorge – die Niederlande ziehen nun Konsequenzen."
+          "title": "Deutsche Telekom: Vorstandsumbau weckt Zweifel an Höttges' Kurs",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/deutsche-telekom-vorstandsumbau-weckt-zweifel-an-hoettges-kurs/100251583.html",
+          "published": "2026-09-02T17:49:56+00:00",
+          "summary": "Ein Controller folgt auf Finanzchef Christian Illek. Statt eines Netzprofis kommt ein Cloud-Experte als neuer CTO. Intern sorgen die Personalien für Zweifel."
         },
         {
-          "title": "Transformation of Industry: Wachsender Frust in der Belegschaft über die Aufspaltung von Siemens Energy",
-          "link": "https://www.wiwo.de/unternehmen/industrie/siemens-energy-plant-abspaltung-der-sparte-transformation-of-industry/100251061.html",
-          "published": "2026-09-02T15:44:00+00:00",
+          "title": "Volkswagen-Sanierungsplan: „Große Sorge“ – Volkswagens Krise alarmiert die betroffenen Ministerpräsidenten",
+          "link": "https://www.wiwo.de/politik/deutschland/vw-sanierungsplan-volkswagens-krise-alarmiert-die-betroffenen-ministerpraesidenten/100251562.html",
+          "published": "2026-09-02T16:52:26+00:00",
+          "summary": "Droht den Standorten Emden, Hannover, Zwickau und Neckarsulm das Aus? Die Landesregierungen bringen sich gegen drohende Werkschließungen in Stellung."
+        },
+        {
+          "title": "Frankreich: Baut Frankreichs Schuldenlast die nächste Euro-Krise auf?",
+          "link": "https://www.wiwo.de/finanzen/boerse/frankreichs-schuldenkrise-anleger-fuerchten-den-reformstau/100251511.html",
+          "published": "2026-09-02T16:50:00+00:00",
+          "summary": "Rekordhohe Defizite, steigende Zinsausgaben, Reformstau und die Unsicherheit über den Ausgang der Präsidentschaftswahlen im kommenden Jahr verunsichern ausländische Investoren."
+        },
+        {
+          "title": "Wahl in Sachsen-Anhalt: „Manche Mitarbeiter sind wieder weggezogen, weil sie nicht deutsch aussehen“",
+          "link": "https://www.wiwo.de/politik/deutschland/durch-rumsitzen-koennen-wir-den-wohlstand-nicht-sichern-tesvolt-chef-zur-wahl/100249911.html",
+          "published": "2026-09-02T16:49:00+00:00",
+          "summary": "Der Chef des Batteriespeicher-Unternehmens Tesvolt spricht über die Lage in Sachsen-Anhalt. Er will, dass seine Heimat auch ein wirtschaftlich attraktives Land bleibt."
+        },
+        {
+          "title": "Transformation of Industry: Wachsender Frust in der Belegschaft über Aufspaltung von Siemens Energy",
+          "link": "https://www.wiwo.de/unternehmen/industrie/siemens-energy-belegschaft-frustriert-ueber-abspaltung-der-sparte-transformation-of-industry/100251061.html",
+          "published": "2026-09-02T16:46:00+00:00",
           "summary": "Siemens Energy möchte eine Sparte abspalten. Doch viele Mitarbeiter verstehen nicht, warum das ausgerechnet jetzt passieren muss."
-        },
-        {
-          "title": "Arbeitsmarkt: Schein-Bewerber können teuer werden – jetzt hilft ein Urteil",
-          "link": "https://www.wiwo.de/erfolg/management/arbeitsmarkt-schein-bewerber-koennen-teuer-werden-jetzt-hilft-ein-urteil/100248943.html",
-          "published": "2026-09-02T15:40:00+00:00",
-          "summary": "Fehler in Einstellungsverfahren können teuer für Unternehmen werden, wenn Bewerber sie wegen Diskriminierung verklagen. Ein wichtiges Urteil springt Unternehmen jetzt bei."
-        },
-        {
-          "title": "Wald und Klimawandel: „Um die Buchen mache ich mir große Sorgen“",
-          "link": "https://www.wiwo.de/technologie/umwelt/wald-und-klimawandel-droht-nach-den-fichten-das-buchen-sterben/100250630.html",
-          "published": "2026-09-02T15:28:06+00:00",
-          "summary": "Nach dem Fichtensterben kommt der Buchentod, sagt Großwaldbesitzer Eberhard von Wrede. Er hält die Hitzerisiken im Wald für unterschätzt – und warnt vor den Nebenwirkungen ökologischer Musterprojekte."
-        },
-        {
-          "title": "50Hertz und Amprion: Doppelschlag gegen deutsche Kohlekraftwerke",
-          "link": "https://www.wiwo.de/unternehmen/energie/sabotageakte-bei-50hertz-und-amprion-doppelschlag-gegen-deutsche-kohlekraftwerke/100251576.html",
-          "published": "2026-09-02T15:25:33+00:00",
-          "summary": "Mit Attacken auf Umspannwerke haben Täter Braunkohlekraftwerke von LEAG und RWE zeitweise gestoppt. Wer das war? Offen. Klar ist: Die Netze sind Deutschlands Schwachstelle."
         }
       ],
       "error": null
