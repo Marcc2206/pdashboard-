@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T14:09:36+00:00",
+  "generatedAt": "2026-09-02T16:09:43+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
-          "published": "2026-09-02T14:02:34+00:00",
-          "summary": "Union und SPD wollen ein zentrales Finanzvorhaben auf den Weg bringen - Entlastungen bei der Steuer vor allem für kleinere Einkommen. Wie die konkreten Maßnahmen aussehen und was die Steuerreform …"
+          "title": "Warnstreik in mehreren Nordseehäfen angekündigt",
+          "link": "https://www.tagesschau.de/inland/regional/Artikelvorlage-HH,hafenstreik-104.html",
+          "published": "2026-09-02T16:04:43+00:00",
+          "summary": "Die Gewerkschaft ver.di hat zu einem neuen Warnstreik aufgerufen. Mit Beginn der Nachtschicht sollen die Beschäftigten unter am Mittwoch unter anderem in Hamburg, Bremerhaven und Wilhelmshaven ihre …"
+        },
+        {
+          "title": "Thüringen: Weitere Abgeordnete verlassen BSW - und gründen neue Partei",
+          "link": "https://www.tagesschau.de/inland/regional/thueringen/partei-austritt-wogawa-kobelt-hoffmeister,bsw-202.html",
+          "published": "2026-09-02T15:54:37+00:00",
+          "summary": "Drei Thüringer BSW-Abgeordnete verlassen Partei und Fraktion: Stefan Wogawa, Dirk Hoffmeister und Roberto Kobelt treten aus. Sie gründen stattdessen ihre eigene Partei."
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80742.html",
+          "published": "2026-09-02T15:51:19+00:00",
+          "summary": ""
         },
         {
           "title": "Großeinsatz am Umspannwerk in Bergheim in Nordrhein-Westfalen",
           "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moeglicher-anschlag-umspannwerk-nordrhein-westfalen-100.html",
-          "published": "2026-09-02T13:51:00+00:00",
+          "published": "2026-09-02T15:47:00+00:00",
           "summary": "In der Nacht gab es einen Störfall an einem Umspannwerk in Bergheim in Nordrhein-Westfalen. Die Polizei geht von einer vorsätzlichen Tat aus. Die allgemeine Stromversorgung sei nicht betroffen."
         },
         {
-          "title": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
-          "link": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
-          "published": "2026-09-02T13:47:43+00:00",
-          "summary": "Nach den tödlichen Schüssen bei einem Rave im schweizerischen Aargau am vergangenen Wochenende hat die Polizei nun weitere Erkenntnisse bekannt gegeben. Bei der Tat handele es sich um einen Amoklauf …"
-        },
-        {
-          "title": "Parlament von Estland wählt Madise zur neuen Staatspräsidentin",
-          "link": "https://www.tagesschau.de/ausland/europa/estland-wahl-staatspraesidentin-100.html",
-          "published": "2026-09-02T13:40:22+00:00",
-          "summary": "Die Juristin Ülle Madise ist zur neuen Staatspräsidentin von Estland gewählt worden. Die Juristin überwachte bisher die Gesetzgebung. Sie sagte, Estland bilde die Frontlinie für die Sicherheit ganz …"
-        },
-        {
-          "title": "Michael Götschenberg, ARD-Terrorismusexperte, zur Sabotage an der Stromversorgung",
-          "link": "https://www.tagesschau.de/video/video-1641492.html",
-          "published": "2026-09-02T13:37:21+00:00",
-          "summary": ""
+          "title": "Stellenabbau bei Uber trifft auch Führungskräfte",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-stellenabbau-100.html",
+          "published": "2026-09-02T15:46:08+00:00",
+          "summary": "Der US-Fahrdienstvermittler Uber will rund 3.300 Stellen streichen. Besonders Führungskräfte sollen davon betroffen sein. Von Gabi Biesinger."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Banken-Gipfel: Österreichs größte Bank will bei polnischer Tochter aufstocken",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/erste-group-oesterreichs-groesste-bank-will-bei-polnischer-tochter-aufstocken/100250895.html",
-          "published": "2026-09-02T14:06:28+00:00",
-          "summary": "Die Erste Group ist im vergangenen Jahr in Polen eingestiegen. Ihr Chef, Peter Bosek, hält feindliche Übernahmen im Bankensektor für problematisch."
+          "title": "Vor Sitzung des Aufsichtsrats: VW-Spardebatte spitzt sich zu - Werke bangen um ihre Zukunft",
+          "link": "https://www.handelsblatt.com/politik/deutschland/vor-sitzung-des-aufsichtsrats-vw-spardebatte-spitzt-sich-zu-werke-bangen-um-ihre-zukunft/100251335.html",
+          "published": "2026-09-02T16:04:25+00:00",
+          "summary": "Am Freitag tagt der Aufsichtsrat von Volkswagen. Auf der Tagesordnung stehen die Sparpläne des Vorstands. Besonders ungewiss: die Zukunft der Werke in Emden, Hannover, Zwickau und Neckarsulm."
         },
         {
-          "title": "Kommentar: Die hohen Strompreise sind kein unentrinnbares Schicksal",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-hohen-strompreise-sind-kein-unentrinnbares-schicksal/100251266.html",
-          "published": "2026-09-02T14:03:14+00:00",
-          "summary": "Eine aktuelle Analyse belegt: Die Strompreise in Deutschland bewegen sich im internationalen Vergleich auf hohem Niveau. Doch das müsste nicht so sein."
+          "title": "Mitbestimmung im Betrieb: Arbeitgeber: Mitwirkung von Betriebsräten auf den Prüfstand",
+          "link": "https://www.handelsblatt.com/politik/deutschland/mitbestimmung-im-betrieb-arbeitgeber-mitwirkung-von-betriebsraeten-auf-den-pruefstand/100251600.html",
+          "published": "2026-09-02T16:00:09+00:00",
+          "summary": "Betriebsräte haben gesetzlich festgelegte Rechte, im Unternehmen mitzubestimmen. Den Arbeitgebern geht vieles zu langsam, manches auch zu weit. Sie dringen auf eine Reform."
         },
         {
-          "title": "Migration: Polen verlängert Grenzkontrollen bis zum Frühjahr",
-          "link": "https://www.handelsblatt.com/politik/international/migration-polen-verlaengert-grenzkontrollen-bis-zum-fruehjahr/100251569.html",
-          "published": "2026-09-02T14:02:06+00:00",
-          "summary": "Seit dem vergangenen Sommer kontrolliert Polens Grenzschutz an der gemeinsamen Grenze mit Deutschland. Nun sollen die Kontrollen bis zum kommenden März bleiben."
+          "title": "Arbeitsrecht: Betriebsrat als Standortrisiko – Arbeitgeber fordern Reform",
+          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsrecht-betriebsrat-als-standortrisiko-arbeitgeber-fordern-reform/100251399.html",
+          "published": "2026-09-02T16:00:00+00:00",
+          "summary": "Vom Software-Update bis hin zur Umstellung der Produktion redet der Betriebsrat mit. Das bremst den Strukturwandel und wirft Deutschland im Wettbewerb zurück, warnen die Arbeitgeber im BDA."
         },
         {
-          "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-stark-veraendert-die-mietrechtsreform-den-wohnungsmarkt/100199045.html",
-          "published": "2026-09-02T14:01:00+00:00",
-          "summary": "Welche Einschränkungen die jetzt vorgestellten Reformpläne von Justizministerin Hubig für Eigentümer und Vermieter vorsehen – und wie sehr sie den Markt verändern werden."
+          "title": "Handelsblatt Live: US-Börsenexperte Koch: Dieses Arbeitsmarktszenario wäre für die Wall Street ideal",
+          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-dieses-arbeitsmarktszenario-waere-fuer-die-wall-street-ideal/100251596.html",
+          "published": "2026-09-02T15:56:13+00:00",
+          "summary": "Am Freitag steht der US-Arbeitsmarktbericht an. Die Großbank JP Morgan hat analysiert, was das beste Ergebnis für den Aktienmarkt wäre. Vor allem zu viele neue Jobs wären demnach schädlich für den …"
         },
         {
-          "title": "Geldanlage: „Auch eine Rentnerin kann 100 Prozent Aktien vertragen“",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/depots-je-mehr-zeit-sie-haben-desto-hoeher-kann-ihr-risiko-sein/100124450.html",
-          "published": "2026-09-02T14:00:00+00:00",
-          "summary": "Martin Weber hat über Jahrzehnte das Verhalten von Anlegern erforscht. Im Gespräch erklärt er, worauf es beim Aufbau eines Depots ankommt und welchem Irrglauben Anleger nicht anhängen sollten."
+          "title": "Sabotage-Verdacht: Störung in NRW-Umspannwerk war laut Reul „eine Straftat“",
+          "link": "https://www.handelsblatt.com/video/politik/sabotage-verdacht-stoerung-in-nrw-umspannwerk-war-laut-reul-eine-straftat/100251586.html",
+          "published": "2026-09-02T15:50:31+00:00",
+          "summary": "Nach der Störung an einem Umspannwerk bei Köln besteht laut dem NRW-Innenminister „der Anfangsverdacht einer verfassungsfeindlichen Sabotage“. Es werde in zwei Richtungen ermittelt, sagte Reul …"
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Gravierende Dürre-Schäden: Agrarminister: Landwirtschaft erlebt Krise von nationaler Tragweite",
-          "link": "https://www.n-tv.de/wirtschaft/Agrarminister-Landwirtschaft-erlebt-Krise-von-nationaler-Tragweite-id31261615.html",
-          "published": "2026-09-02T12:47:59+00:00",
-          "summary": "Trockenheit, Ernteeinbrüche und steigende Kosten bringen viele deutsche Agrarbetriebe in Bedrängnis. Landwirtschaftsminister Alois Rainer sieht die Ernährungssicherheit gefährdet - und kündigt …"
+          "title": "80 Filialen, 1200 Beschäftigte: Autohaus-Kette König ist insolvent",
+          "link": "https://www.n-tv.de/wirtschaft/Autohaus-Kette-Koenig-ist-insolvent-id31262777.html",
+          "published": "2026-09-02T15:39:54+00:00",
+          "summary": "Im 61. Jahr ihres Bestehens gerät die Autohaus-Kette König bedrohlich in Schieflage. Ein Insolvenzverfahren soll das Unternehmen nun in sicheres Fahrwasser zurückbringen. Was das für die mehr als …"
         },
         {
-          "title": "Gespräche mit Unicredit: Commerzbank will \"Wertvernichtung\" bei möglicher Übernahme verhindern",
-          "link": "https://www.n-tv.de/wirtschaft/Commerzbank-will-Wertvernichtung-bei-moeglicher-Uebernahme-verhindern-id31261474.html",
-          "published": "2026-09-02T12:18:13+00:00",
-          "summary": "Die Übernahme der Commerzbank durch die Unicredit befindet sich auf der Zielgeraden. Die Chefin des deutschen Geldhauses steht im direkten Austausch mit den Vertretern des italienischen …"
+          "title": "Präsident mit finsterem Blick: Goldener Trump-Dollar kommt in Umlauf",
+          "link": "https://www.n-tv.de/wirtschaft/Goldener-Trump-Dollar-kommt-in-Umlauf-id31262669.html",
+          "published": "2026-09-02T15:34:50+00:00",
+          "summary": "Donald Trump ist nun auch im amerikanischen Kleingeld präsent: Zum 250. Geburtstag der USA gibt die Münzanstalt ein ungewöhnliches Zahlungsmittel heraus. Die Premiere sorgt allerdings auch für Kritik."
         },
         {
-          "title": "Mehr als verdoppelt: DIW hebt Wachstumsprognose für deutsche Wirtschaft deutlich an",
-          "link": "https://www.n-tv.de/wirtschaft/DIW-hebt-Wachstumsprognose-fuer-deutsche-Wirtschaft-deutlich-an-id31261289.html",
-          "published": "2026-09-02T12:14:33+00:00",
-          "summary": "Innerhalb weniger Monate haben sich die Konjunkturaussichten laut dem Deutschen Institut für Wirtschaftsforschung deutlich gebessert. Es geht zwar von einem deutlich größeren Wachstum in den nächsten …"
+          "title": "EU droht mit Anti-China-Pakt: \"Der Club der Demokratien muss China gemeinsam unter Druck setzen\"",
+          "link": "https://www.n-tv.de/wirtschaft/Der-Club-der-Demokratien-muss-China-gemeinsam-unter-Druck-setzen-id31257570.html",
+          "published": "2026-09-02T15:11:22+00:00",
+          "summary": "Mit Japan, Südkorea und Großbritannien will Brüssel die Autobranche gegen chinesische Konkurrenz wappnen. Bernd Lange, Vorsitzender des Handelsausschusses im Europaparlament, erklärt im Gespräch mit …"
         },
         {
-          "title": "\"Alles Unsinn, Unfug, Kokolores\": IG Metall: Aus von VW Werken nicht beschlossen",
-          "link": "https://www.n-tv.de/wirtschaft/IG-Metall-Aus-von-VW-Werken-nicht-beschlossen-id31261475.html",
-          "published": "2026-09-02T12:12:19+00:00",
-          "summary": "In einem Bericht heißt es, der VW-Vorstand habe sich zur Schließung mehrerer VW-Werke entschieden. Die IG Metall widerspricht dem energisch. Auch Sachsens Ministerpräsident Kretschmer glaubt nicht an …"
+          "title": "Ausweitung der Ölförderung: Chevron legt nach neuem Trump-Deal in Venezuela vor",
+          "link": "https://www.n-tv.de/wirtschaft/Chevron-legt-nach-neuem-Trump-Deal-in-Venezuela-vor-id31262387.html",
+          "published": "2026-09-02T14:48:56+00:00",
+          "summary": "Venezuela rückt wieder ins Zentrum der globalen Ölindustrie. Der US-Konzern Chevron plant dort eine massive Ausweitung seiner Förderung - und setzt auf Investitionen über Jahrzehnte. Auch Washington …"
         },
         {
-          "title": "Bei Umsatz und Beschäftigung: Corona-Effekt treibt Fahrradbranche weiter ins Minus",
-          "link": "https://www.n-tv.de/wirtschaft/Corona-Effekt-treibt-Fahrradbranche-weiter-ins-Minus-id31260139.html",
-          "published": "2026-09-02T11:15:11+00:00",
-          "summary": "Während der Corona-Pandemie profitiert die deutsche Fahrradindustrie von einem kräftigen Boom. Doch der Kater fällt in den Folgejahren deutlich aus. Volle Lager bei sinkenden Preisen belasten die …"
+          "title": "Wirtschaft wächst stabil: Griechenland will Rettungskredite wohl früher tilgen",
+          "link": "https://www.n-tv.de/wirtschaft/Griechenland-will-Rettungskredite-wohl-frueher-tilgen-id31262242.html",
+          "published": "2026-09-02T14:42:30+00:00",
+          "summary": "Einst stand Griechenland am Rand des Euro-Austritts, heute wächst die Wirtschaft stärker als der Durchschnitt im Währungsraum. Nun könnte Athen ein weiteres Kapitel der Schuldenkrise deutlich früher …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "S&P 500-Wert Coinbase-Aktie: So viel hätte eine Investition in Coinbase von vor 5 Jahren gekostet",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-wert-coinbase-aktie-so-viel-haette-eine-investition-in-coinbase-von-vor-5-jahren-gekostet-15914687",
-          "published": "2026-09-02T14:00:49+00:00",
-          "summary": "Am 02.09.2021 wurde die Coinbase -Aktie an der Börse NAS gehandelt. Zur Schlussglocke war das Papier an diesem Tag 268,18 USD wert. Bei einem Investment von 100 USD in das Coinbase-Papier vor 5 …"
+          "title": "Glencore-Aktie im Fokus: Mehr Fremdkapital für kanadische Abcourt Mines",
+          "link": "https://www.finanzen.net/nachricht/aktien/glencore-aktie-im-fokus-mehr-fremdkapital-fuer-kanadische-abcourt-mines-15915011",
+          "published": "2026-09-02T16:05:00+00:00",
+          "summary": "Der Rohstoffkonzern Glencore erhöht das Engagement beim kanadischen Minenbetreiber Abcourt Mines."
         },
         {
-          "title": "S&P 500-Papier Vertiv-Aktie: So viel hätte eine Investition in Vertiv von vor 5 Jahren abgeworfen",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-vertiv-aktie-so-viel-haette-eine-investition-in-vertiv-von-vor-5-jahren-abgeworfen-15914686",
-          "published": "2026-09-02T14:00:49+00:00",
-          "summary": "Heute vor 5 Jahren wurden Vertiv -Anteile an der Börse NYSE gehandelt. Zur Schlussglocke war das Papier an diesem Tag 28,59 USD wert. Wenn ein Anleger damals 100 USD in die Vertiv-Aktie investiert …"
+          "title": "Aktien Europa Schluss: EuroStoxx nach jüngsten Verlusten nur noch knapp im Minus",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-europa-schluss-eurostoxx-nach-juengsten-verlusten-nur-noch-knapp-im-minus-15914994",
+          "published": "2026-09-02T16:02:39+00:00",
+          "summary": "PARIS/LONDON/ZÜRICH (dpa-AFX) - Nach zwei schwachen Handelstagen hat der EuroStoxx 50 am Mittwoch nur noch leicht nachgegeben. Gestützt wurde der Eurozone-Leitindex von der freundlich ..."
         },
         {
-          "title": "S&P 500-Wert Globe Life-Aktie: So viel hätten Anleger mit einem Investment in Globe Life von vor 10 Jahren verdient",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-wert-globe-life-aktie-so-viel-haetten-anleger-mit-einem-investment-in-globe-life-von-vor-10-jahren-verdient-15914685",
-          "published": "2026-09-02T14:00:49+00:00",
-          "summary": "Am 02.09.2016 wurden Globe Life -Anteile via Börse NYSE gehandelt. Zum Handelsende standen Globe Life-Anteile an diesem Tag bei 65,08 USD. Hätte ein Anleger 100 USD zu diesem Zeitpunkt in die Globe …"
+          "title": "US-Anleihen: Leichte Kursgewinne",
+          "link": "https://www.finanzen.net/nachricht/anleihen/us-anleihen-leichte-kursgewinne-15914992",
+          "published": "2026-09-02T16:00:38+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Die Kurse von US-Staatsanleihen haben am Mittwoch etwas zugelegt. Der Terminkontrakt für zehnjährige Staatsanleihen (T-Note-Future) stieg um 0,03 Prozent auf 107,41 Punkte. Die …"
         },
         {
-          "title": "S&P 500-Papier L3Harris Technologies-Aktie: So viel Gewinn hätte eine L3Harris Technologies-Investition von vor 10 Jahren eingebracht",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-l3harris-technologies-aktie-so-viel-gewinn-haette-eine-l3harris-technologies-investition-von-vor-10-jahren-eingebracht-15914684",
-          "published": "2026-09-02T14:00:49+00:00",
-          "summary": "Vor 10 Jahren wurde das L3Harris Technologies -Papier an der Börse NYSE gehandelt. Diesen Tag beendeten die Anteile bei 93,69 USD. Bei einem 100-USD-Investment vor 10 Jahren, besäße man nun 1,067 …"
+          "title": "Handel in New York: Börsianer lassen NASDAQ 100 am Mittag steigen",
+          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-boersianer-lassen-nasdaq-100-am-mittag-steigen-15914985",
+          "published": "2026-09-02T15:59:31+00:00",
+          "summary": "Der NASDAQ 100 bewegt sich im NASDAQ-Handel um 17:57 Uhr um 0,07 Prozent stärker bei 29.098,78 Punkten. In den Mittwochshandel ging der NASDAQ 100 0,211 Prozent leichter bei 29.016,00 Punkten, ..."
         },
         {
-          "title": "S&P 500-Titel Dow-Aktie: So viel hätten Anleger an einem Dow-Investment von vor einem Jahr verdient",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-dow-aktie-so-viel-haetten-anleger-an-einem-dow-investment-von-vor-einem-jahr-verdient-15914683",
-          "published": "2026-09-02T14:00:49+00:00",
-          "summary": "Am 02.09.2025 wurde das Dow -Papier via Börse NYSE gehandelt. Zum Handelsende stand die Dow-Aktie an diesem Tag bei 24,41 USD. Bei einer 10.000-USD-Investition vor 1 Jahr, wären Anleger nun im Besitz …"
+          "title": "Börse New York: Pluszeichen im S&P 500",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-pluszeichen-im-s-p-500-15914984",
+          "published": "2026-09-02T15:59:31+00:00",
+          "summary": "Um 17:57 Uhr bewegt sich der S&P 500 im NYSE-Handel 0,49 Prozent fester bei 7.668,57 Punkten. Die S&P 500-Mitglieder kommen damit auf eine Marktkapitalisierung von 61,765 Bio. Euro. Zum Handelsstart …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Das WirtschaftsWoche-Quiz: Testen Sie Ihr Wirtschaftswissen – sieben aktuelle Fragen",
-          "link": "https://www.wiwo.de/spiele/das-wirtschaftswoche-quiz-testen-sie-ihr-wirtschaftswissen-mit-sieben-aktuellen-fragen/100132973.html",
-          "published": "2026-09-02T13:34:00+00:00",
-          "summary": "Stellen Sie sich jeden Mittwoch neu den Fragen der Woche. Ein kleiner Tipp: Alle Antworten finden Sie auf wiwo.de. Prüfen Sie jetzt Ihr Wissen!"
+          "title": "Krisenvorsorge stärken: Niederlande ziehen Teil von Goldreserve aus den USA ab",
+          "link": "https://www.wiwo.de/politik/ausland/krisenvorsorge-staerken-niederlande-ziehen-teil-von-goldreserve-aus-den-usa-ab/100251587.html",
+          "published": "2026-09-02T15:48:00+00:00",
+          "summary": "Viele Länder lagern Goldvorräte in den USA. Die Attacken von Trump auf die US-Notenbank Fed gaben Anlass zur Sorge – die Niederlande ziehen nun Konsequenzen."
         },
         {
-          "title": "Preisfrage: Was macht eine Taxifahrt eigentlich so teuer?",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/warum-taxis-so-teuer-sind-und-wie-der-preis-entsteht/100249562.html",
-          "published": "2026-09-02T13:30:25+00:00",
-          "summary": "Zehn Kilometer durch die Stadt können überraschend ins Geld gehen. Wie der Preis entsteht – und warum Uber und Bolt oft deutlich günstiger sind."
+          "title": "Transformation of Industry: Wachsender Frust in der Belegschaft über die Aufspaltung von Siemens Energy",
+          "link": "https://www.wiwo.de/unternehmen/industrie/siemens-energy-plant-abspaltung-der-sparte-transformation-of-industry/100251061.html",
+          "published": "2026-09-02T15:44:00+00:00",
+          "summary": "Siemens Energy möchte eine Sparte abspalten. Doch viele Mitarbeiter verstehen nicht, warum das ausgerechnet jetzt passieren muss."
         },
         {
-          "title": "Immobilien: Ostdeutsche sind bei Wohneigentum benachteiligt",
-          "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-ostdeutsche-sind-bei-wohneigentum-benachteiligt/100251409.html",
-          "published": "2026-09-02T13:29:54+00:00",
-          "summary": "Die ungleiche Verteilung von Vermögen im Westen und Osten Deutschlands hat sich verfestigt. Das könnte sich auch auf die Wahlen in Sachsen-Anhalt auswirken."
+          "title": "Arbeitsmarkt: Schein-Bewerber können teuer werden – jetzt hilft ein Urteil",
+          "link": "https://www.wiwo.de/erfolg/management/arbeitsmarkt-schein-bewerber-koennen-teuer-werden-jetzt-hilft-ein-urteil/100248943.html",
+          "published": "2026-09-02T15:40:00+00:00",
+          "summary": "Fehler in Einstellungsverfahren können teuer für Unternehmen werden, wenn Bewerber sie wegen Diskriminierung verklagen. Ein wichtiges Urteil springt Unternehmen jetzt bei."
         },
         {
-          "title": "Energie: Ermittler finden sechs Abschussvorrichtungen",
-          "link": "https://www.wiwo.de/unternehmen/energie/energie-ermittler-finden-sechs-abschussvorrichtungen/100251404.html",
-          "published": "2026-09-02T13:26:00+00:00",
-          "summary": "Nach dem Kurzschluss in einem Umspannwerk bei Köln ermittelt die Polizei wegen Sabotage. Die Ermittler hoffen nun über vor Ort gesicherte Beweise auf die Spur der Täter zu kommen."
+          "title": "Wald und Klimawandel: „Um die Buchen mache ich mir große Sorgen“",
+          "link": "https://www.wiwo.de/technologie/umwelt/wald-und-klimawandel-droht-nach-den-fichten-das-buchen-sterben/100250630.html",
+          "published": "2026-09-02T15:28:06+00:00",
+          "summary": "Nach dem Fichtensterben kommt der Buchentod, sagt Großwaldbesitzer Eberhard von Wrede. Er hält die Hitzerisiken im Wald für unterschätzt – und warnt vor den Nebenwirkungen ökologischer Musterprojekte."
         },
         {
-          "title": "Frankreich: Schuldenkrise in Paris",
-          "link": "https://www.wiwo.de/finanzen/boerse/frankreichs-schuldenkrise-anleger-fuerchten-den-reformstau/100251511.html",
-          "published": "2026-09-02T13:23:14+00:00",
-          "summary": "Rekordhohe Defizite, steigende Zinsausgaben, Reformstau und die Unsicherheit über den Ausgang der Präsidentschaftswahlen im kommenden Jahr verunsichern ausländische Investoren."
+          "title": "50Hertz und Amprion: Doppelschlag gegen deutsche Kohlekraftwerke",
+          "link": "https://www.wiwo.de/unternehmen/energie/sabotageakte-bei-50hertz-und-amprion-doppelschlag-gegen-deutsche-kohlekraftwerke/100251576.html",
+          "published": "2026-09-02T15:25:33+00:00",
+          "summary": "Mit Attacken auf Umspannwerke haben Täter Braunkohlekraftwerke von LEAG und RWE zeitweise gestoppt. Wer das war? Offen. Klar ist: Die Netze sind Deutschlands Schwachstelle."
         }
       ],
       "error": null
@@ -241,6 +241,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "41 t Marmor für ein 2300 Jahre altes Theater auf Thassos",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/41-t-marmor-fuer-ein-2300-jahre-altes-theater-auf-thassos/",
+          "published": "2026-09-02T16:06:05+00:00",
+          "summary": "41 t Marmor, gescannte Bruchkanten und ein schwieriger Baugrund: So restauriert Griechenland das rund 2300 Jahre alte Theater von Thassos."
+        },
+        {
+          "title": "Ballistische Rakete von deutscher Fregatte: Was hinter dem LORA-Test steckt",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/ballistische-rakete-von-deutscher-fregatte-was-hinter-dem-lora-test-steckt/",
+          "published": "2026-09-02T14:27:33+00:00",
+          "summary": "Die Deutsche Marine testet erstmals LORA von einer F125-Fregatte. Wie die ballistische Rakete funktioniert und warum ihre Reichweite Fragen aufwirft."
+        },
         {
           "title": "17.000 t auf einen Schlag: So zerlegt das größte Bauschiff der Welt die Nordsee",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/1700-t-auf-einen-schlag-so-zerlegt-das-groesste-bauschiff-der-welt-die-nordsee/",
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/china-baut-die-schiffe-doch-die-technik-kommt-oft-aus-deutschland/",
           "published": "2026-09-02T11:10:00+00:00",
           "summary": "Deutsche Schiffszulieferer liefern Technik für den Weltmarkt: Auf der SMM stehen Cybersicherheit, Digitalisierung und Marineaufträge im Fokus."
-        },
-        {
-          "title": "14 Stunden ohne Microsoft 365: Was Betriebe für den nächsten Ausfall vorbereitet",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/microsoft-365-ausfall-wie-sie-sich-vorbereiten/",
-          "published": "2026-09-02T10:37:53+00:00",
-          "summary": "Ein Fehler in Microsoft 365 kann Mail, Dateien und Administration gleichzeitig treffen. Drei Vorkehrungen machen den nächsten Cloud-Ausfall beherrschbarer."
-        },
-        {
-          "title": "Damm wächst weiter: Drei 500-MW-Turbinen liefern bereits 1,5 GW",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/damm-waechst-weiter-drei-500-mw-turbinen-liefern-bereits-15-gw/",
-          "published": "2026-09-02T08:11:21+00:00",
-          "summary": "Der Shuangjiangkou-Damm soll 315 m hoch werden. Obwohl das Bauwerk weiter wächst, liefern bereits drei 500-MW-Turbinen zusammen 1,5 GW."
         }
       ],
       "error": null
