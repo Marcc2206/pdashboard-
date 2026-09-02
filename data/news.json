@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T22:08:04+00:00",
+  "generatedAt": "2026-09-02T00:13:54+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1641240.html",
+          "published": "2026-09-02T00:03:46+00:00",
+          "summary": ""
+        },
+        {
+          "title": "USA und Iran melden erneut heftige Angriffe",
+          "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+          "published": "2026-09-01T23:02:44+00:00",
+          "summary": "Die USA melden neue Angriffe auf iranische Ziele nahe der Straße von Hormus. Iranische Staatsmedien berichten von zivilen Opfern. Als Reaktion auf die US-Attacken beschoss Iran offenbar Jordanien mit …"
+        },
+        {
+          "title": "USA und Iran greifen sich in Nahost erneut gegenseitig an",
+          "link": "https://www.tagesschau.de/video/video-1641222.html",
+          "published": "2026-09-01T22:30:00+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80750.html",
+          "published": "2026-09-01T22:25:37+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12824.html",
           "published": "2026-09-01T21:29:52+00:00",
           "summary": ""
-        },
-        {
-          "title": "DFB-Pokal: Dortmund siegt 5:0 bei Fünftligist aus Hamburg",
-          "link": "https://www.tagesschau.de/sport/borussia-dortmund-mit-pflichtsieg-in-eimsbuettel,spielbericht-dfb-pokal-eimsbuettel-borussia-dortmund-100.html",
-          "published": "2026-09-01T21:23:36+00:00",
-          "summary": "Borussia Dortmund hat seine Pflichtaufgabe erfüllt und steht nach einem 5:0 beim Hamburg-Eimsbütteler-Ballspiel-Club in der 2. Runde des DFB-Pokals. Der Fünftligist erwies sich als hartnäckiger …"
-        },
-        {
-          "title": "Welche Gefahren drohen durch die Gletscherschmelze in den Alpen?",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1641200.html",
-          "published": "2026-09-01T21:04:05+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Über 1.000 Tote und mehr als 5.000 Vermisste: Was die Lage in Nepal so unübersichtlich macht",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1641198.html",
-          "published": "2026-09-01T21:01:26+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Bundesregierung: Russland für Drohnen-Anschlagsversuch in Leipzig verantwortlich",
-          "link": "https://www.tagesschau.de/eilmeldung/bundesregierung-drohne-flughafen-leipzig-halle-russland-100.html",
-          "published": "2026-09-01T20:51:18+00:00",
-          "summary": "Deutschland macht Russland für den versuchten Drohnenanschlag am Flughafen Leipzig/Halle verantwortlich und hat weitere Sanktionen gegen russische Staatsbürger und Einrichtungen angekündigt. Der …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Finanzminister: Schaden am Flieger – Klingbeil nach G20-Treffen in den USA gestrandet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/finanzminister-schaden-am-flieger-klingbeil-nach-g20-treffen-in-den-usa-gestrandet/100251315.html",
+          "published": "2026-09-01T23:21:28+00:00",
+          "summary": "Lars Klingbeil ist nach dem G20-Treffen wegen eines defekten Fliegers in den USA gestrandet. Und verpasst ausgerechnet das Kabinett, in dem sein Steuergesetz beschlossen wird."
+        },
+        {
+          "title": "Minister auf Reisen: Schaden am Regierungsflieger: Klingbeil in USA gestrandet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/minister-auf-reisen-schaden-am-regierungsflieger-klingbeil-in-usa-gestrandet/100251319.html",
+          "published": "2026-09-01T23:07:10+00:00",
+          "summary": "Heute soll sein Steuergesetz im Kabinett beschlossen werden - doch wohl ohne Finanzminister Klingbeil. Sein Flieger steht kaputt in den USA."
+        },
+        {
+          "title": "E- Luxus-SUV: Allrad-Adel unter Strom: Der Range Rover wird elektrisch",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/e-luxus-suv-allrad-adel-unter-strom-der-range-rover-wird-elektrisch/100251317.html",
+          "published": "2026-09-01T23:01:04+00:00",
+          "summary": "Ihre Lordschaft brauchen bald eine Ladesäule. Denn Land Rover ersetzt bei seinem Flaggschiff-SUV den Benzintank durch eine Batterie. An Finesse und Fahrgefühl soll sich indes nichts ändern."
+        },
+        {
+          "title": "Russischer Angriffskrieg: Putin spricht bei Vormarsch in der Ukraine von Fortschritten",
+          "link": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-putin-spricht-bei-vormarsch-in-der-ukraine-von-fortschritten/100251312.html",
+          "published": "2026-09-01T22:24:27+00:00",
+          "summary": "Im russischen Krieg gegen die Ukraine gibt es vor dem nächsten Winter nur wenig Bewegung entlang der Frontlinie. Beide Seiten konzentrieren sich auf Luftschläge gegen Ziele im Hinterland des Gegners."
+        },
+        {
           "title": "Ukraine-Krieg: Selenskyj warnt vor Flügen über Russland - Putin droht",
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-warnt-vor-fluegen-ueber-russland-putin-droht/100251309.html",
           "published": "2026-09-01T21:39:19+00:00",
           "summary": "Nach heftigen russischen Luftangriffen wendet sich der ukrainische Präsident Selenskyj mit einer Warnung an Fluggesellschaften, die weiter über Russland fliegen. Kremlchef Putin reagiert prompt."
-        },
-        {
-          "title": "Krieg: USA und Iran verkünden neue gegenseitige Angriffe",
-          "link": "https://www.handelsblatt.com/politik/international/krieg-usa-und-iran-verkuenden-neue-gegenseitige-angriffe/100251269.html",
-          "published": "2026-09-01T21:36:27+00:00",
-          "summary": "In der Nacht zu Montag ist der Iran-Krieg erstmals seit Wochen mit gegenseitigen Angriffen wieder militärisch eskaliert. Nun folgen weitere Angriffe - und Trump droht dem Iran einmal mehr martialisch."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Explosionen über Stadt im Süden Jordaniens – Ölpreis steigt",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-explosionen-ueber-stadt-im-sueden-jordaniens-oelpreis-steigt/100136895.html",
-          "published": "2026-09-01T20:54:00+00:00",
-          "summary": "USA melden neue Angriffe auf Iran +++ Iranische Revolutionsgarden: USA werden neue Angriffe bereuen +++ Trump: USA greifen iranische Ziele nahe Straße von Hormus an +++ Der Newsblog."
-        },
-        {
-          "title": "Konzernumbau: Nestlé verkauft Vitamingeschäft an Finanzinvestor",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/konzernumbau-nestle-verkauft-vitamingeschaeft-an-finanzinvestor/100251300.html",
-          "published": "2026-09-01T19:39:46+00:00",
-          "summary": "Nestlé trennt sich für eine Milliarde Dollar von seinem Geschäft mit Vitaminen und Nahrungsergänzungsmitteln. Käufer ist der US-Finanzinvestor Yellow Wood."
-        },
-        {
-          "title": "USA-Reise: Klingbeil deutet härtere Gangart gegenüber China an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/usa-reise-klingbeil-deutet-haertere-gangart-gegenueber-china-an/100251302.html",
-          "published": "2026-09-01T19:29:54+00:00",
-          "summary": "Muss Europa mehr gegen unfaire Handelspraktiken in China unternehmen? Finanzminister Klingbeil hat Ideen."
         }
       ],
       "error": null
