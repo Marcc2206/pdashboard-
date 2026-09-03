@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:09:55+00:00",
+  "generatedAt": "2026-09-03T12:12:25+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bundesgerichtshof klärt Sampling-Streit um Kraftwerk-Beat",
-          "link": "https://www.tagesschau.de/kultur/bgh-urteil-sampling-kraftwerk-100.html",
-          "published": "2026-09-03T09:57:32+00:00",
-          "summary": "Eine zweisekündige Tonfolge der Kultband Kraftwerk - wiederverwendet in einem Hip-Hop-Lied: Seit mehr als einem Vierteljahrhundert beschäftigt das die Justiz. Der Bundesgerichtshof hat jetzt einen …"
-        },
-        {
-          "title": "\"Kleines Kerneuropa\", Demain von Osten, ARD Berlin, zum \"Weimarer Dreieck\"-Treffen über Verteidigungsfähigkeit",
-          "link": "https://www.tagesschau.de/video/video-1641936.html",
-          "published": "2026-09-03T09:47:31+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80694.html",
+          "published": "2026-09-03T12:10:46+00:00",
           "summary": ""
         },
         {
-          "title": "Sebastian Kisters, ARD Madrid, zu Demonstrationen gegen Spaniens Regierung wegen Lage in Ceuta",
-          "link": "https://www.tagesschau.de/video/video-1641928.html",
-          "published": "2026-09-03T09:27:49+00:00",
+          "title": "Claudia Kornmeier, ARD Berlin, zur Einstufung von kritischer Infrastruktur als stark gefährdet",
+          "link": "https://www.tagesschau.de/video/video-1641998.html",
+          "published": "2026-09-03T12:05:44+00:00",
           "summary": ""
         },
         {
-          "title": "Nach deutschen Strafmaßnahmen: Goethe-Institut in Russland wird geschlossen",
-          "link": "https://www.tagesschau.de/ausland/goethe-institut-russland-schliessung-100.html",
-          "published": "2026-09-03T09:02:54+00:00",
-          "summary": "Als Reaktion auf den Anschlagsversuch am Flughafen Leipzig/Halle will die Bundesregierung den Vertrag mit dem Russischen Haus kündigen. Moskau zieht nun nach und schließt Niederlassungen des …"
+          "title": "Hedgefonds Elliott beflügelt die Telekom-Aktie",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-102.html",
+          "published": "2026-09-03T12:00:20+00:00",
+          "summary": "Die Telekom-Aktie ist im Aufwind: Grund ist die wachsende Beteiligung des US-Hedgefonds Elliott am Bonner Konzern. Was wird aus der Fusion mit der US-Tochter T-Mobile?"
         },
         {
-          "title": "Norwegen beschlagnahmt russisches Schiff vor Spitzbergen",
-          "link": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-russland-norwegen-100.html",
-          "published": "2026-09-03T08:53:07+00:00",
-          "summary": "Ein russisches Schiff für Expeditionskreuzfahrten ist vor Spitzbergen von norwegischen Behörden beschlagnahmt worden. Grund sind Entschädigungsforderungen des ukrainischen Energiekonzerns Naftogaz. …"
+          "title": "Immer mehr neue Autos fahren elektrisch",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kba-zulassungen-e-autos-trend-100.html",
+          "published": "2026-09-03T11:43:20+00:00",
+          "summary": "E-Autos sind bei deutschen Käufern beliebt, fast jedes dritte neu zugelassene Auto im August war ein reiner Elektro-Pkw. Grund für die Entwicklung dürfte auch die E-Auto-Prämie des Bundes sein."
+        },
+        {
+          "title": "\"Wohl Wegwerf-Agenten\", Michael Götschenberg, ARD Berlin, zur Brandattacke auf Münchner Baustelle",
+          "link": "https://www.tagesschau.de/video/video-1641976.html",
+          "published": "2026-09-03T11:15:17+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -45,39 +45,8 @@
       "name": "Handelsblatt",
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
-      "items": [
-        {
-          "title": "Akku-Tipps: Herbst und Frost: So bleibt Ihre E-Bike-Batterie gesund",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/akku-tipps-herbst-und-frost-so-bleibt-ihre-e-bike-batterie-gesund/100251776.html",
-          "published": "2026-09-03T09:55:51+00:00",
-          "summary": "Wie Sie den teuren E-Bike-Akku in der kalten Jahreszeit schützen, Ihre Fahrweise optimieren - und vielleicht sogar noch ein Schnäppchen machen."
-        },
-        {
-          "title": "Sabotage: „Dann steht die Produktion binnen Stunden still“ – Wirtschaft warnt vor neuen Sabotageakten",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sabotage-wirtschaft-schlaegt-wegen-vermehrter-sabotageakte-alarm/100251704.html",
-          "published": "2026-09-03T09:46:39+00:00",
-          "summary": "Nach den Attacken in Brandenburg und NRW wächst der Druck auf die Bundesregierung. Für zusätzliche Unruhe sorgt ein mutmaßlicher Brandanschlag auf ein Rüstungsunternehmen in München."
-        },
-        {
-          "title": "Auto-Markt: E-Auto-Boom setzt sich fort",
-          "link": "https://www.handelsblatt.com/politik/deutschland/auto-markt-e-auto-boom-setzt-sich-fort/100251763.html",
-          "published": "2026-09-03T09:42:53+00:00",
-          "summary": "Reine Elektroautos erreichten im August einen Marktanteil von 32,4 Prozent. Was sind die Gründe für das starke Wachstum?"
-        },
-        {
-          "title": "Kriminalität: Mutmaßlicher Anschlagsversuch: Zwei Bulgaren unter Verdacht",
-          "link": "https://www.handelsblatt.com/politik/deutschland/kriminalitaet-mutmasslicher-anschlagsversuch-zwei-bulgaren-unter-verdacht/100251710.html",
-          "published": "2026-09-03T09:30:53+00:00",
-          "summary": "Nach einer Brandattacke auf eine Münchner Baustelle vermuten Ermittler, dass ein Rüstungsunternehmen das Ziel war. Später nahmen Einsatzkräfte zwei Menschen an einer Tankstelle fest."
-        },
-        {
-          "title": "CDU: Jens Spahn geht offenbar für Union in den Haushaltausschuss",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-jens-spahn-geht-offenbar-fuer-union-in-den-haushaltausschuss-1/100251762.html",
-          "published": "2026-09-03T09:29:59+00:00",
-          "summary": "Nachdem Spahn seinen Posten als Unionsfraktionsvorsitzender wegen Kritik an seiner Vaterschaft per Leihmutter räumte, soll nun wohl ein neuer Posten für den CDU-Politiker gefunden worden sein."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "ntv-wirtschaft",
@@ -86,8 +55,14 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "\"Erholung bleibt fragil\": Wirtschaftsinstitute schrauben Prognosen zum Wachstum deutlich hoch",
-          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsinstitute-schrauben-Prognosen-zum-Wachstum-deutlich-hoch-id31264874.html",
+          "title": "Apple vergoldet Postenwechsel: So viel kassiert Tim Cook künftig",
+          "link": "https://www.n-tv.de/wirtschaft/So-viel-kassiert-Tim-Cook-kuenftig-id31264994.html",
+          "published": "2026-09-03T11:09:43+00:00",
+          "summary": "Der Abschied von der Konzernspitze fällt für Tim Cook finanziell kaum ins Gewicht. Als neuer Chef des Verwaltungsrats von Apple streicht er ein stattliches Vergütungspaket ein und bleibt mit seinem …"
+        },
+        {
+          "title": "\"Erholung bleibt fragil\": Wirtschaftsinstitute schrauben Wachstums-Prognosen deutlich hoch",
+          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsinstitute-schrauben-Wachstums-Prognosen-deutlich-hoch-id31264874.html",
           "published": "2026-09-03T09:07:41+00:00",
           "summary": "Nachdem das DIW am Vortag seine Wachstumsprognose für dieses Jahr auf 1,2 Prozent angehoben hat, ziehen nun weitere Institute nach. Sie sehen sogar einen noch etwas größeren Aufschwung. Grund zur …"
         },
@@ -108,12 +83,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Chemieindustrie-profitiert-vom-Iran-Krieg-ist-aber-trotzdem-pessimistisch-id31264356.html",
           "published": "2026-09-03T07:26:44+00:00",
           "summary": "Weil Konkurrenten durch den Krieg im Iran mit Problemen zu kämpfen haben, profitiert die europäische Chemieindustrie. Das macht hierzulande aber nicht die vielen Probleme der Branche wett."
-        },
-        {
-          "title": "Warnung vor Staatsschuldenkrise: Bei der \"Anleihe-Bürgerwehr\" herrscht Alarmstufe rot",
-          "link": "https://www.n-tv.de/wirtschaft/Bei-der-Anleihe-Buergerwehr-herrscht-Alarmstufe-rot-id31263442.html",
-          "published": "2026-09-03T06:49:55+00:00",
-          "summary": "Der globale Anleihemarkt ist in Aufruhr. Investoren verlangen für Staatsanleihen so hohe Renditen wie seit Jahrzehnten nicht. Die Zinskosten für Staatsschulden steigen teils drastisch. ntv.de …"
         }
       ],
       "error": null
@@ -125,34 +94,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ETF-Panikverkäufe vermeiden: Wie du dein Depot vor dir selbst schützt",
-          "link": "https://www.finanzen.net/nachricht/aktien/etf-panikverkaeufe-vermeiden-wie-du-dein-depot-vor-dir-selbst-schuetzt-15916336",
-          "published": "2026-09-03T10:05:12+00:00",
-          "summary": ""
+          "title": "Sinkende Ölpreise sorgen für etwas Entspannung: DAX mit Stabilisierungstendenz",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-sinkende-oelpreise-sorgen-fuer-etwas-entspannung-dax-mit-stabilisierungstendenz-15909432",
+          "published": "2026-09-03T12:04:00+00:00",
+          "summary": "Zum Handelsstart verbuchte der DAX einen marginalen Aufschlag von 0,01 Prozent auf 25.840,92 Punkte und hält sich danach überwiegend um die Nulllinie.Eine Verschnaufpause bei den zuletzt kräftig …"
         },
         {
-          "title": "Volvo schließt sich Bündnis zur Förderung wasserstoffbetriebener Lkw an",
-          "link": "https://www.finanzen.net/nachricht/aktien/volvo-schliesst-sich-buendnis-zur-foerderung-wasserstoffbetriebener-lkw-an-15916334",
-          "published": "2026-09-03T10:04:40+00:00",
-          "summary": "(Technische Wiederholung) Von Dominic Chopping DOW JONES--Der schwedische Lkw-Hersteller Volvo arbeitet gemeinsam mit deutschen politischen Entscheidungsträgern und einer Gruppe von Unternehmen aus …"
-        },
-        {
-          "title": "Qualitätsmängel bremsen Airbus-Auslieferungen - Kreise: Rückgang im August",
-          "link": "https://www.finanzen.net/nachricht/aktien/qualitaetsmaengel-bremsen-airbus-auslieferungen-kreise-rueckgang-im-august-15916329",
-          "published": "2026-09-03T10:03:39+00:00",
-          "summary": "TOULOUSE (dpa-AFX) - Qualitätsmängel an Großraumjets vom Typ A330neo haben dem weltgrößten Flugzeugbauer Airbus ( Airbus SE ) einen Rückschlag bei den Auslieferungen eingebrockt. Das Problem betreffe …"
+          "title": "Ex-Fraktionschef Spahn geht in den Haushaltsausschuss",
+          "link": "https://www.finanzen.net/nachricht/aktien/ex-fraktionschef-spahn-geht-in-den-haushaltsausschuss-15916511",
+          "published": "2026-09-03T12:03:40+00:00",
+          "summary": "BERLIN (dpa-AFX) - Der zurückgetretene Unionsfraktionschef Jens Spahn (CDU) bleibt im Bundestag und soll nun Mitglied des Haushaltsausschusses werden. Das bestätigte eine Fraktionssprecherin auf …"
         },
         {
           "title": "Snowflake-Aktie schießt nach starken Zahlen und höherer Prognose zweistellig nach oben",
           "link": "https://www.finanzen.net/nachricht/aktien/ki-boom-bei-snowflake-snowflake-aktie-schiesst-nach-starken-zahlen-und-hoeherer-prognose-zweistellig-nach-oben-00-15915930",
-          "published": "2026-09-03T10:03:00+00:00",
+          "published": "2026-09-03T12:03:00+00:00",
           "summary": "Snowflake-Umsatz wächst im zweiten Quartal um 35 Prozent Umsatzprognose fürs Geschäftsjahr angehoben Snowflake-Aktie reagiert Snowflake ..."
         },
         {
-          "title": "ETF: In Zukunftstechnologien investieren - Wie du mit ETFs gezielt von KI, Cybersecurity und Robotik profitierst",
-          "link": "https://www.finanzen.net/nachricht/aktien/etf-in-zukunftstechnologien-investieren-wie-du-mit-etfs-gezielt-von-ki-cybersecurity-und-robotik-profitierst-15916335",
-          "published": "2026-09-03T10:00:43+00:00",
-          "summary": "ETF: In Zukunftstechnologien investieren – Wie du mit ETFs gezielt von KI, Cybersecurity und Robotik profitierst"
+          "title": "Miersch: Gesprächsstrang mit Russland darf nicht reißen",
+          "link": "https://www.finanzen.net/nachricht/aktien/miersch-gespraechsstrang-mit-russland-darf-nicht-reissen-15916508",
+          "published": "2026-09-03T12:02:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Der SPD-Fraktionsvorsitzende Matthias Miersch unterstützt die Reaktion der Bundesregierung auf den Russland zugeschriebenen Drohnenangriff auf dem Flughafen Leipzig. \"Ich halte es …"
+        },
+        {
+          "title": "Berlin, Paris und Warschau einig gegenüber Moskau",
+          "link": "https://www.finanzen.net/nachricht/aktien/berlin-paris-und-warschau-einig-gegenueber-moskau-15916507",
+          "published": "2026-09-03T12:02:38+00:00",
+          "summary": "WEIMAR (dpa-AFX) - Deutschland, Frankreich und Polen haben nach dem Anschlagsversuch mit einer Sprengstoffdrohne auf dem Flughafen Leipzig/Halle eine geschlossene Reaktion auf hybride Bedrohungen aus …"
         }
       ],
       "error": null
@@ -163,6 +132,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Hedgefonds Elliott beflügelt die Telekom-Aktie",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-102.html",
+          "published": "2026-09-03T12:00:20+00:00",
+          "summary": "Die Telekom-Aktie ist im Aufwind: Grund ist die wachsende Beteiligung des US-Hedgefonds Elliott am Bonner Konzern. Was wird aus der Fusion mit der US-Tochter T-Mobile?"
+        },
         {
           "title": "Marktbericht: Unsichere Zinspolitik hält Anleger vom Kaufen ab",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
@@ -186,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
           "published": "2026-08-31T16:46:46+00:00",
           "summary": "Vor 50 Jahren ging der erste Indexfonds für Privatanleger an den Start. Er gilt als Vorläufer der heutigen ETFs und hat den Vermögensaufbau an der Börse einem breiteren Publikum geöffnet."
-        },
-        {
-          "title": "Marktbericht: Ölpreise klettern wieder",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html",
-          "published": "2026-08-31T12:42:21+00:00",
-          "summary": "Neue Angriffe im Persischen Golf treiben die Ölpreise wieder nach oben. Neue Entwicklungen in Venezuela könnten aber Entlastung bringen - insbesondere ein Austritt aus der OPEC. Von Detlev Landmesser."
         }
       ],
       "error": null
@@ -201,39 +170,8 @@
       "name": "Wirtschaftswoche",
       "site": "https://www.wiwo.de",
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
-      "items": [
-        {
-          "title": "Suncor Energy: Hebel auf Brent",
-          "link": "https://www.wiwo.de/finanzen/boerse/suncor-energy-hebel-auf-brent/100251513.html",
-          "published": "2026-09-03T09:55:19+00:00",
-          "summary": "Von steigenden Ölpreisen profitieren vor allem kanadische Ölaktien wie Suncor Energy, die Nummer eins im Ahornland."
-        },
-        {
-          "title": "Zebra Technologies: Auf Wachstum programmiert",
-          "link": "https://www.wiwo.de/finanzen/boerse/zebra-technologies-auf-wachstum-programmiert/100251529.html",
-          "published": "2026-09-03T09:54:28+00:00",
-          "summary": "Zebra Technologies sorgt für mehr Transparenz, Qualität und schnellere Abläufe in der Datenerfassung."
-        },
-        {
-          "title": "Galaxy Entertainment: Relaxen am Cotai Strip",
-          "link": "https://www.wiwo.de/finanzen/boerse/galaxy-entertainment-relaxen-am-cotai-strip/100251520.html",
-          "published": "2026-09-03T09:53:14+00:00",
-          "summary": "Macau will auch neben seinen Casinos attraktiv für Touristen sein. Ganz vorne mit dabei ist Galaxy Entertainment."
-        },
-        {
-          "title": "Geld. Leben. Looman.: Vorsicht Lebensversicherung – wie Ihr Geld nicht beim Fiskus landet",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/geld.-leben.-looman.-vorsicht-lebensversicherung-wie-ihr-geld-nicht-beim-fiskus-landet/100251689.html",
-          "published": "2026-09-03T09:26:00+00:00",
-          "summary": "Viele Paare greifen zur Risikolebensversicherung, machen dabei aber einen folgenschweren Fehler. Worauf Sie unbedingt achten sollten, um Steuern zu sparen."
-        },
-        {
-          "title": "Konjunktur: Institute erhöhen Prognosen – „Erholung aber auf wackeligen Beinen“",
-          "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-institute-erhoehen-prognosen-erholung-aber-auf-wackeligen-beinen/100251723.html",
-          "published": "2026-09-03T08:18:46+00:00",
-          "summary": "Führende Institute heben ihre Wachstumsprognose für Deutschland deutlich an. Doch hohe Inflation und strukturelle Probleme bremsen die Erholung."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "ingenieur-de",
@@ -242,34 +180,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Ladeinfrastruktur in Deutschland: Europas größtes Schnellladenetz vor neuen Engpässen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/intercharche-berlin-d-hat-genug-ladepunkte-aber-noch-nicht-genug-leistungsfaehige-ladeinfrastruktu/",
-          "published": "2026-09-03T09:30:00+00:00",
-          "summary": "Deutschlands Ladeinfrastruktur wächst: Mehr als 200.000 Ladepunkte und Europas größtes Schnellladenetz. Doch Leistung und Netzanschlüsse bleiben Engpässe."
+          "title": "Nobelpreisträger zerlegt Idee vom Neutrino-Laser",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/nobelpreistraeger-zerlegt-idee-vom-neutrino-laser/",
+          "published": "2026-09-03T12:00:00+00:00",
+          "summary": "Ein Bose-Einstein-Kondensat sollte einen gebündelten Neutrinostrahl erzeugen. Nobelpreisträger Wolfgang Ketterle zeigt nun, warum das nicht funktionieren kann."
         },
         {
-          "title": "IT-Jobmarkt dreht sich: Diese Fachkräfte werden trotz Stellenflaute gesucht",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/it-jobmarkt-bricht-ein-diese-it-fachkraefte-werden-noch-gesucht-2/",
-          "published": "2026-09-03T08:48:26+00:00",
-          "summary": "IT-Fachkräftelücke schrumpft: Nur noch 79.000 IT-Stellen sind offen. Gefragt bleiben Administration, Softwareentwicklung und KI-Kompetenzen."
+          "title": "VW-Umbau: Vier Werke und bis zu 70.000 Jobs auf dem Prüfstand",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/update-vw-70-000-arbeitsplaetze-in-gefahr-vier-werksschliessungen-35-std-woche/",
+          "published": "2026-09-03T11:30:00+00:00",
+          "summary": "VW berät über die Zukunft von vier deutschen Werken und möglichen Stellenabbau. Parallel investiert der Konzern in Cloud- und Zukunftstechnologien."
         },
         {
-          "title": "Wo einst Kühltürme standen, entsteht jetzt ein 1,6-GWh-Stromspeicher",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wo-einst-kuehltuerme-standen-entsteht-jetzt-ein-16-gwh-stromspeicher/",
-          "published": "2026-09-03T06:46:55+00:00",
-          "summary": "Auf dem Gelände des alten Kraftwerks Boxberg entsteht ein Batteriespeicher mit 400 MW Leistung und 1,6 GWh Kapazität. Warum der Standort ideal ist."
+          "title": "Bitcoin: Wenn Wall Street liefert, fließen Billionen! Prognose: Kurs auf 840.000 $",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/bitcoin-wenn-wall-street-liefert-fliessen-billionen-prognose-kurs-auf-840-000/",
+          "published": "2026-09-03T11:00:00+00:00",
+          "summary": "Was passiert, wenn Wall Street ihre eigenen Bitcoin-Empfehlungen umsetzt? River rechnet mit Billionen-Zuflüssen und einem BTC-Kurs bis 840.000 $."
         },
         {
-          "title": "Ein Atom fällt und bleibt zugleich stehen: Physiker testen Einstein in der Quantenwelt",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/ein-atom-faellt-und-bleibt-zugleich-stehen-physiker-testen-einstein-in-der-quantenwelt/",
-          "published": "2026-09-03T06:00:00+00:00",
-          "summary": "Ein Atom fällt und bleibt zugleich stehen: Ein Quantenexperiment mit Rubidiumatomen prüft Einsteins Äquivalenzprinzip, mit überraschend klaren Ergebnissen."
+          "title": "Batteriegroßspeicher in Deutschland: Was geht und was nicht?",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/batteriegrossspeicher-im-fokus-was-geht-was-nicht/",
+          "published": "2026-09-03T10:30:00+00:00",
+          "summary": "Batteriegroßspeicher wachsen rasant: 574 GW wurden zum Netzanschluss angefragt. Was die Anlagen leisten, wo ihre Grenzen liegen und warum das Stromnetz zum Engpass wird."
         },
         {
-          "title": "41 t Marmor für ein 2300 Jahre altes Theater auf Thassos",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/41-t-marmor-fuer-ein-2300-jahre-altes-theater-auf-thassos/",
-          "published": "2026-09-02T16:06:05+00:00",
-          "summary": "41 t Marmor, gescannte Bruchkanten und ein schwieriger Baugrund: So restauriert Griechenland das rund 2300 Jahre alte Theater von Thassos."
+          "title": "Mathematik zeigt, wann GPS in Städten unzuverlässig wird",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/mathematisches-verfahren-zeigt-wann-gps-in-staedten-unzuverlaessig-wird/",
+          "published": "2026-09-03T10:00:00+00:00",
+          "summary": "Reflexionen an Gebäuden, Störungen in der Atmosphäre oder kurzzeitig verdeckte Satellitensignale können hochpräzise Satellitennavigation aus dem Tritt bringen. Ein neues mathematisches Verfahren soll …"
         }
       ],
       "error": null
