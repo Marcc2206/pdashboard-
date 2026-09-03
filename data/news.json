@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:08:25+00:00",
+  "generatedAt": "2026-09-03T22:08:37+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
-          "published": "2026-09-03T19:45:37+00:00",
-          "summary": "Einen Tag früher als geplant hat der VW-Aufsichtsrat einem Sparplan zugestimmt: 50.000 Jobs sollen wegfallen, und vier Werke stehen vor dem Aus, wenn keine alternative Verwendung für sie gefunden …"
-        },
-        {
-          "title": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
-          "link": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
-          "published": "2026-09-03T19:40:23+00:00",
-          "summary": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-80698.html",
-          "published": "2026-09-03T19:18:28+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12828.html",
+          "published": "2026-09-03T21:25:07+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12226.html",
-          "published": "2026-09-03T18:35:04+00:00",
+          "title": "Ellen Ehni, WDR, mit dem ARD-DeutschlandTrend zur Arbeit der Regierung und zum Bedrohungsgefühl durch Russland",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1642354.html",
+          "published": "2026-09-03T20:51:09+00:00",
           "summary": ""
         },
         {
-          "title": "Nach landesweiten Protesten: Spanischer Ministerpräsident Sanchez weist Kritik an Flüchtlingspolitik zurück",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1642304.html",
-          "published": "2026-09-03T18:29:53+00:00",
+          "title": "Kanzler Merz zu Besuch in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1642352.html",
+          "published": "2026-09-03T20:45:25+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Manuel Atug, Sprecher Arbeitsgruppe Kritische Infrastrukturen, zum Schutz vor Sabotageakten an Kritischer Infrastruktur",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1642350.html",
+          "published": "2026-09-03T20:37:02+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Diskussion über Schutz und Sicherheit für Kritische Infrastruktur",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1642346.html",
+          "published": "2026-09-03T20:33:32+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "KI: OpenAI bringt leistungsstärkeres KI-Modell ChatGPT-6 heraus",
-          "link": "https://www.handelsblatt.com/technik/ki/ki-openai-bringt-leistungsstaerkeres-ki-modell-chatgpt-6-heraus/100251916.html",
-          "published": "2026-09-03T19:48:13+00:00",
-          "summary": "Im Wettlauf der KI-Entwickler sieht sich OpenAI mit dem neuen ChatGPT-6 wieder vorn. Zugleich sorgen die verbesserten Fähigkeiten Künstlicher Intelligenz für warnende Worte."
+          "title": "+++ Geschäftszahlen +++: Lululemon senkt Jahresprognose – Aktie bricht ein",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-lululemon-senkt-jahresprognose-aktie-bricht-ein/24098412.html",
+          "published": "2026-09-03T21:29:00+00:00",
+          "summary": "Snowflake hebt Umsatzprognose an – Aktie springt um 22 Prozent +++ KI-Nachfrage beflügelt HPE – Aktie gibt dennoch nach +++ KI-Boom beflügelt Dell +++ Der Newsblog."
         },
         {
-          "title": "Auto: VW-Sparpaket: Vier Werke stehen auf der Kippe",
-          "link": "https://www.handelsblatt.com/politik/deutschland/auto-vw-sparpaket-vier-werke-stehen-auf-der-kippe/100251912.html",
-          "published": "2026-09-03T19:42:48+00:00",
-          "summary": ""
+          "title": "Eskalation verhindert: Das sind die wichtigsten Punkte im VW-Sparpaket",
+          "link": "https://www.handelsblatt.com/politik/deutschland/eskalation-verhindert-das-sind-die-wichtigsten-punkte-im-vw-sparpaket/100251907.html",
+          "published": "2026-09-03T21:17:48+00:00",
+          "summary": "Der Showdown bei VW wurde für Freitag erwartet. Nun hat der Aufsichtsrat überraschend eher getagt und eine Einigung erzielt. Sie bringt harte Sparmaßnahmen für die Belegschaft."
         },
         {
-          "title": "Autokonzern: VW-Aufsichtsrat zieht Sitzung überraschend vor und stimmt Sanierungsplan zu",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-aufsichtsrat-stimmt-sanierungsplan-des-vorstands-zu/100251905.html",
-          "published": "2026-09-03T19:33:11+00:00",
-          "summary": "Der Aufsichtsrat hat grünes Licht für den Sanierungsplan des Vorstands gegeben. Die Abstimmung sei einstimmig erfolgt. Zuletzt kristallisierte sich laut Insidern ein Kompromiss heraus."
+          "title": "Kongresswahlen: Trump zieht im Streit um Briefwahl erneut vor Supreme Court",
+          "link": "https://www.handelsblatt.com/politik/international/kongresswahlen-trump-zieht-im-streit-um-briefwahl-erneut-vor-supreme-court/100251928.html",
+          "published": "2026-09-03T21:07:32+00:00",
+          "summary": "Kurz vor Beginn der Briefwahl für die Kongresswahlen will Trump neue Regeln durchdrücken. Der Rechtsstreit darüber zieht sich schon länger, nun wendet sich die US-Regierung an das oberste Gericht."
         },
         {
-          "title": "Sparpaket: Einigung bei VW: Weitere rund 50.000 Jobs sollen wegfallen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sparpaket-einigung-bei-vw-weitere-rund-50000-jobs-sollen-wegfallen/100251907.html",
-          "published": "2026-09-03T19:24:05+00:00",
-          "summary": "Bei Volkswagen ist die Entscheidung über tiefgreifende Sparmaßnahmen gefallen. Das Paket sieht den Abbau Zehntausender Jobs vor. Auch vier Werke stehen auf der Kippe."
+          "title": "Nach Angriffen auf Stromnetz: Verdächtiger Gegenstand an Umspannwerk in Dormagen entdeckt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-angriffen-auf-stromnetz-verdaechtiger-gegenstand-an-umspannwerk-in-dormagen-entdeckt/100251926.html",
+          "published": "2026-09-03T21:01:29+00:00",
+          "summary": "Handelt es sich um eine Abschussvorrichtung, oder nur um einen schlechten Scherz? Die Polizei untersucht einen verdächtigen Fund an einem Umspannwerk in Dormagen."
         },
         {
-          "title": "Künstliche Intelligenz: OpenAI bringt leistungsstärkeres KI-Modell ChatGPT-6 heraus",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-bringt-leistungsstaerkeres-ki-modell-chatgpt-6-heraus/100251910.html",
-          "published": "2026-09-03T19:15:29+00:00",
-          "summary": "Im Wettlauf der KI-Entwickler sieht sich OpenAI mit dem neuen ChatGPT-6 wieder vorn. Zugleich sorgen die verbesserten Fähigkeiten Künstlicher Intelligenz für warnende Worte."
+          "title": "VW verkündet Einigung: Keine weitere Sitzung des Aufsichtsrats bei VW am Freitag",
+          "link": "https://www.handelsblatt.com/politik/deutschland/vw-verkuendet-einigung-keine-weitere-sitzung-des-aufsichtsrats-bei-vw-am-freitag/100251911.html",
+          "published": "2026-09-03T20:33:10+00:00",
+          "summary": "Während ein Showdown bei Volkswagen am Freitag erwartet wurde, verkündet der Autobauer schon am Vorabend eine Einigung. Ein weiteres Treffen des Kontrollgremiums braucht es nicht mehr."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Fed-Gouverneur beruhigt Sorgen: Hoffnungen auf Zinspause beflügeln Wall Street",
+          "link": "https://www.n-tv.de/wirtschaft/Hoffnungen-auf-Zinspause-befluegeln-Wall-Street-id31267925.html",
+          "published": "2026-09-03T20:53:56+00:00",
+          "summary": "In der Hoffnung auf eine anhaltende Zinspause der US-Notenbank Fed greifen die Anleger an der Wall Street bei Aktien kräftig zugegriffen. Software-Titel waren nach einem ermutigenden Ausblick von …"
+        },
         {
           "title": "\"Erhöhen den Mehrwert\": Netlix-Abos werden wieder teurer",
           "link": "https://www.n-tv.de/wirtschaft/Netlix-Abos-werden-wieder-teurer-id31267755.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Xiaomi-bietet-seine-E-Autos-bald-auch-in-Deutschland-an-id31265860.html",
           "published": "2026-09-03T12:26:48+00:00",
           "summary": "Xiaomi ist der drittgrößte Smartphone-Hersteller der Welt. Mittlerweile baut der chinesische Konzern aber auch Elektro-Autos. Diese will das Unternehmen jetzt auch in Deutschland und anderen …"
-        },
-        {
-          "title": "Apple vergoldet Postenwechsel: So viel kassiert Tim Cook künftig",
-          "link": "https://www.n-tv.de/wirtschaft/So-viel-kassiert-Tim-Cook-kuenftig-id31264994.html",
-          "published": "2026-09-03T11:09:43+00:00",
-          "summary": "Der Abschied von der Konzernspitze fällt für Tim Cook finanziell kaum ins Gewicht. Als neuer Chef des Verwaltungsrats von Apple streicht er ein stattliches Vergütungspaket ein und bleibt mit seinem …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "VW-Aktie zieht kräftig an: Aufsichtsrat winkt Zukunftsplan durch - Weitere rund 50.000 Jobs sollen wegfallen",
-          "link": "https://www.finanzen.net/nachricht/aktien/transformation-vw-aktie-zieht-kraeftig-an-aufsichtsrat-winkt-zukunftsplan-durch-weitere-rund-50-000-jobs-sollen-wegfallen-15917528",
-          "published": "2026-09-03T20:01:43+00:00",
-          "summary": "Überraschende Einigung in Wolfsburg: Der Aufsichtsrat von Volkswagen hat dem Sparpaket des Konzernvorstands einstimmig zugestimmt. Dabei will der Autobauer in den kommenden Jahren unter anderem …"
+          "title": "Zurich Insurance baut US-Depot um: Mehr AMD und Eli Lilly, weniger Microsoft",
+          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-zurich-insurance-baut-us-depot-um-mehr-amd-und-eli-lilly-weniger-microsoft-15911472",
+          "published": "2026-09-03T21:32:00+00:00",
+          "summary": "Die Zurich Insurance Group hat ihre US-Aktienbeteiligungen für das zweite Quartal 2026 offengelegt. Aus dem aktuellen 13F-Filing zum 30. Juni 2026 geht hervor, dass der Schweizer Versicherungskonzern …"
         },
         {
-          "title": "AKTIEN IM FOKUS: VW und Porsche SE steigen nachbörslich - Sparpaket kommt gut an",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-im-fokus-vw-und-porsche-se-steigen-nachboerslich-sparpaket-kommt-gut-an-15917612",
-          "published": "2026-09-03T19:54:38+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Aktien von VW und Porsche SE steigen - Sparpaket kommt gut an Die Anleger von Volkswagen haben am Donnerstag im nachbörslichen Handel positiv ..."
+          "title": "Trump zieht im Streit um Briefwahl erneut vor Supreme Court",
+          "link": "https://www.finanzen.net/nachricht/aktien/trump-zieht-im-streit-um-briefwahl-erneut-vor-supreme-court-15917662",
+          "published": "2026-09-03T21:13:38+00:00",
+          "summary": "WASHINGTON (dpa-AFX) - Im Rechtsstreit um verschärften Regeln bei der Briefwahl hat die Regierung von Präsident Donald Trump erneut den Obersten Gerichtshof eingeschaltet. Sie forderte das Gericht …"
         },
         {
-          "title": "WDH/VW-Sparpaket: Vier Werke stehen auf der Kippe",
-          "link": "https://www.finanzen.net/nachricht/aktien/wdh-vw-sparpaket-vier-werke-stehen-auf-der-kippe-15917611",
-          "published": "2026-09-03T19:53:39+00:00",
-          "summary": "(überflüssiges Wort im 2. Satz entfernt: kann)WOLFSBURG (dpa-AFX) - Im Volkswagen ( Volkswagen (VW) vz )-Konzern stehen vier Werke auf der Kippe. Für die Standorte Emden, Zwickau, Hannover und …"
-        },
-        {
-          "title": "Entwarnung am BER - Terminal 1 wieder freigegeben",
-          "link": "https://www.finanzen.net/nachricht/aktien/entwarnung-am-ber-terminal-1-wieder-freigegeben-15917610",
-          "published": "2026-09-03T19:53:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Nach einer Räumung des Terminals 1 am Hauptstadtflughafen BER wegen eines möglichen Gefahrenguts hat die Flughafengesellschaft Entwarnung gegeben. \"Die polizeiliche Maßnahme ist …"
+          "title": "Portfolio-Update: GFT - Prognoseanhebung liegt in der Luft",
+          "link": "https://www.finanzen.net/nachricht/aktien/value-stars-kolumne-portfolio-update-gft-prognoseanhebung-liegt-in-der-luft-15916456",
+          "published": "2026-09-03T21:07:00+00:00",
+          "summary": "Eine Kolumne von Holger Steffen, Anlage­experte und Berater für den Value-Stars-Deutschland-Index . Vor knapp zwei Monaten ..."
         },
         {
           "title": "Aktie im Fokus: Turing peilt US-Expansion und Milliardenbewertung bei möglichem Börsengang an",
           "link": "https://www.finanzen.net/nachricht/aktien/boersenplaene-aktie-im-fokus-turing-peilt-us-expansion-und-milliardenbewertung-bei-moeglichem-boersengang-an-00-15911621",
-          "published": "2026-09-03T19:47:00+00:00",
+          "published": "2026-09-03T21:07:00+00:00",
           "summary": "Turing will innerhalb eines Jahres einen Standort in den USA eröffnen • Ein Börsengang in den USA oder Japan wird für 2030 oder 2031 erwartet • CEO Issei Yamamoto hält dabei eine Bewertung von rund …"
+        },
+        {
+          "title": "Volkswagen ernennt Erika Rasch zur Personalvorständin",
+          "link": "https://www.finanzen.net/nachricht/aktien/volkswagen-ernennt-erika-rasch-zur-personalvorstaendin-15917656",
+          "published": "2026-09-03T20:59:44+00:00",
+          "summary": "DOW JONES--Volkswagen hat das Personalressort im Vorstand wieder besetzt. Wie der Konzern mitteilte, wurde die Bosch-Managerin Erika Rasch zum 1. Oktober 2026 in den Konzernvorstand berufen, wo sie …"
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Volkswagen: Die Einigung auf den VW-Rettungsplan ist Oliver Blumes Meisterstück",
+          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-die-einigung-auf-den-vw-rettungsplan-ist-oliver-blumes-meisterstueck/100251923.html",
+          "published": "2026-09-03T22:00:22+00:00",
+          "summary": "Der VW-Aufsichtsrat hat sich auf das Sanierungspaket des Vorstands verständigt – ein mutiger Schritt. Für Konzernchef Blume ist es der vielleicht größte Erfolg seiner Karriere. Ein Kommentar."
+        },
+        {
+          "title": "Das VW-Dossier: Jetzt beginnt die Revolution in Wolfsburg",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-aufsichtsrat-stimmt-zu-das-ist-volkswagens-geheimer-rettungsplan/100251603.html",
+          "published": "2026-09-03T20:55:00+00:00",
+          "summary": "Deutschlands größter Autobauer steckt tief in der Krise. Jetzt darf der VW-Vorstand umbauen – radikaler als erwartet. Ein vertrauliches Dossier enthüllt das Ausmaß der Pläne."
+        },
+        {
           "title": "Volkswagen: VW-Aufsichtsrat stimmt Sanierungsplan zu",
           "link": "https://www.wiwo.de/unternehmen/auto/vw-aufsichtsrat-stimmt-sanierungsplan-zu-50.000-jobs-weg/100251906.html",
           "published": "2026-09-03T19:24:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/politik/europa/europaeische-zentralbank-ezb-direktorin-schnabel-steht-vor-wechsel-zum-iwf/100251888.html",
           "published": "2026-09-03T17:23:33+00:00",
           "summary": "Isabel Schnabel könnte die Europäische Zentralbank laut einem Handelsblatt-Bericht vorzeitig Richtung Washington verlassen."
-        },
-        {
-          "title": "Kriminalität: Brandanschläge auf Münchner Rüstungsunternehmen",
-          "link": "https://www.wiwo.de/politik/deutschland/kriminalitaet-lka-bayern-vermutet-anschlagversuch-auf-ruestungsunternehmen/100251712.html",
-          "published": "2026-09-03T17:00:00+00:00",
-          "summary": "Nach einer Brandattacke auf eine Münchner Baustelle geht Bayerns Innenminister Herrmann von einem Anschlag mit politischem Hintergrund aus."
-        },
-        {
-          "title": "Parteispenden: Diese Partei wächst stärker als die AfD",
-          "link": "https://www.wiwo.de/politik/parteispenden-diese-partei-waechst-staerker-als-die-afd/100250781.html",
-          "published": "2026-09-03T15:45:07+00:00",
-          "summary": "Wie viele Millionen besitzen die Bundestagsparteien? Eine Analyse der Finanzberichte der letzten Dekade offenbart fünf Trends."
         }
       ],
       "error": null
