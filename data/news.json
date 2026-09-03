@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:09:09+00:00",
+  "generatedAt": "2026-09-03T00:14:50+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,9 +8,21 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1641814.html",
+          "published": "2026-09-02T23:56:33+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
+          "link": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
+          "published": "2026-09-02T22:56:35+00:00",
+          "summary": "Wer ließ die maltesische Journalistin Daphne Caruana Galizia ermorden? Diese Frage bleibt auch nach fast neun Jahren unbeantwortet. Geschworene sprachen einen Unternehmer vom Vorwurf frei …"
+        },
+        {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-80770.html",
-          "published": "2026-09-02T22:02:20+00:00",
+          "published": "2026-09-02T22:20:13+00:00",
           "summary": ""
         },
         {
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/inland/regional/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
           "published": "2026-09-02T21:43:54+00:00",
           "summary": "Die Gewerkschaft ver.di hat zu einem neuen Warnstreik aufgerufen. Mit Beginn der Nachtschicht sollen die Beschäftigten unter anderem in Hamburg, Bremerhaven und Wilhelmshaven ihre Arbeit für 48 …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1641796.html",
-          "published": "2026-09-02T21:39:01+00:00",
-          "summary": ""
-        },
-        {
-          "title": "VfL Wolfsburg verpasst dramatisch Champions League",
-          "link": "https://www.ndr.de/sport/fussball/VfL-Wolfsburg-Frauen,vfl-wolfsburg-frauen-206.html",
-          "published": "2026-09-02T20:29:13+00:00",
-          "summary": "Die VfL-Frauen verspielten gegen Inter Mailand die 2:0-Führung aus dem Hinspiel und in der Verlängerung das schon sicher geglaubte Weiterkommen."
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Tech-Konzern: Google entgeht Zerschlagung – muss Anzeigenbörse nicht verkaufen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/tech-konzern-google-entgeht-zerschlagung-muss-anzeigenboerse-nicht-verkaufen/100251637.html",
+          "published": "2026-09-02T22:53:21+00:00",
+          "summary": "Google hat im US-Kartellverfahren um Online-Werbung einen weiteren Erfolg erzielt: Eine Richterin lehnte den geforderten Zwangsverkauf der Anzeigenbörse AdX ab."
+        },
+        {
+          "title": "Helfer unter Druck: Demos in Spanien für Ceuta und gegen Sánchez",
+          "link": "https://www.handelsblatt.com/politik/international/helfer-unter-druck-demos-in-spanien-fuer-ceuta-und-gegen-sanchez/100251627.html",
+          "published": "2026-09-02T22:19:26+00:00",
+          "summary": "„Ceuta verkauft sich nicht, Ceuta ergibt sich nicht“. Mit solchen Parolen gehen Demonstranten in Spanien auf die Straße. Am späten Abend wird es unruhig."
+        },
         {
           "title": "Ukraine-Krieg: Nachrichtendienst: Russland plant Sabotage in Dänemark",
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-plant-offenbar-sabotage-in-daenemark/27982126.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-snowflake-hebt-umsatzprognose-an-aktie-springt-um-22-prozent/24098412.html",
           "published": "2026-09-02T20:32:00+00:00",
           "summary": "KI-Nachfrage beflügelt HPE – Aktie gibt dennoch nach +++ KI-Boom beflügelt Dell – Umsatz- und Gewinnprognose angehoben +++ Swiss Life streicht 600 Stellen trotz Gewinnplus +++ Der Newsblog."
-        },
-        {
-          "title": "Helfer unter Druck: Demos in Spanien für Ceuta und gegen Sánchez",
-          "link": "https://www.handelsblatt.com/politik/international/helfer-unter-druck-demos-in-spanien-fuer-ceuta-und-gegen-sanchez/100251627.html",
-          "published": "2026-09-02T19:35:27+00:00",
-          "summary": "„Ceuta verkauft sich nicht, Ceuta ergibt sich nicht“: Mit welchen Parolen und Forderungen gehen Demonstranten in Spanien auf die Straße?"
-        },
-        {
-          "title": "Konjunktur: US-Wirtschaft wächst trotz größerer Unsicherheit",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/konjunktur-us-wirtschaft-waechst-trotz-groesserer-unsicherheit/100251624.html",
-          "published": "2026-09-02T19:25:11+00:00",
-          "summary": "Die Fed sieht eine leicht anziehende Wirtschaft und steigende Preise. Zugleich erschweren Energiepreise und Konflikte den Ausblick für Unternehmen."
         }
       ],
       "error": null

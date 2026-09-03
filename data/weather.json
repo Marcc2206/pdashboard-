@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:08:55+00:00",
+  "generatedAt": "2026-09-03T00:14:55+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-02T22:00",
-    "temperatur": 16.8,
-    "gefuehlt": 16.6,
-    "luftfeuchte": 77,
+    "zeit": "2026-09-03T02:00",
+    "temperatur": 16.1,
+    "gefuehlt": 15.8,
+    "luftfeuchte": 84,
     "niederschlag": 0.0,
-    "wind": 7.8,
+    "wind": 9.4,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -23,23 +23,10 @@
   },
   "tage": [
     {
-      "datum": "2026-09-02",
-      "max": 21.4,
-      "min": 9.7,
-      "regenwahrscheinlichkeit": 8,
-      "sonnenaufgang": "2026-09-02T06:39",
-      "sonnenuntergang": "2026-09-02T20:11",
-      "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
-      }
-    },
-    {
       "datum": "2026-09-03",
-      "max": 22.4,
-      "min": 15.8,
-      "regenwahrscheinlichkeit": 38,
+      "max": 22.9,
+      "min": 15.9,
+      "regenwahrscheinlichkeit": 50,
       "sonnenaufgang": "2026-09-03T06:40",
       "sonnenuntergang": "2026-09-03T20:09",
       "wetter": {
@@ -50,9 +37,9 @@
     },
     {
       "datum": "2026-09-04",
-      "max": 23.6,
-      "min": 16.7,
-      "regenwahrscheinlichkeit": 94,
+      "max": 22.2,
+      "min": 16.5,
+      "regenwahrscheinlichkeit": 93,
       "sonnenaufgang": "2026-09-04T06:42",
       "sonnenuntergang": "2026-09-04T20:07",
       "wetter": {
@@ -63,15 +50,28 @@
     },
     {
       "datum": "2026-09-05",
-      "max": 20.2,
-      "min": 13.0,
-      "regenwahrscheinlichkeit": 65,
+      "max": 20.4,
+      "min": 13.2,
+      "regenwahrscheinlichkeit": 52,
       "sonnenaufgang": "2026-09-05T06:44",
       "sonnenuntergang": "2026-09-05T20:04",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
         "icon": "☁️"
+      }
+    },
+    {
+      "datum": "2026-09-06",
+      "max": 22.5,
+      "min": 9.1,
+      "regenwahrscheinlichkeit": 4,
+      "sonnenaufgang": "2026-09-06T06:45",
+      "sonnenuntergang": "2026-09-06T20:02",
+      "wetter": {
+        "code": 45,
+        "text": "Nebel",
+        "icon": "🌫️"
       }
     }
   ]
