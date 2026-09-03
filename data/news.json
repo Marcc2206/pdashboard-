@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:10:34+00:00",
+  "generatedAt": "2026-09-03T20:08:25+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Warum in der Wahl auch ein Risiko für die AfD steckt",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
-          "published": "2026-09-03T18:00:34+00:00",
-          "summary": "Die AfD liegt vor der Landtagswahl in Sachsen-Anhalt in Umfragen vorn und hofft auf ein bundesweites Signal. Doch es gibt auch Risiken - und Zweifel an der Regierungsfähigkeit der Partei. Von …"
-        },
-        {
-          "title": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
-          "published": "2026-09-03T17:46:02+00:00",
-          "summary": "Nach Informationen des ARD-Hauptstadtstudios gibt es starke Hinweise darauf, dass auch der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt …"
-        },
-        {
-          "title": "Alphaville kritisiert Ausladung - darf doch auftreten, tut es aber nicht",
-          "link": "https://www.tagesschau.de/kultur/kritik-alphaville-ausladung-100.html",
-          "published": "2026-09-03T17:40:41+00:00",
-          "summary": "Zuerst wurde Alphaville von einem Festival ausgeladen, jetzt darf die Band doch auftreten - will aber nicht. Politische Botschaften auf der Bühne wollte sie sich nicht verbieten lassen. Sänger Marian …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80700.html",
-          "published": "2026-09-03T17:35:21+00:00",
-          "summary": ""
+          "title": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
+          "published": "2026-09-03T19:45:37+00:00",
+          "summary": "Einen Tag früher als geplant hat der VW-Aufsichtsrat einem Sparplan zugestimmt: 50.000 Jobs sollen wegfallen, und vier Werke stehen vor dem Aus, wenn keine alternative Verwendung für sie gefunden …"
         },
         {
           "title": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
           "link": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
-          "published": "2026-09-03T17:19:26+00:00",
+          "published": "2026-09-03T19:40:23+00:00",
           "summary": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-80698.html",
+          "published": "2026-09-03T19:18:28+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12226.html",
+          "published": "2026-09-03T18:35:04+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Nach landesweiten Protesten: Spanischer Ministerpräsident Sanchez weist Kritik an Flüchtlingspolitik zurück",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1642304.html",
+          "published": "2026-09-03T18:29:53+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Landtagswahl: Merz bleibt im Wahlkampf in Sachsen-Anhalt abgeschottet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-merz-bleibt-im-wahlkampf-in-sachsen-anhalt-abgeschottet/100251897.html",
-          "published": "2026-09-03T17:54:55+00:00",
-          "summary": "Zum zweiten Mal zeigt sich der Kanzler im Wahlkampf in Sachsen-Anhalt. Direkten Wählerkontakt gibt es wieder nicht. Und Fragen von Journalisten sind auch nicht zugelassen."
+          "title": "KI: OpenAI bringt leistungsstärkeres KI-Modell ChatGPT-6 heraus",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-openai-bringt-leistungsstaerkeres-ki-modell-chatgpt-6-heraus/100251916.html",
+          "published": "2026-09-03T19:48:13+00:00",
+          "summary": "Im Wettlauf der KI-Entwickler sieht sich OpenAI mit dem neuen ChatGPT-6 wieder vorn. Zugleich sorgen die verbesserten Fähigkeiten Künstlicher Intelligenz für warnende Worte."
         },
         {
-          "title": "Vor der Landtagswahl: Merz bleibt im Wahlkampf in Sachsen-Anhalt abgeschottet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/vor-der-landtagswahl-merz-bleibt-im-wahlkampf-in-sachsen-anhalt-abgeschottet/100251898.html",
-          "published": "2026-09-03T17:42:12+00:00",
-          "summary": "Zum zweiten Mal zeigt sich der Kanzler im Wahlkampf in Sachsen-Anhalt. Direkten Wählerkontakt gibt es wieder nicht. Und Fragen von Journalisten sind auch nicht zugelassen."
+          "title": "Auto: VW-Sparpaket: Vier Werke stehen auf der Kippe",
+          "link": "https://www.handelsblatt.com/politik/deutschland/auto-vw-sparpaket-vier-werke-stehen-auf-der-kippe/100251912.html",
+          "published": "2026-09-03T19:42:48+00:00",
+          "summary": ""
         },
         {
-          "title": "Verteidigung: Pistorius trifft Hegseth in Washington – Auftakt für neue Milliardendeals?",
-          "link": "https://www.handelsblatt.com/politik/international/verteidigung-pistorius-trifft-hegseth-auftakt-fuer-neue-milliardendeals/100251877.html",
-          "published": "2026-09-03T17:34:50+00:00",
-          "summary": "Im September soll ein Treffen nachgeholt werden, das im Mai noch gescheitert war. Spannungsfrei wird es wahrscheinlich nicht verlaufen, aber es könnte auch um neue Aufträge gehen."
+          "title": "Autokonzern: VW-Aufsichtsrat zieht Sitzung überraschend vor und stimmt Sanierungsplan zu",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-aufsichtsrat-stimmt-sanierungsplan-des-vorstands-zu/100251905.html",
+          "published": "2026-09-03T19:33:11+00:00",
+          "summary": "Der Aufsichtsrat hat grünes Licht für den Sanierungsplan des Vorstands gegeben. Die Abstimmung sei einstimmig erfolgt. Zuletzt kristallisierte sich laut Insidern ein Kompromiss heraus."
         },
         {
-          "title": "Sachsen-Anhalt: „Wahlkampf ohne Wähler“: Merz besucht Chemiepark in Leuna",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-wahlkampf-ohne-waehler-merz-besucht-chemiepark-in-leuna/100251137.html",
-          "published": "2026-09-03T17:31:38+00:00",
-          "summary": "Kurz vor der Wahl in Sachsen-Anhalt besucht der Kanzler den Chemiepark in Leuna. Der steht für die Probleme des Industriestandorts. Vom Wähler wird Merz abgeschirmt."
+          "title": "Sparpaket: Einigung bei VW: Weitere rund 50.000 Jobs sollen wegfallen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sparpaket-einigung-bei-vw-weitere-rund-50000-jobs-sollen-wegfallen/100251907.html",
+          "published": "2026-09-03T19:24:05+00:00",
+          "summary": "Bei Volkswagen ist die Entscheidung über tiefgreifende Sparmaßnahmen gefallen. Das Paket sieht den Abbau Zehntausender Jobs vor. Auch vier Werke stehen auf der Kippe."
         },
         {
-          "title": "Video-Streaming: Netflix erhöht Preise in Deutschland",
-          "link": "https://www.handelsblatt.com/unternehmen/it-medien/video-streaming-netflix-erhoeht-preise-in-deutschland/100251893.html",
-          "published": "2026-09-03T17:25:37+00:00",
-          "summary": "Es ist wieder so weit: Netflix wird auch in Deutschland teurer. Der Videostreaming-Marktführer verweist zur Begründung wie gewohnt auf das größere Angebot."
+          "title": "Künstliche Intelligenz: OpenAI bringt leistungsstärkeres KI-Modell ChatGPT-6 heraus",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-bringt-leistungsstaerkeres-ki-modell-chatgpt-6-heraus/100251910.html",
+          "published": "2026-09-03T19:15:29+00:00",
+          "summary": "Im Wettlauf der KI-Entwickler sieht sich OpenAI mit dem neuen ChatGPT-6 wieder vorn. Zugleich sorgen die verbesserten Fähigkeiten Künstlicher Intelligenz für warnende Worte."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Erhöhen den Mehrwert\": Netlix-Abos werden wieder teurer",
+          "link": "https://www.n-tv.de/wirtschaft/Netlix-Abos-werden-wieder-teurer-id31267755.html",
+          "published": "2026-09-03T20:02:05+00:00",
+          "summary": "Etwas mehr als zwei Jahre nach der letzten Preiserhöhung wird der beliebteste Streamingdienst in Deutschland wieder teurer. Die Begründung bleibt die alte. Das Basis-Abo bietet Netflix zudem künftig …"
+        },
+        {
+          "title": "Aufsichtsrat stimmt Sparpaket zu: Weitere rund 50.000 Jobs sollen bei VW wegfallen",
+          "link": "https://www.n-tv.de/wirtschaft/Weitere-rund-50-000-Jobs-sollen-bei-VW-wegfallen-id31267751.html",
+          "published": "2026-09-03T18:40:11+00:00",
+          "summary": "Vor zwei Monaten scheitern die Sparpläne des VW-Vorstands im Aufsichtsrat. Nun gibt es doch grünes Licht für den Abbau von Zehntausenden Arbeitsplätzen. Vier VW-Werke in Deutschland stehen auf der …"
+        },
         {
           "title": "Showdown in Wolfsburg: Wer kann VW-Chef Oliver Blume jetzt noch stoppen?",
           "link": "https://www.n-tv.de/wirtschaft/Wer-kann-VW-Chef-Oliver-Blume-jetzt-noch-stoppen-id31266910.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/So-viel-kassiert-Tim-Cook-kuenftig-id31264994.html",
           "published": "2026-09-03T11:09:43+00:00",
           "summary": "Der Abschied von der Konzernspitze fällt für Tim Cook finanziell kaum ins Gewicht. Als neuer Chef des Verwaltungsrats von Apple streicht er ein stattliches Vergütungspaket ein und bleibt mit seinem …"
-        },
-        {
-          "title": "\"Erholung bleibt fragil\": Wirtschaftsinstitute schrauben Wachstums-Prognosen deutlich hoch",
-          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsinstitute-schrauben-Wachstums-Prognosen-deutlich-hoch-id31264874.html",
-          "published": "2026-09-03T09:07:41+00:00",
-          "summary": "Nachdem das DIW am Vortag seine Wachstumsprognose für dieses Jahr auf 1,2 Prozent angehoben hat, ziehen nun weitere Institute nach. Sie sehen sogar einen noch etwas größeren Aufschwung. Grund zur …"
-        },
-        {
-          "title": "Spätestens Ende 2029: Bericht: VW will bei Seat die Produktion einstellen",
-          "link": "https://www.n-tv.de/wirtschaft/Bericht-VW-will-bei-Seat-die-Produktion-einstellen-id31264664.html",
-          "published": "2026-09-03T08:48:12+00:00",
-          "summary": "Bei Volkswagen sind offenbar nicht nur Werke in Deutschland vom Sparprogramm bedroht. Der Vorstand will einem Bericht zufolge auch die spanische Marke Seat komplett einstellen. Ein entsprechender …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Aktien New York: Zinshoffnungen schieben die US-Börsen spürbar an",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-new-york-zinshoffnungen-schieben-die-us-boersen-spuerbar-an-15917496",
-          "published": "2026-09-03T18:05:39+00:00",
-          "summary": "NEW YORK (dpa-AFX) - Die Hoffnung auf eine ausbleibende Leitzinserhöhung in diesem Monat hat die US-Börsen am Donnerstag angetrieben. Die wichtigsten Aktienindizes stiegen um jeweils mehr als ein …"
+          "title": "VW-Aktie zieht kräftig an: Aufsichtsrat winkt Zukunftsplan durch - Weitere rund 50.000 Jobs sollen wegfallen",
+          "link": "https://www.finanzen.net/nachricht/aktien/transformation-vw-aktie-zieht-kraeftig-an-aufsichtsrat-winkt-zukunftsplan-durch-weitere-rund-50-000-jobs-sollen-wegfallen-15917528",
+          "published": "2026-09-03T20:01:43+00:00",
+          "summary": "Überraschende Einigung in Wolfsburg: Der Aufsichtsrat von Volkswagen hat dem Sparpaket des Konzernvorstands einstimmig zugestimmt. Dabei will der Autobauer in den kommenden Jahren unter anderem …"
         },
         {
-          "title": "Bitcoin und ARKK feiern wie 2021: Was der starke August für Anleger bedeutet",
-          "link": "https://www.finanzen.net/nachricht/devisen/bitcoin-arkk-bitcoin-und-arkk-feiern-wie-2021-was-der-starke-august-fuer-anleger-bedeutet-00-15916202",
-          "published": "2026-09-03T18:04:40+00:00",
-          "summary": "Bitcoin gewann im August 2026 gut 25 Prozent, ARKK legte rund 19 Prozent zu Im Jahr 2026 liegt ARKK im Plus, Bitcoin steht trotz der Rally noch im Minus Der Gleichlauf erinnert an das Jahr 2021, doch …"
+          "title": "AKTIEN IM FOKUS: VW und Porsche SE steigen nachbörslich - Sparpaket kommt gut an",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-im-fokus-vw-und-porsche-se-steigen-nachboerslich-sparpaket-kommt-gut-an-15917612",
+          "published": "2026-09-03T19:54:38+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Aktien von VW und Porsche SE steigen - Sparpaket kommt gut an Die Anleger von Volkswagen haben am Donnerstag im nachbörslichen Handel positiv ..."
         },
         {
-          "title": "Starker Wochentag in New York: NASDAQ 100 am Donnerstagnachmittag auf grünem Terrain",
-          "link": "https://www.finanzen.net/nachricht/aktien/starker-wochentag-in-new-york-nasdaq-100-am-donnerstagnachmittag-auf-gruenem-terrain-15917494",
-          "published": "2026-09-03T18:02:36+00:00",
-          "summary": "Am Donnerstag geht es im NASDAQ 100 um 20:00 Uhr via NASDAQ um 1,26 Prozent auf 29.511,35 Punkte aufwärts. Zum Handelsstart stand ein Zuschlag von 0,313 Prozent auf 29.234,42 Punkte an der ..."
+          "title": "WDH/VW-Sparpaket: Vier Werke stehen auf der Kippe",
+          "link": "https://www.finanzen.net/nachricht/aktien/wdh-vw-sparpaket-vier-werke-stehen-auf-der-kippe-15917611",
+          "published": "2026-09-03T19:53:39+00:00",
+          "summary": "(überflüssiges Wort im 2. Satz entfernt: kann)WOLFSBURG (dpa-AFX) - Im Volkswagen ( Volkswagen (VW) vz )-Konzern stehen vier Werke auf der Kippe. Für die Standorte Emden, Zwickau, Hannover und …"
         },
         {
-          "title": "Börse New York: So entwickelt sich der S&P 500 am Nachmittag",
-          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-so-entwickelt-sich-der-s-p-500-am-nachmittag-15917493",
-          "published": "2026-09-03T18:02:36+00:00",
-          "summary": "Am Donnerstag notiert der S&P 500 um 20:00 Uhr via NYSE 1,10 Prozent stärker bei 7.751,17 Punkten. Damit sind die im Index enthaltenen Werte 61,304 Bio. Euro wert. Zuvor ging der S&P 500 0,390 ..."
+          "title": "Entwarnung am BER - Terminal 1 wieder freigegeben",
+          "link": "https://www.finanzen.net/nachricht/aktien/entwarnung-am-ber-terminal-1-wieder-freigegeben-15917610",
+          "published": "2026-09-03T19:53:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Nach einer Räumung des Terminals 1 am Hauptstadtflughafen BER wegen eines möglichen Gefahrenguts hat die Flughafengesellschaft Entwarnung gegeben. \"Die polizeiliche Maßnahme ist …"
         },
         {
-          "title": "Freundlicher Handel: NASDAQ Composite am Donnerstagnachmittag mit Zuschlägen",
-          "link": "https://www.finanzen.net/nachricht/aktien/freundlicher-handel-nasdaq-composite-am-donnerstagnachmittag-mit-zuschlaegen-15917492",
-          "published": "2026-09-03T18:02:36+00:00",
-          "summary": "Der NASDAQ Composite tendiert im NASDAQ-Handel um 20:00 Uhr um 1,51 Prozent stärker bei 26.615,02 Punkten. In den Handel ging der NASDAQ Composite 0,452 Prozent fester bei 26.336,32 ..."
+          "title": "Aktie im Fokus: Turing peilt US-Expansion und Milliardenbewertung bei möglichem Börsengang an",
+          "link": "https://www.finanzen.net/nachricht/aktien/boersenplaene-aktie-im-fokus-turing-peilt-us-expansion-und-milliardenbewertung-bei-moeglichem-boersengang-an-00-15911621",
+          "published": "2026-09-03T19:47:00+00:00",
+          "summary": "Turing will innerhalb eines Jahres einen Standort in den USA eröffnen • Ein Börsengang in den USA oder Japan wird für 2030 oder 2031 erwartet • CEO Issei Yamamoto hält dabei eine Bewertung von rund …"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Volkswagen: VW-Aufsichtsrat stimmt Sanierungsplan zu",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-aufsichtsrat-stimmt-sanierungsplan-zu-50.000-jobs-weg/100251906.html",
+          "published": "2026-09-03T19:24:00+00:00",
+          "summary": "Bei Volkswagen ist die Entscheidung über tiefgreifende Sparmaßnahmen gefallen. Das Paket sieht radikale Umbrüche vor. Es geht um die Schließung deutscher Werke und den Abbau zehntausender Jobs."
+        },
+        {
           "title": "Wirtschaftspolitik: Der Großen Koalition bietet sich jetzt eine riesige Chance",
           "link": "https://www.wiwo.de/politik/deutschland/wirtschaftspolitik-der-grossen-koalition-bietet-sich-jetzt-eine-riesige-chance/100250076.html",
           "published": "2026-09-03T17:27:51+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/politik/parteispenden-diese-partei-waechst-staerker-als-die-afd/100250781.html",
           "published": "2026-09-03T15:45:07+00:00",
           "summary": "Wie viele Millionen besitzen die Bundestagsparteien? Eine Analyse der Finanzberichte der letzten Dekade offenbart fünf Trends."
-        },
-        {
-          "title": "Spritpreise: Warum trotz Rekordpreisen an der Zapfsäule mehr Autos zugelassen werden",
-          "link": "https://www.wiwo.de/unternehmen/energie/spritpreise-warum-trotz-rekordpreisen-an-der-zapfsaeule-mehr-autos-zugelassen-werden/100251803.html",
-          "published": "2026-09-03T15:26:02+00:00",
-          "summary": "Der Iran-Krieg ist neu entfacht, die Spritpreise steigen. Trotzdem kommen in Deutschland mehr Autos auf die Straße – vor allem dank bestimmter Antriebsarten."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Eine Million Atome sollten Neutrinos bündeln, dann rechnete ein Nobelpreisträger nach",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/eine-million-atome-sollten-neutrinos-buendeln-dann-rechnete-ein-nobelpreistraeger-nach/",
+          "published": "2026-09-03T18:23:33+00:00",
+          "summary": "Ein Bose-Einstein-Kondensat sollte einen Neutrino-Laser ermöglichen. Wolfgang Ketterle zeigt, warum Quantenphysik den Strahl verhindert."
+        },
         {
           "title": "Wasserstoffmotor soll Funkmasten bei Blackouts tagelang mit Strom versorgen",
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoffmotor-soll-funkmasten-bei-blackouts-tagelang-mit-strom-versorgen/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/karriere/arbeitsleben/fuehrung/autoindustrie-in-der-krise-74-sehen-probleme-in-den-fuhrungsetagen/",
           "published": "2026-09-03T13:00:00+00:00",
           "summary": "Schwäche im Topmanagement: 74 % der Interim Manager kritisieren deutsche Autobauer. Auch Software, Kosten und Kundenfokus gelten als Probleme."
-        },
-        {
-          "title": "Nobelpreisträger zerlegt Idee vom Neutrino-Laser",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/nobelpreistraeger-zerlegt-idee-vom-neutrino-laser/",
-          "published": "2026-09-03T12:00:00+00:00",
-          "summary": "Ein Bose-Einstein-Kondensat sollte einen gebündelten Neutrinostrahl erzeugen. Nobelpreisträger Wolfgang Ketterle zeigt nun, warum das nicht funktionieren kann."
         }
       ],
       "error": null
