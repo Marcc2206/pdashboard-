@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:14:50+00:00",
+  "generatedAt": "2026-09-03T02:12:46+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
+          "link": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
+          "published": "2026-09-03T01:34:38+00:00",
+          "summary": "Mehr als einen Monat nach dem Ansturm auf Ceuta sind Zehntausende Menschen in ganz Spanien auf die Straße gegangen. Ihr Protest richtete sich gegen die Migrationspolitik der Zentralregierung. In …"
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1641814.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/sport/bayern-arbeitet-sich-in-runde-zwei,spielbericht-dfb-pokal-osnabrueck-bayern-100.html",
           "published": "2026-09-02T21:45:48+00:00",
           "summary": "Der FC Bayern München hat in der ersten Runde des DFB-Pokals gegen den tapferen Zweitligisten VfL Osnabrück mehr Mühe gehabt als gedacht. Schuld daran war auch ein frühes Traumtor der Gastgeber."
-        },
-        {
-          "title": "Warnstreik in mehreren Nordseehäfen angekündigt",
-          "link": "https://www.tagesschau.de/inland/regional/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
-          "published": "2026-09-02T21:43:54+00:00",
-          "summary": "Die Gewerkschaft ver.di hat zu einem neuen Warnstreik aufgerufen. Mit Beginn der Nachtschicht sollen die Beschäftigten unter anderem in Hamburg, Bremerhaven und Wilhelmshaven ihre Arbeit für 48 …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Tech-Konzern: Google entgeht Zerschlagung – muss Anzeigenbörse nicht verkaufen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/tech-konzern-google-entgeht-zerschlagung-muss-anzeigenboerse-nicht-verkaufen/100251637.html",
-          "published": "2026-09-02T22:53:21+00:00",
-          "summary": "Google hat im US-Kartellverfahren um Online-Werbung einen weiteren Erfolg erzielt: Eine Richterin lehnte den geforderten Zwangsverkauf der Anzeigenbörse AdX ab."
+          "title": "Landtagswahl: Rechte Streamer und Millionenbudgets: Ein Blick hinter die Kulissen der AfD-Kampagne in Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-ein-blick-hinter-die-kulissen-der-afd-kampagne-in-sachsen-anhalt/100250392.html",
+          "published": "2026-09-03T02:05:02+00:00",
+          "summary": "Wenige Tage vor der Landtagswahl hat die AfD in Sachsen-Anhalt Umfragewerte von mehr als 40 Prozent. Wie hat sie diesen Vorsprung geschafft und wer hilft ihr strategisch dabei?"
         },
         {
-          "title": "Helfer unter Druck: Demos in Spanien für Ceuta und gegen Sánchez",
-          "link": "https://www.handelsblatt.com/politik/international/helfer-unter-druck-demos-in-spanien-fuer-ceuta-und-gegen-sanchez/100251627.html",
-          "published": "2026-09-02T22:19:26+00:00",
-          "summary": "„Ceuta verkauft sich nicht, Ceuta ergibt sich nicht“. Mit solchen Parolen gehen Demonstranten in Spanien auf die Straße. Am späten Abend wird es unruhig."
+          "title": "Start-up: Der Hidden Champion der Start-up-Welt aus Hamburg",
+          "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-up-der-hidden-champion-der-start-up-welt-aus-hamburg/100249374.html",
+          "published": "2026-09-03T02:02:54+00:00",
+          "summary": "500 Mitarbeiter, eine Milliarde Dollar Umsatz – und niemand kennt die Firma. Das will der weltweit tätige Spiele-App-Vermarkter Applike, der zu Bertelsmann gehört, jetzt ändern."
         },
         {
-          "title": "Ukraine-Krieg: Nachrichtendienst: Russland plant Sabotage in Dänemark",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-plant-offenbar-sabotage-in-daenemark/27982126.html",
-          "published": "2026-09-02T21:45:00+00:00",
-          "summary": "Bericht – BKA ermittelt gegen zwei Tatverdächtige im Fall Leipzig +++ Gelb und Rot: Ukraine gibt sich neue Regeln für Luftalarm +++ Merz sichert Selenskyj weitere Unterstützung zu +++ Der Newsblog."
+          "title": "Energie-Infrastruktur: Sabotageverdacht – Grüne attackieren Dobrindt wegen Schutzlücken",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energie-infrastruktur-gruene-attackieren-dobrindt-wegen-schutzluecken/100251560.html",
+          "published": "2026-09-03T02:00:16+00:00",
+          "summary": "Nach mutmaßlichen Anschlägen auf Energieanlagen werfen die Grünen dem Bund Versäumnisse vor. Tatsächlich fehlen immer noch konkrete Vorgaben für die Betreiber kritischer Infrastruktur."
         },
         {
-          "title": "Rüstungsindustrie im Visier: Nachrichtendienst: Russland plant Sabotage in Dänemark",
-          "link": "https://www.handelsblatt.com/politik/international/ruestungsindustrie-im-visier-nachrichtendienst-russland-plant-sabotage-in-daenemark/100251633.html",
-          "published": "2026-09-02T21:22:57+00:00",
-          "summary": "Russland plant laut dem dänischen Inlandsnachrichtendienst Sabotage in Dänemark – und versucht dafür sogar, ahnungslose Bürger anzuwerben. Im Visier: die Rüstungsindustrie und Ukraine-Hilfe."
+          "title": "Handelsblatt-Auswertung: Bei diesen Aktien sehen Insider Chancen – auch Analysten raten zum Kauf",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-bei-diesen-aktien-sehen-insider-und-analysten-chancen/100249110.html",
+          "published": "2026-09-03T01:58:15+00:00",
+          "summary": "Im August haben Vorstände und Aufsichtsräte in Deutschland aus vielen Branchen Aktien ihrer eigenen Unternehmen gekauft. Analysten sehen ebenfalls zum Teil noch deutliches Potenzial."
         },
         {
-          "title": "+++ Geschäftszahlen +++: Snowflake hebt Umsatzprognose an – Aktie springt um 22 Prozent",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-snowflake-hebt-umsatzprognose-an-aktie-springt-um-22-prozent/24098412.html",
-          "published": "2026-09-02T20:32:00+00:00",
-          "summary": "KI-Nachfrage beflügelt HPE – Aktie gibt dennoch nach +++ KI-Boom beflügelt Dell – Umsatz- und Gewinnprognose angehoben +++ Swiss Life streicht 600 Stellen trotz Gewinnplus +++ Der Newsblog."
+          "title": "Immobilien: Wenn 138.000 Wohnungen zum politischen Spielball werden: Das 23-Milliarden-Risiko von Vonovia",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-23-milliarden-risiko-von-vonovia-in-der-hauptstadt/100249541.html",
+          "published": "2026-09-03T01:56:05+00:00",
+          "summary": "Der Dax-Konzern steht im Zentrum des politischen Streits um eine Vergesellschaftung von Wohneinheiten in Berlin. Warum der Konzern dennoch öffentlich eher zurückhaltend agiert."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP: Broadcom wächst dank hoher KI-Nachfrage weiter rasant",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-broadcom-waechst-dank-hoher-ki-nachfrage-weiter-rasant-15915386",
-          "published": "2026-09-02T21:59:39+00:00",
-          "summary": "SAN JOSE (dpa-AFX) - Der Chipkonzern Broadcom rechnet dank florierender Geschäfte mit Chips für Angebote rund um die Künstliche Intelligenz (KI) mit einem anhaltend hohen Wachstum. Das Geschäft mit …"
+          "title": "Aktie im Fokus: Turing peilt US-Expansion und Milliardenbewertung bei möglichem Börsengang an",
+          "link": "https://www.finanzen.net/nachricht/aktien/boersenplaene-aktie-im-fokus-turing-peilt-us-expansion-und-milliardenbewertung-bei-moeglichem-boersengang-an-00-15911621",
+          "published": "2026-09-03T01:50:32+00:00",
+          "summary": "Turing will innerhalb eines Jahres einen Standort in den USA eröffnen • Ein Börsengang in den USA oder Japan wird für 2030 oder 2031 erwartet • CEO Issei Yamamoto hält dabei eine Bewertung von rund …"
         },
         {
-          "title": "Aktien im Fokus: KI-Rechenleistung wird zur Anlageklasse - CME startet Compute-Futures",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-infrastruktur-aktien-im-fokus-ki-rechenleistung-wird-zur-anlageklasse-cme-startet-compute-futures-00-15910547",
-          "published": "2026-09-02T21:50:00+00:00",
-          "summary": "Kontrakte bilden monatliche Mietpreise für GPU-Rechenleistung ab und sollen Preisschwankungen für Unternehmen planbar machen • US-Aufsichtsbehörde CFTC hat eine öffentliche Konsultation zu …"
+          "title": "Aktien von Apple, Coca-Cola & Alphabet: Diese Buffett-Favoriten sollen über Jahrzehnte wachsen",
+          "link": "https://www.finanzen.net/nachricht/aktien/buffett-favoriten-aktien-von-apple-coca-cola-alphabet-diese-buffett-favoriten-sollen-ueber-jahrzehnte-wachsen-00-15913967",
+          "published": "2026-09-03T01:41:49+00:00",
+          "summary": "Apple bleibt mit Abstand die größte Beteiligung im Berkshire-Depot Berkshire hält Coca-Cola seit 1988 und verkaufte nie eine einzige Aktie Bei Alphabet baute Greg Abel 2026 eine milliardenschwere …"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-02T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "Arbeitsmarkt im KI-Umbruch: Goldman Sachs sieht Berufseinsteiger unter Druck",
+          "link": "https://www.finanzen.net/nachricht/aktien/studie-zu-ki-effekten-arbeitsmarkt-im-ki-umbruch-goldman-sachs-sieht-berufseinsteiger-unter-druck-00-15903713",
+          "published": "2026-09-03T01:41:48+00:00",
+          "summary": "Goldman Sachs analysiert Beschäftigungsentwicklung in über 800 Berufen weltweit • Callcenter-Jobs liegen in den USA 39 Prozent unter dem historischen Trend • Berufseinsteiger zeigen deutlich stärkere …"
         },
         {
-          "title": "Broadcom wächst dank hoher KI-Nachfrage weiter rasant - Ausblick enttäuscht",
-          "link": "https://www.finanzen.net/nachricht/aktien/broadcom-waechst-dank-hoher-ki-nachfrage-weiter-rasant-ausblick-enttaeuscht-15915340",
-          "published": "2026-09-02T20:46:39+00:00",
-          "summary": "SAN JOSE (dpa-AFX) - Der Chipkonzern Broadcom rechnet dank florierender Geschäfte mit Chips für Angebote rund um die Künstliche Intelligenz (KI) mit einem anhaltend hohen Wachstum. Allerdings liegt …"
+          "title": "Zurich Insurance baut US-Depot um: Mehr AMD und Eli Lilly, weniger Microsoft",
+          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-zurich-insurance-baut-us-depot-um-mehr-amd-und-eli-lilly-weniger-microsoft-15911472",
+          "published": "2026-09-03T01:39:12+00:00",
+          "summary": "Die Zurich Insurance Group hat ihre US-Aktienbeteiligungen für das zweite Quartal 2026 offengelegt. Aus dem aktuellen 13F-Filing zum 30. Juni 2026 geht hervor, dass der Schweizer Versicherungskonzern …"
         },
         {
-          "title": "ASML-Aktie nach 54-Prozent-Rally in 2026: Wie weit tragen Prognose und Analysten noch?",
-          "link": "https://www.finanzen.net/nachricht/aktien/analysten-sehen-potenzial-asml-aktie-nach-54-prozent-rally-in-2026-wie-weit-tragen-prognose-und-analysten-noch-00-15911455",
-          "published": "2026-09-02T20:44:00+00:00",
-          "summary": "Angehobene Jahresprognose und volle Auftragsbücher stützen die Kursfantasie Analysten trauen der Aktie trotz hoher Bewertung weiteres Potenzial zu China-Geschäft schrumpft, politische Risiken in den …"
+          "title": "BofA hebt Prognose für Server-CPU-Markt an: AMD, NVIDIA, Intel und Arm im Fokus",
+          "link": "https://www.finanzen.net/nachricht/aktien/bofa-hebt-prognose-fuer-server-cpu-markt-an-amd-nvidia-intel-und-arm-im-fokus-15915496",
+          "published": "2026-09-03T01:34:19+00:00",
+          "summary": "Die Bank of America (BofA) hebt ihre Prognose für den globalen Server-CPU-Markt bis zum Jahr 2030 deutlich an. Als Treiber gilt der Aufstieg von KI-Agenten."
         }
       ],
       "error": null
