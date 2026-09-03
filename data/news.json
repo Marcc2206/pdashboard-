@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T12:12:25+00:00",
+  "generatedAt": "2026-09-03T14:09:28+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Vertrauliches Lagebild - BKA zählt bereits 165 mutmaßliche Sabotageakte",
+          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bka-lagebericht-sabotage-100.html",
+          "published": "2026-09-03T14:00:22+00:00",
+          "summary": "Bundesweit gab es in diesem Jahr bereits mehr als 160 Sabotageverdachtsfälle. Zudem wurden mehr als 740 verdächtige Drohnensichtungen gezählt. Das geht aus einem internen BKA-Lagebild hervor, das …"
+        },
+        {
+          "title": "Junge Menschen trinken seltener Alkohol - Rauschtrinken weiter beliebt",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/alkoholkonsum-jugendliche-studie-100.html",
+          "published": "2026-09-03T13:44:42+00:00",
+          "summary": "Junge Menschen in Deutschland trinken laut einer Studie seltener Alkohol. Der Vollrausch reizt allerdings nach wie vor einen konstanten Anteil der Jugendlichen - und zwar vor allem unter jungen …"
+        },
+        {
+          "title": "Kanu-Olympiasieger Rauhe wird neuer Sportstaatsminister",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/rauhe-sport-staatsminister-100.html",
+          "published": "2026-09-03T13:20:44+00:00",
+          "summary": "Vom Spitzensport in die Spitzenpolitik: Olympiasieger Ronald Rauhe wird Sportstaatsminister im Kanzleramt. Mit Politik hatte er bisher nicht viel zu tun. Aber der Kanzler wollte jemanden mit …"
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80694.html",
-          "published": "2026-09-03T12:10:46+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80704.html",
+          "published": "2026-09-03T13:10:16+00:00",
           "summary": ""
         },
         {
-          "title": "Claudia Kornmeier, ARD Berlin, zur Einstufung von kritischer Infrastruktur als stark gefährdet",
-          "link": "https://www.tagesschau.de/video/video-1641998.html",
-          "published": "2026-09-03T12:05:44+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Hedgefonds Elliott beflügelt die Telekom-Aktie",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-102.html",
-          "published": "2026-09-03T12:00:20+00:00",
-          "summary": "Die Telekom-Aktie ist im Aufwind: Grund ist die wachsende Beteiligung des US-Hedgefonds Elliott am Bonner Konzern. Was wird aus der Fusion mit der US-Tochter T-Mobile?"
-        },
-        {
-          "title": "Immer mehr neue Autos fahren elektrisch",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kba-zulassungen-e-autos-trend-100.html",
-          "published": "2026-09-03T11:43:20+00:00",
-          "summary": "E-Autos sind bei deutschen Käufern beliebt, fast jedes dritte neu zugelassene Auto im August war ein reiner Elektro-Pkw. Grund für die Entwicklung dürfte auch die E-Auto-Prämie des Bundes sein."
-        },
-        {
-          "title": "\"Wohl Wegwerf-Agenten\", Michael Götschenberg, ARD Berlin, zur Brandattacke auf Münchner Baustelle",
-          "link": "https://www.tagesschau.de/video/video-1641976.html",
-          "published": "2026-09-03T11:15:17+00:00",
-          "summary": ""
+          "title": "Wetterphänomen El Niño wird überall zu spüren sein",
+          "link": "https://www.tagesschau.de/wissen/klima/el-nino-wmo-100.html",
+          "published": "2026-09-03T12:27:19+00:00",
+          "summary": "Dürren, Überschwemmungen, Taifune: Die Weltwetterorganisation rechnet in diesem Jahr mit einem Rekord-El-Niño - und zahlreichen Opfern im Pazifikraum. Auch Europa wird betroffen sein - aber auf …"
         }
       ],
       "error": null
@@ -45,8 +45,39 @@
       "name": "Handelsblatt",
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
-      "items": [],
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "items": [
+        {
+          "title": "KI: Starke Broadcom-Zahlen überzeugen Anleger nicht – Kommt die KI-Fantasie an ein Ende?",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-starke-broadcom-zahlen-ueberzeugen-anleger-nicht/100251807.html",
+          "published": "2026-09-03T13:59:20+00:00",
+          "summary": "Der Chiphersteller übertrifft die Erwartungen der Analysten, doch Anlegern genügt das offenbar nicht. Aktien mit KI-Bezug liegen längst nicht mehr nahe ihrer Rekordstände."
+        },
+        {
+          "title": "Dax aktuell: Dax notiert im Plus und nähert sich wieder der 26.000-Punkte-Marke",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-daxnotiert-im-plus-und-naehert-sich-wieder-der-26.000-punkte-marke/100251682.html",
+          "published": "2026-09-03T13:56:49+00:00",
+          "summary": "Nach drei Verlusttagen stabilisiert sich der deutsche Leitindex vorerst. Die Öl- und Anleihemärkte sorgen aber weiterhin für Unruhe und lassen Anleger Zurückhaltung üben."
+        },
+        {
+          "title": "Erdgas-Pipeline: Ukrainer wegen Nord-Stream-Anschlägen ab Oktober vor Gericht",
+          "link": "https://www.handelsblatt.com/politik/international/erdgas-pipeline-ukrainer-wegen-nord-stream-anschlaegen-ab-oktober-vor-gericht/100251827.html",
+          "published": "2026-09-03T13:54:27+00:00",
+          "summary": "Die Anschläge auf die Nord-Stream-Pipelines werden in Hamburg vor Gericht aufgearbeitet. Dem Verdächtigen wird unter anderem ein Kriegsverbrechen vorgeworfen."
+        },
+        {
+          "title": "Gericht schafft Klarheit: Pflichtteilsanspruch bei Erbe: Wann beginnt die Verjährung?",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/gericht-schafft-klarheit-pflichtteilsanspruch-bei-erbe-wann-beginnt-die-verjaehrung/100251847.html",
+          "published": "2026-09-03T13:53:36+00:00",
+          "summary": "Pflichtteilsansprüche verjähren nach drei Jahren – aber ab wann läuft die Frist eigentlich? Ein Gericht erklärt, worauf es im Erbfall wirklich ankommt."
+        },
+        {
+          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street liegt im Plus – Fed-Spitzen dämpfen Zinserwartungen",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-liegt-im-plus-fed-spitzen-daempfen-zinserwartungen/100251832.html",
+          "published": "2026-09-03T13:52:07+00:00",
+          "summary": "Ist eine Zinserhöhung doch noch nicht ausgemacht? Zwei hochrangige Notenbanker sprechen sich dagegen aus. Das verändert die Kalkulation an den Märkten."
+        }
+      ],
+      "error": null
     },
     {
       "id": "ntv-wirtschaft",
@@ -54,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Verkaufsstart in Europa: Xiaomi bietet seine E-Autos bald auch in Deutschland an",
+          "link": "https://www.n-tv.de/wirtschaft/Xiaomi-bietet-seine-E-Autos-bald-auch-in-Deutschland-an-id31265860.html",
+          "published": "2026-09-03T12:26:48+00:00",
+          "summary": "Xiaomi ist der drittgrößte Smartphone-Hersteller der Welt. Mittlerweile baut der chinesische Konzern aber auch Elektro-Autos. Diese will das Unternehmen jetzt auch in Deutschland und anderen …"
+        },
         {
           "title": "Apple vergoldet Postenwechsel: So viel kassiert Tim Cook künftig",
           "link": "https://www.n-tv.de/wirtschaft/So-viel-kassiert-Tim-Cook-kuenftig-id31264994.html",
@@ -77,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wieso-ist-Diesel-teurer-als-Benzin-id31264453.html",
           "published": "2026-09-03T08:29:05+00:00",
           "summary": "Diesel wird immer teurer: Autofahrer, Landwirte und Logistiker ächzen unter steigenden Treibstoffpreisen. Der Grund liegt dabei nicht im Nahen Osten, sondern in einer ganz anderen Weltregion."
-        },
-        {
-          "title": "\"Nur eine Atempause\": Chemieindustrie profitiert vom Iran-Krieg - ist aber trotzdem pessimistisch",
-          "link": "https://www.n-tv.de/wirtschaft/Chemieindustrie-profitiert-vom-Iran-Krieg-ist-aber-trotzdem-pessimistisch-id31264356.html",
-          "published": "2026-09-03T07:26:44+00:00",
-          "summary": "Weil Konkurrenten durch den Krieg im Iran mit Problemen zu kämpfen haben, profitiert die europäische Chemieindustrie. Das macht hierzulande aber nicht die vielen Probleme der Branche wett."
         }
       ],
       "error": null
@@ -94,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Sinkende Ölpreise sorgen für etwas Entspannung: DAX mit Stabilisierungstendenz",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-sinkende-oelpreise-sorgen-fuer-etwas-entspannung-dax-mit-stabilisierungstendenz-15909432",
-          "published": "2026-09-03T12:04:00+00:00",
-          "summary": "Zum Handelsstart verbuchte der DAX einen marginalen Aufschlag von 0,01 Prozent auf 25.840,92 Punkte und hält sich danach überwiegend um die Nulllinie.Eine Verschnaufpause bei den zuletzt kräftig …"
+          "title": "Arbeitsmarkt im KI-Umbruch: Goldman Sachs sieht Berufseinsteiger unter Druck",
+          "link": "https://www.finanzen.net/nachricht/aktien/studie-zu-ki-effekten-arbeitsmarkt-im-ki-umbruch-goldman-sachs-sieht-berufseinsteiger-unter-druck-00-15903713",
+          "published": "2026-09-03T14:03:00+00:00",
+          "summary": "Goldman Sachs analysiert Beschäftigungsentwicklung in über 800 Berufen weltweit • Callcenter-Jobs liegen in den USA 39 Prozent unter dem historischen Trend • Berufseinsteiger zeigen deutlich stärkere …"
         },
         {
-          "title": "Ex-Fraktionschef Spahn geht in den Haushaltsausschuss",
-          "link": "https://www.finanzen.net/nachricht/aktien/ex-fraktionschef-spahn-geht-in-den-haushaltsausschuss-15916511",
-          "published": "2026-09-03T12:03:40+00:00",
-          "summary": "BERLIN (dpa-AFX) - Der zurückgetretene Unionsfraktionschef Jens Spahn (CDU) bleibt im Bundestag und soll nun Mitglied des Haushaltsausschusses werden. Das bestätigte eine Fraktionssprecherin auf …"
+          "title": "Bitcoin steigt in Richtung 80.000 US-Dollar",
+          "link": "https://www.finanzen.net/nachricht/devisen/bitcoin-steigt-in-richtung-80-000-us-dollar-15916886",
+          "published": "2026-09-03T14:01:39+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Der Kurs des Bitcoin ist am Donnerstag gestiegen. Auf der Handelsplattform Bitstamp wurden für einen Bitcoin 78.900 Dollar gezahlt und damit etwa zwei Prozent mehr als am …"
         },
         {
-          "title": "Snowflake-Aktie schießt nach starken Zahlen und höherer Prognose zweistellig nach oben",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-boom-bei-snowflake-snowflake-aktie-schiesst-nach-starken-zahlen-und-hoeherer-prognose-zweistellig-nach-oben-00-15915930",
-          "published": "2026-09-03T12:03:00+00:00",
-          "summary": "Snowflake-Umsatz wächst im zweiten Quartal um 35 Prozent Umsatzprognose fürs Geschäftsjahr angehoben Snowflake-Aktie reagiert Snowflake ..."
+          "title": "S&P 500-Titel Super Micro Computer-Aktie: So viel hätten Anleger mit einem Investment in Super Micro Computer von vor einem Jahr verloren",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-super-micro-computer-aktie-so-viel-haetten-anleger-mit-einem-investment-in-super-micro-computer-von-vor-einem-jahr-verloren-15916883",
+          "published": "2026-09-03T14:00:50+00:00",
+          "summary": "Heute vor 1 Jahr wurde die Super Micro Computer -Aktie an der Börse NAS gehandelt. Zum Handelsende stand das Papier an diesem Tag bei 40,10 USD. Bei einer 10.000-USD-Investition vor 1 Jahr, hätten …"
         },
         {
-          "title": "Miersch: Gesprächsstrang mit Russland darf nicht reißen",
-          "link": "https://www.finanzen.net/nachricht/aktien/miersch-gespraechsstrang-mit-russland-darf-nicht-reissen-15916508",
-          "published": "2026-09-03T12:02:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Der SPD-Fraktionsvorsitzende Matthias Miersch unterstützt die Reaktion der Bundesregierung auf den Russland zugeschriebenen Drohnenangriff auf dem Flughafen Leipzig. \"Ich halte es …"
+          "title": "NASDAQ Composite Index-Papier ADTRAN-Aktie: So viel Verlust hätte eine ADTRAN-Investition von vor 5 Jahren eingebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-composite-index-papier-adtran-aktie-so-viel-verlust-haette-eine-adtran-investition-von-vor-5-jahren-eingebracht-15916882",
+          "published": "2026-09-03T14:00:50+00:00",
+          "summary": "Heute vor 5 Jahren wurden Trades der ADTRAN -Aktie an der Börse NAS ausgeführt. Der Schlusskurs der Aktie betrug an diesem Tag 20,55 USD. Anleger, die zu diesem Zeitpunkt 10.000 USD in den Konzern …"
         },
         {
-          "title": "Berlin, Paris und Warschau einig gegenüber Moskau",
-          "link": "https://www.finanzen.net/nachricht/aktien/berlin-paris-und-warschau-einig-gegenueber-moskau-15916507",
-          "published": "2026-09-03T12:02:38+00:00",
-          "summary": "WEIMAR (dpa-AFX) - Deutschland, Frankreich und Polen haben nach dem Anschlagsversuch mit einer Sprengstoffdrohne auf dem Flughafen Leipzig/Halle eine geschlossene Reaktion auf hybride Bedrohungen aus …"
+          "title": "S&P 500-Papier Howmet Aerospace-Aktie: So viel Gewinn hätte eine Howmet Aerospace-Investition von vor 10 Jahren eingebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-howmet-aerospace-aktie-so-viel-gewinn-haette-eine-howmet-aerospace-investition-von-vor-10-jahren-eingebracht-15916881",
+          "published": "2026-09-03T14:00:50+00:00",
+          "summary": "Vor 10 Jahren wurde das Howmet Aerospace -Papier wochenend-bedingt nicht an der Börse NYSE gehandelt. Den vorangegangenen Handelstag beendete die Howmet Aerospace-Aktie bei 22,29 USD. Wer vor 10 …"
         }
       ],
       "error": null
@@ -170,8 +201,39 @@
       "name": "Wirtschaftswoche",
       "site": "https://www.wiwo.de",
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
-      "items": [],
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "items": [
+        {
+          "title": "VW-Sanierungsplan: Niedersachsen warnt vor VW-Aufsichtsratssitzung vor Aushebeln von VW-Gesetz",
+          "link": "https://www.wiwo.de/politik/deutschland/volkswagen-niedersachsen-warnt-vor-vw-aufsichtsratssitzung-vor-aushebeln-von-vw-gesetz/100251842.html",
+          "published": "2026-09-03T14:03:07+00:00",
+          "summary": "Volkswagen plant einen großen Stellenabbau und Werksschließungen. Nun fordern Länder Mitbestimmung und den Erhalt deutscher Industriearbeitsplätze."
+        },
+        {
+          "title": "Spritpreise: Iran-Krieg treibt Benzinpreise auf Höchststand",
+          "link": "https://www.wiwo.de/unternehmen/industrie/spritpreise-iran-krieg-treibt-benzinpreise-auf-hoechststand/100251705.html",
+          "published": "2026-09-03T14:00:00+00:00",
+          "summary": "US-Präsident Donald Trump hat den schon für beendet erklärten Iran-Krieg wieder angefacht. Die Folgen sind an den Zapfsäulen abzulesen."
+        },
+        {
+          "title": "BörsenTag: Der Rückenwind für Chemieaktien wird schwächer",
+          "link": "https://www.wiwo.de/finanzen/boerse/boerse-aktuell-der-rueckenwind-fuer-chemieaktien-wird-schwaecher/100251716.html",
+          "published": "2026-09-03T13:42:38+00:00",
+          "summary": "Europäische Chemiekonzerne und ihre Aktien haben zuletzt von den Problemen in der Straße von Hormus profitiert. Nun lässt dieser Effekt nach."
+        },
+        {
+          "title": "Deutsche Telekom: Kleinfeld oder Krebber? So könnte der Einstieg von Elliott bei der Telekom enden",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/elliott-steigt-bei-telekom-ein-konflikt-um-t-mobile-us/100251707.html",
+          "published": "2026-09-03T13:38:34+00:00",
+          "summary": "Paul Singer und sein Hedgefonds Elliott stellen sich gegen eine mögliche Fusion mit T-Mobile US. Für Telekom-Chef Tim Höttges beginnt damit ein heikler Machtkampf."
+        },
+        {
+          "title": "„Aktionsplan Speichermarkt“: Ist das die Lösung?",
+          "link": "https://www.wiwo.de/unternehmen/energie/gasspeicher-verband-schlaegt-massnahmen-zur-kostenreduktion-vor/100251691.html",
+          "published": "2026-09-03T13:37:00+00:00",
+          "summary": "Die Gasspeicher sind schlecht gefüllt, die Preise so hoch wie nie in diesem Jahr. Nun macht der Speicherverband einen Vorschlag. Wie er lautet und was er taugt."
+        }
+      ],
+      "error": null
     },
     {
       "id": "ingenieur-de",
@@ -179,6 +241,24 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Zwei Jahre Wasserstoff im Gasnetz: Was dicht blieb und was nicht",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoff-test-im-gasnetz-testnetz/",
+          "published": "2026-09-03T14:00:00+00:00",
+          "summary": "Armaturen, Rohre und eine komplette Hausinstallation wurden in Bitterfeld-Wolfen mit reinem Wasserstoff getestet. Mit durchmischten Ergebnissen."
+        },
+        {
+          "title": "Xiaomi startet 2027 in Deutschland, acht große Autohändler sind dabei",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/xiaomi-startet-2027-in-deutschland-acht-grosse-autohaendler-sind-dabei/",
+          "published": "2026-09-03T13:30:00+00:00",
+          "summary": "Xiaomi bereitet seinen Deutschlandstart für 2027 vor. Acht Händlergruppen sollen den Aufbau von Vertrieb und Service unterstützen."
+        },
+        {
+          "title": "„Überschätzung der eigenen Unfehlbarkeit“: Harte Kritik an deutschen Autobauern",
+          "link": "https://www.ingenieur.de/karriere/arbeitsleben/fuehrung/autoindustrie-in-der-krise-74-sehen-probleme-in-den-fuhrungsetagen/",
+          "published": "2026-09-03T13:00:00+00:00",
+          "summary": "Schwäche im Topmanagement: 74 % der Interim Manager kritisieren deutsche Autobauer. Auch Software, Kosten und Kundenfokus gelten als Probleme."
+        },
         {
           "title": "Nobelpreisträger zerlegt Idee vom Neutrino-Laser",
           "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/nobelpreistraeger-zerlegt-idee-vom-neutrino-laser/",
@@ -190,24 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/update-vw-70-000-arbeitsplaetze-in-gefahr-vier-werksschliessungen-35-std-woche/",
           "published": "2026-09-03T11:30:00+00:00",
           "summary": "VW berät über die Zukunft von vier deutschen Werken und möglichen Stellenabbau. Parallel investiert der Konzern in Cloud- und Zukunftstechnologien."
-        },
-        {
-          "title": "Bitcoin: Wenn Wall Street liefert, fließen Billionen! Prognose: Kurs auf 840.000 $",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/bitcoin-wenn-wall-street-liefert-fliessen-billionen-prognose-kurs-auf-840-000/",
-          "published": "2026-09-03T11:00:00+00:00",
-          "summary": "Was passiert, wenn Wall Street ihre eigenen Bitcoin-Empfehlungen umsetzt? River rechnet mit Billionen-Zuflüssen und einem BTC-Kurs bis 840.000 $."
-        },
-        {
-          "title": "Batteriegroßspeicher in Deutschland: Was geht und was nicht?",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/batteriegrossspeicher-im-fokus-was-geht-was-nicht/",
-          "published": "2026-09-03T10:30:00+00:00",
-          "summary": "Batteriegroßspeicher wachsen rasant: 574 GW wurden zum Netzanschluss angefragt. Was die Anlagen leisten, wo ihre Grenzen liegen und warum das Stromnetz zum Engpass wird."
-        },
-        {
-          "title": "Mathematik zeigt, wann GPS in Städten unzuverlässig wird",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/mathematisches-verfahren-zeigt-wann-gps-in-staedten-unzuverlaessig-wird/",
-          "published": "2026-09-03T10:00:00+00:00",
-          "summary": "Reflexionen an Gebäuden, Störungen in der Atmosphäre oder kurzzeitig verdeckte Satellitensignale können hochpräzise Satellitennavigation aus dem Tritt bringen. Ein neues mathematisches Verfahren soll …"
         }
       ],
       "error": null

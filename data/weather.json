@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T12:12:28+00:00",
+  "generatedAt": "2026-09-03T14:09:32+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-03T14:00",
-    "temperatur": 18.2,
-    "gefuehlt": 16.5,
-    "luftfeuchte": 83,
+    "zeit": "2026-09-03T16:00",
+    "temperatur": 19.8,
+    "gefuehlt": 18.4,
+    "luftfeuchte": 77,
     "niederschlag": 0.0,
-    "wind": 23.4,
+    "wind": 22.2,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -24,28 +24,28 @@
   "tage": [
     {
       "datum": "2026-09-03",
-      "max": 21.0,
+      "max": 20.3,
       "min": 15.8,
       "regenwahrscheinlichkeit": 50,
       "sonnenaufgang": "2026-09-03T06:40",
-      "sonnenuntergang": "2026-09-03T20:08",
+      "sonnenuntergang": "2026-09-03T20:09",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-09-04",
-      "max": 21.5,
-      "min": 16.1,
+      "max": 20.7,
+      "min": 15.8,
       "regenwahrscheinlichkeit": 98,
       "sonnenaufgang": "2026-09-04T06:42",
-      "sonnenuntergang": "2026-09-04T20:06",
+      "sonnenuntergang": "2026-09-04T20:07",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
-        "icon": "🌦️"
+        "code": 63,
+        "text": "Regen",
+        "icon": "🌧️"
       }
     },
     {
@@ -53,7 +53,7 @@
       "max": 20.1,
       "min": 13.3,
       "regenwahrscheinlichkeit": 10,
-      "sonnenaufgang": "2026-09-05T06:43",
+      "sonnenaufgang": "2026-09-05T06:44",
       "sonnenuntergang": "2026-09-05T20:04",
       "wetter": {
         "code": 3,
@@ -67,7 +67,7 @@
       "min": 9.1,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-09-06T06:45",
-      "sonnenuntergang": "2026-09-06T20:01",
+      "sonnenuntergang": "2026-09-06T20:02",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
