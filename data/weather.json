@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T08:10:11+00:00",
+  "generatedAt": "2026-09-03T10:09:58+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-03T10:00",
-    "temperatur": 17.7,
-    "gefuehlt": 15.8,
-    "luftfeuchte": 72,
+    "zeit": "2026-09-03T12:00",
+    "temperatur": 18.3,
+    "gefuehlt": 16.4,
+    "luftfeuchte": 76,
     "niederschlag": 0.0,
-    "wind": 18.2,
+    "wind": 22.0,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -26,9 +26,9 @@
       "datum": "2026-09-03",
       "max": 21.5,
       "min": 15.8,
-      "regenwahrscheinlichkeit": 70,
+      "regenwahrscheinlichkeit": 50,
       "sonnenaufgang": "2026-09-03T06:40",
-      "sonnenuntergang": "2026-09-03T20:09",
+      "sonnenuntergang": "2026-09-03T20:08",
       "wetter": {
         "code": 80,
         "text": "Leichte Schauer",
@@ -39,9 +39,9 @@
       "datum": "2026-09-04",
       "max": 20.4,
       "min": 16.3,
-      "regenwahrscheinlichkeit": 95,
+      "regenwahrscheinlichkeit": 98,
       "sonnenaufgang": "2026-09-04T06:42",
-      "sonnenuntergang": "2026-09-04T20:07",
+      "sonnenuntergang": "2026-09-04T20:06",
       "wetter": {
         "code": 61,
         "text": "Leichter Regen",
@@ -50,10 +50,10 @@
     },
     {
       "datum": "2026-09-05",
-      "max": 19.8,
-      "min": 13.2,
-      "regenwahrscheinlichkeit": 13,
-      "sonnenaufgang": "2026-09-05T06:44",
+      "max": 20.1,
+      "min": 13.3,
+      "regenwahrscheinlichkeit": 10,
+      "sonnenaufgang": "2026-09-05T06:43",
       "sonnenuntergang": "2026-09-05T20:04",
       "wetter": {
         "code": 3,
@@ -63,15 +63,15 @@
     },
     {
       "datum": "2026-09-06",
-      "max": 21.3,
-      "min": 9.6,
-      "regenwahrscheinlichkeit": 1,
+      "max": 20.6,
+      "min": 9.1,
+      "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-09-06T06:45",
-      "sonnenuntergang": "2026-09-06T20:02",
+      "sonnenuntergang": "2026-09-06T20:01",
       "wetter": {
-        "code": 1,
-        "text": "Überwiegend klar",
-        "icon": "🌤️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     }
   ]
