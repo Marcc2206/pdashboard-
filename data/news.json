@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:08:37+00:00",
+  "generatedAt": "2026-09-04T00:13:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80768.html",
+          "published": "2026-09-03T23:15:44+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1642342.html",
+          "published": "2026-09-03T23:02:55+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Abschussvorrichtungen an Umspannwerk Dormagen entdeckt",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-moeglicherweise-sabotage-versuch-sensible-gegenstaende-bei-umspannwerk-in-dormagen-100.html",
+          "published": "2026-09-03T22:49:00+00:00",
+          "summary": "Die Polizei ist in Dormagen bei einem Umspannwerk im Einsatz. Nach WDR-Informationen wurden dort Abschussvorrichtungen gefunden. Schäden an Stromleitungen wurden aber bislang nicht festgestellt."
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12828.html",
@@ -17,24 +35,6 @@
           "title": "Ellen Ehni, WDR, mit dem ARD-DeutschlandTrend zur Arbeit der Regierung und zum Bedrohungsgefühl durch Russland",
           "link": "https://www.tagesschau.de/tagesthemen/video-1642354.html",
           "published": "2026-09-03T20:51:09+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Kanzler Merz zu Besuch in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1642352.html",
-          "published": "2026-09-03T20:45:25+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Manuel Atug, Sprecher Arbeitsgruppe Kritische Infrastrukturen, zum Schutz vor Sabotageakten an Kritischer Infrastruktur",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1642350.html",
-          "published": "2026-09-03T20:37:02+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Diskussion über Schutz und Sicherheit für Kritische Infrastruktur",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1642346.html",
-          "published": "2026-09-03T20:33:32+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Geschäftszahlen +++: Lululemon senkt Jahresprognose – Aktie bricht ein",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-lululemon-senkt-jahresprognose-aktie-bricht-ein/24098412.html",
-          "published": "2026-09-03T21:29:00+00:00",
-          "summary": "Snowflake hebt Umsatzprognose an – Aktie springt um 22 Prozent +++ KI-Nachfrage beflügelt HPE – Aktie gibt dennoch nach +++ KI-Boom beflügelt Dell +++ Der Newsblog."
-        },
-        {
-          "title": "Eskalation verhindert: Das sind die wichtigsten Punkte im VW-Sparpaket",
-          "link": "https://www.handelsblatt.com/politik/deutschland/eskalation-verhindert-das-sind-die-wichtigsten-punkte-im-vw-sparpaket/100251907.html",
-          "published": "2026-09-03T21:17:48+00:00",
-          "summary": "Der Showdown bei VW wurde für Freitag erwartet. Nun hat der Aufsichtsrat überraschend eher getagt und eine Einigung erzielt. Sie bringt harte Sparmaßnahmen für die Belegschaft."
+          "title": "Patentstreit: BASF verklagt Apple wegen Patentverletzung bei Gesichtserkennung",
+          "link": "https://www.handelsblatt.com/technik/patentstreit-basf-verklagt-apple-wegen-patentverletzung-bei-gesichtserkennung/100251932.html",
+          "published": "2026-09-03T23:05:44+00:00",
+          "summary": "Apple soll in iPhones und iPads unerlaubt Technik der BASF-Tochter trinamiX einsetzen. Der Chemiekonzern fordert Schadenersatz und Unterlassung."
         },
         {
           "title": "Kongresswahlen: Trump zieht im Streit um Briefwahl erneut vor Supreme Court",
           "link": "https://www.handelsblatt.com/politik/international/kongresswahlen-trump-zieht-im-streit-um-briefwahl-erneut-vor-supreme-court/100251928.html",
-          "published": "2026-09-03T21:07:32+00:00",
-          "summary": "Kurz vor Beginn der Briefwahl für die Kongresswahlen will Trump neue Regeln durchdrücken. Der Rechtsstreit darüber zieht sich schon länger, nun wendet sich die US-Regierung an das oberste Gericht."
+          "published": "2026-09-03T22:51:46+00:00",
+          "summary": "Kurz vor Beginn der Briefwahl für die „Midterms“ will Trump neue Regeln durchdrücken. Der Rechtsstreit darüber zieht sich schon länger, nun wendet sich die Regierung abermals an das oberste Gericht."
         },
         {
-          "title": "Nach Angriffen auf Stromnetz: Verdächtiger Gegenstand an Umspannwerk in Dormagen entdeckt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-angriffen-auf-stromnetz-verdaechtiger-gegenstand-an-umspannwerk-in-dormagen-entdeckt/100251926.html",
-          "published": "2026-09-03T21:01:29+00:00",
-          "summary": "Handelt es sich um eine Abschussvorrichtung, oder nur um einen schlechten Scherz? Die Polizei untersucht einen verdächtigen Fund an einem Umspannwerk in Dormagen."
+          "title": "+++ Iran-Krieg +++: US-Vize Vance würde Konflikt mit dem Iran „nicht als Krieg bezeichnen“",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-vize-vance-wuerde-konflikt-mit-dem-iran-nicht-als-krieg-bezeichnen/100136895.html",
+          "published": "2026-09-03T22:51:00+00:00",
+          "summary": "Iran greift erneut Ziele in Kuwait an +++ Netanjahu: Israel lässt fünf libanesische Zivilisten frei +++ Bürgerkrieg im Jemen spitzt sich weiter zu +++ Der Newsblog."
         },
         {
-          "title": "VW verkündet Einigung: Keine weitere Sitzung des Aufsichtsrats bei VW am Freitag",
-          "link": "https://www.handelsblatt.com/politik/deutschland/vw-verkuendet-einigung-keine-weitere-sitzung-des-aufsichtsrats-bei-vw-am-freitag/100251911.html",
-          "published": "2026-09-03T20:33:10+00:00",
-          "summary": "Während ein Showdown bei Volkswagen am Freitag erwartet wurde, verkündet der Autobauer schon am Vorabend eine Einigung. Ein weiteres Treffen des Kontrollgremiums braucht es nicht mehr."
+          "title": "+++ USA +++: US-Dieselpreis erreicht Rekordhoch",
+          "link": "https://www.handelsblatt.com/politik/international/usa-us-dieselpreis-erreicht-rekordhoch/29669594.html",
+          "published": "2026-09-03T22:50:00+00:00",
+          "summary": "Regierung zieht im Streit um Briefwahl erneut vor Supreme Court +++ Trump kassiert Teilniederlage bei neuem Geburtsrechtsplan +++ Der Newsblog."
+        },
+        {
+          "title": "Volkswagen: Unerwartete Wende in Wolfsburg – VW-Aufsichtsrat stimmt Sanierungsplan des Vorstands zu",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-aufsichtsrat-stimmt-sanierungsplan-des-vorstands-zu/100251905.html",
+          "published": "2026-09-03T22:36:15+00:00",
+          "summary": "Nach wochenlangem Streit wendet Volkswagen eine historische Eskalation ab. Der Aufsichtsrat entscheidet, dass 50.000 Arbeitsplätze abgebaut werden. Auch eine wichtige Personalie ist nun klar."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Viele arbeiten in Engpassberufen: Studie beziffert Bedarf an Ausländern für Arbeitsmarkt im Osten",
+          "link": "https://www.n-tv.de/wirtschaft/Studie-beziffert-Bedarf-an-Auslaendern-fuer-Arbeitsmarkt-im-Osten-id31267976.html",
+          "published": "2026-09-03T23:02:45+00:00",
+          "summary": "Können sich Bundesländer wie Sachsen-Anhalt oder Mecklenburg-Vorpommern die von der AfD geforderte restriktive Ausländerpolitik überhaupt leisten? Eine Studie des Instituts der deutschen Wirtschaft …"
+        },
         {
           "title": "Fed-Gouverneur beruhigt Sorgen: Hoffnungen auf Zinspause beflügeln Wall Street",
           "link": "https://www.n-tv.de/wirtschaft/Hoffnungen-auf-Zinspause-befluegeln-Wall-Street-id31267925.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wer-kann-VW-Chef-Oliver-Blume-jetzt-noch-stoppen-id31266910.html",
           "published": "2026-09-03T14:34:19+00:00",
           "summary": "In Wolfsburg steht die bislang härteste Machtprobe unter VW-Chef Oliver Blume bevor. Vorstand, Betriebsrat und das Land Niedersachsen ringen um den künftigen Kurs. Am Freitag entscheidet sich, ob VW …"
-        },
-        {
-          "title": "Verkaufsstart in Europa: Xiaomi bietet seine E-Autos bald auch in Deutschland an",
-          "link": "https://www.n-tv.de/wirtschaft/Xiaomi-bietet-seine-E-Autos-bald-auch-in-Deutschland-an-id31265860.html",
-          "published": "2026-09-03T12:26:48+00:00",
-          "summary": "Xiaomi ist der drittgrößte Smartphone-Hersteller der Welt. Mittlerweile baut der chinesische Konzern aber auch Elektro-Autos. Diese will das Unternehmen jetzt auch in Deutschland und anderen …"
         }
       ],
       "error": null
@@ -124,6 +124,12 @@
       "site": "https://www.finanzen.net/nachrichten/",
       "url": "https://www.finanzen.net/rss/news",
       "items": [
+        {
+          "title": "GNW-News: Patton und alfanar kooperieren als PartnerT zur Beschleunigung der sicheren digitalen Transformation der saudischen Strominfrastruktur",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-patton-und-alfanar-kooperieren-als-partnert-zur-beschleunigung-der-sicheren-digitalen-transformation-der-saudischen-strominfrastruktur-15917773",
+          "published": "2026-09-03T23:46:39+00:00",
+          "summary": "^GAITHERSBURG, Maryland, und PARIS, Sept. 04, 2026 (GLOBE NEWSWIRE) -- Patton(http://www.patton.com/) LLC - ein in den USA ansässiger Entwickler von Technologien für industrielle Netzwerktechnik …"
+        },
         {
           "title": "Zurich Insurance baut US-Depot um: Mehr AMD und Eli Lilly, weniger Microsoft",
           "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-zurich-insurance-baut-us-depot-um-mehr-amd-und-eli-lilly-weniger-microsoft-15911472",
@@ -147,12 +153,6 @@
           "link": "https://www.finanzen.net/nachricht/aktien/boersenplaene-aktie-im-fokus-turing-peilt-us-expansion-und-milliardenbewertung-bei-moeglichem-boersengang-an-00-15911621",
           "published": "2026-09-03T21:07:00+00:00",
           "summary": "Turing will innerhalb eines Jahres einen Standort in den USA eröffnen • Ein Börsengang in den USA oder Japan wird für 2030 oder 2031 erwartet • CEO Issei Yamamoto hält dabei eine Bewertung von rund …"
-        },
-        {
-          "title": "Volkswagen ernennt Erika Rasch zur Personalvorständin",
-          "link": "https://www.finanzen.net/nachricht/aktien/volkswagen-ernennt-erika-rasch-zur-personalvorstaendin-15917656",
-          "published": "2026-09-03T20:59:44+00:00",
-          "summary": "DOW JONES--Volkswagen hat das Personalressort im Vorstand wieder besetzt. Wie der Konzern mitteilte, wurde die Bosch-Managerin Erika Rasch zum 1. Oktober 2026 in den Konzernvorstand berufen, wo sie …"
         }
       ],
       "error": null
