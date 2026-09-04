@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:09:41+00:00",
+  "generatedAt": "2026-09-04T12:11:58+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-04T12:00",
-    "temperatur": 22.5,
-    "gefuehlt": 19.3,
-    "luftfeuchte": 69,
+    "zeit": "2026-09-04T14:00",
+    "temperatur": 21.7,
+    "gefuehlt": 20.0,
+    "luftfeuchte": 73,
     "niederschlag": 0.0,
-    "wind": 37.1,
+    "wind": 27.4,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -24,24 +24,11 @@
   "tage": [
     {
       "datum": "2026-09-04",
-      "max": 22.5,
-      "min": 16.7,
+      "max": 21.7,
+      "min": 16.6,
       "regenwahrscheinlichkeit": 98,
       "sonnenaufgang": "2026-09-04T06:42",
-      "sonnenuntergang": "2026-09-04T20:07",
-      "wetter": {
-        "code": 95,
-        "text": "Gewitter",
-        "icon": "⛈️"
-      }
-    },
-    {
-      "datum": "2026-09-05",
-      "max": 18.8,
-      "min": 13.2,
-      "regenwahrscheinlichkeit": 28,
-      "sonnenaufgang": "2026-09-05T06:44",
-      "sonnenuntergang": "2026-09-05T20:04",
+      "sonnenuntergang": "2026-09-04T20:06",
       "wetter": {
         "code": 80,
         "text": "Leichte Schauer",
@@ -49,12 +36,25 @@
       }
     },
     {
+      "datum": "2026-09-05",
+      "max": 19.1,
+      "min": 13.4,
+      "regenwahrscheinlichkeit": 28,
+      "sonnenaufgang": "2026-09-05T06:43",
+      "sonnenuntergang": "2026-09-05T20:04",
+      "wetter": {
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
+      }
+    },
+    {
       "datum": "2026-09-06",
       "max": 20.0,
-      "min": 10.8,
+      "min": 10.7,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-09-06T06:45",
-      "sonnenuntergang": "2026-09-06T20:02",
+      "sonnenuntergang": "2026-09-06T20:01",
       "wetter": {
         "code": 2,
         "text": "Teils bewölkt",
@@ -66,8 +66,8 @@
       "max": 26.8,
       "min": 14.8,
       "regenwahrscheinlichkeit": 21,
-      "sonnenaufgang": "2026-09-07T06:47",
-      "sonnenuntergang": "2026-09-07T20:00",
+      "sonnenaufgang": "2026-09-07T06:46",
+      "sonnenuntergang": "2026-09-07T19:59",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
