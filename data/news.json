@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:08:41+00:00",
+  "generatedAt": "2026-09-04T22:08:28+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Stuttgart stürmt zum Heimsieg gegen Köln",
+          "link": "https://www.sportschau.de/fussball/bundesliga/nach-dem-lattenschiessen-laesst-es-der-vfb-krachen,spielbericht-vfb-stuttgart-koeln-102.html",
+          "published": "2026-09-04T21:00:46+00:00",
+          "summary": "Der VfB Stuttgart hat in seinem ersten Heimspiel der neuen Bundesliga-Saison den 1. FC Köln dominiert: Dank spektakulärer Tore siegten die Schwaben zum Auftakt des zweiten Spieltags deutlich mit 4:1."
+        },
+        {
+          "title": "Sprengvorrichtungen auch in Sachsen entdeckt",
+          "link": "https://www.mdr.de/nachrichten/sachsen/news-polizei-einsatz-brandenburg-sachsen-nrw,anschlag-umspannwerk-lausitz-100.html",
+          "published": "2026-09-04T20:29:40+00:00",
+          "summary": "Nach mehreren Sabotageversuchen gegen die Stromversorgung in Deutschland wurden jetzt auch in Sachsen Sprengvorrichtungen entdeckt. Am Nachmittag suchten Polizisten einen Wald an der Landesgrenze zu …"
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643002.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
           "published": "2026-09-04T19:30:24+00:00",
           "summary": "Nach der Sabotage an Umspannwerken in Nordrhein-Westfalen und Brandenburg fahndet die Polizei nach einem Verdächtigen. Der Mann hatte Bekennerschreiben verfasst. Ob er aber auch der Täter ist, ist …"
-        },
-        {
-          "title": "Annette Deutskens, NDR, und Markus Gürne, HR, über die mögliche Zukunft von VW und Reaktionen an der Börse",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1642932.html",
-          "published": "2026-09-04T18:50:10+00:00",
-          "summary": ""
-        },
-        {
-          "title": "VW-Aufsichtsrat und -Vorstand einigen sich auf Sparkurs",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1642930.html",
-          "published": "2026-09-04T18:49:38+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "+++ Iran-Krieg +++: Tote und Verletzte bei israelischem Beschuss im Südlibanon",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-tote-und-verletzte-bei-israelischem-beschuss-im-suedlibanon/100136895.html",
+          "published": "2026-09-04T21:27:00+00:00",
+          "summary": "Trump spielt Iran-Krieg herunter: „Für uns eine Kleinigkeit“ +++ US-Vize Vance würde Konflikt mit dem Iran „nicht als Krieg bezeichnen“ +++ UN-Bericht wirft Israel Verstoß gegen das Völkerrecht vor …"
+        },
+        {
+          "title": "Ratingagentur: Trotz steigender Schulden – Scope gibt Deutschland Top-Rating",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/ratingagentur-trotz-steigender-schulden-scope-gibt-deutschland-top-rating/100252204.html",
+          "published": "2026-09-04T20:53:53+00:00",
+          "summary": "Die Ratingagentur Scope bestätigt Deutschlands Top-Bonitätsnote „AAA“ und den stabilen Ausblick. Die Analysten weisen jedoch auf geopolitische Risiken und die alternde Bevölkerung hin."
+        },
+        {
+          "title": "Ukraine-Krieg: Wittkoff und Kushner reisen nach Moskau und Kiew",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-wittkoff-und-kushner-reisen-nach-moskau-und-kiew/100252202.html",
+          "published": "2026-09-04T20:20:49+00:00",
+          "summary": "Zuletzt lagen die Gespräche über ein Ende des Ukraine-Kriegs auf Eis. Jetzt reisen US-Vermittler wieder nach Kiew und Moskau. Laut Trump bringen sie „einen Vorschlag mit, den Krieg zu beenden“."
+        },
+        {
           "title": "Ukraine-Krieg: Trump zu Drohnen-Fund in Leipzig: Putin plant keine Angriffe auf Nato",
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-zu-drohnen-fund-in-leipzig-putin-plant-keine-angriffe-auf-nato/27982126.html",
           "published": "2026-09-04T20:05:00+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-us-vermittler-kommen-am-sonntag-nach-kiew/100252190.html",
           "published": "2026-09-04T19:19:37+00:00",
           "summary": "Zuletzt lagen Verhandlungen für ein Ende des Ukraine-Kriegs unter US-Vermittlung auf Eis. Nun kündigt Präsident Selenskyj in Kiew einen Besuch der US-Vermittler an, die bislang nur in Moskau waren."
-        },
-        {
-          "title": "Stromversorgung: Immer wieder Umspannwerke: Was ist da los?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/stromversorgung-immer-wieder-umspannwerke-was-ist-da-los/100252145.html",
-          "published": "2026-09-04T19:14:03+00:00",
-          "summary": "Ein offener Schaltschrank, verdächtige Vorrichtungen, namentliche Bekennerschreiben – die Angriffe auf Umspannwerke häufen sich. Was das für die Sicherheit unseres Stromnetzes bedeutet."
-        },
-        {
-          "title": "Versorgung: Krankenkassen mit Halbjahres-Plus – „Keine Entwarnung“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/versorgung-krankenkassen-mit-halbjahres-plus-keine-entwarnung/100252193.html",
-          "published": "2026-09-04T18:37:41+00:00",
-          "summary": "Bald greift ein Spargesetz, das immer höhere Gesundheitsausgaben unter Kontrolle bringen soll. Dabei schreiben die Kassen aktuell schwarze Zahlen. Doch das hat besondere Gründe."
-        },
-        {
-          "title": "Anschlag: „Sprengvorrichtungen“ auch in Sachsen entdeckt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/anschlag-sprengvorrichtungen-auch-in-sachsen-entdeckt/100252199.html",
-          "published": "2026-09-04T18:34:53+00:00",
-          "summary": "Nach dem Angriff auf das Stromnetz bei Jänschwalde in Brandenburg und Vorfällen in NRW gibt es auch in Ostsachsen einen Polizeieinsatz. Das haben die Ermittler entdeckt."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Wochenvorschau: Termine bis 13. September 2026",
+          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-13-September-2026-id31251441.html",
+          "published": "2026-09-04T22:01:00+00:00",
+          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+        },
         {
           "title": "Nächster Vorfall bei OpenAI: KI-Agenten kapern deutsche Website, um Befehle zu umgehen",
           "link": "https://www.n-tv.de/wirtschaft/KI-Agenten-kapern-deutsche-Website-um-Befehle-zu-umgehen-id31271541.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Trumps-Wirtschaftskrieg-gegen-Teheran-zeigt-Wirkung-id31270927.html",
           "published": "2026-09-04T14:36:38+00:00",
           "summary": "Die neuen Sanktionen der US-Regierung gegen den Iran werden dort spürbar: Lebensmittelpreise schießen in die Höhe, Benzinvorräte reichen einem Insider zufolge nur noch für zwei Monate. Die drohende …"
-        },
-        {
-          "title": "Chip-Riese zahlt Aufschlag: Nvidia übernimmt KI-Plattform Hugging Face durch Milliardendeal",
-          "link": "https://www.n-tv.de/wirtschaft/Nvidia-uebernimmt-KI-Plattform-Hugging-Face-durch-Milliardendeal-id31270330.html",
-          "published": "2026-09-04T13:03:55+00:00",
-          "summary": "Hugging Face ist die zentrale Plattform für die weltweite Entwickler-Community im Bereich KI. In den vergangenen Jahren verdreifacht sie ihren Wert. Jetzt verleibt sich Nvidia das Unternehmen ein und …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Trump spielt Iran-Krieg herunter: 'Für uns eine Kleinigkeit'",
-          "link": "https://www.finanzen.net/nachricht/aktien/trump-spielt-iran-krieg-herunter-fuer-uns-eine-kleinigkeit-15919685",
-          "published": "2026-09-04T19:46:39+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Vor dem Hintergrund fehlender Erfolge im Konflikt mit dem Iran versucht US-Präsident Donald Trump den Krieg gegen die Islamische Republik kleinzureden. \"Ich nenne es einen …"
-        },
-        {
           "title": "Finanzexpertin Suze Orman: Warum jeder Bitcoin besitzen sollte",
           "link": "https://www.finanzen.net/nachricht/devisen/kaufempfehlung-finanzexpertin-suze-orman-warum-jeder-bitcoin-besitzen-sollte-13876135",
-          "published": "2026-09-04T19:35:00+00:00",
+          "published": "2026-09-04T21:50:00+00:00",
           "summary": "Bitcoin ein Muss für jedes Portfolio • Skepsis gegenüber Bitcoin als Währung • Junge Generationen als Treiber Bitcoin als Teil der Diversifizierung ..."
+        },
+        {
+          "title": "DAX in KW 36: Diese Aktien gehörten zu den Gewinnern und Verlierern",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-36-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15909791",
+          "published": "2026-09-04T21:42:00+00:00",
+          "summary": "So schnitten DAX-Werte in der Kalenderwoche 36 ab"
         },
         {
           "title": "UBS baut US-Depot aus: Milliardenschwere Zukäufe bei Apple und Microsoft",
           "link": "https://www.finanzen.net/nachricht/aktien/q2-depot-ubs-baut-us-depot-aus-milliardenschwere-zukaeufe-bei-apple-und-microsoft-15915933",
-          "published": "2026-09-04T19:35:00+00:00",
+          "published": "2026-09-04T21:32:00+00:00",
           "summary": "Die UBS Group AG hat im zweiten Quartal 2026 Einblicke in ihre im US-Markt gehaltenen Beteiligungen gewährt. Aus dem aktuellen Formular 13F zum Stichtag am 30. Juni 2026 geht hervor, dass die …"
         },
         {
-          "title": "Trump zu Drohnen-Fund: Putin plant keine Angriffe auf Nato",
-          "link": "https://www.finanzen.net/nachricht/aktien/trump-zu-drohnen-fund-putin-plant-keine-angriffe-auf-nato-15919682",
-          "published": "2026-09-04T19:34:39+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Nach dem mutmaßlich russischen Anschlagsversuch am Flughafen Leipzig/Halle sieht US-Präsident Donald Trump weiter keine Gefahr eines russischen Angriffs auf die Nato. \"Wir …"
+          "title": "Cybersecurity-Aktien im KI-Zeitalter: Diese Titel favorisiert die Bank of America",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-sicherheit-cybersecurity-aktien-im-ki-zeitalter-diese-titel-favorisiert-die-bank-of-america-00-15914213",
+          "published": "2026-09-04T20:59:00+00:00",
+          "summary": "KI erweitert laut Bank of America die Angriffsfläche von Unternehmen • SentinelOne und Zscaler erhalten weiterhin eine Kaufempfehlung • Bei SailPoint bewertet die Bank das Chance-Risiko-Verhältnis …"
         },
         {
-          "title": "ROUNDUP/Selenskyj: US-Vermittler kommen am Sonntag nach Kiew",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-selenskyj-us-vermittler-kommen-am-sonntag-nach-kiew-15919681",
-          "published": "2026-09-04T19:34:38+00:00",
-          "summary": "KIEW (dpa-AFX) - Der ukrainische Präsident Wolodymyr Selenskyj hat einen Besuch der US-Vermittler Steve Witkoff und Jared Kushner am Sonntag in Kiew angekündigt. Es sei heute besprochen worden, dass …"
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-04T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
         }
       ],
       "error": null
