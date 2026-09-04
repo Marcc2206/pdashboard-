@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T08:09:54+00:00",
+  "generatedAt": "2026-09-04T10:09:37+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "US Open 2026: Nächster Krimi - Zverev kämpft sich in die dritte Runde",
-          "link": "https://www.sportschau.de/tennis/us-open/naechster-nacht-krimi-zverev-kaempft-sich-in-die-3-runde,zverev-halys-zweite-runde-us-open-100.html",
-          "published": "2026-09-04T07:48:14+00:00",
-          "summary": "Wie schon zum Auftakt der US Open muss sich Alexander Zverev auch in der zweiten Runde durch fünf Sätze quälen. Sein Gegner aus Frankreich leistete erbitterten Widerstand."
+          "title": "Waldbrände in Indonesien breiten sich unkontrolliert aus",
+          "link": "https://www.tagesschau.de/ausland/asien/indonesien-waldbraende-100.html",
+          "published": "2026-09-04T09:56:24+00:00",
+          "summary": "In Indonesien breiten sich die Waldbrände weiter aus. Vor allem auf der Insel Borneo, einem der letzten natürlichen Lebensräume der Orang-Utans, stehen große Flächen in Flammen. Die Brände sind nicht …"
         },
         {
           "title": "Abschussvorrichtung an Umspannwerk: Sabotage-Versuch Dormagen",
           "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/dormagen-sabotage-versuch-100.html",
-          "published": "2026-09-04T07:48:00+00:00",
+          "published": "2026-09-04T09:55:00+00:00",
           "summary": "An einem Umspannwerk bei Dormagen in NRW gab es einen Sabotageversuch, Abschussvorrichtungen wurden gefunden. Die Polizei fahndet nach einem Mann, der ein Bekennerschreiben verfasst hat."
+        },
+        {
+          "title": "\"Plan B war in Schublade\", Lars Sänger, MDR, zum Fraktionsaustritt von neun BSW-Abgeordneten in Thüringen",
+          "link": "https://www.tagesschau.de/video/video-1642572.html",
+          "published": "2026-09-04T09:46:35+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Wie eine Textzeile Chinas bekanntestem Comedian zum Verhängnis wurde",
+          "link": "https://www.tagesschau.de/ausland/asien/china-comedian-guo-100.html",
+          "published": "2026-09-04T09:40:43+00:00",
+          "summary": "Der Comedian Guo Degang zählt zu den berühmtesten Kulturschaffenden in China. Nach einem Auftritt in Wuhan sind Guos weitere Shows abgesagt, es läuft eine Untersuchung gegen ihn. Der Grund: eine …"
         },
         {
           "title": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
           "link": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
-          "published": "2026-09-04T07:25:29+00:00",
+          "published": "2026-09-04T09:35:15+00:00",
           "summary": "Argentiniens Präsident Milei geht im Dauerkonflikt mit Großbritannien um die Falklandinseln im Südatlantik in die Offensive. Er droht mit Militär und Sanktionen - und auch US-Präsident Trump mischt …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1642474.html",
-          "published": "2026-09-04T07:12:59+00:00",
-          "summary": ""
-        },
-        {
-          "title": "NRW: Sabotageversuch an Umspannwerk in Dormagen",
-          "link": "https://www.tagesschau.de/video/video-1642470.html",
-          "published": "2026-09-04T07:05:46+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ukraine-Krieg: Putin gibt sich siegessicher – trotz neuer Milliardenschäden durch ukrainische Drohnen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-putin-gibt-sich-siegessicher-trotz-neuer-milliardenschaeden/27982126.html",
-          "published": "2026-09-04T07:59:06+00:00",
-          "summary": "Russischer Aufklärer vor Polen abgefangen +++ Putin: Sehe Chance auf Frieden in Ukraine +++ Russland hat Energieanlagen in Odessa angegriffen +++ Der Newsblog."
+          "title": "Geopolitik: London weist Ansprüche Argentiniens auf die Falklandinseln zurück",
+          "link": "https://www.handelsblatt.com/politik/international/geopolitik-london-weist-ansprueche-argentiniens-auf-die-falklandinseln-zurueck/100252011.html",
+          "published": "2026-09-04T10:02:21+00:00",
+          "summary": "Der argentinische Präsident Javier Milei schürt ein Jahr vor den Wahlen in seinem Land einen alten Konflikt. Dabei hofft er auf die Hilfe seines Gesinnungsfreundes Donald Trump."
         },
         {
-          "title": "Dax aktuell: Dax öffnet nahezu unverändert – Warten auf US-Arbeitsmarktdaten",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-oeffnet-nahezu-unveraendert-warten-auf-us-arbeitsmarktdaten/100251977.html",
-          "published": "2026-09-04T07:57:27+00:00",
-          "summary": "Der deutsche Leitindex pendelt um die 26.000-Punkte-Marke. Für den weiteren Kursverlauf werden US-Daten entscheidend sein, die den Kurs der Geldpolitik bestimmen."
+          "title": "Klimawandel: Wie Winzer versuchen, das Beste aus dem Klimawandel zu machen",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/wein-wie-winzer-versuchen-das-beste-aus-dem-klimawandel-zu-machen/100245361.html",
+          "published": "2026-09-04T10:02:00+00:00",
+          "summary": "Die Hitze schadet deutschen Winzern – und verschafft ihnen zugleich einen überraschenden Vorteil. Auch Verbraucher profitieren davon, weil sie nun manche Spitzenweine günstiger bekommen."
         },
         {
-          "title": "Konjunktur: Deutsche Industrie mit drittem Auftragsplus in Folge",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-deutsche-industrie-mit-drittem-auftragsplus-in-folge/100252001.html",
-          "published": "2026-09-04T07:53:20+00:00",
-          "summary": "Die staatlichen Milliardeninvestitionen in Rüstung machen sich bemerkbar. Die Zahl der Großaufträge für die Industrie legt im Juli erneut zu. Dafür kommen weniger Aufträge aus dem Ausland."
+          "title": "Thüringen: Großteil der BSW-Fraktion in Erfurt verlässt Partei – Zukunft der Landesregierung unklar",
+          "link": "https://www.handelsblatt.com/politik/deutschland/thueringen-bsw-abgeordnete-in-erfurt-verlassen-partei/100252041.html",
+          "published": "2026-09-04T10:01:43+00:00",
+          "summary": "Die BSW-Fraktion in Erfurt sagt sich von der Bundespartei los. Nach dem Austritt von drei Mitgliedern verlassen nun auch fast alle weiteren die Partei. Die Regierung wollen sie aber stützen."
         },
         {
-          "title": "Sport-Streamingdienst: DAZN-Sammelklage: Wie Sie jetzt noch mitmachen können",
-          "link": "https://www.handelsblatt.com/technik/it-internet/sport-streamingdienst-dazn-sammelklage-wie-sie-jetzt-noch-mitmachen-koennen/100252028.html",
-          "published": "2026-09-04T07:50:06+00:00",
-          "summary": "Die Verbraucherzentrale hat gegen Preiserhöhungen beim Streamingdienst DAZN geklagt. Jetzt beginnt die Verhandlung. Betroffene können sich kurzfristig noch ins Klageregister eintragen."
+          "title": "Handelsblatt-Autotest: Porsche Cayenne als Coupé – so brutal fühlen sich 1100 PS an",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/porsche-cayenne-turbo-e-auto-mit-mehr-als-1100-ps-lohnt-sich-das/100247742.html",
+          "published": "2026-09-04T09:56:00+00:00",
+          "summary": "Der neue Cayenne Turbo ist mehr Sportwagen als SUV. Im Test zeigt das Modell, warum es vielleicht nicht vernünftig, aber ein Erlebnis ist."
         },
         {
-          "title": "Stromnetz: Sabotageversuch an Umspannwerk in Dormagen – Fahnder suchen nach Verfasser eines Bekennerschreibens",
-          "link": "https://www.handelsblatt.com/politik/deutschland/verdaechtiger-gegenstand-umspannwerk-in-dormagen-polizei-spricht-von-sabotagedelikt-1/100251946.html",
-          "published": "2026-09-04T07:47:26+00:00",
-          "summary": "Nach den Attacken auf Umspannwerke in Nordrhein-Westfalen und Brandenburg liegt ein Bekennerschreiben vor. In der Nacht folgten weitere Polizeieinsätze bei Aachen und Oldenburg."
+          "title": "Nach Dürre: Frankreich plant Milliardenhilfe für die Landwirtschaft",
+          "link": "https://www.handelsblatt.com/politik/international/frankreich-milliardenhilfen-fuer-landwirtewegen-duerre-angekuendigt/100252057.html",
+          "published": "2026-09-04T09:53:45+00:00",
+          "summary": "Dem wichtigsten französischen Bauernverband zufolge dürften die Produktionsausfälle in diesem Sommer zehn Milliarden Euro übersteigen. Nun möchte die Politik eingreifen."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Deutsche Bank AG gibt Volkswagen (VW) vz-Aktie Buy",
-          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-bank-ag-gibt-volkswagen-vw-vz-aktie-buy-15918329",
-          "published": "2026-09-04T08:04:42+00:00",
-          "summary": "Deutsche Bank Research hat die Einstufung für Volkswagen mit einem Kursziel von 115 Euro auf \"Buy\" belassen. Der Autobauer habe die unter Anlegern sehr verbreitete Ansicht widerlegt, dass ein …"
+          "title": "Pulse Biosciences: Präzisionsschläge im Nanosekundenbereich: Wie das Unternehmen die Medizin revolutioniert",
+          "link": "https://www.finanzen.net/nachricht/aktien/Pulse-Biosciences-Praezisionsschlaege-im-Nanosekundenbereich-Wie-das-Unternehmen-die-Medizin-revolutioniert-15918482",
+          "published": "2026-09-04T10:04:56+00:00",
+          "summary": "Pulse Biosciences entwickelt mit der patentierten Nanosecond Pulsed Field Ablation ein hochpräzises, nicht-thermisches Verfahren, das krankhafte Zellen gezielt durch elektrische Impulswellen …"
         },
         {
-          "title": "Führungskraft fährt WashTec-Position im Depot zurück",
-          "link": "https://www.finanzen.net/nachricht/aktien/fuehrungskraft-faehrt-washtec-position-im-depot-zurueck-15918328",
-          "published": "2026-09-04T08:01:12+00:00",
-          "summary": "Am 31.08.2026 wurden bei WashTec Eigengeschäfte von Führungskräften verzeichnet. Die Transaktion wurde am 03.09.2026 gemeldet. Für einen Preis von jeweils 39,70 EUR verkaufte WashTec-Vorstand …"
+          "title": "GESAMT-ROUNDUP: Überraschende Einigung bei VW - aber Fragen bleiben",
+          "link": "https://www.finanzen.net/nachricht/aktien/gesamt-roundup-ueberraschende-einigung-bei-vw-aber-fragen-bleiben-15918481",
+          "published": "2026-09-04T10:03:40+00:00",
+          "summary": "WOLFSBURG (dpa-AFX) - Die überraschende Einigung im VW ( Volkswagen (VW) vz )-Aufsichtsrat auf ein umfassendes Sparpaket mit dem Aus für Zehntausende Stellen stößt an den betroffenen Standorten auf …"
         },
         {
-          "title": "Vidac Pharma-Aktie im Blick: Führungskraft schlägt Anteile los",
-          "link": "https://www.finanzen.net/nachricht/aktien/vidac-pharma-aktie-im-blick-fuehrungskraft-schlaegt-anteile-los-15918327",
-          "published": "2026-09-04T08:01:12+00:00",
-          "summary": "Am 01.09.2026 konnte bei Vidac Pharma eine Transaktion einer Führungskraft ausgemacht werden. Offiziell durchgeführt wurde die Transaktion am 03.09.2026. Herzberg, Dr. Max, Vorstand, reduzierte am …"
+          "title": "Aktien von Coca-Cola & Co.: Warum US-Firmen ihren Dividend-King-Titel verteidigen",
+          "link": "https://www.finanzen.net/nachricht/aktien/quellensteuer-check-aktien-von-coca-cola-co-warum-us-firmen-ihren-dividend-king-titel-verteidigen-00-15916289",
+          "published": "2026-09-04T10:03:00+00:00",
+          "summary": "Coca-Cola erhöhte die Dividende im Februar 2026 zum 64. Mal in Folge Kimberly-Clark steigerte die Ausschüttung im Januar 2026 zum 54. Mal Ohne W-8BEN-Formular verdoppelt sich die US-Quellensteuer auf …"
         },
         {
-          "title": "Vorstand schlägt Anteile los: So reagiert die Vidac Pharma-Aktie",
-          "link": "https://www.finanzen.net/nachricht/aktien/vorstand-schlaegt-anteile-los-so-reagiert-die-vidac-pharma-aktie-15918326",
-          "published": "2026-09-04T08:01:12+00:00",
-          "summary": "Am 01.09.2026 wurden bei Vidac Pharma Eigengeschäfte von Führungskräften registriert. Bei der BaFin ging die Transaktionsmeldung am 03.09.2026 ein. Von Vorstand Herzberg, DR. Max wurden am 01.09.2026 …"
+          "title": "Microsoft-Aktie: Warum Analysten in der neuen Berichtsstruktur einen Gewinn für Anleger sehen",
+          "link": "https://www.finanzen.net/nachricht/aktien/neue-segmentstruktur-microsoft-aktie-warum-analysten-in-der-neuen-berichtsstruktur-einen-gewinn-fuer-anleger-sehen-00-15918456",
+          "published": "2026-09-04T10:00:00+00:00",
+          "summary": "Microsoft wechselt ab dem Geschäftsjahr 2027 von drei auf zwei Segmente Konzern weist erstmals die Umsätze der Azure-Cloud separat aus Analysten sehen deutlichen Gewinn an Transparenz für Anleger"
         },
         {
-          "title": "Oskar: Für die Zukunft investieren - Unser Partner im Fokus",
-          "link": "https://www.finanzen.net/nachricht/etf/werbung-oskar-fuer-die-zukunft-investieren-unser-partner-im-fokus-13809307",
-          "published": "2026-09-04T08:01:00+00:00",
-          "summary": "Mehr erfahren"
+          "title": "Aktien Frankfurt: Dax-Stabilisierung steht vor US-Jobbericht auf wackligen Füßen",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-frankfurt-dax-stabilisierung-steht-vor-us-jobbericht-auf-wackligen-fuessen-15918480",
+          "published": "2026-09-04T09:59:38+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Der DAX hat am Freitag seine holprige Stabilisierung fortgesetzt. Vor dem mit Spannung erwarteten US-Arbeitsmarktbericht am frühen Nachmittag pendelte der deutsche Leitindex um …"
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX fester vor US-Arbeitsmarktdaten",
+          "title": "Marktbericht: DAX steckt bei 26.000 Punkten fest",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
-          "published": "2026-09-04T05:36:30+00:00",
-          "summary": "Kann sich der DAX über 26.000 Punkten halten? Die Hoffnung auf eine Zinspause in den USA hat die Wall Street gestern angetrieben. Aber heute steht mit den US-Arbeitsmarktdaten der nächste wichtige …"
+          "published": "2026-09-04T08:34:11+00:00",
+          "summary": "Vor wichtigen Daten vom US-Arbeitsmarkt scheuen die Anleger das Risiko. Der DAX tritt im frühen Handel auf der Stelle. Im Blickpunkt steht Volkswagen - der Börse gefallen die Sanierungspläne gut."
         },
         {
           "title": "Hedgefonds Elliott beflügelt die Telekom-Aktie",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Konjunktur: Auftragseingang für Industrie legt überraschend stark zu",
-          "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-auftragseingang-fuer-industrie-legt-ueberraschend-stark-zu/100252003.html",
-          "published": "2026-09-04T08:04:00+00:00",
-          "summary": "In der deutschen Industrie hellen sich die Aussichten auf, auch dank der staatlichen Großaufträge für Rüstung. Ökonomen sehen Rückenwind für die Konjunktur. Ein Wermutstropfen bleibt aber."
+          "title": "Wachstumsschwäche: Der Staat soll die Milliarden lockern",
+          "link": "https://www.wiwo.de/politik/deutschland/wachstumsschwaeche-der-staat-soll-die-milliarden-lockern/100251887.html",
+          "published": "2026-09-04T09:40:39+00:00",
+          "summary": "Die grünnahe Wirtschaftsvereinigung schlägt neue Regeln und den Staat als Ankerinvestor vor, um Privatkapital für Verkehrswege, Stromleitungen und Wasserstoffnetze zu hebeln."
         },
         {
-          "title": "Best of Technology Award: Hilf mir, schaff mich nicht ab",
-          "link": "https://www.wiwo.de/unternehmen/it/best-of-technology-award-hilf-mir-schaff-mich-nicht-ab/100247982.html",
-          "published": "2026-09-04T08:02:34+00:00",
-          "summary": "Die Gewinner des Wettbewerbs zeigen KI ohne Dystopie und Größenwahn: Sie liest, prüft, warnt, sortiert – und stellt sich in den Dienst des Menschen."
+          "title": "Gehalt: Trotz neuer Rolle will mein Chef mir nicht mehr zahlen. Wie vorgehen?",
+          "link": "https://www.wiwo.de/erfolg/beruf/befoerderung-ohne-gehaltserhoehung-so-verhandeln-sie-richtig/100249827.html",
+          "published": "2026-09-04T09:40:00+00:00",
+          "summary": "Unser Leser hat einen neuen Job. Für ihn war klar: Diese Beförderung würde auch mehr Geld bedeuten. Sein Arbeitgeber sieht das anders. Was kann er tun?"
         },
         {
-          "title": "Ergebnisse Mikrozensus: 5,3 Millionen Menschen wünschen sich andere Arbeitszeit",
-          "link": "https://www.wiwo.de/erfolg/beruf/ergebnisse-mikrozensus-53-millionen-menschen-wuenschen-sich-andere-arbeitszeit/100252015.html",
-          "published": "2026-09-04T07:45:50+00:00",
-          "summary": "Jede neunte Erwerbsperson in Deutschland will ihre Arbeitszeit ändern. Eine deutliche Mehrheit würde trotz Lohneinbußen kürzertreten."
+          "title": "Eigenheim: Wie sichere ich mich ab, wenn ich mit meinem Partner ein Haus saniere?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/haus-sanieren-mit-partner-so-sichern-sie-sich-ab/100251500.html",
+          "published": "2026-09-04T09:38:00+00:00",
+          "summary": "Eine Leserin will mit ihrem Partner ein altes Haus sanieren. Doch im Grundbuch steht nur er. Verheiratet sind die beiden nicht. Wie kann sie sich absichern?"
         },
         {
-          "title": "Isar Aerospace: Wie viel Zeit bleibt den deutschen Raketenhoffnungen noch?",
-          "link": "https://www.wiwo.de/technologie/isar-aerospace-startet-schafft-deutschland-den-sprung-ins-all/100251808.html",
-          "published": "2026-09-04T07:04:18+00:00",
-          "summary": "Isar Aerospace probt jetzt den Flug ins All, weitere deutsche Raketen wollen bald abheben. Es wird Zeit. Schafft Deutschland noch den Sprung in den Weltraum, bevor Elon Musks Starship die Regeln neu …"
+          "title": "Bundeshaushalt: Rechnungshof warnt vor ausuferndem Schuldenkurs",
+          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-rechnungshof-warnt-vor-ausuferndem-schuldenkurs/100252048.html",
+          "published": "2026-09-04T09:34:21+00:00",
+          "summary": "Die Sommerpause endet, und das Parlament startet direkt mit einer Haushaltswoche. Die amtlichen Finanzkontrolleure geben der Politik eine prinzipielle Mahnung mit."
         },
         {
-          "title": "Landtagswahl Sachsen-Anhalt: Was man über die Wahl in Sachsen-Anhalt wissen sollte",
-          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-sachsen-anhalt-was-man-ueber-die-wahl-in-sachsen-anhalt-wissen-sollte/100251989.html",
-          "published": "2026-09-04T06:35:55+00:00",
-          "summary": "Die Wahl in Sachsen-Anhalt gilt als brisant und könnte historisch sein. Knapp 1,7 Millionen Bürger entscheiden, ob sich das politische Gefüge im Land verschiebt."
+          "title": "C24 Bank: Die Digitalbank C24 wächst – und die Probleme wachsen mit",
+          "link": "https://www.wiwo.de/unternehmen/banken/c24-bank-die-digitalbank-waechst-und-die-probleme-wachsen-mit/100247839.html",
+          "published": "2026-09-04T09:34:00+00:00",
+          "summary": "Die einst von Check24 gegründete Digitalbank C24 hat mehr als eine Million Kunden. Aber sie schreibt hohe Verluste, hat die Finanzaufsicht im Haus – und ein Geschäftsmodell ohne Ambitionen."
         }
       ],
       "error": null
@@ -242,6 +242,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "DNA einer 3700 Jahre alten Seuche in mittelalterlichen Büchern gefunden",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/biotechnik/3700-jahre-alte-seuche-mittelalterliche-buecher-liefern-ueberraschende-virus-dna/",
+          "published": "2026-09-04T09:39:02+00:00",
+          "summary": "Forschende finden Schafpocken-DNA in 1000 Jahre alten Handschriften. Pergament und bronzezeitliche Tierzähne enthüllen 3700 Jahre Virusevolution."
+        },
+        {
+          "title": "50.000 Stellen weg, doch eine andere Zahl zeigt, wie radikal VW wirklich umbaut",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/50000-stellen-weg-doch-eine-andere-zahl-zeigt-wie-radikal-vw-wirklich-umbaut/",
+          "published": "2026-09-04T08:33:50+00:00",
+          "summary": "Volkswagen zieht die Notbremse: Rund 50.000 weitere Stellen sollen weg, für vier deutsche Werke fehlt die langfristige Perspektive. Gleichzeitig halbiert VW seine Modellpalette. Wie tief der Umbau …"
+        },
+        {
+          "title": "Dieses Flugzeug wiegt nur 138 Kilo und soll bis in die Stratosphäre",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/dieses-flugzeug-wiegt-nur-138-kg-und-soll-bis-in-die-stratosphaere/",
+          "published": "2026-09-04T07:30:00+00:00",
+          "summary": "HAP-alpha hebt erstmals ab. Das ungewöhnliche Solarflugzeug des DLR soll künftig in der Stratosphäre Erdbeobachtungstechnik erproben."
+        },
+        {
           "title": "Recruiting Tag ohne Stress: Diese Strategie empfiehlt ein Karriere-Coach",
           "link": "https://www.ingenieur.de/karriere/bewerbung/karrieremesse-ohne-stress-diese-strategie-empfiehlt-ein-karriere-coach/",
           "published": "2026-09-04T07:00:00+00:00",
@@ -252,24 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/fuer-60-jahre-geplant-nach-6-jahren-gesperrt-was-ist-bei-dieser-holzbruecke-schiefgelaufen/",
           "published": "2026-09-04T06:00:00+00:00",
           "summary": "Die Wildbrücke bei Thyrow ist erst sechs Jahre alt. Trotzdem ist die B101 wegen Rissen gesperrt. Die Ursache bleibt bislang ungeklärt."
-        },
-        {
-          "title": "27 m Spannweite, nur 138 kg: DLR-Solarflugzeug hebt erstmals ab",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/27-m-spannweite-nur-138-kg-dlr-solarflugzeug-hebt-erstmals-ab/",
-          "published": "2026-09-04T05:30:00+00:00",
-          "summary": "HAP-alpha hebt erstmals ab. Das ungewöhnliche Solarflugzeug des DLR soll künftig in der Stratosphäre Erdbeobachtungstechnik erproben."
-        },
-        {
-          "title": "Brandschutz im Betrieb: Wann die 5-%-Regel nicht ausreicht",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/arbeitssicherheit/brandschutz-im-betrieb-wann-die-5-regel-nicht-ausreicht/",
-          "published": "2026-09-04T05:00:00+00:00",
-          "summary": "Die ASR A2.2 nennt 5 % Brandschutzhelfer und maximal 20 m zum Feuerlöscher. Doch beide Werte gelten nicht pauschal. Was Betriebe wissen müssen."
-        },
-        {
-          "title": "Wasserstoff statt Diesel: Dieser Motor soll Funkmasten im Ernstfall versorgen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoff-statt-diesel-dieser-motor-soll-funkmasten-im-ernstfall-versorgen/",
-          "published": "2026-09-04T04:30:00+00:00",
-          "summary": "Ein Energiecontainer mit Wasserstoffmotor, Batterie und Photovoltaik soll Funkmasten bei Blackouts mehrere Tage zuverlässig mit Strom versorgen."
         }
       ],
       "error": null
