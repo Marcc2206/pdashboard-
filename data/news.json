@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T02:08:46+00:00",
+  "generatedAt": "2026-09-04T04:09:10+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "NRW: Sabotage-Versuch an Umspannwerk in Dormagen",
-          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-moeglicherweise-sabotage-versuch-sensible-gegenstaende-bei-umspannwerk-in-dormagen-100.html",
-          "published": "2026-09-04T01:27:00+00:00",
-          "summary": "Nach dem Fund eines verdächtigen Gegenstands an einem Umspannwerk in Dormagen geht die Polizei von einem Sabotagedelikt aus. Offenbar sollte ein Kurzschluss hergestellt werden. Es liege ein …"
+          "title": "Erneut Sabotageversuch an Umspannwerk in NRW",
+          "link": "https://www.tagesschau.de/video/video-1642424.html",
+          "published": "2026-09-04T04:03:38+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Parteitag von Reform UK: Britische Rechtspopulisten unter Druck",
+          "link": "https://www.tagesschau.de/ausland/europa/reform-uk-parteitag-100.html",
+          "published": "2026-09-04T03:10:20+00:00",
+          "summary": "Lange lag die Reform UK-Partei von Nigel Farage vorne in den Umfragen. Doch Finanz- und Spendenskandale, Konkurrenz von rechtsaußen und die Beliebtheit des neuen Premiers Burnham setzen der Partei …"
+        },
+        {
+          "title": "Italiens Ministerpräsidentin Meloni stellt Regierungsrekord auf",
+          "link": "https://www.tagesschau.de/ausland/italien-meloni-124.html",
+          "published": "2026-09-04T03:10:01+00:00",
+          "summary": "Was in anderen Ländern die Regel ist, reicht in Italien für einen Rekord: Seit knapp vier Jahren regiert Ministerpräsidentin Meloni ununterbrochen - länger als jeder Regierungschef vor ihr. Wie hat …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1642402.html",
-          "published": "2026-09-04T00:40:53+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1642410.html",
+          "published": "2026-09-04T03:08:51+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80768.html",
-          "published": "2026-09-03T23:15:44+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12828.html",
-          "published": "2026-09-03T21:25:07+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Ellen Ehni, WDR, mit dem ARD-DeutschlandTrend zur Arbeit der Regierung und zum Bedrohungsgefühl durch Russland",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1642354.html",
-          "published": "2026-09-03T20:51:09+00:00",
-          "summary": ""
+          "title": "Trump will Geld von Europa für Ukraine-Hilfen zurück",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-hilfen-forderung-europa-100.html",
+          "published": "2026-09-04T03:08:47+00:00",
+          "summary": "US-Präsident Trump will von europäischen Staaten die Rückzahlung von US-Militärhilfen für die Ukraine fordern. Es gehe dabei um \"Hunderte Milliarden Dollar\", die sein Vorgänger Biden der Ukraine und …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Klimaschutz: So dürfte der Kompromiss für die Reform des Emissionshandels aussehen",
-          "link": "https://www.handelsblatt.com/politik/international/klimaschutz-so-duerfte-der-kompromiss-fuer-die-reform-des-emissionshandels-aussehen/100250752.html",
-          "published": "2026-09-04T02:05:22+00:00",
-          "summary": "Die Industrie läuft Sturm gegen den Plan der EU-Kommission, die Vergabe kostenloser CO₂‑Zertifikate mit einer Investitionspflicht zu verknüpfen. Nun zeichnet sich ein Kompromiss ab."
+          "title": "„Innovation For All“: IFA-Flops: Von 3D-Brillen bis zu smarten Wasserkochern",
+          "link": "https://www.handelsblatt.com/technik/it-internet/innovation-for-all-ifa-flops-von-3d-brillen-bis-zu-smarten-wasserkochern/100251970.html",
+          "published": "2026-09-04T04:00:07+00:00",
+          "summary": "Viele Innovationen auf der IFA galten als Zukunftstrend – doch manche verschwanden schnell wieder. Welche Technik sich nicht durchsetzte und warum."
         },
         {
-          "title": "Halbleiter: Messebesuch – die Großmacht Russland wird zu Chinas Juniorpartner",
-          "link": "https://www.handelsblatt.com/politik/international/halbleiter-messebesuch-die-grossmacht-russland-wird-zu-chinas-juniorpartner/100249440.html",
-          "published": "2026-09-04T02:01:20+00:00",
-          "summary": "Moskaus Chipindustrie wird immer abhängiger von chinesischen Lieferketten. Das zeigt sich auf der großen Halbleitermesse CSEAC in Wuxi. Ein Blick hinter die Kulissen."
+          "title": "Morning Briefing: VW kann Kompromisse schließen, aber reicht das?",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-vw-kann-kompromisse-schliessen-aber-reicht-das/100251924.html",
+          "published": "2026-09-04T03:52:14+00:00",
+          "summary": "Dem Wolfsburger Konzern gelingt die Einigung auf einen Sanierungsplan. Der beinhaltet fast alle Vorschläge des Vorstands – mit einer Ausnahme."
         },
         {
-          "title": "Deutscher Wirtschaftsbuchpreis 2026: Welches Wirtschaftsbuch ist Ihr Favorit?",
-          "link": "https://www.handelsblatt.com/arts_und_style/literatur/wirtschaftsbuchpreis/deutscher-wirtschaftsbuchpreis-2026-welches-wirtschaftsbuch-ist-ihr-favorit/100251599.html",
-          "published": "2026-09-04T02:00:00+00:00",
-          "summary": "Zum fünften Mal wird beim Deutschen Wirtschaftsbuchpreis auch eine Auszeichnung vergeben, über die nur die Leserinnen und Leser entscheiden. Hier geht es zur Abstimmung."
+          "title": "Milliardenschaden: Mehr Großinsolvenzen – Automobilbranche besonders betroffen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/milliardenschaden-mehr-grossinsolvenzen-automobilbranche-besonders-betroffen/100251967.html",
+          "published": "2026-09-04T03:30:06+00:00",
+          "summary": "Im ersten Halbjahr meldet die Automobilbranche die meisten Großinsolvenzen. Welche Branchen noch unter Druck stehen und wie sich der Trend international entwickelt."
         },
         {
-          "title": "Rüstung: Kursrutsch, Umsatzwarnung, Lieferprobleme – wie Armin Papperger bei Rheinmetall an Grenzen stößt",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-wie-armin-papperger-bei-rheinmetall-an-seine-grenzen-stoesst/100251097.html",
-          "published": "2026-09-04T02:00:00+00:00",
-          "summary": "Risse im Rüstungswunder von Düsseldorf: Die Wachstumsgeschichte von Rheinmetall bekommt Kratzer. Im Mittelpunkt der Kritik steht Konzernchef Armin Papperger. Hat er sich überschätzt?"
+          "title": "Künstliche Intelligenz: OpenAI gibt leistungsstärkerem ChatGPT-6 mehr Leitplanken",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-gibt-leistungsstaerkerem-chatgpt-6-mehr-leitplanken/100251910.html",
+          "published": "2026-09-04T03:28:02+00:00",
+          "summary": "Im Wettlauf der KI-Entwickler sieht sich OpenAI mit dem neuen ChatGPT-6 wieder vorn. Zugleich sorgen die verbesserten Fähigkeiten Künstlicher Intelligenz für warnende Worte."
         },
         {
-          "title": "Motivation: Wie ich lernte, die Disziplin im Training zu lieben",
-          "link": "https://www.handelsblatt.com/meinung/motivation-wie-ich-lernte-die-disziplin-im-training-zu-lieben/100249005.html",
-          "published": "2026-09-04T02:00:00+00:00",
-          "summary": "Um erfolgreich zu sein, bedarf es Fleiß – und weniger Talent, als viele meinen. Disziplin gilt als die Voraussetzung schlechthin, um Ziele zu erreichen. Doch wie umarmt man sie endlich?"
+          "title": "Geldregen oder mieser Deal?: Abfindung annehmen oder ablehnen? Das müssen Sie wissen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/geldregen-oder-mieser-deal-abfindung-annehmen-oder-ablehnen-das-muessen-sie-wissen/100251962.html",
+          "published": "2026-09-04T03:03:04+00:00",
+          "summary": "Der Arbeitgeber bietet Geld für die einvernehmliche Trennung. Wann ist so ein Aufhebungsvertrag ein gutes Geschäft? Wann sagt man besser Nein? Alles, was Sie zum Thema Abfindung wissen sollten."
         }
       ],
       "error": null
@@ -95,7 +95,7 @@
           "title": "Fed-Gouverneur beruhigt Sorgen: Hoffnungen auf Zinspause beflügeln Wall Street",
           "link": "https://www.n-tv.de/wirtschaft/Hoffnungen-auf-Zinspause-befluegeln-Wall-Street-id31267925.html",
           "published": "2026-09-03T20:53:56+00:00",
-          "summary": "In der Hoffnung auf eine anhaltende Zinspause der US-Notenbank Fed greifen die Anleger an der Wall Street bei Aktien kräftig zugegriffen. Software-Titel waren nach einem ermutigenden Ausblick von …"
+          "summary": "In der Hoffnung auf eine anhaltende Zinspause der US-Notenbank Fed greifen die Anleger an der Wall Street bei Aktien kräftig zu. Software-Titel sind nach einem ermutigenden Ausblick von Snowflake …"
         },
         {
           "title": "\"Erhöhen den Mehrwert\": Netlix-Abos werden wieder teurer",
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "54 Prozent im Plus: Wie viel Luft bleibt der ASML-Aktie 2026 noch nach oben?",
-          "link": "https://www.finanzen.net/nachricht/aktien/54-prozent-im-plus-wie-viel-luft-bleibt-der-asml-aktie-2026-noch-nach-oben-15917811",
-          "published": "2026-09-04T01:37:38+00:00",
-          "summary": "Nach kräftigen Kursgewinnen seit Jahresbeginn stellt sich die Frage, ob ASML-Aktionäre auf noch mehr hoffen dürfen oder China-Risiken die Rally bremsen."
+          "title": "TAGESVORSCHAU: Termine am 4. September 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-4-september-2026-15917864",
+          "published": "2026-09-04T04:04:39+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine am Freitag, den 4. September^TERMINE UNTERNEHMEN 08:00 GBR: Standard Life, HalbjahreszahlenGBR: Unilever, Capital Markets DayTERMINE KONJUNKTUR …"
         },
         {
-          "title": "UBS baut US-Depot aus: Milliardenschwere Zukäufe bei Apple und Microsoft",
-          "link": "https://www.finanzen.net/nachricht/aktien/q2-depot-ubs-baut-us-depot-aus-milliardenschwere-zukaeufe-bei-apple-und-microsoft-15915933",
-          "published": "2026-09-04T01:36:11+00:00",
-          "summary": "Die UBS Group AG hat im zweiten Quartal 2026 Einblicke in ihre im US-Markt gehaltenen Beteiligungen gewährt. Aus dem aktuellen Formular 13F zum Stichtag am 30. Juni 2026 geht hervor, dass die …"
+          "title": "Aktualisierte Konjunkturprognosen für Eurozone und USA vom 04.09.2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktualisierte-konjunkturprognosen-fuer-eurozone-und-usa-vom-04-09-2026-15917863",
+          "published": "2026-09-04T04:04:39+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Am 4. September werden in der Eurozone und in den USA folgende Konjunkturdaten erwartet: ^ Prognose VorwertEUROZONE08.00 UhrDeutschlandAuftragseingang Industrie …"
         },
         {
-          "title": "Morgan Stanley traut Amazon-Aktie bis zu 500 US-Dollar zu",
-          "link": "https://www.finanzen.net/nachricht/aktien/morgan-stanley-traut-amazon-aktie-bis-zu-500-us-dollar-zu-15917810",
-          "published": "2026-09-04T01:35:08+00:00",
-          "summary": "Die Amazon-Aktie könnte nach einem optimistischen Szenario von Morgan Stanley bis Ende 2027 auf 500 US-Dollar steigen."
+          "title": "WOCHENVORSCHAU: Termine bis 17. September 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-17-september-2026-15917862",
+          "published": "2026-09-04T04:04:39+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Donnerstag, den 17. September^-------------------------------------------------------------------------------------- TERMINE UNTERNEHMEN08:00 …"
         },
         {
-          "title": "Aktien von Eli Lilly, Zebra & Co.: Sieben Wachstumswerte trotzen dem Marktdruck",
-          "link": "https://www.finanzen.net/nachricht/aktien/wachstumswerte-aktien-von-eli-lilly-zebra-co-sieben-wachstumswerte-trotzen-dem-marktdruck-00-15914066",
-          "published": "2026-09-04T01:34:55+00:00",
-          "summary": "Wolfe Research filtert sieben Wachstumswerte, die dem Marktdruck standhalten Gefragt sind ein Quartalsbeat, 15 Prozent Umsatzplus 2026 und Kursmomentum Bei der Bewertung stechen zwei der sieben Titel …"
+          "title": "Finanzexpertin Suze Orman: Warum jeder Bitcoin besitzen sollte",
+          "link": "https://www.finanzen.net/nachricht/devisen/kaufempfehlung-finanzexpertin-suze-orman-warum-jeder-bitcoin-besitzen-sollte-13876135",
+          "published": "2026-09-04T04:00:00+00:00",
+          "summary": "Bitcoin ein Muss für jedes Portfolio • Skepsis gegenüber Bitcoin als Währung • Junge Generationen als Treiber Bitcoin als Teil der Diversifizierung ..."
         },
         {
-          "title": "SNB setzt weiter auf Tech-Aktien: So hat die Schweizerische Nationalbank in Q2 2026 investiert",
-          "link": "https://www.finanzen.net/nachricht/aktien/snb-setzt-weiter-auf-tech-aktien-so-hat-die-schweizerische-nationalbank-in-q2-2026-investiert-15917802",
-          "published": "2026-09-04T01:23:07+00:00",
-          "summary": "Ein Blick in das US-Portfolio der Schweizerischen Nationalbank (SNB) verrät: Bei diesen Tech-Giganten hat die Notenbank im jüngsten Quartal nachjustiert."
+          "title": "VW-Aktie zieht kräftig an: Aufsichtsrat winkt Zukunftsplan durch - Weitere rund 50.000 Jobs sollen wegfallen",
+          "link": "https://www.finanzen.net/nachricht/aktien/transformation-vw-aktie-zieht-kraeftig-an-aufsichtsrat-winkt-zukunftsplan-durch-weitere-rund-50-000-jobs-sollen-wegfallen-15917528",
+          "published": "2026-09-04T03:52:00+00:00",
+          "summary": "Überraschende Einigung in Wolfsburg: Der Aufsichtsrat von Volkswagen hat dem Sparpaket des Konzernvorstands einstimmig zugestimmt. Dabei will der Autobauer in den kommenden Jahren unter anderem …"
         }
       ],
       "error": null
