@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:13:16+00:00",
+  "generatedAt": "2026-09-04T02:08:46+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,22 +8,22 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "NRW: Sabotage-Versuch an Umspannwerk in Dormagen",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-moeglicherweise-sabotage-versuch-sensible-gegenstaende-bei-umspannwerk-in-dormagen-100.html",
+          "published": "2026-09-04T01:27:00+00:00",
+          "summary": "Nach dem Fund eines verdächtigen Gegenstands an einem Umspannwerk in Dormagen geht die Polizei von einem Sabotagedelikt aus. Offenbar sollte ein Kurzschluss hergestellt werden. Es liege ein …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1642402.html",
+          "published": "2026-09-04T00:40:53+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-80768.html",
           "published": "2026-09-03T23:15:44+00:00",
           "summary": ""
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1642342.html",
-          "published": "2026-09-03T23:02:55+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Abschussvorrichtungen an Umspannwerk Dormagen entdeckt",
-          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-moeglicherweise-sabotage-versuch-sensible-gegenstaende-bei-umspannwerk-in-dormagen-100.html",
-          "published": "2026-09-03T22:49:00+00:00",
-          "summary": "Die Polizei ist in Dormagen bei einem Umspannwerk im Einsatz. Nach WDR-Informationen wurden dort Abschussvorrichtungen gefunden. Schäden an Stromleitungen wurden aber bislang nicht festgestellt."
         },
         {
           "title": "tagesthemen",
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Patentstreit: BASF verklagt Apple wegen Patentverletzung bei Gesichtserkennung",
-          "link": "https://www.handelsblatt.com/technik/patentstreit-basf-verklagt-apple-wegen-patentverletzung-bei-gesichtserkennung/100251932.html",
-          "published": "2026-09-03T23:05:44+00:00",
-          "summary": "Apple soll in iPhones und iPads unerlaubt Technik der BASF-Tochter trinamiX einsetzen. Der Chemiekonzern fordert Schadenersatz und Unterlassung."
+          "title": "Klimaschutz: So dürfte der Kompromiss für die Reform des Emissionshandels aussehen",
+          "link": "https://www.handelsblatt.com/politik/international/klimaschutz-so-duerfte-der-kompromiss-fuer-die-reform-des-emissionshandels-aussehen/100250752.html",
+          "published": "2026-09-04T02:05:22+00:00",
+          "summary": "Die Industrie läuft Sturm gegen den Plan der EU-Kommission, die Vergabe kostenloser CO₂‑Zertifikate mit einer Investitionspflicht zu verknüpfen. Nun zeichnet sich ein Kompromiss ab."
         },
         {
-          "title": "Kongresswahlen: Trump zieht im Streit um Briefwahl erneut vor Supreme Court",
-          "link": "https://www.handelsblatt.com/politik/international/kongresswahlen-trump-zieht-im-streit-um-briefwahl-erneut-vor-supreme-court/100251928.html",
-          "published": "2026-09-03T22:51:46+00:00",
-          "summary": "Kurz vor Beginn der Briefwahl für die „Midterms“ will Trump neue Regeln durchdrücken. Der Rechtsstreit darüber zieht sich schon länger, nun wendet sich die Regierung abermals an das oberste Gericht."
+          "title": "Halbleiter: Messebesuch – die Großmacht Russland wird zu Chinas Juniorpartner",
+          "link": "https://www.handelsblatt.com/politik/international/halbleiter-messebesuch-die-grossmacht-russland-wird-zu-chinas-juniorpartner/100249440.html",
+          "published": "2026-09-04T02:01:20+00:00",
+          "summary": "Moskaus Chipindustrie wird immer abhängiger von chinesischen Lieferketten. Das zeigt sich auf der großen Halbleitermesse CSEAC in Wuxi. Ein Blick hinter die Kulissen."
         },
         {
-          "title": "+++ Iran-Krieg +++: US-Vize Vance würde Konflikt mit dem Iran „nicht als Krieg bezeichnen“",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-vize-vance-wuerde-konflikt-mit-dem-iran-nicht-als-krieg-bezeichnen/100136895.html",
-          "published": "2026-09-03T22:51:00+00:00",
-          "summary": "Iran greift erneut Ziele in Kuwait an +++ Netanjahu: Israel lässt fünf libanesische Zivilisten frei +++ Bürgerkrieg im Jemen spitzt sich weiter zu +++ Der Newsblog."
+          "title": "Deutscher Wirtschaftsbuchpreis 2026: Welches Wirtschaftsbuch ist Ihr Favorit?",
+          "link": "https://www.handelsblatt.com/arts_und_style/literatur/wirtschaftsbuchpreis/deutscher-wirtschaftsbuchpreis-2026-welches-wirtschaftsbuch-ist-ihr-favorit/100251599.html",
+          "published": "2026-09-04T02:00:00+00:00",
+          "summary": "Zum fünften Mal wird beim Deutschen Wirtschaftsbuchpreis auch eine Auszeichnung vergeben, über die nur die Leserinnen und Leser entscheiden. Hier geht es zur Abstimmung."
         },
         {
-          "title": "+++ USA +++: US-Dieselpreis erreicht Rekordhoch",
-          "link": "https://www.handelsblatt.com/politik/international/usa-us-dieselpreis-erreicht-rekordhoch/29669594.html",
-          "published": "2026-09-03T22:50:00+00:00",
-          "summary": "Regierung zieht im Streit um Briefwahl erneut vor Supreme Court +++ Trump kassiert Teilniederlage bei neuem Geburtsrechtsplan +++ Der Newsblog."
+          "title": "Rüstung: Kursrutsch, Umsatzwarnung, Lieferprobleme – wie Armin Papperger bei Rheinmetall an Grenzen stößt",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-wie-armin-papperger-bei-rheinmetall-an-seine-grenzen-stoesst/100251097.html",
+          "published": "2026-09-04T02:00:00+00:00",
+          "summary": "Risse im Rüstungswunder von Düsseldorf: Die Wachstumsgeschichte von Rheinmetall bekommt Kratzer. Im Mittelpunkt der Kritik steht Konzernchef Armin Papperger. Hat er sich überschätzt?"
         },
         {
-          "title": "Volkswagen: Unerwartete Wende in Wolfsburg – VW-Aufsichtsrat stimmt Sanierungsplan des Vorstands zu",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-aufsichtsrat-stimmt-sanierungsplan-des-vorstands-zu/100251905.html",
-          "published": "2026-09-03T22:36:15+00:00",
-          "summary": "Nach wochenlangem Streit wendet Volkswagen eine historische Eskalation ab. Der Aufsichtsrat entscheidet, dass 50.000 Arbeitsplätze abgebaut werden. Auch eine wichtige Personalie ist nun klar."
+          "title": "Motivation: Wie ich lernte, die Disziplin im Training zu lieben",
+          "link": "https://www.handelsblatt.com/meinung/motivation-wie-ich-lernte-die-disziplin-im-training-zu-lieben/100249005.html",
+          "published": "2026-09-04T02:00:00+00:00",
+          "summary": "Um erfolgreich zu sein, bedarf es Fleiß – und weniger Talent, als viele meinen. Disziplin gilt als die Voraussetzung schlechthin, um Ziele zu erreichen. Doch wie umarmt man sie endlich?"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "GNW-News: Patton und alfanar kooperieren als PartnerT zur Beschleunigung der sicheren digitalen Transformation der saudischen Strominfrastruktur",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-patton-und-alfanar-kooperieren-als-partnert-zur-beschleunigung-der-sicheren-digitalen-transformation-der-saudischen-strominfrastruktur-15917773",
-          "published": "2026-09-03T23:46:39+00:00",
-          "summary": "^GAITHERSBURG, Maryland, und PARIS, Sept. 04, 2026 (GLOBE NEWSWIRE) -- Patton(http://www.patton.com/) LLC - ein in den USA ansässiger Entwickler von Technologien für industrielle Netzwerktechnik …"
+          "title": "54 Prozent im Plus: Wie viel Luft bleibt der ASML-Aktie 2026 noch nach oben?",
+          "link": "https://www.finanzen.net/nachricht/aktien/54-prozent-im-plus-wie-viel-luft-bleibt-der-asml-aktie-2026-noch-nach-oben-15917811",
+          "published": "2026-09-04T01:37:38+00:00",
+          "summary": "Nach kräftigen Kursgewinnen seit Jahresbeginn stellt sich die Frage, ob ASML-Aktionäre auf noch mehr hoffen dürfen oder China-Risiken die Rally bremsen."
         },
         {
-          "title": "Zurich Insurance baut US-Depot um: Mehr AMD und Eli Lilly, weniger Microsoft",
-          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-zurich-insurance-baut-us-depot-um-mehr-amd-und-eli-lilly-weniger-microsoft-15911472",
-          "published": "2026-09-03T21:32:00+00:00",
-          "summary": "Die Zurich Insurance Group hat ihre US-Aktienbeteiligungen für das zweite Quartal 2026 offengelegt. Aus dem aktuellen 13F-Filing zum 30. Juni 2026 geht hervor, dass der Schweizer Versicherungskonzern …"
+          "title": "UBS baut US-Depot aus: Milliardenschwere Zukäufe bei Apple und Microsoft",
+          "link": "https://www.finanzen.net/nachricht/aktien/q2-depot-ubs-baut-us-depot-aus-milliardenschwere-zukaeufe-bei-apple-und-microsoft-15915933",
+          "published": "2026-09-04T01:36:11+00:00",
+          "summary": "Die UBS Group AG hat im zweiten Quartal 2026 Einblicke in ihre im US-Markt gehaltenen Beteiligungen gewährt. Aus dem aktuellen Formular 13F zum Stichtag am 30. Juni 2026 geht hervor, dass die …"
         },
         {
-          "title": "Trump zieht im Streit um Briefwahl erneut vor Supreme Court",
-          "link": "https://www.finanzen.net/nachricht/aktien/trump-zieht-im-streit-um-briefwahl-erneut-vor-supreme-court-15917662",
-          "published": "2026-09-03T21:13:38+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Im Rechtsstreit um verschärften Regeln bei der Briefwahl hat die Regierung von Präsident Donald Trump erneut den Obersten Gerichtshof eingeschaltet. Sie forderte das Gericht …"
+          "title": "Morgan Stanley traut Amazon-Aktie bis zu 500 US-Dollar zu",
+          "link": "https://www.finanzen.net/nachricht/aktien/morgan-stanley-traut-amazon-aktie-bis-zu-500-us-dollar-zu-15917810",
+          "published": "2026-09-04T01:35:08+00:00",
+          "summary": "Die Amazon-Aktie könnte nach einem optimistischen Szenario von Morgan Stanley bis Ende 2027 auf 500 US-Dollar steigen."
         },
         {
-          "title": "Portfolio-Update: GFT - Prognoseanhebung liegt in der Luft",
-          "link": "https://www.finanzen.net/nachricht/aktien/value-stars-kolumne-portfolio-update-gft-prognoseanhebung-liegt-in-der-luft-15916456",
-          "published": "2026-09-03T21:07:00+00:00",
-          "summary": "Eine Kolumne von Holger Steffen, Anlage­experte und Berater für den Value-Stars-Deutschland-Index . Vor knapp zwei Monaten ..."
+          "title": "Aktien von Eli Lilly, Zebra & Co.: Sieben Wachstumswerte trotzen dem Marktdruck",
+          "link": "https://www.finanzen.net/nachricht/aktien/wachstumswerte-aktien-von-eli-lilly-zebra-co-sieben-wachstumswerte-trotzen-dem-marktdruck-00-15914066",
+          "published": "2026-09-04T01:34:55+00:00",
+          "summary": "Wolfe Research filtert sieben Wachstumswerte, die dem Marktdruck standhalten Gefragt sind ein Quartalsbeat, 15 Prozent Umsatzplus 2026 und Kursmomentum Bei der Bewertung stechen zwei der sieben Titel …"
         },
         {
-          "title": "Aktie im Fokus: Turing peilt US-Expansion und Milliardenbewertung bei möglichem Börsengang an",
-          "link": "https://www.finanzen.net/nachricht/aktien/boersenplaene-aktie-im-fokus-turing-peilt-us-expansion-und-milliardenbewertung-bei-moeglichem-boersengang-an-00-15911621",
-          "published": "2026-09-03T21:07:00+00:00",
-          "summary": "Turing will innerhalb eines Jahres einen Standort in den USA eröffnen • Ein Börsengang in den USA oder Japan wird für 2030 oder 2031 erwartet • CEO Issei Yamamoto hält dabei eine Bewertung von rund …"
+          "title": "SNB setzt weiter auf Tech-Aktien: So hat die Schweizerische Nationalbank in Q2 2026 investiert",
+          "link": "https://www.finanzen.net/nachricht/aktien/snb-setzt-weiter-auf-tech-aktien-so-hat-die-schweizerische-nationalbank-in-q2-2026-investiert-15917802",
+          "published": "2026-09-04T01:23:07+00:00",
+          "summary": "Ein Blick in das US-Portfolio der Schweizerischen Nationalbank (SNB) verrät: Bei diesen Tech-Giganten hat die Notenbank im jüngsten Quartal nachjustiert."
         }
       ],
       "error": null
