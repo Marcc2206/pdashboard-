@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:11:54+00:00",
+  "generatedAt": "2026-09-04T14:08:22+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Wie mit \"Durchstechereien\" Politik gemacht wird",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/leaks-politik-bundesregierung-100.html",
+          "published": "2026-09-04T13:21:25+00:00",
+          "summary": "Erst die Vereine, die Zuckersteuer, dann ein interner Brief: Durchgestochene Papiere sind ein altes Mittel der Politik - im \"Herbst der Reformen\" und bei knappen Mehrheitsverhältnissen aber ein …"
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80762.html",
-          "published": "2026-09-04T12:10:43+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80764.html",
+          "published": "2026-09-04T13:16:31+00:00",
           "summary": ""
         },
         {
-          "title": "Thüringen: Weitere Abgeordnete verlassen BSW",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-thueringen-abgeordnete-verlassen-fraktion-100.html",
-          "published": "2026-09-04T11:59:51+00:00",
-          "summary": "In Thüringen verlassen weitere Abgeordnete das BSW, unter ihnen auch die Vize-Ministerpräsidentin Wolf. Das erklärten sie bei einer Pressekonferenz. Die BSW-Fraktion im Landtag soll aber bestehen …"
+          "title": "Abschussvorrichtung an Umspannwerk: Sabotage-Versuch Dormagen",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/dormagen-sabotage-versuch-100.html",
+          "published": "2026-09-04T13:09:00+00:00",
+          "summary": "An einem Umspannwerk bei Dormagen in NRW gab es einen Sabotageversuch, Abschussvorrichtungen wurden gefunden. Die Polizei fahndet nach einem Mann, der ein Bekennerschreiben verfasst hat."
         },
         {
-          "title": "Das sind die Punkte des VW-Sparplans",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplan-102.html",
-          "published": "2026-09-04T11:57:57+00:00",
-          "summary": "Abbau von Zehntausenden Stellen, vier Werke auf der Kippe - und das ist noch nicht alles. VW hat ein gigantisches Sparprogramm auf den Weg gebracht. Was der Konzern plant - und was Experten dazu …"
+          "title": "Vom Problemfall zum Erfolg: Zehn Jahre Elbphilharmonie in Hamburg",
+          "link": "https://www.tagesschau.de/kultur/zehn-jahre-elbphilharmonie-erwartungen-uebertroffen-100.html",
+          "published": "2026-09-04T13:07:15+00:00",
+          "summary": "Die Hamburger Elbphilharmonie hat sich vom teuren Projekt zu einem Konzerthaus von internationaler Strahlkraft entwickelt. Die Akustik ihres kristallklaren Klangs hat auch ihre Tücken. Von Marcus …"
         },
         {
-          "title": "Mit den Kämpfen im Jemen wächst die Gefahr einer Hungerkrise",
-          "link": "https://www.tagesschau.de/ausland/asien/jemen-hunger-krise-100.html",
-          "published": "2026-09-04T11:54:30+00:00",
-          "summary": "Die Lage im Jemen ist so angespannt wie seit Jahren nicht mehr. Während sich Huthi-Rebellen und die von Saudi-Arabien unterstützte Regierung bekämpfen, hungern immer mehr Menschen. Von Nina Amin."
-        },
-        {
-          "title": "Niedersachsens Migrationsbeauftragter tritt nach Drohungen zurück",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-massiven-anfeindungen-migrationsbeauftragter-kurku-tritt-zurueck,kurku-100.html",
-          "published": "2026-09-04T11:45:19+00:00",
-          "summary": "Nach der Gewalttat mit sechs Toten in Stade hatte der niedersächsische Migrationsbeauftragte Kurku öffentlich gemacht, dass seine Schwiegermutter den Fluchtwagen fuhr. Daraufhin wurde er massiv …"
+          "title": "München: Zwei Tatverdächtige nach Brandanschlag in Untersuchungshaft",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdaechtige-u-haft-100.html",
+          "published": "2026-09-04T12:59:49+00:00",
+          "summary": "Nach dem Brandanschlag auf ein Firmengebäude mit Rüstungsunternehmen in München sind zwei Tatverdächtige in Untersuchungshaft genommen worden. Politiker und Ermittler vermuten ein politisches Motiv."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Kriminalität: Haftbefehle gegen zwei Bulgaren nach Brandanschlag erlassen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/kriminalitaet-haftbefehle-gegen-zwei-bulgaren-nach-brandanschlag-erlassen/100252119.html",
-          "published": "2026-09-04T12:07:49+00:00",
-          "summary": "Nach dem Brandanschlag auf eine Baustelle nahe Münchner Rüstungsunternehmen sitzen zwei Tatverdächtige in Untersuchungshaft. Sie sollen Brandsätze aus einem Auto geworfen haben."
+          "title": "Nach Beinahe-Eskalation: Umbauplan für VW: Durchbruch oder Spiel auf Zeit?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-beinahe-eskalation-umbauplan-fuer-vw-durchbruch-oder-spiel-auf-zeit/100252164.html",
+          "published": "2026-09-04T13:52:24+00:00",
+          "summary": "Der VW-Konzern steht vor dem umfassendsten Umbau seiner Geschichte. Zahlreiche Maßnahmen stehen an - darunter der Abbau Zehntausender Jobs. Doch es zeichnen sich bereits die nächsten Streitpunkte ab."
         },
         {
-          "title": "Wochenend-Newsletter: Lasst die Träumer an die Macht – das Handelsblatt-Wochenende",
-          "link": "https://www.handelsblatt.com/wochenende/wochenend-newsletter-lasst-die-traeumer-an-die-macht-das-handelsblatt-wochenende/100251223.html",
-          "published": "2026-09-04T12:05:47+00:00",
-          "summary": "Außerdem: die Crux mit der Brandmauer, die unterschiedlichen Gehälter von Führungskräften und ein personalisierter Impfstoff gegen Hautkrebs. Das sind unsere Leseempfehlungen."
+          "title": "Dow Jones, S&P 500, Nasdaq: US-Aktien und Staatsanleihen stagnieren nahezu nach Arbeitsmarktdaten",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-aktien-und-staatsanleihen-stagnieren-nahezu-nach-arbeitsmarktdaten/100252070.html",
+          "published": "2026-09-04T13:47:10+00:00",
+          "summary": "Die US-Beschäftigung im August ist stärker gestiegen als von Ökonomen erwartet. Am Markt wächst nun die Sorge, die Federal Reserve könnte gezwungen sein, die Zinsen doch noch zu erhöhen."
         },
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: „KiKA“ gewährt AfD-Spitzenkandidat halbstündiges Interview",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-kika-gewaehrt-afd-spitzenkandidat-halbstuendiges-interview/100252039.html",
-          "published": "2026-09-04T12:02:38+00:00",
-          "summary": "Siegmund will Sachsen-Anhalt nur alleine regieren +++ Grünen-Spitze reist zum Wahlkampf nach Sachsen-Anhalt +++ BSW will mit AfD zusammenarbeiten +++ Der Newsblog."
+          "title": "Migration: Dänemark will 2027 in Zentren außerhalb der EU abschieben",
+          "link": "https://www.handelsblatt.com/politik/international/migration-daenemark-will-2027-in-zentren-ausserhalb-der-eu-abschieben/100252150.html",
+          "published": "2026-09-04T13:46:41+00:00",
+          "summary": "Seit Jahren wird in der EU auch auf deutsche Initiative über sogenannte Return Hubs diskutiert – also über Abschiebezentren in Drittstaaten. Dänemark nennt nun ein erstes Datum."
         },
         {
-          "title": "Anleihen: Norwegens Staatsfonds plant massiven Abbau von US-Staatsanleihen",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/anleihen-norwegens-staatsfonds-plant-massiven-abbau-von-us-staatsanleihen/100252100.html",
-          "published": "2026-09-04T12:00:38+00:00",
-          "summary": "Der 2,3 Billionen Dollar schwere Fonds will den Anteil an Staatsanleihen im Portfolio deutlich verringern. Das Kapital soll in andere Anleiheformen fließen."
+          "title": "Parteikonferenz in Birmingham: Neue Vorwürfe gegen britische Rechtspopulisten um Farage",
+          "link": "https://www.handelsblatt.com/politik/international/parteikonferenz-in-birmingham-neue-vorwuerfe-gegen-britische-rechtspopulisten-um-farage/100252127.html",
+          "published": "2026-09-04T13:42:34+00:00",
+          "summary": "Die britischen Rechtspopulisten der Partei Reform UK werden mit neuen Vorwürfen konfrontiert. Wieder geht es um Gelder. Noch während der Jahreskonferenz folgen erste personelle Konsequenzen."
         },
         {
-          "title": "Dax aktuell: Dax notiert leicht im Plus – Warten auf US-Arbeitsmarktdaten",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-leicht-im-plus-warten-auf-us-arbeitsmarktdaten/100251977.html",
-          "published": "2026-09-04T11:59:18+00:00",
-          "summary": "Der Dax gewinnt leicht und entfernt sich in kleinen Schritten von der 26.000-Punkte-Marke. Für den weiteren Verlauf werden US-Daten entscheidend sein, die den Kurs der Geldpolitik bestimmen."
+          "title": "Volkswagen: „Konflikt nur vertagt“: Was der VW-Aufsichtsrat beschlossen hat – und was weiter offen ist",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-das-sind-die-beschluesse-des-aufsichtsrats-vieles-ist-noch-offen/100251110.html",
+          "published": "2026-09-04T13:42:31+00:00",
+          "summary": "Nach der überraschenden Einigung auf den Sanierungsplan bei Volkswagen drohen bereits neue Konflikte. Das Handelsblatt erklärt, wie es zur Einigung kam – und worüber weiter gestritten wird."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Chip-Riese zahlt Aufschlag: Nvidia übernimmt KI-Plattform Hugging Face durch Milliardendeal",
+          "link": "https://www.n-tv.de/wirtschaft/Nvidia-uebernimmt-KI-Plattform-Hugging-Face-durch-Milliardendeal-id31270330.html",
+          "published": "2026-09-04T13:03:55+00:00",
+          "summary": "Hugging Face ist die zentrale Plattform für die weltweite Entwickler-Community im Bereich KI. In den vergangenen Jahren verdreifacht sie ihren Wert. Jetzt verleibt sich Nvidia das Unternehmen ein und …"
+        },
         {
           "title": "Aufschwung in Sachsen-Anhalt?: Was die AfD-Politik für die Wirtschaft bedeuten würde",
           "link": "https://www.n-tv.de/wirtschaft/Was-die-AfD-Politik-fuer-die-Wirtschaft-bedeuten-wuerde-id31269051.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Tesla-stellt-autonom-fahrendes-Cybercab-vor-id31268435.html",
           "published": "2026-09-04T05:21:53+00:00",
           "summary": "Elon Musk und Tesla hängen beim autonomen Fahren derzeit noch deutlich hinter den Marktführern zurück. Mit dem Cybercab will der Konzern zu Waymo aufschließen. Doch dabei stellen sich gleich mehrere …"
-        },
-        {
-          "title": "\"Riesiger Mindset-Change\": Experte: VW benötigt mehr als nur drastische Einsparungen",
-          "link": "https://www.n-tv.de/wirtschaft/Experte-VW-benoetigt-mehr-als-nur-drastische-Einsparungen-id31268335.html",
-          "published": "2026-09-04T04:42:04+00:00",
-          "summary": "Volkswagen will sich mit einem enormen Sparprogramm aus der Krise manövrieren. Ein Experte glaubt allerdings nicht, dass es damit getan ist. Ihm zufolge muss mehr in Zukunftsfelder investiert werden."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "OLG Hamm: DAZN steht wegen Preiserhöhungen vor Niederlage",
-          "link": "https://www.finanzen.net/nachricht/aktien/olg-hamm-dazn-steht-wegen-preiserhoehungen-vor-niederlage-15918674",
-          "published": "2026-09-04T12:06:39+00:00",
-          "summary": "HAMM (dpa-AFX) - Die extremen Preiserhöhungen beim Sport-Streaminganbieter DAZN in den Jahren 2021 und 2022 waren voraussichtlich rechtswidrig. Einen entsprechenden Hinweis hat das Oberlandesgericht …"
+          "title": "Pluszeichen in New York: NASDAQ 100 zum Handelsstart in Grün",
+          "link": "https://www.finanzen.net/nachricht/aktien/pluszeichen-in-new-york-nasdaq-100-zum-handelsstart-in-gruen-15918911",
+          "published": "2026-09-04T13:59:51+00:00",
+          "summary": "Der NASDAQ 100 erhöht sich im NASDAQ-Handel um 15:56 Uhr um 0,54 Prozent auf 29.640,41 Punkte. Zum Handelsbeginn stand ein Zuschlag von 0,194 Prozent auf 29.539,57 Punkte an der Kurstafel, ..."
         },
         {
-          "title": "BSW-Umfrage: Was ist Ihre wesentliche Motivation beim Kauf strukturierter Wertpapiere?",
-          "link": "https://www.finanzen.net/nachricht/zertifikate/aktuelle-umfrage-bsw-umfrage-was-ist-ihre-wesentliche-motivation-beim-kauf-strukturierter-wertpapiere-9873018",
-          "published": "2026-09-04T12:00:00+00:00",
-          "summary": "Hier geht's direkt zur BSW-Umfrage ."
+          "title": "Börse New York in Rot: S&P 500 fällt zum Start zurück",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-in-rot-s-p-500-faellt-zum-start-zurueck-15918910",
+          "published": "2026-09-04T13:59:51+00:00",
+          "summary": "Um 15:56 Uhr bewegt sich der S&P 500 im NYSE-Handel 0,08 Prozent tiefer bei 7.741,13 Punkten. Der Börsenwert der im S&P 500 enthaltenen Werte beträgt damit 61,405 Bio. Euro. Zum Handelsstart ..."
         },
         {
-          "title": "ROUNDUP/Rechnungshof: 'Weg in Schuldenfalle verlassen'",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-rechnungshof-weg-in-schuldenfalle-verlassen-15918668",
-          "published": "2026-09-04T11:59:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Der Bundesrechnungshof moniert vor den Beratungen zum Haushalt 2027 im Bundestag in der kommenden Woche einen ausufernden Schuldenkurs der schwarz-roten Koalition. \"Die …"
+          "title": "Zuversicht in New York: NASDAQ Composite klettert zum Start",
+          "link": "https://www.finanzen.net/nachricht/aktien/zuversicht-in-new-york-nasdaq-composite-klettert-zum-start-15918909",
+          "published": "2026-09-04T13:59:51+00:00",
+          "summary": "Der NASDAQ Composite bewegt sich im NASDAQ-Handel um 15:56 Uhr um 0,11 Prozent stärker bei 26.613,90 Punkten. Zuvor ging der NASDAQ Composite 0,014 Prozent höher bei 26.587,90 Punkten ..."
         },
         {
-          "title": "EQS-Adhoc: Netfonds AG: Veränderung im IT-Vorstand – Fortführung der Wachstumsstrategie",
-          "link": "https://www.finanzen.net/nachricht/aktien/eqs-adhoc-netfonds-ag-ver-nderung-im-it-vorstand-fortf-hrung-der-wachstumsstrategie-15918663",
-          "published": "2026-09-04T11:59:03+00:00",
-          "summary": "EQS-Ad-hoc: Netfonds AG / Schlagwort(e): Personalentscheidungen / Vorstand Netfonds AG: Veränderung im IT-Vorstand – Fortführung der Wachstumsstrategie 04.09.2026 ..."
+          "title": "Schwacher Handel: Dow Jones schwächelt zum Start des Freitagshandels",
+          "link": "https://www.finanzen.net/nachricht/aktien/schwacher-handel-dow-jones-schwaechelt-zum-start-des-freitagshandels-15918908",
+          "published": "2026-09-04T13:59:51+00:00",
+          "summary": "Am Freitag fällt der Dow Jones um 15:56 Uhr via NYSE um 0,34 Prozent auf 53.503,91 Punkte zurück. Damit kommen die im Dow Jones enthaltenen Werte auf eine Marktkapitalisierung von 24,858 Bio. ..."
         },
         {
-          "title": "Wir kaufen 360 Stück Zeta Global Holdings (ZETA) mit Limit 33 USD um 15:30 Uhr an der NYSE!",
-          "link": "https://www.finanzen.net/nachricht/aktien/Wir-kaufen-360-Stueck-Zeta-Global-Holdings-ZETA-mit-Limit-33-USD-um-15-30-Uhr-an-der-NYSE-15918670",
-          "published": "2026-09-04T11:58:16+00:00",
-          "summary": "Liebe Tenbagger-Investoren,Anfang der Woche habe ich einen detaillierten Artikel zu Zeta Global Holdings veröffentlicht."
+          "title": "Freitagshandel in Frankfurt: DAX im Aufwind",
+          "link": "https://www.finanzen.net/nachricht/aktien/freitagshandel-in-frankfurt-dax-im-aufwind-15918907",
+          "published": "2026-09-04T13:57:42+00:00",
+          "summary": "Um 15:41 Uhr erhöht sich der DAX im XETRA-Handel um 0,48 Prozent auf 26.126,93 Punkte. Die DAX-Mitglieder kommen damit auf einen Wert von 2,153 Bio. Euro. In den Handel ging der DAX 0,067 Prozent ..."
         }
       ],
       "error": null
@@ -163,6 +163,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "VW-Aktie setzt sich an die DAX-Spitze",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/volkswagen-aktie-100.html",
+          "published": "2026-09-04T12:36:45+00:00",
+          "summary": "Der Kompromiss im Aufsichtsrat zum Sanierungskonzept bei VW kommt bei Investoren gut an - auch andere Autoaktien steigen. Entscheidende Punkte rund um die Zukunft des Wolfsburger Konzerns bleiben …"
+        },
         {
           "title": "Marktbericht: DAX steckt bei 26.000 Punkten fest",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
@@ -186,12 +192,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
           "published": "2026-09-01T12:50:59+00:00",
           "summary": "Mit deutlichen Verlusten startet der DAX in den September. Gerade hatte er noch auf Rekordkurs gelegen. Dafür sind heute gleich mehrere negative Faktoren zusammengekommen. Von Detlev Landmesser."
-        },
-        {
-          "title": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
-          "published": "2026-08-31T16:46:46+00:00",
-          "summary": "Vor 50 Jahren ging der erste Indexfonds für Privatanleger an den Start. Er gilt als Vorläufer der heutigen ETFs und hat den Vermögensaufbau an der Börse einem breiteren Publikum geöffnet."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "WiWo Top-Kanzleien: Erst Freunde, dann Feinde",
-          "link": "https://www.wiwo.de/finanzen/steuern-recht/ranking-der-top-kanzleien-wer-bei-patentstreitigkeiten-hilft/100251773.html",
-          "published": "2026-09-04T12:00:06+00:00",
-          "summary": "Die Patente-Szene ist geschockt, weil erstmals ein Patentrichter einen Geschäftsführer mit Haft bedroht. Welche Anwälte im Fall eines Rechtsstreits verlässlich helfen, zeigt das WiWo-Ranking."
+          "title": "Künstliche Intelligenz: Programme von OpenAI kaperten offenbar Webseite",
+          "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-programme-von-openai-kaperten-offenbar-webseite/100252139.html",
+          "published": "2026-09-04T13:50:00+00:00",
+          "summary": "Auf der Website tauschten KI-Agenten sich darüber aus, wie sie Beschränkungen umgehen können. Sie reagierten sogar auf Löschversuche."
         },
         {
-          "title": "Konsumkrise: Einzelhandel im Euroraum mit Fehlstart ins zweite Halbjahr",
-          "link": "https://www.wiwo.de/unternehmen/handel/konsumkrise-einzelhandel-im-euroraum-mit-fehlstart-ins-zweite-halbjahr/100252098.html",
-          "published": "2026-09-04T11:49:00+00:00",
-          "summary": "Die schwache Konsumstimmung belastet den Einzelhandel in der EU. Für die deutsche Branche läuft es besonders schlecht – mit Verlusten, wie zur Coronazeit."
+          "title": "Autoindustrie: Bundesregierung will VW unterstützen",
+          "link": "https://www.wiwo.de/unternehmen/auto/autoindustrie-bundesregierung-will-vw-unterstuetzen/100252132.html",
+          "published": "2026-09-04T13:40:00+00:00",
+          "summary": "Die Regierung begrüßt den VW-Sanierungsplan – und will die Branche in schwieriger Lage weiter unterstützen. Auch mit EU-Importzöllen?"
         },
         {
-          "title": "Dollar: Weichenstellung in Nahost",
-          "link": "https://www.wiwo.de/finanzen/boerse/nahost-warum-der-dollar-an-macht-verliert/100251826.html",
-          "published": "2026-09-04T11:11:30+00:00",
-          "summary": "Mit dem Verlust der Vormachtstellung im Nahen Osten könnten die USA einen ähnlichen Weg gehen wie Großbritannien nach dem Zweiten Weltkrieg – mit ähnlichen Konsequenzen für den Dollar."
+          "title": "Streit im BSW: Thüringer Koalition im Krisenmodus – Wie es nun weitergeht",
+          "link": "https://www.wiwo.de/politik/deutschland/streit-im-bsw-regierungskrise-in-thueringen-bsw-fraktion-zerfaellt/100252050.html",
+          "published": "2026-09-04T13:31:00+00:00",
+          "summary": "In Thüringen hatte das BSW 2024 ein grandioses Wahlergebnis. Doch nun eskaliert ein Dauerstreit des Landesverbands mit Parteigründerin Wagenknecht. Ist es das Ende für die „Brombeere“ in Erfurt?"
         },
         {
-          "title": "Zinsentscheid: Zinsschritt mit Ansage – wie die EZB in Berlin die Inflation zügeln will",
-          "link": "https://www.wiwo.de/politik/konjunktur/zinsentscheid-zinsschritt-mit-ansage-wie-die-ezb-in-berlin-die-inflation-zuegeln-will/100252090.html",
-          "published": "2026-09-04T11:05:59+00:00",
-          "summary": "Die Inflation in der EU ist mit 3,3 Prozent zu hoch. Eine weitere Zinserhöhung gilt als sicher. Doch stoppt das die Inflation?"
+          "title": "Volkswagen: „Die Vorstellung, dass man im teuren Deutschland keine Autos mehr bauen kann, wäre fatal“",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-einigung-eskalation-abgewendet-aktienkurs-steigt/100252066.html",
+          "published": "2026-09-04T13:30:11+00:00",
+          "summary": "Die große Eskalation bei Volkswagen wurde abgewendet. Eine Einigung steht. Nun beginnt die Umsetzung – und das Ringen um die Deutungshoheit."
         },
         {
-          "title": "Umspannwerk: Erneuter Angriff auf Stromnetz – Polizei spricht von Sabotagedelikt",
-          "link": "https://www.wiwo.de/unternehmen/energie/umspannwerk-erneuter-angriff-auf-stromnetz-polizei-spricht-von-sabotagedelikt/100251404.html",
-          "published": "2026-09-04T11:04:00+00:00",
-          "summary": "Nach den Attacken auf Umspannwerke in Nordrhein-Westfalen und Brandenburg liegt der Polizei ein Bekennerschreiben vor. Gibt es noch weitere Sabotagefälle?"
+          "title": "Norwegischer Staatsfonds: Takk Norge!",
+          "link": "https://www.wiwo.de/finanzen/boerse/norwegischer-staatsfonds-will-us-staatsanleihen-verkaufen/100252027.html",
+          "published": "2026-09-04T13:13:49+00:00",
+          "summary": "Der norwegische Staatsfonds will seinen Anteil an US-Staatsanleihen reduzieren. Für die USA ist das kein gutes Signal."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Fast 30 m Holz und Stein: Rätselhafter Keltenbau am Main entdeckt",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/2400-jahre-alte-holzkonstruktion-am-main-so-bauten-die-kelten-direkt-am-fluss/",
+          "published": "2026-09-04T13:00:00+00:00",
+          "summary": "Eichen aus dem Spessart, Trockenmauern und 250-kg-Balken: Ein Fund am Main zeigt, wie aufwendig die Kelten vor 2400 Jahren bauten."
+        },
         {
           "title": "Black Semiconductor entwickelt die nächste Chip Generation",
           "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/adu-aachener-ingenieurpreis-2026/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/50000-stellen-weg-doch-eine-andere-zahl-zeigt-wie-radikal-vw-wirklich-umbaut/",
           "published": "2026-09-04T08:33:50+00:00",
           "summary": "Volkswagen zieht die Notbremse: Rund 50.000 weitere Stellen sollen weg, für vier deutsche Werke fehlt die langfristige Perspektive. Gleichzeitig halbiert VW seine Modellpalette. Wie tief der Umbau …"
-        },
-        {
-          "title": "Dieses Flugzeug wiegt nur 138 Kilo und soll bis in die Stratosphäre",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/dieses-flugzeug-wiegt-nur-138-kg-und-soll-bis-in-die-stratosphaere/",
-          "published": "2026-09-04T07:30:00+00:00",
-          "summary": "HAP-alpha hebt erstmals ab. Das ungewöhnliche Solarflugzeug des DLR soll künftig in der Stratosphäre Erdbeobachtungstechnik erproben."
         }
       ],
       "error": null
