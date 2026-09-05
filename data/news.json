@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T20:08:32+00:00",
+  "generatedAt": "2026-09-05T22:08:06+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Tausende feiern Demokratiefest auf Magdeburger Domplatz",
-          "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/magedeburg-100,demokratiefest-demo-konzert-100.html",
-          "published": "2026-09-05T19:42:22+00:00",
-          "summary": "In Magdeburg haben Tausende Menschen ein Zeichen für Weltoffenheit gesetzt. Die größte Veranstaltung fand auf dem Domplatz statt. Zuvor waren Demonstranten vom Hauptbahnhof dorthin gezogen."
+          "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
+          "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
+          "published": "2026-09-05T20:42:55+00:00",
+          "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Details des Friedensplans bleiben unbekannt - als …"
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643454.html",
-          "published": "2026-09-05T19:25:05+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12832.html",
+          "published": "2026-09-05T20:37:39+00:00",
           "summary": ""
         },
         {
-          "title": "Basketball-WM: DBB-Frauen begeistern bei Sieg gegen Japan",
-          "link": "https://www.sportschau.de/basketball/dbb-frauen-begeistern-bei-sieg-gegen-japan,bb-wm-spielbericht-ger-jpn-100.html",
-          "published": "2026-09-05T19:17:55+00:00",
-          "summary": "Nach dem schwachen WM-Auftakt gegen Spanien holten Deutschlands Basketballerinnen ihren ersten Sieg. Durch das deutliche 74:58 ist die DBB-Auswahl wieder im Rennen um die direkte …"
+          "title": "Russische Angriffe auf Odessa: Ist der Getreideexport am Ende?",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1643464.html",
+          "published": "2026-09-05T20:35:59+00:00",
+          "summary": ""
         },
         {
-          "title": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
-          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
-          "published": "2026-09-05T19:14:33+00:00",
-          "summary": "Die US-Staatsschulden liegen inzwischen bei mehr als 40 Billionen Dollar. Immer mehr Geld aus dem Haushalt fließt so in Zinszahlungen - und weniger bleibt übrig für Investitionen in die Zukunft des …"
+          "title": "Warnungen und Kritik nach Hackerangriff auf Berliner Verwaltung",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1643462.html",
+          "published": "2026-09-05T20:34:18+00:00",
+          "summary": ""
         },
         {
-          "title": "Bundesliga: Schalke 04 lässt den FC Bayern verzweifeln",
-          "link": "https://www.sportschau.de/fussball/bundesliga/leidenschaft-pur-schalkes-aufsteiger-stoppen-die-bayern,spielbericht-schalke-04-bayern-muenchen-100.html",
-          "published": "2026-09-05T18:51:29+00:00",
-          "summary": "Ein 0:0, das sich wie ein Sieg anfühlt: Schalke 04 hat dem FC Bayern Paroli geboten und sich mit einer beherzten Leistung einen Punkt erkämpft."
+          "title": "Jörg Schönenborn, ARD-Wahlstudio Magdeburg, über die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1643460.html",
+          "published": "2026-09-05T20:33:47+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Verhandlungen: Ukraine-Krieg: Putin beginnt Gespräche mit US-Unterhändlern",
-          "link": "https://www.handelsblatt.com/politik/international/verhandlungen-ukraine-krieg-putin-beginnt-gespraeche-mit-us-unterhaendlern/100252261.html",
-          "published": "2026-09-05T18:12:28+00:00",
-          "summary": "Kremlchef Putin lässt die US-Gesandten Witkoff und Kushner fast den ganzen Tag warten in Moskau. Nun gibt es neue Gespräche, die zuerst der ukrainische Präsident Selenskyj angekündigt hat."
+          "title": "Verhandlungen: Ukraine-Krieg: Gespräche von Putin und US-Gesandten beendet",
+          "link": "https://www.handelsblatt.com/politik/international/verhandlungen-ukraine-krieg-gespraeche-von-putin-und-us-gesandten-beendet/100252261.html",
+          "published": "2026-09-05T21:17:10+00:00",
+          "summary": "Kremlchef Putin lobt US-Präsident Trumps Bemühungen um ein Ende des russischen Angriffskriegs gegen die Ukraine. Fast drei Stunden spricht er mit den US-Gesandten Witkoff und Kushner in Moskau."
+        },
+        {
+          "title": "Abgehoben: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/abgehoben-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252298.html",
+          "published": "2026-09-05T21:01:22+00:00",
+          "summary": "Es ist ein großer Schritt für Europas Raumfahrtindustrie: Ein erst 2018 gegründetes bayerisches Start-up schießt beim zweiten Test eine Rakete ins All."
+        },
+        {
+          "title": "Ukraine-Krieg: Gespräche von Putin und US-Gesandten beendet",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-gespraeche-von-putin-und-us-gesandten-beendet/27982126.html",
+          "published": "2026-09-05T20:57:00+00:00",
+          "summary": "Putin ordnet 72-stündige Pause für Angriffe auf Kiew an +++ US-Vermittler Witkoff und Kushner in Moskau angekommen +++ USA: Nato-Staaten dürfen hybride Kriegsführung nicht dulden +++ Der Newsblog."
+        },
+        {
+          "title": "Raumfahrt: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
+          "link": "https://www.handelsblatt.com/unternehmen/start-ups/raumfahrt-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252269.html",
+          "published": "2026-09-05T20:52:44+00:00",
+          "summary": "Beim ersten Versuch stürzte sie nach 30 Sekunden ins Meer – dieses Mal hat es geklappt. Isar Aerospace schreibt Geschichte mit seiner Trägerrakete."
         },
         {
           "title": "Stromnetz-Sabotage: Suche nach Verdächtigem läuft – Fahrzeug gefunden",
           "link": "https://www.handelsblatt.com/unternehmen/energie/stromnetz-sabotage-suche-nach-verdaechtigem-laeuft-fahrzeug-gefunden/100252217.html",
           "published": "2026-09-05T17:11:55+00:00",
           "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden – doch er selbst ist noch flüchtig."
-        },
-        {
-          "title": "Sparda-Bank Berlin: Andere schließen Filialen – diese Bank investiert in Standorte im Osten",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/sparda-bank-berlin-diese-bank-investiert-in-standorte-im-osten/100248543.html",
-          "published": "2026-09-05T16:46:00+00:00",
-          "summary": "Neo- und digitale Direktbanken machen es klassischen Playern schwer. Die Sparda-Bank Berlin rüstet sich dagegen mit einer ungewöhnlichen Strategie – inklusive radikal neuem Aufbau."
-        },
-        {
-          "title": "Attacken auf Stromversorgung: Strom-Sabotage: Suche nach Verdächtigem läuft",
-          "link": "https://www.handelsblatt.com/politik/deutschland/attacken-auf-stromversorgung-strom-sabotage-suche-nach-verdaechtigem-laeuft/100252215.html",
-          "published": "2026-09-05T16:35:22+00:00",
-          "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden - doch er selbst ist noch flüchtig."
-        },
-        {
-          "title": "Ukraine-Krieg: Putin ordnet 72-stündige Pause für Angriffe auf Kiew an",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-putin-ordnet-72-stuendige-pause-fuer-angriffe-auf-kiew-an/27982126.html",
-          "published": "2026-09-05T16:08:32+00:00",
-          "summary": "US-Vermittler Witkoff und Kushner in Moskau angekommen +++ USA: Nato-Staaten dürfen hybride Kriegsführung nicht dulden +++ Russischer Angriff legt Stahlwerk in Dnipro lahm +++ Der Newsblog."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Wir sind im Orbit\": Deutsche Trägerrakete Spectrum startet erfolgreich ins All",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Traegerrakete-Spectrum-startet-erfolgreich-ins-All-id31273674.html",
+          "published": "2026-09-05T20:40:58+00:00",
+          "summary": "Die Spectrum-Rakete des deutschen Herstellers Isar Aerospace startet zu ihrem zweiten Testflug. Diesmal läuft alles glatt. Es ist das erste Mal, dass eine privat entwickelte Rakete vom europäischen …"
+        },
         {
           "title": "Putins verwundbare Gasflotte: Europa hängt am russischen LNG-Hahn - dreht die Ukraine ihn ab?",
           "link": "https://www.n-tv.de/wirtschaft/Europa-haengt-am-russischen-LNG-Hahn-dreht-die-Ukraine-ihn-ab-id31265765.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Henkel-will-sich-weiter-vergroessern-id31272439.html",
           "published": "2026-09-05T06:58:53+00:00",
           "summary": "Mit Zukäufen im Volumen von rund fünf Milliarden Euro ist der Konsumgüterkonzern Henkel zuletzt kräftig gewachsen. Chef Knobel stellt in Aussicht, dass dieser Kurs so weitergehen könnte - sofern es …"
-        },
-        {
-          "title": "Mehr Schutz kritischer Anlagen: Stromnetz-Betreiber: \"Machen es Attentätern unnötig leicht\"",
-          "link": "https://www.n-tv.de/wirtschaft/Stromnetz-Betreiber-Machen-es-Attentaetern-unnoetig-leicht-id31272303.html",
-          "published": "2026-09-05T05:19:55+00:00",
-          "summary": "Amprion betreibt das zweitgrößte Stromnetz Deutschlands. Dazu gehören rund 180 Umspannwerke. Zwei davon werden Opfer von Sabotageakten. Der Chef des Netzbetreibers erwartet weitere Attacken. Er sagt …"
         }
       ],
       "error": null
@@ -127,32 +127,32 @@
         {
           "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
-          "published": "2026-09-05T19:51:00+00:00",
+          "published": "2026-09-05T21:51:00+00:00",
           "summary": "Zum Artikel"
-        },
-        {
-          "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
-          "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-36-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15881694",
-          "published": "2026-09-05T19:03:00+00:00",
-          "summary": "Hier finden Sie den Nachrichten-Rückblick auf die vergangene Woche."
         },
         {
           "title": "Aktien im Fokus: KI-Rechenleistung wird zur Anlageklasse - CME startet Compute-Futures",
           "link": "https://www.finanzen.net/nachricht/aktien/ki-infrastruktur-aktien-im-fokus-ki-rechenleistung-wird-zur-anlageklasse-cme-startet-compute-futures-00-15910547",
-          "published": "2026-09-05T18:52:00+00:00",
+          "published": "2026-09-05T21:47:00+00:00",
           "summary": "Kontrakte bilden monatliche Mietpreise für GPU-Rechenleistung ab und sollen Preisschwankungen für Unternehmen planbar machen • US-Aufsichtsbehörde CFTC hat eine öffentliche Konsultation zu …"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-05T18:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "ASML-Aktie nach 60-Prozent-Rally in 2026: Wie weit tragen Prognose und Analysten noch?",
+          "link": "https://www.finanzen.net/nachricht/aktien/analysten-sehen-potenzial-asml-aktie-nach-60-prozent-rally-in-2026-wie-weit-tragen-prognose-und-analysten-noch-00-15911455",
+          "published": "2026-09-05T21:41:00+00:00",
+          "summary": "Angehobene Jahresprognose und volle Auftragsbücher stützen die Kursfantasie Analysten trauen der Aktie trotz hoher Bewertung weiteres Potenzial zu China-Geschäft schrumpft, politische Risiken in den …"
         },
         {
-          "title": "Bloom Energy-Aktie steigt in den S&P 500 auf und ersetzt Molson Coors - Kursfeuerwerk",
-          "link": "https://www.finanzen.net/nachricht/aktien/aufstieg-bloom-energy-aktie-steigt-in-den-s-p-500-auf-und-ersetzt-molson-coors-kursfeuerwerk-00-15919943",
-          "published": "2026-09-05T18:35:00+00:00",
-          "summary": "Bloom Energy zieht zum 21. September 2026 in den S&P 500 ein Aktie reagiert mit Kursfeuerwerk KI-Rechenzentrumsboom treibt an S&P Dow Jones Indices hat am 4. September 2026 bekannt gegeben, ..."
+          "title": "KW 36 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-36-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15909795",
+          "published": "2026-09-05T21:36:00+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 36"
+        },
+        {
+          "title": "Das ist der Unterschied zwischen Homeoffice, Telearbeit und Remote Work",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitswelt-das-ist-der-unterschied-zwischen-homeoffice-telearbeit-und-remote-work-14330887",
+          "published": "2026-09-05T21:29:00+00:00",
+          "summary": "Homeoffice: Arbeiten in den eigenen vier Wänden Homeoffice bezeichnet eine Arbeitsform, bei der Beschäftigte ihre Aufgaben regelmäßig von zu Hause aus erledigen. Meist basiert diese Regelung auf …"
         }
       ],
       "error": null
