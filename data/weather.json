@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:08:56+00:00",
+  "generatedAt": "2026-09-05T18:09:46+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,18 +7,18 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-05T18:00",
-    "temperatur": 18.2,
-    "gefuehlt": 15.6,
-    "luftfeuchte": 61,
+    "zeit": "2026-09-05T20:00",
+    "temperatur": 16.5,
+    "gefuehlt": 13.9,
+    "luftfeuchte": 58,
     "niederschlag": 0.0,
-    "wind": 18.9,
+    "wind": 15.1,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 2,
-      "text": "Teils bewölkt",
-      "icon": "⛅"
+      "code": 1,
+      "text": "Überwiegend klar",
+      "icon": "🌤️"
     }
   },
   "tage": [
@@ -27,7 +27,7 @@
       "max": 18.8,
       "min": 13.2,
       "regenwahrscheinlichkeit": 35,
-      "sonnenaufgang": "2026-09-05T06:43",
+      "sonnenaufgang": "2026-09-05T06:44",
       "sonnenuntergang": "2026-09-05T20:04",
       "wetter": {
         "code": 80,
@@ -37,11 +37,11 @@
     },
     {
       "datum": "2026-09-06",
-      "max": 20.3,
-      "min": 11.0,
+      "max": 20.1,
+      "min": 10.5,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-09-06T06:45",
-      "sonnenuntergang": "2026-09-06T20:01",
+      "sonnenuntergang": "2026-09-06T20:02",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
@@ -50,11 +50,11 @@
     },
     {
       "datum": "2026-09-07",
-      "max": 27.4,
-      "min": 14.2,
+      "max": 27.5,
+      "min": 13.4,
       "regenwahrscheinlichkeit": 18,
-      "sonnenaufgang": "2026-09-07T06:46",
-      "sonnenuntergang": "2026-09-07T19:59",
+      "sonnenaufgang": "2026-09-07T06:47",
+      "sonnenuntergang": "2026-09-07T20:00",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
@@ -66,7 +66,7 @@
       "max": 20.1,
       "min": 14.8,
       "regenwahrscheinlichkeit": 38,
-      "sonnenaufgang": "2026-09-08T06:48",
+      "sonnenaufgang": "2026-09-08T06:49",
       "sonnenuntergang": "2026-09-08T19:57",
       "wetter": {
         "code": 61,
