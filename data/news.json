@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:08:09+00:00",
+  "generatedAt": "2026-09-05T12:10:17+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Deutscher Schauspieler Michael Mendl mit 82 Jahren gestorben",
-          "link": "https://www.tagesschau.de/kultur/tod-michael-mendl-100.html",
-          "published": "2026-09-05T09:55:05+00:00",
-          "summary": "Der deutsche Schauspieler Michael Mendl ist im Alter von 82 Jahren gestorben. Seinen Durchbruch hatte er im \"Tatort\". Insgesamt wirkte er in mehr als 200 Film- und Fernsehproduktionen mit."
+          "title": "Veranstaltungen und Demonstrationen vor der Wahl in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/ticker-demokratie-veranstaltungen-100,demonstrationen-110.html",
+          "published": "2026-09-05T12:04:00+00:00",
+          "summary": "Morgen wählen die Menschen in Sachsen-Anhalt einen neuen Landtag. Heute finden dort Demonstrationen und Feste für die Demokratie statt. In Magdeburg werden Tausende Menschen erwartet. Die aktuelle …"
         },
         {
-          "title": "Sexuell übertragbare Infektionen erreichen Rekordhoch",
-          "link": "https://www.tagesschau.de/video/video-1643186.html",
-          "published": "2026-09-05T09:53:50+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80726.html",
+          "published": "2026-09-05T12:03:32+00:00",
           "summary": ""
         },
         {
-          "title": "UN stimmen für neue Weltkarte - Afrika größer dargestellt",
-          "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
-          "published": "2026-09-05T09:41:31+00:00",
-          "summary": "Wer eine Weltkarte zückt, nutzt meist eine Mercator-Karte. Doch die für die Seefahrt entwickelte Karte verzerrt die Größenverhältnisse und lässt Afrika zu klein erscheinen. Die UN stimmten nun für …"
-        },
-        {
-          "title": "Schauspieler Michael Mendl stirbt mit 82 Jahren",
-          "link": "https://www.tagesschau.de/video/video-1643176.html",
-          "published": "2026-09-05T09:30:52+00:00",
+          "title": "\"Wollen Weltoffenheit zeigen\", Niels Bula, MDR, zum Demokratiefestival in Magdeburg",
+          "link": "https://www.tagesschau.de/video/video-1643248.html",
+          "published": "2026-09-05T11:56:15+00:00",
           "summary": ""
         },
         {
-          "title": "EU-Kommission plant schärfere Regeln für Airbnb & Co",
-          "link": "https://www.tagesschau.de/wirtschaft/eu-regeln-kurzzeitvermietung-100.html",
-          "published": "2026-09-05T09:17:45+00:00",
-          "summary": "Sie blockieren dringend benötigten Wohnraum und treiben Mieten nach oben: Daher will die EU nun gegen Kurzzeitvermieter wie Airbnb vorgehen. In Paris, Barcelona und Venedig gibt es bereits Regeln …"
+          "title": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
+          "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
+          "published": "2026-09-05T11:46:55+00:00",
+          "summary": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die von der Berliner Verwaltung gestohlen wurden. Das zuständige Bundesamt warnt vor …"
+        },
+        {
+          "title": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
+          "published": "2026-09-05T10:55:56+00:00",
+          "summary": "Neuer Anlauf in den US-Vermittlungen zwischen Russland und der Ukraine: Die Sondergesandten Kushner und Witkoff sind in Moskau gelandet. Morgen geht es für Gespräche nach Kiew. Die gegenseitigen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ukraine-Krieg: Trump zu Drohnen-Fund in Leipzig: Putin plant keine Angriffe auf Nato",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-zu-drohnen-fund-in-leipzig-putin-plant-keine-angriffe-auf-nato/27982126.html",
-          "published": "2026-09-05T09:31:00+00:00",
-          "summary": "US-Gesandte Witkoff und Kushner offenbar in Moskau gelandet +++ Selenskyj: Russland greift vor Besuch von US-Gesandten Flughäfen an +++ Der Newsblog."
+          "title": "Künstliche Intelligenz: Was wir verlieren, wenn die KI die Routinen übernimmt",
+          "link": "https://www.handelsblatt.com/unternehmen/management/kuenstliche-intelligenz-der-unterschaetzte-wert-der-routine-1/100252063.html",
+          "published": "2026-09-05T11:47:47+00:00",
+          "summary": "Die KI nimmt uns wiederkehrende Arbeiten ab, schafft so Raum für Kreativität und strategische Entscheidungen. Doch was ist mit denjenigen, die das nicht wollen?"
         },
         {
-          "title": "Stromnetz-Sabotage: Suche nach Verdächtigem läuft – Fahrzeug gefunden",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/stromnetz-sabotage-suche-nach-verdaechtigem-laeuft-fahrzeug-gefunden/100252217.html",
-          "published": "2026-09-05T09:18:00+00:00",
-          "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden – doch er selbst ist noch flüchtig."
+          "title": "Nach Daten-Leak: Bundessicherheitsamt warnt vor höherer Cyber-Bedrohung",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-daten-leak-bundessicherheitsamt-warnt-vor-hoeherer-cyber-bedrohung/100252244.html",
+          "published": "2026-09-05T11:30:00+00:00",
+          "summary": "Nach dem Hackerangriff in Berlin warnt das Bundesamt für Sicherheit vor gezielten Phishing-Angriffen. Auch mit Blick auf die anstehenden Landtagswahlen gibt es Befürchtungen."
         },
         {
-          "title": "Künstliche Intelligenz: OpenAI-KI missbrauchte deutschsprachiges Wiki für Austausch",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-ki-missbrauchte-deutschsprachiges-wiki-fuer-austausch/100252252.html",
-          "published": "2026-09-05T09:12:24+00:00",
-          "summary": "Eine deutschsprachige Wiki-Seite für Software-Entwickler wird plötzlich mit tausenden Beiträgen geflutet. Dahinter stecken KI-Agenten von OpenAI, die sich heimlich Informationen zustecken."
+          "title": "Nach Hackerangriff: IT-Experte wirft Berlin „grobe Fahrlässigkeit“ vor",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-hackerangriff-it-experte-wirft-berlin-grobe-fahrlaessigkeit-vor/100252263.html",
+          "published": "2026-09-05T11:12:32+00:00",
+          "summary": "Seit Freitag sind 5,8 Terabyte Daten der Berliner Verwaltung im Darknet veröffentlicht. IT-Experte Manuel Atug sagt: Eklatante Sicherheitslücken waren schon lange bekannt."
         },
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: Wahlforscher: „Wir rechnen nicht mit einem Mobilisierungseffekt in den letzten Tagen“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-wahlforscher-erwarten-keinen-mobilisierungseffekt-kurz-vor-der-wahl/100252039.html",
-          "published": "2026-09-05T08:53:00+00:00",
-          "summary": "Prien: Abschaffung der Schulpflicht wäre Katastrophe +++ Woidke: SPD braucht klare Kante +++ Tausende zu Kundgebung vor Landtagswahl erwartet +++ Der Newsblog."
+          "title": "Ukraine-Krieg: US-Unterhändler in Moskau - Treffen mit Putin geplant",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-us-unterhaendler-in-moskau-treffen-mit-putin-geplant/100252261.html",
+          "published": "2026-09-05T11:05:16+00:00",
+          "summary": "Die USA nehmen ihre Vermittlung für ein Ende des Kriegs in der Ukraine wieder auf. Erste Station: Moskau. Dann soll erstmals Kiew folgen."
         },
         {
-          "title": "Die Welt in Bildern: Blickfang",
-          "link": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
-          "published": "2026-09-05T08:15:00+00:00",
-          "summary": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein Blickfang."
+          "title": "Migrationskrise: Versagt Spanien in der Migrationskrise in Ceuta?",
+          "link": "https://www.handelsblatt.com/politik/international/migrationskrise-versagt-spanien-in-der-migrationskrise-in-ceuta/100250880.html",
+          "published": "2026-09-05T10:52:26+00:00",
+          "summary": "Über einen Monat nach dem Ansturm auf die spanische Exklave leben dort immer noch Tausende von Migranten. Doch Spanien ist in der Krise ebenso unvorbereitet wie viele andere EU-Länder."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "finanzen.net ZERO - Top-Konditionen bei unserem Broker sichern!",
-          "link": "https://www.finanzen.net/nachricht/aktien/finanzen-net-zero-top-konditionen-bei-unserem-broker-sichern-10701966",
-          "published": "2026-09-05T10:00:00+00:00",
-          "summary": "Mehr erfahren!"
+          "title": "Das ist der Unterschied zwischen Homeoffice, Telearbeit und Remote Work",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitswelt-das-ist-der-unterschied-zwischen-homeoffice-telearbeit-und-remote-work-14330887",
+          "published": "2026-09-05T12:07:00+00:00",
+          "summary": "Homeoffice: Arbeiten in den eigenen vier Wänden Homeoffice bezeichnet eine Arbeitsform, bei der Beschäftigte ihre Aufgaben regelmäßig von zu Hause aus erledigen. Meist basiert diese Regelung auf …"
         },
         {
-          "title": "KW 36 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-36-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15909795",
-          "published": "2026-09-05T09:56:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 36"
+          "title": "BSW-Umfrage: Was ist Ihre wesentliche Motivation beim Kauf strukturierter Wertpapiere?",
+          "link": "https://www.finanzen.net/nachricht/zertifikate/aktuelle-umfrage-bsw-umfrage-was-ist-ihre-wesentliche-motivation-beim-kauf-strukturierter-wertpapiere-9873018",
+          "published": "2026-09-05T12:00:00+00:00",
+          "summary": "Hier geht's direkt zur BSW-Umfrage ."
         },
         {
-          "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
-          "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-36-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15881694",
-          "published": "2026-09-05T09:55:00+00:00",
-          "summary": "Hier finden Sie den Nachrichten-Rückblick auf die vergangene Woche."
+          "title": "Handle bei finanzen.net ZERO auch am Wochenende - jeden Samstag ab 14 Uhr",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-handle-bei-finanzen-net-zero-auch-am-wochenende-jeden-samstag-ab-14-uhr-15339784",
+          "published": "2026-09-05T12:00:00+00:00",
+          "summary": "Kursbewegende Ereignisse passieren oft am Wochenende. Bei ZERO kannst Du darauf schon samstags reagieren - ein entscheidender Vorteil. Wechsle auch Du zum 'Kostensieger' der Stiftung Warentest …"
         },
         {
-          "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
-          "published": "2026-09-05T09:51:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison",
+          "link": "https://www.finanzen.net/nachricht/aktien/giganten-im-ueberblick-bilanzen-termine-tesla-nvidia-apple-amazon-co-ergebnisse-der-tech-riesen-in-der-aktuellen-saison-15759085",
+          "published": "2026-09-05T11:58:00+00:00",
+          "summary": "Die US-Schwergewichte unter den Technologie-Firmen werden am Markt besonders unter die Lupe genommen. Die jüngsten Bilanzen und Termine im Überblick: Bereits erfolgte Bilanzen 15. Juli 2026:"
         },
         {
-          "title": "Vanguard-Welt-ETF für 0,07 Prozent: Reicht dieser eine ETF?",
-          "link": "https://www.finanzen.net/nachricht/aktien/vanguard-welt-etf-fuer-0-07-prozent-reicht-dieser-eine-etf-15920001",
-          "published": "2026-09-05T09:50:00+00:00",
-          "summary": ""
+          "title": "Umschichtungen in den Top 10: So hat die Deutsche Bank ihr US-Aktiendepot im 2. Quartal neu ausgerichtet",
+          "link": "https://www.finanzen.net/nachricht/aktien/zukaeufe-ueberwiegen-umschichtungen-in-den-top-10-so-hat-die-deutsche-bank-ihr-us-aktiendepot-im-2-quartal-neu-ausgerichtet-00-15903263",
+          "published": "2026-09-05T11:56:00+00:00",
+          "summary": "Deutsche Bank hat ihr US-Aktienportfolio zum 30. Juni offengelegt Im Portfolio gab es sowohl neue Werte als auch spürbare Umschichtungen Zu- und Verkäufe in den Top 10 Da das US- Aktiendepot ..."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Fachkräfte: Wie sich ein Weltmarktführer unabhängig vom Arbeitsmarkt machen will",
-          "link": "https://www.wiwo.de/unternehmen/mittelstand/fachkraeftemangel-wie-igus-eigene-fachkraefte-selbst-ausbildet/100251774.html",
-          "published": "2026-09-05T09:58:14+00:00",
-          "summary": "Der Kunststoffspezialist Igus hat seine Lehrlinge lange klassisch ausgebildet. Dann hatte ein Mitarbeiter eine bessere Idee."
+          "title": "Umstellung auf Rüstung: Autos raus, Militär rein – Volkswagen gibt das Werk Osnabrück auf",
+          "link": "https://www.wiwo.de/politik/deutschland/vw-autos-raus-militaer-rein-volkswagen-gibt-das-werk-osnabrueck-auf/100252189.html",
+          "published": "2026-09-05T11:42:32+00:00",
+          "summary": "Für vier deutsche Werke sucht Volkswagen eine neue Verwendung. Ein fünftes Werk in Osnabrück gibt der Konzern auf. Dort werden künftig Rüstungsgüter von anderen produziert."
         },
         {
-          "title": "Leben mit Aktien: Der Nvidia-Effekt im Depot",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/leben-mit-aktien-der-nvidia-effekt-im-depot/100252018.html",
-          "published": "2026-09-05T09:57:43+00:00",
-          "summary": "Der Chipkonzern liefert weiter ab – und wie. Sein Börsenwert könnte noch deutlich steigen. Anleger haben drei Wege, damit umzugehen."
+          "title": "Isar Aerospace: Wie viel Zeit bleibt den deutschen Raketenhoffnungen noch?",
+          "link": "https://www.wiwo.de/technologie/isar-aerospace-startet-schafft-deutschland-den-sprung-ins-all/100251808.html",
+          "published": "2026-09-05T11:15:00+00:00",
+          "summary": "Isar Aerospace probt den Flug ins All, weitere deutsche Raketen wollen bald abheben. Schafft Deutschland noch den Sprung in den Weltraum, bevor Elon Musks Starship die Regeln neu schreibt?"
         },
         {
-          "title": "Wahl in Sachsen-Anhalt: MAGA für Magdeburg – wie sich Trumps Nachwuchskader mit der AfD vernetzen",
-          "link": "https://www.wiwo.de/politik/deutschland/afd-maga-wie-trumps-nachwuchs-sachsen-anhalt-nutzt/100252237.html",
-          "published": "2026-09-05T09:56:26+00:00",
-          "summary": "„AFD über alles“ – mit diesem Satz werben junge Republikaner für die Partei. Nach Sachsen-Anhalt haben sie besonders intensive Beziehungen aufgebaut."
+          "title": "Krisenkommunikation: Wie Unternehmen auf plötzliche Angriffe reagieren sollten",
+          "link": "https://www.wiwo.de/erfolg/management/krisenkommunikation-wie-unternehmen-auf-sabotage-reagiere/100252115.html",
+          "published": "2026-09-05T11:00:00+00:00",
+          "summary": "Nach den Attacken auf mehrere Umspannwerke steht die Resilienz deutscher Energiefirmen zur Debatte. Wie widerstandsfähig sind sie aufgestellt?"
         },
         {
-          "title": "EU: Weiter, immer weiter?",
-          "link": "https://www.wiwo.de/politik/europa/eu-erweiterung-die-kosten-und-risiken-des-wachstums/100250336.html",
-          "published": "2026-09-05T09:55:35+00:00",
-          "summary": "Island will nicht in die EU, Kanada kann nicht, Norwegen zögert, Osteuropa drängelt: Europa leidet unter Wachstumsschmerzen."
+          "title": "Hybrid-Autos aus China: Umweltminister Schneider pocht auf neue EU-Importzölle",
+          "link": "https://www.wiwo.de/unternehmen/auto/hybrid-autos-aus-china-umweltminister-schneider-pocht-auf-neue-eu-importzoelle/100252258.html",
+          "published": "2026-09-05T10:51:47+00:00",
+          "summary": "Die EU erhebt Zölle auf chinesische E-Autos, nicht aber auf Hybride. Umweltminister Schneider fordert nun eine Ausweitung."
         },
         {
-          "title": "BörsenWoche 575: Editorial: Von Schöpfern und Zerstörten",
-          "link": "https://www.wiwo.de/finanzen/boerse/boersenwoche-575-editorial-von-schoepfern-und-zerstoerten/100251834.html",
-          "published": "2026-09-05T09:55:00+00:00",
-          "summary": "Einst hat Uber das Taxifahren digitalisiert und sich dabei viele Feinde gemacht. Doch nun bildet der Tech-Riese eine ungewöhnliche Allianz, um sich vor der neuen Konkurrenz zu schützen."
+          "title": "Uniper: Unipers kritische Rolle beim Auffüllen der Gasspeicher",
+          "link": "https://www.wiwo.de/unternehmen/energie/deutschlands-gasspeicher-warum-uniper-wieder-unverzichtbar-wird/100251801.html",
+          "published": "2026-09-05T10:12:00+00:00",
+          "summary": "Deutschland droht im Winter das Gas auszugehen. Schon wieder. Dem Energiekonzern Uniper kommt das gelegen. Er positioniert sich als Chefimporteur."
         }
       ],
       "error": null
@@ -242,7 +242,13 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Neue Autobahn fertig, aber Mopeds und Traktoren fahren darauf Bundesstraße",
+          "title": "Silber, Kupfer, Kohlenstoff: Alternative Materialien für die Medizinelektronik",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/silber-kupfer-kohlenstoff-alternative-materialien-fuer-die-medizinelektronik/",
+          "published": "2026-09-05T12:00:00+00:00",
+          "summary": "Nachhaltige Medizinelektronik: Kupfer, Kohlenstoff und biobasierte Materialien können Sensorpflaster umweltfreundlicher machen."
+        },
+        {
+          "title": "Neue A14-Fahrbahn fertig, doch zunächst fahren hier Mopeds und Traktoren",
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/neue-autobahn-fertig-aber-mopeds-und-traktoren-fahren-darauf-bundesstrasse/",
           "published": "2026-09-05T09:39:30+00:00",
           "summary": "Bei Wittenberge wird eine 1,1 km lange Elbbrücke abgerissen. Deshalb dient die neue A14 vorerst als Bundesstraße – sogar für Mopeds und Traktoren."
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/2400-jahre-alte-holzkonstruktion-am-main-so-bauten-die-kelten-direkt-am-fluss/",
           "published": "2026-09-04T13:00:00+00:00",
           "summary": "Eichen aus dem Spessart, Trockenmauern und 250-kg-Balken: Ein Fund am Main zeigt, wie aufwendig die Kelten vor 2400 Jahren bauten."
-        },
-        {
-          "title": "Black Semiconductor entwickelt die nächste Chip Generation",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/adu-aachener-ingenieurpreis-2026/",
-          "published": "2026-09-04T11:00:00+00:00",
-          "summary": "Für leistungsfähigere Chips will das Start-up Black Semiconductor Daten mit Licht statt Strom übertragen. Dafür erhalten die Gründer den Aachener Ingenieurpreis 2026, den der VDI als Preisstifter …"
         }
       ],
       "error": null
