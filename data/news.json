@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T12:10:17+00:00",
+  "generatedAt": "2026-09-05T14:08:00+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Veranstaltungen und Demonstrationen vor der Wahl in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/ticker-demokratie-veranstaltungen-100,demonstrationen-110.html",
-          "published": "2026-09-05T12:04:00+00:00",
-          "summary": "Morgen wählen die Menschen in Sachsen-Anhalt einen neuen Landtag. Heute finden dort Demonstrationen und Feste für die Demokratie statt. In Magdeburg werden Tausende Menschen erwartet. Die aktuelle …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80726.html",
-          "published": "2026-09-05T12:03:32+00:00",
-          "summary": ""
-        },
-        {
-          "title": "\"Wollen Weltoffenheit zeigen\", Niels Bula, MDR, zum Demokratiefestival in Magdeburg",
-          "link": "https://www.tagesschau.de/video/video-1643248.html",
-          "published": "2026-09-05T11:56:15+00:00",
-          "summary": ""
-        },
-        {
           "title": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
           "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
-          "published": "2026-09-05T11:46:55+00:00",
+          "published": "2026-09-05T14:03:56+00:00",
           "summary": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die von der Berliner Verwaltung gestohlen wurden. Das zuständige Bundesamt warnt vor …"
         },
         {
-          "title": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
-          "published": "2026-09-05T10:55:56+00:00",
-          "summary": "Neuer Anlauf in den US-Vermittlungen zwischen Russland und der Ukraine: Die Sondergesandten Kushner und Witkoff sind in Moskau gelandet. Morgen geht es für Gespräche nach Kiew. Die gegenseitigen …"
+          "title": "Veranstaltungen und Demonstrationen vor der Wahl in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/ticker-demokratie-veranstaltungen-102,demonstrationen-110.html",
+          "published": "2026-09-05T14:03:54+00:00",
+          "summary": "Morgen wählen die Menschen in Sachsen-Anhalt einen neuen Landtag. Heute finden dort Demonstrationen und Feste für die Demokratie statt. In Magdeburg nehmen Tausende Menschen teil. Die aktuelle Lage …"
+        },
+        {
+          "title": "Janmashtami-Fest in Indien, Raumschiff Enterprise aus Kürbissen, Schüler in Bhutan",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10426.html",
+          "published": "2026-09-05T14:00:08+00:00",
+          "summary": ""
+        },
+        {
+          "title": "50 Jahre Muppet Show: Die Kunst des gepflegten Unsinns",
+          "link": "https://www.tagesschau.de/kultur/muppet-show-geburtstag-100.html",
+          "published": "2026-09-05T13:17:16+00:00",
+          "summary": "Kleine Puppen mit großen Klappen - vor 50 Jahren startete die Muppet Show. Mit Miss Piggys und Kermits frechen Witzen, Musik und prominenten Gästen wurde aus Puppentheater eine weltweite …"
+        },
+        {
+          "title": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
+          "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html",
+          "published": "2026-09-05T12:49:26+00:00",
+          "summary": "Kolumbiens neuer Präsident de la Espriella versprach, hart gegen bewaffnete Gruppen vorzugehen. In den ersten Wochen seiner Amtszeit lässt er seinen Worten mit enormem Tempo Taten folgen. Von Jenny …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Künstliche Intelligenz: Was wir verlieren, wenn die KI die Routinen übernimmt",
-          "link": "https://www.handelsblatt.com/unternehmen/management/kuenstliche-intelligenz-der-unterschaetzte-wert-der-routine-1/100252063.html",
-          "published": "2026-09-05T11:47:47+00:00",
-          "summary": "Die KI nimmt uns wiederkehrende Arbeiten ab, schafft so Raum für Kreativität und strategische Entscheidungen. Doch was ist mit denjenigen, die das nicht wollen?"
+          "title": "Lager für Migranten: Spaniens Regierung übernimmt Kontrolle über Hafen von Ceuta",
+          "link": "https://www.handelsblatt.com/politik/international/lager-fuer-migranten-spaniens-regierung-uebernimmt-kontrolle-ueber-hafen-von-ceuta/100252276.html",
+          "published": "2026-09-05T14:01:51+00:00",
+          "summary": "Spaniens Zentralregierung setzt sich über die Regionalverwaltung hinweg und lässt ein Zeltlager für Migranten im Hafen von Ceuta errichten."
         },
         {
-          "title": "Nach Daten-Leak: Bundessicherheitsamt warnt vor höherer Cyber-Bedrohung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-daten-leak-bundessicherheitsamt-warnt-vor-hoeherer-cyber-bedrohung/100252244.html",
-          "published": "2026-09-05T11:30:00+00:00",
-          "summary": "Nach dem Hackerangriff in Berlin warnt das Bundesamt für Sicherheit vor gezielten Phishing-Angriffen. Auch mit Blick auf die anstehenden Landtagswahlen gibt es Befürchtungen."
+          "title": "Nach Hackerangriff: Sensible Berliner Daten im Netz: Welche Gefahren drohen nun?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-hackerangriff-sensible-berliner-daten-im-netz-welche-gefahren-drohen-nun/100252277.html",
+          "published": "2026-09-05T13:50:44+00:00",
+          "summary": "Das Land Berlin hat den Erpressungsversuchen einer kriminellen Hackergruppe nicht nachgegeben - nun stehen große Mengen Daten im Netz. Nicht nur für direkt Betroffene ist das ein Problem."
         },
         {
-          "title": "Nach Hackerangriff: IT-Experte wirft Berlin „grobe Fahrlässigkeit“ vor",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-hackerangriff-it-experte-wirft-berlin-grobe-fahrlaessigkeit-vor/100252263.html",
-          "published": "2026-09-05T11:12:32+00:00",
-          "summary": "Seit Freitag sind 5,8 Terabyte Daten der Berliner Verwaltung im Darknet veröffentlicht. IT-Experte Manuel Atug sagt: Eklatante Sicherheitslücken waren schon lange bekannt."
+          "title": "USA: Interview zum Rechtspopulismus: Beim Export der MAGA-Ideologie geht es um Tradition, Religion – und Geld",
+          "link": "https://www.handelsblatt.com/politik/international/usa-beim-export-der-maga-ideologie-geht-es-um-tradition-religion-und-geld/100249923.html",
+          "published": "2026-09-05T13:34:00+00:00",
+          "summary": "Die Politikwissenschaftlerin Laura K. Field forscht zur MAGA-Bewegung. Im Gespräch mit dem Handelsblatt erklärt sie die Hassliebe der US-Rechten zu Europa – und wie viel davon Geschäft ist."
         },
         {
-          "title": "Ukraine-Krieg: US-Unterhändler in Moskau - Treffen mit Putin geplant",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-us-unterhaendler-in-moskau-treffen-mit-putin-geplant/100252261.html",
-          "published": "2026-09-05T11:05:16+00:00",
-          "summary": "Die USA nehmen ihre Vermittlung für ein Ende des Kriegs in der Ukraine wieder auf. Erste Station: Moskau. Dann soll erstmals Kiew folgen."
+          "title": "Autobauer in der Krise: Merz warnt vor Verlust von Arbeitsplätzen in der Industrie",
+          "link": "https://www.handelsblatt.com/politik/deutschland/autobauer-in-der-krise-merz-warnt-vor-verlust-von-arbeitsplaetzen-in-der-industrie/100252272.html",
+          "published": "2026-09-05T13:22:42+00:00",
+          "summary": "Bundeskanzler Merz begrüßt die Einigung auf einen tiefgreifenden Umbau bei Volkswagen. Der CDU-Chef sieht die Probleme des Konzerns als Teil einer schweren Krise der europäischen Autobranche."
         },
         {
-          "title": "Migrationskrise: Versagt Spanien in der Migrationskrise in Ceuta?",
-          "link": "https://www.handelsblatt.com/politik/international/migrationskrise-versagt-spanien-in-der-migrationskrise-in-ceuta/100250880.html",
-          "published": "2026-09-05T10:52:26+00:00",
-          "summary": "Über einen Monat nach dem Ansturm auf die spanische Exklave leben dort immer noch Tausende von Migranten. Doch Spanien ist in der Krise ebenso unvorbereitet wie viele andere EU-Länder."
+          "title": "Lager für Migranten: Spaniens Regierung übernimmt Kontrolle über Hafen von Ceuta",
+          "link": "https://www.handelsblatt.com/politik/international/lager-fuer-migranten-spaniens-regierung-uebernimmt-kontrolle-ueber-hafen-von-ceuta/100252271.html",
+          "published": "2026-09-05T13:21:47+00:00",
+          "summary": "Spaniens Zentralregierung setzt sich über die Regionalverwaltung hinweg und lässt ein Zeltlager für Migranten im Hafen von Ceuta errichten."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Druck auf dem Kessel\": Schulden, Zinsen, September - wird es jetzt brenzlig?",
+          "link": "https://www.n-tv.de/wirtschaft/Schulden-Zinsen-September-wird-es-jetzt-brenzlig-id31270969.html",
+          "published": "2026-09-05T13:30:00+00:00",
+          "summary": "Die USA haben die Schuldenmarke von 40 Billionen Dollar geknackt. Gleichzeitig steigen die langfristigen Zinsen weiter - eine gefährliche Mischung für die Börsen. Kommt damit zusätzlicher Druck auf …"
+        },
         {
           "title": "\"Investments sind Frühindikator\": Welche Ziele verfolgt der CIA-Fonds IQT in Europa?",
           "link": "https://www.n-tv.de/wirtschaft/wirtschaft_startup/Welche-Ziele-verfolgt-der-CIA-Fonds-IQT-in-Europa-id31269034.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-13-September-2026-id31251441.html",
           "published": "2026-09-04T22:01:00+00:00",
           "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
-        },
-        {
-          "title": "Wall Street im Minus: Starke Arbeitsmarktdaten machen US-Anlegern Sorgen",
-          "link": "https://www.n-tv.de/wirtschaft/Starke-Arbeitsmarktdaten-machen-US-Anlegern-Sorgen-id31271980.html",
-          "published": "2026-09-04T21:52:00+00:00",
-          "summary": "Der Jobmarkt in den USA erholt sich viel schneller als erwartet. Was für das Wirtschaftswachstum eine gute Nachricht ist, kommt an der Wall Street trotzdem nicht gut an: Die US-Börsen geben nach."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Das ist der Unterschied zwischen Homeoffice, Telearbeit und Remote Work",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitswelt-das-ist-der-unterschied-zwischen-homeoffice-telearbeit-und-remote-work-14330887",
-          "published": "2026-09-05T12:07:00+00:00",
-          "summary": "Homeoffice: Arbeiten in den eigenen vier Wänden Homeoffice bezeichnet eine Arbeitsform, bei der Beschäftigte ihre Aufgaben regelmäßig von zu Hause aus erledigen. Meist basiert diese Regelung auf …"
+          "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
+          "published": "2026-09-05T13:51:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
-          "title": "BSW-Umfrage: Was ist Ihre wesentliche Motivation beim Kauf strukturierter Wertpapiere?",
-          "link": "https://www.finanzen.net/nachricht/zertifikate/aktuelle-umfrage-bsw-umfrage-was-ist-ihre-wesentliche-motivation-beim-kauf-strukturierter-wertpapiere-9873018",
-          "published": "2026-09-05T12:00:00+00:00",
-          "summary": "Hier geht's direkt zur BSW-Umfrage ."
+          "title": "Multiorder beim Online-Broker: Mit einem Trade in mehrere Aktien gleichzeitig investieren",
+          "link": "https://www.finanzen.net/nachricht/aktien/multiorder-beim-online-broker-mit-einem-trade-in-mehrere-aktien-gleichzeitig-investieren-15920053",
+          "published": "2026-09-05T13:40:24+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Einfach in Krypto investieren - mit dem Top 10 Crypto ETP von finanzen.net und CoinShares",
+          "link": "https://www.finanzen.net/nachricht/devisen/in-eigener-sache-einfach-in-krypto-investieren-mit-dem-top-10-crypto-etp-von-finanzen-net-und-coinshares-13849011",
+          "published": "2026-09-05T13:30:00+00:00",
+          "summary": "Krypto­währungen wie Bitcoin und Ethereum haben sich längst etabliert - bei privaten wie insti­­tutio­nellen Investoren. Anleger setzen damit auf attrak­tive Rendite­­chancen …"
         },
         {
           "title": "Handle bei finanzen.net ZERO auch am Wochenende - jeden Samstag ab 14 Uhr",
           "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-handle-bei-finanzen-net-zero-auch-am-wochenende-jeden-samstag-ab-14-uhr-15339784",
-          "published": "2026-09-05T12:00:00+00:00",
+          "published": "2026-09-05T13:30:00+00:00",
           "summary": "Kursbewegende Ereignisse passieren oft am Wochenende. Bei ZERO kannst Du darauf schon samstags reagieren - ein entscheidender Vorteil. Wechsle auch Du zum 'Kostensieger' der Stiftung Warentest …"
         },
         {
-          "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison",
-          "link": "https://www.finanzen.net/nachricht/aktien/giganten-im-ueberblick-bilanzen-termine-tesla-nvidia-apple-amazon-co-ergebnisse-der-tech-riesen-in-der-aktuellen-saison-15759085",
-          "published": "2026-09-05T11:58:00+00:00",
-          "summary": "Die US-Schwergewichte unter den Technologie-Firmen werden am Markt besonders unter die Lupe genommen. Die jüngsten Bilanzen und Termine im Überblick: Bereits erfolgte Bilanzen 15. Juli 2026:"
-        },
-        {
-          "title": "Umschichtungen in den Top 10: So hat die Deutsche Bank ihr US-Aktiendepot im 2. Quartal neu ausgerichtet",
-          "link": "https://www.finanzen.net/nachricht/aktien/zukaeufe-ueberwiegen-umschichtungen-in-den-top-10-so-hat-die-deutsche-bank-ihr-us-aktiendepot-im-2-quartal-neu-ausgerichtet-00-15903263",
-          "published": "2026-09-05T11:56:00+00:00",
-          "summary": "Deutsche Bank hat ihr US-Aktienportfolio zum 30. Juni offengelegt Im Portfolio gab es sowohl neue Werte als auch spürbare Umschichtungen Zu- und Verkäufe in den Top 10 Da das US- Aktiendepot ..."
+          "title": "Vermögenswirksame Leistungen: Warum Millionen Deutsche bares Geld vom Chef liegen lassen",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/einfach-vl-sparen-vermoegenswirksame-leistungen-warum-millionen-deutsche-bares-geld-vom-chef-liegen-lassen-15868567",
+          "published": "2026-09-05T13:27:00+00:00",
+          "summary": "Zum Artikel"
         }
       ],
       "error": null
@@ -203,6 +203,24 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Krisenkommunikation: Wie Unternehmen auf plötzliche Angriffe reagieren sollten",
+          "link": "https://www.wiwo.de/erfolg/management/krisenkommunikation-wie-unternehmen-auf-sabotage-reagiere/100252115.html",
+          "published": "2026-09-05T13:54:00+00:00",
+          "summary": "Nach den Attacken auf mehrere Umspannwerke steht die Resilienz deutscher Energiefirmen zur Debatte. Wie widerstandsfähig sind sie aufgestellt?"
+        },
+        {
+          "title": "Umspannwerk: Suche nach Verdächtigem wegen Strom-Sabotage läuft",
+          "link": "https://www.wiwo.de/unternehmen/energie/umspannwerk-suche-nach-verdaechtigem-wegen-strom-sabotage-laeuft/100251404.html",
+          "published": "2026-09-05T13:51:00+00:00",
+          "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Der mutmaßliche Verfasser ist noch flüchtig."
+        },
+        {
+          "title": "Autobauer in der Krise: Merz warnt vor Verlust von Arbeitsplätzen in der Industrie",
+          "link": "https://www.wiwo.de/unternehmen/auto/autobauer-in-der-krise-merz-warnt-vor-verlust-von-arbeitsplaetzen-in-der-industrie/100252274.html",
+          "published": "2026-09-05T13:44:00+00:00",
+          "summary": "Bundeskanzler Merz begrüßt die Einigung auf einen tiefgreifenden Umbau bei Volkswagen. Der CDU-Chef sieht die Probleme des Konzerns als Teil einer schweren Krise der europäischen Autobranche."
+        },
+        {
           "title": "Umstellung auf Rüstung: Autos raus, Militär rein – Volkswagen gibt das Werk Osnabrück auf",
           "link": "https://www.wiwo.de/politik/deutschland/vw-autos-raus-militaer-rein-volkswagen-gibt-das-werk-osnabrueck-auf/100252189.html",
           "published": "2026-09-05T11:42:32+00:00",
@@ -213,24 +231,6 @@
           "link": "https://www.wiwo.de/technologie/isar-aerospace-startet-schafft-deutschland-den-sprung-ins-all/100251808.html",
           "published": "2026-09-05T11:15:00+00:00",
           "summary": "Isar Aerospace probt den Flug ins All, weitere deutsche Raketen wollen bald abheben. Schafft Deutschland noch den Sprung in den Weltraum, bevor Elon Musks Starship die Regeln neu schreibt?"
-        },
-        {
-          "title": "Krisenkommunikation: Wie Unternehmen auf plötzliche Angriffe reagieren sollten",
-          "link": "https://www.wiwo.de/erfolg/management/krisenkommunikation-wie-unternehmen-auf-sabotage-reagiere/100252115.html",
-          "published": "2026-09-05T11:00:00+00:00",
-          "summary": "Nach den Attacken auf mehrere Umspannwerke steht die Resilienz deutscher Energiefirmen zur Debatte. Wie widerstandsfähig sind sie aufgestellt?"
-        },
-        {
-          "title": "Hybrid-Autos aus China: Umweltminister Schneider pocht auf neue EU-Importzölle",
-          "link": "https://www.wiwo.de/unternehmen/auto/hybrid-autos-aus-china-umweltminister-schneider-pocht-auf-neue-eu-importzoelle/100252258.html",
-          "published": "2026-09-05T10:51:47+00:00",
-          "summary": "Die EU erhebt Zölle auf chinesische E-Autos, nicht aber auf Hybride. Umweltminister Schneider fordert nun eine Ausweitung."
-        },
-        {
-          "title": "Uniper: Unipers kritische Rolle beim Auffüllen der Gasspeicher",
-          "link": "https://www.wiwo.de/unternehmen/energie/deutschlands-gasspeicher-warum-uniper-wieder-unverzichtbar-wird/100251801.html",
-          "published": "2026-09-05T10:12:00+00:00",
-          "summary": "Deutschland droht im Winter das Gas auszugehen. Schon wieder. Dem Energiekonzern Uniper kommt das gelegen. Er positioniert sich als Chefimporteur."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Die 5 längsten Nonstop-Flugstrecken der Welt",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/die-5-laengsten-nonstop-flugstrecken-der-welt/",
+          "published": "2026-09-05T12:36:17+00:00",
+          "summary": "Mehr als 15.000 km und rund 19 Stunden ohne Landung: Das sind die längsten Nonstop-Flüge der Welt und 2027 soll ein neuer Rekord fallen."
+        },
         {
           "title": "Silber, Kupfer, Kohlenstoff: Alternative Materialien für die Medizinelektronik",
           "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/silber-kupfer-kohlenstoff-alternative-materialien-fuer-die-medizinelektronik/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/felssturz-am-monviso-warum-dieser-alpengipfel-besonders-gefaehrdet-ist/",
           "published": "2026-09-04T15:13:35+00:00",
           "summary": "Am Monviso sind erneut Tausende Kubikmeter Fels abgestürzt. Warum die Nordostwand so instabil ist und welche Rolle Permafrost spielen könnte."
-        },
-        {
-          "title": "Fast 30 m Holz und Stein: Rätselhafter Keltenbau am Main entdeckt",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/2400-jahre-alte-holzkonstruktion-am-main-so-bauten-die-kelten-direkt-am-fluss/",
-          "published": "2026-09-04T13:00:00+00:00",
-          "summary": "Eichen aus dem Spessart, Trockenmauern und 250-kg-Balken: Ein Fund am Main zeigt, wie aufwendig die Kelten vor 2400 Jahren bauten."
         }
       ],
       "error": null
