@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:08:00+00:00",
+  "generatedAt": "2026-09-05T16:08:53+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
-          "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
-          "published": "2026-09-05T14:03:56+00:00",
-          "summary": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die von der Berliner Verwaltung gestohlen wurden. Das zuständige Bundesamt warnt vor …"
+          "title": "Elversberg siegt trotz Zwei-Tore-Rückstand in Gladbach",
+          "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-schafft-traumstart-trotz-zwei-tore-rueckstand-in-gladbach,spielbericht-borussia-moenchengladbach-sv-elversberg-100.html",
+          "published": "2026-09-05T16:03:01+00:00",
+          "summary": "Die SV Elversberg musste gegen Borussia Mönchengladbach eine krasse Fehlentscheidung verdauen. Dennoch gelang dem Aufsteiger in einem kuriosen Spiel nach einem Zwei-Tore-Rückstand noch ein 4:3-Sieg."
         },
         {
-          "title": "Veranstaltungen und Demonstrationen vor der Wahl in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/ticker-demokratie-veranstaltungen-102,demonstrationen-110.html",
-          "published": "2026-09-05T14:03:54+00:00",
-          "summary": "Morgen wählen die Menschen in Sachsen-Anhalt einen neuen Landtag. Heute finden dort Demonstrationen und Feste für die Demokratie statt. In Magdeburg nehmen Tausende Menschen teil. Die aktuelle Lage …"
+          "title": "Fußball-Bundesliga: Werder Bremen schlägt überraschend RB Leipzig",
+          "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-und-co-lassen-leipzig-als-aussehen,spielbericht-werder-bremen-rb-leipzig-112.html",
+          "published": "2026-09-05T15:29:19+00:00",
+          "summary": "RB Leipzig hatte bei Werder Bremen viel Ballbesitz. Das brachte den Sachsen bei aufopferungsvoll kämpfenden Gastgebern aber rein gar nichts. Werder besiegte Leipzig überraschend deutlich mit 3:1."
         },
         {
-          "title": "Janmashtami-Fest in Indien, Raumschiff Enterprise aus Kürbissen, Schüler in Bhutan",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10426.html",
-          "published": "2026-09-05T14:00:08+00:00",
-          "summary": ""
+          "title": "Sprengvorrichtungen auch in Sachsen entdeckt",
+          "link": "https://www.mdr.de/nachrichten/deutschland/politik/zwoelf-12-sprengsaetze-sachsen-braunkohle-stromtrassen,anschlag-umspannwerk-sn-100.html",
+          "published": "2026-09-05T15:27:15+00:00",
+          "summary": "Nach mehreren Sabotageversuchen gegen die Stromversorgung in Deutschland wurden jetzt auch in Sachsen Sprengvorrichtungen entdeckt. Am Nachmittag suchten Polizisten einen Wald an der Landesgrenze zu …"
         },
         {
-          "title": "50 Jahre Muppet Show: Die Kunst des gepflegten Unsinns",
-          "link": "https://www.tagesschau.de/kultur/muppet-show-geburtstag-100.html",
-          "published": "2026-09-05T13:17:16+00:00",
-          "summary": "Kleine Puppen mit großen Klappen - vor 50 Jahren startete die Muppet Show. Mit Miss Piggys und Kermits frechen Witzen, Musik und prominenten Gästen wurde aus Puppentheater eine weltweite …"
+          "title": "Fußball-Bundesliga: Bayer Leverkusen zerlegt zahnloses Union Berlin",
+          "link": "https://www.sportschau.de/fussball/bundesliga/leverkusen-zerlegt-zahnloses-union-berlin,spielbericht-bayer-leverkusen-union-berlin-106.html",
+          "published": "2026-09-05T15:21:30+00:00",
+          "summary": "Ein schwaches Union Berlin hat Bayer Leverkusen die Wiedergutmachung für den verpatzten Bundesliga-Start in Elversberg ermöglicht. Mit 4:0 fertigte Leverkusen die Eisernen am zweiten Spieltag ab."
         },
         {
-          "title": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
-          "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html",
-          "published": "2026-09-05T12:49:26+00:00",
-          "summary": "Kolumbiens neuer Präsident de la Espriella versprach, hart gegen bewaffnete Gruppen vorzugehen. In den ersten Wochen seiner Amtszeit lässt er seinen Worten mit enormem Tempo Taten folgen. Von Jenny …"
+          "title": "USA greifen iranische Öltanker an",
+          "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
+          "published": "2026-09-05T15:17:36+00:00",
+          "summary": "Vor der Küste Irans hat das US-Militär drei iranische Öltanker außer Gefecht gesetzt. Es spricht von einer Reaktion auf Attacken der Revolutionsgarde: Diese soll zuvor Raketen auf Marineschiffe …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Lager für Migranten: Spaniens Regierung übernimmt Kontrolle über Hafen von Ceuta",
-          "link": "https://www.handelsblatt.com/politik/international/lager-fuer-migranten-spaniens-regierung-uebernimmt-kontrolle-ueber-hafen-von-ceuta/100252276.html",
-          "published": "2026-09-05T14:01:51+00:00",
-          "summary": "Spaniens Zentralregierung setzt sich über die Regionalverwaltung hinweg und lässt ein Zeltlager für Migranten im Hafen von Ceuta errichten."
+          "title": "Drohnen-Angriff: Merz an Russland: „Fest entschlossen, uns zu verteidigen“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/drohnen-angriff-merz-an-russland-fest-entschlossen-uns-zu-verteidigen/100252284.html",
+          "published": "2026-09-05T15:57:48+00:00",
+          "summary": "Wer für den Leipziger Drohnen-Angriff aus Sicht der Bundesregierung verantwortlich ist, ließ der Kanzler seine Minister verkünden. Jetzt äußert er sich erstmals selbst dazu."
+        },
+        {
+          "title": "Landtagswahl in Sachsen-Anhalt: Tausende demonstrieren für Demokratie und Weltoffenheit in Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-tausende-demonstrieren-fuer-demokratie-in-sachsen-anhalt/100252039.html",
+          "published": "2026-09-05T15:40:51+00:00",
+          "summary": "Wahlforscher erwarten keinen Mobilisierungseffekt kurz vor der Wahl +++ Merz: Lassen uns von AfD das Land nicht kaputtreden +++ Prien: Abschaffung der Schulpflicht wäre Katastrophe +++ Der Newsblog."
+        },
+        {
+          "title": "Künstliche Intelligenz: OpenAI-KI missbrauchte deutschsprachiges Wiki für Austausch",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-ki-missbrauchte-deutschsprachiges-wiki-fuer-austausch/100252252.html",
+          "published": "2026-09-05T15:40:36+00:00",
+          "summary": "Eine deutschsprachige Wiki-Seite für Software-Entwickler wird plötzlich mit tausenden Beiträgen geflutet. Dahinter stecken KI-Agenten von OpenAI, die sich heimlich Informationen zustecken."
         },
         {
           "title": "Nach Hackerangriff: Sensible Berliner Daten im Netz: Welche Gefahren drohen nun?",
           "link": "https://www.handelsblatt.com/politik/deutschland/nach-hackerangriff-sensible-berliner-daten-im-netz-welche-gefahren-drohen-nun/100252277.html",
-          "published": "2026-09-05T13:50:44+00:00",
+          "published": "2026-09-05T14:48:57+00:00",
           "summary": "Das Land Berlin hat den Erpressungsversuchen einer kriminellen Hackergruppe nicht nachgegeben - nun stehen große Mengen Daten im Netz. Nicht nur für direkt Betroffene ist das ein Problem."
         },
         {
-          "title": "USA: Interview zum Rechtspopulismus: Beim Export der MAGA-Ideologie geht es um Tradition, Religion – und Geld",
-          "link": "https://www.handelsblatt.com/politik/international/usa-beim-export-der-maga-ideologie-geht-es-um-tradition-religion-und-geld/100249923.html",
-          "published": "2026-09-05T13:34:00+00:00",
-          "summary": "Die Politikwissenschaftlerin Laura K. Field forscht zur MAGA-Bewegung. Im Gespräch mit dem Handelsblatt erklärt sie die Hassliebe der US-Rechten zu Europa – und wie viel davon Geschäft ist."
-        },
-        {
-          "title": "Autobauer in der Krise: Merz warnt vor Verlust von Arbeitsplätzen in der Industrie",
-          "link": "https://www.handelsblatt.com/politik/deutschland/autobauer-in-der-krise-merz-warnt-vor-verlust-von-arbeitsplaetzen-in-der-industrie/100252272.html",
-          "published": "2026-09-05T13:22:42+00:00",
-          "summary": "Bundeskanzler Merz begrüßt die Einigung auf einen tiefgreifenden Umbau bei Volkswagen. Der CDU-Chef sieht die Probleme des Konzerns als Teil einer schweren Krise der europäischen Autobranche."
-        },
-        {
-          "title": "Lager für Migranten: Spaniens Regierung übernimmt Kontrolle über Hafen von Ceuta",
-          "link": "https://www.handelsblatt.com/politik/international/lager-fuer-migranten-spaniens-regierung-uebernimmt-kontrolle-ueber-hafen-von-ceuta/100252271.html",
-          "published": "2026-09-05T13:21:47+00:00",
-          "summary": "Spaniens Zentralregierung setzt sich über die Regionalverwaltung hinweg und lässt ein Zeltlager für Migranten im Hafen von Ceuta errichten."
+          "title": "Sachsen-Anhalt: SPD im Umfrage-Aufwind – Aufstand aufgeschoben?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-spd-im-umfrage-aufwind-aufstand-aufgeschoben/100251052.html",
+          "published": "2026-09-05T14:37:03+00:00",
+          "summary": "In Sachsen-Anhalt scheint die Partei den Einzug in den Landtag zu schaffen, auch in Mecklenburg-Vorpommern sieht es besser aus. Sicher sein kann sich die Parteispitze dennoch nicht."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Putins verwundbare Gasflotte: Europa hängt am russischen LNG-Hahn - dreht die Ukraine ihn ab?",
+          "link": "https://www.n-tv.de/wirtschaft/Europa-haengt-am-russischen-LNG-Hahn-dreht-die-Ukraine-ihn-ab-id31265765.html",
+          "published": "2026-09-05T14:14:38+00:00",
+          "summary": "Im Sommer verwandelt die Ukraine Russlands wichtigste Geldquelle in eine strategische Schwachstelle: das Ölgeschäft. Dasselbe könnte sie mit russischen LNG-Lieferungen machen. 15 Tanker halten den …"
+        },
         {
           "title": "\"Druck auf dem Kessel\": Schulden, Zinsen, September - wird es jetzt brenzlig?",
           "link": "https://www.n-tv.de/wirtschaft/Schulden-Zinsen-September-wird-es-jetzt-brenzlig-id31270969.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Stromnetz-Betreiber-Machen-es-Attentaetern-unnoetig-leicht-id31272303.html",
           "published": "2026-09-05T05:19:55+00:00",
           "summary": "Amprion betreibt das zweitgrößte Stromnetz Deutschlands. Dazu gehören rund 180 Umspannwerke. Zwei davon werden Opfer von Sabotageakten. Der Chef des Netzbetreibers erwartet weitere Attacken. Er sagt …"
-        },
-        {
-          "title": "Wochenvorschau: Termine bis 13. September 2026",
-          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-13-September-2026-id31251441.html",
-          "published": "2026-09-04T22:01:00+00:00",
-          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "Aktien im Fokus: KI-Rechenleistung wird zur Anlageklasse - CME startet Compute-Futures",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-infrastruktur-aktien-im-fokus-ki-rechenleistung-wird-zur-anlageklasse-cme-startet-compute-futures-00-15910547",
+          "published": "2026-09-05T15:56:00+00:00",
+          "summary": "Kontrakte bilden monatliche Mietpreise für GPU-Rechenleistung ab und sollen Preisschwankungen für Unternehmen planbar machen • US-Aufsichtsbehörde CFTC hat eine öffentliche Konsultation zu …"
+        },
+        {
           "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
-          "published": "2026-09-05T13:51:00+00:00",
+          "published": "2026-09-05T15:51:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "Multiorder beim Online-Broker: Mit einem Trade in mehrere Aktien gleichzeitig investieren",
-          "link": "https://www.finanzen.net/nachricht/aktien/multiorder-beim-online-broker-mit-einem-trade-in-mehrere-aktien-gleichzeitig-investieren-15920053",
-          "published": "2026-09-05T13:40:24+00:00",
+          "title": "Preiskampf bei Welt-ETFs: Wer ist der wahre Volks-ETF?",
+          "link": "https://www.finanzen.net/nachricht/aktien/preiskampf-bei-welt-etfs-wer-ist-der-wahre-volks-etf-15920081",
+          "published": "2026-09-05T15:49:08+00:00",
           "summary": ""
         },
         {
-          "title": "Einfach in Krypto investieren - mit dem Top 10 Crypto ETP von finanzen.net und CoinShares",
-          "link": "https://www.finanzen.net/nachricht/devisen/in-eigener-sache-einfach-in-krypto-investieren-mit-dem-top-10-crypto-etp-von-finanzen-net-und-coinshares-13849011",
-          "published": "2026-09-05T13:30:00+00:00",
-          "summary": "Krypto­währungen wie Bitcoin und Ethereum haben sich längst etabliert - bei privaten wie insti­­tutio­nellen Investoren. Anleger setzen damit auf attrak­tive Rendite­­chancen …"
+          "title": "KW 36 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-36-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15909795",
+          "published": "2026-09-05T15:44:00+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 36"
         },
         {
-          "title": "Handle bei finanzen.net ZERO auch am Wochenende - jeden Samstag ab 14 Uhr",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-handle-bei-finanzen-net-zero-auch-am-wochenende-jeden-samstag-ab-14-uhr-15339784",
-          "published": "2026-09-05T13:30:00+00:00",
-          "summary": "Kursbewegende Ereignisse passieren oft am Wochenende. Bei ZERO kannst Du darauf schon samstags reagieren - ein entscheidender Vorteil. Wechsle auch Du zum 'Kostensieger' der Stiftung Warentest …"
-        },
-        {
-          "title": "Vermögenswirksame Leistungen: Warum Millionen Deutsche bares Geld vom Chef liegen lassen",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/einfach-vl-sparen-vermoegenswirksame-leistungen-warum-millionen-deutsche-bares-geld-vom-chef-liegen-lassen-15868567",
-          "published": "2026-09-05T13:27:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Brokerwechsel: So sparen Anleger mehr als 130 Euro im Jahr",
+          "link": "https://www.finanzen.net/nachricht/aktien/brokerwechsel-so-sparen-anleger-mehr-als-130-euro-im-jahr-15920079",
+          "published": "2026-09-05T15:43:00+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Krisenkommunikation: Wie Unternehmen auf plötzliche Angriffe reagieren sollten",
-          "link": "https://www.wiwo.de/erfolg/management/krisenkommunikation-wie-unternehmen-auf-sabotage-reagiere/100252115.html",
-          "published": "2026-09-05T13:54:00+00:00",
-          "summary": "Nach den Attacken auf mehrere Umspannwerke steht die Resilienz deutscher Energiefirmen zur Debatte. Wie widerstandsfähig sind sie aufgestellt?"
-        },
-        {
-          "title": "Umspannwerk: Suche nach Verdächtigem wegen Strom-Sabotage läuft",
-          "link": "https://www.wiwo.de/unternehmen/energie/umspannwerk-suche-nach-verdaechtigem-wegen-strom-sabotage-laeuft/100251404.html",
-          "published": "2026-09-05T13:51:00+00:00",
-          "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Der mutmaßliche Verfasser ist noch flüchtig."
-        },
-        {
-          "title": "Autobauer in der Krise: Merz warnt vor Verlust von Arbeitsplätzen in der Industrie",
-          "link": "https://www.wiwo.de/unternehmen/auto/autobauer-in-der-krise-merz-warnt-vor-verlust-von-arbeitsplaetzen-in-der-industrie/100252274.html",
-          "published": "2026-09-05T13:44:00+00:00",
-          "summary": "Bundeskanzler Merz begrüßt die Einigung auf einen tiefgreifenden Umbau bei Volkswagen. Der CDU-Chef sieht die Probleme des Konzerns als Teil einer schweren Krise der europäischen Autobranche."
-        },
-        {
           "title": "Umstellung auf Rüstung: Autos raus, Militär rein – Volkswagen gibt das Werk Osnabrück auf",
           "link": "https://www.wiwo.de/politik/deutschland/vw-autos-raus-militaer-rein-volkswagen-gibt-das-werk-osnabrueck-auf/100252189.html",
-          "published": "2026-09-05T11:42:32+00:00",
+          "published": "2026-09-05T15:18:27+00:00",
           "summary": "Für vier deutsche Werke sucht Volkswagen eine neue Verwendung. Ein fünftes Werk in Osnabrück gibt der Konzern auf. Dort werden künftig Rüstungsgüter von anderen produziert."
         },
         {
-          "title": "Isar Aerospace: Wie viel Zeit bleibt den deutschen Raketenhoffnungen noch?",
-          "link": "https://www.wiwo.de/technologie/isar-aerospace-startet-schafft-deutschland-den-sprung-ins-all/100251808.html",
-          "published": "2026-09-05T11:15:00+00:00",
-          "summary": "Isar Aerospace probt den Flug ins All, weitere deutsche Raketen wollen bald abheben. Schafft Deutschland noch den Sprung in den Weltraum, bevor Elon Musks Starship die Regeln neu schreibt?"
+          "title": "Digitale Revolution: „Jobverluste durch KI? Darauf gibt es kaum Hinweise“",
+          "link": "https://www.wiwo.de/politik/ausland/ki-und-jobs-warum-die-nachfrage-nach-arbeit-sogar-steigen-kann/100245182.html",
+          "published": "2026-09-05T15:03:00+00:00",
+          "summary": "Wie lässt sich steigende Produktivität durch Künstliche Intelligenz messen? Und wer streicht am Ende die Gewinne ein? Ein Interview mit Aaron Chatterji, dem Chefvolkswirt von OpenAI."
+        },
+        {
+          "title": "Vor Landtagswahl: Wie Trumps MAGA-Bewegung im Wahlkampf in Sachsen-Anhalt mitmischt",
+          "link": "https://www.wiwo.de/politik/deutschland/afd-maga-wie-trumps-nachwuchs-sachsen-anhalt-nutzt/100252237.html",
+          "published": "2026-09-05T14:56:00+00:00",
+          "summary": "„AFD über alles“ – mit diesem Satz werben junge Republikaner für die Partei. Nach Sachsen-Anhalt haben sie besonders intensive Beziehungen aufgebaut."
+        },
+        {
+          "title": "Robert Kiyosaki: Hat der „Rich Dad“ ein Schuldenproblem?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/robert-kiyosaki-hat-der-rich-dad-autor-ein-schuldenproblem/100252019.html",
+          "published": "2026-09-05T14:34:25+00:00",
+          "summary": "Finanz-Guru Robert Kiyosaki hat Milliardenschulden: Diese Nachricht sorgt gerade für Häme. Allerdings ist seine Finanzlage komplexer, als es scheint."
+        },
+        {
+          "title": "Todesfall: Wie bekomme ich Auskunft über ein mögliches Erbe?",
+          "link": "https://www.wiwo.de/finanzen/steuern-recht/todesfall-wie-bekomme-ich-auskunft-ueber-ein-moegliches-erbe/100245518.html",
+          "published": "2026-09-05T14:33:00+00:00",
+          "summary": "Eine Leserin glaubt, dass sie Erbin geworden ist. Doch sie hat keine Informationen dazu. Wie kann sie recherchieren?"
         }
       ],
       "error": null
