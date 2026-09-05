@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T18:09:42+00:00",
+  "generatedAt": "2026-09-05T20:08:32+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Elversberg siegt trotz Zwei-Tore-Rückstand in Gladbach",
-          "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-schafft-traumstart-trotz-zwei-tore-rueckstand-in-gladbach,spielbericht-borussia-moenchengladbach-sv-elversberg-100.html",
-          "published": "2026-09-05T17:59:40+00:00",
-          "summary": "Die SV Elversberg musste gegen Borussia Mönchengladbach eine krasse Fehlentscheidung verdauen. Dennoch gelang dem Aufsteiger in einem kuriosen Spiel nach einem Zwei-Tore-Rückstand noch ein 4:3-Sieg."
-        },
-        {
-          "title": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
-          "published": "2026-09-05T17:52:19+00:00",
-          "summary": "Ein 48-Jähriger hat sich in zwei Schreiben zu den versuchten Sabotageakten gegen das Stromnetz bekannt. Darin nennt er seinen Namen, er wurde aber noch nicht gefasst. Nun setzt die Polizei auf eine …"
-        },
-        {
-          "title": "Veranstaltungen und Demonstrationen vor der Wahl in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/ticker-demokratie-veranstaltungen-102,demonstrationen-110.html",
-          "published": "2026-09-05T17:41:34+00:00",
-          "summary": "Morgen wählen die Menschen in Sachsen-Anhalt einen neuen Landtag. Heute finden dort Demonstrationen und Feste für die Demokratie statt. In Magdeburg nehmen Tausende Menschen teil. Die aktuelle Lage …"
+          "title": "Tausende feiern Demokratiefest auf Magdeburger Domplatz",
+          "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/magedeburg-100,demokratiefest-demo-konzert-100.html",
+          "published": "2026-09-05T19:42:22+00:00",
+          "summary": "In Magdeburg haben Tausende Menschen ein Zeichen für Weltoffenheit gesetzt. Die größte Veranstaltung fand auf dem Domplatz statt. Zuvor waren Demonstranten vom Hauptbahnhof dorthin gezogen."
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643366.html",
-          "published": "2026-09-05T17:37:59+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643454.html",
+          "published": "2026-09-05T19:25:05+00:00",
           "summary": ""
         },
         {
-          "title": "Michael Götschenberg, ARD-Terrorismusexperte, über die laufende Polizeifahndung nach dem Sabotageversuch am Stromnetz",
-          "link": "https://www.tagesschau.de/video/video-1643346.html",
-          "published": "2026-09-05T17:32:40+00:00",
-          "summary": ""
+          "title": "Basketball-WM: DBB-Frauen begeistern bei Sieg gegen Japan",
+          "link": "https://www.sportschau.de/basketball/dbb-frauen-begeistern-bei-sieg-gegen-japan,bb-wm-spielbericht-ger-jpn-100.html",
+          "published": "2026-09-05T19:17:55+00:00",
+          "summary": "Nach dem schwachen WM-Auftakt gegen Spanien holten Deutschlands Basketballerinnen ihren ersten Sieg. Durch das deutliche 74:58 ist die DBB-Auswahl wieder im Rennen um die direkte …"
+        },
+        {
+          "title": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
+          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
+          "published": "2026-09-05T19:14:33+00:00",
+          "summary": "Die US-Staatsschulden liegen inzwischen bei mehr als 40 Billionen Dollar. Immer mehr Geld aus dem Haushalt fließt so in Zinszahlungen - und weniger bleibt übrig für Investitionen in die Zukunft des …"
+        },
+        {
+          "title": "Bundesliga: Schalke 04 lässt den FC Bayern verzweifeln",
+          "link": "https://www.sportschau.de/fussball/bundesliga/leidenschaft-pur-schalkes-aufsteiger-stoppen-die-bayern,spielbericht-schalke-04-bayern-muenchen-100.html",
+          "published": "2026-09-05T18:51:29+00:00",
+          "summary": "Ein 0:0, das sich wie ein Sieg anfühlt: Schalke 04 hat dem FC Bayern Paroli geboten und sich mit einer beherzten Leistung einen Punkt erkämpft."
         }
       ],
       "error": null
@@ -47,16 +47,16 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Verhandlungen: Ukraine-Krieg: Putin beginnt Gespräche mit US-Unterhändlern",
+          "link": "https://www.handelsblatt.com/politik/international/verhandlungen-ukraine-krieg-putin-beginnt-gespraeche-mit-us-unterhaendlern/100252261.html",
+          "published": "2026-09-05T18:12:28+00:00",
+          "summary": "Kremlchef Putin lässt die US-Gesandten Witkoff und Kushner fast den ganzen Tag warten in Moskau. Nun gibt es neue Gespräche, die zuerst der ukrainische Präsident Selenskyj angekündigt hat."
+        },
+        {
           "title": "Stromnetz-Sabotage: Suche nach Verdächtigem läuft – Fahrzeug gefunden",
           "link": "https://www.handelsblatt.com/unternehmen/energie/stromnetz-sabotage-suche-nach-verdaechtigem-laeuft-fahrzeug-gefunden/100252217.html",
           "published": "2026-09-05T17:11:55+00:00",
           "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden – doch er selbst ist noch flüchtig."
-        },
-        {
-          "title": "Verhandlungen: Ukraine-Krieg: Putin beginnt Gespräche mit US-Unterhändlern",
-          "link": "https://www.handelsblatt.com/politik/international/verhandlungen-ukraine-krieg-putin-beginnt-gespraeche-mit-us-unterhaendlern/100252261.html",
-          "published": "2026-09-05T17:11:39+00:00",
-          "summary": "Kremlchef Putin lässt die US-Gesandten Witkoff und Kushner fast den ganzen Tag warten in Moskau. Nun gibt es neue Gespräche, die zuerst der ukrainische Präsident Selenskyj angekündigt hat."
         },
         {
           "title": "Sparda-Bank Berlin: Andere schließen Filialen – diese Bank investiert in Standorte im Osten",
@@ -127,32 +127,32 @@
         {
           "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
-          "published": "2026-09-05T17:51:00+00:00",
+          "published": "2026-09-05T19:51:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "Umschichtungen in den Top 10: So hat die Deutsche Bank ihr US-Aktiendepot im 2. Quartal neu ausgerichtet",
-          "link": "https://www.finanzen.net/nachricht/aktien/zukaeufe-ueberwiegen-umschichtungen-in-den-top-10-so-hat-die-deutsche-bank-ihr-us-aktiendepot-im-2-quartal-neu-ausgerichtet-00-15903263",
-          "published": "2026-09-05T17:48:00+00:00",
-          "summary": "Deutsche Bank hat ihr US-Aktienportfolio zum 30. Juni offengelegt Im Portfolio gab es sowohl neue Werte als auch spürbare Umschichtungen Zu- und Verkäufe in den Top 10 Da das US- Aktiendepot ..."
+          "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
+          "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-36-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15881694",
+          "published": "2026-09-05T19:03:00+00:00",
+          "summary": "Hier finden Sie den Nachrichten-Rückblick auf die vergangene Woche."
         },
         {
-          "title": "Warum Analysten die Aktien von Samsung und SK hynix als \"extrem unterbewertet\" ansehen",
-          "link": "https://www.finanzen.net/nachricht/aktien/speicherchips-warum-analysten-die-aktien-von-samsung-und-sk-hynix-als-34-extrem-unterbewertet-34-ansehen-00-15901072",
-          "published": "2026-09-05T17:47:00+00:00",
-          "summary": "Jeff Kim von KB Securities nennt Samsung und SK hynix \"extrem unterbewertet\" • Für Q3 2026 werden bei beiden deutliche Gewinnsprünge erwartet • Mehrere Brokerhäuser starten Coverage der SK …"
+          "title": "Aktien im Fokus: KI-Rechenleistung wird zur Anlageklasse - CME startet Compute-Futures",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-infrastruktur-aktien-im-fokus-ki-rechenleistung-wird-zur-anlageklasse-cme-startet-compute-futures-00-15910547",
+          "published": "2026-09-05T18:52:00+00:00",
+          "summary": "Kontrakte bilden monatliche Mietpreise für GPU-Rechenleistung ab und sollen Preisschwankungen für Unternehmen planbar machen • US-Aufsichtsbehörde CFTC hat eine öffentliche Konsultation zu …"
         },
         {
-          "title": "Wie viel Wert mit einer Toncoin-Investition von vor 1 Jahr verloren gegangen wäre",
-          "link": "https://www.finanzen.net/nachricht/devisen/wie-viel-wert-mit-einer-toncoin-investition-von-vor-1-jahr-verloren-gegangen-waere-15920096",
-          "published": "2026-09-05T17:43:04+00:00",
-          "summary": "Vor 1 Jahr notierte Toncoin bei 3,099 USD. Bei einem 100-USD-Investment vor 1 Jahr, besäße man nun 32,27 TON. Die Anlage hätte nun einen Wert von 45,00 USD, da sich der Wert von Toncoin am 04.09.2026 …"
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-05T18:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
         },
         {
-          "title": "Hedera: So viel Wert wäre mit einer Investition von vor 1 Jahr verloren gegangen",
-          "link": "https://www.finanzen.net/nachricht/devisen/hedera-so-viel-wert-waere-mit-einer-investition-von-vor-1-jahr-verloren-gegangen-15920095",
-          "published": "2026-09-05T17:43:04+00:00",
-          "summary": "Vor 1 Jahr kostete ein Hedera 0,2138 USD. Bei einer Investition von 1.000 USD in HBAR zu diesem Zeitpunkt, wäre ein Investor nun im Besitz von 4.678,19 Hedera. Mit dem HBAR-USD-Kurs von gestern ..."
+          "title": "Bloom Energy-Aktie steigt in den S&P 500 auf und ersetzt Molson Coors - Kursfeuerwerk",
+          "link": "https://www.finanzen.net/nachricht/aktien/aufstieg-bloom-energy-aktie-steigt-in-den-s-p-500-auf-und-ersetzt-molson-coors-kursfeuerwerk-00-15919943",
+          "published": "2026-09-05T18:35:00+00:00",
+          "summary": "Bloom Energy zieht zum 21. September 2026 in den S&P 500 ein Aktie reagiert mit Kursfeuerwerk KI-Rechenzentrumsboom treibt an S&P Dow Jones Indices hat am 4. September 2026 bekannt gegeben, ..."
         }
       ],
       "error": null
