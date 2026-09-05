@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:08:45+00:00",
+  "generatedAt": "2026-09-05T06:10:39+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,9 +8,21 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
+          "published": "2026-09-05T05:25:59+00:00",
+          "summary": "Die Wirtschaftslage ist bei der Wahl in Sachsen-Anhalt ein wichtiges Thema. Das Bundesland altert und schrumpft, die Arbeitslosigkeit ist eher hoch. Manche Sorgen kennen aber auch Westregionen - und …"
+        },
+        {
+          "title": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-stimmung-themen-100.html",
+          "published": "2026-09-05T05:25:50+00:00",
+          "summary": "Vor der Landtagswahl in Sachsen-Anhalt dominieren Unzufriedenheit und Misstrauen. Die AfD führt in Umfragen. Integration, Bildung und Wirtschaft sind die wichtigsten Themen. Von Katharina Gebauer."
+        },
+        {
           "title": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
           "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
-          "published": "2026-09-05T03:15:31+00:00",
+          "published": "2026-09-05T04:26:54+00:00",
           "summary": "US-Präsident Trump entsendet seine Unterhändler Witkoff und Kushner zu neuen Gesprächen über ein Ende des Ukrainekriegs. Es sollen auch Verhandlungen in Kiew geplant sein- das wäre das erste Mal."
         },
         {
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/babyboomer-rente-deutschland-wachstum-100.html",
           "published": "2026-09-05T02:59:52+00:00",
           "summary": "Bis 2040 gehen 30 Prozent der Erwerbspersonen in Deutschland in Rente. Das kostet Wachstum, wenn Politik und Unternehmen nicht gegensteuern. KI könnte helfen - ist aber nur ein Teil der Antwort. Von …"
-        },
-        {
-          "title": "UN stimmen für neue Weltkarte - Afrika wächst",
-          "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
-          "published": "2026-09-05T00:12:20+00:00",
-          "summary": "Afrika soll größer werden - zumindest auf der Weltkarte. Die UN haben für eine neue Karte gestimmt, die das tatsächliche Größenverhältnis besser abbilden soll. Nur die USA waren dagegen."
-        },
-        {
-          "title": "Wahlkampfendspurt in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1643070.html",
-          "published": "2026-09-04T22:35:33+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Die Lage im Überblick: Vorstoß zu Ende des Ukraine-Kriegs? Trump schickt Vermittler",
+          "link": "https://www.handelsblatt.com/politik/international/die-lage-im-ueberblick-vorstoss-zu-ende-des-ukraine-kriegs-trump-schickt-vermittler/100252213.html",
+          "published": "2026-09-05T04:09:31+00:00",
+          "summary": "Die US-Unterhändler Witkoff und Kushner sollen erst nach Moskau und dann nach Kiew reisen. Nehmen die lange brachliegenden Verhandlungen über ein Ende des russischen Angriffskriegs wieder Fahrt auf?"
+        },
+        {
+          "title": "Landtagswahl: Tausende zu Kundgebungen vor Wahl in Sachsen-Anhalt erwartet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-tausende-zu-kundgebungen-vor-wahl-in-sachsen-anhalt-erwartet/100252235.html",
+          "published": "2026-09-05T04:07:55+00:00",
+          "summary": "Viele Menschen sind noch unentschlossen, wem sie am Sonntag ihre Stimme geben sollen. Zahlreiche Bündnisse haben Demonstrationen angekündigt. Nicht nur sie rechnen mit einem starken AfD-Ergebnis."
+        },
         {
           "title": "Wachsende Risiken: Jedes fünfte Unternehmen spürt hybride Bedrohung",
           "link": "https://www.handelsblatt.com/politik/deutschland/wachsende-risiken-jedes-fuenfte-unternehmen-spuert-hybride-bedrohung/100252229.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/technik/forschung-innovation/grund-und-oberflaechenwasser-forscher-wasserdefizit-in-deutschland-verschlimmert-sich/100252228.html",
           "published": "2026-09-05T03:00:08+00:00",
           "summary": "In Deutschland nehmen die Wasserreserven immer weiter ab. Nun machen Forscher deutlich, dass nicht fehlender Regen, sondern die steigenden Temperaturen dafür maßgeblich sind."
-        },
-        {
-          "title": "Infektionskrankheit: Mehr als 1.000 Fälle von West-Nil-Virus in Europa",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/infektionskrankheit-mehr-als-1000-faelle-von-west-nil-virus-in-europa/100252224.html",
-          "published": "2026-09-05T02:30:07+00:00",
-          "summary": "In Europa steigen die Infektionen mit dem West-Nil-Virus: Inzwischen sind 15 Länder betroffen – auch Deutschland gehört dazu."
-        },
-        {
-          "title": "+++ USA +++: Wegen Kriminalität: Costa Ricas Präsidentin offen für US-Bodentruppen",
-          "link": "https://www.handelsblatt.com/politik/international/usa-wegen-kriminalitaet-costa-ricas-praesidentin-offen-fuer-us-bodentruppen/29669594.html",
-          "published": "2026-09-05T02:17:00+00:00",
-          "summary": "Briefwahl in den USA beginnt – Ungewissheit wegen Rechtsstreit +++ Trump ernennt neuen Staatssekretär fürs Heer +++ US-Regierung erlässt neue Sanktionen gegen Kuba +++ Der Newsblog."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Mehr Schutz kritischer Anlagen: Stromnetz-Betreiber: \"Machen es Attentätern unnötig leicht\"",
+          "link": "https://www.n-tv.de/wirtschaft/Stromnetz-Betreiber-Machen-es-Attentaetern-unnoetig-leicht-id31272303.html",
+          "published": "2026-09-05T05:19:55+00:00",
+          "summary": "Amprion betreibt das zweitgrößte Stromnetz Deutschlands. Dazu gehören rund 180 Umspannwerke. Zwei davon werden Opfer von Sabotageakten. Der Chef des Netzbetreibers erwartet weitere Attacken. Er sagt …"
+        },
         {
           "title": "Wochenvorschau: Termine bis 13. September 2026",
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-13-September-2026-id31251441.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Bericht-London-genehmigt-Ausbeutung-von-umstrittenem-Gasfeld-id31271219.html",
           "published": "2026-09-04T16:04:29+00:00",
           "summary": "Neue Regierung, alter Streit: Großbritanniens Premier Andy Burnham steht offenbar vor einer heiklen energiepolitischen Entscheidung. Es geht um Gas aus der Nordsee, ein Wahlversprechen und …"
-        },
-        {
-          "title": "Zeitenwende in Wolfsburg: VW-Arbeitnehmer geben viel preis - und Blume gewinnt",
-          "link": "https://www.n-tv.de/wirtschaft/VW-Arbeitnehmer-geben-viel-preis-und-Blume-gewinnt-id31270886.html",
-          "published": "2026-09-04T15:43:31+00:00",
-          "summary": "Der radikale Umbau von Volkswagen kann beginnen. Der Aufsichtsrat gibt einstimmig grünes Licht - die Arbeitnehmerseite und das Land Niedersachsen tragen den Plan mit. Der Vorstand um VW-Chef Blume …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Aktien im Fokus: KI-Rechenleistung wird zur Anlageklasse - CME startet Compute-Futures",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-infrastruktur-aktien-im-fokus-ki-rechenleistung-wird-zur-anlageklasse-cme-startet-compute-futures-00-15910547",
-          "published": "2026-09-05T03:52:00+00:00",
-          "summary": "Kontrakte bilden monatliche Mietpreise für GPU-Rechenleistung ab und sollen Preisschwankungen für Unternehmen planbar machen • US-Aufsichtsbehörde CFTC hat eine öffentliche Konsultation zu …"
+          "title": "Warum Analysten die Aktien von Samsung und SK hynix als \"extrem unterbewertet\" ansehen",
+          "link": "https://www.finanzen.net/nachricht/aktien/speicherchips-warum-analysten-die-aktien-von-samsung-und-sk-hynix-als-34-extrem-unterbewertet-34-ansehen-00-15901072",
+          "published": "2026-09-05T05:53:00+00:00",
+          "summary": "Jeff Kim von KB Securities nennt Samsung und SK hynix \"extrem unterbewertet\" • Für Q3 2026 werden bei beiden deutliche Gewinnsprünge erwartet • Mehrere Brokerhäuser starten Coverage der SK …"
         },
         {
-          "title": "ASML-Aktie nach 54-Prozent-Rally in 2026: Wie weit tragen Prognose und Analysten noch?",
-          "link": "https://www.finanzen.net/nachricht/aktien/analysten-sehen-potenzial-asml-aktie-nach-54-prozent-rally-in-2026-wie-weit-tragen-prognose-und-analysten-noch-00-15911455",
-          "published": "2026-09-05T03:23:00+00:00",
-          "summary": "Angehobene Jahresprognose und volle Auftragsbücher stützen die Kursfantasie Analysten trauen der Aktie trotz hoher Bewertung weiteres Potenzial zu China-Geschäft schrumpft, politische Risiken in den …"
+          "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
+          "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-36-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15881694",
+          "published": "2026-09-05T05:50:00+00:00",
+          "summary": "Hier finden Sie den Nachrichten-Rückblick auf die vergangene Woche."
         },
         {
-          "title": "KW 36 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-36-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15909795",
-          "published": "2026-09-05T03:14:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 36"
+          "title": "Vermögensaufbau für Minderjährige: So holen Eltern das Maximum aus Steuern und Automatisierung heraus",
+          "link": "https://www.finanzen.net/nachricht/aktien/vermoegensaufbau-fuer-minderjaehrige-so-holen-eltern-das-maximum-aus-steuern-und-automatisierung-heraus-15919932",
+          "published": "2026-09-05T05:44:00+00:00",
+          "summary": ""
         },
         {
-          "title": "Bernstein setzt trotz gesenkter Kursziele auf chinesische E-Auto-Aktien BYD und Xiaomi",
-          "link": "https://www.finanzen.net/nachricht/aktien/gegenwind-bernstein-setzt-trotz-gesenkter-kursziele-auf-chinesische-e-auto-aktien-byd-und-xiaomi-00-15898677",
-          "published": "2026-09-05T03:14:00+00:00",
-          "summary": "BYD bleibt bei Bernstein der Top-Pick im chinesischen E-Auto-Sektor • Bernstein stuft BYD und Xiaomi weiterhin mit \"Outperform\" ein • Underperformance gegenüber dem Gesamtmarkt, dafür weniger …"
+          "title": "Umschichtungen in den Top 10: So hat die Deutsche Bank ihr US-Aktiendepot im 2. Quartal neu ausgerichtet",
+          "link": "https://www.finanzen.net/nachricht/aktien/zukaeufe-ueberwiegen-umschichtungen-in-den-top-10-so-hat-die-deutsche-bank-ihr-us-aktiendepot-im-2-quartal-neu-ausgerichtet-00-15903263",
+          "published": "2026-09-05T05:44:00+00:00",
+          "summary": "Deutsche Bank hat ihr US-Aktienportfolio zum 30. Juni offengelegt Im Portfolio gab es sowohl neue Werte als auch spürbare Umschichtungen Zu- und Verkäufe in den Top 10 Da das US- Aktiendepot ..."
         },
         {
-          "title": "Das ist der Unterschied zwischen Homeoffice, Telearbeit und Remote Work",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitswelt-das-ist-der-unterschied-zwischen-homeoffice-telearbeit-und-remote-work-14330887",
-          "published": "2026-09-05T03:08:00+00:00",
-          "summary": "Homeoffice: Arbeiten in den eigenen vier Wänden Homeoffice bezeichnet eine Arbeitsform, bei der Beschäftigte ihre Aufgaben regelmäßig von zu Hause aus erledigen. Meist basiert diese Regelung auf …"
+          "title": "Woidke: SPD braucht klare Kante",
+          "link": "https://www.finanzen.net/nachricht/aktien/woidke-spd-braucht-klare-kante-15919931",
+          "published": "2026-09-05T05:41:38+00:00",
+          "summary": "POTSDAM (dpa-AFX) - Brandenburgs SPD-Ministerpräsident Dietmar Woidke rät seiner Partei angesichts bundesweit schwacher Umfragewerte zu klarer Kante. \"Die Unzufriedenheit in der SPD und die schwachen …"
         }
       ],
       "error": null
