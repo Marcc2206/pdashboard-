@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T02:08:43+00:00",
+  "generatedAt": "2026-09-05T04:08:45+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,10 +8,22 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
+          "published": "2026-09-05T03:15:31+00:00",
+          "summary": "US-Präsident Trump entsendet seine Unterhändler Witkoff und Kushner zu neuen Gesprächen über ein Ende des Ukrainekriegs. Es sollen auch Verhandlungen in Kiew geplant sein- das wäre das erste Mal."
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643090.html",
-          "published": "2026-09-05T02:06:22+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643092.html",
+          "published": "2026-09-05T03:11:48+00:00",
           "summary": ""
+        },
+        {
+          "title": "Babyboomer gehen in Rente: Das bremst Deutschlands Wachstum",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/babyboomer-rente-deutschland-wachstum-100.html",
+          "published": "2026-09-05T02:59:52+00:00",
+          "summary": "Bis 2040 gehen 30 Prozent der Erwerbspersonen in Deutschland in Rente. Das kostet Wachstum, wenn Politik und Unternehmen nicht gegensteuern. KI könnte helfen - ist aber nur ein Teil der Antwort. Von …"
         },
         {
           "title": "UN stimmen für neue Weltkarte - Afrika wächst",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1643070.html",
           "published": "2026-09-04T22:35:33+00:00",
           "summary": ""
-        },
-        {
-          "title": "Trotz BSW-Austritten in Thürigen soll die Brombeer-Koalition stehen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1643068.html",
-          "published": "2026-09-04T22:34:15+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Sabotage an Umspannwerken - Fahndung nach Verdächtigen geht weiter",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1643066.html",
-          "published": "2026-09-04T22:33:09+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Landtagswahl: „Enorme Risiken“ – SPD-Innenminister sieht bei AfD-Regierung kritische Infrastruktur gefährdet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-spd-innenminister-sieht-afd-risiko-fuer-kritische-infrastruktur/100252205.html",
-          "published": "2026-09-05T01:57:50+00:00",
-          "summary": "Georg Maier warnt vor Sicherheitsrisiken durch einen möglichen AfD-Innenminister in Sachsen-Anhalt. Was der SPD-Politiker dabei befürchtet, reicht weit über Magdeburg hinaus."
+          "title": "Wachsende Risiken: Jedes fünfte Unternehmen spürt hybride Bedrohung",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wachsende-risiken-jedes-fuenfte-unternehmen-spuert-hybride-bedrohung/100252229.html",
+          "published": "2026-09-05T03:00:11+00:00",
+          "summary": "Cyberangriffe, Desinformation, Spionage und Sabotage – Wirtschaftsforscher sehen wachsende Risiken, etwa für die Versorgung mit Strom und Wasser. Beim Thema Schutzmaßnahmen werden sie deutlich."
         },
         {
-          "title": "IPO: KI-Unternehmen Anthropic verschiebt möglicherweise Börsengang",
-          "link": "https://www.handelsblatt.com/technik/ki/ipo-ki-unternehmen-anthropic-verschiebt-moeglicherweise-boersengang/100252219.html",
-          "published": "2026-09-05T00:30:20+00:00",
-          "summary": "Das Debüt Anthropics könnte erst kurz vor den US-Kongresswahlen im November erfolgen – mit einer möglichen Bewertung von bis zu zwei Billionen Dollar."
+          "title": "Pakete ins Ausland: Ärger um EU-Verpackungsregeln - Grüner will Bußgeld-Verzicht",
+          "link": "https://www.handelsblatt.com/politik/deutschland/pakete-ins-ausland-aerger-um-eu-verpackungsregeln-gruener-will-bussgeld-verzicht/100252226.html",
+          "published": "2026-09-05T03:00:09+00:00",
+          "summary": "Die neuen Vorschriften sollen die Umwelt schützen, bringen aber vor allem kleinere Händler in Schwierigkeiten. Ein Grünen-Politiker fordert, bei Verstößen erst einmal keine Strafen zu verhängen."
         },
         {
-          "title": "Stromnetz-Sabotage: Suche nach Verdächtigem läuft – Fahrzeug gefunden",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/stromnetz-sabotage-suche-nach-verdaechtigem-laeuft-fahrzeug-gefunden/100252217.html",
-          "published": "2026-09-05T00:15:51+00:00",
-          "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden – doch er selbst ist noch flüchtig."
+          "title": "Grund- und Oberflächenwasser: Forscher: Wasserdefizit in Deutschland verschlimmert sich",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/grund-und-oberflaechenwasser-forscher-wasserdefizit-in-deutschland-verschlimmert-sich/100252228.html",
+          "published": "2026-09-05T03:00:08+00:00",
+          "summary": "In Deutschland nehmen die Wasserreserven immer weiter ab. Nun machen Forscher deutlich, dass nicht fehlender Regen, sondern die steigenden Temperaturen dafür maßgeblich sind."
         },
         {
-          "title": "Attacken auf Stromversorgung: Strom-Sabotage: Suche nach Verdächtigem läuft",
-          "link": "https://www.handelsblatt.com/politik/deutschland/attacken-auf-stromversorgung-strom-sabotage-suche-nach-verdaechtigem-laeuft/100252215.html",
-          "published": "2026-09-04T23:49:03+00:00",
-          "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden - doch er selbst ist noch flüchtig."
+          "title": "Infektionskrankheit: Mehr als 1.000 Fälle von West-Nil-Virus in Europa",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/infektionskrankheit-mehr-als-1000-faelle-von-west-nil-virus-in-europa/100252224.html",
+          "published": "2026-09-05T02:30:07+00:00",
+          "summary": "In Europa steigen die Infektionen mit dem West-Nil-Virus: Inzwischen sind 15 Länder betroffen – auch Deutschland gehört dazu."
         },
         {
-          "title": "Die Lage im Überblick: Vorstoß zu Ende des Ukraine-Kriegs? Trump schickt Vermittler",
-          "link": "https://www.handelsblatt.com/politik/international/die-lage-im-ueberblick-vorstoss-zu-ende-des-ukraine-kriegs-trump-schickt-vermittler/100252213.html",
-          "published": "2026-09-04T23:28:39+00:00",
-          "summary": "Die US-Unterhändler Witkoff und Kushner sollen erst nach Moskau und dann nach Kiew reisen. Nehmen die lange brachliegenden Verhandlungen über ein Ende des russischen Angriffskriegs wieder Fahrt auf?"
+          "title": "+++ USA +++: Wegen Kriminalität: Costa Ricas Präsidentin offen für US-Bodentruppen",
+          "link": "https://www.handelsblatt.com/politik/international/usa-wegen-kriminalitaet-costa-ricas-praesidentin-offen-fuer-us-bodentruppen/29669594.html",
+          "published": "2026-09-05T02:17:00+00:00",
+          "summary": "Briefwahl in den USA beginnt – Ungewissheit wegen Rechtsstreit +++ Trump ernennt neuen Staatssekretär fürs Heer +++ US-Regierung erlässt neue Sanktionen gegen Kuba +++ Der Newsblog."
         }
       ],
       "error": null
@@ -125,33 +125,33 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "So fördert man die Zusammenarbeit im Team",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/gemeinsam-erfolgreich-so-foerdert-man-die-zusammenarbeit-im-team-13393826",
-          "published": "2026-09-05T02:05:00+00:00",
-          "summary": "Offene und klare Kommunikation Manchmal ist das Berufsleben dem Privatleben sehr ähnlich - gute Kommunikation ist das A und O. Die Basis jeder erfolgreichen Teamarbeit und jeder Beziehung ist eine …"
+          "title": "Aktien im Fokus: KI-Rechenleistung wird zur Anlageklasse - CME startet Compute-Futures",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-infrastruktur-aktien-im-fokus-ki-rechenleistung-wird-zur-anlageklasse-cme-startet-compute-futures-00-15910547",
+          "published": "2026-09-05T03:52:00+00:00",
+          "summary": "Kontrakte bilden monatliche Mietpreise für GPU-Rechenleistung ab und sollen Preisschwankungen für Unternehmen planbar machen • US-Aufsichtsbehörde CFTC hat eine öffentliche Konsultation zu …"
+        },
+        {
+          "title": "ASML-Aktie nach 54-Prozent-Rally in 2026: Wie weit tragen Prognose und Analysten noch?",
+          "link": "https://www.finanzen.net/nachricht/aktien/analysten-sehen-potenzial-asml-aktie-nach-54-prozent-rally-in-2026-wie-weit-tragen-prognose-und-analysten-noch-00-15911455",
+          "published": "2026-09-05T03:23:00+00:00",
+          "summary": "Angehobene Jahresprognose und volle Auftragsbücher stützen die Kursfantasie Analysten trauen der Aktie trotz hoher Bewertung weiteres Potenzial zu China-Geschäft schrumpft, politische Risiken in den …"
         },
         {
           "title": "KW 36 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
           "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-36-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15909795",
-          "published": "2026-09-05T01:21:21+00:00",
+          "published": "2026-09-05T03:14:00+00:00",
           "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 36"
         },
         {
-          "title": "KW 36: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
-          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-36-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15909794",
-          "published": "2026-09-05T01:19:59+00:00",
-          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 36 aus"
-        },
-        {
-          "title": "Turing plant Börsengang: US-Expansion und Milliardenbewertung im Visier",
-          "link": "https://www.finanzen.net/nachricht/aktien/turing-plant-boersengang-us-expansion-und-milliardenbewertung-im-visier-15919800",
-          "published": "2026-09-05T00:41:00+00:00",
-          "summary": "Das japanische Startup Turing richtet den Blick auf die USA. Dort soll innerhalb eines Jahres ein Standort entstehen, zudem könnte das Unternehmen den Sprung an die Börse wagen."
+          "title": "Bernstein setzt trotz gesenkter Kursziele auf chinesische E-Auto-Aktien BYD und Xiaomi",
+          "link": "https://www.finanzen.net/nachricht/aktien/gegenwind-bernstein-setzt-trotz-gesenkter-kursziele-auf-chinesische-e-auto-aktien-byd-und-xiaomi-00-15898677",
+          "published": "2026-09-05T03:14:00+00:00",
+          "summary": "BYD bleibt bei Bernstein der Top-Pick im chinesischen E-Auto-Sektor • Bernstein stuft BYD und Xiaomi weiterhin mit \"Outperform\" ein • Underperformance gegenüber dem Gesamtmarkt, dafür weniger …"
         },
         {
           "title": "Das ist der Unterschied zwischen Homeoffice, Telearbeit und Remote Work",
           "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitswelt-das-ist-der-unterschied-zwischen-homeoffice-telearbeit-und-remote-work-14330887",
-          "published": "2026-09-05T00:31:00+00:00",
+          "published": "2026-09-05T03:08:00+00:00",
           "summary": "Homeoffice: Arbeiten in den eigenen vier Wänden Homeoffice bezeichnet eine Arbeitsform, bei der Beschäftigte ihre Aufgaben regelmäßig von zu Hause aus erledigen. Meist basiert diese Regelung auf …"
         }
       ],
