@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T00:14:07+00:00",
+  "generatedAt": "2026-09-05T02:08:43+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643090.html",
+          "published": "2026-09-05T02:06:22+00:00",
+          "summary": ""
+        },
+        {
+          "title": "UN stimmen für neue Weltkarte - Afrika wächst",
+          "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
+          "published": "2026-09-05T00:12:20+00:00",
+          "summary": "Afrika soll größer werden - zumindest auf der Weltkarte. Die UN haben für eine neue Karte gestimmt, die das tatsächliche Größenverhältnis besser abbilden soll. Nur die USA waren dagegen."
+        },
         {
           "title": "Wahlkampfendspurt in Sachsen-Anhalt",
           "link": "https://www.tagesschau.de/tagesthemen/video-1643070.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1643066.html",
           "published": "2026-09-04T22:33:09+00:00",
           "summary": ""
-        },
-        {
-          "title": "Sparkurs bei VW - Kosten sparen und Strukturen vereinfachen ist das Ziel",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1643064.html",
-          "published": "2026-09-04T22:32:23+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12836.html",
-          "published": "2026-09-04T22:17:33+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Landtagswahl: „Enorme Risiken“ – SPD-Innenminister sieht bei AfD-Regierung kritische Infrastruktur gefährdet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-spd-innenminister-sieht-afd-risiko-fuer-kritische-infrastruktur/100252205.html",
+          "published": "2026-09-05T01:57:50+00:00",
+          "summary": "Georg Maier warnt vor Sicherheitsrisiken durch einen möglichen AfD-Innenminister in Sachsen-Anhalt. Was der SPD-Politiker dabei befürchtet, reicht weit über Magdeburg hinaus."
+        },
+        {
+          "title": "IPO: KI-Unternehmen Anthropic verschiebt möglicherweise Börsengang",
+          "link": "https://www.handelsblatt.com/technik/ki/ipo-ki-unternehmen-anthropic-verschiebt-moeglicherweise-boersengang/100252219.html",
+          "published": "2026-09-05T00:30:20+00:00",
+          "summary": "Das Debüt Anthropics könnte erst kurz vor den US-Kongresswahlen im November erfolgen – mit einer möglichen Bewertung von bis zu zwei Billionen Dollar."
+        },
+        {
+          "title": "Stromnetz-Sabotage: Suche nach Verdächtigem läuft – Fahrzeug gefunden",
+          "link": "https://www.handelsblatt.com/unternehmen/energie/stromnetz-sabotage-suche-nach-verdaechtigem-laeuft-fahrzeug-gefunden/100252217.html",
+          "published": "2026-09-05T00:15:51+00:00",
+          "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden – doch er selbst ist noch flüchtig."
+        },
+        {
           "title": "Attacken auf Stromversorgung: Strom-Sabotage: Suche nach Verdächtigem läuft",
           "link": "https://www.handelsblatt.com/politik/deutschland/attacken-auf-stromversorgung-strom-sabotage-suche-nach-verdaechtigem-laeuft/100252215.html",
           "published": "2026-09-04T23:49:03+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/die-lage-im-ueberblick-vorstoss-zu-ende-des-ukraine-kriegs-trump-schickt-vermittler/100252213.html",
           "published": "2026-09-04T23:28:39+00:00",
           "summary": "Die US-Unterhändler Witkoff und Kushner sollen erst nach Moskau und dann nach Kiew reisen. Nehmen die lange brachliegenden Verhandlungen über ein Ende des russischen Angriffskriegs wieder Fahrt auf?"
-        },
-        {
-          "title": "Kritik an üblicher Darstellung: UN stimmen auf Antrag Togos für Reform der Weltkarte",
-          "link": "https://www.handelsblatt.com/politik/international/kritik-an-ueblicher-darstellung-un-stimmen-auf-antrag-togos-fuer-reform-der-weltkarte/100252209.html",
-          "published": "2026-09-04T22:08:00+00:00",
-          "summary": "Die Afrikanische Union beklagt schon länger, ihr Kontinent werde auf Weltkarten nicht realistisch dargestellt. Nun nimmt die UN-Vollversammlung eine Resolution an, nach der sich das ändern soll."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Tote und Verletzte bei israelischem Beschuss im Südlibanon",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-tote-und-verletzte-bei-israelischem-beschuss-im-suedlibanon/100136895.html",
-          "published": "2026-09-04T21:27:00+00:00",
-          "summary": "Trump spielt Iran-Krieg herunter: „Für uns eine Kleinigkeit“ +++ US-Vize Vance würde Konflikt mit dem Iran „nicht als Krieg bezeichnen“ +++ UN-Bericht wirft Israel Verstoß gegen das Völkerrecht vor …"
-        },
-        {
-          "title": "Ratingagentur: Trotz steigender Schulden – Scope gibt Deutschland Top-Rating",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/ratingagentur-trotz-steigender-schulden-scope-gibt-deutschland-top-rating/100252204.html",
-          "published": "2026-09-04T20:53:53+00:00",
-          "summary": "Die Ratingagentur Scope bestätigt Deutschlands Top-Bonitätsnote „AAA“ und den stabilen Ausblick. Die Analysten weisen jedoch auf geopolitische Risiken und die alternde Bevölkerung hin."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "KW 36: Das waren die Gewinner und Verlierer im DAX",
-          "link": "https://www.finanzen.net/nachricht/aktien/kw-36-das-waren-die-gewinner-und-verlierer-im-dax-15919781",
-          "published": "2026-09-04T23:32:00+00:00",
-          "summary": "Im Laufe der Woche kam es am deutschen Aktienmarkt zu Ausschlägen. So entwickelten sich die Einzelwerte des deutschen Leitindex DAX."
-        },
-        {
-          "title": "Apple, Coca-Cola Alphabet: Warum diese Buffett-Aktien auf Jahrzehnte setzen",
-          "link": "https://www.finanzen.net/nachricht/aktien/apple-coca-cola-amp-alphabet-warum-diese-buffett-aktien-auf-jahrzehnte-setzen-15919777",
-          "published": "2026-09-04T23:22:00+00:00",
-          "summary": "Warren Buffett hat den Chefsessel geräumt, doch seine Idee vom Unternehmen, das über Jahrzehnte wächst, prägt Berkshire bis heute und ruht auf drei Namen."
-        },
-        {
-          "title": "Langfristig investieren trotz Kursschwankungen: Diese 10 Regeln helfen in volatilen Zeiten den Überblick zu behalten",
-          "link": "https://www.finanzen.net/nachricht/aktien/marktschwankungen-langfristig-investieren-trotz-kursschwankungen-diese-10-regeln-helfen-in-volatilen-zeiten-den-ueberblick-zu-behalten-14618511",
-          "published": "2026-09-04T23:12:00+00:00",
-          "summary": "Warum Anleger in volatilen Märkten die Ruhe bewahren sollten • Morgan Stanley klärt über die 5 größten Anleger-Fehler in volatilen Märkten auf • Diese 10 Anlageregeln sollten stattdessen befolgt …"
-        },
-        {
           "title": "So fördert man die Zusammenarbeit im Team",
           "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/gemeinsam-erfolgreich-so-foerdert-man-die-zusammenarbeit-im-team-13393826",
-          "published": "2026-09-04T23:03:00+00:00",
+          "published": "2026-09-05T02:05:00+00:00",
           "summary": "Offene und klare Kommunikation Manchmal ist das Berufsleben dem Privatleben sehr ähnlich - gute Kommunikation ist das A und O. Die Basis jeder erfolgreichen Teamarbeit und jeder Beziehung ist eine …"
         },
         {
-          "title": "Finanzexpertin Suze Orman: Warum jeder Bitcoin besitzen sollte",
-          "link": "https://www.finanzen.net/nachricht/devisen/kaufempfehlung-finanzexpertin-suze-orman-warum-jeder-bitcoin-besitzen-sollte-13876135",
-          "published": "2026-09-04T21:50:00+00:00",
-          "summary": "Bitcoin ein Muss für jedes Portfolio • Skepsis gegenüber Bitcoin als Währung • Junge Generationen als Treiber Bitcoin als Teil der Diversifizierung ..."
+          "title": "KW 36 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-36-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15909795",
+          "published": "2026-09-05T01:21:21+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 36"
+        },
+        {
+          "title": "KW 36: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
+          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-36-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15909794",
+          "published": "2026-09-05T01:19:59+00:00",
+          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 36 aus"
+        },
+        {
+          "title": "Turing plant Börsengang: US-Expansion und Milliardenbewertung im Visier",
+          "link": "https://www.finanzen.net/nachricht/aktien/turing-plant-boersengang-us-expansion-und-milliardenbewertung-im-visier-15919800",
+          "published": "2026-09-05T00:41:00+00:00",
+          "summary": "Das japanische Startup Turing richtet den Blick auf die USA. Dort soll innerhalb eines Jahres ein Standort entstehen, zudem könnte das Unternehmen den Sprung an die Börse wagen."
+        },
+        {
+          "title": "Das ist der Unterschied zwischen Homeoffice, Telearbeit und Remote Work",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitswelt-das-ist-der-unterschied-zwischen-homeoffice-telearbeit-und-remote-work-14330887",
+          "published": "2026-09-05T00:31:00+00:00",
+          "summary": "Homeoffice: Arbeiten in den eigenen vier Wänden Homeoffice bezeichnet eine Arbeitsform, bei der Beschäftigte ihre Aufgaben regelmäßig von zu Hause aus erledigen. Meist basiert diese Regelung auf …"
         }
       ],
       "error": null
