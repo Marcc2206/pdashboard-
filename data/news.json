@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T20:08:52+00:00",
+  "generatedAt": "2026-09-06T22:08:10+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: BSW laut Hochrechnung im Landtag ++",
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Darum schnitt die CDU so schlecht ab ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
-          "published": "2026-09-06T19:58:29+00:00",
-          "summary": "Das BSW hat der aktuellen Hochrechnung zufolge den Einzug in den neu gewählten Landtag von Sachsen-Anhalt knapp geschafft. Die FDP scheitert hingegen an der Fünf-Prozent-Hürde. Nun will die …"
+          "published": "2026-09-06T22:03:09+00:00",
+          "summary": "Das BSW hatte vorgeschlagen, einen überparteilichen Ministerpräsidenten mit wechselnden Mehrheiten zu wählen. AfD-Spitzenkandidat Siegmund lehnt das ab, die Idee halte er für \"Gewurschtel\". Die …"
         },
         {
-          "title": "Landtagswahl Sachsen-Anhalt: Historische Dimension des Ergebnisses",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-historisches-landtagswahl-sachsen-anhalt-2026-100.html",
-          "published": "2026-09-06T19:44:59+00:00",
-          "summary": "Acht Landtagswahlen hatte es vor dieser Abstimmung gegeben - bis auf 1998 lag immer die CDU vorn. Dieses Mal nicht: Einen so hohen Stimmenanteil wie diesmal die AfD hat in Sachsen-Anhalt bisher noch …"
+          "title": "Wahl in Sachsen-Anhalt: Neue Hochrechnung",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1644254.html",
+          "published": "2026-09-06T22:00:49+00:00",
+          "summary": "Hochrechnung von 22:49 Uhr zur Landtagswahl in Sachsen-Anhalt am 6.9.2026"
         },
         {
-          "title": "Landtagswahl Sachsen-Anhalt: Wichtigste Umfragen im Überblick",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-landtagswahl-sachsen-anhalt-2026-100.html",
-          "published": "2026-09-06T19:44:52+00:00",
-          "summary": "Die Landtagswahl hat Sachsen-Anhalts politische Landschaft massiv verändert. Was sind die Hauptgründe für dieses historische Ergebnis? Eine Erklärung in Umfrage-Grafiken von infratest dimap."
+          "title": "Elversberg siegt trotz Zwei-Tore-Rückstand in Gladbach",
+          "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-schafft-traumstart-trotz-zwei-tore-rueckstand-in-gladbach,spielbericht-borussia-moenchengladbach-sv-elversberg-100.html",
+          "published": "2026-09-06T22:00:48+00:00",
+          "summary": "Die SV Elversberg musste gegen Borussia Mönchengladbach eine krasse Fehlentscheidung verdauen. Dennoch gelang dem Aufsteiger in einem kuriosen Spiel nach einem Zwei-Tore-Rückstand noch ein 4:3-Sieg."
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1644078.html",
-          "published": "2026-09-06T19:34:04+00:00",
-          "summary": "Landtagswahl Sachsen-Anhalt: AfD wird stärkste Kraft, Gewinner und Verlierer der Landtagswahl, Ehemalige Parteimitglieder des Bündnisses Sahra Wagenknecht gründen in Thüringen neue Partei, Trotz …"
+          "title": "Mainz 05 demütigt den HSV",
+          "link": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-von-mainz-05-gedemuetigt,spielbericht-hamburger-sv-mainz-05-100.html",
+          "published": "2026-09-06T22:00:30+00:00",
+          "summary": "Der 1. FSV Mainz 05 hat sich den ersten Saisonsieg gesichert. Das Team von Trainer Urs Fischer setzte sich in der Fußball-Bundesliga hoch verdient beim schwachen Hamburger SV durch."
         },
         {
-          "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
-          "published": "2026-09-06T19:29:48+00:00",
-          "summary": "Die AfD feiert ihren Wahlsieg in Sachsen-Anhalt überschwänglich. Die Parteichefs Weidel und Chrupalla sehen in Spitzenkandidat Siegmund den nächsten Ministerpräsidenten. Die CDU lehnt eine Koalition …"
+          "title": "Fußball, Bundesliga: Augsburg stürmt in Frankfurt erstmals an die Spitze",
+          "link": "https://www.sportschau.de/fussball/bundesliga/augsburg-stuermt-in-frankfurt-erstmals-an-die-spitze,spielbericht-eintracht-frankfurt-fc-augsburg-128.html",
+          "published": "2026-09-06T22:00:23+00:00",
+          "summary": "So etwas gab es in der Bundesliga noch nie: Nach dem Auswärtssieg bei Eintracht Frankfurt grüßt der FC Augsburg nach dem 2. Spieltag von der Tabellenspitze."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Landtagswahl Sachsen-Anhalt: BSW-Spitzenkandidat sieht „Schnittmengen“ mit AfD",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-sachsen-anhalt-bsw-spitzenkandidat-sieht-schnittmengen-mit-afd/100252425.html",
+          "published": "2026-09-06T21:15:42+00:00",
+          "summary": "Bei der Wahl des Regierungschefs in Sachsen-Anhalt könnte das BSW das Zünglein an der Waage werden. Von einer Brandmauer zur AfD will dessen Spitzenkandidat nichts wissen."
+        },
+        {
+          "title": "Sachsen-Anhalt: AfD strebt nach Wahl-Triumph an die Macht in Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-afd-strebt-nach-wahl-triumph-an-die-macht-in-sachsen-anhalt/100252318.html",
+          "published": "2026-09-06T21:03:49+00:00",
+          "summary": "Die AfD will in Sachsen-Anhalt regieren. Sollte es dazu kommen, wäre das historisch. Für eine Alleinregierung der als rechtsextremistisch eingestuften Partei reicht es laut Hochrechnungen nicht."
+        },
+        {
+          "title": "Landtagswahl in Sachsen-Anhalt: BSW-Spitzenkandidat sieht „Schnittmengen“ mit AfD – Siegmund lehnt Angebot ab",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-bsw-spitzenkandidat-sieht-schnittmengen-mit-afd-siegmund-lehnt-angebot-ab/100252039.html",
+          "published": "2026-09-06T20:27:15+00:00",
+          "summary": "Trump postet Bild von Hochrechnung +++ Siegmund spekuliert über Neuwahlen, falls er keine Regierung bilden kann +++ Deutlich höhere Wahlbeteiligung +++ Der Newsblog."
+        },
+        {
           "title": "Landtagswahl: „Schwerer Schlag“ – AfD kratzt an der absoluten Mehrheit, Schockstarre in der CDU",
           "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-afd-kratzt-an-der-absoluten-mehrheit-schockstarre-in-der-cdu/100252396.html",
           "published": "2026-09-06T19:30:36+00:00",
           "summary": "Die AfD wird nach der Wahl in Sachsen-Anhalt klar stärkste Kraft, allerdings reicht es wohl nicht zum Regieren. Zum Schlüsselfaktor könnte das BSW werden."
         },
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: AfD-Kandidat Siegmund: „Wir holen uns unser Land zurück“ – Trump postet Bild von Hochrechnung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-afd-will-gespraeche-ueber-regierung-fuehren/100252039.html",
-          "published": "2026-09-06T19:27:54+00:00",
-          "summary": "BSW-Einzug in den Landtag wird wahrscheinlicher +++ Chrupalla an CDU: „Wir müssen ins Gespräch kommen“ +++ Deutlich höhere Wahlbeteiligung +++ Der Newsblog."
-        },
-        {
-          "title": "Sachsen-Anhalt: AfD strebt nach Wahl-Triumph an die Macht in Sachsen-Anhalt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-afd-strebt-nach-wahl-triumph-an-die-macht-in-sachsen-anhalt/100252318.html",
-          "published": "2026-09-06T19:24:48+00:00",
-          "summary": "Die AfD will in Sachsen-Anhalt regieren. Sollte es dazu kommen, wäre das historisch. Für eine Alleinregierung der als rechtsextremistisch eingestuften Partei reicht es laut Hochrechnungen nicht."
-        },
-        {
           "title": "Zerfall Thüringer BSW: Neustart im Eiltempo: Thüringer Ex-BSWler gründen Partei",
           "link": "https://www.handelsblatt.com/politik/deutschland/zerfall-thueringer-bsw-neustart-im-eiltempo-thueringer-ex-bswler-gruenden-partei/100252413.html",
           "published": "2026-09-06T19:23:52+00:00",
           "summary": "Die BSW-Landtagsfraktion und die Parteispitze in Thüringen sind zerfallen. Nun gründen Ex-BSWler eine neue Partei mit Finanzministerin Wolf an der Spitze. Warum die Gründung im Eilverfahren erfolgte."
-        },
-        {
-          "title": "Analyse: Die Brandmauer ist gescheitert – drei bessere Ideen für den Umgang mit der AfD",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-die-brandmauer-ist-gescheitert-sie-staerkt-am-ende-die-afd/100242466.html",
-          "published": "2026-09-06T19:20:00+00:00",
-          "summary": "Die Landtagswahl in Sachsen-Anhalt zeigt: Die Brandmauer in der jetzigen Form ist gescheitert. Die Mitte sollte dennoch alles tun, die AfD von der Regierung fernzuhalten. Drei Ideen."
         }
       ],
       "error": null
@@ -125,33 +125,33 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Willingmann hält wechselnde Mehrheiten für 'verrückt'",
-          "link": "https://www.finanzen.net/nachricht/aktien/willingmann-haelt-wechselnde-mehrheiten-fuer-verrueckt-15920700",
-          "published": "2026-09-06T20:05:39+00:00",
-          "summary": "MAGDEBURG (dpa-AFX) - Sachsen-Anhalts SPD-Spitzenkandidat Armin Willingmann ist gegen ein Modell wechselnder Mehrheiten für Sachsen-Anhalt. \"Ich halte wechselnde Mehrheiten im Interesse der …"
+          "title": "Thorsten Frei: Union darf sich nicht wegducken",
+          "link": "https://www.finanzen.net/nachricht/aktien/thorsten-frei-union-darf-sich-nicht-wegducken-15920726",
+          "published": "2026-09-06T21:56:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Der Chef der Unionsfraktion im Bundestag, Thorsten Frei, sieht seine Partei nach ihren dramatischen Verlusten in Sachsen-Anhalt vor schwierigen Gesprächen über eine …"
         },
         {
-          "title": "Tusk: Nur Idioten erfreut über AfD-Triumph",
-          "link": "https://www.finanzen.net/nachricht/aktien/tusk-nur-idioten-erfreut-ueber-afd-triumph-15920694",
-          "published": "2026-09-06T19:57:38+00:00",
-          "summary": "(Foto Archiv)Der Ausgang der Landtagswahl in Sachsen-Anhalt wird auch in den deutschen Nachbarländern Polen und Tschechien aufmerksam beobachtet. Erste Politiker reagieren auf den AfD-Erfolg. …"
+          "title": "Fünf Tote bei Unfall mit Amazon-Frachtflugzeug in Miami",
+          "link": "https://www.finanzen.net/nachricht/aktien/fuenf-tote-bei-unfall-mit-amazon-frachtflugzeug-in-miami-15920725",
+          "published": "2026-09-06T21:54:38+00:00",
+          "summary": "MIAMI (dpa-AFX) - Bei dem Unfall eines Amazon-Frachtflugzeugs ( Amazon ) am Flughafen in Miami im US-Bundesstaat Florida sind nach Behördenangaben fünf Menschen ums Leben gekommen. Fünf weitere seien …"
         },
         {
           "title": "Rallymodus: Dieser Index hängt den DAX, den S&P 500 und den MSCI World ab",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-rallymodus-dieser-index-haengt-den-dax-den-s-p-500-und-den-msci-world-ab-15918648",
-          "published": "2026-09-06T19:51:00+00:00",
+          "published": "2026-09-06T21:51:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "ROUNDUP/Strom-Sabotage: Tätersuche am Hambacher Forst erfolglos",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-strom-sabotage-taetersuche-am-hambacher-forst-erfolglos-15920689",
-          "published": "2026-09-06T19:34:39+00:00",
-          "summary": "KERPEN (dpa-AFX) - Die Suche nach einem Tatverdächtigen wegen versuchter Sabotage-Angriffe auf das deutsche Stromnetz ist trotz eines Großeinsatzes am Hambacher Forst nahe Köln bisher erfolglos …"
+          "title": "Schulze will im Parteivorstand über Konsequenzen sprechen",
+          "link": "https://www.finanzen.net/nachricht/aktien/schulze-will-im-parteivorstand-ueber-konsequenzen-sprechen-15920723",
+          "published": "2026-09-06T21:49:39+00:00",
+          "summary": "MAGDEBURG (dpa-AFX) - Sachsen-Anhalts CDU-Vorsitzender Sven Schulze hat die Frage nach möglichen Konsequenzen aus der Wahlniederlage am Wahlabend offen gelassen. \"Ich fahre morgen nach Berlin, da ist …"
         },
         {
-          "title": "GESAMT-ROUNDUP 3: AfD strebt nach Wahl-Triumph an die Macht in Sachsen-Anhalt",
-          "link": "https://www.finanzen.net/nachricht/aktien/gesamt-roundup-3-afd-strebt-nach-wahl-triumph-an-die-macht-in-sachsen-anhalt-15920688",
-          "published": "2026-09-06T19:34:39+00:00",
+          "title": "GESAMT-ROUNDUP 4: AfD strebt nach Wahl-Triumph an die Macht in Sachsen-Anhalt",
+          "link": "https://www.finanzen.net/nachricht/aktien/gesamt-roundup-4-afd-strebt-nach-wahl-triumph-an-die-macht-in-sachsen-anhalt-15920720",
+          "published": "2026-09-06T21:34:39+00:00",
           "summary": "MAGDEBURG (dpa-AFX) - Die AfD mit Spitzenkandidat Ulrich Siegmund strebt nach ihrem starken Abschneiden bei der Landtagswahl in Sachsen-Anhalt an die Regierung. Erstmals seit Ende des Zweiten …"
         }
       ],
@@ -205,7 +205,7 @@
         {
           "title": "Landtagswahl: Drei Gründe für den AfD-Wahlsieg",
           "link": "https://www.wiwo.de/politik/deutschland/afd-gewinnt-landtagswahl-in-sachsen-anhalt-3-gruende-fuer-den-afd-wahlsieg/100248326.html",
-          "published": "2026-09-06T20:03:31+00:00",
+          "published": "2026-09-06T20:31:59+00:00",
           "summary": "Das verlockendste Gefühl, das die AfD zu bieten hat? Nostalgie nach einem Deutschland, das nie existierte. Wie es so weit kommen konnte – ein Kommentar."
         },
         {
