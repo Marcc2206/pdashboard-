@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:08:53+00:00",
+  "generatedAt": "2026-09-06T12:10:44+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: AfD-Regierung würde laut Experten Wirtschaft schaden ++",
+          "title": "Für Friedensverhandlungen sind US-Sondergesandte Witkoff und Kushner in Kiew eingetroffen",
+          "link": "https://www.tagesschau.de/video/video-1643638.html",
+          "published": "2026-09-06T12:09:08+00:00",
+          "summary": ""
+        },
+        {
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Wahlkampfthema Wirtschaft ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
-          "published": "2026-09-06T10:07:08+00:00",
-          "summary": "Der Spitzenkandidat der CDU, Ministerpräsident Schulze, hat in Magdeburg seine Stimme abgegeben. Zuvor hatten bereits der AfD-Spitzenkandidat Siegmund und der SPD-Spitzenkandidat Willingman gewählt."
+          "published": "2026-09-06T12:05:46+00:00",
+          "summary": "Bis zum Mittag haben deutlich mehr Menschen ihre Stimme abgegeben, als bei der Landtagswahl 2021. Auch die Spitzenkandidatinnen und Spitzenkandidaten der größeren Parteien haben bereits gewählt."
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643600.html",
-          "published": "2026-09-06T09:40:49+00:00",
+          "title": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
+          "link": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html",
+          "published": "2026-09-06T12:05:26+00:00",
+          "summary": "Innenminister Dobrindt will härter gegen russische Sabotageakte vorgehen. Einheiten sollen den Luftraum über strategisch wichtigen Städten schützen, Drohnen abfangen und Sprengsätze entschärfen. Auch …"
+        },
+        {
+          "title": "Bei Landtagswahl in Sachsen-Anhalt zeichnet sich hohe Beteiligung ab",
+          "link": "https://www.tagesschau.de/video/video-1643634.html",
+          "published": "2026-09-06T12:03:57+00:00",
           "summary": ""
         },
         {
-          "title": "Weinberg bei Hocheim am Main, Freizeitpark Sudan, Sonnenaufgang Israel",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10428.html",
-          "published": "2026-09-06T09:28:59+00:00",
-          "summary": ""
-        },
-        {
-          "title": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html",
-          "published": "2026-09-06T09:23:44+00:00",
-          "summary": "Nach ihrem Treffen mit Kremlchef Putin in Moskau sind die US-Sondergesandten Kushner und Witkoff zu Präsident Selenskyj nach Kiew weitergereist. Während der Gespräche gilt in beiden Städten eine …"
-        },
-        {
-          "title": "\"Umfragen waren sehr stabil\", Andreas Franz, MDR, zur Landtagswahl in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/video/video-1643576.html",
-          "published": "2026-09-06T08:24:54+00:00",
-          "summary": ""
+          "title": "Blindgänger in Kiel: 250-Kilo-Bombe wird heute entschärft",
+          "link": "https://www.tagesschau.de/inland/regional/schleswigholstein/blindgaenger-in-kiel-250-kilo-bombe-wird-sonntag-entschaerft,regionkielnews-2802.html",
+          "published": "2026-09-06T11:59:59+00:00",
+          "summary": "In der schleswig-holsteinischen Landeshauptstadt wird heute ein Weltkriegs-Blindgänger entschärft. Dafür müssen mehr als 5.000 Bewohner bis 14 Uhr ihre Häuser und Wohnungen im Stadtteil Dietrichsdorf …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Rohstoffe: 95 statt 200 Dollar: Warum der große Öl-Schock trotz neuer Angriffe im Iran-Krieg bisher ausbleibt",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/rohstoffe-95-statt-200-dollar-warum-der-oel-schock-im-iran-krieg-ausbleibt/100249647.html",
-          "published": "2026-09-06T10:02:06+00:00",
-          "summary": "Ölpreise von bis zu 200 Dollar pro Barrel prophezeiten Experten wegen des Krieges. IEA und EU warnten vor Engpässen. Das Handelsblatt erklärt, warum diese Prognosen nicht eingetreten sind."
+          "title": "Attacken auf Stromversorgung: Strom-Sabotage: Polizei sucht im Hambacher Forst nach Täter",
+          "link": "https://www.handelsblatt.com/politik/deutschland/attacken-auf-stromversorgung-strom-sabotage-polizei-sucht-im-hambacher-forst-nach-taeter/100252349.html",
+          "published": "2026-09-06T11:55:50+00:00",
+          "summary": "Seit Tagen sucht die Polizei nach einem 48-Jährigen aus NRW, der für versuchte Sabotage-Akte gegen das deutsche Stromnetz verantwortlich sein soll. Jetzt läuft ein massiver Einsatz am Hambacher Forst."
         },
         {
-          "title": "+++ Iran-Krieg +++: Tote und Verletzte bei neuen Angriffen Israels im Libanon",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-tote-und-verletzte-bei-neuen-angriffen-israels-im-libanon/100136895.html",
-          "published": "2026-09-06T09:46:52+00:00",
-          "summary": "US-Militär: Angegriffener iranischer Öltanker versenkt +++ Trump spielt Iran-Krieg herunter: „Für uns eine Kleinigkeit“ +++ Der Newsblog."
+          "title": "Sabotage: Dobrindt plant nationalen Schutzschild gegen russische Sabotage",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sabotage-dobrindt-plant-nationalen-schutzschild-gegen-russische-sabotage/100252348.html",
+          "published": "2026-09-06T11:51:08+00:00",
+          "summary": "Nach dem Drohnenvorfall in Leipzig will der Innenminister kritische Infrastruktur besser schützen. Unternehmen sollen selbst Drohnen abwehren dürfen. Aus Moskau kommen scharfe Töne."
         },
         {
-          "title": "Sparpaket bei VW: Experte zu bedrohten VW-Werken: „Wettrennen ums Überleben“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sparpaket-bei-vw-experte-zu-bedrohten-vw-werken-wettrennen-ums-ueberleben/100252355.html",
-          "published": "2026-09-06T09:46:31+00:00",
-          "summary": "Zwickau ist eine Wiege des Automobilbaus in Deutschland. Doch der Überlebenskampf wird härter. Was dem Standort aus Sicht eines Auto-Experten helfen kann - und warum Rüstung keine Alternative sei."
+          "title": "Landtagswahl in Sachsen-Anhalt: Deutlich höhere Wahlbeteiligung in Sachsen-Anhalt als 2021",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-deutlich-hoehere-wahlbeteiligung-in-sachsen-anhalt-als-2021/100252039.html",
+          "published": "2026-09-06T11:45:00+00:00",
+          "summary": "AfD-Kandidat Siegmund wählt in Tangermünde, CDU-Ministerpräsident Schulze in Magdeburg +++ Chef von Siemens Energy warnt vor Folgen der AfD-Politik +++ Der Newsblog."
         },
         {
-          "title": "Radikalisierung: Warum Rechtsextremismus gerade junge Männer anzieht",
-          "link": "https://www.handelsblatt.com/politik/deutschland/radikalisierung-warum-rechtsextremismus-gerade-junge-maenner-anzieht/100252051.html",
-          "published": "2026-09-06T08:40:47+00:00",
-          "summary": "Der Anteil junger Männer, die sich als „rechts“ verorten, steigt. Grund dafür sei eine genaue Adressierung ihrer Bedürfnisse durch radikale Gruppen, sagen Extremismusforscher."
+          "title": "Gespanntes Verhältnis: Drohnenvorfall Leipzig: Lawrow nennt Vorwürfe „echten Krieg“",
+          "link": "https://www.handelsblatt.com/politik/international/gespanntes-verhaeltnis-drohnenvorfall-leipzig-lawrow-nennt-vorwuerfe-echten-krieg/100252365.html",
+          "published": "2026-09-06T11:42:44+00:00",
+          "summary": "Am Leipziger Flughafen wird Sprengstoff gefunden, die Bundesregierung sieht Russland am Werk. Doch die Moskauer Führung betrachtet genau diese Zuschreibung als Kriegserklärung."
         },
         {
-          "title": "Attacken auf Stromversorgung: Suche nach mutmaßlichem Strom-Saboteur geht weiter",
-          "link": "https://www.handelsblatt.com/politik/deutschland/attacken-auf-stromversorgung-suche-nach-mutmasslichem-strom-saboteur-geht-weiter/100252349.html",
-          "published": "2026-09-06T08:40:45+00:00",
-          "summary": "Seit Tagen sucht die Polizei mit Hochdruck nach einem 48-Jährigen aus NRW. Er soll für versuchte Sabotageakte gegen das deutsche Stromnetz verantwortlich sein. Die Ermittler gehen nun Hinweisen nach."
+          "title": "Wahl in Sachsen-Anhalt: Sorge um Fachkräfte und Investitionen bei AfD-Wahlsieg",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-sorge-um-fachkraefte-und-investitionen-bei-afd-wahlsieg/100252326.html",
+          "published": "2026-09-06T11:41:38+00:00",
+          "summary": "Was droht Sachsen-Anhalt, wenn die AfD regiert? Siemens Energy warnt vor sinkender Attraktivität für Fachkräfte und Investoren. Und steht damit nicht allein."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Kommen mit Demut\": Investoren und Manager pilgern als Tech-Touristen nach China",
+          "link": "https://www.n-tv.de/wirtschaft/Investoren-und-Manager-pilgern-als-Tech-Touristen-nach-China-id31270997.html",
+          "published": "2026-09-06T11:54:38+00:00",
+          "summary": "Eine Mischung aus Faszination und Furcht vor einem \"China-Schock 2.0\" beschert der Volksrepublik neue Touristen. Manager, Investoren und Gründern suchen in Metropolen wie Shenzhen Antworten auf zwei …"
+        },
         {
           "title": "Verfahren wegen Marktmissbrauchs: Vodafone erleidet Rückschlag im Kartellstreit mit 1&1",
           "link": "https://www.n-tv.de/wirtschaft/Vodafone-erleidet-Rueckschlag-im-Kartellstreit-mit-1-1-id31274134.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Europa-haengt-am-russischen-LNG-Hahn-dreht-die-Ukraine-ihn-ab-id31265765.html",
           "published": "2026-09-05T14:14:38+00:00",
           "summary": "Im Sommer verwandelt die Ukraine Russlands wichtigste Geldquelle in eine strategische Schwachstelle: das Ölgeschäft. Dasselbe könnte sie mit russischen LNG-Lieferungen machen. 15 Tanker halten den …"
-        },
-        {
-          "title": "\"Druck auf dem Kessel\": Schulden, Zinsen, September - wird es jetzt brenzlig?",
-          "link": "https://www.n-tv.de/wirtschaft/Schulden-Zinsen-September-wird-es-jetzt-brenzlig-id31270969.html",
-          "published": "2026-09-05T13:30:00+00:00",
-          "summary": "Die USA haben die Schuldenmarke von 40 Billionen Dollar geknackt. Gleichzeitig steigen die langfristigen Zinsen weiter - eine gefährliche Mischung für die Börsen. Kommt damit zusätzlicher Druck auf …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "OpenAI-KI umging Kontrollen über deutschsprachiges Wiki",
-          "link": "https://www.finanzen.net/nachricht/aktien/digitaler-spickzettel-openai-ki-umging-kontrollen-ueber-deutschsprachiges-wiki-15920412",
-          "published": "2026-09-06T09:55:39+00:00",
-          "summary": "Der erst jetzt öffentlich gewordene Vorfall aus dem Frühjahr ist ein weiteres Beispiel dafür, wie Software mit Künstlicher Intelligenz ungeplanten Ärger bereiten kann. Die rund 18.000 KI-Nachrichten …"
+          "title": "Aktie im Fokus: Turing peilt US-Expansion und Milliardenbewertung bei möglichem Börsengang an",
+          "link": "https://www.finanzen.net/nachricht/aktien/boersenplaene-aktie-im-fokus-turing-peilt-us-expansion-und-milliardenbewertung-bei-moeglichem-boersengang-an-00-15911621",
+          "published": "2026-09-06T12:08:00+00:00",
+          "summary": "Turing will innerhalb eines Jahres einen Standort in den USA eröffnen • Ein Börsengang in den USA oder Japan wird für 2030 oder 2031 erwartet • CEO Issei Yamamoto hält dabei eine Bewertung von rund …"
         },
         {
-          "title": "Rallymodus: Dieser Index hängt den DAX, den S&P 500 und den MSCI World ab",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-rallymodus-dieser-index-haengt-den-dax-den-s-p-500-und-den-msci-world-ab-15918648",
-          "published": "2026-09-06T09:51:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "ROUNDUP: Hohe Wahlbeteiligung in Sachsen-Anhalt bis Mittag",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-hohe-wahlbeteiligung-in-sachsen-anhalt-bis-mittag-15920504",
+          "published": "2026-09-06T12:04:40+00:00",
+          "summary": "MAGDEBURG (dpa-AFX) - Das Interesse an der Landtagswahl in Sachsen-Anhalt ist groß. Die Wahlbeteiligung lag bis 12.00 Uhr bei 34,7 Prozent, wie Landeswahlleiterin Christa Dieckmann in Magdeburg …"
         },
         {
-          "title": "Iran-Krieg: Drei iranische Öltanker von US-Militär außer Gefecht gesetzt",
-          "link": "https://www.finanzen.net/nachricht/aktien/vergeltung-iran-krieg-drei-iranische-oeltanker-von-us-militaer-ausser-gefecht-gesetzt-15920423",
-          "published": "2026-09-06T09:50:40+00:00",
-          "summary": "Wie das zuständige US-Regionalkommando Centcom weiter mitteilte, reagierte es damit auf einen Angriff der iranischen Revolutionsgarden mit ballistischen Raketen auf zwei US-Kriegsschiffe, die in den …"
+          "title": "ROUNDUP: Sorge um Fachkräfte und Investitionen bei AfD-Wahlsieg",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-sorge-um-fachkraefte-und-investitionen-bei-afd-wahlsieg-15920503",
+          "published": "2026-09-06T12:04:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Top-Manager und Ökonomen erwarten große Schwierigkeiten für die Wirtschaft in Sachsen-Anhalt, falls die AfD dort nach der Landtagswahl an die Regierung kommt. Das betrifft vor …"
         },
         {
-          "title": "Vanguard-Welt-ETF für 0,07 Prozent: Reicht dieser eine ETF?",
-          "link": "https://www.finanzen.net/nachricht/aktien/vanguard-welt-etf-fuer-0-07-prozent-reicht-dieser-eine-etf-15920446",
-          "published": "2026-09-06T09:50:01+00:00",
-          "summary": ""
+          "title": "ROUNDUP 2/Erfolg für Isar Aerospace: Deutsche Rakete erreicht Orbit",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-erfolg-fuer-isar-aerospace-deutsche-rakete-erreicht-orbit-15920502",
+          "published": "2026-09-06T12:04:39+00:00",
+          "summary": "ANDØYA (dpa-AFX) - Das deutsche Raumfahrtunternehmen Isar Aerospace hat beim zweiten Testflug seiner Trägerrakete erfolgreich fünf Satelliten in die Erdumlaufbahn gebracht. Die Rakete hob am Samstag …"
         },
         {
-          "title": "AfD-Spitzenkandidat Ulrich Siegmund hat gewählt",
-          "link": "https://www.finanzen.net/nachricht/aktien/afd-spitzenkandidat-ulrich-siegmund-hat-gewaehlt-15920443",
-          "published": "2026-09-06T09:49:45+00:00",
-          "summary": "TANGERMÜNDE (dpa-AFX) - Ulrich Siegmund, der AfD-Spitzenkandidat in Sachsen-Anhalt, hat in seiner Heimat Tangermünde seine Stimme abgegeben. In Begleitung seiner Frau fuhr er am Wahllokal auf einer …"
+          "title": "ROUNDUP: US-Vermittler Witkoff und Kushner erstmals in Kiew",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-us-vermittler-witkoff-und-kushner-erstmals-in-kiew-15920501",
+          "published": "2026-09-06T12:04:38+00:00",
+          "summary": "KIEW (dpa-AFX) - Im Ringen um ein Ende des Ukraine-Kriegs sind die US-Unterhändler Steve Witkoff und Jared Kushner erstmals in Kiew eingetroffen. Sie wurden am Bahnhof der Stadt vom Stabschef des …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Landtagswahl 2026: Wahlbeteiligung in Sachsen-Anhalt liegt am Mittag deutlich höher als 2021",
+          "link": "https://www.wiwo.de/politik/deutschland/sachsen-anhalt-wahl-deutlich-hoehere-wahlbeteiligung-zum-mittag-als-2021/100249001.html",
+          "published": "2026-09-06T11:50:00+00:00",
+          "summary": "In Sachsen-Anhalt wählen die Menschen an diesem Sonntag einen neuen Landtag. Zum Mittag hat bereits mehr als ein Drittel seine Stimme abgegeben. Ein Überblick."
+        },
+        {
+          "title": "Vermittlungsmission: US-Gesandte nach Treffen mit Putin unterwegs nach Kiew",
+          "link": "https://www.wiwo.de/politik/ausland/vermittlungsmission-us-unterhaendler-fuer-gespraeche-ueber-ukraine-krieg-in-moskau/100252262.html",
+          "published": "2026-09-06T10:35:00+00:00",
+          "summary": "Nach dem Treffen mit Wladimir Putin reisen Steve Witkoff und Jared Kushner nach Kiew. Bewegungen im Ukraine-Krieg sind derzeit nicht erkennbar."
+        },
+        {
+          "title": "Bundeskanzler: Merz spricht in Langenhagen über VW, Drohnen und die AfD",
+          "link": "https://www.wiwo.de/unternehmen/auto/autobauer-in-der-krise-merz-warnt-vor-verlust-von-arbeitsplaetzen-in-der-industrie/100252274.html",
+          "published": "2026-09-06T10:34:00+00:00",
+          "summary": "Bundeskanzler Friedrich Merz nimmt in Niedersachsen die VW-Krise, Industriearbeitsplätze und hybride Bedrohungen Deutschland in den Blick."
+        },
+        {
+          "title": "Landtagswahl in Sachsen-Anhalt: Die wichtigsten Fragen und Antworten zur Landtagswahl 2026",
+          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-sachsen-anhalt-heute-die-wichtigsten-fragen-und-antworten/100244950.html",
+          "published": "2026-09-06T10:33:00+00:00",
+          "summary": "Heute findet die Landtagswahl in Sachsen-Anhalt statt. Erfahren Sie hier alles Wichtige, was Sie zur Sachsen-Anhalt-Wahl 2026 wissen müssen."
+        },
+        {
           "title": "Landtagswahl: Wie Trumps MAGA-Bewegung im Wahlkampf in Sachsen-Anhalt mitmischt",
           "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-2026-wie-donald-trumps-nachwuchs-sachsen-anhalt-nutzt/100252237.html",
           "published": "2026-09-06T09:45:00+00:00",
           "summary": "„AFD über alles“ – mit diesem Satz werben junge Republikaner für die Partei. Nach Sachsen-Anhalt haben sie besonders intensive Beziehungen aufgebaut."
-        },
-        {
-          "title": "Landtagswahl: Wahl in Sachsen-Anhalt – Spitzenkandidaten haben ihre Stimme abgegeben",
-          "link": "https://www.wiwo.de/politik/deutschland/sachsen-anhalt-wahl-afd-spitzenkandidat-ulrich-siegmund-hat-gewaehlt/100249001.html",
-          "published": "2026-09-06T09:41:00+00:00",
-          "summary": "In Sachsen-Anhalt wählen die Menschen an diesem Sonntag einen neuen Landtag. Die Wahllokale sind geöffnet. Siegmund und Schulze haben gewählt. Ein Überblick."
-        },
-        {
-          "title": "Tauchsieder: Wie konnte das passieren?",
-          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-sachsen-anhalt-die-afd-greift-nach-der-macht/100252031.html",
-          "published": "2026-09-06T09:33:00+00:00",
-          "summary": "Die AfD greift in Sachsen-Anhalt nach der Macht. Ein Grund zur Sorge. Kein Grund für windschiefe historische Vergleiche und eingeschüchterte Angstgrusellust. Eine Kolumne."
-        },
-        {
-          "title": "Raumfahrt: Isar Aerospace gelingt historischer Raketenstart",
-          "link": "https://www.wiwo.de/technologie/isar-aerospace-raumfahrt-start-up-aus-deutschland-gelingt-historischer-raketenstart/100252296.html",
-          "published": "2026-09-06T09:32:00+00:00",
-          "summary": "Als erste deutsche Rakete erreichte die „Spectrum“ am Samstagabend den Orbit. Was den Flug für die Raumfahrtbranche und Verteidigung so wichtig macht."
-        },
-        {
-          "title": "Umstellung auf Rüstung: Autos raus, Militär rein – Volkswagen gibt das Werk Osnabrück auf",
-          "link": "https://www.wiwo.de/politik/deutschland/vw-gibt-werk-osnabrueck-auf-joint-venture-mit-ruestungskonzern-wird-wohl-ohne-vw-vollzogen/100252189.html",
-          "published": "2026-09-06T09:16:00+00:00",
-          "summary": "Für vier deutsche Werke sucht Volkswagen eine neue Verwendung. Ein fünftes Werk in Osnabrück gibt der Konzern auf. Dort werden künftig Rüstungsgüter von anderen produziert."
         }
       ],
       "error": null
