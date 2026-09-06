@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:08:06+00:00",
+  "generatedAt": "2026-09-06T00:14:54+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -10,8 +10,14 @@
         {
           "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
           "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
-          "published": "2026-09-05T20:42:55+00:00",
-          "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Details des Friedensplans bleiben unbekannt - als …"
+          "published": "2026-09-05T22:58:14+00:00",
+          "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Ein Kreml-Berater spricht von \"äußerst …"
+        },
+        {
+          "title": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
+          "link": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
+          "published": "2026-09-05T22:20:33+00:00",
+          "summary": "Meilenstein in der deutschen Raumfahrtgeschichte: Die Trägerrakete Spectrum hat bei einem Testflug vom norwegischen Weltraumbahnhof Andøya aus den Orbit erreicht. Das Raketen-Unternehmen spricht von …"
         },
         {
           "title": "tagesthemen",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1643462.html",
           "published": "2026-09-05T20:34:18+00:00",
           "summary": ""
-        },
-        {
-          "title": "Jörg Schönenborn, ARD-Wahlstudio Magdeburg, über die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1643460.html",
-          "published": "2026-09-05T20:33:47+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,16 +47,22 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Abgehoben: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/abgehoben-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252298.html",
+          "published": "2026-09-05T22:37:22+00:00",
+          "summary": "Es ist ein großer Schritt für Europas Raumfahrtindustrie: Ein erst 2018 gegründetes bayerisches Start-up schießt beim zweiten Test eine Rakete ins All."
+        },
+        {
+          "title": "Verhandlungen: Kreml spricht von konstruktiven Gesprächen mit US-Gesandten",
+          "link": "https://www.handelsblatt.com/politik/international/verhandlungen-kreml-spricht-von-konstruktiven-gespraechen-mit-us-gesandten/100252303.html",
+          "published": "2026-09-05T22:32:05+00:00",
+          "summary": "Kremlchef Putin lobt US-Präsident Trumps Bemühungen um ein Ende des russischen Angriffskriegs gegen die Ukraine. Fast drei Stunden spricht er in Moskau mit den US-Gesandten Witkoff und Kushner."
+        },
+        {
           "title": "Verhandlungen: Ukraine-Krieg: Gespräche von Putin und US-Gesandten beendet",
           "link": "https://www.handelsblatt.com/politik/international/verhandlungen-ukraine-krieg-gespraeche-von-putin-und-us-gesandten-beendet/100252261.html",
           "published": "2026-09-05T21:17:10+00:00",
           "summary": "Kremlchef Putin lobt US-Präsident Trumps Bemühungen um ein Ende des russischen Angriffskriegs gegen die Ukraine. Fast drei Stunden spricht er mit den US-Gesandten Witkoff und Kushner in Moskau."
-        },
-        {
-          "title": "Abgehoben: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/abgehoben-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252298.html",
-          "published": "2026-09-05T21:01:22+00:00",
-          "summary": "Es ist ein großer Schritt für Europas Raumfahrtindustrie: Ein erst 2018 gegründetes bayerisches Start-up schießt beim zweiten Test eine Rakete ins All."
         },
         {
           "title": "Ukraine-Krieg: Gespräche von Putin und US-Gesandten beendet",
@@ -68,13 +74,7 @@
           "title": "Raumfahrt: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
           "link": "https://www.handelsblatt.com/unternehmen/start-ups/raumfahrt-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252269.html",
           "published": "2026-09-05T20:52:44+00:00",
-          "summary": "Beim ersten Versuch stürzte sie nach 30 Sekunden ins Meer – dieses Mal hat es geklappt. Isar Aerospace schreibt Geschichte mit seiner Trägerrakete."
-        },
-        {
-          "title": "Stromnetz-Sabotage: Suche nach Verdächtigem läuft – Fahrzeug gefunden",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/stromnetz-sabotage-suche-nach-verdaechtigem-laeuft-fahrzeug-gefunden/100252217.html",
-          "published": "2026-09-05T17:11:55+00:00",
-          "summary": "Die versuchten Sabotageakte gegen das deutsche Stromnetz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden – doch er selbst ist noch flüchtig."
+          "summary": "Isar Aerospace schreibt Geschichte mit dem erfolgreichen Start seiner Trägerrakete. Mit dem Erfolg übertrifft das bayerische Unternehmen sogar SpaceX."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "Warum \"Loud Quitting\" noch schlimmer ist als die stille Kündigung",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/kuendigung-warum-34-loud-quitting-34-noch-schlimmer-ist-als-die-stille-kuendigung-12639498",
+          "published": "2026-09-06T00:05:00+00:00",
+          "summary": "Wenn Angestellte bei der Arbeit nur noch \"Dienst nach Vorschrift\" machen und nicht motiviert bei der Sache sind, bezeichnet man das als \"Quiet Quitting\". Die"
+        },
+        {
+          "title": "Mit dem Zwei-Hände-Trick Geld sparen",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/spartipps-mit-dem-zwei-haende-trick-geld-sparen-8680024",
+          "published": "2026-09-05T23:57:00+00:00",
+          "summary": "Der Weg des Sparens Wahrscheinlich kennt jeder die Situation, dass man sich eigentlich vorgenommen hat zu sparen, den guten Vorsatz aber mit dem Betreten des Geschäfts wieder vergisst. Jedoch gibt es …"
+        },
+        {
+          "title": "Schutz vor extremer Volatilität: Das passiert bei Handelsunterbrechungen von Aktien",
+          "link": "https://www.finanzen.net/nachricht/aktien/verschiedene-mechanismen-schutz-vor-extremer-volatilitaet-das-passiert-bei-handelsunterbrechungen-von-aktien-11805499",
+          "published": "2026-09-05T23:41:00+00:00",
+          "summary": "Bei extremen Preisausschlägen kann der Handel einer Aktie ausgesetzt werden • Im XETRA-Handel gibt es zwei Schutzmechanismen: die Volatilitätsunterbrechung und die Handelsaussetzung • Vollständige …"
+        },
+        {
+          "title": "Amazon-Aktie vor Kurssprung? Morgan Stanley sieht Potenzial bis 500 US-Dollar",
+          "link": "https://www.finanzen.net/nachricht/aktien/aws-potenzial-amazon-aktie-vor-kurssprung-morgan-stanley-sieht-potenzial-bis-500-us-dollar-00-15910040",
+          "published": "2026-09-05T23:11:00+00:00",
+          "summary": "Morgan Stanley sieht die Amazon-Aktie im optimistischen Szenario bis Ende 2027 bei 500 US-Dollar • AWS könnte nach dem Modell langfristig eine Billion US-Dollar Jahresumsatz erreichen • Im zweiten …"
+        },
+        {
           "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
           "published": "2026-09-05T21:51:00+00:00",
           "summary": "Zum Artikel"
-        },
-        {
-          "title": "Aktien im Fokus: KI-Rechenleistung wird zur Anlageklasse - CME startet Compute-Futures",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-infrastruktur-aktien-im-fokus-ki-rechenleistung-wird-zur-anlageklasse-cme-startet-compute-futures-00-15910547",
-          "published": "2026-09-05T21:47:00+00:00",
-          "summary": "Kontrakte bilden monatliche Mietpreise für GPU-Rechenleistung ab und sollen Preisschwankungen für Unternehmen planbar machen • US-Aufsichtsbehörde CFTC hat eine öffentliche Konsultation zu …"
-        },
-        {
-          "title": "ASML-Aktie nach 60-Prozent-Rally in 2026: Wie weit tragen Prognose und Analysten noch?",
-          "link": "https://www.finanzen.net/nachricht/aktien/analysten-sehen-potenzial-asml-aktie-nach-60-prozent-rally-in-2026-wie-weit-tragen-prognose-und-analysten-noch-00-15911455",
-          "published": "2026-09-05T21:41:00+00:00",
-          "summary": "Angehobene Jahresprognose und volle Auftragsbücher stützen die Kursfantasie Analysten trauen der Aktie trotz hoher Bewertung weiteres Potenzial zu China-Geschäft schrumpft, politische Risiken in den …"
-        },
-        {
-          "title": "KW 36 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-36-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15909795",
-          "published": "2026-09-05T21:36:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 36"
-        },
-        {
-          "title": "Das ist der Unterschied zwischen Homeoffice, Telearbeit und Remote Work",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitswelt-das-ist-der-unterschied-zwischen-homeoffice-telearbeit-und-remote-work-14330887",
-          "published": "2026-09-05T21:29:00+00:00",
-          "summary": "Homeoffice: Arbeiten in den eigenen vier Wänden Homeoffice bezeichnet eine Arbeitsform, bei der Beschäftigte ihre Aufgaben regelmäßig von zu Hause aus erledigen. Meist basiert diese Regelung auf …"
         }
       ],
       "error": null
