@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T02:08:52+00:00",
+  "generatedAt": "2026-09-06T04:08:53+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,9 +8,27 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Wahllokale für Landtagswahl in Sachsen-Anhalt öffnen um 8 Uhr",
+          "link": "https://www.tagesschau.de/video/video-1643506.html",
+          "published": "2026-09-06T03:57:13+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Was zur Wahl in Sachsen-Anhalt wichtig ist",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
+          "published": "2026-09-06T03:02:56+00:00",
+          "summary": "Wer wird in Sachsen-Anhalt künftig regieren? Das Land wird seit mehr als 20 Jahren von der CDU geführt. Doch nun liegt die AfD in Umfragen mit großem Vorsprung vorne. Sie möchte die alleinige Macht. …"
+        },
+        {
+          "title": "Witkoff und Kushner erstmals in Kiew erwartet",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
+          "published": "2026-09-06T02:58:49+00:00",
+          "summary": "In Moskau hatten sie sich mit Kremlchef Putin getroffen und mit ihm über ein Ende des Ukraine-Kriegs verhandelt. Nun kommen die US-Gesandten Witkoff und Kushner nach Kiew - auf einem ungewöhnlichen …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643502.html",
-          "published": "2026-09-06T00:36:40+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643504.html",
+          "published": "2026-09-06T02:47:06+00:00",
           "summary": ""
         },
         {
@@ -18,24 +36,6 @@
           "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
           "published": "2026-09-05T22:58:14+00:00",
           "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Ein Kreml-Berater spricht von \"äußerst …"
-        },
-        {
-          "title": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
-          "link": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
-          "published": "2026-09-05T22:20:33+00:00",
-          "summary": "Meilenstein in der deutschen Raumfahrtgeschichte: Die Trägerrakete Spectrum hat bei einem Testflug vom norwegischen Weltraumbahnhof Andøya aus den Orbit erreicht. Das Raketen-Unternehmen spricht von …"
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12832.html",
-          "published": "2026-09-05T20:37:39+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Russische Angriffe auf Odessa: Ist der Getreideexport am Ende?",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1643464.html",
-          "published": "2026-09-05T20:35:59+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Hackerangriff: Entsetzen über „Daten-Super-GAU“ in Berlin – welche Folgen jetzt drohen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/hackerangriff-daten-super-gau-in-berlin-welche-folgen-jetzt-drohen/100252294.html",
-          "published": "2026-09-06T00:55:07+00:00",
-          "summary": "Hacker haben 5,8 Terabyte Daten der Berliner Verwaltung ins Darknet gestellt. Bürger und kritische Infrastruktur sind betroffen. Doch das Ausmaß könnte noch weit größer sein."
+          "title": "Wahl in Sachsen-Anhalt: Chef von Dax-Konzern: AfD hat „dramatisch falsche Botschaft“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-chef-von-dax-konzern-afd-hat-dramatisch-falsche-botschaft/100252326.html",
+          "published": "2026-09-06T03:45:05+00:00",
+          "summary": "Rückkehr zu Kohle und Atom? Siemens-Energy-Chef Bruch sieht das AfD-Programm als Gefahr für Innovation und Verlässlichkeit."
         },
         {
-          "title": "Lage im Überblick: US-Gesandte nach Treffen mit Putin unterwegs nach Kiew",
-          "link": "https://www.handelsblatt.com/politik/international/lage-im-ueberblick-us-gesandte-nach-treffen-mit-putin-unterwegs-nach-kiew/100252303.html",
-          "published": "2026-09-06T00:18:16+00:00",
-          "summary": "Rund drei Studen haben Kremlchef Putin und die Gesandten von US-Präsident Trumps in Moskau über Russlands Angriffskrieg gegen die Ukraine gesprochen. Nun reisen die Unterhändler erstmals nach Kiew."
+          "title": "Handynetze: Rückschlag für Vodafone im Streit mit 1&1",
+          "link": "https://www.handelsblatt.com/technik/it-internet/handynetze-rueckschlag-fuer-vodafone-im-streit-mit-11/100252322.html",
+          "published": "2026-09-06T03:05:05+00:00",
+          "summary": "Seit 2023 mischt 1&1 als vierter deutscher Handynetzbetreiber auf dem Mobilfunk-Markt mit. Sein Start war holprig - warum eigentlich? Bei der Antwort auf diese Frage zeigt 1&1 auf Vodafone."
         },
         {
-          "title": "Abgehoben: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/abgehoben-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252298.html",
-          "published": "2026-09-05T22:37:22+00:00",
-          "summary": "Es ist ein großer Schritt für Europas Raumfahrtindustrie: Ein erst 2018 gegründetes bayerisches Start-up schießt beim zweiten Test eine Rakete ins All."
+          "title": "Klimawandel: An Kälte gewöhnte Arten verschwinden von Europas Berggipfeln",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/klimawandel-an-kaelte-gewoehnte-arten-verschwinden-von-europas-berggipfeln/100252321.html",
+          "published": "2026-09-06T03:00:11+00:00",
+          "summary": "Steigende Temperaturen seit den 1980er Jahren führen dazu, dass die Pflanzenwelt in europäischen Gebirgen artenreicher wird. Allerdings gibt es auch Verlierer, wie Wissenschaftler nachgewiesen haben."
         },
         {
-          "title": "Verhandlungen: Ukraine-Krieg: Gespräche von Putin und US-Gesandten beendet",
-          "link": "https://www.handelsblatt.com/politik/international/verhandlungen-ukraine-krieg-gespraeche-von-putin-und-us-gesandten-beendet/100252261.html",
-          "published": "2026-09-05T21:17:10+00:00",
-          "summary": "Kremlchef Putin lobt US-Präsident Trumps Bemühungen um ein Ende des russischen Angriffskriegs gegen die Ukraine. Fast drei Stunden spricht er mit den US-Gesandten Witkoff und Kushner in Moskau."
+          "title": "Landtagswahl: Eine Wahl wie keine andere: Alle gucken auf Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-eine-wahl-wie-keine-andere-alle-gucken-auf-sachsen-anhalt/100252318.html",
+          "published": "2026-09-06T02:30:06+00:00",
+          "summary": "Nach teils heftigem Wahlkampf fällt die Entscheidung: In Sachsen-Anhalt wird ein neuer Landtag gewählt. Schafft die AfD die absolute Mehrheit oder ist am Ende des Tages unklar, wer künftig regiert?"
         },
         {
-          "title": "Ukraine-Krieg: Gespräche von Putin und US-Gesandten beendet",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-gespraeche-von-putin-und-us-gesandten-beendet/27982126.html",
-          "published": "2026-09-05T20:57:00+00:00",
-          "summary": "Putin ordnet 72-stündige Pause für Angriffe auf Kiew an +++ US-Vermittler Witkoff und Kushner in Moskau angekommen +++ USA: Nato-Staaten dürfen hybride Kriegsführung nicht dulden +++ Der Newsblog."
+          "title": "Kanada im „Indian Summer“: Cape Breton Island: Musik und Herbstfarben am Cabot Trail",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/kanada-im-indian-summer-cape-breton-island-musik-und-herbstfarben-am-cabot-trail/100252316.html",
+          "published": "2026-09-06T02:25:08+00:00",
+          "summary": "Zum Celtic Colours Festival wird die berühmte Traumstraße zur Bühne: Zwischen Küste und Highlands reiht sich auf der schönsten Insel Nova Scotias eine Session an die nächste. Musikalischer Roadtrip."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 36 im Überblick",
-          "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-36-im-ueberblick-15909797",
-          "published": "2026-09-06T01:23:24+00:00",
-          "summary": "Die schlechtesten und besten TecDAX-Werte in der Kalenderwoche 36"
-        },
-        {
-          "title": "Steht der Börsenabsturz kurz bevor? Wie die Marktgeschichte seit 1900 dagegenspricht",
-          "link": "https://www.finanzen.net/nachricht/aktien/buffett-indikator-co-steht-der-boersenabsturz-kurz-bevor-wie-die-marktgeschichte-seit-1900-dagegenspricht-00-15901220",
-          "published": "2026-09-06T01:03:16+00:00",
-          "summary": "Der Buffett-Indikator liegt aktuell bei rund 239,5 Prozent und damit in der Kategorie \"stark überbewertet\" • Laut Crestmont Research endete seit dem Jahr 1900 jeder rollierende 20-Jahres-Zeitraum des …"
-        },
-        {
-          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 36",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-36-15909801",
-          "published": "2026-09-06T01:02:43+00:00",
-          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 36"
-        },
-        {
           "title": "Leseliste: Bücher über Warren Buffett, die für Investoren interessant sind",
           "link": "https://www.finanzen.net/nachricht/aktien/orakel-von-omaha-leseliste-buecher-ueber-warren-buffett-die-fuer-investoren-interessant-sind-7998120",
-          "published": "2026-09-06T00:43:00+00:00",
+          "published": "2026-09-06T03:52:00+00:00",
           "summary": "Die Geschichte Buffetts zum erfolgreichsten Investor aller Zeiten • Wichtigste Anlagestrategien und Beispiele • Einblicke in sein Privatleben - Buffett als Mensch Warren ..."
         },
         {
-          "title": "Die Performance der Kryptowährungen in KW 36: Das hat sich bei Bitcoin, Ether Co. getan",
-          "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-36-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15920224",
-          "published": "2026-09-06T00:41:00+00:00",
-          "summary": "Am Kryptomarkt bewegten sich einige Werte in der vergangenen Handelswoche stark. Das sind die Gewinner und Verlierer."
+          "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
+          "published": "2026-09-06T03:51:00+00:00",
+          "summary": "Zum Artikel"
+        },
+        {
+          "title": "Warum \"Loud Quitting\" noch schlimmer ist als die stille Kündigung",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/kuendigung-warum-34-loud-quitting-34-noch-schlimmer-ist-als-die-stille-kuendigung-12639498",
+          "published": "2026-09-06T03:46:00+00:00",
+          "summary": "Wenn Angestellte bei der Arbeit nur noch \"Dienst nach Vorschrift\" machen und nicht motiviert bei der Sache sind, bezeichnet man das als \"Quiet Quitting\". Die"
+        },
+        {
+          "title": "Aktie im Fokus: Turing peilt US-Expansion und Milliardenbewertung bei möglichem Börsengang an",
+          "link": "https://www.finanzen.net/nachricht/aktien/boersenplaene-aktie-im-fokus-turing-peilt-us-expansion-und-milliardenbewertung-bei-moeglichem-boersengang-an-00-15911621",
+          "published": "2026-09-06T03:37:00+00:00",
+          "summary": "Turing will innerhalb eines Jahres einen Standort in den USA eröffnen • Ein Börsengang in den USA oder Japan wird für 2030 oder 2031 erwartet • CEO Issei Yamamoto hält dabei eine Bewertung von rund …"
+        },
+        {
+          "title": "Kryptowährung im Fokus: Dieser Stablecoin vereint Krypto- und Goldinvestment",
+          "link": "https://www.finanzen.net/nachricht/devisen/vor-und-nachteile-kryptowaehrung-im-fokus-dieser-stablecoin-vereint-krypto-und-goldinvestment-15276065",
+          "published": "2026-09-06T03:12:00+00:00",
+          "summary": "Wirtschaftliche und geopolitische Unsicherheit hält an • Weiterhin Bedarf an \"sicheren Häfen\" • PAX Gold (PAXG) ist ein mit physischem Gold hinterlegter Krypto-Token Die wirtschaftliche ..."
         }
       ],
       "error": null
