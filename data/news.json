@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T00:14:54+00:00",
+  "generatedAt": "2026-09-06T02:08:52+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643502.html",
+          "published": "2026-09-06T00:36:40+00:00",
+          "summary": ""
+        },
         {
           "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
           "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1643464.html",
           "published": "2026-09-05T20:35:59+00:00",
           "summary": ""
-        },
-        {
-          "title": "Warnungen und Kritik nach Hackerangriff auf Berliner Verwaltung",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1643462.html",
-          "published": "2026-09-05T20:34:18+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,16 +47,22 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Hackerangriff: Entsetzen über „Daten-Super-GAU“ in Berlin – welche Folgen jetzt drohen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/hackerangriff-daten-super-gau-in-berlin-welche-folgen-jetzt-drohen/100252294.html",
+          "published": "2026-09-06T00:55:07+00:00",
+          "summary": "Hacker haben 5,8 Terabyte Daten der Berliner Verwaltung ins Darknet gestellt. Bürger und kritische Infrastruktur sind betroffen. Doch das Ausmaß könnte noch weit größer sein."
+        },
+        {
+          "title": "Lage im Überblick: US-Gesandte nach Treffen mit Putin unterwegs nach Kiew",
+          "link": "https://www.handelsblatt.com/politik/international/lage-im-ueberblick-us-gesandte-nach-treffen-mit-putin-unterwegs-nach-kiew/100252303.html",
+          "published": "2026-09-06T00:18:16+00:00",
+          "summary": "Rund drei Studen haben Kremlchef Putin und die Gesandten von US-Präsident Trumps in Moskau über Russlands Angriffskrieg gegen die Ukraine gesprochen. Nun reisen die Unterhändler erstmals nach Kiew."
+        },
+        {
           "title": "Abgehoben: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
           "link": "https://www.handelsblatt.com/politik/deutschland/abgehoben-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252298.html",
           "published": "2026-09-05T22:37:22+00:00",
           "summary": "Es ist ein großer Schritt für Europas Raumfahrtindustrie: Ein erst 2018 gegründetes bayerisches Start-up schießt beim zweiten Test eine Rakete ins All."
-        },
-        {
-          "title": "Verhandlungen: Kreml spricht von konstruktiven Gesprächen mit US-Gesandten",
-          "link": "https://www.handelsblatt.com/politik/international/verhandlungen-kreml-spricht-von-konstruktiven-gespraechen-mit-us-gesandten/100252303.html",
-          "published": "2026-09-05T22:32:05+00:00",
-          "summary": "Kremlchef Putin lobt US-Präsident Trumps Bemühungen um ein Ende des russischen Angriffskriegs gegen die Ukraine. Fast drei Stunden spricht er in Moskau mit den US-Gesandten Witkoff und Kushner."
         },
         {
           "title": "Verhandlungen: Ukraine-Krieg: Gespräche von Putin und US-Gesandten beendet",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-gespraeche-von-putin-und-us-gesandten-beendet/27982126.html",
           "published": "2026-09-05T20:57:00+00:00",
           "summary": "Putin ordnet 72-stündige Pause für Angriffe auf Kiew an +++ US-Vermittler Witkoff und Kushner in Moskau angekommen +++ USA: Nato-Staaten dürfen hybride Kriegsführung nicht dulden +++ Der Newsblog."
-        },
-        {
-          "title": "Raumfahrt: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
-          "link": "https://www.handelsblatt.com/unternehmen/start-ups/raumfahrt-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252269.html",
-          "published": "2026-09-05T20:52:44+00:00",
-          "summary": "Isar Aerospace schreibt Geschichte mit dem erfolgreichen Start seiner Trägerrakete. Mit dem Erfolg übertrifft das bayerische Unternehmen sogar SpaceX."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Warum \"Loud Quitting\" noch schlimmer ist als die stille Kündigung",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/kuendigung-warum-34-loud-quitting-34-noch-schlimmer-ist-als-die-stille-kuendigung-12639498",
-          "published": "2026-09-06T00:05:00+00:00",
-          "summary": "Wenn Angestellte bei der Arbeit nur noch \"Dienst nach Vorschrift\" machen und nicht motiviert bei der Sache sind, bezeichnet man das als \"Quiet Quitting\". Die"
+          "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 36 im Überblick",
+          "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-36-im-ueberblick-15909797",
+          "published": "2026-09-06T01:23:24+00:00",
+          "summary": "Die schlechtesten und besten TecDAX-Werte in der Kalenderwoche 36"
         },
         {
-          "title": "Mit dem Zwei-Hände-Trick Geld sparen",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/spartipps-mit-dem-zwei-haende-trick-geld-sparen-8680024",
-          "published": "2026-09-05T23:57:00+00:00",
-          "summary": "Der Weg des Sparens Wahrscheinlich kennt jeder die Situation, dass man sich eigentlich vorgenommen hat zu sparen, den guten Vorsatz aber mit dem Betreten des Geschäfts wieder vergisst. Jedoch gibt es …"
+          "title": "Steht der Börsenabsturz kurz bevor? Wie die Marktgeschichte seit 1900 dagegenspricht",
+          "link": "https://www.finanzen.net/nachricht/aktien/buffett-indikator-co-steht-der-boersenabsturz-kurz-bevor-wie-die-marktgeschichte-seit-1900-dagegenspricht-00-15901220",
+          "published": "2026-09-06T01:03:16+00:00",
+          "summary": "Der Buffett-Indikator liegt aktuell bei rund 239,5 Prozent und damit in der Kategorie \"stark überbewertet\" • Laut Crestmont Research endete seit dem Jahr 1900 jeder rollierende 20-Jahres-Zeitraum des …"
         },
         {
-          "title": "Schutz vor extremer Volatilität: Das passiert bei Handelsunterbrechungen von Aktien",
-          "link": "https://www.finanzen.net/nachricht/aktien/verschiedene-mechanismen-schutz-vor-extremer-volatilitaet-das-passiert-bei-handelsunterbrechungen-von-aktien-11805499",
-          "published": "2026-09-05T23:41:00+00:00",
-          "summary": "Bei extremen Preisausschlägen kann der Handel einer Aktie ausgesetzt werden • Im XETRA-Handel gibt es zwei Schutzmechanismen: die Volatilitätsunterbrechung und die Handelsaussetzung • Vollständige …"
+          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 36",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-36-15909801",
+          "published": "2026-09-06T01:02:43+00:00",
+          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 36"
         },
         {
-          "title": "Amazon-Aktie vor Kurssprung? Morgan Stanley sieht Potenzial bis 500 US-Dollar",
-          "link": "https://www.finanzen.net/nachricht/aktien/aws-potenzial-amazon-aktie-vor-kurssprung-morgan-stanley-sieht-potenzial-bis-500-us-dollar-00-15910040",
-          "published": "2026-09-05T23:11:00+00:00",
-          "summary": "Morgan Stanley sieht die Amazon-Aktie im optimistischen Szenario bis Ende 2027 bei 500 US-Dollar • AWS könnte nach dem Modell langfristig eine Billion US-Dollar Jahresumsatz erreichen • Im zweiten …"
+          "title": "Leseliste: Bücher über Warren Buffett, die für Investoren interessant sind",
+          "link": "https://www.finanzen.net/nachricht/aktien/orakel-von-omaha-leseliste-buecher-ueber-warren-buffett-die-fuer-investoren-interessant-sind-7998120",
+          "published": "2026-09-06T00:43:00+00:00",
+          "summary": "Die Geschichte Buffetts zum erfolgreichsten Investor aller Zeiten • Wichtigste Anlagestrategien und Beispiele • Einblicke in sein Privatleben - Buffett als Mensch Warren ..."
         },
         {
-          "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
-          "published": "2026-09-05T21:51:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Die Performance der Kryptowährungen in KW 36: Das hat sich bei Bitcoin, Ether Co. getan",
+          "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-36-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15920224",
+          "published": "2026-09-06T00:41:00+00:00",
+          "summary": "Am Kryptomarkt bewegten sich einige Werte in der vergangenen Handelswoche stark. Das sind die Gewinner und Verlierer."
         }
       ],
       "error": null
