@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T04:08:53+00:00",
+  "generatedAt": "2026-09-06T06:10:48+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Wahllokale haben geöffnet ++",
+          "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+          "published": "2026-09-06T06:00:07+00:00",
+          "summary": "Es ist eine Landtagswahl, die in Deutschland und international genau beobachtet wird: Erstmals könnte die AfD Regierungsverantwortung bekommen. Die Wahllokale haben geöffnet. Etwa 1,7 Millionen …"
+        },
+        {
+          "title": "Zu viele Touristen - wie Dubrovnik gegensteuert",
+          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
+          "published": "2026-09-06T05:36:47+00:00",
+          "summary": "Dubrovnik zählt zu Europas beliebtesten Reisezielen. Durch die Serie \"Game of Thrones\" wurde die kroatische Hafenstadt weltberühmt - nun geht sie gegen \"Overtourism\" vor. Von A. Bachmann und N. Knopp."
+        },
+        {
+          "title": "Wehrpflichtige in der Ukraine: Gefährliche Flucht über die Donau",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-grenzschuetzer-wehrpflichtige-100.html",
+          "published": "2026-09-06T04:43:05+00:00",
+          "summary": "Im Süden der Ukraine bildet die Donau die Grenze zu Rumänien. Immer wieder versuchen ukrainische Wehrpflichtige hier, ihr Land unerlaubt zu verlassen - per Boot oder sogar schwimmend mit Flossen. Von …"
+        },
         {
           "title": "Wahllokale für Landtagswahl in Sachsen-Anhalt öffnen um 8 Uhr",
           "link": "https://www.tagesschau.de/video/video-1643506.html",
@@ -18,24 +36,6 @@
           "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
           "published": "2026-09-06T03:02:56+00:00",
           "summary": "Wer wird in Sachsen-Anhalt künftig regieren? Das Land wird seit mehr als 20 Jahren von der CDU geführt. Doch nun liegt die AfD in Umfragen mit großem Vorsprung vorne. Sie möchte die alleinige Macht. …"
-        },
-        {
-          "title": "Witkoff und Kushner erstmals in Kiew erwartet",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
-          "published": "2026-09-06T02:58:49+00:00",
-          "summary": "In Moskau hatten sie sich mit Kremlchef Putin getroffen und mit ihm über ein Ende des Ukraine-Kriegs verhandelt. Nun kommen die US-Gesandten Witkoff und Kushner nach Kiew - auf einem ungewöhnlichen …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643504.html",
-          "published": "2026-09-06T02:47:06+00:00",
-          "summary": ""
-        },
-        {
-          "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
-          "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
-          "published": "2026-09-05T22:58:14+00:00",
-          "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Ein Kreml-Berater spricht von \"äußerst …"
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Raumfahrt: Deutsche Isar-Aerospace-Rakete erfolgreich ins All gestartet",
+          "link": "https://www.handelsblatt.com/unternehmen/start-ups/raumfahrt-deutsche-isar-aerospace-rakete-erfolgreich-ins-all-gestartet/100252269.html",
+          "published": "2026-09-06T05:59:23+00:00",
+          "summary": "Isar Aerospace schreibt Geschichte mit dem erfolgreichen Start seiner Trägerrakete. An dem Erfolg ist auch die Bundeswehr interessiert."
+        },
+        {
+          "title": "Crime: Ein Kredit, der die Volksbank Köln Bonn erschüttert",
+          "link": "https://www.handelsblatt.com/audio/crime/crime-ein-kredit-der-die-volksbank-koeln-bonn-erschuettert/100252320.html",
+          "published": "2026-09-06T05:24:50+00:00",
+          "summary": "Die Volksbank Köln Bonn gewährte einer Chinesin unter dubiosen Umständen einen Millionenkredit für ein Hochhaus-Bordell. Jetzt ermittelt die Staatsanwaltschaft."
+        },
+        {
+          "title": "Landtagswahl in Sachsen-Anhalt: Chef von Siemens Energy: AfD hat „dramatisch falsche Botschaft“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-chef-von-siemens-energy-afd-hat-dramatisch-falsche-botschaft/100252039.html",
+          "published": "2026-09-06T05:19:04+00:00",
+          "summary": "Wahllokale sind geöffnet +++ Tausende demonstrieren für Demokratie in Sachsen-Anhalt +++ Merz: Lassen uns von AfD das Land nicht kaputtreden +++ Der Newsblog."
+        },
+        {
           "title": "Wahl in Sachsen-Anhalt: Chef von Dax-Konzern: AfD hat „dramatisch falsche Botschaft“",
           "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-chef-von-dax-konzern-afd-hat-dramatisch-falsche-botschaft/100252326.html",
           "published": "2026-09-06T03:45:05+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/technik/it-internet/handynetze-rueckschlag-fuer-vodafone-im-streit-mit-11/100252322.html",
           "published": "2026-09-06T03:05:05+00:00",
           "summary": "Seit 2023 mischt 1&1 als vierter deutscher Handynetzbetreiber auf dem Mobilfunk-Markt mit. Sein Start war holprig - warum eigentlich? Bei der Antwort auf diese Frage zeigt 1&1 auf Vodafone."
-        },
-        {
-          "title": "Klimawandel: An Kälte gewöhnte Arten verschwinden von Europas Berggipfeln",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/klimawandel-an-kaelte-gewoehnte-arten-verschwinden-von-europas-berggipfeln/100252321.html",
-          "published": "2026-09-06T03:00:11+00:00",
-          "summary": "Steigende Temperaturen seit den 1980er Jahren führen dazu, dass die Pflanzenwelt in europäischen Gebirgen artenreicher wird. Allerdings gibt es auch Verlierer, wie Wissenschaftler nachgewiesen haben."
-        },
-        {
-          "title": "Landtagswahl: Eine Wahl wie keine andere: Alle gucken auf Sachsen-Anhalt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-eine-wahl-wie-keine-andere-alle-gucken-auf-sachsen-anhalt/100252318.html",
-          "published": "2026-09-06T02:30:06+00:00",
-          "summary": "Nach teils heftigem Wahlkampf fällt die Entscheidung: In Sachsen-Anhalt wird ein neuer Landtag gewählt. Schafft die AfD die absolute Mehrheit oder ist am Ende des Tages unklar, wer künftig regiert?"
-        },
-        {
-          "title": "Kanada im „Indian Summer“: Cape Breton Island: Musik und Herbstfarben am Cabot Trail",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/kanada-im-indian-summer-cape-breton-island-musik-und-herbstfarben-am-cabot-trail/100252316.html",
-          "published": "2026-09-06T02:25:08+00:00",
-          "summary": "Zum Celtic Colours Festival wird die berühmte Traumstraße zur Bühne: Zwischen Küste und Highlands reiht sich auf der schönsten Insel Nova Scotias eine Session an die nächste. Musikalischer Roadtrip."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Warnung des Siemens-Energy-Chefs: \"Nostalgische Politik der AfD wirft Deutschland immer weiter zurück\"",
+          "link": "https://www.n-tv.de/wirtschaft/Nostalgische-Politik-der-AfD-wirft-Deutschland-immer-weiter-zurueck-id31273999.html",
+          "published": "2026-09-06T05:16:19+00:00",
+          "summary": "Die AfD wirbt in ihrem Programm für die Landtagswahl in Sachsen-Anhalt für eine Rückkehr zu Vergangenem, unter anderem Atomkraft und Kohle. Der Chef von Siemens Energy hält diese Botschaft für …"
+        },
         {
           "title": "\"Wir sind im Orbit\": Deutsche Trägerrakete Spectrum startet erfolgreich ins All",
           "link": "https://www.n-tv.de/wirtschaft/Deutsche-Traegerrakete-Spectrum-startet-erfolgreich-ins-All-id31273674.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/wirtschaft_startup/Welche-Ziele-verfolgt-der-CIA-Fonds-IQT-in-Europa-id31269034.html",
           "published": "2026-09-05T07:24:12+00:00",
           "summary": "Wenn der US-Geheimdienstfonds IQT bei europäischen Startups einsteigt, schrillen oft die Alarmglocken. Verliert Europa wertvolle Schlüsseltechnologien? Im Interview ordnet Investor Thomas Oehl ein …"
-        },
-        {
-          "title": "Wachstum nicht abgeschlossen: Henkel will sich weiter vergrößern",
-          "link": "https://www.n-tv.de/wirtschaft/Henkel-will-sich-weiter-vergroessern-id31272439.html",
-          "published": "2026-09-05T06:58:53+00:00",
-          "summary": "Mit Zukäufen im Volumen von rund fünf Milliarden Euro ist der Konsumgüterkonzern Henkel zuletzt kräftig gewachsen. Chef Knobel stellt in Aussicht, dass dieser Kurs so weitergehen könnte - sofern es …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Leseliste: Bücher über Warren Buffett, die für Investoren interessant sind",
-          "link": "https://www.finanzen.net/nachricht/aktien/orakel-von-omaha-leseliste-buecher-ueber-warren-buffett-die-fuer-investoren-interessant-sind-7998120",
-          "published": "2026-09-06T03:52:00+00:00",
-          "summary": "Die Geschichte Buffetts zum erfolgreichsten Investor aller Zeiten • Wichtigste Anlagestrategien und Beispiele • Einblicke in sein Privatleben - Buffett als Mensch Warren ..."
+          "title": "Warum \"Loud Quitting\" noch schlimmer ist als die stille Kündigung",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/kuendigung-warum-34-loud-quitting-34-noch-schlimmer-ist-als-die-stille-kuendigung-12639498",
+          "published": "2026-09-06T06:05:00+00:00",
+          "summary": "Wenn Angestellte bei der Arbeit nur noch \"Dienst nach Vorschrift\" machen und nicht motiviert bei der Sache sind, bezeichnet man das als \"Quiet Quitting\". Die"
+        },
+        {
+          "title": "Altersvorsorgedepot: Nur wieder Abzocke, oder echte Alternative zur Riester-Rente?",
+          "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-15920306",
+          "published": "2026-09-06T06:05:00+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Die 5 aktuell wichtigsten Einflussfaktoren an der Wall Street",
+          "link": "https://www.finanzen.net/nachricht/aktien/werbung-die-5-aktuell-wichtigsten-einflussfaktoren-an-der-wall-street-15601193",
+          "published": "2026-09-06T06:03:00+00:00",
+          "summary": "Mehr erfahren!"
+        },
+        {
+          "title": "Schutz vor extremer Volatilität: Das passiert bei Handelsunterbrechungen von Aktien",
+          "link": "https://www.finanzen.net/nachricht/aktien/verschiedene-mechanismen-schutz-vor-extremer-volatilitaet-das-passiert-bei-handelsunterbrechungen-von-aktien-11805499",
+          "published": "2026-09-06T05:57:00+00:00",
+          "summary": "Bei extremen Preisausschlägen kann der Handel einer Aktie ausgesetzt werden • Im XETRA-Handel gibt es zwei Schutzmechanismen: die Volatilitätsunterbrechung und die Handelsaussetzung • Vollständige …"
         },
         {
           "title": "Investieren in Private Equity: So nutzt du Unternehmensbeteiligungen abseits der Börse",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-investieren-in-private-equity-so-nutzt-du-unternehmensbeteiligungen-abseits-der-boerse-15918430",
-          "published": "2026-09-06T03:51:00+00:00",
+          "published": "2026-09-06T05:51:00+00:00",
           "summary": "Zum Artikel"
-        },
-        {
-          "title": "Warum \"Loud Quitting\" noch schlimmer ist als die stille Kündigung",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/kuendigung-warum-34-loud-quitting-34-noch-schlimmer-ist-als-die-stille-kuendigung-12639498",
-          "published": "2026-09-06T03:46:00+00:00",
-          "summary": "Wenn Angestellte bei der Arbeit nur noch \"Dienst nach Vorschrift\" machen und nicht motiviert bei der Sache sind, bezeichnet man das als \"Quiet Quitting\". Die"
-        },
-        {
-          "title": "Aktie im Fokus: Turing peilt US-Expansion und Milliardenbewertung bei möglichem Börsengang an",
-          "link": "https://www.finanzen.net/nachricht/aktien/boersenplaene-aktie-im-fokus-turing-peilt-us-expansion-und-milliardenbewertung-bei-moeglichem-boersengang-an-00-15911621",
-          "published": "2026-09-06T03:37:00+00:00",
-          "summary": "Turing will innerhalb eines Jahres einen Standort in den USA eröffnen • Ein Börsengang in den USA oder Japan wird für 2030 oder 2031 erwartet • CEO Issei Yamamoto hält dabei eine Bewertung von rund …"
-        },
-        {
-          "title": "Kryptowährung im Fokus: Dieser Stablecoin vereint Krypto- und Goldinvestment",
-          "link": "https://www.finanzen.net/nachricht/devisen/vor-und-nachteile-kryptowaehrung-im-fokus-dieser-stablecoin-vereint-krypto-und-goldinvestment-15276065",
-          "published": "2026-09-06T03:12:00+00:00",
-          "summary": "Wirtschaftliche und geopolitische Unsicherheit hält an • Weiterhin Bedarf an \"sicheren Häfen\" • PAX Gold (PAXG) ist ein mit physischem Gold hinterlegter Krypto-Token Die wirtschaftliche ..."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Umstellung auf Rüstung: Autos raus, Militär rein – Volkswagen gibt das Werk Osnabrück auf",
-          "link": "https://www.wiwo.de/politik/deutschland/vw-autos-raus-militaer-rein-volkswagen-gibt-das-werk-osnabrueck-auf/100252189.html",
-          "published": "2026-09-05T15:18:27+00:00",
-          "summary": "Für vier deutsche Werke sucht Volkswagen eine neue Verwendung. Ein fünftes Werk in Osnabrück gibt der Konzern auf. Dort werden künftig Rüstungsgüter von anderen produziert."
+          "title": "Landtagswahl: Kann die AfD allein regieren? Die Wahllokale in Sachsen-Anhalt sind geöffnet",
+          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-sachsen-anhalt-2026-die-wahllokale-haben-geoeffnet/100249001.html",
+          "published": "2026-09-06T06:00:00+00:00",
+          "summary": "In Sachsen-Anhalt wählen die Menschen an diesem Sonntag einen neuen Landtag. Ein Überblick."
         },
         {
-          "title": "Digitale Revolution: „Jobverluste durch KI? Darauf gibt es kaum Hinweise“",
-          "link": "https://www.wiwo.de/politik/ausland/ki-und-jobs-warum-die-nachfrage-nach-arbeit-sogar-steigen-kann/100245182.html",
-          "published": "2026-09-05T15:03:00+00:00",
-          "summary": "Wie lässt sich steigende Produktivität durch Künstliche Intelligenz messen? Und wer streicht am Ende die Gewinne ein? Ein Interview mit Aaron Chatterji, dem Chefvolkswirt von OpenAI."
+          "title": "Management-Moment: Bin ich raus?",
+          "link": "https://www.wiwo.de/erfolg/management/uebernahme-und-jobverlust-wann-beschaeftigte-bangen-muessen/100252121.html",
+          "published": "2026-09-06T05:54:04+00:00",
+          "summary": "Delivery Hero rät Aktionären, das Übernahmeangebot von Uber anzunehmen. Wie erkennen Beschäftigte, ob sie sich bei Übernahmen Sorgen um ihren Job machen müssen?"
         },
         {
-          "title": "Vor Landtagswahl: Wie Trumps MAGA-Bewegung im Wahlkampf in Sachsen-Anhalt mitmischt",
-          "link": "https://www.wiwo.de/politik/deutschland/afd-maga-wie-trumps-nachwuchs-sachsen-anhalt-nutzt/100252237.html",
-          "published": "2026-09-05T14:56:00+00:00",
-          "summary": "„AFD über alles“ – mit diesem Satz werben junge Republikaner für die Partei. Nach Sachsen-Anhalt haben sie besonders intensive Beziehungen aufgebaut."
+          "title": "Mein Wendepunkt: „Da würde ich im Rampenlicht stehen – und unter Druck“",
+          "link": "https://www.wiwo.de/erfolg/beruf/paulaner-chef-joerg-biebernick-spricht-ueber-den-wendepunkt-seiner-karriere/100252096.html",
+          "published": "2026-09-06T05:53:28+00:00",
+          "summary": "Der Job, den er 2016 angeboten bekam, war eine Nummer zu groß. Jörg Biebernick sagte zu – und stellte eine Weiche für seinen Weg bis zum Chefposten von Paulaner."
         },
         {
-          "title": "Robert Kiyosaki: Hat der „Rich Dad“ ein Schuldenproblem?",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/robert-kiyosaki-hat-der-rich-dad-autor-ein-schuldenproblem/100252019.html",
-          "published": "2026-09-05T14:34:25+00:00",
-          "summary": "Finanz-Guru Robert Kiyosaki hat Milliardenschulden: Diese Nachricht sorgt gerade für Häme. Allerdings ist seine Finanzlage komplexer, als es scheint."
+          "title": "Landtagswahl: Wird Sachsen-Anhalt eine Investitionswüste?",
+          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-2026-wird-sachsen-anhalt-eine-investitionswueste/100252032.html",
+          "published": "2026-09-06T05:52:44+00:00",
+          "summary": "Entscheidungen über Milliarden-Projekte fallen nicht ohne Vertrauen des Managements in die Politik, wie man in NRW sehen kann"
         },
         {
-          "title": "Todesfall: Wie bekomme ich Auskunft über ein mögliches Erbe?",
-          "link": "https://www.wiwo.de/finanzen/steuern-recht/todesfall-wie-bekomme-ich-auskunft-ueber-ein-moegliches-erbe/100245518.html",
-          "published": "2026-09-05T14:33:00+00:00",
-          "summary": "Eine Leserin glaubt, dass sie Erbin geworden ist. Doch sie hat keine Informationen dazu. Wie kann sie recherchieren?"
+          "title": "Raumfahrt: Isar Aerospace gelingt historischer Raketenstart",
+          "link": "https://www.wiwo.de/technologie/isar-aerospace-deutschem-raumfahrt-start-up-gelingt-historischer-raketenstart/100252296.html",
+          "published": "2026-09-06T05:51:29+00:00",
+          "summary": "Als erste deutsche Rakete flog die „Spectrum“ am Samstagabend ins All. Was den Flug für die Raumfahrtbranche und Verteidigung so wichtig macht."
         }
       ],
       "error": null
