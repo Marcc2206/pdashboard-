@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T16:09:13+00:00",
+  "generatedAt": "2026-09-06T18:09:53+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Mainz 05 demütigt den HSV",
-          "link": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-von-mainz-05-gedemuetigt,spielbericht-hamburger-sv-mainz-05-100.html",
-          "published": "2026-09-06T16:08:47+00:00",
-          "summary": "Mainz 05 hat sich den ersten Saisonsieg gesichert. Das Team von Trainer Urs Fischer setzte sich hoch verdient beim schwachen Hamburger SV durch."
-        },
-        {
-          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: So sieht die ARD-Prognose aus ++",
-          "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
-          "published": "2026-09-06T16:07:15+00:00",
-          "summary": "Es könnte eng werden für das BSW. Die Partei von Sahra Wagenknecht liegt laut ARD-Prognose bei 5,0 Prozent. Für Linke, SPD und Grüne wird es wahrscheinlich zum Einzug in den Landtag reichen."
-        },
-        {
-          "title": "Koalitionsrechner zur Landtagswahl in Sachsen-Anhalt 2026",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-sachsen-anhalt-2026-100.html",
-          "published": "2026-09-06T16:07:09+00:00",
-          "summary": "Sachsen-Anhalt hat einen neuen Landtag gewählt. Welche Koalition könnte künftig regieren? Welche Bündnisse hätten eine Mehrheit? Testen Sie mit dem interaktiven Koalitionsrechner die rechnerischen …"
-        },
-        {
-          "title": "Landtagswahl in Sachsen-Anhalt: AfD mit Rekordergebnis - CDU stürzt ab",
+          "title": "Hochrechnung zur Wahl in Sachsen-Anhalt: AfD mit Rekordergebnis - CDU stürzt ab",
           "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-172.html",
-          "published": "2026-09-06T16:00:08+00:00",
-          "summary": "Die AfD gewinnt erstmals eine Landtagswahl in Sachsen-Anhalt und erreicht laut ARD-Prognose ein Rekordergebnis. Die CDU verliert deutlich. Linke, Grüne und SPD ziehen sicher ins Parlament ein. Das …"
+          "published": "2026-09-06T18:07:03+00:00",
+          "summary": "Die AfD gewinnt erstmals eine Landtagswahl in Sachsen-Anhalt und erreicht laut ARD-Hochrechnung ein Rekordergebnis. Die CDU verliert deutlich. Linke, SPD und Grüne ziehen sicher ins Parlament ein. …"
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80682.html",
-          "published": "2026-09-06T15:48:24+00:00",
-          "summary": ""
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Neue Hochrechnung: SPD liegt nun vor den Grünen ++",
+          "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+          "published": "2026-09-06T18:01:54+00:00",
+          "summary": "Die SPD kommt laut Hochrechnung auf 8,4 Prozent - sie hat ihr Ergebnis im Vergleich zur Wahl 2021 nicht verändert. SPD-Chefin Bas sieht deshalb keinen Grund für Personaldebatten. Es gehe jetzt darum …"
+        },
+        {
+          "title": "Die Hauptgründe für das Ergebnis in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/multimedia/bilder/wahl/electionalbum-ts-ltw26st-102.html",
+          "published": "2026-09-06T18:01:00+00:00",
+          "summary": "Wer soll künftig in Sachsen-Anhalt regieren und warum? Wie bewerten die Wahlberechtigten die Parteien? Welche Rolle spielten die Spitzenkandidaten und die Bundespolitik für das Ergebnis? Was bereitet …"
+        },
+        {
+          "title": "Wie die Wählenden in Sachsen-Anhalt über das BSW denken",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-bsw-landtagswahl-sachsen-anhalt-2026-100.html",
+          "published": "2026-09-06T17:56:45+00:00",
+          "summary": "Das BSW trat zum ersten Mal in Sachsen-Anhalt bei einer Landtagswahl an. Welche Themen bewegten und überzeugten ihre Wählenden? Was erwarten sie? Ein Überblick mit Umfrage-Grafiken von infratest …"
+        },
+        {
+          "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
+          "published": "2026-09-06T17:53:08+00:00",
+          "summary": "Die AfD feiert ihren Wahlsieg in Sachsen-Anhalt überschwänglich. Die Parteichefs Weidel und Chrupalla sehen in Spitzenkandidat Siegmund den nächsten Ministerpräsidenten. Die CDU lehnt eine Koalition …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: AfD gewinnt deutlich – BSW muss zittern, FDP klar raus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-afd-gewinnt-deutlich-bsw-muss-zittern-fdp-klar-raus/100252039.html",
-          "published": "2026-09-06T16:03:37+00:00",
-          "summary": "Deutlich höhere Wahlbeteiligung als 2021 +++ AfD-Kandidat Siegmund wählt in Tangermünde, CDU-Ministerpräsident Schulze in Magdeburg +++ Der Newsblog."
+          "title": "Parteien: Ex-BSWler in Thüringen gründen neue Partei",
+          "link": "https://www.handelsblatt.com/politik/deutschland/parteien-ex-bswler-in-thueringen-gruenden-neue-partei/100252405.html",
+          "published": "2026-09-06T18:08:09+00:00",
+          "summary": "Nach ihrem Austritt aus dem BSW in Thüringen haben Ex-Mitglieder die neue Partei Thüringen.Gerecht gegründet. Die neue Partei könnte die Regierung stützen."
         },
         {
-          "title": "Gastkommentar: Entrümpelt die Regeln und schützt damit die Umspannwerke",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/gastkommentar-entruempelt-die-regeln-und-schuetzt-damit-die-umspannwerke/100252010.html",
-          "published": "2026-09-06T15:45:55+00:00",
-          "summary": "Sabotage und Angriffe bedrohen zentrale Versorgungsanlagen. Florian Bieberbach, Chef der Stadtwerke München, fordert von der Politik weniger Formalien und mehr Rechte für Anlagenbetreiber."
+          "title": "Landtagswahl in Sachsen-Anhalt: AfD will Gespräche über Regierung führen – Mehrheiten hängen vom BSW-Ergebnis ab",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-afd-will-gespraeche-ueber-regierung-fuehren/100252039.html",
+          "published": "2026-09-06T18:05:55+00:00",
+          "summary": "Chrupalla an CDU: „Wir müssen ins Gespräch kommen“ +++ BSW-Kandidatin: „Können uns Projekte mit der AfD vorstellen“ +++ Deutlich höhere Wahlbeteiligung +++ Der Newsblog."
         },
         {
-          "title": "Begehrte Insel: Von der Leyen trifft zu brisantem Besuch in Grönland ein",
-          "link": "https://www.handelsblatt.com/politik/international/begehrte-insel-von-der-leyen-trifft-zu-brisantem-besuch-in-groenland-ein/100252385.html",
-          "published": "2026-09-06T15:31:54+00:00",
-          "summary": "US-Präsident Donald Trump macht keine Anstalten, seine Ansprüche auf Grönland aufzugeben. EU-Kommissionspräsidentin Ursula von der Leyen will nun mit einem Besuch ein Zeichen setzen."
+          "title": "Zerfall Thüringer BSW: Parteineugründung von Thüringer Ex-BSWlern im Eilverfahren",
+          "link": "https://www.handelsblatt.com/politik/deutschland/zerfall-thueringer-bsw-parteineugruendung-von-thueringer-ex-bswlern-im-eilverfahren/100252413.html",
+          "published": "2026-09-06T17:56:37+00:00",
+          "summary": "Die BSW-Landtagsfraktion und die Parteispitze in Thüringen sind zerverfallen. Nun gründen Ex-BSWler eine neue Partei mit Finanzministerin Wolf an der Spitze. Von einer Spontangründung ist die Rede."
         },
         {
-          "title": "Landtagswahl Sachsen-Anhalt 2026: Ab 18 Uhr: Alle Daten und Infografiken auf einen Blick",
-          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-sachsen-anhalt-2026-alle-daten-und-infografiken-auf-einen-blick/100252017.html",
-          "published": "2026-09-06T15:23:00+00:00",
-          "summary": "Das Wahlergebnis vom Sonntagabend mit Gewinnen und Verusten, Sitzverteilung und Koalitionsrechner, Analyse der Wählerwanderung – alle Daten zu den Landtagswahlen im Überblick."
+          "title": "Landtagswahl: „Schwerer Schlag“ – AfD kratzt an der absoluten Mehrheit, Schockstarre in der CDU",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-afd-kratzt-an-der-absoluten-mehrheit-schockstarre-in-der-cdu/100252396.html",
+          "published": "2026-09-06T17:56:25+00:00",
+          "summary": "Die AfD wird nach der Wahl in Sachsen-Anhalt klar stärkste Kraft, allerdings reicht es wohl nicht zum Regieren. Zum Schlüsselfaktor könnte das BSW werden."
         },
         {
-          "title": "Kommentar: Der Erfolg von Isar Aerospace gibt Hoffnung für Deutschland",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-erfolg-von-isar-aerospace-gibt-hoffnung-fuer-deutschland/100252353.html",
-          "published": "2026-09-06T15:18:57+00:00",
-          "summary": "Der historische Start der Rakete zeigt, wie sich das Land neu erfinden kann: endlich anpacken. Und weniger auspfeifen."
+          "title": "Diplomatie: Trumps Gesandte in Moskau und Kiew - kein erkennbarer Erfolg",
+          "link": "https://www.handelsblatt.com/politik/international/diplomatie-trumps-gesandte-in-moskau-und-kiew-kein-erkennbarer-erfolg/100252359.html",
+          "published": "2026-09-06T17:53:30+00:00",
+          "summary": "Ihre Unterredungen in Moskau und Kiew sehen die US-Unterhändler positiv. Selenskyj aber denkt schon an den Winter. Denn der Krieg geht vorerst weiter."
         }
       ],
       "error": null
@@ -127,32 +127,32 @@
         {
           "title": "Rallymodus: Dieser Index hängt den DAX, den S&P 500 und den MSCI World ab",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-rallymodus-dieser-index-haengt-den-dax-den-s-p-500-und-den-msci-world-ab-15918648",
-          "published": "2026-09-06T15:51:00+00:00",
+          "published": "2026-09-06T17:51:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "Preiskampf bei Welt-ETFs: Wer ist der wahre Volks-ETF?",
-          "link": "https://www.finanzen.net/nachricht/aktien/preiskampf-bei-welt-etfs-wer-ist-der-wahre-volks-etf-15920574",
-          "published": "2026-09-06T15:49:08+00:00",
-          "summary": ""
+          "title": "ROUNDUP/Siegmund: 'Natürlich ist es ein Regierungsauftrag'",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-siegmund-natuerlich-ist-es-ein-regierungsauftrag-15920635",
+          "published": "2026-09-06T17:49:38+00:00",
+          "summary": "MAGDEBURG (dpa-AFX) - AfD-Spitzenkandidat Ulrich Siegmund sieht bei der Landtagswahl in Sachsen-Anhalt einen Regierungsauftrag für seine Partei. Mit Blick auf das gute Abschneiden der AfD sagte er im …"
         },
         {
-          "title": "Kushner: Trump strebt dauerhaften Frieden in der Ukraine an",
-          "link": "https://www.finanzen.net/nachricht/aktien/kushner-trump-strebt-dauerhaften-frieden-in-der-ukraine-an-15920573",
-          "published": "2026-09-06T15:48:38+00:00",
-          "summary": "KIEW (dpa-AFX) - US-Präsident Donald Trump strebt nach den Worten seines Schwiegersohns Jared Kushner einen dauerhaften Frieden für die Ukraine an. Alle künftigen Vereinbarungen sollten die …"
+          "title": "Sachsen-Anhalts Regierungschef Schulze: Keine Abweichler in CDU-Fraktion",
+          "link": "https://www.finanzen.net/nachricht/aktien/sachsen-anhalts-regierungschef-schulze-keine-abweichler-in-cdu-fraktion-15920632",
+          "published": "2026-09-06T17:46:38+00:00",
+          "summary": "MAGDEBURG (dpa-AFX) - Sachsen-Anhalts CDU-Landesvorsitzender Sven Schulze geht auch nach der Niederlage seiner Partei bei der Landtagswahl von der Geschlossenheit der CDU-Landtagsfraktion aus. Die …"
         },
         {
-          "title": "Commerzbank-Aktie: Das sind die Analysten-Einstufungen des vergangenen Monats",
-          "link": "https://www.finanzen.net/nachricht/aktien/experten-meinungen-commerzbank-aktie-das-sind-die-analysten-einstufungen-des-vergangenen-monats-15910862",
-          "published": "2026-09-06T15:46:00+00:00",
-          "summary": "Im August 2026 haben 4 Experten die Commerzbank -Aktie analysiert. 2 Experten stufen die Aktie als Kauf ein, 2 Analysten stufen die Anteilsscheine von Commerzbank mit Halten ein. Das ..."
+          "title": "CDU-Generalsekretärin gegen 'ernsthafte' Gespräche mit der Linkspartei",
+          "link": "https://www.finanzen.net/nachricht/aktien/cdu-generalsekretaerin-gegen-ernsthafte-gespraeche-mit-der-linkspartei-15920631",
+          "published": "2026-09-06T17:45:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - CDU-Generalsekretärin Franziska Hoppermann schließt \"ernsthafte\" Gespräche mit der Linkspartei über ein Regierungsbündnis in Sachsen-Anhalt aus, um eine Mehrheit gegen die AfD zu …"
         },
         {
-          "title": "Brokerwechsel: So sparen Anleger mehr als 130 Euro im Jahr",
-          "link": "https://www.finanzen.net/nachricht/aktien/brokerwechsel-so-sparen-anleger-mehr-als-130-euro-im-jahr-15920571",
-          "published": "2026-09-06T15:43:01+00:00",
-          "summary": ""
+          "title": "Höcke: Wahlsieger verantwortlich für die Regierungsbildung",
+          "link": "https://www.finanzen.net/nachricht/aktien/hoecke-wahlsieger-verantwortlich-fuer-die-regierungsbildung-15920630",
+          "published": "2026-09-06T17:45:39+00:00",
+          "summary": "MAGDEBURG (dpa-AFX) - Nach Ansicht von Thüringens AfD-Chef Björn Höcke muss in Sachsen-Anhalt der Wahlsieger zu Gesprächen für eine Regierungsbildung einladen. Hochrechnungen zufolge ist die AfD mit …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Landtagswahl 2026: Sehr hohe Beteiligung an Wahl in Sachsen-Anhalt",
+          "title": "Wurst: Am Knackpunkt",
+          "link": "https://www.wiwo.de/unternehmen/handel/wursthersteller-ponnath-investiert-in-schweinestaelle-trotz-veggietrend/100239934.html",
+          "published": "2026-09-06T18:03:46+00:00",
+          "summary": "Wursthersteller kämpfen mit dem Veggietrend. Der Mittelständler Ponnath hält dagegen – und wagt eine riskante Investition: in Schweineställe."
+        },
+        {
+          "title": "Landtagswahl: Drei Gründe für den AfD-Wahlsieg",
+          "link": "https://www.wiwo.de/politik/deutschland/afd-gewinnt-landtagswahl-in-sachsen-anhalt-3-gruende-fuer-den-afd-wahlsieg/100248326.html",
+          "published": "2026-09-06T17:45:33+00:00",
+          "summary": "Das verlockendste Gefühl, das die AfD in der Auslage anbietet, ist die Nostalgie nach einem Deutschland, das nie existierte. Wie konnte es so weit kommen? Ein Kommentar."
+        },
+        {
+          "title": "Landtagswahl 2026: AfD-Triumph in Sachsen-Anhalt – schwierige Regierungsbildung",
           "link": "https://www.wiwo.de/politik/deutschland/landtagswahlen-in-sachsen-anhalt-hochrechnung-erste-ergebnisse-co./100249001.html",
-          "published": "2026-09-06T15:46:00+00:00",
-          "summary": "In Sachsen-Anhalt wählen die Menschen an diesem Sonntag einen neuen Landtag. Die erste Hochrechnung erfolgt um 18 Uhr. Ein Überblick."
+          "published": "2026-09-06T17:31:00+00:00",
+          "summary": "Die AfD lässt die CDU weit hinter sich. SPD, Linke und Grüne sind etwa gleich stark. Auch das BSW kann hoffen. Die FDP fliegt aus dem Landtag. Die Regierungsbildung wird kompliziert."
         },
         {
-          "title": "Agile Robots: „Der technologische Durchbruch ist im Grunde um die Ecke“",
-          "link": "https://www.wiwo.de/unternehmen/industrie/agile-robots-der-technologische-durchbruch-ist-im-grunde-um-die-ecke/100251589.html",
-          "published": "2026-09-06T14:59:42+00:00",
-          "summary": "Das Münchner Start-up Agile Robots will mit seinen humanoiden Robotern den Vormarsch der chinesischen Anbieter stoppen – und gewährt erstmals Einblick in die Produktion."
+          "title": "Landtagswahl: „Dieses Ergebnis könnte eine Welle in Europa lostreten“",
+          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-sachsen-anhalt-dieses-ergebnis-koennte-eine-welle-in-europa-lostreten/100252117.html",
+          "published": "2026-09-06T17:27:37+00:00",
+          "summary": "Bei der Wahl in Sachsen-Anhalt ist die AfD die Wahlgewinnerin. Das könnte dringend benötigte Fachkräfte fernhalten, mahnt Addinol-Chef Georg Wildegger."
         },
         {
-          "title": "Attacke auf Siemens: US-Gigant Anthropic will jetzt auch den Markt für physische KI beherrschen",
-          "link": "https://www.wiwo.de/technologie/physische-ki-wie-anthropic-die-deutsche-industrie-herausfordert/100251830.html",
-          "published": "2026-09-06T14:59:26+00:00",
-          "summary": "Das KI-Unternehmen Anthropic hat einen Standard für physische KI herausgebracht. Ist das der erste Schritt zur Dominanz in der vermeintlichen Domäne der Deutschen?"
-        },
-        {
-          "title": "Landtagswahl Sachsen-Anhalt heute: Koalitionsrechner – diese Koalitionen wären rechnerisch möglich",
-          "link": "https://www.wiwo.de/politik/deutschland/koalitionsrechner-zur-landtagswahl-in-sachsen-anhalt-welche-koalitionen-waeren-moeglich/100249486.html",
-          "published": "2026-09-06T14:07:00+00:00",
-          "summary": "Die Landtagswahl in Sachsen-Anhalt findet heute statt. Die Wahllokale sind geöffnet. Welche Koalitionen wären rechnerisch möglich?"
-        },
-        {
-          "title": "Cybersicherattacke Berlin: Hackerangriff könnte größere Folgen haben als bisher gedacht",
-          "link": "https://www.wiwo.de/politik/deutschland/ausmass-noch-unbekannt-hackerangriff-auf-berliner-landesnetz/100247824.html",
-          "published": "2026-09-06T13:29:00+00:00",
-          "summary": "Rund 1,44 Millionen Dateien der Berliner Verwaltung stehen seit Freitag im Darknet. Das Ausmaß könnte viel weitreichender sein als angenommen."
+          "title": "Landtagswahl Sachsen-Anhalt: Koalitionsrechner – diese Koalitionen wären rechnerisch möglich",
+          "link": "https://www.wiwo.de/politik/deutschland/koalitionsrechner-landtagswahl-sachsen-anhalt-welche-koalitionen-waeren-moeglich/100249486.html",
+          "published": "2026-09-06T16:19:00+00:00",
+          "summary": "Die Menschen in Sachsen-Anhalt haben abgestimmt. Die AfD gewinnt die Wahl deutlich. Welche Koalitionen wären rechnerisch möglich?"
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Wie zerlegt man einen 3300 Jahre alten Tempel, ohne ihn zu zerstören?",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/wie-zerlegt-man-einen-3300-jahre-alten-tempel-ohne-ihn-zu-zerstoeren/",
+          "published": "2026-09-06T17:15:24+00:00",
+          "summary": "Am Ramesseum bei Luxor wird der 3300 Jahre alte Pylon Ramses’ II. unter einer riesigen Schutzhalle Stein für Stein demontiert und restauriert."
+        },
         {
           "title": "J 1, F 13 und Gegenkolbenmotor: Die genialen Konstruktionen des Hugo Junkers",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/j-1-f-13-und-gegenkolbenmotor-die-genialen-konstruktionen-des-hugo-junkers/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/neue-autobahn-fertig-aber-mopeds-und-traktoren-fahren-darauf-bundesstrasse/",
           "published": "2026-09-05T09:39:30+00:00",
           "summary": "Bei Wittenberge wird eine 1,1 km lange Elbbrücke abgerissen. Deshalb dient die neue A14 vorerst als Bundesstraße – sogar für Mopeds und Traktoren."
-        },
-        {
-          "title": "Wasserstoff aus Methan: Forscher lösen ein zentrales Problem beim Hochskalieren",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoff-aus-methan-forscher-loesen-ein-zentrales-problem-beim-hochskalieren/",
-          "published": "2026-09-04T17:47:59+00:00",
-          "summary": "Forscher verbessern das Scale-up der Methanpyrolyse: Wasserstoff beheizt den Reaktor von innen. Nebenbei entsteht stark graphitisierter Kohlenstoff."
         }
       ],
       "error": null
