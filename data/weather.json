@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T08:09:30+00:00",
+  "generatedAt": "2026-09-06T10:08:57+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,26 +7,26 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-06T10:00",
-    "temperatur": 14.0,
-    "gefuehlt": 12.9,
-    "luftfeuchte": 78,
+    "zeit": "2026-09-06T12:00",
+    "temperatur": 16.7,
+    "gefuehlt": 16.3,
+    "luftfeuchte": 66,
     "niederschlag": 0.0,
-    "wind": 8.3,
+    "wind": 6.6,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 0,
-      "text": "Klar",
-      "icon": "☀️"
+      "code": 1,
+      "text": "Überwiegend klar",
+      "icon": "🌤️"
     }
   },
   "tage": [
     {
       "datum": "2026-09-06",
-      "max": 19.8,
+      "max": 20.1,
       "min": 9.9,
-      "regenwahrscheinlichkeit": 3,
+      "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-09-06T06:45",
       "sonnenuntergang": "2026-09-06T20:02",
       "wetter": {
@@ -37,9 +37,9 @@
     },
     {
       "datum": "2026-09-07",
-      "max": 27.5,
-      "min": 14.2,
-      "regenwahrscheinlichkeit": 5,
+      "max": 27.7,
+      "min": 14.9,
+      "regenwahrscheinlichkeit": 8,
       "sonnenaufgang": "2026-09-07T06:47",
       "sonnenuntergang": "2026-09-07T20:00",
       "wetter": {
@@ -50,9 +50,9 @@
     },
     {
       "datum": "2026-09-08",
-      "max": 19.9,
-      "min": 14.9,
-      "regenwahrscheinlichkeit": 40,
+      "max": 19.7,
+      "min": 14.3,
+      "regenwahrscheinlichkeit": 58,
       "sonnenaufgang": "2026-09-08T06:49",
       "sonnenuntergang": "2026-09-08T19:57",
       "wetter": {
@@ -63,15 +63,15 @@
     },
     {
       "datum": "2026-09-09",
-      "max": 17.6,
-      "min": 12.1,
-      "regenwahrscheinlichkeit": 25,
+      "max": 18.4,
+      "min": 12.2,
+      "regenwahrscheinlichkeit": 36,
       "sonnenaufgang": "2026-09-09T06:50",
       "sonnenuntergang": "2026-09-09T19:55",
       "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
+        "code": 80,
+        "text": "Leichte Schauer",
+        "icon": "🌦️"
       }
     }
   ]

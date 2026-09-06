@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T08:09:26+00:00",
+  "generatedAt": "2026-09-06T10:08:53+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wahllokale in Sachsen-Anhalt sind geöffnet",
-          "link": "https://www.tagesschau.de/video/video-1643564.html",
-          "published": "2026-09-06T08:02:57+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Sonnenaufgang Israel, Pflanzenspirale Brandenburg, Schüler in Bhutan",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10428.html",
-          "published": "2026-09-06T08:01:36+00:00",
-          "summary": ""
-        },
-        {
-          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Falschbehauptungen über Briefwahl ++",
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: AfD-Regierung würde laut Experten Wirtschaft schaden ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
-          "published": "2026-09-06T07:57:16+00:00",
-          "summary": "Es ist eine Landtagswahl, die in Deutschland und international genau beobachtet wird: Erstmals könnte die AfD Regierungsverantwortung bekommen. Die Wahllokale haben geöffnet. Etwa 1,7 Millionen …"
+          "published": "2026-09-06T10:07:08+00:00",
+          "summary": "Der Spitzenkandidat der CDU, Ministerpräsident Schulze, hat in Magdeburg seine Stimme abgegeben. Zuvor hatten bereits der AfD-Spitzenkandidat Siegmund und der SPD-Spitzenkandidat Willingman gewählt."
         },
         {
-          "title": "Polizisten bei Demo mit Metallkugeln beschossen",
-          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinmetall-entwaffnen-anti-ruestungsdemo-koeln-100.html",
-          "published": "2026-09-06T07:56:44+00:00",
-          "summary": "In Köln ist eine Anti-Rüstungs-Demo am Samstag mehrfach gestoppt worden, nachdem es zu Zusammenstößen zwischen der Polizei und Demonstranten kam. Vermummte sollen Polizisten mit Metallkugeln …"
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1643600.html",
+          "published": "2026-09-06T09:40:49+00:00",
+          "summary": ""
         },
         {
-          "title": "Hunderte Flüge wegen Vulkanausbruch in Indonesien gestrichen",
-          "link": "https://www.tagesschau.de/ausland/jakarta-flughafen-vulkanausbruch-100.html",
-          "published": "2026-09-06T07:53:55+00:00",
-          "summary": "Seit gestern stößt der Vulkan Anak Krakatoa in Indonesien Asche aus. Weil diese auch die Triebwerke von Flugzeugen schädigen kann, wurden am wichtigsten internationalen Flughafen des Landes nun mehr …"
+          "title": "Weinberg bei Hocheim am Main, Freizeitpark Sudan, Sonnenaufgang Israel",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10428.html",
+          "published": "2026-09-06T09:28:59+00:00",
+          "summary": ""
+        },
+        {
+          "title": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html",
+          "published": "2026-09-06T09:23:44+00:00",
+          "summary": "Nach ihrem Treffen mit Kremlchef Putin in Moskau sind die US-Sondergesandten Kushner und Witkoff zu Präsident Selenskyj nach Kiew weitergereist. Während der Gespräche gilt in beiden Städten eine …"
+        },
+        {
+          "title": "\"Umfragen waren sehr stabil\", Andreas Franz, MDR, zur Landtagswahl in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/video/video-1643576.html",
+          "published": "2026-09-06T08:24:54+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Rohstoffe: 95 statt 200 Dollar: Warum der große Öl-Schock trotz neuer Angriffe im Iran-Krieg bisher ausbleibt",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/rohstoffe-95-statt-200-dollar-warum-der-oel-schock-im-iran-krieg-ausbleibt/100249647.html",
+          "published": "2026-09-06T10:02:06+00:00",
+          "summary": "Ölpreise von bis zu 200 Dollar pro Barrel prophezeiten Experten wegen des Krieges. IEA und EU warnten vor Engpässen. Das Handelsblatt erklärt, warum diese Prognosen nicht eingetreten sind."
+        },
+        {
           "title": "+++ Iran-Krieg +++: Tote und Verletzte bei neuen Angriffen Israels im Libanon",
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-tote-und-verletzte-bei-neuen-angriffen-israels-im-libanon/100136895.html",
-          "published": "2026-09-06T08:05:00+00:00",
-          "summary": "USA und Iran beschießen gegenseitig Schiffe +++ Trump spielt Iran-Krieg herunter: „Für uns eine Kleinigkeit“ +++ Der Newsblog."
+          "published": "2026-09-06T09:46:52+00:00",
+          "summary": "US-Militär: Angegriffener iranischer Öltanker versenkt +++ Trump spielt Iran-Krieg herunter: „Für uns eine Kleinigkeit“ +++ Der Newsblog."
         },
         {
-          "title": "Versicherung: Die Pflegereform naht – diese Leistungen können pflegende Angehörige jetzt noch nutzen",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-pflegereform-diese-leistungen-koennen-sie-jetzt-noch-nutzen/100251091.html",
-          "published": "2026-09-06T07:38:15+00:00",
-          "summary": "Die Pflegeversicherung wird reformiert. Für viele pflegende Angehörige dürfte das zu finanziellen Einbußen führen. Doch manche Leistungen können sie dieses Jahr noch nutzen. Eine Übersicht."
+          "title": "Sparpaket bei VW: Experte zu bedrohten VW-Werken: „Wettrennen ums Überleben“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sparpaket-bei-vw-experte-zu-bedrohten-vw-werken-wettrennen-ums-ueberleben/100252355.html",
+          "published": "2026-09-06T09:46:31+00:00",
+          "summary": "Zwickau ist eine Wiege des Automobilbaus in Deutschland. Doch der Überlebenskampf wird härter. Was dem Standort aus Sicht eines Auto-Experten helfen kann - und warum Rüstung keine Alternative sei."
         },
         {
-          "title": "Essay: Die Brandmauer ist gescheitert – drei bessere Ideen für den Umgang mit der AfD",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-die-brandmauer-ist-gescheitert-gegen-die-afd-hilft-etwas-anderes/100242466.html",
-          "published": "2026-09-06T07:30:00+00:00",
-          "summary": "Vor der Landtagswahl ist klar: Die Brandmauer in der jetzigen Form ist gescheitert. Die politische Mitte sollte dennoch alles tun, die AfD von der Regierung fernzuhalten. Drei Ideen."
+          "title": "Radikalisierung: Warum Rechtsextremismus gerade junge Männer anzieht",
+          "link": "https://www.handelsblatt.com/politik/deutschland/radikalisierung-warum-rechtsextremismus-gerade-junge-maenner-anzieht/100252051.html",
+          "published": "2026-09-06T08:40:47+00:00",
+          "summary": "Der Anteil junger Männer, die sich als „rechts“ verorten, steigt. Grund dafür sei eine genaue Adressierung ihrer Bedürfnisse durch radikale Gruppen, sagen Extremismusforscher."
         },
         {
-          "title": "Ukraine-Krieg: Gespräche von Putin und US-Gesandten beendet",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-gespraeche-von-putin-und-us-gesandten-beendet/27982126.html",
-          "published": "2026-09-06T07:23:00+00:00",
-          "summary": "Putin ordnet 72-stündige Pause für Angriffe auf Kiew an +++ US-Vermittler Witkoff und Kushner in Moskau angekommen +++ USA: Nato-Staaten dürfen hybride Kriegsführung nicht dulden +++ Der Newsblog."
-        },
-        {
-          "title": "Hackerangriff: Entsetzen über „Daten-Super-GAU“ in Berlin – welche Folgen jetzt drohen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/hackerangriff-daten-super-gau-in-berlin-welche-folgen-jetzt-drohen/100252294.html",
-          "published": "2026-09-06T07:09:02+00:00",
-          "summary": "Hacker haben 5,8 Terabyte Daten der Berliner Verwaltung ins Darknet gestellt. Bürger und kritische Infrastruktur sind betroffen, das Bundesamt für Sicherheit warnt vor weiteren Angriffen."
+          "title": "Attacken auf Stromversorgung: Suche nach mutmaßlichem Strom-Saboteur geht weiter",
+          "link": "https://www.handelsblatt.com/politik/deutschland/attacken-auf-stromversorgung-suche-nach-mutmasslichem-strom-saboteur-geht-weiter/100252349.html",
+          "published": "2026-09-06T08:40:45+00:00",
+          "summary": "Seit Tagen sucht die Polizei mit Hochdruck nach einem 48-Jährigen aus NRW. Er soll für versuchte Sabotageakte gegen das deutsche Stromnetz verantwortlich sein. Die Ermittler gehen nun Hinweisen nach."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "OTS: KfW / KfW Research: Deutsche Mittelständler richten Auslandsgeschäft neu aus",
-          "link": "https://www.finanzen.net/nachricht/aktien/ots-kfw-kfw-research-deutsche-mittelstaendler-richten-auslandsgeschaeft-neu-aus-15920367",
-          "published": "2026-09-06T08:00:38+00:00",
-          "summary": "KfW Research: Deutsche Mittelständler richten Auslandsgeschäft neu ausFrankfurt am Main (ots) - - Fast ein Drittel der Unternehmen rechnet mit sinkenden Auslandsumsätzen in denkommenden Jahren …"
+          "title": "OpenAI-KI umging Kontrollen über deutschsprachiges Wiki",
+          "link": "https://www.finanzen.net/nachricht/aktien/digitaler-spickzettel-openai-ki-umging-kontrollen-ueber-deutschsprachiges-wiki-15920412",
+          "published": "2026-09-06T09:55:39+00:00",
+          "summary": "Der erst jetzt öffentlich gewordene Vorfall aus dem Frühjahr ist ein weiteres Beispiel dafür, wie Software mit Künstlicher Intelligenz ungeplanten Ärger bereiten kann. Die rund 18.000 KI-Nachrichten …"
         },
         {
           "title": "Rallymodus: Dieser Index hängt den DAX, den S&P 500 und den MSCI World ab",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-rallymodus-dieser-index-haengt-den-dax-den-s-p-500-und-den-msci-world-ab-15918648",
-          "published": "2026-09-06T07:51:00+00:00",
+          "published": "2026-09-06T09:51:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "GNW-News: UPDATE - OCJOY feiert Premiere auf der IFA 2026: Mundpflege in Praxisqualität für zu Hause",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-update-ocjoy-feiert-premiere-auf-der-ifa-2026-mundpflege-in-praxisqualitaet-fuer-zu-hause-15920343",
-          "published": "2026-09-06T07:49:38+00:00",
-          "summary": "^BERLIN, Sept. 06, 2026 (GLOBE NEWSWIRE) -- OCJOY (Shenzhen Yuechi InnovationTechnology Co., Ltd) definiert auf der IFA 2026 die tägliche Mundhygiene neu: Das Unternehmen überträgt professionelle …"
+          "title": "Iran-Krieg: Drei iranische Öltanker von US-Militär außer Gefecht gesetzt",
+          "link": "https://www.finanzen.net/nachricht/aktien/vergeltung-iran-krieg-drei-iranische-oeltanker-von-us-militaer-ausser-gefecht-gesetzt-15920423",
+          "published": "2026-09-06T09:50:40+00:00",
+          "summary": "Wie das zuständige US-Regionalkommando Centcom weiter mitteilte, reagierte es damit auf einen Angriff der iranischen Revolutionsgarden mit ballistischen Raketen auf zwei US-Kriegsschiffe, die in den …"
         },
         {
-          "title": "Aktueller Marktbericht zu Bitcoinkurs, Etherkurs und Ripplekurs",
-          "link": "https://www.finanzen.net/nachricht/devisen/aktueller-marktbericht-zu-bitcoinkurs-etherkurs-und-ripplekurs-15920335",
-          "published": "2026-09-06T07:48:20+00:00",
-          "summary": "Der Bitcoin -Kurs kletterte um 09:41 um 0,01 Prozent auf 79.830,10 US-Dollar. Damit übertraf Bitcoin den Stand vom Vortag von 79.818,24 US-Dollar.Der Kryptomarkt zeigt ..."
+          "title": "Vanguard-Welt-ETF für 0,07 Prozent: Reicht dieser eine ETF?",
+          "link": "https://www.finanzen.net/nachricht/aktien/vanguard-welt-etf-fuer-0-07-prozent-reicht-dieser-eine-etf-15920446",
+          "published": "2026-09-06T09:50:01+00:00",
+          "summary": ""
         },
         {
-          "title": "AIXTRON SE-Aktie: Das sind die Analysten-Einstufungen des vergangenen Monats",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-prognosen-aixtron-se-aktie-das-sind-die-analysten-einstufungen-des-vergangenen-monats-15910746",
-          "published": "2026-09-06T07:40:00+00:00",
-          "summary": "Im abgelaufenen Monat haben 3 Experten ihre Einschätzung der AIXTRON SE -Aktie veröffentlicht. 2 Experten stufen die AIXTRON SE-Aktie als Kauf ein, 1 Experte empfiehlt, die Aktie zu halten.Im …"
+          "title": "AfD-Spitzenkandidat Ulrich Siegmund hat gewählt",
+          "link": "https://www.finanzen.net/nachricht/aktien/afd-spitzenkandidat-ulrich-siegmund-hat-gewaehlt-15920443",
+          "published": "2026-09-06T09:49:45+00:00",
+          "summary": "TANGERMÜNDE (dpa-AFX) - Ulrich Siegmund, der AfD-Spitzenkandidat in Sachsen-Anhalt, hat in seiner Heimat Tangermünde seine Stimme abgegeben. In Begleitung seiner Frau fuhr er am Wahllokal auf einer …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Drohnen-Vorfall: Bundesregierung will Drohnenabwehr ausbauen",
-          "link": "https://www.wiwo.de/politik/deutschland/drohnenabwehr-bundesregierung-will-drohnenabwehr-ausbauen/100252341.html",
-          "published": "2026-09-06T07:57:26+00:00",
-          "summary": "Nach dem Vorfall am Flughafen Leipzig spricht Innenminister Dobrindt über Pläne für eine bessere Drohnenabwehr – auch Unternehmen sollen mehr Befugnisse erhalten."
+          "title": "Landtagswahl: Wie Trumps MAGA-Bewegung im Wahlkampf in Sachsen-Anhalt mitmischt",
+          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-2026-wie-donald-trumps-nachwuchs-sachsen-anhalt-nutzt/100252237.html",
+          "published": "2026-09-06T09:45:00+00:00",
+          "summary": "„AFD über alles“ – mit diesem Satz werben junge Republikaner für die Partei. Nach Sachsen-Anhalt haben sie besonders intensive Beziehungen aufgebaut."
         },
         {
-          "title": "Best of Technology Award: Hilf mir, schaff mich nicht ab",
-          "link": "https://www.wiwo.de/unternehmen/it/best-of-technology-award-gewinner-zeigen-innovative-ki-anwendungen/100247982.html",
-          "published": "2026-09-06T07:54:00+00:00",
-          "summary": "Die Gewinner des Wettbewerbs zeigen KI ohne Dystopie und Größenwahn: Sie liest, prüft, warnt, sortiert – und stellt sich in den Dienst des Menschen."
+          "title": "Landtagswahl: Wahl in Sachsen-Anhalt – Spitzenkandidaten haben ihre Stimme abgegeben",
+          "link": "https://www.wiwo.de/politik/deutschland/sachsen-anhalt-wahl-afd-spitzenkandidat-ulrich-siegmund-hat-gewaehlt/100249001.html",
+          "published": "2026-09-06T09:41:00+00:00",
+          "summary": "In Sachsen-Anhalt wählen die Menschen an diesem Sonntag einen neuen Landtag. Die Wahllokale sind geöffnet. Siegmund und Schulze haben gewählt. Ein Überblick."
         },
         {
-          "title": "Start-up der Woche: „SAP-Umstieg mit KI“",
-          "link": "https://www.wiwo.de/erfolg/gruender/start-up-der-woche-sap-umstieg-mit-ki/100245151.html",
-          "published": "2026-09-06T07:53:00+00:00",
-          "summary": "Qorelo automatisiert die Analyse und Transformation von SAP-Altsystemen. Was hält Investorin Hanna Sasse von der Idee?"
+          "title": "Tauchsieder: Wie konnte das passieren?",
+          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-sachsen-anhalt-die-afd-greift-nach-der-macht/100252031.html",
+          "published": "2026-09-06T09:33:00+00:00",
+          "summary": "Die AfD greift in Sachsen-Anhalt nach der Macht. Ein Grund zur Sorge. Kein Grund für windschiefe historische Vergleiche und eingeschüchterte Angstgrusellust. Eine Kolumne."
         },
         {
-          "title": "Handynetze: Rückschlag für Vodafone im Streit mit 1&1",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/handynetze-rueckschlag-fuer-vodafone-im-streit-mit-11/100252325.html",
-          "published": "2026-09-06T07:45:00+00:00",
-          "summary": "Seit 2023 mischt 1&1 als vierter deutscher Handynetzbetreiber auf dem Mobilfunkmarkt mit. Der Start war holprig – warum ? Bei der Antwort auf die Frage zeigt 1&1 auf Vodafone."
+          "title": "Raumfahrt: Isar Aerospace gelingt historischer Raketenstart",
+          "link": "https://www.wiwo.de/technologie/isar-aerospace-raumfahrt-start-up-aus-deutschland-gelingt-historischer-raketenstart/100252296.html",
+          "published": "2026-09-06T09:32:00+00:00",
+          "summary": "Als erste deutsche Rakete erreichte die „Spectrum“ am Samstagabend den Orbit. Was den Flug für die Raumfahrtbranche und Verteidigung so wichtig macht."
         },
         {
-          "title": "Landtagswahl Sachsen-Anhalt 2026: So funktioniert das Wahlsystem in Sachsen-Anhalt",
-          "link": "https://www.wiwo.de/politik/deutschland/sachsen-anhalt-wahl-heute-so-funktioniert-das-wahlsystem/100248848.html",
-          "published": "2026-09-06T07:34:00+00:00",
-          "summary": "Heute wählen die Bürger des Bundeslandes Sachsen-Anhalt einen neuen Landtag. Wie das Wahlsystem in dem Bundesland funktioniert."
+          "title": "Umstellung auf Rüstung: Autos raus, Militär rein – Volkswagen gibt das Werk Osnabrück auf",
+          "link": "https://www.wiwo.de/politik/deutschland/vw-gibt-werk-osnabrueck-auf-joint-venture-mit-ruestungskonzern-wird-wohl-ohne-vw-vollzogen/100252189.html",
+          "published": "2026-09-06T09:16:00+00:00",
+          "summary": "Für vier deutsche Werke sucht Volkswagen eine neue Verwendung. Ein fünftes Werk in Osnabrück gibt der Konzern auf. Dort werden künftig Rüstungsgüter von anderen produziert."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "J 1, F 13 und Gegenkolbenmotor: Die genialen Konstruktionen des Hugo Junkers",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/j-1-f-13-und-gegenkolbenmotor-die-genialen-konstruktionen-des-hugo-junkers/",
+          "published": "2026-09-06T09:00:00+00:00",
+          "summary": "J 1, F 13 und Jumo 205: Hugo Junkers entwickelte Technik, die ihrer Zeit voraus war. Ein Blick auf seine wichtigsten Konstruktionen."
+        },
         {
           "title": "Die 5 längsten Nonstop-Flugstrecken der Welt",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/die-5-laengsten-nonstop-flugstrecken-der-welt/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoff-aus-methan-forscher-loesen-ein-zentrales-problem-beim-hochskalieren/",
           "published": "2026-09-04T17:47:59+00:00",
           "summary": "Forscher verbessern das Scale-up der Methanpyrolyse: Wasserstoff beheizt den Reaktor von innen. Nebenbei entsteht stark graphitisierter Kohlenstoff."
-        },
-        {
-          "title": "Felssturz am Monviso: Warum dieser Alpengipfel besonders gefährdet ist",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/felssturz-am-monviso-warum-dieser-alpengipfel-besonders-gefaehrdet-ist/",
-          "published": "2026-09-04T15:13:35+00:00",
-          "summary": "Am Monviso sind erneut Tausende Kubikmeter Fels abgestürzt. Warum die Nordostwand so instabil ist und welche Rolle Permafrost spielen könnte."
         }
       ],
       "error": null
