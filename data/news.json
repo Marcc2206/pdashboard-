@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:08:43+00:00",
+  "generatedAt": "2026-09-07T12:11:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: ++ Siegmund knüpft Kandidatur an stabile Mehrheit ++",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80870.html",
+          "published": "2026-09-07T12:10:52+00:00",
+          "summary": ""
+        },
+        {
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: ++ Merz räumt schwere Wahlniederlage ein ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
-          "published": "2026-09-07T10:06:56+00:00",
-          "summary": "AfD-Spitzenkandidat Siegmund will als Ministerpräsident antreten, wenn sich eine stabile Mehrheit abzeichnet. Das BSW hatte zuvor seine Bereitschaft bekräftigt, durch Enthaltung einem …"
+          "published": "2026-09-07T11:58:56+00:00",
+          "summary": "Kanzler Merz hat die Wahl in Sachsen-Anhalt als Schock für seine CDU und ihn selbst bezeichnet. Am Reformkurs will er festhalten. Der Münchner Kardinal Marx ruft zum Einsatz für die Menschenwürde auf."
         },
         {
-          "title": "Meteorologen waren vor Gesundheitsschäden durch Großfeuer",
-          "link": "https://www.tagesschau.de/wissen/klima/luftqualitaet-braende-feinstaub-wmo-100.html",
-          "published": "2026-09-07T09:56:13+00:00",
-          "summary": "Wald- und Buschfeuer verursachen nicht nur direkte, sondern auch indirekte Schäden. Die Weltorganisation für Meteorologie warnt vor negativen Folgen für die menschliche Gesundheit, auch weit entfernt …"
+          "title": "Explosion in Umspannwerk: Berliner Polizei geht von Kurzschluss aus",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-feuerwehr-loescht-brand-an-umspannwerk-in-berlin-tiergarten-102.html",
+          "published": "2026-09-07T11:58:03+00:00",
+          "summary": "Nach mehreren Sabotageaktionen gegen das deutsche Stromnetz könnte das Feuer in einem Berliner Umspannwerk wiederum durch einen Kurzschluss ausgelöst worden sein. Nach dem Brand waren zahlreiche …"
         },
         {
-          "title": "Mainz 05 demütigt den HSV",
-          "link": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-von-mainz-05-gedemuetigt,spielbericht-hamburger-sv-mainz-05-100.html",
-          "published": "2026-09-07T09:49:30+00:00",
-          "summary": "Der 1. FSV Mainz 05 hat sich den ersten Saisonsieg gesichert. Das Team von Trainer Urs Fischer setzte sich in der Fußball-Bundesliga hoch verdient beim schwachen Hamburger SV durch."
+          "title": "VW-Werk Osnabrück soll \"Kompetenzzentrum für Verteidigung\" werden",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/ruestung-statt-cabrios-land-will-vw-werk-osnabrueck-uebernehmen,vw-1490.html",
+          "published": "2026-09-07T11:34:47+00:00",
+          "summary": "VW will das Werk Osnabrück an den Finanzinvestor Aurelius Capital und das Land Niedersachsen verkaufen. Der Standort soll ein \"Kompetenzzentrum für Sicherheits- und Verteidigungslösungen\" werden. …"
         },
         {
           "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
           "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-07T09:41:47+00:00",
-          "summary": "Am Montagvrmittag ist es oft bewölkt und es fällt gebietsweise Regen. Am Nachmittag gibt es mehr Sonnenschein und meist ist es trocken. Im Süden sind dann einzelne Schauer oder Gewitter unterwegs. …"
-        },
-        {
-          "title": "US-Sondergesandte in Kiew: \"Beide Seiten müssen Kompromisse eingehen\"",
-          "link": "https://www.tagesschau.de/ausland/europa/kiew-besuch-witkoff-kushner-100.html",
-          "published": "2026-09-07T09:36:09+00:00",
-          "summary": "Bei ihrem Besuch in Kiew erklärten Kushner und Witkoff, die \"Zutaten\" für einen Frieden zwischen Russland und der Ukraine seien alle vorhanden. Der ukrainische Präsident Selenskyj scheint da weniger …"
+          "published": "2026-09-07T11:24:30+00:00",
+          "summary": "Am Dienstag gibt es vor allem im Süden und Osten viel Sonnenschein, sonst zeitweise auch Wolkenfelder. Im Nordwesten nimmt die Bewölkung zu und gebietsweise fällt Regen. 19 bis 33 Grad."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Live: Heute im Livestream: Welche Folgen hat das AfD-Rekordergebnis für die Wirtschaft?",
-          "link": "https://www.handelsblatt.com/journalismus_live/live-heute-im-livestream-welche-folgen-hat-das-afd-rekordergebnis-fuer-die-wirtschaft/100248124.html",
-          "published": "2026-09-07T10:10:00+00:00",
-          "summary": "Das Handelsblatt diskutiert über die Landtagswahl in Sachsen-Anhalt. Welche Folgen hat das Ergebnis für die Wirtschaft vor Ort und in ganz Deutschland? Stellen Sie live Ihre Fragen."
+          "title": "Kreuzfahrt: Gericht untersagt Aida bestimmte AGB-Klauseln",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/kreuzfahrt-gericht-untersagt-aida-bestimmte-agb-klauseln/100252610.html",
+          "published": "2026-09-07T11:52:46+00:00",
+          "summary": "Es ging um pauschale Stornogebühren, Mehrkosten bei Quarantäne - und die Befugnisse des Kapitäns. Nach einer Klage von Verbraucherschützern wurde das Kreuzfahrtunternehmen zu Unterlassung verurteilt."
         },
         {
-          "title": "Kommentar: Die Diplomatie-Show von Witkoff und Kushner diente nur einem Zweck",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-diplomatie-show-von-witkoff-und-kushner-diente-nur-einem-zweck/100252423.html",
-          "published": "2026-09-07T10:00:44+00:00",
-          "summary": "Die Ukrainer sind bereit für einen Waffenstillstand, aber Putin setzt weiter auf Krieg. Daran ändert auch das Werben der US-Unterhändler im Kreml nichts."
+          "title": "Lebensmittel: Gewerkschaft bestreikt Köllnflocken-Hersteller",
+          "link": "https://www.handelsblatt.com/politik/deutschland/lebensmittel-gewerkschaft-bestreikt-koellnflocken-hersteller/100252568.html",
+          "published": "2026-09-07T11:47:47+00:00",
+          "summary": "Die Gewerkschaft NGG ruft zum Warnstreik beim Familienunternehmen Kölln in Elmshorn auf - zum ersten Mal in der Firmengeschichte. Die Firma ist bekannt für ihre Haferflocken."
         },
         {
-          "title": "Die Welt in Bildern: Blickfang",
-          "link": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
-          "published": "2026-09-07T09:55:00+00:00",
-          "summary": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein Blickfang."
+          "title": "BSW-Zerfall in Thüringen: Liquidieren und neu: Wie Ex-BSWler weiter mitregieren wollen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bsw-zerfall-in-thueringen-liquidieren-und-neu-wie-ex-bswler-weiter-mitregieren-wollen/100252609.html",
+          "published": "2026-09-07T11:46:15+00:00",
+          "summary": "Die Thüringer Koalition mit dem BSW ist am Ende. Nun soll eine neue Partei und eine neue Fraktion die Regierung von CDU-Ministerpräsident Mario Voigt stützen. Wie der Neustart ablaufen soll."
         },
         {
-          "title": "Zerfall Thüringer BSW: Thüringer BSW-Fraktion will Auflösung - Neugründung geplant",
-          "link": "https://www.handelsblatt.com/politik/deutschland/zerfall-thueringer-bsw-thueringer-bsw-fraktion-will-aufloesung-neugruendung-geplant/100252561.html",
-          "published": "2026-09-07T09:54:05+00:00",
-          "summary": "Es geht um den Erhalt der Thüringer Koalitionsregierung: Ex-BSWler haben eine neue Partei gegründet - nun soll eine neue Landtagsfraktion folgen. Was die Gruppe um Vize-Ministerpräsidentin Wolf plant."
+          "title": "Pharmaindustrie: Novo Nordisk erzielt Erfolge mit Abnehmspritze bei Kindern",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/pharmaindustrie-novo-nordisk-erzielt-erfolge-mit-abnehmspritze-bei-kindern/100252598.html",
+          "published": "2026-09-07T11:46:06+00:00",
+          "summary": "Weltweit steigt die Zahl fettleibiger Kinder. Novo Nordisk liefert nun erste Studiendaten zur Wirkung von Semaglutid im Kindesalter."
         },
         {
-          "title": "Anschläge: 21 Sprengsätze an Stromleitungen in Sachsen entdeckt und entschärft",
-          "link": "https://www.handelsblatt.com/politik/deutschland/anschlaege-21-sprengsaetze-an-stromleitungen-in-sachsen-entdeckt-und-entschaerft/100252548.html",
-          "published": "2026-09-07T09:50:53+00:00",
-          "summary": "Bereits am Samstag wurden zwölf Sprengvorrichtungen in Sachsen gefunden. Jetzt sind neun weitere dazugekommen. Gefahr für die Bevölkerung besteht laut Polizei nicht."
+          "title": "Migration über Ärmelkanal: Gerangel bei Protest gegen Bootsmigranten in Portsmouth",
+          "link": "https://www.handelsblatt.com/politik/international/migration-ueber-aermelkanal-gerangel-bei-protest-gegen-bootsmigranten-in-portsmouth/100252604.html",
+          "published": "2026-09-07T11:43:22+00:00",
+          "summary": "Zum zweiten Mal innerhalb weniger Tage versammeln sich rechtsgerichtete Demonstranten in einer englischen Hafenstadt und blockieren den Verkehr. Es kommt zum Gerangel mit der Polizei."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Pünktlichkeitsziel klar verfehlt: Hitze und Bauarbeiten bremsen die Bahn auch im August aus",
+          "link": "https://www.n-tv.de/wirtschaft/Hitze-und-Bauarbeiten-bremsen-die-Bahn-auch-im-August-aus-id31278174.html",
+          "published": "2026-09-07T12:08:34+00:00",
+          "summary": "Die Fernzüge der Deutschen Bahn waren im August pünktlicher als in den Vormonaten - aber nur marginal. Nur gut die Hälfte aller Züge schaffen es rechtzeitig ans Ziel. Grund soll neben zahlreichen …"
+        },
+        {
+          "title": "Sattes Kursplus: Nordex-Papiere bekommen neuen Rückenwind",
+          "link": "https://www.n-tv.de/wirtschaft/Nordex-Papiere-bekommen-neuen-Rueckenwind-id31277894.html",
+          "published": "2026-09-07T10:09:50+00:00",
+          "summary": "Der Windanlagenbauer Nordex blickt seit einigen Monaten auf gute Geschäfte. Die Auftragsbücher sind voll. Die Produktion wird effizienter. Das sorgt für ein Kursplus. Ein Analystenkommentar schiebt …"
+        },
         {
           "title": "Aktie leicht eingebrochen: Novartis erleidet Rückschlag bei neuem Herzmedikament",
           "link": "https://www.n-tv.de/wirtschaft/Novartis-erleidet-Rueckschlag-bei-neuem-Herzmedikament-id31277076.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Autobranche-laesst-Industrieproduktion-im-Juli-deutlich-schrumpfen-id31276757.html",
           "published": "2026-09-07T08:25:48+00:00",
           "summary": "Die Zeichen in der deutschen Industrie stehen seit Monaten auf Grün. Doch die vollen Auftragsbücher können einen Dämpfer im Sommer nicht verhindern. Der fällt zudem überaus klar aus. Grund soll vor …"
-        },
-        {
-          "title": "Alarmierende Prognose des IW: Zahl der fehlenden Fachkräfte könnte sich bis 2029 verdoppeln",
-          "link": "https://www.n-tv.de/wirtschaft/Zahl-der-fehlenden-Fachkraefte-koennte-sich-bis-2029-verdoppeln-id31276672.html",
-          "published": "2026-09-07T06:57:14+00:00",
-          "summary": "Ob im Verkauf, in der Kinderbetreuung oder in der Pflege: In zahlreichen Berufsgruppen fehlt es hierzulande an Fachkräften. Nun zeigen Berechnungen des Instituts der deutschen Wirtschaft, dass die …"
-        },
-        {
-          "title": "Orbáns ungewollter Solarboom: \"Kein anderes Land hat einen Solarsprung wie Ungarn hingelegt\"",
-          "link": "https://www.n-tv.de/wirtschaft/Kein-anderes-Land-hat-einen-Solarsprung-wie-Ungarn-hingelegt-id31256179.html",
-          "published": "2026-09-06T15:12:10+00:00",
-          "summary": "Der frühere ungarische Ministerpräsident Orbán interessiert sich wenig für die Energiewende. Ungarn ist dennoch globale Solarvorreiter. Durch eine unbedachte Regelung wird die eigene Solaranlage zum …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Jaguar Land Rover streicht 4.000 Stellen",
-          "link": "https://www.finanzen.net/nachricht/aktien/jaguar-land-rover-streicht-4-000-stellen-15921499",
-          "published": "2026-09-07T10:06:39+00:00",
-          "summary": "COVENTRY (dpa-AFX) - Der britische Autobauer Jaguar Land Rover hat ein umfangreiches Sparpaket mit erheblichen Stellenstreichungen angekündigt. 4.000 Jobs sollen in den kommenden zwei Jahren …"
+          "title": "ROUNDUP: Liquidieren und neu: Wie Ex-BSWler weiter mitregieren wollen",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-liquidieren-und-neu-wie-ex-bswler-weiter-mitregieren-wollen-15921629",
+          "published": "2026-09-07T12:01:38+00:00",
+          "summary": "ERFURT (dpa-AFX) - Im Schatten der Landtagswahl Sachsen-Anhalt erfindet sich in Thüringen ein Koalitionspartner von CDU-Ministerpräsident Mario Voigt neu: Ex-BSWler um Vize-Regierungschefin und …"
         },
         {
-          "title": "70 Prozent der Privatanleger verlieren Geld - wegen dieser drei Denkfehler",
-          "link": "https://www.finanzen.net/nachricht/aktien/70-prozent-der-privatanleger-verlieren-geld-wegen-dieser-drei-denkfehler-15921498",
-          "published": "2026-09-07T10:05:00+00:00",
-          "summary": "70 Prozent der Privatanleger verlieren Geld – wegen dieser drei Denkfehler"
+          "title": "Deutsche Bank legt Rechtsstreit mit Ex-Mitarbeiter bei",
+          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-bank-legt-rechtsstreit-mit-ex-mitarbeiter-bei-15921628",
+          "published": "2026-09-07T12:00:42+00:00",
+          "summary": "DOW JONES--Die Deutsche Bank hat einen millionenschweren Rechtsstreit mit einem ehemaligen Manager beigelegt. Die Bank bestätigte die Einigung, nannte aber keine Details. \"Die Parteien ..."
         },
         {
-          "title": "Deutsche Bank AG veröffentlicht Bewertung: Infineon-Aktie mit Buy",
-          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-bank-ag-veroeffentlicht-bewertung-infineon-aktie-mit-buy-15921490",
-          "published": "2026-09-07T10:04:42+00:00",
-          "summary": "Deutsche Bank Research hat die Einstufung für Infineon mit einem Kursziel von 85 Euro auf \"Buy\" belassen. Dies schrieb Analyst Johannes Schaller in seinem am Montag vorliegenden Kommentar zur …"
+          "title": "Xtrackers CSI 300 ETF: Warum Alibaba und Tencent hier komplett fehlen und was das mit chinesischen A-Aktien zu tun hat",
+          "link": "https://www.finanzen.net/nachricht/etf/china-a-aktien-etf-xtrackers-csi-300-etf-warum-alibaba-und-tencent-hier-komplett-fehlen-und-was-das-mit-chinesischen-a-aktien-zu-tun-hat-00-15904121",
+          "published": "2026-09-07T12:00:00+00:00",
+          "summary": "Das Wichtigste in Kürze: Alibaba, Tencent und Xiaomi fehlen in diesem ETF komplett, da er ausschließlich chinesische A-Aktien von den Festlandbörsen Shanghai und Shenzhen abbildet. Im laufenden Jahr …"
         },
         {
-          "title": "Aktien Frankfurt: Dax rutscht wieder unter 26.000 Punkte",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-frankfurt-dax-rutscht-wieder-unter-26-000-punkte-15921491",
-          "published": "2026-09-07T10:03:39+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Der DAX hat nach der jüngsten Stabilisierung am Montag wieder den Rückwärtsgang eingelegt. Klaren Kursgewinnen der technologielastigen Börsen in Japan und insbesondere in …"
+          "title": "ROUNDUP: Gewerkschaft bestreikt Köllnflocken-Hersteller",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-gewerkschaft-bestreikt-koellnflocken-hersteller-15921623",
+          "published": "2026-09-07T11:59:40+00:00",
+          "summary": "ELMSHORN (dpa-AFX) - Beschäftigte in der Produktion des Haferflockenherstellers Kölln in Elmshorn sind zu einem Warnstreik aufgerufen. Die Arbeitsniederlegung soll um heute 14.00 Uhr beginnen und um …"
         },
         {
-          "title": "ETF: In Zukunftstechnologien investieren - Wie du mit ETFs gezielt von KI, Cybersecurity und Robotik profitierst",
-          "link": "https://www.finanzen.net/nachricht/aktien/etf-in-zukunftstechnologien-investieren-wie-du-mit-etfs-gezielt-von-ki-cybersecurity-und-robotik-profitierst-15921497",
-          "published": "2026-09-07T10:01:16+00:00",
-          "summary": "ETF: In Zukunftstechnologien investieren – Wie du mit ETFs gezielt von KI, Cybersecurity und Robotik profitierst"
+          "title": "Salesforce überzeugt mit KI-Wachstum und steigender Profitabilität",
+          "link": "https://www.finanzen.net/nachricht/zertifikate/salesforce-ueberzeugt-mit-ki-wachstum-und-steigender-profitabilitaet-15921617",
+          "published": "2026-09-07T11:50:05+00:00",
+          "summary": "Salesforce hat sich mit einem Paukenschlag an der Wall Street zurückgemeldet. Nach den Ende August veröffentlichten Quartalszahlen sprang die Aktie zeitweise um 18 Prozent. Am 4. September ging das …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Werk wird verkauft: Autos raus, Militär rein – Volkswagen verabschiedet sich von Osnabrück",
-          "link": "https://www.wiwo.de/politik/deutschland/vw-gibt-werk-osnabrueck-auf-finanzinvestor-aurelius-und-niedersachsen-kaufen-es/100252189.html",
-          "published": "2026-09-07T09:49:00+00:00",
-          "summary": "Volkswagen gibt sein Werk in Osnabrück auf. Dort werden künftig Rüstungsgüter von anderen produziert. Für diese Art der Rettung gibt es ein naheliegendes Vorbild."
+          "title": "Rechtsstreit: Deutsche Bank erzielt Vergleich – Millionen-Klage vom Tisch",
+          "link": "https://www.wiwo.de/unternehmen/banken/deutsche-bank-erzielt-vergleich-mit-ex-mitarbeiter-millionen-klage-vom-tisch/100252583.html",
+          "published": "2026-09-07T11:24:00+00:00",
+          "summary": "Mit einem Vergleich zieht die Deutsche Bank einen Schlussstrich unter einen 152-Millionen-Euro-Streit mit einem Ex-Mitarbeiter."
         },
         {
-          "title": "Volkswagen-Sanierung: VW-Werk Osnabrück soll Rüstungsstandort werden",
-          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-sanierung-vw-werk-osnabrueck-soll-ruestungsstandort-werden/100252543.html",
-          "published": "2026-09-07T09:39:55+00:00",
-          "summary": "Nach dem Ende der Auto-Produktion soll sich das Volkswagen-Werk in Osnabrück auf Sicherheits- und Verteidigungslösungen spezialisieren. Was bedeutet das für die Beschäftigten?"
+          "title": "Künstliche Intelligenz: Soll Vertrauen stärken – TÜV plant KI-Zertifikat",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-soll-vertrauen-staerken-tuev-plant-ki-zertifikat/100252525.html",
+          "published": "2026-09-07T11:17:00+00:00",
+          "summary": "Ist das sicher, wenn ich der KI jetzt sensible Daten gebe? Sind die Antworten wirklich richtig? Bei diesen Fragen soll bald ein Programm des TÜVs weiterhelfen."
         },
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: Stimmen zum AfD-Wahlsieg in Sachsen-Anhalt",
-          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-weltweite-stimmen-zum-wahlsieg-der-afd/100252479.html",
-          "published": "2026-09-07T09:36:00+00:00",
-          "summary": "Der Wahlsieg der AfD in Sachsen-Anhalt ruft zahlreiche Reaktionen hervor. Und sorgt international für Schlagzeilen."
+          "title": "Anschläge auf Stromleitungen: 21 Sprengsätze an Stromleitungen entdeckt und entschärft",
+          "link": "https://www.wiwo.de/unternehmen/energie/anschlaege-auf-stromleitungen-21-sprengsaetze-in-sachsen-entdeckt/100252553.html",
+          "published": "2026-09-07T11:06:00+00:00",
+          "summary": "Mehr als 21 Sprengsätze wurden an Hochspannungsleitungen in Sachsen entdeckt – die Polizei bittet um Hinweise. Ein 48-Jähriger wird wegen Sabotage am Stromnetz gesucht."
         },
         {
-          "title": "Landtagswahlen in Sachsen-Anhalt: Die AfD gewinnt in der Mitte der Gesellschaft",
-          "link": "https://www.wiwo.de/politik/deutschland/landtagswahlen-in-sachsen-anhalt-woher-die-afd-ihre-staerke-nimmt/100252512.html",
-          "published": "2026-09-07T09:30:06+00:00",
-          "summary": "Zur Wahl in Sachsen-Anhalt trauten die Menschen der rechtsextremen Partei bei Wirtschaft, Sozialem und Bildung am meisten zu – mehr als CDU und SPD."
+          "title": "Wirtschaft im Euroraum: Konjunktur-Zuversicht für Euroraum auf höchstem Stand seit Februar 2022",
+          "link": "https://www.wiwo.de/politik/konjunktur/wirtschaft-im-euroraum-konjunktur-zuversicht-fuer-euroraum-auf-hoechstem-stand-seit-februar-2022/100252528.html",
+          "published": "2026-09-07T10:53:26+00:00",
+          "summary": "Das Sentix-Barometer für den Euroraum steigt zum fünften Mal in Folge. Auch Deutschlands Konjunktur gewinnt überraschend an Zuversicht."
         },
         {
-          "title": "Landtagswahl Sachsen-Anhalt: Regierungsbildung in Sachsen-Anhalt nach AfD-Sieg ungewiss",
-          "link": "https://www.wiwo.de/politik/deutschland/landtagswahlen-in-sachsen-anhalt-amtliches-endergebnis-sitzverteilung-co./100249001.html",
-          "published": "2026-09-07T09:19:00+00:00",
-          "summary": "Die AfD gewinnt in dem Bundesland mit 43,8 Prozent, doch die weiteren Schritte sind schwierig. Was die Parteien jetzt planen und wie es weitergehen könnte."
+          "title": "Resilienz: Wie Unternehmen auf plötzliche Angriffe reagieren sollten",
+          "link": "https://www.wiwo.de/erfolg/management/angriffe-aufs-stromnetz-wie-unternehmen-auf-sabotage-reagieren/100252115.html",
+          "published": "2026-09-07T10:45:00+00:00",
+          "summary": "Die Attacken auf Umspannwerke stellen die Sicherheit von Firmen mit kritischer Infrastruktur in Frage. Viele sind schlecht vorbereitet. Wie es besser geht."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Die Skill-Falle: Warum Unternehmen nicht jede Kompetenz erfassen sollten",
+          "link": "https://www.ingenieur.de/karriere/schluesselqualifikationen/skill-mapping-warum-unternehmen-nicht-jede-kompetenz-erfassen-sollten/",
+          "published": "2026-09-07T12:00:00+00:00",
+          "summary": "Skill-Mapping hilft Unternehmen, Weiterbildung und Karrierewege gezielt zu steuern – wenn Kompetenzen an konkrete Aufgaben gekoppelt werden."
+        },
         {
           "title": "T-Roc geht, Rüstung kommt: So soll das VW-Werk Osnabrück gerettet werden",
           "link": "https://www.ingenieur.de/wirtschaft/t-roc-geht-ruestung-kommt-so-soll-das-vw-werk-osnbrueck-gerettet-werden/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/advertorial/die-zeit-vergeht-dann-wie-im-flug/",
           "published": "2026-09-07T06:00:00+00:00",
           "summary": "Der Wechsel an die Hochschule war für Prof. Dr. Henning Kalis ideal. Als Professor kann der leidenschaftliche Wissenschaftler seine eigene Forschung vorantreiben und gleichzeitig jungen Menschen die …"
-        },
-        {
-          "title": "Wie zerlegt man einen 3300 Jahre alten Tempel, ohne ihn zu zerstören?",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/wie-zerlegt-man-einen-3300-jahre-alten-tempel-ohne-ihn-zu-zerstoeren/",
-          "published": "2026-09-06T17:15:24+00:00",
-          "summary": "Am Ramesseum bei Luxor wird der 3300 Jahre alte Pylon Ramses’ II. unter einer riesigen Schutzhalle Stein für Stein demontiert und restauriert."
         }
       ],
       "error": null
