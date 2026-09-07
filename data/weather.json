@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T18:10:34+00:00",
+  "generatedAt": "2026-09-07T20:09:18+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,18 +7,18 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-07T20:00",
-    "temperatur": 25.1,
-    "gefuehlt": 26.0,
-    "luftfeuchte": 53,
+    "zeit": "2026-09-07T22:00",
+    "temperatur": 22.2,
+    "gefuehlt": 22.9,
+    "luftfeuchte": 67,
     "niederschlag": 0.0,
-    "wind": 4.8,
+    "wind": 8.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 2,
-      "text": "Teils bewölkt",
-      "icon": "⛅"
+      "code": 3,
+      "text": "Bedeckt",
+      "icon": "☁️"
     }
   },
   "tage": [
@@ -27,8 +27,8 @@
       "max": 28.6,
       "min": 14.6,
       "regenwahrscheinlichkeit": 3,
-      "sonnenaufgang": "2026-09-07T06:46",
-      "sonnenuntergang": "2026-09-07T19:59",
+      "sonnenaufgang": "2026-09-07T06:47",
+      "sonnenuntergang": "2026-09-07T20:00",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
@@ -37,10 +37,10 @@
     },
     {
       "datum": "2026-09-08",
-      "max": 22.9,
-      "min": 16.8,
+      "max": 23.3,
+      "min": 16.4,
       "regenwahrscheinlichkeit": 75,
-      "sonnenaufgang": "2026-09-08T06:48",
+      "sonnenaufgang": "2026-09-08T06:49",
       "sonnenuntergang": "2026-09-08T19:57",
       "wetter": {
         "code": 61,
@@ -50,15 +50,15 @@
     },
     {
       "datum": "2026-09-09",
-      "max": 18.8,
-      "min": 13.0,
+      "max": 19.8,
+      "min": 12.9,
       "regenwahrscheinlichkeit": 50,
       "sonnenaufgang": "2026-09-09T06:50",
-      "sonnenuntergang": "2026-09-09T19:54",
+      "sonnenuntergang": "2026-09-09T19:55",
       "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
+        "code": 61,
+        "text": "Leichter Regen",
+        "icon": "🌦️"
       }
     },
     {
@@ -66,8 +66,8 @@
       "max": 17.9,
       "min": 10.5,
       "regenwahrscheinlichkeit": 3,
-      "sonnenaufgang": "2026-09-10T06:51",
-      "sonnenuntergang": "2026-09-10T19:52",
+      "sonnenaufgang": "2026-09-10T06:52",
+      "sonnenuntergang": "2026-09-10T19:53",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
