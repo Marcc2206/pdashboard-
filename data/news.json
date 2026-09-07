@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:09:13+00:00",
+  "generatedAt": "2026-09-07T22:09:20+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Sepp Müller will als CDU-Landeschef kandidieren ++",
-          "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
-          "published": "2026-09-07T19:44:46+00:00",
-          "summary": "Im Spätherbst will die CDU in Sachsen-Anhalt einen neuen neuen Vorstand wählen. Der Bundestagsabgeordnete Sepp Müller will dann für den Landesvorsitz kandidieren. In Berlin hat es eine Protestaktion …"
-        },
-        {
-          "title": "Nach Niederlage bei Landtagswahl: CDU will Landesvorstand in Sachsen-Anhalt neu wählen",
-          "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/neuwahl-landesvorstand-100,cdu-fuehrung-wahlniederlage-sonderparteitag-100.html",
-          "published": "2026-09-07T19:41:41+00:00",
-          "summary": "Die CDU Sachsen-Anhalt zieht Konsequenzen aus ihrem historischen Wahldebakel. Die Mitglieder des Landesvorstands stellen ihre Ämter zur Verfügung. Offen ist, wie es mit Ministerpräsident Sven Schulze …"
-        },
-        {
-          "title": "Basketball-WM: Mali besiegt! DBB-Frauen feiern die Zwischenrunde",
-          "link": "https://www.sportschau.de/basketball/mali-besiegt-dbb-frauen-feiern-die-zwischenrunde,basketball-wm-frauen-deutschland-mali-100.html",
-          "published": "2026-09-07T19:15:44+00:00",
-          "summary": "Die deutschen Basketballerinnen dürfen nach einer Gala gegen Mali weiter von einer WM-Medaille träumen. Offensiv und defensiv glänzte das DBB-Team gegen die Turnier-Überraschung und trifft jetzt auf …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1644922.html",
-          "published": "2026-09-07T19:14:25+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12848.html",
+          "published": "2026-09-07T21:29:57+00:00",
           "summary": ""
         },
         {
-          "title": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
-          "published": "2026-09-07T19:11:43+00:00",
-          "summary": "Eine Mehrheit der Deutschen blickt mit Sorge auf den Ausgang der Wahl in Sachsen-Anhalt. Im DeutschlandTrend extra ist zugleich jeder Zweite der Meinung, die anderen Parteien sollten die AfD stärker …"
+          "title": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Sepp Müller will als CDU-Landeschef kandidieren ++",
+          "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
+          "published": "2026-09-07T21:16:35+00:00",
+          "summary": "Im Spätherbst will die CDU in Sachsen-Anhalt einen neuen neuen Vorstand wählen. Der Bundestagsabgeordnete Sepp Müller will dann für den Landesvorsitz kandidieren. In Berlin hat es eine Protestaktion …"
+        },
+        {
+          "title": "Lars Frohmüller, MDR, zur Wahlniederlage der CDU in Sachsen-Anhalt und wie es weiter geht",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1644982.html",
+          "published": "2026-09-07T20:37:42+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Alexander Prinz, Autor und Youtuber, zum Ergebnis dieser Landtagswahl in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1644978.html",
+          "published": "2026-09-07T20:33:50+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Nach der Landtagswahl in Sachsen-Anhalt: Wie ist die Stimmung im Land?",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1644972.html",
+          "published": "2026-09-07T20:25:45+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Nach Wahl in Sachsen-Anhalt: Tausende protestieren gegen die AfD",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-wahl-in-sachsen-anhalt-tausende-protestieren-gegen-die-afd/100252713.html",
+          "published": "2026-09-07T20:27:11+00:00",
+          "summary": "Der Wahlsieg der AfD beschäftigt nicht nur die Menschen in Sachsen-Anhalt. Vielerorts in Deutschland gehen die Menschen gegen die Partei auf die Straße, darunter Tausende in Berlin."
+        },
         {
           "title": "+++ Iran-Krieg +++: Iran kündigt neues Sperrgebiet vor der Straße von Hormus an",
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-kuendigt-neues-sperrgebiet-vor-der-strasse-von-hormus-an/100136895.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-landtagswahl-demonstrative-einigkeit-merz-bei-den-spd-seeheimern/100252709.html",
           "published": "2026-09-07T19:25:12+00:00",
           "summary": "Am Tag nach dem Wahl-Schock stehen Kanzler und Vizekanzler gemeinsam auf der Bühne. Sie bemühen sich, mit einer Stimme zu sprechen."
-        },
-        {
-          "title": "Internationaler Bildungstest: „Bild“: Deutschland sackt bei Pisa-Studie weiter ab",
-          "link": "https://www.handelsblatt.com/politik/deutschland/internationaler-bildungstest-bild-deutschland-sackt-bei-pisa-studie-weiter-ab/100252706.html",
-          "published": "2026-09-07T18:56:43+00:00",
-          "summary": "Die internationale Vergleichsstudie testet grundlegende Fähigkeiten von Schülern in Dutzenden Ländern weltweit. Am Tag vor der offiziellen Veröffentlichung sickern erste Ergebnisse durch."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Verkaufsverbot in den USA: Trump nimmt Kanadas Bombardier-Flugzeuge ins Visier",
+          "link": "https://www.n-tv.de/wirtschaft/Trump-nimmt-Kanadas-Bombardier-Flugzeuge-ins-Visier-id31280224.html",
+          "published": "2026-09-07T21:13:14+00:00",
+          "summary": "Donald Trump verschärft den Wirtschaftskonflikt mit Kanada: Der US-Präsident droht dem Flugzeugbauer Bombardier mit einem Verkaufsverbot. Zugleich setzt Ottawa milliardenschwere Gegenzölle auf …"
+        },
         {
           "title": "Pünktlichkeitsziel klar verfehlt: Hitze und Bauarbeiten bremsen die Bahn auch im August aus",
           "link": "https://www.n-tv.de/wirtschaft/Hitze-und-Bauarbeiten-bremsen-die-Bahn-auch-im-August-aus-id31278174.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Volkswagen-will-Werk-in-Osnabrueck-verkaufen-id31277585.html",
           "published": "2026-09-07T09:17:12+00:00",
           "summary": "Der Finanzinvestor Aurelius und das Land Niedersachsen übernehmen das Osnabrücker VW-Werk. Der Standort soll schrittweise zum Rüstungsstandort werden. Als erstes Projekt ist eine Kooperation mit dem …"
-        },
-        {
-          "title": "Gegen den Trend: Autobranche lässt Industrieproduktion im Juli deutlich schrumpfen",
-          "link": "https://www.n-tv.de/wirtschaft/Autobranche-laesst-Industrieproduktion-im-Juli-deutlich-schrumpfen-id31276757.html",
-          "published": "2026-09-07T08:25:48+00:00",
-          "summary": "Die Zeichen in der deutschen Industrie stehen seit Monaten auf Grün. Doch die vollen Auftragsbücher können einen Dämpfer im Sommer nicht verhindern. Der fällt zudem überaus klar aus. Grund soll vor …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Eli Lilly-Aktie unter der Lupe: JPMorgan hebt Kursziel an – Konkurrenz zu Novo Nordisk verschärft sich",
-          "link": "https://www.finanzen.net/nachricht/aktien/jpmorgan-wird-bullish-eli-lilly-aktie-unter-der-lupe-jpmorgan-hebt-kursziel-an-konkurrenz-zu-novo-nordisk-verschaerft-sich-00-15921334",
-          "published": "2026-09-07T19:54:00+00:00",
-          "summary": "JPMorgan bestätigt Overweight-Votum und schraubt Wachstumsschätzungen hoch Konkurrenzkampf mit Novo Nordisk verschärft sich um Marktanteile und Werbung Analysten sehen langfristige Chancen in der …"
+          "title": "KI-Aktien im Blick: Warum JPMorgan die Billionen-Investitionen für tragfähig hält",
+          "link": "https://www.finanzen.net/nachricht/aktien/rechenzentren-ki-aktien-im-blick-warum-jpmorgan-die-billionen-investitionen-fuer-tragfaehig-haelt-00-15910055",
+          "published": "2026-09-07T21:32:00+00:00",
+          "summary": "JPMorgan hebt Prognose für globale KI-Investitionen bis 2030 auf 5,5 Billionen Dollar an • Kapitalausgaben der größten US-Hyperscaler sollen 2026 deutlich zulegen • Fremdkapitalfinanzierung von …"
         },
         {
-          "title": "Wagenknecht: Machen 'mit jedem' Politik für Veränderung",
-          "link": "https://www.finanzen.net/nachricht/aktien/wagenknecht-machen-mit-jedem-politik-fuer-veraenderung-15922359",
-          "published": "2026-09-07T19:51:38+00:00",
-          "summary": "MAINZ (dpa-AFX) - BSW-Gründerin Sahra Wagenknecht lässt offen, wie ihre Partei mit der AfD in Sachsen-Anhalt zusammenarbeiten will. \"Wir machen mit jedem gemeinsame Politik, der bereit ist …"
+          "title": "Ukrainischer Generalstaatsanwalt kündigt Rücktritt an",
+          "link": "https://www.finanzen.net/nachricht/aktien/ukrainischer-generalstaatsanwalt-kuendigt-ruecktritt-an-15922374",
+          "published": "2026-09-07T21:03:38+00:00",
+          "summary": "KIEW (dpa-AFX) - Der ukrainische Generalstaatsanwalt Ruslan Krawtschenko hat im Zusammenhang mit einer Korruptionsaffäre in seiner Behörde seinen Rücktritt angekündigt. \"Das ist eine politische …"
         },
         {
-          "title": "China-Aktien überholen die USA: IPO-Rekord im direkten Vergleich",
-          "link": "https://www.finanzen.net/nachricht/aktien/ipo-boom-china-aktien-ueberholen-die-usa-ipo-rekord-im-direkten-vergleich-00-15909923",
-          "published": "2026-09-07T19:47:00+00:00",
-          "summary": "Hongkonger Börse sammelt im ersten Halbjahr 2026 mit 85 IPOs rund 209,9 Milliarden Hongkong-Dollar ein • KI-nahe Unternehmen wie MiniMax und Shanghai Biren Technology treiben Boom an • Deloitte …"
+          "title": "Anthropic-Aktie vor dem Börsengang: Welche Chancen und Risiken bei dem möglichen Rekord-IPO bestehen",
+          "link": "https://www.finanzen.net/nachricht/aktien/groesser-als-spacex-anthropic-aktie-vor-dem-boersengang-welche-chancen-und-risiken-bei-dem-moeglichen-rekord-ipo-bestehen-00-15915959",
+          "published": "2026-09-07T20:59:00+00:00",
+          "summary": "Anthropic reichte im Juni 2026 vertraulich Unterlagen für einen Börsengang ein Letzte Bewertung lag bei 965 Milliarden US-Dollar nach frischem Kapital Compute-Kosten und die Governance-Struktur …"
         },
         {
-          "title": "ROUNDUP 2: Müller geht nach Merz-Kritik in die Offensive",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-mueller-geht-nach-merz-kritik-in-die-offensive-15922356",
-          "published": "2026-09-07T19:45:38+00:00",
-          "summary": "(neu: Details)MAGDEBURG (dpa-AFX) - Der Bundeskanzler hat ihn angezählt - doch Sepp Müller geht in die Offensive: Unions-Fraktionsvize Müller will nach der Wahlschlappe seiner Partei bei der …"
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-07T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
         },
         {
-          "title": "Aktien von Rheinmetall, HENSOLDT, RENK und TKMS erholt: Das sagen Analysten über das Kurspotenzial",
-          "link": "https://www.finanzen.net/nachricht/aktien/analysten-check-aktien-von-rheinmetall-hensoldt-renk-und-tkms-erholt-das-sagen-analysten-ueber-das-kurspotenzial-00-15921159",
-          "published": "2026-09-07T19:39:00+00:00",
-          "summary": "Expertenstimmen zum deutschen Rüstungssektor im Blick Aktien von Rheinmetall, HENSOLDT, RENK und TKMS erhalten überwiegend Kaufsignale Kursziele für alle vier Rüstungswerte liegen deutlich über dem …"
+          "title": "Willingmann sieht kein Ende der Volksparteien",
+          "link": "https://www.finanzen.net/nachricht/aktien/willingmann-sieht-kein-ende-der-volksparteien-15922368",
+          "published": "2026-09-07T20:46:38+00:00",
+          "summary": "MAGDEBURG (dpa-AFX) - Trotz des schwachen Abschneidens der etablierten Parteien bei der Sachsen-Anhalt-Wahl im Vergleich zur AfD sieht SPD-Spitzenkandidat Armin Willingmann kein grundsätzliches Ende …"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Die Höhle der Löwen: „Entweder es läuft irgendwann richtig gut oder ich stampfe es wieder ein“",
+          "link": "https://www.wiwo.de/erfolg/gruender/die-hoehle-der-loewen-so-ging-es-fuer-das-start-up-sauberdropz-weiter/100252667.html",
+          "published": "2026-09-07T21:00:00+00:00",
+          "summary": "Gleich vier Investoren wollten bei Sauberdropz einsteigen. Hat sich das österreichische Start-up für den richtigen Partner entschieden?"
+        },
+        {
           "title": "Robert Kiyosaki: Hat der „Rich Dad“ ein Schuldenproblem?",
           "link": "https://www.wiwo.de/finanzen/geldanlage/robert-kiyosaki-hat-der-rich-dad-autor-ein-schuldenproblem/100252019.html",
           "published": "2026-09-07T18:55:00+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/politik/deutschland/pisa-studie-neue-ergebnisse-des-bildungstests-werden-dienstag-vorgestellt/100252691.html",
           "published": "2026-09-07T16:55:21+00:00",
           "summary": "Die internationale Vergleichsstudie testet grundlegende Fähigkeiten in Lesen, Mathematik und Naturwissenschaften. In Deutschland nahmen rund 6700 Schüler teil."
-        },
-        {
-          "title": "Bundeshaushalt 2027: Klingbeil bringt Haushalt in Bundestag ein",
-          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-lars-klingbeil-bringt-haushalt-in-bundestag-ein/100252689.html",
-          "published": "2026-09-07T16:20:39+00:00",
-          "summary": "Der Bundestag tritt erstmals nach der Sommerpause wieder zusammen. Es geht um den Haushalt 2027 und immense Schulden."
         }
       ],
       "error": null
