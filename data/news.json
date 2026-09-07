@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:11:55+00:00",
+  "generatedAt": "2026-09-07T14:09:27+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Wahl in Sachsen-Anhalt: Siegmund will stabile Mehrheit suchen",
+          "link": "https://www.tagesschau.de/inland/afd-siegmund-100.html",
+          "published": "2026-09-07T14:03:10+00:00",
+          "summary": "Nach der Wahl in Sachsen-Anhalt hat AfD-Spitzenkandidat Siegmund bekräftigt, Ministerpräsident werden zu wollen - im Fall einer stabilen Mehrheit. Genau die will er nun suchen. Das BSW würde sich im …"
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80870.html",
-          "published": "2026-09-07T12:10:52+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80874.html",
+          "published": "2026-09-07T13:54:08+00:00",
           "summary": ""
         },
         {
-          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: ++ Merz räumt schwere Wahlniederlage ein ++",
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: SPD offen für überparteilichen Ministerpräsidenten ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
-          "published": "2026-09-07T11:58:56+00:00",
-          "summary": "Kanzler Merz hat die Wahl in Sachsen-Anhalt als Schock für seine CDU und ihn selbst bezeichnet. Am Reformkurs will er festhalten. Der Münchner Kardinal Marx ruft zum Einsatz für die Menschenwürde auf."
+          "published": "2026-09-07T13:53:26+00:00",
+          "summary": "SPD-Spitzenkandidat Willingmann zeigte sich offen, notfalls auch einen überparteilichen Kandidaten zum Ministerpräsidenten in Sachsen-Anhalt zu wählen. SPD-Chefin Bas warnte davor, Sozialreformen …"
         },
         {
-          "title": "Explosion in Umspannwerk: Berliner Polizei geht von Kurzschluss aus",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-feuerwehr-loescht-brand-an-umspannwerk-in-berlin-tiergarten-102.html",
-          "published": "2026-09-07T11:58:03+00:00",
-          "summary": "Nach mehreren Sabotageaktionen gegen das deutsche Stromnetz könnte das Feuer in einem Berliner Umspannwerk wiederum durch einen Kurzschluss ausgelöst worden sein. Nach dem Brand waren zahlreiche …"
+          "title": "Wahl in Sachsen-Anhalt: Historisches, Hochburgen, Ausreißer",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-zahlen-rekorde-100.html",
+          "published": "2026-09-07T13:38:11+00:00",
+          "summary": "Lange dürfte es keine Wahl mit so vielen Rekordwerten gegeben haben wie jetzt in Sachsen-Anhalt. Allein das AfD-Ergebnis und die Wahlbeteiligung sind außergewöhnlich. Historische Vergleiche und …"
         },
         {
-          "title": "VW-Werk Osnabrück soll \"Kompetenzzentrum für Verteidigung\" werden",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/ruestung-statt-cabrios-land-will-vw-werk-osnabrueck-uebernehmen,vw-1490.html",
-          "published": "2026-09-07T11:34:47+00:00",
-          "summary": "VW will das Werk Osnabrück an den Finanzinvestor Aurelius Capital und das Land Niedersachsen verkaufen. Der Standort soll ein \"Kompetenzzentrum für Sicherheits- und Verteidigungslösungen\" werden. …"
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-07T11:24:30+00:00",
-          "summary": "Am Dienstag gibt es vor allem im Süden und Osten viel Sonnenschein, sonst zeitweise auch Wolkenfelder. Im Nordwesten nimmt die Bewölkung zu und gebietsweise fällt Regen. 19 bis 33 Grad."
+          "title": "Wahl in Sachsen-Anhalt: Arbeitgeber warnen von \"Klima der Abschottung\"",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-100.html",
+          "published": "2026-09-07T13:37:16+00:00",
+          "summary": "Vertreter der deutschen Industrie und Ökonomen sehen mögliche negative wirtschaftliche Folgen durch den Wahlsieg der AfD in Sachsen-Anhalt. An die Bundesregierung richten sie den Appell, am …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Kreuzfahrt: Gericht untersagt Aida bestimmte AGB-Klauseln",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/kreuzfahrt-gericht-untersagt-aida-bestimmte-agb-klauseln/100252610.html",
-          "published": "2026-09-07T11:52:46+00:00",
-          "summary": "Es ging um pauschale Stornogebühren, Mehrkosten bei Quarantäne - und die Befugnisse des Kapitäns. Nach einer Klage von Verbraucherschützern wurde das Kreuzfahrtunternehmen zu Unterlassung verurteilt."
+          "title": "Dax aktuell: Dax notiert unverändert – Kein Effekt durch Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-unveraendert-kein-effekt-durch-sachsen-anhalt/100252474.html",
+          "published": "2026-09-07T14:00:54+00:00",
+          "summary": "Der Leitindex kämpft um die 26.000-Punkte-Marke. Steigende Unsicherheit in Nahost und die erwarteten Zinserhöhungen im Herbst lassen Anleger zögern."
         },
         {
-          "title": "Lebensmittel: Gewerkschaft bestreikt Köllnflocken-Hersteller",
-          "link": "https://www.handelsblatt.com/politik/deutschland/lebensmittel-gewerkschaft-bestreikt-koellnflocken-hersteller/100252568.html",
-          "published": "2026-09-07T11:47:47+00:00",
-          "summary": "Die Gewerkschaft NGG ruft zum Warnstreik beim Familienunternehmen Kölln in Elmshorn auf - zum ersten Mal in der Firmengeschichte. Die Firma ist bekannt für ihre Haferflocken."
+          "title": "Landtagswahl: Überläufer, Enthaltung, Neuwahl? Szenarien in Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-ueberlaeufer-enthaltung-neuwahl-szenarien-in-sachsen-anhalt/100252449.html",
+          "published": "2026-09-07T13:56:09+00:00",
+          "summary": "Nach dem Wahlsieg der AfD bleibt offen, wie Sachsen-Anhalt regiert wird. Welche Modelle jetzt diskutiert werden und warum eine schnelle Lösung unwahrscheinlich ist."
         },
         {
-          "title": "BSW-Zerfall in Thüringen: Liquidieren und neu: Wie Ex-BSWler weiter mitregieren wollen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bsw-zerfall-in-thueringen-liquidieren-und-neu-wie-ex-bswler-weiter-mitregieren-wollen/100252609.html",
-          "published": "2026-09-07T11:46:15+00:00",
-          "summary": "Die Thüringer Koalition mit dem BSW ist am Ende. Nun soll eine neue Partei und eine neue Fraktion die Regierung von CDU-Ministerpräsident Mario Voigt stützen. Wie der Neustart ablaufen soll."
+          "title": "Sachsen-Anhalt: Elon Musk gratuliert AfD zum Wahlsieg",
+          "link": "https://www.handelsblatt.com/video/politik/sachsen-anhalt-elon-musk-gratuliert-afd-zum-wahlsieg/100252642.html",
+          "published": "2026-09-07T13:49:06+00:00",
+          "summary": "Der Tech-Milliardär hat noch in der Nacht zu Montag auf seiner Plattform X seine Freude über den Wahlsieg der rechtsextremen Landespartei geäußert. „Gut gemacht!“, kommentierte Musk unter einem …"
         },
         {
-          "title": "Pharmaindustrie: Novo Nordisk erzielt Erfolge mit Abnehmspritze bei Kindern",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/pharmaindustrie-novo-nordisk-erzielt-erfolge-mit-abnehmspritze-bei-kindern/100252598.html",
-          "published": "2026-09-07T11:46:06+00:00",
-          "summary": "Weltweit steigt die Zahl fettleibiger Kinder. Novo Nordisk liefert nun erste Studiendaten zur Wirkung von Semaglutid im Kindesalter."
+          "title": "Berliner Testament: Was Sie 2026 über die Nachlassregelung wissen müssen",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/berliner-testament-was-sie-2026-ueber-die-nachlassregelung-wissen-muessen-01/29396880.html",
+          "published": "2026-09-07T13:47:00+00:00",
+          "summary": "Das Berliner Testament ist in Deutschland eine weit verbreitete Form der Nachlassregelung. Dabei setzen sich Ehepaare gegenseitig als Erben ein. Ein Überblick, was es dabei zu beachten gilt."
         },
         {
-          "title": "Migration über Ärmelkanal: Gerangel bei Protest gegen Bootsmigranten in Portsmouth",
-          "link": "https://www.handelsblatt.com/politik/international/migration-ueber-aermelkanal-gerangel-bei-protest-gegen-bootsmigranten-in-portsmouth/100252604.html",
-          "published": "2026-09-07T11:43:22+00:00",
-          "summary": "Zum zweiten Mal innerhalb weniger Tage versammeln sich rechtsgerichtete Demonstranten in einer englischen Hafenstadt und blockieren den Verkehr. Es kommt zum Gerangel mit der Polizei."
+          "title": "Ukraine-Krieg: Tote in Russland und auf annektierter Krim",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-tote-in-russland-und-auf-annektierter-krim/27982126.html",
+          "published": "2026-09-07T13:42:35+00:00",
+          "summary": "Selenskyj dringt nach Besuch von US-Gesandten auf Fortsetzung der Diplomatie +++ Tote nach russischen Bombenangriffen auf Kramatorsk +++ Der Newsblog."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP: Liquidieren und neu: Wie Ex-BSWler weiter mitregieren wollen",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-liquidieren-und-neu-wie-ex-bswler-weiter-mitregieren-wollen-15921629",
-          "published": "2026-09-07T12:01:38+00:00",
-          "summary": "ERFURT (dpa-AFX) - Im Schatten der Landtagswahl Sachsen-Anhalt erfindet sich in Thüringen ein Koalitionspartner von CDU-Ministerpräsident Mario Voigt neu: Ex-BSWler um Vize-Regierungschefin und …"
+          "title": "Ölpreise legen zu - Anhaltende Spannungen im Persischen Golf",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/oelpreise-legen-zu-anhaltende-spannungen-im-persischen-golf-15921905",
+          "published": "2026-09-07T14:02:38+00:00",
+          "summary": "NEW YORK/LONDON (dpa-AFX) - Die Ölpreise haben am Montag nach weiteren gegenseitigen Angriffen im Krieg zwischen den USA und dem Iran erneut zugelegt. Ein Barrel (159 Liter) Rohöl der Nordseesorte …"
         },
         {
-          "title": "Deutsche Bank legt Rechtsstreit mit Ex-Mitarbeiter bei",
-          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-bank-legt-rechtsstreit-mit-ex-mitarbeiter-bei-15921628",
-          "published": "2026-09-07T12:00:42+00:00",
-          "summary": "DOW JONES--Die Deutsche Bank hat einen millionenschweren Rechtsstreit mit einem ehemaligen Manager beigelegt. Die Bank bestätigte die Einigung, nannte aber keine Details. \"Die Parteien ..."
+          "title": "Aktien von Rheinmetall, HENSOLDT, RENK und TKMS erholt: Das sagen Analysten über das Kurspotenzial",
+          "link": "https://www.finanzen.net/nachricht/aktien/analysten-check-aktien-von-rheinmetall-hensoldt-renk-und-tkms-erholt-das-sagen-analysten-ueber-das-kurspotenzial-00-15921159",
+          "published": "2026-09-07T14:02:00+00:00",
+          "summary": "Expertenstimmen zum deutschen Rüstungssektor im Blick Aktien von Rheinmetall, HENSOLDT, RENK und TKMS erhalten überwiegend Kaufsignale Kursziele für alle vier Rüstungswerte liegen deutlich über dem …"
         },
         {
-          "title": "Xtrackers CSI 300 ETF: Warum Alibaba und Tencent hier komplett fehlen und was das mit chinesischen A-Aktien zu tun hat",
-          "link": "https://www.finanzen.net/nachricht/etf/china-a-aktien-etf-xtrackers-csi-300-etf-warum-alibaba-und-tencent-hier-komplett-fehlen-und-was-das-mit-chinesischen-a-aktien-zu-tun-hat-00-15904121",
-          "published": "2026-09-07T12:00:00+00:00",
-          "summary": "Das Wichtigste in Kürze: Alibaba, Tencent und Xiaomi fehlen in diesem ETF komplett, da er ausschließlich chinesische A-Aktien von den Festlandbörsen Shanghai und Shenzhen abbildet. Im laufenden Jahr …"
+          "title": "S&P 500-Wert BlackRock-Aktie: So viel Gewinn hätte ein Investment in BlackRock von vor 5 Jahren eingebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-wert-blackrock-aktie-so-viel-gewinn-haette-ein-investment-in-blackrock-von-vor-5-jahren-eingebracht-15921902",
+          "published": "2026-09-07T14:00:47+00:00",
+          "summary": "Vor 5 Jahren wurde das BlackRock -Aktie via Börse NYSE gehandelt. Der Schlusskurs der BlackRock-Anteile betrug an diesem Tag 924,83 USD. Wenn ein Anleger damals 100 USD in das BlackRock-Papier …"
         },
         {
-          "title": "ROUNDUP: Gewerkschaft bestreikt Köllnflocken-Hersteller",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-gewerkschaft-bestreikt-koellnflocken-hersteller-15921623",
-          "published": "2026-09-07T11:59:40+00:00",
-          "summary": "ELMSHORN (dpa-AFX) - Beschäftigte in der Produktion des Haferflockenherstellers Kölln in Elmshorn sind zu einem Warnstreik aufgerufen. Die Arbeitsniederlegung soll um heute 14.00 Uhr beginnen und um …"
+          "title": "S&P 500-Titel Palantir-Aktie: So viel Gewinn hätte eine Palantir-Investition von vor einem Jahr eingebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-palantir-aktie-so-viel-gewinn-haette-eine-palantir-investition-von-vor-einem-jahr-eingebracht-15921901",
+          "published": "2026-09-07T14:00:47+00:00",
+          "summary": "Heute vor 1 Jahr wurde die Palantir -Aktie wochenend-bedingt nicht an der Börse NAS gehandelt. Am Handelstag zuvor stand das Palantir-Papier letztlich bei 153,11 USD. Wer vor 1 Jahr 100 USD in die …"
         },
         {
-          "title": "Salesforce überzeugt mit KI-Wachstum und steigender Profitabilität",
-          "link": "https://www.finanzen.net/nachricht/zertifikate/salesforce-ueberzeugt-mit-ki-wachstum-und-steigender-profitabilitaet-15921617",
-          "published": "2026-09-07T11:50:05+00:00",
-          "summary": "Salesforce hat sich mit einem Paukenschlag an der Wall Street zurückgemeldet. Nach den Ende August veröffentlichten Quartalszahlen sprang die Aktie zeitweise um 18 Prozent. Am 4. September ging das …"
+          "title": "S&P 500-Wert Evergy-Aktie: So viel Gewinn hätte ein Investment in Evergy von vor 5 Jahren eingefahren",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-wert-evergy-aktie-so-viel-gewinn-haette-ein-investment-in-evergy-von-vor-5-jahren-eingefahren-15921900",
+          "published": "2026-09-07T14:00:47+00:00",
+          "summary": "Am 07.09.2021 wurde das Evergy -Papier via Börse NAS gehandelt. Zum Handelsende standen die Anteile an diesem Tag bei 67,23 USD. Bei einem Investment von 100 USD in Evergy-Papiere vor 5 Jahren, wäre …"
         }
       ],
       "error": null
@@ -163,6 +163,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Treffen in Monaco: Rückversicherer warnen vor Naturkatastrophen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-monte-carlo-100.html",
+          "published": "2026-09-07T12:35:17+00:00",
+          "summary": "Überschwemmungen, Dürren, Waldbrände: Die Rückversicherer warnen vor mehr wetterbedingten Naturkatastrophen. Auf dem Branchentreffen in Monte Carlo müssen sie dennoch mit sinkenden Prämien rechnen. …"
+        },
         {
           "title": "Marktbericht: Viele Sorgen belasten Anleger zu Wochenbeginn",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
@@ -186,12 +192,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-luftfahrt-100.html",
           "published": "2026-09-02T12:48:13+00:00",
           "summary": "Die Luftfahrtbranche leidet besonders unter der Energiekrise - denn Kerosin ist ein zentraler Kostenfaktor. Der Billigflieger Ryanair ist das jüngste Opfer. Aber die Probleme der Branche sind …"
-        },
-        {
-          "title": "Marktbericht: Warum fällt der DAX?",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
-          "published": "2026-09-01T12:50:59+00:00",
-          "summary": "Mit deutlichen Verlusten startet der DAX in den September. Gerade hatte er noch auf Rekordkurs gelegen. Dafür sind heute gleich mehrere negative Faktoren zusammengekommen. Von Detlev Landmesser."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Rechtsstreit: Deutsche Bank erzielt Vergleich – Millionen-Klage vom Tisch",
-          "link": "https://www.wiwo.de/unternehmen/banken/deutsche-bank-erzielt-vergleich-mit-ex-mitarbeiter-millionen-klage-vom-tisch/100252583.html",
-          "published": "2026-09-07T11:24:00+00:00",
-          "summary": "Mit einem Vergleich zieht die Deutsche Bank einen Schlussstrich unter einen 152-Millionen-Euro-Streit mit einem Ex-Mitarbeiter."
+          "title": "Rente ab 63: Verdienter Ruhestand – oder nicht? Wie gut situiert Rentner ab 63 tatsächlich sind",
+          "link": "https://www.wiwo.de/politik/deutschland/rente-mit-63-abschaffen-so-viel-geld-haben-fruehrentner-wirklich/100252014.html",
+          "published": "2026-09-07T13:57:00+00:00",
+          "summary": "Sachsen-Anhalts geschlagener Ministerpräsident Schulze will die umstrittene Frührente ohne Abschläge erhalten. Denn die Menschen hätten eine niedrige Rente. Stimmt das?"
         },
         {
-          "title": "Künstliche Intelligenz: Soll Vertrauen stärken – TÜV plant KI-Zertifikat",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-soll-vertrauen-staerken-tuev-plant-ki-zertifikat/100252525.html",
-          "published": "2026-09-07T11:17:00+00:00",
-          "summary": "Ist das sicher, wenn ich der KI jetzt sensible Daten gebe? Sind die Antworten wirklich richtig? Bei diesen Fragen soll bald ein Programm des TÜVs weiterhelfen."
+          "title": "Landtagswahl in Sachsen-Anhalt: Die AfD gewinnt in der Mitte der Gesellschaft",
+          "link": "https://www.wiwo.de/politik/deutschland/afd-gewinnt-landtagswahlen-in-sachsen-anhalt-woher-die-afd-ihre-staerke-nimmt/100252512.html",
+          "published": "2026-09-07T13:45:00+00:00",
+          "summary": "Zur Wahl in Sachsen-Anhalt trauten die Menschen der rechtsextremen Partei bei Wirtschaft, Sozialem und Bildung am meisten zu – mehr als CDU und SPD."
         },
         {
-          "title": "Anschläge auf Stromleitungen: 21 Sprengsätze an Stromleitungen entdeckt und entschärft",
-          "link": "https://www.wiwo.de/unternehmen/energie/anschlaege-auf-stromleitungen-21-sprengsaetze-in-sachsen-entdeckt/100252553.html",
-          "published": "2026-09-07T11:06:00+00:00",
-          "summary": "Mehr als 21 Sprengsätze wurden an Hochspannungsleitungen in Sachsen entdeckt – die Polizei bittet um Hinweise. Ein 48-Jähriger wird wegen Sabotage am Stromnetz gesucht."
+          "title": "Solarstrom: Hamburger Solarpark-Entwickler Enerparc AG meldet Insolvenz an",
+          "link": "https://www.wiwo.de/unternehmen/energie/enerparc-ag-hamburger-solarpark-entwickler-meldet-insolvenz-an/100252591.html",
+          "published": "2026-09-07T13:42:42+00:00",
+          "summary": "Vor einem halben Jahr feierte Enerparc ein Milliarden-Finanzierungspaket. Jetzt übernimmt ein Insolvenzverwalter das Kommando. Was ist schiefgelaufen?"
         },
         {
-          "title": "Wirtschaft im Euroraum: Konjunktur-Zuversicht für Euroraum auf höchstem Stand seit Februar 2022",
-          "link": "https://www.wiwo.de/politik/konjunktur/wirtschaft-im-euroraum-konjunktur-zuversicht-fuer-euroraum-auf-hoechstem-stand-seit-februar-2022/100252528.html",
-          "published": "2026-09-07T10:53:26+00:00",
-          "summary": "Das Sentix-Barometer für den Euroraum steigt zum fünften Mal in Folge. Auch Deutschlands Konjunktur gewinnt überraschend an Zuversicht."
+          "title": "Wann kommt iOS 27?: Das müssen Sie zum bevorstehenden iPhone-Update wissen",
+          "link": "https://www.wiwo.de/unternehmen/it/wann-kommt-ios-27-release-neuerungen-und-kompatible-iphones/28675148.html",
+          "published": "2026-09-07T13:35:00+00:00",
+          "summary": "iOS 27 steht offenbar vor dem Release. Nutzer können sich auf zahlreiche Neuerungen freuen. Das müssen Sie zum neuen Apple-Update wissen."
         },
         {
-          "title": "Resilienz: Wie Unternehmen auf plötzliche Angriffe reagieren sollten",
-          "link": "https://www.wiwo.de/erfolg/management/angriffe-aufs-stromnetz-wie-unternehmen-auf-sabotage-reagieren/100252115.html",
-          "published": "2026-09-07T10:45:00+00:00",
-          "summary": "Die Attacken auf Umspannwerke stellen die Sicherheit von Firmen mit kritischer Infrastruktur in Frage. Viele sind schlecht vorbereitet. Wie es besser geht."
+          "title": "EU-Außenpolitik: EU baut Zusammenarbeit mit Grönland aus – eine Botschaft an Trump",
+          "link": "https://www.wiwo.de/politik/ausland/eu-baut-zusammenarbeit-mit-groenland-aus-eine-botschaft-an-donald-trump/100252637.html",
+          "published": "2026-09-07T13:16:00+00:00",
+          "summary": "Die EU will bis Ende 2027 weitere 200 Millionen Euro in Grönland investieren. Damit setzt sie auch ein Zeichen gegen anhaltende US-Kontrollansprüche."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "China testet Humanoide für den Häuserkampf, wie realistisch ist das?",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/automation/china-bereitet-humanoide-roboter-auf-militaerische-einsaetze-vor/",
+          "published": "2026-09-07T13:00:00+00:00",
+          "summary": "China bereitet humanoide Roboter auf militärische Einsätze vor. Warum zwei Beine dabei zugleich Vorteil und technisches Problem sind."
+        },
         {
           "title": "Die Skill-Falle: Warum Unternehmen nicht jede Kompetenz erfassen sollten",
           "link": "https://www.ingenieur.de/karriere/schluesselqualifikationen/skill-mapping-warum-unternehmen-nicht-jede-kompetenz-erfassen-sollten/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/werkstoffe/neues-verfahren-soll-die-herstellung-von-hitzeschilden-stark-beschleunigen/",
           "published": "2026-09-07T06:07:26+00:00",
           "summary": "FAST CAR² soll Carbon-Carbon für Hitzeschilde in Tagen statt Wochen verdichten – bei vergleichbarer Belastbarkeit, doch die Skalierung bleibt offen."
-        },
-        {
-          "title": "Die Zeit vergeht dann wie im Flug",
-          "link": "https://www.ingenieur.de/advertorial/die-zeit-vergeht-dann-wie-im-flug/",
-          "published": "2026-09-07T06:00:00+00:00",
-          "summary": "Der Wechsel an die Hochschule war für Prof. Dr. Henning Kalis ideal. Als Professor kann der leidenschaftliche Wissenschaftler seine eigene Forschung vorantreiben und gleichzeitig jungen Menschen die …"
         }
       ],
       "error": null
