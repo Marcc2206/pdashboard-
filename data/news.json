@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:09:02+00:00",
+  "generatedAt": "2026-09-07T04:09:00+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,10 +8,22 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Elon Musk gratuliert AfD zum Wahlsieg ++",
+          "title": "Gegenseitige Angriffe: Schiffsverkehr in Straße von Hormus eingebrochen",
+          "link": "https://www.tagesschau.de/ausland/asien/iran-strasse-von-hormus-100.html",
+          "published": "2026-09-07T03:27:09+00:00",
+          "summary": "Die USA und Iran greifen immer wieder Tanker in der Straße von Hormus an. Der Schiffsverkehr in der Meerenge ist auf dem niedrigsten Stand seit Mai. Iran plant außerdem die Einrichtung einer …"
+        },
+        {
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Stegner warnt SPD vor Infragestellen der Bundesregierung ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
-          "published": "2026-09-07T01:39:14+00:00",
+          "published": "2026-09-07T03:21:04+00:00",
           "summary": "Die CDU hat bei der Landtagswahl in Sachsen-Anhalt kein einziges Direktmandat gewonnen. Damit ist auch Sachsen-Anhalts CDU-Vorsitzender Sven Schulze im eigenen Wahlkreis gescheitert."
+        },
+        {
+          "title": "Nach der Wahl: Wie geht es weiter?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html",
+          "published": "2026-09-07T02:55:15+00:00",
+          "summary": "Die Wahl in Sachsen-Anhalt ist gelaufen, doch die Regierungsbildung dürfte kompliziert werden. Was sind die nächsten Schritte? Bis wann muss ein Ministerpräsident gewählt werden? Ein Überblick. Von …"
         },
         {
           "title": "Nach Wahlerfolg in Sachsen-Anhalt: Kann die AfD regieren - und will sie das?",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
           "published": "2026-09-07T01:14:02+00:00",
           "summary": "Bei der Landtagswahl in Sachsen-Anhalt ist die AfD stärkste Kraft geworden - mit einem Rekordergebnis. Das erklärte Ziel, allein regieren zu können, verfehlt sie aber. Nun könnte es auf das BSW …"
-        },
-        {
-          "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
-          "published": "2026-09-07T01:13:15+00:00",
-          "summary": "Die AfD feiert ihren Wahlsieg in Sachsen-Anhalt überschwänglich. Die Parteichefs Weidel und Chrupalla sehen in Spitzenkandidat Siegmund den nächsten Ministerpräsidenten. Die CDU lehnt eine Koalition …"
-        },
-        {
-          "title": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
-          "published": "2026-09-07T01:13:08+00:00",
-          "summary": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: „Gut gemacht!“: Musk gratuliert AfD zu Wahltriumph",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-gut-gemacht-musk-gratuliert-afd-zu-wahltriumph/100252039.html",
-          "published": "2026-09-07T01:53:00+00:00",
-          "summary": "BSW-Spitzenkandidat sieht „Schnittmengen“ mit AfD – Siegmund lehnt Angebot ab +++ CDU gewinnt kein einziges Direktmandat +++ Trump postet Bild von Hochrechnung +++ Der Newsblog."
+          "title": "Morning Briefing Podcast: Sachsen-Anhalt: Das Patt von Magdeburg / Raumfahrt: Isar Aerospace schreibt Geschichte",
+          "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-sachsen-anhalt-das-patt-von-magdeburg---raumfahrt-isar-aerospace-schreibt-geschichte/100252464.html",
+          "published": "2026-09-07T04:03:17+00:00",
+          "summary": "Sachsen-Anhalt wählt sich ein historisches Ergebnis zusammen – und zeigt das Scheitern der politischen Mitte: Themen, Reformen und Kanzler sind die falschen."
         },
         {
-          "title": "Sachsen-Anhalt: Wie gefährlich wird der AfD-Kantersieg für Merz?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-wie-gefaehrlich-wird-der-afd-kantersieg-fuer-merz/100252431.html",
-          "published": "2026-09-07T01:46:30+00:00",
-          "summary": "Die CDU halbiert ihr Wahlergebnis, die AfD hat ihr Ergebnis mehr als verdoppelt - und könnte erstmals in einem Bundesland an die Macht kommen. Kanzler Merz stehen schwierige Wochen bevor."
+          "title": "Klima und Luft: Hitzewellen und Brände verschärfen Luftverschmutzung",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/klima-und-luft-hitzewellen-und-braende-verschaerfen-luftverschmutzung/100252465.html",
+          "published": "2026-09-07T04:00:08+00:00",
+          "summary": "Toxischer Rauch, steigende Ozonwerte: Hitzewellen und Brände sind ein Problem für die Luftqualität – auch fern der Brandherde."
         },
         {
-          "title": "Landtagswahl: AfD siegt in Sachsen-Anhalt – Debakel für die CDU",
-          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-afd-siegt-in-sachsen-anhalt-debakel-fuer-die-cdu/100252440.html",
-          "published": "2026-09-07T01:42:33+00:00",
-          "summary": "Sachsen-Anhalt straft die CDU ab – und beschert der AfD einen Erdrutschsieg. Doch kann die im Land als rechtsextremistisch eingestufte Partei ohne absolute Mehrheit regieren?"
+          "title": "Fachkräfte: Wer berät die Kunden, wenn 39.000 Verkäufer fehlen?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/fachkraefte-wer-beraet-die-kunden-wenn-39000-verkaeufer-fehlen/100252466.html",
+          "published": "2026-09-07T04:00:06+00:00",
+          "summary": "In keiner anderen Berufsgruppe könnten 2029 so viele Fachkräfte fehlen wie im Verkauf. Was bedeutet das für den kriselnden Einzelhandel – und wer unterstützt künftig Kunden in Geschäften?"
         },
         {
-          "title": "Wahl: Arbeitgeber warnen nach Wahl vor „Klima der Abschottung“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung/100252444.html",
-          "published": "2026-09-07T01:30:08+00:00",
-          "summary": "Die AfD hat die Wahl in Sachsen-Anhalt gewonnen, die CDU erlebt ein Debakel. Das Ergebnis besorgt Wirtschaftsverbände."
+          "title": "Handelsblatt-Autotest: Porsche Cayenne als Coupé – so brutal fühlen sich 1100 PS an",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/porsche-cayenne-turbo-suv-mit-mehr-als-1100-ps-lohnt-sich-das/100247742.html",
+          "published": "2026-09-07T03:51:00+00:00",
+          "summary": "Der neue Cayenne Turbo ist mehr Sportwagen als SUV. Im Test zeigt das Modell, warum es vielleicht nicht vernünftig, aber ein Erlebnis ist."
         },
         {
-          "title": "Landtagswahl: AfD verpasst absolute Mehrheit knapp, BSW gelingt Einzug ins Landesparlament",
-          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-afd-verpasst-absolute-mehrheit-knapp-bsw-gelingt-einzug-ins-landesparlament/100252396.html",
-          "published": "2026-09-07T01:17:20+00:00",
-          "summary": "Die AfD wird nach der Wahl in Sachsen-Anhalt klar stärkste Kraft, allerdings reicht es nicht zum Regieren. Zum Schlüsselfaktor könnte das BSW werden."
+          "title": "Morning Briefing: Drei Dinge, die Sie über die Landtagswahl wissen sollten",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-drei-dinge-die-sie-ueber-die-landtagswahl-wissen-sollten/100252421.html",
+          "published": "2026-09-07T03:50:08+00:00",
+          "summary": "Sachsen-Anhalt wählt sich ein historisches Ergebnis zusammen – und zeigt das Scheitern der politischen Mitte: Themen, Reformen und Kanzler sind die falschen."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Sicherheit im KI-Zeitalter: Bank of America nennt ihre Favoriten unter den Cybersecurity-Aktien",
-          "link": "https://www.finanzen.net/nachricht/aktien/sicherheit-im-ki-zeitalter-bank-of-america-nennt-ihre-favoriten-unter-den-cybersecurity-aktien-15920802",
-          "published": "2026-09-07T01:55:11+00:00",
-          "summary": "Künstliche Intelligenz schafft neue Angriffsmöglichkeiten und erhöht zugleich den Bedarf an moderner IT-Sicherheit. Die BofA sieht darin einen Wachstumstreiber für Cybersecurity-Anbieter."
+          "title": "Henkel-Aktie: Neue Übernahmen sollen das Wachstum spürbar ankurbeln und Portfolio ergänzen",
+          "link": "https://www.finanzen.net/nachricht/aktien/unternehmenskaeufe-henkel-aktie-neue-uebernahmen-sollen-das-wachstum-spuerbar-ankurbeln-und-portfolio-ergaenzen-15920488",
+          "published": "2026-09-07T03:59:00+00:00",
+          "summary": "\"Wir haben in den vergangenen Monaten Unternehmenskäufe im Wert von zusammen rund fünf Milliarden Euro vereinbart oder abgeschlossen\", sagte Vorstandschef Carsten Knobel der \"Rheinischen Post\" …"
         },
         {
-          "title": "US-Dividendenaristokraten wie Coca-Cola: Warum sie ihren Königstitel nicht aufgeben",
-          "link": "https://www.finanzen.net/nachricht/aktien/us-dividendenaristokraten-wie-coca-cola-warum-sie-ihren-koenigstitel-nicht-aufgeben-15920801",
-          "published": "2026-09-07T01:52:54+00:00",
-          "summary": "Drei US-Konzerne erhöhen ihre Dividende seit Jahrzehnten ununterbrochen, doch für deutsche Anleger entscheidet oft ein Steuerformular über die tatsächliche Rendite."
+          "title": "ROUNDUP: USA hoffen auf direkte Gespräche zwischen Moskau und Kiew",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-usa-hoffen-auf-direkte-gespraeche-zwischen-moskau-und-kiew-15920876",
+          "published": "2026-09-07T03:54:40+00:00",
+          "summary": "KIEW/MOSKAU (dpa-AFX) - Auch nach den Gesprächen der US-Unterhändler Steve Witkoff und Jared Kushner in Moskau und Kiew ist weiterhin unklar, welche Vorschläge für eine Friedenslösung sie den …"
         },
         {
-          "title": "Trotz Marktdruck im Aufwind: Sieben Wachstumswerte wie Eli Lilly und Zebra überzeugen",
-          "link": "https://www.finanzen.net/nachricht/aktien/trotz-marktdruck-im-aufwind-sieben-wachstumswerte-wie-eli-lilly-und-zebra-ueberzeugen-15920800",
-          "published": "2026-09-07T01:50:25+00:00",
-          "summary": "In einem Markt, der jede Schwäche sofort abstraft, hat Wolfe Research sieben Wachstumswerte gefunden, die genau das Gegenteil schaffen."
+          "title": "ROUNDUP 2: AfD siegt in Sachsen-Anhalt - Debakel für die CDU",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-afd-siegt-in-sachsen-anhalt-debakel-fuer-die-cdu-15920875",
+          "published": "2026-09-07T03:54:39+00:00",
+          "summary": "(Neu: weitere Details)MAGDEBURG (dpa-AFX) - Die AfD mit ihrem Spitzenkandidaten Ulrich Siegmund hat die Landtagswahl in Sachsen-Anhalt mit großem Vorsprung gewonnen, die absolute Mehrheit aber …"
         },
         {
-          "title": "KI-Aktien im Blick: Warum JPMorgan die Billionen-Investitionen für tragfähig hält",
-          "link": "https://www.finanzen.net/nachricht/aktien/rechenzentren-ki-aktien-im-blick-warum-jpmorgan-die-billionen-investitionen-fuer-tragfaehig-haelt-00-15910055",
-          "published": "2026-09-07T01:45:12+00:00",
-          "summary": "JPMorgan hebt Prognose für globale KI-Investitionen bis 2030 auf 5,5 Billionen Dollar an • Kapitalausgaben der größten US-Hyperscaler sollen 2026 deutlich zulegen • Fremdkapitalfinanzierung von …"
+          "title": "ROUNDUP 2: Fünf Tote bei Unfall mit Amazon-Frachtflugzeug in Miami",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-fuenf-tote-bei-unfall-mit-amazon-frachtflugzeug-in-miami-15920874",
+          "published": "2026-09-07T03:54:38+00:00",
+          "summary": "(Neu: weitere Details)MIAMI (dpa-AFX) - Bei einem Unfall eines Amazon-Frachtflugzeugs ( Amazon ) am Flughafen Miami im US-Bundesstaat Florida sind mindestens fünf Menschen ums Leben gekommen. Fünf …"
         },
         {
-          "title": "Auf dem Verkaufszettel: Diese Aktien empfehlen Experten zu verkaufen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verkaufsempfehlungen-kw-36-auf-dem-verkaufszettel-diese-aktien-empfehlen-experten-zu-verkaufen-15916212",
-          "published": "2026-09-07T01:42:40+00:00",
-          "summary": "In eigener Sache - Tipp: Handeln Sie Ihre Aktien jetzt für 0,00 € bei finanzen.net zero!"
+          "title": "Munich Re-Aktie: Schäden durch Hagel und Hitze nehmen zu",
+          "link": "https://www.finanzen.net/nachricht/aktien/naturereignisse-munich-re-aktie-schaeden-durch-hagel-und-hitze-nehmen-zu-15920511",
+          "published": "2026-09-07T03:52:00+00:00",
+          "summary": "Inzwischen führten solche Ereignisse insgesamt zu Schadenniveaus, die bislang vor allem mit Großereignissen assoziiert wurden, teilte der Dax -Konzern ( DAX ) beim traditionellen Branchentreffen ..."
         }
       ],
       "error": null
