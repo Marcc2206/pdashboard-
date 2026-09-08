@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T22:09:20+00:00",
+  "generatedAt": "2026-09-08T00:14:49+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645010.html",
+          "published": "2026-09-07T23:51:54+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80820.html",
+          "published": "2026-09-07T23:28:05+00:00",
+          "summary": ""
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12848.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1644982.html",
           "published": "2026-09-07T20:37:42+00:00",
           "summary": ""
-        },
-        {
-          "title": "Alexander Prinz, Autor und Youtuber, zum Ergebnis dieser Landtagswahl in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1644978.html",
-          "published": "2026-09-07T20:33:50+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Nach der Landtagswahl in Sachsen-Anhalt: Wie ist die Stimmung im Land?",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1644972.html",
-          "published": "2026-09-07T20:25:45+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "+++ USA +++: Trump zeigt Landkarte – Grönland und Kanada als Teil der USA?",
+          "link": "https://www.handelsblatt.com/politik/international/usa-trump-zeigt-landkarte-groenland-und-kanada-als-teil-der-usa/29669594.html",
+          "published": "2026-09-07T22:14:00+00:00",
+          "summary": "Amazon-Frachtjet-Unfall: Ermittler sichern Flugschreiber +++ Mindestens fünf Tote +++ Trump will Verkauf von Bombardier-Flugzeugen in den USA verbieten +++ Der Newsblog."
+        },
+        {
+          "title": "Versorgungssicherheit: „Mächtiger Erpressungshebel“: Abhängigkeit der EU von LNG aus Russland und den USA steigt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gas-importe-abhaengigkeit-der-eu-von-lng-aus-russland-und-den-usa-steigt/100252688.html",
+          "published": "2026-09-07T22:04:32+00:00",
+          "summary": "Der Anteil der LNG-Importe der EU aus Russland und den USA ist zuletzt gestiegen. Fachleute warnen vor der wachsenden Abhängigkeit von wenigen Lieferanten."
+        },
         {
           "title": "Nach Wahl in Sachsen-Anhalt: Tausende protestieren gegen die AfD",
           "link": "https://www.handelsblatt.com/politik/deutschland/nach-wahl-in-sachsen-anhalt-tausende-protestieren-gegen-die-afd/100252713.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-mueller-will-neuer-cdu-chef-in-sachsen-anhalt-werden/100252703.html",
           "published": "2026-09-07T19:42:00+00:00",
           "summary": "Nach dem schlechten Abschneiden bei der Landtagswahl in Sachsen-Anhalt zieht die CDU erste Konsequenzen. Im Herbst soll es einen Parteitag geben. Ein Bundestagsabgeordneter will kandidieren."
-        },
-        {
-          "title": "CDU in Sachsen-Anhalt: Müller geht nach Merz-Kritik in die Offensive",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-in-sachsen-anhalt-mueller-geht-nach-merz-kritik-in-die-offensive/100252636.html",
-          "published": "2026-09-07T19:37:20+00:00",
-          "summary": "Sepp Müller will die CDU Sachsen-Anhalt neu aufstellen – mit klarer Kante gegen Extreme. Wie er Merz’ Kritik begegnet, und warum er jetzt für den Landesvorsitz kandidiert."
-        },
-        {
-          "title": "Nach der Landtagswahl: Demonstrative Einigkeit: Merz bei den SPD-Seeheimern",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-landtagswahl-demonstrative-einigkeit-merz-bei-den-spd-seeheimern/100252709.html",
-          "published": "2026-09-07T19:25:12+00:00",
-          "summary": "Am Tag nach dem Wahl-Schock stehen Kanzler und Vizekanzler gemeinsam auf der Bühne. Sie bemühen sich, mit einer Stimme zu sprechen."
         }
       ],
       "error": null
