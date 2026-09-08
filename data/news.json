@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:08:54+00:00",
+  "generatedAt": "2026-09-08T22:09:15+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
-          "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
-          "published": "2026-09-08T20:03:18+00:00",
-          "summary": "Dass Israels Premier Netanjahu Warnungen vor dem Hamas-Überfall am 7. Oktober 2023 ignoriert haben soll, war bereits bekannt. Nun erreicht der Vorwurf durch eine brisante Enthüllung eine neue …"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12842.html",
+          "published": "2026-09-08T21:47:22+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Basketball-WM der Frauen: Deutschland nach Sieg gegen Südkorea im Viertelfinale",
+          "link": "https://www.sportschau.de/basketball/nationalmannschaft/basketballerinnen-ziehen-ins-wm-viertelfinale-ein,basketball-wm-deutschland-suedkorea-100.html",
+          "published": "2026-09-08T21:46:02+00:00",
+          "summary": "Auch die Hürde Südkorea haben Deutschlands Basketballerinnen souverän gemeistert. Mit dem Einzug ins Viertelfinale rückt eine Medaille bei der Heim-WM näher."
+        },
+        {
+          "title": "Champions League: Dortmund schlägt Villarreal zum Auftakt mit 3:9",
+          "link": "https://www.sportschau.de/fussball/championsleague/bvb-verdaut-karetsas-schock-und-schlaegt-villarreal,cl-bvb-villareal-102.html",
+          "published": "2026-09-08T21:32:03+00:00",
+          "summary": "Borussia Dortmund hat zum Auftakt der Königsklasse gegen Villarreal gewonnen, musste im ersten Durchgang aber einen Schockmoment verdauen: Toptalent Karetsas musste nach Kreislaufproblemen …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645616.html",
-          "published": "2026-09-08T19:35:45+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645650.html",
+          "published": "2026-09-08T21:28:23+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1645594.html",
-          "published": "2026-09-08T18:38:06+00:00",
-          "summary": "Deutschland schneidet bei Bildungsstudie PISA so schlecht wie nie zuvor ab, Auftakt der Haushaltswoche im Bundestag, Landes-CDU stellt sich nach Wahlschlappe in Sachsen-Anhalt neu auf, Experten …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12238.html",
-          "published": "2026-09-08T18:29:09+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-80806.html",
-          "published": "2026-09-08T18:27:03+00:00",
-          "summary": ""
+          "title": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+          "published": "2026-09-08T21:01:22+00:00",
+          "summary": "SPD-Chef Klingbeil kündigt in den tagesthemen an, Politik besser erklären zu wollen. Der geschäftsführende Ministerpräsident von Sachsen-Anhalt, Schulze, ist als neuer Chef der CDU-Landtagsfraktion …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Kanzler: Publizist Friedman: Merz als Kanzler ungeeignet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/kanzler-publizist-friedman-merz-als-kanzler-ungeeignet/100253047.html",
+          "published": "2026-09-08T22:01:04+00:00",
+          "summary": "Anfang 2025 war der streitbare Publizist Friedman aus der CDU ausgetreten. Nun teilt er gegen Kanzler Merz aus."
+        },
+        {
+          "title": "Ukraine-Krieg: Tote und Verletzte bei russischen Angriffen",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-tote-und-verletzte-bei-russischen-angriffen/100253041.html",
+          "published": "2026-09-08T20:41:43+00:00",
+          "summary": "Die russischen Streitkräfte setzen die Ukraine weiter unter Druck. Immer neue Angriffe gegen zivile Ziele fordern zahlreiche Opfer."
+        },
+        {
           "title": "+++ Iran-Krieg +++: Westjordanland: Großbritannien verbietet Handel mit Waren aus israelischen Siedlungen",
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-grossbritannien-sanktioniert-siedlungen-im-westjordanland/100136895.html",
-          "published": "2026-09-08T19:41:00+00:00",
-          "summary": "Deutschland schließt sich Einfuhrverbot israelischer Waren nicht an +++ Israel schließt wegen Sanktionen britisches Konsulat +++ Britische Sanktionen könnten Gegenmaßnahmen auslösen +++ Der Newsblog."
+          "published": "2026-09-08T20:29:00+00:00",
+          "summary": "USA verlieren Unterwasserdrohne nahe der Straße von Hormus +++ Deutschland schließt sich Einfuhrverbot israelischer Waren nicht an +++ Israel schließt wegen Sanktionen britisches Konsulat +++ Der …"
+        },
+        {
+          "title": "Sachsen-Anhalt: Söder gegen AfD‑Verbot – aber für härtere Gangart",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-soeder-gegen-afdverbot-aber-fuer-haertere-gangart/100253039.html",
+          "published": "2026-09-08T20:25:25+00:00",
+          "summary": "Nach dem AfD-Wahlsieg in Sachsen-Anhalt wird der Ruf nach einem Verbot der Partei wieder lauter. CSU-Chef Söder lehnt diese Forderung ab. Stattdessen bemüht er eine Lehre aus dem Fußball."
         },
         {
           "title": "Nahost: „Ethnische Säuberungen“: Sanktionen gegen Siedler lösen Streit zwischen Großbritannien und Israel aus",
           "link": "https://www.handelsblatt.com/politik/international/nahost-grossbritannien-verkuendet-sanktionen-gegen-israelische-siedler/100253012.html",
           "published": "2026-09-08T19:35:22+00:00",
           "summary": "Die britische Regierung nennt die Besetzung von Teilen des Westjordanlandes rechtswidrig und kündigt Strafmaßnahmen an. Aus Jerusalem folgt eine scharfe Reaktion."
-        },
-        {
-          "title": "Flugchaos: Störung verursacht Chaos an Flughäfen in Großbritannien",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/flugchaos-stoerung-verursacht-chaos-an-flughaefen-in-grossbritannien/100253032.html",
-          "published": "2026-09-08T18:49:42+00:00",
-          "summary": "Viele Maschinen müssen wegen einer Störung in Großbritannien vorerst am Boden bleiben. Die Auswirkungen sind auch in Deutschland zu spüren."
-        },
-        {
-          "title": "Brisante Berichte: Warnung vor Hamas-Überfall ignoriert? - Netanjahu dementiert",
-          "link": "https://www.handelsblatt.com/politik/international/brisante-berichte-warnung-vor-hamas-ueberfall-ignoriert-netanjahu-dementiert/100253030.html",
-          "published": "2026-09-08T18:35:37+00:00",
-          "summary": "Lokalen Medien zufolge soll Israels Ministerpräsident vor dem Hamas-Massaker 2023 eine Warnung aus Abu Dhabi erhalten und diese ignoriert haben. Die Emirate wollen sich nicht zu den Berichten äußern."
-        },
-        {
-          "title": "Nach der Landtagswahl: Schulze will Verzicht Sachsen-Anhalts auf MPK-Vorsitz",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-landtagswahl-schulze-will-verzicht-sachsen-anhalts-auf-mpk-vorsitz/100253014.html",
-          "published": "2026-09-08T18:21:46+00:00",
-          "summary": "Ab Anfang Oktober soll Sachsen-Anhalt turnusgemäß den Vorsitz der Ministerpräsidentenkonferenz übernehmen. Der noch amtierende Ministerpräsident will darauf verzichten."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Software-Aktien unter Druck: Hoher Ölpreis macht Wall Street zu schaffen",
+          "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-macht-Wall-Street-zu-schaffen-id31284836.html",
+          "published": "2026-09-08T20:42:16+00:00",
+          "summary": "Die nächste Zinsentscheidung der Fed rückt näher und die US-Anleger rechnen mehrheitlich mit einer Erhöhung. Hohe Ölpreise infolge des Iran-Krieges und KI-Ängste in der Software-Branche drücken …"
+        },
         {
           "title": "Unternehmen bestreitet Vorwürfe: Dating-App Grindr zahlt nach Datenverstoß Millionensumme",
           "link": "https://www.n-tv.de/wirtschaft/Daten-weitergegeben-Dating-App-muss-Millionen-zahlen-id31284750.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/boerse/Konstruktives-Kraeftesammeln-id30347915.html",
           "published": "2026-09-08T13:10:00+00:00",
           "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den Nasdaq-100."
-        },
-        {
-          "title": "\"Klares Alarmsignal\": Maschinenbauer verlagern Entwicklung immer mehr ins Ausland",
-          "link": "https://www.n-tv.de/wirtschaft/Maschinenbauer-verlagern-Entwicklung-immer-mehr-ins-Ausland-id31281626.html",
-          "published": "2026-09-08T10:33:26+00:00",
-          "summary": "Vier von zehn Maschinenbau-Unternehmen forschen und entwickeln bereits außerhalb Deutschlands - und viele von ihnen wollen ihre Aktivitäten dort ausbauen. Der VDMA schlägt deshalb Alarm und …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Wiederholt sich die Japan-Aktienrally von 2023? Das sagt Bank of America",
-          "link": "https://www.finanzen.net/nachricht/aktien/rueckkauf-wiederholt-sich-die-japan-aktienrally-von-2023-das-sagt-bank-of-america-00-15914281",
-          "published": "2026-09-08T19:51:00+00:00",
-          "summary": "US-Finanzministerium verdoppelt Rückkaufobergrenze für langfristige Staatsanleihen • Bank of America zieht in einem Strategiebericht Parallelen zur sogenannten Fed-Pivot-Rally japanischer Aktien von …"
-        },
-        {
-          "title": "Iranische Medien: Explosionen auf Insel Charg und nahe Dschask",
-          "link": "https://www.finanzen.net/nachricht/aktien/iranische-medien-explosionen-auf-insel-charg-und-nahe-dschask-15924363",
-          "published": "2026-09-08T19:48:39+00:00",
-          "summary": "TEHERAN (dpa-AFX) - Iranische Medien haben mehrere Explosionen auf der Insel Charg im Persischen Golf sowie nahe der Hafenstadt Dschask an der Straße von Hormus gemeldet. Laut der regierungsnahen …"
+          "title": "Micron-Aktie im Fokus: KI-Boom zwingt Chip-Riesen zum Führungsumbau",
+          "link": "https://www.finanzen.net/nachricht/aktien/personalie-micron-aktie-im-fokus-ki-boom-zwingt-chip-riesen-zum-fuehrungsumbau-00-15911587",
+          "published": "2026-09-08T21:50:00+00:00",
+          "summary": "Micron beruft Manish Bhatia zum President und Chief Operating Officer • Scott DeBoer wird zum President und Chief Technology and Products Officer ernannt • Sumit Sadana wechselt als Senior Advisor an …"
         },
         {
           "title": "KI-Aktien im Blick: Tesla- und SpaceX-CEO Musk sieht KI bis Ende 2027 bei digitalen Aufgaben vor Menschen",
           "link": "https://www.finanzen.net/nachricht/aktien/ki-prognose-ki-aktien-im-blick-tesla-und-spacex-ceo-musk-sieht-ki-bis-ende-2027-bei-digitalen-aufgaben-vor-menschen-00-15916175",
-          "published": "2026-09-08T19:42:00+00:00",
+          "published": "2026-09-08T21:46:00+00:00",
           "summary": "Elon Musk erwartet übermenschliche KI-Fähigkeiten bei digitalen Aufgaben bis Ende 2027 • Besonders im Hacking könnten KI-Systeme menschliche Sicherheitsexperten übertreffen • Neue Sicherheitsvorfälle …"
         },
         {
-          "title": "Micron-Aktie im Fokus: KI-Boom zwingt Chip-Riesen zum Führungsumbau",
-          "link": "https://www.finanzen.net/nachricht/aktien/personalie-micron-aktie-im-fokus-ki-boom-zwingt-chip-riesen-zum-fuehrungsumbau-00-15911587",
-          "published": "2026-09-08T19:35:00+00:00",
-          "summary": "Micron beruft Manish Bhatia zum President und Chief Operating Officer • Scott DeBoer wird zum President und Chief Technology and Products Officer ernannt • Sumit Sadana wechselt als Senior Advisor an …"
+          "title": "BVB siegt gegen Villarreal und sorgt sich um Karetsas",
+          "link": "https://www.finanzen.net/nachricht/aktien/bvb-siegt-gegen-villarreal-und-sorgt-sich-um-karetsas-15924405",
+          "published": "2026-09-08T21:06:38+00:00",
+          "summary": "DORTMUND (dpa-AFX) - Sieg, aber auch Sorgen: Borussia Dortmund ( BVB (Borussia Dortmund) ) ist mit einem Erfolg gegen den FC Villarreal in die Champions League gestartet. Überschattet wurde das 3:2 …"
         },
         {
-          "title": "Aktien im Fokus: Syngenta und Amoéba schliessen Vertriebsdeal für Biofungizid",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-im-fokus-syngenta-und-amoéba-schliessen-vertriebsdeal-fuer-biofungizid-15924358",
-          "published": "2026-09-08T19:34:00+00:00",
-          "summary": "Der Pflanzenschutz- und Saatguthersteller Syngenta und das französische Greentech-Unternehmen Amoéba haben eine exklusive Liefer- und Vertriebsvereinbarung für ein neuartiges Biofungizid (AXP20) …"
+          "title": "ROUNDUP/Iranische Medien: Mehrere Öltanker angegriffen",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-iranische-medien-mehrere-oeltanker-angegriffen-15924399",
+          "published": "2026-09-08T20:56:39+00:00",
+          "summary": "TEHERAN (dpa-AFX) - Iranische Medien haben mehrere Explosionen nahe der Insel Charg im Persischen Golf sowie vor der Hafenstadt Dschask an der Straße von Hormus gemeldet. Demnach sind mehrere …"
+        },
+        {
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-08T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
         }
       ],
       "error": null
