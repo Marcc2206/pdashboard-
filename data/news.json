@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:09:44+00:00",
+  "generatedAt": "2026-09-08T12:12:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Christoph Mestmacher, ARD Berlin, mit Details zur Haushaltswoche",
-          "link": "https://www.tagesschau.de/video/video-1645202.html",
-          "published": "2026-09-08T10:02:28+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80816.html",
+          "published": "2026-09-08T12:09:43+00:00",
           "summary": ""
         },
         {
-          "title": "Liveblog zu Sachsen-Anhalt: ++ Rhein kritisiert Brandmauer-Begriff ++",
+          "title": "Liveblog zu Sachsen-Anhalt: ++ AfD will alle Parteien zu Sondierungen einladen ++",
           "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
-          "published": "2026-09-08T10:00:33+00:00",
-          "summary": "Der CDU-Ministerpräsident Rhein sieht den Begriff der Brandmauer kritisch und fordert mehr Offenheit gegenüber AfD-Wählern. In Sachsen-Anhalt rechnet die CDU nicht mit Überläufern zur AfD."
+          "published": "2026-09-08T11:59:46+00:00",
+          "summary": "Die AfD in Sachsen-Anhalt hat angekündigt, alle Parteien des neuen Landtages zu Gesprächen einzuladen. Eine Koalition mit der AfD haben sie alle bereits ausgeschlossen. Hessens CDU-Ministerpräsident …"
         },
         {
-          "title": "EU-Rechnungshof: Defizite bei Bekämpfung von illegalem Tabakhandel",
-          "link": "https://www.tagesschau.de/investigativ/report-mainz/eu-rechnungshof-zigaretten-100.html",
-          "published": "2026-09-08T10:00:07+00:00",
-          "summary": "Der illegale Tabakhandel und die illegale Produktion von Zigaretten werden zu einem immer größeren Problem für die EU. Zu diesem Ergebnis kommt der Europäische Rechnungshof in einem Sonderbericht …"
+          "title": "Mindesten 73 Verletzte bei Angriffen der Huthi-Miliz auf Saudi-Arabien",
+          "link": "https://www.tagesschau.de/ausland/asien/huthi-angriff-saudi-arabien-100.html",
+          "published": "2026-09-08T11:51:39+00:00",
+          "summary": "Die Huthi-Miliz hat mehrere Ziele in Saudi-Arabien angegriffen. Mehr als 70 Menschen wurden laut örtlichen Behörden verletzt. Das saudisch angeführte Militärbündnis spricht von einer \"gefährlichen …"
         },
         {
-          "title": "Wahl Sachsen-Anhalt: CDU vor Neustart nach historischem Debakel",
-          "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/neuwahl-landesvorstand-102,cdu-fuehrung-wahlniederlage-sonderparteitag-100.html",
-          "published": "2026-09-08T09:50:23+00:00",
-          "summary": "Die CDU Sachsen-Anhalt zieht Konsequenzen aus ihrem historischen Wahldebakel. Die Mitglieder des Landesvorstands stellen ihre Ämter zur Verfügung. Offen ist, wie es mit Ministerpräsident Sven Schulze …"
+          "title": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
+          "link": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
+          "published": "2026-09-08T11:20:43+00:00",
+          "summary": "Die Polizei hat in der Nähe eines Kraftwerks bei Aachen den mutmaßlichen Strom-Saboteur gefasst. Der 48-Jährige soll bundesweit Anschläge auf das Stromnetz verübt haben. Die Bundesregierung spricht …"
         },
         {
-          "title": "Landtagswahl Sachsen-Anhalt: BSW sieht wenig Gemeinsamkeiten mit der AfD",
-          "link": "https://www.tagesschau.de/inland/sachsen-anhalt-bsw-regierungsbildung-100.html",
-          "published": "2026-09-08T09:37:08+00:00",
-          "summary": "Wird das Bündnis Sahra Wagenknecht der AfD in Sachsen-Anhalt zur Mehrheit im Landtag verhelfen? Bisher plädiert das BSW weiter für einen \"überparteilichen Ministerpräsidenten\" - und geht inhaltlich …"
+          "title": "Strafverfahren gegen Sänger Xavier Naidoo",
+          "link": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html",
+          "published": "2026-09-08T11:04:00+00:00",
+          "summary": "Xavier Naidoo muss sich vor Gericht wegen des Vorwurfs der Volksverhetzung und Beleidigung verantworten. Das Landgericht Mannheim hat eine entsprechende Anklage der Staatsanwaltschaft von 2023 …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ukraine-Krieg: Selenskyj: Es gibt „anständige Ideen“ bei US-Friedensvorschlägen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-08T10:00:04+00:00",
-          "summary": "Russland will Prämien von straffälligen Soldaten zurückfordern +++ Großbritannien sagt Luftabwehrpaket zu +++ Russland greift Kiew an – Polen sichert seinen Luftraum +++ Der Newsblog."
+          "title": "Nach Sachsen-Anhalt-Wahl: Wüst fordert Bund-Länder-Arbeitsgruppe zur Prüfung der AfD",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-sachsen-anhalt-wahl-wuest-fordert-arbeitsgruppe-zur-pruefung-der-afd/100252886.html",
+          "published": "2026-09-08T12:02:45+00:00",
+          "summary": "Der Ministerpräsident von NRW, Hendrik Wüst, fordert eine Arbeitsgruppe, um den verfassungsrechtlichen Umgang mit der AfD zu prüfen. Das müsse nicht automatisch zu einem Verbotsverfahren führen."
         },
         {
-          "title": "Rüstung: Leonardo-Chef zu möglicher deutscher Beteiligung an GCAP-Kampfjet: „Der richtige Zeitpunkt ist jetzt“",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-spielraum-fuer-deutsche-beteiligung-am-gcap-kampfjet-ist-da/100251133.html",
-          "published": "2026-09-08T10:00:00+00:00",
-          "summary": "Im Interview erklärt Lorenzo Mariani, welche Chancen die deutsche Industrie bei dem Großprojekt hat und wie es um den europäischen Schutzschirm „Michelangelo Dome“ steht."
+          "title": "Bundestag: Klingbeil warnt vor Ausgrenzung und Rassismus",
+          "link": "https://www.handelsblatt.com/video/politik/bundestag-klingbeil-warnt-vor-ausgrenzung-und-rassismus/100252932.html",
+          "published": "2026-09-08T11:58:16+00:00",
+          "summary": "Nach dem Wahlsieg der AfD in Sachsen-Anhalt hat sich Finanzminister Klingbeil (SPD) im Bundestag klar positioniert. Mit Blick auf 65 Jahre Anwerbeabkommen mit der Türkei betonte er auch die …"
         },
         {
-          "title": "Drohender Jobverlust: Vorsicht, Falle! Wie Führungskräfte ihre schleichende Degradierung erkennen – und gegensteuern",
-          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-vier-warnzeichen-an-denen-sie-eine-drohende-kuendigung-erkennen/100173417.html",
-          "published": "2026-09-08T09:58:00+00:00",
-          "summary": "Wenn Arbeitgeber unliebsame Manager ohne hohe Abfindungen loswerden wollen, greifen sie oft zu Tricks. Die wichtigsten Warnsignale und juristischen Gegenmaßnahmen."
+          "title": "Versorgungssicherheit: „Mächtiger Erpressungshebel“: Abhängigkeit der EU von LNG aus Russland und den USA steigt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gas-importe-abhaengigkeit-der-eu-von-lng-aus-russland-und-den-usa-steigt-01/100252688.html",
+          "published": "2026-09-08T11:57:00+00:00",
+          "summary": "Der Anteil der LNG-Importe der EU aus Russland und den USA ist zuletzt gestiegen. Fachleute warnen vor der wachsenden Abhängigkeit von wenigen Lieferanten."
         },
         {
-          "title": "Außenhandel: Deutsche Exporte sinken überraschend – Erfolgsserie gerissen",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/aussenhandel-deutsche-exporte-sinken-ueberraschend-erfolgsserie-gerissen/100252787.html",
-          "published": "2026-09-08T09:57:15+00:00",
-          "summary": "Die deutsche Exportwirtschaft hat einen schwierigen Juli hinter sich. Vor allem das China-Geschäft hat sich schwach entwickelt. Doch die Exporteure bleiben optimistisch."
+          "title": "Was Schüler können: Neuer Pisa-Schock – Was hilft für bessere Bildung?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/was-schueler-koennen-neuer-pisa-schock-was-hilft-fuer-bessere-bildung/100252815.html",
+          "published": "2026-09-08T11:52:30+00:00",
+          "summary": "Die ersten Pisa-Ergebnisse vom Jahr 2000 stürzten die Republik in Selbstzweifel. Heute sind die Testwerte aus Deutschland noch schlechter als damals. Aber: „Der Negativtrend ist kein Naturgesetz“."
         },
         {
-          "title": "Nahostkonflikt: Berichte: London sanktioniert Siedlungen im Westjordanland",
-          "link": "https://www.handelsblatt.com/politik/international/nahostkonflikt-berichte-london-sanktioniert-siedlungen-im-westjordanland/100252823.html",
-          "published": "2026-09-08T09:54:47+00:00",
-          "summary": "Die britische Labour-Regierung unter Premier Andy Burnham schlägt laut Medien einen härteren Kurs gegenüber Israels Siedlungspolitik ein. Aus Israel und den USA kommt bereits scharfe Kritik."
+          "title": "Altkanzlerin: Merkel ist schockiert über AfD-Erfolg in Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/altkanzlerin-merkel-ist-schockiert-ueber-afd-erfolg-in-sachsen-anhalt/100252933.html",
+          "published": "2026-09-08T11:49:21+00:00",
+          "summary": "Die AfD greift in Sachsen-Anhalt nach einem deutlichen Wahlerfolg nach der Macht, die regierende CDU ist dort in der Wählergunst abgestürzt. Was die Altkanzlerin dazu sagt."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Klares Alarmsignal\": Maschinenbauer verlagern Entwicklung immer mehr ins Ausland",
+          "link": "https://www.n-tv.de/wirtschaft/Maschinenbauer-verlagern-Entwicklung-immer-mehr-ins-Ausland-id31281626.html",
+          "published": "2026-09-08T10:33:26+00:00",
+          "summary": "Vier von zehn Maschinenbau-Unternehmen forschen und entwickeln bereits außerhalb Deutschlands - und viele von ihnen wollen ihre Aktivitäten dort ausbauen. Der VDMA schlägt deshalb Alarm und …"
+        },
         {
           "title": "Anleger stoßen Papiere ab: Zweite Studien-Pleite setzt Novartis zu",
           "link": "https://www.n-tv.de/wirtschaft/Zweite-Studien-Pleite-setzt-Novartis-zu-id31282374.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Deutsche-Exporte-gehen-ueberraschend-zurueck-id31281013.html",
           "published": "2026-09-08T07:38:21+00:00",
           "summary": "Fünf Monate lang legen die Ausfuhren deutscher Produkte zu. Im Juli endet die Erfolgsserie jedoch. Während die USA deutlich mehr importieren, kauft China viel weniger. Die Aussichten sind trotzdem …"
-        },
-        {
-          "title": "KI-Boom sorgt für Nachfrage: Chinas Exporte legen zu - Handelsüberschuss nähert sich Billionen-Marke",
-          "link": "https://www.n-tv.de/wirtschaft/Chinas-Exporte-legen-zu-Handelsueberschuss-naehert-sich-Billionen-Marke-id31281002.html",
-          "published": "2026-09-08T07:26:09+00:00",
-          "summary": "Die zweitgrößte Volkswirtschaft der Welt liefert im August deutlich mehr Waren in die Welt. Vor allem Batterien und Solarzellen sind gefragt. Zugleich kauft China wieder mehr ein. Die Binnennachfrage …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "Infineon-Aktie deutlich schwächer - Analystenvotum belastet Chipwerte deutlich",
+          "link": "https://www.finanzen.net/nachricht/aktien/expertenmeinungen-infineon-aktie-deutlich-schwaecher-analystenvotum-belastet-chipwerte-deutlich-15922760",
+          "published": "2026-09-08T12:08:00+00:00",
+          "summary": "Die Infineon -Aktie wird von einer Abstufung auf \"Equal-weight\" belastet. Für die tags zuvor stark erholten Papiere geht es im XETRA-Handel zeitweise um 4,79 Prozent auf 57,88 Euro abwärts."
+        },
+        {
+          "title": "DAX rutscht unter 26.000-Punkte-Schwelle - Ölpreise ziehen wieder an",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-dax-rutscht-unter-26-000-punkte-schwelle-oelpreise-ziehen-wieder-an-15920974",
+          "published": "2026-09-08T12:07:00+00:00",
+          "summary": "Der DAX gab zur Eröffnung des XETRA-Haupthandels 0,42 Prozent auf 25.897,22 Punkte ab und verliert derzeit nur noch leicht. Die runde 26.000-Punkte-Marke bleibt damit umkämpft. Gemischte ..."
+        },
+        {
           "title": "Goldpreis nach Dreimonatshoch: Welche Kräfte die Rally wirklich treiben und was das für Anleger bedeutet",
           "link": "https://www.finanzen.net/nachricht/rohstoffe/kurstreiber-goldpreis-nach-dreimonatshoch-welche-kraefte-die-rally-wirklich-treiben-und-was-das-fuer-anleger-bedeutet-00-15922839",
-          "published": "2026-09-08T10:04:00+00:00",
+          "published": "2026-09-08T12:06:00+00:00",
           "summary": "Goldpreis stieg im August auf höchsten Stand seit drei Monaten Rally laut WGC-Analyst vor allem von Investmentnachfrage getrieben Zentralbanken kauften im zweiten Quartal so viel Gold wie ..."
         },
         {
-          "title": "GESAMT-ROUNDUP: Dämpfer für deutschen Export - Probleme mit China",
-          "link": "https://www.finanzen.net/nachricht/aktien/gesamt-roundup-daempfer-fuer-deutschen-export-probleme-mit-china-15923144",
-          "published": "2026-09-08T09:58:38+00:00",
-          "summary": "WIESBADEN (dpa-AFX) - Die deutsche Exportwirtschaft hat einen Dämpfer erhalten. Nach fünf Monaten Wachstum lag der kalender- und saisonbereinigte Wert der Exporte für Juli 0,8 Prozent unter dem …"
+          "title": "KI-Aktien im Blick: Tesla- und SpaceX-CEO Musk sieht KI bis Ende 2027 bei digitalen Aufgaben vor Menschen",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-prognose-ki-aktien-im-blick-tesla-und-spacex-ceo-musk-sieht-ki-bis-ende-2027-bei-digitalen-aufgaben-vor-menschen-00-15916175",
+          "published": "2026-09-08T12:05:00+00:00",
+          "summary": "Elon Musk erwartet übermenschliche KI-Fähigkeiten bei digitalen Aufgaben bis Ende 2027 • Besonders im Hacking könnten KI-Systeme menschliche Sicherheitsexperten übertreffen • Neue Sicherheitsvorfälle …"
         },
         {
-          "title": "AUKTION/Gute Nachfrage bei Aufstockung grüner Bundesanleihen",
-          "link": "https://www.finanzen.net/nachricht/anleihen/auktion-gute-nachfrage-bei-aufstockung-gruener-bundesanleihen-15923137",
-          "published": "2026-09-08T09:54:42+00:00",
-          "summary": "Von Emese Bartha DOW JONES--Die Bundesfinanzagentur hat am Dienstag grüne Bundesanleihen mit Laufzeiten bis 2033 und 2041 im Auktionsverfahren platziert. Dabei wurden Papiere im Gesamtvolumen von …"
-        },
-        {
-          "title": "Swiss Prime Site-Aktie fester: Immobilienfonds Akara Diversity PK im ersten Halbjahr mit stabilem Ergebnis",
-          "link": "https://www.finanzen.net/nachricht/aktien/swiss-prime-site-aktie-fester-immobilienfonds-akara-diversity-pk-im-ersten-halbjahr-mit-stabilem-ergebnis-15923142",
-          "published": "2026-09-08T09:53:00+00:00",
-          "summary": "Der Immobilienfonds Akara Swiss Diversity Property Fund PK (Akara Diversity PK) hat im ersten Halbjahr das Ergebnis stabil gehalten."
-        },
-        {
-          "title": "DAX - Rücksetzer und Fortsetzung der Erholung?",
-          "link": "https://www.finanzen.net/nachricht/zertifikate/dax-ruecksetzer-und-fortsetzung-der-erholung-15923138",
-          "published": "2026-09-08T09:52:30+00:00",
-          "summary": ""
+          "title": "Tech-Aktien weiter gefragt: So positionierte sich die SNB im zweiten Quartal 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-tech-aktien-weiter-gefragt-so-positionierte-sich-die-snb-im-zweiten-quartal-2026-15921317",
+          "published": "2026-09-08T12:04:00+00:00",
+          "summary": "Das US-Portfolio der Schweizerischen Nationalbank ( SNB ) umfasst Milliarden von US-Dollar und unterliegt damit der Pflicht, ihre US-Aktienbestände alle drei Monate offenzulegen. ..."
         }
       ],
       "error": null
@@ -209,28 +209,28 @@
           "summary": "Hohe Kosten, niedriger Absatz: Hiesige Autohersteller stecken allesamt in der Krise. Das macht die Aktien zwar günstig, aber noch längst nicht attraktiv."
         },
         {
+          "title": "Neue Pisa-Studie: „Der deutschen Volkswirtschaft gehen Billionenbeträge verloren“",
+          "link": "https://www.wiwo.de/politik/deutschland/schlechte-ergebnisse-bei-pisa-studie-der-deutschen-volkswirtschaft-gehen-billionenbetraege-verloren/100252852.html",
+          "published": "2026-09-08T11:47:59+00:00",
+          "summary": "Die deutschen Pisa-Ergebnisse sind so schlecht wie noch nie. Das könnte gravierende Folgen für Standort und Wohlstand haben, warnt der Ökonom Ludger Wößmann."
+        },
+        {
+          "title": "Insolvenzen: Firmeninsolvenzen sinken im August – aber mehr Betroffene",
+          "link": "https://www.wiwo.de/politik/konjunktur/insolvenzen-firmeninsolvenzen-sinken-im-august-aber-mehr-betroffene/100252914.html",
+          "published": "2026-09-08T10:55:46+00:00",
+          "summary": "Trotz eines Rückgangs bei Insolvenzen im August steigt die Zahl betroffener Arbeitsplätze deutlich. Warum das IWH weiter mit mehr Pleiten rechnet."
+        },
+        {
+          "title": "Anschläge auf Stromleitungen: Polizei nimmt Verdächtigen fest",
+          "link": "https://www.wiwo.de/unternehmen/energie/anschlaege-auf-stromleitungen-polizei-nimmt-verdaechtigen-fest/100252553.html",
+          "published": "2026-09-08T10:47:00+00:00",
+          "summary": "Die Sabotage-Serie an Hochspannungsleitungen beschäftigt die Polizei. Der Tatverdächtige wurde nun bei Aachen gefasst."
+        },
+        {
           "title": "Hybride Bedrohungen: „Unsere KI berechnet, wo sich eine Drohne in Millisekunden befinden wird“",
-          "link": "https://www.wiwo.de/politik/deutschland/abwehrlaser-gegen-drohnen-was-das-start-up-ground-a-jetzt-plant/100252500.html",
-          "published": "2026-09-08T09:48:52+00:00",
-          "summary": "Um die Drohnenabwehr ist ein neuer Markt entstanden. Das Unternehmen Ground A will nun einen Abwehrlaser für alle bieten können. Aber kann das funktionieren?"
-        },
-        {
-          "title": "Schuldenkrise: So geht smartes Sparen!",
-          "link": "https://www.wiwo.de/politik/konjunktur/haushaltskonsolidierung-in-europa-wege-aus-der-schuldenfalle/100245618.html",
-          "published": "2026-09-08T09:35:21+00:00",
-          "summary": "Die prekäre Haushaltslage in vielen EU-Ländern erfordert neue Maßnahmen: Bestimmte Staatsausgaben sollten künftig nicht stärker steigen dürfen als die Inflation. Ein Gastbeitrag."
-        },
-        {
-          "title": "Bundeshaushalt 2027: Lars Klingbeil verteidigt seine Rekord-Schulden",
-          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-bundesfinanzminister-lars-klingbeil-verteidigt-seinen-haushalt/100249615.html",
-          "published": "2026-09-08T09:27:00+00:00",
-          "summary": "Die deutsche Neuverschuldung steigt auf immer neue Höhen. Hinzu kommt: Der Finanzminister muss 362 Milliarden Euro Altlasten teuer umschulden. Aber er hält das für notwendig."
-        },
-        {
-          "title": "Rohstoffe: Ölpreise weiten Gewinne aus – Brent nähert sich Marke von 100 Dollar",
-          "link": "https://www.wiwo.de/finanzen/boerse/rohstoffe-oelpreise-weiten-gewinne-aus-brent-naehert-sich-marke-von-100-dollar/100252842.html",
-          "published": "2026-09-08T08:48:06+00:00",
-          "summary": "Seit Ende August ist Brent um mehr als zehn Prozent gestiegen. Huthi-Angriffe und Chinas Rohöleinkäufe treiben die Ölpreise."
+          "link": "https://www.wiwo.de/politik/deutschland/start-up-ground-a-entwickelt-abwehrlaser-gegen-drohnen-was-das-unternehmen-jetzt-plant/100252500.html",
+          "published": "2026-09-08T10:12:00+00:00",
+          "summary": "Um die Drohnenabwehr ist ein neuer Markt entstanden. Das deutsche Unternehmen Ground A will nun einen Abwehrlaser für alle bieten können. Aber kann das funktionieren?"
         }
       ],
       "error": null
@@ -241,6 +241,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Neuer Dacia Spring zeigt, wie Renault Autos künftig schneller entwickeln will",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/neuer-dacia-spring-kommt-aus-europa-und-soll-trotzdem-unter-18-000-euro-kosten/",
+          "published": "2026-09-08T11:35:00+00:00",
+          "summary": "Renault will neue Autos künftig in rund zwei Jahren entwickeln. Beim neuen Dacia Spring ging es noch schneller. Was hinter der Strategie steckt."
+        },
+        {
+          "title": "Maschinenbauer forschen immer häufiger im Ausland, besonders China profitiert",
+          "link": "https://www.ingenieur.de/wirtschaft/maschinenbauer-verlagern-forschung-und-entwicklung-zunehmend-ins-ausland/",
+          "published": "2026-09-08T11:00:00+00:00",
+          "summary": "Deutsche Maschinenbauer verlagern Forschung zunehmend ins Ausland. Besonders China gewinnt – und setzt den Innovationsstandort Deutschland unter Druck."
+        },
         {
           "title": "Patentstreit in der Robotik: Auch andere Hersteller sollten sich gegen Firmen aus China wehren",
           "link": "https://www.ingenieur.de/technik/fachbereiche/automation/chinas-roboter-und-die-verletzung-europaeischer-patente-iinterview-mit-david-brand-teradyne-cto/",
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/denkmalgeschuetzte-autobahnbruecke-wird-abgerissen-verkehr-soll-trotzdem-weiterrollen/",
           "published": "2026-09-08T07:00:00+00:00",
           "summary": "Die denkmalgeschützte Fechinger Talbrücke an der A6 wird ersetzt. Der 170-Mio.-€-Neubau entsteht bei laufendem Verkehr – mit ungewöhnlicher Konstruktion."
-        },
-        {
-          "title": "Wenn die Babyboomer gehen: Wie KI das Wissen von Ingenieuren sichern soll",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/wenn-die-babyboomer-gehen-wie-ki-das-wissen-von-ingenieuren-sichern-soll/",
-          "published": "2026-09-08T06:30:00+00:00",
-          "summary": "Mit dem Ruhestand erfahrener Beschäftigter droht Unternehmen ein erheblicher Wissensverlust. Robin Sudermann von talentsconnect AG erklärt, wie sich Erfahrungswissen erfassen lässt, welche Aufgaben …"
-        },
-        {
-          "title": "Autolack ohne Pigmente: Diese Beschichtung soll praktisch nicht verblassen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/werkstoffe/autolack-ohne-pigmente-diese-beschichtung-soll-praktisch-nicht-verblassen/",
-          "published": "2026-09-08T05:49:23+00:00",
-          "summary": "Farbe ohne Pigmente und kaum Ausbleichen: Forschende beschichten Modellautos mit einer ultraleichten Schicht aus Silizium-Nanokugeln."
         }
       ],
       "error": null
