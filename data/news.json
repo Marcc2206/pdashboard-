@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:09:11+00:00",
+  "generatedAt": "2026-09-08T06:11:43+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -9,33 +9,33 @@
       "items": [
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645040.html",
-          "published": "2026-09-08T04:06:06+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645080.html",
+          "published": "2026-09-08T06:06:32+00:00",
           "summary": ""
         },
         {
-          "title": "CDU-Spitze in Sachsen-Anhalt will sich neu aufstellen",
-          "link": "https://www.tagesschau.de/video/video-1645032.html",
-          "published": "2026-09-08T03:44:24+00:00",
+          "title": "Liveblog zu Sachsen-Anhalt: ++ Verfassungsschützer nach AfD-Erfolg besorgt ++",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+          "published": "2026-09-08T05:55:04+00:00",
+          "summary": "Wie geht es nach der Landtagswahl in Sachsen-Anhalt weiter? Diese Frage beschäftigt Politiker, Verbände und Bürger. Ein Verfassungsschützer rät, der AfD nicht alle sensiblen Informationen zu geben."
+        },
+        {
+          "title": "15 Minuten: Veränderungen durch AfD-Sieg, VW könnte Raketen statt Cabrios bauen",
+          "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15-min-podcast-wahl-sachsen-anhalt-vw-aldi-lidl-bonus-app-100.html",
+          "published": "2026-09-08T05:49:19+00:00",
+          "summary": "Update zum AfD-Wahlsieg in Sachsen-Anhalt: Was will die Politik ändern? VW-Werk könnte Raketen statt Cabrios bauen. Und: Warum sich Aldi und Lidl öffentlich über Bonus-Apps streiten. Die Themen im …"
+        },
+        {
+          "title": "\"Klingbeil trickst\", Katharina Dröge, Fraktionsvorsi. B'90/Die Grünen, zur Haushaltswoche",
+          "link": "https://www.tagesschau.de/video/video-1645056.html",
+          "published": "2026-09-08T05:30:19+00:00",
           "summary": ""
         },
         {
-          "title": "Sozialverband Deutschland fordert Kurskorrektur bei Reformvorhaben",
-          "link": "https://www.tagesschau.de/video/video-1645030.html",
-          "published": "2026-09-08T03:40:08+00:00",
+          "title": "Finanzminister Klingbeil bringt Entwurf für Haushalt 2027 in Bundestag ein",
+          "link": "https://www.tagesschau.de/video/video-1645052.html",
+          "published": "2026-09-08T05:17:38+00:00",
           "summary": ""
-        },
-        {
-          "title": "AfD-Sieg in Sachsen-Anhalt: Sozialverband fordert Korrektur bei Reformen",
-          "link": "https://www.tagesschau.de/inland/landtagswahlen/sachsen-anhalt/afd-sozialverband-wirtschaftsweise-100.html",
-          "published": "2026-09-08T03:15:53+00:00",
-          "summary": "Nach dem Wahlsieg der AfD in Sachsen-Anhalt hat der Sozialverband Deutschland die Regierung zu einer Korrektur ihrer Reformvorhaben aufgefordert. Die Wirtschaftsweisen Werdig und Grimm warnten …"
-        },
-        {
-          "title": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
-          "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
-          "published": "2026-09-08T03:09:42+00:00",
-          "summary": "Nach einer kurzzeitigen Feuerpause während des Besuchs von US-Unterhändlern in der Ukraine hat Russland seine schweren Luftangriffe wieder aufgenommen. Aus Kiew wurden Explosionen gemeldet …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Nikkei, Kopsi, CSI 300: Zinsspekulationen in Japan treiben Yen an – Asiens Börsen ohne klare Richtung",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kopsi-csi-300-zinsspekulationen-in-japan-treiben-yen-an-asiens-boersen-ohne-klare-richtung/100252750.html",
-          "published": "2026-09-08T03:52:40+00:00",
-          "summary": "Der japanische Yen stieg auf den höchsten Stand seit Mitte Februar. Angetrieben von Kursgewinnen bei Chipwerten legte Südkoreas Kospi zu und erreichte ein Drei-Wochen-Hoch."
+          "title": "Fotografie: Leica erstmals seit Jahren mit Umsatzrückgang",
+          "link": "https://www.handelsblatt.com/politik/deutschland/fotografie-leica-erstmals-seit-jahren-mit-umsatzrueckgang/100252781.html",
+          "published": "2026-09-08T06:00:05+00:00",
+          "summary": "Leica verliert erstmals seit Jahren Umsatz, bleibt aber profitabel. Wie neue Produkte und Zielgruppen die Geschäfte in Schwung bringen sollen."
         },
         {
-          "title": "Neues Android-Feature: Punkte auf dem Display: Google hilft Reisekranken",
-          "link": "https://www.handelsblatt.com/technik/it-internet/neues-android-feature-punkte-auf-dem-display-google-hilft-reisekranken/100252753.html",
-          "published": "2026-09-08T03:51:04+00:00",
-          "summary": "Vergessen Sie Drittanbieter-Apps: Es gibt nun eine hauseigene Android-Lösung gegen Übelkeit beim Reisen. Wie Bubbles helfen, was Nutzer alles einstellen können - und wer schneller war als Google."
+          "title": "Welthandel: Chinas Exporte ziehen an – Weiter Streit mit EU und USA",
+          "link": "https://www.handelsblatt.com/politik/deutschland/welthandel-chinas-exporte-ziehen-an-weiter-streit-mit-eu-und-usa/100252780.html",
+          "published": "2026-09-08T05:55:44+00:00",
+          "summary": "Chinas Exportmotor läuft trotz Kritik von Handelspartnern unaufhörlich weiter. Auch der Handel mit Deutschland unterstreicht die Probleme. Nun richtet sich der Blick auf ein mögliches Treffen."
         },
         {
-          "title": "Morning Briefing: Die wirklich unangenehme Wahl-Wahrheit für die Wirtschaft",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-die-wirklich-unangenehme-wahl-wahrheit-fuer-die-wirtschaft/100252712.html",
-          "published": "2026-09-08T03:49:24+00:00",
-          "summary": "Der Kanzler will seine Arbeit überdenken, seinen Reformkurs aber fortsetzen. Allein: Dafür gibt es seit Sonntag keine Mehrheit mehr. Wer das Land reformieren will, braucht neue Ideen."
+          "title": "Zollstreit: Trump postet Landkarte mit Grönland, Island, Kanada und Mexiko als Teil der USA",
+          "link": "https://www.handelsblatt.com/politik/international/zollstreit-trump-zeigt-landkarte-groenland-und-kanada-als-teil-der-usa/100252775.html",
+          "published": "2026-09-08T05:43:54+00:00",
+          "summary": "Immer wieder kokettiert der US-Präsident damit, sich andere Länder oder Inseln einzuverleiben. Jetzt träumt er von Vereinigten Staaten, die ganz Nordamerika und Teile Europas umfassen."
         },
         {
-          "title": "Autotest: König der Kurven: Der elektrische Opel Corsa GSE",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/autotest-koenig-der-kurven-der-elektrische-opel-corsa-gse/100252751.html",
-          "published": "2026-09-08T03:40:06+00:00",
-          "summary": "5,5 Sekunden von 0 auf 100 und 180 km/h Spitze - im Flachland mag er belächelt werden, doch spätestens in den Bergen schlägt die große Stunde des kleinen Corsa GSE. Neu ist die Idee dahinter nicht."
+          "title": "Was folgt aus der Wahl?: Welche Reformvorhaben jetzt auf den Prüfstand kommen könnten",
+          "link": "https://www.handelsblatt.com/politik/deutschland/was-folgt-aus-der-wahl-welche-reformvorhaben-jetzt-auf-den-pruefstand-kommen-koennten/100252735.html",
+          "published": "2026-09-08T05:36:36+00:00",
+          "summary": "Die Wahl in Sachsen-Anhalt erschüttert die politische Landschaft. Die SPD sieht ein Problem im Reformkurs der Bundesregierung. Um diese Themen könnte es jetzt gehen."
         },
         {
-          "title": "Bundestag: Haushaltswoche in unruhigen Zeiten – das steckt im Etat 2027",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-haushaltswoche-in-unruhigen-zeiten-das-steckt-im-etat-2027/100252742.html",
-          "published": "2026-09-08T03:00:15+00:00",
-          "summary": "Die parlamentarische Sommerpause ist vorbei, der Bundestag startet mit den Haushaltsberatungen. Im Fokus dürften die geplanten Reformen stehen – und die Folgen des AfD-Wahlsiegs in Sachsen-Anhalt."
+          "title": "Südchinesisches Meer: „Das ist Nötigung“ – Eklat zwischen China und Philippinen",
+          "link": "https://www.handelsblatt.com/politik/international/suedchinesisches-meer-das-ist-noetigung-eklat-zwischen-china-und-philippinen/100252774.html",
+          "published": "2026-09-08T05:32:37+00:00",
+          "summary": "Der philippinische Verteidigungsminister greift China bei einer Sicherheitskonferenz scharf an. Auf eine Protestnote entgegnet er: „Ich hoffe, dass Sie dafür nicht in einem Gulag landen.“"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Angela Merkel spricht über Künstliche Intelligenz",
-          "link": "https://www.finanzen.net/nachricht/aktien/angela-merkel-spricht-ueber-kuenstliche-intelligenz-15922477",
-          "published": "2026-09-08T03:49:39+00:00",
-          "summary": "KÖLN (dpa-AFX) - Die frühere Bundeskanzlerin Angela Merkel (CDU) wird am Dienstag bei einer Veranstaltung der Deutschen Telekom ( Deutsche Telekom ) in Köln erwartet. Bei der ..."
+          "title": "Deutsche Exporte sinken im Juli um 0,8 Prozent",
+          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-exporte-sinken-im-juli-um-0-8-prozent-15922672",
+          "published": "2026-09-08T06:06:43+00:00",
+          "summary": "Von Andreas Plecko DOW JONES--Die deutschen Exporte sind im Juli gesunken. Die Exporteure verkauften kalender- und saisonbereinigt 0,8 Prozent weniger im Ausland als im Vormonat, wie das Statistische …"
         },
         {
-          "title": "Klingbeil bringt Haushalt in Bundestag ein",
-          "link": "https://www.finanzen.net/nachricht/aktien/klingbeil-bringt-haushalt-in-bundestag-ein-15922476",
-          "published": "2026-09-08T03:49:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Finanzminister Lars Klingbeil bringt am Dienstag (10.05 Uhr) den Entwurf des Bundeshaushalts für das kommende Jahr in den Bundestag ein. Der SPD-Politiker plant mit Ausgaben von …"
+          "title": "Leica erstmals seit Jahren mit Umsatzrückgang",
+          "link": "https://www.finanzen.net/nachricht/aktien/leica-erstmals-seit-jahren-mit-umsatzrueckgang-15922669",
+          "published": "2026-09-08T06:05:38+00:00",
+          "summary": "WETZLAR (dpa-AFX) - Der Kamerahersteller Leica hat in einem schwierigen Marktumfeld erstmals seit Jahren einen Umsatzrückgang verbucht. In dem Ende März abgelaufenen Geschäftsjahr gaben die Erlöse im …"
         },
         {
-          "title": "Pressestimme: 'Frankfurter Rundschau' zu Gesprächen zwischen USA und Russland",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-frankfurter-rundschau-zu-gespraechen-zwischen-usa-und-russland-15922473",
-          "published": "2026-09-08T03:34:45+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - \"Frankfurter Rundschau\" zu Gesprächen zwischen USA und Russland:\"Vollständig nutzlos waren die ergebnislosen Friedensgespräche zwischen den USA und Russland nicht. Das Ende des …"
+          "title": "Altersvorsorgedepot: Nur wieder Abzocke, oder echte Alternative zur Riester-Rente?",
+          "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-15922671",
+          "published": "2026-09-08T06:05:00+00:00",
+          "summary": ""
         },
         {
-          "title": "Pressestimme: 'Münchner Merkur' zu Merz/Koalition",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-muenchner-merkur-zu-merz-koalition-15922472",
-          "published": "2026-09-08T03:34:44+00:00",
-          "summary": "MÜNCHEN (dpa-AFX) - \"Münchner Merkur\" zu Merz/Koalition:\"Ein Kanzler, der sein Volk nicht erreicht, kann nicht erfolgreich sein; seine gestrige Beteuerung, er wolle ab jetzt mehr erklären, klang …"
+          "title": "ROUNDUP: Chinas Exporte ziehen an - Weiter Streit mit EU und USA",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-chinas-exporte-ziehen-an-weiter-streit-mit-eu-und-usa-15922665",
+          "published": "2026-09-08T06:03:39+00:00",
+          "summary": "PEKING (dpa-AFX) - Chinas Exporte haben im August weiter zugelegt. Wie die Zollbehörde in Peking mitteilte, stiegen die Ausfuhren der Volksrepublik im August gegenüber demselben Vorjahresmonat in …"
         },
         {
-          "title": "Pressestimme: 'Nürnberger Zeitung' zu Wahlerfolg der AfD",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-nuernberger-zeitung-zu-wahlerfolg-der-afd-15922471",
-          "published": "2026-09-08T03:34:44+00:00",
-          "summary": "NÜRNBERG (dpa-AFX) - \"Nürnberger Zeitung\" zu Wahlerfolg der AfD:\"Die Politiker der Parteien der Mitte dagegen können von der AfD lernen, auch wenn es schwerfällt. Persönliche Präsenz vor Ort mit vier …"
+          "title": "Dienstagshandel an der Börse: 10 wichtige Fakten",
+          "link": "https://www.finanzen.net/nachricht/aktien/10-vor-9-dienstagshandel-an-der-boerse-10-wichtige-fakten-15881884",
+          "published": "2026-09-08T06:01:32+00:00",
+          "summary": "Behalten Sie hier den kompletten aktuellen Handelstag im Auge. 1. DAX vor ruhiger EröffnungFür den"
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX verteidigt runde Marke",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
-          "published": "2026-09-07T16:26:45+00:00",
-          "summary": "Der DAX hat sich zum Wochenauftakt nervös gezeigt. Besonders ein weiterer Anstieg der Ölpreise lastete auf den Kursen. Dennoch konnte sich der Leitindex über der Marke von 26.000 Punkten halten."
+          "title": "Marktbericht: Hohe Ölpreise haben Aktienmarkt im Griff",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
+          "published": "2026-09-08T05:13:05+00:00",
+          "summary": "Die Vorgaben für den heutigen Handelstag sind durchwachsen: Die Ölpreise liegen auf ihrem höchsten Niveau seit Juni. Und die am Donnerstag erwartete Leitzinserhöhung der EZB sorgt für Zurückhaltung."
         },
         {
           "title": "Treffen in Monaco: Rückversicherer warnen vor Naturkatastrophen",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Private Altersvorsorge: Die Preisschlacht um das Altersvorsorgedepot hat begonnen",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/altersvorsorgedepot-kampfpreise-bei-quirion-scalable-deka/100252676.html",
-          "published": "2026-09-08T03:57:56+00:00",
-          "summary": "Scalable Capital ist vorgeprescht, nun zieht Quirion nach: Anbieter übertrumpfen sich bei den Konditionen für das neue Standarddepot."
+          "title": "Uniper: Unipers kritische Rolle beim Auffüllen der Gasspeicher",
+          "link": "https://www.wiwo.de/unternehmen/energie/deutschlands-gasspeicher-warum-uniper-jetzt-wieder-unverzichtbar-wird/100251801.html",
+          "published": "2026-09-08T06:08:00+00:00",
+          "summary": "Deutschland droht im Winter das Gas auszugehen. Schon wieder. Dem Energiekonzern Uniper kommt das gelegen. Er positioniert sich als Chefimporteur."
         },
         {
-          "title": "Die Höhle der Löwen: „Entweder es läuft irgendwann richtig gut oder ich stampfe es wieder ein“",
-          "link": "https://www.wiwo.de/erfolg/gruender/die-hoehle-der-loewen-so-ging-es-fuer-das-start-up-sauberdropz-weiter/100252667.html",
-          "published": "2026-09-07T21:00:00+00:00",
-          "summary": "Gleich vier Investoren wollten bei Sauberdropz einsteigen. Hat sich das österreichische Start-up für den richtigen Partner entschieden?"
+          "title": "Klimaanlagen-Preise: Wann ist der richtige Kaufmoment für Klimageräte?",
+          "link": "https://www.wiwo.de/unternehmen/industrie/klimaanlage-wann-ist-der-beste-zeitpunkt-zum-kauf/100247935.html",
+          "published": "2026-09-08T06:07:00+00:00",
+          "summary": "„Antizyklisch einkaufen“ ist eine kluge Devise, wenn man sich Produkte mit saisonalem Nutzwert anschafft. Also: Jetzt eine Klimaanlage kaufen? Oder besser noch ein bisschen warten?"
         },
         {
-          "title": "Robert Kiyosaki: Hat der „Rich Dad“ ein Schuldenproblem?",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/robert-kiyosaki-hat-der-rich-dad-autor-ein-schuldenproblem/100252019.html",
-          "published": "2026-09-07T18:55:00+00:00",
-          "summary": "Finanz-Guru Robert Kiyosaki hat Milliardenschulden: Diese Nachricht sorgt gerade für Häme. Allerdings ist seine Finanzlage komplexer, als es scheint."
+          "title": "Mittelstandsbonds: Die Verschuldung des Chemiekonzerns PCC – ein Problem für Anleger?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/pcc-die-verschuldung-des-chemiekonzerns-ein-problem-fuer-anleger/100248115.html",
+          "published": "2026-09-08T05:57:00+00:00",
+          "summary": "Der Chemiekonzern PCC hat sich viel Geld geliehen, vor allem bei Anlegern. Das könnte zum Problem werden."
         },
         {
-          "title": "Landtagswahl Sachsen-Anhalt: Regierungsbildung nach AfD-Sieg ungewiss – Merz „zutiefst schockiert“",
-          "link": "https://www.wiwo.de/politik/deutschland/landtagswahlen-in-sachsen-anhalt-amtliches-endergebnis-sitzverteilung-co./100249001.html",
-          "published": "2026-09-07T18:30:00+00:00",
-          "summary": "Die AfD gewinnt in dem Bundesland mit 43,8 Prozent, doch die weiteren Schritte sind schwierig. Was die Parteien jetzt planen und wie es weitergehen könnte."
+          "title": "VW-Werk wird verkauft: Osnabrück setzt auf Rüstung statt Autos – das ist das Vorbild für diese Idee",
+          "link": "https://www.wiwo.de/politik/deutschland/volkswagen-gibt-werk-osnabrueck-auf-mit-aurelius-als-investor-heisst-es-dort-bald-militaer-statt-auto/100252189.html",
+          "published": "2026-09-08T05:56:00+00:00",
+          "summary": "Volkswagen gibt sein Werk in Osnabrück auf. Dort werden künftig Rüstungsgüter von anderen produziert. Für diese Art der Rettung gibt es ein naheliegendes Vorbild."
         },
         {
-          "title": "Handelskonflikt: Kanada erhebt Gegenzölle auf US-Importe ab Dienstag",
-          "link": "https://www.wiwo.de/politik/ausland/handelskonflikt-kanada-erhebt-gegenzoelle-auf-us-importe-ab-dienstag/100252695.html",
-          "published": "2026-09-07T18:17:00+00:00",
-          "summary": "Die USA und Kanada streiten erbittert im Handelskonflikt. Kanadas Gegenzölle sollen in der Nacht in Kraft treten. Trump droht derweil Bombardier mit einem Verkaufsverbot."
+          "title": "Wann kommt iOS 27?: Das müssen Sie zum bevorstehenden iPhone-Update wissen",
+          "link": "https://www.wiwo.de/unternehmen/it/wann-kommt-ios-27-release-neuerungen-liste-kompatibler-iphones/28675148.html",
+          "published": "2026-09-08T05:54:00+00:00",
+          "summary": "iOS 27 steht offenbar vor dem Release. Nutzer können sich auf zahlreiche Neuerungen freuen. Das müssen Sie zum neuen Apple-Update wissen."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Autolack ohne Pigmente: Diese Beschichtung soll praktisch nicht verblassen",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/werkstoffe/autolack-ohne-pigmente-diese-beschichtung-soll-praktisch-nicht-verblassen/",
+          "published": "2026-09-08T05:49:23+00:00",
+          "summary": "Farbe ohne Pigmente und kaum Ausbleichen: Forschende beschichten Modellautos mit einer ultraleichten Schicht aus Silizium-Nanokugeln."
+        },
         {
           "title": "Einsteins Schwarze Löcher sind „kahl“: Forscher suchen jetzt nach Haaren",
           "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/einsteins-schwarze-loecher-sind-kahl-forscher-suchen-jetzt-nach-haaren/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/karriere/schluesselqualifikationen/skill-mapping-warum-unternehmen-nicht-jede-kompetenz-erfassen-sollten/",
           "published": "2026-09-07T12:00:00+00:00",
           "summary": "Skill-Mapping hilft Unternehmen, Weiterbildung und Karrierewege gezielt zu steuern – wenn Kompetenzen an konkrete Aufgaben gekoppelt werden."
-        },
-        {
-          "title": "T-Roc geht, Rüstung kommt: So soll das VW-Werk Osnabrück gerettet werden",
-          "link": "https://www.ingenieur.de/wirtschaft/t-roc-geht-ruestung-kommt-so-soll-das-vw-werk-osnbrueck-gerettet-werden/",
-          "published": "2026-09-07T10:00:12+00:00",
-          "summary": "VW will sein Werk in Osnabrück an Aurelius und Niedersachsen abgeben. Rafael soll dort Luftverteidigungstechnik bauen. Rund 1200 Jobs sollen bleiben."
         }
       ],
       "error": null
