@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:11:06+00:00",
+  "generatedAt": "2026-09-08T20:08:54+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
-          "published": "2026-09-08T18:02:07+00:00",
-          "summary": "SPD-Chef Klingbeil kündigt in den tagesthemen an, Politik besser erklären zu wollen. Der geschäftsführende Ministerpräsident von Sachsen-Anhalt, Schulze, ist als neuer Chef der CDU-Landtagsfraktion …"
+          "title": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
+          "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
+          "published": "2026-09-08T20:03:18+00:00",
+          "summary": "Dass Israels Premier Netanjahu Warnungen vor dem Hamas-Überfall am 7. Oktober 2023 ignoriert haben soll, war bereits bekannt. Nun erreicht der Vorwurf durch eine brisante Enthüllung eine neue …"
         },
         {
-          "title": "Fünf Tote bei Flugzeugunglück in Miami",
-          "link": "https://www.tagesschau.de/video/video-1645520.html",
-          "published": "2026-09-08T17:34:01+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645616.html",
+          "published": "2026-09-08T19:35:45+00:00",
           "summary": ""
         },
         {
-          "title": "Lars Klingbeil, SPD, Bundesfinanzminister, zum Haushalt 2027",
-          "link": "https://www.tagesschau.de/video/video-1645504.html",
-          "published": "2026-09-08T17:26:32+00:00",
+          "title": "tagesschau 20:00 Uhr",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1645594.html",
+          "published": "2026-09-08T18:38:06+00:00",
+          "summary": "Deutschland schneidet bei Bildungsstudie PISA so schlecht wie nie zuvor ab, Auftakt der Haushaltswoche im Bundestag, Landes-CDU stellt sich nach Wahlschlappe in Sachsen-Anhalt neu auf, Experten …"
+        },
+        {
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12238.html",
+          "published": "2026-09-08T18:29:09+00:00",
           "summary": ""
         },
         {
-          "title": "CDU Sachsen-Anhalt: Trotz Wahl bleiben kritische Stimmen gegen Schulze",
-          "link": "https://www.tagesschau.de/video/video-1645390.html",
-          "published": "2026-09-08T17:22:12+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-80806.html",
+          "published": "2026-09-08T18:27:03+00:00",
           "summary": ""
-        },
-        {
-          "title": "Smart-City-Ranking: Warum Stuttgart Deutschlands digitalste Stadt ist",
-          "link": "https://www.tagesschau.de/wirtschaft/digitales/smart-city-ranking-bitkom-100.html",
-          "published": "2026-09-08T17:00:45+00:00",
-          "summary": "Der Digitalverband Bitkom hat die Digitalisierung in 83 deutschen Großstädten unter die Lupe genommen. Stuttgart liegt nun auf Platz eins - und hat damit nach Jahren München und Hamburg von der …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Philipp Türmer: Juso-Chef: „Die Wahl war eine Abrechnung mit dem Reformkurs“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/interview-die-wahl-war-eine-abrechnung-mit-dem-reformkurs/100250051.html",
-          "published": "2026-09-08T17:56:58+00:00",
-          "summary": "Nach dem AfD-Erfolg in Sachsen-Anhalt fordert Juso-Chef Türmer einen sozialpolitischen Neustart der Koalition. Im Interview rechnet er mit der eigenen Partei ab – und dem Kurs des Kanzlers."
+          "title": "+++ Iran-Krieg +++: Westjordanland: Großbritannien verbietet Handel mit Waren aus israelischen Siedlungen",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-grossbritannien-sanktioniert-siedlungen-im-westjordanland/100136895.html",
+          "published": "2026-09-08T19:41:00+00:00",
+          "summary": "Deutschland schließt sich Einfuhrverbot israelischer Waren nicht an +++ Israel schließt wegen Sanktionen britisches Konsulat +++ Britische Sanktionen könnten Gegenmaßnahmen auslösen +++ Der Newsblog."
         },
         {
-          "title": "Nahostkonflikt: London sanktioniert Siedlungen im Westjordanland",
-          "link": "https://www.handelsblatt.com/politik/international/nahostkonflikt-london-sanktioniert-siedlungen-im-westjordanland/100252823.html",
-          "published": "2026-09-08T17:42:15+00:00",
-          "summary": "Die britische Labour-Regierung unter Premier Andy Burnham schlägt einen härteren Kurs gegenüber Israels Siedlungspolitik ein. Aus Israel gibt es scharfe Kritik - und Gegenmaßnahmen."
+          "title": "Nahost: „Ethnische Säuberungen“: Sanktionen gegen Siedler lösen Streit zwischen Großbritannien und Israel aus",
+          "link": "https://www.handelsblatt.com/politik/international/nahost-grossbritannien-verkuendet-sanktionen-gegen-israelische-siedler/100253012.html",
+          "published": "2026-09-08T19:35:22+00:00",
+          "summary": "Die britische Regierung nennt die Besetzung von Teilen des Westjordanlandes rechtswidrig und kündigt Strafmaßnahmen an. Aus Jerusalem folgt eine scharfe Reaktion."
         },
         {
-          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street im Minus – Keine Tendenz bei Fed-Entscheid",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-keine-tendenz-bei-fed-entscheid/100252961.html",
-          "published": "2026-09-08T17:25:00+00:00",
-          "summary": "Nach dem Feiertag am Montag starten die wichtigsten Börsenindizes mit Verlusten in die neue Börsenwoche. Am Anleihemarkt tut sich im frühen Handel wenig."
+          "title": "Flugchaos: Störung verursacht Chaos an Flughäfen in Großbritannien",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/flugchaos-stoerung-verursacht-chaos-an-flughaefen-in-grossbritannien/100253032.html",
+          "published": "2026-09-08T18:49:42+00:00",
+          "summary": "Viele Maschinen müssen wegen einer Störung in Großbritannien vorerst am Boden bleiben. Die Auswirkungen sind auch in Deutschland zu spüren."
         },
         {
-          "title": "CDU: Der als Königsmörder Geächtete will nun selbst König werden",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-der-als-koenigsmoerder-geaechtete-will-nun-selbst-koenig-werden/100252799.html",
-          "published": "2026-09-08T17:21:59+00:00",
-          "summary": "Nach der Niederlage von Spitzenkandidat Sven Schulze in Sachsen-Anhalt will der Bundestagsabgeordnete Sepp Müller neuer Landesparteichef werden. Damit eskaliert ein lang währender Machtkampf in der …"
+          "title": "Brisante Berichte: Warnung vor Hamas-Überfall ignoriert? - Netanjahu dementiert",
+          "link": "https://www.handelsblatt.com/politik/international/brisante-berichte-warnung-vor-hamas-ueberfall-ignoriert-netanjahu-dementiert/100253030.html",
+          "published": "2026-09-08T18:35:37+00:00",
+          "summary": "Lokalen Medien zufolge soll Israels Ministerpräsident vor dem Hamas-Massaker 2023 eine Warnung aus Abu Dhabi erhalten und diese ignoriert haben. Die Emirate wollen sich nicht zu den Berichten äußern."
         },
         {
-          "title": "Krieg in der Ukraine: Hilfe aus Europa für ukrainische Flugabwehr",
-          "link": "https://www.handelsblatt.com/politik/international/krieg-in-der-ukraine-hilfe-aus-europa-fuer-ukrainische-flugabwehr/100252998.html",
-          "published": "2026-09-08T17:05:08+00:00",
-          "summary": "Europa hat das lange Flehen aus Kiew erhört. Mit einer Ausnahmeregelung und weiteren 3,2 Milliarden Euro will die EU die Ukraine beim Schutz ihres Luftraums unterstützen."
+          "title": "Nach der Landtagswahl: Schulze will Verzicht Sachsen-Anhalts auf MPK-Vorsitz",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-landtagswahl-schulze-will-verzicht-sachsen-anhalts-auf-mpk-vorsitz/100253014.html",
+          "published": "2026-09-08T18:21:46+00:00",
+          "summary": "Ab Anfang Oktober soll Sachsen-Anhalt turnusgemäß den Vorsitz der Ministerpräsidentenkonferenz übernehmen. Der noch amtierende Ministerpräsident will darauf verzichten."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Unternehmen bestreitet Vorwürfe: Dating-App Grindr zahlt nach Datenverstoß Millionensumme",
+          "link": "https://www.n-tv.de/wirtschaft/Daten-weitergegeben-Dating-App-muss-Millionen-zahlen-id31284750.html",
+          "published": "2026-09-08T20:01:31+00:00",
+          "summary": "Eine britische Anwaltskanzlei wirft der queeren Dating-App Grindr vor, sensible Daten ihrer Nutzer an Dritte weitergegeben zu haben - darunter den HIV-Status. Grindr einigt sich mit den Klägern auf …"
+        },
+        {
+          "title": "Speicher zu 54 Prozent gefüllt: Reiche stuft Gasversorgung trotz geringerer Füllstände als sicher ein",
+          "link": "https://www.n-tv.de/wirtschaft/Reiche-stuft-Gasversorgung-trotz-geringerer-Fuellstaende-als-sicher-ein-id31284569.html",
+          "published": "2026-09-08T18:43:02+00:00",
+          "summary": "Deutschlands Gasspeicher sind vor der nahenden Heizsaison nur zu rund der Hälfte gefüllt. Doch Katherina Reiche scheint dies nicht zu beunruhigen. Zusätzliche staatliche Gaskäufe könnten die …"
+        },
         {
           "title": "Ökonomen lösen Widerspruch auf: Warum die AfD da am stärksten ist, wo sich der Arbeitsmarkt am besten entwickelt",
           "link": "https://www.n-tv.de/wirtschaft/Warum-die-AfD-da-am-staerksten-ist-wo-sich-der-Arbeitsmarkt-am-besten-entwickelt-id31283681.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Maschinenbauer-verlagern-Entwicklung-immer-mehr-ins-Ausland-id31281626.html",
           "published": "2026-09-08T10:33:26+00:00",
           "summary": "Vier von zehn Maschinenbau-Unternehmen forschen und entwickeln bereits außerhalb Deutschlands - und viele von ihnen wollen ihre Aktivitäten dort ausbauen. Der VDMA schlägt deshalb Alarm und …"
-        },
-        {
-          "title": "Anleger stoßen Papiere ab: Zweite Studien-Pleite setzt Novartis zu",
-          "link": "https://www.n-tv.de/wirtschaft/Zweite-Studien-Pleite-setzt-Novartis-zu-id31282374.html",
-          "published": "2026-09-08T10:09:12+00:00",
-          "summary": "Ihnen wurden Milliardenumsätze zugetraut - doch ihren Nutzen konnten die beiden potenziellen Medikamente bei Novartis in Studien bislang nicht belegen. Analysten reagieren ernüchtert und sehen teils …"
-        },
-        {
-          "title": "Mistral erhält Milliardenspritze: Europäisches Startup will US-KI-Riesen die Stirn bieten",
-          "link": "https://www.n-tv.de/wirtschaft/Europaeisches-Startup-will-US-KI-Riesen-die-Stirn-bieten-id31280941.html",
-          "published": "2026-09-08T08:49:33+00:00",
-          "summary": "US-Konzerne dominieren den KI-Markt, doch Europa hält dagegen. Das Pariser Startup Mistral positioniert sich als Alternative zu OpenAI und Co. und erhält nun eine Milliardenfinanzierung. Mit dem …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Optimismus in New York: Börsianer lassen NASDAQ 100 nachmittags steigen",
-          "link": "https://www.finanzen.net/nachricht/aktien/optimismus-in-new-york-boersianer-lassen-nasdaq-100-nachmittags-steigen-15924253",
-          "published": "2026-09-08T18:02:32+00:00",
-          "summary": "Um 20:00 Uhr tendiert der NASDAQ 100 im NASDAQ-Handel 0,09 Prozent fester bei 29.570,85 Punkten. In den Dienstagshandel ging der NASDAQ 100 0,342 Prozent stärker bei 29.645,18 Punkten, nach ..."
+          "title": "Wiederholt sich die Japan-Aktienrally von 2023? Das sagt Bank of America",
+          "link": "https://www.finanzen.net/nachricht/aktien/rueckkauf-wiederholt-sich-die-japan-aktienrally-von-2023-das-sagt-bank-of-america-00-15914281",
+          "published": "2026-09-08T19:51:00+00:00",
+          "summary": "US-Finanzministerium verdoppelt Rückkaufobergrenze für langfristige Staatsanleihen • Bank of America zieht in einem Strategiebericht Parallelen zur sogenannten Fed-Pivot-Rally japanischer Aktien von …"
         },
         {
-          "title": "Schwacher Wochentag in New York: S&P 500 am Nachmittag mit Abgaben",
-          "link": "https://www.finanzen.net/nachricht/aktien/schwacher-wochentag-in-new-york-s-p-500-am-nachmittag-mit-abgaben-15924252",
-          "published": "2026-09-08T18:02:32+00:00",
-          "summary": "Um 20:00 Uhr fällt der S&P 500 im NYSE-Handel um 0,36 Prozent auf 7.690,95 Punkte zurück. An der Börse sind die enthaltenen Werte damit 61,851 Bio. Euro wert. Zum Start des Dienstagshandels ..."
+          "title": "Iranische Medien: Explosionen auf Insel Charg und nahe Dschask",
+          "link": "https://www.finanzen.net/nachricht/aktien/iranische-medien-explosionen-auf-insel-charg-und-nahe-dschask-15924363",
+          "published": "2026-09-08T19:48:39+00:00",
+          "summary": "TEHERAN (dpa-AFX) - Iranische Medien haben mehrere Explosionen auf der Insel Charg im Persischen Golf sowie nahe der Hafenstadt Dschask an der Straße von Hormus gemeldet. Laut der regierungsnahen …"
         },
         {
-          "title": "Handel in New York: NASDAQ Composite nachmittags im Minus",
-          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-nasdaq-composite-nachmittags-im-minus-15924251",
-          "published": "2026-09-08T18:02:32+00:00",
-          "summary": "Am Dienstag tendiert der NASDAQ Composite um 20:00 Uhr via NASDAQ 0,16 Prozent tiefer bei 26.464,91 Punkten. Zum Start des Dienstagshandels standen Gewinne von 0,081 Prozent auf 26.528,57 ..."
+          "title": "KI-Aktien im Blick: Tesla- und SpaceX-CEO Musk sieht KI bis Ende 2027 bei digitalen Aufgaben vor Menschen",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-prognose-ki-aktien-im-blick-tesla-und-spacex-ceo-musk-sieht-ki-bis-ende-2027-bei-digitalen-aufgaben-vor-menschen-00-15916175",
+          "published": "2026-09-08T19:42:00+00:00",
+          "summary": "Elon Musk erwartet übermenschliche KI-Fähigkeiten bei digitalen Aufgaben bis Ende 2027 • Besonders im Hacking könnten KI-Systeme menschliche Sicherheitsexperten übertreffen • Neue Sicherheitsvorfälle …"
         },
         {
-          "title": "Anleger in New York halten sich zurück: Dow Jones verbucht am Nachmittag Verluste",
-          "link": "https://www.finanzen.net/nachricht/aktien/anleger-in-new-york-halten-sich-zurueck-dow-jones-verbucht-am-nachmittag-verluste-15924250",
-          "published": "2026-09-08T18:02:32+00:00",
-          "summary": "Um 20:00 Uhr steht im NYSE-Handel ein Minus von 0,97 Prozent auf 52.894,50 Punkte an der Dow Jones -Kurstafel. Der Börsenwert der im Dow Jones enthaltenen Werte beträgt damit 24,995 Bio. Euro. ..."
+          "title": "Micron-Aktie im Fokus: KI-Boom zwingt Chip-Riesen zum Führungsumbau",
+          "link": "https://www.finanzen.net/nachricht/aktien/personalie-micron-aktie-im-fokus-ki-boom-zwingt-chip-riesen-zum-fuehrungsumbau-00-15911587",
+          "published": "2026-09-08T19:35:00+00:00",
+          "summary": "Micron beruft Manish Bhatia zum President und Chief Operating Officer • Scott DeBoer wird zum President und Chief Technology and Products Officer ernannt • Sumit Sadana wechselt als Senior Advisor an …"
         },
         {
-          "title": "Goldman Sachs hebt Ölpreisprognose an - bis zu 120 US-Dollar möglich",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/ausblick-goldman-sachs-hebt-oelpreisprognose-an-bis-zu-120-us-dollar-moeglich-00-15923625",
-          "published": "2026-09-08T17:54:00+00:00",
-          "summary": "Goldman Sachs passt Ölpreisprognosen für Brent und WTI deutlich an Spannungen im Nahen Osten an der Straße von Hormus treiben die Einschätzung Analysten skizzieren im Extremfall einen Ölpreis von …"
+          "title": "Aktien im Fokus: Syngenta und Amoéba schliessen Vertriebsdeal für Biofungizid",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-im-fokus-syngenta-und-amoéba-schliessen-vertriebsdeal-fuer-biofungizid-15924358",
+          "published": "2026-09-08T19:34:00+00:00",
+          "summary": "Der Pflanzenschutz- und Saatguthersteller Syngenta und das französische Greentech-Unternehmen Amoéba haben eine exklusive Liefer- und Vertriebsvereinbarung für ein neuartiges Biofungizid (AXP20) …"
         }
       ],
       "error": null
@@ -209,6 +209,18 @@
           "summary": "Hohe Kosten, niedriger Absatz: Hiesige Autohersteller stecken allesamt in der Krise. Das macht die Aktien zwar günstig, aber noch längst nicht attraktiv."
         },
         {
+          "title": "Q.ant: Macht ein deutscher Lichtchip Nvidia zur Old Economy?",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/q.ant-als-nvidia-alternative-kann-der-deutsche-ki-chip-siegen/100251611.html",
+          "published": "2026-09-08T18:47:00+00:00",
+          "summary": "Hohe Preise, null Wettbewerb: Die Unzufriedenheit der von Nvidia abhängigen Unternehmen wächst. Jetzt ist eine Alternative verfügbar – aus Deutschland."
+        },
+        {
+          "title": "The Exploration Company: Hélène Huby will die mächtigste Rakete Europas bauen",
+          "link": "https://www.wiwo.de/technologie/forschung/the-exploration-company-start-up-fordert-spacex-heraus/100252972.html",
+          "published": "2026-09-08T18:46:19+00:00",
+          "summary": "Die Münchner Gründerin Hélène Huby sammelt fast eine halbe Milliarde Dollar ein – und will nun neben Europas erstem Raumschiff auch die größte Rakete bauen."
+        },
+        {
           "title": "Flugreisen: Flugausfälle in Großbritannien – auch Lufthansa betroffen",
           "link": "https://www.wiwo.de/unternehmen/dienstleister/flugreisen-flugausfaelle-in-grossbritannien-auch-lufthansa-betroffen/100253025.html",
           "published": "2026-09-08T18:00:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-kurz-vor-mitternacht-kam-der-durchbruch/100253015.html",
           "published": "2026-09-08T17:54:38+00:00",
           "summary": "Nach stundenlangen Verhandlungen näherten sich die VW-Anteilseigner an. Hardliner Manfred Döss war nicht eingeladen, Wolfgang Porsche verteilte Lob – die Rekonstruktion der historischen VW-Einigung."
-        },
-        {
-          "title": "Q.ant: Q.ant strebt einer neuen Tech-Ära entgegen",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/q.ant-als-nvidia-alternative-kann-der-deutsche-ki-chip-siegen/100251611.html",
-          "published": "2026-09-08T17:15:03+00:00",
-          "summary": "Hohe Preise, null Wettbewerb: Die Unzufriedenheit der von Nvidia abhängigen Unternehmen wächst. Jetzt ist eine Alternative verfügbar – aus Deutschland."
-        },
-        {
-          "title": "Nach AfD-Sieg in Sachsen-Anhalt: Bund und Länder denken über Einhegung möglicher AfD-Gefahren nach",
-          "link": "https://www.wiwo.de/politik/deutschland/nach-afd-sieg-in-sachsen-anhalt-bund-und-laender-denken-ueber-einhegung-moeglicher-afd-gefahren-nach/100253022.html",
-          "published": "2026-09-08T17:04:59+00:00",
-          "summary": "In Sachsen-Anhalt gewann der rechtsextreme Landesverband der AfD die Landtagswahlen. Regiert sie, könnte das mitunter bundesweite Risiken bergen."
         }
       ],
       "error": null
