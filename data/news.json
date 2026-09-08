@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T00:14:49+00:00",
+  "generatedAt": "2026-09-08T02:08:47+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ USA +++: Trump zeigt Landkarte – Grönland und Kanada als Teil der USA?",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trump-zeigt-landkarte-groenland-und-kanada-als-teil-der-usa/29669594.html",
-          "published": "2026-09-07T22:14:00+00:00",
-          "summary": "Amazon-Frachtjet-Unfall: Ermittler sichern Flugschreiber +++ Mindestens fünf Tote +++ Trump will Verkauf von Bombardier-Flugzeugen in den USA verbieten +++ Der Newsblog."
+          "title": "Übernachtungen: Lernen Budget-Hotels jetzt Stil? Was der B&B-Deutschlandchef künftig anders machen will",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/hotels-das-ende-der-nuechternheit-was-der-bb-deutschlandchef-plant/100251083.html",
+          "published": "2026-09-08T02:04:17+00:00",
+          "summary": "Seit ihrem Deutschlandstart 1998 wollte die Kette B&B vor allem eines sein: billig. Jetzt verordnet der vor zwei Jahren angetretene Arno Schwalie den 240 Häusern eine Designoffensive."
         },
         {
-          "title": "Versorgungssicherheit: „Mächtiger Erpressungshebel“: Abhängigkeit der EU von LNG aus Russland und den USA steigt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/gas-importe-abhaengigkeit-der-eu-von-lng-aus-russland-und-den-usa-steigt/100252688.html",
-          "published": "2026-09-07T22:04:32+00:00",
-          "summary": "Der Anteil der LNG-Importe der EU aus Russland und den USA ist zuletzt gestiegen. Fachleute warnen vor der wachsenden Abhängigkeit von wenigen Lieferanten."
+          "title": "Luftfahrt: Zu wenig Premiumsitze – Lufthansa prüft Umbau der Kabine",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-zu-wenig-premiumsitze-lufthansa-prueft-umbau-der-kabine/100250838.html",
+          "published": "2026-09-08T01:59:57+00:00",
+          "summary": "Teure Sitze sind wichtig für die Profitabilität. Europas größter Airline-Konzern könnte davon mehr verkaufen, als verfügbar sind. Das Management überlegt, das Premiumangebot auszubauen."
         },
         {
-          "title": "Nach Wahl in Sachsen-Anhalt: Tausende protestieren gegen die AfD",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-wahl-in-sachsen-anhalt-tausende-protestieren-gegen-die-afd/100252713.html",
-          "published": "2026-09-07T20:27:11+00:00",
-          "summary": "Der Wahlsieg der AfD beschäftigt nicht nur die Menschen in Sachsen-Anhalt. Vielerorts in Deutschland gehen die Menschen gegen die Partei auf die Straße, darunter Tausende in Berlin."
+          "title": "Immobilien: Droht der Immobilienbranche die nächste Pleitewelle?",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-droht-der-immobilienbranche-die-naechste-pleitewelle/100250099.html",
+          "published": "2026-09-08T01:57:50+00:00",
+          "summary": "Nach den Insolvenzen der Projektentwickler Pandion und Peters Development herrscht Unruhe auf dem Immobilienmarkt. Erwischt es jetzt noch weitere Entwickler? Experten mahnen zur Vorsicht."
         },
         {
-          "title": "+++ Iran-Krieg +++: Iran kündigt neues Sperrgebiet vor der Straße von Hormus an",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-kuendigt-neues-sperrgebiet-vor-der-strasse-von-hormus-an/100136895.html",
-          "published": "2026-09-07T19:54:00+00:00",
-          "summary": "Emirate lehnen Kontrolle der Straße von Hormus durch Einzelstaat ab +++ Schiffsverkehr in Straße von Hormus bricht nach Angriffen ein +++ Iran erhöht Benzinpreis für Vielverbraucher +++ Der Newsblog."
+          "title": "AfD: Grüne sorgen sich wegen AfD-Wahlerfolg um Kooperation mit Partnergeheimdiensten",
+          "link": "https://www.handelsblatt.com/politik/deutschland/afd-gruene-sorgen-sich-um-kooperation-mit-partnergeheimdiensten/100252708.html",
+          "published": "2026-09-08T01:53:24+00:00",
+          "summary": "Der Wahlerfolg der AfD in Sachsen-Anhalt alarmiert Sicherheitspolitiker. Sie fürchten negative Folgen für den Austausch geheimer Informationen mit anderen Staaten."
         },
         {
-          "title": "Sachsen-Anhalt: Müller will neuer CDU-Chef in Sachsen-Anhalt werden",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-mueller-will-neuer-cdu-chef-in-sachsen-anhalt-werden/100252703.html",
-          "published": "2026-09-07T19:42:00+00:00",
-          "summary": "Nach dem schlechten Abschneiden bei der Landtagswahl in Sachsen-Anhalt zieht die CDU erste Konsequenzen. Im Herbst soll es einen Parteitag geben. Ein Bundestagsabgeordneter will kandidieren."
+          "title": "Asien: Japans Wirtschaft wächst im zweiten Quartal stärker als zunächst geschätzt",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/asien-japans-wirtschaft-waechst-im-zweiten-quartal-staerker-als-zunaechst-geschaetzt/100252725.html",
+          "published": "2026-09-08T01:29:13+00:00",
+          "summary": "Die Lage im Nahen Osten hat das Wachstum weniger belastet. Und das Bruttoinlandsprodukt stieg auf das Jahr hochgerechnet um 1,4 Prozent."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "KI-Aktien im Blick: Warum JPMorgan die Billionen-Investitionen für tragfähig hält",
-          "link": "https://www.finanzen.net/nachricht/aktien/rechenzentren-ki-aktien-im-blick-warum-jpmorgan-die-billionen-investitionen-fuer-tragfaehig-haelt-00-15910055",
-          "published": "2026-09-07T21:32:00+00:00",
-          "summary": "JPMorgan hebt Prognose für globale KI-Investitionen bis 2030 auf 5,5 Billionen Dollar an • Kapitalausgaben der größten US-Hyperscaler sollen 2026 deutlich zulegen • Fremdkapitalfinanzierung von …"
+          "title": "GNW-News: PU Prime mobilisiert Hilfsmaßnahmen für die vom Erdbeben betroffene Gemeinde in Chocó, Kolumbien",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-pu-prime-mobilisiert-hilfsmassnahmen-fuer-die-vom-erdbeben-betroffene-gemeinde-in-chocó-kolumbien-15922442",
+          "published": "2026-09-08T02:04:38+00:00",
+          "summary": "^* PU Prime reagiert auf das Erdbeben der Stärke 7,4 mit Nothilfe in Chocó.* 34 Familien erhalten lebensnotwendige Hilfsgüter, darunter Unterstützung für 14 Familien mit Säuglingen.* Die Initiative …"
         },
         {
-          "title": "Ukrainischer Generalstaatsanwalt kündigt Rücktritt an",
-          "link": "https://www.finanzen.net/nachricht/aktien/ukrainischer-generalstaatsanwalt-kuendigt-ruecktritt-an-15922374",
-          "published": "2026-09-07T21:03:38+00:00",
-          "summary": "KIEW (dpa-AFX) - Der ukrainische Generalstaatsanwalt Ruslan Krawtschenko hat im Zusammenhang mit einer Korruptionsaffäre in seiner Behörde seinen Rücktritt angekündigt. \"Das ist eine politische …"
+          "title": "China-Aktien überflügeln USA: IPO-Rekord im direkten Vergleich",
+          "link": "https://www.finanzen.net/nachricht/aktien/china-aktien-ueberfluegeln-usa-ipo-rekord-im-direkten-vergleich-15922437",
+          "published": "2026-09-08T01:40:18+00:00",
+          "summary": "Hongkong erlebt im ersten Halbjahr einen historischen IPO-Boom. Die Börse steigt zur zweitgrössten IPO-Adresse der Welt auf und lässt viele US-Notierungen hinter sich."
         },
         {
-          "title": "Anthropic-Aktie vor dem Börsengang: Welche Chancen und Risiken bei dem möglichen Rekord-IPO bestehen",
-          "link": "https://www.finanzen.net/nachricht/aktien/groesser-als-spacex-anthropic-aktie-vor-dem-boersengang-welche-chancen-und-risiken-bei-dem-moeglichen-rekord-ipo-bestehen-00-15915959",
-          "published": "2026-09-07T20:59:00+00:00",
-          "summary": "Anthropic reichte im Juni 2026 vertraulich Unterlagen für einen Börsengang ein Letzte Bewertung lag bei 965 Milliarden US-Dollar nach frischem Kapital Compute-Kosten und die Governance-Struktur …"
+          "title": "Wiederholt sich die Japan-Aktienrally von 2023? Das sagt Bank of America",
+          "link": "https://www.finanzen.net/nachricht/aktien/rueckkauf-wiederholt-sich-die-japan-aktienrally-von-2023-das-sagt-bank-of-america-00-15914281",
+          "published": "2026-09-08T01:35:38+00:00",
+          "summary": "US-Finanzministerium verdoppelt Rückkaufobergrenze für langfristige Staatsanleihen • Bank of America zieht in einem Strategiebericht Parallelen zur sogenannten Fed-Pivot-Rally japanischer Aktien von …"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-07T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "Micron-Aktie im Fokus: KI-Boom zwingt Chip-Riesen zum Führungsumbau",
+          "link": "https://www.finanzen.net/nachricht/aktien/personalie-micron-aktie-im-fokus-ki-boom-zwingt-chip-riesen-zum-fuehrungsumbau-00-15911587",
+          "published": "2026-09-08T01:35:26+00:00",
+          "summary": "Micron beruft Manish Bhatia zum President und Chief Operating Officer • Scott DeBoer wird zum President und Chief Technology and Products Officer ernannt • Sumit Sadana wechselt als Senior Advisor an …"
         },
         {
-          "title": "Willingmann sieht kein Ende der Volksparteien",
-          "link": "https://www.finanzen.net/nachricht/aktien/willingmann-sieht-kein-ende-der-volksparteien-15922368",
-          "published": "2026-09-07T20:46:38+00:00",
-          "summary": "MAGDEBURG (dpa-AFX) - Trotz des schwachen Abschneidens der etablierten Parteien bei der Sachsen-Anhalt-Wahl im Vergleich zur AfD sieht SPD-Spitzenkandidat Armin Willingmann kein grundsätzliches Ende …"
+          "title": "Jeden Monat Dividende: Warum die Aktien von Realty Income & Main Street Capital bei Privatanlegern beliebt sind",
+          "link": "https://www.finanzen.net/nachricht/aktien/monatszahler-jeden-monat-dividende-warum-die-aktien-von-realty-income-main-street-capital-bei-privatanlegern-beliebt-sind-00-15911511",
+          "published": "2026-09-08T01:27:37+00:00",
+          "summary": "Realty Income zahlt im September seine 674. monatliche Dividende in Folge • Main Street Capital schüttet monatlich 0,265 US-Dollar je Aktie aus • Zinsen , Kreditrisiken, US-Quellensteuer und …"
         }
       ],
       "error": null
