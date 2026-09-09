@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T02:09:14+00:00",
+  "generatedAt": "2026-09-09T04:09:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -9,33 +9,33 @@
       "items": [
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645710.html",
-          "published": "2026-09-09T00:06:06+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645756.html",
+          "published": "2026-09-09T04:05:43+00:00",
           "summary": ""
         },
         {
-          "title": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-          "link": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
-          "published": "2026-09-08T23:08:56+00:00",
-          "summary": "Ein Streik dürfe den Bahnverkehr in den Niederlanden heute weitgehend zum Stillstand bringen. Betroffen sind auch mehrere Verbindungen von und nach Deutschland. Hintergrund sind geplante Einschnitte …"
+          "title": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
+          "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html",
+          "published": "2026-09-09T03:57:55+00:00",
+          "summary": "Der Zollkonflikt zwischen den USA und Kanada geht in die nächste Runde: Nach den jüngsten Zöllen aus Ottawa hat Washington jetzt milliardenschwere Einfuhrverbote für bestimmte kanadische Produkte …"
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80908.html",
-          "published": "2026-09-08T22:24:36+00:00",
-          "summary": ""
+          "title": "Norwegens König Harald V. wird in Oslo beigesetzt",
+          "link": "https://www.tagesschau.de/ausland/europa/norwegen-beerdigung-koenig-harald-100.html",
+          "published": "2026-09-09T03:08:50+00:00",
+          "summary": "Mehr als drei Jahrzehnte regierte er Norwegen, heute wird König Harald V. in Oslo beigesetzt. Zehntausende Norweger geben ihm das letzte Geleit - zusammen mit Staatsgästen aus aller Welt. Von Arne …"
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12842.html",
-          "published": "2026-09-08T21:47:22+00:00",
-          "summary": ""
+          "title": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
+          "link": "https://www.tagesschau.de/ausland/asien/usa-iran-krieg-angriff-tanker-100.html",
+          "published": "2026-09-09T03:08:34+00:00",
+          "summary": "US-Streitkräfte haben nach eigenen Angaben fünf iranische Öltanker zerstört. Die Angriffe seien eine Vergeltung für frühere iranische Attacken gewesen. Iran reagierte mit Raketenangriffen auf …"
         },
         {
-          "title": "Basketball-WM der Frauen: Deutschland nach Sieg gegen Südkorea im Viertelfinale",
-          "link": "https://www.sportschau.de/basketball/nationalmannschaft/basketballerinnen-ziehen-ins-wm-viertelfinale-ein,basketball-wm-deutschland-suedkorea-100.html",
-          "published": "2026-09-08T21:46:02+00:00",
-          "summary": "Auch die Hürde Südkorea haben Deutschlands Basketballerinnen souverän gemeistert. Mit dem Einzug ins Viertelfinale rückt eine Medaille bei der Heim-WM näher."
+          "title": "Wie der Konflikt im Jemen wieder aufflammt",
+          "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-100.html",
+          "published": "2026-09-09T03:08:13+00:00",
+          "summary": "Mit Angriffen auf Ölanlagen Saudi-Arabiens verschärft die Huthi-Miliz den Konflikt mit dem Nachbarland. Die von Saudi-Arabien unterstützte Regierung Jemens geht gegen die Huthi vor. Droht eine …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Raumfahrt: Europas Satellitenhersteller treiben Megafusion voran – obwohl ihr Weltraumgeschäft boomt",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/raumfahrt-europas-satellitenhersteller-treiben-megafusion-voran/100251135.html",
-          "published": "2026-09-09T01:58:53+00:00",
-          "summary": "Schon bald wollen Airbus, Thales und Leonardo der EU ihre Pläne offiziell vorlegen. Die deutschen Konkurrenten sind besorgt und warnen vor einem Marktgiganten – wie Zahlen belegen."
+          "title": "Bis zu 490 Euro pro Monat: Abnehmspritze und -pille: Wann sie die Steuerlast senken",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/bis-zu-490-euro-pro-monat-abnehmspritze-und-pille-wann-sie-die-steuerlast-senken/100253105.html",
+          "published": "2026-09-09T03:53:04+00:00",
+          "summary": "Die Spritze oder die Pille zum Abnehmen kosten oft mehrere Hundert Euro im Monat. Unter bestimmten Bedingungen können die Ausgaben die Steuerlast senken."
         },
         {
-          "title": "Zollkonflikt: USA kündigen Einfuhrverbot für einige kanadische Waren an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/zollkonflikt-usa-kuendigen-einfuhrverbot-fuer-einige-kanadische-waren-an/100253059.html",
-          "published": "2026-09-09T01:47:47+00:00",
-          "summary": "Schlag auf Schlag geht es im Zollkonflikt zwischen den USA und Kanada weiter. Nach den jüngsten Zöllen aus Ottawa kommt prompt eine Antwort aus Washington."
+          "title": "Nikkei, Topix, CSI 300: Tech-Rally beflügelt Asiens Börsen trotz Nahost-Eskalation",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/nikkei-topix-csi-300-tech-rally-befluegelt-asiens-boersen-trotz-nahost-eskalation/100253099.html",
+          "published": "2026-09-09T03:35:10+00:00",
+          "summary": "Während die Begeisterung für Künstliche Intelligenz die Sorgen über den Krieg im Nahen Osten in Japan verdrängt, spielen die Auswirkungen des Konflikts in China eine größere Rolle."
         },
         {
-          "title": "Nach Wahl in Sachsen-Anhalt: Hessens Regierungschef sieht mögliche AfD-Prüfung skeptisch",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-wahl-in-sachsen-anhalt-hessens-regierungschef-sieht-moegliche-afd-pruefung-skeptisch/100253068.html",
-          "published": "2026-09-09T01:10:04+00:00",
-          "summary": "Die Union ringt um den richtigen Kurs im Umgang mit der AfD. Ein Vorstoß von NRW-Ministerpräsident Hendrik Wüst sorgt für neue Diskussionen."
+          "title": "Rhône-Delta in Südfrankreich: Camargue: Radtour mit Stieren, Sumpf und Südbalkon für alle",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/rhone-delta-in-suedfrankreich-camargue-radtour-mit-stieren-sumpf-und-suedbalkon-fuer-alle/100253102.html",
+          "published": "2026-09-09T03:22:09+00:00",
+          "summary": "Salinen und Sümpfe, weiße Pferde und unblutige Stierkämpfe, Architektur aus Epochen: Eine Radreise am Rhône-Delta ist bizarr abwechslungsreich. Und dann wäre da noch „die größte Stadt Frankreichs“."
         },
         {
-          "title": "Nach Wahl in Sachsen-Anhalt: Trump gratuliert AfD - Bewegung „im Aufwind“",
-          "link": "https://www.handelsblatt.com/politik/international/nach-wahl-in-sachsen-anhalt-trump-gratuliert-afd-bewegung-im-aufwind/100253066.html",
-          "published": "2026-09-09T00:58:56+00:00",
-          "summary": "Immer wieder kritisiert US-Präsident Trump Deutschland für seinen Umgang mit Migranten. Die AfD scheint er dabei auf seiner Seite zu sehen. Zu deren jüngstem Erfolg schickt er Glückwünsche."
+          "title": "Verkehrssicherheit: Rund 22 Prozent der Nutzfahrzeuge fallen beim TÜV durch",
+          "link": "https://www.handelsblatt.com/politik/deutschland/verkehrssicherheit-rund-22-prozent-der-nutzfahrzeuge-fallen-beim-tuev-durch/100253100.html",
+          "published": "2026-09-09T03:15:04+00:00",
+          "summary": "Fast 3,9 Millionen Nutzfahrzeuge sind in Deutschland angemeldet. Das Durchschnittsalter ist in den vergangenen Jahren gestiegen - mit Folgen bei der Hauptuntersuchung."
         },
         {
-          "title": "Iran-Krieg: USA „zerstören“ iranische Tanker - Teheran feuert Raketen ab",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-zerstoeren-iranische-tanker-teheran-feuert-raketen-ab/100253049.html",
-          "published": "2026-09-09T00:29:38+00:00",
-          "summary": "Wieder nimmt das US-Militär iranische Tanker ins Visier. Die Reaktion des Irans lässt nicht lange auf sich warten. Beide Seiten sprechen von Vergeltung."
+          "title": "Invest: Standard-Chartered-Expertin über den Boom bei digitalen Vermögenswerten",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-standard-chartered-expertin-ueber-den-boom-bei-digitalen-vermoegenswerten/100221411.html",
+          "published": "2026-09-09T03:10:00+00:00",
+          "summary": "Jennifer Lassiter leitet bei der britischen Bank das Geschäft mit Digital Assets und spricht im Podcast über die erfolgsversprechendsten Projekte und den 24-Stunden-Handel."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "\"Wem gehört der DAX?\" - Wer die meisten Anteile am deutschen Leitindex hält",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktionaere-34-wem-gehoert-der-dax-34-wer-die-meisten-anteile-am-deutschen-leitindex-haelt-8987726",
-          "published": "2026-09-09T01:55:00+00:00",
-          "summary": "Institutionelle Investoren halten 60,2 Prozent des DAX-Streubesitzes Passive Indexfonds treiben die Kapitalzuflüsse so stark wie nie zuvor Nordamerika bleibt größte Region, London stärkster …"
+          "title": "TAGESVORSCHAU/Mittwoch, 8. September",
+          "link": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-mittwoch-8-september-15924680",
+          "published": "2026-09-09T04:00:42+00:00",
+          "summary": "=== *** 03:30 CN/Verbraucherpreise August PROGNOSE: +0,8% gg Vj zuvor: +0,5% gg Vj *** 03:30 CN/Erzeugerpreise August PROGNOSE: +3,7% gg Vj zuvor: +3,5% gg Vj *** 07:30 ES/Inditex SA, Ergebnis 1H …"
         },
         {
-          "title": "Warren Buffetts Wette gegen Hedgefonds: Der Beleg für passives Investieren",
-          "link": "https://www.finanzen.net/nachricht/aktien/warren-buffetts-wette-gegen-hedgefonds-der-beleg-fuer-passives-investieren-15924615",
-          "published": "2026-09-09T01:31:42+00:00",
-          "summary": "Eine Wette über zehn Jahre sollte zeigen, ob aktive Fondsmanager den Markt schlagen können. Warren Buffetts Ergebnis liefert bis heute ein schlagendes Argument für passives Investieren."
+          "title": "Merz spricht mit Costa über EU-Haushalt",
+          "link": "https://www.finanzen.net/nachricht/aktien/merz-spricht-mit-costa-ueber-eu-haushalt-15924675",
+          "published": "2026-09-09T03:49:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Bundeskanzler Friedrich Merz (CDU) trifft sich am Mittwoch in Berlin mit EU-Ratspräsident António Costa. Bei dem Gespräch im Kanzleramt wird es vor allem um die schwierigen …"
         },
         {
-          "title": "SpaceX-Aktie vor Starship-Test: Testflug 14 könnte schon am 15. September starten",
-          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-vor-starship-test-testflug-14-koennte-schon-am-15-september-starten-00-15922828",
-          "published": "2026-09-09T01:30:37+00:00",
-          "summary": "SpaceX benannte in einem FCC-Antrag den 15. September als geplantes Datum für Testflug 14 • Start soll erstmals V3-Starlink-Satelliten in den operativen Orbit bringen • Booster 21 und Ship 41 haben …"
+          "title": "Nach dem AfD-Wahlbeben: Merz gegen Weidel im Bundestag",
+          "link": "https://www.finanzen.net/nachricht/aktien/nach-dem-afd-wahlbeben-merz-gegen-weidel-im-bundestag-15924674",
+          "published": "2026-09-09T03:49:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Drei Tage nach dem haushohen Sieg der AfD über die regierende CDU in Sachsen-Anhalt treffen die Vorsitzenden der beiden Parteien im Bundestag aufeinander. Die AfD-Partei- und …"
         },
         {
-          "title": "Japan-Aktienrally von 2023 vor Wiederholung? Das sagt Bank of America",
-          "link": "https://www.finanzen.net/nachricht/aktien/japan-aktienrally-von-2023-vor-wiederholung-das-sagt-bank-of-america-15924614",
-          "published": "2026-09-09T01:18:59+00:00",
-          "summary": "Steigende US-Renditen hatten Anleger monatelang beschäftigt, nun greift das US-Finanzministerium mit grösseren Anleiherückkäufen ein."
+          "title": "Erstes auffaltbares iPhone von Apple erwartet",
+          "link": "https://www.finanzen.net/nachricht/aktien/erstes-auffaltbares-iphone-von-apple-erwartet-15924673",
+          "published": "2026-09-09T03:49:38+00:00",
+          "summary": "CUPERTINO (dpa-AFX) - Von Apple wird am Mittwoch (ab 19.00 Uhr MESZ) die Vorstellung neuer iPhones erwartet. Dabei will der Konzern laut Medienberichten auch ins Geschäft mit auffaltbaren Smartphones …"
         },
         {
-          "title": "Billionenschwere KI-Investitionen: JPMorgan sieht solides Fundament",
-          "link": "https://www.finanzen.net/nachricht/aktien/billionenschwere-ki-investitionen-jpmorgan-sieht-solides-fundament-15924600",
-          "published": "2026-09-09T01:11:00+00:00",
-          "summary": "JPMorgan hebt seine Prognose für globale KI-Investitionen deutlich an und sieht den Ausbau wirtschaftlich auf soliden Beinen."
+          "title": "Pressestimme: 'Nürnberger Nachrichten' zu Pisa-Studie",
+          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-nuernberger-nachrichten-zu-pisa-studie-15924669",
+          "published": "2026-09-09T03:34:43+00:00",
+          "summary": "NÜRNBERG (dpa-AFX) - \"Nürnberger Nachrichten\" zu Pisa-Studie:\"Der einzige überdurchschnittliche Wert der deutschen Pisa-Studie war, dass sich 75 Prozent der Jugendlichen ihrer Schule zugehörig …"
         }
       ],
       "error": null
@@ -209,6 +209,12 @@
           "summary": "Hohe Kosten, niedriger Absatz: Hiesige Autohersteller stecken allesamt in der Krise. Das macht die Aktien zwar günstig, aber noch längst nicht attraktiv."
         },
         {
+          "title": "Pickup-Trucks und SUV: VW in „intensiven Gesprächen“ mit möglichen US-Partnern",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-strategie-usa-volkswagen-in-gespraechen-mit-neuen-partnern-fuer-pickups-und-suv/100252013.html",
+          "published": "2026-09-09T04:00:22+00:00",
+          "summary": "Der neue Nordamerika-Chef von VW muss in seinen ersten Wochen eine große Hürde nehmen: Er soll mit großen Autoherstellern in den USA weitreichende Kooperationen einfädeln."
+        },
+        {
           "title": "Q.ant: Macht ein deutscher Lichtchip Nvidia zur Old Economy?",
           "link": "https://www.wiwo.de/unternehmen/dienstleister/q.ant-als-nvidia-alternative-kann-der-deutsche-ki-chip-siegen/100251611.html",
           "published": "2026-09-08T18:47:00+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/dienstleister/flugreisen-flugausfaelle-in-grossbritannien-auch-lufthansa-betroffen/100253025.html",
           "published": "2026-09-08T18:00:00+00:00",
           "summary": "Eine technische Störung sorgte für Flugausfälle in ganz Großbritannien. Airlines kritisieren die britische Flugsicherung und fordern Konsequenzen."
-        },
-        {
-          "title": "Volkswagen: Kurz vor Mitternacht kam der Durchbruch",
-          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-kurz-vor-mitternacht-kam-der-durchbruch/100253015.html",
-          "published": "2026-09-08T17:54:38+00:00",
-          "summary": "Nach stundenlangen Verhandlungen näherten sich die VW-Anteilseigner an. Hardliner Manfred Döss war nicht eingeladen, Wolfgang Porsche verteilte Lob – die Rekonstruktion der historischen VW-Einigung."
         }
       ],
       "error": null
