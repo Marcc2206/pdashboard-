@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:11:50+00:00",
+  "generatedAt": "2026-09-09T08:09:54+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645782.html",
-          "published": "2026-09-09T06:08:30+00:00",
-          "summary": ""
+          "title": "Liveblog zur Generaldebatte: ++ Scharfe Attacken zwischen Weidel und Merz ++",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-generaldebatte-106.html",
+          "published": "2026-09-09T08:05:59+00:00",
+          "summary": "Generaldebatte unter dem Eindruck einer denkwürdigen Landtagswahl: Drei Tage nach dem AfD-Wahlsieg über die regierende CDU in Sachsen-Anhalt treffen AfD-Chefin Weidel und CDU-Chef Merz im Bundestag …"
         },
         {
-          "title": "Eskalation im Iran-Krieg: DAX dürfte unter 26.000 Punkte fallen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
-          "published": "2026-09-09T05:27:05+00:00",
-          "summary": "Eine neue Eskalation am Persischen Golf lässt weiteren Druck auf den deutschen Aktienmarkt erwarten. Der DAX wird zwei Stunden vor Handelsbeginn etwa 0,6 Prozent tiefer gesehen."
+          "title": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
+          "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html",
+          "published": "2026-09-09T07:16:24+00:00",
+          "summary": "Der Zollkonflikt zwischen den USA und Kanada geht in die nächste Runde: Nach den jüngsten Zöllen aus Ottawa hat Washington jetzt milliardenschwere Einfuhrverbote für bestimmte kanadische Produkte …"
         },
         {
-          "title": "\"Verbindendende Union ausbuchstabieren\", Franziska Hoppermann, CDU-Generalsekretärin, zur Generaldebatte",
-          "link": "https://www.tagesschau.de/video/video-1645770.html",
-          "published": "2026-09-09T05:25:26+00:00",
-          "summary": ""
+          "title": "Tote nach russischen Angriffen in mehreren Regionen der Ukraine",
+          "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-142.html",
+          "published": "2026-09-09T07:12:09+00:00",
+          "summary": "Bei russischen Angriffen in der Ukraine sind mehrere Menschen getötet worden. Ein Grenzübergang zu Moldau und die Hafenstadt Mykolajiw wurden getroffen. Auch Kiew geriet wieder ins Visier - gestern …"
+        },
+        {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-09T06:45:17+00:00",
+          "summary": "Am Mittwoch ist es Richtung Südosten oft stark bewölkt und gebietsweise fällt Regen, am meisten in Alpennähe. Sonst gibt es mal Sonne, mal Wolken und vor allem im Nordwesten Schauer und einzelne …"
         },
         {
           "title": "Champions League: Dortmund schlägt Villarreal zum Auftakt mit 3:9",
           "link": "https://www.sportschau.de/fussball/championsleague/bvb-verdaut-karetsas-schock-und-schlaegt-villarreal,cl-bvb-villarreal-100.html",
-          "published": "2026-09-09T05:14:13+00:00",
+          "published": "2026-09-09T06:38:56+00:00",
           "summary": "Borussia Dortmund hat zum Auftakt der Königsklasse gegen Villarreal gewonnen, musste im ersten Durchgang aber einen Schockmoment verdauen: Toptalent Karetsas musste mit Kreislaufproblemen ins …"
-        },
-        {
-          "title": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
-          "link": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html",
-          "published": "2026-09-09T05:13:06+00:00",
-          "summary": "Apple gilt bei Künstlicher Intelligenz als Nachzügler - Symbol dafür ist Siri. Warum ausgerechnet geringere KI-Ausgaben zum Vorteil werden könnten und was den iPhone-Konzern jetzt unter Druck setzt. …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Gehaltsreport 2026: 1,3 Millionen Gehaltsdaten im Vergleich: Gehören Sie zu den Besserverdienern in Deutschland?",
-          "link": "https://www.handelsblatt.com/karriere/geld-das-sind-deutschlands-bestbezahlte-berufe-2026-19/100179922.html",
-          "published": "2026-09-09T06:04:00+00:00",
-          "summary": "Das Gehalt gehört nach wie vor zu den Tabuthemen in Deutschland. Finden Sie heraus, wie gut Sie im Vergleich in einzelnen Berufen, Branchen und Bundesländern verdienen."
+          "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-so-schneidet-ihr-vermoegen-im-deutschen-vergleich-ab/100149729.html",
+          "published": "2026-09-09T07:59:00+00:00",
+          "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen."
         },
         {
-          "title": "Sicherheit: „Reale Gefahr für die nationale Sicherheit“ – Polizeigewerkschaften warnen vor AfD-Regierung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sicherheit-polizeigewerkschaften-warnen-vor-gefahren-einer-afd-regierung/100253027.html",
-          "published": "2026-09-09T06:02:34+00:00",
-          "summary": "Nach dem AfD-Wahlerfolg wächst die Sorge vor einem Zugriff auf sicherheitsrelevante Informationen. Polizeigewerkschafter fordern deshalb Konsequenzen noch vor einem Machtwechsel."
+          "title": "Führung: Sind Sie ein „Maximizer“ oder ein „Satisficer“?",
+          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-sei-bereit-fehler-zu-machen-aber-lerne-aus-ihnen/100248866.html",
+          "published": "2026-09-09T07:58:00+00:00",
+          "summary": "Dem Psychologen Thorsten Pachur zufolge gibt es zwei Typen von Entscheidern. Egal, zu welchem Sie gehören: Auf Ihre Intuition sollten Sie sich nur unter einer Bedingung verlassen."
         },
         {
-          "title": "Greentech: Wissenschaftler entwickeln Stromübertragung ohne Kabel",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/energie-wissenschaftler-entwickeln-stromuebertragung-ohne-kabel/100251126.html",
-          "published": "2026-09-09T06:01:00+00:00",
-          "summary": "Flugzeuge im Flug laden, Strom übers Meer senden, Weltraum-Energie zur Erde schicken: Mit einer neuen Technologie wollen Start-ups all das möglich machen. Was noch fehlt, sind Investoren."
+          "title": "Verkehrssicherheit: Rund 20 Prozent der Nutzfahrzeuge fallen beim TÜV durch",
+          "link": "https://www.handelsblatt.com/politik/deutschland/verkehrssicherheit-rund-20-prozent-der-nutzfahrzeuge-fallen-beim-tuev-durch/100253100.html",
+          "published": "2026-09-09T07:53:13+00:00",
+          "summary": "Fast 3,9 Millionen Nutzfahrzeuge sind in Deutschland angemeldet. Das Durchschnittsalter ist in den vergangenen Jahren gestiegen - mit Folgen bei der Hauptuntersuchung."
         },
         {
-          "title": "Lars von Lackum: „Eine Mietwohnung ist nie nur Vermögensgegenstand“",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wer-einmal-guenstig-wohnt-bleibt-01/100250347.html",
-          "published": "2026-09-09T05:51:00+00:00",
-          "summary": "Der Chef des Immobilienkonzerns LEG erklärt, warum ihn der Besuch von verfallenen ostdeutschen Wohnungsbeständen geprägt hat und warum der Mietmarkt derzeit in einem Teufelskreis steckt."
+          "title": "Bundestag: Merz nennt AfD „destruktive Kraft“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-merz-nennt-afd-destruktive-kraft/100253084.html",
+          "published": "2026-09-09T07:52:33+00:00",
+          "summary": "Nach dem Wahldebakel in Sachsen-Anhalt ist Friedrich Merz unter Druck geraten. Ein kämpferischer Kanzler nimmt sich im Bundestag die AfD vor."
         },
         {
-          "title": "Wahl in Sachsen-Anhalt: Trump gratuliert AfD – Bewegung „im Aufwind“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-trump-gratuliert-afd-bewegung-im-aufwind/100253117.html",
-          "published": "2026-09-09T05:44:02+00:00",
-          "summary": "Immer wieder kritisiert US-Präsident Trump Deutschland für seinen Umgang mit Migranten. Die AfD scheint er dabei auf seiner Seite zu sehen. Zu deren jüngstem Erfolg schickt er Glückwünsche."
+          "title": "Konjunktur: Stahlindustrie verzeichnet Rückgang der Produktion",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-stahlindustrie-verzeichnet-rueckgang-der-produktion/100253162.html",
+          "published": "2026-09-09T07:52:08+00:00",
+          "summary": "Die deutsche Rohstahlproduktion ist im Juli wegen schwacher Nachfrage um rund zwei Prozent gesunken. Für die ersten sieben Monate steht dennoch ein Plus von fast sieben Prozent."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Erstmals seit Juli: Eskalation im Nahen Osten treibt Preis für Brent-Öl über 100 Dollar",
+          "link": "https://www.n-tv.de/wirtschaft/Eskalation-im-Nahen-Osten-treibt-Preis-fuer-Brent-Oel-ueber-100-Dollar-id31285840.html",
+          "published": "2026-09-09T07:24:36+00:00",
+          "summary": "Der Iran und die USA greifen gegenseitig Schiffe im Nahen Osten an. Das treibt zum wiederholten Male die Ölpreise. Die Höchststände aus diesem Jahr sind aber noch ein ganzes Stück entfernt."
+        },
         {
           "title": "Software-Aktien unter Druck: Hoher Ölpreis macht Wall Street zu schaffen",
           "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-macht-Wall-Street-zu-schaffen-id31284836.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Warum-die-AfD-da-am-staerksten-ist-wo-sich-der-Arbeitsmarkt-am-besten-entwickelt-id31283681.html",
           "published": "2026-09-08T18:07:23+00:00",
           "summary": "Die Statistik zeigt eindeutig: Der Aufstieg der AfD fällt nicht etwa mit wirtschaftlichem Niedergang, sondern mit einem Rückgang der Arbeitslosigkeit zusammen. Wo sich der Arbeitsmarkt am besten …"
-        },
-        {
-          "title": "Nasdaq-100® im Chart-Check: Konstruktives Kräftesammeln!",
-          "link": "https://www.n-tv.de/wirtschaft/boerse/Konstruktives-Kraeftesammeln-id30347915.html",
-          "published": "2026-09-08T13:10:00+00:00",
-          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den Nasdaq-100."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Devisen: Euro stabil zum US-Dollar",
-          "link": "https://www.finanzen.net/nachricht/devisen/devisen-euro-stabil-zum-us-dollar-15924866",
-          "published": "2026-09-09T06:01:39+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Der Kurs des Euro hat sich am Mittwoch im frühen Handel im Vergleich zum US-Dollar kaum von der Stelle bewegt. Die europäische Gemeinschaftswährung wurde zuletzt bei 1,1634 …"
+          "title": "Merz sieht Handlungsbedarf nach Pisa-Studie",
+          "link": "https://www.finanzen.net/nachricht/aktien/merz-sieht-handlungsbedarf-nach-pisa-studie-15925163",
+          "published": "2026-09-09T08:05:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Bundeskanzler Friedrich Merz sieht nach den schlechten deutschen Ergebnissen in der Pisa-Bildungsstudie Handlungsbedarf. Die Ergebnisse der Studie seien ernüchternd, sagte der …"
         },
         {
-          "title": "240.000 Besucher erlebten KI und Roboter auf der IFA",
-          "link": "https://www.finanzen.net/nachricht/aktien/240-000-besucher-erlebten-ki-und-roboter-auf-der-ifa-15924864",
-          "published": "2026-09-09T05:59:40+00:00",
-          "summary": "BERLIN (dpa-AFX) - Die Elektronikausstellung IFA in Berlin ist in fünf Tagen von etwa 240.000 Besuchern aus 155 Ländern besucht worden. Mehr als 2.000 Aussteller präsentierten ihre Produkte, wie die …"
+          "title": "Riester-Rente wird abgeschafft: So viel Geld haben Sparer seit 2002 verloren",
+          "link": "https://www.finanzen.net/nachricht/aktien/riester-rente-wird-abgeschafft-so-viel-geld-haben-sparer-seit-2002-verloren-15925166",
+          "published": "2026-09-09T08:05:27+00:00",
+          "summary": ""
         },
         {
-          "title": "Reaktion auf Trump: 'South Park' heißt jetzt 'South America'",
-          "link": "https://www.finanzen.net/nachricht/aktien/reaktion-auf-trump-south-park-heisst-jetzt-south-america-15924863",
-          "published": "2026-09-09T05:58:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Als Reaktion auf die Umbenennung mehrerer Orte durch US-Präsident Donald Trump haben die Erfinder von \"South Park\" ihrer satirischen Zeichentrickserie einen neuen Namen gegeben. …"
+          "title": "Commerzbank: Der Bund pokert",
+          "link": "https://www.finanzen.net/nachricht/aktien/commerzbank-der-bund-pokert-15925164",
+          "published": "2026-09-09T08:05:17+00:00",
+          "summary": "Die Commerzbank hat den Übernahmekampf gegen die UniCredit verloren. Als Gewinner dürfen sich hingegen die Commerzbank-Aktionäre fühlen. Denn ungeachtet des in den Augen von CEO Bettina Orlopp und …"
         },
         {
-          "title": "Zwölf Staaten sanktionieren israelische Siedlungspolitik",
-          "link": "https://www.finanzen.net/nachricht/aktien/zwoelf-staaten-sanktionieren-israelische-siedlungspolitik-15924862",
-          "published": "2026-09-09T05:57:45+00:00",
-          "summary": "Von Laurence Norman und Anat Peled DOW JONES--Großbritannien, Frankreich, Kanada und neun weitere Länder haben angekündigt, neue Handelsbeschränkungen gegen Israel zu verhängen. Damit spitzt sich der …"
+          "title": "Merz bekennt sich zur Hilfe für die Ukraine",
+          "link": "https://www.finanzen.net/nachricht/aktien/merz-bekennt-sich-zur-hilfe-fuer-die-ukraine-15925154",
+          "published": "2026-09-09T08:03:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Bundeskanzler Friedrich Merz hat sich zur weiteren Unterstützung der Ukraine in ihrem Abwehrkampf gegen Russland bekannt und sich damit von der AfD abgegrenzt. \"Wir unterstützen …"
         },
         {
-          "title": "Deutsche Börse plant Wandelschuldverschreibungen für 600 Mio EUR",
-          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-boerse-plant-wandelschuldverschreibungen-fuer-600-mio-eur-15924861",
-          "published": "2026-09-09T05:57:44+00:00",
-          "summary": "DOW JONES--Die Deutsche Börse will für 600 Millionen Euro Wandelschuldverschreibungen emittieren. Wie der Börsenbetreiber mitteilte, sollen die nicht nachrangigen, unbesicherten …"
+          "title": "Der Staat steigt ein: Quantenaktien erleben ihren großen Tag!",
+          "link": "https://www.finanzen.net/nachricht/aktien/Der-Staat-steigt-ein-Quantenaktien-erleben-ihren-grossen-Tag-15925160",
+          "published": "2026-09-09T08:03:08+00:00",
+          "summary": "Selten bekommt eine ganze Branche an einem einzigen Handelstag so viel Rückenwind."
         }
       ],
       "error": null
@@ -209,28 +209,28 @@
           "summary": "Hohe Kosten, niedriger Absatz: Hiesige Autohersteller stecken allesamt in der Krise. Das macht die Aktien zwar günstig, aber noch längst nicht attraktiv."
         },
         {
-          "title": "Volkswagen: Kurz vor Mitternacht kam der Durchbruch",
-          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-kurz-vor-mitternacht-kam-der-durchbruch/100253015.html",
-          "published": "2026-09-09T05:51:55+00:00",
-          "summary": "Nach stundenlangen Verhandlungen näherten sich die VW-Anteilseigner an. Hardliner Manfred Döss war nicht eingeladen, Wolfgang Porsche verteilte Lob – die Rekonstruktion der historischen VW-Einigung."
+          "title": "Karriere vollenden: So finden Sie das Thema für Ihr Lebenswerk",
+          "link": "https://www.wiwo.de/erfolg/beruf/karriere-vollenden-so-finden-sie-das-thema-fuer-ihr-lebenswerk/100241480.html",
+          "published": "2026-09-09T07:58:52+00:00",
+          "summary": "Soll die Karriere mit einem Paukenschlag enden? Dorothea Assig und Dorothee Echter sagen: Mit 50 ist diese Frage akut. Denn die Karriere geht dann oft erst los."
         },
         {
-          "title": "John Ternus: Erstes faltbares iPhone von Apple erwartet",
-          "link": "https://www.wiwo.de/unternehmen/it/faltbares-iphone-apple-stellt-es-wohl-heute-vor/100253017.html",
-          "published": "2026-09-09T05:08:00+00:00",
-          "summary": "Faltbare Smartphones waren bisher vor allem die Domäne von Samsung und anderen Anbietern von Geräten mit Googles Android-System. Jetzt steht laut Medienberichten Apple vor dem Einstieg in den Markt."
+          "title": "Fleischkonsum: Warum der Traditions-Wursthersteller Ponnath jetzt wieder Schweine züchtet",
+          "link": "https://www.wiwo.de/unternehmen/handel/ponnath-wursthersteller-investiert-trotz-veggietrend-in-schweinestaelle/100239934.html",
+          "published": "2026-09-09T07:35:00+00:00",
+          "summary": "Wursthersteller kämpfen mit dem Veggietrend. Der Mittelständler Ponnath hält dagegen – und wagt eine riskante Investition: in Schweineställe."
         },
         {
-          "title": "Handelsstreit: USA kündigen Einfuhrverbot für einige kanadische Waren an",
-          "link": "https://www.wiwo.de/politik/ausland/zollkonflikt-usa-kuendigen-einfuhrverbot-fuer-einige-kanadische-waren-an/100253060.html",
-          "published": "2026-09-09T04:53:00+00:00",
-          "summary": "Schlag auf Schlag geht es im Zollkonflikt zwischen den USA und Kanada weiter. Nach den jüngsten Zöllen aus Ottawa kommt prompt eine Antwort aus Washington."
+          "title": "Künstliche Intelligenz: KI-Forscher warnt vor Risiken für Menschen",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/drastische-mahnungen-ki-forscher-kuenstliche-intelligenz-ein-risiko-fuer-menschen/100253150.html",
+          "published": "2026-09-09T07:31:00+00:00",
+          "summary": "Ein Experte der Firma Anthropic tritt zurück, weil die Technik zu gefährlich sei. Auch der Forschungschef des ChatGPT-Entwicklers OpenAI ist besorgt."
         },
         {
-          "title": "Pickup-Trucks und SUV: VW in „intensiven Gesprächen“ mit möglichen US-Partnern",
-          "link": "https://www.wiwo.de/unternehmen/auto/kooperiert-vw-mit-ford-volkswagen-in-intensiven-gespraechen-mit-moeglichen-us-partnern/100252013.html",
-          "published": "2026-09-09T04:00:22+00:00",
-          "summary": "Der neue Nordamerika-Chef von VW muss in seinen ersten Wochen eine große Hürde nehmen: Er soll mit großen Autoherstellern in den USA weitreichende Kooperationen einfädeln."
+          "title": "Leere Gasspeicher: Das hätte Katherina Reiche verhindern können",
+          "link": "https://www.wiwo.de/unternehmen/energie/leere-gasspeicher-der-preis-fuer-katherina-reiches-zoegern-ist-hoch/100252878.html",
+          "published": "2026-09-09T07:25:00+00:00",
+          "summary": "Nach dem Ausbruch des Irankriegs hätte die Wirtschaftsministerin schnell eine nationale Reserve schaffen müssen. Jetzt wird’s eng und teuer. Ein Kommentar."
         }
       ],
       "error": null
@@ -241,6 +241,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "10.000 KI-Agenten lösen Navier-Stokes-Rätsel, wenn der Beweis hält",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/10-000-ki-agenten-loesen-navier-stokes-raetsel-wenn-der-beweis-haelt/",
+          "published": "2026-09-09T07:54:18+00:00",
+          "summary": "10.000 KI-Agenten finden eine mögliche Navier-Stokes-Singularität. Was bewiesen wurde und warum CFD-Berechnungen trotzdem weiter gelten."
+        },
+        {
+          "title": "Nord Stream 2: Ein Strang ist noch da, könnte er wirklich wieder Gas liefern?",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/nord-stream-2-ein-strang-ist-noch-da-koennte-er-wirklich-wieder-gas-liefern/",
+          "published": "2026-09-09T07:00:00+00:00",
+          "summary": "Nord Stream einfach wieder aufdrehen? Warum ein intakter Strang nicht reicht und welche technischen und rechtlichen Hürden bestehen."
+        },
         {
           "title": "Betonschutt gegen CO₂: Forscher testen ungewöhnliche Idee im Meer",
           "link": "https://www.ingenieur.de/technik/fachbereiche/umwelt/betonschutt-gegen-co2-forschende-testen-ungewoehnliche-idee-im-meer/",
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/karriere/arbeitsleben/arbeitgeber-versprechen-karriere-und-innovation-doch-im-arbeitsalltag-kommt-davon-wenig-an/",
           "published": "2026-09-08T12:30:00+00:00",
           "summary": "Arbeitskultur im Realitätscheck: kununu zeigt, warum Innovation, Karriere und Flexibilität bei Beschäftigten oft hinter Arbeitgeberversprechen zurückbleiben."
-        },
-        {
-          "title": "Neuer Dacia Spring zeigt, wie Renault Autos künftig schneller entwickeln will",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/neuer-dacia-spring-kommt-aus-europa-und-soll-trotzdem-unter-18-000-euro-kosten/",
-          "published": "2026-09-08T11:35:00+00:00",
-          "summary": "Renault will neue Autos künftig in rund zwei Jahren entwickeln. Beim neuen Dacia Spring ging es noch schneller. Was hinter der Strategie steckt."
-        },
-        {
-          "title": "Maschinenbauer forschen immer häufiger im Ausland, besonders China profitiert",
-          "link": "https://www.ingenieur.de/wirtschaft/maschinenbauer-verlagern-forschung-und-entwicklung-zunehmend-ins-ausland/",
-          "published": "2026-09-08T11:00:00+00:00",
-          "summary": "Deutsche Maschinenbauer verlagern Forschung zunehmend ins Ausland. Besonders China gewinnt – und setzt den Innovationsstandort Deutschland unter Druck."
         }
       ],
       "error": null
