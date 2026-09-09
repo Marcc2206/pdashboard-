@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:15:04+00:00",
+  "generatedAt": "2026-09-09T02:09:14+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Wirtschaft: USA verhängen Einfuhrverbot für kanadische Milchprodukte und Alkohol",
-          "link": "https://www.handelsblatt.com/politik/international/wirtschaft-usa-verhaengen-einfuhrverbot-fuer-kanadische-milchprodukte-und-alkohol/100253058.html",
-          "published": "2026-09-08T23:55:08+00:00",
-          "summary": "Nach dem Inkrafttreten kanadischer Vergeltungszölle auf US-Importe legt US-Präsident Trump nach. Betroffen sind Einfuhren von Milchprodukten und Motorrädern aus Kanada."
+          "title": "Raumfahrt: Europas Satellitenhersteller treiben Megafusion voran – obwohl ihr Weltraumgeschäft boomt",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/raumfahrt-europas-satellitenhersteller-treiben-megafusion-voran/100251135.html",
+          "published": "2026-09-09T01:58:53+00:00",
+          "summary": "Schon bald wollen Airbus, Thales und Leonardo der EU ihre Pläne offiziell vorlegen. Die deutschen Konkurrenten sind besorgt und warnen vor einem Marktgiganten – wie Zahlen belegen."
         },
         {
           "title": "Zollkonflikt: USA kündigen Einfuhrverbot für einige kanadische Waren an",
           "link": "https://www.handelsblatt.com/politik/deutschland/zollkonflikt-usa-kuendigen-einfuhrverbot-fuer-einige-kanadische-waren-an/100253059.html",
-          "published": "2026-09-08T23:50:25+00:00",
+          "published": "2026-09-09T01:47:47+00:00",
           "summary": "Schlag auf Schlag geht es im Zollkonflikt zwischen den USA und Kanada weiter. Nach den jüngsten Zöllen aus Ottawa kommt prompt eine Antwort aus Washington."
         },
         {
-          "title": "+++ USA +++: USA kündigen Einfuhrverbot für einige kanadische Waren an",
-          "link": "https://www.handelsblatt.com/politik/international/trump-taucht-island-in-us-flagge-reykjavik-bestellt-us-botschafter-ein/29669594.html",
-          "published": "2026-09-08T23:41:00+00:00",
-          "summary": "US-Regierung kritisiert Ford wegen China-Partnerschaften scharf +++ USA werfen Deepseek & Co vor Xi-Besuch Kopieren von KI-Technologie vor +++ Republikaner-Parteitag vor Zwischenwahlen beginnt in …"
+          "title": "Nach Wahl in Sachsen-Anhalt: Hessens Regierungschef sieht mögliche AfD-Prüfung skeptisch",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-wahl-in-sachsen-anhalt-hessens-regierungschef-sieht-moegliche-afd-pruefung-skeptisch/100253068.html",
+          "published": "2026-09-09T01:10:04+00:00",
+          "summary": "Die Union ringt um den richtigen Kurs im Umgang mit der AfD. Ein Vorstoß von NRW-Ministerpräsident Hendrik Wüst sorgt für neue Diskussionen."
         },
         {
-          "title": "Folgen für die Fruchtbarkeit?: Paracetamol in Schwangerschaft? Mögliche Folgen für Töchter",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/folgen-fuer-die-fruchtbarkeit-paracetamol-in-schwangerschaft-moegliche-folgen-fuer-toechter/100253052.html",
-          "published": "2026-09-08T23:10:04+00:00",
-          "summary": "Paracetamol gilt in der Schwangerschaft als Mittel der Wahl gegen Schmerzen und Fieber. Eine Studie deutet nun darauf hin, dass das Medikament die Fortpflanzungsorgane von Töchtern beeinflussen kann."
+          "title": "Nach Wahl in Sachsen-Anhalt: Trump gratuliert AfD - Bewegung „im Aufwind“",
+          "link": "https://www.handelsblatt.com/politik/international/nach-wahl-in-sachsen-anhalt-trump-gratuliert-afd-bewegung-im-aufwind/100253066.html",
+          "published": "2026-09-09T00:58:56+00:00",
+          "summary": "Immer wieder kritisiert US-Präsident Trump Deutschland für seinen Umgang mit Migranten. Die AfD scheint er dabei auf seiner Seite zu sehen. Zu deren jüngstem Erfolg schickt er Glückwünsche."
         },
         {
-          "title": "+++ Iran-Krieg +++: USA zerstören fünf iranische Öltanker – Rubio warnt Teheran",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-zerstoeren-fuenf-iranische-oeltanker-rubio-warnt-teheran/100136895.html",
-          "published": "2026-09-08T22:47:00+00:00",
-          "summary": "Iranische Medien melden Raketenangriffe auf Jordanien +++ Großbritannien sanktioniert Siedlungen im Westjordanland +++ USA verlieren Unterwasserdrohne nahe der Straße von Hormus +++ Der Newsblog."
+          "title": "Iran-Krieg: USA „zerstören“ iranische Tanker - Teheran feuert Raketen ab",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-zerstoeren-iranische-tanker-teheran-feuert-raketen-ab/100253049.html",
+          "published": "2026-09-09T00:29:38+00:00",
+          "summary": "Wieder nimmt das US-Militär iranische Tanker ins Visier. Die Reaktion des Irans lässt nicht lange auf sich warten. Beide Seiten sprechen von Vergeltung."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Paracetamol in der Schwangerschaft: Möglicher Einfluss auf Töchter",
-          "link": "https://www.finanzen.net/nachricht/aktien/paracetamol-in-der-schwangerschaft-moeglicher-einfluss-auf-toechter-15924525",
-          "published": "2026-09-08T23:09:39+00:00",
-          "summary": "KOPENHAGEN (dpa-AFX) - Die Einnahme von Paracetamol während der Schwangerschaft könnte einer Studie zufolge bei Mädchen womöglich die Fruchtbarkeit und den Zeitpunkt der Menopause beeinflussen. …"
+          "title": "\"Wem gehört der DAX?\" - Wer die meisten Anteile am deutschen Leitindex hält",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktionaere-34-wem-gehoert-der-dax-34-wer-die-meisten-anteile-am-deutschen-leitindex-haelt-8987726",
+          "published": "2026-09-09T01:55:00+00:00",
+          "summary": "Institutionelle Investoren halten 60,2 Prozent des DAX-Streubesitzes Passive Indexfonds treiben die Kapitalzuflüsse so stark wie nie zuvor Nordamerika bleibt größte Region, London stärkster …"
         },
         {
-          "title": "Micron-Aktie im Fokus: KI-Boom zwingt Chip-Riesen zum Führungsumbau",
-          "link": "https://www.finanzen.net/nachricht/aktien/personalie-micron-aktie-im-fokus-ki-boom-zwingt-chip-riesen-zum-fuehrungsumbau-00-15911587",
-          "published": "2026-09-08T21:50:00+00:00",
-          "summary": "Micron beruft Manish Bhatia zum President und Chief Operating Officer • Scott DeBoer wird zum President und Chief Technology and Products Officer ernannt • Sumit Sadana wechselt als Senior Advisor an …"
+          "title": "Warren Buffetts Wette gegen Hedgefonds: Der Beleg für passives Investieren",
+          "link": "https://www.finanzen.net/nachricht/aktien/warren-buffetts-wette-gegen-hedgefonds-der-beleg-fuer-passives-investieren-15924615",
+          "published": "2026-09-09T01:31:42+00:00",
+          "summary": "Eine Wette über zehn Jahre sollte zeigen, ob aktive Fondsmanager den Markt schlagen können. Warren Buffetts Ergebnis liefert bis heute ein schlagendes Argument für passives Investieren."
         },
         {
-          "title": "KI-Aktien im Blick: Tesla- und SpaceX-CEO Musk sieht KI bis Ende 2027 bei digitalen Aufgaben vor Menschen",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-prognose-ki-aktien-im-blick-tesla-und-spacex-ceo-musk-sieht-ki-bis-ende-2027-bei-digitalen-aufgaben-vor-menschen-00-15916175",
-          "published": "2026-09-08T21:46:00+00:00",
-          "summary": "Elon Musk erwartet übermenschliche KI-Fähigkeiten bei digitalen Aufgaben bis Ende 2027 • Besonders im Hacking könnten KI-Systeme menschliche Sicherheitsexperten übertreffen • Neue Sicherheitsvorfälle …"
+          "title": "SpaceX-Aktie vor Starship-Test: Testflug 14 könnte schon am 15. September starten",
+          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-vor-starship-test-testflug-14-koennte-schon-am-15-september-starten-00-15922828",
+          "published": "2026-09-09T01:30:37+00:00",
+          "summary": "SpaceX benannte in einem FCC-Antrag den 15. September als geplantes Datum für Testflug 14 • Start soll erstmals V3-Starlink-Satelliten in den operativen Orbit bringen • Booster 21 und Ship 41 haben …"
         },
         {
-          "title": "BVB siegt gegen Villarreal und sorgt sich um Karetsas",
-          "link": "https://www.finanzen.net/nachricht/aktien/bvb-siegt-gegen-villarreal-und-sorgt-sich-um-karetsas-15924405",
-          "published": "2026-09-08T21:06:38+00:00",
-          "summary": "DORTMUND (dpa-AFX) - Sieg, aber auch Sorgen: Borussia Dortmund ( BVB (Borussia Dortmund) ) ist mit einem Erfolg gegen den FC Villarreal in die Champions League gestartet. Überschattet wurde das 3:2 …"
+          "title": "Japan-Aktienrally von 2023 vor Wiederholung? Das sagt Bank of America",
+          "link": "https://www.finanzen.net/nachricht/aktien/japan-aktienrally-von-2023-vor-wiederholung-das-sagt-bank-of-america-15924614",
+          "published": "2026-09-09T01:18:59+00:00",
+          "summary": "Steigende US-Renditen hatten Anleger monatelang beschäftigt, nun greift das US-Finanzministerium mit grösseren Anleiherückkäufen ein."
         },
         {
-          "title": "ROUNDUP/Iranische Medien: Mehrere Öltanker angegriffen",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-iranische-medien-mehrere-oeltanker-angegriffen-15924399",
-          "published": "2026-09-08T20:56:39+00:00",
-          "summary": "TEHERAN (dpa-AFX) - Iranische Medien haben mehrere Explosionen nahe der Insel Charg im Persischen Golf sowie vor der Hafenstadt Dschask an der Straße von Hormus gemeldet. Demnach sind mehrere …"
+          "title": "Billionenschwere KI-Investitionen: JPMorgan sieht solides Fundament",
+          "link": "https://www.finanzen.net/nachricht/aktien/billionenschwere-ki-investitionen-jpmorgan-sieht-solides-fundament-15924600",
+          "published": "2026-09-09T01:11:00+00:00",
+          "summary": "JPMorgan hebt seine Prognose für globale KI-Investitionen deutlich an und sieht den Ausbau wirtschaftlich auf soliden Beinen."
         }
       ],
       "error": null
