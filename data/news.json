@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:09:27+00:00",
+  "generatedAt": "2026-09-09T22:08:34+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
-          "link": "https://www.tagesschau.de/wirtschaft/technologie/apple-iphone-faltbar-100.html",
-          "published": "2026-09-09T19:58:46+00:00",
-          "summary": "Bei seinem großen Werbe-Event hat Apple das erste faltbare iPhone präsentiert. Obwohl Falthandys als Nischensegment gelten und die Konkurrenz sie schon länger anbietet, setzt Apple große Erwartungen …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646330.html",
-          "published": "2026-09-09T19:53:24+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Bundeskanzler Merz: AfD-Verbot löst das Problem nicht",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-afd-verbot-102.html",
-          "published": "2026-09-09T19:38:18+00:00",
-          "summary": "Der Umgang mit der AfD beschäftigt die Politik nach der Wahl in Sachsen-Anhalt verstärkt - auch die Frage nach einem Verbotsverfahren. Der Kanzler bleibt skeptisch und sieht einen anderen Weg."
-        },
-        {
           "title": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
           "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
-          "published": "2026-09-09T19:21:01+00:00",
+          "published": "2026-09-09T22:00:05+00:00",
           "summary": "Die Staatsanwaltschaft Hannover ermittelt gegen den Berliner SPD-Spitzenkandidaten Krach. Die Polizei durchsuchte drei Objekte. Einem Medienbericht zufolge geht es um den Verdacht auf …"
         },
         {
-          "title": "Möglicherweise Sprengstoff in Auto entdeckt - Autobahn bei Rheinfelden gesperrt",
-          "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/grenzuebergang-rheinfelden-100.html",
-          "published": "2026-09-09T19:13:37+00:00",
-          "summary": "Der Grenzübergang zur Schweiz in Rheinfelden war stundenlang gesperrt, weil bei einer Kontrolle Sprengstoff-Suchhunde angeschlagen hatten. Zwei Männer wurden vorläufig festgenommen."
+          "title": "Einblicke in die Arbeit von ukrainischen Spezialeinheiten im Krieg gegen Russland",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1646380.html",
+          "published": "2026-09-09T21:44:24+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12852.html",
+          "published": "2026-09-09T20:53:05+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Was wusste Israels Ministerpräsident Netanjahu über den Hamas-Überfall vor dem 07.10.2023?",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1646360.html",
+          "published": "2026-09-09T20:37:44+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Matthias Deiß, ARD Berlin, über die Auseinandersetzungen bei der Generaldebatte",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1646356.html",
+          "published": "2026-09-09T20:27:23+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "KI: Anthropic meldet vierten Hackerangriff durch eigenes KI-Modell",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-meldet-vierten-hackerangriff-durch-eigenes-ki-modell/100253383.html",
+          "published": "2026-09-09T21:38:48+00:00",
+          "summary": "Eine frühe Version von Claude Opus 4.6 ist in ein fremdes Computersystem eingedrungen. Anthropic lässt die Vorfälle nun extern untersuchen."
+        },
+        {
+          "title": "Mobiltelefone: Stolzer Preis: Apple stellt faltbares iPhone für 2299 Euro vor",
+          "link": "https://www.handelsblatt.com/technik/it-internet/mobiltelefone-apple-stellt-faltbares-iphone-fuer-2299-euro-vor/100250945.html",
+          "published": "2026-09-09T20:12:21+00:00",
+          "summary": "Es ist der erste große Auftritt für den neuen Chef John Ternus. Bei den Kunden will Apple zudem mit einer neuen KI-Assistentin Siri punkten. Eine Ankündigung überrascht."
+        },
         {
           "title": "Nordafrika-Exklave: Geheimdienst warnte vor Massenankunft von Migranten in Ceuta",
           "link": "https://www.handelsblatt.com/politik/international/nordafrika-exklave-geheimdienst-warnte-vor-massenankunft-von-migranten-in-ceuta/100253372.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/video/pool/sonderfolgemeckel-matthes/100253339.html",
           "published": "2026-09-09T19:05:54+00:00",
           "summary": "In dieser Video-Sonderfolge spricht Miriam Meckel auf der Bühne mit der Altkanzlerin über Sachsen-Anhalt. Außerdem: Wie Merkel selbst KI nutzt – und was die rasante Entwicklung für uns bedeutet."
-        },
-        {
-          "title": "Meckel & Matthes: „Mir blutet das Herz“ – Eine Sonderfolge mit Angela Merkel über Sachsen-Anhalt",
-          "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-mir-blutet-das-herz-angela-merkel-ueber-sachsen-anhalt/100253311.html",
-          "published": "2026-09-09T19:01:32+00:00",
-          "summary": "In dieser Video-Sonderfolge spricht Miriam Meckel auf der Bühne mit der Altkanzlerin über Sachsen-Anhalt. Außerdem: Wie Merkel selbst KI nutzt – und was die rasante Entwicklung für uns bedeutet."
-        },
-        {
-          "title": "Vorstoß in neuen Markt: Apple bringt erstes auffaltbares iPhone heraus",
-          "link": "https://www.handelsblatt.com/technik/it-internet/vorstoss-in-neuen-markt-apple-bringt-erstes-auffaltbares-iphone-heraus/100253086.html",
-          "published": "2026-09-09T19:00:29+00:00",
-          "summary": "Apple bringt erst Jahre nach Vorreitern wie Samsung sein erstes auffaltbares iPhone auf den Markt. Dennoch glauben Marktforscher, dass der Neuankömmling schnell die Führung übernehmen wird."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Trump zu Ukraine-Krieg: Putin will eine Vereinbarung",
-          "link": "https://www.finanzen.net/nachricht/aktien/trump-zu-ukraine-krieg-putin-will-eine-vereinbarung-15926493",
-          "published": "2026-09-09T19:40:39+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Kremlchef Wladimir Putin ist nach Einschätzung von US-Präsident Donald Trump zu einer Vereinbarung zur Beilegung des Ukraine-Kriegs bereit. \"Wir hatten ein großartiges ..."
-        },
-        {
-          "title": "SpaceX-Aktie vor Starship-Test: Testflug 14 könnte schon bald an den Start gehen",
-          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-vor-starship-test-testflug-14-koennte-schon-bald-an-den-start-gehen-00-15922828",
-          "published": "2026-09-09T19:33:00+00:00",
-          "summary": "SpaceX benannte in einem FCC-Antrag den 15. September als geplantes Datum für Testflug 14 • Start soll erstmals V3-Starlink-Satelliten in den operativen Orbit bringen • Booster 21 und Ship 41 haben …"
-        },
-        {
           "title": "\"Wem gehört der DAX?\" - Wer die meisten Anteile am deutschen Leitindex hält",
           "link": "https://www.finanzen.net/nachricht/aktien/aktionaere-34-wem-gehoert-der-dax-34-wer-die-meisten-anteile-am-deutschen-leitindex-haelt-8987726",
-          "published": "2026-09-09T19:33:00+00:00",
+          "published": "2026-09-09T21:39:00+00:00",
           "summary": "Institutionelle Investoren halten 60,2 Prozent des DAX-Streubesitzes Passive Indexfonds treiben die Kapitalzuflüsse so stark wie nie zuvor Nordamerika bleibt größte Region, London stärkster …"
         },
         {
-          "title": "GameStop nach Q2-Zahlen: Direktoren-Kauf und starkes Sammlerstücke-Geschäft stützen die Aktie",
-          "link": "https://www.finanzen.net/nachricht/aktien/insiderkauf-nach-topzahlen-gamestop-nach-q2-zahlen-direktoren-kauf-und-starkes-sammlerstuecke-geschaeft-stuetzen-die-aktie-00-15925187",
-          "published": "2026-09-09T19:30:00+00:00",
-          "summary": "Cheng Capital LLC stockt Bestand von GameStop-Aktien auf Sammlerstücke treiben Umsatzmix und operatives Ergebnis auf Rekordniveau Vorstand hält an milliardenschwerem Rückkaufprogramm mit offenem …"
+          "title": "ROUNDUP: Abflug von Trump nach Dallas wegen Sicherheitschecks verzögert",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-abflug-von-trump-nach-dallas-wegen-sicherheitschecks-verzoegert-15926533",
+          "published": "2026-09-09T21:05:39+00:00",
+          "summary": "WASHINGTON (dpa-AFX) - Der Abflug von US-Präsident Donald Trump ins texanische Dallas hat sich aufgrund eines ungeplanten Sicherheitschecks an einer Notrutsche der neuen Air Force One verzögert. …"
         },
         {
-          "title": "Hot Stocks heute: KI-Investitionen explodieren: Der nächste Infrastruktur-Boom! | Friedrich Vorwerk im Check",
-          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-ki-investitionen-explodieren-der-naechste-infrastruktur-boom-friedrich-vorwerk-im-check-15925606",
-          "published": "2026-09-09T19:24:00+00:00",
-          "summary": "Doch an den Börsen wird die Luft dünner: Der DAX fällt unter 25.600 Punkte, Öl notiert über 100 US-Dollar und der große Verfallstermin rückt näher. ..."
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-09T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+        },
+        {
+          "title": "Weltkriegsbombe in Hamburg entschärft - Zugverkehr freigegeben",
+          "link": "https://www.finanzen.net/nachricht/aktien/weltkriegsbombe-in-hamburg-entschaerft-zugverkehr-freigegeben-15926527",
+          "published": "2026-09-09T20:41:38+00:00",
+          "summary": "HAMBURG (dpa-AFX) - Die gefährliche Weltkriegsbombe im Hamburger Stadtteil Bahrenfeld ist mehrere Stunden nach dem Fund entschärft worden. Das teilte die Feuerwehr mit. Die Sperrmaßnahmen wurden …"
+        },
+        {
+          "title": "Neue Chefredakteurin für 'Berliner Morgenpost'",
+          "link": "https://www.finanzen.net/nachricht/aktien/neue-chefredakteurin-fuer-berliner-morgenpost-15926522",
+          "published": "2026-09-09T20:34:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Bei der \"Berliner Morgenpost\" gibt es Anfang 2027 einen Wechsel in der Chefredaktion. Die bisherige stellvertretende Chefredakteurin der \"Freien Presse\" (Chemnitz), Anne Lena …"
         }
       ],
       "error": null
