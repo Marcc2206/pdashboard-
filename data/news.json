@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:11:24+00:00",
+  "generatedAt": "2026-09-09T20:09:27+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/apple-iphone-faltbar-100.html",
+          "published": "2026-09-09T19:58:46+00:00",
+          "summary": "Bei seinem großen Werbe-Event hat Apple das erste faltbare iPhone präsentiert. Obwohl Falthandys als Nischensegment gelten und die Konkurrenz sie schon länger anbietet, setzt Apple große Erwartungen …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646330.html",
+          "published": "2026-09-09T19:53:24+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Bundeskanzler Merz: AfD-Verbot löst das Problem nicht",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-afd-verbot-102.html",
+          "published": "2026-09-09T19:38:18+00:00",
+          "summary": "Der Umgang mit der AfD beschäftigt die Politik nach der Wahl in Sachsen-Anhalt verstärkt - auch die Frage nach einem Verbotsverfahren. Der Kanzler bleibt skeptisch und sieht einen anderen Weg."
+        },
+        {
           "title": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
           "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
-          "published": "2026-09-09T18:03:09+00:00",
+          "published": "2026-09-09T19:21:01+00:00",
           "summary": "Die Staatsanwaltschaft Hannover ermittelt gegen den Berliner SPD-Spitzenkandidaten Krach. Die Polizei durchsuchte drei Objekte. Einem Medienbericht zufolge geht es um den Verdacht auf …"
-        },
-        {
-          "title": "Harald V. beigesetzt - Trauerfeier für einen geliebten König",
-          "link": "https://www.tagesschau.de/ausland/europa/norwegen-harald-trauerfeier-100.html",
-          "published": "2026-09-09T17:42:47+00:00",
-          "summary": "35 Jahre war er König von Norwegen. Nun ist Harald V. in Oslo beigesetzt worden. Mehr als 100.000 Menschen gaben ihm das letzte Geleit - und machten noch einmal deutlich, wie beliebt der König war. …"
-        },
-        {
-          "title": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bgh-urteil-autoversicherungen-100.html",
-          "published": "2026-09-09T16:56:39+00:00",
-          "summary": "Rechnet eine Autowerkstatt für eine Reparatur mehr ab als nötig, muss die Kaskoversicherung nicht dafür zahlen. Das Risiko trägt der Versicherte, entschied der Bundesgerichtshof. Von Antonetta …"
-        },
-        {
-          "title": "Sachsen-Anhalts CDU sucht ihren Kurs - und ihren Chef",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-landtagswahl-niederlage-100.html",
-          "published": "2026-09-09T16:50:18+00:00",
-          "summary": "Nach der Wahlniederlage ist die CDU in Sachsen-Anhalt gespalten, gemäßigte Stimmen kommen kaum zu Wort. Ein neuer Landesvorstand könnte die Lager einen. Doch nicht alle, die dafür im Gespräch sind …"
         },
         {
           "title": "Möglicherweise Sprengstoff in Auto entdeckt - Autobahn bei Rheinfelden gesperrt",
           "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/grenzuebergang-rheinfelden-100.html",
-          "published": "2026-09-09T16:48:00+00:00",
-          "summary": "Der Grenzübergang zur Schweiz in Rheinfelden ist aktuell gesperrt, die Bundespolizei ist im Einsatz. Bei einer Kontrolle schlugen Sprengstoff-Suchhunde an. Nach SWR-Informationen wurden zwei Männer …"
+          "published": "2026-09-09T19:13:37+00:00",
+          "summary": "Der Grenzübergang zur Schweiz in Rheinfelden war stundenlang gesperrt, weil bei einer Kontrolle Sprengstoff-Suchhunde angeschlagen hatten. Zwei Männer wurden vorläufig festgenommen."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Kurz vor der Wahl: GAU im Wahlkampf: Berliner SPD-Chef im Visier von Ermittlern",
-          "link": "https://www.handelsblatt.com/politik/deutschland/kurz-vor-der-wahl-gau-im-wahlkampf-berliner-spd-chef-im-visier-von-ermittlern/100253300.html",
-          "published": "2026-09-09T17:49:04+00:00",
-          "summary": "Krisenkommunikation statt Themen setzen: Die Berliner SPD gerät kurz vor der Wahl ins Schleudern, weil ihr Spitzenkandidat Krach im Visier der Staatsanwaltschaft ist. Was ist da los?"
+          "title": "Nordafrika-Exklave: Geheimdienst warnte vor Massenankunft von Migranten in Ceuta",
+          "link": "https://www.handelsblatt.com/politik/international/nordafrika-exklave-geheimdienst-warnte-vor-massenankunft-von-migranten-in-ceuta/100253372.html",
+          "published": "2026-09-09T19:48:25+00:00",
+          "summary": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente geben nun Einblick in die Warnungen des spanischen Geheimdienstes vor der beispiellosen Massenankunft in der Exklave."
         },
         {
-          "title": "+++ Iran-Krieg +++: IAEA meldet Iran wegen Atomverstößen an UN-Sicherheitsrat",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iaea-meldet-iran-wegen-atomverstoessen-an-un-sicherheitsrat/100136895.html",
-          "published": "2026-09-09T17:26:00+00:00",
-          "summary": "Irans Präsident schlägt autofreien Tag vor +++ Tote und Verletzte bei Explosion in Waffenlager in Syrien +++ Proteste gegen möglichen Hormus-Einsatz in Südkorea +++ Der Newsblog."
-        },
-        {
-          "title": "Staatsfinanzen: USA verdreifachen ihre Anleiherückkäufe – Marktreaktion fällt anders aus als erwartet",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/staatsfinanzen-usa-verdreifachen-ihre-anleiherueckkaeufe/100253259.html",
-          "published": "2026-09-09T17:21:32+00:00",
-          "summary": "Finanzminister Scott Bessent wird die Anleiherückkäufe deutlich ausweiten. Trotzdem steigen die Renditen. Vor dem Hintergrund seiner jüngsten Warnung ist die Marktreaktion besonders brisant."
-        },
-        {
-          "title": "Ukraine-Krieg: Kreml hofft auf baldige Fortsetzung der Friedensgespräche",
+          "title": "Ukraine-Krieg: Trump zu Friedensaussichten: Putin und Selenskyj hassen einander",
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-09T17:20:00+00:00",
-          "summary": "Berichte über ukrainischen Angriff in Westsibirien +++ Europas Abkehr von russischem Erdgas gerät ins Stocken+++ Selenskyj wirft Westen mangelnden Druck auf Russland vor +++ Der Newsblog."
+          "published": "2026-09-09T19:45:00+00:00",
+          "summary": "Flugzeug von Selenskyj beinahe von Drohne getroffen +++ Merz: Sehe wenig Chancen, dass Russland zu Gesprächen bereit ist+++ Tote und Verletzte bei russischen Angriffen in der Ukraine +++ Der Newsblog."
         },
         {
-          "title": "Verkauf: Porsche erlöst eine Milliarde Euro mit Rimac-Verkauf",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/verkauf-porsche-erloest-eine-milliarde-euro-mit-rimac-verkauf123/100253357.html",
-          "published": "2026-09-09T17:10:49+00:00",
-          "summary": "Porsche stärkt mit dem Verkauf seine Fokussierung auf das Kerngeschäft. Der Mittelzufluss verbessert zugleich die Prognose für den Netto-Cashflow 2026."
+          "title": "Meckel & Matthes: „Mir blutet das Herz“ – Angela Merkel über Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/video/pool/sonderfolgemeckel-matthes/100253339.html",
+          "published": "2026-09-09T19:05:54+00:00",
+          "summary": "In dieser Video-Sonderfolge spricht Miriam Meckel auf der Bühne mit der Altkanzlerin über Sachsen-Anhalt. Außerdem: Wie Merkel selbst KI nutzt – und was die rasante Entwicklung für uns bedeutet."
+        },
+        {
+          "title": "Meckel & Matthes: „Mir blutet das Herz“ – Eine Sonderfolge mit Angela Merkel über Sachsen-Anhalt",
+          "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-mir-blutet-das-herz-angela-merkel-ueber-sachsen-anhalt/100253311.html",
+          "published": "2026-09-09T19:01:32+00:00",
+          "summary": "In dieser Video-Sonderfolge spricht Miriam Meckel auf der Bühne mit der Altkanzlerin über Sachsen-Anhalt. Außerdem: Wie Merkel selbst KI nutzt – und was die rasante Entwicklung für uns bedeutet."
+        },
+        {
+          "title": "Vorstoß in neuen Markt: Apple bringt erstes auffaltbares iPhone heraus",
+          "link": "https://www.handelsblatt.com/technik/it-internet/vorstoss-in-neuen-markt-apple-bringt-erstes-auffaltbares-iphone-heraus/100253086.html",
+          "published": "2026-09-09T19:00:29+00:00",
+          "summary": "Apple bringt erst Jahre nach Vorreitern wie Samsung sein erstes auffaltbares iPhone auf den Markt. Dennoch glauben Marktforscher, dass der Neuankömmling schnell die Führung übernehmen wird."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Zurückhaltung in New York: NASDAQ 100 am Mittwochnachmittag schwächer",
-          "link": "https://www.finanzen.net/nachricht/aktien/zurueckhaltung-in-new-york-nasdaq-100-am-mittwochnachmittag-schwaecher-15926400",
-          "published": "2026-09-09T18:02:37+00:00",
-          "summary": "Der NASDAQ 100 tendiert im NASDAQ-Handel um 20:00 Uhr um 0,22 Prozent tiefer bei 29.442,02 Punkten. Zum Start des Mittwochshandels stand ein Verlust von 0,257 Prozent auf 29.431,94 Punkte ..."
+          "title": "Trump zu Ukraine-Krieg: Putin will eine Vereinbarung",
+          "link": "https://www.finanzen.net/nachricht/aktien/trump-zu-ukraine-krieg-putin-will-eine-vereinbarung-15926493",
+          "published": "2026-09-09T19:40:39+00:00",
+          "summary": "WASHINGTON (dpa-AFX) - Kremlchef Wladimir Putin ist nach Einschätzung von US-Präsident Donald Trump zu einer Vereinbarung zur Beilegung des Ukraine-Kriegs bereit. \"Wir hatten ein großartiges ..."
         },
         {
-          "title": "S&P 500 aktuell: S&P 500 legt den Rückwärtsgang ein",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-aktuell-s-p-500-legt-den-rueckwaertsgang-ein-15926399",
-          "published": "2026-09-09T18:02:37+00:00",
-          "summary": "Am Mittwoch geht es im S&P 500 um 20:00 Uhr via NYSE um 0,38 Prozent auf 7.644,62 Punkte abwärts. Die S&P 500-Mitglieder kommen damit auf einen Wert von 61,843 Bio. Euro. Zum Beginn des …"
+          "title": "SpaceX-Aktie vor Starship-Test: Testflug 14 könnte schon bald an den Start gehen",
+          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-vor-starship-test-testflug-14-koennte-schon-bald-an-den-start-gehen-00-15922828",
+          "published": "2026-09-09T19:33:00+00:00",
+          "summary": "SpaceX benannte in einem FCC-Antrag den 15. September als geplantes Datum für Testflug 14 • Start soll erstmals V3-Starlink-Satelliten in den operativen Orbit bringen • Booster 21 und Ship 41 haben …"
         },
         {
-          "title": "Zurückhaltung in New York: NASDAQ Composite nachmittags mit Abgaben",
-          "link": "https://www.finanzen.net/nachricht/aktien/zurueckhaltung-in-new-york-nasdaq-composite-nachmittags-mit-abgaben-15926398",
-          "published": "2026-09-09T18:02:37+00:00",
-          "summary": "Am Mittwoch tendiert der NASDAQ Composite um 20:00 Uhr via NASDAQ 0,56 Prozent schwächer bei 26.273,12 Punkten. Zum Start des Mittwochshandels standen Verluste von 0,365 Prozent auf ..."
+          "title": "\"Wem gehört der DAX?\" - Wer die meisten Anteile am deutschen Leitindex hält",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktionaere-34-wem-gehoert-der-dax-34-wer-die-meisten-anteile-am-deutschen-leitindex-haelt-8987726",
+          "published": "2026-09-09T19:33:00+00:00",
+          "summary": "Institutionelle Investoren halten 60,2 Prozent des DAX-Streubesitzes Passive Indexfonds treiben die Kapitalzuflüsse so stark wie nie zuvor Nordamerika bleibt größte Region, London stärkster …"
         },
         {
-          "title": "Minuszeichen in New York: Dow Jones notiert nachmittags im Minus",
-          "link": "https://www.finanzen.net/nachricht/aktien/minuszeichen-in-new-york-dow-jones-notiert-nachmittags-im-minus-15926397",
-          "published": "2026-09-09T18:02:36+00:00",
-          "summary": "Am Mittwoch steht der Dow Jones um 20:00 Uhr via NYSE 0,58 Prozent im Minus bei 52.478,25 Punkten. Der Wert der im Dow Jones enthaltenen Werte beträgt damit 24,991 Bio. Euro. In den Mittwochshandel …"
+          "title": "GameStop nach Q2-Zahlen: Direktoren-Kauf und starkes Sammlerstücke-Geschäft stützen die Aktie",
+          "link": "https://www.finanzen.net/nachricht/aktien/insiderkauf-nach-topzahlen-gamestop-nach-q2-zahlen-direktoren-kauf-und-starkes-sammlerstuecke-geschaeft-stuetzen-die-aktie-00-15925187",
+          "published": "2026-09-09T19:30:00+00:00",
+          "summary": "Cheng Capital LLC stockt Bestand von GameStop-Aktien auf Sammlerstücke treiben Umsatzmix und operatives Ergebnis auf Rekordniveau Vorstand hält an milliardenschwerem Rückkaufprogramm mit offenem …"
         },
         {
-          "title": "Wie viel Gewinn eine Investition in Dogecoin von vor 3 Jahren abgeworfen hätte",
-          "link": "https://www.finanzen.net/nachricht/devisen/wie-viel-gewinn-eine-investition-in-dogecoin-von-vor-3-jahren-abgeworfen-haette-15926382",
-          "published": "2026-09-09T17:43:04+00:00",
-          "summary": "Am 08.09.2023 kostete Dogecoin 0,063652 USD. Bei einem Investment von 1.000 USD in DOGE zu diesem Zeitpunkt, wäre ein Investor nun im Besitz von 15.710,41 Dogecoin. Da sich der Wert eines Coins ..."
+          "title": "Hot Stocks heute: KI-Investitionen explodieren: Der nächste Infrastruktur-Boom! | Friedrich Vorwerk im Check",
+          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-ki-investitionen-explodieren-der-naechste-infrastruktur-boom-friedrich-vorwerk-im-check-15925606",
+          "published": "2026-09-09T19:24:00+00:00",
+          "summary": "Doch an den Börsen wird die Luft dünner: Der DAX fällt unter 25.600 Punkte, Öl notiert über 100 US-Dollar und der große Verfallstermin rückt näher. ..."
         }
       ],
       "error": null
@@ -203,8 +203,26 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Prothesenhersteller: Fehler in Infoprospekt? DSW klagt gegen Ottobock",
-          "link": "https://www.wiwo.de/unternehmen/handel/prothesenhersteller-fehler-in-infoprospekt-dsw-klagt-gegen-ottobock/100253364.html",
+          "title": "John Ternus: Apple bringt erstes auffaltbares iPhone heraus",
+          "link": "https://www.wiwo.de/unternehmen/it/apple-bringt-erstes-auffaltbares-iphone-heraus/100253017.html",
+          "published": "2026-09-09T18:30:00+00:00",
+          "summary": "Apple bringt erst Jahre nach Vorreitern wie Samsung sein erstes faltbares iPhone auf den Markt. Dennoch glauben Marktforscher, dass der Neuankömmling schnell die Führung übernehmen wird."
+        },
+        {
+          "title": "BörsenTag: Apple ist kein Vorreiter bei den Produkten, dafür aber an der Börse",
+          "link": "https://www.wiwo.de/finanzen/boerse/apple-aktie-was-bringt-das-faltbare-iphone-fuer-anleger/100253138.html",
+          "published": "2026-09-09T18:19:00+00:00",
+          "summary": "Der neue Apple-CEO bringt ein faltbares iPhone für 2000 Dollar auf den Markt. Neu ist daran nichts, doch die Apple-Aktie kann trotzdem davon profitieren."
+        },
+        {
+          "title": "EU-Finanzrahmen: Merz besteht auf drastische Kürzung der EU-Finanzplanungen",
+          "link": "https://www.wiwo.de/politik/europa/eu-finanzrahmen-merz-besteht-auf-drastische-kuerzung-der-eu-finanzplanungen/100253366.html",
+          "published": "2026-09-09T18:12:50+00:00",
+          "summary": "Kanzler Merz fordert für den EU-Finanzrahmen ab 2028 Kürzungen um Hunderte Milliarden Euro. Streit droht über Prioritäten und EU-Schulden."
+        },
+        {
+          "title": "Prothesenhersteller: Fehler im Infoprospekt? DSW klagt gegen Ottobock",
+          "link": "https://www.wiwo.de/unternehmen/handel/prothesenhersteller-fehler-im-infoprospekt-dsw-klagt-gegen-ottobock/100253364.html",
           "published": "2026-09-09T17:44:28+00:00",
           "summary": "Ottobock steht wegen seines Wertpapierprospekts vor Gericht: Die DSW hinterfragt die Darstellung des Russlandgeschäfts."
         },
@@ -213,24 +231,6 @@
           "link": "https://www.wiwo.de/politik/konjunktur/zinsentscheid-ezb-steht-vor-der-naechsten-zinserhoehung/100253362.html",
           "published": "2026-09-09T17:29:11+00:00",
           "summary": "Der Iran-Krieg heizt die Teuerung an. Die EZB dürfte mit einer weiteren Zinserhöhung auf die gestiegene Inflation im Euroraum reagieren."
-        },
-        {
-          "title": "Raumfahrt: Wie wettbewerbsfähig sind die deutschen Mikrolauncher?",
-          "link": "https://www.wiwo.de/technologie/isar-aerospace-kann-die-spectrum-rakete-gegen-spacex-bestehen/100252629.html",
-          "published": "2026-09-09T17:12:58+00:00",
-          "summary": "Die erste deutsche Rakete hat es in den Orbit geschafft. Damit ist die Aufholjagd zu SpaceX eröffnet – doch die wird nicht leicht."
-        },
-        {
-          "title": "Autoindustrie: Porsche erlöst eine Milliarde Euro mit Rimac-Verkauf",
-          "link": "https://www.wiwo.de/unternehmen/auto/porsche-erloest-eine-milliarde-euro-mit-rimac-verkauf/100253354.html",
-          "published": "2026-09-09T16:45:44+00:00",
-          "summary": "Mit dem Rimac-Verkauf nimmt Porsche rund eine Milliarde Euro ein. Der Erlös soll den Sparkurs und die Pensionsfinanzierung stützen."
-        },
-        {
-          "title": "Raumfahrt: Ariane-Rakete kommt in Schwung – Aufträge für zehn Starts",
-          "link": "https://www.wiwo.de/technologie/raumfahrt-ariane-rakete-kommt-in-schwung-auftraege-fuer-zehn-starts/100253347.html",
-          "published": "2026-09-09T16:36:00+00:00",
-          "summary": "Datenverkehr, Wetterbeobachtung, militärische Aufklärung – all das verlagert sich ins All. Davon profitiert Europas bekanntester Raketenhersteller."
         }
       ],
       "error": null
