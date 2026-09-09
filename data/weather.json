@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:09:41+00:00",
+  "generatedAt": "2026-09-09T12:11:51+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,18 +7,18 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-09T12:00",
-    "temperatur": 16.5,
-    "gefuehlt": 13.9,
-    "luftfeuchte": 68,
+    "zeit": "2026-09-09T14:00",
+    "temperatur": 16.9,
+    "gefuehlt": 13.5,
+    "luftfeuchte": 60,
     "niederschlag": 0.0,
-    "wind": 18.8,
+    "wind": 21.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 2,
-      "text": "Teils bewölkt",
-      "icon": "⛅"
+      "code": 3,
+      "text": "Bedeckt",
+      "icon": "☁️"
     }
   },
   "tage": [
@@ -28,20 +28,20 @@
       "min": 12.6,
       "regenwahrscheinlichkeit": 73,
       "sonnenaufgang": "2026-09-09T06:50",
-      "sonnenuntergang": "2026-09-09T19:55",
+      "sonnenuntergang": "2026-09-09T19:54",
       "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
+        "code": 80,
+        "text": "Leichte Schauer",
+        "icon": "🌦️"
       }
     },
     {
       "datum": "2026-09-10",
-      "max": 17.7,
-      "min": 10.7,
+      "max": 18.4,
+      "min": 10.8,
       "regenwahrscheinlichkeit": 3,
-      "sonnenaufgang": "2026-09-10T06:52",
-      "sonnenuntergang": "2026-09-10T19:53",
+      "sonnenaufgang": "2026-09-10T06:51",
+      "sonnenuntergang": "2026-09-10T19:52",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
@@ -51,7 +51,7 @@
     {
       "datum": "2026-09-11",
       "max": 19.6,
-      "min": 9.8,
+      "min": 9.2,
       "regenwahrscheinlichkeit": 18,
       "sonnenaufgang": "2026-09-11T06:53",
       "sonnenuntergang": "2026-09-11T19:50",
@@ -67,7 +67,7 @@
       "min": 13.2,
       "regenwahrscheinlichkeit": 3,
       "sonnenaufgang": "2026-09-12T06:55",
-      "sonnenuntergang": "2026-09-12T19:48",
+      "sonnenuntergang": "2026-09-12T19:47",
       "wetter": {
         "code": 45,
         "text": "Nebel",
