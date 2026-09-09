@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T12:11:46+00:00",
+  "generatedAt": "2026-09-09T14:09:03+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Kunstwerk von Maurizio Cattelan, Starfield-Bibliothek, Gottesanbeterin",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10434.html",
-          "published": "2026-09-09T11:47:05+00:00",
+          "title": "Nach dem Bruch des BSW: Wie stabil ist Thüringens Regierung noch?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/thueringen-bsw-fraktion-100.html",
+          "published": "2026-09-09T13:35:50+00:00",
+          "summary": "Das Thüringer BSW zerfällt, die Brombeerkoalition schrumpft zur Minderheitsregierung. 13 Abgeordnete gründen neue Parteien, der Landtag wird bunter - und Ministerpräsident Voigt braucht neue …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80904.html",
+          "published": "2026-09-09T13:29:00+00:00",
           "summary": ""
         },
         {
-          "title": "Tote nach russischen Angriffen in mehreren Regionen der Ukraine",
-          "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-142.html",
-          "published": "2026-09-09T11:46:11+00:00",
-          "summary": "Bei russischen Angriffen in der Ukraine sind mehrere Menschen getötet worden. Ein Grenzübergang zu Moldau und die Hafenstadt Mykolajiw wurden getroffen. Auch Kiew geriet wieder ins Visier - gestern …"
+          "title": "Scharfe Attacken zwischen Kanzler Merz und AfD-Chefin Weidel bei Generaldebatte im Bundestag",
+          "link": "https://www.tagesschau.de/video/video-1645984.html",
+          "published": "2026-09-09T13:28:31+00:00",
+          "summary": ""
         },
         {
-          "title": "Regionalklassen: Wo die Kfz-Versicherung am teuersten ist",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kfz-versicherung-regionalklassen-schadensbilanz-100.html",
-          "published": "2026-09-09T11:39:29+00:00",
-          "summary": "Die Beiträge zur Kfz-Versicherung richten sich unter anderem nach der Regionalklasse. Nun hat der Branchenverband diese neu berechnet - und sich dabei an der Schadenbilanz in den Zulassungsbezirken …"
+          "title": "Iris Sayram, ARD Berlin, über den Schlagabtausch zwischen Kanzler Merz und AfD-Chefin Weidel bei Generaldebatte",
+          "link": "https://www.tagesschau.de/video/video-1645986.html",
+          "published": "2026-09-09T13:28:28+00:00",
+          "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-09T11:38:04+00:00",
-          "summary": "Am Donnerstag ist es bei einem Wechsel aus Sonne und Wolken meist trocken. Am sonnigsten wird es vom Südwesten bis nach Franken. Die Höchstwerte liegen zwischen 15 Grad im Harz und 24 Grad am …"
-        },
-        {
-          "title": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html",
-          "published": "2026-09-09T11:33:13+00:00",
-          "summary": "In Ungarn und Polen war es schon Praxis: Die EU fror Fördermittel ein. Sollte auch eine mögliche AfD-Regierung in Sachsen-Anhalt EU-Grundrechte brechen, droht dem Land ein Zahlungsstopp - und damit …"
+          "title": "Schweigeminute und Prozession: Norwegen nimmt Abschied von König Harald",
+          "link": "https://www.tagesschau.de/ausland/europa/beerdigung-koenig-harald-100.html",
+          "published": "2026-09-09T13:26:17+00:00",
+          "summary": "Bundespräsident Steinmeier, der ukrainische Präsident Selenskyj und zahlreiche Royals - Norwegen hat Abschied genommen von dem im Volk beliebten König Harald. Auch aus dem Ausland kamen viele Gäste."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-veraendert-die-mietrechtsreform-den-deutschen-wohnungsmarkt/100199045.html",
-          "published": "2026-09-09T12:02:00+00:00",
-          "summary": "Welche Einschränkungen die jetzt vorgestellten Reformpläne von Justizministerin Hubig für Eigentümer und Vermieter vorsehen – und wie sehr sie den Markt verändern werden."
+          "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
+          "link": "https://www.handelsblatt.com/finanzen/vermoegen-warum-geld-in-freundschaften-eine-immer-groessere-bedeutung-hat/100154689.html",
+          "published": "2026-09-09T13:59:00+00:00",
+          "summary": "Wer gute Freunde hat, kommt leichter durchs Leben, hat eine bessere Beziehung und verringert sein Sterberisiko. Nur was, wenn die Freundschaft am Geld scheitert?"
         },
         {
-          "title": "AfD: Operation Machtübernahme: Muss die CDU in Sachsen-Anhalt Abweichler fürchten?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/afd-muss-die-cdu-in-sachsen-anhalt-abweichler-fuerchten/100253037.html",
-          "published": "2026-09-09T12:00:12+00:00",
-          "summary": "Die AfD in Sachsen-Anhalt braucht Partner im Parlament, damit Kandidat Siegmund Ministerpräsident werden kann. Das BSW zeigt sich offen für Gespräche. Wie verhält sich die CDU?"
+          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street notiert im Minus – Tech-Aktien verlieren",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-tech-aktien-verlieren/100253266.html",
+          "published": "2026-09-09T13:58:46+00:00",
+          "summary": "Zur Wochenmitte starten die wichtigsten Börsenindizes mit Verlusten. An der Wall Street rücken die Inflationsrisiken wieder in den Fokus."
         },
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: Grüne und SPD lehnen Sondierungsgespräche mit der AfD ab",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-gruene-und-spd-lehnen-sondierungsgespraeche-mit-der-afd-ab/100252039.html",
-          "published": "2026-09-09T11:58:05+00:00",
-          "summary": "Ministerpräsident Schulze ist neuer Chef der CDU-Fraktion +++ BSW will AfD-Landtagspräsidenten mitwählen +++ Merkel äußert sich zur Wahl in Sachsen-Anhalt +++ Der Newsblog."
+          "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-arbeit-wird-zum-luxus-der-nur-einer-elite-vorbehalten-ist/100223312.html",
+          "published": "2026-09-09T13:55:00+00:00",
+          "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen."
         },
         {
-          "title": "+++ Bundespolitik +++: Hitzige Debatte im Bundestag – Merz attackiert AfD scharf",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-jetzt-live-merz-spricht-bei-generaldebatte-im-bundestag/100137034.html",
-          "published": "2026-09-09T11:51:09+00:00",
-          "summary": "Merz verschiebt Telefonat mit Trump nach AfD-Gratulation +++ Bundestagspräsidentin droht nach Zwischenrufen mit Rausschmiss +++ Merz: „Remigration“ ist Synonym für ethnische Säuberungen +++ Der …"
+          "title": "Rente: Finanzpsychologe Valentin Haas: „Der Ruhestand wird gesellschaftlich glorifiziert“",
+          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rentenreform-wie-der-ruhestand-mehr-als-nur-finanzielle-planung-erfordert/100236769.html",
+          "published": "2026-09-09T13:54:00+00:00",
+          "summary": "Die geplante Rentenreform wird leidenschaftlich diskutiert. Ein Psychologe erklärt, warum die Debatte so emotional geführt wird, welche Trugbilder vorherrschen und worauf es wirklich ankommt."
         },
         {
-          "title": "Welthandel: Verbände: US-Zollstreit mit Kanada Chance für Deutschland",
-          "link": "https://www.handelsblatt.com/politik/deutschland/welthandel-verbaende-us-zollstreit-mit-kanada-chance-fuer-deutschland/100253260.html",
-          "published": "2026-09-09T11:50:53+00:00",
-          "summary": "Zwischen der Trump-Regierung und dem einst befreundeten Kanada eskaliert der Zollstreit. Die deutsche Wirtschaft könnte am Ende als Gewinner dastehen, meinen Verbände. Sie sehen neue Geschäftschancen."
+          "title": "Passives Einkommen: Dieses ETF-Portfolio schüttet jeden Monat Geld aus",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-mit-diesem-etf-portfolio-erhalten-sie-jeden-monat-geld/100226123.html",
+          "published": "2026-09-09T13:54:00+00:00",
+          "summary": "Mit nur drei Fonds können Anleger sich eine regelmäßige monatliche Ausschüttung sichern – ohne auf die Chance zusätzlicher Kursgewinne verzichten zu müssen."
         }
       ],
       "error": null
@@ -86,6 +86,18 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "US-Insider läuten Alarmglocken: \"Wir glauben wirklich, dass KI alle Menschen töten könnte\"",
+          "link": "https://www.n-tv.de/wirtschaft/Wir-glauben-wirklich-dass-KI-alle-Menschen-toeten-koennte-id31287995.html",
+          "published": "2026-09-09T13:54:12+00:00",
+          "summary": "Ein Experte der Firma Anthropic tritt zurück, weil er das Handeln der führenden KI-Unternehmen in den USA für unverantwortlich hält. Einer seiner bisherigen Kollegen bestätigt die Sorgen über die …"
+        },
+        {
+          "title": "Diese Standorte müssen schließen: Discounter Kodi streicht nach Insolvenz das Filialnetz zusammen",
+          "link": "https://www.n-tv.de/wirtschaft/Discounter-Kodi-streicht-nach-Insolvenz-das-Filialnetz-zusammen-id31287742.html",
+          "published": "2026-09-09T13:46:38+00:00",
+          "summary": "Die Wirtschaftskrise führt zu immer mehr Insolvenzen im Einzelhandel - so auch beim Non-Food-Discounter Kodi. Im Zuge der Sanierung schrumpft die Zahl der Filialen. Nun steht fest, welche Standorte …"
+        },
+        {
           "title": "An einigen Standorten: Lufthansa-Gruppe nimmt Flüge nach Dubai wieder auf",
           "link": "https://www.n-tv.de/wirtschaft/Lufthansa-Gruppe-nimmt-Fluege-nach-Dubai-wieder-auf-id31286319.html",
           "published": "2026-09-09T10:23:40+00:00",
@@ -95,25 +107,13 @@
           "title": "ICE-Schnellstrecke wird saniert: Zwischen Berlin und Hannover dauert es bald mindestens 80 Minuten länger",
           "link": "https://www.n-tv.de/wirtschaft/Zwischen-Berlin-und-Hannover-dauert-es-bald-mindestens-80-Minuten-laenger-id31286261.html",
           "published": "2026-09-09T10:23:10+00:00",
-          "summary": "Fahrgäste zwischen Berlin und Hamburg haben es schon hinter sich, nun müssen bald weitere Reisende leiden: Die Fahrtzeit zwischen der Hauptstadt und Hannover erhöht sich wegen der anstehenden …"
+          "summary": "Fahrgäste zwischen Berlin und Hamburg haben es schon hinter sich, nun müssen bald weitere Reisende leiden: Die Fahrzeit zwischen der Hauptstadt und Hannover erhöht sich wegen der anstehenden …"
         },
         {
           "title": "Dickes Umsatzplus 2025: Teure Restaurants lassen Imbisse boomen",
           "link": "https://www.n-tv.de/wirtschaft/Teure-Restaurants-lassen-Imbisse-boomen-id31285535.html",
           "published": "2026-09-09T08:45:09+00:00",
           "summary": "Im Möbelhaus, im Baumarkt oder im Supermarkt kann man immer öfter nicht mehr nur shoppen, sondern direkt frühstücken oder zu Mittag essen. Und die Kunden scheint es zu freuen. Die Umsätze gehen …"
-        },
-        {
-          "title": "Erstmals seit Juli: Eskalation im Nahen Osten treibt Preis für Brent-Öl über 100 Dollar",
-          "link": "https://www.n-tv.de/wirtschaft/Eskalation-im-Nahen-Osten-treibt-Preis-fuer-Brent-Oel-ueber-100-Dollar-id31285840.html",
-          "published": "2026-09-09T07:24:36+00:00",
-          "summary": "Der Iran und die USA greifen gegenseitig Schiffe im Nahen Osten an. Das treibt zum wiederholten Male die Ölpreise. Die Höchststände aus diesem Jahr sind aber noch ein ganzes Stück entfernt."
-        },
-        {
-          "title": "Software-Aktien unter Druck: Hoher Ölpreis macht Wall Street zu schaffen",
-          "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-macht-Wall-Street-zu-schaffen-id31284836.html",
-          "published": "2026-09-08T20:42:16+00:00",
-          "summary": "Die nächste Zinsentscheidung der Fed rückt näher und die US-Anleger rechnen mehrheitlich mit einer Erhöhung. Hohe Ölpreise infolge des Iran-Krieges und KI-Ängste in der Software-Branche drücken …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "China-Schock - Öffentliche Aufträge sollen in EU bleiben",
-          "link": "https://www.finanzen.net/nachricht/aktien/china-schock-oeffentliche-auftraege-sollen-in-eu-bleiben-15925504",
-          "published": "2026-09-09T12:05:39+00:00",
-          "summary": "BRÜSSEL (dpa-AFX) - Im wirtschaftlichen Wettstreit mit China schlägt die EU-Kommission ein neues Regelwerk für die Ausstattung von Schulen, Straßenbau und andere Fälle der öffentlichen Beschaffung …"
+          "title": "ROUNDUP: Flughäfen in Großbritannien zweiten Tag in Folge eingeschränkt",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-flughaefen-in-grossbritannien-zweiten-tag-in-folge-eingeschraenkt-15925899",
+          "published": "2026-09-09T14:06:39+00:00",
+          "summary": "LONDON (dpa-AFX) - Eine technische Störung bei der Flugsicherung hat auch am zweiten Tag erhebliche Auswirkungen auf den Luftverkehr in Großbritannien gehabt. Wie das Flugdatenportal Flightradar24 …"
         },
         {
-          "title": "TAGESVORSCHAU/Donnerstag, 10. September (vorläufige Fassung)",
-          "link": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-donnerstag-10-september-vorlaeufige-fassung-15925498",
-          "published": "2026-09-09T12:01:40+00:00",
-          "summary": "=== 08:00 GB/Associated British Foods plc (AB Foods), Trading Update 4Q *** 08:00 DE/Verbraucherpreise (endgültig) August PROGNOSE: +0,2% gg Vm/+2,9% gg Vj vorläufig: +0,2% gg Vm/+2,9% gg Vj zuvor …"
+          "title": "AKTIE IM FOKUS: Meta begehrt wegen Einführung eines KI-Assistenten",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktie-im-fokus-meta-begehrt-wegen-einfuehrung-eines-ki-assistenten-15925898",
+          "published": "2026-09-09T14:06:38+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Die Aktien von Meta ( Meta Platforms (ex Facebook) ) haben am Mittwoch bei ihrer Erholung nochmals einen Sprung nach oben gemacht. Im frühen Handel lag der Kurs des …"
         },
         {
-          "title": "Xtrackers Vietnam ETF: In wenigen Wochen wird Vietnam offiziell zum Schwellenland hochgestuft, was das für den ETF bedeutet",
-          "link": "https://www.finanzen.net/nachricht/etf/vietnam-etf-xtrackers-vietnam-etf-in-wenigen-wochen-wird-vietnam-offiziell-zum-schwellenland-hochgestuft-was-das-fuer-den-etf-bedeutet-00-15904677",
-          "published": "2026-09-09T12:00:00+00:00",
-          "summary": "Das Wichtigste in Kürze: Am 21. September 2026 stuft der Indexanbieter FTSE Russell Vietnam offiziell von einem Grenz- zu einem Schwellenmarkt hoch, ein historischer Schritt, der bis zu 6 Mrd. …"
+          "title": "14 Tote bei Explosion in Waffenlager in Syrien",
+          "link": "https://www.finanzen.net/nachricht/aktien/14-tote-bei-explosion-in-waffenlager-in-syrien-15925897",
+          "published": "2026-09-09T14:04:38+00:00",
+          "summary": "IDLIB (dpa-AFX) - In Syrien sind bei einer Explosion in einem Waffenlager im Nordwesten des Landes nach Behördenangaben mindestens 14 Menschen getötet worden. Elf Personen seien verletzt worden …"
         },
         {
-          "title": "Mini Futures",
-          "link": "https://www.finanzen.net/nachricht/zertifikate/mini-futures-15925503",
-          "published": "2026-09-09T12:00:00+00:00",
-          "summary": "Werbung"
+          "title": "Wadephul fordert mehr Geld für humanitäre Hilfe",
+          "link": "https://www.finanzen.net/nachricht/aktien/wadephul-fordert-mehr-geld-fuer-humanitaere-hilfe-15925879",
+          "published": "2026-09-09T14:03:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Außenminister Johann Wadephul will angesichts internationaler Krisen und Konflikte erreichen, dass 2027 mehr Geld für humanitäre Hilfe zur Verfügung steht als bisher geplant. \"Es …"
         },
         {
-          "title": "Covenant will Marschflugkörper in Sachsen bauen - Aktie legt zu",
-          "link": "https://www.finanzen.net/nachricht/aktien/covenant-will-marschflugkoerper-in-sachsen-bauen-aktie-legt-zu-15925505",
-          "published": "2026-09-09T12:00:00+00:00",
-          "summary": "Das US-israelische Rüstungsunternehmen Covenant will in Sachsen eine umfangreiche Produktion weitreichender Marschflugkörper aufbauen."
+          "title": "Adobe: KI-generierte Podcasts aus PDFs setzen neue Unternehmensumsätze frei!",
+          "link": "https://www.finanzen.net/nachricht/aktien/Adobe-KI-generierte-Podcasts-aus-PDFs-setzen-neue-Unternehmensumsaetze-frei-15925896",
+          "published": "2026-09-09T14:03:27+00:00",
+          "summary": "KI-Integration treibt Abonnementumsätze bei über 850 Millionen Nutzern. Acrobat wandelt PDFs ab dem 9."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Kryptowährungen: Die Zeit der steuerfreien Kryptogewinne endet",
-          "link": "https://www.wiwo.de/finanzen/steuern-recht/krypto-steuer-ab-2027-so-gilt-der-bestandsschutz-fuer-altbestaende/100253147.html",
-          "published": "2026-09-09T11:49:06+00:00",
-          "summary": "Nach langer Diskussion liegt ein Gesetzentwurf für die neue Besteuerung von Gewinnen mit Kryptowährungen wie dem Bitcoin vor. Der Countdown für die Steuerfreiheit läuft."
+          "title": "Wirecard-Prozess: Jan Marsalek und die Strohfirma, in der Hunderte Millionen verschwanden",
+          "link": "https://www.wiwo.de/unternehmen/wirecard-prozess-jan-marsalek-und-die-strohfirma-in-der-hunderte-millionen-verschwanden/100253262.html",
+          "published": "2026-09-09T13:48:31+00:00",
+          "summary": "Im Wirecard-Prozess sagt ein ehemaliger Manager von Ocap aus. Die Firma aus Singapur war Drehscheibe für dubiose Geldflüsse."
         },
         {
-          "title": "Ölpreis aktuell: Ölpreise steigen nach neuen Angriffen am Persischen Golf",
-          "link": "https://www.wiwo.de/finanzen/oelpreis-aktuell-oelpreise-steigen-nach-neuen-angriffen-am-persischen-golf/100207502.html",
-          "published": "2026-09-09T11:45:00+00:00",
-          "summary": "Der Ölpreis ist am Mittwoch wieder über die Marke 100 Dollar gestiegen. Der Kampf zwischen den USA und dem Iran um die Kontrolle der Straße von Hormus hält an."
+          "title": "Landtagswahlen Berlin 2026: Berliner CDU kann noch auf Wahlsieg hoffen",
+          "link": "https://www.wiwo.de/politik/berlin-wahl-2026-umfragen-zeigen-kopf-an-kopf-rennen/100252958.html",
+          "published": "2026-09-09T13:45:55+00:00",
+          "summary": "Das Rennen um den künftigen Berliner Senat bleibt offen. Im Unterschied zu Sachsen-Anhalt dürfte die AfD bei der Regierungsbildung außen vor bleiben."
         },
         {
-          "title": "KI-News aktuell: KI-Forscher und UN warnen vor existenzieller Bedrohung für die Menschheit",
-          "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-anthropic-forscher-und-un-warnen-vor-existenzieller-bedrohung/100245205.html",
-          "published": "2026-09-09T11:44:00+00:00",
-          "summary": "Forscher von Anthropic und OpenAI sowie die Vereinten Nationen warnen vor den Gefahren, die von Künstlicher Intelligenz für die Menschheit ausgehen."
+          "title": "Bundesnetzagentur: Großes Interesse an Ausschreibung für neue Gaskraftwerke",
+          "link": "https://www.wiwo.de/unternehmen/energie/bundesnetzagentur-grosses-interesse-an-ausschreibung-fuer-neue-gaskraftwerke/100253271.html",
+          "published": "2026-09-09T13:44:00+00:00",
+          "summary": "Neue Gaskraftwerke sollen künftig in „Dunkelflauten“ einspringen. Der Gebotstermin für die erste Ausschreibung ist zu Ende gegangen. Die Bundesnetzagentur gibt einen ersten Überblick."
         },
         {
-          "title": "Haushalt: Diese drei Grafiken zeigen den Streit um den EU‑Finanzrahmen",
-          "link": "https://www.wiwo.de/politik/europa/eu-haushalt-diese-drei-grafiken-zeigen-den-streit-um-den-eufinanzrahmen/100253181.html",
-          "published": "2026-09-09T11:22:53+00:00",
-          "summary": "Der nächste EU-Finanzrahmen wird zum Kraftakt: Brüssel plant Rekordausgaben, Deutschland fordert Einsparungen. Im Zentrum stehen Verteidigung und Wettbewerbsfähigkeit."
+          "title": "BörsenTag: Apple ist kein Vorreiter bei den Produkten, dafür aber an der Börse",
+          "link": "https://www.wiwo.de/finanzen/boerse/boersentag-apple-ist-kein-vorreiter-bei-den-produkten-dafuer-aber-an-der-boerse/100253138.html",
+          "published": "2026-09-09T13:41:11+00:00",
+          "summary": "Der neue Apple-CEO stellt heute womöglich ein faltbares iPhone für 2000 Dollar vor. Neu ist daran nichts, doch die Apple-Aktie kann trotzdem davon profitieren."
         },
         {
-          "title": "Pisa-Studie: Deutsche Kinder so dumm wie nie? Machen Sie selbst den Test!",
-          "link": "https://www.wiwo.de/politik/deutschland/pisa-test-aufgaben-loesen-sie-diese-fragen-fuer-15-jaehrige/100253001.html",
-          "published": "2026-09-09T11:20:38+00:00",
-          "summary": "Wir haben einen Fragenkomplex aus dem Pisa-Test für Sie aufbereitet. Prüfen Sie, ob Sie die Aufgabe für 15-Jährige lösen können."
+          "title": "Nach der Landtagswahl: AfD kassiert vier Absagen für Gespräche in Sachsen-Anhalt",
+          "link": "https://www.wiwo.de/politik/deutschland/nach-der-landtagswahl-afd-kassiert-vier-absagen-fuer-gespraeche-in-sachsen-anhalt/100253218.html",
+          "published": "2026-09-09T13:33:00+00:00",
+          "summary": "In Sachsen-Anhalt hat die AfD alle Parteien zu Sondierungsgesprächen eingeladen. Doch CDU, SPD, Grüne und Linke winken ab. Wie reagiert das BSW ?"
         }
       ],
       "error": null
@@ -242,34 +242,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "PISA 2025: Deutschlands Schüler so schwach wie nie: Was das für den Fachkräftenachwuchs bedeutet",
+          "link": "https://www.ingenieur.de/karriere/bildung/was-die-pisa-studie-mit-dem-fachkraftemangel-zu-tun-hat/",
+          "published": "2026-09-09T14:00:00+00:00",
+          "summary": "Die Pisa-Studie 2025 offenbart historische Kompetenzlücken bei Jugendlichen – mit Folgen für MINT-Berufe und Deutschlands Fachkräftenachwuchs."
+        },
+        {
+          "title": "9/11 veränderte den Hochhausbau, aber anders, als viele denken",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/9-11-veraenderte-den-hochhausbau-aber-anders-als-viele-denken/",
+          "published": "2026-09-09T13:30:00+00:00",
+          "summary": "25 Jahre nach 9/11: Wie die Einstürze der Twin Towers Brandschutz, Fluchtwege, Aufzüge und den Hochhausbau verändert haben."
+        },
+        {
+          "title": "Automotive-Ingenieure wechseln in die Rüstungsindustrie: Hensoldt sagt, welches Know-how gefragt ist",
+          "link": "https://www.ingenieur.de/wirtschaft/hensoldt-schafft-300-jobs-bei-stuttgart-ruestung-sucht-automotive-kompetenzen/",
+          "published": "2026-09-09T13:00:00+00:00",
+          "summary": "Hensoldt schafft 300 Jobs bei Stuttgart: Gesucht sind Auto-Experten für Software, Systeme und Elektrotechnik – Chancen im Strukturwandel nutzen."
+        },
+        {
+          "title": "15 % mehr Energie ohne neue Zellchemie: Fraunhofer ISE verändert den Batterieaufbau",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/15-mehr-energie-ohne-neue-zellchemie-fraunhofer-ise-veraendert-den-batterieaufbau/",
+          "published": "2026-09-09T12:30:00+00:00",
+          "summary": "Fraunhofer ISE entwickelt Batteriezellen mit bis zu 800 µm dicken Elektroden. Sie speichern bis zu 15 % mehr Energie, doch es gibt einen Haken."
+        },
+        {
           "title": "Dieses Photon dürfte die Erde nie erreicht haben: Stimmt etwas mit Einsteins Physik nicht?",
           "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/dieses-photon-duerfte-die-erde-nie-erreicht-haben-stimmt-etwas-mit-einsteins-physik-nicht/",
           "published": "2026-09-09T11:00:00+00:00",
           "summary": "Ein Photon könnte zwei Milliarden Lichtjahre bis zur Erde gereist sein. Eigentlich hätte es unterwegs verschwinden müssen. Ist Einsteins Physik unvollständig?"
-        },
-        {
-          "title": "Inbetriebnahmeingenieur: Aufgaben, Reisen und Gehalt",
-          "link": "https://www.ingenieur.de/karriere/berufsprofile/inbetriebnahmeingenieur-aufgaben-reisen-und-gehalt/",
-          "published": "2026-09-09T10:30:00+00:00",
-          "summary": "Inbetriebnahmeingenieure bringen neue Maschinen und Anlagen zum Laufen. Sie testen Funktionen, stellen Steuerungen ein, suchen Fehler und begleiten die Anlage bis zur Übergabe an den Kunden."
-        },
-        {
-          "title": "Feststoffbatterien fürs E-Auto: So realistisch sind 1500 km pro Ladung",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/feststoffbatterien-fuers-e-auto-so-realistisch-sind-1500-km-pro-ladung/",
-          "published": "2026-09-09T10:00:00+00:00",
-          "summary": "1200 km sind bereits geschafft. Doch wie nah sind Festkörperbatterien wirklich an 1500 km Reichweite und der Großserie?"
-        },
-        {
-          "title": "Cybersecurity boomt, doch Berufseinsteiger profitieren kaum",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/cybersecurity-im-ki-umbruch-neue-skills-entscheiden-ueber-den-job/",
-          "published": "2026-09-09T09:30:00+00:00",
-          "summary": "Cybersecurity-Stellen verlangen immer öfter KI-Skills. Doch die Security-Nachfrage wächst bei erfahrenen Fachkräften deutlich stärker als bei Einsteigern."
-        },
-        {
-          "title": "Nach Rettung im April: Leuna Polyamid steht fünf Monate später vor dem Aus",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/chemie/nach-rettung-im-april-leuna-polyamid-steht-fuenf-monate-spaeter-vor-dem-aus/",
-          "published": "2026-09-09T08:38:52+00:00",
-          "summary": "Leuna Polyamid stellt Ende September die Produktion ein. Warum das Chemiewerk nicht einfach abgeschaltet werden kann und andere Firmen betroffen sind."
         }
       ],
       "error": null
