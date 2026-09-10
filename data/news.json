@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:09:20+00:00",
+  "generatedAt": "2026-09-10T12:12:12+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Wer muss wie viel sparen im Gesundheitswesen?",
+          "link": "https://www.tagesschau.de/wirtschaft/krankenkassen-gesundheitsreform-einsparungen-100.html",
+          "published": "2026-09-10T12:06:13+00:00",
+          "summary": "Heute berät der Bundestag über den Gesundheits-Etat. Bei Kliniken, Arzneien oder auch Psychotherapeuten sollen nach dem Willen der Regierung Milliarden eingespart werden. Wen trifft es am härtesten? …"
+        },
+        {
+          "title": "Spahn entschuldigt sich bei CDU-Mitgliedern: \"Ich war zu feige\"",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/spahn-brief-mitglieder-100.html",
+          "published": "2026-09-10T11:22:53+00:00",
+          "summary": "Ex-Unionsfraktionschef Spahn hat sich in einem Brief an die CDU-Mitglieder seines Wahlkreises für seinen Umgang mit einer Leihmutterschaft in den USA entschuldigt. Er sei zu feige gewesen, \"bei …"
+        },
+        {
+          "title": "Champions League: So gefährlich ist Bodø/Glimt für Bayern",
+          "link": "https://www.sportschau.de/regional/br/br-die-macht-des-kollektivs-so-gefaehrlich-ist-bodoe-fuer-bayern-102.html",
+          "published": "2026-09-10T11:13:55+00:00",
+          "summary": "Ein Klub vom Polarkreis fordert die Champions-League-Topklubs heraus: Heute treffen die Bayern auf die norwegischen Bodø/Glimt."
+        },
+        {
+          "title": "Bundesweiter Warntag: Warum es heute ab 11 Uhr laut wurde",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/warntag-faq-100.html",
+          "published": "2026-09-10T11:12:11+00:00",
+          "summary": "Sirenen heulten, Mobiltelefone schrillten, Digitalradios schalteten sich von selbst ein - zum sechsten Mal hat heute der bundesweite Warntag stattgefunden. Antworten auf wichtige Fragen."
+        },
+        {
           "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
           "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-10T10:02:19+00:00",
-          "summary": "Am Donnerstag gibt es einen Wechsel aus Sonne und Wolken und es bleibt meist trocken. Im Südwesten ist es zum Teil länger sonnig. An den Alpen ist es oft stark bewölkt, aber es fällt nur wenig Regen. …"
-        },
-        {
-          "title": "\"Zum ersten Mal auch eine Entwarnung\", Birgit Langhammer, ARD-aktuell, über Alarm zum Warntag",
-          "link": "https://www.tagesschau.de/video/video-1646552.html",
-          "published": "2026-09-10T09:47:53+00:00",
-          "summary": ""
-        },
-        {
-          "title": "\"Integrationsangebote sollen gekürzt werden\", Christoph Mestmacher, ARD Berlin, über Etat für Innenministerium",
-          "link": "https://www.tagesschau.de/video/video-1646548.html",
-          "published": "2026-09-10T09:45:32+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646540.html",
-          "published": "2026-09-10T09:33:28+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Tote nach russischem Angriff auf Einkaufszentrum in Sumy",
-          "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-108.html",
-          "published": "2026-09-10T09:33:23+00:00",
-          "summary": "Russland und die Ukraine haben ihre gegenseitigen Angriffe fortgesetzt. Bei einer russischen Attacke auf ein Einkaufszentrum starben laut Behörden zwei Menschen. Die Ukraine nahm russische …"
+          "published": "2026-09-10T11:03:24+00:00",
+          "summary": "Am Freitag fällt zwischen Alpen und Bayerischem Wald sowie im Nordwesten und Westen Regen. Sonst ist es trocken und neben Wolken länger sonnig. Die Höchstwerte liegen zwischen 16 Grad im …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Weltwirtschaft: BIZ-Chef warnt vor Finanzrisiken durch den KI-Boom",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/weltwirtschaft-biz-chef-warnt-vor-finanzrisiken-durch-den-ki-boom/100253523.html",
-          "published": "2026-09-10T10:03:41+00:00",
-          "summary": "Große Technologieunternehmen werden Schätzungen zufolge in den nächsten Jahren über eine Billion Dollar in KI investieren. Pablo Hernandez de Cos mahnt vor Gefahren für die Weltwirtschaft."
+          "title": "Handel: „Wichtigste Geschäftschance“: AHK China widerspricht Pauschalkritik an Chinas Exportüberschuss",
+          "link": "https://www.handelsblatt.com/politik/international/handel-ahk-china-widerspricht-pauschaler-kritik-an-chinas-exportueberschuss/100253109.html",
+          "published": "2026-09-10T12:05:44+00:00",
+          "summary": "Ein aktuelles Papier der Auslandshandelskammer zeigt, wie deutsche Unternehmen chinesische bei der Auslandsexpansion unterstützen. Das steht im Kontrast zur Kritik aus Berlin und Brüssel."
         },
         {
-          "title": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-drei-beispiele-zeigen-was-ihr-mehrfamilienhaus-einbringen-kann/100180922.html",
-          "published": "2026-09-10T10:01:00+00:00",
-          "summary": "Viele Deutsche träumen davon, ihre Altersvorsorge mit einer vermieteten Immobilie zu sichern. Doch wieviel Rendite ist wirklich drin? Das Handelsblatt hat nachgerechnet."
+          "title": "Steuererklärung 2025: 1230 Euro pauschal: Diese Werbungskosten senken die Steuerlast noch weiter",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-so-holen-arbeitnehmer-mit-werbungskosten-mehr-geld-vom-finanzamt-zurueck/100105891.html",
+          "published": "2026-09-10T12:05:00+00:00",
+          "summary": "Ob Bücher oder Bahntickets – rund um den Job gibt es zahlreiche Möglichkeiten, Werbungskosten abzusetzen und so am Ende Steuern zu sparen. Ein Überblick."
         },
         {
-          "title": "FIRE-Bewegung: Wer finanziell frei werden will, sollte auf diese sechs Punkte achten",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-so-setzen-sie-ihren-traum-der-finanziellen-unabhaengigkeit-um/100164519.html",
-          "published": "2026-09-10T10:00:00+00:00",
-          "summary": "Auf dem Weg zur finanziellen Unabhängigkeit kann viel schiefgehen. Ein Frührentner-Paar verrät, wie man die größten Fallstricke vermeidet – und sich den Traum der frühen Rente erfüllt."
+          "title": "Gehalt: Top-Verdiener in Deutschland: In diesen Berufen wird am besten bezahlt",
+          "link": "https://www.handelsblatt.com/karriere/gehalt-gehoeren-sie-zu-den-top-verdienern-in-deutschland/100201057.html",
+          "published": "2026-09-10T12:04:00+00:00",
+          "summary": "Gehören Sie zu den absoluten Top-Verdienern in Deutschland? Eine exklusive Auswertung zeigt, welche Berufe an der Gehaltsspitze stehen."
         },
         {
-          "title": "Geldanlage: „Auch eine Rentnerin kann 100 Prozent Aktien vertragen“",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-je-mehr-zeit-sie-haben-desto-hoeher-kann-ihr-risiko-sein/100124450.html",
-          "published": "2026-09-10T10:00:00+00:00",
-          "summary": "Martin Weber hat über Jahrzehnte das Verhalten von Anlegern erforscht. Im Gespräch erklärt er, worauf es beim Aufbau eines Depots ankommt und welchem Irrglauben Anleger nicht anhängen sollten."
+          "title": "iPhone Duo: Apple stellt sein erstes faltbares Smartphone vor",
+          "link": "https://www.handelsblatt.com/video/unternehmen/iphone-duo-apple-stellt-sein-erstes-faltbares-smartphone-vor/100253541.html",
+          "published": "2026-09-10T12:03:31+00:00",
+          "summary": "Größtes iPhone-Display aller Zeiten bei taschentauglichem Format – doch auch der Preis setzt neue Maßstäbe: Die einfachste Version des „iPhone Duo“ wird für 1999 Dollar erhältlich sein."
         },
         {
-          "title": "Volkswagen: VW rechnet offenbar mit 16 Milliarden Kosten für Stellenabbau und mögliche Werksschließungen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-beziffert-kosten-fuer-sparpaket-wohl-auf-16-milliarden-euro/100253519.html",
-          "published": "2026-09-10T09:58:03+00:00",
-          "summary": "Das mögliche Aus für vier Werke soll Berichten zufolge sechs Milliarden Euro kosten. Hinzu kommen zehn Milliarden für den Abbau von bis zu 60.000 Arbeitsplätzen weltweit."
+          "title": "Kommentar: Merz lässt sich von der AfD in die Ecke drängen",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-merz-laesst-sich-von-der-afd-in-die-ecke-draengen-01/100252661.html",
+          "published": "2026-09-10T12:00:00+00:00",
+          "summary": "Der Kanzler wehrt sich deutlich gegen die vor Kraft strotzende Alice Weidel. Aber er tritt der AfD-Erzählung des Untergangs nicht ausreichend entgegen."
         }
       ],
       "error": null
@@ -89,7 +89,7 @@
           "title": "Abfindungen und Sozialpläne: Bericht: Stellenabbau kostet VW zehn Milliarden Euro",
           "link": "https://www.n-tv.de/wirtschaft/Bericht-Stellenabbau-kostet-VW-zehn-Milliarden-Euro-id31290775.html",
           "published": "2026-09-10T10:06:37+00:00",
-          "summary": "Vor einer Woche stimmt der Aufsichtsrat dem Sparpaket des VW-Konzerns einstimmig zu. Der Vorstand plant mit dem Abbau zehntausender Stellen. Eine teure Angelegenheit: Der Konzern veranschlagt für …"
+          "summary": "Vor einer Woche stimmt der Aufsichtsrat dem Sparpaket des VW-Konzerns einstimmig zu. Der Vorstand plant den Abbau Zehntausender Stellen. Eine teure Angelegenheit: Der Konzern veranschlagt für …"
         },
         {
           "title": "Kampfpreis bei Altersvorsorgedepot: Sparkassen-Tochter Deka fordert Neobroker heraus",
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Kreise: Huthi nehmen wichtige Hafenstadt Mokka im Jemen ein",
-          "link": "https://www.finanzen.net/nachricht/aktien/kreise-huthi-nehmen-wichtige-hafenstadt-mokka-im-jemen-ein-15927517",
-          "published": "2026-09-10T10:03:38+00:00",
-          "summary": "SANAA (dpa-AFX) - Die Huthi-Miliz hat nach Angaben aus jemenitischen Militärkreisen und Augenzeugenberichten die strategisch wichtige Hafenstadt Mokka an der Westküste des Jemens eingenommen. Die vom …"
+          "title": "M1 Kliniken: Viel Rückenwind für die Aktie",
+          "link": "https://www.finanzen.net/nachricht/aktien/m1-kliniken-viel-rueckenwind-fuer-die-aktie-15927697",
+          "published": "2026-09-10T12:05:52+00:00",
+          "summary": "Ein wenig erschreckend lesen sich zumindest auf den ersten Blick die gestern veröffentlichten Halbjahreszahlen der M1 Kliniken. Der Konzernumsatz knickte um 58,3 Prozent auf 76,6 Mio. Euro ein und …"
         },
         {
-          "title": "Klassiker FC Bayern gegen Borussia Dortmund am Samstagabend",
-          "link": "https://www.finanzen.net/nachricht/aktien/klassiker-fc-bayern-gegen-borussia-dortmund-am-samstagabend-15927514",
-          "published": "2026-09-10T10:02:38+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Den deutschen Fußball-Klassiker gibt's an einem Samstagabend: Das Topspiel zwischen dem FC Bayern München und Borussia Dortmund ( BVB (Borussia Dortmund) ) am 8. Spieltag ist …"
+          "title": "Kursrutsch der Vonovia-Aktie hält an: Warum das Papier vom schwierigen Zinsumfeld belastet wird",
+          "link": "https://www.finanzen.net/nachricht/aktien/zinspfad-der-ezb-im-blick-kursrutsch-der-vonovia-aktie-haelt-an-warum-das-papier-vom-schwierigen-zinsumfeld-belastet-wird-00-15927663",
+          "published": "2026-09-10T12:05:00+00:00",
+          "summary": "Vonovia-Aktie fällt abermals auf ein Dreijahrestief Goldman Sachs stuft die Aktie wegen steigender Zinsen herunter Weiterer Zinspfad der EZB im Blick Die"
         },
         {
-          "title": "ROUNDUP 2: Baupläne der Deutschen Bahn verzögern sich um Jahre",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-bauplaene-der-deutschen-bahn-verzoegern-sich-um-jahre-15927513",
-          "published": "2026-09-10T10:01:39+00:00",
-          "summary": "(neu: Details.)BERLIN (dpa-AFX) - Die Deutsche Bahn fährt ihren Pünktlichkeitszielen hinterher, Hauptgrund dafür ist nach Ansicht des Konzerns die marode Infrastruktur. Nun wird klar: Das vielerorts …"
+          "title": "Strom-Sabotage: Notizen mit über 160 Sabotagezielen entdeckt",
+          "link": "https://www.finanzen.net/nachricht/aktien/strom-sabotage-notizen-mit-ueber-160-sabotagezielen-entdeckt-15927695",
+          "published": "2026-09-10T12:04:39+00:00",
+          "summary": "DÜSSELDORF (dpa-AFX) - Im Wohnmobil des mutmaßlichen Strom-Saboteurs ist ein Notizbuch mit handschriftlichen Vermerken zu mehr als 160 bisherigen und möglichen weiteren Sabotagezielen entdeckt …"
         },
         {
-          "title": "ROUNDUP: Mehr als jeder Vierte will aufs E-Auto umsteigen",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-mehr-als-jeder-vierte-will-aufs-e-auto-umsteigen-15927512",
-          "published": "2026-09-10T10:00:40+00:00",
-          "summary": "BERLIN (dpa-AFX) - Hohe Spritpreise und der Blick auf die laufenden Kosten bringen in Deutschland vergleichsweise viele Autofahrer dazu, sich vom klassischen Verbrennungsmotor zu verabschieden. Nach …"
+          "title": "Trading Idee: Adidas stark überverkauft, jetzt Gegenbewegung und Long-Chance?",
+          "link": "https://www.finanzen.net/nachricht/zertifikate/trading-idee-trading-idee-adidas-stark-ueberverkauft-jetzt-gegenbewegung-und-long-chance-15927696",
+          "published": "2026-09-10T12:00:00+00:00",
+          "summary": "Der RSI signalisiert mit 30,32 einen überverkauften Zustand. Die Marke von 30 gilt als klassische Schwelle, unterhalb derer eine Aktie als überverkauft und damit als Kandidat für eine technische …"
         },
         {
-          "title": "Munich Re & Co.: Versicherungsaktien vor EZB-Sitzung gesucht",
-          "link": "https://www.finanzen.net/nachricht/aktien/marktumfeld-im-blick-munich-re-co-versicherungsaktien-vor-ezb-sitzung-gesucht-15927511",
-          "published": "2026-09-10T10:00:39+00:00",
-          "summary": "Der Sektorindex, der zuletzt etwas hinterhergehinkt ist, legte um 0,3 Prozent zu. Unter den besten Werten im deutschen Leitindex DAX stiegen die Papiere der Rückversicherer Munich Re und"
+          "title": "Warten auf EZB-Leitzinsentscheid: DAX nach Kursrutsch abermals schwächer",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-warten-auf-ezb-leitzinsentscheid-dax-nach-kursrutsch-abermals-schwaecher-15920974",
+          "published": "2026-09-10T12:00:00+00:00",
+          "summary": "Nach dem jüngsten Kursrutsch tut sich der DAX auch am Donnerstag schwer. Gestartet ist das Börsenbarometer um marginale 0,08 Prozent niedriger bei 25.555,66 Zählern. Im Verlauf weitet das …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Steffen Krach: Berliner SPD überweist Spende von 9900 Euro zurück",
-          "link": "https://www.wiwo.de/politik/deutschland/steffen-krach-berliner-spd-ueberweist-spende-von-9900-euro-zurueck/100253476.html",
-          "published": "2026-09-10T09:48:00+00:00",
-          "summary": "Kurz vor der Berlin-Wahl wird gegen den SPD-Spitzenkandidaten Steffen Krach ermittelt. Es soll um ein Vergabeverfahren gehen. Was bisher bekannt ist."
+          "title": "Straßenbau: Zusätzliche Investitionen in Autobahnen ab 2027 mit privatem Kapital geplant",
+          "link": "https://www.wiwo.de/politik/deutschland/zusaetzliche-investitionen-in-autobahnen-ab-2027-mit-privatem-kapital-geplant/100253569.html",
+          "published": "2026-09-10T11:45:06+00:00",
+          "summary": "Die Autobahn GmbH soll künftig Einnahmen aus der Lkw-Maut erhalten und Kredite aufnehmen. Eine Pkw-Maut soll es nicht geben."
         },
         {
-          "title": "Haushaltswoche: Mehr Geld für Polizei und Cyberschutz im Bundeshaushalt 2027",
-          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-mehr-geld-fuer-polizei-und-cybersicherheit/100253502.html",
-          "published": "2026-09-10T09:47:00+00:00",
-          "summary": "Das Parlament debattiert über den Bundeshaushalt 2027. Innenminister Dobrindt spricht aber vor allem über Migration und hybride Angriffe Russlands."
+          "title": "iPhone Duo: Wie viel Luxus verträgt das iPhone?",
+          "link": "https://www.wiwo.de/unternehmen/it/iphone-duo-und-18-pro-wie-viel-luxus-vertraegt-apple/100253336.html",
+          "published": "2026-09-10T11:32:00+00:00",
+          "summary": "Unter dem neuen Chef John Ternus startet Apple ins Foldable-Zeitalter – und verlangt dafür saftige Preise. Was die Kunden ertragen und wo das Risiko für den Konzern liegt."
         },
         {
-          "title": "Kreidtwürdigkeit: Streit um historische Schufa-Daten – Kritiker wollen klagen",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/kreditwuerdigkeit-schufa-droht-sammelklage-wegen-historischer-datenspeicherung/100249793.html",
-          "published": "2026-09-10T09:45:00+00:00",
-          "summary": "Datenschützer fordern die Löschung alter Kreditdaten, die Schufa hält dagegen. Nun dürfte der Streit vor Gericht landen."
+          "title": "Geld. Leben. Looman.: Manchmal überfällt die Bank auch ihre Kunden",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/bankberatung-fallen-und-kosten-bei-geldanlagen-fuer-senioren/100253530.html",
+          "published": "2026-09-10T10:55:00+00:00",
+          "summary": "Bankberater haben oft nur das Beste im Sinn – für die Bank. Nicht notwendigerweise für den Kunden. In welche Fallen Sie nicht tappen sollten. Eine Kolumne."
         },
         {
-          "title": "Wahl in Sachsen-Anhalt: Der Fieberwahn von Magdeburg",
-          "link": "https://www.wiwo.de/politik/deutschland/wahl-in-sachsen-anhalt-afd-erzielt-rekordergebnis-regierung-unter-druck/100253346.html",
-          "published": "2026-09-10T09:36:00+00:00",
-          "summary": "Nicht nur das Rekordergebnis der AfD bestürzt, sondern das Zerrbild, das inzwischen von der Regierung und dem Land gezeichnet wird. Zeit zum Runterkommen. Ein Kommentar."
+          "title": "Autobauer: Volkswagen beziffert Kosten für Stellenabbau offenbar auf 16 Milliarden Euro",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-autobauer-beziffert-kosten-fuer-stellenabbau-offenbar-auf-16-milliarden-euro/100253533.html",
+          "published": "2026-09-10T10:51:00+00:00",
+          "summary": "Der Stellenabbau könnte VW Milliarden kosten. Allein für Emden und Zwickau rechnet der Konzern laut einem Insider mit jeweils einer Milliarde Euro."
         },
         {
-          "title": "Iran-Sanktionen: BaFin schickt deutschen Ableger der iranischen Bank Sepah in die Insolvenz",
-          "link": "https://www.wiwo.de/unternehmen/banken/bank-sepah-bafin-schickt-deutschen-ableger-der-iranischen-bank-in-die-insolvenz/100253284.html",
-          "published": "2026-09-10T09:32:57+00:00",
-          "summary": "Die deutsche Zweigstelle der iranischen Bank Sepah hat Millionen Euro bei der Bundesbank deponiert. Trotzdem wurde ein Insolvenzverfahren eröffnet."
+          "title": "Mobilität: Mehr als jeder Vierte will aufs E-Auto umsteigen",
+          "link": "https://www.wiwo.de/unternehmen/auto/mobilitaet-mehr-als-jeder-vierte-will-aufs-e-auto-umsteigen/100253386.html",
+          "published": "2026-09-10T10:50:00+00:00",
+          "summary": "Durch Fortschritte bei Reichweite und Ladegeschwindigkeit steigt das Interesse an E-Autos. Doch in vielen Regionen herrscht weiter Zurückhaltung."
         }
       ],
       "error": null
@@ -242,34 +242,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "25 Jahre nach 9/11: Was Ingenieure aus dem Einsturz der Twin Towers gelernt haben",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/25-jahre-nach-9-11-was-ingenieure-aus-dem-einsturz-der-twin-towers-gelernt-haben/",
-          "published": "2026-09-10T09:45:41+00:00",
-          "summary": "Von beschädigtem Brandschutz bis zu Evakuierungsaufzügen: Diese technischen Folgen hatte 9/11 für den Hochhausbau."
+          "title": "95 % der jungen Personaler achten auf Berufserfahrung – ältere setzen andere Schwerpunkte",
+          "link": "https://www.ingenieur.de/allgemein/junge-personaler-setzen-auf-berufserfahrung-aeltere-auf-qualifikationen/",
+          "published": "2026-09-10T12:00:00+00:00",
+          "summary": "Berufserfahrung, Fachwissen oder soziale Kompetenzen? Eine Umfrage zeigt, worauf Personaler verschiedener Altersgruppen bei Bewerbungen achten."
         },
         {
-          "title": "Wählen mit verschränkten Photonen: So soll Quantenphysik E-Wahlen absichern",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/waehlen-mit-verschraenkten-photonen-so-soll-quantenphysik-e-wahlen-absichern/",
-          "published": "2026-09-10T08:30:00+00:00",
-          "summary": "Forscher testen elektronische Wahlen mit verschränkten Photonen. Wie das Quantenverfahren funktioniert und warum es die Bundestagswahl nicht ersetzt."
+          "title": "Sicherheitsingenieur: Aufgaben, Qualifikation und Gehalt",
+          "link": "https://www.ingenieur.de/karriere/berufsprofile/berufsprofil-sicherheitsingenieur/",
+          "published": "2026-09-10T11:36:00+00:00",
+          "summary": "Sicherheitsingenieure erkennen Gefahren am Arbeitsplatz, bewerten Risiken und entwickeln geeignete Schutzmaßnahmen. Alles zu Aufgaben, Studium, Voraussetzungen und Karriere."
         },
         {
-          "title": "VDI Future Summit für Ingenieurinnen: Wie Frauen in MINT-Karrieren vorankommen",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/vdi-future-summit-fuer-ingenieurinnen-wie-frauen-in-mint-karrieren-vorankommen/",
-          "published": "2026-09-10T08:00:00+00:00",
-          "summary": "Mehr Frauen für Technik zu gewinnen, reicht nicht. Sie müssen auch bleiben und aufsteigen können. Der VDI-WoMentorING Future Summit verbindet Karrierepraxis, Netzwerke und Zukunftstechnologien."
+          "title": "Weniger Komplexität im Auflagerbereich von TT-Platten und Unterzügen",
+          "link": "https://www.ingenieur.de/advertorial/weniger-komplexitaet-im-auflagerbereich-von-tt-platten-und-unterzuegen/",
+          "published": "2026-09-10T11:35:12+00:00",
+          "summary": "Mit der WINCO® Konsole steht ein Stahlauflager zur Verfügung, das die Auflagerung von TT‑Platten, Unterzügen und Trogplatten systematisch vereinfacht. Sie basiert auf den spezifischen Anforderungen …"
         },
         {
-          "title": "Was verdient ein Bauingenieur? Gehalt nach Erfahrung und Region",
-          "link": "https://www.ingenieur.de/karriere/gehalt/bauingenieur-gehalt-wo-verdient-man-am-meisten-auf-dem-bau/",
-          "published": "2026-09-10T07:30:00+00:00",
-          "summary": "Bauingenieur-Gehalt im Überblick: So viel verdienen Einsteiger und erfahrene Fachkräfte – und so groß sind die regionalen Unterschiede."
+          "title": "Bitcoin vor dem Superzyklus? Warum Willy Woo jetzt bullish wird",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/bitcoin-vor-dem-superzyklus-warum-willy-woo-jetzt-bullish-wird/",
+          "published": "2026-09-10T11:00:00+00:00",
+          "summary": "Bitcoin vor dem Superzyklus? Willy Woo sieht erstmals strukturelle Signale dafür. Auch ETF-Zuflüsse und Chartdaten sprechen für weiteres Kurspotenzial."
         },
         {
-          "title": "Maschinenbauingenieur-Gehalt: Was Erfahrung, Tarif und Standort ausmachen",
-          "link": "https://www.ingenieur.de/karriere/gehalt/maschinenbauingenieur-gehalt-was-maschinenbauer-verdienen/",
-          "published": "2026-09-10T07:30:00+00:00",
-          "summary": "Was verdienen Maschinenbauingenieure? Aktuelle Gehälter nach Berufserfahrung, Tarifbindung, Unternehmensgröße und Bundesland."
+          "title": "Vergessener Tunnel unter Berlins Prachtstraße wird abgerissen, aber nur teilweise",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/vergessener-tunnel-unter-berlins-prachtstrasse-wird-abgerissen-aber-nur-teilweise/",
+          "published": "2026-09-10T10:30:00+00:00",
+          "summary": "Berlin baut den 110 Jahre alten Lindentunnel unter „Unter den Linden“ teilweise zurück. Warum die Tragfähigkeit nicht mehr reicht und ein Teil erhalten bleibt."
         }
       ],
       "error": null
