@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:10:55+00:00",
+  "generatedAt": "2026-09-10T20:08:36+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bundesanwaltschaft übernimmt Ermittlungen zu Strom-Sabotage",
-          "link": "https://www.tagesschau.de/inland/strom-sabotage-bundesanwaltschaft-100.html",
-          "published": "2026-09-10T17:43:51+00:00",
-          "summary": "Nach den Attacken auf Umspannwerke in mehreren Bundesländern hat die Bundesanwaltschaft die Ermittlungen übernommen. Dem Tatverdächtigen wird verfassungsfeindliche Sabotage vorgeworfen."
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646970.html",
+          "published": "2026-09-10T20:02:07+00:00",
+          "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-10T17:43:04+00:00",
-          "summary": "Am Freitag fällt zwischen Alpen und Bayerischem Wald sowie im Nordwesten und Westen Regen. Sonst ist es trocken und neben Wolken länger sonnig. Die Höchstwerte liegen zwischen 16 Grad im …"
+          "title": "Ermittlungen gegen Krach in zwei Fällen",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/berliner-spd-spitzenkandidat-krach-ermittlungen-in-mehreren-faellen,krach-110.html",
+          "published": "2026-09-10T19:26:52+00:00",
+          "summary": "Die Staatsanwaltschaft Hannover hat sich erstmals konkret zu den Vorwürfen gegen den Berliner SPD-Spitzenkandidaten Krach geäußert. Es geht unter anderem um den Anfangsverdachts auf Vorteilsannahme …"
         },
         {
-          "title": "Deutsche Basketballerinnen entzaubern Belgien",
-          "link": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballerinnen-entzaubern-belgien,bericht-vf-belgien-100.html",
-          "published": "2026-09-10T17:34:45+00:00",
-          "summary": "Dank einer starken Mannschaftsleistung sind die deutschen Basketballerinnen in das WM-Halbfinale eingezogen. Gegen Belgien gelang dem DBB-Team nahezu alles."
+          "title": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
+          "link": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
+          "published": "2026-09-10T19:23:15+00:00",
+          "summary": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang …"
         },
         {
           "title": "Erdbeben in der Pfalz - Epizentrum bei Worms",
           "link": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/erdbeben-worms-100.html",
-          "published": "2026-09-10T17:22:00+00:00",
+          "published": "2026-09-10T18:56:00+00:00",
           "summary": "Am späten Nachmittag hat sich in Rheinland-Pfalz ein Erdbeben ereignet. Das Epizentrum war Worms, die Stärke 3,4. Bis ins 26 Kilometer entfernte Mannheim waren die Erdstöße spürbar."
         },
         {
-          "title": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
-          "published": "2026-09-10T17:18:47+00:00",
-          "summary": "Weniger als zwei Monate vor den Midterms muss US-Präsident Trump einen Rückschlag hinnehmen: Der Supreme Court lehnte den Neuzuschnitt der Wahlkreise in Missouri ab. Die Änderung könnte zu Chaos …"
+          "title": "Deutsche Basketballerinnen entzaubern Belgien",
+          "link": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballerinnen-entzaubern-belgien,bericht-vf-belgien-100.html",
+          "published": "2026-09-10T18:44:01+00:00",
+          "summary": "Dank einer starken Mannschaftsleistung sind die deutschen Basketballerinnen in das WM-Halbfinale eingezogen. Gegen Belgien gelang dem DBB-Team nahezu alles."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Investment: Vereinigte Arabische Emirate planen Milliardeninvestitionen in Deutschland",
-          "link": "https://www.handelsblatt.com/politik/deutschland/investment-vae-planen-milliardeninvestitionen-in-deutschland/100253565.html",
-          "published": "2026-09-10T17:48:25+00:00",
-          "summary": "Beim Staatsbesuch von Präsident Mohamed bin Zayed Al Nahyan verkündet die Golfmonarchie Investitionen in Höhe von 40 Milliarden Euro. Auch die Rüstungskooperation soll vertieft werden."
+          "title": "Ukraine-Krieg: Laut Selenskyj kein trilaterales Treffen vor Wahlen in Russland",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-10T19:46:26+00:00",
+          "summary": "Mehrere Tote bei russischen Angriffen auf Dnipro und Kiew +++ Viele Verletzte nach russischen Angriffen auf Kramatorsk +++ Kanada sagt Ukraine wichtiges Luftabwehr-Paket zu +++ Der Newsblog."
         },
         {
-          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street im Minus – Ölpreise und Inflationsdaten belasten",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-oelpreise-und-inflationsdaten-belasten/100253522.html",
-          "published": "2026-09-10T17:35:01+00:00",
-          "summary": "Erneut rutschen die wichtigsten US-Börsenindizes ab. An der Wall Street befeuert der Anstieg der Erzeugerpreise im August Spekulationen auf eine baldige Zinserhöhung durch die Fed."
+          "title": "Luftverkehr: Emirates darf künftig auch den Flughafen BER ansteuern",
+          "link": "https://www.handelsblatt.com/politik/deutschland/luftverkehr-emirates-darf-kuenftig-auch-den-flughafen-ber-ansteuern/100253694.html",
+          "published": "2026-09-10T19:38:25+00:00",
+          "summary": "Am BER gibt es nur wenige internationale Langstreckenflüge. Das könnte sich absehbar ändern. Die Bundesregierung erlaubt der Airline Emirates, künftig einen weiteren deutschen Flughafen anzufliegen."
         },
         {
-          "title": "SPD-Politiker: Ermittlungen gegen Krach: Verdacht auf Vorteilsannahme",
-          "link": "https://www.handelsblatt.com/politik/deutschland/spd-politiker-ermittlungen-gegen-krach-verdacht-auf-vorteilsannahme/100253651.html",
-          "published": "2026-09-10T17:29:07+00:00",
-          "summary": "Am Mittwoch war bekanntgeworden, dass die Staatsanwaltschaft Hannover gegen den Berliner SPD-Spitzenkandidaten Steffen Krach ermittelt. Nun sagt sich die Behörde auch, worum es dabei geht."
+          "title": "Übernahme: Saudiarabischer Staatsfonds erwägt wohl Fusion von EA und Savvy Games",
+          "link": "https://www.handelsblatt.com/unternehmen/it-medien/uebernahme-saudiarabischer-staatsfonds-erwaegt-wohl-fusion-von-ea-und-savvy-games/100253712.html",
+          "published": "2026-09-10T19:33:59+00:00",
+          "summary": "Durch den Zusammenschluss der beiden vom PIF kontrollierten Unternehmen entstünde ein neuer Branchenriese. Das Vorhaben könnte daher auch Wettbewerbshüter alarmieren."
         },
         {
-          "title": "Konkurrenzdruck: Von der Mindeststeuer bis zur Energiestrategie: Der schleichende Standortverlust der Schweiz",
-          "link": "https://www.handelsblatt.com/politik/international/standort-die-wettbewerbsfaehigkeit-der-schweiz-ist-kein-selbstlaeufer-mehr/100253238.html",
-          "published": "2026-09-10T17:09:23+00:00",
-          "summary": "Das Schweizer Wirtschaftsmodell hat sich bewährt. Doch Studien zeigen: Die Erfolgsfaktoren verlieren an Stärke. Und selbst die neutrale Schweiz spürt geopolitische Konflikte stärker."
+          "title": "Nahost: Israel: Unterirdische Hisbollah-Basis im Südlibanon zerstört",
+          "link": "https://www.handelsblatt.com/politik/international/nahost-israel-unterirdische-hisbollah-basis-im-suedlibanon-zerstoert/100253713.html",
+          "published": "2026-09-10T19:29:17+00:00",
+          "summary": "Israel zerstört unterirdische Infrastruktur der Hisbollah. Dutzende Raketen und Drohnen seien entdeckt worden."
         },
         {
-          "title": "Künstliche Intelligenz: „Endspiel um KI“? Wie das Silicon Valley auf die jüngsten Doomsday-Warnungen reagiert",
-          "link": "https://www.handelsblatt.com/technik/it-internet/ki-wie-das-silicon-valley-auf-aktuelle-doomsday-warnungen-reagiert/100253390.html",
-          "published": "2026-09-10T17:09:04+00:00",
-          "summary": "Alarmisten gegen Skeptiker: Die Debatte über eine unverantwortliche KI-Entwicklung nimmt Fahrt auf. Forscher Nate Soares fordert im Handelsblatt ein sofortiges Eingreifen der Politik."
+          "title": "IWF: Weltwirtschaft trotzt Energiekrise – Risiken bleiben aber hoch",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/iwf-weltwirtschaft-trotzt-energiekrise-risiken-bleiben-aber-hoch/100253710.html",
+          "published": "2026-09-10T19:21:32+00:00",
+          "summary": "Die Weltwirtschaft werde von gegenläufigen Kräften beeinflusst. Während KI die Wirtschaft antreibt, hemmt der negative Angebotsschock bei Energie das Wachstum."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "NASDAQ-Handel NASDAQ 100 am Donnerstagnachmittag mit Abgaben",
-          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-handel-nasdaq-100-am-donnerstagnachmittag-mit-abgaben-15928541",
-          "published": "2026-09-10T18:02:32+00:00",
-          "summary": "Der NASDAQ 100 bewegt sich im NASDAQ-Handel um 20:00 Uhr um 0,88 Prozent schwächer bei 29.162,21 Punkten. In den Handel ging der NASDAQ 100 1,10 Prozent leichter bei 29.097,33 Punkten, nach ..."
+          "title": "Rheinmetall-Aktie erholt sich: Analystenkritik vs. Open-Source-Schritt - RENK, HENSOLDT & TKMS uneins",
+          "link": "https://www.finanzen.net/nachricht/aktien/open-source-rheinmetall-aktie-erholt-sich-analystenkritik-vs-open-source-schritt-renk-hensoldt-tkms-uneins-00-15927080",
+          "published": "2026-09-10T19:55:00+00:00",
+          "summary": "Rheinmetall-Aktie fällt erstmals seit Juli wieder unter 1.000 Euro JPMorgan setzt Aktie vor dem Kapitalmarkttag auf Negativ-Beobachtung Rheinmetall macht zentrale Battlesuite-Schnittstellen erstmals …"
         },
         {
-          "title": "Schwacher Handel: So steht der S&P 500 am Nachmittag",
-          "link": "https://www.finanzen.net/nachricht/aktien/schwacher-handel-so-steht-der-s-p-500-am-nachmittag-15928540",
-          "published": "2026-09-10T18:02:32+00:00",
-          "summary": "Um 20:00 Uhr notiert der S&P 500 im NYSE-Handel 0,53 Prozent tiefer bei 7.596,11 Punkten. Damit sind die im Index enthaltenen Werte 61,489 Bio. Euro wert. Zuvor ging der S&P 500 0,598 Prozent ..."
+          "title": "EZB erhöht den Leitzins wie erwartet - Inflationsdruck steigt - das kommt jetzt auf Anleger zu",
+          "link": "https://www.finanzen.net/nachricht/zinsen/ezb-zinsentscheid-ezb-erhoeht-den-leitzins-wie-erwartet-inflationsdruck-steigt-das-kommt-jetzt-auf-anleger-zu-15927178",
+          "published": "2026-09-10T19:52:00+00:00",
+          "summary": "Leitzins steigt wie erwartet um 25 Basispunkte Einlagenzins erhöht sich damit auf 2,50 Prozent Folgen für Anleger und Kreditnehmer im Blick Die Europäische Zentralbank hat am heutigen Donnerstag ..."
         },
         {
-          "title": "Schwacher Handel: So performt der NASDAQ Composite am Donnerstagnachmittag",
-          "link": "https://www.finanzen.net/nachricht/aktien/schwacher-handel-so-performt-der-nasdaq-composite-am-donnerstagnachmittag-15928539",
-          "published": "2026-09-10T18:02:32+00:00",
-          "summary": "Um 20:00 Uhr verliert der NASDAQ Composite im NASDAQ-Handel 0,52 Prozent auf 26.118,08 Punkte. Zum Handelsstart standen Verluste von 0,885 Prozent auf 26.021,05 Punkte an der Kurstafel, ..."
+          "title": "Deutsche Telekom-Aktie & Co. im Blick: Goldman Sachs sieht europäische Telekomwerte auf dem Vormarsch",
+          "link": "https://www.finanzen.net/nachricht/aktien/analysteneinschaetzung-deutsche-telekom-aktie-co-im-blick-goldman-sachs-sieht-europaeische-telekomwerte-auf-dem-vormarsch-00-15927032",
+          "published": "2026-09-10T19:50:00+00:00",
+          "summary": "Goldman Sachs überarbeitet sein Bewertungsmodell für Telekomwerte T-Mobile US liefert laut Analysten den Löwenanteil des künftigen Cashflows Auch Aktien von BT, Telefonica und Vodafone rücken mit …"
         },
         {
-          "title": "Handel in New York: Dow Jones am Nachmittag leichter",
-          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-dow-jones-am-nachmittag-leichter-15928538",
-          "published": "2026-09-10T18:02:32+00:00",
-          "summary": "Um 20:00 Uhr verliert der Dow Jones im NYSE-Handel 0,63 Prozent auf 52.050,44 Punkte. Der Wert der enthaltenen Werte beträgt damit 24,711 Bio. Euro. Zuvor ging der Dow Jones 0,625 Prozent ..."
+          "title": "adidas-Aktie unter den schwächsten DAX-Werten: Das steckt hinter dem Kursrückgang",
+          "link": "https://www.finanzen.net/nachricht/aktien/margendruck-adidas-aktie-unter-den-schwaechsten-dax-werten-das-steckt-hinter-dem-kursrueckgang-00-15927426",
+          "published": "2026-09-10T19:49:00+00:00",
+          "summary": "adidas-Aktie zählt am Donnerstag zu schwächsten DAX-Werten UBS hatte das Papier bereits Anfang August wegen der Marge abgestuft RBC Capital Markets bestätigt trotz der Schwäche seine Einstufung …"
         },
         {
-          "title": "Oracle-Aktie vor den Zahlen im Fokus: Bernstein fordert die Bären heraus",
-          "link": "https://www.finanzen.net/nachricht/aktien/verdopplung-voraus-oracle-aktie-vor-den-zahlen-im-fokus-bernstein-fordert-die-baeren-heraus-00-15922786",
-          "published": "2026-09-10T17:59:00+00:00",
-          "summary": "Bernstein sieht deutlich mehr Potenzial als der übrige Analystenkonsens Kapitalbedarf und Investitionstempo stehen im Mittelpunkt der Debatte Cloud-Infrastruktur wächst schneller als die Konkurrenz …"
+          "title": "Bayer-Aktie rot: FDA-Zulassung für Krebsmittel Sevabertinib erhalten",
+          "link": "https://www.finanzen.net/nachricht/aktien/behandlungsoption-bayer-aktie-rot-fda-zulassung-fuer-krebsmittel-sevabertinib-erhalten-15926979",
+          "published": "2026-09-10T19:49:00+00:00",
+          "summary": "Wie Bayer mitteilte, erhielt Sevabertinib mit dem Markennamen Hyrnuo die FDA-Zulassung als initiale Behandlungsoption von erwachsenen Patienten mit lokal fortgeschrittenem oder metastasiertem ..."
         }
       ],
       "error": null
@@ -215,6 +215,12 @@
           "summary": "Deutschland und die Vereinigten Arabischen Emirate sind seit langem enge Partner. Jetzt wollen sie ihre Beziehungen nochmals deutlich ausbauen."
         },
         {
+          "title": "Konkurrenz für Lufthansa: Emirates darf künftig auch den Flughafen BER ansteuern",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/luftverkehr-emirates-darf-kuenftig-auch-den-flughafen-ber-ansteuern/100253695.html",
+          "published": "2026-09-10T16:51:50+00:00",
+          "summary": "Am Hauptstadtflughafen gibt es nur wenige internationale Langstreckenflüge. Die Bundesregierung erlaubt nun der Airline Emirates, künftig den BER anzufliegen."
+        },
+        {
           "title": "Aktienmarkt: Ölpreisanstieg und Leitzinserhöhung: Darum schließt der Dax im Minus",
           "link": "https://www.wiwo.de/finanzen/boerse/oelpreisanstieg-und-leitzinserhoehung-daum-schliesst-der-dax-im-minus/100253451.html",
           "published": "2026-09-10T16:30:00+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/wladimir-putins-schattenflotte-wie-russland-die-sanktionen-fuer-oel-umgeht/100253253.html",
           "published": "2026-09-10T15:13:44+00:00",
           "summary": "Russland verkauft trotz harter Sanktionen weiter massenhaft Öl. Über neue Routen und Drehkreuze fließen Milliarden in die Kriegskasse des Kreml. Diese Datenrecherche zeigt das Muster und das Ausmaß."
-        },
-        {
-          "title": "EZB erhöht Leitzins: Was bedeutet Lagardes „No-Brainer“ für die Märkte?",
-          "link": "https://www.wiwo.de/finanzen/boerse/ezb-hebt-leitzins-an-was-bedeutet-lagardes-no-brainer-fuer-die-maerkte/100253624.html",
-          "published": "2026-09-10T15:13:22+00:00",
-          "summary": "Die Europäische Zentralbank gastiert in Berlin und hebt den Leitzins auf 2,5 Prozent an. Wie es mit den Zinsen und EZB-Chefin Lagarde weitergeht, blieb derweil offen. Ein Ortsbesuch."
         }
       ],
       "error": null
