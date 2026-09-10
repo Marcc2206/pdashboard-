@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T08:09:37+00:00",
+  "generatedAt": "2026-09-10T10:09:20+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bundesweiter Warntag: Warum es heute ab 11 Uhr laut wird",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/warntag-faq-100.html",
-          "published": "2026-09-10T08:04:07+00:00",
-          "summary": "Sirenen heulen, Mobiltelefone schrillen, Digitalradios schalten sich von selbst sein - zum sechsten Mal findet heute ab 11 Uhr der bundesweite Warntag statt. Was gibt es zu beachten? Antworten auf …"
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-10T10:02:19+00:00",
+          "summary": "Am Donnerstag gibt es einen Wechsel aus Sonne und Wolken und es bleibt meist trocken. Im Südwesten ist es zum Teil länger sonnig. An den Alpen ist es oft stark bewölkt, aber es fällt nur wenig Regen. …"
+        },
+        {
+          "title": "\"Zum ersten Mal auch eine Entwarnung\", Birgit Langhammer, ARD-aktuell, über Alarm zum Warntag",
+          "link": "https://www.tagesschau.de/video/video-1646552.html",
+          "published": "2026-09-10T09:47:53+00:00",
+          "summary": ""
+        },
+        {
+          "title": "\"Integrationsangebote sollen gekürzt werden\", Christoph Mestmacher, ARD Berlin, über Etat für Innenministerium",
+          "link": "https://www.tagesschau.de/video/video-1646548.html",
+          "published": "2026-09-10T09:45:32+00:00",
+          "summary": ""
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646464.html",
-          "published": "2026-09-10T07:08:49+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646540.html",
+          "published": "2026-09-10T09:33:28+00:00",
           "summary": ""
         },
         {
-          "title": "Zum bundesweiten Warntag werden um 11 Uhr Alarmsysteme für Katastrophenfall getestet",
-          "link": "https://www.tagesschau.de/video/video-1646462.html",
-          "published": "2026-09-10T07:07:15+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Trump lockt auf Parteitag Wähler mit 5.000-Dollar-Versprechen",
-          "link": "https://www.tagesschau.de/ausland/amerika/parteitag-republikaner-dallas-100.html",
-          "published": "2026-09-10T07:03:50+00:00",
-          "summary": "Den Republikanern droht bei den US-Kongresswahlen im November eine Schlappe. Die Umfragewerte von Präsident Trump sinken. Er versucht, das Ruder herumzureißen - und verspricht im Falle eines …"
-        },
-        {
-          "title": "Umfrage zu Hausärzte-Versorgung: Wenn der Hausarzt fehlt, hat das Einfluss auf die Wahl",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/hausaerzte-deutschland-100.html",
-          "published": "2026-09-10T07:03:04+00:00",
-          "summary": "Deutschlandweit fehlen Tausende Hausarztpraxen. Die Unzufriedenheit darüber hat Folgen auch für das Wahlverhalten von Bürgern, so eine Umfrage. Eine Kommune in Rheinland-Pfalz versucht …"
+          "title": "Tote nach russischem Angriff auf Einkaufszentrum in Sumy",
+          "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-108.html",
+          "published": "2026-09-10T09:33:23+00:00",
+          "summary": "Russland und die Ukraine haben ihre gegenseitigen Angriffe fortgesetzt. Bei einer russischen Attacke auf ein Einkaufszentrum starben laut Behörden zwei Menschen. Die Ukraine nahm russische …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ukraine-Krieg: Ukraine greift russische Gasanlagen in der Arktis an",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-10T08:04:05+00:00",
-          "summary": "Trump: Putin will Abkommen zur Beendigung des Kriegs +++ Selenskyj in Kanada – Treffen mit Carney geplant +++ Merz sieht wenig Chancen für Gespräche mit Russland +++ Der Newsblog."
+          "title": "Weltwirtschaft: BIZ-Chef warnt vor Finanzrisiken durch den KI-Boom",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/weltwirtschaft-biz-chef-warnt-vor-finanzrisiken-durch-den-ki-boom/100253523.html",
+          "published": "2026-09-10T10:03:41+00:00",
+          "summary": "Große Technologieunternehmen werden Schätzungen zufolge in den nächsten Jahren über eine Billion Dollar in KI investieren. Pablo Hernandez de Cos mahnt vor Gefahren für die Weltwirtschaft."
         },
         {
-          "title": "Deutsche Bahn: Korridorsanierungen dauern laut Bahn-Chefin Palla länger",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/deutsche-bahn-korridorsanierungen-dauern-laut-bahn-chefin-palla-laenger/100253475.html",
-          "published": "2026-09-10T08:01:56+00:00",
-          "summary": "Evelyn Palla ist seit einem Jahr Chefin der Deutschen Bahn. In dieser Zeit hat sie neue Entwicklungen angestoßen, aber die Sanierung der maroden Infrastruktur braucht noch Zeit."
+          "title": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-drei-beispiele-zeigen-was-ihr-mehrfamilienhaus-einbringen-kann/100180922.html",
+          "published": "2026-09-10T10:01:00+00:00",
+          "summary": "Viele Deutsche träumen davon, ihre Altersvorsorge mit einer vermieteten Immobilie zu sichern. Doch wieviel Rendite ist wirklich drin? Das Handelsblatt hat nachgerechnet."
         },
         {
-          "title": "Volksbanken: Abschied in Krisenzeiten: Chefin des Verbands der Volksbanken hört 2027 auf",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbanken-abschied-in-krisenzeiten-bvr-chefin-kolak-hoert-ende-2027-auf/100253377.html",
-          "published": "2026-09-10T08:00:42+00:00",
-          "summary": "Marija Kolak steht seit knapp neun Jahren an der Spitze des Bundesverbands der Genossenschaftsbanken. Mehrere Banken mussten zuletzt durch den Stützungsfonds der Branche aufgefangen werden."
+          "title": "FIRE-Bewegung: Wer finanziell frei werden will, sollte auf diese sechs Punkte achten",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-so-setzen-sie-ihren-traum-der-finanziellen-unabhaengigkeit-um/100164519.html",
+          "published": "2026-09-10T10:00:00+00:00",
+          "summary": "Auf dem Weg zur finanziellen Unabhängigkeit kann viel schiefgehen. Ein Frührentner-Paar verrät, wie man die größten Fallstricke vermeidet – und sich den Traum der frühen Rente erfüllt."
         },
         {
-          "title": "Verbraucherpreise: Teure Energie treibt Inflation an die Drei-Prozent-Marke",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/verbraucherpreise-teure-energie-treibt-inflation-an-die-drei-prozent-marke/100253443.html",
-          "published": "2026-09-10T07:56:58+00:00",
-          "summary": "Der Iran-Krieg hat Tanken und Heizen verteuert. Mit der vom Staat verordneten Entlastung an deutschen Tankstellen ist es vorerst vorbei. Die Inflationsrate könnte noch weiter steigen."
+          "title": "Geldanlage: „Auch eine Rentnerin kann 100 Prozent Aktien vertragen“",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-je-mehr-zeit-sie-haben-desto-hoeher-kann-ihr-risiko-sein/100124450.html",
+          "published": "2026-09-10T10:00:00+00:00",
+          "summary": "Martin Weber hat über Jahrzehnte das Verhalten von Anlegern erforscht. Im Gespräch erklärt er, worauf es beim Aufbau eines Depots ankommt und welchem Irrglauben Anleger nicht anhängen sollten."
         },
         {
-          "title": "Karriere: „Es ist in Ordnung, kein Karriereziel zu haben“",
-          "link": "https://www.handelsblatt.com/unternehmen/management/neurowissenschaftlerin-diese-denkweise-kann-fuer-mehr-erfolg-sorgen/100248072.html",
-          "published": "2026-09-10T07:55:00+00:00",
-          "summary": "Die Londoner Neurowissenschaftlerin Anne-Laure Le Cunff forscht über den Weg zu Erfolg und mehr Produktivität. Statt sich große Ziele zu setzen, rät sie zu einer anderen Strategie."
+          "title": "Volkswagen: VW rechnet offenbar mit 16 Milliarden Kosten für Stellenabbau und mögliche Werksschließungen",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-beziffert-kosten-fuer-sparpaket-wohl-auf-16-milliarden-euro/100253519.html",
+          "published": "2026-09-10T09:58:03+00:00",
+          "summary": "Das mögliche Aus für vier Werke soll Berichten zufolge sechs Milliarden Euro kosten. Hinzu kommen zehn Milliarden für den Abbau von bis zu 60.000 Arbeitsplätzen weltweit."
         }
       ],
       "error": null
@@ -86,7 +86,19 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Freie Fahrt erst nach 2030ern?: Deutsche Bahn braucht doch länger für Generalsanierung",
+          "title": "Abfindungen und Sozialpläne: Bericht: Stellenabbau kostet VW zehn Milliarden Euro",
+          "link": "https://www.n-tv.de/wirtschaft/Bericht-Stellenabbau-kostet-VW-zehn-Milliarden-Euro-id31290775.html",
+          "published": "2026-09-10T10:06:37+00:00",
+          "summary": "Vor einer Woche stimmt der Aufsichtsrat dem Sparpaket des VW-Konzerns einstimmig zu. Der Vorstand plant mit dem Abbau zehntausender Stellen. Eine teure Angelegenheit: Der Konzern veranschlagt für …"
+        },
+        {
+          "title": "Kampfpreis bei Altersvorsorgedepot: Sparkassen-Tochter Deka fordert Neobroker heraus",
+          "link": "https://www.n-tv.de/wirtschaft/Sparkassen-Tochter-Deka-fordert-Neobroker-heraus-id31290411.html",
+          "published": "2026-09-10T09:16:09+00:00",
+          "summary": "Der Wettbewerb nimmt Fahrt auf: Die Sparkassen-Fondstochter Deka bietet ein Altersvorsorgedepot zum Preis von 0,1 Prozent an. Damit setzt sie eine Marke, an der sich Banken, Fondsgesellschaften und …"
+        },
+        {
+          "title": "Freie Fahrt womöglich erst 2040?: Deutsche Bahn braucht doch länger für Generalsanierung",
           "link": "https://www.n-tv.de/wirtschaft/Deutsche-Bahn-braucht-doch-laenger-fuer-Generalsanierung-id31290478.html",
           "published": "2026-09-10T07:53:13+00:00",
           "summary": "Eigentlich will die Deutsche Bahn ihr Schienennetz bis 2036 überholt haben. Doch daraus wird wohl nichts: Das Konzept der Korridorsanierungen steht auf dem Prüfstand, es muss nachjustiert werden. Das …"
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-belastet-die-Wall-Street-id31289418.html",
           "published": "2026-09-09T21:55:00+00:00",
           "summary": "Die weitere Eskalation im Nahen Osten ist Gift für die US-Börsen. Der Ölpreis klettert wieder über die 100-Dollar-Marke. Nur eine Branche kann davon profitieren."
-        },
-        {
-          "title": "US-Anleihen vor kritischer Marke: Trumps Schuldenorgie gefährdet den KI-Boom",
-          "link": "https://www.n-tv.de/wirtschaft/Trumps-Schuldenorgie-gefaehrdet-den-KI-Boom-id31286989.html",
-          "published": "2026-09-09T16:33:53+00:00",
-          "summary": "Der Schuldenberg der USA bedroht nicht nur die Finanzstabilität dort. Die Schuldenlast könnte auch den KI-Boom ersticken: Washington und das Silicon Valley liefern sich einen gigantischen …"
-        },
-        {
-          "title": "25-prozentige Steuer kommt: Finanzministerium besteuert Kryptoverkäufe bald wie Aktiengewinne",
-          "link": "https://www.n-tv.de/wirtschaft/Finanzministerium-besteuert-Kryptoverkaeufe-bald-wie-Aktiengewinne-id31288511.html",
-          "published": "2026-09-09T16:32:56+00:00",
-          "summary": "Bislang sind Krypto-Gewinne steuerfrei, wenn die Coins mindestens ein Jahr im Besitz waren. Diese Steuerfreiheit soll für Neukäufe zum Jahresende abgeschafft werden. Wie bei Aktien verlangt das …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Partnerschaft mit Chinas Firmen: Deutsche unter Zeitdruck",
-          "link": "https://www.finanzen.net/nachricht/aktien/partnerschaft-mit-chinas-firmen-deutsche-unter-zeitdruck-15927354",
-          "published": "2026-09-10T08:06:39+00:00",
-          "summary": "PEKING (dpa-AFX) - Deutschen Unternehmen in China könnte für eine Partnerschaft mit international expandierenden chinesischen Firmen die Zeit davonzulaufen. Das legt ein neuer Bericht der deutschen …"
+          "title": "Kreise: Huthi nehmen wichtige Hafenstadt Mokka im Jemen ein",
+          "link": "https://www.finanzen.net/nachricht/aktien/kreise-huthi-nehmen-wichtige-hafenstadt-mokka-im-jemen-ein-15927517",
+          "published": "2026-09-10T10:03:38+00:00",
+          "summary": "SANAA (dpa-AFX) - Die Huthi-Miliz hat nach Angaben aus jemenitischen Militärkreisen und Augenzeugenberichten die strategisch wichtige Hafenstadt Mokka an der Westküste des Jemens eingenommen. Die vom …"
         },
         {
-          "title": "Riester-Rente wird abgeschafft: So viel Geld haben Sparer seit 2002 verloren",
-          "link": "https://www.finanzen.net/nachricht/aktien/riester-rente-wird-abgeschafft-so-viel-geld-haben-sparer-seit-2002-verloren-15927353",
-          "published": "2026-09-10T08:05:27+00:00",
-          "summary": ""
+          "title": "Klassiker FC Bayern gegen Borussia Dortmund am Samstagabend",
+          "link": "https://www.finanzen.net/nachricht/aktien/klassiker-fc-bayern-gegen-borussia-dortmund-am-samstagabend-15927514",
+          "published": "2026-09-10T10:02:38+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Den deutschen Fußball-Klassiker gibt's an einem Samstagabend: Das Topspiel zwischen dem FC Bayern München und Borussia Dortmund ( BVB (Borussia Dortmund) ) am 8. Spieltag ist …"
         },
         {
-          "title": "Plug Power, NEL & Co. vor Trendwende? Das bedeutet ein höherer Ölpreis wirklich für Wasserstoff-Aktien",
-          "link": "https://www.finanzen.net/nachricht/aktien/comeback-in-sicht-plug-power-nel-co-vor-trendwende-das-bedeutet-ein-hoeherer-oelpreis-wirklich-fuer-wasserstoff-aktien-00-15927177",
-          "published": "2026-09-10T08:05:00+00:00",
-          "summary": "Goldman Sachs hält im Extremfall bis zu 120 US-Dollar je Barrel für möglich Aktien von Plug Power, NEL ASA, Ballard Power und ITM Power reagieren dabei sehr gemischt Hohe Ölpreise machen Wasserstoff …"
+          "title": "ROUNDUP 2: Baupläne der Deutschen Bahn verzögern sich um Jahre",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-bauplaene-der-deutschen-bahn-verzoegern-sich-um-jahre-15927513",
+          "published": "2026-09-10T10:01:39+00:00",
+          "summary": "(neu: Details.)BERLIN (dpa-AFX) - Die Deutsche Bahn fährt ihren Pünktlichkeitszielen hinterher, Hauptgrund dafür ist nach Ansicht des Konzerns die marode Infrastruktur. Nun wird klar: Das vielerorts …"
         },
         {
-          "title": "ANALYSE-FLASH: Deutsche Bank Research belässt Bayer auf 'Buy' - Ziel 60 Euro",
-          "link": "https://www.finanzen.net/nachricht/aktien/analyse-flash-deutsche-bank-research-belaesst-bayer-auf-buy-ziel-60-euro-15927351",
-          "published": "2026-09-10T08:04:39+00:00",
-          "summary": "FRANKFURT (dpa-AFX Broker) - Deutsche Bank Research hat Bayer mit einem Kursziel von 60 Euro auf \"Buy\" belassen. Der Konzern habe auf einer Investorenveranstaltung für den Bereich Crop Science die …"
+          "title": "ROUNDUP: Mehr als jeder Vierte will aufs E-Auto umsteigen",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-mehr-als-jeder-vierte-will-aufs-e-auto-umsteigen-15927512",
+          "published": "2026-09-10T10:00:40+00:00",
+          "summary": "BERLIN (dpa-AFX) - Hohe Spritpreise und der Blick auf die laufenden Kosten bringen in Deutschland vergleichsweise viele Autofahrer dazu, sich vom klassischen Verbrennungsmotor zu verabschieden. Nach …"
         },
         {
-          "title": "GNW-News: Bullhorn als Salesforce 'Partner of the Year' 2027 ausgezeichnet",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-bullhorn-als-salesforce-partner-of-the-year-2027-ausgezeichnet-15927350",
-          "published": "2026-09-10T08:04:39+00:00",
-          "summary": "^FRANKFURT, Germany, Sept. 10, 2026 (GLOBE NEWSWIRE) -- Bullhorn(https://www.bullhorn.com/de/), der globale Marktführer für Recruitment- Software, wurde mit dem 2027 Salesforce \"Partner of the …"
+          "title": "Munich Re & Co.: Versicherungsaktien vor EZB-Sitzung gesucht",
+          "link": "https://www.finanzen.net/nachricht/aktien/marktumfeld-im-blick-munich-re-co-versicherungsaktien-vor-ezb-sitzung-gesucht-15927511",
+          "published": "2026-09-10T10:00:39+00:00",
+          "summary": "Der Sektorindex, der zuletzt etwas hinterhergehinkt ist, legte um 0,3 Prozent zu. Unter den besten Werten im deutschen Leitindex DAX stiegen die Papiere der Rückversicherer Munich Re und"
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
+          "title": "Marktbericht: EZB-Zinsentscheid sorgt für Stillstand am Markt",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-          "published": "2026-09-10T05:52:13+00:00",
-          "summary": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur …"
+          "published": "2026-09-10T09:13:06+00:00",
+          "summary": "Vor dem EZB-Zinsentscheid bleiben die Anleger zurückhaltend, der DAX tritt im frühen Handel auf der Stelle. Vor allem die hohen Ölpreise schüren die Sorgen vor anhaltend hohen Verbraucherpreisen."
         },
         {
           "title": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Rüstungsunternehmen: Rheinmetall-Aktie fällt unter 1000 Euro",
-          "link": "https://www.wiwo.de/finanzen/boerse/rheinmetall-aktie-papiere-des-ruestungsunternehmen-fallen-unter-1000-euro/100253451.html",
-          "published": "2026-09-10T07:01:22+00:00",
-          "summary": "Die Rheinmetall-Aktie liegt erstmals seit Juli unter 1000 Euro. Anleger zweifeln an der Umsetzung der Rekordaufträge – und sorgen sich wegen der AfD."
+          "title": "Steffen Krach: Berliner SPD überweist Spende von 9900 Euro zurück",
+          "link": "https://www.wiwo.de/politik/deutschland/steffen-krach-berliner-spd-ueberweist-spende-von-9900-euro-zurueck/100253476.html",
+          "published": "2026-09-10T09:48:00+00:00",
+          "summary": "Kurz vor der Berlin-Wahl wird gegen den SPD-Spitzenkandidaten Steffen Krach ermittelt. Es soll um ein Vergabeverfahren gehen. Was bisher bekannt ist."
         },
         {
-          "title": "Parteitag der Republikaner: Donald Trump winkt mit 5000 Dollar Wahlbelohnung",
-          "link": "https://www.wiwo.de/politik/ausland/midterms-trump-giftet-gegen-demokraten-und-winkt-mit-wahlbelohnung/100253403.html",
-          "published": "2026-09-10T06:40:00+00:00",
-          "summary": "Mit neuen innenpolitischen Versprechen wollen die Republikaner die Wahl gewinnen. Doch Donald Trumps Vorhaben könnten sehr teuer werden."
+          "title": "Haushaltswoche: Mehr Geld für Polizei und Cyberschutz im Bundeshaushalt 2027",
+          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-mehr-geld-fuer-polizei-und-cybersicherheit/100253502.html",
+          "published": "2026-09-10T09:47:00+00:00",
+          "summary": "Das Parlament debattiert über den Bundeshaushalt 2027. Innenminister Dobrindt spricht aber vor allem über Migration und hybride Angriffe Russlands."
         },
         {
-          "title": "Landtagswahlen Mecklenburg-Vorpommern: AfD in Mecklenburg-Vorpommern weiter vorn – SPD holt auf",
-          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-mecklenburg-vorpommern-2026-afd-in-aktuellen-umfragen-vorn-spd-holt-auf/100252860.html",
-          "published": "2026-09-10T06:38:00+00:00",
-          "summary": "In Mecklenburg-Vorpommern wird am 20. September der Landtag gewählt. Die SPD mit Manuela Schwesig verkürzte zuletzt den Abstand zur AfD. Die aktuellen Umfragewerte im Überblick."
+          "title": "Kreidtwürdigkeit: Streit um historische Schufa-Daten – Kritiker wollen klagen",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/kreditwuerdigkeit-schufa-droht-sammelklage-wegen-historischer-datenspeicherung/100249793.html",
+          "published": "2026-09-10T09:45:00+00:00",
+          "summary": "Datenschützer fordern die Löschung alter Kreditdaten, die Schufa hält dagegen. Nun dürfte der Streit vor Gericht landen."
         },
         {
-          "title": "Pisa-Studie: Deutsche Kinder so dumm wie nie? Machen Sie selbst den Test!",
-          "link": "https://www.wiwo.de/politik/deutschland/pisa-test-koennen-sie-diese-aufgabe-fuer-15-jaehrige-loesen/100253001.html",
-          "published": "2026-09-10T06:35:00+00:00",
-          "summary": "Wir haben einen Fragenkomplex aus dem Pisa-Test für Sie aufbereitet. Prüfen Sie, ob Sie die Aufgabe für 15-Jährige lösen können."
+          "title": "Wahl in Sachsen-Anhalt: Der Fieberwahn von Magdeburg",
+          "link": "https://www.wiwo.de/politik/deutschland/wahl-in-sachsen-anhalt-afd-erzielt-rekordergebnis-regierung-unter-druck/100253346.html",
+          "published": "2026-09-10T09:36:00+00:00",
+          "summary": "Nicht nur das Rekordergebnis der AfD bestürzt, sondern das Zerrbild, das inzwischen von der Regierung und dem Land gezeichnet wird. Zeit zum Runterkommen. Ein Kommentar."
         },
         {
-          "title": "iPhone Duo: Apple dreht an der Preisschraube",
-          "link": "https://www.wiwo.de/unternehmen/it/iphone-duo-18-pro-apples-neue-preise-und-verkaufsstrategie/100253336.html",
-          "published": "2026-09-10T06:32:00+00:00",
-          "summary": "Erstmals schickt Apple die Pro-Version seines Bestsellers iPhone vor. Wie der neue Chef John Ternus mit diesem Kniff den Umsatz steigern will."
+          "title": "Iran-Sanktionen: BaFin schickt deutschen Ableger der iranischen Bank Sepah in die Insolvenz",
+          "link": "https://www.wiwo.de/unternehmen/banken/bank-sepah-bafin-schickt-deutschen-ableger-der-iranischen-bank-in-die-insolvenz/100253284.html",
+          "published": "2026-09-10T09:32:57+00:00",
+          "summary": "Die deutsche Zweigstelle der iranischen Bank Sepah hat Millionen Euro bei der Bundesbank deponiert. Trotzdem wurde ein Insolvenzverfahren eröffnet."
         }
       ],
       "error": null
@@ -242,34 +242,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "25 Jahre nach 9/11: Was Ingenieure aus dem Einsturz der Twin Towers gelernt haben",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/25-jahre-nach-9-11-was-ingenieure-aus-dem-einsturz-der-twin-towers-gelernt-haben/",
+          "published": "2026-09-10T09:45:41+00:00",
+          "summary": "Von beschädigtem Brandschutz bis zu Evakuierungsaufzügen: Diese technischen Folgen hatte 9/11 für den Hochhausbau."
+        },
+        {
+          "title": "Wählen mit verschränkten Photonen: So soll Quantenphysik E-Wahlen absichern",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/waehlen-mit-verschraenkten-photonen-so-soll-quantenphysik-e-wahlen-absichern/",
+          "published": "2026-09-10T08:30:00+00:00",
+          "summary": "Forscher testen elektronische Wahlen mit verschränkten Photonen. Wie das Quantenverfahren funktioniert und warum es die Bundestagswahl nicht ersetzt."
+        },
+        {
           "title": "VDI Future Summit für Ingenieurinnen: Wie Frauen in MINT-Karrieren vorankommen",
           "link": "https://www.ingenieur.de/karriere/arbeitsleben/vdi-future-summit-fuer-ingenieurinnen-wie-frauen-in-mint-karrieren-vorankommen/",
           "published": "2026-09-10T08:00:00+00:00",
           "summary": "Mehr Frauen für Technik zu gewinnen, reicht nicht. Sie müssen auch bleiben und aufsteigen können. Der VDI-WoMentorING Future Summit verbindet Karrierepraxis, Netzwerke und Zukunftstechnologien."
         },
         {
-          "title": "PISA 2025: Deutschlands Schüler so schwach wie nie: Was das für den Fachkräftenachwuchs bedeutet",
-          "link": "https://www.ingenieur.de/karriere/bildung/was-die-pisa-studie-mit-dem-fachkraftemangel-zu-tun-hat/",
-          "published": "2026-09-10T07:00:00+00:00",
-          "summary": "Die Pisa-Studie 2025 offenbart historische Kompetenzlücken bei Jugendlichen – mit Folgen für MINT-Berufe und Deutschlands Fachkräftenachwuchs."
+          "title": "Was verdient ein Bauingenieur? Gehalt nach Erfahrung und Region",
+          "link": "https://www.ingenieur.de/karriere/gehalt/bauingenieur-gehalt-wo-verdient-man-am-meisten-auf-dem-bau/",
+          "published": "2026-09-10T07:30:00+00:00",
+          "summary": "Bauingenieur-Gehalt im Überblick: So viel verdienen Einsteiger und erfahrene Fachkräfte – und so groß sind die regionalen Unterschiede."
         },
         {
-          "title": "Porsche verkauft Rimac-Anteile für 1 Mrd. € – nächste Technikwette beendet",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/porsche-verkauft-rimac-anteile-fuer-1-mrd-naechste-technikwette-beendet/",
-          "published": "2026-09-10T06:04:33+00:00",
-          "summary": "Porsche verkauft seine Anteile an Rimac und Bugatti Rimac für rund 1 Mrd. €. Damit endet eine Beteiligung, die einst Teil der Elektro-Offensive war."
-        },
-        {
-          "title": "1,35 Mrd. € für Bremerhaven: Wie der Hafen zum militärischen Drehkreuz wird",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/135-mrd-fuer-bremerhaven-wie-der-hafen-zum-militaerischen-drehkreuz-wird/",
-          "published": "2026-09-09T17:22:04+00:00",
-          "summary": "Bis zu 1,35 Mrd. € fließen in Bremerhavens Hafen. Neue Schwerlastbrücken, Kajen, Straßen und Gleise sollen ihn fit für NATO-Transporte machen."
-        },
-        {
-          "title": "Gigantische Mosaikwand unter den Trajansthermen in Rom entdeckt",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/versteckt-unter-trajansthermen-forscher-entdecken-2000-jahre-alten-prachtbau/",
-          "published": "2026-09-09T14:30:00+00:00",
-          "summary": "Neue Funde unter Roms Trajansthermen: Ein älterer Prachtbau mit Mosaiken und Marmor lag jahrhundertelang unter der riesigen Thermenanlage."
+          "title": "Maschinenbauingenieur-Gehalt: Was Erfahrung, Tarif und Standort ausmachen",
+          "link": "https://www.ingenieur.de/karriere/gehalt/maschinenbauingenieur-gehalt-was-maschinenbauer-verdienen/",
+          "published": "2026-09-10T07:30:00+00:00",
+          "summary": "Was verdienen Maschinenbauingenieure? Aktuelle Gehälter nach Berufserfahrung, Tarifbindung, Unternehmensgröße und Bundesland."
         }
       ],
       "error": null
