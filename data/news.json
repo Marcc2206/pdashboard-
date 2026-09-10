@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:08:36+00:00",
+  "generatedAt": "2026-09-10T22:08:02+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Ermittlungen gegen Krach in zwei Fällen",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/ermittlungen-gegen-berliner-spd-spitzenkandidat-krach-wehrt-sich,krach-110.html",
+          "published": "2026-09-10T22:01:39+00:00",
+          "summary": "Die Staatsanwaltschaft Hannover hat sich erstmals konkret zu den Vorwürfen gegen den Berliner SPD-Spitzenkandidaten Krach geäußert. Es geht unter anderem um den Anfangsverdachts auf Vorteilsannahme …"
+        },
+        {
+          "title": "Champions League: Mit Musiala - Bayern knackt Bodös gelbe Wand",
+          "link": "https://www.sportschau.de/fussball/championsleague/mit-musiala-bayern-knackt-bodoes-gelbe-wand,spielbericht-fc-bayern-muenchen-fk-bodoe-glimt-100.html",
+          "published": "2026-09-10T21:23:31+00:00",
+          "summary": "Der FC Bayern München hat in der Champions League einen hochverdienten Sieg gegen Bodö/Glimt eingefahren, musste dabei aber lange gegen eine gelbe Wand anrennen."
+        },
+        {
+          "title": "1:4 Niederlage: Leipzig legt gegen Como einen Fehlstart hin",
+          "link": "https://www.sportschau.de/fussball/championsleague/fabregas-klatscht-applaus-bei-comos-historischem-erfolg,bericht-rb-como-100.html",
+          "published": "2026-09-10T20:56:49+00:00",
+          "summary": "Für RB Leipzig war es eine deutliche Niederlage, für Como ein gelungenes Debüt: Die Italiener haben bei ihrem ersten Spiel in der Champions League ein starkes Spiel gezeigt und Leipzig über weite …"
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12846.html",
+          "published": "2026-09-10T20:55:07+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646970.html",
           "published": "2026-09-10T20:02:07+00:00",
           "summary": ""
-        },
-        {
-          "title": "Ermittlungen gegen Krach in zwei Fällen",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/berliner-spd-spitzenkandidat-krach-ermittlungen-in-mehreren-faellen,krach-110.html",
-          "published": "2026-09-10T19:26:52+00:00",
-          "summary": "Die Staatsanwaltschaft Hannover hat sich erstmals konkret zu den Vorwürfen gegen den Berliner SPD-Spitzenkandidaten Krach geäußert. Es geht unter anderem um den Anfangsverdachts auf Vorteilsannahme …"
-        },
-        {
-          "title": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
-          "link": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
-          "published": "2026-09-10T19:23:15+00:00",
-          "summary": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang …"
-        },
-        {
-          "title": "Erdbeben in der Pfalz - Epizentrum bei Worms",
-          "link": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/erdbeben-worms-100.html",
-          "published": "2026-09-10T18:56:00+00:00",
-          "summary": "Am späten Nachmittag hat sich in Rheinland-Pfalz ein Erdbeben ereignet. Das Epizentrum war Worms, die Stärke 3,4. Bis ins 26 Kilometer entfernte Mannheim waren die Erdstöße spürbar."
-        },
-        {
-          "title": "Deutsche Basketballerinnen entzaubern Belgien",
-          "link": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballerinnen-entzaubern-belgien,bericht-vf-belgien-100.html",
-          "published": "2026-09-10T18:44:01+00:00",
-          "summary": "Dank einer starken Mannschaftsleistung sind die deutschen Basketballerinnen in das WM-Halbfinale eingezogen. Gegen Belgien gelang dem DBB-Team nahezu alles."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ukraine-Krieg: Laut Selenskyj kein trilaterales Treffen vor Wahlen in Russland",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-10T19:46:26+00:00",
-          "summary": "Mehrere Tote bei russischen Angriffen auf Dnipro und Kiew +++ Viele Verletzte nach russischen Angriffen auf Kramatorsk +++ Kanada sagt Ukraine wichtiges Luftabwehr-Paket zu +++ Der Newsblog."
+          "title": "KI: Oracle dank KI-Boom mit Rekordumsatz – Jahresziele angehoben",
+          "link": "https://www.handelsblatt.com/technik/it-internet/ki-oracle-dank-ki-boom-mit-rekordumsatz-jahresziele-angehoben/100253724.html",
+          "published": "2026-09-10T21:47:25+00:00",
+          "summary": "Das rasante Wachstum der Cloud-Sparte beschert Oracle deutliche Zuwächse bei Umsatz und Gewinn. Trotz der hohen Verschuldung reagieren Anleger erleichtert auf die angehobene Prognose."
         },
         {
-          "title": "Luftverkehr: Emirates darf künftig auch den Flughafen BER ansteuern",
-          "link": "https://www.handelsblatt.com/politik/deutschland/luftverkehr-emirates-darf-kuenftig-auch-den-flughafen-ber-ansteuern/100253694.html",
-          "published": "2026-09-10T19:38:25+00:00",
-          "summary": "Am BER gibt es nur wenige internationale Langstreckenflüge. Das könnte sich absehbar ändern. Die Bundesregierung erlaubt der Airline Emirates, künftig einen weiteren deutschen Flughafen anzufliegen."
+          "title": "Ermittlungen: SPD-Kandidat Krach unter Druck: Verdacht auf Vorteilsannahme",
+          "link": "https://www.handelsblatt.com/politik/deutschland/ermittlungen-spd-kandidat-krach-unter-druck-verdacht-auf-vorteilsannahme/100253651.html",
+          "published": "2026-09-10T21:36:39+00:00",
+          "summary": "In den Berliner Wahlkampf platzen strafrechtliche Ermittlungen gegen SPD-Spitzenkandidat Steffen Krach. Der geht in die Offensive. Nun äußert sich die Staatsanwaltschaft Hannover zu den Vorwürfen."
         },
         {
-          "title": "Übernahme: Saudiarabischer Staatsfonds erwägt wohl Fusion von EA und Savvy Games",
-          "link": "https://www.handelsblatt.com/unternehmen/it-medien/uebernahme-saudiarabischer-staatsfonds-erwaegt-wohl-fusion-von-ea-und-savvy-games/100253712.html",
-          "published": "2026-09-10T19:33:59+00:00",
-          "summary": "Durch den Zusammenschluss der beiden vom PIF kontrollierten Unternehmen entstünde ein neuer Branchenriese. Das Vorhaben könnte daher auch Wettbewerbshüter alarmieren."
+          "title": "Energiepreiskrise: Preis für Brent-Rohöl steigt auf 108 Dollar",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energiepreiskrise-preis-fuer-brent-rohoel-steigt-auf-108-dollar/100253722.html",
+          "published": "2026-09-10T21:10:57+00:00",
+          "summary": "Angriffe im Persischen Golf treiben die Ölpreise hoch. Die Börsen zittern und die Anleger blicken nun erst einmal auf die US-Inflationsdaten."
         },
         {
           "title": "Nahost: Israel: Unterirdische Hisbollah-Basis im Südlibanon zerstört",
           "link": "https://www.handelsblatt.com/politik/international/nahost-israel-unterirdische-hisbollah-basis-im-suedlibanon-zerstoert/100253713.html",
-          "published": "2026-09-10T19:29:17+00:00",
+          "published": "2026-09-10T20:12:11+00:00",
           "summary": "Israel zerstört unterirdische Infrastruktur der Hisbollah. Dutzende Raketen und Drohnen seien entdeckt worden."
         },
         {
-          "title": "IWF: Weltwirtschaft trotzt Energiekrise – Risiken bleiben aber hoch",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/iwf-weltwirtschaft-trotzt-energiekrise-risiken-bleiben-aber-hoch/100253710.html",
-          "published": "2026-09-10T19:21:32+00:00",
-          "summary": "Die Weltwirtschaft werde von gegenläufigen Kräften beeinflusst. Während KI die Wirtschaft antreibt, hemmt der negative Angebotsschock bei Energie das Wachstum."
+          "title": "Gabriel Felbermayr: „Finanzpolitisch lebt die AfD im Wolkenkuckucksheim“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gabriel-felbermayr-finanzpolitisch-lebt-die-afd-im-wolkenkuckucksheim/100253229.html",
+          "published": "2026-09-10T20:10:00+00:00",
+          "summary": "Der Wirtschaftsweise über den unheimlichen Erfolg der AfD, die Erfahrungen mit rechts außen in Österreich und die gefährliche Reform-Schockstarre der Bundesregierung."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Zinserhöhungen erwartet: Hoher Ölpreis verdirbt US-Anlegern die Kauflaune",
+          "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-verdirbt-US-Anlegern-die-Kauflaune-id31293720.html",
+          "published": "2026-09-10T21:12:26+00:00",
+          "summary": "Miese Stimmung an der Wall Street: Die Anleihenrenditen klettern auf Mehrjahreshochs, an den Aktienmärkten geht es den vierten Tag in Folge abwärts. Der Grund: Der Ölpreis, der inzwischen wieder das …"
+        },
         {
           "title": "Am liebsten Lachs: Es kommt wieder mehr Fisch auf den Teller",
           "link": "https://www.n-tv.de/wirtschaft/Es-kommt-wieder-mehr-Fisch-auf-den-Teller-id31291654.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Erste-Unternehmen-bereiten-sich-auf-einen-Gasmangel-vor-id31292561.html",
           "published": "2026-09-10T15:10:14+00:00",
           "summary": "Wie im Jahr 2022 formulieren deutsche Unternehmen Erklärungen, warum sie auch bei einem Gasmangel dringend weiterversorgt werden müssten. Ein Netzbetreiber verlangt wieder Kontaktdaten für den …"
-        },
-        {
-          "title": "Teures Erdgas? Vielleicht egal: An der Strombörse schrillen die Alarmglocken: Gibt es 2027 Rekordpreise?",
-          "link": "https://www.n-tv.de/wirtschaft/An-der-Stromboerse-schrillen-die-Alarmglocken-Gibt-es-2027-Rekordpreise-id31286331.html",
-          "published": "2026-09-10T13:39:17+00:00",
-          "summary": "An der Strombörse wird Elektrizität für 2027 so teuer gehandelt wie seit der Energiekrise nicht mehr. Der Iran-Krieg treibt die Gaspreise. Diese beeinflussen den Strompreis. Eigentlich. Experten …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Rheinmetall-Aktie erholt sich: Analystenkritik vs. Open-Source-Schritt - RENK, HENSOLDT & TKMS uneins",
-          "link": "https://www.finanzen.net/nachricht/aktien/open-source-rheinmetall-aktie-erholt-sich-analystenkritik-vs-open-source-schritt-renk-hensoldt-tkms-uneins-00-15927080",
-          "published": "2026-09-10T19:55:00+00:00",
-          "summary": "Rheinmetall-Aktie fällt erstmals seit Juli wieder unter 1.000 Euro JPMorgan setzt Aktie vor dem Kapitalmarkttag auf Negativ-Beobachtung Rheinmetall macht zentrale Battlesuite-Schnittstellen erstmals …"
-        },
-        {
           "title": "EZB erhöht den Leitzins wie erwartet - Inflationsdruck steigt - das kommt jetzt auf Anleger zu",
           "link": "https://www.finanzen.net/nachricht/zinsen/ezb-zinsentscheid-ezb-erhoeht-den-leitzins-wie-erwartet-inflationsdruck-steigt-das-kommt-jetzt-auf-anleger-zu-15927178",
-          "published": "2026-09-10T19:52:00+00:00",
+          "published": "2026-09-10T21:51:00+00:00",
           "summary": "Leitzins steigt wie erwartet um 25 Basispunkte Einlagenzins erhöht sich damit auf 2,50 Prozent Folgen für Anleger und Kreditnehmer im Blick Die Europäische Zentralbank hat am heutigen Donnerstag ..."
-        },
-        {
-          "title": "Deutsche Telekom-Aktie & Co. im Blick: Goldman Sachs sieht europäische Telekomwerte auf dem Vormarsch",
-          "link": "https://www.finanzen.net/nachricht/aktien/analysteneinschaetzung-deutsche-telekom-aktie-co-im-blick-goldman-sachs-sieht-europaeische-telekomwerte-auf-dem-vormarsch-00-15927032",
-          "published": "2026-09-10T19:50:00+00:00",
-          "summary": "Goldman Sachs überarbeitet sein Bewertungsmodell für Telekomwerte T-Mobile US liefert laut Analysten den Löwenanteil des künftigen Cashflows Auch Aktien von BT, Telefonica und Vodafone rücken mit …"
-        },
-        {
-          "title": "adidas-Aktie unter den schwächsten DAX-Werten: Das steckt hinter dem Kursrückgang",
-          "link": "https://www.finanzen.net/nachricht/aktien/margendruck-adidas-aktie-unter-den-schwaechsten-dax-werten-das-steckt-hinter-dem-kursrueckgang-00-15927426",
-          "published": "2026-09-10T19:49:00+00:00",
-          "summary": "adidas-Aktie zählt am Donnerstag zu schwächsten DAX-Werten UBS hatte das Papier bereits Anfang August wegen der Marge abgestuft RBC Capital Markets bestätigt trotz der Schwäche seine Einstufung …"
         },
         {
           "title": "Bayer-Aktie rot: FDA-Zulassung für Krebsmittel Sevabertinib erhalten",
           "link": "https://www.finanzen.net/nachricht/aktien/behandlungsoption-bayer-aktie-rot-fda-zulassung-fuer-krebsmittel-sevabertinib-erhalten-15926979",
-          "published": "2026-09-10T19:49:00+00:00",
+          "published": "2026-09-10T21:50:00+00:00",
           "summary": "Wie Bayer mitteilte, erhielt Sevabertinib mit dem Markennamen Hyrnuo die FDA-Zulassung als initiale Behandlungsoption von erwachsenen Patienten mit lokal fortgeschrittenem oder metastasiertem ..."
+        },
+        {
+          "title": "Rheinmetall-Aktie erholt sich: Analystenkritik vs. Open-Source-Schritt - RENK, HENSOLDT & TKMS uneins",
+          "link": "https://www.finanzen.net/nachricht/aktien/open-source-rheinmetall-aktie-erholt-sich-analystenkritik-vs-open-source-schritt-renk-hensoldt-tkms-uneins-00-15927080",
+          "published": "2026-09-10T21:49:00+00:00",
+          "summary": "Rheinmetall-Aktie fällt erstmals seit Juli wieder unter 1.000 Euro JPMorgan setzt Aktie vor dem Kapitalmarkttag auf Negativ-Beobachtung Rheinmetall macht zentrale Battlesuite-Schnittstellen erstmals …"
+        },
+        {
+          "title": "adidas-Aktie unter den schwächsten DAX-Werten: Das steckt hinter dem Kursrückgang",
+          "link": "https://www.finanzen.net/nachricht/aktien/margendruck-adidas-aktie-unter-den-schwaechsten-dax-werten-das-steckt-hinter-dem-kursrueckgang-00-15927426",
+          "published": "2026-09-10T21:48:00+00:00",
+          "summary": "adidas-Aktie zählt am Donnerstag zu schwächsten DAX-Werten UBS hatte das Papier bereits Anfang August wegen der Marge abgestuft RBC Capital Markets bestätigt trotz der Schwäche seine Einstufung …"
+        },
+        {
+          "title": "Deutsche Telekom-Aktie & Co. im Blick: Goldman Sachs sieht europäische Telekomwerte auf dem Vormarsch",
+          "link": "https://www.finanzen.net/nachricht/aktien/analysteneinschaetzung-deutsche-telekom-aktie-co-im-blick-goldman-sachs-sieht-europaeische-telekomwerte-auf-dem-vormarsch-00-15927032",
+          "published": "2026-09-10T21:46:00+00:00",
+          "summary": "Goldman Sachs überarbeitet sein Bewertungsmodell für Telekomwerte T-Mobile US liefert laut Analysten den Löwenanteil des künftigen Cashflows Auch Aktien von BT, Telefonica und Vodafone rücken mit …"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Batteriespeicher von Furo: Dieses Gründer versprechen Firmen 40 Prozent weniger Stromkosten",
+          "link": "https://www.wiwo.de/erfolg/gruender/batteriespeicher-wie-das-start-up-furo-stromkosten-fuer-firmen-senken-will/100253536.html",
+          "published": "2026-09-10T22:01:00+00:00",
+          "summary": "Eine Software aus München hilft Unternehmen, Batterien intelligent zu nutzen und Geld zu sparen. Jetzt investiert Silicon-Valley-Ikone Sheryl Sandberg."
+        },
+        {
           "title": "1&1‑Prognose gekappt: United-Internet-Tochter 1&1 baut bei Versatel um",
           "link": "https://www.wiwo.de/unternehmen/dienstleister/united-internet-11-baut-bei-versatel-um-11prognose-gekappt/100253699.html",
           "published": "2026-09-10T17:58:10+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/finanzen/boerse/oelpreisanstieg-und-leitzinserhoehung-daum-schliesst-der-dax-im-minus/100253451.html",
           "published": "2026-09-10T16:30:00+00:00",
           "summary": "Der deutsche Aktienmarkt hat negativ auf die zweite Zinserhöhung in diesem Jahr sowie auf trübe Inflationsperspektiven durch die EZB reagiert. Ein Überblick nach Börsenschluss."
-        },
-        {
-          "title": "Ukraine-Krieg: Putins Schattenflotte auf der Spur",
-          "link": "https://www.wiwo.de/unternehmen/wladimir-putins-schattenflotte-wie-russland-die-sanktionen-fuer-oel-umgeht/100253253.html",
-          "published": "2026-09-10T15:13:44+00:00",
-          "summary": "Russland verkauft trotz harter Sanktionen weiter massenhaft Öl. Über neue Routen und Drehkreuze fließen Milliarden in die Kriegskasse des Kreml. Diese Datenrecherche zeigt das Muster und das Ausmaß."
         }
       ],
       "error": null
