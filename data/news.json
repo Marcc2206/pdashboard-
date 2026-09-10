@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T04:09:13+00:00",
+  "generatedAt": "2026-09-10T06:12:29+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Sorge vor Spionage - Hunderte Visaanträge aus China abgelehnt",
-          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/visa-china-deutschland-100.html",
-          "published": "2026-09-10T04:00:48+00:00",
-          "summary": "Die Bundesregierung warnt vor Wissenschaftsspionage durch Chinesen. Eine Recherche von WDR, NDR und SZ zeigt erstmals, dass die Zahl der abgelehnten Visa jährlich einen dreistelligen Wert erreicht."
-        },
-        {
-          "title": "Fehlinvestments: Krankenkassen droht womöglich Milliardenverlust",
-          "link": "https://www.tagesschau.de/investigativ/krankenkassen-verluste-anlagen-100.html",
-          "published": "2026-09-10T04:00:41+00:00",
-          "summary": "Krankenkassen könnten durch riskante Investments in Immobilienprojekte mutmaßlich sehr viel Geld verlieren. Jetzt beziffert die Bundesregierung erstmals einen möglichen Schaden. Von Markus Grill und …"
-        },
-        {
-          "title": "Parteitag der Republikaner vor den Midterms",
-          "link": "https://www.tagesschau.de/video/video-1646398.html",
-          "published": "2026-09-10T03:51:53+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Um 11 Uhr werden auf Handys wieder Alarmsysteme für Kriegs- und Katastrophenfall getestet",
-          "link": "https://www.tagesschau.de/video/video-1646396.html",
-          "published": "2026-09-10T03:39:32+00:00",
-          "summary": ""
-        },
-        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646392.html",
-          "published": "2026-09-10T03:03:40+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646438.html",
+          "published": "2026-09-10T06:08:36+00:00",
           "summary": ""
+        },
+        {
+          "title": "Trump lockt auf Parteitag Wähler mit 5.000-Dollar-Versprechen",
+          "link": "https://www.tagesschau.de/ausland/amerika/parteitag-republikaner-dallas-100.html",
+          "published": "2026-09-10T06:03:02+00:00",
+          "summary": "Den Republikanern droht bei den US-Kongresswahlen im November eine Schlappe. Die Umfragewerte von Präsident Trump sinken. Er versucht, das Ruder herumzureißen - und verspricht im Falle eines …"
+        },
+        {
+          "title": "Dubai: Schlechte Aussichten für die Organisierte Kriminalität",
+          "link": "https://www.tagesschau.de/investigativ/ndr/dubai-organisierte-kriminalitaet-strafverfolgung-100.html",
+          "published": "2026-09-10T06:00:12+00:00",
+          "summary": "Dubai gilt nicht nur als Luxusziel, sondern auch als Zufluchtsort für Kriminelle. Deutschland will die Zusammenarbeit mit der Justiz verbessern. Beim Besuch von Präsident bin Zayed heute soll ein …"
+        },
+        {
+          "title": "US Open: Van de Zandschulp macht Zverev den Halbfinaleinzug leicht",
+          "link": "https://www.sportschau.de/tennis/us-open/van-de-zandschulp-macht-zverev-halbfinaleinzug-leicht,spielbericht-zverev-van-de-zandschulp-100.html",
+          "published": "2026-09-10T05:53:54+00:00",
+          "summary": "Zverev hat die nächste Pflichtaufgabe bei den US Open mit Bravour bestanden und ist locker ins Halbfinale eingezogen. Gegen van de Zandschulp hatte er leichtes Spiel."
+        },
+        {
+          "title": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+          "published": "2026-09-10T05:52:13+00:00",
+          "summary": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Morning Briefing Podcast: Apple: Das teuerste iPhone aller Zeiten / Autos: Wie die China-Welle Europa überrollt",
-          "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-apple-das-teuerste-iphone-aller-zeiten---autos-wie-die-china-welle-europa-ueberrollt/100253419.html",
-          "published": "2026-09-10T03:57:45+00:00",
-          "summary": "Der neue Apple-Chef startet eine regelrechte Produktoffensive. Viele der Geräte sind bemerkenswert teuer – aber auch nötig, wenn Apple weiter vorne mitspielen will."
+          "title": "Anthropic: KI-Forscher tritt zurück: „Sie spielen mit unseren Leben“",
+          "link": "https://www.handelsblatt.com/technik/it-internet/drastische-mahnungen-ki-forscher-kuenstliche-intelligenz-ein-risiko-fuer-menschen/100253149.html",
+          "published": "2026-09-10T06:02:00+00:00",
+          "summary": "Nachdem OpenAI sein mächtigstes KI-Modell vorgestellt hat, wirft ein Forscher der Konkurrenzfirma Anthropic hin. Er hält den eigenen Arbeitgeber für unverantwortlich."
         },
         {
-          "title": "Morning Briefing: Wie Apple sich ins KI-Zeitalter vortastet",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-wie-apple-sich-ins-ki-zeitalter-vortastet/100253381.html",
-          "published": "2026-09-10T03:47:03+00:00",
-          "summary": "Der neue Apple-Chef startet eine regelrechte Produktoffensive. Viele der Geräte sind bemerkenswert teuer – aber auch nötig, wenn Apple weiter vorne mitspielen will."
+          "title": "Sabotage: Plattes Gras verrät Strom-Saboteur – Bodycam filmt Festnahme",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sabotage-plattes-gras-verraet-strom-saboteur-bodycam-filmt-festnahme/100253436.html",
+          "published": "2026-09-10T05:59:05+00:00",
+          "summary": "Tagelang hält die Fahndung nach einem Strom-Saboteur die Polizei in Atem. Zwei junge Autobahnpolizisten hatten am Ende den richtigen Riecher. Ihre Bodycam dokumentiert die Festnahme."
         },
         {
-          "title": "Kauf-Kick simulieren?: So-tun-als-ob: Wie sinnvoll sind Online-Dopamin-Shops?",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/kauf-kick-simulieren-so-tun-als-ob-wie-sinnvoll-sind-online-dopamin-shops/100253420.html",
-          "published": "2026-09-10T03:46:04+00:00",
-          "summary": "Dopamin-Shops simulieren Online-Shopping mit Klicks ohne echten Kauf. Können sie Impulskäufe verhindern – oder verstärken sie das Verlangen nach mehr?"
+          "title": "Deep Read: Bundeswehr will Palantir-Alternative schon 2027 einführen",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/verteidigung-bundeswehr-will-palantir-alternative-schon-2027-einfuehren/100247052.html",
+          "published": "2026-09-10T05:55:55+00:00",
+          "summary": "Derzeit testet die deutsche Armee Systeme von 30 Firmen, um Kampfdaten in Echtzeit zu verschmelzen. Eine mögliche Lösung kommt vom Sensorikspezialisten Hensoldt und dem KI-Start-up Helsing."
         },
         {
-          "title": "Nikkei, Yen, Hang Seng: Sorge vor Eskalation in Nahost drückt asiatische Börsen ins Minus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-sorge-vor-eskalation-in-nahost-drueckt-asiatische-boersen-ins-minus/100253416.html",
-          "published": "2026-09-10T03:40:59+00:00",
-          "summary": "Steigende Ölpreise und wachsende geopolitische Spannungen verunsichern die Anleger in Asien. In Japan belastet zusätzlich die Aussicht auf rasche Zinserhöhungen."
+          "title": "Parteitag: Trump verspricht US-Bürgern „Dividende“ von 5000 Dollar bei Wahlsieg der Republikaner",
+          "link": "https://www.handelsblatt.com/politik/international/usa-trump-verspricht-us-buergern-wahlgeschenk-von-5000-dollar/100253406.html",
+          "published": "2026-09-10T05:51:00+00:00",
+          "summary": "Der US-Präsident kündigt eine Prämie für alle erwachsenen US-Bürger an, falls seine Partei die Midterms gewinnt. Das Vorhaben wäre so teuer wie der gesamte Verteidigungshaushalt für ein Jahr."
         },
         {
-          "title": "Vor den Zwischenwahlen: 5.000 Dollar: Trump will US-Amerikaner bei Wahlsieg belohnen",
-          "link": "https://www.handelsblatt.com/politik/international/vor-den-zwischenwahlen-5000-dollar-trump-will-us-amerikaner-bei-wahlsieg-belohnen/100253402.html",
-          "published": "2026-09-10T03:12:34+00:00",
-          "summary": "Beim Parteitag der Republikaner in Texas will Präsident Trump für seine Republikaner werben. Dafür setzt er auch auf ein ungewöhnliches Mittel."
+          "title": "Steuer: Finanzamt fordert Steuer – obwohl der Erbe leer ausgeht",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-warum-auch-ohne-erbe-erbschaftsteuer-anfallen-kann-01/100246436.html",
+          "published": "2026-09-10T05:48:00+00:00",
+          "summary": "Selbst wenn ein Erbe erst spät von seinem Anspruch erfährt und leer ausgeht, fällt Erbschaftsteuer an. Der Bundesfinanzhof klärte, wieso das so ist – und welche Ausnahmen es gibt."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Neue Detaildaten erwartet: Energiepreise treiben Inflation hoch",
-          "link": "https://www.finanzen.net/nachricht/aktien/neue-detaildaten-erwartet-energiepreise-treiben-inflation-hoch-15926845",
-          "published": "2026-09-10T03:49:40+00:00",
-          "summary": "WIESBADEN (dpa-AFX) - Mit dem Iran-Krieg und hohen Energiepreisen kratzt die Inflationsrate in Deutschland an der Drei-Prozent-Marke. Eine Teuerung von 2,9 Prozent hat das Statistische Bundesamt für …"
+          "title": "Oura-Aktie vor NASDAQ-Debüt: Konzern meldet kräftiges Umsatzplus",
+          "link": "https://www.finanzen.net/nachricht/aktien/ipo-antrag-bei-der-sec-oura-aktie-vor-nasdaq-debuet-konzern-meldet-kraeftiges-umsatzplus-00-15923470",
+          "published": "2026-09-10T06:12:00+00:00",
+          "summary": "Smart-Ring-Pionier strebt an die US-Börse und zeigt kräftiges Wachstum Neue Vorstandsmitglieder aus Robinhood und Netflix verstärken das Board Sammelklage zu Schlafdaten begleitet den Weg zum …"
         },
         {
-          "title": "Präsident der Emirate kommt zum Staatsbesuch nach Berlin",
-          "link": "https://www.finanzen.net/nachricht/aktien/praesident-der-emirate-kommt-zum-staatsbesuch-nach-berlin-15926844",
-          "published": "2026-09-10T03:49:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Der Präsident der Vereinigten Arabischen Emirate (VAE), Mohammed bin Sajid, kommt am Donnerstag zu einem zweitägigen Staatsbesuch nach Deutschland. Beide Seiten haben vorab …"
+          "title": "EUREX/Bund-Future unverändert",
+          "link": "https://www.finanzen.net/nachricht/anleihen/EUREX-Bund-Future-unveraendert-15927066",
+          "published": "2026-09-10T06:10:55+00:00",
+          "summary": "DOW JONES--Der Dezember-Kontrakt des Bund-Futures notiert am Donnerstagmorgen um 8.10 Uhr unverändert bei 121,34 Prozent. Das Tageshoch liegt bislang bei 121,37 Prozent und das Tagestief bei 121,11 …"
         },
         {
-          "title": "Iran-Krieg treibt Preise: EZB vor nächster Zinserhöhung",
-          "link": "https://www.finanzen.net/nachricht/aktien/iran-krieg-treibt-preise-ezb-vor-naechster-zinserhoehung-15926843",
-          "published": "2026-09-10T03:49:39+00:00",
-          "summary": "FRANKFURT/BERLIN (dpa-AFX) - Als Antwort auf die gestiegene Inflation dürfte die Europäische Zentralbank (EZB) die Leitzinsen im Euroraum zum zweiten Mal in diesem Jahr anheben. Ökonomen erwarten …"
+          "title": "EUREX/Bund-Future unverändert",
+          "link": "https://www.finanzen.net/nachricht/aktien/eurex-bund-future-unveraendert-15927065",
+          "published": "2026-09-10T06:10:55+00:00",
+          "summary": "DOW JONES--Der Dezember-Kontrakt des Bund-Futures notiert am Donnerstagmorgen um 8.10 Uhr unverändert bei 121,34 Prozent. Das Tageshoch liegt bislang bei 121,37 Prozent und das Tagestief bei 121,11 …"
         },
         {
-          "title": "Beratungen zu Etats für Inneres und Gesundheit im Bundestag",
-          "link": "https://www.finanzen.net/nachricht/aktien/beratungen-zu-etats-fuer-inneres-und-gesundheit-im-bundestag-15926842",
-          "published": "2026-09-10T03:49:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Der Bundestag setzt am Donnerstag seine Beratungen über die einzelnen Etats des Haushalts 2027 fort. Für den neuen Gesundheitsminister Carsten Linnemann (CDU) wird es die erste …"
+          "title": "EUREX/DAX-Futures etwas fester",
+          "link": "https://www.finanzen.net/nachricht/aktien/eurex-dax-futures-etwas-fester-15927064",
+          "published": "2026-09-10T06:09:43+00:00",
+          "summary": "DOW JONES--Der nächstfällige Kontrakt des DAX-Futures steigt am Donnerstagmorgen bis 8.07 Uhr um 60 auf 25.622 Punkte. Das Tageshoch liegt bislang bei 25.635 und das Tagestief bei 25.546 Punkten. …"
         },
         {
-          "title": "Pressestimme: 'Neue Presse' zu chinesischen Autos in deutschen Werken",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-neue-presse-zu-chinesischen-autos-in-deutschen-werken-15926839",
-          "published": "2026-09-10T03:34:43+00:00",
-          "summary": "COBURG (dpa-AFX) - \"Neue Presse\" zu chinesischen Autos in deutschen Werken:\"China knüpfte jahrzehntelang den Zugang zu seinem Automarkt an Joint Ventures, lokale Produktion und Technologietransfer. …"
+          "title": "Altersvorsorgedepot: Nur wieder Abzocke, oder echte Alternative zur Riester-Rente?",
+          "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-15927062",
+          "published": "2026-09-10T06:05:00+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Ölpreis über 100 Dollar belastet DAX",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
-          "published": "2026-09-09T16:15:45+00:00",
-          "summary": "Neue Angriffe im Nahen Osten haben den Ölpreis Brent über die Marke von 100 Dollar pro Fass getrieben. Das belastet die Börsen weltweit: Hierzulande schließt der DAX tief im Minus, auch die US-Börsen …"
+          "title": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+          "published": "2026-09-10T05:52:13+00:00",
+          "summary": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur …"
         },
         {
           "title": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "EZB-Zinssitzung: Sind Leitzinsen von drei Prozent wirklich realistisch?",
-          "link": "https://www.wiwo.de/politik/europa/ezb-zinsentscheid-sind-leitzinsen-von-drei-prozent-wirklich-realistisch/100252140.html",
-          "published": "2026-09-10T03:56:11+00:00",
-          "summary": "Die EZB steht wohl vor dem nächsten Zinsschritt. Die Finanzmärkte rechnen sogar mit weiteren Erhöhungen – doch sie könnten falsch liegen."
+          "title": "Wahl in Sachsen-Anhalt: Der Fieberwahn von Magdeburg",
+          "link": "https://www.wiwo.de/politik/deutschland/wahl-sachsen-anhalt-ein-land-im-politischen-fieberwahn/100253346.html",
+          "published": "2026-09-10T06:01:32+00:00",
+          "summary": "Nicht nur das Rekordergebnis der AfD bestürzt, sondern das Zerrbild, das inzwischen von der Regierung und dem Land gezeichnet wird. Zeit zum Runterkommen. Ein Kommentar."
         },
         {
-          "title": "John Ternus: Apple bringt erstes auffaltbares iPhone heraus",
-          "link": "https://www.wiwo.de/unternehmen/it/apple-bringt-erstes-auffaltbares-iphone-heraus/100253017.html",
-          "published": "2026-09-09T18:30:00+00:00",
-          "summary": "Apple bringt erst Jahre nach Vorreitern wie Samsung sein erstes faltbares iPhone auf den Markt. Dennoch glauben Marktforscher, dass der Neuankömmling schnell die Führung übernehmen wird."
+          "title": "Mobilität: Mehr als jeder Vierte will aufs E-Auto umsteigen",
+          "link": "https://www.wiwo.de/unternehmen/auto/mobilitaet-mehr-als-jeder-vierte-will-aufs-e-auto-umsteigen/100253386.html",
+          "published": "2026-09-10T06:01:00+00:00",
+          "summary": "Durch Fortschritte bei Reichweite und Ladegeschwindigkeit steigt das Interesse an E-Autos. Was eine Studie zum Wechselwillen der Autofahrer zeigt."
         },
         {
-          "title": "BörsenTag: Apple ist kein Vorreiter bei den Produkten, dafür aber an der Börse",
-          "link": "https://www.wiwo.de/finanzen/boerse/apple-aktie-was-bringt-das-faltbare-iphone-fuer-anleger/100253138.html",
-          "published": "2026-09-09T18:19:00+00:00",
-          "summary": "Der neue Apple-CEO bringt ein faltbares iPhone für 2000 Dollar auf den Markt. Neu ist daran nichts, doch die Apple-Aktie kann trotzdem davon profitieren."
+          "title": "Importverbote: Zwingen die USA Kanada im Handelsstreit in die Knie?",
+          "link": "https://www.wiwo.de/politik/ausland/importverbote-zwingen-die-usa-kanada-im-handelsstreit-in-die-knie/100253431.html",
+          "published": "2026-09-10T05:59:19+00:00",
+          "summary": "Die USA und Kanada geraten immer tiefer in ihren Handelsstreit. Nun geht es um Rum und Tequila, die nicht mehr in die USA eingeführt werden sollen."
         },
         {
-          "title": "EU-Finanzrahmen: Merz besteht auf drastische Kürzung der EU-Finanzplanungen",
-          "link": "https://www.wiwo.de/politik/europa/eu-finanzrahmen-merz-besteht-auf-drastische-kuerzung-der-eu-finanzplanungen/100253366.html",
-          "published": "2026-09-09T18:12:50+00:00",
-          "summary": "Kanzler Merz fordert für den EU-Finanzrahmen ab 2028 Kürzungen um Hunderte Milliarden Euro. Streit droht über Prioritäten und EU-Schulden."
+          "title": "Nutzfahrzeughersteller: Daimler Truck investiert groß in Wasserstoff-Lkw",
+          "link": "https://www.wiwo.de/unternehmen/auto/daimler-truck-nutzfahrzeughersteller-investiert-gross-in-wasserstoff-lkw/100253430.html",
+          "published": "2026-09-10T05:44:48+00:00",
+          "summary": "Vollelektrische Lkw sind Nischenprodukte. Noch weniger im Einsatz sind Wasserstoff-Lkw. Daimler Truck setzt trotzdem auf beide Technologien."
         },
         {
-          "title": "Prothesenhersteller: Fehler im Infoprospekt? DSW klagt gegen Ottobock",
-          "link": "https://www.wiwo.de/unternehmen/handel/prothesenhersteller-fehler-im-infoprospekt-dsw-klagt-gegen-ottobock/100253364.html",
-          "published": "2026-09-09T17:44:28+00:00",
-          "summary": "Ottobock steht wegen seines Wertpapierprospekts vor Gericht: Die DSW hinterfragt die Darstellung des Russlandgeschäfts."
+          "title": "Midterms: Trump winkt mit 5000-Dollar-Wahlbelohnung",
+          "link": "https://www.wiwo.de/politik/ausland/midterms-trump-giftet-gegen-demokraten-und-winkt-mit-wahlbelohnung/100253403.html",
+          "published": "2026-09-10T05:30:00+00:00",
+          "summary": "Mit neuen innenpolitischen Versprechen wollen die Republikaner die Wahl gewinnen. Doch Trumps Vorhaben könnten sehr teuer werden."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Porsche verkauft Rimac-Anteile für 1 Mrd. € – nächste Technikwette beendet",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/porsche-verkauft-rimac-anteile-fuer-1-mrd-naechste-technikwette-beendet/",
+          "published": "2026-09-10T06:04:33+00:00",
+          "summary": "Porsche verkauft seine Anteile an Rimac und Bugatti Rimac für rund 1 Mrd. €. Damit endet eine Beteiligung, die einst Teil der Elektro-Offensive war."
+        },
         {
           "title": "1,35 Mrd. € für Bremerhaven: Wie der Hafen zum militärischen Drehkreuz wird",
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/135-mrd-fuer-bremerhaven-wie-der-hafen-zum-militaerischen-drehkreuz-wird/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/9-11-veraenderte-den-hochhausbau-aber-anders-als-viele-denken/",
           "published": "2026-09-09T13:30:00+00:00",
           "summary": "25 Jahre nach 9/11: Wie die Einstürze der Twin Towers Brandschutz, Fluchtwege, Aufzüge und den Hochhausbau verändert haben."
-        },
-        {
-          "title": "Automotive-Ingenieure wechseln in die Rüstungsindustrie: Hensoldt sagt, welches Know-how gefragt ist",
-          "link": "https://www.ingenieur.de/wirtschaft/hensoldt-schafft-300-jobs-bei-stuttgart-ruestung-sucht-automotive-kompetenzen/",
-          "published": "2026-09-09T13:00:00+00:00",
-          "summary": "Hensoldt schafft 300 Jobs bei Stuttgart: Gesucht sind Auto-Experten für Software, Systeme und Elektrotechnik – Chancen im Strukturwandel nutzen."
         }
       ],
       "error": null
