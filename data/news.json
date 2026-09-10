@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:12:41+00:00",
+  "generatedAt": "2026-09-10T02:09:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Ukraine: Staatsanwaltschaft an Betrug über \"Callcenter\" beteiligt?",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsermittlungen-staatsanwaltschaft-100.html",
+          "published": "2026-09-10T00:37:15+00:00",
+          "summary": "In der Ukraine gehen die Behörden gegen Mitarbeiter der Generalstaatsanwaltschaft vor. Sie sollen an systematischem Betrug über angebliche \"Callcenter\" beteiligt gewesen sein. Der Fall ist auch für …"
+        },
+        {
+          "title": "Bundesweiter Test von Alarmsystemen an Warntag",
+          "link": "https://www.tagesschau.de/inland/bundesweiter-warntag-130.html",
+          "published": "2026-09-10T00:32:42+00:00",
+          "summary": "Können die Behörden die Bevölkerung im Notfall erreichen und warnen? Das soll im Rahmen eines bundesweiten Warntags einmal im Jahr getestet werden. In der Vergangenheit hatten sich dabei Lücken …"
+        },
+        {
+          "title": "Falkland-Konflikt mit Rückendeckung von Trump",
+          "link": "https://www.tagesschau.de/ausland/amerika/argentinien-falkland-trump-100.html",
+          "published": "2026-09-10T00:29:28+00:00",
+          "summary": "Argentiniens Präsident Milei hat Ansprüche auf die Falklandinseln erhoben, die unter britischer Verwaltung stehen. Das dürfte auch mit Aussagen von US-Präsident Trump zu tun haben. Von Anne Herrberg."
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646390.html",
@@ -18,24 +36,6 @@
           "link": "https://www.tagesschau.de/kultur/deutscher-fernsehpreis-verleihung-100.html",
           "published": "2026-09-09T23:44:53+00:00",
           "summary": "Begleitet von politischen Statements ist der Deutsche Fernsehpreis verliehen worden. Etwa bei der Auszeichnung für den Mehrteiler \"Olivia\" über das Leben von Olivia Jones warb Hauptdarsteller …"
-        },
-        {
-          "title": "BSW geht in Sachsen-Anhalt in Gespräche mit AfD",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/bsw-gespraeche-sachsen-anhalt-100.html",
-          "published": "2026-09-09T23:11:07+00:00",
-          "summary": "Eingeladen hatte die AfD alle Parteien - CDU, SPD, Grüne und Linke lehnten das Gesprächsangebot zur Regierungsbildung in Sachsen-Anhalt aber ab. Anders das BSW: Die Parteien wollen unter anderem über …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80852.html",
-          "published": "2026-09-09T22:22:50+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
-          "published": "2026-09-09T22:12:24+00:00",
-          "summary": "Die Staatsanwaltschaft Hannover ermittelt gegen den Berliner SPD-Spitzenkandidaten Krach. Die Polizei durchsuchte drei Objekte. Einem Medienbericht zufolge geht es um den Verdacht auf …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Mobilität: Mehr als jeder Vierte will aufs E-Auto umsteigen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/mobilitaet-mehr-als-jeder-vierte-will-aufs-e-auto-umsteigen/100253385.html",
-          "published": "2026-09-09T22:01:04+00:00",
-          "summary": "Fortschritte bei Reichweite und Ladegeschwindigkeit lassen das Interesse an E-Autos in Deutschland wachsen. Was eine Studie zum Wechselwillen der Autofahrer zeigt."
+          "title": "Klima: Wärmster August weltweit – Meere auf Rekordtemperatur",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/klima-waermster-august-weltweit-meere-auf-rekordtemperatur/100253398.html",
+          "published": "2026-09-10T02:00:42+00:00",
+          "summary": "Extreme Hitze, Trockenheit und große Waldbrände prägten den Sommer 2026 in Westeuropa. Was die weltweiten Klimadaten zeigen und welche Folgen der EU-Klimadienst Copernicus für Mensch und Natur sieht."
         },
         {
-          "title": "KI: Anthropic meldet vierten Hackerangriff durch eigenes KI-Modell",
-          "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-meldet-vierten-hackerangriff-durch-eigenes-ki-modell/100253383.html",
-          "published": "2026-09-09T21:38:48+00:00",
-          "summary": "Eine frühe Version von Claude Opus 4.6 ist in ein fremdes Computersystem eingedrungen. Anthropic lässt die Vorfälle nun extern untersuchen."
+          "title": "Künstliche Intelligenz: „KI wird alles verändern“ – Grünen-Chefin Brantner startet Dialogforum mit Unternehmen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gruene-parteichefin-brantner-startet-ki-dialog-mit-unternehmen/100252593.html",
+          "published": "2026-09-10T02:00:02+00:00",
+          "summary": "Die Grünen wollen das Schlüsselthema Künstliche Intelligenz künftig strategischer angehen. Dabei soll ein regelmäßiger KI-Dialog helfen, der an diesem Donnerstag beginnt."
         },
         {
-          "title": "Mobiltelefone: Stolzer Preis: Apple stellt faltbares iPhone für 2299 Euro vor",
-          "link": "https://www.handelsblatt.com/technik/it-internet/mobiltelefone-apple-stellt-faltbares-iphone-fuer-2299-euro-vor/100250945.html",
-          "published": "2026-09-09T20:12:21+00:00",
-          "summary": "Es ist der erste große Auftritt für den neuen Chef John Ternus. Bei den Kunden will Apple zudem mit einer neuen KI-Assistentin Siri punkten. Eine Ankündigung überrascht."
+          "title": "Technologieindustrie: Was John Ternus’ Debüt über Apples Zukunft verrät",
+          "link": "https://www.handelsblatt.com/technik/it-internet/technologieindustrie-was-john-ternus-debuet-ueber-apples-zukunft-verraet/100253333.html",
+          "published": "2026-09-10T02:00:00+00:00",
+          "summary": "Bei seinem ersten Auftritt setzt der neue Chef ausgerechnet ein sündhaft teures iPhone in Szene. Wichtiger werden Ternus’ nächste Schritte."
         },
         {
-          "title": "Nordafrika-Exklave: Geheimdienst warnte vor Massenankunft von Migranten in Ceuta",
-          "link": "https://www.handelsblatt.com/politik/international/nordafrika-exklave-geheimdienst-warnte-vor-massenankunft-von-migranten-in-ceuta/100253372.html",
-          "published": "2026-09-09T19:48:25+00:00",
-          "summary": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente geben nun Einblick in die Warnungen des spanischen Geheimdienstes vor der beispiellosen Massenankunft in der Exklave."
+          "title": "Geldpolitik: Kann Joachim Nagel EZB‑Präsident? Zinsentscheid in Berlin wird zur Bewerbungsbühne",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-mehr-als-ein-zinsentscheid-nagels-pruefung-in-berlin/100252571.html",
+          "published": "2026-09-10T02:00:00+00:00",
+          "summary": "Galadinner mit Kanzler, Rede vor dem Bundespräsidenten, Auftritte an der Seite der EZB-Präsidentin: Der Zinsentscheid in Berlin ist ein Eignungstest für Bundesbank-Chef Joachim Nagel."
         },
         {
-          "title": "Ukraine-Krieg: Trump zu Friedensaussichten: Putin und Selenskyj hassen einander",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-09T19:45:00+00:00",
-          "summary": "Flugzeug von Selenskyj beinahe von Drohne getroffen +++ Merz: Sehe wenig Chancen, dass Russland zu Gesprächen bereit ist+++ Tote und Verletzte bei russischen Angriffen in der Ukraine +++ Der Newsblog."
+          "title": "Geoeconomics: Zwischen Belgrad und Reykjavik verblasst Europas Strahlkraft",
+          "link": "https://www.handelsblatt.com/meinung/kolumnen/geoeconomics-zwischen-belgrad-und-reykjavik-verblasst-europas-strahlkraft/100253135.html",
+          "published": "2026-09-10T01:55:08+00:00",
+          "summary": "Islands „Nein“ zu EU-Verhandlungen und Serbiens Entfernen von europäischen Prinzipien sind für die EU frustrierend. Es kann nur eine Antwort darauf geben. Ein Gastbeitrag."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "\"Wem gehört der DAX?\" - Wer die meisten Anteile am deutschen Leitindex hält",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktionaere-34-wem-gehoert-der-dax-34-wer-die-meisten-anteile-am-deutschen-leitindex-haelt-8987726",
-          "published": "2026-09-09T21:39:00+00:00",
-          "summary": "Institutionelle Investoren halten 60,2 Prozent des DAX-Streubesitzes Passive Indexfonds treiben die Kapitalzuflüsse so stark wie nie zuvor Nordamerika bleibt größte Region, London stärkster …"
+          "title": "Tesla- und SpaceX-Chef Musk: KI übertrifft Menschen bis Ende 2027 bei digitalen Tätigkeiten",
+          "link": "https://www.finanzen.net/nachricht/aktien/tesla-und-spacex-chef-musk-ki-uebertrifft-menschen-bis-ende-2027-bei-digitalen-taetigkeiten-15926789",
+          "published": "2026-09-10T01:36:42+00:00",
+          "summary": "Musk erwartet: KI meistert bis 2027 digitale Aufgaben übermenschlich gut - besonders in der Cybersicherheit sucht sie bereits gezielt nach Schwachstellen."
         },
         {
-          "title": "ROUNDUP: Abflug von Trump nach Dallas wegen Sicherheitschecks verzögert",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-abflug-von-trump-nach-dallas-wegen-sicherheitschecks-verzoegert-15926533",
-          "published": "2026-09-09T21:05:39+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Der Abflug von US-Präsident Donald Trump ins texanische Dallas hat sich aufgrund eines ungeplanten Sicherheitschecks an einer Notrutsche der neuen Air Force One verzögert. …"
+          "title": "Aktien von Tesla vs. Alphabet: Wer gewinnt das Rennen um die Robotaxis?",
+          "link": "https://www.finanzen.net/nachricht/aktien/robotaxi-rennen-aktien-von-tesla-vs-alphabet-wer-gewinnt-das-rennen-um-die-robotaxis-00-15923113",
+          "published": "2026-09-10T01:26:56+00:00",
+          "summary": "Tesla bietet erste Cybercab-Fahrten in ausgewählten Bereichen von Austin an •Waymo kommt nach eigenen Angaben auf bis zu 500.000 bezahlte Fahrten pro Woche •Tesla-Aktie stützt sich stark auf die …"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-09T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "Oura-Aktie vor NASDAQ-Debüt: Konzern meldet kräftiges Umsatzplus",
+          "link": "https://www.finanzen.net/nachricht/aktien/ipo-antrag-bei-der-sec-oura-aktie-vor-nasdaq-debuet-konzern-meldet-kraeftiges-umsatzplus-00-15923470",
+          "published": "2026-09-10T01:16:03+00:00",
+          "summary": "Smart-Ring-Pionier strebt an die US-Börse und zeigt kräftiges Wachstum Neue Vorstandsmitglieder aus Robinhood und Netflix verstärken das Board Sammelklage zu Schlafdaten begleitet den Weg zum …"
         },
         {
-          "title": "Weltkriegsbombe in Hamburg entschärft - Zugverkehr freigegeben",
-          "link": "https://www.finanzen.net/nachricht/aktien/weltkriegsbombe-in-hamburg-entschaerft-zugverkehr-freigegeben-15926527",
-          "published": "2026-09-09T20:41:38+00:00",
-          "summary": "HAMBURG (dpa-AFX) - Die gefährliche Weltkriegsbombe im Hamburger Stadtteil Bahrenfeld ist mehrere Stunden nach dem Fund entschärft worden. Das teilte die Feuerwehr mit. Die Sperrmaßnahmen wurden …"
+          "title": "Wird Gold überholt? Warum Changpeng Zhao Bitcoin vor einem extremen Wachstumsschub sieht",
+          "link": "https://www.finanzen.net/nachricht/devisen/34-bitcoin-jahrhundert-34-wird-gold-ueberholt-warum-changpeng-zhao-bitcoin-vor-einem-extremen-wachstumsschub-sieht-00-15923027",
+          "published": "2026-09-10T01:08:08+00:00",
+          "summary": "Changpeng Zhao sieht Bitcoin schon in wenigen Jahren wertvoller als Gold Aktuellen Marktwert-Abstand zu Gold beziffert er auf das Zehnfache Für Kryptoreserven rät er zu den fünf größten Coins, ..."
         },
         {
-          "title": "Neue Chefredakteurin für 'Berliner Morgenpost'",
-          "link": "https://www.finanzen.net/nachricht/aktien/neue-chefredakteurin-fuer-berliner-morgenpost-15926522",
-          "published": "2026-09-09T20:34:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Bei der \"Berliner Morgenpost\" gibt es Anfang 2027 einen Wechsel in der Chefredaktion. Die bisherige stellvertretende Chefredakteurin der \"Freien Presse\" (Chemnitz), Anne Lena …"
+          "title": "Micron-Aktie im Blick: KI-Boom erzwingt Umbau der Konzernführung",
+          "link": "https://www.finanzen.net/nachricht/aktien/micron-aktie-im-blick-ki-boom-erzwingt-umbau-der-konzernfuehrung-15926786",
+          "published": "2026-09-10T01:07:59+00:00",
+          "summary": "Micron baut seine Konzernspitze um und beruft zwei langjährige Führungskräfte in neu zugeschnittene Spitzenpositionen."
         }
       ],
       "error": null
