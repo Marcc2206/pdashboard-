@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:08:34+00:00",
+  "generatedAt": "2026-09-10T00:12:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646390.html",
+          "published": "2026-09-10T00:06:59+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Fernsehpreis-Verleihung mit politischen Botschaften",
+          "link": "https://www.tagesschau.de/kultur/deutscher-fernsehpreis-verleihung-100.html",
+          "published": "2026-09-09T23:44:53+00:00",
+          "summary": "Begleitet von politischen Statements ist der Deutsche Fernsehpreis verliehen worden. Etwa bei der Auszeichnung für den Mehrteiler \"Olivia\" über das Leben von Olivia Jones warb Hauptdarsteller …"
+        },
+        {
+          "title": "BSW geht in Sachsen-Anhalt in Gespräche mit AfD",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/bsw-gespraeche-sachsen-anhalt-100.html",
+          "published": "2026-09-09T23:11:07+00:00",
+          "summary": "Eingeladen hatte die AfD alle Parteien - CDU, SPD, Grüne und Linke lehnten das Gesprächsangebot zur Regierungsbildung in Sachsen-Anhalt aber ab. Anders das BSW: Die Parteien wollen unter anderem über …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80852.html",
+          "published": "2026-09-09T22:22:50+00:00",
+          "summary": ""
+        },
+        {
           "title": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
           "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
-          "published": "2026-09-09T22:00:05+00:00",
+          "published": "2026-09-09T22:12:24+00:00",
           "summary": "Die Staatsanwaltschaft Hannover ermittelt gegen den Berliner SPD-Spitzenkandidaten Krach. Die Polizei durchsuchte drei Objekte. Einem Medienbericht zufolge geht es um den Verdacht auf …"
-        },
-        {
-          "title": "Einblicke in die Arbeit von ukrainischen Spezialeinheiten im Krieg gegen Russland",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1646380.html",
-          "published": "2026-09-09T21:44:24+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12852.html",
-          "published": "2026-09-09T20:53:05+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Was wusste Israels Ministerpräsident Netanjahu über den Hamas-Überfall vor dem 07.10.2023?",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1646360.html",
-          "published": "2026-09-09T20:37:44+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Matthias Deiß, ARD Berlin, über die Auseinandersetzungen bei der Generaldebatte",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1646356.html",
-          "published": "2026-09-09T20:27:23+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Mobilität: Mehr als jeder Vierte will aufs E-Auto umsteigen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/mobilitaet-mehr-als-jeder-vierte-will-aufs-e-auto-umsteigen/100253385.html",
+          "published": "2026-09-09T22:01:04+00:00",
+          "summary": "Fortschritte bei Reichweite und Ladegeschwindigkeit lassen das Interesse an E-Autos in Deutschland wachsen. Was eine Studie zum Wechselwillen der Autofahrer zeigt."
+        },
         {
           "title": "KI: Anthropic meldet vierten Hackerangriff durch eigenes KI-Modell",
           "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-meldet-vierten-hackerangriff-durch-eigenes-ki-modell/100253383.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
           "published": "2026-09-09T19:45:00+00:00",
           "summary": "Flugzeug von Selenskyj beinahe von Drohne getroffen +++ Merz: Sehe wenig Chancen, dass Russland zu Gesprächen bereit ist+++ Tote und Verletzte bei russischen Angriffen in der Ukraine +++ Der Newsblog."
-        },
-        {
-          "title": "Meckel & Matthes: „Mir blutet das Herz“ – Angela Merkel über Sachsen-Anhalt",
-          "link": "https://www.handelsblatt.com/video/pool/sonderfolgemeckel-matthes/100253339.html",
-          "published": "2026-09-09T19:05:54+00:00",
-          "summary": "In dieser Video-Sonderfolge spricht Miriam Meckel auf der Bühne mit der Altkanzlerin über Sachsen-Anhalt. Außerdem: Wie Merkel selbst KI nutzt – und was die rasante Entwicklung für uns bedeutet."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Zinserhöhung droht: Hoher Ölpreis belastet die Wall Street",
+          "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-belastet-die-Wall-Street-id31289418.html",
+          "published": "2026-09-09T21:55:00+00:00",
+          "summary": "Die weitere Eskalation im Nahen Osten ist Gift für die US-Börsen. Der Ölpreis klettert wieder über die 100-Dollar-Marke. Nur eine Branche kann davon profitieren."
+        },
         {
           "title": "US-Anleihen vor kritischer Marke: Trumps Schuldenorgie gefährdet den KI-Boom",
           "link": "https://www.n-tv.de/wirtschaft/Trumps-Schuldenorgie-gefaehrdet-den-KI-Boom-id31286989.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wir-glauben-wirklich-dass-KI-alle-Menschen-toeten-koennte-id31287995.html",
           "published": "2026-09-09T13:54:12+00:00",
           "summary": "Ein Experte der Firma Anthropic tritt zurück, weil er das Handeln der führenden KI-Unternehmen in den USA für unverantwortlich hält. Einer seiner bisherigen Kollegen bestätigt die Sorgen über die …"
-        },
-        {
-          "title": "Diese Standorte müssen schließen: Discounter Kodi streicht nach Insolvenz das Filialnetz zusammen",
-          "link": "https://www.n-tv.de/wirtschaft/Discounter-Kodi-streicht-nach-Insolvenz-das-Filialnetz-zusammen-id31287742.html",
-          "published": "2026-09-09T13:46:38+00:00",
-          "summary": "Die Wirtschaftskrise führt zu immer mehr Insolvenzen im Einzelhandel - so auch beim Non-Food-Discounter Kodi. Im Zuge der Sanierung schrumpft die Zahl der Filialen. Nun steht fest, welche Standorte …"
         }
       ],
       "error": null
