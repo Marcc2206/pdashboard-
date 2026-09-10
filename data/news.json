@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T06:12:29+00:00",
+  "generatedAt": "2026-09-10T08:09:37+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Bundesweiter Warntag: Warum es heute ab 11 Uhr laut wird",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/warntag-faq-100.html",
+          "published": "2026-09-10T08:04:07+00:00",
+          "summary": "Sirenen heulen, Mobiltelefone schrillen, Digitalradios schalten sich von selbst sein - zum sechsten Mal findet heute ab 11 Uhr der bundesweite Warntag statt. Was gibt es zu beachten? Antworten auf …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646438.html",
-          "published": "2026-09-10T06:08:36+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646464.html",
+          "published": "2026-09-10T07:08:49+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Zum bundesweiten Warntag werden um 11 Uhr Alarmsysteme für Katastrophenfall getestet",
+          "link": "https://www.tagesschau.de/video/video-1646462.html",
+          "published": "2026-09-10T07:07:15+00:00",
           "summary": ""
         },
         {
           "title": "Trump lockt auf Parteitag Wähler mit 5.000-Dollar-Versprechen",
           "link": "https://www.tagesschau.de/ausland/amerika/parteitag-republikaner-dallas-100.html",
-          "published": "2026-09-10T06:03:02+00:00",
+          "published": "2026-09-10T07:03:50+00:00",
           "summary": "Den Republikanern droht bei den US-Kongresswahlen im November eine Schlappe. Die Umfragewerte von Präsident Trump sinken. Er versucht, das Ruder herumzureißen - und verspricht im Falle eines …"
         },
         {
-          "title": "Dubai: Schlechte Aussichten für die Organisierte Kriminalität",
-          "link": "https://www.tagesschau.de/investigativ/ndr/dubai-organisierte-kriminalitaet-strafverfolgung-100.html",
-          "published": "2026-09-10T06:00:12+00:00",
-          "summary": "Dubai gilt nicht nur als Luxusziel, sondern auch als Zufluchtsort für Kriminelle. Deutschland will die Zusammenarbeit mit der Justiz verbessern. Beim Besuch von Präsident bin Zayed heute soll ein …"
-        },
-        {
-          "title": "US Open: Van de Zandschulp macht Zverev den Halbfinaleinzug leicht",
-          "link": "https://www.sportschau.de/tennis/us-open/van-de-zandschulp-macht-zverev-halbfinaleinzug-leicht,spielbericht-zverev-van-de-zandschulp-100.html",
-          "published": "2026-09-10T05:53:54+00:00",
-          "summary": "Zverev hat die nächste Pflichtaufgabe bei den US Open mit Bravour bestanden und ist locker ins Halbfinale eingezogen. Gegen van de Zandschulp hatte er leichtes Spiel."
-        },
-        {
-          "title": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-          "published": "2026-09-10T05:52:13+00:00",
-          "summary": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur …"
+          "title": "Umfrage zu Hausärzte-Versorgung: Wenn der Hausarzt fehlt, hat das Einfluss auf die Wahl",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/hausaerzte-deutschland-100.html",
+          "published": "2026-09-10T07:03:04+00:00",
+          "summary": "Deutschlandweit fehlen Tausende Hausarztpraxen. Die Unzufriedenheit darüber hat Folgen auch für das Wahlverhalten von Bürgern, so eine Umfrage. Eine Kommune in Rheinland-Pfalz versucht …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Anthropic: KI-Forscher tritt zurück: „Sie spielen mit unseren Leben“",
-          "link": "https://www.handelsblatt.com/technik/it-internet/drastische-mahnungen-ki-forscher-kuenstliche-intelligenz-ein-risiko-fuer-menschen/100253149.html",
-          "published": "2026-09-10T06:02:00+00:00",
-          "summary": "Nachdem OpenAI sein mächtigstes KI-Modell vorgestellt hat, wirft ein Forscher der Konkurrenzfirma Anthropic hin. Er hält den eigenen Arbeitgeber für unverantwortlich."
+          "title": "Ukraine-Krieg: Ukraine greift russische Gasanlagen in der Arktis an",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-10T08:04:05+00:00",
+          "summary": "Trump: Putin will Abkommen zur Beendigung des Kriegs +++ Selenskyj in Kanada – Treffen mit Carney geplant +++ Merz sieht wenig Chancen für Gespräche mit Russland +++ Der Newsblog."
         },
         {
-          "title": "Sabotage: Plattes Gras verrät Strom-Saboteur – Bodycam filmt Festnahme",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sabotage-plattes-gras-verraet-strom-saboteur-bodycam-filmt-festnahme/100253436.html",
-          "published": "2026-09-10T05:59:05+00:00",
-          "summary": "Tagelang hält die Fahndung nach einem Strom-Saboteur die Polizei in Atem. Zwei junge Autobahnpolizisten hatten am Ende den richtigen Riecher. Ihre Bodycam dokumentiert die Festnahme."
+          "title": "Deutsche Bahn: Korridorsanierungen dauern laut Bahn-Chefin Palla länger",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/deutsche-bahn-korridorsanierungen-dauern-laut-bahn-chefin-palla-laenger/100253475.html",
+          "published": "2026-09-10T08:01:56+00:00",
+          "summary": "Evelyn Palla ist seit einem Jahr Chefin der Deutschen Bahn. In dieser Zeit hat sie neue Entwicklungen angestoßen, aber die Sanierung der maroden Infrastruktur braucht noch Zeit."
         },
         {
-          "title": "Deep Read: Bundeswehr will Palantir-Alternative schon 2027 einführen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/verteidigung-bundeswehr-will-palantir-alternative-schon-2027-einfuehren/100247052.html",
-          "published": "2026-09-10T05:55:55+00:00",
-          "summary": "Derzeit testet die deutsche Armee Systeme von 30 Firmen, um Kampfdaten in Echtzeit zu verschmelzen. Eine mögliche Lösung kommt vom Sensorikspezialisten Hensoldt und dem KI-Start-up Helsing."
+          "title": "Volksbanken: Abschied in Krisenzeiten: Chefin des Verbands der Volksbanken hört 2027 auf",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbanken-abschied-in-krisenzeiten-bvr-chefin-kolak-hoert-ende-2027-auf/100253377.html",
+          "published": "2026-09-10T08:00:42+00:00",
+          "summary": "Marija Kolak steht seit knapp neun Jahren an der Spitze des Bundesverbands der Genossenschaftsbanken. Mehrere Banken mussten zuletzt durch den Stützungsfonds der Branche aufgefangen werden."
         },
         {
-          "title": "Parteitag: Trump verspricht US-Bürgern „Dividende“ von 5000 Dollar bei Wahlsieg der Republikaner",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trump-verspricht-us-buergern-wahlgeschenk-von-5000-dollar/100253406.html",
-          "published": "2026-09-10T05:51:00+00:00",
-          "summary": "Der US-Präsident kündigt eine Prämie für alle erwachsenen US-Bürger an, falls seine Partei die Midterms gewinnt. Das Vorhaben wäre so teuer wie der gesamte Verteidigungshaushalt für ein Jahr."
+          "title": "Verbraucherpreise: Teure Energie treibt Inflation an die Drei-Prozent-Marke",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/verbraucherpreise-teure-energie-treibt-inflation-an-die-drei-prozent-marke/100253443.html",
+          "published": "2026-09-10T07:56:58+00:00",
+          "summary": "Der Iran-Krieg hat Tanken und Heizen verteuert. Mit der vom Staat verordneten Entlastung an deutschen Tankstellen ist es vorerst vorbei. Die Inflationsrate könnte noch weiter steigen."
         },
         {
-          "title": "Steuer: Finanzamt fordert Steuer – obwohl der Erbe leer ausgeht",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-warum-auch-ohne-erbe-erbschaftsteuer-anfallen-kann-01/100246436.html",
-          "published": "2026-09-10T05:48:00+00:00",
-          "summary": "Selbst wenn ein Erbe erst spät von seinem Anspruch erfährt und leer ausgeht, fällt Erbschaftsteuer an. Der Bundesfinanzhof klärte, wieso das so ist – und welche Ausnahmen es gibt."
+          "title": "Karriere: „Es ist in Ordnung, kein Karriereziel zu haben“",
+          "link": "https://www.handelsblatt.com/unternehmen/management/neurowissenschaftlerin-diese-denkweise-kann-fuer-mehr-erfolg-sorgen/100248072.html",
+          "published": "2026-09-10T07:55:00+00:00",
+          "summary": "Die Londoner Neurowissenschaftlerin Anne-Laure Le Cunff forscht über den Weg zu Erfolg und mehr Produktivität. Statt sich große Ziele zu setzen, rät sie zu einer anderen Strategie."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Freie Fahrt erst nach 2030ern?: Deutsche Bahn braucht doch länger für Generalsanierung",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Bahn-braucht-doch-laenger-fuer-Generalsanierung-id31290478.html",
+          "published": "2026-09-10T07:53:13+00:00",
+          "summary": "Eigentlich will die Deutsche Bahn ihr Schienennetz bis 2036 überholt haben. Doch daraus wird wohl nichts: Das Konzept der Korridorsanierungen steht auf dem Prüfstand, es muss nachjustiert werden. Das …"
+        },
+        {
+          "title": "\"Die Inflation ist zurück\": Benzin, Diesel und Heizöl machen Alltag deutlich teurer",
+          "link": "https://www.n-tv.de/wirtschaft/Benzin-Diesel-und-Heizoel-machen-Alltag-deutlich-teurer-id31290231.html",
+          "published": "2026-09-10T07:50:44+00:00",
+          "summary": "Das Statistische Bundesamt bestätigt seine Schätzung: Teure Kraftstoffe bringen die Inflation mit Wucht nach Deutschland zurück. Die Prognose des Ifo-Instituts ist düster. Es erwartet für das …"
+        },
         {
           "title": "Zinserhöhung droht: Hoher Ölpreis belastet die Wall Street",
           "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-belastet-die-Wall-Street-id31289418.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Finanzministerium-besteuert-Kryptoverkaeufe-bald-wie-Aktiengewinne-id31288511.html",
           "published": "2026-09-09T16:32:56+00:00",
           "summary": "Bislang sind Krypto-Gewinne steuerfrei, wenn die Coins mindestens ein Jahr im Besitz waren. Diese Steuerfreiheit soll für Neukäufe zum Jahresende abgeschafft werden. Wie bei Aktien verlangt das …"
-        },
-        {
-          "title": "Hochprozentigere Trauben: Champagner darf in diesem Jahr besonders \"knallen\"",
-          "link": "https://www.n-tv.de/wirtschaft/Champagner-darf-in-diesem-Jahr-besonders-knallen-id31288494.html",
-          "published": "2026-09-09T16:11:38+00:00",
-          "summary": "Ob Hochzeitsfeier oder Neujahrsfete - vieles lässt sich mit Champagner besser feiern. In diesem Jahr sogar besonders gut: Der Schaumwein aus der Champagne darf nun nämlich bis zu 15 Prozent Alkohol …"
-        },
-        {
-          "title": "US-Insider läuten Alarmglocken: \"Wir glauben wirklich, dass KI alle Menschen töten könnte\"",
-          "link": "https://www.n-tv.de/wirtschaft/Wir-glauben-wirklich-dass-KI-alle-Menschen-toeten-koennte-id31287995.html",
-          "published": "2026-09-09T13:54:12+00:00",
-          "summary": "Ein Experte der Firma Anthropic tritt zurück, weil er das Handeln der führenden KI-Unternehmen in den USA für unverantwortlich hält. Einer seiner bisherigen Kollegen bestätigt die Sorgen über die …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Oura-Aktie vor NASDAQ-Debüt: Konzern meldet kräftiges Umsatzplus",
-          "link": "https://www.finanzen.net/nachricht/aktien/ipo-antrag-bei-der-sec-oura-aktie-vor-nasdaq-debuet-konzern-meldet-kraeftiges-umsatzplus-00-15923470",
-          "published": "2026-09-10T06:12:00+00:00",
-          "summary": "Smart-Ring-Pionier strebt an die US-Börse und zeigt kräftiges Wachstum Neue Vorstandsmitglieder aus Robinhood und Netflix verstärken das Board Sammelklage zu Schlafdaten begleitet den Weg zum …"
+          "title": "Partnerschaft mit Chinas Firmen: Deutsche unter Zeitdruck",
+          "link": "https://www.finanzen.net/nachricht/aktien/partnerschaft-mit-chinas-firmen-deutsche-unter-zeitdruck-15927354",
+          "published": "2026-09-10T08:06:39+00:00",
+          "summary": "PEKING (dpa-AFX) - Deutschen Unternehmen in China könnte für eine Partnerschaft mit international expandierenden chinesischen Firmen die Zeit davonzulaufen. Das legt ein neuer Bericht der deutschen …"
         },
         {
-          "title": "EUREX/Bund-Future unverändert",
-          "link": "https://www.finanzen.net/nachricht/anleihen/EUREX-Bund-Future-unveraendert-15927066",
-          "published": "2026-09-10T06:10:55+00:00",
-          "summary": "DOW JONES--Der Dezember-Kontrakt des Bund-Futures notiert am Donnerstagmorgen um 8.10 Uhr unverändert bei 121,34 Prozent. Das Tageshoch liegt bislang bei 121,37 Prozent und das Tagestief bei 121,11 …"
-        },
-        {
-          "title": "EUREX/Bund-Future unverändert",
-          "link": "https://www.finanzen.net/nachricht/aktien/eurex-bund-future-unveraendert-15927065",
-          "published": "2026-09-10T06:10:55+00:00",
-          "summary": "DOW JONES--Der Dezember-Kontrakt des Bund-Futures notiert am Donnerstagmorgen um 8.10 Uhr unverändert bei 121,34 Prozent. Das Tageshoch liegt bislang bei 121,37 Prozent und das Tagestief bei 121,11 …"
-        },
-        {
-          "title": "EUREX/DAX-Futures etwas fester",
-          "link": "https://www.finanzen.net/nachricht/aktien/eurex-dax-futures-etwas-fester-15927064",
-          "published": "2026-09-10T06:09:43+00:00",
-          "summary": "DOW JONES--Der nächstfällige Kontrakt des DAX-Futures steigt am Donnerstagmorgen bis 8.07 Uhr um 60 auf 25.622 Punkte. Das Tageshoch liegt bislang bei 25.635 und das Tagestief bei 25.546 Punkten. …"
-        },
-        {
-          "title": "Altersvorsorgedepot: Nur wieder Abzocke, oder echte Alternative zur Riester-Rente?",
-          "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-15927062",
-          "published": "2026-09-10T06:05:00+00:00",
+          "title": "Riester-Rente wird abgeschafft: So viel Geld haben Sparer seit 2002 verloren",
+          "link": "https://www.finanzen.net/nachricht/aktien/riester-rente-wird-abgeschafft-so-viel-geld-haben-sparer-seit-2002-verloren-15927353",
+          "published": "2026-09-10T08:05:27+00:00",
           "summary": ""
+        },
+        {
+          "title": "Plug Power, NEL & Co. vor Trendwende? Das bedeutet ein höherer Ölpreis wirklich für Wasserstoff-Aktien",
+          "link": "https://www.finanzen.net/nachricht/aktien/comeback-in-sicht-plug-power-nel-co-vor-trendwende-das-bedeutet-ein-hoeherer-oelpreis-wirklich-fuer-wasserstoff-aktien-00-15927177",
+          "published": "2026-09-10T08:05:00+00:00",
+          "summary": "Goldman Sachs hält im Extremfall bis zu 120 US-Dollar je Barrel für möglich Aktien von Plug Power, NEL ASA, Ballard Power und ITM Power reagieren dabei sehr gemischt Hohe Ölpreise machen Wasserstoff …"
+        },
+        {
+          "title": "ANALYSE-FLASH: Deutsche Bank Research belässt Bayer auf 'Buy' - Ziel 60 Euro",
+          "link": "https://www.finanzen.net/nachricht/aktien/analyse-flash-deutsche-bank-research-belaesst-bayer-auf-buy-ziel-60-euro-15927351",
+          "published": "2026-09-10T08:04:39+00:00",
+          "summary": "FRANKFURT (dpa-AFX Broker) - Deutsche Bank Research hat Bayer mit einem Kursziel von 60 Euro auf \"Buy\" belassen. Der Konzern habe auf einer Investorenveranstaltung für den Bereich Crop Science die …"
+        },
+        {
+          "title": "GNW-News: Bullhorn als Salesforce 'Partner of the Year' 2027 ausgezeichnet",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-bullhorn-als-salesforce-partner-of-the-year-2027-ausgezeichnet-15927350",
+          "published": "2026-09-10T08:04:39+00:00",
+          "summary": "^FRANKFURT, Germany, Sept. 10, 2026 (GLOBE NEWSWIRE) -- Bullhorn(https://www.bullhorn.com/de/), der globale Marktführer für Recruitment- Software, wurde mit dem 2027 Salesforce \"Partner of the …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wahl in Sachsen-Anhalt: Der Fieberwahn von Magdeburg",
-          "link": "https://www.wiwo.de/politik/deutschland/wahl-sachsen-anhalt-ein-land-im-politischen-fieberwahn/100253346.html",
-          "published": "2026-09-10T06:01:32+00:00",
-          "summary": "Nicht nur das Rekordergebnis der AfD bestürzt, sondern das Zerrbild, das inzwischen von der Regierung und dem Land gezeichnet wird. Zeit zum Runterkommen. Ein Kommentar."
+          "title": "Rüstungsunternehmen: Rheinmetall-Aktie fällt unter 1000 Euro",
+          "link": "https://www.wiwo.de/finanzen/boerse/rheinmetall-aktie-papiere-des-ruestungsunternehmen-fallen-unter-1000-euro/100253451.html",
+          "published": "2026-09-10T07:01:22+00:00",
+          "summary": "Die Rheinmetall-Aktie liegt erstmals seit Juli unter 1000 Euro. Anleger zweifeln an der Umsetzung der Rekordaufträge – und sorgen sich wegen der AfD."
         },
         {
-          "title": "Mobilität: Mehr als jeder Vierte will aufs E-Auto umsteigen",
-          "link": "https://www.wiwo.de/unternehmen/auto/mobilitaet-mehr-als-jeder-vierte-will-aufs-e-auto-umsteigen/100253386.html",
-          "published": "2026-09-10T06:01:00+00:00",
-          "summary": "Durch Fortschritte bei Reichweite und Ladegeschwindigkeit steigt das Interesse an E-Autos. Was eine Studie zum Wechselwillen der Autofahrer zeigt."
-        },
-        {
-          "title": "Importverbote: Zwingen die USA Kanada im Handelsstreit in die Knie?",
-          "link": "https://www.wiwo.de/politik/ausland/importverbote-zwingen-die-usa-kanada-im-handelsstreit-in-die-knie/100253431.html",
-          "published": "2026-09-10T05:59:19+00:00",
-          "summary": "Die USA und Kanada geraten immer tiefer in ihren Handelsstreit. Nun geht es um Rum und Tequila, die nicht mehr in die USA eingeführt werden sollen."
-        },
-        {
-          "title": "Nutzfahrzeughersteller: Daimler Truck investiert groß in Wasserstoff-Lkw",
-          "link": "https://www.wiwo.de/unternehmen/auto/daimler-truck-nutzfahrzeughersteller-investiert-gross-in-wasserstoff-lkw/100253430.html",
-          "published": "2026-09-10T05:44:48+00:00",
-          "summary": "Vollelektrische Lkw sind Nischenprodukte. Noch weniger im Einsatz sind Wasserstoff-Lkw. Daimler Truck setzt trotzdem auf beide Technologien."
-        },
-        {
-          "title": "Midterms: Trump winkt mit 5000-Dollar-Wahlbelohnung",
+          "title": "Parteitag der Republikaner: Donald Trump winkt mit 5000 Dollar Wahlbelohnung",
           "link": "https://www.wiwo.de/politik/ausland/midterms-trump-giftet-gegen-demokraten-und-winkt-mit-wahlbelohnung/100253403.html",
-          "published": "2026-09-10T05:30:00+00:00",
-          "summary": "Mit neuen innenpolitischen Versprechen wollen die Republikaner die Wahl gewinnen. Doch Trumps Vorhaben könnten sehr teuer werden."
+          "published": "2026-09-10T06:40:00+00:00",
+          "summary": "Mit neuen innenpolitischen Versprechen wollen die Republikaner die Wahl gewinnen. Doch Donald Trumps Vorhaben könnten sehr teuer werden."
+        },
+        {
+          "title": "Landtagswahlen Mecklenburg-Vorpommern: AfD in Mecklenburg-Vorpommern weiter vorn – SPD holt auf",
+          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-mecklenburg-vorpommern-2026-afd-in-aktuellen-umfragen-vorn-spd-holt-auf/100252860.html",
+          "published": "2026-09-10T06:38:00+00:00",
+          "summary": "In Mecklenburg-Vorpommern wird am 20. September der Landtag gewählt. Die SPD mit Manuela Schwesig verkürzte zuletzt den Abstand zur AfD. Die aktuellen Umfragewerte im Überblick."
+        },
+        {
+          "title": "Pisa-Studie: Deutsche Kinder so dumm wie nie? Machen Sie selbst den Test!",
+          "link": "https://www.wiwo.de/politik/deutschland/pisa-test-koennen-sie-diese-aufgabe-fuer-15-jaehrige-loesen/100253001.html",
+          "published": "2026-09-10T06:35:00+00:00",
+          "summary": "Wir haben einen Fragenkomplex aus dem Pisa-Test für Sie aufbereitet. Prüfen Sie, ob Sie die Aufgabe für 15-Jährige lösen können."
+        },
+        {
+          "title": "iPhone Duo: Apple dreht an der Preisschraube",
+          "link": "https://www.wiwo.de/unternehmen/it/iphone-duo-18-pro-apples-neue-preise-und-verkaufsstrategie/100253336.html",
+          "published": "2026-09-10T06:32:00+00:00",
+          "summary": "Erstmals schickt Apple die Pro-Version seines Bestsellers iPhone vor. Wie der neue Chef John Ternus mit diesem Kniff den Umsatz steigern will."
         }
       ],
       "error": null
@@ -241,6 +241,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "VDI Future Summit für Ingenieurinnen: Wie Frauen in MINT-Karrieren vorankommen",
+          "link": "https://www.ingenieur.de/karriere/arbeitsleben/vdi-future-summit-fuer-ingenieurinnen-wie-frauen-in-mint-karrieren-vorankommen/",
+          "published": "2026-09-10T08:00:00+00:00",
+          "summary": "Mehr Frauen für Technik zu gewinnen, reicht nicht. Sie müssen auch bleiben und aufsteigen können. Der VDI-WoMentorING Future Summit verbindet Karrierepraxis, Netzwerke und Zukunftstechnologien."
+        },
+        {
+          "title": "PISA 2025: Deutschlands Schüler so schwach wie nie: Was das für den Fachkräftenachwuchs bedeutet",
+          "link": "https://www.ingenieur.de/karriere/bildung/was-die-pisa-studie-mit-dem-fachkraftemangel-zu-tun-hat/",
+          "published": "2026-09-10T07:00:00+00:00",
+          "summary": "Die Pisa-Studie 2025 offenbart historische Kompetenzlücken bei Jugendlichen – mit Folgen für MINT-Berufe und Deutschlands Fachkräftenachwuchs."
+        },
         {
           "title": "Porsche verkauft Rimac-Anteile für 1 Mrd. € – nächste Technikwette beendet",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/porsche-verkauft-rimac-anteile-fuer-1-mrd-naechste-technikwette-beendet/",
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/versteckt-unter-trajansthermen-forscher-entdecken-2000-jahre-alten-prachtbau/",
           "published": "2026-09-09T14:30:00+00:00",
           "summary": "Neue Funde unter Roms Trajansthermen: Ein älterer Prachtbau mit Mosaiken und Marmor lag jahrhundertelang unter der riesigen Thermenanlage."
-        },
-        {
-          "title": "PISA 2025: Deutschlands Schüler so schwach wie nie: Was das für den Fachkräftenachwuchs bedeutet",
-          "link": "https://www.ingenieur.de/karriere/bildung/was-die-pisa-studie-mit-dem-fachkraftemangel-zu-tun-hat/",
-          "published": "2026-09-09T14:00:00+00:00",
-          "summary": "Die Pisa-Studie 2025 offenbart historische Kompetenzlücken bei Jugendlichen – mit Folgen für MINT-Berufe und Deutschlands Fachkräftenachwuchs."
-        },
-        {
-          "title": "9/11 veränderte den Hochhausbau, aber anders, als viele denken",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/9-11-veraenderte-den-hochhausbau-aber-anders-als-viele-denken/",
-          "published": "2026-09-09T13:30:00+00:00",
-          "summary": "25 Jahre nach 9/11: Wie die Einstürze der Twin Towers Brandschutz, Fluchtwege, Aufzüge und den Hochhausbau verändert haben."
         }
       ],
       "error": null
