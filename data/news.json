@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:08:54+00:00",
+  "generatedAt": "2026-09-10T18:10:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
-          "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
-          "published": "2026-09-10T16:00:31+00:00",
-          "summary": "Es könnte eng werden bei der Wahl in Berlin: Die Linke liegt der ARD-Umfrage zufolge knapp vor der CDU. Das BSW würde es nicht ins Abgeordnetenhaus schaffen. Von Florian Riesewieck."
-        },
-        {
           "title": "Bundesanwaltschaft übernimmt Ermittlungen zu Strom-Sabotage",
           "link": "https://www.tagesschau.de/inland/strom-sabotage-bundesanwaltschaft-100.html",
-          "published": "2026-09-10T15:49:51+00:00",
+          "published": "2026-09-10T17:43:51+00:00",
           "summary": "Nach den Attacken auf Umspannwerke in mehreren Bundesländern hat die Bundesanwaltschaft die Ermittlungen übernommen. Dem Tatverdächtigen wird verfassungsfeindliche Sabotage vorgeworfen."
         },
         {
-          "title": "Iran-Krieg: Wie die Golfstaaten US-Präsident Trump sehen",
-          "link": "https://www.tagesschau.de/ausland/asien/trump-golfstaaten-verhaeltnis-100.html",
-          "published": "2026-09-10T15:43:18+00:00",
-          "summary": "Anfangs gab es viel Sympathie und große Deals. Doch inzwischen ist die Trump-Euphorie am Golf vorbei. Die arabischen Partner fühlen sich von den USA im Iran-Krieg alleingelassen - und ziehen ihre …"
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-10T17:43:04+00:00",
+          "summary": "Am Freitag fällt zwischen Alpen und Bayerischem Wald sowie im Nordwesten und Westen Regen. Sonst ist es trocken und neben Wolken länger sonnig. Die Höchstwerte liegen zwischen 16 Grad im …"
         },
         {
-          "title": "Diskussion über AfD-Verbotsverfahren und mögliche Arbeitsgruppe auf Bund-Länder-Ebene",
-          "link": "https://www.tagesschau.de/video/video-1646736.html",
-          "published": "2026-09-10T15:21:20+00:00",
-          "summary": ""
+          "title": "Deutsche Basketballerinnen entzaubern Belgien",
+          "link": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballerinnen-entzaubern-belgien,bericht-vf-belgien-100.html",
+          "published": "2026-09-10T17:34:45+00:00",
+          "summary": "Dank einer starken Mannschaftsleistung sind die deutschen Basketballerinnen in das WM-Halbfinale eingezogen. Gegen Belgien gelang dem DBB-Team nahezu alles."
         },
         {
-          "title": "Demian von Osten, ARD Berlin, zum Empfang des Präsidenten der Vereinigten Arabischen Emirate",
-          "link": "https://www.tagesschau.de/video/video-1646742.html",
-          "published": "2026-09-10T15:21:18+00:00",
-          "summary": ""
+          "title": "Erdbeben in der Pfalz - Epizentrum bei Worms",
+          "link": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/erdbeben-worms-100.html",
+          "published": "2026-09-10T17:22:00+00:00",
+          "summary": "Am späten Nachmittag hat sich in Rheinland-Pfalz ein Erdbeben ereignet. Das Epizentrum war Worms, die Stärke 3,4. Bis ins 26 Kilometer entfernte Mannheim waren die Erdstöße spürbar."
+        },
+        {
+          "title": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
+          "published": "2026-09-10T17:18:47+00:00",
+          "summary": "Weniger als zwei Monate vor den Midterms muss US-Präsident Trump einen Rückschlag hinnehmen: Der Supreme Court lehnte den Neuzuschnitt der Wahlkreise in Missouri ab. Die Änderung könnte zu Chaos …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Staatsfinanzen: Der „Bessent-Put“ – können die USA den Anstieg der Anleiherenditen stoppen?",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/investoren-kann-scott-bessent-den-anstieg-der-us-anleiherendite-stoppen/100253449.html",
-          "published": "2026-09-10T16:01:32+00:00",
-          "summary": "Der US-Finanzminister greift stärker als viele Vorgänger in die Märkte ein. Experten sprechen von „Taschenspielertricks“ und sehen eine Einladung für Spekulanten."
+          "title": "Investment: Vereinigte Arabische Emirate planen Milliardeninvestitionen in Deutschland",
+          "link": "https://www.handelsblatt.com/politik/deutschland/investment-vae-planen-milliardeninvestitionen-in-deutschland/100253565.html",
+          "published": "2026-09-10T17:48:25+00:00",
+          "summary": "Beim Staatsbesuch von Präsident Mohamed bin Zayed Al Nahyan verkündet die Golfmonarchie Investitionen in Höhe von 40 Milliarden Euro. Auch die Rüstungskooperation soll vertieft werden."
         },
         {
-          "title": "Vermögensverwaltung: „Vorgaben nicht eingehalten“ – Ermittlerin beschreibt Diebstahl von Kundengeldern bei Deutscher Bank",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-interne-ermittlerin-beschreibt-diebstahl-von-kundengeldern/100249625.html",
-          "published": "2026-09-10T16:00:18+00:00",
-          "summary": "Ein Ex-Mitarbeiter hat wohlhabende Kunden um mehr als 600.000 Euro erleichtert. Die Einhaltung von Vorgaben wurde offenbar nicht kontrolliert."
-        },
-        {
-          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street im Minus – hohe Verluste bei Einzelwerten",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-hohe-verluste-bei-einzelwerten/100253522.html",
-          "published": "2026-09-10T15:58:14+00:00",
+          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street im Minus – Ölpreise und Inflationsdaten belasten",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-oelpreise-und-inflationsdaten-belasten/100253522.html",
+          "published": "2026-09-10T17:35:01+00:00",
           "summary": "Erneut rutschen die wichtigsten US-Börsenindizes ab. An der Wall Street befeuert der Anstieg der Erzeugerpreise im August Spekulationen auf eine baldige Zinserhöhung durch die Fed."
         },
         {
-          "title": "Staatsbesuch vom Golf: Emirate wollen 40 Milliarden Euro in Deutschland investieren",
-          "link": "https://www.handelsblatt.com/politik/deutschland/staatsbesuch-vom-golf-emirate-wollen-40-milliarden-euro-in-deutschland-investieren/100253687.html",
-          "published": "2026-09-10T15:50:55+00:00",
-          "summary": ""
+          "title": "SPD-Politiker: Ermittlungen gegen Krach: Verdacht auf Vorteilsannahme",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spd-politiker-ermittlungen-gegen-krach-verdacht-auf-vorteilsannahme/100253651.html",
+          "published": "2026-09-10T17:29:07+00:00",
+          "summary": "Am Mittwoch war bekanntgeworden, dass die Staatsanwaltschaft Hannover gegen den Berliner SPD-Spitzenkandidaten Steffen Krach ermittelt. Nun sagt sich die Behörde auch, worum es dabei geht."
         },
         {
-          "title": "Digitalbank: Radikalumbau statt starkes Wachstum: „Marketing-Deckel“ bremst N26 aus",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-radikalumbau-statt-wachstum-marketing-deckel-bremst-n26-aus/100250455.html",
-          "published": "2026-09-10T15:38:29+00:00",
-          "summary": "Das einst bekannteste deutsche Fintech ist heute auffällig leise. Das liegt auch an Auflagen der Finanzaufsicht. Insider geben Einblicke in den mühsamen Neuanfang der Berliner Neobank."
+          "title": "Konkurrenzdruck: Von der Mindeststeuer bis zur Energiestrategie: Der schleichende Standortverlust der Schweiz",
+          "link": "https://www.handelsblatt.com/politik/international/standort-die-wettbewerbsfaehigkeit-der-schweiz-ist-kein-selbstlaeufer-mehr/100253238.html",
+          "published": "2026-09-10T17:09:23+00:00",
+          "summary": "Das Schweizer Wirtschaftsmodell hat sich bewährt. Doch Studien zeigen: Die Erfolgsfaktoren verlieren an Stärke. Und selbst die neutrale Schweiz spürt geopolitische Konflikte stärker."
+        },
+        {
+          "title": "Künstliche Intelligenz: „Endspiel um KI“? Wie das Silicon Valley auf die jüngsten Doomsday-Warnungen reagiert",
+          "link": "https://www.handelsblatt.com/technik/it-internet/ki-wie-das-silicon-valley-auf-aktuelle-doomsday-warnungen-reagiert/100253390.html",
+          "published": "2026-09-10T17:09:04+00:00",
+          "summary": "Alarmisten gegen Skeptiker: Die Debatte über eine unverantwortliche KI-Entwicklung nimmt Fahrt auf. Forscher Nate Soares fordert im Handelsblatt ein sofortiges Eingreifen der Politik."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Am liebsten Lachs: Es kommt wieder mehr Fisch auf den Teller",
+          "link": "https://www.n-tv.de/wirtschaft/Es-kommt-wieder-mehr-Fisch-auf-den-Teller-id31291654.html",
+          "published": "2026-09-10T17:58:24+00:00",
+          "summary": "Fast 14 Kilogramm Fisch und Meeresfrüchte hat jeder Bundesbürger im vergangenen Jahr verzehrt. Damit stieg die Lust auf Produkte aus den Weiten der Ozeane und Meere wieder. Und der Verbraucher ist …"
+        },
+        {
+          "title": "Verlorene Generation? : Wie stark KI Berufseinsteiger unter Druck setzt",
+          "link": "https://www.n-tv.de/wirtschaft/Wie-stark-KI-Berufseinsteiger-unter-Druck-setzt-id31290827.html",
+          "published": "2026-09-10T17:08:30+00:00",
+          "summary": "Besonders für junge Arbeitnehmer kann generative KI zur Konkurrenz werden. Warum sich Berufsanfänger trotzdem nicht verrückt machen sollten, wie sie mithalten können und wie ältere Beschäftigte …"
+        },
+        {
+          "title": "\"Strategischer Partner\": Emirate verdoppeln milliardenschwere Investitionen in Deutschland",
+          "link": "https://www.n-tv.de/wirtschaft/Emirate-verdoppeln-milliardenschwere-Investitionen-in-Deutschland-id31293224.html",
+          "published": "2026-09-10T16:26:28+00:00",
+          "summary": "Berlin und Abu Dhabi wollen ihre wirtschaftliche Partnerschaft auf eine neue Stufe heben. Das zusätzliche Kapital soll in Schlüsselindustrien, moderne Technologien und Energiesicherheit fließen - und …"
+        },
+        {
           "title": "Notfall-Kontakte werden erfragt: Erste Unternehmen bereiten sich auf einen Gasmangel vor",
           "link": "https://www.n-tv.de/wirtschaft/Erste-Unternehmen-bereiten-sich-auf-einen-Gasmangel-vor-id31292561.html",
           "published": "2026-09-10T15:10:14+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/An-der-Stromboerse-schrillen-die-Alarmglocken-Gibt-es-2027-Rekordpreise-id31286331.html",
           "published": "2026-09-10T13:39:17+00:00",
           "summary": "An der Strombörse wird Elektrizität für 2027 so teuer gehandelt wie seit der Energiekrise nicht mehr. Der Iran-Krieg treibt die Gaspreise. Diese beeinflussen den Strompreis. Eigentlich. Experten …"
-        },
-        {
-          "title": "Ölpreisschock durch Iran-Krieg: Inflation zu hoch: EZB erhöht Leitzins auf 2,50 Prozent",
-          "link": "https://www.n-tv.de/wirtschaft/Inflation-zu-hoch-EZB-erhoeht-Leitzins-auf-2-50-Prozent-id31291885.html",
-          "published": "2026-09-10T12:20:41+00:00",
-          "summary": "Die hartnäckige Inflation zwingt die EZB zum Handeln. Steigende Energiepreise verschärfen den Druck auf Verbraucher und Unternehmen - und an den Märkten wächst bereits die Erwartung, dass dies nicht …"
-        },
-        {
-          "title": "Abfindungen und Sozialpläne: Bericht: Stellenabbau kostet VW zehn Milliarden Euro",
-          "link": "https://www.n-tv.de/wirtschaft/Bericht-Stellenabbau-kostet-VW-zehn-Milliarden-Euro-id31290775.html",
-          "published": "2026-09-10T10:06:37+00:00",
-          "summary": "Vor einer Woche stimmt der Aufsichtsrat dem Sparpaket des VW-Konzerns einstimmig zu. Der Vorstand plant den Abbau Zehntausender Stellen. Eine teure Angelegenheit: Der Konzern veranschlagt für …"
-        },
-        {
-          "title": "Kampfpreis bei Altersvorsorgedepot: Sparkassen-Tochter Deka fordert Neobroker heraus",
-          "link": "https://www.n-tv.de/wirtschaft/Sparkassen-Tochter-Deka-fordert-Neobroker-heraus-id31290411.html",
-          "published": "2026-09-10T09:16:09+00:00",
-          "summary": "Der Wettbewerb nimmt Fahrt auf: Die Sparkassen-Fondstochter Deka bietet ein Altersvorsorgedepot zum Preis von 0,1 Prozent an. Damit setzt sie eine Marke, an der sich Banken, Fondsgesellschaften und …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "EZB erhöht den Leitzins wie erwartet - Inflationsdruck steigt - das kommt jetzt auf Anleger zu",
-          "link": "https://www.finanzen.net/nachricht/zinsen/ezb-zinsentscheid-ezb-erhoeht-den-leitzins-wie-erwartet-inflationsdruck-steigt-das-kommt-jetzt-auf-anleger-zu-15927178",
-          "published": "2026-09-10T16:05:00+00:00",
-          "summary": "Leitzins steigt wie erwartet um 25 Basispunkte Einlagenzins erhöht sich damit auf 2,50 Prozent Folgen für Anleger und Kreditnehmer im Blick Die Europäische Zentralbank hat am heutigen Donnerstag ..."
+          "title": "NASDAQ-Handel NASDAQ 100 am Donnerstagnachmittag mit Abgaben",
+          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-handel-nasdaq-100-am-donnerstagnachmittag-mit-abgaben-15928541",
+          "published": "2026-09-10T18:02:32+00:00",
+          "summary": "Der NASDAQ 100 bewegt sich im NASDAQ-Handel um 20:00 Uhr um 0,88 Prozent schwächer bei 29.162,21 Punkten. In den Handel ging der NASDAQ 100 1,10 Prozent leichter bei 29.097,33 Punkten, nach ..."
         },
         {
-          "title": "DAX nach EZB-Leitzinsentscheid schwächer - Ölpreise schüren Inflationssorgen",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-dax-nach-ezb-leitzinsentscheid-schwaecher-oelpreise-schueren-inflationssorgen-15920974",
-          "published": "2026-09-10T16:04:00+00:00",
-          "summary": "Nach dem jüngsten Kursrutsch tat sich der DAX auch am Donnerstag schwer. Gestartet war das Börsenbarometer um marginale 0,08 Prozent niedriger bei 25.555,66 Zählern. Im Verlauf weitete das …"
+          "title": "Schwacher Handel: So steht der S&P 500 am Nachmittag",
+          "link": "https://www.finanzen.net/nachricht/aktien/schwacher-handel-so-steht-der-s-p-500-am-nachmittag-15928540",
+          "published": "2026-09-10T18:02:32+00:00",
+          "summary": "Um 20:00 Uhr notiert der S&P 500 im NYSE-Handel 0,53 Prozent tiefer bei 7.596,11 Punkten. Damit sind die im Index enthaltenen Werte 61,489 Bio. Euro wert. Zuvor ging der S&P 500 0,598 Prozent ..."
         },
         {
-          "title": "Aktien Europa Schluss: Verluste nach EZB-Entscheid - Inflationssorgen bleiben",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-europa-schluss-verluste-nach-ezb-entscheid-inflationssorgen-bleiben-15928334",
-          "published": "2026-09-10T16:02:39+00:00",
-          "summary": "PARIS/LONDON/ZÜRICH (dpa-AFX) - Inflations- und Zinssorgen haben am Donnerstag die europäischen Börsen weiterhin negativ beeinflusst. Der mit dem Iran-Krieg weiter anziehende Ölpreis ist mit einem …"
+          "title": "Schwacher Handel: So performt der NASDAQ Composite am Donnerstagnachmittag",
+          "link": "https://www.finanzen.net/nachricht/aktien/schwacher-handel-so-performt-der-nasdaq-composite-am-donnerstagnachmittag-15928539",
+          "published": "2026-09-10T18:02:32+00:00",
+          "summary": "Um 20:00 Uhr verliert der NASDAQ Composite im NASDAQ-Handel 0,52 Prozent auf 26.118,08 Punkte. Zum Handelsstart standen Verluste von 0,885 Prozent auf 26.021,05 Punkte an der Kurstafel, ..."
         },
         {
-          "title": "Anleger in New York halten sich zurück: Das macht der NASDAQ 100 am Mittag",
-          "link": "https://www.finanzen.net/nachricht/aktien/anleger-in-new-york-halten-sich-zurueck-das-macht-der-nasdaq-100-am-mittag-15928327",
-          "published": "2026-09-10T15:59:52+00:00",
-          "summary": "Um 17:56 Uhr tendiert der NASDAQ 100 im NASDAQ-Handel 0,83 Prozent tiefer bei 29.177,03 Punkten. In den Handel ging der NASDAQ 100 1,10 Prozent tiefer bei 29.097,33 Punkten, nach 29.421,55 ..."
+          "title": "Handel in New York: Dow Jones am Nachmittag leichter",
+          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-dow-jones-am-nachmittag-leichter-15928538",
+          "published": "2026-09-10T18:02:32+00:00",
+          "summary": "Um 20:00 Uhr verliert der Dow Jones im NYSE-Handel 0,63 Prozent auf 52.050,44 Punkte. Der Wert der enthaltenen Werte beträgt damit 24,711 Bio. Euro. Zuvor ging der Dow Jones 0,625 Prozent ..."
         },
         {
-          "title": "Angespannte Stimmung in New York: S&P 500 fällt am Mittag",
-          "link": "https://www.finanzen.net/nachricht/aktien/angespannte-stimmung-in-new-york-s-p-500-faellt-am-mittag-15928326",
-          "published": "2026-09-10T15:59:52+00:00",
-          "summary": "Am Donnerstag gibt der S&P 500 um 17:56 Uhr via NYSE um 0,51 Prozent auf 7.597,62 Punkte nach. Damit kommen die enthaltenen Werte auf eine Marktkapitalisierung von 61,489 Bio. Euro. Zum Handelsstart …"
+          "title": "Oracle-Aktie vor den Zahlen im Fokus: Bernstein fordert die Bären heraus",
+          "link": "https://www.finanzen.net/nachricht/aktien/verdopplung-voraus-oracle-aktie-vor-den-zahlen-im-fokus-bernstein-fordert-die-baeren-heraus-00-15922786",
+          "published": "2026-09-10T17:59:00+00:00",
+          "summary": "Bernstein sieht deutlich mehr Potenzial als der übrige Analystenkonsens Kapitalbedarf und Investitionstempo stehen im Mittelpunkt der Debatte Cloud-Infrastruktur wächst schneller als die Konkurrenz …"
         }
       ],
       "error": null
@@ -164,6 +164,12 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Der DAX dreht ins Minus",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+          "published": "2026-09-10T16:32:35+00:00",
+          "summary": "Der DAX hat weiter an Boden verloren. Denn die Zinserhöhung der EZB war zwar erwartet worden, könnte aber nicht die letzte gewesen sein. Besonders die hohen Ölpreise lasten weiter auf dem Markt."
+        },
+        {
           "title": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
           "published": "2026-09-10T13:44:42+00:00",
@@ -174,12 +180,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-daimler-truck-100.html",
           "published": "2026-09-10T12:35:48+00:00",
           "summary": "Daimler Truck investiert mehrere Hundert Millionen Euro in Wasserstoff-Technologie für Lkw. Allerdings fährt der DAX-Konzern zweigleisig - auch die E-Technologie bleibt eine Option. Insgesamt soll …"
-        },
-        {
-          "title": "Marktbericht: EZB-Zinsentscheid sorgt für Stillstand am Markt",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-          "published": "2026-09-10T09:13:06+00:00",
-          "summary": "Vor dem EZB-Zinsentscheid bleiben die Anleger zurückhaltend, der DAX tritt im frühen Handel auf der Stelle. Vor allem die hohen Ölpreise schüren die Sorgen vor anhaltend hohen Verbraucherpreisen."
         },
         {
           "title": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
@@ -203,7 +203,25 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Ukraine-Krieg: Putins Schattentankern auf der Spur",
+          "title": "1&1‑Prognose gekappt: United-Internet-Tochter 1&1 baut bei Versatel um",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/united-internet-11-baut-bei-versatel-um-11prognose-gekappt/100253699.html",
+          "published": "2026-09-10T17:58:10+00:00",
+          "summary": "Die Telekommunikationstochter 1&1 des United-Internet-Konzerns senkt ihre Ergebnisprognose. Grund ist ein Umbauprogramm bei der Geschäftskundentochter Versatel."
+        },
+        {
+          "title": "Staatsbesuch vom Golf: Emirate wollen 40 Milliarden Euro in Deutschland investieren",
+          "link": "https://www.wiwo.de/unternehmen/staatsbesuch-vom-golf-emirate-wollen-40-milliarden-euro-in-deutschland-investieren/100253688.html",
+          "published": "2026-09-10T16:59:01+00:00",
+          "summary": "Deutschland und die Vereinigten Arabischen Emirate sind seit langem enge Partner. Jetzt wollen sie ihre Beziehungen nochmals deutlich ausbauen."
+        },
+        {
+          "title": "Aktienmarkt: Ölpreisanstieg und Leitzinserhöhung: Darum schließt der Dax im Minus",
+          "link": "https://www.wiwo.de/finanzen/boerse/oelpreisanstieg-und-leitzinserhoehung-daum-schliesst-der-dax-im-minus/100253451.html",
+          "published": "2026-09-10T16:30:00+00:00",
+          "summary": "Der deutsche Aktienmarkt hat negativ auf die zweite Zinserhöhung in diesem Jahr sowie auf trübe Inflationsperspektiven durch die EZB reagiert. Ein Überblick nach Börsenschluss."
+        },
+        {
+          "title": "Ukraine-Krieg: Putins Schattenflotte auf der Spur",
           "link": "https://www.wiwo.de/unternehmen/wladimir-putins-schattenflotte-wie-russland-die-sanktionen-fuer-oel-umgeht/100253253.html",
           "published": "2026-09-10T15:13:44+00:00",
           "summary": "Russland verkauft trotz harter Sanktionen weiter massenhaft Öl. Über neue Routen und Drehkreuze fließen Milliarden in die Kriegskasse des Kreml. Diese Datenrecherche zeigt das Muster und das Ausmaß."
@@ -213,24 +231,6 @@
           "link": "https://www.wiwo.de/finanzen/boerse/ezb-hebt-leitzins-an-was-bedeutet-lagardes-no-brainer-fuer-die-maerkte/100253624.html",
           "published": "2026-09-10T15:13:22+00:00",
           "summary": "Die Europäische Zentralbank gastiert in Berlin und hebt den Leitzins auf 2,5 Prozent an. Wie es mit den Zinsen und EZB-Chefin Lagarde weitergeht, blieb derweil offen. Ein Ortsbesuch."
-        },
-        {
-          "title": "Studienwahl: Wie finde ich das richtige Studium?",
-          "link": "https://www.wiwo.de/erfolg/hochschule/studienwahl-wie-sie-in-3-schritten-das-richtige-studium-finden/100251775.html",
-          "published": "2026-09-10T14:55:00+00:00",
-          "summary": "Unser Leser hat gerade Abitur gemacht und möchte ein Fach aus dem Bereich Wirtschaft studieren. Doch die Auswahl ist riesig und die Wahl fällt ihm schwer."
-        },
-        {
-          "title": "Indexfonds: Mit diesen drei ETFs setzen Anleger auf Qualität",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/indexfonds-mit-diesen-drei-etfs-setzen-anleger-auf-qualitaet/100252638.html",
-          "published": "2026-09-10T14:00:00+00:00",
-          "summary": "Viele Börsenbewertungen beruhen auf hohen Zukunftserwartungen. Werden sie enttäuscht, kann es für Anleger ungemütlich werden. Diese Quality-ETFs schaffen Abhilfe."
-        },
-        {
-          "title": "Energiewende: Vattenfall baut Batteriespeicher auf früherem AKW‑Gelände Brunsbüttel",
-          "link": "https://www.wiwo.de/unternehmen/energie/energiewende-vattenfall-baut-batteriespeicher-auf-frueherem-akwgelaende-brunsbuettel/100253572.html",
-          "published": "2026-09-10T13:50:45+00:00",
-          "summary": "Der schwedische Energiekonzern Vattenfall will auf dem Gelände des früheren Atomkraftwerks Brunsbüttel in Schleswig-Holstein einen großen Batteriespeicher bauen."
         }
       ],
       "error": null
@@ -241,6 +241,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Europa bestellt 264 Satelliten für 2,4 Mrd. € bei einem acht Jahre alten Unternehmen",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/europa-bestellt-264-satelliten-fuer-2-4-mrd-euro-bei-einem-acht-jahre-alten-unternehmen/",
+          "published": "2026-09-10T17:24:57+00:00",
+          "summary": "Aerospacelab erhält 2,4 Mrd. € für 264 IRIS²-Satelliten. Eine neue Fabrik in Belgien soll 80 % der europäischen LEO-Flotte bauen."
+        },
+        {
+          "title": "Für Panzer und Schwertransporte: Bremerhaven baut Hafen für 1,35 Mrd. € um",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/fuer-panzer-und-schwertransporte-bremerhaven-baut-hafen-fuer-1-35-mrd-euro-um/",
+          "published": "2026-09-10T14:28:25+00:00",
+          "summary": "Bis zu 1,35 Mrd. € fließen in Bremerhavens Hafen. Neue Schwerlastbrücken, Kajen, Straßen und Gleise sollen ihn fit für NATO-Transporte machen."
+        },
         {
           "title": "Göttinger Forscher rechnen nach: Unsere Sonne könnte einen Superflare erzeugen",
           "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/goettinger-forscher-rechnen-nach-unsere-sonne-koennte-einen-superflare-erzeugen/",
@@ -254,22 +266,10 @@
           "summary": "Eine BAM-Studie zeigt, wie Lithium-Isotope die Batteriealterung sichtbar machen und Prognosen zur Lebensdauer verbessern können."
         },
         {
-          "title": "2,4 Mrd. € für 264 Satelliten: Aerospacelab baut 80 % der IRIS²-LEO-Flotte",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/24-mrd-fuer-264-satelliten-start-up-baut-den-grossteil-von-europas-iris2-netz/",
-          "published": "2026-09-10T12:30:00+00:00",
-          "summary": "Aerospacelab erhält 2,4 Mrd. € für 264 IRIS²-Satelliten. Eine neue Fabrik in Belgien soll 80 % der europäischen LEO-Flotte bauen."
-        },
-        {
           "title": "95 % der jungen Personaler achten auf Berufserfahrung – ältere setzen andere Schwerpunkte",
           "link": "https://www.ingenieur.de/karriere/bewerbung/junge-personaler-setzen-auf-berufserfahrung-aeltere-auf-qualifikationen/",
           "published": "2026-09-10T12:00:00+00:00",
           "summary": "Berufserfahrung, Fachwissen oder soziale Kompetenzen? Eine Umfrage zeigt, worauf Personaler verschiedener Altersgruppen bei Bewerbungen achten."
-        },
-        {
-          "title": "Sicherheitsingenieur: Aufgaben, Qualifikation und Gehalt",
-          "link": "https://www.ingenieur.de/karriere/berufsprofile/berufsprofil-sicherheitsingenieur/",
-          "published": "2026-09-10T11:36:00+00:00",
-          "summary": "Sicherheitsingenieure erkennen Gefahren am Arbeitsplatz, bewerten Risiken und entwickeln geeignete Schutzmaßnahmen. Alles zu Aufgaben, Studium, Voraussetzungen und Karriere."
         }
       ],
       "error": null
