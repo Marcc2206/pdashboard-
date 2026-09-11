@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T22:08:02+00:00",
+  "generatedAt": "2026-09-11T00:12:52+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Ermittlungen gegen Krach in zwei Fällen",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/ermittlungen-gegen-berliner-spd-spitzenkandidat-krach-wehrt-sich,krach-110.html",
-          "published": "2026-09-10T22:01:39+00:00",
-          "summary": "Die Staatsanwaltschaft Hannover hat sich erstmals konkret zu den Vorwürfen gegen den Berliner SPD-Spitzenkandidaten Krach geäußert. Es geht unter anderem um den Anfangsverdachts auf Vorteilsannahme …"
-        },
-        {
-          "title": "Champions League: Mit Musiala - Bayern knackt Bodös gelbe Wand",
-          "link": "https://www.sportschau.de/fussball/championsleague/mit-musiala-bayern-knackt-bodoes-gelbe-wand,spielbericht-fc-bayern-muenchen-fk-bodoe-glimt-100.html",
-          "published": "2026-09-10T21:23:31+00:00",
-          "summary": "Der FC Bayern München hat in der Champions League einen hochverdienten Sieg gegen Bodö/Glimt eingefahren, musste dabei aber lange gegen eine gelbe Wand anrennen."
-        },
-        {
-          "title": "1:4 Niederlage: Leipzig legt gegen Como einen Fehlstart hin",
-          "link": "https://www.sportschau.de/fussball/championsleague/fabregas-klatscht-applaus-bei-comos-historischem-erfolg,bericht-rb-como-100.html",
-          "published": "2026-09-10T20:56:49+00:00",
-          "summary": "Für RB Leipzig war es eine deutliche Niederlage, für Como ein gelungenes Debüt: Die Italiener haben bei ihrem ersten Spiel in der Champions League ein starkes Spiel gezeigt und Leipzig über weite …"
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80794.html",
+          "published": "2026-09-10T23:05:01+00:00",
+          "summary": ""
         },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12846.html",
-          "published": "2026-09-10T20:55:07+00:00",
+          "published": "2026-09-10T22:42:40+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1646970.html",
-          "published": "2026-09-10T20:02:07+00:00",
+          "title": "Champions League: Mit Musiala - Bayern knackt Bodös gelbe Wand",
+          "link": "https://www.sportschau.de/fussball/championsleague/mit-musiala-bayern-knackt-bodoes-gelbe-wand,spielbericht-fc-bayern-muenchen-fk-bodoe-glimt-100.html",
+          "published": "2026-09-10T22:18:49+00:00",
+          "summary": "Der FC Bayern München hat in der Champions League einen hochverdienten Sieg gegen Bodö/Glimt eingefahren, musste dabei aber lange gegen eine gelbe Wand anrennen."
+        },
+        {
+          "title": "Nach Wahlerfolg in Sachsen-Anhalt: Erneute Diskussion über AfD-Verbotsverfahren",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1646984.html",
+          "published": "2026-09-10T22:03:15+00:00",
           "summary": ""
+        },
+        {
+          "title": "Berliner SPD-Spitzenkandidat wehrt sich gegen Vorwürfe",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/ermittlungen-gegen-berliner-spd-spitzenkandidat-krach-wehrt-sich,krach-110.html",
+          "published": "2026-09-10T22:01:39+00:00",
+          "summary": "Die Staatsanwaltschaft Hannover hat sich Donnerstagabend erstmals konkret zu den Vorwürfen gegen den Berliner SPD-Spitzenkandidaten Steffen Krach geäußert. Der 47-Jährige wies erneut alle Vorwürfe …"
         }
       ],
       "error": null
@@ -125,6 +125,12 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "GNW-News: Coventry empfiehlt anlässlich des Monats der Lebensversicherungsaufklärung eine Überprüfung des Versicherungswerts",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-coventry-empfiehlt-anlaesslich-des-monats-der-lebensversicherungsaufklaerung-eine-ueberpruefung-des-versicherungswerts-15928797",
+          "published": "2026-09-10T23:22:39+00:00",
+          "summary": "^FORT WASHINGTON, Pennsylvania, Sept. 11, 2026 (GLOBE NEWSWIRE) -- Coventry,Marktführer und Begründer des Sekundärmarktes für Lebensversicherungen sowie Pionier der durch Lebensversicherungen …"
+        },
+        {
           "title": "EZB erhöht den Leitzins wie erwartet - Inflationsdruck steigt - das kommt jetzt auf Anleger zu",
           "link": "https://www.finanzen.net/nachricht/zinsen/ezb-zinsentscheid-ezb-erhoeht-den-leitzins-wie-erwartet-inflationsdruck-steigt-das-kommt-jetzt-auf-anleger-zu-15927178",
           "published": "2026-09-10T21:51:00+00:00",
@@ -147,12 +153,6 @@
           "link": "https://www.finanzen.net/nachricht/aktien/margendruck-adidas-aktie-unter-den-schwaechsten-dax-werten-das-steckt-hinter-dem-kursrueckgang-00-15927426",
           "published": "2026-09-10T21:48:00+00:00",
           "summary": "adidas-Aktie zählt am Donnerstag zu schwächsten DAX-Werten UBS hatte das Papier bereits Anfang August wegen der Marge abgestuft RBC Capital Markets bestätigt trotz der Schwäche seine Einstufung …"
-        },
-        {
-          "title": "Deutsche Telekom-Aktie & Co. im Blick: Goldman Sachs sieht europäische Telekomwerte auf dem Vormarsch",
-          "link": "https://www.finanzen.net/nachricht/aktien/analysteneinschaetzung-deutsche-telekom-aktie-co-im-blick-goldman-sachs-sieht-europaeische-telekomwerte-auf-dem-vormarsch-00-15927032",
-          "published": "2026-09-10T21:46:00+00:00",
-          "summary": "Goldman Sachs überarbeitet sein Bewertungsmodell für Telekomwerte T-Mobile US liefert laut Analysten den Löwenanteil des künftigen Cashflows Auch Aktien von BT, Telefonica und Vodafone rücken mit …"
         }
       ],
       "error": null
