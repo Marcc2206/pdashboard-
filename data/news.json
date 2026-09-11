@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:09:25+00:00",
+  "generatedAt": "2026-09-11T12:12:20+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "\"Bas betont Notwendigkeit der Reformen\", Christoph Mestmacher, ARD Berlin, zum Abschluss Haushaltswoche",
-          "link": "https://www.tagesschau.de/video/video-1647188.html",
-          "published": "2026-09-11T09:45:55+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80774.html",
+          "published": "2026-09-11T12:10:04+00:00",
           "summary": ""
         },
         {
-          "title": "Wie der 11. September die US-Außenpolitik verändert hat",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
-          "published": "2026-09-11T09:33:10+00:00",
-          "summary": "Der \"Krieg gegen den Terror\", die Logik von Präventivkriegen: Die Anschläge am 11. September 2001 hatten dramatische Folgen für die Außen- und Sicherheitspolitik der USA - die bis heute nachwirken. …"
+          "title": "Arbeitsministerin Bas verspricht Übergangslösung für \"Rente mit 63\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/bas-bundestag-reformen-bundesregierung-100.html",
+          "published": "2026-09-11T11:44:51+00:00",
+          "summary": "Arbeitsministerin Bas hat in der Haushaltsdebatte die geplante Rentenreform der Bundesregierung verteidigt - auch die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren. Betroffenen …"
         },
         {
-          "title": "\"Abneigung gegen USA ist recht groß\", Ramin Sina, ARD Kairo, Sulaimaniyya/Irak, zu 25 Jahren nach 9/11",
-          "link": "https://www.tagesschau.de/video/video-1647178.html",
-          "published": "2026-09-11T09:31:23+00:00",
-          "summary": ""
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-11T11:30:46+00:00",
+          "summary": "Am Samstag ist es im Süden sonnig. Sonst gibt es neben Sonnenschein dichtere Wolken, aber nur selten wird es nass. Im Nordwesten ziehen später dichte Wolken mit Regen auf. Die Höchstwerte liegen …"
         },
         {
-          "title": "Zeitenwende für Rot-Grün: Berlin und der Schock vom 11. September",
-          "link": "https://www.tagesschau.de/inland/11-september-reaktion-deutschland-100.html",
-          "published": "2026-09-11T09:21:08+00:00",
-          "summary": "Die deutsche Politik reagiert vor 25 Jahren bestürzt auf die Nachricht von den Anschlägen in New York. Aber sie fasst sich schnell, schnürt zwei Sicherheitspakete und beschließt die Beteiligung am …"
+          "title": "Huthi-Miliz erobert Insel in wichtiger Meerenge Bab al-Mandab",
+          "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-rebellen-100.html",
+          "published": "2026-09-11T11:24:09+00:00",
+          "summary": "Die mit Iran verbündete Huthi-Miliz ist am Roten Meer offenbar weiter vorgerückt. Laut jemenitischen Regierungsquellen eroberte sie auch eine strategisch wichtige Insel in der Meerenge Bab al-Mandab."
         },
         {
-          "title": "Marktbericht: DAX hält sich vor US-Inflationsdaten stabil",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
-          "published": "2026-09-11T09:20:29+00:00",
-          "summary": "Der DAX ist nach den jüngsten Kursverlusten auf einem vorsichtigen Erholungskurs. Vor wichtigen US-Inflationsdaten legt der deutsche Leitindex zwar leicht zu. Auf Wochensicht dürfte das Minus aber …"
+          "title": "Fünf Tote nach Busunglück in der Schweiz",
+          "link": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
+          "published": "2026-09-11T11:22:39+00:00",
+          "summary": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben fünf Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit 45 Menschen an Bord …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Nahost: Schrille Töne in Jerusalem und Ankara: Türkei und Israel streiten über Syriens Zukunft",
-          "link": "https://www.handelsblatt.com/politik/international/nahost-tuerkei-und-israel-auf-kollisionskurs-in-syrien/100252670.html",
-          "published": "2026-09-11T09:47:51+00:00",
-          "summary": "Die Türkei ist der wichtigste Verbündete der neuen Regierung in Syrien. Sie setzt auf ein starkes, stabiles Nachbarland. Israel hat andere Interessen."
+          "title": "Anschlagspläne: Bundesanwaltschaft klagt mutmaßliche Hamas-Mitglieder an",
+          "link": "https://www.handelsblatt.com/politik/deutschland/anschlagsplaene-bundesanwaltschaft-klagt-mutmassliche-hamas-mitglieder-an/100253899.html",
+          "published": "2026-09-11T12:01:15+00:00",
+          "summary": "Sieben Männer sollen Waffen für einen geplanten Mordanschlag auf Jüdinnen und Juden in Deutschland besorgt haben. Die Bundesanwaltschaft erhebt nun Anklage."
         },
         {
-          "title": "Luftverkehr: Mehr Flugrechte für Emirates: Viel Kritik aus der Wirtschaft",
-          "link": "https://www.handelsblatt.com/politik/deutschland/luftverkehr-mehr-flugrechte-fuer-emirates-viel-kritik-aus-der-wirtschaft/100253866.html",
-          "published": "2026-09-11T09:47:30+00:00",
-          "summary": "Am BER gibt es nur wenige internationale Langstreckenflüge. Das könnte sich mit der Entscheidung der Bundesregierung für Emirates ändern. Doch die Kritik daran ist laut."
+          "title": "Anleihen: Abverkauf am Bondmarkt – Renditen erreichen Niveau der Finanzkrise",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-abverkauf-am-bondmarkt-renditen-erreichen-niveau-der-finanzkrise/100253793.html",
+          "published": "2026-09-11T11:58:23+00:00",
+          "summary": "Weltweit gibt es am Anleihemarkt aktuell zu wenige Käufer. Dadurch fallen die Kurse, im Gegenzug steigen die Renditen. Investoren schauen jetzt vor allem auf einen Termin."
         },
         {
-          "title": "Naher Osten: Huthi-Miliz erobert gesamte Küste am Roten Meer – und kontrolliert Meerenge Bab al-Mandab",
-          "link": "https://www.handelsblatt.com/politik/international/naher-osten-huthi-miliz-erobert-gesamte-kueste-am-roten-meer/100253860.html",
-          "published": "2026-09-11T09:44:46+00:00",
-          "summary": "Die jemenitische Miliz kontrolliert Städte und Inseln an der Meerenge. Damit gerät eine wichtige Ausweichroute für die Öl-Staaten am Golf in Gefahr."
+          "title": "Aussteiger: „Nackt kündigen“: Junge Chinesen entfliehen dem hohen Druck im Job",
+          "link": "https://www.handelsblatt.com/politik/international/kuendigung-nackt-kuendigen-junge-chinesen-entfliehen-dem-druck-im-job-01/100240142.html",
+          "published": "2026-09-11T11:56:00+00:00",
+          "summary": "Chinas Aufstiegsversprechen bröckelt. Vor allem in der jungen Generation schwindet die Bereitschaft, sich aufzureiben. Das Handelsblatt hat junge Aussteiger besucht. Ihre Motive überraschen."
         },
         {
-          "title": "Nicolai Tangen: Chef des norwegischen Staatsfonds: „Härtere Zeiten werden kommen, das ist sicher\"",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/norwegischer-staatsfonds-was-macht-die-heutige-marktlage-so-riskant-herr-tangen-01/100238153.html",
-          "published": "2026-09-11T09:44:00+00:00",
-          "summary": "Der Chef des norwegischen Staatsfonds verwaltet rund 2,3 Billionen Dollar. Warum er mit härteren Zeiten rechnet – und was Deutschland sich bei Norwegen abschauen kann, verrät er im Interview."
+          "title": "Finanzpolitik: Russische Zentralbank hält an hohem Leitzins fest",
+          "link": "https://www.handelsblatt.com/politik/international/finanzpolitik-russische-zentralbank-haelt-an-hohem-leitzins-fest/100253906.html",
+          "published": "2026-09-11T11:49:26+00:00",
+          "summary": "Russlands Notenbank hält den Leitzins trotz Konjunkturflaute bei 14 Prozent. Grund ist der wachsende Preisdruck – auch infolge ukrainischer Angriffe auf Raffinerien."
         },
         {
-          "title": "Ransomware: „Der schlimmste Fehler ist ein CEO, der fragt: Wie zahle ich?“",
-          "link": "https://www.handelsblatt.com/technik/it-internet/ransomware-die-auswirkungen-betreffen-das-ganze-unternehmen/100229829.html",
-          "published": "2026-09-11T09:32:00+00:00",
-          "summary": "Cyber-Attacken legen ganze Produktionen lahm und treffen zunehmend auch den Mittelstand. Zwei Experten erklären, wie Firmen mit Erpressern verhandeln sollten – und sich besser schützen können."
+          "title": "Gehaltsreport 2026: 1,3 Millionen Gehaltsdaten im Vergleich: Gehören Sie zu den Besserverdienern in Deutschland?",
+          "link": "https://www.handelsblatt.com/karriere/geld-das-sind-deutschlands-bestbezahlte-berufe-2026-21/100179922.html",
+          "published": "2026-09-11T11:46:00+00:00",
+          "summary": "Das Gehalt gehört nach wie vor zu den Tabuthemen in Deutschland. Finden Sie heraus, wie gut Sie im Vergleich in einzelnen Berufen, Branchen und Bundesländern verdienen."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Flüge zwischen Berlin und Dubai?: Kritik an Ausweitung der Flugrechte für Emirates",
+          "link": "https://www.n-tv.de/wirtschaft/Kritik-an-Ausweitung-der-Flugrechte-fuer-Emirates-id31295874.html",
+          "published": "2026-09-11T12:00:19+00:00",
+          "summary": "Ein neuer Direktflug zwischen Dubai und dem Berliner Flughafen BER - das macht eine Ausweitung der Flugrechte für die Airline Emirates möglich. Beschlossen hat das die Bundesregierung, doch bei …"
+        },
+        {
+          "title": "\"Aber es wird besser\": Lagarde stimmt Euroraum auf weiter steigende Preise ein",
+          "link": "https://www.n-tv.de/wirtschaft/Lagarde-stimmt-Euroraum-auf-weiter-steigende-Preise-ein-id31295104.html",
+          "published": "2026-09-11T10:49:04+00:00",
+          "summary": "Der Iran-Krieg treibt die Inflation im Euroraum weiter an und belastet Verbraucher und Unternehmen. Die Notenbank reagiert mit höheren Zinsen. EZB-Chefin Lagarde stellt sich auf weitere schwierige …"
+        },
         {
           "title": "Trotz Konjunkturerholung: Firmenpleiten auf höchstem Stand seit 13 Jahren",
           "link": "https://www.n-tv.de/wirtschaft/Firmenpleiten-auf-hoechstem-Stand-seit-13-Jahren-id31294919.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Elon-Musk-droht-Dokumentarfilm-Macher-mit-Klage-id31294404.html",
           "published": "2026-09-11T06:22:25+00:00",
           "summary": "Ein vierstündiger Dokumentarfilm über Elon Musk bekommt in Venedig Beifall. Der Anwalt des Tesla-Chefs wirft Regisseur Alex Gibney Diffamierung vor und kündigt rechtliche Schritte an. Die …"
-        },
-        {
-          "title": "Trump steht vor Problem: US-Dieselpreis steigt auf historisches Hoch",
-          "link": "https://www.n-tv.de/wirtschaft/US-Dieselpreis-steigt-auf-historisches-Hoch-id31294407.html",
-          "published": "2026-09-11T05:56:43+00:00",
-          "summary": "US-Amerikaner müssen derzeit für Diesel so tief in Tasche greifen wie noch nie. Wenige Wochen vor den Parlamentswahlen muss sich ihr Präsident Donald Trump einer unbequemen Wahrheit stellen."
-        },
-        {
-          "title": "Überall auch mit Karte zahlen: Klingbeil will \"Cash only\" in Geschäften beenden",
-          "link": "https://www.n-tv.de/wirtschaft/Klingbeil-will-Cash-only-in-Geschaeften-beenden-id31294165.html",
-          "published": "2026-09-11T05:08:00+00:00",
-          "summary": "Wer kein Bargeld dabeihat, kann den Döner oder Kaffee bisher oft nicht bezahlen. Das soll sich ändern. Klingbeils Finanzministerium arbeitet an einem Gesetzesentwurf. Dieser soll noch in diesem Jahr …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Evercore setzt auf 6 KI-Hardware-Aktien: Apple, Seagate & Co. im Blick",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-hardware-aktien-evercore-setzt-auf-6-ki-hardware-aktien-apple-seagate-co-im-blick-00-15925650",
-          "published": "2026-09-11T10:00:00+00:00",
-          "summary": "Evercore-Analyst nennt sechs KI-Hardware-Aktien als Favoriten für 2026 Auswahl reicht von Festplatten und Steckverbindern bis zu Apple Analyst setzt bewusst neben die heiß gelaufenen …"
-        },
-        {
-          "title": "finanzen.net ZERO - Top-Konditionen bei unserem Broker sichern!",
-          "link": "https://www.finanzen.net/nachricht/aktien/finanzen-net-zero-top-konditionen-bei-unserem-broker-sichern-10701966",
-          "published": "2026-09-11T10:00:00+00:00",
-          "summary": "Mehr erfahren!"
-        },
-        {
-          "title": "APA ots news: UNIQA macht Sonderklasseversicherung flexibler",
-          "link": "https://www.finanzen.net/nachricht/aktien/apa-ots-news-uniqa-macht-sonderklasseversicherung-flexibler-15929610",
-          "published": "2026-09-11T09:55:39+00:00",
-          "summary": "Neue Tarifserie ermöglicht individuelle Anpassungen anunterschiedliche LebensphasenWien (APA-ots) - - Von Sonderklasse Start bis Premium: abgestufte Tarife fürunterschiedliche Bedürfnisse- Up- und …"
+          "title": "Diese Aktien empfehlen die Experten zum Kauf",
+          "link": "https://www.finanzen.net/nachricht/aktien/diese-aktien-empfehlen-die-experten-zum-kauf-15929826",
+          "published": "2026-09-11T12:06:57+00:00",
+          "summary": "In der vergangenen Handelswoche haben wieder zahlreiche Experten zum Einstieg in Aktien geraten. Diese Anteilsscheine wurden von den Analysten zum Kauf empfohlen."
         },
         {
           "title": "Salzgitter-Aktie in Rot: Neuer Finanzchef ernannt",
           "link": "https://www.finanzen.net/nachricht/aktien/geschaeftsfuehrung-salzgitter-aktie-in-rot-neuer-finanzchef-ernannt-15929606",
-          "published": "2026-09-11T09:53:38+00:00",
+          "published": "2026-09-11T12:06:38+00:00",
           "summary": "Birgit Potrafki werde ihren zum 31. Januar 2027 auslaufenden Vertrag nicht verlängern, teilte das Unternehmen am Freitag in Salzgitter mit. Ihr Nachfolger wird Christoph Martin, der seit Anfang …"
         },
         {
-          "title": "Vanguard-Welt-ETF für 0,07 Prozent: Reicht dieser eine ETF?",
-          "link": "https://www.finanzen.net/nachricht/aktien/vanguard-welt-etf-fuer-0-07-prozent-reicht-dieser-eine-etf-15929611",
-          "published": "2026-09-11T09:50:00+00:00",
-          "summary": ""
+          "title": "Anthropic im Fokus: KI-Sicherheit und Biowaffen-Risiken - Schummelvorwurf an chinesischen Rivalen",
+          "link": "https://www.finanzen.net/nachricht/aktien/forschung-anthropic-im-fokus-ki-sicherheit-und-biowaffen-risiken-schummelvorwurf-an-chinesischen-rivalen-15928991",
+          "published": "2026-09-11T12:06:00+00:00",
+          "summary": "Zugleich schränkte der Konkurrent des ChatGPT-Entwicklers OpenAI ein, dass die Ziele solcher Anfragen schwer zu ermitteln seien, da entsprechende Forschung sowohl medizinischen als auch militärischen …"
+        },
+        {
+          "title": "Favoriten der Finanzprofis: Diese Aktien empfehlen Experten zu kaufen",
+          "link": "https://www.finanzen.net/nachricht/aktien/kaufempfehlungen-kw-37-favoriten-der-finanzprofis-diese-aktien-empfehlen-experten-zu-kaufen-15927215",
+          "published": "2026-09-11T12:05:40+00:00",
+          "summary": "In eigener Sache - Tipp: Handeln Sie Ihre Aktien jetzt für 0,00 € bei finanzen.net zero!"
+        },
+        {
+          "title": "PUMA-Aktie verliert: CCO Matthias Bäumer geht",
+          "link": "https://www.finanzen.net/nachricht/aktien/berater-puma-aktie-verliert-cco-matthias-baeumer-geht-15929191",
+          "published": "2026-09-11T12:04:41+00:00",
+          "summary": "Der bisherige Vertriebsvorstand Matthias Bäumer gibt seine Position zum Monatsende auf, wie das Unternehmen mitteilte. Seine Aufgaben, darunter auch die Steuerung der Tochtergesellschaften des …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Finanzmärkte: Am Anleihemarkt braut sich der perfekte Sturm zusammen",
-          "link": "https://www.wiwo.de/finanzen/boerse/finanzmaerkte-am-anleihemarkt-braut-sich-der-perfekte-sturm-zusammen/100253823.html",
-          "published": "2026-09-11T09:59:03+00:00",
-          "summary": "Die Renditen wichtiger Anleihen erreichen Niveaus wie zuletzt zu Finanzkrisenzeiten. Dahinter stehen mehrere Faktoren, die sich gegenseitig noch verstärken. Eine brisante Lage."
+          "title": "Ferienimmobilien: Die Top-Adressen für Ihr Ferienhaus an den bayrischen Seen",
+          "link": "https://www.wiwo.de/finanzen/immobilien/ferienimmobilien-an-bayrischen-seen-die-top-adressen-fuer-ihr-ferienhaus-an-den-bayrischen-seen/100253524.html",
+          "published": "2026-09-11T12:03:12+00:00",
+          "summary": "Immobilien rund um die bayrischen Seen werden gerade wieder günstiger. Wer auch vermieten möchte, sollte aber auf andere Lagen setzen."
         },
         {
-          "title": "KI-Regulierung: KI-Forscher schlagen Alarm – Systeme könnten Menschheit auslöschen",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/ki-regulierung-ki-forscher-schlagen-alarm-systeme-koennten-menschheit-ausloeschen/100253854.html",
-          "published": "2026-09-11T09:38:49+00:00",
-          "summary": "Experten warnen vor tödlichen Gefahren durch Künstliche Intelligenz. In den USA hat das eine Debatte über strengere Regeln ausgelöst."
+          "title": "Ferienimmobilien: Die Top-Adressen für Ihr Ferienhaus an der Nordsee",
+          "link": "https://www.wiwo.de/finanzen/immobilien/ferienimmobilien-auf-sylt-die-top-adressen-fuer-ihr-ferienhaus-an-der-nordsee/100253805.html",
+          "published": "2026-09-11T12:01:09+00:00",
+          "summary": "Am meisten kosten Ferienhäuser in Deutschland weiterhin auf Sylt. Doch selbst hier können sich jetzt Chancen für Käufer ergeben."
         },
         {
-          "title": "Folgen des Iran-Kriegs: IEA senkt erneut Prognose für Ölnachfrage",
-          "link": "https://www.wiwo.de/politik/ausland/folgen-des-iran-kriegs-iea-senkt-erneut-prognose-fuer-oelnachfrage/100253853.html",
-          "published": "2026-09-11T09:38:13+00:00",
-          "summary": "Die Internationale Energieagentur hat ihre Prognose für die Ölnachfrage nach unten geschraubt. Es wäre der deutlichste Rückgang seit 2020."
+          "title": "Riedls Dax-Radar: Warum der Dax trotz Zinsschock immer noch die Chance auf höhere Kurse hat",
+          "link": "https://www.wiwo.de/finanzen/boerse/dax-aktuell-warum-der-dax-trotz-zinsschock-immer-noch-die-chance-auf-hoehere-kurse-hat/100253847.html",
+          "published": "2026-09-11T12:00:37+00:00",
+          "summary": "Teures Öl, schwache Bonds und Zinserhöhungen drücken auf die Marktstimmung. Die Risiken sind erheblich, doch automatisch abkippen müssen die Börsen deshalb nicht. Eine Kolumne."
         },
         {
-          "title": "Erfolg für Verbündete des Iran: Huthi erobern Insel in wichtiger Meerenge Bab al-Mandab",
-          "link": "https://www.wiwo.de/politik/ausland/erfolg-fuer-verbuendete-des-iran-huthi-erobern-insel-in-wichtiger-meerenge-bab-al-mandab/100253851.html",
-          "published": "2026-09-11T09:27:56+00:00",
-          "summary": "Die mit dem Iran verbündeten Rebellen erhalten Zugriff auf eine der wichtigsten Schifffahrtsrouten. Der Druck auf den Welthandel dürfte damit steigen."
+          "title": "Ferienimmobilien: Die Top-Adressen für Ihr Ferienhaus an der Ostsee",
+          "link": "https://www.wiwo.de/finanzen/immobilien/ferienimmobilien-an-der-ostsee-die-top-adressen-fuer-ihr-ferienhaus-an-der-ostsee/100253809.html",
+          "published": "2026-09-11T11:59:56+00:00",
+          "summary": "Urlaub an der Ostsee wird immer beliebter. Das hält die Immobilienpreise stabil. Wer günstiger kaufen will, sucht auf Rügen oder Usedom."
         },
         {
-          "title": "VW-Werk: „Die Rüstungsindustrie ist nicht der Heilsbringer der Autobranche“",
-          "link": "https://www.wiwo.de/erfolg/beruf/job-in-der-ruestung-statt-bei-autoherstellern-welche-fachkraefte-die-branche-sucht/100247915.html",
-          "published": "2026-09-11T09:25:00+00:00",
-          "summary": "Die Autoindustrie baut weiter massiv Stellen ab, die Rüstungsindustrie baut auf. Doch einfach zu wechseln, ist leichter gesagt als getan, wie sich am VW-Werk in Osnabrück zeigen wird."
+          "title": "Ferienimmobilien: Wie der Traum vom Ferienhaus wahr wird",
+          "link": "https://www.wiwo.de/finanzen/ferienhaus-kaufen-in-deutschland-wann-es-sich-wirklich-lohnt/100253463.html",
+          "published": "2026-09-11T11:58:14+00:00",
+          "summary": "Der Klimawandel macht den Urlaub in Deutschland attraktiver. Worauf Interessenten achten müssen, um sich zwischen Sylt und den bayrischen Alpen ein Feriendomizil zuzulegen."
         }
       ],
       "error": null
@@ -241,6 +241,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Selbstüberschätzung im Job: Warum wir unsere Fähigkeiten oft falsch einschätzen",
+          "link": "https://www.ingenieur.de/karriere/arbeitsleben/selbstuberschatzung-im-job-warum-wir-unsere-fahigkeiten-oft-falsch-einschatzen/",
+          "published": "2026-09-11T12:00:00+00:00",
+          "summary": "Selbstüberschätzung im Job kann Karriere, Projekte und Teams gefährden. Warum Selbstbild und Realität auseinandergehen – und was dagegen hilft."
+        },
+        {
+          "title": "Sauberer Bruch: Ultraschall entfernt Stützstrukturen beim 3D-Druck",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/3d-druck/sauberer-bruch-ultraschall-entfernt-stuetzstrukturen-beim-3d-druck/",
+          "published": "2026-09-11T11:00:00+00:00",
+          "summary": "Stützstrukturen sind beim Metall-3D-Druck oft unverzichtbar, ihre Entfernung kostet jedoch Zeit und erfordert Handarbeit. Ein neues Fraunhofer-Verfahren soll diesen Schritt automatisieren: Gezielt …"
+        },
         {
           "title": "Kleines Dorf organisiert die Energiewende ganz groß",
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/knapp-1000-einwohner-windpark-und-waermenetz-wie-eine-kleine-gemeinde-ihre-energiewende-organisiert/",
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/europa-bestellt-264-satelliten-fuer-2-4-mrd-euro-bei-einem-acht-jahre-alten-unternehmen/",
           "published": "2026-09-10T17:24:57+00:00",
           "summary": "Aerospacelab erhält 2,4 Mrd. € für 264 IRIS²-Satelliten. Eine neue Fabrik in Belgien soll 80 % der europäischen LEO-Flotte bauen."
-        },
-        {
-          "title": "Für Panzer und Schwertransporte: Bremerhaven baut Hafen für 1,35 Mrd. € um",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/fuer-panzer-und-schwertransporte-bremerhaven-baut-hafen-fuer-1-35-mrd-euro-um/",
-          "published": "2026-09-10T14:28:25+00:00",
-          "summary": "Bis zu 1,35 Mrd. € fließen in Bremerhavens Hafen. Neue Schwerlastbrücken, Kajen, Straßen und Gleise sollen ihn fit für NATO-Transporte machen."
-        },
-        {
-          "title": "Göttinger Forscher rechnen nach: Unsere Sonne könnte einen Superflare erzeugen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/goettinger-forscher-rechnen-nach-unsere-sonne-koennte-einen-superflare-erzeugen/",
-          "published": "2026-09-10T14:00:00+00:00",
-          "summary": "Neue Studie: Unsere Sonne könnte grundsätzlich Superflares erzeugen. Ein riesiger Sonnenfleck von 1947 liefert dafür wichtige Hinweise."
         }
       ],
       "error": null
