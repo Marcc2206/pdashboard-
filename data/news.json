@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T16:09:53+00:00",
+  "generatedAt": "2026-09-11T18:09:50+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Rüstungsgüter für \"Abschiebeoffensive\": Empörung über Siegmund-Aussage",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/afd-siegmund-reaktionen-100.html",
+          "published": "2026-09-11T16:58:32+00:00",
+          "summary": "Nach seinem Wahlsieg in Sachsen-Anhalt hat AfD-Spitzenkandidat Siegmund davon gesprochen, Rüstungsgüter im Zusammenhang mit Abschiebungen zu nutzen. Seine Aussagen lösten bundesweit entsetzte …"
+        },
+        {
+          "title": "Nach dem 11. September 2001 verschiebt sich der Fokus der NATO",
+          "link": "https://www.tagesschau.de/ausland/amerika/11-september-nato-100.html",
+          "published": "2026-09-11T16:50:32+00:00",
+          "summary": "Nach der Terrorattacke auf die USA erklärte die NATO zum bisher einzigen Mal den Bündnisfall. In der Folge setzte sie neue Prioritäten und weitete ihren Aktionsradius aus. Heute sieht die Entwicklung …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647380.html",
+          "published": "2026-09-11T16:37:20+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Marktbericht: Der DAX stabilisiert sich",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+          "published": "2026-09-11T16:32:18+00:00",
+          "summary": "Dank Kursgewinnen der Wall Street und sinkender Ölpreise hat der DAX zum Wochenschluss wieder etwas Boden gut gemacht. Doch das Umfeld mit Inflations- und Zinssorgen bleibt schwierig."
+        },
+        {
           "title": "Huthi-Miliz greift nach wichtiger Meerenge Bab al-Mandab",
           "link": "https://www.tagesschau.de/ausland/huthi-eroberung-inseln-100.html",
           "published": "2026-09-11T16:01:53+00:00",
           "summary": "Die von Iran unterstützte Huthi-Miliz hat ihren Einfluss auf die Meerenge Bab al-Mandab erhöht: Die jemenitische Küste des Roten Meers und strategisch wichtige Inseln sind unter ihrer Kontrolle. Das …"
-        },
-        {
-          "title": "tagesschau in Einfacher Sprache",
-          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1414.html",
-          "published": "2026-09-11T15:44:43+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80782.html",
-          "published": "2026-09-11T15:26:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Lage im Jemen: Eskalation am Roten Meer",
-          "link": "https://www.tagesschau.de/video/video-1647318.html",
-          "published": "2026-09-11T15:23:55+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Krieg im Irak nach 09/11",
-          "link": "https://www.tagesschau.de/video/video-1647316.html",
-          "published": "2026-09-11T15:19:50+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Investition: VAE investieren laut Söder zehn Milliarden Euro in Bayern",
-          "link": "https://www.handelsblatt.com/politik/deutschland/investition-vae-investieren-laut-soeder-zehn-milliarden-euro-in-bayern/100253968.html",
-          "published": "2026-09-11T15:42:14+00:00",
-          "summary": "40 Milliarden wollen die Vereinigten Arabischen Emirate in den nächsten Jahren in Deutschland investieren. Nun ist klar: Ein Viertel der Investitionen soll nach Bayern fließen."
+          "title": "Dow Jones, S&P 500, Nasdaq: Sinkende Ölpreise stützen US-Börsen",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-sinkende-oelpreise-stuetzen-us-boersen/100253945.html",
+          "published": "2026-09-11T17:40:44+00:00",
+          "summary": "Erneut rutschen die wichtigsten US-Börsenindizes ab. An der Wall Street befeuert der Anstieg der Erzeugerpreise im August Spekulationen auf eine baldige Zinserhöhung durch die Fed."
         },
         {
-          "title": "Handelsblatt Live: US-Börsenexperte Koch: Inflationsdaten machen Zinserhöhung unausweichlich",
-          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-inflationsdaten-machen-zinserhoehung-unausweichlich/100253970.html",
-          "published": "2026-09-11T15:39:36+00:00",
-          "summary": "Die US-Teuerungsrate im August lag mit 3,4 Prozent im Rahmen der Erwartungen. Eine Zinserhöhung ist so fast sicher. Markus Koch mahnt an, dass Donald Trump zum Wohle der US-Wirtschaft besser nicht in …"
+          "title": "Interview: „Friedrich Merz lernt gerade auf die schmerzhafte Tour drei Dinge“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/oekonom-friedrich-merz-lernt-gerade-auf-die-schmerzhafte-tour-drei-dinge/100252523.html",
+          "published": "2026-09-11T17:39:00+00:00",
+          "summary": "Der Ökonom Nils Goldschmidt findet: Es braucht weniger klare Kante und mehr Kompromisse im Land. Ein Gespräch über Friedrich Merz’ Glaubwürdigkeitsproblem und den Nutzen von Hinterzimmern."
         },
         {
-          "title": "Today: Nervöse Anleihemärkte | Deutschlands gefährliche LNG-Abhängigkeit",
-          "link": "https://www.handelsblatt.com/audio/today/today-nervoese-anleihemaerkte-deutschlands-gefaehrliche-lng-abhaengigkeit/100253969.html",
-          "published": "2026-09-11T15:37:13+00:00",
-          "summary": "Christian Kopf von Union Investment spricht im Podcast über die Markteingriffe des US‑Finanzministers. Und: Experten warnen vor mangelnder Diversifizierung bei Gasimporten."
+          "title": "Scharfe Kritik an SPD: CDU-Mann von Stetten: Bas als Ministerin nicht mehr tragbar",
+          "link": "https://www.handelsblatt.com/politik/deutschland/scharfe-kritik-an-spd-cdu-mann-von-stetten-bas-als-ministerin-nicht-mehr-tragbar/100253980.html",
+          "published": "2026-09-11T17:00:32+00:00",
+          "summary": "Der CDU-Abgeordnete von Stetten attackiert Bundesarbeitsministern Bas: Er hält die SPD-Chefin für nicht mehr tragbar als Ministerin. Auch Vizekanzler Klingbeil bekommt etwas ab."
         },
         {
-          "title": "Mit Klausel aus Tarifvertrag: Arbeitnehmer drängen VW-Vorstand zu Gesprächen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/mit-klausel-aus-tarifvertrag-arbeitnehmer-draengen-vw-vorstand-zu-gespraechen/100253912.html",
-          "published": "2026-09-11T15:19:40+00:00",
-          "summary": "Volkswagen steht vor einem tiefgreifenden Umbau - und viele Fragen sind noch offen. Das löst Unsicherheit und Zukunftsangst bei Beschäftigten aus. Nun wollen die Arbeitnehmer Klarheit schaffen."
+          "title": "Vor Berlin-Wahl: Berliner SPD-Spitzenkandidat weist neue Vorwürfe zurück",
+          "link": "https://www.handelsblatt.com/politik/deutschland/vor-berlin-wahl-berliner-spd-spitzenkandidat-weist-neue-vorwuerfe-zurueck/100253737.html",
+          "published": "2026-09-11T16:33:58+00:00",
+          "summary": "Kurz vor der Berlin-Wahl kann sich SPD-Spitzenmann Steffen Krach nicht auf den Wahlkampf konzentrieren. Vielmehr stehen neue Vorwürfe im Raum, die er vehement bestreitet. Was sagen die Umfragen?"
         },
         {
-          "title": "Autobauer: Noch mehr Spardruck für VW: Das ist das Worst-Case-Szenario des Konzerns",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-noch-mehr-spardruck-fuer-vw-worst-case-szenario-des-konzerns/100253571.html",
-          "published": "2026-09-11T14:57:23+00:00",
-          "summary": "Was, wenn VW im Jahr nur noch acht Millionen Autos verkauft? Der Konzern müsste dann seinen gerade erst beschlossenen Sparkurs drastisch verschärfen, sagen Insider."
+          "title": "25. Jahrestag: 25 Jahre nach 9/11 – USA gedenken der Terroropfer",
+          "link": "https://www.handelsblatt.com/politik/international/25-jahrestag-25-jahre-nach-9-11-usa-gedenken-der-terroropfer/100253739.html",
+          "published": "2026-09-11T16:10:52+00:00",
+          "summary": "Zum 25. Jahrestag erinnern zahlreiche Zeremonien an die fast 3.000 Opfer der Terroranschläge vom 11. September – und an Menschen, die bis heute an den Folgen der Anschläge sterben."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Maßnahmen gegen Hacker-Angriffe: EU-Kommission: KI-Anbieter müssen \"ihren Laden in Ordnung bringen\"",
+          "link": "https://www.n-tv.de/wirtschaft/EU-Kommission-KI-Anbieter-muessen-ihren-Laden-in-Ordnung-bringen-id31296864.html",
+          "published": "2026-09-11T16:56:37+00:00",
+          "summary": "KI-Modelle dringen zuletzt bei Tests ungefragt in fremde Systeme ein. Die EU-Kommission droht den Technologie-Konzernen mit Geldstrafen, sollten sie ihre KI-Modelle nicht \"unter Kontrolle\" haben. Die …"
+        },
+        {
+          "title": "Lamborghini? Ducati? Traton?: Welche Geschäftsbereiche VW jetzt zu Geld machen sollte",
+          "link": "https://www.n-tv.de/wirtschaft/Welche-Geschaeftsbereiche-VW-jetzt-zu-Geld-machen-sollte-id31295700.html",
+          "published": "2026-09-11T16:34:54+00:00",
+          "summary": "Volkswagen will Beteiligungen und Geschäfte verkaufen, um den Konzern schlanker zu machen. Auto-Experte Jürgen Pieper hält einige Verkäufe für überfällig, warnt aber vor falschem Eifer. Wo darf VW …"
+        },
         {
           "title": "\"Der Vorstand muss liefern\": VW-Arbeitnehmervertreter drängen Konzernspitze zu Gesprächen",
           "link": "https://www.n-tv.de/wirtschaft/VW-Arbeitnehmervertreter-draengen-Konzernspitze-zu-Gespraechen-id31296373.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Ohne-den-Staat-waere-Diesel-in-Deutschland-billiger-als-in-allen-Nachbarlaendern-id31295406.html",
           "published": "2026-09-11T13:36:52+00:00",
           "summary": "Die Preise an den Tankstellen in Deutschland sind im europäischen Vergleich hoch. Das ist allerdings hauptsächlich auf Steuern und Kosten für Regulierung zurückzuführen. Einer Studie zufolge gehören …"
-        },
-        {
-          "title": "Streitfall vor Gericht: Wiesn-Wirte müssen wohl nicht mit EU-Vergaberecht rechnen",
-          "link": "https://www.n-tv.de/wirtschaft/Wiesn-Wirte-muessen-wohl-nicht-mit-EU-Vergaberecht-rechnen-id31296100.html",
-          "published": "2026-09-11T13:35:22+00:00",
-          "summary": "Muss das Oktoberfest seine Bierzelte künftig EU-weit vergeben? Ein Wirt fordert genau das. Doch das Bayerische Oberste Landesgericht signalisiert Ablehnung. Die endgültige Entscheidung soll im …"
-        },
-        {
-          "title": "Flüge zwischen Berlin und Dubai?: Kritik an Ausweitung der Flugrechte für Emirates",
-          "link": "https://www.n-tv.de/wirtschaft/Kritik-an-Ausweitung-der-Flugrechte-fuer-Emirates-id31295874.html",
-          "published": "2026-09-11T12:00:19+00:00",
-          "summary": "Ein neuer Direktflug zwischen Dubai und dem Berliner Flughafen BER - das macht eine Ausweitung der Flugrechte für die Airline Emirates möglich. Beschlossen hat das die Bundesregierung, doch bei …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Aktien Europa Schluss: Erholung dank Ölpreisrückgang - US-Inflation stört nicht",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-europa-schluss-erholung-dank-oelpreisrueckgang-us-inflation-stoert-nicht-15930464",
-          "published": "2026-09-11T16:03:39+00:00",
-          "summary": "PARIS/LONDON/ZÜRICH (dpa-AFX) - Die europäischen Aktienmärkte haben sich am Freitag etwas von ihren Vortagesverlusten erholt. Ermöglicht wurde dies durch den Ölpreis, der nach seiner jüngsten Rally …"
+          "title": "Aktien von NVIDIA, Micron, Marvell & Co. gefragt: Erholung der US-Chipwerte trotz steigender Ölpreise und Zinssorgen?",
+          "link": "https://www.finanzen.net/nachricht/aktien/us-chipwerte-aktien-von-nvidia-micron-marvell-co-gefragt-erholung-der-us-chipwerte-trotz-steigender-oelpreise-und-zinssorgen-00-15929633",
+          "published": "2026-09-11T18:03:00+00:00",
+          "summary": "US-Chipwerte mit Erholung nach Ausverkauf vom Vortag? Rekordumsatz bei TSMC und starke Zahlen von Oracle stützen die KI-Nachfrage Nächster Test sind Microns Quartalszahlen Ende September Die ..."
         },
         {
-          "title": "DAX in KW 37: Diese Aktien gehörten zu den Gewinnern und Verlierern",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-37-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15921305",
-          "published": "2026-09-11T16:03:18+00:00",
-          "summary": "So schnitten DAX-Werte in der Kalenderwoche 37 ab"
+          "title": "Aufschläge in New York: NASDAQ 100 verbucht Gewinne",
+          "link": "https://www.finanzen.net/nachricht/aktien/aufschlaege-in-new-york-nasdaq-100-verbucht-gewinne-15930620",
+          "published": "2026-09-11T18:02:31+00:00",
+          "summary": "Am Freitag steht der NASDAQ 100 um 20:00 Uhr via NASDAQ 1,13 Prozent im Plus bei 29.432,34 Punkten. Zuvor ging der NASDAQ 100 0,783 Prozent fester bei 29.331,48 Punkten in den Handel, nach ..."
         },
         {
-          "title": "Deutsche Anleihen: Kursgewinne - Gesunkene Ölpreise stützen etwas",
-          "link": "https://www.finanzen.net/nachricht/anleihen/deutsche-anleihen-kursgewinne-gesunkene-oelpreise-stuetzen-etwas-15930461",
-          "published": "2026-09-11T16:02:39+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Die Kurse deutscher Bundesanleihen haben angesichts des Rückgangs der Ölpreise am Freitag etwas zugelegt. Die Kurse unterbrachen so ihren jüngsten Abwärtstrend. Der …"
+          "title": "Optimismus in New York: S&P 500 nachmittags mit Zuschlägen",
+          "link": "https://www.finanzen.net/nachricht/aktien/optimismus-in-new-york-s-p-500-nachmittags-mit-zuschlaegen-15930619",
+          "published": "2026-09-11T18:02:31+00:00",
+          "summary": "Am Freitag tendiert der S&P 500 um 20:00 Uhr via NYSE 1,04 Prozent stärker bei 7.670,72 Punkten. An der Börse sind die im S&P 500 enthaltenen Werte damit 61,233 Bio. Euro wert. Zuvor ging der ..."
         },
         {
-          "title": "Evercore setzt auf 6 KI-Hardware-Aktien: Apple, Seagate & Co. im Blick",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-hardware-aktien-evercore-setzt-auf-6-ki-hardware-aktien-apple-seagate-co-im-blick-00-15925650",
-          "published": "2026-09-11T16:01:00+00:00",
-          "summary": "Evercore-Analyst nennt sechs KI-Hardware-Aktien als Favoriten für 2026 Auswahl reicht von Festplatten und Steckverbindern bis zu Apple Analyst setzt bewusst neben die heiß gelaufenen …"
+          "title": "Freitagshandel in New York: NASDAQ Composite notiert am Nachmittag im Plus",
+          "link": "https://www.finanzen.net/nachricht/aktien/freitagshandel-in-new-york-nasdaq-composite-notiert-am-nachmittag-im-plus-15930618",
+          "published": "2026-09-11T18:02:31+00:00",
+          "summary": "Um 20:00 Uhr geht es im NASDAQ Composite im NASDAQ-Handel um 1,16 Prozent nach oben auf 26.384,59 Punkte. Zum Handelsstart stand ein Zuschlag von 0,796 Prozent auf 26.289,41 Punkte ..."
         },
         {
-          "title": "Optimismus in New York: NASDAQ 100 mittags auf grünem Terrain",
-          "link": "https://www.finanzen.net/nachricht/aktien/optimismus-in-new-york-nasdaq-100-mittags-auf-gruenem-terrain-15930457",
-          "published": "2026-09-11T15:59:45+00:00",
-          "summary": "Der NASDAQ 100 bewegt sich im NASDAQ-Handel um 17:57 Uhr um 1,13 Prozent fester bei 29.431,51 Punkten. Zum Beginn des Freitagshandels stand ein Zuschlag von 0,783 Prozent auf 29.331,48 Punkte ..."
+          "title": "Börse New York: Dow Jones bewegt sich nachmittags im Plus",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-dow-jones-bewegt-sich-nachmittags-im-plus-15930617",
+          "published": "2026-09-11T18:02:31+00:00",
+          "summary": "Um 20:00 Uhr tendiert der Dow Jones im NYSE-Handel 1,12 Prozent stärker bei 52.645,24 Punkten. Der Wert der enthaltenen Werte beträgt damit 24,535 Bio. Euro. In den Handel ging der Dow Jones ..."
         }
       ],
       "error": null
@@ -164,16 +164,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Der DAX stabilisiert sich",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+          "published": "2026-09-11T16:32:18+00:00",
+          "summary": "Dank Kursgewinnen der Wall Street und sinkender Ölpreise hat der DAX zum Wochenschluss wieder etwas Boden gut gemacht. Doch das Umfeld mit Inflations- und Zinssorgen bleibt schwierig."
+        },
+        {
           "title": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-firmenpleiten-100.html",
           "published": "2026-09-11T12:21:33+00:00",
           "summary": "Im ersten Halbjahr ist die Zahl der Firmenpleiten in Deutschland auf den höchsten Stand seit 2013 gestiegen. Gleichzeitig gibt es aber auch besonders viele Neugründungen von Start-up-Unternehmen."
-        },
-        {
-          "title": "Marktbericht: DAX hält sich vor US-Inflationsdaten stabil",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
-          "published": "2026-09-11T09:20:29+00:00",
-          "summary": "Der DAX ist nach den jüngsten Kursverlusten auf einem vorsichtigen Erholungskurs. Vor wichtigen US-Inflationsdaten legt der deutsche Leitindex zwar leicht zu. Auf Wochensicht dürfte das Minus aber …"
         },
         {
           "title": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
@@ -203,10 +203,10 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Staatsbesuch: VAE investieren zehn Milliarden Euro in Bayern",
-          "link": "https://www.wiwo.de/politik/deutschland/staatsbesuch-vae-investieren-zehn-milliarden-euro-in-bayern/100253971.html",
-          "published": "2026-09-11T15:46:23+00:00",
-          "summary": "Die Emirate investieren 40 Milliarden in den Bund – und nochmal zehn Milliarden in den Freistaat. Welche Branchen davon profitieren."
+          "title": "Staatsbesuch: Deutschland und die VAE bauen Kooperationen im Energiesektor aus",
+          "link": "https://www.wiwo.de/politik/deutschland/staatsbesuch-deutschland-und-die-vae-bauen-kooperationen-im-energiesektor-aus/100253971.html",
+          "published": "2026-09-11T17:43:00+00:00",
+          "summary": "Die Emirate investieren 40 Milliarden in den Bund – und davon zehn Milliarden in den Freistaat. Welche Branchen davon profitieren."
         },
         {
           "title": "Start-up der Woche: Die Sensoren dieses Start-ups benötigen keinen Strom",
