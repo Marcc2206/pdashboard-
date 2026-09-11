@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T08:09:48+00:00",
+  "generatedAt": "2026-09-11T10:09:25+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Rente, Gesundheit, Pflege: Welche Reformpläne jetzt geändert werden könnten",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-debatte-100.html",
-          "published": "2026-09-11T08:05:35+00:00",
-          "summary": "Rente, Gesundheit, Pflege: Die Kritik an den Reformplänen der Bundesregierung ist nach der Wahl in Sachsen-Anhalt noch lauter geworden. Wo könnte jetzt nachjustiert werden? Ein Überblick."
-        },
-        {
-          "title": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
-          "link": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
-          "published": "2026-09-11T07:52:12+00:00",
-          "summary": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647114.html",
-          "published": "2026-09-11T07:34:11+00:00",
+          "title": "\"Bas betont Notwendigkeit der Reformen\", Christoph Mestmacher, ARD Berlin, zum Abschluss Haushaltswoche",
+          "link": "https://www.tagesschau.de/video/video-1647188.html",
+          "published": "2026-09-11T09:45:55+00:00",
           "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-11T07:06:46+00:00",
-          "summary": "Am Freitag ist es im Westen und Nordwesten überwiegend stark bewölkt und gelegentlich fällt Regen. Sonst gibt es mal sonnige Abschnitte, mal dichtere Wolken und es bleibt meist trocken. In …"
+          "title": "Wie der 11. September die US-Außenpolitik verändert hat",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
+          "published": "2026-09-11T09:33:10+00:00",
+          "summary": "Der \"Krieg gegen den Terror\", die Logik von Präventivkriegen: Die Anschläge am 11. September 2001 hatten dramatische Folgen für die Außen- und Sicherheitspolitik der USA - die bis heute nachwirken. …"
         },
         {
-          "title": "tagesschau vom 11. September 2001",
-          "link": "https://www.tagesschau.de/video/video-1647096.html",
-          "published": "2026-09-11T07:02:13+00:00",
+          "title": "\"Abneigung gegen USA ist recht groß\", Ramin Sina, ARD Kairo, Sulaimaniyya/Irak, zu 25 Jahren nach 9/11",
+          "link": "https://www.tagesschau.de/video/video-1647178.html",
+          "published": "2026-09-11T09:31:23+00:00",
           "summary": ""
+        },
+        {
+          "title": "Zeitenwende für Rot-Grün: Berlin und der Schock vom 11. September",
+          "link": "https://www.tagesschau.de/inland/11-september-reaktion-deutschland-100.html",
+          "published": "2026-09-11T09:21:08+00:00",
+          "summary": "Die deutsche Politik reagiert vor 25 Jahren bestürzt auf die Nachricht von den Anschlägen in New York. Aber sie fasst sich schnell, schnürt zwei Sicherheitspakete und beschließt die Beteiligung am …"
+        },
+        {
+          "title": "Marktbericht: DAX hält sich vor US-Inflationsdaten stabil",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+          "published": "2026-09-11T09:20:29+00:00",
+          "summary": "Der DAX ist nach den jüngsten Kursverlusten auf einem vorsichtigen Erholungskurs. Vor wichtigen US-Inflationsdaten legt der deutsche Leitindex zwar leicht zu. Auf Wochensicht dürfte das Minus aber …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Künstliche Intelligenz: Wird KI „alle Menschen töten“? Das sagt das Silicon Valley zur Doomsday-Debatte",
-          "link": "https://www.handelsblatt.com/technik/it-internet/ki-wie-das-silicon-valley-auf-aktuelle-doomsday-warnungen-reagiert-01/100253390.html",
-          "published": "2026-09-11T07:56:00+00:00",
-          "summary": "Alarmisten gegen Skeptiker: Die Debatte über eine unverantwortliche KI-Entwicklung nimmt Fahrt auf. Forscher Nate Soares fordert im Handelsblatt ein sofortiges Eingreifen der Politik."
+          "title": "Nahost: Schrille Töne in Jerusalem und Ankara: Türkei und Israel streiten über Syriens Zukunft",
+          "link": "https://www.handelsblatt.com/politik/international/nahost-tuerkei-und-israel-auf-kollisionskurs-in-syrien/100252670.html",
+          "published": "2026-09-11T09:47:51+00:00",
+          "summary": "Die Türkei ist der wichtigste Verbündete der neuen Regierung in Syrien. Sie setzt auf ein starkes, stabiles Nachbarland. Israel hat andere Interessen."
         },
         {
-          "title": "Wahlen: Frankreichs Notenbankchef warnt vor Wahlkampf mit Schuldenschnitt-Versprechen",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/frankreich-frankreichs-notenbankchef-warnt-vor-melenchons-schuldenplaenen/100253819.html",
-          "published": "2026-09-11T07:51:37+00:00",
-          "summary": "Der Linksaußen-Präsidentschaftskandidat will 18 Prozent der Staatsschulden streichen lassen. Verantworten müsste das Notenbankchef Emmanuel Moulin – doch der will das auf keinen Fall."
+          "title": "Luftverkehr: Mehr Flugrechte für Emirates: Viel Kritik aus der Wirtschaft",
+          "link": "https://www.handelsblatt.com/politik/deutschland/luftverkehr-mehr-flugrechte-fuer-emirates-viel-kritik-aus-der-wirtschaft/100253866.html",
+          "published": "2026-09-11T09:47:30+00:00",
+          "summary": "Am BER gibt es nur wenige internationale Langstreckenflüge. Das könnte sich mit der Entscheidung der Bundesregierung für Emirates ändern. Doch die Kritik daran ist laut."
         },
         {
-          "title": "Insolvenzen: So viele Firmenpleiten wie seit 2013 nicht mehr",
-          "link": "https://www.handelsblatt.com/politik/deutschland/insolvenzen-so-viele-firmenpleiten-wie-seit-2013-nicht-mehr/100253806.html",
-          "published": "2026-09-11T07:50:00+00:00",
-          "summary": "Im ersten Halbjahr 2026 haben über 12.800 Unternehmen Insolvenz angemeldet. Das ist der höchste Stand seit 13 Jahren. Auch immer mehr Verbraucher rutschen in die Pleite."
+          "title": "Naher Osten: Huthi-Miliz erobert gesamte Küste am Roten Meer – und kontrolliert Meerenge Bab al-Mandab",
+          "link": "https://www.handelsblatt.com/politik/international/naher-osten-huthi-miliz-erobert-gesamte-kueste-am-roten-meer/100253860.html",
+          "published": "2026-09-11T09:44:46+00:00",
+          "summary": "Die jemenitische Miliz kontrolliert Städte und Inseln an der Meerenge. Damit gerät eine wichtige Ausweichroute für die Öl-Staaten am Golf in Gefahr."
         },
         {
-          "title": "Arbeitszeit: Arbeitszeitbetrug: So können sich Unternehmen wehren",
-          "link": "https://www.handelsblatt.com/karriere/arbeitszeitbetrug-was-unternehmen-tun-koennen-und-warum-sie-teils-schuld-sind-01/100141010.html",
-          "published": "2026-09-11T07:50:00+00:00",
-          "summary": "Wäsche waschen, einkaufen, Netflix schauen: Immer wieder erledigen Beschäftigte Privates in ihrer Arbeitszeit. Wo der Betrug beginnt und was Unternehmen dagegen machen können."
+          "title": "Nicolai Tangen: Chef des norwegischen Staatsfonds: „Härtere Zeiten werden kommen, das ist sicher\"",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/norwegischer-staatsfonds-was-macht-die-heutige-marktlage-so-riskant-herr-tangen-01/100238153.html",
+          "published": "2026-09-11T09:44:00+00:00",
+          "summary": "Der Chef des norwegischen Staatsfonds verwaltet rund 2,3 Billionen Dollar. Warum er mit härteren Zeiten rechnet – und was Deutschland sich bei Norwegen abschauen kann, verrät er im Interview."
         },
         {
-          "title": "Folgen des Ukraine-Kriegs: Bund gab 50 Milliarden Euro für Folgen der Energiekrise aus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/folgen-des-ukraine-kriegs-bund-gab-50-milliarden-euro-fuer-folgen-der-energiekrise-aus/100253821.html",
-          "published": "2026-09-11T07:41:20+00:00",
-          "summary": "Mit mehr als 50 Milliarden Euro hat der Bund Verbraucher und Märkte in der Energiekrise nach Beginn des Ukraine-Kriegs unterstützt. Wo die größten Summen eingesetzt wurden."
+          "title": "Ransomware: „Der schlimmste Fehler ist ein CEO, der fragt: Wie zahle ich?“",
+          "link": "https://www.handelsblatt.com/technik/it-internet/ransomware-die-auswirkungen-betreffen-das-ganze-unternehmen/100229829.html",
+          "published": "2026-09-11T09:32:00+00:00",
+          "summary": "Cyber-Attacken legen ganze Produktionen lahm und treffen zunehmend auch den Mittelstand. Zwei Experten erklären, wie Firmen mit Erpressern verhandeln sollten – und sich besser schützen können."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Trotz Konjunkturerholung: Firmenpleiten auf höchstem Stand seit 13 Jahren",
+          "link": "https://www.n-tv.de/wirtschaft/Firmenpleiten-auf-hoechstem-Stand-seit-13-Jahren-id31294919.html",
+          "published": "2026-09-11T08:57:43+00:00",
+          "summary": "Die deutsche Wirtschaft wächst wieder, doch die Zahl der Firmeninsolvenzen verzeichnet einen bitteren Rekord. Besonders hart trifft es Verkehr, Gastgewerbe und Bau. Zugleich kommen gute Nachrichten …"
+        },
+        {
+          "title": "Maßnahmen gegen Preisexplosion: Bund kostete Putins Gas-Erpressung mindestens 50 Milliarden Euro",
+          "link": "https://www.n-tv.de/wirtschaft/Bund-kostete-Putins-Gas-Erpressung-mindestens-50-Milliarden-Euro-id31294556.html",
+          "published": "2026-09-11T08:10:23+00:00",
+          "summary": "Strompreisbremse, Energiepreispauschale, Gaspreisbremse: Die Bundesregierung greift im Herbst 2022 auf allerhand Maßnahmen zurück, um die Folgen des russischen Angriffskriegs auf die Ukraine …"
+        },
         {
           "title": "Produktionsfirma äußert sich : Elon Musk droht Dokumentarfilm-Macher mit Klage",
           "link": "https://www.n-tv.de/wirtschaft/Elon-Musk-droht-Dokumentarfilm-Macher-mit-Klage-id31294404.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Klingbeil-will-Cash-only-in-Geschaeften-beenden-id31294165.html",
           "published": "2026-09-11T05:08:00+00:00",
           "summary": "Wer kein Bargeld dabeihat, kann den Döner oder Kaffee bisher oft nicht bezahlen. Das soll sich ändern. Klingbeils Finanzministerium arbeitet an einem Gesetzesentwurf. Dieser soll noch in diesem Jahr …"
-        },
-        {
-          "title": "Kreml nutzt KI für Cyberangriffe: Anthropic wirft chinesischen Rivalen Technologie-Klau vor",
-          "link": "https://www.n-tv.de/wirtschaft/Anthropic-wirft-chinesischen-Rivalen-Technologie-Klau-vor-id31294150.html",
-          "published": "2026-09-11T05:06:41+00:00",
-          "summary": "Künstliche Intelligenz wird laut dem Entwickler Anthropic zunehmend zur Steuerung ganzer Cyberangriffe eingesetzt. Das Unternehmen berichtet von einer mutmaßlich russischen Spionagekampagne und …"
-        },
-        {
-          "title": "Versuchter KI-Missbrauch: Anthropic registriert Aktivitäten rund um mögliche Biowaffen-Forschung",
-          "link": "https://www.n-tv.de/wirtschaft/Anthropic-registriert-Aktivitaeten-rund-um-moegliche-Biowaffen-Forschung-id31293846.html",
-          "published": "2026-09-11T02:24:31+00:00",
-          "summary": "Anthropic gewährt Einblick in mutmaßlich versuchten Missbrauch seiner KI Claude. Wissenschaftler aus blockierten Regionen hätten versucht, heimlich auf KI-Modelle zuzugreifen - für …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "SPI-Titel Rieter-Aktie: So viel Verlust hätte ein Rieter-Investment von vor einem Jahr eingebracht",
-          "link": "https://www.finanzen.net/nachricht/aktien/spi-titel-rieter-aktie-so-viel-verlust-haette-ein-rieter-investment-von-vor-einem-jahr-eingebracht-15929377",
-          "published": "2026-09-11T08:00:45+00:00",
-          "summary": "Heute vor 1 Jahr wurden Trades Rieter -Anteilen via Börse SWX ausgeführt. Zum Handelsende stand die Aktie an diesem Tag bei 6,19 CHF. Bei einer 1.000-CHF-Investition vor 1 Jahr, hätten Anleger nun …"
+          "title": "Evercore setzt auf 6 KI-Hardware-Aktien: Apple, Seagate & Co. im Blick",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-hardware-aktien-evercore-setzt-auf-6-ki-hardware-aktien-apple-seagate-co-im-blick-00-15925650",
+          "published": "2026-09-11T10:00:00+00:00",
+          "summary": "Evercore-Analyst nennt sechs KI-Hardware-Aktien als Favoriten für 2026 Auswahl reicht von Festplatten und Steckverbindern bis zu Apple Analyst setzt bewusst neben die heiß gelaufenen …"
         },
         {
-          "title": "SPI-Papier Mikron-Aktie: So viel Gewinn hätte ein Investment in Mikron von vor 3 Jahren eingefahren",
-          "link": "https://www.finanzen.net/nachricht/aktien/spi-papier-mikron-aktie-so-viel-gewinn-haette-ein-investment-in-mikron-von-vor-3-jahren-eingefahren-15929376",
-          "published": "2026-09-11T08:00:45+00:00",
-          "summary": "Am 11.09.2023 wurde die Mikron -Aktie an der Börse SWX gehandelt. Diesen Tag beendeten die Anteile bei 12,65 CHF. Hätte ein Anleger 1.000 CHF zu diesem Zeitpunkt in die Mikron-Aktie investiert …"
+          "title": "finanzen.net ZERO - Top-Konditionen bei unserem Broker sichern!",
+          "link": "https://www.finanzen.net/nachricht/aktien/finanzen-net-zero-top-konditionen-bei-unserem-broker-sichern-10701966",
+          "published": "2026-09-11T10:00:00+00:00",
+          "summary": "Mehr erfahren!"
         },
         {
-          "title": "MDAX-Titel PUMA SE-Aktie: So viel Verlust hätte eine Investition in PUMA SE von vor 3 Jahren bedeutet",
-          "link": "https://www.finanzen.net/nachricht/aktien/mdax-titel-puma-se-aktie-so-viel-verlust-haette-eine-investition-in-puma-se-von-vor-3-jahren-bedeutet-15929375",
-          "published": "2026-09-11T08:00:45+00:00",
-          "summary": "Heute vor 3 Jahren wurden Trades dem PUMA SE -Papier via Börse XETRA ausgeführt. Der Schlusskurs der PUMA SE-Aktie betrug an diesem Tag 62,00 EUR. Wenn ein Anleger damals 10.000 EUR in das PUMA …"
+          "title": "APA ots news: UNIQA macht Sonderklasseversicherung flexibler",
+          "link": "https://www.finanzen.net/nachricht/aktien/apa-ots-news-uniqa-macht-sonderklasseversicherung-flexibler-15929610",
+          "published": "2026-09-11T09:55:39+00:00",
+          "summary": "Neue Tarifserie ermöglicht individuelle Anpassungen anunterschiedliche LebensphasenWien (APA-ots) - - Von Sonderklasse Start bis Premium: abgestufte Tarife fürunterschiedliche Bedürfnisse- Up- und …"
         },
         {
-          "title": "SMI-Titel ABB (Asea Brown Boveri)-Aktie: So viel hätten Anleger an einem ABB (Asea Brown Boveri)-Investment von vor einem Jahr verdient",
-          "link": "https://www.finanzen.net/nachricht/aktien/smi-titel-abb-asea-brown-boveri-aktie-so-viel-haetten-anleger-an-einem-abb-asea-brown-boveri-investment-von-vor-einem-jahr-verdient-15929374",
-          "published": "2026-09-11T08:00:45+00:00",
-          "summary": "Heute vor 1 Jahr wurden Trades dem ABB (Asea Brown Boveri) -Papier an der Börse SWX ausgeführt. Der Schlusskurs der Anteile betrug an diesem Tag 56,72 CHF. Bei einer 1.000-CHF-Investition vor 1 Jahr …"
+          "title": "Salzgitter-Aktie in Rot: Neuer Finanzchef ernannt",
+          "link": "https://www.finanzen.net/nachricht/aktien/geschaeftsfuehrung-salzgitter-aktie-in-rot-neuer-finanzchef-ernannt-15929606",
+          "published": "2026-09-11T09:53:38+00:00",
+          "summary": "Birgit Potrafki werde ihren zum 31. Januar 2027 auslaufenden Vertrag nicht verlängern, teilte das Unternehmen am Freitag in Salzgitter mit. Ihr Nachfolger wird Christoph Martin, der seit Anfang …"
         },
         {
-          "title": "SPI-Papier Kudelski-Aktie: So viel Verlust hätte ein Investment in Kudelski von vor 10 Jahren eingebracht",
-          "link": "https://www.finanzen.net/nachricht/aktien/spi-papier-kudelski-aktie-so-viel-verlust-haette-ein-investment-in-kudelski-von-vor-10-jahren-eingebracht-15929373",
-          "published": "2026-09-11T08:00:45+00:00",
-          "summary": "Vor 10 Jahren wurden Kudelski -Anteile wochenend-bedingt nicht an der Börse SWX gehandelt. Am Handelstag zuvor stand die Aktie letztlich bei 18,60 CHF. Wenn ein Anleger damals 10.000 CHF in die …"
+          "title": "Vanguard-Welt-ETF für 0,07 Prozent: Reicht dieser eine ETF?",
+          "link": "https://www.finanzen.net/nachricht/aktien/vanguard-welt-etf-fuer-0-07-prozent-reicht-dieser-eine-etf-15929611",
+          "published": "2026-09-11T09:50:00+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: EZB-Zinserhöhung vergrault die Anleger",
+          "title": "Marktbericht: DAX hält sich vor US-Inflationsdaten stabil",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
-          "published": "2026-09-11T05:37:44+00:00",
-          "summary": "Die Ölpreise steigen, Leitzinsen, Anleiherenditen und Inflation ebenfalls. Die Zeiten für die Anleger am Aktienmarkt sind derzeit schwierig - der DAX dürfte weiter zurückfallen und sein Wochenminus …"
+          "published": "2026-09-11T09:20:29+00:00",
+          "summary": "Der DAX ist nach den jüngsten Kursverlusten auf einem vorsichtigen Erholungskurs. Vor wichtigen US-Inflationsdaten legt der deutsche Leitindex zwar leicht zu. Auf Wochensicht dürfte das Minus aber …"
         },
         {
           "title": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Versicherungsvergleich: Die beste private Krankenversicherung",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/pkv-vergleich-das-sind-die-besten-privaten-krankenversicherungen/100252855.html",
-          "published": "2026-09-11T08:05:00+00:00",
-          "summary": "Die Gesundheitsreform lässt vor allem Gutverdiener über einen Wechsel zur privaten Krankenversicherung nachdenken. Welche Tarife eine gute Wahl sind."
+          "title": "Finanzmärkte: Am Anleihemarkt braut sich der perfekte Sturm zusammen",
+          "link": "https://www.wiwo.de/finanzen/boerse/finanzmaerkte-am-anleihemarkt-braut-sich-der-perfekte-sturm-zusammen/100253823.html",
+          "published": "2026-09-11T09:59:03+00:00",
+          "summary": "Die Renditen wichtiger Anleihen erreichen Niveaus wie zuletzt zu Finanzkrisenzeiten. Dahinter stehen mehrere Faktoren, die sich gegenseitig noch verstärken. Eine brisante Lage."
         },
         {
-          "title": "Weltwirtschaft: „Die Geopolitik hat eine neue Phase der Globalisierung eingeläutet“",
-          "link": "https://www.wiwo.de/politik/konjunktur/weltwirtschaft-im-wandel-wie-ki-und-neue-partner-europa-retten/100244257.html",
-          "published": "2026-09-11T08:04:34+00:00",
-          "summary": "Europa muss sich im Zeitalter geopolitischer Konflikte neu aufstellen. Ökonom Alexander Börsch über das künftige Gesicht der Globalisierung – und Wachstumstreiber."
+          "title": "KI-Regulierung: KI-Forscher schlagen Alarm – Systeme könnten Menschheit auslöschen",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/ki-regulierung-ki-forscher-schlagen-alarm-systeme-koennten-menschheit-ausloeschen/100253854.html",
+          "published": "2026-09-11T09:38:49+00:00",
+          "summary": "Experten warnen vor tödlichen Gefahren durch Künstliche Intelligenz. In den USA hat das eine Debatte über strengere Regeln ausgelöst."
         },
         {
-          "title": "Drogenpolitik: Was hinter dem Importboom von Cannabis steckt",
-          "link": "https://www.wiwo.de/politik/deutschland/cannabis-aus-der-online-apotheke-was-hinter-dem-boom-steckt/100253662.html",
-          "published": "2026-09-11T08:03:55+00:00",
-          "summary": "Spezialisierte Internet-Apotheken bieten die Droge in großem Stil an – offenbar nicht immer für medizinische Zwecke. Die Bundesregierung ist alarmiert und dürfte reagieren."
+          "title": "Folgen des Iran-Kriegs: IEA senkt erneut Prognose für Ölnachfrage",
+          "link": "https://www.wiwo.de/politik/ausland/folgen-des-iran-kriegs-iea-senkt-erneut-prognose-fuer-oelnachfrage/100253853.html",
+          "published": "2026-09-11T09:38:13+00:00",
+          "summary": "Die Internationale Energieagentur hat ihre Prognose für die Ölnachfrage nach unten geschraubt. Es wäre der deutlichste Rückgang seit 2020."
         },
         {
-          "title": "Digitalbank: Wie der Trade-Republic-Konkurrent Revolut zur ersten Weltbank werden will",
-          "link": "https://www.wiwo.de/unternehmen/banken/revolut-wie-der-trade-republic-konkurrent-zur-ersten-weltbank-werden-will/100253656.html",
-          "published": "2026-09-11T08:00:37+00:00",
-          "summary": "Revolut ist Europas erfolgreichste Finanz­gründung und könnte bald 100 Millionen ­Kunden zählen. Das Problem: Die Nutzer nehmen ihre Bank noch nicht wirklich ernst."
+          "title": "Erfolg für Verbündete des Iran: Huthi erobern Insel in wichtiger Meerenge Bab al-Mandab",
+          "link": "https://www.wiwo.de/politik/ausland/erfolg-fuer-verbuendete-des-iran-huthi-erobern-insel-in-wichtiger-meerenge-bab-al-mandab/100253851.html",
+          "published": "2026-09-11T09:27:56+00:00",
+          "summary": "Die mit dem Iran verbündeten Rebellen erhalten Zugriff auf eine der wichtigsten Schifffahrtsrouten. Der Druck auf den Welthandel dürfte damit steigen."
         },
         {
-          "title": "US-Wirtschaft: So absurd ist Donald Trumps neues Scheck-Versprechen",
-          "link": "https://www.wiwo.de/politik/ausland/donald-trump-waehler-sollen-mit-geld-gelockt-werden/100253773.html",
-          "published": "2026-09-11T07:57:16+00:00",
-          "summary": "5000 Dollar für jeden! So will Donald Trump vor den Midterms Wählerinnen und Wähler locken. Doch es gibt mehrere Haken."
+          "title": "VW-Werk: „Die Rüstungsindustrie ist nicht der Heilsbringer der Autobranche“",
+          "link": "https://www.wiwo.de/erfolg/beruf/job-in-der-ruestung-statt-bei-autoherstellern-welche-fachkraefte-die-branche-sucht/100247915.html",
+          "published": "2026-09-11T09:25:00+00:00",
+          "summary": "Die Autoindustrie baut weiter massiv Stellen ab, die Rüstungsindustrie baut auf. Doch einfach zu wechseln, ist leichter gesagt als getan, wie sich am VW-Werk in Osnabrück zeigen wird."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Kleines Dorf organisiert die Energiewende ganz groß",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/knapp-1000-einwohner-windpark-und-waermenetz-wie-eine-kleine-gemeinde-ihre-energiewende-organisiert/",
+          "published": "2026-09-11T08:18:46+00:00",
+          "summary": "Windkraft bringt Geld in die Gemeindekasse, Biogas soll Gebäude heizen: Wie Mühlen Eichsen mit knapp 1000 Einwohnern seine Energiewende plant."
+        },
         {
           "title": "Wieviel Beton steckt im Haus? Tool schätzt es mit OpenStreetMap",
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/wie-viel-beton-steckt-im-haus-dieses-tool-schaetzt-es-mit-openstreetmap/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/goettinger-forscher-rechnen-nach-unsere-sonne-koennte-einen-superflare-erzeugen/",
           "published": "2026-09-10T14:00:00+00:00",
           "summary": "Neue Studie: Unsere Sonne könnte grundsätzlich Superflares erzeugen. Ein riesiger Sonnenfleck von 1947 liefert dafür wichtige Hinweise."
-        },
-        {
-          "title": "Was Lithium-Isotope über Batteriealterung verraten",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/alterung-in-lithium-ionen-batterieren-verstehen/",
-          "published": "2026-09-10T13:00:00+00:00",
-          "summary": "Eine BAM-Studie zeigt, wie Lithium-Isotope die Batteriealterung sichtbar machen und Prognosen zur Lebensdauer verbessern können."
         }
       ],
       "error": null
