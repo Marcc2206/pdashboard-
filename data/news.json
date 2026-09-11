@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T02:09:40+00:00",
+  "generatedAt": "2026-09-11T04:09:43+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "9/11 vor 25 Jahren - Ein Tag, an den sich jeder erinnert",
+          "link": "https://www.tagesschau.de/video/video-1647050.html",
+          "published": "2026-09-11T03:46:14+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647042.html",
+          "published": "2026-09-11T03:05:29+00:00",
+          "summary": ""
+        },
         {
           "title": "Wie der 11. September die deutsche Gesellschaft prägte",
           "link": "https://www.tagesschau.de/inland/gesellschaft/elfter-september-anschlaege-muslime-100.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
           "published": "2026-09-11T00:57:21+00:00",
           "summary": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647028.html",
-          "published": "2026-09-11T00:41:58+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80794.html",
-          "published": "2026-09-10T23:05:01+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Generationengerechtigkeit: Wie Deutschland wieder ein großartiges Land wird",
-          "link": "https://www.handelsblatt.com/politik/deutschland/generationengerechtigkeit-wie-deutschland-wieder-ein-grossartiges-land-wird/100253191.html",
-          "published": "2026-09-11T02:00:00+00:00",
-          "summary": "Seit 27 Jahren lebe ich in Deutschland. Seitdem hat sich vieles verändert, eines aber nicht: der Umgang mit Migration. Die politische Mitte muss liefern – und sie kann das noch. Ein Essay."
+          "title": "Morning Briefing Podcast: Regierung: Die Macht des Kanzlers erodiert",
+          "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-regierung-die-macht-des-kanzlers-erodiert/100253762.html",
+          "published": "2026-09-11T04:04:23+00:00",
+          "summary": "In der Union wird der Frust über Friedrich Merz immer deutlicher. Zur Machtprobe mit den eigenen Leuten könnte nun ausgerechnet der Bundeshaushalt werden. Scheitern inklusive."
         },
         {
-          "title": "AfD: „Für Unternehmen in Sachsen-Anhalt kann es richtig bitter werden“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/afd-fuer-unternehmen-in-sachsen-anhalt-kann-es-richtig-bitter-werden/100253157.html",
-          "published": "2026-09-11T02:00:00+00:00",
-          "summary": "Viele Unternehmenschefs halten sich in der öffentlichen Debatte zurück, obwohl sie die Demokratie unter Druck sehen. Politikwissenschaftler Knut Bergmann sieht dafür mehrere Gründe."
+          "title": "Wahlkampf-Event in Texas: Trump-Show endet: Fünf Lehren aus dem Republikaner-Parteitag",
+          "link": "https://www.handelsblatt.com/politik/international/wahlkampf-event-in-texas-trump-show-endet-fuenf-lehren-aus-dem-republikaner-parteitag/100253759.html",
+          "published": "2026-09-11T03:52:56+00:00",
+          "summary": "Attacken gegen Demokraten, ungewöhnliche Wahlversprechen: Die Republikaner wollen das Momentum wieder auf ihre Seite holen. Beim Parteitag in Dallas zeigt sich, wo sie vor den Midterms stehen."
         },
         {
-          "title": "Das neue Geben: Vermögen nutzen und nicht verstecken",
-          "link": "https://www.handelsblatt.com/meinung/kolumnen/steueroasen-vermoegen-nutzen-und-nicht-verstecken/100253036.html",
-          "published": "2026-09-11T02:00:00+00:00",
-          "summary": "Große Vermögen für Nachkommen in mutmaßlich sichere Häfen zu verfrachten, ist wenig sinnvoll. Das Geld sollte aktiv genutzt werden, um den Interessen der nächsten Generation zu dienen."
+          "title": "Morning Briefing: Scheitert der Haushalt, scheitert der Kanzler",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-scheitert-der-haushalt-scheitert-der-kanzler/100253721.html",
+          "published": "2026-09-11T03:48:39+00:00",
+          "summary": "In der Union wird der Frust über Friedrich Merz immer deutlicher. Zur Machtprobe mit den eigenen Leuten könnte nun ausgerechnet der Bundeshaushalt werden. Scheitern inklusive."
         },
         {
-          "title": "Aktie im Blick: Warum läuft die Vonovia-Aktie an der Börse so schwach?",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-warum-laeuft-die-vonovia-aktie-an-der-boerse-so-schwach/100252867.html",
-          "published": "2026-09-11T02:00:00+00:00",
-          "summary": "Hohe Gewinne und attraktiv bewertet. Doch damit es nach dem Börsenverfall wieder aufwärtsgeht, muss sich eine wichtige Bedingung erfüllen."
+          "title": "Gebrauchtwagen-Check: Nicht ganz gut und günstig: Der Nissan Qashqai II bei der HU",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/gebrauchtwagen-check-nicht-ganz-gut-und-guenstig-der-nissan-qashqai-ii-bei-der-hu/100253751.html",
+          "published": "2026-09-11T02:44:04+00:00",
+          "summary": "Nissans Qashqai ist ein Vorreiter: Die Modellreihe zählt zu den ersten Kompakt-SUV. Bei der Kfz-Hauptuntersuchung (HU) stellt er sich dagegen nicht vorn an: Sein Auftritt ist Mittelmaß."
         },
         {
-          "title": "Steve Ballmer: „Extrem zwielichtig“ – wie sich der Milliardär im Basketball verzockt hat",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/steve-ballmer-der-milliardaer-der-sich-im-basketball-verzockt-hat/100252801.html",
-          "published": "2026-09-11T02:00:00+00:00",
-          "summary": "Steve Ballmer führte Microsoft, dann kaufte er die Los Angeles Clippers und versprach Titel. Jetzt hat ihn die NBA wegen illegaler Geschäfte für ein Jahr gesperrt."
+          "title": "Kein Ersatzführerschein: Fahrverbot: Wiedergefundener Führerschein sorgt für Streit",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/kein-ersatzfuehrerschein-fahrverbot-wiedergefundener-fuehrerschein-sorgt-fuer-streit/100253752.html",
+          "published": "2026-09-11T02:38:04+00:00",
+          "summary": "Ein Führerschein wurde als verloren gemeldet, später tauchte er wieder auf. Als sein Besitzer ein Fahrverbot antreten muss, stellt sich deshalb eine ungewöhnliche Frage."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Versuchter KI-Missbrauch: Anthropic registriert Aktivitäten rund um mögliche Biowaffen-Forschung",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-registriert-Aktivitaeten-rund-um-moegliche-Biowaffen-Forschung-id31293846.html",
+          "published": "2026-09-11T02:24:31+00:00",
+          "summary": "Anthropic gewährt Einblick in mutmaßlich versuchten Missbrauch seiner KI Claude. Wissenschaftler aus blockierten Regionen hätten versucht, heimlich auf KI-Modelle zuzugreifen - für …"
+        },
         {
           "title": "Zinserhöhungen erwartet: Hoher Ölpreis verdirbt US-Anlegern die Kauflaune",
           "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-verdirbt-US-Anlegern-die-Kauflaune-id31293720.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Emirate-verdoppeln-milliardenschwere-Investitionen-in-Deutschland-id31293224.html",
           "published": "2026-09-10T16:26:28+00:00",
           "summary": "Berlin und Abu Dhabi wollen ihre wirtschaftliche Partnerschaft auf eine neue Stufe heben. Das zusätzliche Kapital soll in Schlüsselindustrien, moderne Technologien und Energiesicherheit fließen - und …"
-        },
-        {
-          "title": "Notfall-Kontakte werden erfragt: Erste Unternehmen bereiten sich auf einen Gasmangel vor",
-          "link": "https://www.n-tv.de/wirtschaft/Erste-Unternehmen-bereiten-sich-auf-einen-Gasmangel-vor-id31292561.html",
-          "published": "2026-09-10T15:10:14+00:00",
-          "summary": "Wie im Jahr 2022 formulieren deutsche Unternehmen Erklärungen, warum sie auch bei einem Gasmangel dringend weiterversorgt werden müssten. Ein Netzbetreiber verlangt wieder Kontaktdaten für den …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "KI-ETFs im Aufschwung: Lohnt sich das Risiko für Anleger?",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-etfs-im-aufschwung-lohnt-sich-das-risiko-fuer-anleger-15928896",
-          "published": "2026-09-11T01:53:29+00:00",
-          "summary": "Immer mehr Kapital fliesst in KI-Indexfonds. Morningstar-Analyst Dan Sotiroff ordnet ein, wie stark Anleger schon investiert sind und ob sich das Extra-Risiko thematischer KI-ETFs lohnt."
+          "title": "Harbour Energy-Aktie gesucht: Erwerb eigener Aktien von Großaktionär BASF",
+          "link": "https://www.finanzen.net/nachricht/aktien/kapitalmassnahme-harbour-energy-aktie-gesucht-erwerb-eigener-aktien-von-grossaktionaer-basf-15928471",
+          "published": "2026-09-11T04:04:00+00:00",
+          "summary": "Wie das britische Unternehmen mitteilte, steht die Vereinbarung im Einklang mit einer Vereinbarung der beiden Konzerne von Juni. Der Rückkauf könnte sich auf bis zu 200 Millionen US-Dollar belaufen. …"
         },
         {
-          "title": "Verdreifachung bis 2031: Citi setzt auf Rechenzentren - Diese Ex-Crypto-Aktie könnte zum Favoriten werden",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-rechenzentren-verdreifachung-bis-2031-citi-setzt-auf-rechenzentren-diese-ex-crypto-aktie-koennte-zum-favoriten-werden-00-15927801",
-          "published": "2026-09-11T01:48:27+00:00",
-          "summary": "Citi hebt die weltweite Wachstumsprognose für Rechenzentren bis 2031 spürbar an Neben Equinix zählt auch der frühere Bitcoin-Miner TeraWulf zu den Favoriten Genehmigungsstopps in Texas und New York …"
+          "title": "Rente und Raumfahrt im Bundestag",
+          "link": "https://www.finanzen.net/nachricht/aktien/rente-und-raumfahrt-im-bundestag-15928940",
+          "published": "2026-09-11T03:49:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Rente und Raumfahrt zählen zu den zwei Themenbereichen, die zum Abschluss der Beratungen des Bundeshaushalts an diesem Freitag im Bundestag beraten werden. Auf der Tagesordnung …"
         },
         {
-          "title": "Strategy-Aktie im Fokus: CEO verteidigt Bitcoin-Verkauf und teuren Rückkauf",
-          "link": "https://www.finanzen.net/nachricht/aktien/keine-kurs-wette-strategy-aktie-im-fokus-ceo-verteidigt-bitcoin-verkauf-und-teuren-rueckkauf-15925919",
-          "published": "2026-09-11T01:33:09+00:00",
-          "summary": "Strategy trennte sich bei etwa 60.000 US-Dollar von Bitcoins Später erfolgte ein Rückkauf zu höheren Kursen Verweis auf die Kapitalkosten Strategy -CEO ..."
+          "title": "Pressestimme: 'Die Rheinpfalz' zu Berliner SPD-Kandidat Krach",
+          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-die-rheinpfalz-zu-berliner-spd-kandidat-krach-15928937",
+          "published": "2026-09-11T03:34:42+00:00",
+          "summary": "LUDWIGSHAFEN (dpa-AFX) - Die \"Rheinpfalz\" zu Berliner SPD-Kandidat Krach:\"Die Umfragen sehen die SPD in Berlin seit Wochen hinten. Und ein Schlussspurt ist nun so gut wie ausgeschlossen. Viele …"
         },
         {
-          "title": "Evercore setzt auf 6 KI-Hardware-Aktien: Apple, Seagate & Co. im Blick",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-hardware-aktien-evercore-setzt-auf-6-ki-hardware-aktien-apple-seagate-co-im-blick-00-15925650",
-          "published": "2026-09-11T01:25:45+00:00",
-          "summary": "Evercore-Analyst nennt sechs KI-Hardware-Aktien als Favoriten für 2026 Auswahl reicht von Festplatten und Steckverbindern bis zu Apple Analyst setzt bewusst neben die heiß gelaufenen …"
+          "title": "Pressestimme: 'Handelsblatt' zu Machtspiel ums Kanzleramt",
+          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-handelsblatt-zu-machtspiel-ums-kanzleramt-15928936",
+          "published": "2026-09-11T03:34:41+00:00",
+          "summary": "DÜSSELDORF (dpa-AFX) - Das \"Handelsblatt\" zu Machtspiel ums Kanzleramt:\"Das Comeback von Söder im Machtspiel käme überraschend. Doch für Kehrtwenden ist der CSU-Chef grundsätzlich offen. In der …"
         },
         {
-          "title": "SpaceX-Aktie zündet? Starship-Test 14 steht bevor",
-          "link": "https://www.finanzen.net/nachricht/aktien/spacex-aktie-zuendet-starship-test-14-steht-bevor-15928892",
-          "published": "2026-09-11T01:23:42+00:00",
-          "summary": "Ein FCC-Antrag nennt ein baldiges Datum als Starttermin für Starship-Testflug 14. Erstmals sollen operative V3-Starlink-Satelliten die Konstellationskapazität steigern."
+          "title": "Pressestimme: 'Frankfurter Allgemeine Zeitung' zu EZB/Leitzinsen",
+          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-frankfurter-allgemeine-zeitung-zu-ezb-leitzinsen-15928935",
+          "published": "2026-09-11T03:34:41+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Die \"Frankfurter Allgemeine Zeitung\" zu EZB/Leitzinsen:\"Die Europäische Zentralbank (EZB) erhöht (...) abermals die Leitzinsen (...) Der Einfluss der EZB über die Zinspolitik …"
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "11. September 2001: „Die Welt ist fragmentierter und gefährlicher“",
+          "link": "https://www.wiwo.de/politik/ausland/11.-september-2001-ex-pentagon-chef-chuck-hagel-zieht-bilanz/100253281.html",
+          "published": "2026-09-11T03:57:42+00:00",
+          "summary": "Der frühere US-Verteidigungsminister Chuck Hagel erinnert sich an die Anschläge von vor 25 Jahren – und zieht eine Bilanz der amerikanischen Außenpolitik."
+        },
+        {
+          "title": "Volkswagen in der Krise: Wird VW zum größten Immobilienverkäufer Deutschlands?",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-prueft-immobilien-verkauf-ein-milliarden-deal-mit-huerden/100253239.html",
+          "published": "2026-09-11T03:57:01+00:00",
+          "summary": "Volkswagen prüft den Verkauf seines 35 Milliarden Euro schweren Immobilienportfolios. Die Objekte loszuschlagen wird aber womöglich nicht ganz einfach."
+        },
+        {
           "title": "Batteriespeicher von Furo: Dieses Gründer versprechen Firmen 40 Prozent weniger Stromkosten",
           "link": "https://www.wiwo.de/erfolg/gruender/batteriespeicher-wie-das-start-up-furo-stromkosten-fuer-firmen-senken-will/100253536.html",
           "published": "2026-09-10T22:01:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/staatsbesuch-vom-golf-emirate-wollen-40-milliarden-euro-in-deutschland-investieren/100253688.html",
           "published": "2026-09-10T16:59:01+00:00",
           "summary": "Deutschland und die Vereinigten Arabischen Emirate sind seit langem enge Partner. Jetzt wollen sie ihre Beziehungen nochmals deutlich ausbauen."
-        },
-        {
-          "title": "Konkurrenz für Lufthansa: Emirates darf künftig auch den Flughafen BER ansteuern",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/luftverkehr-emirates-darf-kuenftig-auch-den-flughafen-ber-ansteuern/100253695.html",
-          "published": "2026-09-10T16:51:50+00:00",
-          "summary": "Am Hauptstadtflughafen gibt es nur wenige internationale Langstreckenflüge. Die Bundesregierung erlaubt nun der Airline Emirates, künftig den BER anzufliegen."
-        },
-        {
-          "title": "Aktienmarkt: Ölpreisanstieg und Leitzinserhöhung: Darum schließt der Dax im Minus",
-          "link": "https://www.wiwo.de/finanzen/boerse/oelpreisanstieg-und-leitzinserhoehung-daum-schliesst-der-dax-im-minus/100253451.html",
-          "published": "2026-09-10T16:30:00+00:00",
-          "summary": "Der deutsche Aktienmarkt hat negativ auf die zweite Zinserhöhung in diesem Jahr sowie auf trübe Inflationsperspektiven durch die EZB reagiert. Ein Überblick nach Börsenschluss."
         }
       ],
       "error": null

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T02:09:44+00:00",
+  "generatedAt": "2026-09-11T04:09:47+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,18 +7,18 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-11T04:00",
-    "temperatur": 7.8,
-    "gefuehlt": 6.4,
-    "luftfeuchte": 92,
+    "zeit": "2026-09-11T06:00",
+    "temperatur": 7.9,
+    "gefuehlt": 6.6,
+    "luftfeuchte": 93,
     "niederschlag": 0.0,
-    "wind": 3.9,
+    "wind": 3.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 1,
-      "text": "Überwiegend klar",
-      "icon": "🌤️"
+      "code": 3,
+      "text": "Bedeckt",
+      "icon": "☁️"
     }
   },
   "tage": [
@@ -26,7 +26,7 @@
       "datum": "2026-09-11",
       "max": 18.1,
       "min": 7.6,
-      "regenwahrscheinlichkeit": 23,
+      "regenwahrscheinlichkeit": 18,
       "sonnenaufgang": "2026-09-11T06:53",
       "sonnenuntergang": "2026-09-11T19:50",
       "wetter": {
@@ -39,7 +39,7 @@
       "datum": "2026-09-12",
       "max": 19.6,
       "min": 13.2,
-      "regenwahrscheinlichkeit": 40,
+      "regenwahrscheinlichkeit": 38,
       "sonnenaufgang": "2026-09-12T06:55",
       "sonnenuntergang": "2026-09-12T19:47",
       "wetter": {
@@ -50,28 +50,28 @@
     },
     {
       "datum": "2026-09-13",
-      "max": 19.5,
-      "min": 15.3,
-      "regenwahrscheinlichkeit": 75,
+      "max": 18.6,
+      "min": 15.4,
+      "regenwahrscheinlichkeit": 78,
       "sonnenaufgang": "2026-09-13T06:56",
       "sonnenuntergang": "2026-09-13T19:45",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-09-14",
-      "max": 19.7,
-      "min": 9.5,
-      "regenwahrscheinlichkeit": 21,
+      "max": 20.1,
+      "min": 12.3,
+      "regenwahrscheinlichkeit": 18,
       "sonnenaufgang": "2026-09-14T06:58",
       "sonnenuntergang": "2026-09-14T19:43",
       "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
+        "code": 45,
+        "text": "Nebel",
+        "icon": "🌫️"
       }
     }
   ]
