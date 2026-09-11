@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T04:09:43+00:00",
+  "generatedAt": "2026-09-11T06:11:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "9/11 vor 25 Jahren - Ein Tag, an den sich jeder erinnert",
-          "link": "https://www.tagesschau.de/video/video-1647050.html",
-          "published": "2026-09-11T03:46:14+00:00",
-          "summary": ""
-        },
-        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647042.html",
-          "published": "2026-09-11T03:05:29+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647080.html",
+          "published": "2026-09-11T06:09:31+00:00",
           "summary": ""
         },
         {
-          "title": "Wie der 11. September die deutsche Gesellschaft prägte",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/elfter-september-anschlaege-muslime-100.html",
-          "published": "2026-09-11T01:37:15+00:00",
-          "summary": "Der 11. September 2001 prägte auch die deutsche Gesellschaft. Insbesondere Muslime und Menschen mit Einwanderungsgeschichte fühlen sich seitdem misstrauisch beäugt. Von C. Horn und K. Nastarowitz."
+          "title": "Fotoausstellung von Frank Horvat, \"Rachekleid\" von Prinzessin Diana, Tauben am Tempel in Kathmandu",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10438.html",
+          "published": "2026-09-11T06:07:02+00:00",
+          "summary": ""
         },
         {
-          "title": "Mehrere Tote nach Busunglück in der Schweiz",
-          "link": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
-          "published": "2026-09-11T01:03:39+00:00",
-          "summary": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben mehrere Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit mit knapp 50 Menschen …"
+          "title": "\"Nach einer verlorenen Wahl kein guter Moment\", Wolfgang Schröder, Politikwissenschaftler, zur Debatte um AfD-Verbot",
+          "link": "https://www.tagesschau.de/video/video-1647078.html",
+          "published": "2026-09-11T05:56:07+00:00",
+          "summary": ""
         },
         {
-          "title": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
-          "link": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
-          "published": "2026-09-11T00:57:21+00:00",
-          "summary": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen …"
+          "title": "11KM-Podcast: Wie der Terror von 9/11 Deutschland verändert hat",
+          "link": "https://www.tagesschau.de/podcast-11km-9-11-veraenderung-deutschland-100.html",
+          "published": "2026-09-11T05:45:25+00:00",
+          "summary": "Vor 25 Jahren erschütterte 9/11 die Welt. Nach dem Anschlag rückte auch Hamburg ins Zentrum der Ermittlungen. 11KM über die Frage, was das mit der Stadt und mit Deutschland gemacht hat."
+        },
+        {
+          "title": "Marktbericht: EZB-Zinserhöhung vergrault die Anleger",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+          "published": "2026-09-11T05:37:44+00:00",
+          "summary": "Die Ölpreise steigen, Leitzinsen, Anleiherenditen und Inflation ebenfalls. Die Zeiten für die Anleger am Aktienmarkt sind derzeit schwierig - der DAX dürfte weiter zurückfallen und sein Wochenminus …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Morning Briefing Podcast: Regierung: Die Macht des Kanzlers erodiert",
-          "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-regierung-die-macht-des-kanzlers-erodiert/100253762.html",
-          "published": "2026-09-11T04:04:23+00:00",
-          "summary": "In der Union wird der Frust über Friedrich Merz immer deutlicher. Zur Machtprobe mit den eigenen Leuten könnte nun ausgerechnet der Bundeshaushalt werden. Scheitern inklusive."
+          "title": "Steuer: Finanzamt fordert Steuer – obwohl der Erbe leer ausgeht",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-warum-erbschaftsteuer-auch-ohne-erhaltenes-erbe-faellig-wird/100246436.html",
+          "published": "2026-09-11T05:48:00+00:00",
+          "summary": "Selbst wenn ein Erbe erst spät von seinem Anspruch erfährt und leer ausgeht, fällt Erbschaftsteuer an. Der Bundesfinanzhof klärte, wieso das so ist – und welche Ausnahmen es gibt."
         },
         {
-          "title": "Wahlkampf-Event in Texas: Trump-Show endet: Fünf Lehren aus dem Republikaner-Parteitag",
-          "link": "https://www.handelsblatt.com/politik/international/wahlkampf-event-in-texas-trump-show-endet-fuenf-lehren-aus-dem-republikaner-parteitag/100253759.html",
-          "published": "2026-09-11T03:52:56+00:00",
-          "summary": "Attacken gegen Demokraten, ungewöhnliche Wahlversprechen: Die Republikaner wollen das Momentum wieder auf ihre Seite holen. Beim Parteitag in Dallas zeigt sich, wo sie vor den Midterms stehen."
+          "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wo-steht-ihr-vermoegen-im-deutschen-vergleich/100149729.html",
+          "published": "2026-09-11T05:46:00+00:00",
+          "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen."
         },
         {
-          "title": "Morning Briefing: Scheitert der Haushalt, scheitert der Kanzler",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-scheitert-der-haushalt-scheitert-der-kanzler/100253721.html",
-          "published": "2026-09-11T03:48:39+00:00",
-          "summary": "In der Union wird der Frust über Friedrich Merz immer deutlicher. Zur Machtprobe mit den eigenen Leuten könnte nun ausgerechnet der Bundeshaushalt werden. Scheitern inklusive."
+          "title": "Vor Berlin-Wahl: SPD-Spitzenkandidat Krach: „Vorwürfe gegen mich unbegründet“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/vor-berlin-wahl-spd-spitzenkandidat-krach-vorwuerfe-gegen-mich-unbegruendet/100253737.html",
+          "published": "2026-09-11T05:40:22+00:00",
+          "summary": "Am Abend hat die Staatsanwaltschaft öffentlich gemacht, worum es in den Ermittlungen gegen den Berliner SPD-Frontmann Steffen Krach geht. Der Politiker weist die Anschuldigungen erneut zurück."
         },
         {
-          "title": "Gebrauchtwagen-Check: Nicht ganz gut und günstig: Der Nissan Qashqai II bei der HU",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/gebrauchtwagen-check-nicht-ganz-gut-und-guenstig-der-nissan-qashqai-ii-bei-der-hu/100253751.html",
-          "published": "2026-09-11T02:44:04+00:00",
-          "summary": "Nissans Qashqai ist ein Vorreiter: Die Modellreihe zählt zu den ersten Kompakt-SUV. Bei der Kfz-Hauptuntersuchung (HU) stellt er sich dagegen nicht vorn an: Sein Auftritt ist Mittelmaß."
+          "title": "Vor der Abgeordnetenhauswahl: Umfrage zur Berlin-Wahl: Linke knapp vor CDU",
+          "link": "https://www.handelsblatt.com/politik/deutschland/vor-der-abgeordnetenhauswahl-umfrage-zur-berlin-wahl-linke-knapp-vor-cdu/100253778.html",
+          "published": "2026-09-11T05:30:05+00:00",
+          "summary": "Am 20. September wird das Berliner Landesparlament gewählt. Die Umfragen deuten schon länger auf ein enges Rennen hin - nun gibt es neue Zahlen."
         },
         {
-          "title": "Kein Ersatzführerschein: Fahrverbot: Wiedergefundener Führerschein sorgt für Streit",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/kein-ersatzfuehrerschein-fahrverbot-wiedergefundener-fuehrerschein-sorgt-fuer-streit/100253752.html",
-          "published": "2026-09-11T02:38:04+00:00",
-          "summary": "Ein Führerschein wurde als verloren gemeldet, später tauchte er wieder auf. Als sein Besitzer ein Fahrverbot antreten muss, stellt sich deshalb eine ungewöhnliche Frage."
+          "title": "Vor der Landtagswahl: Umfrage: AfD in Mecklenburg-Vorpommern drei Punkte vor SPD",
+          "link": "https://www.handelsblatt.com/politik/deutschland/vor-der-landtagswahl-umfrage-afd-in-mecklenburg-vorpommern-drei-punkte-vor-spd/100253779.html",
+          "published": "2026-09-11T05:30:04+00:00",
+          "summary": "Eine Umfrage der Forschungsgruppe Wahlen für das ZDF sieht die AfD in Mecklenburg-Vorpommern bei 37 Prozent. Der CDU von Kanzler Merz könnte nach der Sachsen-Anhalt-Wahl ein weiteres Debakel drohen."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Trump steht vor Problem: US-Dieselpreis steigt auf historisches Hoch",
+          "link": "https://www.n-tv.de/wirtschaft/US-Dieselpreis-steigt-auf-historisches-Hoch-id31294407.html",
+          "published": "2026-09-11T05:56:43+00:00",
+          "summary": "US-Amerikaner müssen derzeit für Diesel so tief in Tasche greifen wie noch nie. Wenige Wochen vor den Parlamentswahlen muss sich ihr Präsident Donald Trump einer unbequemen Wahrheit stellen."
+        },
+        {
+          "title": "Überall auch mit Karte zahlen: Klingbeil will \"Cash only\" in Geschäften beenden",
+          "link": "https://www.n-tv.de/wirtschaft/Klingbeil-will-Cash-only-in-Geschaeften-beenden-id31294165.html",
+          "published": "2026-09-11T05:08:00+00:00",
+          "summary": "Wer kein Bargeld dabeihat, kann den Döner oder Kaffee bisher oft nicht bezahlen. Das soll sich ändern. Klingbeils Finanzministerium arbeitet an einem Gesetzesentwurf. Dieser soll noch in diesem Jahr …"
+        },
+        {
+          "title": "Kreml nutzt KI für Cyberangriffe: Anthropic wirft chinesischen Rivalen Technologie-Klau vor",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-wirft-chinesischen-Rivalen-Technologie-Klau-vor-id31294150.html",
+          "published": "2026-09-11T05:06:41+00:00",
+          "summary": "Künstliche Intelligenz wird laut dem Entwickler Anthropic zunehmend zur Steuerung ganzer Cyberangriffe eingesetzt. Das Unternehmen berichtet von einer mutmaßlich russischen Spionagekampagne und …"
+        },
+        {
           "title": "Versuchter KI-Missbrauch: Anthropic registriert Aktivitäten rund um mögliche Biowaffen-Forschung",
           "link": "https://www.n-tv.de/wirtschaft/Anthropic-registriert-Aktivitaeten-rund-um-moegliche-Biowaffen-Forschung-id31293846.html",
           "published": "2026-09-11T02:24:31+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-verdirbt-US-Anlegern-die-Kauflaune-id31293720.html",
           "published": "2026-09-10T21:12:26+00:00",
           "summary": "Miese Stimmung an der Wall Street: Die Anleihenrenditen klettern auf Mehrjahreshochs, an den Aktienmärkten geht es den vierten Tag in Folge abwärts. Der Grund: Der Ölpreis, der inzwischen wieder das …"
-        },
-        {
-          "title": "Am liebsten Lachs: Es kommt wieder mehr Fisch auf den Teller",
-          "link": "https://www.n-tv.de/wirtschaft/Es-kommt-wieder-mehr-Fisch-auf-den-Teller-id31291654.html",
-          "published": "2026-09-10T17:58:24+00:00",
-          "summary": "Fast 14 Kilogramm Fisch und Meeresfrüchte hat jeder Bundesbürger im vergangenen Jahr verzehrt. Damit stieg die Lust auf Produkte aus den Weiten der Ozeane und Meere wieder. Und der Verbraucher ist …"
-        },
-        {
-          "title": "Verlorene Generation? : Wie stark KI Berufseinsteiger unter Druck setzt",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-stark-KI-Berufseinsteiger-unter-Druck-setzt-id31290827.html",
-          "published": "2026-09-10T17:08:30+00:00",
-          "summary": "Besonders für junge Arbeitnehmer kann generative KI zur Konkurrenz werden. Warum sich Berufsanfänger trotzdem nicht verrückt machen sollten, wie sie mithalten können und wie ältere Beschäftigte …"
-        },
-        {
-          "title": "\"Strategischer Partner\": Emirate verdoppeln milliardenschwere Investitionen in Deutschland",
-          "link": "https://www.n-tv.de/wirtschaft/Emirate-verdoppeln-milliardenschwere-Investitionen-in-Deutschland-id31293224.html",
-          "published": "2026-09-10T16:26:28+00:00",
-          "summary": "Berlin und Abu Dhabi wollen ihre wirtschaftliche Partnerschaft auf eine neue Stufe heben. Das zusätzliche Kapital soll in Schlüsselindustrien, moderne Technologien und Energiesicherheit fließen - und …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Harbour Energy-Aktie gesucht: Erwerb eigener Aktien von Großaktionär BASF",
-          "link": "https://www.finanzen.net/nachricht/aktien/kapitalmassnahme-harbour-energy-aktie-gesucht-erwerb-eigener-aktien-von-grossaktionaer-basf-15928471",
-          "published": "2026-09-11T04:04:00+00:00",
-          "summary": "Wie das britische Unternehmen mitteilte, steht die Vereinbarung im Einklang mit einer Vereinbarung der beiden Konzerne von Juni. Der Rückkauf könnte sich auf bis zu 200 Millionen US-Dollar belaufen. …"
+          "title": "Altersvorsorgedepot: Nur wieder Abzocke, oder echte Alternative zur Riester-Rente?",
+          "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-15929169",
+          "published": "2026-09-11T06:05:00+00:00",
+          "summary": ""
         },
         {
-          "title": "Rente und Raumfahrt im Bundestag",
-          "link": "https://www.finanzen.net/nachricht/aktien/rente-und-raumfahrt-im-bundestag-15928940",
-          "published": "2026-09-11T03:49:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Rente und Raumfahrt zählen zu den zwei Themenbereichen, die zum Abschluss der Beratungen des Bundeshaushalts an diesem Freitag im Bundestag beraten werden. Auf der Tagesordnung …"
+          "title": "ANALYSE-FLASH: Barclays hebt Gea Group auf 'Overweight' - Ziel hoch auf 78 Euro",
+          "link": "https://www.finanzen.net/nachricht/aktien/analyse-flash-barclays-hebt-gea-group-auf-overweight-ziel-hoch-auf-78-euro-15929164",
+          "published": "2026-09-11T06:04:39+00:00",
+          "summary": "LONDON (dpa-AFX) - Die britische Investmentbank Barclays hat das Kursziel für GEA von 70 auf 78 Euro angehoben und die Aktien von \"Equal Weight\" auf \"Overweight\" hochgestuft. Der Anlagenbauer könne …"
         },
         {
-          "title": "Pressestimme: 'Die Rheinpfalz' zu Berliner SPD-Kandidat Krach",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-die-rheinpfalz-zu-berliner-spd-kandidat-krach-15928937",
-          "published": "2026-09-11T03:34:42+00:00",
-          "summary": "LUDWIGSHAFEN (dpa-AFX) - Die \"Rheinpfalz\" zu Berliner SPD-Kandidat Krach:\"Die Umfragen sehen die SPD in Berlin seit Wochen hinten. Und ein Schlussspurt ist nun so gut wie ausgeschlossen. Viele …"
+          "title": "Evercore setzt auf 6 KI-Hardware-Aktien: Apple, Seagate & Co. im Blick",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-hardware-aktien-evercore-setzt-auf-6-ki-hardware-aktien-apple-seagate-co-im-blick-00-15925650",
+          "published": "2026-09-11T06:03:00+00:00",
+          "summary": "Evercore-Analyst nennt sechs KI-Hardware-Aktien als Favoriten für 2026 Auswahl reicht von Festplatten und Steckverbindern bis zu Apple Analyst setzt bewusst neben die heiß gelaufenen …"
         },
         {
-          "title": "Pressestimme: 'Handelsblatt' zu Machtspiel ums Kanzleramt",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-handelsblatt-zu-machtspiel-ums-kanzleramt-15928936",
-          "published": "2026-09-11T03:34:41+00:00",
-          "summary": "DÜSSELDORF (dpa-AFX) - Das \"Handelsblatt\" zu Machtspiel ums Kanzleramt:\"Das Comeback von Söder im Machtspiel käme überraschend. Doch für Kehrtwenden ist der CSU-Chef grundsätzlich offen. In der …"
+          "title": "Vermögenswirksame Leistungen mit ETFs: So wird aus dem Arbeitgeberzuschuss langfristig Vermögen",
+          "link": "https://www.finanzen.net/nachricht/aktien/vermoegenswirksame-leistungen-mit-etfs-so-wird-aus-dem-arbeitgeberzuschuss-langfristig-vermoegen-15929168",
+          "published": "2026-09-11T06:00:54+00:00",
+          "summary": ""
         },
         {
-          "title": "Pressestimme: 'Frankfurter Allgemeine Zeitung' zu EZB/Leitzinsen",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-frankfurter-allgemeine-zeitung-zu-ezb-leitzinsen-15928935",
-          "published": "2026-09-11T03:34:41+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Die \"Frankfurter Allgemeine Zeitung\" zu EZB/Leitzinsen:\"Die Europäische Zentralbank (EZB) erhöht (...) abermals die Leitzinsen (...) Der Einfluss der EZB über die Zinspolitik …"
+          "title": "10 wichtige Fakten zum Freitagshandel an der Börse - Oracle-Bilanz und Ölpreise im Blick",
+          "link": "https://www.finanzen.net/nachricht/aktien/10-vor-9-10-wichtige-fakten-zum-freitagshandel-an-der-boerse-oracle-bilanz-und-oelpreise-im-blick-15881894",
+          "published": "2026-09-11T06:00:47+00:00",
+          "summary": "Behalten Sie hier den kompletten aktuellen Handelstag im Auge. 1. DAX tiefer erwartetDer DAX ..."
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Der DAX dreht ins Minus",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-          "published": "2026-09-10T16:32:35+00:00",
-          "summary": "Der DAX hat weiter an Boden verloren. Denn die Zinserhöhung der EZB war zwar erwartet worden, könnte aber nicht die letzte gewesen sein. Besonders die hohen Ölpreise lasten weiter auf dem Markt."
+          "title": "Marktbericht: EZB-Zinserhöhung vergrault die Anleger",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+          "published": "2026-09-11T05:37:44+00:00",
+          "summary": "Die Ölpreise steigen, Leitzinsen, Anleiherenditen und Inflation ebenfalls. Die Zeiten für die Anleger am Aktienmarkt sind derzeit schwierig - der DAX dürfte weiter zurückfallen und sein Wochenminus …"
         },
         {
           "title": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "11. September 2001: „Die Welt ist fragmentierter und gefährlicher“",
+          "title": "Bundesregierung: Ein tiefblauer Schatten legt sich über Friedrich Merz",
+          "link": "https://www.wiwo.de/politik/deutschland/friedrich-merz-geraet-der-bundeskanzler-ins-wanken/100253353.html",
+          "published": "2026-09-11T06:01:00+00:00",
+          "summary": "Der AfD-Wahltriumph in Sachsen-Anhalt stürzt den Kanzler in eine tiefe Krise. Selbst in der CDU wachsen die Zweifel."
+        },
+        {
+          "title": "Ölpreise: Brent steigt zeitweise auf fast 110 US-Dollar",
+          "link": "https://www.wiwo.de/politik/ausland/oelpreise-brent-steigt-zeitweise-auf-fast-110-us-dollar/100253775.html",
+          "published": "2026-09-11T05:58:00+00:00",
+          "summary": "Im Jemen feiern die Huthi-Milizen einen Erfolg, in der Straße von Hormus gibt es erneut Attacken auf Tanker. Das hat Folgen für die Energiepreise."
+        },
+        {
+          "title": "Rohstoffe: Diesel knackt 6-US-Dollar-Marke",
+          "link": "https://www.wiwo.de/politik/ausland/rohstoffe-diesel-knackt-6-us-dollar-marke/100253783.html",
+          "published": "2026-09-11T05:57:36+00:00",
+          "summary": "Diesel in den USA ist so teuer wie nie zuvor. Kurz vor den Parlamentswahlen muss sich Präsident Donald Trump einer unbequemen Wahrheit stellen."
+        },
+        {
+          "title": "iPhone Duo: Wie viel Luxus verträgt das iPhone?",
+          "link": "https://www.wiwo.de/unternehmen/it/iphone-duo-und-iphone-18-pro-lohnt-sich-apples-luxus-preissprung/100253336.html",
+          "published": "2026-09-11T05:54:00+00:00",
+          "summary": "Unter dem neuen Chef John Ternus startet Apple ins Foldable-Zeitalter – und verlangt dafür saftige Preise. Was die Kunden ertragen und wo das Risiko für den Konzern liegt."
+        },
+        {
+          "title": "25 Jahre 9/11: „Die Welt ist fragmentierter und gefährlicher“",
           "link": "https://www.wiwo.de/politik/ausland/11.-september-2001-ex-pentagon-chef-chuck-hagel-zieht-bilanz/100253281.html",
-          "published": "2026-09-11T03:57:42+00:00",
-          "summary": "Der frühere US-Verteidigungsminister Chuck Hagel erinnert sich an die Anschläge von vor 25 Jahren – und zieht eine Bilanz der amerikanischen Außenpolitik."
-        },
-        {
-          "title": "Volkswagen in der Krise: Wird VW zum größten Immobilienverkäufer Deutschlands?",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-prueft-immobilien-verkauf-ein-milliarden-deal-mit-huerden/100253239.html",
-          "published": "2026-09-11T03:57:01+00:00",
-          "summary": "Volkswagen prüft den Verkauf seines 35 Milliarden Euro schweren Immobilienportfolios. Die Objekte loszuschlagen wird aber womöglich nicht ganz einfach."
-        },
-        {
-          "title": "Batteriespeicher von Furo: Dieses Gründer versprechen Firmen 40 Prozent weniger Stromkosten",
-          "link": "https://www.wiwo.de/erfolg/gruender/batteriespeicher-wie-das-start-up-furo-stromkosten-fuer-firmen-senken-will/100253536.html",
-          "published": "2026-09-10T22:01:00+00:00",
-          "summary": "Eine Software aus München hilft Unternehmen, Batterien intelligent zu nutzen und Geld zu sparen. Jetzt investiert Silicon-Valley-Ikone Sheryl Sandberg."
-        },
-        {
-          "title": "1&1‑Prognose gekappt: United-Internet-Tochter 1&1 baut bei Versatel um",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/united-internet-11-baut-bei-versatel-um-11prognose-gekappt/100253699.html",
-          "published": "2026-09-10T17:58:10+00:00",
-          "summary": "Die Telekommunikationstochter 1&1 des United-Internet-Konzerns senkt ihre Ergebnisprognose. Grund ist ein Umbauprogramm bei der Geschäftskundentochter Versatel."
-        },
-        {
-          "title": "Staatsbesuch vom Golf: Emirate wollen 40 Milliarden Euro in Deutschland investieren",
-          "link": "https://www.wiwo.de/unternehmen/staatsbesuch-vom-golf-emirate-wollen-40-milliarden-euro-in-deutschland-investieren/100253688.html",
-          "published": "2026-09-10T16:59:01+00:00",
-          "summary": "Deutschland und die Vereinigten Arabischen Emirate sind seit langem enge Partner. Jetzt wollen sie ihre Beziehungen nochmals deutlich ausbauen."
+          "published": "2026-09-11T05:49:00+00:00",
+          "summary": "Der frühere US-Verteidigungsminister Chuck Hagel erinnert sich an die Anschläge vom 11. September 2001 – und zieht eine Bilanz der amerikanischen Außenpolitik."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Wieviel Beton steckt im Haus? Tool schätzt es mit OpenStreetMap",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/wie-viel-beton-steckt-im-haus-dieses-tool-schaetzt-es-mit-openstreetmap/",
+          "published": "2026-09-11T05:50:28+00:00",
+          "summary": "Ein Tool der TU Graz schätzt, wie viel Beton, Ziegel und Holz in Gebäuden steckt. Dafür kombiniert es Geodaten mit 154 Gebäudetypen."
+        },
         {
           "title": "Europa bestellt 264 Satelliten für 2,4 Mrd. € bei einem acht Jahre alten Unternehmen",
           "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/europa-bestellt-264-satelliten-fuer-2-4-mrd-euro-bei-einem-acht-jahre-alten-unternehmen/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/alterung-in-lithium-ionen-batterieren-verstehen/",
           "published": "2026-09-10T13:00:00+00:00",
           "summary": "Eine BAM-Studie zeigt, wie Lithium-Isotope die Batteriealterung sichtbar machen und Prognosen zur Lebensdauer verbessern können."
-        },
-        {
-          "title": "95 % der jungen Personaler achten auf Berufserfahrung – ältere setzen andere Schwerpunkte",
-          "link": "https://www.ingenieur.de/karriere/bewerbung/junge-personaler-setzen-auf-berufserfahrung-aeltere-auf-qualifikationen/",
-          "published": "2026-09-10T12:00:00+00:00",
-          "summary": "Berufserfahrung, Fachwissen oder soziale Kompetenzen? Eine Umfrage zeigt, worauf Personaler verschiedener Altersgruppen bei Bewerbungen achten."
         }
       ],
       "error": null
