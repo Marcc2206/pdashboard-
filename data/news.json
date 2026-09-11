@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:12:20+00:00",
+  "generatedAt": "2026-09-11T14:09:38+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Berliner SPD-Spitzenkandidat wehrt sich gegen Vorwürfe",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/ermittlungen-gegen-steffen-krach-staatsanwaltschaft-wird-konkret,krach-110.html",
+          "published": "2026-09-11T13:59:50+00:00",
+          "summary": "Die Staatsanwaltschaft Hannover hat sich Donnerstagabend erstmals konkret zu den Vorwürfen gegen den Berliner SPD-Spitzenkandidaten Steffen Krach geäußert. Der 47-Jährige wies erneut alle Vorwürfe …"
+        },
+        {
+          "title": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
+          "published": "2026-09-11T13:41:00+00:00",
+          "summary": "Ungerecht, sozial kalt, auf Sand gebaut: Arbeitsministerin Bas wird für den Haushaltsentwurf ihres Ministeriums von der Opposition scharf angegangen. Dabei ist der Etat so hoch nie. Von Dagmar …"
+        },
+        {
+          "title": "Was New Yorks Muslime nach 9/11 durchmachen mussten",
+          "link": "https://www.tagesschau.de/ausland/amerika/muslime-new-york-9-11-100.html",
+          "published": "2026-09-11T13:37:59+00:00",
+          "summary": "Nach dem 11. September wurden viele Muslime in New York angefeindet, verhaftet oder ausspioniert. Heute ist ein Muslim erstmals Bürgermeister der Stadt. Er wurde jetzt Ziel einer islamophoben …"
+        },
+        {
+          "title": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html",
+          "published": "2026-09-11T13:37:07+00:00",
+          "summary": "Das US-Unternehmen Anthropic hat nach eigenen Angaben mehrere Fälle missbräuchlicher Nutzung seines KI-Modells unterbunden. Dabei sei es auch um mutmaßliche Cyberspionage aus Russland und biologische …"
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80774.html",
-          "published": "2026-09-11T12:10:04+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80776.html",
+          "published": "2026-09-11T13:18:28+00:00",
           "summary": ""
-        },
-        {
-          "title": "Arbeitsministerin Bas verspricht Übergangslösung für \"Rente mit 63\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bas-bundestag-reformen-bundesregierung-100.html",
-          "published": "2026-09-11T11:44:51+00:00",
-          "summary": "Arbeitsministerin Bas hat in der Haushaltsdebatte die geplante Rentenreform der Bundesregierung verteidigt - auch die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren. Betroffenen …"
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-11T11:30:46+00:00",
-          "summary": "Am Samstag ist es im Süden sonnig. Sonst gibt es neben Sonnenschein dichtere Wolken, aber nur selten wird es nass. Im Nordwesten ziehen später dichte Wolken mit Regen auf. Die Höchstwerte liegen …"
-        },
-        {
-          "title": "Huthi-Miliz erobert Insel in wichtiger Meerenge Bab al-Mandab",
-          "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-rebellen-100.html",
-          "published": "2026-09-11T11:24:09+00:00",
-          "summary": "Die mit Iran verbündete Huthi-Miliz ist am Roten Meer offenbar weiter vorgerückt. Laut jemenitischen Regierungsquellen eroberte sie auch eine strategisch wichtige Insel in der Meerenge Bab al-Mandab."
-        },
-        {
-          "title": "Fünf Tote nach Busunglück in der Schweiz",
-          "link": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
-          "published": "2026-09-11T11:22:39+00:00",
-          "summary": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben fünf Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit 45 Menschen an Bord …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Anschlagspläne: Bundesanwaltschaft klagt mutmaßliche Hamas-Mitglieder an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/anschlagsplaene-bundesanwaltschaft-klagt-mutmassliche-hamas-mitglieder-an/100253899.html",
-          "published": "2026-09-11T12:01:15+00:00",
-          "summary": "Sieben Männer sollen Waffen für einen geplanten Mordanschlag auf Jüdinnen und Juden in Deutschland besorgt haben. Die Bundesanwaltschaft erhebt nun Anklage."
+          "title": "Erfolg für Verbündete des Iran: Huthi-Rebellen greifen nach wichtiger Meerenge Bab al-Mandab",
+          "link": "https://www.handelsblatt.com/politik/international/erfolg-fuer-verbuendete-des-iran-huthi-rebellen-greifen-nach-wichtiger-meerenge-bab-al-mandab/100253924.html",
+          "published": "2026-09-11T14:04:09+00:00",
+          "summary": "Die mit dem Iran verbündeten Huthi-Rebellen erobern die gesamte Küste des Roten Meers im Jemen und strategisch wichtige Inseln. Der Druck auf den Welthandel könnte damit weiter steigen."
         },
         {
-          "title": "Anleihen: Abverkauf am Bondmarkt – Renditen erreichen Niveau der Finanzkrise",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-abverkauf-am-bondmarkt-renditen-erreichen-niveau-der-finanzkrise/100253793.html",
-          "published": "2026-09-11T11:58:23+00:00",
-          "summary": "Weltweit gibt es am Anleihemarkt aktuell zu wenige Käufer. Dadurch fallen die Kurse, im Gegenzug steigen die Renditen. Investoren schauen jetzt vor allem auf einen Termin."
+          "title": "Rente: Finanzpsychologe Valentin Haas: „Der Ruhestand wird gesellschaftlich glorifiziert“",
+          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rentenreform-der-ruhestand-gibt-dem-stress-ein-ablaufdatum/100236769.html",
+          "published": "2026-09-11T14:04:00+00:00",
+          "summary": "Die geplante Rentenreform wird leidenschaftlich diskutiert. Ein Psychologe erklärt, warum die Debatte so emotional geführt wird, welche Trugbilder vorherrschen und worauf es wirklich ankommt."
         },
         {
-          "title": "Aussteiger: „Nackt kündigen“: Junge Chinesen entfliehen dem hohen Druck im Job",
-          "link": "https://www.handelsblatt.com/politik/international/kuendigung-nackt-kuendigen-junge-chinesen-entfliehen-dem-druck-im-job-01/100240142.html",
-          "published": "2026-09-11T11:56:00+00:00",
-          "summary": "Chinas Aufstiegsversprechen bröckelt. Vor allem in der jungen Generation schwindet die Bereitschaft, sich aufzureiben. Das Handelsblatt hat junge Aussteiger besucht. Ihre Motive überraschen."
+          "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
+          "link": "https://www.handelsblatt.com/technik/ki/technologie-kann-ki-kuenftig-in-der-lage-sein-auch-top-manager-zu-ersetzen/100189694.html",
+          "published": "2026-09-11T14:02:00+00:00",
+          "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird."
         },
         {
-          "title": "Finanzpolitik: Russische Zentralbank hält an hohem Leitzins fest",
-          "link": "https://www.handelsblatt.com/politik/international/finanzpolitik-russische-zentralbank-haelt-an-hohem-leitzins-fest/100253906.html",
-          "published": "2026-09-11T11:49:26+00:00",
-          "summary": "Russlands Notenbank hält den Leitzins trotz Konjunkturflaute bei 14 Prozent. Grund ist der wachsende Preisdruck – auch infolge ukrainischer Angriffe auf Raffinerien."
+          "title": "Dow Jones, S&P 500, Nasdaq: Sinkende Öl-Preise bescheren US-Börsen ein Plus",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-sinkende-oel-preise-bescheren-us-boersen-ein-plus/100253945.html",
+          "published": "2026-09-11T14:00:08+00:00",
+          "summary": "Erneut rutschen die wichtigsten US-Börsenindizes ab. An der Wall Street befeuert der Anstieg der Erzeugerpreise im August Spekulationen auf eine baldige Zinserhöhung durch die Fed."
         },
         {
-          "title": "Gehaltsreport 2026: 1,3 Millionen Gehaltsdaten im Vergleich: Gehören Sie zu den Besserverdienern in Deutschland?",
-          "link": "https://www.handelsblatt.com/karriere/geld-das-sind-deutschlands-bestbezahlte-berufe-2026-21/100179922.html",
-          "published": "2026-09-11T11:46:00+00:00",
-          "summary": "Das Gehalt gehört nach wie vor zu den Tabuthemen in Deutschland. Finden Sie heraus, wie gut Sie im Vergleich in einzelnen Berufen, Branchen und Bundesländern verdienen."
+          "title": "Passives Einkommen: Dieses ETF-Portfolio schüttet jeden Monat Geld aus",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-wie-anleger-mit-etfs-monatliche-ausschuettungen-erzielen-01/100226123.html",
+          "published": "2026-09-11T13:55:00+00:00",
+          "summary": "Mit nur drei Fonds können Anleger sich eine regelmäßige monatliche Ausschüttung sichern – ohne auf die Chance zusätzlicher Kursgewinne verzichten zu müssen."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Branche kontert \"Abzock\"-Vorwurf: Ohne den Staat ist Diesel in Deutschland billiger als in allen Nachbarländern",
+          "link": "https://www.n-tv.de/wirtschaft/Ohne-den-Staat-ist-Diesel-in-Deutschland-billiger-als-in-allen-Nachbarlaendern-id31295406.html",
+          "published": "2026-09-11T13:36:52+00:00",
+          "summary": "Die Preise an den Tankstellen in Deutschland sind im europäischen Vergleich hoch. Das ist allerdings hauptsächlich auf Steuern und Kosten für Regulierung zurückzuführen. Einer Studie zufolge gehören …"
+        },
+        {
+          "title": "Streitfall vor Gericht: Wiesn-Wirte müssen wohl nicht mit EU-Vergaberecht rechnen",
+          "link": "https://www.n-tv.de/wirtschaft/Wiesn-Wirte-muessen-wohl-nicht-mit-EU-Vergaberecht-rechnen-id31296100.html",
+          "published": "2026-09-11T13:35:22+00:00",
+          "summary": "Muss das Oktoberfest seine Bierzelte künftig EU-weit vergeben? Ein Wirt fordert genau das. Doch das Bayerische Oberste Landesgericht signalisiert Ablehnung. Die endgültige Entscheidung soll im …"
+        },
         {
           "title": "Flüge zwischen Berlin und Dubai?: Kritik an Ausweitung der Flugrechte für Emirates",
           "link": "https://www.n-tv.de/wirtschaft/Kritik-an-Ausweitung-der-Flugrechte-fuer-Emirates-id31295874.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Firmenpleiten-auf-hoechstem-Stand-seit-13-Jahren-id31294919.html",
           "published": "2026-09-11T08:57:43+00:00",
           "summary": "Die deutsche Wirtschaft wächst wieder, doch die Zahl der Firmeninsolvenzen verzeichnet einen bitteren Rekord. Besonders hart trifft es Verkehr, Gastgewerbe und Bau. Zugleich kommen gute Nachrichten …"
-        },
-        {
-          "title": "Maßnahmen gegen Preisexplosion: Bund kostete Putins Gas-Erpressung mindestens 50 Milliarden Euro",
-          "link": "https://www.n-tv.de/wirtschaft/Bund-kostete-Putins-Gas-Erpressung-mindestens-50-Milliarden-Euro-id31294556.html",
-          "published": "2026-09-11T08:10:23+00:00",
-          "summary": "Strompreisbremse, Energiepreispauschale, Gaspreisbremse: Die Bundesregierung greift im Herbst 2022 auf allerhand Maßnahmen zurück, um die Folgen des russischen Angriffskriegs auf die Ukraine …"
-        },
-        {
-          "title": "Produktionsfirma äußert sich : Elon Musk droht Dokumentarfilm-Macher mit Klage",
-          "link": "https://www.n-tv.de/wirtschaft/Elon-Musk-droht-Dokumentarfilm-Macher-mit-Klage-id31294404.html",
-          "published": "2026-09-11T06:22:25+00:00",
-          "summary": "Ein vierstündiger Dokumentarfilm über Elon Musk bekommt in Venedig Beifall. Der Anwalt des Tesla-Chefs wirft Regisseur Alex Gibney Diffamierung vor und kündigt rechtliche Schritte an. Die …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Diese Aktien empfehlen die Experten zum Kauf",
-          "link": "https://www.finanzen.net/nachricht/aktien/diese-aktien-empfehlen-die-experten-zum-kauf-15929826",
-          "published": "2026-09-11T12:06:57+00:00",
-          "summary": "In der vergangenen Handelswoche haben wieder zahlreiche Experten zum Einstieg in Aktien geraten. Diese Anteilsscheine wurden von den Analysten zum Kauf empfohlen."
-        },
-        {
-          "title": "Salzgitter-Aktie in Rot: Neuer Finanzchef ernannt",
-          "link": "https://www.finanzen.net/nachricht/aktien/geschaeftsfuehrung-salzgitter-aktie-in-rot-neuer-finanzchef-ernannt-15929606",
-          "published": "2026-09-11T12:06:38+00:00",
-          "summary": "Birgit Potrafki werde ihren zum 31. Januar 2027 auslaufenden Vertrag nicht verlängern, teilte das Unternehmen am Freitag in Salzgitter mit. Ihr Nachfolger wird Christoph Martin, der seit Anfang …"
-        },
-        {
-          "title": "Anthropic im Fokus: KI-Sicherheit und Biowaffen-Risiken - Schummelvorwurf an chinesischen Rivalen",
-          "link": "https://www.finanzen.net/nachricht/aktien/forschung-anthropic-im-fokus-ki-sicherheit-und-biowaffen-risiken-schummelvorwurf-an-chinesischen-rivalen-15928991",
-          "published": "2026-09-11T12:06:00+00:00",
-          "summary": "Zugleich schränkte der Konkurrent des ChatGPT-Entwicklers OpenAI ein, dass die Ziele solcher Anfragen schwer zu ermitteln seien, da entsprechende Forschung sowohl medizinischen als auch militärischen …"
-        },
-        {
-          "title": "Favoriten der Finanzprofis: Diese Aktien empfehlen Experten zu kaufen",
-          "link": "https://www.finanzen.net/nachricht/aktien/kaufempfehlungen-kw-37-favoriten-der-finanzprofis-diese-aktien-empfehlen-experten-zu-kaufen-15927215",
-          "published": "2026-09-11T12:05:40+00:00",
-          "summary": "In eigener Sache - Tipp: Handeln Sie Ihre Aktien jetzt für 0,00 € bei finanzen.net zero!"
+          "title": "Evercore setzt auf 6 KI-Hardware-Aktien: Apple, Seagate & Co. im Blick",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-hardware-aktien-evercore-setzt-auf-6-ki-hardware-aktien-apple-seagate-co-im-blick-00-15925650",
+          "published": "2026-09-11T14:08:00+00:00",
+          "summary": "Evercore-Analyst nennt sechs KI-Hardware-Aktien als Favoriten für 2026 Auswahl reicht von Festplatten und Steckverbindern bis zu Apple Analyst setzt bewusst neben die heiß gelaufenen …"
         },
         {
           "title": "PUMA-Aktie verliert: CCO Matthias Bäumer geht",
           "link": "https://www.finanzen.net/nachricht/aktien/berater-puma-aktie-verliert-cco-matthias-baeumer-geht-15929191",
-          "published": "2026-09-11T12:04:41+00:00",
+          "published": "2026-09-11T14:07:41+00:00",
           "summary": "Der bisherige Vertriebsvorstand Matthias Bäumer gibt seine Position zum Monatsende auf, wie das Unternehmen mitteilte. Seine Aufgaben, darunter auch die Steuerung der Tochtergesellschaften des …"
+        },
+        {
+          "title": "Allianz-Aktie nach Kursdelle wieder fester: Analysten bleiben gespalten",
+          "link": "https://www.finanzen.net/nachricht/aktien/versicherungsriese-allianz-aktie-nach-kursdelle-wieder-fester-analysten-bleiben-gespalten-00-15929801",
+          "published": "2026-09-11T14:03:00+00:00",
+          "summary": "Allianz-Aktie notiert nach Rücksetzer wieder näher am Jahreshoch Im ersten Halbjahr erzielte der Versicherer ein operatives Rekordergebnis Kursziele der Analysten gehen weit auseinander Die ..."
+        },
+        {
+          "title": "MÄRKTE USA/Fester - Erwartung an Fed-Zinserhöhung nach Daten gestiegen",
+          "link": "https://www.finanzen.net/nachricht/aktien/maerkte-usa-fester-erwartung-an-fed-zinserhoehung-nach-daten-gestiegen-15930171",
+          "published": "2026-09-11T14:01:47+00:00",
+          "summary": "DOW JONES--Kräftig aufwärts geht es an der Wall Street zum Wochenausklang. Die mit Spannung erwarteten US-Verbraucherpreise für August lagen weitgehend im Rahmen der Erwartungen. Gleichwohl hat sich …"
+        },
+        {
+          "title": "Stocks in Action USA: Frequency Electronics, Oracle, RH",
+          "link": "https://www.finanzen.net/nachricht/aktien/Stocks-in-Action-USA-Frequency-Electronics-Oracle-RH-15930181",
+          "published": "2026-09-11T14:01:45+00:00",
+          "summary": "Boom bei Raumfahrt und Verteidigung beschert Frequency Electronics (FEIM) Rekordumsatz und vollen Auftragsbestand! Frequency Electronicssorgt mit einem außergewöhnlich starken ersten Quartal des …"
         }
       ],
       "error": null
@@ -163,6 +163,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-firmenpleiten-100.html",
+          "published": "2026-09-11T12:21:33+00:00",
+          "summary": "Im ersten Halbjahr ist die Zahl der Firmenpleiten in Deutschland auf den höchsten Stand seit 2013 gestiegen. Gleichzeitig gibt es aber auch besonders viele Neugründungen von Start-up-Unternehmen."
+        },
         {
           "title": "Marktbericht: DAX hält sich vor US-Inflationsdaten stabil",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
@@ -186,12 +192,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html",
           "published": "2026-09-09T11:08:06+00:00",
           "summary": "Der Ölpreis ist am Morgen wegen der weiteren militärischen Eskalation am Persischen Golf auf mehr als 100 Dollar pro Barrel gestiegen. Grund ist die Sorge vor Lieferunterbrechungen aus dem Nahen …"
-        },
-        {
-          "title": "Wachsende Verschuldung: Dem Staat drohen gewaltige Zinskosten",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/staatsverschuldung-zinskosten-deutschland-100.html",
-          "published": "2026-09-08T13:53:46+00:00",
-          "summary": "Nicht nur die Staatsschulden steigen, auch die Zinszahlungen klettern neuen Berechnungen zufolge in den kommenden Jahren deutlich nach oben. Das vermindert den Spielraum für den Haushalt. Von Till …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Ferienimmobilien: Die Top-Adressen für Ihr Ferienhaus an den bayrischen Seen",
-          "link": "https://www.wiwo.de/finanzen/immobilien/ferienimmobilien-an-bayrischen-seen-die-top-adressen-fuer-ihr-ferienhaus-an-den-bayrischen-seen/100253524.html",
-          "published": "2026-09-11T12:03:12+00:00",
-          "summary": "Immobilien rund um die bayrischen Seen werden gerade wieder günstiger. Wer auch vermieten möchte, sollte aber auf andere Lagen setzen."
+          "title": "US-Konjunktur: US-Inflationsrate stabilisiert sich auf hohem Niveau",
+          "link": "https://www.wiwo.de/politik/konjunktur/usa-us-inflationsrate-stabilisiert-sich-auf-hohem-niveau/100253923.html",
+          "published": "2026-09-11T13:52:00+00:00",
+          "summary": "Die Inflation in den USA bleibt bei 3,4 Prozent und damit auf hohem Niveau stabil. Der Ölpreisschock erhöht den Druck auf die Fed vor ihrer Zinsentscheidung."
         },
         {
-          "title": "Ferienimmobilien: Die Top-Adressen für Ihr Ferienhaus an der Nordsee",
-          "link": "https://www.wiwo.de/finanzen/immobilien/ferienimmobilien-auf-sylt-die-top-adressen-fuer-ihr-ferienhaus-an-der-nordsee/100253805.html",
-          "published": "2026-09-11T12:01:09+00:00",
-          "summary": "Am meisten kosten Ferienhäuser in Deutschland weiterhin auf Sylt. Doch selbst hier können sich jetzt Chancen für Käufer ergeben."
+          "title": "Standort Deutschland: Alle 20 Minuten eine Pleite, alle vier Minuten ein neues Unternehmen",
+          "link": "https://www.wiwo.de/politik/konjunktur/standort-deutschland-alle-20-minuten-eine-pleite-alle-vier-minuten-ein-neues-unternehmen/100253908.html",
+          "published": "2026-09-11T13:24:28+00:00",
+          "summary": "Neue Insolvenzzahlen befeuern das Narrativ vom Abstieg des Wirtschaftsstandorts Deutschland. Doch ganz so düster ist die Lage nicht. Ein Kommentar."
         },
         {
-          "title": "Riedls Dax-Radar: Warum der Dax trotz Zinsschock immer noch die Chance auf höhere Kurse hat",
-          "link": "https://www.wiwo.de/finanzen/boerse/dax-aktuell-warum-der-dax-trotz-zinsschock-immer-noch-die-chance-auf-hoehere-kurse-hat/100253847.html",
-          "published": "2026-09-11T12:00:37+00:00",
-          "summary": "Teures Öl, schwache Bonds und Zinserhöhungen drücken auf die Marktstimmung. Die Risiken sind erheblich, doch automatisch abkippen müssen die Börsen deshalb nicht. Eine Kolumne."
+          "title": "Bundesregierung unter Druck: In der SPD zählen sie Merz’ Stunden",
+          "link": "https://www.wiwo.de/politik/deutschland/bundesregierung-unter-druck-in-der-spd-zaehlen-sie-friedrich-merz-stunden/100253801.html",
+          "published": "2026-09-11T13:03:22+00:00",
+          "summary": "Nach Sachsen-Anhalt ist vor Mecklenburg-Vorpommern. Und die Sozialdemokraten in Berlin schauen gebannt auf das nächste Wahlergebnis der Union. Kommt der Kanzlerwechsel?"
         },
         {
-          "title": "Ferienimmobilien: Die Top-Adressen für Ihr Ferienhaus an der Ostsee",
-          "link": "https://www.wiwo.de/finanzen/immobilien/ferienimmobilien-an-der-ostsee-die-top-adressen-fuer-ihr-ferienhaus-an-der-ostsee/100253809.html",
-          "published": "2026-09-11T11:59:56+00:00",
-          "summary": "Urlaub an der Ostsee wird immer beliebter. Das hält die Immobilienpreise stabil. Wer günstiger kaufen will, sucht auf Rügen oder Usedom."
+          "title": "Wann kommt iOS 27?: Das müssen Sie zum bevorstehenden iPhone-Update wissen",
+          "link": "https://www.wiwo.de/unternehmen/it/wann-kommt-ios-27-release-datum-neuerungen-liste-kompatibler-iphones/28675148.html",
+          "published": "2026-09-11T12:52:00+00:00",
+          "summary": "iOS 27 steht kurz vor dem Release. Nutzer können sich kommende Woche auf zahlreiche Neuerungen freuen. Das müssen Sie zum neuen Apple-Update wissen."
         },
         {
-          "title": "Ferienimmobilien: Wie der Traum vom Ferienhaus wahr wird",
-          "link": "https://www.wiwo.de/finanzen/ferienhaus-kaufen-in-deutschland-wann-es-sich-wirklich-lohnt/100253463.html",
-          "published": "2026-09-11T11:58:14+00:00",
-          "summary": "Der Klimawandel macht den Urlaub in Deutschland attraktiver. Worauf Interessenten achten müssen, um sich zwischen Sylt und den bayrischen Alpen ein Feriendomizil zuzulegen."
+          "title": "Finanzmärkte: Am Anleihemarkt braut sich der perfekte Sturm zusammen",
+          "link": "https://www.wiwo.de/finanzen/boerse/anleihemarkt-es-braut-sich-der-perfekte-sturm-zusammen/100253823.html",
+          "published": "2026-09-11T12:41:00+00:00",
+          "summary": "Die Renditen wichtiger Anleihen erreichen Niveaus wie zuletzt zu Finanzkrisenzeiten. Dahinter stehen mehrere Faktoren, die sich gegenseitig noch verstärken. Eine brisante Lage."
         }
       ],
       "error": null
@@ -242,7 +242,7 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Selbstüberschätzung im Job: Warum wir unsere Fähigkeiten oft falsch einschätzen",
+          "title": "Dunning-Kruger-Effekt auf dem Prüfstand: Überschätzen sich ausgerechnet die Besten?",
           "link": "https://www.ingenieur.de/karriere/arbeitsleben/selbstuberschatzung-im-job-warum-wir-unsere-fahigkeiten-oft-falsch-einschatzen/",
           "published": "2026-09-11T12:00:00+00:00",
           "summary": "Selbstüberschätzung im Job kann Karriere, Projekte und Teams gefährden. Warum Selbstbild und Realität auseinandergehen – und was dagegen hilft."
@@ -252,6 +252,12 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/3d-druck/sauberer-bruch-ultraschall-entfernt-stuetzstrukturen-beim-3d-druck/",
           "published": "2026-09-11T11:00:00+00:00",
           "summary": "Stützstrukturen sind beim Metall-3D-Druck oft unverzichtbar, ihre Entfernung kostet jedoch Zeit und erfordert Handarbeit. Ein neues Fraunhofer-Verfahren soll diesen Schritt automatisieren: Gezielt …"
+        },
+        {
+          "title": "Verkörperte KI: Neue Version des Roboterhunds Spot verbessert mit Gemini die Inspektion",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/automation/boston-dynamics-neuste-version-von-spot/",
+          "published": "2026-09-11T10:30:00+00:00",
+          "summary": "Damit KI-Agentensysteme Zugriff auf alle relevanten Daten haben, ist eine gemeinsame Kommunikationsebene nötig. Genau die baut Boston Dynamics nun um seinen Roboter Spot auf."
         },
         {
           "title": "Kleines Dorf organisiert die Energiewende ganz groß",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/wie-viel-beton-steckt-im-haus-dieses-tool-schaetzt-es-mit-openstreetmap/",
           "published": "2026-09-11T05:50:28+00:00",
           "summary": "Ein Tool der TU Graz schätzt, wie viel Beton, Ziegel und Holz in Gebäuden steckt. Dafür kombiniert es Geodaten mit 154 Gebäudetypen."
-        },
-        {
-          "title": "Europa bestellt 264 Satelliten für 2,4 Mrd. € bei einem acht Jahre alten Unternehmen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/europa-bestellt-264-satelliten-fuer-2-4-mrd-euro-bei-einem-acht-jahre-alten-unternehmen/",
-          "published": "2026-09-10T17:24:57+00:00",
-          "summary": "Aerospacelab erhält 2,4 Mrd. € für 264 IRIS²-Satelliten. Eine neue Fabrik in Belgien soll 80 % der europäischen LEO-Flotte bauen."
         }
       ],
       "error": null
