@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T00:11:55+00:00",
+  "generatedAt": "2026-09-12T02:09:08+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647638.html",
+          "published": "2026-09-12T01:04:24+00:00",
+          "summary": ""
+        },
         {
           "title": "Zverev zieht souverän ins Finale der US Open ein",
           "link": "https://www.sportschau.de/tennis/us-open/zverev-zieht-souveraen-ins-finale-der-us-open-ein,tennis-us-open-halbfinale-zverev-khachanov-100.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1647588.html",
           "published": "2026-09-11T21:15:40+00:00",
           "summary": ""
-        },
-        {
-          "title": "25 Jahre nach 9/11 - Ein ganzes Land trauert um Tausende Opfer",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1647586.html",
-          "published": "2026-09-11T21:09:16+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Weinregeln: Neue Qualitätspyramide für deutsche Weine",
+          "link": "https://www.handelsblatt.com/politik/deutschland/weinregeln-neue-qualitaetspyramide-fuer-deutsche-weine/100254008.html",
+          "published": "2026-09-12T01:30:07+00:00",
+          "summary": "Der 2026er-Jahrgang gilt wegen des Hitzesommers als vielversprechend. Und die Winzer müssen sich an neue Regeln halten."
+        },
+        {
+          "title": "Insiderberichte: Nvidia erwägt offenbar Milliardeneinstieg bei Anthropic-Börsengang",
+          "link": "https://www.handelsblatt.com/technik/it-internet/insiderberichte-nvidia-erwaegt-offenbar-milliardeneinstieg-bei-anthropic-boersengang/100254006.html",
+          "published": "2026-09-12T00:55:49+00:00",
+          "summary": "Der Chiphersteller könnte sich mit bis zu 10 Milliarden Dollar am Anthropic-Börsengang beteiligen, berichten Insider. Das KI-Start-up ist auf die Grafikprozessoren von Nvidia angewiesen."
+        },
         {
           "title": "Türkische Justiz: Erdogan-Rivale Imamoglu zu zwei Jahren Haft verurteilt",
           "link": "https://www.handelsblatt.com/politik/international/tuerkische-justiz-erdogan-rivale-imamoglu-zu-zwei-jahren-haft-verurteilt/100254002.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/mit-klausel-aus-tarifvertrag-arbeitnehmer-draengen-vw-vorstand-zu-gespraechen/100253912.html",
           "published": "2026-09-11T20:43:28+00:00",
           "summary": "Volkswagen steht vor einem tiefgreifenden Umbau - und viele Fragen sind offen. Das löst Zukunftsangst bei Beschäftigten aus. Nun wollen die Arbeitnehmer Klarheit schaffen. Die Antwort folgt prompt."
-        },
-        {
-          "title": "Dow Jones, S&P 500, Nasdaq: Sinkende Ölpreise stützen US‑Börsen – Wall Street schließt im Plus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-sinkende-oelpreise-stuetzen-usboersen-wall-street-schliesst-im-plus/100253945.html",
-          "published": "2026-09-11T20:25:19+00:00",
-          "summary": "Nach verlustreichen Tagen beendet die Wall Street die Woche mit einer positiven Note. Inflationsdaten im Rahmen der Erwartungen machen eine Zinserhöhung wahrscheinlicher."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab/100136895.html",
-          "published": "2026-09-11T20:08:00+00:00",
-          "summary": "Iran und Golfstaaten wollen über Straße von Hormus sprechen +++ Iranischer Präsident trifft zum BRICS-Gipfel in Indien ein +++ Der Newsblog."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "KW 37: Das waren die Gewinner und Verlierer im DAX",
-          "link": "https://www.finanzen.net/nachricht/aktien/kw-37-das-waren-die-gewinner-und-verlierer-im-dax-15930774",
-          "published": "2026-09-11T23:32:00+00:00",
-          "summary": "Im Laufe der Woche kam es am deutschen Aktienmarkt zu Ausschlägen. So entwickelten sich die Einzelwerte des deutschen Leitindex DAX."
-        },
-        {
-          "title": "Bitcoin vor Rally? Was CZ jetzt grösser als Gold sieht",
-          "link": "https://www.finanzen.net/nachricht/aktien/bitcoin-vor-rally-was-cz-jetzt-groesser-als-gold-sieht-15930772",
-          "published": "2026-09-11T23:22:00+00:00",
-          "summary": "Auf der Bitcoin Asia 2026 in Hongkong erklärt Binance-Mitgründer Changpeng Zhao, warum er den Wettlauf zwischen Bitcoin und Gold für so gut wie entschieden hält."
-        },
-        {
-          "title": "Finanzberater: Darum ist das 60/40-Portfolio endgültig überholt",
-          "link": "https://www.finanzen.net/nachricht/aktien/steigende-lebenserwartung-finanzberater-darum-ist-das-60-40-portfolio-endgueltig-ueberholt-14478075",
-          "published": "2026-09-11T23:12:00+00:00",
-          "summary": "60/40-Portfolio soll finanzielle Sicherheit im Ruhestand bieten • Ric Edelman sieht dies bei hoher Lebenserwartung aber nicht gewährleistet • Der Finanzexperte rät zu anderen Lösungen Für eher …"
-        },
-        {
           "title": "Reha vor Rente: Voraussetzungen und Bedeutung der Erwerbsminderungsrente",
           "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/sozialrecht-reha-vor-rente-voraussetzungen-und-bedeutung-der-erwerbsminderungsrente-00-15382426",
-          "published": "2026-09-11T23:03:00+00:00",
+          "published": "2026-09-12T02:05:00+00:00",
           "summary": "Grundsatz \"Reha vor Rente\": Erst helfen, dann zahlen Wer aus gesundheitlichen Gründen seinen Beruf nicht mehr wie gewohnt ausüben kann, denkt oft früh an eine Erwerbsminderungsrente . ..."
         },
         {
-          "title": "Wann lohnen sich Inflation-Linked Bond ETFs? So funktioniert der Inflationsschutz im Portfolio",
-          "link": "https://www.finanzen.net/nachricht/etf/break-even-im-blick-wann-lohnen-sich-inflation-linked-bond-etfs-so-funktioniert-der-inflationsschutz-im-portfolio-00-15717050",
-          "published": "2026-09-11T21:50:00+00:00",
-          "summary": "Inflation -Linked Bond ETFs sollen Kaufkraftverluste durch Inflation abfedern •Entscheidend ist, ob die Inflation über der Break-Even-Rate liegt •Risiken bleiben etwa durch steigende ..."
+          "title": "KW 37 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-37-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15921311",
+          "published": "2026-09-12T01:43:59+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 37"
+        },
+        {
+          "title": "KW 37: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
+          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-37-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15921309",
+          "published": "2026-09-12T01:11:00+00:00",
+          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 37 aus"
+        },
+        {
+          "title": "Vor NASDAQ-Börsengang: Oura meldet Umsatzexplosion",
+          "link": "https://www.finanzen.net/nachricht/aktien/vor-nasdaq-boersengang-oura-meldet-umsatzexplosion-15930821",
+          "published": "2026-09-12T00:41:00+00:00",
+          "summary": "Jüngst reichte der finnische Wearable-Hersteller seinen Börsenprospekt ein, dessen Zahlen neue Fragen zur Profitabilität aufwerfen."
+        },
+        {
+          "title": "Tesla- vs. Alphabet-Aktie: Wer macht das Robotaxi-Rennen?",
+          "link": "https://www.finanzen.net/nachricht/aktien/tesla-vs-alphabet-aktie-wer-macht-das-robotaxi-rennen-15930820",
+          "published": "2026-09-12T00:37:00+00:00",
+          "summary": "Tesla hat in Austin erste Fahrten mit dem fahrerlosen Cybercab gestartet. Die US-Verkehrssicherheitsbehörde NHTSA nimmt den Dienst nun unter die Lupe."
         }
       ],
       "error": null
