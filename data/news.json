@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:14:05+00:00",
+  "generatedAt": "2026-09-12T22:08:11+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Basketball-WM: DBB-Frauen unterliegen Frankreich im Halbfinale",
-          "link": "https://www.sportschau.de/basketball/nationalmannschaft/finaltraum-geplatzt-dbb-frauen-unterliegen-frankreich-im-halbfinale,bericht-halbfinale-frankreich-deutschland-100.html",
-          "published": "2026-09-12T19:46:39+00:00",
-          "summary": "Die deutschen Basketballerinnen haben ihr Halbfinale gegen Frankreich verloren und das Finale verpasst. Der Traum von der WM-Medaille aber geht weiter."
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648066.html",
-          "published": "2026-09-12T19:05:55+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12850.html",
+          "published": "2026-09-12T21:50:40+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1647972.html",
-          "published": "2026-09-12T18:50:06+00:00",
-          "summary": "Nach AfD-Wahlsieg in Sachsen-Anhalt protestieren bundesweit Zehntausende gegen Rechtsextremismus, Saudi-Arabien durch Erfolge der Huthi-Rebellen und Angriff auf Ölpipeline zunehmend unter Druck …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12246.html",
-          "published": "2026-09-12T18:44:10+00:00",
+          "title": "Verleihung des \"Goldenen Löwen\" bei den Filmfestspielen in Venedig",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1648096.html",
+          "published": "2026-09-12T21:39:35+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-80882.html",
-          "published": "2026-09-12T18:28:28+00:00",
+          "title": "Demonstrationen in deutschen Städten nach Wahlsieg der AfD in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1648090.html",
+          "published": "2026-09-12T21:30:17+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Ramin Sina, zzt. Sulaimaniyya/Irak, zu den Angriffen aus dem Irak auf saudische Pipeline",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1648092.html",
+          "published": "2026-09-12T21:30:16+00:00",
+          "summary": ""
+        },
+        {
+          "title": "BRICS-Gipfel in Neu-Delhi: Betonung der Einigkeit trotz unterschiedlicher Positionen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1648094.html",
+          "published": "2026-09-12T21:30:15+00:00",
           "summary": ""
         }
       ],
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Ukraine-Krieg: Moskau muss Rückversicherer mit Milliarden unterstützen",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-12T20:56:00+00:00",
+          "summary": "Ukraine: Bereiten uns auf neue Friedensgespräche im Oktober vor +++ Russland meldet Abwehr von 777 ukrainischen Drohnen +++ Mehrere Tote bei russischen Angriffen auf Dnipro und Kiew +++ Der Newsblog."
+        },
+        {
+          "title": "ChatGPT-Erfinder: OpenAI verschiebt Börsengang – Chef Altman spricht von „Sicherheitsbedenken“",
+          "link": "https://www.handelsblatt.com/technik/ki/chatgpt-erfinder-openai-verschiebt-boersengang-chef-altman-spricht-von-sicherheitsbedenken/100254089.html",
+          "published": "2026-09-12T20:45:03+00:00",
+          "summary": "Der Entwickler des Textroboters ChatGPT verschiebt seinen Börsengang auf 2027. Sam Altman begründet den Schritt mit Sicherheitsproblemen, die als Privatfirma einfacher zu lösen seien."
+        },
+        {
+          "title": "Künstliche Intelligenz: OpenAI-Chef: Börsengang nicht mehr in diesem Jahr",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-chef-boersengang-nicht-mehr-in-diesem-jahr/100254090.html",
+          "published": "2026-09-12T20:21:26+00:00",
+          "summary": "Der ChatGPT-Entwickler OpenAI ist das wohl bekannteste KI-Unternehmen. Der seit langem vorbereitete Börsengang dürfte ein Riesen-Event werden. Doch Firmenchef Sam Altman findet den Moment ungünstig."
+        },
+        {
           "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
           "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung/100254082.html",
           "published": "2026-09-12T17:34:20+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/technik/it-internet/ki-sicherheit-dario-amodei-warnt-vor-ki-katastrophe/100254079.html",
           "published": "2026-09-12T17:31:23+00:00",
           "summary": "Der Anthropic-Chef fordert in einem viel beachteten Essay, die Entwicklung neuer Modelle zu drosseln – und räumt Pannen im eigenen Haus ein. Sein Drei-Stufen-Plan reicht bis nach China."
-        },
-        {
-          "title": "Ukraine: „Russischer Blitzkrieg“ – Ukraine bereitet sich auf russische Herbstoffensive vor",
-          "link": "https://www.handelsblatt.com/politik/international/russischer-blitzkrieg-ukraine-bereitet-sich-auf-russische-herbstoffensive-vor/100253856.html",
-          "published": "2026-09-12T17:00:41+00:00",
-          "summary": "Russland bombardiert ukrainische Städte und plant eine neue Offensive an der Front. Führende ukrainische Generäle sind zuversichtlich, den Feind stoppen zu können."
-        },
-        {
-          "title": "Berlin-Wahl: Enteignungen in Berlin? Der Wahlkampf in der Hauptstadt wird zum Mietenkampf",
-          "link": "https://www.handelsblatt.com/politik/deutschland/berlin-wahl-enteignungen-in-berlin-der-wahlkampf-wird-zum-mietenkampf/100248372.html",
-          "published": "2026-09-12T16:55:27+00:00",
-          "summary": "Die Wohnungsnot dominiert die Berliner Landtagswahl, an vorderster Front: die Linke und ihr Plan für Enteignungen. Dabei ist der Mietmarkt schon jetzt überreguliert, Investoren sind frustriert."
-        },
-        {
-          "title": "Bundesweiter Protest: Zehntausende demonstrieren gegen Rechtsextremismus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundesweiter-protest-zehntausende-demonstrieren-gegen-rechtsextremismus/100254078.html",
-          "published": "2026-09-12T16:32:06+00:00",
-          "summary": "In ganz Deutschland fordern Tausende auf bunten Protestzügen ein klares Zeichen gegen rechts. Nach dem AfD-Wahlsieg in Sachsen-Anhalt wird der Ruf nach einem Verbotsverfahren lauter."
         }
       ],
       "error": null
@@ -127,32 +127,32 @@
         {
           "title": "Gold-Stratege Stöferle im Interview: „Gold ist weiterhin extrem günstig“",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-gold-stratege-stoeferle-im-interview-gold-ist-weiterhin-extrem-guenstig-15929814",
-          "published": "2026-09-12T19:55:00+00:00",
+          "published": "2026-09-12T21:55:00+00:00",
           "summary": "Zum Artikel"
-        },
-        {
-          "title": "Tech-Aktien weiter gefragt: So positionierte sich die SNB im zweiten Quartal 2026",
-          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-tech-aktien-weiter-gefragt-so-positionierte-sich-die-snb-im-zweiten-quartal-2026-15921317",
-          "published": "2026-09-12T18:52:00+00:00",
-          "summary": "Das US-Portfolio der Schweizerischen Nationalbank ( SNB ) umfasst Milliarden von US-Dollar und unterliegt damit der Pflicht, ihre US-Aktienbestände alle drei Monate offenzulegen. ..."
         },
         {
           "title": "BVB-Aktie: Nico Schlotterbeck gibt Comeback nach WM-Verletzung - Karetsas bald wieder spielfähig",
           "link": "https://www.finanzen.net/nachricht/aktien/keine-auffaelligkeiten-bvb-aktie-nico-schlotterbeck-gibt-comeback-nach-wm-verletzung-karetsas-bald-wieder-spielfaehig-15931247",
-          "published": "2026-09-12T18:51:00+00:00",
+          "published": "2026-09-12T21:50:00+00:00",
           "summary": "Der 26-Jährige steht in der Startelf von Borussia Dortmund (BVB) für das Bundesligaspiel gegen den SC Paderborn. Schlotterbeck hatte sich im zweiten WM-Gruppenspiel der deutschen Nationalmannschaft …"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-12T18:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "Tech-Aktien weiter gefragt: So positionierte sich die SNB im zweiten Quartal 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-tech-aktien-weiter-gefragt-so-positionierte-sich-die-snb-im-zweiten-quartal-2026-15921317",
+          "published": "2026-09-12T21:47:00+00:00",
+          "summary": "Das US-Portfolio der Schweizerischen Nationalbank ( SNB ) umfasst Milliarden von US-Dollar und unterliegt damit der Pflicht, ihre US-Aktienbestände alle drei Monate offenzulegen. ..."
         },
         {
-          "title": "finanzen.net ZERO ist mehrfacher 'Kostensieger' der Stiftung Warentest (12/2025)",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-finanzen-net-zero-ist-mehrfacher-kostensieger-der-stiftung-warentest-12-2025-15266897",
-          "published": "2026-09-12T18:30:00+00:00",
-          "summary": "In eigener Sache Die Stiftung Warentest hat in ihrem letzten Depot-Vergleich ihr 'Kostensieger'-Urteil für finanzen.net ZERO, den Broker von finanzen.net, erneuert. ..."
+          "title": "Wiederholt sich die Japan-Aktienrally von 2023? Das sagt Bank of America",
+          "link": "https://www.finanzen.net/nachricht/aktien/rueckkauf-wiederholt-sich-die-japan-aktienrally-von-2023-das-sagt-bank-of-america-00-15914281",
+          "published": "2026-09-12T21:41:00+00:00",
+          "summary": "US-Finanzministerium verdoppelt Rückkaufobergrenze für langfristige Staatsanleihen • Bank of America zieht in einem Strategiebericht Parallelen zur sogenannten Fed-Pivot-Rally japanischer Aktien von …"
+        },
+        {
+          "title": "KW 37 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-37-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15921311",
+          "published": "2026-09-12T21:36:00+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 37"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Wirtschaft von oben: So schwerwiegend ist der Ausfall der saudischen Ost-West-Pipeline",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/ost-west-pipeline-in-saudi-arabien-so-schwerwiegend-ist-der-ausfall/100215661.html",
+          "published": "2026-09-12T21:00:00+00:00",
+          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Ausbruch des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Am Freitag wurde sie nach einem Treffer abgeschaltet."
+        },
+        {
           "title": "Debatte um die Rente: In den Auto-Krisenländern ist die Frührente am beliebtesten",
           "link": "https://www.wiwo.de/politik/deutschland/altersteilzeit-wo-industriekrise-und-rentendebatte-aufeinandertreffen/100253556.html",
           "published": "2026-09-12T14:12:00+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/finanzen/boerse/heidelberg-materials-aktie-baustoffkonzern-ist-nachhaltig-guenstig/100252925.html",
           "published": "2026-09-12T12:59:00+00:00",
           "summary": "Die geplante Lockerung des EU-Emissionshandels belastet Heidelberg Materials. Was dennoch für die Aktie spricht."
-        },
-        {
-          "title": "Mein Wendepunkt: „Das seltsamste Vorstellungsgespräch meines Lebens“",
-          "link": "https://www.wiwo.de/erfolg/management/wolfram-diener-der-messechef-erzaehlt-vom-wendepunkt-seiner-karriere/100252509.html",
-          "published": "2026-09-12T12:44:00+00:00",
-          "summary": "Messechef Wolfram Diener arbeitete sieben Jahre lang für einen fordernden US‑Unternehmer. Er stand Tag und Nacht parat. Auch an Weihnachten. Das verlangte seinen Tribut."
         }
       ],
       "error": null
