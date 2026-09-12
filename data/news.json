@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:11:00+00:00",
+  "generatedAt": "2026-09-12T08:08:57+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
-          "link": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
-          "published": "2026-09-12T05:18:36+00:00",
-          "summary": "Putin, Xi, Modi: Beim BRICS-Gipfel in Neu-Delhi treffen selbstbewusste Staatenlenker aufeinander. Bei vielen Themen liegen sie weit auseinander. Was kann das Treffen bei den globalen Krisen - von …"
-        },
-        {
-          "title": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
-          "published": "2026-09-12T05:04:13+00:00",
-          "summary": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz 1. Doch immer wieder sind die Reeder auch in Grauzonen …"
-        },
-        {
-          "title": "Mindestens 44 Verletzte bei Zugunglück in Frankreich",
-          "link": "https://www.tagesschau.de/video/video-1647642.html",
-          "published": "2026-09-12T04:24:10+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80876.html",
+          "published": "2026-09-12T07:55:00+00:00",
           "summary": ""
         },
         {
-          "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
-          "published": "2026-09-12T03:41:39+00:00",
-          "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden verletzt, darunter eine Person schwer. An Bord des Regionalzuges waren rund 180 Passagiere. Die …"
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-12T07:47:59+00:00",
+          "summary": "Samstag mal Sonne, mal Wolken und oft trocken, nur vereinzelt Schauer. Im Süden zum Teil länger sonnig. Im Nordwesten am Nachmittag Wolkenverdichtung und Richtung Nordsee etwas Regen. 19 bis 27 Grad."
         },
         {
-          "title": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
-          "published": "2026-09-12T03:12:30+00:00",
-          "summary": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1.000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands …"
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647682.html",
+          "published": "2026-09-12T07:35:52+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Anina Pommerenke, ARD-aktuell, zum BRICS-Gipfel in Neu-Delhi",
+          "link": "https://www.tagesschau.de/video/video-1647680.html",
+          "published": "2026-09-12T07:32:56+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
+          "link": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html",
+          "published": "2026-09-12T07:28:44+00:00",
+          "summary": "US-Präsident Trump spricht von guten Beziehungen zu Nordkoreas Machthaber Kim. Doch unmittelbar nach Ende eines Manövers der USA mit Südkorea reagiert der Norden mit Raketen."
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "+++ Iran-Krieg +++: Iran stellt Öffnung der Straße von Hormus in Aussicht",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-stellt-oeffnung-der-strasse-von-hormus-in-aussicht/100136895.html",
+          "published": "2026-09-12T07:30:00+00:00",
+          "summary": "Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab +++ Iran und Golfstaaten wollen zu Straße von Hormus sprechen +++ Iranischer Präsident trifft zu BRICS-Gipfel ein +++ Der Newsblog."
+        },
+        {
+          "title": "Interview: Politikwissenschaftler nach AfD-Sieg: „Für Unternehmen in Sachsen-Anhalt kann es richtig bitter werden“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/afd-fuer-unternehmen-in-sachsen-anhalt-kann-es-richtig-bitter-werden-01/100253157.html",
+          "published": "2026-09-12T07:00:00+00:00",
+          "summary": "Viele Unternehmenschefs halten sich in der öffentlichen Debatte zurück, obwohl sie die Demokratie unter Druck sehen. Politikwissenschaftler Knut Bergmann sieht dafür mehrere Gründe."
+        },
+        {
+          "title": "Morning Briefing Plus: Wo bleibt der Pisa-Aufschrei?",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-wo-bleibt-der-pisa-aufschrei/100253820.html",
+          "published": "2026-09-12T06:42:00+00:00",
+          "summary": "Deutsche Schüler schneiden bei Pisa so schlecht ab wie noch nie und alle zucken mit den Schultern. Dabei ist Bildung für die Zukunft des Landes wichtiger als jede Rentenreform."
+        },
+        {
           "title": "Interview: „Friedrich Merz lernt gerade auf die schmerzhafte Tour drei Dinge“",
           "link": "https://www.handelsblatt.com/politik/deutschland/regierung-friedrich-merz-lernt-gerade-auf-die-schmerzhafte-tour-drei-dinge/100252523.html",
           "published": "2026-09-12T04:39:00+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/konflikt-im-nahen-osten-pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck/100254031.html",
           "published": "2026-09-12T04:10:53+00:00",
           "summary": "Die Zange schließt sich um Saudi-Arabien: Im Westen bedroht die Huthi-Miliz eine Exportroute, im Osten blockiert der Iran die Straße von Hormus. Eine wichtige Pipeline wird nach Attacken dichtgemacht."
-        },
-        {
-          "title": "„Brains on Silicon“: Expertin: KI soll Umsätze im Mittelstand ankurbeln",
-          "link": "https://www.handelsblatt.com/technik/it-internet/brains-on-silicon-expertin-ki-soll-umsaetze-im-mittelstand-ankurbeln/100254029.html",
-          "published": "2026-09-12T04:00:07+00:00",
-          "summary": "Wie können mittelständische Unternehmen mit Künstlicher Intelligenz wachsen? Eine Expertin erklärt, warum Mut und einfache Lösungen den Unterschied machen."
-        },
-        {
-          "title": "Containerschifffahrt: Hapag-Lloyd setzt trotz israelischem Veto auf ZIM-Übernahme",
-          "link": "https://www.handelsblatt.com/politik/deutschland/containerschifffahrt-hapag-lloyd-setzt-trotz-israelischem-veto-auf-zim-uebernahme/100254025.html",
-          "published": "2026-09-12T03:30:04+00:00",
-          "summary": "Warum glaubt Hapag-Lloyd trotz Widerstand aus Israel an die ZIM-Übernahme? Hinter den Kulissen laufen intensive Gespräche – und es geht um rund 3,6 Milliarden Euro."
-        },
-        {
-          "title": "Bald beginnt die Heizperiode: Behörde: Gasspeicher könnten schon jetzt für Winter reichen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bald-beginnt-die-heizperiode-behoerde-gasspeicher-koennten-schon-jetzt-fuer-winter-reichen/100254020.html",
-          "published": "2026-09-12T03:05:05+00:00",
-          "summary": "Der Herbst naht, bald brauchen Millionen Haushalte wieder viel mehr Gas für ihre Heizung. Doch Deutschlands Gasspeicher sind nicht allzu voll. Die Bundesnetzagentur teilt die Bedenken nicht."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Ölexporte massiv unter Druck: Wichtige saudische Pipeline stillgelegt - wird Benzin noch teurer?",
+          "link": "https://www.n-tv.de/wirtschaft/Wichtige-saudische-Pipeline-stillgelegt-wird-Benzin-noch-teurer-id31298215.html",
+          "published": "2026-09-12T06:40:29+00:00",
+          "summary": "Nach Drohnenangriffen muss Saudi-Arabien auch noch eine zentrale Ölpipeline abschalten - bisher eine Alternative zur Straße von Hormus. Der Ölpreis und damit die Spritpreise in Deutschland könnten …"
+        },
         {
           "title": "Beziehungen ausbauen: Nvidia plant offenbar Milliardeneinstieg bei Anthropic-Börsengang",
           "link": "https://www.n-tv.de/wirtschaft/Nvidia-plant-offenbar-Milliardeneinstieg-bei-Anthropic-Boersengang-id31298005.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-20-September-2026-id31278603.html",
           "published": "2026-09-11T22:01:00+00:00",
           "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
-        },
-        {
-          "title": "Anleger erwarten Zinserhöhung: Sinkende Ölpreise geben der Wall Street Rückenwind",
-          "link": "https://www.n-tv.de/wirtschaft/Sinkende-Oelpreise-geben-der-Wall-Street-Rueckenwind-id31297732.html",
-          "published": "2026-09-11T21:03:23+00:00",
-          "summary": "Die Wall Street verabschiedet sich freundlich ins Wochenende. Der Ölpreis fällt, bleibt allerdings auf einem hohen Niveau. Dass die Fed wegen der hohen Inflation die Zinsen erhöht, gilt bei den …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "KI-Aktien im Blick: Tesla- und SpaceX-CEO Musk sieht KI bis Ende 2027 bei digitalen Aufgaben vor Menschen",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-prognose-ki-aktien-im-blick-tesla-und-spacex-ceo-musk-sieht-ki-bis-ende-2027-bei-digitalen-aufgaben-vor-menschen-00-15916175",
-          "published": "2026-09-12T05:53:00+00:00",
-          "summary": "Elon Musk erwartet übermenschliche KI-Fähigkeiten bei digitalen Aufgaben bis Ende 2027 • Besonders im Hacking könnten KI-Systeme menschliche Sicherheitsexperten übertreffen • Neue Sicherheitsvorfälle …"
+          "title": "Kassenärzte: Dringende Facharzttermine schneller möglich",
+          "link": "https://www.finanzen.net/nachricht/aktien/kassenaerzte-dringende-facharzttermine-schneller-moeglich-15931149",
+          "published": "2026-09-12T08:02:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Kassenärzte-Chef Andreas Gassen hält in medizinisch dringenden Fällen schnellere Facharzttermine für möglich. \"Denkbar wäre eine schnelle Terminvermittlung für objektiv medizinisch …"
         },
         {
-          "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
-          "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-37-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15881699",
-          "published": "2026-09-12T05:53:00+00:00",
-          "summary": "Hier finden Sie den Nachrichten-Rückblick auf die vergangene Woche."
+          "title": "Behörde: Gasspeicher könnten schon jetzt für Winter reichen",
+          "link": "https://www.finanzen.net/nachricht/aktien/behoerde-gasspeicher-koennten-schon-jetzt-fuer-winter-reichen-15931148",
+          "published": "2026-09-12T08:02:38+00:00",
+          "summary": "BONN (dpa-AFX) - Die Bundesnetzagentur ist Bedenken entgegengetreten, dass Deutschlands Gasspeicher in diesem Winter nicht ausreichen könnten für die Gasversorgung. \"Wir haben jetzt schon etwas mehr …"
         },
         {
-          "title": "Vermögensaufbau für Minderjährige: So holen Eltern das Maximum aus Steuern und Automatisierung heraus",
-          "link": "https://www.finanzen.net/nachricht/aktien/vermoegensaufbau-fuer-minderjaehrige-so-holen-eltern-das-maximum-aus-steuern-und-automatisierung-heraus-15931060",
-          "published": "2026-09-12T05:44:20+00:00",
-          "summary": ""
+          "title": "Müde Schüler: Fast jeder zweite klagt über Schlafprobleme",
+          "link": "https://www.finanzen.net/nachricht/aktien/muede-schueler-fast-jeder-zweite-klagt-ueber-schlafprobleme-15931147",
+          "published": "2026-09-12T08:01:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Fast die Hälfte der Schülerinnen und Schüler in den Klassen fünf bis zehn klagt über Schlafstörungen. Dies geht aus einer groß angelegten Umfrage im Auftrag der Krankenkasse DAK …"
         },
         {
-          "title": "China-Aktien überholen die USA: IPO-Rekord im direkten Vergleich",
-          "link": "https://www.finanzen.net/nachricht/aktien/ipo-boom-china-aktien-ueberholen-die-usa-ipo-rekord-im-direkten-vergleich-00-15909923",
-          "published": "2026-09-12T05:44:00+00:00",
-          "summary": "Hongkonger Börse sammelt im ersten Halbjahr 2026 mit 85 IPOs rund 209,9 Milliarden Hongkong-Dollar ein • KI-nahe Unternehmen wie MiniMax und Shanghai Biren Technology treiben Boom an • Deloitte …"
+          "title": "Hapag-Lloyd setzt trotz israelischem Veto auf ZIM-Übernahme",
+          "link": "https://www.finanzen.net/nachricht/aktien/hapag-lloyd-setzt-trotz-israelischem-veto-auf-zim-uebernahme-15931146",
+          "published": "2026-09-12T08:01:39+00:00",
+          "summary": "HAMBURG (dpa-AFX) - Die Hamburger Containerreederei Hapag-Lloyd setzt trotz des bisherigen Widerstands der israelischen Regierung weiter auf die Übernahme der dortigen Reederei ZIM. \"Das Konzept, das …"
         },
         {
-          "title": "Sieben Auswirkungen der Entscheidung des Supreme Court der USA zu Trumps Zöllen",
-          "link": "https://www.finanzen.net/nachricht/aktien/werbung-sieben-auswirkungen-der-entscheidung-des-supreme-court-der-usa-zu-trumps-zoellen-15601209",
-          "published": "2026-09-12T05:37:00+00:00",
-          "summary": "Mehr erfahren!"
+          "title": "Umfrage: Beschäftigte würden mehr arbeiten - Anreize wichtig",
+          "link": "https://www.finanzen.net/nachricht/aktien/umfrage-beschaeftigte-wuerden-mehr-arbeiten-anreize-wichtig-15931145",
+          "published": "2026-09-12T08:01:38+00:00",
+          "summary": "NÜRNBERG/DÜSSELDORF (dpa-AFX) - Die Mehrheit der Erwerbstätigen ist laut einer Umfrage bereit, mehr zu arbeiten - sofern die Rahmenbedingungen dafür stimmen. Zugleich empfindet jeder Zweite nach der …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wirtschaft von oben: So schlimm ist der Ausfall der saudische Ost-West-Pipeline",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/huthi-angriff-so-schlimm-ist-der-treffer-in-die-saudische-ost-west-pipeline/100215661.html",
-          "published": "2026-09-11T22:23:00+00:00",
-          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Beginn des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Was ein Treffer bedeutet."
+          "title": "Wirtschaft von oben: So schwerwiegend ist der Ausfall der saudischen Ost-West-Pipeline",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/huthi-angriff-so-schlimm-ist-der-treffer-der-saudischen-ost-west-pipeline/100215661.html",
+          "published": "2026-09-12T08:03:00+00:00",
+          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Ausbruch des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Am Freitag wurde sie nach einem Treffer abgeschaltet."
         },
         {
-          "title": "Staatsbesuch: Deutschland und die VAE bauen Kooperationen im Energiesektor aus",
-          "link": "https://www.wiwo.de/politik/deutschland/staatsbesuch-deutschland-und-die-vae-bauen-kooperationen-im-energiesektor-aus/100253971.html",
-          "published": "2026-09-11T17:43:00+00:00",
-          "summary": "Die Emirate investieren 40 Milliarden in den Bund – und davon zehn Milliarden in den Freistaat. Welche Branchen davon profitieren."
+          "title": "Vereinigtes Königreich: Rekordspende für britische Rechtspartei Reform UK",
+          "link": "https://www.wiwo.de/politik/europa/vereinigtes-koenigreich-rekordspende-fuer-britische-rechtspartei-reform-uk/100254040.html",
+          "published": "2026-09-12T08:02:24+00:00",
+          "summary": "Großbritanniens Rechtspopulisten erhalten für den Wahlkampf eine Millionenspende. Die Rekordsumme folgt auf Wochen mit verschiedenen Betrugsvorwürfen."
         },
         {
-          "title": "Start-up der Woche: Die Sensoren dieses Start-ups benötigen keinen Strom",
-          "link": "https://www.wiwo.de/erfolg/gruender/ohne-strom-start-up-entwickelt-mechanische-chips/100253488.html",
-          "published": "2026-09-11T15:37:17+00:00",
-          "summary": "Die Chips von MechIC erkennen Abnutzungen an Bauteilen – und kommen ohne Batterien und Kabel aus. Was hält Investor Olaf Joeressen von der Idee?"
+          "title": "AfD-Wahlerfolge: „Die Zeit für Vielfalt als Lippenbekenntnis ist vorbei“",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/afd-wahlerfolge-cawa-younosi-fordert-mehr-politische-haltung-der-unternehmen/100253509.html",
+          "published": "2026-09-12T07:57:00+00:00",
+          "summary": "Er war Geflüchteter und wurde SAP‑Personalchef. Nun fordert Cawa Younosi mehr politische Haltung der Unternehmen – und nennt einen Top-Manager als Vorbild."
         },
         {
-          "title": "Private Raumkapsel: The Exploration Company baut Raumtransporter für die Esa",
-          "link": "https://www.wiwo.de/technologie/forschung/esa-vergibt-milliarden-elon-musks-spacex-bekommt-konkurrenz/100252972.html",
-          "published": "2026-09-11T15:29:00+00:00",
-          "summary": "Das Start-up von Hélène Huby sichert sich einen Auftrag von bis zu 760 Millionen Euro – und will neben Europas erstem Raumschiff auch die größte Rakete bauen."
+          "title": "Debatte um Altersteilzeit: In den Auto-Krisenländern ist die Frührente am beliebtesten",
+          "link": "https://www.wiwo.de/politik/deutschland/altersteilzeit-wo-industriekrise-und-rentendebatte-aufeinandertreffen/100253556.html",
+          "published": "2026-09-12T07:56:00+00:00",
+          "summary": "Die Rentenkommission empfiehlt, das beliebte Blockmodell bei der Altersteilzeit abzuschaffen. Dann würden tausende ältere Beschäftigte einfach entlassen, warnen die Gegner. Wer hat recht?"
         },
         {
-          "title": "Risikovorsorge: Sind wir als Paar bei Berufsunfähigkeit überversichert?",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/berufsunfaehigkeitsversicherung-wann-man-ueberversichert-ist/100251996.html",
-          "published": "2026-09-11T15:28:00+00:00",
-          "summary": "Unsere Leserin und ihr Mann haben über den Strukturvertrieb DVAG Versicherungen abgeschlossen. Angesichts hoher Beiträge hinterfragen sie die Entscheidung heute."
+          "title": "Warsteiner in der Krise: „Im Haus allseits bekannte Durchhalteparolen“",
+          "link": "https://www.wiwo.de/unternehmen/handel/warsteiner-in-der-krise-motel-one-weg-markenrelaunch-wackelt/100252953.html",
+          "published": "2026-09-12T07:52:00+00:00",
+          "summary": "Die kriselnde Warsteiner-Brauerei muss sparen: Bei der Hotelkette Motel One ist Warsteiner bald raus, ein geplanter Markenrelaunch steht wohl auf der Kippe."
         }
       ],
       "error": null
