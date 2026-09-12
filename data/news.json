@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T08:08:57+00:00",
+  "generatedAt": "2026-09-12T10:08:35+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html",
+          "published": "2026-09-12T09:30:08+00:00",
+          "summary": "Nach dem versuchten Drohnenanschlag auf den Flughafen Leipzig/Halle kommen immer mehr Details ans Licht. Einem Bericht zufolge führen die Ermittlungen direkt zum russischen Geheimdienst: Ein …"
+        },
+        {
+          "title": "Mareike Aden, ARD London, zzt. Doonbeg/Irland, zum Besuch des US-Präsidenten Trump in Irland",
+          "link": "https://www.tagesschau.de/video/video-1647700.html",
+          "published": "2026-09-12T09:29:08+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Anina Pommerenke, ARD-aktuell, zum Gipfeltreffen der BRICS-Staaten in Neu-Delhi",
+          "link": "https://www.tagesschau.de/video/video-1647698.html",
+          "published": "2026-09-12T08:50:59+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Zverev will im US-Open-Finale amerikanischen Traum verhindern",
+          "link": "https://www.sportschau.de/tennis/us-open/zverev-zieht-souveraen-ins-finale-der-us-open-ein,tennis-us-open-halbfinale-zverev-khachanov-100.html",
+          "published": "2026-09-12T08:43:00+00:00",
+          "summary": "Alexander Zverev hat mit einem überzeugenden Sieg gegen Karen Khachanov das Finale der US Open erreicht - und trifft dort auf einen US-Amerikaner."
+        },
+        {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-80876.html",
-          "published": "2026-09-12T07:55:00+00:00",
+          "published": "2026-09-12T08:24:05+00:00",
           "summary": ""
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-12T07:47:59+00:00",
-          "summary": "Samstag mal Sonne, mal Wolken und oft trocken, nur vereinzelt Schauer. Im Süden zum Teil länger sonnig. Im Nordwesten am Nachmittag Wolkenverdichtung und Richtung Nordsee etwas Regen. 19 bis 27 Grad."
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647682.html",
-          "published": "2026-09-12T07:35:52+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Anina Pommerenke, ARD-aktuell, zum BRICS-Gipfel in Neu-Delhi",
-          "link": "https://www.tagesschau.de/video/video-1647680.html",
-          "published": "2026-09-12T07:32:56+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
-          "link": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html",
-          "published": "2026-09-12T07:28:44+00:00",
-          "summary": "US-Präsident Trump spricht von guten Beziehungen zu Nordkoreas Machthaber Kim. Doch unmittelbar nach Ende eines Manövers der USA mit Südkorea reagiert der Norden mit Raketen."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Iran-Krieg +++: Iran stellt Öffnung der Straße von Hormus in Aussicht",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-stellt-oeffnung-der-strasse-von-hormus-in-aussicht/100136895.html",
-          "published": "2026-09-12T07:30:00+00:00",
-          "summary": "Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab +++ Iran und Golfstaaten wollen zu Straße von Hormus sprechen +++ Iranischer Präsident trifft zu BRICS-Gipfel ein +++ Der Newsblog."
+          "title": "Naher Osten: Nach Angriff auf Pipeline: Saudi-Arabien schließt wichtige Alternative zur Straße von Hormus",
+          "link": "https://www.handelsblatt.com/politik/international/naher-osten-saudi-arabien-schliesst-wichtige-alternative-zur-hormus-strasse/100254044.html",
+          "published": "2026-09-12T09:47:27+00:00",
+          "summary": "Die Spannungen im Nahen Osten schränken die Transportwege für Öl zunehmend ein. Nun wurde auch eine wichtige Alternative für die weitgehend geschlossene Straße von Hormus Ziel von Angriffen."
         },
         {
-          "title": "Interview: Politikwissenschaftler nach AfD-Sieg: „Für Unternehmen in Sachsen-Anhalt kann es richtig bitter werden“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/afd-fuer-unternehmen-in-sachsen-anhalt-kann-es-richtig-bitter-werden-01/100253157.html",
-          "published": "2026-09-12T07:00:00+00:00",
-          "summary": "Viele Unternehmenschefs halten sich in der öffentlichen Debatte zurück, obwohl sie die Demokratie unter Druck sehen. Politikwissenschaftler Knut Bergmann sieht dafür mehrere Gründe."
-        },
-        {
-          "title": "Morning Briefing Plus: Wo bleibt der Pisa-Aufschrei?",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-wo-bleibt-der-pisa-aufschrei/100253820.html",
-          "published": "2026-09-12T06:42:00+00:00",
-          "summary": "Deutsche Schüler schneiden bei Pisa so schlecht ab wie noch nie und alle zucken mit den Schultern. Dabei ist Bildung für die Zukunft des Landes wichtiger als jede Rentenreform."
-        },
-        {
-          "title": "Interview: „Friedrich Merz lernt gerade auf die schmerzhafte Tour drei Dinge“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierung-friedrich-merz-lernt-gerade-auf-die-schmerzhafte-tour-drei-dinge/100252523.html",
-          "published": "2026-09-12T04:39:00+00:00",
-          "summary": "Der Ökonom Nils Goldschmidt findet: Es braucht weniger klare Kante und mehr Kompromisse im Land. Ein Gespräch über Friedrich Merz’ Glaubwürdigkeitsproblem und den Nutzen von Hinterzimmern."
+          "title": "PDF: Handelsblatt vom 11. September 2026",
+          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-11.-september-2026/100254053.html",
+          "published": "2026-09-12T09:40:50+00:00",
+          "summary": ""
         },
         {
           "title": "Konflikt im Nahen Osten: Pipeline stillgelegt: Saudische Ölexporte massiv unter Druck",
           "link": "https://www.handelsblatt.com/politik/international/konflikt-im-nahen-osten-pipeline-stillgelegt-saudische-oelexporte-massiv-unter-druck/100254031.html",
-          "published": "2026-09-12T04:10:53+00:00",
+          "published": "2026-09-12T09:31:59+00:00",
           "summary": "Die Zange schließt sich um Saudi-Arabien: Im Westen bedroht die Huthi-Miliz eine Exportroute, im Osten blockiert der Iran die Straße von Hormus. Eine wichtige Pipeline wird nach Attacken dichtgemacht."
+        },
+        {
+          "title": "Koalition: Klingbeil kritisiert CDU-Angriff auf Bas: „Was soll das?“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/koalition-klingbeil-kritisiert-cdu-angriff-auf-bas-was-soll-das/100254051.html",
+          "published": "2026-09-12T09:20:57+00:00",
+          "summary": "Bundesarbeitsministerin Bärbel Bas sei nicht mehr tragbar, findet ein wichtiger CDU-Mann. Das will sich Vizekanzler Lars Klingbeil nicht gefallen lassen – und findet klare Worte."
+        },
+        {
+          "title": "KI-Jobmarkt: In diesen Branchen können Sie mit KI-Kenntnissen punkten",
+          "link": "https://www.handelsblatt.com/technik/ki/berufe-in-diesen-branchen-koennen-sie-mit-ki-wissen-punkten/100251207.html",
+          "published": "2026-09-12T09:10:00+00:00",
+          "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Kassenärzte: Dringende Facharzttermine schneller möglich",
-          "link": "https://www.finanzen.net/nachricht/aktien/kassenaerzte-dringende-facharzttermine-schneller-moeglich-15931149",
-          "published": "2026-09-12T08:02:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Kassenärzte-Chef Andreas Gassen hält in medizinisch dringenden Fällen schnellere Facharzttermine für möglich. \"Denkbar wäre eine schnelle Terminvermittlung für objektiv medizinisch …"
+          "title": "KW 37 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-37-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15921311",
+          "published": "2026-09-12T09:56:00+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 37"
         },
         {
-          "title": "Behörde: Gasspeicher könnten schon jetzt für Winter reichen",
-          "link": "https://www.finanzen.net/nachricht/aktien/behoerde-gasspeicher-koennten-schon-jetzt-fuer-winter-reichen-15931148",
-          "published": "2026-09-12T08:02:38+00:00",
-          "summary": "BONN (dpa-AFX) - Die Bundesnetzagentur ist Bedenken entgegengetreten, dass Deutschlands Gasspeicher in diesem Winter nicht ausreichen könnten für die Gasversorgung. \"Wir haben jetzt schon etwas mehr …"
+          "title": "Gold-Stratege Stöferle im Interview: „Gold ist weiterhin extrem günstig“",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-gold-stratege-stoeferle-im-interview-gold-ist-weiterhin-extrem-guenstig-15929814",
+          "published": "2026-09-12T09:55:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
-          "title": "Müde Schüler: Fast jeder zweite klagt über Schlafprobleme",
-          "link": "https://www.finanzen.net/nachricht/aktien/muede-schueler-fast-jeder-zweite-klagt-ueber-schlafprobleme-15931147",
-          "published": "2026-09-12T08:01:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Fast die Hälfte der Schülerinnen und Schüler in den Klassen fünf bis zehn klagt über Schlafstörungen. Dies geht aus einer groß angelegten Umfrage im Auftrag der Krankenkasse DAK …"
+          "title": "Vanguard-Welt-ETF für 0,07 Prozent: Reicht dieser eine ETF?",
+          "link": "https://www.finanzen.net/nachricht/aktien/vanguard-welt-etf-fuer-0-07-prozent-reicht-dieser-eine-etf-15931201",
+          "published": "2026-09-12T09:50:01+00:00",
+          "summary": ""
         },
         {
-          "title": "Hapag-Lloyd setzt trotz israelischem Veto auf ZIM-Übernahme",
-          "link": "https://www.finanzen.net/nachricht/aktien/hapag-lloyd-setzt-trotz-israelischem-veto-auf-zim-uebernahme-15931146",
-          "published": "2026-09-12T08:01:39+00:00",
-          "summary": "HAMBURG (dpa-AFX) - Die Hamburger Containerreederei Hapag-Lloyd setzt trotz des bisherigen Widerstands der israelischen Regierung weiter auf die Übernahme der dortigen Reederei ZIM. \"Das Konzept, das …"
+          "title": "Riester-Nachfolger Altersvorsorgedepot: Warum du jetzt schon ein Depot eröffnen solltest",
+          "link": "https://www.finanzen.net/nachricht/aktien/riester-nachfolger-altersvorsorgedepot-warum-du-jetzt-schon-ein-depot-eroeffnen-solltest-15931196",
+          "published": "2026-09-12T09:45:43+00:00",
+          "summary": ""
         },
         {
-          "title": "Umfrage: Beschäftigte würden mehr arbeiten - Anreize wichtig",
-          "link": "https://www.finanzen.net/nachricht/aktien/umfrage-beschaeftigte-wuerden-mehr-arbeiten-anreize-wichtig-15931145",
-          "published": "2026-09-12T08:01:38+00:00",
-          "summary": "NÜRNBERG/DÜSSELDORF (dpa-AFX) - Die Mehrheit der Erwerbstätigen ist laut einer Umfrage bereit, mehr zu arbeiten - sofern die Rahmenbedingungen dafür stimmen. Zugleich empfindet jeder Zweite nach der …"
+          "title": "Tech-Aktien weiter gefragt: So positionierte sich die SNB im zweiten Quartal 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-tech-aktien-weiter-gefragt-so-positionierte-sich-die-snb-im-zweiten-quartal-2026-15921317",
+          "published": "2026-09-12T09:42:00+00:00",
+          "summary": "Das US-Portfolio der Schweizerischen Nationalbank ( SNB ) umfasst Milliarden von US-Dollar und unterliegt damit der Pflicht, ihre US-Aktienbestände alle drei Monate offenzulegen. ..."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wirtschaft von oben: So schwerwiegend ist der Ausfall der saudischen Ost-West-Pipeline",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/huthi-angriff-so-schlimm-ist-der-treffer-der-saudischen-ost-west-pipeline/100215661.html",
-          "published": "2026-09-12T08:03:00+00:00",
-          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Ausbruch des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Am Freitag wurde sie nach einem Treffer abgeschaltet."
+          "title": "VW-Dossier: „Man hängt die Möhre immer ein Stück weiter“",
+          "link": "https://www.wiwo.de/politik/deutschland/vw-werk-emden-oberbuergermeister-kruithoff-warnt-vor-folgen-des-aus-ab-2031/100252123.html",
+          "published": "2026-09-12T10:07:49+00:00",
+          "summary": "Die Nachfrage steigt, die Kosten sinken – trotzdem bleibt die Zukunft des VW-Werks Emden offen. Oberbürgermeister Tim Kruithoff warnt vor den Folgen für ganz Ostfriesland."
         },
         {
-          "title": "Vereinigtes Königreich: Rekordspende für britische Rechtspartei Reform UK",
-          "link": "https://www.wiwo.de/politik/europa/vereinigtes-koenigreich-rekordspende-fuer-britische-rechtspartei-reform-uk/100254040.html",
-          "published": "2026-09-12T08:02:24+00:00",
-          "summary": "Großbritanniens Rechtspopulisten erhalten für den Wahlkampf eine Millionenspende. Die Rekordsumme folgt auf Wochen mit verschiedenen Betrugsvorwürfen."
+          "title": "Preisfrage: Die Ökonomie eines Lese-Retreats",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/preisfrage-die-oekonomie-eines-lese-retreats/100250891.html",
+          "published": "2026-09-12T09:56:37+00:00",
+          "summary": "Vier Tage ohne Handy, Arbeit und Haushalt: Readaway-Gründerin Simona Dunsche verkauft eine Auszeit zum Lesen. Das kostet bis zu 1850 Euro. Wie funktioniert das Geschäftsmodell?"
         },
         {
-          "title": "AfD-Wahlerfolge: „Die Zeit für Vielfalt als Lippenbekenntnis ist vorbei“",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/afd-wahlerfolge-cawa-younosi-fordert-mehr-politische-haltung-der-unternehmen/100253509.html",
-          "published": "2026-09-12T07:57:00+00:00",
-          "summary": "Er war Geflüchteter und wurde SAP‑Personalchef. Nun fordert Cawa Younosi mehr politische Haltung der Unternehmen – und nennt einen Top-Manager als Vorbild."
+          "title": "Heidelberg Materials: Nachhaltig günstig",
+          "link": "https://www.wiwo.de/finanzen/boerse/heidelberg-materials-aktie-baustoffkonzern-ist-nachhaltig-guenstig/100252925.html",
+          "published": "2026-09-12T09:50:00+00:00",
+          "summary": "Nach einer mehrmonatigen Kurskorrektur ist die Aktie des Baustoffkonzerns wieder auf interessantem Niveau."
         },
         {
-          "title": "Debatte um Altersteilzeit: In den Auto-Krisenländern ist die Frührente am beliebtesten",
-          "link": "https://www.wiwo.de/politik/deutschland/altersteilzeit-wo-industriekrise-und-rentendebatte-aufeinandertreffen/100253556.html",
-          "published": "2026-09-12T07:56:00+00:00",
-          "summary": "Die Rentenkommission empfiehlt, das beliebte Blockmodell bei der Altersteilzeit abzuschaffen. Dann würden tausende ältere Beschäftigte einfach entlassen, warnen die Gegner. Wer hat recht?"
+          "title": "Mein Wendepunkt: „Ich ­habe daraus gelernt, dass die Familie ­immer vorgeht“",
+          "link": "https://www.wiwo.de/erfolg/management/wolfram-diener-der-messechef-erzaehlt-vom-wendepunkt-seiner-karriere/100252509.html",
+          "published": "2026-09-12T09:46:00+00:00",
+          "summary": "Messechef Wolfram Diener arbeitete sieben Jahre lang für einen fordernden US‑Unternehmer. Er stand Tag und Nacht parat. Auch an Weihnachten. Das verlangte seinen Tribut."
         },
         {
-          "title": "Warsteiner in der Krise: „Im Haus allseits bekannte Durchhalteparolen“",
-          "link": "https://www.wiwo.de/unternehmen/handel/warsteiner-in-der-krise-motel-one-weg-markenrelaunch-wackelt/100252953.html",
-          "published": "2026-09-12T07:52:00+00:00",
-          "summary": "Die kriselnde Warsteiner-Brauerei muss sparen: Bei der Hotelkette Motel One ist Warsteiner bald raus, ein geplanter Markenrelaunch steht wohl auf der Kippe."
+          "title": "VW-Werk: Was wird aus den Volkswagen-Mitarbeitern in Osnabrück?",
+          "link": "https://www.wiwo.de/erfolg/beruf/vw-werk-was-wird-aus-den-volkswagen-mitarbeitern-in-osnabrueck/100247915.html",
+          "published": "2026-09-12T09:36:00+00:00",
+          "summary": "Die Autoindustrie baut weiter massiv Stellen ab, die Rüstungsindustrie baut auf. Doch einfach zu wechseln, ist leichter gesagt als getan, wie sich am VW-Werk in Osnabrück zeigen wird."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Heiko Mell analysiert Arbeitszeugnisse: Diese Formulierungen drücken die Note",
+          "link": "https://www.ingenieur.de/karriere/arbeitsleben/heiko-mell/heiko-mell-wie-gut-ist-mein-zeugnis/",
+          "published": "2026-09-12T08:30:00+00:00",
+          "summary": "Ein Arbeitszeugnis kann auf den ersten Blick sehr gut wirken und trotzdem einige Formulierungen enthalten, die nur für die Note „gut“ stehen. Warum einzelne Bewertungen entscheidend sind und worauf …"
+        },
         {
           "title": "Dunning-Kruger-Effekt auf dem Prüfstand: Überschätzen sich ausgerechnet die Besten?",
           "link": "https://www.ingenieur.de/karriere/arbeitsleben/selbstuberschatzung-im-job-warum-wir-unsere-fahigkeiten-oft-falsch-einschatzen/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/knapp-1000-einwohner-windpark-und-waermenetz-wie-eine-kleine-gemeinde-ihre-energiewende-organisiert/",
           "published": "2026-09-11T08:18:46+00:00",
           "summary": "Windkraft bringt Geld in die Gemeindekasse, Biogas soll Gebäude heizen: Wie Mühlen Eichsen mit knapp 1000 Einwohnern seine Energiewende plant."
-        },
-        {
-          "title": "Wieviel Beton steckt im Haus? Tool schätzt es mit OpenStreetMap",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/wie-viel-beton-steckt-im-haus-dieses-tool-schaetzt-es-mit-openstreetmap/",
-          "published": "2026-09-11T05:50:28+00:00",
-          "summary": "Ein Tool der TU Graz schätzt, wie viel Beton, Ziegel und Holz in Gebäuden steckt. Dafür kombiniert es Geodaten mit 154 Gebäudetypen."
         }
       ],
       "error": null
