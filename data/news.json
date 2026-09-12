@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:07:53+00:00",
+  "generatedAt": "2026-09-12T16:09:00+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647804.html",
-          "published": "2026-09-12T13:42:31+00:00",
+          "title": "Bundesliga: Freiburg stürzt Gladbach ganz tief in die Krise",
+          "link": "https://www.sportschau.de/fussball/bundesliga/50-freiburg-schiesst-polanskis-gladbacher-ab,spielbericht-sc-freiburg-borussia-moenchengladbach-116.html",
+          "published": "2026-09-12T15:58:08+00:00",
+          "summary": "Mit einem deutlichen Heimsieg hat der SC Freiburg die Krise von Borussia Mönchengladbach verschärft. Die Kritik an Trainer Eugen Polanski dürfte weiter zunehmen. Zugleich springen die Freiburger …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80884.html",
+          "published": "2026-09-12T15:24:12+00:00",
           "summary": ""
         },
         {
-          "title": "Alexander Arnö, BR, zu bundesweiten Demonstrationen nach AfD-Wahlerfolg",
-          "link": "https://www.tagesschau.de/video/video-1647790.html",
-          "published": "2026-09-12T13:30:04+00:00",
+          "title": "Burkardt und Atubolu holen Frankfurt in Mainz aus dem Stimmungstief",
+          "link": "https://www.sportschau.de/fussball/bundesliga/burkardt-und-atubolu-holen-frankfurt-aus-dem-stimmungstief,spielbericht-mainz-05-eintracht-frankfurt-102.html",
+          "published": "2026-09-12T15:23:15+00:00",
+          "summary": "Der Saisonstart von Eintracht Frankfurt war durchwachsen. Nach dem heutigen 3:1-Sieg in Mainz dürfte die Laune bei den Hessen nun wieder besser werden. Bedanken darf sich die Eintracht bei Burkardt …"
+        },
+        {
+          "title": "Bundesweit setzen Demonstrationen ein Zeichen gegen Rechtsextremismus",
+          "link": "https://www.tagesschau.de/video/video-1647872.html",
+          "published": "2026-09-12T15:13:32+00:00",
           "summary": ""
         },
         {
-          "title": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
-          "link": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
-          "published": "2026-09-12T13:22:03+00:00",
-          "summary": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin …"
-        },
-        {
-          "title": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
-          "published": "2026-09-12T13:20:55+00:00",
-          "summary": "Im kommenden Winter brauchen Millionen Haushalte wieder Gas für ihre Heizung - und die Sorge ist groß, dass dieses Jahr nicht genug Gas eingespeichert wurde. Die Bundesnetzagentur gibt nun …"
-        },
-        {
-          "title": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
-          "link": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
-          "published": "2026-09-12T13:07:48+00:00",
-          "summary": "Auf dem Treffen der BRICS-Länder in Neu-Delhi hat Chinas Präsident Xi mehr Einsatz der Schwellenländer für Frieden im Nahen Osten gefordert. Man müsse \"auf der richtigen Seite der Geschichte\" stehen …"
+          "title": "Saudi-Arabien unter Druck: Angriffe aus dem Irak und Erfolge der Huthi-Rebellen",
+          "link": "https://www.tagesschau.de/video/video-1647868.html",
+          "published": "2026-09-12T15:11:07+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Deep Read: Das Gewicht fällt, Verlangen verschwinden – und ein Leben ohne Abnehmpille wird unvorstellbar",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/abnehmpille-ich-kann-mir-ein-leben-ohne-abnehmmittel-nicht-mehr-vorstellen/100253310.html",
+          "published": "2026-09-12T14:21:00+00:00",
+          "summary": "Wer abnehmen will, kann das mit Medikamenten tun. Sie abzusetzen und schlank zu bleiben, ist aber kaum möglich. Studien zeigen, dass die Mittel auch aufs Gehirn wirken. Entsteht eine neue Sucht?"
+        },
+        {
+          "title": "Gegenwind für die AfD: „Kein Schritt zurück“: Rund 20.000 bei Demo gegen AfD in NRW",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gegenwind-fuer-die-afd-kein-schritt-zurueck-rund-20000-bei-demo-gegen-afd-in-nrw/100254071.html",
+          "published": "2026-09-12T14:08:04+00:00",
+          "summary": "Mit starker Mobilisierung, bunten Plakaten und klaren Worten setzen Tausende ein Zeichen gegen Ausgrenzung und gegen die AfD. Von Stricknadeln über das Krümelmonster: ein kreativer Protest."
+        },
         {
           "title": "EU-Politik: Strategie der „Brandmauer“ funktioniert nicht, so Meloni",
           "link": "https://www.handelsblatt.com/politik/international/eu-politik-strategie-der-brandmauer-funktioniert-nicht-so-meloni/100254065.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/von-kryptounternehmern-rekordspenden-fuer-britische-rechtspartei-reform-uk/100254068.html",
           "published": "2026-09-12T13:01:38+00:00",
           "summary": "Großbritanniens Rechtspopulisten erhalten für den Wahlkampf Millionenspenden. Die Rekordsummen folgen auf Wochen mit verschiedenen Betrugsvorwürfen."
-        },
-        {
-          "title": "Naher Osten: Nach Angriff auf Pipeline: Saudi-Arabien schließt wichtige Alternative zur Straße von Hormus",
-          "link": "https://www.handelsblatt.com/politik/international/naher-osten-saudi-arabien-schliesst-wichtige-alternative-zur-hormus-strasse/100254044.html",
-          "published": "2026-09-12T12:35:12+00:00",
-          "summary": "Die Spannungen im Nahen Osten schränken die Transportwege für Öl zunehmend ein. Nun wurde auch eine wichtige Alternative für die weitgehend geschlossene Straße von Hormus Ziel von Angriffen."
-        },
-        {
-          "title": "Die Welt in Bildern: Blickfang",
-          "link": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
-          "published": "2026-09-12T12:20:00+00:00",
-          "summary": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein Blickfang."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP 2: Tote und viele Verletzte nach russischen Angriffen in der Ukraine",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-tote-und-viele-verletzte-nach-russischen-angriffen-in-der-ukraine-15931270",
-          "published": "2026-09-12T14:04:39+00:00",
-          "summary": "SAPORISCHSCHJA/ODESSA (dpa-AFX) - Bei russischen Angriffen sind in der Nacht mehrere Menschen in der Ukraine getötet worden. Der ukrainische Präsident Wolodymyr Selenskyj warf Russland vor, seitdem …"
-        },
-        {
-          "title": "ROUNDUP: Trump für Wiedervereinigung von Irland und Nordirland",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-trump-fuer-wiedervereinigung-von-irland-und-nordirland-15931269",
-          "published": "2026-09-12T14:04:38+00:00",
-          "summary": "DUBLIN (dpa-AFX) - US-Präsident Donald Trump würde laut eigener Aussage \"sehr gerne\" eine Wiedervereinigung von Irland und Nordirland sehen. \"Ich habe Freunde auf beiden Seiten, es sind großartige …"
-        },
-        {
-          "title": "KW 37: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
-          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-37-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15921309",
-          "published": "2026-09-12T14:03:00+00:00",
-          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 37 aus"
+          "title": "Tech-Aktien weiter gefragt: So positionierte sich die SNB im zweiten Quartal 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-tech-aktien-weiter-gefragt-so-positionierte-sich-die-snb-im-zweiten-quartal-2026-15921317",
+          "published": "2026-09-12T15:56:00+00:00",
+          "summary": "Das US-Portfolio der Schweizerischen Nationalbank ( SNB ) umfasst Milliarden von US-Dollar und unterliegt damit der Pflicht, ihre US-Aktienbestände alle drei Monate offenzulegen. ..."
         },
         {
           "title": "Gold-Stratege Stöferle im Interview: „Gold ist weiterhin extrem günstig“",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-gold-stratege-stoeferle-im-interview-gold-ist-weiterhin-extrem-guenstig-15929814",
-          "published": "2026-09-12T13:55:00+00:00",
+          "published": "2026-09-12T15:55:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "Portfolio-Update: Fuchs - Ertragsziel für 2026 erscheint jetzt konservativ",
-          "link": "https://www.finanzen.net/nachricht/aktien/value-stars-kolumne-portfolio-update-fuchs-ertragsziel-fuer-2026-erscheint-jetzt-konservativ-15931229",
-          "published": "2026-09-12T13:46:49+00:00",
-          "summary": "Eine Kolumne von Holger Steffen, Anlage­experte und Berater für den Value-Stars-Deutschland-Index . Unser Indexwert Fuchs ..."
+          "title": "Preiskampf bei Welt-ETFs: Wer ist der wahre Volks-ETF?",
+          "link": "https://www.finanzen.net/nachricht/aktien/preiskampf-bei-welt-etfs-wer-ist-der-wahre-volks-etf-15931316",
+          "published": "2026-09-12T15:49:08+00:00",
+          "summary": ""
+        },
+        {
+          "title": "KW 37 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-37-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15921311",
+          "published": "2026-09-12T15:44:00+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 37"
+        },
+        {
+          "title": "Brokerwechsel: So sparen Anleger mehr als 130 Euro im Jahr",
+          "link": "https://www.finanzen.net/nachricht/aktien/brokerwechsel-so-sparen-anleger-mehr-als-130-euro-im-jahr-15931312",
+          "published": "2026-09-12T15:43:04+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Debatte um die Rente: In den Auto-Krisenländern ist die Frührente am beliebtesten",
+          "link": "https://www.wiwo.de/politik/deutschland/altersteilzeit-wo-industriekrise-und-rentendebatte-aufeinandertreffen/100253556.html",
+          "published": "2026-09-12T14:12:00+00:00",
+          "summary": "Die Rentenkommission empfiehlt, das beliebte Blockmodell bei der Altersteilzeit abzuschaffen. Dann würden tausende ältere Beschäftigte einfach entlassen, warnen die Gegner. Wer hat recht?"
+        },
+        {
+          "title": "Risikovorsorge: Sind wir als Paar bei Berufsunfähigkeit überversichert?",
+          "link": "https://www.wiwo.de/finanzen/vorsorge/berufsunfaehigkeitsversicherung-wann-man-ueberversichert-ist/100251996.html",
+          "published": "2026-09-12T14:06:00+00:00",
+          "summary": "Unsere Leserin und ihr Mann haben über den Strukturvertrieb DVAG Versicherungen abgeschlossen. Angesichts hoher Beiträge hinterfragen sie die Entscheidung heute."
+        },
+        {
           "title": "Robo-Restaurant Robyn's: Heute kocht der Roboter – Modellversuch startet in Leipzig",
           "link": "https://www.wiwo.de/unternehmen/dienstleister/robotik-restaurant-modellversuch-startet-in-leipzig/100254043.html",
           "published": "2026-09-12T13:03:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/erfolg/management/wolfram-diener-der-messechef-erzaehlt-vom-wendepunkt-seiner-karriere/100252509.html",
           "published": "2026-09-12T12:44:00+00:00",
           "summary": "Messechef Wolfram Diener arbeitete sieben Jahre lang für einen fordernden US‑Unternehmer. Er stand Tag und Nacht parat. Auch an Weihnachten. Das verlangte seinen Tribut."
-        },
-        {
-          "title": "Wirtschaft von oben: So schwerwiegend ist der Ausfall der saudischen Ost-West-Pipeline",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/ost-west-pipeline-in-saudi-arabien-so-schwerwiegend-ist-der-ausfall/100215661.html",
-          "published": "2026-09-12T12:35:00+00:00",
-          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Ausbruch des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Am Freitag wurde sie nach einem Treffer abgeschaltet."
-        },
-        {
-          "title": "VW-Dossier: „Volkswagen ist der Wohlstandsbringer für die gesamte Region“",
-          "link": "https://www.wiwo.de/politik/deutschland/vw-werk-emden-oberbuergermeister-kruithoff-warnt-vor-folgen-des-aus-ab-2031/100252123.html",
-          "published": "2026-09-12T12:26:00+00:00",
-          "summary": "Die Nachfrage steigt, die Kosten sinken – trotzdem bleibt die Zukunft des VW-Werks Emden offen. Oberbürgermeister Tim Kruithoff warnt vor den Folgen für ganz Ostfriesland."
         }
       ],
       "error": null
