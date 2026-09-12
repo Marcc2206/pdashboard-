@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:09:08+00:00",
+  "generatedAt": "2026-09-12T04:08:47+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,9 +8,21 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
+          "published": "2026-09-12T03:41:39+00:00",
+          "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden verletzt, darunter eine Person schwer. An Bord des Regionalzuges waren rund 180 Passagiere. Die …"
+        },
+        {
+          "title": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
+          "published": "2026-09-12T03:12:30+00:00",
+          "summary": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1.000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647638.html",
-          "published": "2026-09-12T01:04:24+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647640.html",
+          "published": "2026-09-12T02:48:53+00:00",
           "summary": ""
         },
         {
@@ -20,21 +32,9 @@
           "summary": "Alexander Zverev hat mit einem überzeugenden Sieg gegen Karen Khachanov das Finale der US Open erreicht. Damit ist der 29-Jährige kurz davor, seinen zweiten Grand-Slam-Titel zu gewinnen."
         },
         {
-          "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
-          "published": "2026-09-11T21:31:05+00:00",
-          "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden nach vorläufigen Angaben verletzt, darunter eine Frau schwer. An Bord des Verkehrsmittels waren …"
-        },
-        {
           "title": "Bundeshaushalt für Arbeit und Soziales - was wird aus den Reformen ?",
           "link": "https://www.tagesschau.de/tagesthemen/video-1647590.html",
           "published": "2026-09-11T21:17:39+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Ramin Sina, ARD Kairo, zzt. Sulaimaniyya/Irak, zum Krieg im Irak nach dem Terroranschlag vom 11. September",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1647588.html",
-          "published": "2026-09-11T21:15:40+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Weinregeln: Neue Qualitätspyramide für deutsche Weine",
-          "link": "https://www.handelsblatt.com/politik/deutschland/weinregeln-neue-qualitaetspyramide-fuer-deutsche-weine/100254008.html",
-          "published": "2026-09-12T01:30:07+00:00",
-          "summary": "Der 2026er-Jahrgang gilt wegen des Hitzesommers als vielversprechend. Und die Winzer müssen sich an neue Regeln halten."
+          "title": "Containerschifffahrt: Hapag-Lloyd setzt trotz israelischem Veto auf ZIM-Übernahme",
+          "link": "https://www.handelsblatt.com/politik/deutschland/containerschifffahrt-hapag-lloyd-setzt-trotz-israelischem-veto-auf-zim-uebernahme/100254025.html",
+          "published": "2026-09-12T03:30:04+00:00",
+          "summary": "Warum glaubt Hapag-Lloyd trotz Widerstand aus Israel an die ZIM-Übernahme? Hinter den Kulissen laufen intensive Gespräche – und es geht um rund 3,6 Milliarden Euro."
         },
         {
-          "title": "Insiderberichte: Nvidia erwägt offenbar Milliardeneinstieg bei Anthropic-Börsengang",
-          "link": "https://www.handelsblatt.com/technik/it-internet/insiderberichte-nvidia-erwaegt-offenbar-milliardeneinstieg-bei-anthropic-boersengang/100254006.html",
-          "published": "2026-09-12T00:55:49+00:00",
-          "summary": "Der Chiphersteller könnte sich mit bis zu 10 Milliarden Dollar am Anthropic-Börsengang beteiligen, berichten Insider. Das KI-Start-up ist auf die Grafikprozessoren von Nvidia angewiesen."
+          "title": "Bald beginnt die Heizperiode: Behörde: Gasspeicher könnten schon jetzt für Winter reichen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bald-beginnt-die-heizperiode-behoerde-gasspeicher-koennten-schon-jetzt-fuer-winter-reichen/100254020.html",
+          "published": "2026-09-12T03:05:05+00:00",
+          "summary": "Der Herbst naht, bald brauchen Millionen Haushalte wieder viel mehr Gas für ihre Heizung. Doch Deutschlands Gasspeicher sind nicht allzu voll. Die Bundesnetzagentur teilt die Bedenken nicht."
         },
         {
-          "title": "Türkische Justiz: Erdogan-Rivale Imamoglu zu zwei Jahren Haft verurteilt",
-          "link": "https://www.handelsblatt.com/politik/international/tuerkische-justiz-erdogan-rivale-imamoglu-zu-zwei-jahren-haft-verurteilt/100254002.html",
-          "published": "2026-09-11T23:43:29+00:00",
-          "summary": "Vielen gilt er als größter Rivale des türkischen Präsidenten - und Opfer einer regierungstreuen Justiz. Macht das nächste Urteil gegen Istanbuls abgesetzten Bürgermeister ihm politisch den Garaus?"
+          "title": "Wahlen: CDU-Politiker in MV fürchten Scheitern an Fünf-Prozent-Hürde",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-cdu-politiker-in-mv-fuerchten-scheitern-an-fuenf-prozent-huerde/100254021.html",
+          "published": "2026-09-12T03:00:12+00:00",
+          "summary": "Am 20. September wird in Mecklenburg-Vorpommern ein neuer Landtag gewählt. Die CDU steht in Umfragen bei sieben Prozent - und rückt damit in die Nähe der Fünf-Prozent-Hürde."
         },
         {
-          "title": "Energie: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
-          "link": "https://www.handelsblatt.com/politik/international/energie-saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab/100253993.html",
-          "published": "2026-09-11T20:54:52+00:00",
-          "summary": "Saudi-Arabien schaltet die wichtige Ost-West-Pipeline nach Angriffen darauf ab. Die Drohnen seien aus dem Irak gekommen. Wer für die Attacken verantwortlich ist, teilt das Königreich aber nicht mit."
+          "title": "Umfrage: Müde Schüler: Fast jeder zweite klagt über Schlafprobleme",
+          "link": "https://www.handelsblatt.com/politik/deutschland/umfrage-muede-schueler-fast-jeder-zweite-klagt-ueber-schlafprobleme/100254019.html",
+          "published": "2026-09-12T03:00:05+00:00",
+          "summary": "Das jährliche DAK-Präventionsradar zeigt: Immer mehr Kinder und Jugendliche fühlen sich erschöpft. Da verwundern die schlechten Pisa-Ergebnisse wenig, meint die Krankenkasse."
         },
         {
-          "title": "Mit Klausel aus Tarifvertrag: Arbeitnehmer drängen VW-Vorstand zu Gesprächen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/mit-klausel-aus-tarifvertrag-arbeitnehmer-draengen-vw-vorstand-zu-gespraechen/100253912.html",
-          "published": "2026-09-11T20:43:28+00:00",
-          "summary": "Volkswagen steht vor einem tiefgreifenden Umbau - und viele Fragen sind offen. Das löst Zukunftsangst bei Beschäftigten aus. Nun wollen die Arbeitnehmer Klarheit schaffen. Die Antwort folgt prompt."
+          "title": "Ukraine-Krieg: Putin führt AfD-Erfolg auf Fehler des Westens zurück",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-putin-fuehrt-afd-erfolg-auf-fehler-des-westens-zurueck/100254016.html",
+          "published": "2026-09-12T02:06:01+00:00",
+          "summary": "Vor Medienvertretern wird der russische Präsident nach dem starken Wahlergebnis der AfD in Sachsen-Anhalt gefragt. Der Kremlchef nutzt dies als Steilvorlage, um seine Sicht auf Europa darzulegen."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Im kommenden Winter: Verivox: Gaspreise könnten um 20 Prozent erhöht werden",
+          "link": "https://www.n-tv.de/wirtschaft/Verivox-Gaspreise-koennten-um-20-Prozent-erhoeht-werden-id31297767.html",
+          "published": "2026-09-12T02:23:41+00:00",
+          "summary": "Die Betreiber der deutschen Gas-Speicher warnen vor knappen Füllständen im Falle eines sehr kalten Winters. Aber auch die Gaspreise ziehen infolge des Iran-Kriegs stark an. Verivox zufolge dürften …"
+        },
         {
           "title": "Wochenvorschau: Termine bis 20. September 2026",
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-20-September-2026-id31278603.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Welche-Geschaeftsbereiche-VW-jetzt-zu-Geld-machen-sollte-id31295700.html",
           "published": "2026-09-11T16:34:54+00:00",
           "summary": "Volkswagen will Beteiligungen und Geschäfte verkaufen, um den Konzern schlanker zu machen. Auto-Experte Jürgen Pieper hält einige Verkäufe für überfällig, warnt aber vor falschem Eifer. Wo darf VW …"
-        },
-        {
-          "title": "\"Der Vorstand muss liefern\": VW-Arbeitnehmervertreter drängen Konzernspitze zu Gesprächen",
-          "link": "https://www.n-tv.de/wirtschaft/VW-Arbeitnehmervertreter-draengen-Konzernspitze-zu-Gespraechen-id31296373.html",
-          "published": "2026-09-11T14:32:40+00:00",
-          "summary": "Die Gewerkschaftsvertreter berufen sich beim Streit um das VW-Sparprogramm auf eine Regelung aus einem früheren Tarifvertrag. Damit wollen sie den Vorstand an den Verhandlungstisch zwingen und drohen …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Reha vor Rente: Voraussetzungen und Bedeutung der Erwerbsminderungsrente",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/sozialrecht-reha-vor-rente-voraussetzungen-und-bedeutung-der-erwerbsminderungsrente-00-15382426",
-          "published": "2026-09-12T02:05:00+00:00",
-          "summary": "Grundsatz \"Reha vor Rente\": Erst helfen, dann zahlen Wer aus gesundheitlichen Gründen seinen Beruf nicht mehr wie gewohnt ausüben kann, denkt oft früh an eine Erwerbsminderungsrente . ..."
+          "title": "Sonderformen mit und ohne Barriere",
+          "link": "https://www.finanzen.net/nachricht/zertifikate/werbung-sonderformen-mit-und-ohne-barriere-5265352",
+          "published": "2026-09-12T04:03:00+00:00",
+          "summary": "http://www.finanzen.net/special4g/Aktienanleihen/Abgesichert/weitere-aktienanleihen-typen-196"
+        },
+        {
+          "title": "Tech-Aktien weiter gefragt: So positionierte sich die SNB im zweiten Quartal 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-tech-aktien-weiter-gefragt-so-positionierte-sich-die-snb-im-zweiten-quartal-2026-15921317",
+          "published": "2026-09-12T03:52:00+00:00",
+          "summary": "Das US-Portfolio der Schweizerischen Nationalbank ( SNB ) umfasst Milliarden von US-Dollar und unterliegt damit der Pflicht, ihre US-Aktienbestände alle drei Monate offenzulegen. ..."
+        },
+        {
+          "title": "Wiederholt sich die Japan-Aktienrally von 2023? Das sagt Bank of America",
+          "link": "https://www.finanzen.net/nachricht/aktien/rueckkauf-wiederholt-sich-die-japan-aktienrally-von-2023-das-sagt-bank-of-america-00-15914281",
+          "published": "2026-09-12T03:23:00+00:00",
+          "summary": "US-Finanzministerium verdoppelt Rückkaufobergrenze für langfristige Staatsanleihen • Bank of America zieht in einem Strategiebericht Parallelen zur sogenannten Fed-Pivot-Rally japanischer Aktien von …"
         },
         {
           "title": "KW 37 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
           "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-37-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15921311",
-          "published": "2026-09-12T01:43:59+00:00",
+          "published": "2026-09-12T03:14:00+00:00",
           "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 37"
         },
         {
-          "title": "KW 37: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
-          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-37-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15921309",
-          "published": "2026-09-12T01:11:00+00:00",
-          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 37 aus"
-        },
-        {
-          "title": "Vor NASDAQ-Börsengang: Oura meldet Umsatzexplosion",
-          "link": "https://www.finanzen.net/nachricht/aktien/vor-nasdaq-boersengang-oura-meldet-umsatzexplosion-15930821",
-          "published": "2026-09-12T00:41:00+00:00",
-          "summary": "Jüngst reichte der finnische Wearable-Hersteller seinen Börsenprospekt ein, dessen Zahlen neue Fragen zur Profitabilität aufwerfen."
-        },
-        {
-          "title": "Tesla- vs. Alphabet-Aktie: Wer macht das Robotaxi-Rennen?",
-          "link": "https://www.finanzen.net/nachricht/aktien/tesla-vs-alphabet-aktie-wer-macht-das-robotaxi-rennen-15930820",
-          "published": "2026-09-12T00:37:00+00:00",
-          "summary": "Tesla hat in Austin erste Fahrten mit dem fahrerlosen Cybercab gestartet. Die US-Verkehrssicherheitsbehörde NHTSA nimmt den Dienst nun unter die Lupe."
+          "title": "Monatliche Dividende: Warum die Aktien Realty Income & Main Street Capital bei Anlegern beliebt sind",
+          "link": "https://www.finanzen.net/nachricht/aktien/monatszahler-monatliche-dividende-warum-die-aktien-realty-income-main-street-capital-bei-anlegern-beliebt-sind-00-15911511",
+          "published": "2026-09-12T03:14:00+00:00",
+          "summary": "Realty Income zahlt im September seine 674. monatliche Dividende in Folge • Main Street Capital schüttet monatlich 0,265 US-Dollar je Aktie aus • Zinsen , Kreditrisiken, US-Quellensteuer und …"
         }
       ],
       "error": null
