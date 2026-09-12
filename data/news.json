@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:10:05+00:00",
+  "generatedAt": "2026-09-12T20:14:05+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
-          "link": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
-          "published": "2026-09-12T17:55:57+00:00",
-          "summary": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfressort. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands …"
+          "title": "Basketball-WM: DBB-Frauen unterliegen Frankreich im Halbfinale",
+          "link": "https://www.sportschau.de/basketball/nationalmannschaft/finaltraum-geplatzt-dbb-frauen-unterliegen-frankreich-im-halbfinale,bericht-halbfinale-frankreich-deutschland-100.html",
+          "published": "2026-09-12T19:46:39+00:00",
+          "summary": "Die deutschen Basketballerinnen haben ihr Halbfinale gegen Frankreich verloren und das Finale verpasst. Der Traum von der WM-Medaille aber geht weiter."
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1647950.html",
-          "published": "2026-09-12T17:52:36+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648066.html",
+          "published": "2026-09-12T19:05:55+00:00",
           "summary": ""
         },
         {
-          "title": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
-          "published": "2026-09-12T17:38:32+00:00",
-          "summary": "Zehntausende Menschen sind in Deutschland gegen Rechtsextremismus und für Demokratie auf die Straße gegangen. Demos gab es in mehr als 35 Städten. Eine Forderung: Die Prüfung eines …"
+          "title": "tagesschau 20:00 Uhr",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1647972.html",
+          "published": "2026-09-12T18:50:06+00:00",
+          "summary": "Nach AfD-Wahlsieg in Sachsen-Anhalt protestieren bundesweit Zehntausende gegen Rechtsextremismus, Saudi-Arabien durch Erfolge der Huthi-Rebellen und Angriff auf Ölpipeline zunehmend unter Druck …"
         },
         {
-          "title": "Freiburg deklassiert Gladbach und grüßt von der Spitze",
-          "link": "https://www.sportschau.de/fussball/bundesliga/freiburg-deklassiert-gladbach-und-gruesst-von-der-spitze,spielbericht-sc-freiburg-borussia-moenchengladbach-116.html",
-          "published": "2026-09-12T17:35:45+00:00",
-          "summary": "Mit einem deutlichen Heimsieg hat der SC Freiburg die Krise von Borussia Mönchengladbach verschärft. Die Kritik an Trainer Eugen Polanski dürfte weiter zunehmen. Zugleich springen die Freiburger …"
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12246.html",
+          "published": "2026-09-12T18:44:10+00:00",
+          "summary": ""
         },
         {
-          "title": "Großer Kampf: Schalke holt bei Union Berlin ersten Sieg",
-          "link": "https://www.sportschau.de/fussball/bundesliga/schalke-04-erkaempft-sich-ersten-saisonsieg-bei-union-berlin,spielbericht-union-berlin-schalke-04-100.html",
-          "published": "2026-09-12T17:35:04+00:00",
-          "summary": "Der FC Schalke 04 ist in der Bundesliga angekommen. Der Aufsteiger setzte sich nach einem denkwürdigen Abend im Stadion \"An der alten Försterei\" verdient gegen Union Berlin durch."
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-80882.html",
+          "published": "2026-09-12T18:28:28+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -86,6 +86,18 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Musk und Altman stimmen zu: Anthropic-Chef fordert langsameres Tempo bei KI-Entwicklung",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-Chef-fordert-langsameres-Tempo-bei-KI-Entwicklung-id31299590.html",
+          "published": "2026-09-12T19:46:09+00:00",
+          "summary": "KI entwickelt sich rasant - und könnte laut Experten bald zur realen Gefahr für die Menschheit werden. Ein jüngster Zwischenfall sorgt nun für Bewegung bei den großen KI-Entwicklern und könnte ein …"
+        },
+        {
+          "title": "Keine Entspannung in Sicht: Niedrigwasser setzt Schifffahrt am Bodensee unter Druck",
+          "link": "https://www.n-tv.de/wirtschaft/Niedrigwasser-setzt-Schifffahrt-am-Bodensee-unter-Druck-id31299467.html",
+          "published": "2026-09-12T18:35:41+00:00",
+          "summary": "Trockene Ufer, erschwerte Bedingungen für Boote und Probleme für die Schifffahrt: Der Bodensee leidet unter außergewöhnlichem Niedrigwasser. Am Pegel Konstanz wurde ein historischer Tiefststand für …"
+        },
+        {
           "title": "Doch kein Solarinfarkt?: \"Die Energiewirtschaft sagt, das Stromnetz ist überlastet - das stimmt nicht\"",
           "link": "https://www.n-tv.de/wirtschaft/E3-DC-Chef-Piepenbrink-Die-Energiewirtschaft-sagt-das-Ortsnetz-sei-ueberlastet-das-stimmt-nicht-id31286267.html",
           "published": "2026-09-12T16:14:27+00:00",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wie-wir-von-steigenden-Zinsen-profitieren-id31295848.html",
           "published": "2026-09-12T13:30:00+00:00",
           "summary": "Die Schuldenberge sind gewaltig und gleichzeitig steigen die Zinsen. Wie weit kann das noch gehen? Wie lange halten die Aktienmärkte das aus? Und wie können Anleger davon sogar profitieren?"
-        },
-        {
-          "title": "Vor Angriff auf Hugging Face: KI-Agenten steuerten weitere Website von selbst an",
-          "link": "https://www.n-tv.de/wirtschaft/KI-Agenten-steuerten-weitere-Website-von-selbst-an-id31298894.html",
-          "published": "2026-09-12T12:55:12+00:00",
-          "summary": "Ein KI-gesteuerter Hackerangriff auf die Plattform Hugging Face sorgt im Juli für Aufregung. Schnell übernimmt OpenAI die Verantwortung für den Fall. Nun teilt der US-Konzern mit, dass dies nicht der …"
-        },
-        {
-          "title": "Ölexporte massiv unter Druck: Wichtige saudische Pipeline stillgelegt - wird Benzin noch teurer?",
-          "link": "https://www.n-tv.de/wirtschaft/Wichtige-saudische-Pipeline-stillgelegt-wird-Benzin-noch-teurer-id31298215.html",
-          "published": "2026-09-12T06:40:29+00:00",
-          "summary": "Nach Drohnenangriffen muss Saudi-Arabien auch noch eine zentrale Ölpipeline abschalten - bisher eine Alternative zur Straße von Hormus. Der Ölpreis und damit die Spritpreise in Deutschland könnten …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Lehren aus der Krise: Erste Erkenntnisse aus dem Iran-Krieg und dem globalen Energieschock",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/werbung-lehren-aus-der-krise-erste-erkenntnisse-aus-dem-iran-krieg-und-dem-globalen-energieschock-15657084",
-          "published": "2026-09-12T17:56:00+00:00",
-          "summary": "https://www.finanzen.net/specials-advertorials/advertorial ..."
-        },
-        {
           "title": "Gold-Stratege Stöferle im Interview: „Gold ist weiterhin extrem günstig“",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-gold-stratege-stoeferle-im-interview-gold-ist-weiterhin-extrem-guenstig-15929814",
-          "published": "2026-09-12T17:55:00+00:00",
+          "published": "2026-09-12T19:55:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "China-Aktien überholen die USA: IPO-Rekord im direkten Vergleich",
-          "link": "https://www.finanzen.net/nachricht/aktien/ipo-boom-china-aktien-ueberholen-die-usa-ipo-rekord-im-direkten-vergleich-00-15909923",
-          "published": "2026-09-12T17:48:00+00:00",
-          "summary": "Hongkonger Börse sammelt im ersten Halbjahr 2026 mit 85 IPOs rund 209,9 Milliarden Hongkong-Dollar ein • KI-nahe Unternehmen wie MiniMax und Shanghai Biren Technology treiben Boom an • Deloitte …"
+          "title": "Tech-Aktien weiter gefragt: So positionierte sich die SNB im zweiten Quartal 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-tech-aktien-weiter-gefragt-so-positionierte-sich-die-snb-im-zweiten-quartal-2026-15921317",
+          "published": "2026-09-12T18:52:00+00:00",
+          "summary": "Das US-Portfolio der Schweizerischen Nationalbank ( SNB ) umfasst Milliarden von US-Dollar und unterliegt damit der Pflicht, ihre US-Aktienbestände alle drei Monate offenzulegen. ..."
         },
         {
-          "title": "KI-Aktien im Blick: Tesla- und SpaceX-CEO Musk sieht KI bis Ende 2027 bei digitalen Aufgaben vor Menschen",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-prognose-ki-aktien-im-blick-tesla-und-spacex-ceo-musk-sieht-ki-bis-ende-2027-bei-digitalen-aufgaben-vor-menschen-00-15916175",
-          "published": "2026-09-12T17:47:00+00:00",
-          "summary": "Elon Musk erwartet übermenschliche KI-Fähigkeiten bei digitalen Aufgaben bis Ende 2027 • Besonders im Hacking könnten KI-Systeme menschliche Sicherheitsexperten übertreffen • Neue Sicherheitsvorfälle …"
+          "title": "BVB-Aktie: Nico Schlotterbeck gibt Comeback nach WM-Verletzung - Karetsas bald wieder spielfähig",
+          "link": "https://www.finanzen.net/nachricht/aktien/keine-auffaelligkeiten-bvb-aktie-nico-schlotterbeck-gibt-comeback-nach-wm-verletzung-karetsas-bald-wieder-spielfaehig-15931247",
+          "published": "2026-09-12T18:51:00+00:00",
+          "summary": "Der 26-Jährige steht in der Startelf von Borussia Dortmund (BVB) für das Bundesligaspiel gegen den SC Paderborn. Schlotterbeck hatte sich im zweiten WM-Gruppenspiel der deutschen Nationalmannschaft …"
         },
         {
-          "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
-          "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-37-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15881699",
-          "published": "2026-09-12T17:47:00+00:00",
-          "summary": "Hier finden Sie den Nachrichten-Rückblick auf die vergangene Woche."
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-12T18:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+        },
+        {
+          "title": "finanzen.net ZERO ist mehrfacher 'Kostensieger' der Stiftung Warentest (12/2025)",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-finanzen-net-zero-ist-mehrfacher-kostensieger-der-stiftung-warentest-12-2025-15266897",
+          "published": "2026-09-12T18:30:00+00:00",
+          "summary": "In eigener Sache Die Stiftung Warentest hat in ihrem letzten Depot-Vergleich ihr 'Kostensieger'-Urteil für finanzen.net ZERO, den Broker von finanzen.net, erneuert. ..."
         }
       ],
       "error": null
