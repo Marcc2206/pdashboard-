@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:08:43+00:00",
+  "generatedAt": "2026-09-12T00:11:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Zverev zieht souverän ins Finale der US Open ein",
+          "link": "https://www.sportschau.de/tennis/us-open/zverev-zieht-souveraen-ins-finale-der-us-open-ein,tennis-us-open-halbfinale-zverev-khachanov-100.html",
+          "published": "2026-09-11T22:43:42+00:00",
+          "summary": "Alexander Zverev hat mit einem überzeugenden Sieg gegen Karen Khachanov das Finale der US Open erreicht. Damit ist der 29-Jährige kurz davor, seinen zweiten Grand-Slam-Titel zu gewinnen."
+        },
         {
           "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
           "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1647586.html",
           "published": "2026-09-11T21:09:16+00:00",
           "summary": ""
-        },
-        {
-          "title": "Erinnerungen von Überlebenden des Terroranschlags vom 11. September 2001 in den USA",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1647584.html",
-          "published": "2026-09-11T21:07:43+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Türkische Justiz: Erdogan-Rivale Imamoglu zu zwei Jahren Haft verurteilt",
+          "link": "https://www.handelsblatt.com/politik/international/tuerkische-justiz-erdogan-rivale-imamoglu-zu-zwei-jahren-haft-verurteilt/100254002.html",
+          "published": "2026-09-11T23:43:29+00:00",
+          "summary": "Vielen gilt er als größter Rivale des türkischen Präsidenten - und Opfer einer regierungstreuen Justiz. Macht das nächste Urteil gegen Istanbuls abgesetzten Bürgermeister ihm politisch den Garaus?"
+        },
         {
           "title": "Energie: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
           "link": "https://www.handelsblatt.com/politik/international/energie-saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab/100253993.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-saudi-arabien-schaltet-nach-angriffen-wichtige-pipeline-ab/100136895.html",
           "published": "2026-09-11T20:08:00+00:00",
           "summary": "Iran und Golfstaaten wollen über Straße von Hormus sprechen +++ Iranischer Präsident trifft zum BRICS-Gipfel in Indien ein +++ Der Newsblog."
-        },
-        {
-          "title": "Insight Innovation: Black-Forest-Labs-Chef: „Es gibt eine andere Möglichkeit, als zu Google zu gehen“",
-          "link": "https://www.handelsblatt.com/technik/ki/ki-es-gibt-eine-andere-moeglichkeit-als-zu-google-zu-gehen/100252652.html",
-          "published": "2026-09-11T20:06:58+00:00",
-          "summary": "Robin Rombach zählt mit seiner KI-Firma Black Forest Labs weltweit zu den Innovationsführern. Im Interview erzählt er, wie Roboter sehen lernen, und er spricht über US-Kooperationen und deutsche …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "KW 37: Das waren die Gewinner und Verlierer im DAX",
+          "link": "https://www.finanzen.net/nachricht/aktien/kw-37-das-waren-die-gewinner-und-verlierer-im-dax-15930774",
+          "published": "2026-09-11T23:32:00+00:00",
+          "summary": "Im Laufe der Woche kam es am deutschen Aktienmarkt zu Ausschlägen. So entwickelten sich die Einzelwerte des deutschen Leitindex DAX."
+        },
+        {
+          "title": "Bitcoin vor Rally? Was CZ jetzt grösser als Gold sieht",
+          "link": "https://www.finanzen.net/nachricht/aktien/bitcoin-vor-rally-was-cz-jetzt-groesser-als-gold-sieht-15930772",
+          "published": "2026-09-11T23:22:00+00:00",
+          "summary": "Auf der Bitcoin Asia 2026 in Hongkong erklärt Binance-Mitgründer Changpeng Zhao, warum er den Wettlauf zwischen Bitcoin und Gold für so gut wie entschieden hält."
+        },
+        {
+          "title": "Finanzberater: Darum ist das 60/40-Portfolio endgültig überholt",
+          "link": "https://www.finanzen.net/nachricht/aktien/steigende-lebenserwartung-finanzberater-darum-ist-das-60-40-portfolio-endgueltig-ueberholt-14478075",
+          "published": "2026-09-11T23:12:00+00:00",
+          "summary": "60/40-Portfolio soll finanzielle Sicherheit im Ruhestand bieten • Ric Edelman sieht dies bei hoher Lebenserwartung aber nicht gewährleistet • Der Finanzexperte rät zu anderen Lösungen Für eher …"
+        },
+        {
+          "title": "Reha vor Rente: Voraussetzungen und Bedeutung der Erwerbsminderungsrente",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/sozialrecht-reha-vor-rente-voraussetzungen-und-bedeutung-der-erwerbsminderungsrente-00-15382426",
+          "published": "2026-09-11T23:03:00+00:00",
+          "summary": "Grundsatz \"Reha vor Rente\": Erst helfen, dann zahlen Wer aus gesundheitlichen Gründen seinen Beruf nicht mehr wie gewohnt ausüben kann, denkt oft früh an eine Erwerbsminderungsrente . ..."
+        },
+        {
           "title": "Wann lohnen sich Inflation-Linked Bond ETFs? So funktioniert der Inflationsschutz im Portfolio",
           "link": "https://www.finanzen.net/nachricht/etf/break-even-im-blick-wann-lohnen-sich-inflation-linked-bond-etfs-so-funktioniert-der-inflationsschutz-im-portfolio-00-15717050",
           "published": "2026-09-11T21:50:00+00:00",
           "summary": "Inflation -Linked Bond ETFs sollen Kaufkraftverluste durch Inflation abfedern •Entscheidend ist, ob die Inflation über der Break-Even-Rate liegt •Risiken bleiben etwa durch steigende ..."
-        },
-        {
-          "title": "DAX in KW 37: Diese Aktien gehörten zu den Gewinnern und Verlierern",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-37-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15921305",
-          "published": "2026-09-11T21:39:00+00:00",
-          "summary": "So schnitten DAX-Werte in der Kalenderwoche 37 ab"
-        },
-        {
-          "title": "Verdreifachung bis 2031: Citi setzt auf Rechenzentren - Diese Ex-Crypto-Aktie könnte zum Favoriten werden",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-rechenzentren-verdreifachung-bis-2031-citi-setzt-auf-rechenzentren-diese-ex-crypto-aktie-koennte-zum-favoriten-werden-00-15927801",
-          "published": "2026-09-11T21:26:00+00:00",
-          "summary": "Citi hebt die weltweite Wachstumsprognose für Rechenzentren bis 2031 spürbar an Neben Equinix zählt auch der frühere Bitcoin-Miner TeraWulf zu den Favoriten Genehmigungsstopps in Texas und New York …"
-        },
-        {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-11T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
-        },
-        {
-          "title": "Strategy-Aktie im Fokus: CEO verteidigt Bitcoin-Verkauf und teuren Rückkauf",
-          "link": "https://www.finanzen.net/nachricht/aktien/keine-kurs-wette-strategy-aktie-im-fokus-ceo-verteidigt-bitcoin-verkauf-und-teuren-rueckkauf-15925919",
-          "published": "2026-09-11T20:47:00+00:00",
-          "summary": "Strategy trennte sich bei etwa 60.000 US-Dollar von Bitcoins Später erfolgte ein Rückkauf zu höheren Kursen Verweis auf die Kapitalkosten Strategy -CEO ..."
         }
       ],
       "error": null
@@ -204,9 +204,9 @@
       "items": [
         {
           "title": "Wirtschaft von oben: So schlimm ist der Ausfall der saudische Ost-West-Pipeline",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/iran-krieg-diese-pipeline-ist-fuer-die-weltwirtschaft-zentral-und-sehr-verwundbar/100215661.html",
-          "published": "2026-09-11T22:01:00+00:00",
-          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Ausbruch des Iran-Krieges die wichtigste Entlastung für die Weltwirtschaft. Das sind ihre Schwachstellen."
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/huthi-angriff-so-schlimm-ist-der-treffer-in-die-saudische-ost-west-pipeline/100215661.html",
+          "published": "2026-09-11T22:23:00+00:00",
+          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Beginn des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Was ein Treffer bedeutet."
         },
         {
           "title": "Staatsbesuch: Deutschland und die VAE bauen Kooperationen im Energiesektor aus",
