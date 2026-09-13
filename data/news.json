@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T22:08:11+00:00",
+  "generatedAt": "2026-09-13T00:12:56+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
+          "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
+          "published": "2026-09-13T00:03:56+00:00",
+          "summary": "Die Arktis wirkt wie eine Region am Rand der Welt - und wird doch immer wichtiger: militärisch und wirtschaftlich. Das sieht auch die EU so und trifft sich zu Beratungen in Finnland - auch Kanzler …"
+        },
+        {
+          "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
+          "published": "2026-09-12T23:53:35+00:00",
+          "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch in diesem Jahr wird es wohl nichts damit: Firmenchef Altman hält den Zeitpunkt für ungünstig - angesichts der Debatte …"
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12850.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1648090.html",
           "published": "2026-09-12T21:30:17+00:00",
           "summary": ""
-        },
-        {
-          "title": "Ramin Sina, zzt. Sulaimaniyya/Irak, zu den Angriffen aus dem Irak auf saudische Pipeline",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1648092.html",
-          "published": "2026-09-12T21:30:16+00:00",
-          "summary": ""
-        },
-        {
-          "title": "BRICS-Gipfel in Neu-Delhi: Betonung der Einigkeit trotz unterschiedlicher Positionen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1648094.html",
-          "published": "2026-09-12T21:30:15+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Deutsche Bahn: Minister will Rückkehr der Familienreservierung bei der Bahn",
+          "link": "https://www.handelsblatt.com/politik/deutschland/deutsche-bahn-minister-will-rueckkehr-der-familienreservierung-bei-der-bahn/100254102.html",
+          "published": "2026-09-12T23:30:04+00:00",
+          "summary": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Der Verkehrsminister setzt sich nun für eine Rückkehr des vergünstigten Angebots bei der Bahn ein."
+        },
+        {
+          "title": "Geotrip im Karst: Škocjanske jame: Eine Reise durch Sloweniens Unterwelt",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/geotrip-im-karst-skocjanske-jame-eine-reise-durch-sloweniens-unterwelt/100254099.html",
+          "published": "2026-09-12T22:05:16+00:00",
+          "summary": "Versteinerte Riesen, Drachenbabys und eine der größten unterirdischen Schluchten der Welt: Die Höhlen von Škocjan gehören zu den Naturwundern Europas. Ein Besuch führt tief ins Herz der Erde."
+        },
+        {
+          "title": "Merz' Zukunft: Söder: Kanzlersturz von der CSU „auf keinen Fall“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/merz-zukunft-soeder-kanzlersturz-von-der-csu-auf-keinen-fall/100254095.html",
+          "published": "2026-09-12T22:01:04+00:00",
+          "summary": "Der Kanzler wird in seiner Partei für das Wahldebakel in Sachsen-Anhalt mitverantwortlich gemacht. In der CDU rumort es. CSU-Chef Söder zeigt aber weniger auf Merz, sondern vor allem auf die SPD."
+        },
+        {
           "title": "Ukraine-Krieg: Moskau muss Rückversicherer mit Milliarden unterstützen",
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
           "published": "2026-09-12T20:56:00+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/technik/ki/chatgpt-erfinder-openai-verschiebt-boersengang-chef-altman-spricht-von-sicherheitsbedenken/100254089.html",
           "published": "2026-09-12T20:45:03+00:00",
           "summary": "Der Entwickler des Textroboters ChatGPT verschiebt seinen Börsengang auf 2027. Sam Altman begründet den Schritt mit Sicherheitsproblemen, die als Privatfirma einfacher zu lösen seien."
-        },
-        {
-          "title": "Künstliche Intelligenz: OpenAI-Chef: Börsengang nicht mehr in diesem Jahr",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-chef-boersengang-nicht-mehr-in-diesem-jahr/100254090.html",
-          "published": "2026-09-12T20:21:26+00:00",
-          "summary": "Der ChatGPT-Entwickler OpenAI ist das wohl bekannteste KI-Unternehmen. Der seit langem vorbereitete Börsengang dürfte ein Riesen-Event werden. Doch Firmenchef Sam Altman findet den Moment ungünstig."
-        },
-        {
-          "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung/100254082.html",
-          "published": "2026-09-12T17:34:20+00:00",
-          "summary": "Seit Jahren gibt es Aufrufe, die KI-Entwicklung zu verlangsamen. Durch einen jüngsten Zwischenfall als Weckruf gibt es nun erste Bewegung bei den großen Entwicklern Künstlicher Intelligenz."
-        },
-        {
-          "title": "KI-Sicherheit: Dario Amodei warnt vor KI-Katastrophe",
-          "link": "https://www.handelsblatt.com/technik/it-internet/ki-sicherheit-dario-amodei-warnt-vor-ki-katastrophe/100254079.html",
-          "published": "2026-09-12T17:31:23+00:00",
-          "summary": "Der Anthropic-Chef fordert in einem viel beachteten Essay, die Entwicklung neuer Modelle zu drosseln – und räumt Pannen im eigenen Haus ein. Sein Drei-Stufen-Plan reicht bis nach China."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Gold-Stratege Stöferle im Interview: „Gold ist weiterhin extrem günstig“",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-gold-stratege-stoeferle-im-interview-gold-ist-weiterhin-extrem-guenstig-15929814",
-          "published": "2026-09-12T21:55:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Verbotene Pauschale: So ändern sich Blitzergebühren",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/mietwagen-verbotene-pauschale-so-aendern-sich-blitzergebuehren-00-15388773",
+          "published": "2026-09-13T00:05:00+00:00",
+          "summary": "Geblitzt im Mietwagen: Pauschale Bearbeitungsgebühren sind unzulässig Ein Tempoverstoß ist ärgerlich genug - vor allem, wenn zum Bußgeld noch zusätzliche Kosten dazukommen. Genau das war bei …"
         },
         {
-          "title": "BVB-Aktie: Nico Schlotterbeck gibt Comeback nach WM-Verletzung - Karetsas bald wieder spielfähig",
-          "link": "https://www.finanzen.net/nachricht/aktien/keine-auffaelligkeiten-bvb-aktie-nico-schlotterbeck-gibt-comeback-nach-wm-verletzung-karetsas-bald-wieder-spielfaehig-15931247",
-          "published": "2026-09-12T21:50:00+00:00",
-          "summary": "Der 26-Jährige steht in der Startelf von Borussia Dortmund (BVB) für das Bundesligaspiel gegen den SC Paderborn. Schlotterbeck hatte sich im zweiten WM-Gruppenspiel der deutschen Nationalmannschaft …"
+          "title": "Mit dem Pareto-Prinzip produktiver arbeiten",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/zeitmanagement-mit-dem-pareto-prinzip-produktiver-arbeiten-00-15382292",
+          "published": "2026-09-12T23:57:00+00:00",
+          "summary": "Was hinter der 80/20-Regel steckt Kaum ein Produktivitätsprinzip ist so eingängig wie die 80/20-Regel. Gemeint ist die Beobachtung, dass ein vergleichsweise kleiner Teil des eingesetzten Aufwands …"
         },
         {
-          "title": "Tech-Aktien weiter gefragt: So positionierte sich die SNB im zweiten Quartal 2026",
-          "link": "https://www.finanzen.net/nachricht/aktien/blick-ins-depot-tech-aktien-weiter-gefragt-so-positionierte-sich-die-snb-im-zweiten-quartal-2026-15921317",
-          "published": "2026-09-12T21:47:00+00:00",
-          "summary": "Das US-Portfolio der Schweizerischen Nationalbank ( SNB ) umfasst Milliarden von US-Dollar und unterliegt damit der Pflicht, ihre US-Aktienbestände alle drei Monate offenzulegen. ..."
+          "title": "\"Wem gehört der DAX?\" - Wer die meisten Anteile am deutschen Leitindex hält",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktionaere-34-wem-gehoert-der-dax-34-wer-die-meisten-anteile-am-deutschen-leitindex-haelt-8987726",
+          "published": "2026-09-12T23:41:00+00:00",
+          "summary": "Institutionelle Investoren halten 60,2 Prozent des DAX-Streubesitzes Passive Indexfonds treiben die Kapitalzuflüsse so stark wie nie zuvor Nordamerika bleibt größte Region, London stärkster …"
         },
         {
-          "title": "Wiederholt sich die Japan-Aktienrally von 2023? Das sagt Bank of America",
-          "link": "https://www.finanzen.net/nachricht/aktien/rueckkauf-wiederholt-sich-die-japan-aktienrally-von-2023-das-sagt-bank-of-america-00-15914281",
-          "published": "2026-09-12T21:41:00+00:00",
-          "summary": "US-Finanzministerium verdoppelt Rückkaufobergrenze für langfristige Staatsanleihen • Bank of America zieht in einem Strategiebericht Parallelen zur sogenannten Fed-Pivot-Rally japanischer Aktien von …"
+          "title": "Die Performance der Kryptowährungen in KW 37: Das hat sich bei Bitcoin, Ether Co. getan",
+          "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-37-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15931393",
+          "published": "2026-09-12T23:12:00+00:00",
+          "summary": "Am Kryptomarkt bewegten sich einige Werte in der vergangenen Handelswoche stark. Das sind die Gewinner und Verlierer."
         },
         {
-          "title": "KW 37 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-37-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15921311",
-          "published": "2026-09-12T21:36:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 37"
+          "title": "SpaceX-Aktie vor Starship-Test: Testflug 14 könnte schon bald an den Start gehen",
+          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-vor-starship-test-testflug-14-koennte-schon-bald-an-den-start-gehen-00-15922828",
+          "published": "2026-09-12T23:11:00+00:00",
+          "summary": "SpaceX benannte in einem FCC-Antrag den 15. September als geplantes Datum für Testflug 14 • Start soll erstmals V3-Starlink-Satelliten in den operativen Orbit bringen • Booster 21 und Ship 41 haben …"
         }
       ],
       "error": null
@@ -203,9 +203,9 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wirtschaft von oben: So schwerwiegend ist der Ausfall der saudischen Ost-West-Pipeline",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/ost-west-pipeline-in-saudi-arabien-so-schwerwiegend-ist-der-ausfall/100215661.html",
-          "published": "2026-09-12T21:00:00+00:00",
+          "title": "Wirtschaft von oben: So schwerwiegend ist der Ausfall der saudischen Pipeline",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/pipeline-in-saudi-arabien-so-schwerwiegend-ist-der-ausfall/100215661.html",
+          "published": "2026-09-12T22:09:00+00:00",
           "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Ausbruch des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Am Freitag wurde sie nach einem Treffer abgeschaltet."
         },
         {
