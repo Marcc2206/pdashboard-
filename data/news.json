@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T00:12:56+00:00",
+  "generatedAt": "2026-09-13T02:09:15+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648104.html",
+          "published": "2026-09-13T00:23:18+00:00",
+          "summary": ""
+        },
         {
           "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
           "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
@@ -17,7 +23,7 @@
           "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
           "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
           "published": "2026-09-12T23:53:35+00:00",
-          "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch in diesem Jahr wird es wohl nichts damit: Firmenchef Altman hält den Zeitpunkt für ungünstig - angesichts der Debatte …"
+          "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der …"
         },
         {
           "title": "tagesthemen",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1648096.html",
           "published": "2026-09-12T21:39:35+00:00",
           "summary": ""
-        },
-        {
-          "title": "Demonstrationen in deutschen Städten nach Wahlsieg der AfD in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1648090.html",
-          "published": "2026-09-12T21:30:17+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "+++ Iran-Krieg +++: Iran stellt Öffnung der Straße von Hormus in Aussicht",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-stellt-oeffnung-der-strasse-von-hormus-in-aussicht/100136895.html",
+          "published": "2026-09-13T00:25:00+00:00",
+          "summary": "Saudi-Arabien: Zwei Verletzte nach Huthi-Beschuss +++ Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab +++ Iran und Golfstaaten wollen zu Straße von Hormus sprechen +++ Der Newsblog."
+        },
+        {
+          "title": "+++ USA +++: Trump drängt Staaten zur Abkehr vom Internationalen Strafgerichtshof",
+          "link": "https://www.handelsblatt.com/politik/international/trump-draengt-staaten-zur-abkehr-vom-internationalen-strafgerichtshof/29669594.html",
+          "published": "2026-09-13T00:22:00+00:00",
+          "summary": "Trump kündigt Rückzahlungen für Obamacare-Versicherte an +++ Amazon-Pilot warnte vor Unglück vor zu schnellem Anflug +++ Supreme Court bestätigt Aus für neue Wahlkreise in Missouri +++ Der Newsblog."
+        },
         {
           "title": "Deutsche Bahn: Minister will Rückkehr der Familienreservierung bei der Bahn",
           "link": "https://www.handelsblatt.com/politik/deutschland/deutsche-bahn-minister-will-rueckkehr-der-familienreservierung-bei-der-bahn/100254102.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/merz-zukunft-soeder-kanzlersturz-von-der-csu-auf-keinen-fall/100254095.html",
           "published": "2026-09-12T22:01:04+00:00",
           "summary": "Der Kanzler wird in seiner Partei für das Wahldebakel in Sachsen-Anhalt mitverantwortlich gemacht. In der CDU rumort es. CSU-Chef Söder zeigt aber weniger auf Merz, sondern vor allem auf die SPD."
-        },
-        {
-          "title": "Ukraine-Krieg: Moskau muss Rückversicherer mit Milliarden unterstützen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-12T20:56:00+00:00",
-          "summary": "Ukraine: Bereiten uns auf neue Friedensgespräche im Oktober vor +++ Russland meldet Abwehr von 777 ukrainischen Drohnen +++ Mehrere Tote bei russischen Angriffen auf Dnipro und Kiew +++ Der Newsblog."
-        },
-        {
-          "title": "ChatGPT-Erfinder: OpenAI verschiebt Börsengang – Chef Altman spricht von „Sicherheitsbedenken“",
-          "link": "https://www.handelsblatt.com/technik/ki/chatgpt-erfinder-openai-verschiebt-boersengang-chef-altman-spricht-von-sicherheitsbedenken/100254089.html",
-          "published": "2026-09-12T20:45:03+00:00",
-          "summary": "Der Entwickler des Textroboters ChatGPT verschiebt seinen Börsengang auf 2027. Sam Altman begründet den Schritt mit Sicherheitsproblemen, die als Privatfirma einfacher zu lösen seien."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Es wird nicht 2026 sein\": OpenAI verschiebt Börsengang wegen Sicherheitsrisiken",
+          "link": "https://www.n-tv.de/wirtschaft/OpenAI-verschiebt-Boersengang-wegen-Sicherheitsrisiken-id31299775.html",
+          "published": "2026-09-13T01:23:18+00:00",
+          "summary": "Könnte die Künstliche Intelligenz außer Kontrolle geraten? Angesichts ungeklärter Sicherheitsrisiken verschiebt OpenAI-Chef Altman seinen Börsengang. Konkurrent Anthropic hält an den Plänen fest. …"
+        },
         {
           "title": "Musk und Altman stimmen zu: Anthropic-Chef fordert langsameres Tempo bei KI-Entwicklung",
           "link": "https://www.n-tv.de/wirtschaft/Anthropic-Chef-fordert-langsameres-Tempo-bei-KI-Entwicklung-id31299590.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Isar-Aerospace-macht-aus-Deutschland-noch-keine-Raumfahrtnation-id31288178.html",
           "published": "2026-09-12T13:47:09+00:00",
           "summary": "Mit dem geglückten Raketenstart feiert Isar Aerospace einen historischen Erfolg für Europa. Doch der Weg zum Routinebetrieb ist lang. Die Zukunft des Startups entscheidet sich nicht auf der …"
-        },
-        {
-          "title": "Zurück in der Normalität: Wie wir von steigenden Zinsen profitieren",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-wir-von-steigenden-Zinsen-profitieren-id31295848.html",
-          "published": "2026-09-12T13:30:00+00:00",
-          "summary": "Die Schuldenberge sind gewaltig und gleichzeitig steigen die Zinsen. Wie weit kann das noch gehen? Wie lange halten die Aktienmärkte das aus? Und wie können Anleger davon sogar profitieren?"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Verbotene Pauschale: So ändern sich Blitzergebühren",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/mietwagen-verbotene-pauschale-so-aendern-sich-blitzergebuehren-00-15388773",
-          "published": "2026-09-13T00:05:00+00:00",
-          "summary": "Geblitzt im Mietwagen: Pauschale Bearbeitungsgebühren sind unzulässig Ein Tempoverstoß ist ärgerlich genug - vor allem, wenn zum Bußgeld noch zusätzliche Kosten dazukommen. Genau das war bei …"
+          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 37",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-37-15921316",
+          "published": "2026-09-13T01:45:59+00:00",
+          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 37"
         },
         {
-          "title": "Mit dem Pareto-Prinzip produktiver arbeiten",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/zeitmanagement-mit-dem-pareto-prinzip-produktiver-arbeiten-00-15382292",
-          "published": "2026-09-12T23:57:00+00:00",
-          "summary": "Was hinter der 80/20-Regel steckt Kaum ein Produktivitätsprinzip ist so eingängig wie die 80/20-Regel. Gemeint ist die Beobachtung, dass ein vergleichsweise kleiner Teil des eingesetzten Aufwands …"
+          "title": "US-Zwischenwahlen voraus: Warum auf schwache Wochen oft eine Rally folgt - und welche Sektoren profitieren könnten",
+          "link": "https://www.finanzen.net/nachricht/aktien/boersenmuster-us-zwischenwahlen-voraus-warum-auf-schwache-wochen-oft-eine-rally-folgt-und-welche-sektoren-profitieren-koennten-00-15927492",
+          "published": "2026-09-13T01:40:24+00:00",
+          "summary": "Seit 1962 gab der S&P 500 vor jeder Zwischenwahl im Schnitt rund 8 Prozent ab Nach der Wahl folgte historisch fast immer eine kräftige Erholungsphase 2026 steht der Kongress mit 220 zu 215 Sitzen vor …"
         },
         {
-          "title": "\"Wem gehört der DAX?\" - Wer die meisten Anteile am deutschen Leitindex hält",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktionaere-34-wem-gehoert-der-dax-34-wer-die-meisten-anteile-am-deutschen-leitindex-haelt-8987726",
-          "published": "2026-09-12T23:41:00+00:00",
-          "summary": "Institutionelle Investoren halten 60,2 Prozent des DAX-Streubesitzes Passive Indexfonds treiben die Kapitalzuflüsse so stark wie nie zuvor Nordamerika bleibt größte Region, London stärkster …"
+          "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 37 im Überblick",
+          "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-37-im-ueberblick-15921314",
+          "published": "2026-09-13T01:13:01+00:00",
+          "summary": "Die schlechtesten und besten TecDAX-Werte in der Kalenderwoche 37"
         },
         {
-          "title": "Die Performance der Kryptowährungen in KW 37: Das hat sich bei Bitcoin, Ether Co. getan",
-          "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-37-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15931393",
-          "published": "2026-09-12T23:12:00+00:00",
-          "summary": "Am Kryptomarkt bewegten sich einige Werte in der vergangenen Handelswoche stark. Das sind die Gewinner und Verlierer."
+          "title": "Berkshire Hathaway-Aktie: Buffetts wichtigste Lektion - Diese Eigenschaft ist der Schlüssel zum Erfolg",
+          "link": "https://www.finanzen.net/nachricht/aktien/erfolgsrezept-berkshire-hathaway-aktie-buffetts-wichtigste-lektion-diese-eigenschaft-ist-der-schluessel-zum-erfolg-00-15458056",
+          "published": "2026-09-13T00:43:00+00:00",
+          "summary": "Buffett sieht Freundlichkeit als entscheidende Tugend für persönliches Glück • Mentor Tom Murphy zeigte ihm, dass respektvolles Verhalten Erfolg fördern kann • Freundlichkeit kostet nichts, aber …"
         },
         {
-          "title": "SpaceX-Aktie vor Starship-Test: Testflug 14 könnte schon bald an den Start gehen",
-          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-vor-starship-test-testflug-14-koennte-schon-bald-an-den-start-gehen-00-15922828",
-          "published": "2026-09-12T23:11:00+00:00",
-          "summary": "SpaceX benannte in einem FCC-Antrag den 15. September als geplantes Datum für Testflug 14 • Start soll erstmals V3-Starlink-Satelliten in den operativen Orbit bringen • Booster 21 und Ship 41 haben …"
+          "title": "Gold, Öl Co. in KW 37: So bewegten sich die Rohstoffe in der vergangenen Woche",
+          "link": "https://www.finanzen.net/nachricht/aktien/gold-oel-amp-co-in-kw-37-so-bewegten-sich-die-rohstoffe-in-der-vergangenen-woche-15931404",
+          "published": "2026-09-13T00:23:00+00:00",
+          "summary": "Am Rohstoffmarkt hat sich in der vergangenen Handelswoche einiges getan. Das sind die Gewinner und Verlierer."
         }
       ],
       "error": null
