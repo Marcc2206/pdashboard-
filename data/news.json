@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T10:08:52+00:00",
+  "generatedAt": "2026-09-14T12:12:12+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "\"Extreme politische Ausschläge gab es nicht\", Bertil Starke, NDR zu Ergebnissen der Kommunalwahl in Niedersachsen",
-          "link": "https://www.tagesschau.de/video/video-1648604.html",
-          "published": "2026-09-14T09:58:12+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81006.html",
+          "published": "2026-09-14T12:10:07+00:00",
           "summary": ""
+        },
+        {
+          "title": "Tankstellenverband erwartet Spritpreise um die drei Euro",
+          "link": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
+          "published": "2026-09-14T11:52:20+00:00",
+          "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten werden Benzin und Diesel immer teurer - am Wochenende gab es ein neues Allzeithoch. Auch die Preise für Heizöl und Gas …"
+        },
+        {
+          "title": "Trump kündigt Ende der Zölle auf irischen Whiskey an",
+          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-whiskey-irland-100.html",
+          "published": "2026-09-14T11:09:07+00:00",
+          "summary": "US-Präsident Trump hat die Aufhebung der Zölle auf irischen Whiskey angekündigt. Während seiner Irlandreise am Wochenende sei er um eine Aufhebung der Zölle gebeten worden, sagte Trump auf dem …"
+        },
+        {
+          "title": "Bundesanwaltschaft: Anklage gegen mutmaßliche Russland-Spionin",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/anklage-spionin-russland-100.html",
+          "published": "2026-09-14T11:03:53+00:00",
+          "summary": "Sie soll ein pro-russisches Netzwerk in Berlin aufgebaut und Informationen zur deutschen Verteidigungspolitik an den Kreml geliefert haben: Jetzt hat die Bundesanwaltschaft Anklage gegen die …"
         },
         {
           "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
           "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-14T09:45:19+00:00",
-          "summary": "Am Montag gibt es anfangs in Richtung Südosten noch Schauer. Sonst ist es überwiegend trocken bei teils längerem Sonnenschein, teils dichten Wolken. Die Höchstwerte liegen zwischen 16 Grad auf Rügen …"
-        },
-        {
-          "title": "Sind die Spritpreise noch zu bremsen?",
-          "link": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
-          "published": "2026-09-14T09:18:10+00:00",
-          "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten werden Benzin und Diesel immer teurer - am Wochenende gab es ein neues Allzeithoch. Auch die Preise für Heizöl steigen …"
-        },
-        {
-          "title": "\"Anti-ukrainische Stimmung\", Martha Wilczynski, ARD Warschau, zu russischem Angriff auf Zug nahe Grenze zu Polen",
-          "link": "https://www.tagesschau.de/video/video-1648584.html",
-          "published": "2026-09-14T09:03:41+00:00",
-          "summary": ""
-        },
-        {
-          "title": "CDU stärkste Kraft - AfD legt stark zu",
-          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/kommunalwahl-2026-vertrauen-in-die-etablierten-parteien-ist-angespannt,kommunalwahl-340.html",
-          "published": "2026-09-14T09:03:20+00:00",
-          "summary": "Die CDU ist mit 27,2 Prozent erneut stärkste Kraft bei den Kommunalwahlen in Niedersachsen auf Kreisebene geworden. Nach vorläufigen Ergebnissen kommt die SPD auf 24,6 Prozent und die AfD auf 15,9. …"
+          "published": "2026-09-14T10:50:28+00:00",
+          "summary": "Am Dienstag hält sich anfangs vor allem in der Mitte und im Süden regional Nebel. Nach dessen Auflösung und abseits davon gibt es viel Sonne bei lockeren Wolken. Später wird es im Norden und …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Gewerkschaft: IG Metall fordert mehr Unterstützung durch die Politik",
-          "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaft-ig-metall-fordert-mehr-unterstuetzung-durch-die-politik/100254348.html",
-          "published": "2026-09-14T10:05:10+00:00",
-          "summary": "Die deutsche Automobilbranche steckt in der Krise: 40.000 Menschen haben in den ersten sechs Monaten dieses Jahres ihren Job verloren. Die IG Metall macht konkrete Vorschläge."
+          "title": "Generika: Wie Sandoz Patentabläufe nutzt und den Markt für Abnehmmittel aufmischen will",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/generika-sandoz-verspricht-preiswerte-kopien-von-abnehmspritzen/100252841.html",
+          "published": "2026-09-14T12:07:25+00:00",
+          "summary": "Der Generikaproduzent Sandoz bereitet sich auf einen Milliardenmarkt für nachgemachte Abnehmmittel vor. Finanzchef Steenberger skizziert Strategie und Pläne für den Ausbau."
         },
         {
-          "title": "Spionage: Mutmaßliche Spionin Russlands in Berlin angeklagt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/spionage-mutmassliche-spionin-russlands-in-berlin-angeklagt/100254355.html",
-          "published": "2026-09-14T09:53:34+00:00",
-          "summary": "Die Bundesanwaltschaft geht gegen eine mutmaßliche russische Spionin vor."
+          "title": "Geld genug: Trailer: Geld genug",
+          "link": "https://www.handelsblatt.com/audio/geld-genug/geld-genug-trailer-geld-genug/100254393.html",
+          "published": "2026-09-14T12:04:37+00:00",
+          "summary": "Alle zwei Wochen soll der Geldpodcast Antworten geben auf die großen finanziellen Lebensfragen. Die ersten Folgen erscheinen am 15. September 2026."
         },
         {
-          "title": "Geldanlage: Wer den MSCI World kauft, schließt derzeit drei Wetten ab",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-welche-risiken-birgt-der-msci-world-aktuell/100244938.html",
-          "published": "2026-09-14T09:52:00+00:00",
-          "summary": "Nach wie vor performt der Index MSCI World übers Jahr gesehen stark mit 20 Prozent Kursgewinn. Doch hinter der positiven Entwicklung könnten Probleme lauern."
+          "title": "Sparsame Elektro-Flunder: VW Mission Efficiency überträgt XL1-Idee ins E-Zeitalter",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/sparsame-elektro-flunder-vw-mission-efficiency-uebertraegt-xl1-idee-ins-e-zeitalter/100254399.html",
+          "published": "2026-09-14T12:04:35+00:00",
+          "summary": "VW zeigt ein neues Beispiel für elektrische Effizienz und schickt einen Technologieträger mit Minimalverbrauch auf die Strecke. Das Stromliniencoupé ist extrem, aber die Technik beweist Bodenhaftung."
         },
         {
-          "title": "Dax aktuell: Debatte um KI‑Entwicklung drückt Chip-Aktien ins Minus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-debatte-um-kientwicklung-drueckt-chip-aktien-ins-minus/100254261.html",
-          "published": "2026-09-14T09:49:46+00:00",
-          "summary": "Die Worte von Sam Altman und Dario Amodei kosten Infineon und kleinere Chip-Firmen deutlich an Börsenwert. Der hohe Ölpreis belastet die Kurse zusätzlich."
+          "title": "Erneuerbare Energie: Windindustrie erwartet weniger Aufträge",
+          "link": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energie-windindustrie-erwartet-weniger-auftraege/100254398.html",
+          "published": "2026-09-14T12:00:09+00:00",
+          "summary": "In weniger Betrieben wird einer Umfrage zufolge mit steigenden Aufträgen gerechnet. Das teilt die IG Metall Küste mit. Die Gewerkschaft sieht Wirtschaftsministerin Reiche in der Verantwortung."
         },
         {
-          "title": "Börse am 14. September: Fünf Punkte, die für Anleger heute wichtig sind",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-          "published": "2026-09-14T09:48:04+00:00",
-          "summary": "Nach einer volatilen Woche am deutschen Aktienmarkt hoffen die Anleger in der neuen Woche auf positive Signale. In den Übernahmekampf um die Commerzbank könnte derweil Bewegung kommen."
+          "title": "Naturschutz: Aktion „Deutschland sucht Igel und Maulwurf“ startet",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/naturschutz-aktion-deutschland-sucht-igel-und-maulwurf-startet/100254397.html",
+          "published": "2026-09-14T11:58:05+00:00",
+          "summary": "Wie viele Igel und Maulwürfe leben in Deutschland? Naturschützer wissen es nicht genau und bitten jetzt die Bevölkerung um Mithilfe."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP: Mutmaßliche Spionin Russlands in Berlin angeklagt",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-mutmassliche-spionin-russlands-in-berlin-angeklagt-15932555",
-          "published": "2026-09-14T10:06:38+00:00",
-          "summary": "KARLSRUHE/BERLIN (dpa-AFX) - Die Bundesanwaltschaft hat am Kammergericht Berlin Anklage gegen eine mutmaßliche Spionin Russlands erhoben. Die oberste deutsche Anklagebehörde wirft der Frau vor, einen …"
+          "title": "US-Zinsentscheid als wichtiger Entscheidungsfaktor: DAX hält sich auf rotem Terrain",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-us-zinsentscheid-als-wichtiger-entscheidungsfaktor-dax-haelt-sich-auf-rotem-terrain-15932001",
+          "published": "2026-09-14T12:08:00+00:00",
+          "summary": "Der DAX gab zum Start in die neue Handelswoche 0,27 Prozent auf 25.498,74 Punkte nach. Im weiteren Verlauf bleibt er auf rotem Terrain. Ölpreise erweisen sich erneut als Belastungsfaktor Nach ..."
         },
         {
-          "title": "Europäische Regierungschefs warnen vor russischer Aggression",
-          "link": "https://www.finanzen.net/nachricht/aktien/europaeische-regierungschefs-warnen-vor-russischer-aggression-15932552",
-          "published": "2026-09-14T10:05:38+00:00",
-          "summary": "ROVANIEMI (dpa-AFX) - Mehrere europäische Regierungschefs haben beim Arktis-Gipfel im finnischen Rovaniemi vor einer wachsenden Gefahr aus Russland gewarnt. Der Angriff auf einen Zug nahe der …"
+          "title": "Polens Armee fischt Kampfdrohne aus der Ostsee",
+          "link": "https://www.finanzen.net/nachricht/aktien/polens-armee-fischt-kampfdrohne-aus-der-ostsee-15932738",
+          "published": "2026-09-14T12:05:38+00:00",
+          "summary": "WARSCHAU (dpa-AFX) - Polens Armee hat unweit der Küste eine Kampfdrohne aus der Ostsee geborgen. \"Die erste Begutachtung deutet darauf hin, dass es sich um eine aus Russland stammende Militärdrohne …"
         },
         {
-          "title": "70 Prozent der Privatanleger verlieren Geld - wegen dieser drei Denkfehler",
-          "link": "https://www.finanzen.net/nachricht/aktien/70-prozent-der-privatanleger-verlieren-geld-wegen-dieser-drei-denkfehler-15932554",
-          "published": "2026-09-14T10:05:00+00:00",
-          "summary": "70 Prozent der Privatanleger verlieren Geld – wegen dieser drei Denkfehler"
+          "title": "GNW-News: Der Adobe Productivity Agent in Acrobat wandelt nun komplexe Dokumente in verständliche visuelle Darstellungen, Audioinhalte und Präsentationen für...",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-der-adobe-productivity-agent-in-acrobat-wandelt-nun-komplexe-dokumente-in-verstaendliche-visuelle-darstellungen-audioinhalte-und-praesentationen-fuer-15932737",
+          "published": "2026-09-14T12:04:39+00:00",
+          "summary": "^* Neue KI-Funktionen in Acrobat, die auf dem Adobe Productivity Agentbasieren, helfen Anwendern dabei, Dateien schnell in Audio- und Videoinhalte umzuwandeln, die sich innerhalb weniger Minuten …"
         },
         {
-          "title": "Bitcoin und Co.: Coinbase-CEO Armstrong sieht diese Klarheit für Krypto-Anleger - auch ohne CLARITY Act",
-          "link": "https://www.finanzen.net/nachricht/devisen/krypto-regulierung-bitcoin-und-co-coinbase-ceo-armstrong-sieht-diese-klarheit-fuer-krypto-anleger-auch-ohne-clarity-act-00-15929923",
-          "published": "2026-09-14T10:03:00+00:00",
-          "summary": "Coinbase-CEO Armstrong erwartet Krypto-Regulierungsklarheit so oder so Senat stimmt am 15. September über CLARITY Act per Cloture-Votum ab SEC und CFTC bereiten eigene Marktstruktur-Regeln als …"
+          "title": "Riester-Vertrag: Warum du den Wechsel ins Altersvorsorgedepot jetzt schon vorbereiten solltest",
+          "link": "https://www.finanzen.net/nachricht/aktien/riester-vertrag-warum-du-den-wechsel-ins-altersvorsorgedepot-jetzt-schon-vorbereiten-solltest-15932739",
+          "published": "2026-09-14T12:04:05+00:00",
+          "summary": ""
         },
         {
-          "title": "SpaceX-Milliarden-Deal befeuert die Fantasie - aber nicht ohne Risiko für Aktien-Anleger",
-          "link": "https://www.finanzen.net/nachricht/aktien/ziel-100-milliarden-in-sicht-spacex-milliarden-deal-befeuert-die-fantasie-aber-nicht-ohne-risiko-fuer-aktien-anleger-00-15932022",
-          "published": "2026-09-14T10:01:00+00:00",
-          "summary": "Neuer Rechenleistungs-Deal treibt SpaceX näher an sein Jahresziel Analysten halten das ambitionierte Umsatzziel für grundsätzlich erreichbar Kurzfristige Kündigungsrechte in den Verträgen bergen aber …"
+          "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
+          "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
+          "published": "2026-09-14T12:03:00+00:00",
+          "summary": "Evercore sieht acht US-Blue Chips als Kandidaten für vorgezogene Verkäufe Tesla, Trade Desk und DraftKings zeigen die stärksten Gewinnrevisionen Der SpaceX-Börsengang im Juni gilt als Blaupause für …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wann kommt iOS 27?: Das müssen Sie zum bevorstehenden iPhone-Update wissen",
-          "link": "https://www.wiwo.de/unternehmen/it/wann-kommt-ios-27-release-datum-neuerungen-liste-kompatibler-iphones/28675148.html",
-          "published": "2026-09-14T09:13:00+00:00",
-          "summary": "iOS 27 steht kurz vor dem Release. Nutzer können sich auf zahlreiche Neuerungen freuen. Das müssen Sie zum neuen Apple-Update wissen."
+          "title": "Erster Schultag: Der Schulranzen wird zum Statussymbol",
+          "link": "https://www.wiwo.de/politik/deutschland/erster-schultag-der-schulranzen-wird-zum-statussymbol/100253540.html",
+          "published": "2026-09-14T12:08:30+00:00",
+          "summary": "Eigentlich sollte die Einschulung Kindern zeigen, worum es in der Schule geht: um Lernen. Stattdessen lernen viele noch vor der ersten Stunde: Wer sich was leisten kann – und wer nicht."
         },
         {
-          "title": "Krise in der Auto-Industrie: IG Metall ruft zu Protest gegen Einschnitte in der Autobranche",
-          "link": "https://www.wiwo.de/unternehmen/auto/krise-in-der-auto-industrie-ig-metall-ruft-zu-protest-gegen-einschnitte-in-autobranche/100254332.html",
-          "published": "2026-09-14T08:40:14+00:00",
-          "summary": "Angesichts der Krise in der Automobilbranche gibt es Rufe nach Einschnitten für die Beschäftigten. Die IG Metall macht dagegen Front."
+          "title": "Tanken: Tankstellenverband warnt vor Spritpreisen von drei Euro pro Liter",
+          "link": "https://www.wiwo.de/politik/deutschland/mobilitaetskosten-benzinpreis-auf-rekordhoch-diesel-kurz-davor/100254273.html",
+          "published": "2026-09-14T12:07:00+00:00",
+          "summary": "Die Preise für Benzin und Diesel an den Tankstellen erreichen neue Höchststände. Kritik an den Ölkonzernen wird lauter: „Es wird abkassiert.“"
         },
         {
-          "title": "Technologiekonzern: Bosch will bei schweren Nutzfahrzeugen wachsen",
-          "link": "https://www.wiwo.de/unternehmen/industrie/iaa-transportation-bosch-will-geschaeft-mit-schweren-nutzfahrzeugen-verdoppeln/100254293.html",
-          "published": "2026-09-14T08:26:00+00:00",
-          "summary": "Auf der IAA Transportation äußert Bosch seine Ambitionen bei schweren Nutzfahrzeugen. Der Umsatz soll sich bis Mitte der 2030er-Jahre verdoppeln."
+          "title": "Bundeswehr: Boris Pistorius und der Frust der Bundeswehr-Beschaffer",
+          "link": "https://www.wiwo.de/politik/deutschland/bundeswehr-boris-pistorius-und-der-frust-der-bundeswehr-beschaffer/100249875.html",
+          "published": "2026-09-14T11:48:19+00:00",
+          "summary": "Friendly Fire: Verteidigungsminister Boris Pistorius und die Beamten bei der Bundeswehr-Beschaffung in Koblenz befeuern sich mit ihrem Missmut."
         },
         {
-          "title": "Künstliche Intelligenz: Auslöschung der Menschheit? Was an den heftigen KI-Warnungen dran ist",
-          "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-ausloeschung-der-menschheit-was-an-den-ki-warnungen-dran-ist/100254268.html",
-          "published": "2026-09-14T07:49:00+00:00",
-          "summary": "Die Chefs der KI-Giganten warnen so drastisch wie nie vor ihrer eigenen Technologie. Doch Donald Trump hält dagegen. Wie real ist die Gefahr?"
+          "title": "Karriere im Osten: Was ausländische Fachkräfte zum Wahlsieg der AfD sagen",
+          "link": "https://www.wiwo.de/erfolg/beruf/afd-sieg-in-sachsen-anhalt-was-auslaendische-fachkraefte-fuerchten/100253593.html",
+          "published": "2026-09-14T11:38:30+00:00",
+          "summary": "In Sachsen-Anhalt arbeiten viele ausländische Studenten und Wissenschaftler an Zukunftstechnologien – und mindern den Fachkräftemangel. Doch wie lange noch?"
         },
         {
-          "title": "Handelsstreit mit den USA: Kanada will „einzigartige Allianz“ mit EU aufbauen",
-          "link": "https://www.wiwo.de/politik/ausland/handelsstreit-mit-den-usa-kanada-will-einzigartige-allianz-mit-eu-aufbauen/100254267.html",
-          "published": "2026-09-14T07:23:00+00:00",
-          "summary": "Kanadas Premier Carney strebt eine Annäherung an die EU an. Hintergrund ist der Handelsstreit mit den USA."
+          "title": "Angriff auf Ölanlagen: Saudi-Arabiens Verlust ist Wladimir Putins Gewinn",
+          "link": "https://www.wiwo.de/unternehmen/energie/angriff-auf-oel-pipeline-saudi-arabiens-verlust-ist-wladimir-putins-gewinn/100254343.html",
+          "published": "2026-09-14T11:08:15+00:00",
+          "summary": "Der Kreml-Chef und seine Schattenflotte sind die heimlichen Profiteure des aufflammenden Konflikts am Roten Meer – auch dank enger Drähte nach Teheran."
         }
       ],
       "error": null
@@ -241,6 +241,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Bosch sieht Milliardenchance im Lkw: Der Truck wird zum Computer",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/bosch-sieht-milliardenchance-im-lkw-der-truck-wird-zum-computer/",
+          "published": "2026-09-14T11:30:00+00:00",
+          "summary": "Bosch will seinen Umsatz mit Technik für schwere Nutzfahrzeuge bis Mitte der 2030er-Jahre auf mehr als 8 Mrd. € verdoppeln. Wachstum sollen E-Antriebe, Software und automatisiertes Fahren bringen. …"
+        },
+        {
+          "title": "Hohe Einkommen, trotzdem wechselwillig: Was Fachkräfte in Bau und Energie erwarten",
+          "link": "https://www.ingenieur.de/karriere/gehalt/hohe-einkommen-trotzdem-wechselwillig-was-fachkraefte-in-bau-und-energie-erwarten/",
+          "published": "2026-09-14T11:00:00+00:00",
+          "summary": "Die Energiewirtschaft zahlt Fach- und Führungskräften deutlich mehr als das Baugewerbe. Wechselwillig sind dennoch viele Beschäftigte – besonders Projektleitende."
+        },
         {
           "title": "Wer hat an der Uhr gedreht? Neun Fakten zur Zeitumstellung",
           "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/wer-hat-an-der-uhr-gedreht-neun-fakten-zur-zeitumstellung/",
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/advertorial/leistungsfaehige-verkehrsnetze-als-schluessel-zu-nachhaltiger-mobilitaet/",
           "published": "2026-09-14T06:00:00+00:00",
           "summary": "Straßen, Brücken, Schienen: Wie moderne Infrastrukturlösungen, schnellere Bauverfahren und innovative Technologien die Mobilitätswende voranbringen."
-        },
-        {
-          "title": "Jobwechsel für Ingenieure: Ab wann zahlt er sich finanziell aus?",
-          "link": "https://www.ingenieur.de/karriere/gehalt/jobwechsel-fur-ingenieure-wann-sich-ein-wechsel-beim-gehalt-lohnt/",
-          "published": "2026-09-14T06:00:00+00:00",
-          "summary": "Wann mehr Gehalt lockt, wann Jobsicherheit zählt und wie Sie Ihren Marktwert vor der Kündigung realistisch prüfen."
-        },
-        {
-          "title": "85.000 Tote pro Jahr: KI soll Sepsis früher erkennen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/85-000-tote-pro-jahr-ki-soll-sepsis-frueher-erkennen/",
-          "published": "2026-09-13T09:00:00+00:00",
-          "summary": "KI soll eine Sepsis früher erkennen. Forschende nutzen dafür Blutbilder, Vitaldaten und Hautaufnahmen. Wie zuverlässig sind die neuen Warnsysteme?"
         }
       ],
       "error": null
