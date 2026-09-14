@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T16:09:11+00:00",
+  "generatedAt": "2026-09-14T18:10:22+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in Einfacher Sprache",
-          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1432.html",
-          "published": "2026-09-14T16:06:13+00:00",
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-14T17:39:55+00:00",
+          "summary": "Dienstag gibts anfangs vor allem in der Mitte und im Süden regional Nebel, der sich aber rasch auflöst und dann scheint verbreitet die Sonne. Später tauchen im Norden und Nordwesten dichtere Wolken …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648826.html",
+          "published": "2026-09-14T17:05:09+00:00",
           "summary": ""
+        },
+        {
+          "title": "Oasis kündigt Konzerte in Deutschland an",
+          "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
+          "published": "2026-09-14T16:54:42+00:00",
+          "summary": "Nach langem Streit ging Oasis im vergangenen Jahr auf Reunion-Tournee - seither hofften Fans auch hierzulande auf Konzerte. Nun ist es soweit: Erstmals seit mehr als 15 Jahren sind wieder zwei …"
         },
         {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-81000.html",
-          "published": "2026-09-14T15:47:04+00:00",
+          "published": "2026-09-14T16:45:27+00:00",
           "summary": ""
         },
         {
-          "title": "Tankstellenverband erwartet Spritpreise um die drei Euro",
-          "link": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
-          "published": "2026-09-14T15:42:47+00:00",
-          "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten steigen die Preise für Kraftstoffe, Heizöl und Gas deutlich. Auch die Politik ist wieder in die Debatte über mögliche …"
-        },
-        {
-          "title": "Jürgen Klopp erwägt riesigen DFB-Kader für die Nations League",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopps-gedankenspiele-um-einen-riesenkader,kader-klopp-xxl-100.html",
-          "published": "2026-09-14T15:29:59+00:00",
-          "summary": "Für das DFB-Team steht eine außergewöhnlich lange Länderspielpause an. Bundestrainer Jürgen Klopp überlegt daher, einen riesigen Kader zu nominieren, der zwischen den Spielen in Teilen ausgetauscht …"
-        },
-        {
-          "title": "Bei Arktisgipfel in Finnland verständigen sich Deutschland und weitere EU-Staaten auf mehr Engagement in der Region",
-          "link": "https://www.tagesschau.de/video/video-1648774.html",
-          "published": "2026-09-14T15:29:57+00:00",
-          "summary": ""
+          "title": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-gipfel-abschluss-100.html",
+          "published": "2026-09-14T16:28:06+00:00",
+          "summary": "Mit dem Klimawandel verändert sich die Bedeutung der Arktis - wirtschaftlich und sicherheitspolitisch. Darauf will die EU reagieren. Ein Gipfel in Finnland sollte den Anfang machen. Von A. …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Märkte Insight: Die Fed könnte bei ihrem Zinsentscheid am Mittwoch Geschichte schreiben",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/zinsen-die-fed-koennte-bei-ihrem-zinsentscheid-geschichte-schreiben/100253905.html",
-          "published": "2026-09-14T15:58:37+00:00",
-          "summary": "Die nächste Sitzung wird zum Glaubwürdigkeitstest für die mächtigste Notenbank. Für sie steht weit mehr auf dem Spiel als die Frage, ob sie die US-Leitzinsen verändert, meint Michael Maisch."
+          "title": "Staatsschulden: „Nationale Pflicht“: Griechenland beschleunigt die Rückzahlung der Hilfskredite",
+          "link": "https://www.handelsblatt.com/politik/international/staatsschulden-griechenland-beschleunigt-die-rueckzahlung-der-hilfskredite/100253352.html",
+          "published": "2026-09-14T17:50:21+00:00",
+          "summary": "Die Regierung erwartet von der Tilgung Einsparungen in Milliardenhöhe – und eine bessere Bonität. Aus welchen Gründen sich das einstige Krisenland die vorzeitigen Rückzahlungen leisten kann."
         },
         {
-          "title": "Mecklenburg-Vorpommern: Landtagswahl: SPD holt in Umfragen deutlich auf",
-          "link": "https://www.handelsblatt.com/video/politik/mecklenburg-vorpommern-landtagswahl-spd-holt-in-umfragen-deutlich-auf/100254475.html",
-          "published": "2026-09-14T15:57:19+00:00",
-          "summary": "Die SPD unter Ministerpräsidentin Manuela Schwesig hat den Abstand zur AfD im aktuellen ZDF-Politikbarometer verringern können. Die rechtspopulistische Partei kommt dort auf einen Stimmenanteil von …"
+          "title": "Interview: Präsident der Euro-Gruppe warnt: „Wenn wir nicht reformieren, zahlen wir dafür einen hohen Preis“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/euro-zone-solide-finanzen-sind-von-existenzieller-bedeutung/100253256.html",
+          "published": "2026-09-14T17:50:09+00:00",
+          "summary": "Angesichts steigender Zinsen fordert Euro-Gruppen-Chef Pierrakakis die Regierungen zu Einsparungen und Reformen auf. Für Deutschland hat er eine spezielle Anregung aus seinem Heimatland."
         },
         {
-          "title": "Kolumne Inside America: Wenn Merz doch nur den Trump machen könnte",
-          "link": "https://www.handelsblatt.com/meinung/kolumnen/kolumne-inside-america-wenn-merz-doch-nur-den-trump-machen-koennte/100253698.html",
-          "published": "2026-09-14T15:56:03+00:00",
-          "summary": "Der Kanzler ist in Not. Dabei gäbe es so viele Möglichkeiten, Abhilfe zu schaffen. Ein Blick über den Atlantik könnte hilfreich sein. Eine Satire."
+          "title": "Today: Klingbeil trifft Unicredit-Chef Orcel | Goldminen-Aktien gewinnen über 30 Prozent",
+          "link": "https://www.handelsblatt.com/audio/today/today-klingbeil-trifft-unicredit-chef-orcel-goldminen-aktien-gewinnen-ueber-30-prozent/100254465.html",
+          "published": "2026-09-14T17:16:35+00:00",
+          "summary": "Erstmals hat Finanzminister Lars Klingbeil Unicredit-Chef Andrea Orcel getroffen. Und: Warum Goldminen-Aktien stärker steigen als der Goldpreis."
         },
         {
-          "title": "Nach jahrelanger Verzögerung: Tesla bringt E-Lastwagen 2027 nach Europa",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-jahrelanger-verzoegerung-tesla-bringt-e-lastwagen-2027-nach-europa/100254477.html",
-          "published": "2026-09-14T15:51:01+00:00",
-          "summary": "Teslas Elektro-Sattelschlepper wurde bereits 2017 vorgestellt - und wird erst seit diesem Jahr in etwas größeren Stückzahlen gebaut. Nun plant der von Elon Musk geführte Autobauer den Start in Europa."
+          "title": "Banken: Klingbeil pocht auf Bedingungen für Commerzbank-Übernahme",
+          "link": "https://www.handelsblatt.com/politik/deutschland/banken-klingbeil-pocht-auf-bedingungen-fuer-commerzbank-uebernahme/100254491.html",
+          "published": "2026-09-14T16:57:19+00:00",
+          "summary": "Eine Übernahme der Commerzbank rückt näher. Jetzt hatte Unicredit-Chef Orcel einen wichtigen Termin im Berliner Regierungsviertel."
         },
         {
-          "title": "Ukraine-Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energieanlagen stoppen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-14T15:50:00+00:00",
-          "summary": "Selenskyj dringt auf rasche Entlassung von Generalstaatsanwalt +++ Finnland tritt Initiative zur nuklearen Abschreckung bei +++ Tote und Verletzte bei russischen Angriffen +++ Der Newsblog."
+          "title": "Ukraine-Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energie stoppen",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-moskau-und-kiew-wollen-angriffe-auf-energie-stoppen/100254480.html",
+          "published": "2026-09-14T16:40:35+00:00",
+          "summary": "Erst am Sonntag warf der US-Präsident der Ukraine vor, für die hohen Dieselpreise verantwortlich zu sein. Nun soll es Trump zufolge Zugeständnisse geben."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Minuszeichen in New York: NASDAQ 100 fällt zurück",
-          "link": "https://www.finanzen.net/nachricht/aktien/minuszeichen-in-new-york-nasdaq-100-faellt-zurueck-15933417",
-          "published": "2026-09-14T15:59:43+00:00",
-          "summary": "Am Montag geht es im NASDAQ 100 um 17:57 Uhr via NASDAQ um 0,71 Prozent auf 29.159,75 Punkte nach unten. In den Montagshandel ging der NASDAQ 100 1,63 Prozent leichter bei 28.890,93 Punkten, ..."
+          "title": "GNW-News: The Elmet Group setzt strategisches Kapital ein, um die Wolfram-Lieferkette in den USA und den verbündeten Ländern zu stärken",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-the-elmet-group-setzt-strategisches-kapital-ein-um-die-wolfram-lieferkette-in-den-usa-und-den-verbuendeten-laendern-zu-staerken-15933632",
+          "published": "2026-09-14T18:05:38+00:00",
+          "summary": "^PORTLAND, Maine, Sept. 14, 2026 (GLOBE NEWSWIRE) -- The Elmet Group Co. (NASDAQ:ELMT) (?ELMT\" oder das?Unternehmen\"), ein in den USA ansässiger Anbieter von kritischen Materialien …"
         },
         {
-          "title": "S&P 500 aktuell: S&P 500 notiert mittags im Minus",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-aktuell-s-p-500-notiert-mittags-im-minus-15933416",
-          "published": "2026-09-14T15:59:43+00:00",
-          "summary": "Am Montag geht es im S&P 500 um 17:57 Uhr via NYSE um 0,34 Prozent auf 7.630,99 Punkte abwärts. Damit kommen die im S&P 500 enthaltenen Werte auf eine Marktkapitalisierung von 61,596 Bio. Euro. ..."
+          "title": "Hot Stocks heute: KI-Bremse voraus? NVIDIA vor dem Rückschlag – Trade der Woche: Short!",
+          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-ki-bremse-voraus-nvidia-vor-dem-rueckschlag-trade-der-woche-short-15932485",
+          "published": "2026-09-14T18:05:00+00:00",
+          "summary": "Die KI-Branche steht vor einer möglichen Zeitenwende: Anthropic -CEO Dario Amodei fordert, das Tempo der KI-Entwicklung zu drosseln. Auch Sam Altman und Elon Musk zeigen sich offen ..."
         },
         {
-          "title": "NASDAQ-Handel NASDAQ Composite am Mittag schwächer",
-          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-handel-nasdaq-composite-am-mittag-schwaecher-15933415",
-          "published": "2026-09-14T15:59:43+00:00",
-          "summary": "Um 17:57 Uhr gibt der NASDAQ Composite im NASDAQ-Handel um 0,40 Prozent auf 26.228,51 Punkte nach. Zum Start des Montagshandels standen Verluste von 1,19 Prozent auf 26.018,50 Punkte ..."
+          "title": "Schwache Performance in New York: NASDAQ 100 nachmittags in Rot",
+          "link": "https://www.finanzen.net/nachricht/aktien/schwache-performance-in-new-york-nasdaq-100-nachmittags-in-rot-15933628",
+          "published": "2026-09-14T18:02:34+00:00",
+          "summary": "Der NASDAQ 100 fällt im NASDAQ-Handel um 20:00 Uhr um 0,35 Prozent auf 29.264,70 Punkte zurück. In den Montagshandel ging der NASDAQ 100 1,63 Prozent schwächer bei 28.890,93 Punkten, nach ..."
         },
         {
-          "title": "Angespannte Stimmung in New York: So performt der Dow Jones mittags",
-          "link": "https://www.finanzen.net/nachricht/aktien/angespannte-stimmung-in-new-york-so-performt-der-dow-jones-mittags-15933414",
-          "published": "2026-09-14T15:59:43+00:00",
-          "summary": "Um 17:57 Uhr bewegt sich der Dow Jones im NYSE-Handel 0,12 Prozent leichter bei 52.509,65 Punkten. Der Wert der im Dow Jones enthaltenen Werte beträgt damit 24,842 Bio. Euro. Zuvor ging der ..."
+          "title": "Montagshandel in New York: S&P 500 schwächer",
+          "link": "https://www.finanzen.net/nachricht/aktien/montagshandel-in-new-york-s-p-500-schwaecher-15933627",
+          "published": "2026-09-14T18:02:34+00:00",
+          "summary": "Am Montag geht es im S&P 500 um 20:00 Uhr via NYSE um 0,27 Prozent auf 7.636,66 Punkte abwärts. Die S&P 500-Mitglieder kommen damit auf einen Wert von 61,596 Bio. Euro. Zuvor ging der S&P 500 ..."
         },
         {
-          "title": "Novo Nordisk-Aktie steigt: Konzern verkürzt Namen auf Novo - neuer Markenauftritt soll Eli Lilly herausfordern",
-          "link": "https://www.finanzen.net/nachricht/aktien/namensaenderung-novo-nordisk-aktie-steigt-konzern-verkuerzt-namen-auf-novo-neuer-markenauftritt-soll-eli-lilly-herausfordern-15932650",
-          "published": "2026-09-14T15:58:00+00:00",
-          "summary": "Das Unternehmen setzt nach eigenen Angaben darauf, dass ein verschlankter Name dazu beitragen wird, bei den Verbrauchern besser anzukommen und so besser mit dem Rivalen Eli Lilly konkurrieren ..."
+          "title": "Handel in New York: NASDAQ Composite notiert im Minus",
+          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-nasdaq-composite-notiert-im-minus-15933626",
+          "published": "2026-09-14T18:02:34+00:00",
+          "summary": "Am Montag tendiert der NASDAQ Composite um 20:00 Uhr via NASDAQ 0,08 Prozent leichter bei 26.310,94 Punkten. In den Handel ging der NASDAQ Composite 1,19 Prozent schwächer bei 26.018,50 ..."
         }
       ],
       "error": null
@@ -164,16 +164,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: KI- und Zinssorgen bremsen DAX",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
+          "published": "2026-09-14T16:21:36+00:00",
+          "summary": "Ein ganzer Mix ungünstiger Nachrichten hat den Start in die neue Woche belastet. Der DAX konnte seine Verluste allerdings im Verlauf eingrenzen."
+        },
+        {
           "title": "Bund und UniCredit verhandeln über Commerzbank-Übernahme",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-commerzbank-unicredit-100.html",
           "published": "2026-09-14T12:27:59+00:00",
           "summary": "Die UniCredit hat am Finanzmarkt Realitäten geschaffen, und die Politik muss reagieren. Heute wird Bankchef Orcel im Finanzministerium empfangen. Es geht um die geplante Übernahme der Commerzbank."
-        },
-        {
-          "title": "Marktbericht: Anleger fürchten straffere Geldpolitik",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-          "published": "2026-09-14T08:50:05+00:00",
-          "summary": "Zum Wochenstart drücken höhere Ölpreise und die Aussicht auf steigende Zinsen auf die Stimmung der Anleger. Die Notenbanken von England, Japan und den USA werden in dieser Woche ihre Entscheidung …"
         },
         {
           "title": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Angriff auf Ölanlagen: Saudi-Arabiens Verlust ist Wladimir Putins Gewinn",
-          "link": "https://www.wiwo.de/unternehmen/energie/angriff-auf-oel-pipeline-saudi-arabiens-verlust-ist-wladimir-putins-gewinn/100254343.html",
-          "published": "2026-09-14T15:59:00+00:00",
-          "summary": "Der Kreml-Chef und seine Schattenflotte sind die heimlichen Profiteure des aufflammenden Konflikts am Roten Meer – auch dank enger Drähte nach Teheran."
+          "title": "Commerzbank-Übernahme: Der Banker, der boxt – wer ist der Manager, der die Commerzbank schluckt?",
+          "link": "https://www.wiwo.de/unternehmen/banken/unicredit-chef-andrea-orcel-wer-ist-der-manager-der-die-commerzbank-schluckt/100245379.html",
+          "published": "2026-09-14T18:01:00+00:00",
+          "summary": "Nach zwei Jahren Übernahmekampf durfte UniCredit-Chef Andrea Orcel am Montag mit der Bundesregierung sprechen. Aber die schwerste Aufgabe muss der Italiener noch meistern."
         },
         {
-          "title": "Altersvorsorgedepot: Kommt nach der Preisschlacht jetzt die Service-Schlacht?",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/altersvorsorgedepot-kommt-nach-der-preisschlacht-jetzt-die-service-schlacht/100254354.html",
-          "published": "2026-09-14T15:56:50+00:00",
-          "summary": "Viele Anbieter locken beim Altersvorsorgedepot mit Kampfpreisen. Manche machen beim Preiskampf nicht mit – und begründen das mit ihren Leistungen."
+          "title": "Treffen mit UniCredit-Chef: Klingbeil zieht rote Linien für Commerzbank-Übernahme",
+          "link": "https://www.wiwo.de/unternehmen/banken/commerzbank-uebernahme-lars-klingbeil-stellt-unicredit-bedingungen/100254454.html",
+          "published": "2026-09-14T17:39:00+00:00",
+          "summary": "Die UniCredit kontrolliert bereits rund 50 Prozent der Commerzbank. Nun fordert Finanzminister Lars Klingbeil Zugeständnisse für Standort und Beschäftigte."
         },
         {
-          "title": "Tanken: Tankstellenverband warnt vor Spritpreisen von drei Euro pro Liter",
-          "link": "https://www.wiwo.de/politik/deutschland/mobilitaetskosten-benzinpreis-auf-rekordhoch-diesel-kurz-davor/100254273.html",
-          "published": "2026-09-14T15:12:00+00:00",
-          "summary": "Die Preise für Benzin und Diesel an den Tankstellen erreichen neue Höchststände. Kritik an den Ölkonzernen wird lauter: „Es wird abkassiert.“"
-        },
-        {
-          "title": "Künstliche Intelligenz: Wem die heftigen Warnungen vor KI-Agenten nutzen",
+          "title": "Künstliche Intelligenz: Warum sich Trump über die heftigen KI-Warnungen lustig macht",
           "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-ausloeschung-der-menschheit-was-an-den-ki-warnungen-dran-ist/100254268.html",
-          "published": "2026-09-14T15:12:00+00:00",
+          "published": "2026-09-14T17:27:00+00:00",
           "summary": "Die Chefs der KI-Giganten warnen so drastisch wie nie vor ihrer eigenen Technologie. Doch Donald Trump hält dagegen. Wie real ist die Gefahr?"
         },
         {
-          "title": "KI-News aktuell: US-Firmen wollen KI-Entwicklung drosseln – China kritisiert Bedrohungserzählungen",
-          "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-us-entwickler-wollen-bremsen-donald-trump-widerspricht/100245205.html",
-          "published": "2026-09-14T15:01:00+00:00",
-          "summary": "Forscher von Anthropic und OpenAI sowie die Vereinten Nationen warnen vor den Gefahren, die von Künstlicher Intelligenz für die Menschheit ausgehen."
+          "title": "Digitalbank: Wie der Trade-Republic-Konkurrent Revolut zur ersten Weltbank werden will",
+          "link": "https://www.wiwo.de/unternehmen/banken/revolut-wie-der-trade-republic-konkurrent-zur-ersten-weltbank-werden-will/100253656.html",
+          "published": "2026-09-14T17:14:00+00:00",
+          "summary": "Revolut ist Europas erfolgreichste Finanz­gründung und könnte bald 100 Millionen ­Kunden zählen. Das Problem: Die Nutzer nehmen ihre Bank noch nicht wirklich ernst."
+        },
+        {
+          "title": "Kanzler besucht Finnland: Friedrich Merz zwischen Frust und Frost",
+          "link": "https://www.wiwo.de/politik/europa/friedrich-merz-in-der-krise-ich-werde-keinen-zentimeter-zurueckweichen/100254144.html",
+          "published": "2026-09-14T17:11:24+00:00",
+          "summary": "Beim EU-Arktisgipfel will der Kanzler außenpolitische Entschlossenheit demonstrieren. Wäre da nicht die tiefe Krise zu Hause in Berlin."
         }
       ],
       "error": null
