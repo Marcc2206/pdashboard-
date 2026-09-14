@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:12:12+00:00",
+  "generatedAt": "2026-09-14T14:11:10+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "EU-Staaten wollen Interessen in der Arktis schützen",
+          "link": "https://www.tagesschau.de/ausland/europa/arktis-gipfel-eu-100.html",
+          "published": "2026-09-14T13:43:23+00:00",
+          "summary": "Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Deutschland und weitere europäische Staaten fordern eine stärkere Rolle der EU in der Arktis - vor allem wegen der Bedrohung aus Moskau."
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81006.html",
-          "published": "2026-09-14T12:10:07+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81004.html",
+          "published": "2026-09-14T13:20:18+00:00",
           "summary": ""
         },
         {
-          "title": "Tankstellenverband erwartet Spritpreise um die drei Euro",
-          "link": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
-          "published": "2026-09-14T11:52:20+00:00",
-          "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten werden Benzin und Diesel immer teurer - am Wochenende gab es ein neues Allzeithoch. Auch die Preise für Heizöl und Gas …"
+          "title": "Stichwahlen in Hannover und weiteren Städten",
+          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/kommunalwahl-in-welchen-grossen-staedten-gibt-es-stichwahlen,kommunalwahl-494.html",
+          "published": "2026-09-14T12:51:43+00:00",
+          "summary": "In mehreren großen Städten ist nach der Kommunalwahl in Niedersachsen ein zweiter Urnengang nötig. So erreichte etwa in Hannover, Braunschweig und Oldenburg kein Oberbürgermeister-Kandidat 50 Prozent."
         },
         {
-          "title": "Trump kündigt Ende der Zölle auf irischen Whiskey an",
-          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-whiskey-irland-100.html",
-          "published": "2026-09-14T11:09:07+00:00",
-          "summary": "US-Präsident Trump hat die Aufhebung der Zölle auf irischen Whiskey angekündigt. Während seiner Irlandreise am Wochenende sei er um eine Aufhebung der Zölle gebeten worden, sagte Trump auf dem …"
+          "title": "Rückendeckung für Merz - aber die Debatte reißt nicht ab",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-debatte-100.html",
+          "published": "2026-09-14T12:51:10+00:00",
+          "summary": "Der Bundeskanzler steht vor einer entscheidenden Woche. Nach dem Wahldebakel in Sachsen-Anhalt erhält Merz Rückendeckung in der Debatte um seine Person. Doch Kritik an den Reformen und am Umgang mit …"
         },
         {
-          "title": "Bundesanwaltschaft: Anklage gegen mutmaßliche Russland-Spionin",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/anklage-spionin-russland-100.html",
-          "published": "2026-09-14T11:03:53+00:00",
-          "summary": "Sie soll ein pro-russisches Netzwerk in Berlin aufgebaut und Informationen zur deutschen Verteidigungspolitik an den Kreml geliefert haben: Jetzt hat die Bundesanwaltschaft Anklage gegen die …"
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-14T10:50:28+00:00",
-          "summary": "Am Dienstag hält sich anfangs vor allem in der Mitte und im Süden regional Nebel. Nach dessen Auflösung und abseits davon gibt es viel Sonne bei lockeren Wolken. Später wird es im Norden und …"
+          "title": "Installation \"Diluvium\" von Jean René, Ausstellung \"Pakistan Art Chronicles\", Regionalexpress im Nebel",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10444.html",
+          "published": "2026-09-14T12:32:50+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Generika: Wie Sandoz Patentabläufe nutzt und den Markt für Abnehmmittel aufmischen will",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/generika-sandoz-verspricht-preiswerte-kopien-von-abnehmspritzen/100252841.html",
-          "published": "2026-09-14T12:07:25+00:00",
-          "summary": "Der Generikaproduzent Sandoz bereitet sich auf einen Milliardenmarkt für nachgemachte Abnehmmittel vor. Finanzchef Steenberger skizziert Strategie und Pläne für den Ausbau."
+          "title": "Skurril aber fair: Nacheheliche Unterhaltspflicht endet nicht mit dem Tod",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/skurril-aber-fair-nacheheliche-unterhaltspflicht-endet-nicht-mit-dem-tod/100254450.html",
+          "published": "2026-09-14T13:56:35+00:00",
+          "summary": "Sie beziehen nachehelichen Unterhalt und der Ex-Partner stirbt? Wer glaubt, dass damit die Zahlungen enden, liegt möglicherweise falsch. Gegebenenfalls muss der Unterhalt noch etwas weiterfließen."
         },
         {
-          "title": "Geld genug: Trailer: Geld genug",
-          "link": "https://www.handelsblatt.com/audio/geld-genug/geld-genug-trailer-geld-genug/100254393.html",
-          "published": "2026-09-14T12:04:37+00:00",
-          "summary": "Alle zwei Wochen soll der Geldpodcast Antworten geben auf die großen finanziellen Lebensfragen. Die ersten Folgen erscheinen am 15. September 2026."
+          "title": "Nato-Ostflanke: Pistorius gibt nun auch Versetzungsbefehl nach Litauen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nato-ostflanke-pistorius-gibt-nun-auch-versetzungsbefehl-nach-litauen/100254442.html",
+          "published": "2026-09-14T13:54:58+00:00",
+          "summary": "Der deutschen Panzerbrigade an der litauischen Nato-Ostflanke fehlen noch hunderte Spezialisten. Freiwilligkeit allein reicht nicht. Nun wird die Versetzung ins Baltikum auch angeordnet."
         },
         {
-          "title": "Sparsame Elektro-Flunder: VW Mission Efficiency überträgt XL1-Idee ins E-Zeitalter",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/sparsame-elektro-flunder-vw-mission-efficiency-uebertraegt-xl1-idee-ins-e-zeitalter/100254399.html",
-          "published": "2026-09-14T12:04:35+00:00",
-          "summary": "VW zeigt ein neues Beispiel für elektrische Effizienz und schickt einen Technologieträger mit Minimalverbrauch auf die Strecke. Das Stromliniencoupé ist extrem, aber die Technik beweist Bodenhaftung."
+          "title": "Deutsche Bahn: „Wir brauchen funktionierende Züge, kein weiteres Redesign“",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/deutsche-bahn-wir-brauchen-funktionierende-zuege-kein-weiteres-redesign/100254191.html",
+          "published": "2026-09-14T13:53:06+00:00",
+          "summary": "Die Bahn feiert ihre Beschäftigten im neuen Markenauftritt als „Die Macher:innen“. Im Intranet kontern diese fast geschlossen mit beißender Kritik. Dann meldet sich der Konzern."
         },
         {
-          "title": "Erneuerbare Energie: Windindustrie erwartet weniger Aufträge",
-          "link": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energie-windindustrie-erwartet-weniger-auftraege/100254398.html",
-          "published": "2026-09-14T12:00:09+00:00",
-          "summary": "In weniger Betrieben wird einer Umfrage zufolge mit steigenden Aufträgen gerechnet. Das teilt die IG Metall Küste mit. Die Gewerkschaft sieht Wirtschaftsministerin Reiche in der Verantwortung."
+          "title": "Dax-Sentiment: Anlegerstimmung bricht ein – auch die Aktienkurse könnten weiter fallen",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/dax-anlegerstimmung-bricht-ein-auch-die-aktienkurse-koennten-weiter-fallen/100252797.html",
+          "published": "2026-09-14T13:44:16+00:00",
+          "summary": "Anleger waren an der Börse zuletzt zu optimistisch. Nun werden sie von der Realität eingeholt. Wer auf eine Erholungsrally setzt, könnte enttäuscht werden, zeigt eine Handelsblatt-Umfrage."
         },
         {
-          "title": "Naturschutz: Aktion „Deutschland sucht Igel und Maulwurf“ startet",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/naturschutz-aktion-deutschland-sucht-igel-und-maulwurf-startet/100254397.html",
-          "published": "2026-09-14T11:58:05+00:00",
-          "summary": "Wie viele Igel und Maulwürfe leben in Deutschland? Naturschützer wissen es nicht genau und bitten jetzt die Bevölkerung um Mithilfe."
+          "title": "Aktien: Tech-Titel fallen nach den Warnungen vor einer KI-Katastrophe deutlich",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-kichefs-warnen-und-tech-titel-weltweit-fallen-deutlich/100254349.html",
+          "published": "2026-09-14T13:41:05+00:00",
+          "summary": "Investoren reagieren besorgt auf die Forderungen der Chefs von Anthropic und OpenAI nach einer Verlangsamung der KI‑Entwicklung. Analysten sehen die Lage differenzierter."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Anbieter unterbieten sich: Der Preiskampf ums Vorsorgedepot tobt",
+          "link": "https://www.n-tv.de/wirtschaft/Der-Preiskampf-ums-Vorsorgedepot-tobt-id31303055.html",
+          "published": "2026-09-14T13:28:16+00:00",
+          "summary": "Banken, Fondsgesellschaften und Neobroker bringen sich für das neue Altersvorsorgedepot in Stellung. Einige Angebote sollen nur einen Bruchteil dessen kosten, was gesetzlich erlaubt wäre. Für Anleger …"
+        },
         {
           "title": "Benzin könnte noch teurer werden: Preis für E10 steigt auf Rekordniveau",
           "link": "https://www.n-tv.de/wirtschaft/Preis-fuer-E10-steigt-auf-Rekordniveau-id31303176.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Bundesregierung-kann-kuenftige-Gruengaspreise-nicht-abschaetzen-id31302819.html",
           "published": "2026-09-14T08:30:44+00:00",
           "summary": "Schwarz-Rot dreht das Heizungsgesetz der Ampel wieder zurück. Weniger Verbote, dafür wieder mehr Einsatz von Gas, so die Idee. Das soll immer öfter grünen Ursprungs sein. Dabei gibt es allerdings ein …"
-        },
-        {
-          "title": "\"Alle haben mich damit genervt\": Trump nimmt Whiskey-Zoll zurück - und lässt sich feiern",
-          "link": "https://www.n-tv.de/wirtschaft/Trump-nimmt-Whiskey-Zoll-zurueck-und-laesst-sich-feiern-id31302782.html",
-          "published": "2026-09-14T08:30:04+00:00",
-          "summary": "Zum Abschluss seines Irland-Besuchs zeigt sich Trump gut gelaunt. Unter Jubel macht der US-Präsident eine Ankündigung: Er hebt die US-Zölle auf irischen Whiskey auf. Es ist nicht das erste Land, für …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "US-Zinsentscheid als wichtiger Entscheidungsfaktor: DAX hält sich auf rotem Terrain",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-us-zinsentscheid-als-wichtiger-entscheidungsfaktor-dax-haelt-sich-auf-rotem-terrain-15932001",
-          "published": "2026-09-14T12:08:00+00:00",
-          "summary": "Der DAX gab zum Start in die neue Handelswoche 0,27 Prozent auf 25.498,74 Punkte nach. Im weiteren Verlauf bleibt er auf rotem Terrain. Ölpreise erweisen sich erneut als Belastungsfaktor Nach ..."
+          "title": "Pistorius gibt nun auch Versetzungsbefehl nach Litauen",
+          "link": "https://www.finanzen.net/nachricht/aktien/pistorius-gibt-nun-auch-versetzungsbefehl-nach-litauen-15933101",
+          "published": "2026-09-14T14:03:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Verteidigungsminister Boris Pistorius wird für den vollständigen Aufbau der deutschen Panzerbrigade in Litauen nun auch verpflichtende Versetzungen anordnen. Dies sei für eine Zahl …"
         },
         {
-          "title": "Polens Armee fischt Kampfdrohne aus der Ostsee",
-          "link": "https://www.finanzen.net/nachricht/aktien/polens-armee-fischt-kampfdrohne-aus-der-ostsee-15932738",
-          "published": "2026-09-14T12:05:38+00:00",
-          "summary": "WARSCHAU (dpa-AFX) - Polens Armee hat unweit der Küste eine Kampfdrohne aus der Ostsee geborgen. \"Die erste Begutachtung deutet darauf hin, dass es sich um eine aus Russland stammende Militärdrohne …"
+          "title": "Sanofi beteiligt sich an deutscher Cheplapharm",
+          "link": "https://www.finanzen.net/nachricht/aktien/sanofi-beteiligt-sich-an-deutscher-cheplapharm-15933098",
+          "published": "2026-09-14T14:02:40+00:00",
+          "summary": "Von Adam Whittaker DOW JONES--Sanofi hat einen Deal mit dem deutschen Pharmaunternehmen Cheplapharm geschlossen. Wie der französische Konzern mitteilte, überträgt er ein Portfolio von 20 etablierten …"
         },
         {
-          "title": "GNW-News: Der Adobe Productivity Agent in Acrobat wandelt nun komplexe Dokumente in verständliche visuelle Darstellungen, Audioinhalte und Präsentationen für...",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-der-adobe-productivity-agent-in-acrobat-wandelt-nun-komplexe-dokumente-in-verstaendliche-visuelle-darstellungen-audioinhalte-und-praesentationen-fuer-15932737",
-          "published": "2026-09-14T12:04:39+00:00",
-          "summary": "^* Neue KI-Funktionen in Acrobat, die auf dem Adobe Productivity Agentbasieren, helfen Anwendern dabei, Dateien schnell in Audio- und Videoinhalte umzuwandeln, die sich innerhalb weniger Minuten …"
+          "title": "PVA TePla-Aktie: Führungskraft stockt Portfolio auf",
+          "link": "https://www.finanzen.net/nachricht/aktien/pva-tepla-aktie-fuehrungskraft-stockt-portfolio-auf-15933097",
+          "published": "2026-09-14T14:01:12+00:00",
+          "summary": "Für den 26.08.2026 wurde bei PVA TePla eine Managers’ Transaction gemeldet. Offiziell durchgeführt wurde die Transaktion am 04.09.2026. Von Aufsichtsrat De Wolf, Prof. Dr. Ingrid wurden am 26.08.2026 …"
         },
         {
-          "title": "Riester-Vertrag: Warum du den Wechsel ins Altersvorsorgedepot jetzt schon vorbereiten solltest",
-          "link": "https://www.finanzen.net/nachricht/aktien/riester-vertrag-warum-du-den-wechsel-ins-altersvorsorgedepot-jetzt-schon-vorbereiten-solltest-15932739",
-          "published": "2026-09-14T12:04:05+00:00",
-          "summary": ""
+          "title": "Meldepflichtiger nimmt Gerresheimer-Aktien ins Depot",
+          "link": "https://www.finanzen.net/nachricht/aktien/meldepflichtiger-nimmt-gerresheimer-aktien-ins-depot-15933096",
+          "published": "2026-09-14T14:01:12+00:00",
+          "summary": "Kürzlich kam es bei der Gerresheimer -Aktie zu Managers’ Transactions. Gemeldet wurde die Aktien-Transaktion am 07.09.2026. Active Ownership Opportunities SCS, in enger Beziehung, kaufte am …"
         },
         {
-          "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
-          "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
-          "published": "2026-09-14T12:03:00+00:00",
-          "summary": "Evercore sieht acht US-Blue Chips als Kandidaten für vorgezogene Verkäufe Tesla, Trade Desk und DraftKings zeigen die stärksten Gewinnrevisionen Der SpaceX-Börsengang im Juni gilt als Blaupause für …"
+          "title": "Vorstand investiert in TAKKT-Aktien - die Kursreaktion",
+          "link": "https://www.finanzen.net/nachricht/aktien/vorstand-investiert-in-takkt-aktien-die-kursreaktion-15933095",
+          "published": "2026-09-14T14:01:12+00:00",
+          "summary": "Zu einem Eigengeschäft einer Führungskraft kam es am 02.09.2026 bei TAKKT . Die Publikation der Managers’ Transaction fand am 04.09.2026 statt. Weishaar, Andreas Georg, Vorstand bei TAKKT, hat am …"
         }
       ],
       "error": null
@@ -163,6 +163,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Bund und UniCredit verhandeln über Commerzbank-Übernahme",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-commerzbank-unicredit-100.html",
+          "published": "2026-09-14T12:27:59+00:00",
+          "summary": "Die UniCredit hat am Finanzmarkt Realitäten geschaffen, und die Politik muss reagieren. Heute wird Bankchef Orcel im Finanzministerium empfangen. Es geht um die geplante Übernahme der Commerzbank."
+        },
         {
           "title": "Marktbericht: Anleger fürchten straffere Geldpolitik",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
@@ -186,12 +192,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-daimler-truck-100.html",
           "published": "2026-09-10T12:35:48+00:00",
           "summary": "Daimler Truck investiert mehrere Hundert Millionen Euro in Wasserstoff-Technologie für Lkw. Allerdings fährt der DAX-Konzern zweigleisig - auch die E-Technologie bleibt eine Option. Insgesamt soll …"
-        },
-        {
-          "title": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html",
-          "published": "2026-09-09T11:08:06+00:00",
-          "summary": "Der Ölpreis ist am Morgen wegen der weiteren militärischen Eskalation am Persischen Golf auf mehr als 100 Dollar pro Barrel gestiegen. Grund ist die Sorge vor Lieferunterbrechungen aus dem Nahen …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Erster Schultag: Der Schulranzen wird zum Statussymbol",
-          "link": "https://www.wiwo.de/politik/deutschland/erster-schultag-der-schulranzen-wird-zum-statussymbol/100253540.html",
-          "published": "2026-09-14T12:08:30+00:00",
-          "summary": "Eigentlich sollte die Einschulung Kindern zeigen, worum es in der Schule geht: um Lernen. Stattdessen lernen viele noch vor der ersten Stunde: Wer sich was leisten kann – und wer nicht."
+          "title": "Künstliche Intelligenz: Wem die heftigen Warnungen vor KI-Agenten nutzen",
+          "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-ausloeschung-der-menschheit-was-an-den-ki-warnungen-dran-ist/100254268.html",
+          "published": "2026-09-14T14:02:00+00:00",
+          "summary": "Die Chefs der KI-Giganten warnen so drastisch wie nie vor ihrer eigenen Technologie. Doch Donald Trump hält dagegen. Wie real ist die Gefahr?"
         },
         {
           "title": "Tanken: Tankstellenverband warnt vor Spritpreisen von drei Euro pro Liter",
           "link": "https://www.wiwo.de/politik/deutschland/mobilitaetskosten-benzinpreis-auf-rekordhoch-diesel-kurz-davor/100254273.html",
-          "published": "2026-09-14T12:07:00+00:00",
+          "published": "2026-09-14T14:01:00+00:00",
           "summary": "Die Preise für Benzin und Diesel an den Tankstellen erreichen neue Höchststände. Kritik an den Ölkonzernen wird lauter: „Es wird abkassiert.“"
         },
         {
-          "title": "Bundeswehr: Boris Pistorius und der Frust der Bundeswehr-Beschaffer",
-          "link": "https://www.wiwo.de/politik/deutschland/bundeswehr-boris-pistorius-und-der-frust-der-bundeswehr-beschaffer/100249875.html",
-          "published": "2026-09-14T11:48:19+00:00",
-          "summary": "Friendly Fire: Verteidigungsminister Boris Pistorius und die Beamten bei der Bundeswehr-Beschaffung in Koblenz befeuern sich mit ihrem Missmut."
+          "title": "Russlands Kriegskasse: Wladimir Putins mächtige Schattenflotte",
+          "link": "https://www.wiwo.de/unternehmen/exklusive-recherche-wie-russlands-schattenflotte-weltweit-agiert/100253253.html",
+          "published": "2026-09-14T13:58:00+00:00",
+          "summary": "Russland verkauft trotz harter Sanktionen weiter massenhaft Öl. Über neue Routen und Drehkreuze fließen Milliarden in die Kriegskasse. Diese Datenrecherche zeigt das Ausmaß."
         },
         {
-          "title": "Karriere im Osten: Was ausländische Fachkräfte zum Wahlsieg der AfD sagen",
-          "link": "https://www.wiwo.de/erfolg/beruf/afd-sieg-in-sachsen-anhalt-was-auslaendische-fachkraefte-fuerchten/100253593.html",
-          "published": "2026-09-14T11:38:30+00:00",
-          "summary": "In Sachsen-Anhalt arbeiten viele ausländische Studenten und Wissenschaftler an Zukunftstechnologien – und mindern den Fachkräftemangel. Doch wie lange noch?"
+          "title": "BörsenTag: KI-Chefs warnen vor dem eigenen Boom – Chipaktien stürzen ab",
+          "link": "https://www.wiwo.de/finanzen/boerse/ki-chefs-warnen-vor-kuenstlicher-intelligenz-chipaktien-stuerzen-ab/100254366.html",
+          "published": "2026-09-14T13:47:09+00:00",
+          "summary": "Ausgerechnet die Chefs der größten KI-Unternehmen warnen vor den Gefahren immer mächtigerer Modelle. An den Börsen sorgt das für Unruhe."
         },
         {
-          "title": "Angriff auf Ölanlagen: Saudi-Arabiens Verlust ist Wladimir Putins Gewinn",
-          "link": "https://www.wiwo.de/unternehmen/energie/angriff-auf-oel-pipeline-saudi-arabiens-verlust-ist-wladimir-putins-gewinn/100254343.html",
-          "published": "2026-09-14T11:08:15+00:00",
-          "summary": "Der Kreml-Chef und seine Schattenflotte sind die heimlichen Profiteure des aufflammenden Konflikts am Roten Meer – auch dank enger Drähte nach Teheran."
+          "title": "Hohe Spritpreise: „Ich halte es für falsch, in den Preismechanismus einzugreifen“",
+          "link": "https://www.wiwo.de/politik/konjunktur/hohe-spritpreise-ifo-experte-warnt-vor-neuem-tankrabatt/100254424.html",
+          "published": "2026-09-14T13:43:15+00:00",
+          "summary": "Die hohen Spritpreise infolge des Iran-Kriegs belasten die Verbraucher. Ifo-Experte Florian Neumeier warnt dennoch vor einem erneuten Tankrabatt."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Kreislaufwirtschaft im Bau: Warum Deutschland noch immer 550 Mio. t Rohstoffe neu gewinnt",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/kreislaufwirtschaft-im-bau-warum-deutschland-noch-immer-550-mio-t-rohstoffe-neu-gewinnt/",
+          "published": "2026-09-14T14:00:00+00:00",
+          "summary": "Neun Verbände fordern mit vier Ansätzen mehr Baustoffrecycling: klare Regeln, verbindliche Vorgaben und bessere Chancen für Sekundärbaustoffe."
+        },
         {
           "title": "Bosch sieht Milliardenchance im Lkw: Der Truck wird zum Computer",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/bosch-sieht-milliardenchance-im-lkw-der-truck-wird-zum-computer/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/advertorial/mehr-als-bauen-wie-komplexe-infrastrukturprojekte-wirklichkeit-werden/",
           "published": "2026-09-14T06:37:07+00:00",
           "summary": "Deutschland steht in Sachen Infrastruktur vor einer gewaltigen Aufgabe: Straßen müssen modernisiert, Brücken erneuert und im Tiefbau die Grundlage für leistungsfähige Versorgungsnetze geschaffen …"
-        },
-        {
-          "title": "Leistungsfähige Verkehrsnetze als Schlüssel zu nachhaltiger Mobilität",
-          "link": "https://www.ingenieur.de/advertorial/leistungsfaehige-verkehrsnetze-als-schluessel-zu-nachhaltiger-mobilitaet/",
-          "published": "2026-09-14T06:00:00+00:00",
-          "summary": "Straßen, Brücken, Schienen: Wie moderne Infrastrukturlösungen, schnellere Bauverfahren und innovative Technologien die Mobilitätswende voranbringen."
         }
       ],
       "error": null
