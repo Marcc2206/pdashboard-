@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T18:10:22+00:00",
+  "generatedAt": "2026-09-14T20:09:37+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-14T17:39:55+00:00",
-          "summary": "Dienstag gibts anfangs vor allem in der Mitte und im Süden regional Nebel, der sich aber rasch auflöst und dann scheint verbreitet die Sonne. Später tauchen im Norden und Nordwesten dichtere Wolken …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648826.html",
-          "published": "2026-09-14T17:05:09+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Oasis kündigt Konzerte in Deutschland an",
-          "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
-          "published": "2026-09-14T16:54:42+00:00",
-          "summary": "Nach langem Streit ging Oasis im vergangenen Jahr auf Reunion-Tournee - seither hofften Fans auch hierzulande auf Konzerte. Nun ist es soweit: Erstmals seit mehr als 15 Jahren sind wieder zwei …"
+          "title": "CDU stärkste Kraft - AfD legt stark zu",
+          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/kommunalwahl-2026-vertrauen-in-die-etablierten-parteien-ist-angespannt,kommunalwahl-340.html",
+          "published": "2026-09-14T19:07:36+00:00",
+          "summary": "Die CDU ist mit 27,2 Prozent erneut stärkste Kraft bei den Kommunalwahlen in Niedersachsen auf Kreisebene geworden. Nach vorläufigen Ergebnissen kommt die SPD auf 24,6 Prozent und die AfD auf 15,9. …"
         },
         {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81000.html",
-          "published": "2026-09-14T16:45:27+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81002.html",
+          "published": "2026-09-14T18:39:28+00:00",
           "summary": ""
         },
         {
-          "title": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-gipfel-abschluss-100.html",
-          "published": "2026-09-14T16:28:06+00:00",
-          "summary": "Mit dem Klimawandel verändert sich die Bedeutung der Arktis - wirtschaftlich und sicherheitspolitisch. Darauf will die EU reagieren. Ein Gipfel in Finnland sollte den Anfang machen. Von A. …"
+          "title": "Schock und Trotz nach Razzien gegen LGBTQ-Vereine in der Türkei",
+          "link": "https://www.tagesschau.de/ausland/tuerkei-razzien-102.html",
+          "published": "2026-09-14T18:38:34+00:00",
+          "summary": "In der Türkei wurden am Wochenende zahlreiche Aktivisten und Aktivistinnen für LGBTQ-Rechte festgenommen. NGOs und Zivilgesellschaft verurteilen die Razzien - es sei das bisher größte Vorgehen gegen …"
+        },
+        {
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12260.html",
+          "published": "2026-09-14T18:36:47+00:00",
+          "summary": ""
+        },
+        {
+          "title": "CDU kann bei Kommunalwahlen in Niedersachsen ihre Position verteidigen",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1648924.html",
+          "published": "2026-09-14T18:33:48+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Staatsschulden: „Nationale Pflicht“: Griechenland beschleunigt die Rückzahlung der Hilfskredite",
-          "link": "https://www.handelsblatt.com/politik/international/staatsschulden-griechenland-beschleunigt-die-rueckzahlung-der-hilfskredite/100253352.html",
-          "published": "2026-09-14T17:50:21+00:00",
-          "summary": "Die Regierung erwartet von der Tilgung Einsparungen in Milliardenhöhe – und eine bessere Bonität. Aus welchen Gründen sich das einstige Krisenland die vorzeitigen Rückzahlungen leisten kann."
+          "title": "Einzelhandel: Lidl testet autonom fahrenden Lkw zur Belieferung der Filialen",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-lidl-testet-autonom-fahrenden-lkw-zur-filial-belieferung/100253503.html",
+          "published": "2026-09-14T20:00:00+00:00",
+          "summary": "Für einen ersten Test in Deutschland hat der Discounter nach Handelsblatt-Informationen nun die Genehmigung bekommen. Bis zum breiten Einsatz gibt es aber noch einige Fragen zu klären."
         },
         {
-          "title": "Interview: Präsident der Euro-Gruppe warnt: „Wenn wir nicht reformieren, zahlen wir dafür einen hohen Preis“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/euro-zone-solide-finanzen-sind-von-existenzieller-bedeutung/100253256.html",
-          "published": "2026-09-14T17:50:09+00:00",
-          "summary": "Angesichts steigender Zinsen fordert Euro-Gruppen-Chef Pierrakakis die Regierungen zu Einsparungen und Reformen auf. Für Deutschland hat er eine spezielle Anregung aus seinem Heimatland."
+          "title": "Wall Street: Tech-Titel fallen nach den Warnungen vor einer KI-Katastrophe deutlich",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/dow-jones-sp-500-nasdaq-kichefs-warnen-tech-titel-weltweit-fallen-deutlich/100254349.html",
+          "published": "2026-09-14T19:54:16+00:00",
+          "summary": "Investoren reagieren besorgt auf die Forderungen der Chefs von Anthropic und OpenAI nach einer Verlangsamung der KI‑Entwicklung. Analysten sehen die Lage differenzierter."
         },
         {
-          "title": "Today: Klingbeil trifft Unicredit-Chef Orcel | Goldminen-Aktien gewinnen über 30 Prozent",
-          "link": "https://www.handelsblatt.com/audio/today/today-klingbeil-trifft-unicredit-chef-orcel-goldminen-aktien-gewinnen-ueber-30-prozent/100254465.html",
-          "published": "2026-09-14T17:16:35+00:00",
-          "summary": "Erstmals hat Finanzminister Lars Klingbeil Unicredit-Chef Andrea Orcel getroffen. Und: Warum Goldminen-Aktien stärker steigen als der Goldpreis."
+          "title": "US-Regierung: Russischer Oligarch finanzierte Hochzeit von Trump-Sohn mit",
+          "link": "https://www.handelsblatt.com/politik/international/us-regierung-russischer-oligarch-finanzierte-hochzeit-von-trump-sohn-mit/100254500.html",
+          "published": "2026-09-14T19:46:01+00:00",
+          "summary": "Während Moskau den Angriffskrieg gegen die Ukraine fortsetzt, finanziert ein russischer Oligarch mit Putin-Verbindungen Teile der Hochzeitsfeier von Donald Trump jr."
         },
         {
-          "title": "Banken: Klingbeil pocht auf Bedingungen für Commerzbank-Übernahme",
-          "link": "https://www.handelsblatt.com/politik/deutschland/banken-klingbeil-pocht-auf-bedingungen-fuer-commerzbank-uebernahme/100254491.html",
-          "published": "2026-09-14T16:57:19+00:00",
-          "summary": "Eine Übernahme der Commerzbank rückt näher. Jetzt hatte Unicredit-Chef Orcel einen wichtigen Termin im Berliner Regierungsviertel."
+          "title": "Generika: Wie Sandoz Patentabläufe nutzt und den Markt für Abnehmmittel aufmischen will",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/generika-sandoz-verspricht-preiswerte-kopien-von-abnehmspritzen/100252841.html",
+          "published": "2026-09-14T19:44:52+00:00",
+          "summary": "Der Generikaproduzent Sandoz bereitet sich auf einen Milliardenmarkt für nachgemachte Abnehmmittel vor. Finanzchef Steenbergen skizziert Strategie und Pläne für den Ausbau."
         },
         {
-          "title": "Ukraine-Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energie stoppen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-moskau-und-kiew-wollen-angriffe-auf-energie-stoppen/100254480.html",
-          "published": "2026-09-14T16:40:35+00:00",
-          "summary": "Erst am Sonntag warf der US-Präsident der Ukraine vor, für die hohen Dieselpreise verantwortlich zu sein. Nun soll es Trump zufolge Zugeständnisse geben."
+          "title": "Bayer-Anhörung: Monsanto fordert von US-Gericht Genehmigung des „Roundup“-Vergleichs",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/bayer-monsanto-fordert-von-us-gericht-genehmigung-des-roundup-vergleichs/100252854.html",
+          "published": "2026-09-14T18:57:07+00:00",
+          "summary": "Ein US-Gericht beschäftigte sich am Montag mit einem möglichen Milliardenvergleich für Bayer. Damit sollen zehntausende Klagen beigelegt werden. Eine Entscheidung steht allerdings noch aus."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "GNW-News: The Elmet Group setzt strategisches Kapital ein, um die Wolfram-Lieferkette in den USA und den verbündeten Ländern zu stärken",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-the-elmet-group-setzt-strategisches-kapital-ein-um-die-wolfram-lieferkette-in-den-usa-und-den-verbuendeten-laendern-zu-staerken-15933632",
-          "published": "2026-09-14T18:05:38+00:00",
-          "summary": "^PORTLAND, Maine, Sept. 14, 2026 (GLOBE NEWSWIRE) -- The Elmet Group Co. (NASDAQ:ELMT) (?ELMT\" oder das?Unternehmen\"), ein in den USA ansässiger Anbieter von kritischen Materialien …"
+          "title": "SpaceX-Milliarden-Deal befeuert die Fantasie - aber nicht ohne Risiko für Aktien-Anleger",
+          "link": "https://www.finanzen.net/nachricht/aktien/ziel-100-milliarden-in-sicht-spacex-milliarden-deal-befeuert-die-fantasie-aber-nicht-ohne-risiko-fuer-aktien-anleger-00-15932022",
+          "published": "2026-09-14T19:54:00+00:00",
+          "summary": "Neuer Rechenleistungs-Deal treibt SpaceX näher an sein Jahresziel Analysten halten das ambitionierte Umsatzziel für grundsätzlich erreichbar Kurzfristige Kündigungsrechte in den Verträgen bergen aber …"
+        },
+        {
+          "title": "Tesla-Aktie gibt dennoch nach: Nach langer Wartezeit endlich neuer Roadster-Termin angekündigt",
+          "link": "https://www.finanzen.net/nachricht/aktien/roadster-termin-fixiert-tesla-aktie-gibt-dennoch-nach-nach-langer-wartezeit-endlich-neuer-roadster-termin-angekuendigt-00-15931635",
+          "published": "2026-09-14T19:53:00+00:00",
+          "summary": "Countdown auf Teslas eigener Roadster-Seite läuft auf ein neues Datum zu Musk kündigt Enthüllung per Kurzbotschaft auf der Plattform X an Analysten bewerten die Aktie trotz Ankündigung weiter …"
         },
         {
           "title": "Hot Stocks heute: KI-Bremse voraus? NVIDIA vor dem Rückschlag – Trade der Woche: Short!",
           "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-ki-bremse-voraus-nvidia-vor-dem-rueckschlag-trade-der-woche-short-15932485",
-          "published": "2026-09-14T18:05:00+00:00",
+          "published": "2026-09-14T19:49:00+00:00",
           "summary": "Die KI-Branche steht vor einer möglichen Zeitenwende: Anthropic -CEO Dario Amodei fordert, das Tempo der KI-Entwicklung zu drosseln. Auch Sam Altman und Elon Musk zeigen sich offen ..."
         },
         {
-          "title": "Schwache Performance in New York: NASDAQ 100 nachmittags in Rot",
-          "link": "https://www.finanzen.net/nachricht/aktien/schwache-performance-in-new-york-nasdaq-100-nachmittags-in-rot-15933628",
-          "published": "2026-09-14T18:02:34+00:00",
-          "summary": "Der NASDAQ 100 fällt im NASDAQ-Handel um 20:00 Uhr um 0,35 Prozent auf 29.264,70 Punkte zurück. In den Montagshandel ging der NASDAQ 100 1,63 Prozent schwächer bei 28.890,93 Punkten, nach ..."
+          "title": "Selenskyj: Ukraine zu Deeskalation bereit",
+          "link": "https://www.finanzen.net/nachricht/aktien/selenskyj-ukraine-zu-deeskalation-bereit-15933704",
+          "published": "2026-09-14T19:37:39+00:00",
+          "summary": "KIEW (dpa-AFX) - Nach der überraschenden Ankündigung von US-Präsident Donald Trump über eine Feuerpause zwischen der Ukraine und Russland bei ihren gegenseitigen Angriffen auf Energieanlagen hat der …"
         },
         {
-          "title": "Montagshandel in New York: S&P 500 schwächer",
-          "link": "https://www.finanzen.net/nachricht/aktien/montagshandel-in-new-york-s-p-500-schwaecher-15933627",
-          "published": "2026-09-14T18:02:34+00:00",
-          "summary": "Am Montag geht es im S&P 500 um 20:00 Uhr via NYSE um 0,27 Prozent auf 7.636,66 Punkte abwärts. Die S&P 500-Mitglieder kommen damit auf einen Wert von 61,596 Bio. Euro. Zuvor ging der S&P 500 ..."
-        },
-        {
-          "title": "Handel in New York: NASDAQ Composite notiert im Minus",
-          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-nasdaq-composite-notiert-im-minus-15933626",
-          "published": "2026-09-14T18:02:34+00:00",
-          "summary": "Am Montag tendiert der NASDAQ Composite um 20:00 Uhr via NASDAQ 0,08 Prozent leichter bei 26.310,94 Punkten. In den Handel ging der NASDAQ Composite 1,19 Prozent schwächer bei 26.018,50 ..."
+          "title": "KI-ETFs boomen: Chancen und Risiken für Anleger im Überblick",
+          "link": "https://www.finanzen.net/nachricht/etf/ki-boom-ki-etfs-boomen-chancen-und-risiken-fuer-anleger-im-ueberblick-00-15922785",
+          "published": "2026-09-14T19:35:00+00:00",
+          "summary": "Anleger mit breiten Indexfonds sind über große Technologiewerte bereits stark im KI-Thema investiert •Ein Investment in thematische KI-ETFs bedeutet laut Morningstar gleich drei Wetten zugleich …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Commerzbank-Übernahme: Der Banker, der boxt – wer ist der Manager, der die Commerzbank schluckt?",
+          "title": "Commerzbank-Übernahme: Andrea Orcel – wer ist der Manager, der die Commerzbank schluckt?",
           "link": "https://www.wiwo.de/unternehmen/banken/unicredit-chef-andrea-orcel-wer-ist-der-manager-der-die-commerzbank-schluckt/100245379.html",
-          "published": "2026-09-14T18:01:00+00:00",
+          "published": "2026-09-14T18:40:00+00:00",
           "summary": "Nach zwei Jahren Übernahmekampf durfte UniCredit-Chef Andrea Orcel am Montag mit der Bundesregierung sprechen. Aber die schwerste Aufgabe muss der Italiener noch meistern."
-        },
-        {
-          "title": "Treffen mit UniCredit-Chef: Klingbeil zieht rote Linien für Commerzbank-Übernahme",
-          "link": "https://www.wiwo.de/unternehmen/banken/commerzbank-uebernahme-lars-klingbeil-stellt-unicredit-bedingungen/100254454.html",
-          "published": "2026-09-14T17:39:00+00:00",
-          "summary": "Die UniCredit kontrolliert bereits rund 50 Prozent der Commerzbank. Nun fordert Finanzminister Lars Klingbeil Zugeständnisse für Standort und Beschäftigte."
         },
         {
           "title": "Künstliche Intelligenz: Warum sich Trump über die heftigen KI-Warnungen lustig macht",
           "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-ausloeschung-der-menschheit-was-an-den-ki-warnungen-dran-ist/100254268.html",
-          "published": "2026-09-14T17:27:00+00:00",
-          "summary": "Die Chefs der KI-Giganten warnen so drastisch wie nie vor ihrer eigenen Technologie. Doch Donald Trump hält dagegen. Wie real ist die Gefahr?"
+          "published": "2026-09-14T18:38:00+00:00",
+          "summary": "Die Chefs der KI-Giganten mahnen so drastisch wie nie die Risiken ihrer eigenen Technologie an. Doch Donald Trump hält dagegen. Wie real ist die Gefahr?"
         },
         {
-          "title": "Digitalbank: Wie der Trade-Republic-Konkurrent Revolut zur ersten Weltbank werden will",
+          "title": "Hohe Spritpreise: „Wer einen Benziner kauft, muss sich bewusst sein, dass er sich von der Golfregion abhängig macht“",
+          "link": "https://www.wiwo.de/politik/konjunktur/hohe-spritpreise-ifo-experte-warnt-vor-neuem-tankrabatt/100254424.html",
+          "published": "2026-09-14T18:36:00+00:00",
+          "summary": "Die hohen Spritpreise infolge des Iran-Kriegs belasten die Verbraucher. Ifo-Experte Florian Neumeier warnt dennoch vor einem erneuten Tankrabatt."
+        },
+        {
+          "title": "Digitalbank: Wie Trade-Republic-Konkurrent Revolut zur ersten Weltbank werden will",
           "link": "https://www.wiwo.de/unternehmen/banken/revolut-wie-der-trade-republic-konkurrent-zur-ersten-weltbank-werden-will/100253656.html",
-          "published": "2026-09-14T17:14:00+00:00",
+          "published": "2026-09-14T18:33:00+00:00",
           "summary": "Revolut ist Europas erfolgreichste Finanz­gründung und könnte bald 100 Millionen ­Kunden zählen. Das Problem: Die Nutzer nehmen ihre Bank noch nicht wirklich ernst."
         },
         {
-          "title": "Kanzler besucht Finnland: Friedrich Merz zwischen Frust und Frost",
-          "link": "https://www.wiwo.de/politik/europa/friedrich-merz-in-der-krise-ich-werde-keinen-zentimeter-zurueckweichen/100254144.html",
-          "published": "2026-09-14T17:11:24+00:00",
-          "summary": "Beim EU-Arktisgipfel will der Kanzler außenpolitische Entschlossenheit demonstrieren. Wäre da nicht die tiefe Krise zu Hause in Berlin."
+          "title": "BörsenTag: KI-Bosse schlagen Alarm – und die Chipaktien stürzen ab",
+          "link": "https://www.wiwo.de/finanzen/boerse/ki-chefs-warnen-vor-kuenstlicher-intelligenz-chipaktien-stuerzen-ab/100254366.html",
+          "published": "2026-09-14T18:31:00+00:00",
+          "summary": "Ausgerechnet die Chefs der größten KI-Unternehmen machen auf die Gefahren immer mächtigerer Modelle aufmerksam. An den Börsen sorgt das für Unruhe."
         }
       ],
       "error": null
