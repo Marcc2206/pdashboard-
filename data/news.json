@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T20:09:37+00:00",
+  "generatedAt": "2026-09-14T22:09:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12866.html",
+          "published": "2026-09-14T21:02:03+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Militärischer Abschirmdienst warnt vor zunehmender hybrider Kriegsführung und Spionage",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1649012.html",
+          "published": "2026-09-14T20:57:29+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Benzinpreise steigen auf Rekordhoch",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1648990.html",
+          "published": "2026-09-14T20:41:27+00:00",
+          "summary": ""
+        },
         {
           "title": "CDU stärkste Kraft - AfD legt stark zu",
           "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/kommunalwahl-2026-vertrauen-in-die-etablierten-parteien-ist-angespannt,kommunalwahl-340.html",
@@ -17,24 +35,6 @@
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81002.html",
           "published": "2026-09-14T18:39:28+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Schock und Trotz nach Razzien gegen LGBTQ-Vereine in der Türkei",
-          "link": "https://www.tagesschau.de/ausland/tuerkei-razzien-102.html",
-          "published": "2026-09-14T18:38:34+00:00",
-          "summary": "In der Türkei wurden am Wochenende zahlreiche Aktivisten und Aktivistinnen für LGBTQ-Rechte festgenommen. NGOs und Zivilgesellschaft verurteilen die Razzien - es sei das bisher größte Vorgehen gegen …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12260.html",
-          "published": "2026-09-14T18:36:47+00:00",
-          "summary": ""
-        },
-        {
-          "title": "CDU kann bei Kommunalwahlen in Niedersachsen ihre Position verteidigen",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1648924.html",
-          "published": "2026-09-14T18:33:48+00:00",
           "summary": ""
         }
       ],
@@ -59,10 +59,10 @@
           "summary": "Investoren reagieren besorgt auf die Forderungen der Chefs von Anthropic und OpenAI nach einer Verlangsamung der KI‑Entwicklung. Analysten sehen die Lage differenzierter."
         },
         {
-          "title": "US-Regierung: Russischer Oligarch finanzierte Hochzeit von Trump-Sohn mit",
-          "link": "https://www.handelsblatt.com/politik/international/us-regierung-russischer-oligarch-finanzierte-hochzeit-von-trump-sohn-mit/100254500.html",
+          "title": "USA: Russischer Oligarch finanzierte Hochzeit von Trump-Sohn mit",
+          "link": "https://www.handelsblatt.com/politik/international/usa-russischer-oligarch-finanzierte-hochzeit-von-trump-sohn-mit/100254500.html",
           "published": "2026-09-14T19:46:01+00:00",
-          "summary": "Während Moskau den Angriffskrieg gegen die Ukraine fortsetzt, finanziert ein russischer Oligarch mit Putin-Verbindungen Teile der Hochzeitsfeier von Donald Trump jr."
+          "summary": "Während Moskau den Angriffskrieg gegen die Ukraine führt, finanziert ein russischer Oligarch mit Putin-Verbindungen Teile der Hochzeitsfeier von Donald Trump jr. Dessen Ehefrau sieht kein Problem."
         },
         {
           "title": "Generika: Wie Sandoz Patentabläufe nutzt und den Markt für Abnehmmittel aufmischen will",
@@ -86,6 +86,12 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Wall Street im Minus: US-Anleger fürchten Bremsmanöver bei KI-Entwicklung",
+          "link": "https://www.n-tv.de/wirtschaft/US-Anleger-fuerchten-Bremsmanoever-bei-KI-Entwicklung-id31305789.html",
+          "published": "2026-09-14T21:21:23+00:00",
+          "summary": "Die Warnungen von KI-Unternehmen vor den Gefahren ihrer Produkte lösen an der Wall Street Verunsicherung aus. Vor allem Chip-Herstellern bekommt das nicht gut. Zudem steigt die Nervosität vor der …"
+        },
+        {
           "title": "Das Sicherheitsnetz ist weg: Warum die Energiekrise plötzlich so bedrohlich ist wie seit Kriegsbeginn nicht",
           "link": "https://www.n-tv.de/wirtschaft/Warum-die-Energiekrise-ploetzlich-so-bedrohlich-ist-wie-seit-Kriegsbeginn-nicht-id31304747.html",
           "published": "2026-09-14T15:43:32+00:00",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Preis-fuer-E10-steigt-auf-Rekordniveau-id31303176.html",
           "published": "2026-09-14T09:32:17+00:00",
           "summary": "Besonders der Iran-Krieg lässt die Spritpreise steigen. In Deutschland kann der Spritpreisdeckel die Kosten zeitweise ein wenig dämpfen. Da sich die Lage im Nahen Osten erneut verschärft, kostet E10 …"
-        },
-        {
-          "title": "30 Eröffnungen, 143 Schließungen: Das Netz der Apotheken schrumpft weiter",
-          "link": "https://www.n-tv.de/wirtschaft/Das-Netz-der-Apotheken-schrumpft-weiter-id31303233.html",
-          "published": "2026-09-14T09:31:55+00:00",
-          "summary": "Das Apothekensterben in Deutschland hält an: Wenn auch langsamer als im Vorjahreszeitraum, geht die Zahl der Apotheken zurück. Zwar zeigen sich Apotheker bereit, mehr Leistungen zu übernehmen - doch …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "SpaceX-Milliarden-Deal befeuert die Fantasie - aber nicht ohne Risiko für Aktien-Anleger",
-          "link": "https://www.finanzen.net/nachricht/aktien/ziel-100-milliarden-in-sicht-spacex-milliarden-deal-befeuert-die-fantasie-aber-nicht-ohne-risiko-fuer-aktien-anleger-00-15932022",
-          "published": "2026-09-14T19:54:00+00:00",
-          "summary": "Neuer Rechenleistungs-Deal treibt SpaceX näher an sein Jahresziel Analysten halten das ambitionierte Umsatzziel für grundsätzlich erreichbar Kurzfristige Kündigungsrechte in den Verträgen bergen aber …"
-        },
-        {
-          "title": "Tesla-Aktie gibt dennoch nach: Nach langer Wartezeit endlich neuer Roadster-Termin angekündigt",
-          "link": "https://www.finanzen.net/nachricht/aktien/roadster-termin-fixiert-tesla-aktie-gibt-dennoch-nach-nach-langer-wartezeit-endlich-neuer-roadster-termin-angekuendigt-00-15931635",
-          "published": "2026-09-14T19:53:00+00:00",
-          "summary": "Countdown auf Teslas eigener Roadster-Seite läuft auf ein neues Datum zu Musk kündigt Enthüllung per Kurzbotschaft auf der Plattform X an Analysten bewerten die Aktie trotz Ankündigung weiter …"
-        },
-        {
-          "title": "Hot Stocks heute: KI-Bremse voraus? NVIDIA vor dem Rückschlag – Trade der Woche: Short!",
-          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-ki-bremse-voraus-nvidia-vor-dem-rueckschlag-trade-der-woche-short-15932485",
-          "published": "2026-09-14T19:49:00+00:00",
-          "summary": "Die KI-Branche steht vor einer möglichen Zeitenwende: Anthropic -CEO Dario Amodei fordert, das Tempo der KI-Entwicklung zu drosseln. Auch Sam Altman und Elon Musk zeigen sich offen ..."
-        },
-        {
-          "title": "Selenskyj: Ukraine zu Deeskalation bereit",
-          "link": "https://www.finanzen.net/nachricht/aktien/selenskyj-ukraine-zu-deeskalation-bereit-15933704",
-          "published": "2026-09-14T19:37:39+00:00",
-          "summary": "KIEW (dpa-AFX) - Nach der überraschenden Ankündigung von US-Präsident Donald Trump über eine Feuerpause zwischen der Ukraine und Russland bei ihren gegenseitigen Angriffen auf Energieanlagen hat der …"
-        },
-        {
           "title": "KI-ETFs boomen: Chancen und Risiken für Anleger im Überblick",
           "link": "https://www.finanzen.net/nachricht/etf/ki-boom-ki-etfs-boomen-chancen-und-risiken-fuer-anleger-im-ueberblick-00-15922785",
-          "published": "2026-09-14T19:35:00+00:00",
+          "published": "2026-09-14T21:50:00+00:00",
           "summary": "Anleger mit breiten Indexfonds sind über große Technologiewerte bereits stark im KI-Thema investiert •Ein Investment in thematische KI-ETFs bedeutet laut Morningstar gleich drei Wetten zugleich …"
+        },
+        {
+          "title": "S&P 500 vor Belastungsprobe: Trumps Kurs bringt die Fed in Bedrängnis – und bedroht die Börsenrally",
+          "link": "https://www.finanzen.net/nachricht/aktien/bewertungsalarm-s-p-500-vor-belastungsprobe-trumps-kurs-bringt-die-fed-in-bedraengnis-und-bedroht-die-boersenrally-00-15929877",
+          "published": "2026-09-14T21:20:00+00:00",
+          "summary": "CAPE-Kennzahl des S&P 500 liegt nahe Rekordhoch von 1999 US- Inflation steigt im Juli auf 3,4 Prozent, Fed-Zinssenkung wird schwerer Zehnjahresrendite ..."
+        },
+        {
+          "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
+          "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
+          "published": "2026-09-14T21:18:00+00:00",
+          "summary": "Evercore sieht acht US-Blue Chips als Kandidaten für vorgezogene Verkäufe Tesla, Trade Desk und DraftKings zeigen die stärksten Gewinnrevisionen Der SpaceX-Börsengang im Juni gilt als Blaupause für …"
+        },
+        {
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-14T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+        },
+        {
+          "title": "Druck auf Iran: USA sanktionieren zweitgrößte Bank Russlands",
+          "link": "https://www.finanzen.net/nachricht/aktien/druck-auf-iran-usa-sanktionieren-zweitgroesste-bank-russlands-15933738",
+          "published": "2026-09-14T20:43:39+00:00",
+          "summary": "WASHINGTON (dpa-AFX) - Die USA verhängen im Rahmen ihres verstärkten wirtschaftlichen Drucks auf den Iran Sanktionen gegen die zweitgrößte Bank Russlands. Die VTB Bank habe dem Iran dabei geholfen …"
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Wirtschaft von oben: Hier versucht Saudi-Arabien gerade im Eiltempo, den Spritpreis zu retten",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/oelpreis-hier-versucht-saudi-arabien-gerade-im-eiltempo-den-spritpreis-zu-retten/100254446.html",
+          "published": "2026-09-14T22:01:00+00:00",
+          "summary": "Arbeiter verlegen neben der zerstörten Pumpstation 11 der saudischen Ost-West-Pipeline eine provisorische Röhre. Die Zeit drängt, sonst kann das Land bald nicht mehr exportieren."
+        },
+        {
+          "title": "Plümo-Baum | Die Höhle der Löwen: „Für einen strategischen Investor ist die Tür niemals zu“",
+          "link": "https://www.wiwo.de/erfolg/gruender/hoehle-der-loewen-was-wurde-aus-pluemo-baum-nach-dem-tv-aus/100254395.html",
+          "published": "2026-09-14T21:00:00+00:00",
+          "summary": "Das Gründerduo von Plümo-Baum will die Schlafhygiene verbessern. Die Löwen urteilten hart über Konzept und Produkte. Wie ging es nach der Aufzeichnung weiter?"
+        },
+        {
           "title": "Commerzbank-Übernahme: Andrea Orcel – wer ist der Manager, der die Commerzbank schluckt?",
           "link": "https://www.wiwo.de/unternehmen/banken/unicredit-chef-andrea-orcel-wer-ist-der-manager-der-die-commerzbank-schluckt/100245379.html",
           "published": "2026-09-14T18:40:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/politik/konjunktur/hohe-spritpreise-ifo-experte-warnt-vor-neuem-tankrabatt/100254424.html",
           "published": "2026-09-14T18:36:00+00:00",
           "summary": "Die hohen Spritpreise infolge des Iran-Kriegs belasten die Verbraucher. Ifo-Experte Florian Neumeier warnt dennoch vor einem erneuten Tankrabatt."
-        },
-        {
-          "title": "Digitalbank: Wie Trade-Republic-Konkurrent Revolut zur ersten Weltbank werden will",
-          "link": "https://www.wiwo.de/unternehmen/banken/revolut-wie-der-trade-republic-konkurrent-zur-ersten-weltbank-werden-will/100253656.html",
-          "published": "2026-09-14T18:33:00+00:00",
-          "summary": "Revolut ist Europas erfolgreichste Finanz­gründung und könnte bald 100 Millionen ­Kunden zählen. Das Problem: Die Nutzer nehmen ihre Bank noch nicht wirklich ernst."
-        },
-        {
-          "title": "BörsenTag: KI-Bosse schlagen Alarm – und die Chipaktien stürzen ab",
-          "link": "https://www.wiwo.de/finanzen/boerse/ki-chefs-warnen-vor-kuenstlicher-intelligenz-chipaktien-stuerzen-ab/100254366.html",
-          "published": "2026-09-14T18:31:00+00:00",
-          "summary": "Ausgerechnet die Chefs der größten KI-Unternehmen machen auf die Gefahren immer mächtigerer Modelle aufmerksam. An den Börsen sorgt das für Unruhe."
         }
       ],
       "error": null
