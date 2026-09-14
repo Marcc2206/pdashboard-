@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T08:12:01+00:00",
+  "generatedAt": "2026-09-14T10:08:52+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html",
-          "published": "2026-09-14T08:06:31+00:00",
+          "title": "\"Extreme politische Ausschläge gab es nicht\", Bertil Starke, NDR zu Ergebnissen der Kommunalwahl in Niedersachsen",
+          "link": "https://www.tagesschau.de/video/video-1648604.html",
+          "published": "2026-09-14T09:58:12+00:00",
           "summary": ""
-        },
-        {
-          "title": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html",
-          "published": "2026-09-14T07:13:20+00:00",
-          "summary": "Mehr staatliche Regulierung für Künstliche Intelligenz - mit dieser Forderung haben Tech-Bosse für Aufsehen gesorgt. Doch US-Präsident Trump hält davon wenig: Für ihn steht der US-Vorsprung bei KI …"
-        },
-        {
-          "title": "Nach Angriff auf Zug in der Ukraine: Polen wirft Russland Eskalation vor",
-          "link": "https://www.tagesschau.de/ausland/europa/polen-krisenstab-ukraine-100.html",
-          "published": "2026-09-14T07:08:39+00:00",
-          "summary": "Nach einem russischen Drohnenangriff auf einen Zug in der Ukraine nach Warschau hat Polens Krisenstab getagt. Seit Wochen gibt es Warnungen vor einer möglichen Zuspitzung, die auch Polen erreichen …"
         },
         {
           "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
           "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-14T06:33:14+00:00",
+          "published": "2026-09-14T09:45:19+00:00",
           "summary": "Am Montag gibt es anfangs in Richtung Südosten noch Schauer. Sonst ist es überwiegend trocken bei teils längerem Sonnenschein, teils dichten Wolken. Die Höchstwerte liegen zwischen 16 Grad auf Rügen …"
         },
         {
-          "title": "US Open: Alexander Zverev gewinnt Einzel-Finale gegen Ben Shelton",
-          "link": "https://www.sportschau.de/tennis/us-open/zverev-triumphiert-bei-us-open,bericht-finale-zverev-shelton-100.html",
-          "published": "2026-09-14T06:21:23+00:00",
-          "summary": "Der Tennisprofi Alexander Zverev hat erstmals die US Open gewonnen. Er setzte sich im Finale gegen den US-Amerikaner Ben Shelton durch und triumphierte so als zweiter Deutscher nach Boris Becker im …"
+          "title": "Sind die Spritpreise noch zu bremsen?",
+          "link": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
+          "published": "2026-09-14T09:18:10+00:00",
+          "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten werden Benzin und Diesel immer teurer - am Wochenende gab es ein neues Allzeithoch. Auch die Preise für Heizöl steigen …"
+        },
+        {
+          "title": "\"Anti-ukrainische Stimmung\", Martha Wilczynski, ARD Warschau, zu russischem Angriff auf Zug nahe Grenze zu Polen",
+          "link": "https://www.tagesschau.de/video/video-1648584.html",
+          "published": "2026-09-14T09:03:41+00:00",
+          "summary": ""
+        },
+        {
+          "title": "CDU stärkste Kraft - AfD legt stark zu",
+          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/kommunalwahl-2026-vertrauen-in-die-etablierten-parteien-ist-angespannt,kommunalwahl-340.html",
+          "published": "2026-09-14T09:03:20+00:00",
+          "summary": "Die CDU ist mit 27,2 Prozent erneut stärkste Kraft bei den Kommunalwahlen in Niedersachsen auf Kreisebene geworden. Nach vorläufigen Ergebnissen kommt die SPD auf 24,6 Prozent und die AfD auf 15,9. …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Fluggesellschaft: AirBaltic flüchtet unter US-Insolvenzrecht – Flugbetrieb läuft weiter",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/fluggesellschaft-airbaltic-fluechtet-unter-us-insolvenzrecht-flugbetrieb-laeuft-weiter/100254298.html",
-          "published": "2026-09-14T08:07:17+00:00",
-          "summary": "Die Airline will sich unter gerichtlichem Schutz finanziell neu aufstellen. Für Passagiere soll der Flugbetrieb während des Verfahrens uneingeschränkt weiterlaufen."
+          "title": "Gewerkschaft: IG Metall fordert mehr Unterstützung durch die Politik",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaft-ig-metall-fordert-mehr-unterstuetzung-durch-die-politik/100254348.html",
+          "published": "2026-09-14T10:05:10+00:00",
+          "summary": "Die deutsche Automobilbranche steckt in der Krise: 40.000 Menschen haben in den ersten sechs Monaten dieses Jahres ihren Job verloren. Die IG Metall macht konkrete Vorschläge."
         },
         {
-          "title": "Energiekonzern: Uniper verkauft seine Beteiligung an der Gas-Pipeline Opal",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/energie-uniper-verkauft-seine-beteiligung-an-der-gas-pipeline-opal/100254300.html",
-          "published": "2026-09-14T08:06:03+00:00",
-          "summary": "Die EU hatte die Rettung Unipers während der Energiekrise 2022 an die Bedingung geknüpft, dass Uniper seine Anteile an der Pipeline Opal veräußert. Jetzt setzt der Konzern die Auflage um."
+          "title": "Spionage: Mutmaßliche Spionin Russlands in Berlin angeklagt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spionage-mutmassliche-spionin-russlands-in-berlin-angeklagt/100254355.html",
+          "published": "2026-09-14T09:53:34+00:00",
+          "summary": "Die Bundesanwaltschaft geht gegen eine mutmaßliche russische Spionin vor."
         },
         {
-          "title": "Geldanlage: Ein Euro pro Trade? Volksbanken bauen ETF-Handel per App aus",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/geldanlage-ein-euro-pro-trade-volksbanken-bauen-etf-handel-per-app-aus/100253972.html",
-          "published": "2026-09-14T08:05:50+00:00",
-          "summary": "Ab Oktober soll es auch bei Genossenschaftsbanken billigere Wertpapierdepots für das Banking per Smartphone geben. Zudem ist eine Extra-App für junge Neukunden geplant – mit eigener Marke."
+          "title": "Geldanlage: Wer den MSCI World kauft, schließt derzeit drei Wetten ab",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-welche-risiken-birgt-der-msci-world-aktuell/100244938.html",
+          "published": "2026-09-14T09:52:00+00:00",
+          "summary": "Nach wie vor performt der Index MSCI World übers Jahr gesehen stark mit 20 Prozent Kursgewinn. Doch hinter der positiven Entwicklung könnten Probleme lauern."
         },
         {
           "title": "Dax aktuell: Debatte um KI‑Entwicklung drückt Chip-Aktien ins Minus",
           "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-debatte-um-kientwicklung-drueckt-chip-aktien-ins-minus/100254261.html",
-          "published": "2026-09-14T08:05:43+00:00",
+          "published": "2026-09-14T09:49:46+00:00",
           "summary": "Die Worte von Sam Altman und Dario Amodei kosten Infineon und kleinere Chip-Firmen deutlich an Börsenwert. Der hohe Ölpreis belastet die Kurse zusätzlich."
         },
         {
-          "title": "Wahl: Mitte-Links-Opposition steuert auf knappen Wahlsieg in Schweden zu",
-          "link": "https://www.handelsblatt.com/politik/international/wahl-in-schweden-mitte-links-opposition-steuert-auf-knappen-wahlsieg-zu/100254211.html",
-          "published": "2026-09-14T08:03:51+00:00",
-          "summary": "Schwedens Sozialdemokraten liegen bei der Parlamentswahl vorn – und Regierungschef Kristersson muss um die Macht zittern. Wer regieren kann, ist noch offen."
+          "title": "Börse am 14. September: Fünf Punkte, die für Anleger heute wichtig sind",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+          "published": "2026-09-14T09:48:04+00:00",
+          "summary": "Nach einer volatilen Woche am deutschen Aktienmarkt hoffen die Anleger in der neuen Woche auf positive Signale. In den Übernahmekampf um die Commerzbank könnte derweil Bewegung kommen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Niedrigste Quote seit 20 Jahren: Deutschland bei Wohneigentum in Europa auf letztem Platz",
-          "link": "https://www.n-tv.de/wirtschaft/Deutschland-bei-Wohneigentum-in-Europa-auf-letztem-Platz-id31302358.html",
-          "published": "2026-09-14T06:34:15+00:00",
-          "summary": "Hohe Baukosten, gestiegene Zinsen: Die Mehrheit der Menschen in Deutschland kann es sich nicht leisten, sich eine Wohnung oder ein Haus zu kaufen. Im Vergleich zu anderen europäischen Ländern …"
+          "title": "Benzin könnte noch teurer werden: Preis für E10 steigt auf Rekordniveau",
+          "link": "https://www.n-tv.de/wirtschaft/Preis-fuer-E10-steigt-auf-Rekordniveau-id31303176.html",
+          "published": "2026-09-14T09:32:17+00:00",
+          "summary": "Besonders der Iran-Krieg lässt die Spritpreise steigen. In Deutschland kann der Spritpreisdeckel die Kosten zeitweise ein wenig dämpfen. Da sich die Lage im Nahen Osten erneut verschärft, kostet E10 …"
         },
         {
-          "title": "Moralinstanz oder PR-Aktion?: Experten bewerten Alarmismus der KI-Branche skeptisch",
-          "link": "https://www.n-tv.de/wirtschaft/Experten-bewerten-Alarmismus-der-KI-Branche-skeptisch-id31301831.html",
-          "published": "2026-09-13T22:01:11+00:00",
-          "summary": "Dass die großen KI-Konzerne plötzlich selber vor den Folgen Künstlicher Intelligenz warnen, überzeugt Skeptiker nicht ganz. Zwei Experten vermuten ganz andere Motive hinter dem Alarmismus von OpenAI …"
+          "title": "30 Eröffnungen, 143 Schließungen: Das Netz der Apotheken schrumpft weiter",
+          "link": "https://www.n-tv.de/wirtschaft/Das-Netz-der-Apotheken-schrumpft-weiter-id31303233.html",
+          "published": "2026-09-14T09:31:55+00:00",
+          "summary": "Das Apothekensterben in Deutschland hält an: Wenn auch langsamer als im Vorjahreszeitraum, geht die Zahl der Apotheken zurück. Zwar zeigen sich Apotheker bereit, mehr Leistungen zu übernehmen - doch …"
         },
         {
-          "title": "Rufe nach Entlastung : Spritpreise nähern sich wieder Rekordmarken",
-          "link": "https://www.n-tv.de/wirtschaft/Spritpreise-naehern-sich-wieder-Rekordmarken-id31301321.html",
-          "published": "2026-09-13T16:04:02+00:00",
-          "summary": "Geschlossene Schifffahrtswege und eine stillgelegte Pipeline in Saudi-Arabien belasten die Ölversorgung und schicken die Preise an den Zapfsäulen am Wochenende auf Höhenflug. Hoffnungen ruhen nun auf …"
+          "title": "Überlebenszeit fast verdoppelt: Biontech meldet Etappenerfolg mit Lungenkrebsmittel",
+          "link": "https://www.n-tv.de/wirtschaft/Biontech-meldet-Etappenerfolg-mit-Lungenkrebsmittel-id31303146.html",
+          "published": "2026-09-14T09:16:32+00:00",
+          "summary": "Für Patienten, die unter weit fortgeschrittenem Lungenkrebs leiden, bleibt bisher oft nur noch eine Chemotherapie oder die palliative Versorgung. Ein neues Medikament von Biontech könnte ihnen etwas …"
         },
         {
-          "title": "IHK warnt: Schaden nach Niedrigwasser wird \"immens\" sein",
-          "link": "https://www.n-tv.de/wirtschaft/Schaden-nach-Niedrigwasser-wird-immens-sein-id31301216.html",
-          "published": "2026-09-13T15:06:21+00:00",
-          "summary": "Unternehmen stehen wegen des Niedrigswassers im Rhein vor Herausforderungen. Die IHK in Rheinland-Pfalz warnt vor immensen Schäden. Auch für Verbraucher könnten die Folgen länger spürbar bleiben …"
+          "title": "Baustein im Heizungsgesetz: Bundesregierung kann künftige Grüngaspreise nicht abschätzen",
+          "link": "https://www.n-tv.de/wirtschaft/Bundesregierung-kann-kuenftige-Gruengaspreise-nicht-abschaetzen-id31302819.html",
+          "published": "2026-09-14T08:30:44+00:00",
+          "summary": "Schwarz-Rot dreht das Heizungsgesetz der Ampel wieder zurück. Weniger Verbote, dafür wieder mehr Einsatz von Gas, so die Idee. Das soll immer öfter grünen Ursprungs sein. Dabei gibt es allerdings ein …"
         },
         {
-          "title": "\"Wenn einer es baut, sterben alle\": Die KI-Riesen stecken in einem gefährlichen Teufelskreis",
-          "link": "https://www.n-tv.de/wirtschaft/Die-KI-Riesen-stecken-in-einem-gefaehrlichen-Teufelskreis-id31296577.html",
-          "published": "2026-09-13T14:02:24+00:00",
-          "summary": "Tech-Insider warnen immer lauter vor den Risiken außer Kontrolle geratener KI. Doch trotz der Appelle ändert sich nichts: Anthropic, OpenAI und Co. liefern sich einen Wettlauf, bei dem die Sicherheit …"
+          "title": "\"Alle haben mich damit genervt\": Trump nimmt Whiskey-Zoll zurück - und lässt sich feiern",
+          "link": "https://www.n-tv.de/wirtschaft/Trump-nimmt-Whiskey-Zoll-zurueck-und-laesst-sich-feiern-id31302782.html",
+          "published": "2026-09-14T08:30:04+00:00",
+          "summary": "Zum Abschluss seines Irland-Besuchs zeigt sich Trump gut gelaunt. Unter Jubel macht der US-Präsident eine Ankündigung: Er hebt die US-Zölle auf irischen Whiskey auf. Es ist nicht das erste Land, für …"
         }
       ],
       "error": null
@@ -125,33 +125,33 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Analyse: So bewertet Joh. Berenberg, Gossler & Co. KG (Berenberg Bank) die MTU Aero Engines-Aktie",
-          "link": "https://www.finanzen.net/nachricht/aktien/analyse-so-bewertet-joh-berenberg-gossler-co-kg-berenberg-bank-die-mtu-aero-engines-aktie-15932358",
-          "published": "2026-09-14T08:04:42+00:00",
-          "summary": "Die Privatbank Berenberg hat die Einstufung für MTU mit einem Kursziel von 390 Euro auf \"Hold\" belassen. Die wieder zugespitzte Lage in Nahost trübe die Aussichten für das Servicegeschäft in der …"
+          "title": "ROUNDUP: Mutmaßliche Spionin Russlands in Berlin angeklagt",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-mutmassliche-spionin-russlands-in-berlin-angeklagt-15932555",
+          "published": "2026-09-14T10:06:38+00:00",
+          "summary": "KARLSRUHE/BERLIN (dpa-AFX) - Die Bundesanwaltschaft hat am Kammergericht Berlin Anklage gegen eine mutmaßliche Spionin Russlands erhoben. Die oberste deutsche Anklagebehörde wirft der Frau vor, einen …"
         },
         {
-          "title": "MÄRKTE EUROPA/Leichter - \"KI-Aktien\" sehr schwach - Roche mit Studienerfolg fest",
-          "link": "https://www.finanzen.net/nachricht/aktien/maerkte-europa-leichter-ki-aktien-sehr-schwach-roche-mit-studienerfolg-fest-15932363",
-          "published": "2026-09-14T08:04:41+00:00",
-          "summary": "DOW JONES--Leichter zeigen sich Europas Börsen am Montagvormittag. Der DAX verliert 0,5 Prozent auf 25.446 Punkte, der Euro-Stoxx-50 fällt um 0,7 Prozent auf 6.283 Zähler. Der Datenkalender am Montag …"
+          "title": "Europäische Regierungschefs warnen vor russischer Aggression",
+          "link": "https://www.finanzen.net/nachricht/aktien/europaeische-regierungschefs-warnen-vor-russischer-aggression-15932552",
+          "published": "2026-09-14T10:05:38+00:00",
+          "summary": "ROVANIEMI (dpa-AFX) - Mehrere europäische Regierungschefs haben beim Arktis-Gipfel im finnischen Rovaniemi vor einer wachsenden Gefahr aus Russland gewarnt. Der Angriff auf einen Zug nahe der …"
         },
         {
-          "title": "GNW-News: Neue Daten zu Gotistobart zeigten annähernde Verdopplung des medianen Gesamtüberlebens im Vergleich zur Standardchemotherapie bei Patientinnen und ...",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-neue-daten-zu-gotistobart-zeigten-annaehernde-verdopplung-des-medianen-gesamtueberlebens-im-vergleich-zur-standardchemotherapie-bei-patientinnen-und-15932362",
-          "published": "2026-09-14T08:04:39+00:00",
-          "summary": "^* Gotistobart zeigte weiterhin Potenzial als chemotherapiefreie Monotherapiezur Reaktivierung der Anti-Tumor-Immunität in bereits vorbehandelten Patientinnen und Patienten mit Plattenepithelkarzinom …"
+          "title": "70 Prozent der Privatanleger verlieren Geld - wegen dieser drei Denkfehler",
+          "link": "https://www.finanzen.net/nachricht/aktien/70-prozent-der-privatanleger-verlieren-geld-wegen-dieser-drei-denkfehler-15932554",
+          "published": "2026-09-14T10:05:00+00:00",
+          "summary": "70 Prozent der Privatanleger verlieren Geld – wegen dieser drei Denkfehler"
         },
         {
-          "title": "Deutsche Börse-News: \"An Ölpreis über 100 US-Dollar gewöhnen\" (Wochenausblick)",
-          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-boerse-news-an-oelpreis-ueber-100-us-dollar-gewoehnen-wochenausblick-15932361",
-          "published": "2026-09-14T08:04:38+00:00",
-          "summary": "FRANKFURT (DEUTSCHE-BOERSE AG) - Die Lage am Ölmarkt und das Geschehen im Nahen Osten bestimmen den Aktienmarkt weiter und verderben die Stimmung. Außerdem stehen diese Woche diverse …"
+          "title": "Bitcoin und Co.: Coinbase-CEO Armstrong sieht diese Klarheit für Krypto-Anleger - auch ohne CLARITY Act",
+          "link": "https://www.finanzen.net/nachricht/devisen/krypto-regulierung-bitcoin-und-co-coinbase-ceo-armstrong-sieht-diese-klarheit-fuer-krypto-anleger-auch-ohne-clarity-act-00-15929923",
+          "published": "2026-09-14T10:03:00+00:00",
+          "summary": "Coinbase-CEO Armstrong erwartet Krypto-Regulierungsklarheit so oder so Senat stimmt am 15. September über CLARITY Act per Cloture-Votum ab SEC und CFTC bereiten eigene Marktstruktur-Regeln als …"
         },
         {
           "title": "SpaceX-Milliarden-Deal befeuert die Fantasie - aber nicht ohne Risiko für Aktien-Anleger",
           "link": "https://www.finanzen.net/nachricht/aktien/ziel-100-milliarden-in-sicht-spacex-milliarden-deal-befeuert-die-fantasie-aber-nicht-ohne-risiko-fuer-aktien-anleger-00-15932022",
-          "published": "2026-09-14T08:04:00+00:00",
+          "published": "2026-09-14T10:01:00+00:00",
           "summary": "Neuer Rechenleistungs-Deal treibt SpaceX näher an sein Jahresziel Analysten halten das ambitionierte Umsatzziel für grundsätzlich erreichbar Kurzfristige Kündigungsrechte in den Verträgen bergen aber …"
         }
       ],
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Hoher Ölpreis verhagelt den Wochenstart",
+          "title": "Marktbericht: Anleger fürchten straffere Geldpolitik",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-          "published": "2026-09-14T05:47:11+00:00",
-          "summary": "Die Aktienmärkte bleiben an den steigenden Ölpreis gekettet: Die Eskalation in Saudi-Arabien schürt die Sorgen vor einem Anziehen der Inflation. Mit Spannung blicken die Investoren auf den …"
+          "published": "2026-09-14T08:50:05+00:00",
+          "summary": "Zum Wochenstart drücken höhere Ölpreise und die Aussicht auf steigende Zinsen auf die Stimmung der Anleger. Die Notenbanken von England, Japan und den USA werden in dieser Woche ihre Entscheidung …"
         },
         {
           "title": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
@@ -203,6 +203,24 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Wann kommt iOS 27?: Das müssen Sie zum bevorstehenden iPhone-Update wissen",
+          "link": "https://www.wiwo.de/unternehmen/it/wann-kommt-ios-27-release-datum-neuerungen-liste-kompatibler-iphones/28675148.html",
+          "published": "2026-09-14T09:13:00+00:00",
+          "summary": "iOS 27 steht kurz vor dem Release. Nutzer können sich auf zahlreiche Neuerungen freuen. Das müssen Sie zum neuen Apple-Update wissen."
+        },
+        {
+          "title": "Krise in der Auto-Industrie: IG Metall ruft zu Protest gegen Einschnitte in der Autobranche",
+          "link": "https://www.wiwo.de/unternehmen/auto/krise-in-der-auto-industrie-ig-metall-ruft-zu-protest-gegen-einschnitte-in-autobranche/100254332.html",
+          "published": "2026-09-14T08:40:14+00:00",
+          "summary": "Angesichts der Krise in der Automobilbranche gibt es Rufe nach Einschnitten für die Beschäftigten. Die IG Metall macht dagegen Front."
+        },
+        {
+          "title": "Technologiekonzern: Bosch will bei schweren Nutzfahrzeugen wachsen",
+          "link": "https://www.wiwo.de/unternehmen/industrie/iaa-transportation-bosch-will-geschaeft-mit-schweren-nutzfahrzeugen-verdoppeln/100254293.html",
+          "published": "2026-09-14T08:26:00+00:00",
+          "summary": "Auf der IAA Transportation äußert Bosch seine Ambitionen bei schweren Nutzfahrzeugen. Der Umsatz soll sich bis Mitte der 2030er-Jahre verdoppeln."
+        },
+        {
           "title": "Künstliche Intelligenz: Auslöschung der Menschheit? Was an den heftigen KI-Warnungen dran ist",
           "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-ausloeschung-der-menschheit-was-an-den-ki-warnungen-dran-ist/100254268.html",
           "published": "2026-09-14T07:49:00+00:00",
@@ -213,24 +231,6 @@
           "link": "https://www.wiwo.de/politik/ausland/handelsstreit-mit-den-usa-kanada-will-einzigartige-allianz-mit-eu-aufbauen/100254267.html",
           "published": "2026-09-14T07:23:00+00:00",
           "summary": "Kanadas Premier Carney strebt eine Annäherung an die EU an. Hintergrund ist der Handelsstreit mit den USA."
-        },
-        {
-          "title": "Parlamentswahl: Wahlkrimi ohne Ende – wer kann Schweden regieren?",
-          "link": "https://www.wiwo.de/politik/ausland/parlamentswahl-wahlkrimi-ohne-ende-wer-kann-schweden-regieren/100254229.html",
-          "published": "2026-09-14T06:00:00+00:00",
-          "summary": "Schwedens Sozialdemokraten holen bei der Wahl wohl die meisten Stimmen, die Regierungsbildung bleibt aber unklar. Die Rechtspopulisten müssen derweil Verluste verschmerzen."
-        },
-        {
-          "title": "Rettung von Volkswagen: VWs gefährlich optimistischer Plan für China",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-rettung-volkswagens-gefaehrlich-optimistischer-plan-fuer-china/100252628.html",
-          "published": "2026-09-14T06:00:00+00:00",
-          "summary": "Der Sanierungsplan des VW-Vorstands basiert auf der Annahme, dass der Konzern in China endlich mit seinen E-Autos durchstartet. Aber ist das überhaupt realistisch?"
-        },
-        {
-          "title": "Sachsen: ESMC feiert Richtfest für neue Mikrochipfabrik in Dresden",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/sachsen-esmc-feiert-richtfest-fuer-neuemikrochipfabrik-in-dresden/100254269.html",
-          "published": "2026-09-14T05:52:26+00:00",
-          "summary": "Mit zehn Milliarden Euro entsteht die ESMC-Mikrochipfabrik in Dresden. TSMC und Partner schaffen damit 2.000 Arbeitsplätze."
         }
       ],
       "error": null
@@ -245,11 +245,11 @@
           "title": "Wer hat an der Uhr gedreht? Neun Fakten zur Zeitumstellung",
           "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/wer-hat-an-der-uhr-gedreht-neun-fakten-zur-zeitumstellung/",
           "published": "2026-09-14T07:28:45+00:00",
-          "summary": "Die Blätter fallen, im Supermarkt gibt es Lebkuchen: Untrügliche Zeichen dafür, dass die Winterzeit bevorsteht und wir die Uhren umstellen müssen: Untrügliche Zeichen dafür, dass die Winterzeit …"
+          "summary": "Die Blätter fallen, im Supermarkt gibt es Lebkuchen: Untrügliche Zeichen dafür, dass die Winterzeit bevorsteht und wir die Uhr umstellen müssen. Aber in welche Richtung muss der Zeiger noch mal …"
         },
         {
           "title": "Mehr als Bauen: Wie komplexe Infrastrukturprojekte Wirklichkeit werden",
-          "link": "https://www.ingenieur.de/allgemein/mehr-als-bauenmehr-als-bauen-wie-komplexe-infrastrukturprojekte-wirklichkeit-werdenmehr-als-bauen/",
+          "link": "https://www.ingenieur.de/advertorial/mehr-als-bauen-wie-komplexe-infrastrukturprojekte-wirklichkeit-werden/",
           "published": "2026-09-14T06:37:07+00:00",
           "summary": "Deutschland steht in Sachen Infrastruktur vor einer gewaltigen Aufgabe: Straßen müssen modernisiert, Brücken erneuert und im Tiefbau die Grundlage für leistungsfähige Versorgungsnetze geschaffen …"
         },
