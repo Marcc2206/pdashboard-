@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T02:09:15+00:00",
+  "generatedAt": "2026-09-14T04:09:15+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Linke legt Fünf-Punkte-Plan für Berlin vor",
+          "link": "https://www.tagesschau.de/inland/linkspartei-berlin-100.html",
+          "published": "2026-09-14T04:00:51+00:00",
+          "summary": "Die Linken-Politikerin Eralp könnte Regierende Bürgermeisterin in Berlin werden. Nun legt sie für diesen Fall einen Fünf-Punkte-Plan vor: Er sieht etwa eine \"Taskforce Mietwucher\" und einen …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648104.html",
-          "published": "2026-09-13T00:23:18+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648488.html",
+          "published": "2026-09-14T02:50:20+00:00",
           "summary": ""
         },
         {
-          "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
-          "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
-          "published": "2026-09-13T00:03:56+00:00",
-          "summary": "Die Arktis wirkt wie eine Region am Rand der Welt - und wird doch immer wichtiger: militärisch und wirtschaftlich. Das sieht auch die EU so und trifft sich zu Beratungen in Finnland - auch Kanzler …"
+          "title": "Nach Sachsen-Anhalt: Ist die Brandmauer jetzt Geschichte?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-brandmauer-afd-100.html",
+          "published": "2026-09-14T02:06:44+00:00",
+          "summary": "Nach der Wahl in Sachsen-Anhalt wird über die Brandmauer zur AfD diskutiert. Der strikte Abgrenzungskurs sollte die AfD von der Macht fernhalten. Dieses Ziel könnte sie nun verfehlen. Ist die …"
         },
         {
-          "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
-          "published": "2026-09-12T23:53:35+00:00",
-          "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der …"
+          "title": "Wahl in Schweden: Sozialdemokraten vorn - aber reicht es zur Macht?",
+          "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-142.html",
+          "published": "2026-09-14T02:01:04+00:00",
+          "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson stärkste Kraft geworden. Ob das Mitte-links-Lager eine Regierung bilden kann, ist aber offen - noch …"
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12850.html",
-          "published": "2026-09-12T21:50:40+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Verleihung des \"Goldenen Löwen\" bei den Filmfestspielen in Venedig",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1648096.html",
-          "published": "2026-09-12T21:39:35+00:00",
-          "summary": ""
+          "title": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
+          "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
+          "published": "2026-09-14T01:22:42+00:00",
+          "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson laut Hochrechnungen stärkste Kraft geworden. Ob es für die Regierungsbildung reicht, ist aber noch offen."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Iran-Krieg +++: Iran stellt Öffnung der Straße von Hormus in Aussicht",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-stellt-oeffnung-der-strasse-von-hormus-in-aussicht/100136895.html",
-          "published": "2026-09-13T00:25:00+00:00",
-          "summary": "Saudi-Arabien: Zwei Verletzte nach Huthi-Beschuss +++ Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab +++ Iran und Golfstaaten wollen zu Straße von Hormus sprechen +++ Der Newsblog."
+          "title": "Kommunalwahl: Niedersachsen hat gewählt – AfD verdreifacht Ergebnis, CDU vor SPD",
+          "link": "https://www.handelsblatt.com/politik/deutschland/kommunen-niedersachsen-hat-gewaehlt-afd-verdreifacht-ergebnis-cdu-vor-spd/100254210.html",
+          "published": "2026-09-14T04:05:55+00:00",
+          "summary": "Unter dem Eindruck der VW-Krise entschieden sechs Millionen Niedersachsen über ihre Politik vor Ort. Nun gibt es erste Ergebnisse, auf die auch in Berlin sehr genau geschaut wird."
         },
         {
-          "title": "+++ USA +++: Trump drängt Staaten zur Abkehr vom Internationalen Strafgerichtshof",
-          "link": "https://www.handelsblatt.com/politik/international/trump-draengt-staaten-zur-abkehr-vom-internationalen-strafgerichtshof/29669594.html",
-          "published": "2026-09-13T00:22:00+00:00",
-          "summary": "Trump kündigt Rückzahlungen für Obamacare-Versicherte an +++ Amazon-Pilot warnte vor Unglück vor zu schnellem Anflug +++ Supreme Court bestätigt Aus für neue Wahlkreise in Missouri +++ Der Newsblog."
+          "title": "Morning Briefing: Drei Dinge, auf die es jetzt in der KI-Debatte ankommt",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-drei-dinge-auf-die-es-jetzt-in-der-ki-debatte-ankommt/100254217.html",
+          "published": "2026-09-14T03:53:38+00:00",
+          "summary": "Von totaler Euphorie zu totaler Panik: Die KI-Chefs schlagen plötzlich Alarm vor ihren eigenen Erfindungen. Muss man das ernst nehmen?"
         },
         {
-          "title": "Deutsche Bahn: Minister will Rückkehr der Familienreservierung bei der Bahn",
-          "link": "https://www.handelsblatt.com/politik/deutschland/deutsche-bahn-minister-will-rueckkehr-der-familienreservierung-bei-der-bahn/100254102.html",
-          "published": "2026-09-12T23:30:04+00:00",
-          "summary": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Der Verkehrsminister setzt sich nun für eine Rückkehr des vergünstigten Angebots bei der Bahn ein."
+          "title": "Systemupgrade: Apples iOS 27: Mehr KI und Kinderschutz fürs iPhone",
+          "link": "https://www.handelsblatt.com/technik/it-internet/systemupgrade-apples-ios-27-mehr-ki-und-kinderschutz-fuers-iphone/100254250.html",
+          "published": "2026-09-14T03:39:07+00:00",
+          "summary": "Foto-Bearbeitung mit KI, Sicherheitsfeatures für Eltern und Kids sowie ein aufgefrischtes Design: Das neue iOS 27 bringt viele neue Features für iPhones - was im Detail alles drinsteckt."
         },
         {
-          "title": "Geotrip im Karst: Škocjanske jame: Eine Reise durch Sloweniens Unterwelt",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/geotrip-im-karst-skocjanske-jame-eine-reise-durch-sloweniens-unterwelt/100254099.html",
-          "published": "2026-09-12T22:05:16+00:00",
-          "summary": "Versteinerte Riesen, Drachenbabys und eine der größten unterirdischen Schluchten der Welt: Die Höhlen von Škocjan gehören zu den Naturwundern Europas. Ein Besuch führt tief ins Herz der Erde."
+          "title": "Überweisung, Lastschrift & Co: Was tun, wenn das Geld beim falschen Empfänger landet?",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/ueberweisung-lastschrift-co-was-tun-wenn-das-geld-beim-falschen-empfaenger-landet/100254247.html",
+          "published": "2026-09-14T03:34:05+00:00",
+          "summary": "Eine Überweisung getätigt und kurz später festgestellt, dass das Geld auf das falsche Konto ging? Jetzt heißt es: schnell handeln. Was Sie wissen müssen, wenn sie das Geld zurückholen wollen."
         },
         {
-          "title": "Merz' Zukunft: Söder: Kanzlersturz von der CSU „auf keinen Fall“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/merz-zukunft-soeder-kanzlersturz-von-der-csu-auf-keinen-fall/100254095.html",
-          "published": "2026-09-12T22:01:04+00:00",
-          "summary": "Der Kanzler wird in seiner Partei für das Wahldebakel in Sachsen-Anhalt mitverantwortlich gemacht. In der CDU rumort es. CSU-Chef Söder zeigt aber weniger auf Merz, sondern vor allem auf die SPD."
+          "title": "Bei Anruf: Vorsicht!: Schockanruf und Co: Wie Betrüger zu Überweisungen drängen",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/bei-anruf-vorsicht-schockanruf-und-co-wie-betrueger-zu-ueberweisungen-draengen/100254246.html",
+          "published": "2026-09-14T03:34:04+00:00",
+          "summary": "Kriminelle setzen auf den Schockmoment: Wie Sie mit einem Anruf zu schnellen Zahlungen gedrängt werden sollen - und wie Sie sich wehren können. So geht die Masche."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "\"Es wird nicht 2026 sein\": OpenAI verschiebt Börsengang wegen Sicherheitsrisiken",
-          "link": "https://www.n-tv.de/wirtschaft/OpenAI-verschiebt-Boersengang-wegen-Sicherheitsrisiken-id31299775.html",
-          "published": "2026-09-13T01:23:18+00:00",
-          "summary": "Könnte die Künstliche Intelligenz außer Kontrolle geraten? Angesichts ungeklärter Sicherheitsrisiken verschiebt OpenAI-Chef Altman seinen Börsengang. Konkurrent Anthropic hält an den Plänen fest. …"
+          "title": "Moralinstanz oder PR-Aktion?: Experten bewerten Alarmismus der KI-Branche skeptisch",
+          "link": "https://www.n-tv.de/wirtschaft/Experten-bewerten-Alarmismus-der-KI-Branche-skeptisch-id31301831.html",
+          "published": "2026-09-13T22:01:11+00:00",
+          "summary": "Dass die großen KI-Konzerne plötzlich selber vor den Folgen Künstlicher Intelligenz warnen, überzeugt Skeptiker nicht ganz. Zwei Experten vermuten ganz andere Motive hinter dem Alarmismus von OpenAI …"
         },
         {
-          "title": "Musk und Altman stimmen zu: Anthropic-Chef fordert langsameres Tempo bei KI-Entwicklung",
-          "link": "https://www.n-tv.de/wirtschaft/Anthropic-Chef-fordert-langsameres-Tempo-bei-KI-Entwicklung-id31299590.html",
-          "published": "2026-09-12T19:46:09+00:00",
-          "summary": "KI entwickelt sich rasant - und könnte laut Experten bald zur realen Gefahr für die Menschheit werden. Ein jüngster Zwischenfall sorgt nun für Bewegung bei den großen KI-Entwicklern und könnte ein …"
+          "title": "Rufe nach Entlastung : Spritpreise nähern sich wieder Rekordmarken",
+          "link": "https://www.n-tv.de/wirtschaft/Spritpreise-naehern-sich-wieder-Rekordmarken-id31301321.html",
+          "published": "2026-09-13T16:04:02+00:00",
+          "summary": "Geschlossene Schifffahrtswege und eine stillgelegte Pipeline in Saudi-Arabien belasten die Ölversorgung und schicken die Preise an den Zapfsäulen am Wochenende auf Höhenflug. Hoffnungen ruhen nun auf …"
         },
         {
-          "title": "Keine Entspannung in Sicht: Niedrigwasser setzt Schifffahrt am Bodensee unter Druck",
-          "link": "https://www.n-tv.de/wirtschaft/Niedrigwasser-setzt-Schifffahrt-am-Bodensee-unter-Druck-id31299467.html",
-          "published": "2026-09-12T18:35:41+00:00",
-          "summary": "Trockene Ufer, erschwerte Bedingungen für Boote und Probleme für die Schifffahrt: Der Bodensee leidet unter außergewöhnlichem Niedrigwasser. Am Pegel Konstanz wurde ein historischer Tiefststand für …"
+          "title": "IHK warnt: Schaden nach Niedrigwasser wird \"immens\" sein",
+          "link": "https://www.n-tv.de/wirtschaft/Schaden-nach-Niedrigwasser-wird-immens-sein-id31301216.html",
+          "published": "2026-09-13T15:06:21+00:00",
+          "summary": "Unternehmen stehen wegen des Niedrigswassers im Rhein vor Herausforderungen. Die IHK in Rheinland-Pfalz warnt vor immensen Schäden. Auch für Verbraucher könnten die Folgen länger spürbar bleiben …"
         },
         {
-          "title": "Doch kein Solarinfarkt?: \"Die Energiewirtschaft sagt, das Stromnetz ist überlastet - das stimmt nicht\"",
-          "link": "https://www.n-tv.de/wirtschaft/E3-DC-Chef-Piepenbrink-Die-Energiewirtschaft-sagt-das-Ortsnetz-sei-ueberlastet-das-stimmt-nicht-id31286267.html",
-          "published": "2026-09-12T16:14:27+00:00",
-          "summary": "An sonnigen Feiertagen wie Pfingsten fliegt uns das Stromnetz um die Ohren? Der Solarzubau ist kritisch? Von diesem Narrativ hat Andreas Piepenbrink die Nase voll. \"Es stimmt nicht\", sagt der Chef …"
+          "title": "\"Wenn einer es baut, sterben alle\": Die KI-Riesen stecken in einem gefährlichen Teufelskreis",
+          "link": "https://www.n-tv.de/wirtschaft/Die-KI-Riesen-stecken-in-einem-gefaehrlichen-Teufelskreis-id31296577.html",
+          "published": "2026-09-13T14:02:24+00:00",
+          "summary": "Tech-Insider warnen immer lauter vor den Risiken außer Kontrolle geratener KI. Doch trotz der Appelle ändert sich nichts: Anthropic, OpenAI und Co. liefern sich einen Wettlauf, bei dem die Sicherheit …"
         },
         {
-          "title": "\"Wendepunkt für Europa\": Isar Aerospace macht aus Deutschland noch keine Raumfahrtnation",
-          "link": "https://www.n-tv.de/wirtschaft/Isar-Aerospace-macht-aus-Deutschland-noch-keine-Raumfahrtnation-id31288178.html",
-          "published": "2026-09-12T13:47:09+00:00",
-          "summary": "Mit dem geglückten Raketenstart feiert Isar Aerospace einen historischen Erfolg für Europa. Doch der Weg zum Routinebetrieb ist lang. Die Zukunft des Startups entscheidet sich nicht auf der …"
+          "title": "Volksrepublik als Fitnesscenter?: Deutsche Unternehmen steigern China-Investitionen deutlich",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Unternehmen-steigern-China-Investitionen-deutlich-id31300613.html",
+          "published": "2026-09-13T12:07:21+00:00",
+          "summary": "Ob als Test für den Weltmarkt oder aus Alternativlosigkeit: Firmen aus Deutschland engagieren sich in der ersten Jahreshälfte stärker in China als noch ein Jahr zuvor. Auf einem anderen Markt …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 37",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-37-15921316",
-          "published": "2026-09-13T01:45:59+00:00",
-          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 37"
+          "title": "Inflation schlagen: So schützt du dich vor dem schleichenden Kaufkraftverlust",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-inflation-schlagen-so-schuetzt-du-dich-vor-dem-schleichenden-kaufkraftverlust-15929832",
+          "published": "2026-09-14T03:55:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
-          "title": "US-Zwischenwahlen voraus: Warum auf schwache Wochen oft eine Rally folgt - und welche Sektoren profitieren könnten",
-          "link": "https://www.finanzen.net/nachricht/aktien/boersenmuster-us-zwischenwahlen-voraus-warum-auf-schwache-wochen-oft-eine-rally-folgt-und-welche-sektoren-profitieren-koennten-00-15927492",
-          "published": "2026-09-13T01:40:24+00:00",
-          "summary": "Seit 1962 gab der S&P 500 vor jeder Zwischenwahl im Schnitt rund 8 Prozent ab Nach der Wahl folgte historisch fast immer eine kräftige Erholungsphase 2026 steht der Kongress mit 220 zu 215 Sitzen vor …"
+          "title": "Wadephul will in Ungarn Schwung der Wende nutzen",
+          "link": "https://www.finanzen.net/nachricht/aktien/wadephul-will-in-ungarn-schwung-der-wende-nutzen-15931894",
+          "published": "2026-09-14T03:49:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Johann Wadephul reist an diesem Montag zum ersten Besuch eines deutschen Außenministers seit 2019 nach Ungarn. In der Hauptstadt Budapest will der CDU-Politiker unter anderem mit …"
         },
         {
-          "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 37 im Überblick",
-          "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-37-im-ueberblick-15921314",
-          "published": "2026-09-13T01:13:01+00:00",
-          "summary": "Die schlechtesten und besten TecDAX-Werte in der Kalenderwoche 37"
+          "title": "WOCHENAUSBLICK: Für den schwächelnden Dax wird der US-Zinsentscheid zur Wegmarke",
+          "link": "https://www.finanzen.net/nachricht/aktien/wochenausblick-fuer-den-schwaechelnden-dax-wird-der-us-zinsentscheid-zur-wegmarke-15931893",
+          "published": "2026-09-14T03:49:39+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Der deutsche Leitindex DAX dürfte sich auch in der neuen Woche schwer tun. Denn nach dem Sprung des Ölpreises über die viel beachtete Marke von 100 US-Dollar für ein Barrel (159 …"
         },
         {
-          "title": "Berkshire Hathaway-Aktie: Buffetts wichtigste Lektion - Diese Eigenschaft ist der Schlüssel zum Erfolg",
-          "link": "https://www.finanzen.net/nachricht/aktien/erfolgsrezept-berkshire-hathaway-aktie-buffetts-wichtigste-lektion-diese-eigenschaft-ist-der-schluessel-zum-erfolg-00-15458056",
-          "published": "2026-09-13T00:43:00+00:00",
-          "summary": "Buffett sieht Freundlichkeit als entscheidende Tugend für persönliches Glück • Mentor Tom Murphy zeigte ihm, dass respektvolles Verhalten Erfolg fördern kann • Freundlichkeit kostet nichts, aber …"
+          "title": "Rekord: Asterix-Titelbild bringt Millionensumme bei Auktion",
+          "link": "https://www.finanzen.net/nachricht/aktien/rekord-asterix-titelbild-bringt-millionensumme-bei-auktion-15931892",
+          "published": "2026-09-14T03:40:38+00:00",
+          "summary": "LÜTTICH (dpa-AFX) - Das Original-Titelbild des Comics \"Asterix bei den Briten\" ist bei einer Auktion in Belgien für 1,2 Millionen Euro versteigert worden. Einschließlich Gebühren habe der Käufer …"
         },
         {
-          "title": "Gold, Öl Co. in KW 37: So bewegten sich die Rohstoffe in der vergangenen Woche",
-          "link": "https://www.finanzen.net/nachricht/aktien/gold-oel-amp-co-in-kw-37-so-bewegten-sich-die-rohstoffe-in-der-vergangenen-woche-15931404",
-          "published": "2026-09-13T00:23:00+00:00",
-          "summary": "Am Rohstoffmarkt hat sich in der vergangenen Handelswoche einiges getan. Das sind die Gewinner und Verlierer."
+          "title": "Schärfere Regeln: Peking verbietet Drohnen in Stadtgebiet",
+          "link": "https://www.finanzen.net/nachricht/aktien/schaerfere-regeln-peking-verbietet-drohnen-in-stadtgebiet-15931891",
+          "published": "2026-09-14T03:39:39+00:00",
+          "summary": "PEKING (dpa-AFX) - Peking verschärft die Regelungen für Drohnen in der chinesischen Hauptstadt. Ab dem 15. November ist der Besitz und die Lagerung von Drohnen im Gebiet der chinesischen Hauptstadt …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wirtschaft von oben: So schwerwiegend ist der Ausfall der saudischen Pipeline",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/pipeline-in-saudi-arabien-so-schwerwiegend-ist-der-ausfall/100215661.html",
-          "published": "2026-09-12T22:09:00+00:00",
-          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Ausbruch des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Am Freitag wurde sie nach einem Treffer abgeschaltet."
+          "title": "Rettung von Volkswagen: VWs gefährlich optimistischer Plan für China",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-rettung-volkswagens-gefaehrlich-optimistischer-plan-fuer-china/100252628.html",
+          "published": "2026-09-14T02:30:00+00:00",
+          "summary": "Der Sanierungsplan des VW-Vorstands basiert auf der Annahme, dass der Konzern in China endlich mit seinen E-Autos durchstartet. Aber ist das überhaupt realistisch?"
         },
         {
-          "title": "Debatte um die Rente: In den Auto-Krisenländern ist die Frührente am beliebtesten",
-          "link": "https://www.wiwo.de/politik/deutschland/altersteilzeit-wo-industriekrise-und-rentendebatte-aufeinandertreffen/100253556.html",
-          "published": "2026-09-12T14:12:00+00:00",
-          "summary": "Die Rentenkommission empfiehlt, das beliebte Blockmodell bei der Altersteilzeit abzuschaffen. Dann würden tausende ältere Beschäftigte einfach entlassen, warnen die Gegner. Wer hat recht?"
+          "title": "Wirtschaft von oben: Wie schnell kann die saudischen Pipeline nach dem Treffer wieder fördern?",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/wichtige-pipeline-in-saudi-arabien-so-schnell-laesst-sie-sich-reparieren/100215661.html",
+          "published": "2026-09-13T22:05:00+00:00",
+          "summary": "Die Ost-West-Pipeline zum Roten Meer ist seit Ausbruch des Iran-Krieges eine wichtige Entlastung für die Weltwirtschaft. Ein Wettlauf mit der Zeit."
         },
         {
-          "title": "Risikovorsorge: Sind wir als Paar bei Berufsunfähigkeit überversichert?",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/berufsunfaehigkeitsversicherung-wann-man-ueberversichert-ist/100251996.html",
-          "published": "2026-09-12T14:06:00+00:00",
-          "summary": "Unsere Leserin und ihr Mann haben über den Strukturvertrieb DVAG Versicherungen abgeschlossen. Angesichts hoher Beiträge hinterfragen sie die Entscheidung heute."
+          "title": "Chinesische Trucks: So wollen Daimler Truck und MAN den Angriff aus China parieren",
+          "link": "https://www.wiwo.de/unternehmen/auto/elektro-lkw-wie-daimler-truck-und-man-china-parieren-wollen/100253846.html",
+          "published": "2026-09-13T14:40:00+00:00",
+          "summary": "Fünf Jahre nach den Autobauern investiert nun auch die Truckbranche in die Elektromobilität. Sind die deutschen Hersteller diesmal besser vorbereitet?"
         },
         {
-          "title": "Robo-Restaurant Robyn's: Heute kocht der Roboter – Modellversuch startet in Leipzig",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/robotik-restaurant-modellversuch-startet-in-leipzig/100254043.html",
-          "published": "2026-09-12T13:03:00+00:00",
-          "summary": "Mehr als 14 Gerichte werden im neuen Roboter-Restaurant frisch am Leipziger Hauptbahnhof zubereitet – und das ganz ohne menschliche Hände am Herd."
+          "title": "Kommunalwahlen: Höhere Wahlbeteiligung zeichnet sich in Niedersachsen ab",
+          "link": "https://www.wiwo.de/politik/deutschland/kommunalwahlen-hoehere-wahlbeteiligung-zeichnet-sich-in-niedersachsen-ab/100254141.html",
+          "published": "2026-09-13T14:34:00+00:00",
+          "summary": "Unter dem Eindruck der VW-Krise und des Ausschlusses mehrerer AfD-Kandidaten entscheidet Niedersachsen über die Politik vor Ort. Die Wahl gilt gleich mehrfach als Stimmungstest."
         },
         {
-          "title": "Heidelberg Materials: Warum die Aktie nach der Kurskorrektur wieder interessant ist",
-          "link": "https://www.wiwo.de/finanzen/boerse/heidelberg-materials-aktie-baustoffkonzern-ist-nachhaltig-guenstig/100252925.html",
-          "published": "2026-09-12T12:59:00+00:00",
-          "summary": "Die geplante Lockerung des EU-Emissionshandels belastet Heidelberg Materials. Was dennoch für die Aktie spricht."
+          "title": "Russische Raffinerien: Russlands Öl-Imperium hängt an der Zurückhaltung der Ukraine",
+          "link": "https://www.wiwo.de/finanzen/boerse/russland-oel-imperium-haengt-an-der-zurueckhaltung-der-ukraine/100253164.html",
+          "published": "2026-09-13T13:15:00+00:00",
+          "summary": "Seit Monaten greift die Ukraine russische Raffinerien und Öldepots mit Drohnen an. Doch Beobachtern zufolge mit gezügelter Wucht."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "85.000 Tote pro Jahr: KI soll Sepsis früher erkennen",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/85-000-tote-pro-jahr-ki-soll-sepsis-frueher-erkennen/",
+          "published": "2026-09-13T09:00:00+00:00",
+          "summary": "KI soll eine Sepsis früher erkennen. Forschende nutzen dafür Blutbilder, Vitaldaten und Hautaufnahmen. Wie zuverlässig sind die neuen Warnsysteme?"
+        },
         {
           "title": "Heiko Mell analysiert Arbeitszeugnisse: Diese Formulierungen drücken die Note",
           "link": "https://www.ingenieur.de/karriere/arbeitsleben/heiko-mell/heiko-mell-wie-gut-ist-mein-zeugnis/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/automation/boston-dynamics-neuste-version-von-spot/",
           "published": "2026-09-11T10:30:00+00:00",
           "summary": "Damit KI-Agentensysteme Zugriff auf alle relevanten Daten haben, ist eine gemeinsame Kommunikationsebene nötig. Genau die baut Boston Dynamics nun um seinen Roboter Spot auf."
-        },
-        {
-          "title": "Kleines Dorf organisiert die Energiewende ganz groß",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/knapp-1000-einwohner-windpark-und-waermenetz-wie-eine-kleine-gemeinde-ihre-energiewende-organisiert/",
-          "published": "2026-09-11T08:18:46+00:00",
-          "summary": "Windkraft bringt Geld in die Gemeindekasse, Biogas soll Gebäude heizen: Wie Mühlen Eichsen mit knapp 1000 Einwohnern seine Energiewende plant."
         }
       ],
       "error": null
