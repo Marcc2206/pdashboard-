@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:09:36+00:00",
+  "generatedAt": "2026-09-15T22:09:08+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649648.html",
-          "published": "2026-09-15T19:51:12+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12860.html",
+          "published": "2026-09-15T20:55:57+00:00",
           "summary": ""
         },
         {
-          "title": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
-          "link": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html",
-          "published": "2026-09-15T19:30:53+00:00",
-          "summary": "Die Huthi-Miliz blockiert im Jemen eine der wichtigsten Meerengen der Welt. Doch abseits der Schlagzeilen zu Öl und Handel leiden Zehntausende Menschen. Sie sind der Gewalt schutzlos ausgeliefert. …"
+          "title": "Engin Catik, Leiter Landesinstitut für Qualifizierung und Qualitätsentwicklung, über die Probleme an Berlins Schulen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1649676.html",
+          "published": "2026-09-15T20:35:58+00:00",
+          "summary": ""
         },
         {
-          "title": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
-          "link": "https://www.tagesschau.de/inland/sprit-taskforce-bundesregierung-100.html",
-          "published": "2026-09-15T19:17:52+00:00",
-          "summary": "Mehr Druck auf Mineralölkonzerne und zielgerichtete Maßnahmen: SPD-Fraktionsvize Zorn verspricht neue Vorschläge der Sprit-Taskforce \"in den nächsten Tagen\". Angesichts der hohen Spritpreise seien …"
+          "title": "Lehrermangel und Pisa-Studie: Berlins Schulen unter Druck",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1649674.html",
+          "published": "2026-09-15T20:33:40+00:00",
+          "summary": ""
         },
         {
-          "title": "Frankreich zu stark: Volleyballer verpassen Gruppensieg",
-          "link": "https://www.sportschau.de/volleyball/deutsche-volleyballer-verlieren-duell-um-gruppensieg,volleyball-em-maenner-frankreich-deutschland-100.html",
-          "published": "2026-09-15T19:16:36+00:00",
-          "summary": "Die deutschen Volleyballer haben ihr letztes Gruppenspiel gegen Olympiasieger Frankreich mit 0:3 (21:25, 17:25, 19:25) verloren, das Achtelfinale ist trotzdem sicher."
+          "title": "Wohnungsnot und hohe Mieten sind auch Wahlthemen in Berlin am Wochenende",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1649672.html",
+          "published": "2026-09-15T20:28:56+00:00",
+          "summary": ""
         },
         {
-          "title": "Organisierte Kriminalität prägt Lagebild von Innenminister Dobrindt",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1649594.html",
-          "published": "2026-09-15T18:48:51+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649648.html",
+          "published": "2026-09-15T19:51:12+00:00",
           "summary": ""
         }
       ],
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Nato-Ostflanke: Litauen: Abgeschossene Drohne hatte Sprengsatz",
+          "link": "https://www.handelsblatt.com/politik/international/nato-ostflanke-litauen-abgeschossene-drohne-hatte-sprengsatz/100254507.html",
+          "published": "2026-09-15T21:32:58+00:00",
+          "summary": "Eine Drohne dringt in den litauischen Luftraum ein – und wird von Nato-Kampfjets vom Himmel geholt. Woher sie stammt, ist weiter unklar. Dafür zeigte sich aber, dass sie scharf war."
+        },
         {
           "title": "Gasversorgung: Reiche vollzieht Kehrtwende – Staatlicher Gasimporteur Sefe befüllt Gasspeicher",
           "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-sefe-befuellt-fuer-ministerin-reiche-deutsche-gasspeicher/100254812.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/kultureinrichtung-trump-kennedy-center-wird-umgehend-geschlossen/100254824.html",
           "published": "2026-09-15T19:26:04+00:00",
           "summary": "Präsident Trump wollte seinen Namen an das berühmte Kennedy Center in Washington anbringen, doch ein Gericht blockiert den Schritt mehrfach. Jetzt folgt ein drastischer Schritt."
-        },
-        {
-          "title": "Verteidigung: Pistorius unterzeichnet Rüstungsvereinbarung mit den USA",
-          "link": "https://www.handelsblatt.com/politik/international/verteidigung-pistorius-unterzeichnet-ruestungsvereinbarung-mit-den-usa/100254821.html",
-          "published": "2026-09-15T19:22:59+00:00",
-          "summary": "Der Verteidigungsminister hat zum Auftakt seines US-Besuchs eine Absichtserklärung für Zusammenarbeit in der Rüstungsindustrie unterzeichnet. Worum geht es genau?"
         }
       ],
       "error": null
@@ -86,13 +86,19 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Anleihenrenditen klettern weiter: US-Anleger stehen weiter unter Ölpreisschock",
+          "link": "https://www.n-tv.de/wirtschaft/US-Anleger-stehen-weiter-unter-Oelpreisschock-id31310227.html",
+          "published": "2026-09-15T21:32:13+00:00",
+          "summary": "Wie das Kaninchen vor der Schlange blicken die US-Anleger auf die Fed. Die Notenbank wird morgen ihren Zinsentscheid verkünden - aller Voraussicht nach steht die erste Erhöhung seit drei Jahren an. …"
+        },
+        {
           "title": "Problematische Instrumente?: Kein Spritpreisdeckel, keine Übergewinnsteuer: Reiche lehnt SPD-Ideen ab",
           "link": "https://www.n-tv.de/wirtschaft/Kein-Spritpreisdeckel-keine-Uebergewinnsteuer-Reiche-lehnt-SPD-Ideen-ab-id31310050.html",
           "published": "2026-09-15T20:07:05+00:00",
           "summary": "Bundeskanzler Merz will Autofahrer entlasten, Vorschläge des Koalitionspartners SPD kommen in der CDU jedoch nicht gut an. Damit bleibt offen, wie genau die Unterstützung aussehen soll."
         },
         {
-          "title": "Angaben von US-Energieminister: Saudi-Pipeline soll schon bald wieder in Betrieb sein",
+          "title": "Angaben des US-Energieministers: Saudi-Pipeline soll schon bald wieder in Betrieb sein",
           "link": "https://www.n-tv.de/wirtschaft/Saudi-Pipeline-soll-schon-bald-wieder-in-Betrieb-sein-id31309845.html",
           "published": "2026-09-15T18:36:22+00:00",
           "summary": "Durch Saudi-Arabiens wichtige Ost-West-Pipeline fließt nach Angriffen derzeit kein Öl. Unklar ist, wie lange die Reparatur dauert. Angaben aus den USA deuten darauf hin, dass es schnell gehen könnte. …"
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/UniCredit-will-offenbar-Commerzbank-Aufsichtsraete-der-Bundesregierung-loswerden-id31308605.html",
           "published": "2026-09-15T14:06:29+00:00",
           "summary": "Die UniCredit will die Commerzbank übernehmen. Vorstandschefin Bettina Orlopp spricht sich dagegen aus, hat damit aber letztlich keinen Erfolg. Nun sieht es so aus, als würde sie der Fusion zum Opfer …"
-        },
-        {
-          "title": "DAX im Chart-Check: September-Blues?",
-          "link": "https://www.n-tv.de/wirtschaft/boerse/September-Blues-id30347915.html",
-          "published": "2026-09-15T14:03:00+00:00",
-          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den DAX."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "SpaceX-Aktie leichter: Pivotal Research hält 3-Billionen-Dollar-Bewertung für möglich",
-          "link": "https://www.finanzen.net/nachricht/aktien/analyst-sieht-3-billionen-spacex-aktie-leichter-pivotal-research-haelt-3-billionen-dollar-bewertung-fuer-moeglich-00-15934326",
-          "published": "2026-09-15T20:02:00+00:00",
-          "summary": "Pivotal Research startet SpaceX-Coverage mit klarer Kaufempfehlung Analysten sehen enorme Bewertungsspannbreite zwischen Bär- und Bullenfall Auslaufende Lock-up-Fristen bringen frische Aktien auf den …"
+          "title": "Europa-Aktien im Zins- und Ölpreis-Dilemma: Darum bleibt Barclays trotzdem optimistisch",
+          "link": "https://www.finanzen.net/nachricht/aktien/sektor-check-europa-aktien-im-zins-und-oelpreis-dilemma-darum-bleibt-barclays-trotzdem-optimistisch-00-15929984",
+          "published": "2026-09-15T21:42:00+00:00",
+          "summary": "Europas Aktien liegen 2026 rund zehn Prozent im Plus Barclays sieht Europas Wachstum trotz Ölpreisschub und EZB-Zinsschritt stabil Die Bank bevorzugt weiter deutsche Aktien sowie Banken und …"
         },
         {
-          "title": "Merz: 'Ja, ich möchte diese Reform durchsetzen'",
-          "link": "https://www.finanzen.net/nachricht/aktien/merz-ja-ich-moechte-diese-reform-durchsetzen-15935959",
-          "published": "2026-09-15T19:59:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Bundeskanzler Friedrich Merz (CDU) hat erneut seinen Willen bekräftigt, das schwarz-rote Reformpaket durchzusetzen. \"Ja, ich möchte diese Reform durchsetzen. Ja, das ist ein …"
+          "title": "Hohe Ölpreise belasten Aktien: Warum der Bullenmarkt laut Analysten dennoch nicht in Gefahr ist",
+          "link": "https://www.finanzen.net/nachricht/aktien/yardeni-research-gelassen-hohe-oelpreise-belasten-aktien-warum-der-bullenmarkt-laut-analysten-dennoch-nicht-in-gefahr-ist-00-15934215",
+          "published": "2026-09-15T21:39:00+00:00",
+          "summary": "Brent-Öl kostet derzeit mehr als 100 US-Dollar je Barrel Analysten: Unternehmensgewinne steigen schneller als Kosten Yardeni rät weiter zu Aktien außerhalb der USA"
         },
         {
-          "title": "dormakaba-Aktie: Schliesstechnik-Konzern übernimmt Anbieter von digitalen Hotelschlüsseln",
-          "link": "https://www.finanzen.net/nachricht/aktien/dormakaba-aktie-schliesstechnik-konzern-uebernimmt-anbieter-von-digitalen-hotelschluesseln-15935954",
-          "published": "2026-09-15T19:53:00+00:00",
-          "summary": "Das Schliesstechnik-Konzern dormakaba übernimmt das britische Software-Unternehmen Alliants Limited."
+          "title": "GNW-News: China Eastern Airlines führt die internationale App 2.0 mit verbesserten digitalen Reisediensten ein",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-china-eastern-airlines-fuehrt-die-internationale-app-2-0-mit-verbesserten-digitalen-reisediensten-ein-15936012",
+          "published": "2026-09-15T21:22:38+00:00",
+          "summary": "^SHANGHAI, Sept. 15, 2026 (GLOBE NEWSWIRE) -- China Eastern Airlines (CEAir) hatkürzlich die Version 2.0 seiner internationalen App eingeführt, die nun im App Store und bei Google Play erhältlich …"
         },
         {
-          "title": "Rheinmetall-Aktie springt an: Deutschland und USA bauen Zusammenarbeit bei Rüstungsprojekten aus",
-          "link": "https://www.finanzen.net/nachricht/aktien/ruestungskooperation-rheinmetall-aktie-springt-an-deutschland-und-usa-bauen-zusammenarbeit-bei-ruestungsprojekten-aus-15935943",
-          "published": "2026-09-15T19:46:00+00:00",
-          "summary": "Deutschland und die USA wollen ihre Zusammenarbeit bei Rüstungsprojekten deutlich ausbauen. Dazu unterzeichneten Verteidigungsminister Boris Pistorius (SPD) und sein US-Amtskollege Pete Hegseth in …"
+          "title": "NVIDIA-Aktie & Co.: Wie Anleger sich gegen starke Kursausschläge wappnen können",
+          "link": "https://www.finanzen.net/nachricht/aktien/options-strategie-nvidia-aktie-co-wie-anleger-sich-gegen-starke-kursausschlaege-wappnen-koennen-00-15930172",
+          "published": "2026-09-15T21:18:00+00:00",
+          "summary": "Nach dem Kollaps eines Hedgefonds zogen sich viele Anleger aus KI-Wetten zurück VIX notiert bei rund 15 Punkten, deutlich unter dem Schnitt von 19 Strangle-Optionen sollen unabhängig von der Richtung …"
         },
         {
-          "title": "ROUNDUP 2: US-Bericht räumt Munitionsmangel infolge des Iran-Kriegs ein",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-us-bericht-raeumt-munitionsmangel-infolge-des-iran-kriegs-ein-15935945",
-          "published": "2026-09-15T19:39:39+00:00",
-          "summary": "(neu: Schätzung des Haushaltsbüros des US?Kongresses, 3. Absatz)WASHINGTON (dpa-AFX) - Eine Aufsichtsbehörde des US-Verteidigungsministeriums hat in einem ersten offiziellen Bericht an den Kongress …"
+          "title": "Grüne in MV: 'Wer Schwesig will, muss Grün wählen'",
+          "link": "https://www.finanzen.net/nachricht/aktien/gruene-in-mv-wer-schwesig-will-muss-gruen-waehlen-15936000",
+          "published": "2026-09-15T21:02:39+00:00",
+          "summary": "SCHWERIN (dpa-AFX) - Wenige Tage vor der Landtagswahl in Mecklenburg-Vorpommern hat die Grünen-Spitzenkandidatin Claudia Müller die Zweitstimmenkampagne ihrer Partei untermauert. \"Wer Schwesig will …"
         }
       ],
       "error": null
