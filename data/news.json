@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T02:10:39+00:00",
+  "generatedAt": "2026-09-15T04:09:23+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649106.html",
+          "published": "2026-09-15T02:46:55+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Supreme Court: Niederlage für Trump im Streit um Briefwahl",
+          "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
+          "published": "2026-09-15T02:20:00+00:00",
+          "summary": "Noch vor den Zwischenwahlen im November wollte die US-Regierung verschärfte Briefwahlregeln durchsetzen - doch damit ist sie jetzt vor dem Supreme Court gescheitert. Die Richter folgten einer unteren …"
+        },
         {
           "title": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
           "link": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html",
@@ -20,22 +32,10 @@
           "summary": "Kampfjets der NATO haben eine Drohne abgeschossen, die in den litauischen Luftraum eingedrungen war. Der unbemannte Flugkörper war nahe der Hauptstadt Vilnius gesichtet worden. Litauens Präsident …"
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649038.html",
-          "published": "2026-09-15T00:45:56+00:00",
-          "summary": ""
-        },
-        {
           "title": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
           "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
           "published": "2026-09-14T23:34:17+00:00",
           "summary": "Die Doku \"Naza\" über den israelischen Gaza-Einsatz ist bei den Filmfestspielen in Venedig mit Standing Ovations bedacht worden. In Israel dagegen sind die Filmemacher massiver Kritik und einer …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80966.html",
-          "published": "2026-09-14T23:03:00+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Verteidigung: Nato registriert steigende Zahl russischer Hybrid-Angriffe",
-          "link": "https://www.handelsblatt.com/politik/international/verteidigung-nato-registriert-steigende-zahl-russischer-hybrid-angriffe/100254525.html",
-          "published": "2026-09-15T02:00:42+00:00",
-          "summary": "Allein im vergangenen Jahr wurden mehr als 200 hybride Angriffe erfasst. Russland verfolge dabei das Ziel, die politische und praktische Unterstützung für die Ukraine zu untergraben."
+          "title": "Elektromobilität: 100.000 Bestellungen für den BMW iX3 allein in Europa",
+          "link": "https://www.handelsblatt.com/politik/deutschland/elektromobilitaet-100000-bestellungen-fuer-ix3-von-bmw-allein-in-europa/100254530.html",
+          "published": "2026-09-15T03:52:39+00:00",
+          "summary": "Das erste Modell der für BMW wichtigen Neuen Klasse setzt einen neuen Konzernrekord für das erste Jahr. Auch bei den europäischen Elektroauto-Bestellungen schneidet der iX3 gut ab."
         },
         {
-          "title": "+++ USA +++: Supreme Court versetzt Trump im Streit um Briefwahl eine Niederlage",
-          "link": "https://www.handelsblatt.com/politik/international/trump-draengt-staaten-zur-abkehr-vom-internationalen-strafgerichtshof/29669594.html",
-          "published": "2026-09-15T01:55:00+00:00",
-          "summary": "Trumps Beliebtheit steigt leicht – aber Demokraten bauen Vorsprung aus +++ Trump spielt Bericht über Chinas Rolle bei Angriff auf US-Soldaten herunter +++ Der Newsblog."
+          "title": "Web- und App-Tipp: Mehr Perspektiven: Pixel-Smartphone mit Kamera verbinden",
+          "link": "https://www.handelsblatt.com/technik/it-internet/web-und-app-tipp-mehr-perspektiven-pixel-smartphone-mit-kamera-verbinden/100254553.html",
+          "published": "2026-09-15T03:41:04+00:00",
+          "summary": "Neben der Totale auch eine Seitenansicht filmen können? Das geht mit diesem Feature. Welche Möglichkeiten das für Aufnahmen und Livestreams eröffnet - und welche Einschränkungen gelten."
         },
         {
-          "title": "Bündnis im Alarmmodus: Nato registriert steigende Zahl russischer Hybrid-Angriffe",
-          "link": "https://www.handelsblatt.com/politik/international/buendnis-im-alarmmodus-nato-registriert-steigende-zahl-russischer-hybrid-angriffe/100254523.html",
-          "published": "2026-09-15T01:35:05+00:00",
-          "summary": "Eskaliert Russland in Richtung Krieg? Die jüngsten hybriden Angriffe Russlands sorgen in der Nato für Besorgnis. Ein neues Netzwerk soll kritische Energieinfrastruktur besser schützen."
+          "title": "Märkte Asien: Nahost-Spannungen und Ölpreisanstieg verunsichern asiatische Anleger",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-nahost-spannungen-und-oelpreisanstieg-verunsichern-asiatische-anleger/100254551.html",
+          "published": "2026-09-15T03:26:57+00:00",
+          "summary": "Investoren erwarten mit Spannung die Notenbankentscheidungen in Japan und den USA. Die wichtigsten Indizes starten einheitlich in den Tag."
         },
         {
-          "title": "Künstliche Intelligenz: Musk lässt Wettbewerbsklage gegen Apple fallen",
-          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-musk-laesst-wettbewerbsklage-gegen-apple-fallen/100254518.html",
-          "published": "2026-09-15T01:11:47+00:00",
-          "summary": "Elon Musk war verärgert, dass sein Chatbot Grok nicht die Download-Charts in Apples App-Store anführte. Deshalb warf er dem iPhone-Konzern unfairen Wettbewerb vor. Jetzt ist die Klage ausgeräumt."
+          "title": "Rauchen: Werden Zigaretten viel teurer? Tabakbranche warnt vor Folgen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rauchen-werden-zigaretten-viel-teurer-tabakbranche-warnt-vor-folgen/100254546.html",
+          "published": "2026-09-15T03:05:04+00:00",
+          "summary": "Damit der Bund Extra-Einnahmen bekommt, sollen Deutschlands Raucher stärker zur Kasse gebeten werden als bisher. Aber bringt das die erwünschten Milliarden? Nicht nur die Tabaklobby hat daran Zweifel."
         },
         {
-          "title": "Vor den Midterms: Streit um Briefwahl: Niederlage für Trump vor Supreme Court",
-          "link": "https://www.handelsblatt.com/politik/international/vor-den-midterms-streit-um-briefwahl-niederlage-fuer-trump-vor-supreme-court/100254519.html",
-          "published": "2026-09-15T00:37:49+00:00",
-          "summary": "Mancherorts sind die Briefwahlunterlagen vor den Midterms schon versendet, doch die Trump-Regierung versuchte weiter, neue Regeln durchzudrücken. Vor dem Obersten Gericht hat sie nun keinen Erfolg."
+          "title": "USA-Reise: Pistorius reist in die USA: Gespräch mit US-Minister Hegseth",
+          "link": "https://www.handelsblatt.com/politik/international/usa-reise-pistorius-reist-in-die-usa-gespraech-mit-us-minister-hegseth/100254545.html",
+          "published": "2026-09-15T03:01:04+00:00",
+          "summary": "Rüstungsprojekte, UN-Einsätze, Tarnkappenjets: Der deutsche Verteidigungsminister reist zu wichtigen Gesprächen in die USA. Dass aus älteren Pläne nichts wurde, könnte sich nun als positiv erweisen."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Europa-Aktien im Zins- und Ölpreis-Dilemma: Darum bleibt Barclays trotzdem optimistisch",
-          "link": "https://www.finanzen.net/nachricht/aktien/sektor-check-europa-aktien-im-zins-und-oelpreis-dilemma-darum-bleibt-barclays-trotzdem-optimistisch-00-15929984",
-          "published": "2026-09-15T01:59:56+00:00",
-          "summary": "Europas Aktien liegen 2026 rund zehn Prozent im Plus Barclays sieht Europas Wachstum trotz Ölpreisschub und EZB-Zinsschritt stabil Die Bank bevorzugt weiter deutsche Aktien sowie Banken und …"
+          "title": "Einkommensfrage - Für einen Rentenpunkt: Was man wirklich verdienen muss",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/verdienst-einkommensfrage-fuer-einen-rentenpunkt-was-man-wirklich-verdienen-muss-14749533",
+          "published": "2026-09-15T04:01:00+00:00",
+          "summary": "Der Sprung nach oben: Warum 2025 alles teurer wird Das vorläufige Durchschnittsentgelt ist 2025 um satte 11,32 Prozent gegenüber dem Vorjahr gestiegen - von 45.358 Euro auf 50.493 Euro. Dieser …"
         },
         {
-          "title": "NVIDIA-Aktie & Co.: Wie Anleger sich gegen starke Kursausschläge wappnen können",
-          "link": "https://www.finanzen.net/nachricht/aktien/options-strategie-nvidia-aktie-co-wie-anleger-sich-gegen-starke-kursausschlaege-wappnen-koennen-00-15930172",
-          "published": "2026-09-15T01:54:23+00:00",
-          "summary": "Nach dem Kollaps eines Hedgefonds zogen sich viele Anleger aus KI-Wetten zurück VIX notiert bei rund 15 Punkten, deutlich unter dem Schnitt von 19 Strangle-Optionen sollen unabhängig von der Richtung …"
+          "title": "Vorsicht beim Goldkauf: So identifiziert man Fälschungen",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/goldkauf-mit-sicherheit-vorsicht-beim-goldkauf-so-identifiziert-man-faelschungen-14426075",
+          "published": "2026-09-15T04:01:00+00:00",
+          "summary": "Echt oder nicht - selbst testen • Täuschend echte Fälschungen • Augen auf beim Kauf Gold gilt als krisensichere Anlageklasse und erfreut sich daher besonders bei sicherheitsbewussten ..."
         },
         {
-          "title": "Bitcoin bis 840.000 US-Dollar? Binance-Gründer CZ sieht Kapital aus KI-Sektor zurückfließen",
-          "link": "https://www.finanzen.net/nachricht/devisen/34-hot-money-34-bitcoin-bis-840-000-us-dollar-binance-gruender-cz-sieht-kapital-aus-ki-sektor-zurueckfliessen-00-15929583",
-          "published": "2026-09-15T01:48:19+00:00",
-          "summary": "CZ sieht spekulatives Kapital aus der KI-Branche zurück zu Bitcoin fließen Laut River könnten Portfolios künftig 2 bis 4 Prozent in Bitcoin halten Studie beziffert langfristiges BTC-Kurspotenzial auf …"
+          "title": "Emmys 2026: Das sind die Abräumer",
+          "link": "https://www.finanzen.net/nachricht/aktien/emmys-2026-das-sind-die-abraeumer-15933999",
+          "published": "2026-09-15T03:59:39+00:00",
+          "summary": "LOS ANGELES (dpa-AFX) - Mit insgesamt 14 Emmys gewann die Horror-Comedyserie \"Widow's Bay\" mehr Auszeichnungen als je zuvor eine Serie in der Comedy-Kategorie der US-Fernsehpreise. Aber auch andere …"
         },
         {
-          "title": "SP 500 vor Belastungsprobe: Trumps Politik und hohe Bewertung nähren Korrekturängste",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-amp-p-500-vor-belastungsprobe-trumps-politik-und-hohe-bewertung-naehren-korrekturaengste-15933932",
-          "published": "2026-09-15T01:35:23+00:00",
-          "summary": "Die Bewertung des US-Leitindex nähert sich einem historischen Extrem, während Trumps Politik die Notenbank vor ein Dilemma stellt."
+          "title": "ROUNDUP/Streit um Briefwahl: Niederlage für Trump vor Supreme Court",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-streit-um-briefwahl-niederlage-fuer-trump-vor-supreme-court-15933998",
+          "published": "2026-09-15T03:59:39+00:00",
+          "summary": "WASHINGTON (dpa-AFX) - Im Rechtsstreit um verschärfte Regeln bei der Briefwahl in den USA hat die Regierung von Präsident Donald Trump vor dem Obersten Gerichtshof eine Niederlage kassiert. Der …"
         },
         {
-          "title": "Tesla, American Express Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
-          "link": "https://www.finanzen.net/nachricht/aktien/tesla-american-express-amp-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-15933931",
-          "published": "2026-09-15T01:32:55+00:00",
-          "summary": "Evercore ISI warnt vor einer frühen Verkaufswelle bei acht bekannten US-Blue-Chip-Aktien, ausgelöst durch die erwarteten Milliarden-Börsengänge von Anthropic und OpenAI."
+          "title": "Krankenhausserie 'The Pitt' gewinnt Emmy als bestes Drama",
+          "link": "https://www.finanzen.net/nachricht/aktien/krankenhausserie-the-pitt-gewinnt-emmy-als-bestes-drama-15933997",
+          "published": "2026-09-15T03:58:39+00:00",
+          "summary": "LOS ANGELES (dpa-AFX) - Die in Echtzeit erzählte Krankenhausserie \"The Pitt\" hat erneut den Emmy Award als beste Dramaserie des Jahres gewonnen. Die Produktion setzte sich bei der Gala in Los Angeles …"
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Debatte um KI-Risiko: KI, die sich selbst verbessert – bis sie uns alle ruiniert?",
+          "link": "https://www.wiwo.de/technologie/kuenstliche-intelligenz-wie-gefaehrlich-ist-sich-selbst-verbessernde-ki/100254356.html",
+          "published": "2026-09-15T04:03:00+00:00",
+          "summary": "Führende KI-Unternehmer warnen vor Künstlichen Intelligenzen, die sich selbst weiterentwickeln. Wie Experten das Risiko einschätzen."
+        },
+        {
+          "title": "Daimler Truck: „Wir sind vielleicht kein Fels in der Brandung, aber ein ordentlicher Klotz“",
+          "link": "https://www.wiwo.de/unternehmen/auto/daimler-truck-lkw-hersteller-wirbt-fuer-europaeische-batterieinitiative/100253868.html",
+          "published": "2026-09-15T04:02:03+00:00",
+          "summary": "Autokrise? Mag sein. Der Betriebsratschef von Daimler Truck fordert dennoch mehr Geld für die Arbeitnehmer – und politische Unterstützung, um die Wettbewerber aus China zu stoppen."
+        },
+        {
           "title": "Wirtschaft von oben: Hier versucht Saudi-Arabien gerade im Eiltempo, den Spritpreis zu retten",
           "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/oelpreis-hier-versucht-saudi-arabien-gerade-im-eiltempo-den-spritpreis-zu-retten/100254446.html",
           "published": "2026-09-14T22:01:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/banken/unicredit-chef-andrea-orcel-wer-ist-der-manager-der-die-commerzbank-schluckt/100245379.html",
           "published": "2026-09-14T18:40:00+00:00",
           "summary": "Nach zwei Jahren Übernahmekampf durfte UniCredit-Chef Andrea Orcel am Montag mit der Bundesregierung sprechen. Aber die schwerste Aufgabe muss der Italiener noch meistern."
-        },
-        {
-          "title": "Künstliche Intelligenz: Warum sich Trump über die heftigen KI-Warnungen lustig macht",
-          "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-ausloeschung-der-menschheit-was-an-den-ki-warnungen-dran-ist/100254268.html",
-          "published": "2026-09-14T18:38:00+00:00",
-          "summary": "Die Chefs der KI-Giganten mahnen so drastisch wie nie die Risiken ihrer eigenen Technologie an. Doch Donald Trump hält dagegen. Wie real ist die Gefahr?"
-        },
-        {
-          "title": "Hohe Spritpreise: „Wer einen Benziner kauft, muss sich bewusst sein, dass er sich von der Golfregion abhängig macht“",
-          "link": "https://www.wiwo.de/politik/konjunktur/hohe-spritpreise-ifo-experte-warnt-vor-neuem-tankrabatt/100254424.html",
-          "published": "2026-09-14T18:36:00+00:00",
-          "summary": "Die hohen Spritpreise infolge des Iran-Kriegs belasten die Verbraucher. Ifo-Experte Florian Neumeier warnt dennoch vor einem erneuten Tankrabatt."
         }
       ],
       "error": null
