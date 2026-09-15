@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T22:09:09+00:00",
+  "generatedAt": "2026-09-15T00:12:59+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
+          "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
+          "published": "2026-09-14T23:34:17+00:00",
+          "summary": "Die Doku \"Naza\" über den israelischen Gaza-Einsatz ist bei den Filmfestspielen in Venedig mit Standing Ovations bedacht worden. In Israel dagegen sind die Filmemacher massiver Kritik und einer …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80966.html",
+          "published": "2026-09-14T23:03:00+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649018.html",
+          "published": "2026-09-14T22:43:38+00:00",
+          "summary": ""
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12866.html",
@@ -17,24 +35,6 @@
           "title": "Militärischer Abschirmdienst warnt vor zunehmender hybrider Kriegsführung und Spionage",
           "link": "https://www.tagesschau.de/tagesthemen/video-1649012.html",
           "published": "2026-09-14T20:57:29+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Benzinpreise steigen auf Rekordhoch",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1648990.html",
-          "published": "2026-09-14T20:41:27+00:00",
-          "summary": ""
-        },
-        {
-          "title": "CDU stärkste Kraft - AfD legt stark zu",
-          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/kommunalwahl-2026-vertrauen-in-die-etablierten-parteien-ist-angespannt,kommunalwahl-340.html",
-          "published": "2026-09-14T19:07:36+00:00",
-          "summary": "Die CDU ist mit 27,2 Prozent erneut stärkste Kraft bei den Kommunalwahlen in Niedersachsen auf Kreisebene geworden. Nach vorläufigen Ergebnissen kommt die SPD auf 24,6 Prozent und die AfD auf 15,9. …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81002.html",
-          "published": "2026-09-14T18:39:28+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Klimawandel: USA heben Emissionsvorschriften für Kraftwerke auf",
+          "link": "https://www.handelsblatt.com/politik/international/klimawandel-usa-heben-emissionsvorschriften-fuer-kraftwerke-auf/100254513.html",
+          "published": "2026-09-14T23:52:45+00:00",
+          "summary": "Treibhausgase gelten als Haupttreiber des menschengemachten Klimawandels. Um deren Ausstoß zu begrenzen, gibt es auch in den USA Regeln. Doch unter Trump werden diese Stück für Stück abgewickelt."
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: Kampfjet schießt Drohne über Litauen ab",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-14T23:49:00+00:00",
+          "summary": "USA verhängen umfassende Sanktionen gegen russische VTB Bank +++ Trump: Keine weiteren Attacken auf Energieziele +++ Noch keine offizielle Reaktion auf Trumps Aussagen +++ Der Newsblog."
+        },
+        {
+          "title": "Nigeria: Afrikas größte Ölraffinerie startet Rekord-Börsengang",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/nigeria-afrikas-groesste-oelraffinerie-startet-rekord-boersengang/100254509.html",
+          "published": "2026-09-14T23:17:10+00:00",
+          "summary": "Der Börsengang der nigerianischen Raffinerie könnte mit 1,6 Milliarden Dollar einen Rekord in Afrika aufstellen. Doch ihre hohe Bewertung sorgt auch für Kritik."
+        },
+        {
+          "title": "Nato-Ostflanke: Kampfflugzeuge schießen Drohne über Litauen ab",
+          "link": "https://www.handelsblatt.com/politik/international/nato-ostflanke-kampfflugzeuge-schiessen-drohne-ueber-litauen-ab/100254507.html",
+          "published": "2026-09-14T22:30:06+00:00",
+          "summary": "Die Staaten im Baltikum fühlen sich seit Beginn des russischen Angriffskriegs gegen die Ukraine besonders bedroht. Gemeinsam mit Verbündeten will Litauen seinen Luftraum verteidigen."
+        },
+        {
           "title": "Einzelhandel: Lidl testet autonom fahrenden Lkw zur Belieferung der Filialen",
           "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-lidl-testet-autonom-fahrenden-lkw-zur-filial-belieferung/100253503.html",
           "published": "2026-09-14T20:00:00+00:00",
           "summary": "Für einen ersten Test in Deutschland hat der Discounter nach Handelsblatt-Informationen nun die Genehmigung bekommen. Bis zum breiten Einsatz gibt es aber noch einige Fragen zu klären."
-        },
-        {
-          "title": "Wall Street: Tech-Titel fallen nach den Warnungen vor einer KI-Katastrophe deutlich",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/dow-jones-sp-500-nasdaq-kichefs-warnen-tech-titel-weltweit-fallen-deutlich/100254349.html",
-          "published": "2026-09-14T19:54:16+00:00",
-          "summary": "Investoren reagieren besorgt auf die Forderungen der Chefs von Anthropic und OpenAI nach einer Verlangsamung der KI‑Entwicklung. Analysten sehen die Lage differenzierter."
-        },
-        {
-          "title": "USA: Russischer Oligarch finanzierte Hochzeit von Trump-Sohn mit",
-          "link": "https://www.handelsblatt.com/politik/international/usa-russischer-oligarch-finanzierte-hochzeit-von-trump-sohn-mit/100254500.html",
-          "published": "2026-09-14T19:46:01+00:00",
-          "summary": "Während Moskau den Angriffskrieg gegen die Ukraine führt, finanziert ein russischer Oligarch mit Putin-Verbindungen Teile der Hochzeitsfeier von Donald Trump jr. Dessen Ehefrau sieht kein Problem."
-        },
-        {
-          "title": "Generika: Wie Sandoz Patentabläufe nutzt und den Markt für Abnehmmittel aufmischen will",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/generika-sandoz-verspricht-preiswerte-kopien-von-abnehmspritzen/100252841.html",
-          "published": "2026-09-14T19:44:52+00:00",
-          "summary": "Der Generikaproduzent Sandoz bereitet sich auf einen Milliardenmarkt für nachgemachte Abnehmmittel vor. Finanzchef Steenbergen skizziert Strategie und Pläne für den Ausbau."
-        },
-        {
-          "title": "Bayer-Anhörung: Monsanto fordert von US-Gericht Genehmigung des „Roundup“-Vergleichs",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/bayer-monsanto-fordert-von-us-gericht-genehmigung-des-roundup-vergleichs/100252854.html",
-          "published": "2026-09-14T18:57:07+00:00",
-          "summary": "Ein US-Gericht beschäftigte sich am Montag mit einem möglichen Milliardenvergleich für Bayer. Damit sollen zehntausende Klagen beigelegt werden. Eine Entscheidung steht allerdings noch aus."
         }
       ],
       "error": null
@@ -125,6 +125,12 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "GNW-News: Space42 und Viasat unterzeichnen verbindliche Vereinbarung zur Gründung von Equatys: erste gemeinsame Plattform für Weltraum- und Bodeninfrastruktu...",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-space42-und-viasat-unterzeichnen-verbindliche-vereinbarung-zur-gruendung-von-equatys-erste-gemeinsame-plattform-fuer-weltraum-und-bodeninfrastruktu-15933859",
+          "published": "2026-09-14T23:37:39+00:00",
+          "summary": "^* Finanzierungszusage: Die Unterzeichnung der verbindlichen Vereinbarung siehtEigenkapitalzusagen von Space42 und Viasat als erste Gründungspartner von Equatys in Höhe von insgesamt bis zu 1 Mrd. …"
+        },
+        {
           "title": "KI-ETFs boomen: Chancen und Risiken für Anleger im Überblick",
           "link": "https://www.finanzen.net/nachricht/etf/ki-boom-ki-etfs-boomen-chancen-und-risiken-fuer-anleger-im-ueberblick-00-15922785",
           "published": "2026-09-14T21:50:00+00:00",
@@ -147,12 +153,6 @@
           "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
           "published": "2026-09-14T20:50:00+00:00",
           "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
-        },
-        {
-          "title": "Druck auf Iran: USA sanktionieren zweitgrößte Bank Russlands",
-          "link": "https://www.finanzen.net/nachricht/aktien/druck-auf-iran-usa-sanktionieren-zweitgroesste-bank-russlands-15933738",
-          "published": "2026-09-14T20:43:39+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Die USA verhängen im Rahmen ihres verstärkten wirtschaftlichen Drucks auf den Iran Sanktionen gegen die zweitgrößte Bank Russlands. Die VTB Bank habe dem Iran dabei geholfen …"
         }
       ],
       "error": null
