@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:12:59+00:00",
+  "generatedAt": "2026-09-15T02:10:39+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html",
+          "published": "2026-09-15T01:19:00+00:00",
+          "summary": "Es ist ein weiterer Schritt der Trump-Administration, Umweltauflagen der Vorgängerregierung abzuschaffen: Die Umweltbehörde nimmt Regeln zurück, die den Treibhausgasausstoß für Kohle- und …"
+        },
+        {
+          "title": "Litauen: NATO-Kampfjets schießen Drohne ab",
+          "link": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html",
+          "published": "2026-09-15T00:46:06+00:00",
+          "summary": "Kampfjets der NATO haben eine Drohne abgeschossen, die in den litauischen Luftraum eingedrungen war. Der unbemannte Flugkörper war nahe der Hauptstadt Vilnius gesichtet worden. Litauens Präsident …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649038.html",
+          "published": "2026-09-15T00:45:56+00:00",
+          "summary": ""
+        },
         {
           "title": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
           "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
@@ -17,24 +35,6 @@
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-80966.html",
           "published": "2026-09-14T23:03:00+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649018.html",
-          "published": "2026-09-14T22:43:38+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12866.html",
-          "published": "2026-09-14T21:02:03+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Militärischer Abschirmdienst warnt vor zunehmender hybrider Kriegsführung und Spionage",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1649012.html",
-          "published": "2026-09-14T20:57:29+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Klimawandel: USA heben Emissionsvorschriften für Kraftwerke auf",
-          "link": "https://www.handelsblatt.com/politik/international/klimawandel-usa-heben-emissionsvorschriften-fuer-kraftwerke-auf/100254513.html",
-          "published": "2026-09-14T23:52:45+00:00",
-          "summary": "Treibhausgase gelten als Haupttreiber des menschengemachten Klimawandels. Um deren Ausstoß zu begrenzen, gibt es auch in den USA Regeln. Doch unter Trump werden diese Stück für Stück abgewickelt."
+          "title": "Verteidigung: Nato registriert steigende Zahl russischer Hybrid-Angriffe",
+          "link": "https://www.handelsblatt.com/politik/international/verteidigung-nato-registriert-steigende-zahl-russischer-hybrid-angriffe/100254525.html",
+          "published": "2026-09-15T02:00:42+00:00",
+          "summary": "Allein im vergangenen Jahr wurden mehr als 200 hybride Angriffe erfasst. Russland verfolge dabei das Ziel, die politische und praktische Unterstützung für die Ukraine zu untergraben."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Kampfjet schießt Drohne über Litauen ab",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-14T23:49:00+00:00",
-          "summary": "USA verhängen umfassende Sanktionen gegen russische VTB Bank +++ Trump: Keine weiteren Attacken auf Energieziele +++ Noch keine offizielle Reaktion auf Trumps Aussagen +++ Der Newsblog."
+          "title": "+++ USA +++: Supreme Court versetzt Trump im Streit um Briefwahl eine Niederlage",
+          "link": "https://www.handelsblatt.com/politik/international/trump-draengt-staaten-zur-abkehr-vom-internationalen-strafgerichtshof/29669594.html",
+          "published": "2026-09-15T01:55:00+00:00",
+          "summary": "Trumps Beliebtheit steigt leicht – aber Demokraten bauen Vorsprung aus +++ Trump spielt Bericht über Chinas Rolle bei Angriff auf US-Soldaten herunter +++ Der Newsblog."
         },
         {
-          "title": "Nigeria: Afrikas größte Ölraffinerie startet Rekord-Börsengang",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/nigeria-afrikas-groesste-oelraffinerie-startet-rekord-boersengang/100254509.html",
-          "published": "2026-09-14T23:17:10+00:00",
-          "summary": "Der Börsengang der nigerianischen Raffinerie könnte mit 1,6 Milliarden Dollar einen Rekord in Afrika aufstellen. Doch ihre hohe Bewertung sorgt auch für Kritik."
+          "title": "Bündnis im Alarmmodus: Nato registriert steigende Zahl russischer Hybrid-Angriffe",
+          "link": "https://www.handelsblatt.com/politik/international/buendnis-im-alarmmodus-nato-registriert-steigende-zahl-russischer-hybrid-angriffe/100254523.html",
+          "published": "2026-09-15T01:35:05+00:00",
+          "summary": "Eskaliert Russland in Richtung Krieg? Die jüngsten hybriden Angriffe Russlands sorgen in der Nato für Besorgnis. Ein neues Netzwerk soll kritische Energieinfrastruktur besser schützen."
         },
         {
-          "title": "Nato-Ostflanke: Kampfflugzeuge schießen Drohne über Litauen ab",
-          "link": "https://www.handelsblatt.com/politik/international/nato-ostflanke-kampfflugzeuge-schiessen-drohne-ueber-litauen-ab/100254507.html",
-          "published": "2026-09-14T22:30:06+00:00",
-          "summary": "Die Staaten im Baltikum fühlen sich seit Beginn des russischen Angriffskriegs gegen die Ukraine besonders bedroht. Gemeinsam mit Verbündeten will Litauen seinen Luftraum verteidigen."
+          "title": "Künstliche Intelligenz: Musk lässt Wettbewerbsklage gegen Apple fallen",
+          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-musk-laesst-wettbewerbsklage-gegen-apple-fallen/100254518.html",
+          "published": "2026-09-15T01:11:47+00:00",
+          "summary": "Elon Musk war verärgert, dass sein Chatbot Grok nicht die Download-Charts in Apples App-Store anführte. Deshalb warf er dem iPhone-Konzern unfairen Wettbewerb vor. Jetzt ist die Klage ausgeräumt."
         },
         {
-          "title": "Einzelhandel: Lidl testet autonom fahrenden Lkw zur Belieferung der Filialen",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-lidl-testet-autonom-fahrenden-lkw-zur-filial-belieferung/100253503.html",
-          "published": "2026-09-14T20:00:00+00:00",
-          "summary": "Für einen ersten Test in Deutschland hat der Discounter nach Handelsblatt-Informationen nun die Genehmigung bekommen. Bis zum breiten Einsatz gibt es aber noch einige Fragen zu klären."
+          "title": "Vor den Midterms: Streit um Briefwahl: Niederlage für Trump vor Supreme Court",
+          "link": "https://www.handelsblatt.com/politik/international/vor-den-midterms-streit-um-briefwahl-niederlage-fuer-trump-vor-supreme-court/100254519.html",
+          "published": "2026-09-15T00:37:49+00:00",
+          "summary": "Mancherorts sind die Briefwahlunterlagen vor den Midterms schon versendet, doch die Trump-Regierung versuchte weiter, neue Regeln durchzudrücken. Vor dem Obersten Gericht hat sie nun keinen Erfolg."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "GNW-News: Space42 und Viasat unterzeichnen verbindliche Vereinbarung zur Gründung von Equatys: erste gemeinsame Plattform für Weltraum- und Bodeninfrastruktu...",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-space42-und-viasat-unterzeichnen-verbindliche-vereinbarung-zur-gruendung-von-equatys-erste-gemeinsame-plattform-fuer-weltraum-und-bodeninfrastruktu-15933859",
-          "published": "2026-09-14T23:37:39+00:00",
-          "summary": "^* Finanzierungszusage: Die Unterzeichnung der verbindlichen Vereinbarung siehtEigenkapitalzusagen von Space42 und Viasat als erste Gründungspartner von Equatys in Höhe von insgesamt bis zu 1 Mrd. …"
+          "title": "Europa-Aktien im Zins- und Ölpreis-Dilemma: Darum bleibt Barclays trotzdem optimistisch",
+          "link": "https://www.finanzen.net/nachricht/aktien/sektor-check-europa-aktien-im-zins-und-oelpreis-dilemma-darum-bleibt-barclays-trotzdem-optimistisch-00-15929984",
+          "published": "2026-09-15T01:59:56+00:00",
+          "summary": "Europas Aktien liegen 2026 rund zehn Prozent im Plus Barclays sieht Europas Wachstum trotz Ölpreisschub und EZB-Zinsschritt stabil Die Bank bevorzugt weiter deutsche Aktien sowie Banken und …"
         },
         {
-          "title": "KI-ETFs boomen: Chancen und Risiken für Anleger im Überblick",
-          "link": "https://www.finanzen.net/nachricht/etf/ki-boom-ki-etfs-boomen-chancen-und-risiken-fuer-anleger-im-ueberblick-00-15922785",
-          "published": "2026-09-14T21:50:00+00:00",
-          "summary": "Anleger mit breiten Indexfonds sind über große Technologiewerte bereits stark im KI-Thema investiert •Ein Investment in thematische KI-ETFs bedeutet laut Morningstar gleich drei Wetten zugleich …"
+          "title": "NVIDIA-Aktie & Co.: Wie Anleger sich gegen starke Kursausschläge wappnen können",
+          "link": "https://www.finanzen.net/nachricht/aktien/options-strategie-nvidia-aktie-co-wie-anleger-sich-gegen-starke-kursausschlaege-wappnen-koennen-00-15930172",
+          "published": "2026-09-15T01:54:23+00:00",
+          "summary": "Nach dem Kollaps eines Hedgefonds zogen sich viele Anleger aus KI-Wetten zurück VIX notiert bei rund 15 Punkten, deutlich unter dem Schnitt von 19 Strangle-Optionen sollen unabhängig von der Richtung …"
         },
         {
-          "title": "S&P 500 vor Belastungsprobe: Trumps Kurs bringt die Fed in Bedrängnis – und bedroht die Börsenrally",
-          "link": "https://www.finanzen.net/nachricht/aktien/bewertungsalarm-s-p-500-vor-belastungsprobe-trumps-kurs-bringt-die-fed-in-bedraengnis-und-bedroht-die-boersenrally-00-15929877",
-          "published": "2026-09-14T21:20:00+00:00",
-          "summary": "CAPE-Kennzahl des S&P 500 liegt nahe Rekordhoch von 1999 US- Inflation steigt im Juli auf 3,4 Prozent, Fed-Zinssenkung wird schwerer Zehnjahresrendite ..."
+          "title": "Bitcoin bis 840.000 US-Dollar? Binance-Gründer CZ sieht Kapital aus KI-Sektor zurückfließen",
+          "link": "https://www.finanzen.net/nachricht/devisen/34-hot-money-34-bitcoin-bis-840-000-us-dollar-binance-gruender-cz-sieht-kapital-aus-ki-sektor-zurueckfliessen-00-15929583",
+          "published": "2026-09-15T01:48:19+00:00",
+          "summary": "CZ sieht spekulatives Kapital aus der KI-Branche zurück zu Bitcoin fließen Laut River könnten Portfolios künftig 2 bis 4 Prozent in Bitcoin halten Studie beziffert langfristiges BTC-Kurspotenzial auf …"
         },
         {
-          "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
-          "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
-          "published": "2026-09-14T21:18:00+00:00",
-          "summary": "Evercore sieht acht US-Blue Chips als Kandidaten für vorgezogene Verkäufe Tesla, Trade Desk und DraftKings zeigen die stärksten Gewinnrevisionen Der SpaceX-Börsengang im Juni gilt als Blaupause für …"
+          "title": "SP 500 vor Belastungsprobe: Trumps Politik und hohe Bewertung nähren Korrekturängste",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-amp-p-500-vor-belastungsprobe-trumps-politik-und-hohe-bewertung-naehren-korrekturaengste-15933932",
+          "published": "2026-09-15T01:35:23+00:00",
+          "summary": "Die Bewertung des US-Leitindex nähert sich einem historischen Extrem, während Trumps Politik die Notenbank vor ein Dilemma stellt."
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-14T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "Tesla, American Express Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
+          "link": "https://www.finanzen.net/nachricht/aktien/tesla-american-express-amp-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-15933931",
+          "published": "2026-09-15T01:32:55+00:00",
+          "summary": "Evercore ISI warnt vor einer frühen Verkaufswelle bei acht bekannten US-Blue-Chip-Aktien, ausgelöst durch die erwarteten Milliarden-Börsengänge von Anthropic und OpenAI."
         }
       ],
       "error": null
