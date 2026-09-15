@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:12:01+00:00",
+  "generatedAt": "2026-09-15T08:10:28+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Seetang-Ernte auf Hokkaido, Prinsjesdag in Den Haag, Begegnung von Mond und Venus",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10446.html",
-          "published": "2026-09-15T06:08:26+00:00",
+          "title": "Paul Ehrlich-Preis für australischen Immunforscher Goodnow",
+          "link": "https://www.tagesschau.de/wissen/preis-immunforscher-100.html",
+          "published": "2026-09-15T08:01:07+00:00",
+          "summary": "Der australische Immunologe Goodnow erhält den Paul Ehrlich- und Ludwig Darmstaedter-Preis 2027. Er zeigte, dass potenziell schädliche Immunzellen nicht zerstört, sondern als Reserve in eine Art …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html",
+          "published": "2026-09-15T07:36:33+00:00",
           "summary": ""
-        },
-        {
-          "title": "Mecklenburg-Vorpommern: Wahlkampf zwischen Euphorie und Entgeisterung",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-mecklenburg-vorpommern-104.html",
-          "published": "2026-09-15T05:53:49+00:00",
-          "summary": "Wohin steuert Mecklenburg-Vorpommern? Mit Blick auf die Umfragewerte ist der Nordosten politisch entzweit. Über Themen und Stimmungen, die diesen Wahlkampf prägen. Von Christoph Cyrulies."
-        },
-        {
-          "title": "Marktbericht: DAX-Schwäche dürfte anhalten",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
-          "published": "2026-09-15T05:52:53+00:00",
-          "summary": "Die Lage im Nahen Osten bleibt angespannt, die Energiepreise steigen - genau wie die Inflationssorgen: Der DAX dürfte heute weiter zurückfallen. Langsam gerät die Marke von 25.000 Punkten wieder ins …"
         },
         {
           "title": "US-Fernsehpreise: \"Widow's Bay\" und \"The Pitt\" räumen bei Emmys ab",
           "link": "https://www.tagesschau.de/kultur/emmy-verleihung-130.html",
-          "published": "2026-09-15T05:27:27+00:00",
+          "published": "2026-09-15T07:22:29+00:00",
           "summary": "Die Horror-Comedyserie \"Widow's Bay\" ist der große Gewinner bei den Emmys - mit 14 Auszeichnungen. Als beste Drama-Serie wurde bei der Verleihung in Los Angeles wie schon im vergangenen Jahr \"The …"
         },
         {
-          "title": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
-          "link": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html",
-          "published": "2026-09-15T05:24:12+00:00",
-          "summary": "Die EU wird ihre Strafmaßnahmen gegen rund 3.000 russische Personen und Einrichtungen vorerst nicht wie geplant um ein Jahr verlängern. Grund: Die Slowakei und Frankreich wollen offenbar einen …"
+          "title": "Wadephul wirbt für Kandidatur Deutschlands beim UN-Menschenrechtsrat",
+          "link": "https://www.tagesschau.de/ausland/europa/wadephul-bewerbung-deutschland-un-menschenrechtsrat-100.html",
+          "published": "2026-09-15T07:20:31+00:00",
+          "summary": "Außenminister Wadephul wirbt bei den Vereinten Nationen für die Kandidatur Deutschlands im UN-Menschenrechtsrat. Es ist der zweite Versuch in kurzer Zeit, eine größere Rolle in der UN zu spielen."
+        },
+        {
+          "title": "NATO-Kampfjets schießen Drohne über Litauen ab",
+          "link": "https://www.tagesschau.de/video/video-1649150.html",
+          "published": "2026-09-15T07:08:27+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Anleihemarkt: Turbulenzen halten an: Rendite des zehnjährigen US-Bonds hält sich über 5,0 Prozent",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen-rendite-des-zehnjaehrigen-us-bonds-haelt-sich-ueber-50-prozent/100254455.html",
-          "published": "2026-09-15T05:57:00+00:00",
-          "summary": "Es ist erst das zweite Mal seit der Finanzkrise, dass die Rendite der Benchmark-Papiere diese Marke überschreitet. Muss sich der Markt auf ein neues „Anleiheregime“ einstellen?"
+          "title": "Deep Read: „Too big to fail“? Nvidia wird zum stillen Risiko für das globale Finanzsystem",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/maerkte-nvidia-wird-zum-stillen-risiko-fuer-das-globale-finanzsystem/100252704.html",
+          "published": "2026-09-15T07:55:00+00:00",
+          "summary": "Wie die Spinne im Netz ist Nvidia mit der Tech- und der Finanzbranche verwoben. Damit wächst das Risiko: Was, wenn nicht nur Banken systemrelevant sind, sondern auch ein Chiphersteller?"
         },
         {
-          "title": "Benzinpreise: IfW warnt vor staatlicher Entlastung bei Spritpreisen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/benzinpreise-ifw-warnt-vor-staatlicher-entlastung-bei-spritpreisen/100254584.html",
-          "published": "2026-09-15T05:56:09+00:00",
-          "summary": "Staatliche Hilfen bei Spritpreisen sind kostspielig und könnten wichtige Ausgaben gefährden, warnen die IfW‑Wissenschaftler. Sie schlagen gezielte Hilfe für Betroffene vor."
+          "title": "Märkte Asien: Ölpreisanstieg und Nahost-Spannungen – Asien-Börsen schließen mit Verlusten",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-oelpreisanstieg-und-nahost-spannungen-asien-boersen-schliessen-mit-verlusten/100254551.html",
+          "published": "2026-09-15T07:54:08+00:00",
+          "summary": "Am Dienstag haben die Anleger in Asien mit Spannung die Notenbankentscheidungen in Japan und den USA erwartet. Zum Börsenschluss haben die wichtigsten Indizes verloren."
         },
         {
-          "title": "Gehaltsreport 2026: 1,3 Millionen Gehaltsdaten im Vergleich: Gehören Sie zu den Besserverdienern in Deutschland?",
-          "link": "https://www.handelsblatt.com/karriere/geld-das-sind-deutschlands-bestbezahlte-berufe-2026-22/100179922.html",
-          "published": "2026-09-15T05:42:00+00:00",
-          "summary": "Das Gehalt gehört nach wie vor zu den Tabuthemen in Deutschland. Finden Sie heraus, wie gut Sie im Vergleich in einzelnen Berufen, Branchen und Bundesländern verdienen."
+          "title": "Dax aktuell: Dax startet mit leichten Verlusten – Chemie-Aktien im Minus",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-mit-verlusten-chemie-aktien-im-minus/100254567.html",
+          "published": "2026-09-15T07:38:01+00:00",
+          "summary": "Nach dem schwachen Wochenauftakt gibt der Dax weiter nach. Neben KI-Sorgen und dem hohen Ölpreis setzen steigende Anleiherenditen die Aktienmärkte unter Druck."
         },
         {
-          "title": "Balea: Von der belächelten Eigenmarke zur Benchmark für die Branche",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/balea-so-schaffte-es-die-belaechelte-eigenmarke-zur-benchmark-der-branche/100247806.html",
-          "published": "2026-09-15T05:41:00+00:00",
-          "summary": "Einst als Billigprodukt verschrien, wächst Balea schneller als viele Herstellermarken. Wie hat die Drogeriekette dm das geschafft? Die Erfolgsfaktoren – und die Gefahren."
+          "title": "Passives Einkommen: Dieses ETF-Portfolio schüttet jeden Monat Geld aus",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-mit-diesen-fonds-erhalten-anleger-monatliche-ausschuettungen/100226123.html",
+          "published": "2026-09-15T07:34:00+00:00",
+          "summary": "Mit nur drei Fonds können Anleger sich eine regelmäßige monatliche Ausschüttung sichern – ohne auf die Chance zusätzlicher Kursgewinne verzichten zu müssen."
         },
         {
-          "title": "E-Lkw: BYD will demnächst auch in Europa produzieren",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/elektromobilitaet-byd-und-tesla-bringen-elektro-lkw-nach-europa/100254414.html",
-          "published": "2026-09-15T05:40:05+00:00",
-          "summary": "Ab dem nächsten Jahr soll der Elektro-Lkw von BYD auch in Europa erhältlich sein. Dabei soll es nicht bleiben. Auch Tesla hat seinen Semi für Europa umgebaut."
+          "title": "Vermögen: So bleiben Familienheim und Gartengrundstück von der Erbschaftsteuer verschont",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-familienheim-geerbt-so-bleibt-das-gartengrundstueck-steuerfrei/100247122.html",
+          "published": "2026-09-15T07:28:00+00:00",
+          "summary": "Wer ins geerbte Familienheim einzieht, zahlt keine Erbschaftsteuer. Diese Begünstigung legt der BFH großzügig aus und bezieht auch einen weitläufigen Garten mit ein – unter einer Bedingung."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Centiel-Aktie im Blick: Börsenneuling macht mit Ausbau vorwärts und übernimmt Produktionsanlage im Tessin",
-          "link": "https://www.finanzen.net/nachricht/aktien/centiel-aktie-im-blick-boersenneuling-macht-mit-ausbau-vorwaerts-und-uebernimmt-produktionsanlage-im-tessin-15934212",
-          "published": "2026-09-15T06:06:00+00:00",
-          "summary": "Der Börsenneuling Centiel hatte Mitte August mit den Halbjahreszahlen angekündigt, die Produktionskapazitäten für das erwartete starke Wachstum auszuweiten."
+          "title": "GNW-News: Payhawk transformiert die Arbeit von Finanzteams mit neuen agilen Playbooks",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-payhawk-transformiert-die-arbeit-von-finanzteams-mit-neuen-agilen-playbooks-15934485",
+          "published": "2026-09-15T08:03:38+00:00",
+          "summary": "^LONDON, Sept. 15, 2026 (GLOBE NEWSWIRE) -- Payhawk, die AI-nativeAusgabenmanagement-Plattform, hat heute die Fall Edition 2026 - prompt your finance - veröffentlicht, die es Finanzteams ermöglicht …"
         },
         {
-          "title": "Volkswagen-Aktie: Sparkurs könnte Personalgewinnung erschweren",
-          "link": "https://www.finanzen.net/nachricht/aktien/expertenwarnung-volkswagen-aktie-sparkurs-koennte-personalgewinnung-erschweren-15934175",
-          "published": "2026-09-15T06:06:00+00:00",
-          "summary": "Nach der Einigung auf einen verschärften Sparkurs bei Volkswagen (VW) vz hat ein Wirtschaftspsychologe vor Auswirkungen auf die Personalgewinnung gewarnt. \"Zu erwarten ist nicht unbedingt, dass die …"
+          "title": "Europa-Aktien im Zins- und Ölpreis-Dilemma: Darum bleibt Barclays trotzdem optimistisch",
+          "link": "https://www.finanzen.net/nachricht/aktien/sektor-check-europa-aktien-im-zins-und-oelpreis-dilemma-darum-bleibt-barclays-trotzdem-optimistisch-00-15929984",
+          "published": "2026-09-15T08:02:00+00:00",
+          "summary": "Europas Aktien liegen 2026 rund zehn Prozent im Plus Barclays sieht Europas Wachstum trotz Ölpreisschub und EZB-Zinsschritt stabil Die Bank bevorzugt weiter deutsche Aktien sowie Banken und …"
         },
         {
-          "title": "Altersvorsorgedepot: Nur wieder Abzocke, oder echte Alternative zur Riester-Rente?",
-          "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-15934214",
-          "published": "2026-09-15T06:05:00+00:00",
-          "summary": ""
+          "title": "CrowdStrike – Warum ich den Angst-Trade langfristig als „Rise of Software\" spiele!",
+          "link": "https://www.finanzen.net/nachricht/aktien/CrowdStrike-Warum-ich-den-Angst-Trade-langfristig-als-Rise-of-Software-spiele-15934489",
+          "published": "2026-09-15T08:01:54+00:00",
+          "summary": "Was in der Woche des 14."
         },
         {
-          "title": "GNW-News: GEVORKYAN im H1 2026: Umsatz +18 %, Nettogewinn +34 %",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-gevorkyan-im-h1-2026-umsatz-18-nettogewinn-34-15934210",
-          "published": "2026-09-15T06:04:39+00:00",
-          "summary": "^Wichtigste Ergebnisse von GEVORKYAN im H1 2026:* Der Umsatz stieg im Jahresvergleich um 18 % auf fast 50 Mio. EUR * Das EBITDA überstieg 15 Mio. EUR, was einem Wachstum von 9 % gegenüber demVorjahr …"
+          "title": "Bitcoin bis 840.000 US-Dollar? Binance-Gründer CZ sieht Kapital aus KI-Sektor zurückfließen",
+          "link": "https://www.finanzen.net/nachricht/devisen/34-hot-money-34-bitcoin-bis-840-000-us-dollar-binance-gruender-cz-sieht-kapital-aus-ki-sektor-zurueckfliessen-00-15929583",
+          "published": "2026-09-15T08:01:00+00:00",
+          "summary": "CZ sieht spekulatives Kapital aus der KI-Branche zurück zu Bitcoin fließen Laut River könnten Portfolios künftig 2 bis 4 Prozent in Bitcoin halten Studie beziffert langfristiges BTC-Kurspotenzial auf …"
         },
         {
-          "title": "US-Anleihen: Rendite auf zehnjährige Staatsanleihen steigt auf Hoch seit 2007",
-          "link": "https://www.finanzen.net/nachricht/anleihen/us-anleihen-rendite-auf-zehnjaehrige-staatsanleihen-steigt-auf-hoch-seit-2007-15934209",
-          "published": "2026-09-15T06:04:39+00:00",
-          "summary": "NEW YORK (dpa-AFX) - Der Ausverkauf bei Staatsanleihen hält an. In den Vereinigten Staaten haben die Staatspapiere am Dienstag ihre jüngste Verlustserie fortgesetzt. Im Gegenzug kletterte die Rendite …"
+          "title": "Apple-Aktie tiefer: Musk lässt Wettbewerbsklage gegen iKonzern fallen",
+          "link": "https://www.finanzen.net/nachricht/aktien/wettbewerb-apple-aktie-tiefer-musk-laesst-wettbewerbsklage-gegen-ikonzern-fallen-15933984",
+          "published": "2026-09-15T08:01:00+00:00",
+          "summary": "Er hatte den iPhone-Konzern sowie den ChatGPT-Erfinder OpenAI vor gut einem Jahr vor Gericht gezerrt. Musks Behauptung damals: Apple behindere andere ..."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Unternehmen: Viele junge Deutsche wollen Firmen gründen – wenige tun es",
-          "link": "https://www.wiwo.de/unternehmen/mittelstand/unternehmen-viele-junge-deutsche-wollen-firmen-gruenden-wenige-tun-es/100254532.html",
-          "published": "2026-09-15T05:51:00+00:00",
-          "summary": "40 Prozent der jungen Menschen interessieren sich für die Selbstständigkeit. Trotzdem entscheiden sich die meisten für ein Angestelltenverhältnis."
+          "title": "Einzelhandel: KI-Analyse prognostiziert überraschende Gewinner im Weihnachtsgeschäft",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/einzelhandel-ki-analyse-zeigt-ueberraschende-gewinner-im-weihnachtsgeschaeft/100253587.html",
+          "published": "2026-09-15T08:00:46+00:00",
+          "summary": "Zum Jahresende hoffen stationäre Händler und Onlineshops auf steigende Umsätze. Exklusive Daten zeigen, wie sich das Geschäft entwickeln könnte."
         },
         {
-          "title": "Glyphosatstreit: Bayer-Tochter fordert Genehmigung des „Roundup“-Vergleichs",
-          "link": "https://www.wiwo.de/unternehmen/industrie/glyphosatstreit-bayer-tochter-fordert-genehmigung-des-roundup-vergleichs/100254574.html",
-          "published": "2026-09-15T05:34:56+00:00",
-          "summary": "Bayer hat sich mit den Klägern auf einen Vergleich geeinigt. Dieser muss nun von einem Gericht bestätigt werden. Die Anhörung begann diese Woche."
+          "title": "Aktienanalyse: Diese europäischen Öl- und Gas-Favoriten bieten 40 Prozent Preisvorteil",
+          "link": "https://www.wiwo.de/finanzen/boerse/aktienanalyse-diese-europaeischen-oel-und-gas-favoriten-bieten-40-prozent-preisvorteil/100254456.html",
+          "published": "2026-09-15T07:42:38+00:00",
+          "summary": "Das Hin und Her im Iran-Krieg macht Ölaktien zu einer heißen Spekulation. Dabei gibt es Einzelwerte, die auch dann Zugewinne versprechen, wenn Öl einmal wieder billiger werden sollte."
         },
         {
-          "title": "Autobranche: Experte warnt wegen VW-Krise vor Folgen für Personalgewinnung",
-          "link": "https://www.wiwo.de/unternehmen/auto/autobranche-vw-krise-experte-warnt-vor-folgen-fuer-personalgewinnung/100254581.html",
-          "published": "2026-09-15T05:34:15+00:00",
-          "summary": "Volkswagen plant einen großen Umbau. Viele Angestellte fürchten, um ihren Job. Wird VW als Arbeitgeber dadurch unbeliebter?"
+          "title": "Ifo-Institut: Stimmung bei Einzelhändlern bleibt verhalten",
+          "link": "https://www.wiwo.de/politik/konjunktur/ifo-institut-stimmung-bei-deutschen-einzelhaendlern-bleibt-verhalten/100254591.html",
+          "published": "2026-09-15T07:03:54+00:00",
+          "summary": "Gestiegene Preise belasten den Einzelhandel. Das Geschäftsklima bessert sich auch in diesem Monat nicht."
         },
         {
-          "title": "Verbraucherpreise: Steigende Energiepreise laut Studie größtes Inflationsrisiko",
-          "link": "https://www.wiwo.de/unternehmen/energie/verbraucherpreise-steigende-energiepreise-laut-studie-groesstes-inflationsrisiko/100254572.html",
-          "published": "2026-09-15T05:10:53+00:00",
-          "summary": "Immer teurere fossile Energieträger erzeugen höhere Preise für Verbraucher. Laut Wissenschaftlern können mehr Windräder und Solarzellen helfen."
+          "title": "Nato-Ostflanke: Pistorius gibt nun auch Versetzungsbefehl nach Litauen",
+          "link": "https://www.wiwo.de/politik/deutschland/nato-ostflanke-pistorius-gibt-nun-auch-versetzungsbefehl-nach-litauen/100254444.html",
+          "published": "2026-09-15T07:02:00+00:00",
+          "summary": "Der deutschen Panzerbrigade an der litauischen Nato-Ostflanke fehlen noch hunderte Spezialisten. Freiwilligkeit allein reicht nicht. Nun wird die Versetzung ins Baltikum auch angeordnet."
         },
         {
-          "title": "Plümo-Baum | Die Höhle der Löwen: „Für einen strategischen Investor ist die Tür niemals zu“",
-          "link": "https://www.wiwo.de/erfolg/gruender/hoehle-der-loewen-was-wurde-aus-pluemo-baum-nach-dem-tv-aus/100254395.html",
-          "published": "2026-09-15T05:00:00+00:00",
-          "summary": "Das Gründerduo von Plümo-Baum will die Schlafhygiene verbessern. Die Löwen urteilten hart über Konzept und Produkte. Wie ging es nach der Aufzeichnung weiter?"
+          "title": "Wirtschaft von oben: Saudi-Arabien versucht hier eilig seinen Ölexport zu retten – und so den Spritpreis",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/oelpreis-hier-versucht-saudi-arabien-gerade-im-eiltempo-den-spritpreis-zu-retten/100254446.html",
+          "published": "2026-09-15T06:55:00+00:00",
+          "summary": "Arbeiter verlegen neben der zerstörten Pumpstation 11 der saudischen Ost-West-Pipeline eine provisorische Röhre. Die Zeit drängt, sonst kann das Land bald nicht mehr exportieren."
         }
       ],
       "error": null
@@ -241,6 +241,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Einspeisevergütung vor dem Aus: Lohnt sich eine Solaranlage ab 2027 noch?",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/einspeiseverguetung-vor-dem-aus-lohnt-sich-eine-solaranlage-ab-2027-noch/",
+          "published": "2026-09-15T08:00:00+00:00",
+          "summary": "Für neue PV-Anlagen soll die feste Einspeisevergütung schrittweise verschwinden. Schon 2027 ändern sich die Regeln. Warum Speicher und Eigenverbrauch wichtiger werden – und ob sich ein Solardach noch …"
+        },
+        {
+          "title": "Der „ICE der DDR“ fährt wieder",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/der-ice-der-ddr-faehrt-wieder/",
+          "published": "2026-09-15T07:30:51+00:00",
+          "summary": "Zwei 736-kW-Dieselmotoren, hydraulische Kraftübertragung und bis zu 160 km/h: Der VT 18.16 war das technische Aushängeschild der Deutschen Reichsbahn. Nach jahrelanger Restaurierung und einem …"
+        },
         {
           "title": "TERRY XXFIT BOA® von ELTEN: Passform trifft Dämpfung",
           "link": "https://www.ingenieur.de/advertorial/terry-xxfit-boar-von-elten-passform-trifft-daempfung/",
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/bosch-sieht-milliardenchance-im-lkw-der-truck-wird-zum-computer/",
           "published": "2026-09-14T11:30:00+00:00",
           "summary": "Bosch will seinen Umsatz mit Technik für schwere Nutzfahrzeuge bis Mitte der 2030er-Jahre auf mehr als 8 Mrd. € verdoppeln. Wachstum sollen E-Antriebe, Software und automatisiertes Fahren bringen. …"
-        },
-        {
-          "title": "Hohe Einkommen, trotzdem wechselwillig: Was Fachkräfte in Bau und Energie erwarten",
-          "link": "https://www.ingenieur.de/karriere/gehalt/hohe-einkommen-trotzdem-wechselwillig-was-fachkraefte-in-bau-und-energie-erwarten/",
-          "published": "2026-09-14T11:00:00+00:00",
-          "summary": "Die Energiewirtschaft zahlt Fach- und Führungskräften deutlich mehr als das Baugewerbe. Wechselwillig sind dennoch viele Beschäftigte – besonders Projektleitende."
-        },
-        {
-          "title": "Wer hat an der Uhr gedreht? Neun Fakten zur Zeitumstellung",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/wer-hat-an-der-uhr-gedreht-neun-fakten-zur-zeitumstellung/",
-          "published": "2026-09-14T07:28:45+00:00",
-          "summary": "Die Blätter fallen, im Supermarkt gibt es Lebkuchen: Untrügliche Zeichen dafür, dass die Winterzeit bevorsteht und wir die Uhr umstellen müssen. Aber in welche Richtung muss der Zeiger noch mal …"
         }
       ],
       "error": null
