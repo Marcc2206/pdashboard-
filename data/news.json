@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:09:14+00:00",
+  "generatedAt": "2026-09-16T12:11:59+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
-          "link": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
-          "published": "2026-09-16T10:02:53+00:00",
-          "summary": "Wie kann sich Europa besser gegen Bedrohungen wappnen? Mit dieser Frage befasste sich die EU-Kommissionspräsidentin in ihrer diesjährigen Rede zur Lage der Union. Ihre Antworten: ein neuer …"
-        },
-        {
-          "title": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
-          "published": "2026-09-16T09:45:01+00:00",
-          "summary": "Die Bundesregierung will entschlossener gegen Terror, Propaganda und Gewalt vorgehen. Gefährder sollen künftig stärker überwacht, Messerangriffe härter bestraft werden. Justizministerin Hubig sprach …"
-        },
-        {
-          "title": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
-          "published": "2026-09-16T09:42:18+00:00",
-          "summary": "Kanzler Merz steht massiv unter Druck. Kurz vor den Landtagswahlen in Mecklenburg-Vorpommern und Berlin melden sich nun alle acht CDU-Ministerpräsidenten in der Personaldebatte zu Wort - und stellen …"
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-16T09:38:43+00:00",
-          "summary": "Am Mittwoch gibt es einen Wechsel aus Sonne und teilweise dichten Wolken mit Schauern und Gewittern. Im Südosten sind am Nachmittag unwetterartige Gewitter möglich. Von Rheinland-Pfalz bis zur Ostsee …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649836.html",
-          "published": "2026-09-16T09:05:32+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80928.html",
+          "published": "2026-09-16T12:11:00+00:00",
           "summary": ""
+        },
+        {
+          "title": "Matthias Deiß, ARD Berlin, mit Details zur Rückendeckung von Kanzler Merz durch CDU-Spitze",
+          "link": "https://www.tagesschau.de/video/video-1649940.html",
+          "published": "2026-09-16T12:06:15+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Regierung legt Aktionsplan gegen Sozialbetrug vor",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-plan-sozialmissbrauch-100.html",
+          "published": "2026-09-16T12:01:27+00:00",
+          "summary": "Die Bundesregierung verschärft den Kampf gegen Sozialleistungsmissbrauch. Ein neuer Aktionsplan setzt auf mehr Datenabgleich, mehr Kontrollen und strengere Regeln. Auch KI soll helfen. Von J.-P. …"
+        },
+        {
+          "title": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
+          "link": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
+          "published": "2026-09-16T11:48:26+00:00",
+          "summary": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaci wegen Kriegsverbrechen zu 25 Jahren Haft verurteilt. In Pristina löste das Urteil Proteste aus. Vielen gilt Thaci als …"
+        },
+        {
+          "title": "Kreditkarten-Schulden: Der Alltag der Amerikaner läuft auf Pump",
+          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-kreditkarten-100.html",
+          "published": "2026-09-16T11:36:53+00:00",
+          "summary": "Nicht nur die Staatsschulden der USA sind enorm - auch viele Verbraucher sind angesichts hoher Lebenshaltungskosten im Minus. Viele jüngere Amerikaner haben hohe offene Kreditkarten-Rechnungen. Von …"
         }
       ],
       "error": null
@@ -45,39 +45,8 @@
       "name": "Handelsblatt",
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
-      "items": [
-        {
-          "title": "Mobilität: Strom statt Benzin – wie viel spart ein E-Auto beim Tanken ein?",
-          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mobilitaet-strom-statt-benzin-wie-viel-spart-ein-e-auto-beim-tanken-ein/100251862.html",
-          "published": "2026-09-16T09:56:34+00:00",
-          "summary": "Durch den Iran-Krieg sind die Spritpreise nach wie vor auf Höchstniveau. Wie viel lässt sich durch Laden statt Tanken einsparen? Der Handelsblatt-Rechner zeigt es."
-        },
-        {
-          "title": "Ransomware: „Der schlimmste Fehler ist ein CEO, der fragt: Wie zahle ich?“",
-          "link": "https://www.handelsblatt.com/technik/it-internet/cyberattacke-die-firmenfuehrung-muss-unter-extremem-stress-funktionieren/100229829.html",
-          "published": "2026-09-16T09:49:00+00:00",
-          "summary": "Cyber-Attacken legen ganze Produktionen lahm und treffen zunehmend auch den Mittelstand. Zwei Experten erklären, wie Firmen mit Erpressern verhandeln sollten – und sich besser schützen können."
-        },
-        {
-          "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
-          "link": "https://www.handelsblatt.com/karriere/ruestung-welche-managerprofile-firmen-wie-rheinmetall-oder-hensoldt-suchen/100211178.html",
-          "published": "2026-09-16T09:48:00+00:00",
-          "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts."
-        },
-        {
-          "title": "Kritik am Kanzler: CDU-Ministerpräsidenten stellen sich hinter Merz",
-          "link": "https://www.handelsblatt.com/politik/deutschland/kritik-am-kanzler-cdu-ministerpraesidenten-stellen-sich-hinter-merz/100254969.html",
-          "published": "2026-09-16T09:46:11+00:00",
-          "summary": "Bundeskanzler Merz steckt in der Krise. Jetzt melden sich die CDU-Ministerpräsidenten zu Wort, zeigen Unterstützung und sprechen sich gegen Personaldebatten aus."
-        },
-        {
-          "title": "Personalwechsel: Hugo Boss hat einen neuen Aufsichtsratschef",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/personalwechsel-hugo-boss-hat-einen-neuen-aufsichtsratschef/100254966.html",
-          "published": "2026-09-16T09:39:59+00:00",
-          "summary": "Die britische Frasers Group ist Großaktionärin bei Hugo Boss und will den Modekonzern übernehmen. Nun stellt sie nach einem Machtkampf auch den neuen Aufsichtsratschef."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "ntv-wirtschaft",
@@ -85,6 +54,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Fed vor riskanter Entscheidung: Warsh und Trump steuern auf Kollision zu",
+          "link": "https://www.n-tv.de/wirtschaft/Warsh-und-Trump-steuern-auf-Kollision-zu-id31306805.html",
+          "published": "2026-09-16T11:41:22+00:00",
+          "summary": "Kevin Warsh steht vor seiner bislang heikelsten Entscheidung als Fed-Chef. Die Inflation spricht für höhere Zinsen, Donald Trump verlangt niedrigere. Wie der US-Präsident auf Widerstand aus der …"
+        },
         {
           "title": "Reiche will nachfüllen: So leer sind die deutschen Gasspeicher",
           "link": "https://www.n-tv.de/wirtschaft/So-leer-sind-die-deutschen-Gasspeicher-id31311804.html",
@@ -108,12 +83,6 @@
           "link": "https://www.n-tv.de/wirtschaft/US-Anleger-stehen-weiter-unter-Oelpreisschock-id31310227.html",
           "published": "2026-09-15T21:32:13+00:00",
           "summary": "Wie das Kaninchen vor der Schlange blicken die US-Anleger auf die Fed. Die Notenbank wird morgen ihren Zinsentscheid verkünden - aller Voraussicht nach steht die erste Erhöhung seit drei Jahren an. …"
-        },
-        {
-          "title": "Problematische Instrumente?: Kein Spritpreisdeckel, keine Übergewinnsteuer: Reiche lehnt SPD-Ideen ab",
-          "link": "https://www.n-tv.de/wirtschaft/Kein-Spritpreisdeckel-keine-Uebergewinnsteuer-Reiche-lehnt-SPD-Ideen-ab-id31310050.html",
-          "published": "2026-09-15T20:07:05+00:00",
-          "summary": "Bundeskanzler Merz will Autofahrer entlasten, Vorschläge des Koalitionspartners SPD kommen in der CDU jedoch nicht gut an. Damit bleibt offen, wie genau die Unterstützung aussehen soll."
         }
       ],
       "error": null
@@ -125,34 +94,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Heidelberg Materials schließt Zementwerk im nordfranzösischen Ranville",
-          "link": "https://www.finanzen.net/nachricht/aktien/heidelberg-materials-schliesst-zementwerk-im-nordfranzoesischen-ranville-15936922",
-          "published": "2026-09-16T10:01:42+00:00",
-          "summary": "DOW JONES--Heidelberg Materials plant angesichts der schwachen Baunachfrage in Frankreich die Schließung des Zementwerks Ranville in der Normandie. Der Schritt sei Teil der laufenden …"
+          "title": "Vor Anthropic-IPO: Was die Sicherheitsbedenken für den Börsengang und KI-Aktien bedeuten",
+          "link": "https://www.finanzen.net/nachricht/aktien/sicherheitsdebatte-vor-anthropic-ipo-was-die-sicherheitsbedenken-fuer-den-boersengang-und-ki-aktien-bedeuten-00-15932798",
+          "published": "2026-09-16T12:04:00+00:00",
+          "summary": "Anthropic-Forscher Jacob Coxon kündigt und warnt vor gefährlichem KI-Tempo Alignmentforscher Evan Hubinger sieht ein KI-Risiko von über 10 Prozent Debatte trifft Anthropic mitten in Börsenplänen"
         },
         {
-          "title": "Ärztepräsident für mehr Steueranreize für gesunde Ernährung",
-          "link": "https://www.finanzen.net/nachricht/aktien/aerztepraesident-fuer-mehr-steueranreize-fuer-gesunde-ernaehrung-15936918",
-          "published": "2026-09-16T09:59:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Ärztepräsident Klaus Reinhardt befürwortet neben der geplanten Zuckersteuer auf Getränke wie Colas und Limonaden weitere finanzielle Anreize für eine gesündere Ernährung. \"Wir …"
+          "title": "Managers’ Transactions bei ASTA Energy Solutions: Führungskraft kauft zu",
+          "link": "https://www.finanzen.net/nachricht/aktien/managers-transactions-bei-asta-energy-solutions-fuehrungskraft-kauft-zu-15937089",
+          "published": "2026-09-16T12:01:12+00:00",
+          "summary": "Bei ASTA Energy Solutions kam es am 10.09.2026 zu einem Eigengeschäft. Am 15.09.2026 wurde das Eigengeschäft offiziell gemacht. Linden, Johannes, Aufsichtsrat, kaufte am 10.09.2026 ASTA Energy …"
         },
         {
-          "title": "Euroraum-Arbeitskosten im 2. Quartal um 3,1% über Vorjahr",
-          "link": "https://www.finanzen.net/nachricht/aktien/euroraum-arbeitskosten-im-2-quartal-um-3-1-ueber-vorjahr-15936914",
-          "published": "2026-09-16T09:58:41+00:00",
-          "summary": "DOW JONES--Das Wachstum der Arbeitskosten im Euroraum hat sich im zweiten Quartal 2026 etwas verlangsamt. Wie Eurostat mitteilte, lagen die Arbeitskosten um 3,1 Prozent über dem Niveau des …"
+          "title": "Um 18 Uhr live mit den TradingBrothers: 11 Qualitäts-Aktien für 12 Monate - das Prinzip hinter dem OSD",
+          "link": "https://www.finanzen.net/nachricht/trading/seit-10-jahren-bewaehrt-um-18-uhr-live-mit-den-tradingbrothers-11-qualitaets-aktien-fuer-12-monate-das-prinzip-hinter-dem-osd-15922658",
+          "published": "2026-09-16T12:00:00+00:00",
+          "summary": "Was macht eine Trading -Strategie über Jahre hinweg erfolgreich – und warum ist gerade die aktuelle Marktphase so spannend dafür? Im"
         },
         {
-          "title": "BayWa: Sanierungsvereinbarung soll noch dieses Jahr stehen",
-          "link": "https://www.finanzen.net/nachricht/aktien/baywa-sanierungsvereinbarung-soll-noch-dieses-jahr-stehen-15936913",
-          "published": "2026-09-16T09:52:04+00:00",
-          "summary": "Die notwendigen Anpassungen an der bisherigen Sanierungsvereinbarung der BayWa können offensichtlich bald in eine neue Vereinbarung gegossen werden. Laut Unternehmensangaben haben 267 von 268 …"
+          "title": "Hot Stocks heute: Öl, Fed, großer Verfall: Kommt jetzt Bewegung in den DAX?",
+          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-oel-fed-grosser-verfall-kommt-jetzt-bewegung-in-den-dax-15937062",
+          "published": "2026-09-16T11:59:00+00:00",
+          "summary": "Dazu: Die US-Notenbank und die Zinsentscheidung als möglicher Kurstreiber, der große Verfall an den Terminbörsen am Freitag. Außerdem im Fokus: der stark gestiegene"
         },
         {
-          "title": "Flughafen Zürich-Aktie tiefer: Zürcher Kantonsräte wollen Antworten zu Nachtflügen",
-          "link": "https://www.finanzen.net/nachricht/aktien/flughafen-zuerich-aktie-tiefer-zuercher-kantonsraete-wollen-antworten-zu-nachtfluegen-15936911",
-          "published": "2026-09-16T09:52:00+00:00",
-          "summary": "Der Streit um Spätstarts und die Verspätungsregel am Flughafen Zürich beschäftigt die Kantonspolitik."
+          "title": "ROUNDUP: Von der Leyen plant Social-Media-Verbot für Kinder unter 13",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-von-der-leyen-plant-social-media-verbot-fuer-kinder-unter-13-15937080",
+          "published": "2026-09-16T11:56:38+00:00",
+          "summary": "STRASSBURG (dpa-AFX) - Kinder und Jugendliche unter 13 Jahren sollen nach dem Willen von EU-Kommissionspräsidentin Ursula von der Leyen künftig in der EU von sozialen Medien wie TikTok, Snapchat ( …"
         }
       ],
       "error": null
@@ -163,6 +132,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Warum der Dollar trotz höherer US-Zinsen schwach bleibt",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/dollar-trump-fed-zinserhoehung-100.html",
+          "published": "2026-09-16T11:35:55+00:00",
+          "summary": "Die US-Notenbank steht vor der ersten Zinserhöhung seit 2023. Doch der Dollar profitiert kaum. Hohe öffentliche Schulden und der Konflikt zwischen Trump und der Fed belasten das Vertrauen in die …"
+        },
         {
           "title": "Marktbericht: DAX startet mit Gewinnen vor US-Zinsentscheid",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
@@ -186,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
           "published": "2026-09-10T13:44:42+00:00",
           "summary": "Die Teuerungsrate in der Eurozone ist zuletzt über die Drei-Prozent-Marke geklettert. Um die Inflation abzuschwächen, hat die Europäische Zentralbank nun erneut den Leitzins angehoben."
-        },
-        {
-          "title": "Daimler Truck investiert in großem Stil in Wasserstoff-Technologie",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-daimler-truck-100.html",
-          "published": "2026-09-10T12:35:48+00:00",
-          "summary": "Daimler Truck investiert mehrere Hundert Millionen Euro in Wasserstoff-Technologie für Lkw. Allerdings fährt der DAX-Konzern zweigleisig - auch die E-Technologie bleibt eine Option. Insgesamt soll …"
         }
       ],
       "error": null
@@ -201,39 +170,8 @@
       "name": "Wirtschaftswoche",
       "site": "https://www.wiwo.de",
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
-      "items": [
-        {
-          "title": "EU: Kanadas langer Weg nach Europa",
-          "link": "https://www.wiwo.de/politik/europa/eu-kanadas-langer-weg-nach-europa/100254639.html",
-          "published": "2026-09-16T09:58:27+00:00",
-          "summary": "Kanada könnte assoziiertes EU-Mitglied werden. Wie Ursula von der Leyen und Mark Carney die Annäherung planen, welche Hürden bestehen und was das für die Wirtschaft bedeutet."
-        },
-        {
-          "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Sitz nach Deutschland",
-          "link": "https://www.wiwo.de/unternehmen/it/langdock-ki-start-up-verlegt-sitz-nach-deutschland/100254972.html",
-          "published": "2026-09-16T09:50:10+00:00",
-          "summary": "Langdock kehrt mit seinem Hauptsitz aus den USA nach Deutschland zurück und plant Investitionen in ein eigenes Rechenzentrum für mehr digitale Souveränität."
-        },
-        {
-          "title": "Europäische Union: Von der Leyen bietet Kanada „assoziierte Mitgliedschaft“ in der EU an",
-          "link": "https://www.wiwo.de/politik/ausland/europaeische-union-von-der-leyen-bietet-kanada-assoziierte-mitgliedschaft-in-der-eu-an/100254976.html",
-          "published": "2026-09-16T09:48:41+00:00",
-          "summary": "Wie eng kann die Partnerschaft zwischen der EU und Kanada werden? EU-Kommissionspräsidentin Ursula von der Leyen macht jetzt einen Vorschlag, den es schon für die Ukraine gibt."
-        },
-        {
-          "title": "Kanzler in der Krise: CDU-Ministerpräsidenten unterstützen Friedrich Merz",
-          "link": "https://www.wiwo.de/politik/deutschland/debatte-um-kanzlerwechsel-cdu-ministerpraesidenten-stuetzen-friedrich-merz/100254952.html",
-          "published": "2026-09-16T09:44:00+00:00",
-          "summary": "Inmitten von Spekulationen über einen Kanzlerwechsel stellen sich die acht CDU-Ministerpräsidenten hinter Friedrich Merz und fordern politische Stabilität."
-        },
-        {
-          "title": "Elektro-Lkw: So plant China bei den Trucks den Angriff auf Europa",
-          "link": "https://www.wiwo.de/unternehmen/auto/elektro-lkw-aus-china-wie-byd-und-foton-europas-truck-markt-aufmischen/100254640.html",
-          "published": "2026-09-16T09:32:00+00:00",
-          "summary": "BYD will in Europa mit dem Preis und einer eigenen Fertigung in Ungarn punkten. Es ist zwar der größte, aber nicht der einzige chinesische Angreifer."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "ingenieur-de",
@@ -241,6 +179,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Atomkanone aus Helium: Forscher bauen Teilchenstrahl, der Einstein auf die Probe stellt",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/atomkanone-aus-helium-forscher-bauen-teilchenstrahl-der-einstein-auf-die-probe-stellt/",
+          "published": "2026-09-16T12:00:00+00:00",
+          "summary": "Fallen Teilchen der zweiten Materiegeneration genauso wie Hammer und Feder? Bisher fehlte der Strahl, um das zu messen. ETH-Physiker haben ihn jetzt entwickelt."
+        },
+        {
+          "title": "Weniger Auto, mehr Chips und Geschosse: Wie sich die Metallbearbeitung neu erfindet",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/automation/weniger-auto-mehr-chips-und-geschosse-wie-sich-die-metallbearbeitung-neu-erfindet/",
+          "published": "2026-09-16T10:30:00+00:00",
+          "summary": "Der Automobilbau verliert als Großabnehmer der Werkzeugmaschinenbauer an Gewicht, Halbleiter und Verteidigung rücken nach. Auf der AMB in Stuttgart zeigt sich, wie Hersteller sich im neuen …"
+        },
         {
           "title": "Autonom zur Filiale: Lidl schickt ersten Lkw ohne Fahrerhaus auf deutsche Straßen",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/autonom-zur-filiale-lidl-schickt-ersten-lkw-ohne-fahrerhaus-auf-deutsche-strassen/",
@@ -258,18 +208,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/architektur/brockelnde-fassade-am-gehry-bau-dusseldorfer-wahrzeichen-muss-saniert-werden/",
           "published": "2026-09-16T07:03:34+00:00",
           "summary": "An einem der bekanntesten Gehry-Bauten Deutschlands haben sich Teile der Fassade gelöst. Während die Schäden am Düsseldorfer Neuen Zollhof untersucht werden, läuft bereits die denkmalgerechte …"
-        },
-        {
-          "title": "7 % mehr Gehalt durch Re-Skilling: Warum Fachkräfte stärker profitieren als Akademiker",
-          "link": "https://www.ingenieur.de/karriere/bildung/re-skilling-zahlt-sich-aus-neue-zahlen-zum-gehaltseffekt-2026/",
-          "published": "2026-09-16T07:00:00+00:00",
-          "summary": "Fachkräfte mit Berufsausbildung legen beim Gehalt am stärksten zu. Ein Weiterbildungsexperte erklärt, welche Kompetenzen Ingenieure jetzt brauchen."
-        },
-        {
-          "title": "IAA: Lkw-Schwergewichte wollen Wasserstoff aus der Nische holen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/iaa-lkw-schwergewichte-wollen-wasserstoff-aus-der-nische-holen/",
-          "published": "2026-09-15T16:00:00+00:00",
-          "summary": "Daimler Truck, Volvo, Toyota, Bosch und mehrere Energiekonzerne wollen Wasserstoff im schweren Straßengüterverkehr gemeinsam voranbringen. Auf der IAA Transportation in Hannover haben sie nun Details …"
         }
       ],
       "error": null
