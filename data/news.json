@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:12:18+00:00",
+  "generatedAt": "2026-09-16T02:09:03+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an",
+          "link": "https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html",
+          "published": "2026-09-16T00:17:12+00:00",
+          "summary": "US-Präsident Trump will seinen Namen am berühmten Kennedy Center anbringen. Nachdem ein Gericht dies erneut untersagte, kündigte er die sofortige Schließung an. Das begründete er unter anderem mit …"
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649704.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesschau/ts-80930.html",
           "published": "2026-09-15T22:26:55+00:00",
           "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12860.html",
-          "published": "2026-09-15T20:55:57+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ USA +++: Trump will Kennedy Center schließen",
-          "link": "https://www.handelsblatt.com/politik/international/trump-draengt-staaten-zur-abkehr-vom-internationalen-strafgerichtshof/29669594.html",
-          "published": "2026-09-15T23:44:00+00:00",
-          "summary": "Niederlage vor Supreme Court – Trump rügt das Gericht +++ USA entsenden erstmals Waffen ins Weltall +++ Trumps Beliebtheit steigt leicht +++ Der Newsblog."
+          "title": "Zinsen: Japanische Geldpolitik macht Yen-Kurs zum Risiko für die USA",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/zinserhoehungen-in-japan-bringen-yen-an-den-kipp-punkt/100253841.html",
+          "published": "2026-09-16T02:06:18+00:00",
+          "summary": "US-Finanzminister Scott Bessent drängt die Bank of Japan zu einer Zinserhöhung. So will er den Druck auf US-Anleihezinsen senken. Doch auch wenn die BoJ ihm folgen dürfte, bleibt sein Problem."
         },
         {
-          "title": "US-Kongress: Iran-Krieg kostet die USA bereits 38 Milliarden Dollar",
-          "link": "https://www.handelsblatt.com/politik/international/us-kongress-iran-krieg-kostet-die-usa-bereits-38-milliarden-dollar/100254832.html",
-          "published": "2026-09-15T23:35:30+00:00",
-          "summary": "Nach Berechnungen des US-Haushaltsbüros könnte jeder weitere Kriegsmonat bis zu drei Milliarden Dollar kosten. Zugleich treibt der Konflikt die Inflation und belastet die Raketenbestände."
+          "title": "Steuerberatung: Investments in Steuer-Start-ups: Reid Hoffman und Christian Lindner entdecken die Steuerbranche",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/start-ups-reid-hoffman-und-christian-lindner-entdecken-die-steuerbranche/100254430.html",
+          "published": "2026-09-16T02:04:03+00:00",
+          "summary": "Berliner Taxtech-Unternehmen sammeln Millionen ein, um die Buchhaltung von KI-Agenten erledigen zu lassen. Investoren wetten darauf, dass KI den Fachkräftemangel der Branche beseitigen kann."
         },
         {
-          "title": "USA-Reise: Hegseth: Deutsche Industrie für Nato-Verteidigung nutzen",
-          "link": "https://www.handelsblatt.com/politik/international/usa-reise-hegseth-deutsche-industrie-fuer-nato-verteidigung-nutzen/100254835.html",
-          "published": "2026-09-15T23:15:04+00:00",
-          "summary": "Der „Kriegsminister“ ist voll des Lobes für Deutschlands Kurs in der Nato. Beim Besuch von Pistorius wird eine vertiefte Zusammenarbeit beim Bau von Waffen und Munition vereinbart."
+          "title": "Zinsen: Wie weit geht die Fed mit ihrem Zinsentscheid nach dem Rendite-Anstieg?",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/zinsen-wie-weit-geht-die-fed-beim-zinsentscheid-nach-dem-renditeanstieg/100254408.html",
+          "published": "2026-09-16T02:02:49+00:00",
+          "summary": "Die Zinspolitik der US-Notenbank zwingt Anleger zu einer neuen Debatte. Einige Zinserhöhungen könnten die Aktienmärkte verkraften, sagt DWS-Experte Gärtner. Dann könnte es schwieriger werden."
         },
         {
-          "title": "Nato-Ostflanke: Litauen: Abgeschossene Drohne hatte Sprengsatz",
-          "link": "https://www.handelsblatt.com/politik/international/nato-ostflanke-litauen-abgeschossene-drohne-hatte-sprengsatz/100254507.html",
-          "published": "2026-09-15T21:32:58+00:00",
-          "summary": "Eine Drohne dringt in den litauischen Luftraum ein – und wird von Nato-Kampfjets vom Himmel geholt. Woher sie stammt, ist weiter unklar. Dafür zeigte sich aber, dass sie scharf war."
+          "title": "Luftwaffe: F-35 – dieses Flugzeug spaltet die deutsche Rüstungsindustrie",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/luftwaffe-f-35-dieses-flugzeug-spaltet-die-deutsche-ruestungsindustrie/100252806.html",
+          "published": "2026-09-16T02:01:12+00:00",
+          "summary": "Die deutsche Luftwaffe bekommt ihren ersten Tarnkappenjet aus den USA – weitere könnten folgen. Das hätte erhebliche Auswirkungen auf die deutsche Industrie."
         },
         {
-          "title": "Gasversorgung: Reiche vollzieht Kehrtwende – Staatlicher Gasimporteur Sefe befüllt Gasspeicher",
-          "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-sefe-befuellt-fuer-ministerin-reiche-deutsche-gasspeicher/100254812.html",
-          "published": "2026-09-15T19:37:26+00:00",
-          "summary": "Die Wirtschaftsministerin hat den bundeseigenen Gasimporteur dazu angehalten, Gas einzukaufen. Reiche will so eine drohende Versorgungskrise verhindern. Erste Reaktionen aus der Branche sind positiv."
+          "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Hauptsitz von den USA nach Deutschland",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-start-up-langdock-verlegt-hauptsitz-von-den-usa-nach-deutschland/100254184.html",
+          "published": "2026-09-16T01:57:56+00:00",
+          "summary": "Während Firmen vermehrt in die USA abwandern, wandelt Langdock seine US-Mutterfirma in eine europäische SE um. Man wolle Europa „vollends souveräne“ Rechenleistung anbieten, sagen die Chefs."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Europa-Aktien im Zins- und Ölpreis-Dilemma: Darum bleibt Barclays trotzdem optimistisch",
-          "link": "https://www.finanzen.net/nachricht/aktien/sektor-check-europa-aktien-im-zins-und-oelpreis-dilemma-darum-bleibt-barclays-trotzdem-optimistisch-00-15929984",
-          "published": "2026-09-15T21:42:00+00:00",
-          "summary": "Europas Aktien liegen 2026 rund zehn Prozent im Plus Barclays sieht Europas Wachstum trotz Ölpreisschub und EZB-Zinsschritt stabil Die Bank bevorzugt weiter deutsche Aktien sowie Banken und …"
+          "title": "Europa-Aktien zwischen Zinssorgen und Ölpreis-Schock: Barclays bleibt dennoch gelassen",
+          "link": "https://www.finanzen.net/nachricht/aktien/europa-aktien-zwischen-zinssorgen-und-oelpreis-schock-barclays-bleibt-dennoch-gelassen-15936213",
+          "published": "2026-09-16T01:39:31+00:00",
+          "summary": "Europas Aktien liegen fast so stark wie die der USA im Plus, doch hohe Ölpreise und Zinssorgen bremsen die Rally, während Barclays an seiner Wachstumsthese festhält."
         },
         {
-          "title": "Hohe Ölpreise belasten Aktien: Warum der Bullenmarkt laut Analysten dennoch nicht in Gefahr ist",
-          "link": "https://www.finanzen.net/nachricht/aktien/yardeni-research-gelassen-hohe-oelpreise-belasten-aktien-warum-der-bullenmarkt-laut-analysten-dennoch-nicht-in-gefahr-ist-00-15934215",
-          "published": "2026-09-15T21:39:00+00:00",
-          "summary": "Brent-Öl kostet derzeit mehr als 100 US-Dollar je Barrel Analysten: Unternehmensgewinne steigen schneller als Kosten Yardeni rät weiter zu Aktien außerhalb der USA"
+          "title": "KI-Aktien wie NVIDIA Co. vor dem Kollaps? Darum warnt Ray Dalio vor einem Crash wie in den 1920ern",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-aktien-wie-nvidia-amp-co-vor-dem-kollaps-darum-warnt-ray-dalio-vor-einem-crash-wie-in-den-1920ern-15936208",
+          "published": "2026-09-16T01:35:04+00:00",
+          "summary": "Bridgewater-Gründer Ray Dalio vergleicht den KI-Boom mit der Technologie-Euphorie der 1920er Jahre und zieht eine klare Grenze zwischen Fortschritt und überteuerten Aktien."
         },
         {
-          "title": "GNW-News: China Eastern Airlines führt die internationale App 2.0 mit verbesserten digitalen Reisediensten ein",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-china-eastern-airlines-fuehrt-die-internationale-app-2-0-mit-verbesserten-digitalen-reisediensten-ein-15936012",
-          "published": "2026-09-15T21:22:38+00:00",
-          "summary": "^SHANGHAI, Sept. 15, 2026 (GLOBE NEWSWIRE) -- China Eastern Airlines (CEAir) hatkürzlich die Version 2.0 seiner internationalen App eingeführt, die nun im App Store und bei Google Play erhältlich …"
+          "title": "Vor Anthropic-IPO: Was die Sicherheitsbedenken für den Börsengang und KI-Aktien bedeuten",
+          "link": "https://www.finanzen.net/nachricht/aktien/sicherheitsdebatte-vor-anthropic-ipo-was-die-sicherheitsbedenken-fuer-den-boersengang-und-ki-aktien-bedeuten-00-15932798",
+          "published": "2026-09-16T01:33:32+00:00",
+          "summary": "Anthropic-Forscher Jacob Coxon kündigt und warnt vor gefährlichem KI-Tempo Alignmentforscher Evan Hubinger sieht ein KI-Risiko von über 10 Prozent Debatte trifft Anthropic mitten in Börsenplänen"
         },
         {
-          "title": "NVIDIA-Aktie & Co.: Wie Anleger sich gegen starke Kursausschläge wappnen können",
-          "link": "https://www.finanzen.net/nachricht/aktien/options-strategie-nvidia-aktie-co-wie-anleger-sich-gegen-starke-kursausschlaege-wappnen-koennen-00-15930172",
-          "published": "2026-09-15T21:18:00+00:00",
-          "summary": "Nach dem Kollaps eines Hedgefonds zogen sich viele Anleger aus KI-Wetten zurück VIX notiert bei rund 15 Punkten, deutlich unter dem Schnitt von 19 Strangle-Optionen sollen unabhängig von der Richtung …"
+          "title": "48 Prozent Rendite ganz ohne Tech-Aktien: Diese Werte favorisiert ein US-Fondsmanager",
+          "link": "https://www.finanzen.net/nachricht/aktien/abseits-von-tech-48-prozent-rendite-ganz-ohne-tech-aktien-diese-werte-favorisiert-ein-us-fondsmanager-00-15932840",
+          "published": "2026-09-16T01:15:09+00:00",
+          "summary": "US-Fondsmanager erzielt hohe Renditen komplett ohne Tech-Aktien im Depot Ansatz setzt auf günstig bewertete Banken und Energiewerte Fusionswelle bei europäischen Banken als Treiber Ohne eine ..."
         },
         {
-          "title": "Grüne in MV: 'Wer Schwesig will, muss Grün wählen'",
-          "link": "https://www.finanzen.net/nachricht/aktien/gruene-in-mv-wer-schwesig-will-muss-gruen-waehlen-15936000",
-          "published": "2026-09-15T21:02:39+00:00",
-          "summary": "SCHWERIN (dpa-AFX) - Wenige Tage vor der Landtagswahl in Mecklenburg-Vorpommern hat die Grünen-Spitzenkandidatin Claudia Müller die Zweitstimmenkampagne ihrer Partei untermauert. \"Wer Schwesig will …"
+          "title": "Huawei-Aktie: Warum die Preiserhöhung bei KI-Chips Chinas Plan gegen NVIDIA gefährdet",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-chips-deutlich-teurer-huawei-aktie-warum-die-preiserhoehung-bei-ki-chips-chinas-plan-gegen-nvidia-gefaehrdet-00-15934865",
+          "published": "2026-09-16T01:09:58+00:00",
+          "summary": "Huawei treibt Preise für Top-KI-Chip Ascend 950DT deutlich nach oben Globaler Mangel an Speicherchips setzt Chinas Halbleiterbranche zu Fachredaktion ordnet Vorstoß gegen NVIDIA als gefährdet ein"
         }
       ],
       "error": null
