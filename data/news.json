@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:09:03+00:00",
+  "generatedAt": "2026-09-16T04:09:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
+          "link": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
+          "published": "2026-09-16T03:06:56+00:00",
+          "summary": "Hashim Thaci hat den Kosovo mit der Kosovarischen Befreiungsarmee in die Unabhängigkeit geführt. Hat der Ex-Präsident dabei Kriegsverbrechen begangen? Ein Sondertribunal in Den Haag fällt heute sein …"
+        },
+        {
+          "title": "E-Mails zeigen: Ministerium nannte niedrigeren Masken-Marktpreis",
+          "link": "https://www.tagesschau.de/investigativ/swr/maskendeals-100.html",
+          "published": "2026-09-16T03:02:36+00:00",
+          "summary": "Laut Plusminus-Recherche zeigen E-Mails, dass ein Beamter des Gesundheitsministeriums im April 2020 von einem Marktpreis von 1,95 Euro pro Maske ausging. Wenige Tage zuvor hatte Jens Spahn jedoch 100 …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649718.html",
+          "published": "2026-09-16T03:02:33+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Deutschland und USA wollen bei Rüstung mehr zusammenarbeiten",
+          "link": "https://www.tagesschau.de/ausland/pistorius-hegseth-102.html",
+          "published": "2026-09-16T02:32:18+00:00",
+          "summary": "Verteidigungsminister Pistorius ist zu Besuch in Washington: Mit seinem Amtskollegen Hegseth einigte er sich auf eine engere Zusammenarbeit. Der US-Minister lobte Deutschlands Fortschritte bei der …"
+        },
+        {
           "title": "Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an",
           "link": "https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html",
           "published": "2026-09-16T00:17:12+00:00",
           "summary": "US-Präsident Trump will seinen Namen am berühmten Kennedy Center anbringen. Nachdem ein Gericht dies erneut untersagte, kündigte er die sofortige Schließung an. Das begründete er unter anderem mit …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649704.html",
-          "published": "2026-09-16T00:02:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
-          "link": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
-          "published": "2026-09-15T23:13:56+00:00",
-          "summary": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtmunition beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf …"
-        },
-        {
-          "title": "So lief die TV-Debatte zur Landtagswahl in Mecklenburg-Vorpommern",
-          "link": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/tv-debatte-so-lief-der-schlagabtausch-zur-landtagswahl-in-mv,mvwahl-362.html",
-          "published": "2026-09-15T23:02:42+00:00",
-          "summary": "In Mecklenburg-Vorpommern läuft der Wahlkampf-Endspurt vor der Landtagswahl am Sonntag. Bei der TV-Debatte im NDR lieferten sich die Spitzenkandidaten der Linken, CDU, Grünen und des BSW einen …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80930.html",
-          "published": "2026-09-15T22:26:55+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Zinsen: Japanische Geldpolitik macht Yen-Kurs zum Risiko für die USA",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/zinserhoehungen-in-japan-bringen-yen-an-den-kipp-punkt/100253841.html",
-          "published": "2026-09-16T02:06:18+00:00",
-          "summary": "US-Finanzminister Scott Bessent drängt die Bank of Japan zu einer Zinserhöhung. So will er den Druck auf US-Anleihezinsen senken. Doch auch wenn die BoJ ihm folgen dürfte, bleibt sein Problem."
+          "title": "Umwelt: Ozonloch über der Antarktis so klein wie selten seit 1990",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/umwelt-ozonloch-ueber-der-antarktis-so-klein-wie-selten-seit-1990/100254866.html",
+          "published": "2026-09-16T04:00:10+00:00",
+          "summary": "Weniger FCKW, kleineres Ozonloch – doch UV-Risiken bleiben. Was die WMO-Chefin zum Schutz empfiehlt - und was das für die Menschen bedeutet."
         },
         {
-          "title": "Steuerberatung: Investments in Steuer-Start-ups: Reid Hoffman und Christian Lindner entdecken die Steuerbranche",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/start-ups-reid-hoffman-und-christian-lindner-entdecken-die-steuerbranche/100254430.html",
-          "published": "2026-09-16T02:04:03+00:00",
-          "summary": "Berliner Taxtech-Unternehmen sammeln Millionen ein, um die Buchhaltung von KI-Agenten erledigen zu lassen. Investoren wetten darauf, dass KI den Fachkräftemangel der Branche beseitigen kann."
+          "title": "Berlin-Wahl 2026: Schäbig statt sexy? Was Berlin im Wahlkampf bewegt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/berlin-wahl-2026-schaebig-statt-sexy-was-berlin-im-wahlkampf-bewegt/100254862.html",
+          "published": "2026-09-16T03:45:06+00:00",
+          "summary": "Meckern ist Volkssport in Berlin, aber auch positive Entwicklungen sind manchmal „Talk of the Town“. Von Wuchermieten bis Schul-Neubau: Darüber spricht die Hauptstadt vor der Wahl."
         },
         {
-          "title": "Zinsen: Wie weit geht die Fed mit ihrem Zinsentscheid nach dem Rendite-Anstieg?",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/zinsen-wie-weit-geht-die-fed-beim-zinsentscheid-nach-dem-renditeanstieg/100254408.html",
-          "published": "2026-09-16T02:02:49+00:00",
-          "summary": "Die Zinspolitik der US-Notenbank zwingt Anleger zu einer neuen Debatte. Einige Zinserhöhungen könnten die Aktienmärkte verkraften, sagt DWS-Experte Gärtner. Dann könnte es schwieriger werden."
+          "title": "Schweiz: Glocken, Käse, Schokolade: Zum Alpabzug nach Fribourg",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/schweiz-glocken-kaese-schokolade-zum-alpabzug-nach-fribourg/100254860.html",
+          "published": "2026-09-16T03:31:07+00:00",
+          "summary": "Im Schweizer Kanton Fribourg bringen viele Landwirte ihre Rinder noch auf die Alp, wo sie im Sommer bis zu 100 Tagen leben. Der Alpabzug zum Herbst ist festliche Tradition ohne inszenierte Folklore."
         },
         {
-          "title": "Luftwaffe: F-35 – dieses Flugzeug spaltet die deutsche Rüstungsindustrie",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/luftwaffe-f-35-dieses-flugzeug-spaltet-die-deutsche-ruestungsindustrie/100252806.html",
-          "published": "2026-09-16T02:01:12+00:00",
-          "summary": "Die deutsche Luftwaffe bekommt ihren ersten Tarnkappenjet aus den USA – weitere könnten folgen. Das hätte erhebliche Auswirkungen auf die deutsche Industrie."
+          "title": "Invest: DWS-Experte Gärtner: „Ein bis zwei Zinserhöhungen sind verkraftbar“",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-dws-experte-gaertner-ein-bis-zwei-zinserhoehungen-sind-verkraftbar/100221412.html",
+          "published": "2026-09-16T03:10:00+00:00",
+          "summary": "Die Zinspolitik der US-Notenbank zwingt Anleger zu einer neuen Grundsatz-Debatte. Im Podcast erklärt Benjardin Gärtner, wie weit die Fed gehen kann und warum die Rally noch intakt ist."
         },
         {
-          "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Hauptsitz von den USA nach Deutschland",
-          "link": "https://www.handelsblatt.com/technik/ki/ki-start-up-langdock-verlegt-hauptsitz-von-den-usa-nach-deutschland/100254184.html",
-          "published": "2026-09-16T01:57:56+00:00",
-          "summary": "Während Firmen vermehrt in die USA abwandern, wandelt Langdock seine US-Mutterfirma in eine europäische SE um. Man wolle Europa „vollends souveräne“ Rechenleistung anbieten, sagen die Chefs."
+          "title": "Tabaksteuer-Vorhaben: Zigarren und Zigarillos könnten viel teurer werden",
+          "link": "https://www.handelsblatt.com/politik/deutschland/tabaksteuer-vorhaben-zigarren-und-zigarillos-koennten-viel-teurer-werden/100254852.html",
+          "published": "2026-09-16T03:05:04+00:00",
+          "summary": "Zigarren aus Deutschland? Eine Handvoll Hersteller gibt es noch in Ostwestfalen - plus zwei weitere anderswo. Steuerpläne aus der Bundespolitik machen sie aktuell mächtig nervös."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Europa-Aktien zwischen Zinssorgen und Ölpreis-Schock: Barclays bleibt dennoch gelassen",
-          "link": "https://www.finanzen.net/nachricht/aktien/europa-aktien-zwischen-zinssorgen-und-oelpreis-schock-barclays-bleibt-dennoch-gelassen-15936213",
-          "published": "2026-09-16T01:39:31+00:00",
-          "summary": "Europas Aktien liegen fast so stark wie die der USA im Plus, doch hohe Ölpreise und Zinssorgen bremsen die Rally, während Barclays an seiner Wachstumsthese festhält."
+          "title": "Fed am Scheideweg: Zinspause oder Straffung der Geldpolitik",
+          "link": "https://www.finanzen.net/nachricht/aktien/fed-am-scheideweg-zinspause-oder-straffung-der-geldpolitik-15936263",
+          "published": "2026-09-16T03:49:40+00:00",
+          "summary": "WASHINGTON (dpa-AFX) - An diesem Mittwoch (20.00 Uhr deutscher Zeit) blicken die Finanzmärkte mit großer Aufmerksamkeit auf die Zinsentscheidung der US-Notenbank Federal Reserve: Zum ersten Mal seit …"
         },
         {
-          "title": "KI-Aktien wie NVIDIA Co. vor dem Kollaps? Darum warnt Ray Dalio vor einem Crash wie in den 1920ern",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-aktien-wie-nvidia-amp-co-vor-dem-kollaps-darum-warnt-ray-dalio-vor-einem-crash-wie-in-den-1920ern-15936208",
-          "published": "2026-09-16T01:35:04+00:00",
-          "summary": "Bridgewater-Gründer Ray Dalio vergleicht den KI-Boom mit der Technologie-Euphorie der 1920er Jahre und zieht eine klare Grenze zwischen Fortschritt und überteuerten Aktien."
+          "title": "Urteil im Streit um 'Likör ohne Ei' erwartet",
+          "link": "https://www.finanzen.net/nachricht/aktien/urteil-im-streit-um-likoer-ohne-ei-erwartet-15936262",
+          "published": "2026-09-16T03:49:39+00:00",
+          "summary": "SCHLESWIG (dpa-AFX) - Darf ein Likör, der kein Ei enthält, auch so heißen? Das Schleswig-Holsteinische Oberlandesgericht verkündet am Mittwoch (9.30 Uhr) sein Urteil in der Berufungsverhandlung. Das …"
         },
         {
-          "title": "Vor Anthropic-IPO: Was die Sicherheitsbedenken für den Börsengang und KI-Aktien bedeuten",
-          "link": "https://www.finanzen.net/nachricht/aktien/sicherheitsdebatte-vor-anthropic-ipo-was-die-sicherheitsbedenken-fuer-den-boersengang-und-ki-aktien-bedeuten-00-15932798",
-          "published": "2026-09-16T01:33:32+00:00",
-          "summary": "Anthropic-Forscher Jacob Coxon kündigt und warnt vor gefährlichem KI-Tempo Alignmentforscher Evan Hubinger sieht ein KI-Risiko von über 10 Prozent Debatte trifft Anthropic mitten in Börsenplänen"
+          "title": "Bundesgerichtshof verhandelt zu Corona-Masken-Streit",
+          "link": "https://www.finanzen.net/nachricht/aktien/bundesgerichtshof-verhandelt-zu-corona-masken-streit-15936261",
+          "published": "2026-09-16T03:49:39+00:00",
+          "summary": "KARLSRUHE/KÖLN (dpa-AFX) - Der milliardenschwere Rechtsstreit um die Lieferung von Schutzmasken zu Beginn der Corona-Pandemie beschäftigt am Mittwoch (10.00 Uhr) den Bundesgerichtshof (BGH) in …"
         },
         {
-          "title": "48 Prozent Rendite ganz ohne Tech-Aktien: Diese Werte favorisiert ein US-Fondsmanager",
-          "link": "https://www.finanzen.net/nachricht/aktien/abseits-von-tech-48-prozent-rendite-ganz-ohne-tech-aktien-diese-werte-favorisiert-ein-us-fondsmanager-00-15932840",
-          "published": "2026-09-16T01:15:09+00:00",
-          "summary": "US-Fondsmanager erzielt hohe Renditen komplett ohne Tech-Aktien im Depot Ansatz setzt auf günstig bewertete Banken und Energiewerte Fusionswelle bei europäischen Banken als Treiber Ohne eine ..."
+          "title": "Von der Leyen hält Rede zur Lage der EU",
+          "link": "https://www.finanzen.net/nachricht/aktien/von-der-leyen-haelt-rede-zur-lage-der-eu-15936260",
+          "published": "2026-09-16T03:49:38+00:00",
+          "summary": "STRASSBURG (dpa-AFX) - EU-Kommissionspräsidentin Ursula von der Leyen hält am Mittwoch (9.00 Uhr) im Europaparlament in Straßburg eine Rede zur Lage der Europäischen Union. Es wird erwartet, dass die …"
         },
         {
-          "title": "Huawei-Aktie: Warum die Preiserhöhung bei KI-Chips Chinas Plan gegen NVIDIA gefährdet",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-chips-deutlich-teurer-huawei-aktie-warum-die-preiserhoehung-bei-ki-chips-chinas-plan-gegen-nvidia-gefaehrdet-00-15934865",
-          "published": "2026-09-16T01:09:58+00:00",
-          "summary": "Huawei treibt Preise für Top-KI-Chip Ascend 950DT deutlich nach oben Globaler Mangel an Speicherchips setzt Chinas Halbleiterbranche zu Fachredaktion ordnet Vorstoß gegen NVIDIA als gefährdet ein"
+          "title": "Pressestimme: 'Die Tagespost' zu Gerüchten zu Merz-Nachfolgern",
+          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-die-tagespost-zu-geruechten-zu-merz-nachfolgern-15936257",
+          "published": "2026-09-16T03:34:42+00:00",
+          "summary": "WÜRZBURG (dpa-AFX) - \"Die Tagespost\" zu Gerüchten zu Merz-Nachfolgern:\"Zwei Kandidaten von der CSU, einer von der CDU. Die christ-soziale Schwester steht nicht mehr im Saft wie einst, kann aber von …"
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Arbeitslast: Warum immer dieselben die Zusatzaufgaben bekommen",
+          "link": "https://www.wiwo.de/erfolg/management/arbeitslast-im-team-warum-engagierte-mitarbeiter-oft-leiden/100253273.html",
+          "published": "2026-09-16T03:56:59+00:00",
+          "summary": "Die Arbeitslast steigt aktuell. Umso wichtiger ist eine kluge Aufgabenverteilung. Doch Führungskräften unterläuft dabei oft ein entscheidender Fehler."
+        },
+        {
+          "title": "Benzin für drei Euro?: Der deutsche Verbraucher ist der dreifache Ölpreis-Verlierer",
+          "link": "https://www.wiwo.de/unternehmen/energie/benzinpreise-in-europa-warum-deutschland-im-vergleich-zu-anderen-laendern-so-teuer-ist/100254689.html",
+          "published": "2026-09-16T03:56:46+00:00",
+          "summary": "Alles Steuern, oder was? Wieso die Benzinpreise in europäischen Ländern wie Polen oder Schweden so viel günstiger als in Deutschland sind."
+        },
+        {
           "title": "Wirtschaft von oben: Saudi-Arabien versucht hier eilig, seinen Ölexport zu retten – und damit den Spritpreis",
           "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/oelpreis-hier-versucht-saudi-arabien-gerade-im-eiltempo-den-spritpreis-zu-retten/100254446.html",
           "published": "2026-09-15T19:53:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/dienstleister/goldbeck-us-expansion-und-ein-betrugsfall-fordern-den-marktfuehrer-heraus/100254371.html",
           "published": "2026-09-15T17:36:22+00:00",
           "summary": "Ein Wirtschaftskrimi belastet Goldbeck, zugleich stockt das Wachstum. Serieller Wohnungsbau und der US-Markt sollen das Familienunternehmen wieder nach vorn bringen."
-        },
-        {
-          "title": "BörsenTag: Der Aktienmarkt verliert seinen Renditevorsprung",
-          "link": "https://www.wiwo.de/finanzen/boerse/anleiherenditen-steigen-wann-bonds-zur-gefahr-fuer-aktien-werden/100254606.html",
-          "published": "2026-09-15T17:29:00+00:00",
-          "summary": "Die Anleiherenditen steigen weiter, damit gewinnen Bonds gegenüber Aktien an Attraktivität. Der Punkt, an dem Aktien praktisch keine Risikoprämie mehr bieten, ist erreicht."
-        },
-        {
-          "title": "US‑Treasuries: Rendite der zehnjährigen Papiere steigt auf höchsten Stand seit 2007",
-          "link": "https://www.wiwo.de/finanzen/boerse/ustreasuries-rendite-der-zehnjaehrigen-papiere-steigt-auf-hoechsten-stand-seit-2007/100254590.html",
-          "published": "2026-09-15T17:15:00+00:00",
-          "summary": "Energiepreise und Inflation steigen in den USA. Das sorgt für eine Entwertung der US‑Staatsanleihen."
         }
       ],
       "error": null
