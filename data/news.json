@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T08:09:40+00:00",
+  "generatedAt": "2026-09-16T10:09:14+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Russlands Satellitenpläne: Bundeswehr warnt vor Putins Starlink-Alternative",
-          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-satelliten-starlink-100.html",
-          "published": "2026-09-16T07:54:02+00:00",
-          "summary": "Russland will mit Rassvet eine Alternative zu Starlink schaffen. In einem vertraulichen Bericht, der WDR und NDR vorliegt, warnt die Bundeswehr vor einem Erfolg des Projekts aus militärischer Sicht …"
+          "title": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
+          "link": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
+          "published": "2026-09-16T10:02:53+00:00",
+          "summary": "Wie kann sich Europa besser gegen Bedrohungen wappnen? Mit dieser Frage befasste sich die EU-Kommissionspräsidentin in ihrer diesjährigen Rede zur Lage der Union. Ihre Antworten: ein neuer …"
         },
         {
-          "title": "Drei Tote bei Absturz von TV-Helikopter in Los Angeles",
-          "link": "https://www.tagesschau.de/ausland/amerika/absturz-helikopter-losangeles-100.html",
-          "published": "2026-09-16T07:46:20+00:00",
-          "summary": "Sie wollten über einen schweren Autounfall in Los Angeles berichten - stürzten dann aber selbst mit ihrem TV-Helikopter ab. Bei dem Unglück in Los Angeles kamen mindestens drei Menschen ums Leben, es …"
+          "title": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
+          "published": "2026-09-16T09:45:01+00:00",
+          "summary": "Die Bundesregierung will entschlossener gegen Terror, Propaganda und Gewalt vorgehen. Gefährder sollen künftig stärker überwacht, Messerangriffe härter bestraft werden. Justizministerin Hubig sprach …"
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649778.html",
-          "published": "2026-09-16T07:33:25+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Debatte über Spritpreis-Entlastungen: Reiche gegen Preisdeckel und Übergewinnsteuer",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diskussion-entlastungen-hohe-spritpreise-100.html",
-          "published": "2026-09-16T07:26:59+00:00",
-          "summary": "Kanzler Merz hat Entlastungen beim Spritpreis angekündigt. Doch wie? Preisdeckel und Übergewinnsteuer hält das Wirtschaftsministerium für problematisch. Unionsfraktionschef Frei schlägt nun eine …"
+          "title": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
+          "published": "2026-09-16T09:42:18+00:00",
+          "summary": "Kanzler Merz steht massiv unter Druck. Kurz vor den Landtagswahlen in Mecklenburg-Vorpommern und Berlin melden sich nun alle acht CDU-Ministerpräsidenten in der Personaldebatte zu Wort - und stellen …"
         },
         {
           "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
           "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-16T06:41:28+00:00",
+          "published": "2026-09-16T09:38:43+00:00",
           "summary": "Am Mittwoch gibt es einen Wechsel aus Sonne und teilweise dichten Wolken mit Schauern und Gewittern. Im Südosten sind am Nachmittag unwetterartige Gewitter möglich. Von Rheinland-Pfalz bis zur Ostsee …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649836.html",
+          "published": "2026-09-16T09:05:32+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Preisvergleich: Idealo wächst – doch KI könnte das Geschäftsmodell des Portals aushebeln",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/preisvergleich-idealo-will-zum-datenlieferanten-fuer-ki-agenten-werden/100252856.html",
-          "published": "2026-09-16T08:08:56+00:00",
-          "summary": "Obwohl KI den Preisvergleich automatisieren kann, zeigt das Preisvergleichsportal Idealo noch starke Wachstumszahlen. Der Anbieter hält sich für unentbehrlich, doch Experten warnen."
+          "title": "Mobilität: Strom statt Benzin – wie viel spart ein E-Auto beim Tanken ein?",
+          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mobilitaet-strom-statt-benzin-wie-viel-spart-ein-e-auto-beim-tanken-ein/100251862.html",
+          "published": "2026-09-16T09:56:34+00:00",
+          "summary": "Durch den Iran-Krieg sind die Spritpreise nach wie vor auf Höchstniveau. Wie viel lässt sich durch Laden statt Tanken einsparen? Der Handelsblatt-Rechner zeigt es."
         },
         {
-          "title": "Dax aktuell: Investoren vor Fed-Entscheid „hochgradig nervös“ – Dax leicht im Plus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-grosse-nervositaet-vor-fedentscheid-dax-leicht-im-plus/100254886.html",
-          "published": "2026-09-16T08:07:57+00:00",
-          "summary": "In Erwartung eines Zinsschritts der US-Notenbank bewegen sich die großen Indizes zunächst wenig. Die Anleiherenditen gehen derweil etwas zurück."
+          "title": "Ransomware: „Der schlimmste Fehler ist ein CEO, der fragt: Wie zahle ich?“",
+          "link": "https://www.handelsblatt.com/technik/it-internet/cyberattacke-die-firmenfuehrung-muss-unter-extremem-stress-funktionieren/100229829.html",
+          "published": "2026-09-16T09:49:00+00:00",
+          "summary": "Cyber-Attacken legen ganze Produktionen lahm und treffen zunehmend auch den Mittelstand. Zwei Experten erklären, wie Firmen mit Erpressern verhandeln sollten – und sich besser schützen können."
         },
         {
-          "title": "Energie: OMV meldet wirtschaftlich rentablen Ölfund in Libyen",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/energie-omv-meldet-wirtschaftlich-rentablen-oelfund-in-libyen/100254927.html",
-          "published": "2026-09-16T08:07:38+00:00",
-          "summary": "OMV und Libyens staatliche Ölgesellschaft NOC haben einen Fund mit bis zu 45 Millionen Barrel förderbarem Öl bestätigt. Das Feld soll später rund 6.000 Barrel täglich liefern."
+          "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
+          "link": "https://www.handelsblatt.com/karriere/ruestung-welche-managerprofile-firmen-wie-rheinmetall-oder-hensoldt-suchen/100211178.html",
+          "published": "2026-09-16T09:48:00+00:00",
+          "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts."
         },
         {
-          "title": "Migrationspolitik: Wegen Asylplan: Dorf will nicht mehr britisch sein",
-          "link": "https://www.handelsblatt.com/politik/international/migrationspolitik-wegen-asylplan-dorf-will-nicht-mehr-britisch-sein/100254932.html",
-          "published": "2026-09-16T08:06:04+00:00",
-          "summary": "Migration ist auch in Großbritannien ein Wahlkampfthema. Ein kleines Dorf in England hält aus Protest gegen eine geplante große Asylunterkunft ein aufsehenerregendes Referendum ab."
+          "title": "Kritik am Kanzler: CDU-Ministerpräsidenten stellen sich hinter Merz",
+          "link": "https://www.handelsblatt.com/politik/deutschland/kritik-am-kanzler-cdu-ministerpraesidenten-stellen-sich-hinter-merz/100254969.html",
+          "published": "2026-09-16T09:46:11+00:00",
+          "summary": "Bundeskanzler Merz steckt in der Krise. Jetzt melden sich die CDU-Ministerpräsidenten zu Wort, zeigen Unterstützung und sprechen sich gegen Personaldebatten aus."
         },
         {
-          "title": "Neues Sportabzeichen: Der VW ID.3 wird als GTI zum Elektrosportler",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/neues-sportabzeichen-der-vw-id3-wird-als-gti-zum-elektrosportler/100254933.html",
-          "published": "2026-09-16T08:01:04+00:00",
-          "summary": "Alles neu beim ID.3: Im Frühjahr hat VW dem Stromer beim Facelift den Beinamen Neo verpasst. Jetzt ändert sich noch mehr. Denn das Topmodell ist künftig am GTI-Badge zu erkennen."
+          "title": "Personalwechsel: Hugo Boss hat einen neuen Aufsichtsratschef",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/personalwechsel-hugo-boss-hat-einen-neuen-aufsichtsratschef/100254966.html",
+          "published": "2026-09-16T09:39:59+00:00",
+          "summary": "Die britische Frasers Group ist Großaktionärin bei Hugo Boss und will den Modekonzern übernehmen. Nun stellt sie nach einem Machtkampf auch den neuen Aufsichtsratschef."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Reiche will nachfüllen: So leer sind die deutschen Gasspeicher",
+          "link": "https://www.n-tv.de/wirtschaft/So-leer-sind-die-deutschen-Gasspeicher-id31311804.html",
+          "published": "2026-09-16T10:01:32+00:00",
+          "summary": "Deutschlands Gasvorräte sind für diese Jahreszeit auffallend niedrig. Im Fall eines sehr kalten Winters könnte es eng werden. Wirtschaftsministerin Reiche will nun gegensteuern."
+        },
+        {
+          "title": "Technologie außer Rand und Band?: Zuckerberg gegen langsamere Entwicklung von KI",
+          "link": "https://www.n-tv.de/wirtschaft/Zuckerberg-gegen-langsamere-Entwicklung-von-KI-id31311306.html",
+          "published": "2026-09-16T08:25:18+00:00",
+          "summary": "Wendet sich die KI irgendwann gegen ihre Schöpfer? Selbst aus der Tech-Branche gibt es inzwischen scharfe Warnungen und den Ruf, die Entwicklung etwas hinauszuzögern. Meta-Chef Zuckerberg sieht das …"
+        },
         {
           "title": "Niedrige Speicherstände: Reiche vollzieht offenbar Kehrtwende - und lässt nun zusätzlich Gas einkaufen",
           "link": "https://www.n-tv.de/wirtschaft/Reiche-vollzieht-offenbar-Kehrtwende-und-laesst-nun-zusaetzlich-Gas-einkaufen-id31310667.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Kein-Spritpreisdeckel-keine-Uebergewinnsteuer-Reiche-lehnt-SPD-Ideen-ab-id31310050.html",
           "published": "2026-09-15T20:07:05+00:00",
           "summary": "Bundeskanzler Merz will Autofahrer entlasten, Vorschläge des Koalitionspartners SPD kommen in der CDU jedoch nicht gut an. Damit bleibt offen, wie genau die Unterstützung aussehen soll."
-        },
-        {
-          "title": "Angaben des US-Energieministers: Saudi-Pipeline soll schon bald wieder in Betrieb sein",
-          "link": "https://www.n-tv.de/wirtschaft/Saudi-Pipeline-soll-schon-bald-wieder-in-Betrieb-sein-id31309845.html",
-          "published": "2026-09-15T18:36:22+00:00",
-          "summary": "Durch Saudi-Arabiens wichtige Ost-West-Pipeline fließt nach Angriffen derzeit kein Öl. Unklar ist, wie lange die Reparatur dauert. Angaben aus den USA deuten darauf hin, dass es schnell gehen könnte. …"
-        },
-        {
-          "title": "Energiekrise spitzt sich zu: Saudi-Arabien muss einige Öllieferungen nach Europa stornieren",
-          "link": "https://www.n-tv.de/wirtschaft/Saudi-Arabien-muss-einige-Oellieferungen-nach-Europa-stornieren-id31309422.html",
-          "published": "2026-09-15T16:23:52+00:00",
-          "summary": "Die Huthi-Rebellen treffen eine enorm wichtige Öl-Pipeline in Saudi-Arabien mit einer Drohne und sorgen damit für einen Betriebsstopp. Die Reparaturarbeiten könnten länger dauern - nun gibt es …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "DAX 40-Titel Fresenius SE-Aktie: So viel hätten Anleger an einem Fresenius SE-Investment von vor 5 Jahren verdient",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-40-titel-fresenius-se-aktie-so-viel-haetten-anleger-an-einem-fresenius-se-investment-von-vor-5-jahren-verdient-15936735",
-          "published": "2026-09-16T08:00:56+00:00",
-          "summary": "Heute vor 5 Jahren fand an der Börse XETRA Handel mit der Fresenius SE -Aktie statt. Der Schlusskurs der Aktie betrug an diesem Tag 40,83 EUR. Bei einem Investment von 100 EUR in Fresenius SE-Papiere …"
+          "title": "Heidelberg Materials schließt Zementwerk im nordfranzösischen Ranville",
+          "link": "https://www.finanzen.net/nachricht/aktien/heidelberg-materials-schliesst-zementwerk-im-nordfranzoesischen-ranville-15936922",
+          "published": "2026-09-16T10:01:42+00:00",
+          "summary": "DOW JONES--Heidelberg Materials plant angesichts der schwachen Baunachfrage in Frankreich die Schließung des Zementwerks Ranville in der Normandie. Der Schritt sei Teil der laufenden …"
         },
         {
-          "title": "FTSE 100-Titel Unilever-Aktie: So viel Gewinn hätte eine Unilever-Investition von vor 3 Jahren eingebracht",
-          "link": "https://www.finanzen.net/nachricht/aktien/ftse-100-titel-unilever-aktie-so-viel-gewinn-haette-eine-unilever-investition-von-vor-3-jahren-eingebracht-15936734",
-          "published": "2026-09-16T08:00:56+00:00",
-          "summary": "Unilever -Anteile wurden heute vor 3 Jahren an der Börse LSE wochenend-bedingt nicht gehandelt. Am Handelstag zuvor stand die Unilever-Aktie letztlich bei 43,85 GBP. Bei einer 1.000-GBP-Investition …"
+          "title": "Ärztepräsident für mehr Steueranreize für gesunde Ernährung",
+          "link": "https://www.finanzen.net/nachricht/aktien/aerztepraesident-fuer-mehr-steueranreize-fuer-gesunde-ernaehrung-15936918",
+          "published": "2026-09-16T09:59:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Ärztepräsident Klaus Reinhardt befürwortet neben der geplanten Zuckersteuer auf Getränke wie Colas und Limonaden weitere finanzielle Anreize für eine gesündere Ernährung. \"Wir …"
         },
         {
-          "title": "MDAX-Papier Schaeffler-Aktie: So viel hätten Anleger an einem Schaeffler-Investment von vor 10 Jahren verloren",
-          "link": "https://www.finanzen.net/nachricht/aktien/mdax-papier-schaeffler-aktie-so-viel-haetten-anleger-an-einem-schaeffler-investment-von-vor-10-jahren-verloren-15936733",
-          "published": "2026-09-16T08:00:56+00:00",
-          "summary": "Schaeffler -Anteile wurden heute vor 10 Jahren an der Börse XETRA gehandelt. Diesen Handelstag beendete die Aktie bei 13,87 EUR. Bei einem Schaeffler-Investment von 1.000 EUR zu diesem Zeitpunkt …"
+          "title": "Euroraum-Arbeitskosten im 2. Quartal um 3,1% über Vorjahr",
+          "link": "https://www.finanzen.net/nachricht/aktien/euroraum-arbeitskosten-im-2-quartal-um-3-1-ueber-vorjahr-15936914",
+          "published": "2026-09-16T09:58:41+00:00",
+          "summary": "DOW JONES--Das Wachstum der Arbeitskosten im Euroraum hat sich im zweiten Quartal 2026 etwas verlangsamt. Wie Eurostat mitteilte, lagen die Arbeitskosten um 3,1 Prozent über dem Niveau des …"
         },
         {
-          "title": "SPI-Titel INFICON-Aktie: So viel Gewinn hätte eine INFICON-Investition von vor einem Jahr eingebracht",
-          "link": "https://www.finanzen.net/nachricht/aktien/spi-titel-inficon-aktie-so-viel-gewinn-haette-eine-inficon-investition-von-vor-einem-jahr-eingebracht-15936732",
-          "published": "2026-09-16T08:00:56+00:00",
-          "summary": "Am 16.09.2025 wurde das INFICON -Papier via Börse SWX gehandelt. Zur Schlussglocke war das Papier an diesem Tag 96,80 CHF wert. Wenn ein Anleger damals 10.000 CHF in die INFICON-Aktie investiert …"
+          "title": "BayWa: Sanierungsvereinbarung soll noch dieses Jahr stehen",
+          "link": "https://www.finanzen.net/nachricht/aktien/baywa-sanierungsvereinbarung-soll-noch-dieses-jahr-stehen-15936913",
+          "published": "2026-09-16T09:52:04+00:00",
+          "summary": "Die notwendigen Anpassungen an der bisherigen Sanierungsvereinbarung der BayWa können offensichtlich bald in eine neue Vereinbarung gegossen werden. Laut Unternehmensangaben haben 267 von 268 …"
         },
         {
-          "title": "SPI-Papier Intershop-Aktie: So viel Gewinn hätte ein Intershop-Investment von vor einem Jahr abgeworfen",
-          "link": "https://www.finanzen.net/nachricht/aktien/spi-papier-intershop-aktie-so-viel-gewinn-haette-ein-intershop-investment-von-vor-einem-jahr-abgeworfen-15936731",
-          "published": "2026-09-16T08:00:56+00:00",
-          "summary": "Vor 1 Jahr wurde die Intershop -Aktie an der Börse SWX gehandelt. Der Schlusskurs des Intershop-Papiers betrug an diesem Tag 153,80 CHF. Bei einer Investition in Höhe von 10.000 CHF zu diesem …"
+          "title": "Flughafen Zürich-Aktie tiefer: Zürcher Kantonsräte wollen Antworten zu Nachtflügen",
+          "link": "https://www.finanzen.net/nachricht/aktien/flughafen-zuerich-aktie-tiefer-zuercher-kantonsraete-wollen-antworten-zu-nachtfluegen-15936911",
+          "published": "2026-09-16T09:52:00+00:00",
+          "summary": "Der Streit um Spätstarts und die Verspätungsregel am Flughafen Zürich beschäftigt die Kantonspolitik."
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Leichte Kursgewinne vor US-Zinsentscheid?",
+          "title": "Marktbericht: DAX startet mit Gewinnen vor US-Zinsentscheid",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
-          "published": "2026-09-16T05:47:50+00:00",
-          "summary": "Vor dem Zinsentscheid in den USA am Abend dürfte der deutsche Aktienmarkt mit leichten Kursgewinnen starten. Stützend wirken sinkende Ölpreise - wenn auch ohne wirklich neue Entwicklungen im Nahen …"
+          "published": "2026-09-16T09:00:34+00:00",
+          "summary": "Ermutigt durch sinkende Ölpreise zeigen sich die Anlegerinnen und Anleger zur Wochenmitte wieder etwas risikofreudiger. Vor der Zinsentscheidung der US-Notenbank am Abend stabilisiert sich der DAX."
         },
         {
           "title": "Bund und UniCredit verhandeln über Commerzbank-Übernahme",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Füllstand der Gasspeicher: Sefe und Uniper könnten bei Gasspeichern helfen",
-          "link": "https://www.wiwo.de/unternehmen/energie/gasspeicher-fuellstand-niedrig-sefe-und-uniper-sollen-helfen/100254904.html",
-          "published": "2026-09-16T07:08:03+00:00",
-          "summary": "Wegen der niedrigen Füllstände der Gasspeicher ist Ministerin Reiche unter Druck geraten. Helfen könnten die Staatsunternehmen Uniper und Sefe."
+          "title": "EU: Kanadas langer Weg nach Europa",
+          "link": "https://www.wiwo.de/politik/europa/eu-kanadas-langer-weg-nach-europa/100254639.html",
+          "published": "2026-09-16T09:58:27+00:00",
+          "summary": "Kanada könnte assoziiertes EU-Mitglied werden. Wie Ursula von der Leyen und Mark Carney die Annäherung planen, welche Hürden bestehen und was das für die Wirtschaft bedeutet."
         },
         {
-          "title": "Angriff auf Platzhirsche: Revolut will Banklizenz in der Schweiz",
-          "link": "https://www.wiwo.de/unternehmen/banken/revolut-will-banklizenz-in-der-schweiz-angriff-auf-platzhirsche/100254893.html",
-          "published": "2026-09-16T06:29:21+00:00",
-          "summary": "Revolut beantragt eine Schweizer Banklizenz bei der Finma. Die Digitalbank plant Millioneninvestitionen, Gehaltskonten und lokale Schweizer IBANs."
+          "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Sitz nach Deutschland",
+          "link": "https://www.wiwo.de/unternehmen/it/langdock-ki-start-up-verlegt-sitz-nach-deutschland/100254972.html",
+          "published": "2026-09-16T09:50:10+00:00",
+          "summary": "Langdock kehrt mit seinem Hauptsitz aus den USA nach Deutschland zurück und plant Investitionen in ein eigenes Rechenzentrum für mehr digitale Souveränität."
         },
         {
-          "title": "Bundesgerichtshof: Worum geht es in dem Milliarden-Streit um Corona-Masken?",
-          "link": "https://www.wiwo.de/politik/deutschland/corona-masken-worum-geht-es-in-dem-milliarden-streit-am-bundesgerichtshof/100254885.html",
-          "published": "2026-09-16T05:54:39+00:00",
-          "summary": "Bei der Beschaffung von Schutzmasken zu Beginn der Corona-Pandemie griff der Staat zu umstrittenen Methoden. Rund 90 Klagen laufen heute noch dazu. Jetzt liegt die Sache in Karlsruhe."
+          "title": "Europäische Union: Von der Leyen bietet Kanada „assoziierte Mitgliedschaft“ in der EU an",
+          "link": "https://www.wiwo.de/politik/ausland/europaeische-union-von-der-leyen-bietet-kanada-assoziierte-mitgliedschaft-in-der-eu-an/100254976.html",
+          "published": "2026-09-16T09:48:41+00:00",
+          "summary": "Wie eng kann die Partnerschaft zwischen der EU und Kanada werden? EU-Kommissionspräsidentin Ursula von der Leyen macht jetzt einen Vorschlag, den es schon für die Ukraine gibt."
         },
         {
-          "title": "Debatte um Kanzlerwechsel: Merz’ New-York-Absage zeigt, wie ernst die Krise des Kanzlers ist",
-          "link": "https://www.wiwo.de/politik/deutschland/merz-sagt-new-york-reise-ab-wie-ernst-die-kanzler-krise-ist/100254864.html",
-          "published": "2026-09-16T05:28:05+00:00",
-          "summary": "Keine UN-Rede, keine Begegnung mit Trump, keine Treffen mit Investoren: Merz muss seine Reise nach New York kurzfristig absagen. Dabei war sie nicht nur politisch hochrelevant."
+          "title": "Kanzler in der Krise: CDU-Ministerpräsidenten unterstützen Friedrich Merz",
+          "link": "https://www.wiwo.de/politik/deutschland/debatte-um-kanzlerwechsel-cdu-ministerpraesidenten-stuetzen-friedrich-merz/100254952.html",
+          "published": "2026-09-16T09:44:00+00:00",
+          "summary": "Inmitten von Spekulationen über einen Kanzlerwechsel stellen sich die acht CDU-Ministerpräsidenten hinter Friedrich Merz und fordern politische Stabilität."
         },
         {
-          "title": "Künstliche Intelligenz: „Der schlimmste Unfall, den wir je gesehen haben“",
-          "link": "https://www.wiwo.de/unternehmen/openai-und-hugging-face-sam-altman-warnt-vor-ki-kontrollverlust/100254875.html",
-          "published": "2026-09-16T05:20:19+00:00",
-          "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein."
+          "title": "Elektro-Lkw: So plant China bei den Trucks den Angriff auf Europa",
+          "link": "https://www.wiwo.de/unternehmen/auto/elektro-lkw-aus-china-wie-byd-und-foton-europas-truck-markt-aufmischen/100254640.html",
+          "published": "2026-09-16T09:32:00+00:00",
+          "summary": "BYD will in Europa mit dem Preis und einer eigenen Fertigung in Ungarn punkten. Es ist zwar der größte, aber nicht der einzige chinesische Angreifer."
         }
       ],
       "error": null
@@ -242,34 +242,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Wenn die Blase kein Signal mehr gibt: Neue Technik soll den Toilettengang erleichtern",
+          "title": "Autonom zur Filiale: Lidl schickt ersten Lkw ohne Fahrerhaus auf deutsche Straßen",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/autonom-zur-filiale-lidl-schickt-ersten-lkw-ohne-fahrerhaus-auf-deutsche-strassen/",
+          "published": "2026-09-16T10:00:00+00:00",
+          "summary": "Lidl setzt in Hessen einen fahrerlosen Elektro-Lkw nach Level 4 ein – ohne Fahrerhaus und mit KBA-Genehmigung. Das schwedische Unternehmen Einride bringt damit ein Konzept auf die Straße, an dem die …"
+        },
+        {
+          "title": "10 Mio. Betroffene: Diese Technik soll Inkontinenz-Patienten die Kontrolle zurückgeben",
           "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/inkontinenz-wie-medizintechnik-mehr-selbstbestimmung-ermoeglicht/",
           "published": "2026-09-16T08:00:00+00:00",
-          "summary": "Selbstbestimmte Kontinenz: Neue Medizintechnik, Wearables und Sensoren unterstützen Menschen mit Inkontinenz beim Blasenmanagement."
+          "summary": "Wer den Füllstand seiner Blase nicht mehr spürt, muss jeden Toilettengang im Voraus planen. Drei Entwicklungen aus Forschung und Start-ups sollen Betroffenen ihren Alltag zurückgeben."
         },
         {
-          "title": "Gehrys spektakuläre Bauwerke: In Düsseldorf bröckelt die Fassade",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/architektur/die-spektakulaeren-bauwerke-von-frank-gehry/",
+          "title": "Bröckelnde Fassade am Gehry-Bau: Düsseldorfer Wahrzeichen muss saniert werden",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/architektur/brockelnde-fassade-am-gehry-bau-dusseldorfer-wahrzeichen-muss-saniert-werden/",
           "published": "2026-09-16T07:03:34+00:00",
-          "summary": "Am weißen Gehry-Bau im Düsseldorfer Medienhafen haben sich Teile der Fassade gelöst. Während die Schäden untersucht werden, läuft bereits die denkmalgerechte Sanierungsplanung. Ein Blick auf den …"
+          "summary": "An einem der bekanntesten Gehry-Bauten Deutschlands haben sich Teile der Fassade gelöst. Während die Schäden am Düsseldorfer Neuen Zollhof untersucht werden, läuft bereits die denkmalgerechte …"
         },
         {
-          "title": "Re-skilling zahlt sich aus – neue Zahlen zum Gehaltseffekt 2026",
+          "title": "7 % mehr Gehalt durch Re-Skilling: Warum Fachkräfte stärker profitieren als Akademiker",
           "link": "https://www.ingenieur.de/karriere/bildung/re-skilling-zahlt-sich-aus-neue-zahlen-zum-gehaltseffekt-2026/",
           "published": "2026-09-16T07:00:00+00:00",
-          "summary": "Re-skilling steigert das Gehalt: Neue Zahlen zeigen, welche Weiterbildung Ingenieurinnen und Ingenieure für Karriere, KI und Digitalisierung brauchen."
+          "summary": "Fachkräfte mit Berufsausbildung legen beim Gehalt am stärksten zu. Ein Weiterbildungsexperte erklärt, welche Kompetenzen Ingenieure jetzt brauchen."
         },
         {
           "title": "IAA: Lkw-Schwergewichte wollen Wasserstoff aus der Nische holen",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/iaa-lkw-schwergewichte-wollen-wasserstoff-aus-der-nische-holen/",
           "published": "2026-09-15T16:00:00+00:00",
           "summary": "Daimler Truck, Volvo, Toyota, Bosch und mehrere Energiekonzerne wollen Wasserstoff im schweren Straßengüterverkehr gemeinsam voranbringen. Auf der IAA Transportation in Hannover haben sie nun Details …"
-        },
-        {
-          "title": "Tanker in Straße von Hormus schwer beschädigt – Öl tritt aus",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/tanker-in-strasse-von-hormus-schwer-beschaedigt-oel-tritt-aus/",
-          "published": "2026-09-15T14:46:15+00:00",
-          "summary": "Ein Öltanker ist in der Straße von Hormus schwer beschädigt worden und in Brand geraten. Öl gelangte ins Meer, zwei Seeleute werden vermisst. Während der Iran von einem Minentreffer spricht, macht …"
         }
       ],
       "error": null
