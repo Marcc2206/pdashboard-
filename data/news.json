@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:09:43+00:00",
+  "generatedAt": "2026-09-16T22:08:22+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Bayer Leverkusen startet mit Heimsieg in die Europa League",
+          "link": "https://www.sportschau.de/regional/wdr/wdr-krummes-eigentor-leitet-bayer-sieg-gegen-celje-ein-100.html",
+          "published": "2026-09-16T21:05:00+00:00",
+          "summary": "Bayer Leverkusen hat mit dem 2:0 Sieg gegen NK Celje einen gelungenen Start in die Europa League gefeiert - ließ gegen die Slowenen aber viele Chancen liegen."
+        },
+        {
           "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
           "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
-          "published": "2026-09-16T19:11:50+00:00",
+          "published": "2026-09-16T21:03:12+00:00",
           "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit …"
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1650254.html",
-          "published": "2026-09-16T18:48:07+00:00",
-          "summary": "Regierungskoalition arbeitet an schnellen Entlastungen angesichts hoher Spritpreise, Umstieg auf Elektro-Lkws aufgrund gestiegener Dieselpreise, CDU-Ministerpräsidenten warnen vor Personaldiskussion …"
-        },
-        {
-          "title": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html",
-          "published": "2026-09-16T18:20:26+00:00",
-          "summary": "Martin Gutzeit war 1989 Mitbegründer der Ost-SPD und später langjähriger Berliner Beauftragter für die Stasi-Unterlagen. Nun ist er im Alter von 74 Jahren in Berlin gestorben."
-        },
-        {
-          "title": "Markus Preiß, ARD Berlin, zu den Personaldiskussionen um Kanzler Merz",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1650232.html",
-          "published": "2026-09-16T18:20:06+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12856.html",
+          "published": "2026-09-16T20:54:03+00:00",
           "summary": ""
         },
         {
-          "title": "Wie sich die Spritpreise auf die Speditionsunternehmen auswirken",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1650224.html",
-          "published": "2026-09-16T18:18:29+00:00",
+          "title": "Markus Preiß, ARD Berlin, über die Rückendeckung für Kanzler Merz durch die CDU-Ministerpräsidenten",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1650324.html",
+          "published": "2026-09-16T20:35:26+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Georg Zachmann, Ökonom Denkfabrik Bruegel, zur Umsetzung der Entlastung bei den Spritpreisen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1650322.html",
+          "published": "2026-09-16T20:32:33+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "ARD und ZDF: SPD wirft Weimer indirekte Wahlkampfhilfe für AfD vor",
-          "link": "https://www.handelsblatt.com/politik/deutschland/ard-und-zdf-spd-wirft-weimer-indirekte-wahlkampfhilfe-fuer-afd-vor/100255139.html",
-          "published": "2026-09-16T19:10:48+00:00",
-          "summary": "Kulturstaatsminister Wolfram Weimer bringt die Privatisierung des ZDF und die Auflösung kleinerer ARD-Anstalten ins Gespräch. Die AfD lobt den Vorstoß, die SPD ist empört."
+          "title": "US-Notenbank: 25 Basispunkte für die Glaubwürdigkeit von Kevin Warsh",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/us-notenbank-25-basispunkte-fuer-die-glaubwuerdigkeit-von-kevin-warsh/100254411.html",
+          "published": "2026-09-16T21:20:22+00:00",
+          "summary": "Die Zweifel an seiner Unabhängigkeit von der US-Regierung waren groß. Mit der aktuellen Zinserhöhung zeigt der Fed-Chef, dass er kein Erfüllungsgehilfe des Weißen Hauses ist."
         },
         {
-          "title": "Wall Street: US-Börsen drehen nach Fed-Zinserhöhung ins Minus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-drehen-nach-fed-zinserhoehung-ins-minus/100255058.html",
-          "published": "2026-09-16T19:09:08+00:00",
-          "summary": "Die US-Notenbank hat die Zinsen um 0,25 Prozentpunkte angehoben. Einzelne Börsenindizes reagieren negativ. Bei den Anleiherenditen deutet sich dagegen etwas Entspannung an."
+          "title": "Fed: Zinswende vor den Midterms: Fed hebt Leitzinsen erstmals seit 2023 an",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/fed-us-notenbank-erhoeht-leitzins-erstmals-seit-rund-drei-jahren/100253966.html",
+          "published": "2026-09-16T21:01:29+00:00",
+          "summary": "Ein starker Arbeitsmarkt sowie die anhaltend hohe Inflation hatten für eine Erhöhung gesprochen. Die Notenbanker stellen sich damit einstimmig gegen die Wünsche von US-Präsident Trump."
         },
         {
           "title": "US-Wirtschaft: US-Notenbank erhöht erstmals seit Juli 2023 wieder Leitzins",
           "link": "https://www.handelsblatt.com/politik/deutschland/us-wirtschaft-us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins/100255142.html",
-          "published": "2026-09-16T19:00:05+00:00",
+          "published": "2026-09-16T20:47:44+00:00",
           "summary": "Fed-Chef Warsh signalisierte jüngst Bereitschaft für eine Zinserhöhung, an den Finanzmärkten wurde mit großer Mehrheit damit gerechnet. Sicher war das allerdings keineswegs."
         },
         {
-          "title": "Fed: Einstimmige Entscheidung: US-Notenbank erhöht Leitzins erstmals seit rund drei Jahren",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/fed-us-notenbank-erhoeht-leitzins-erstmals-seit-rund-drei-jahren/100253966.html",
-          "published": "2026-09-16T18:33:23+00:00",
-          "summary": "Ein starker Arbeitsmarkt sowie die anhaltend hohe Inflation hatten für eine Erhöhung gesprochen. Die Notenbanker stellen sich somit gegen die Wünsche von US-Präsident Donald Trump."
+          "title": "Hohe Spritpreise: Italien und Frankreich reagieren auf steigende Kraftstoffpreise",
+          "link": "https://www.handelsblatt.com/politik/international/hohe-spritpreise-italien-und-frankreich-reagieren-auf-steigende-kraftstoffpreise/100255140.html",
+          "published": "2026-09-16T20:15:50+00:00",
+          "summary": "Italien will Millionen Autofahrer bei den hohen Spritkosten entlasten und setzt 2027 für bestimmte Fahrzeuge die Kfz-Steuer aus. Frankreich verlängert seine Tankzuschüsse für bestimmte Branchen."
         },
         {
-          "title": "Schrottimmobilien: Zehn-Punkte-Plan von Bas und Dobrindt gegen Sozialbetrug",
-          "link": "https://www.handelsblatt.com/politik/deutschland/schrottimmobilien-zehn-punkte-plan-von-bas-und-dobrindt-gegen-sozialbetrug/100255129.html",
-          "published": "2026-09-16T18:22:40+00:00",
-          "summary": "Bei Sozialbetrug geht es um kriminelle Machenschaften und viel Geld. Die Bundesregierung hat einen verstärkten Kampf dagegen bereits angekündigt - nun sollen Taten folgen."
+          "title": "ARD und ZDF: SPD wirft Weimer indirekte Wahlkampfhilfe für AfD vor",
+          "link": "https://www.handelsblatt.com/politik/deutschland/ard-und-zdf-spd-wirft-weimer-indirekte-wahlkampfhilfe-fuer-afd-vor/100255139.html",
+          "published": "2026-09-16T19:10:48+00:00",
+          "summary": "Kulturstaatsminister Wolfram Weimer bringt die Privatisierung des ZDF und die Auflösung kleinerer ARD-Anstalten ins Gespräch. Die AfD lobt den Vorstoß, die SPD ist empört."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Ölpreise geben nach: Fed-Entscheid schickt Dow auf Talfahrt",
+          "link": "https://www.n-tv.de/wirtschaft/Fed-Entscheid-schickt-Dow-auf-Talfahrt-id31314422.html",
+          "published": "2026-09-16T21:13:15+00:00",
+          "summary": "Die Zinserhöhung ereilt die Wall Street nicht unerwartet. Dass die Fed auch weitere Zinsschritte nach oben in Aussicht stellt, kommt allerdings nicht gut an. An den Aktienmärkten geht es danach nach …"
+        },
         {
           "title": "Härtetest Deutschland: Waymo plant Robotaxi-Start in München und Berlin",
           "link": "https://www.n-tv.de/wirtschaft/Waymo-plant-Robotaxi-Start-in-Muenchen-und-Berlin-id31314182.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Reiche-will-Mehrwertsteuer-auf-Kraftstoffe-auf-sieben-Prozent-senken-id31313942.html",
           "published": "2026-09-16T16:59:47+00:00",
           "summary": "Nach Unionsfraktionschef Frei spricht sich auch Bundeswirtschaftsministerin Reiche für eine Senkung der Mehrwertsteuer auf Benzin und Diesel aus. Es gibt allerdings Unternehmen, an denen eine solche …"
-        },
-        {
-          "title": "Raffinerien sind das Problem: Der Dieselmarkt wird sich so schnell nicht erholen",
-          "link": "https://www.n-tv.de/wirtschaft/Der-Dieselmarkt-wird-sich-so-schnell-nicht-erholen-id31312380.html",
-          "published": "2026-09-16T13:27:25+00:00",
-          "summary": "Zu Beginn des Jahres trieb vor allem die knappe Versorgung mit Rohöl die Spritpreise. Mittlerweile sind knappe Raffinerie-Kapazitäten mindestens Teil des Problems. Die Lage hat sich damit …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Goldpreis fällt nach Fed-Zinserhöhung auf tiefsten Stand seit Anfang August",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/goldpreis-faellt-nach-fed-zinserhoehung-auf-tiefsten-stand-seit-anfang-august-15938177",
-          "published": "2026-09-16T20:02:39+00:00",
-          "summary": "LONDON (dpa-AFX) - Der Goldpreis ist am Mittwochabend nach der Zinserhöhung in den USA auf den tiefsten Stand seit Anfang August abgesackt. Der Preis für eine Feinunze Gold (etwa 31,1 Gramm) gab am …"
+          "title": "Huawei-Aktie: Warum die Preiserhöhung bei KI-Chips Chinas Plan gegen NVIDIA gefährdet",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-chips-deutlich-teurer-huawei-aktie-warum-die-preiserhoehung-bei-ki-chips-chinas-plan-gegen-nvidia-gefaehrdet-00-15934865",
+          "published": "2026-09-16T21:50:00+00:00",
+          "summary": "Huawei treibt Preise für Top-KI-Chip Ascend 950DT deutlich nach oben Globaler Mangel an Speicherchips setzt Chinas Halbleiterbranche zu Fachredaktion ordnet Vorstoß gegen NVIDIA als gefährdet ein"
         },
         {
-          "title": "Ökonomen-Stimmen zur Zinsentscheidung der US-Notenbank Fed",
-          "link": "https://www.finanzen.net/nachricht/aktien/oekonomen-stimmen-zur-zinsentscheidung-der-us-notenbank-fed-15938173",
-          "published": "2026-09-16T19:51:38+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Die US-Notenbank Federal Reserve hebt wegen der hartnäckig hohen Inflation erstmals seit Sommer 2023 den Leitzins an. Dieser steigt um 0,25 Prozentpunkte auf 3,75 bis 4,00 …"
+          "title": "Vor Anthropic-IPO: Was die Sicherheitsbedenken für den Börsengang und KI-Aktien bedeuten",
+          "link": "https://www.finanzen.net/nachricht/aktien/sicherheitsdebatte-vor-anthropic-ipo-was-die-sicherheitsbedenken-fuer-den-boersengang-und-ki-aktien-bedeuten-00-15932798",
+          "published": "2026-09-16T21:42:00+00:00",
+          "summary": "Anthropic-Forscher Jacob Coxon kündigt und warnt vor gefährlichem KI-Tempo Alignmentforscher Evan Hubinger sieht ein KI-Risiko von über 10 Prozent Debatte trifft Anthropic mitten in Börsenplänen"
         },
         {
-          "title": "RWE-Aktie gefragt: Energiekonzern stockt bei Amprion weiter auf",
-          "link": "https://www.finanzen.net/nachricht/aktien/anteil-gestiegen-rwe-aktie-gefragt-energiekonzern-stockt-bei-amprion-weiter-auf-15937891",
-          "published": "2026-09-16T19:50:00+00:00",
-          "summary": "Der Anteil von RWE an Amprion steigt damit auf rund 58 Prozent. M31 hält rund drei Viertel der Anteile an dem deutschen Übertragungsnetzbetreiber. Mitte Juni hatte RWE seine Amprion-Beteiligung ..."
+          "title": "Nach starken Gewinnen bei Shell, Exxon & Co: Werden Ölaktien jetzt zum Anlegerrisiko?",
+          "link": "https://www.finanzen.net/nachricht/aktien/oelaktien-als-profiteure-nach-starken-gewinnen-bei-shell-exxon-co-werden-oelaktien-jetzt-zum-anlegerrisiko-00-15937029",
+          "published": "2026-09-16T21:38:00+00:00",
+          "summary": "Iran-Krieg treibt Öl- und Gaspreise, gleichzeitig beeinträchtigen Produktionsausfälle die Konzerne Shell steigert bereinigten Gewinn im zweiten Quartal auf 9,8 Milliarden US-Dollar Milliardenschwere …"
         },
         {
-          "title": "Hot Stocks heute: Öl, Fed, großer Verfall: Kommt jetzt Bewegung in den DAX?",
-          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-oel-fed-grosser-verfall-kommt-jetzt-bewegung-in-den-dax-15937062",
-          "published": "2026-09-16T19:49:00+00:00",
-          "summary": "Dazu: Die US-Notenbank und die Zinsentscheidung als möglicher Kurstreiber, der große Verfall an den Terminbörsen am Freitag. Außerdem im Fokus: der stark gestiegene"
+          "title": "ROUNDUP/Schwesig vs. Holm: So lief das TV-Duell",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-schwesig-vs-holm-so-lief-das-tv-duell-15938250",
+          "published": "2026-09-16T21:34:39+00:00",
+          "summary": "SCHWERIN (dpa-AFX) - Vier Tage vor der Landtagswahl in Mecklenburg-Vorpommern haben sich die SPD-Kandidatin Manuela Schwesig und ihr AfD-Kontrahent Leif-Erik Holm in einem Fernsehduell teils hitzige …"
         },
         {
-          "title": "Euro gerät nach Fed-Entscheid kräftig unter Druck",
-          "link": "https://www.finanzen.net/nachricht/devisen/zinsentscheid-voraus-euro-geraet-nach-fed-entscheid-kraeftig-unter-druck-15936577",
-          "published": "2026-09-16T19:45:00+00:00",
-          "summary": "In New York kostete die Gemeinschaftswährung Euro mit 1,1466 US-Dollar zuletzt deutlich weniger als im späten europäischen Nachmittagshandel. Die Europäische Zentralbank hatte den Referenzkurs ..."
+          "title": "ROUNDUP 2: Berliner Spitzenkandidaten streiten in großem TV-Duell",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-berliner-spitzenkandidaten-streiten-in-grossem-tv-duell-15938249",
+          "published": "2026-09-16T21:34:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Vier Tage vor der Wahl zum Berliner Abgeordnetenhaus haben sich die Spitzenkandidaten von sechs Parteien den Fragen von Bürgern gestellt. In der RBB-\"Wahlarena\" diskutierten sie …"
         }
       ],
       "error": null
