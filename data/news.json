@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:10:35+00:00",
+  "generatedAt": "2026-09-16T20:09:43+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Livestream: rbb24 Wahlarena - Fragen an die Spitzenkandidaten in Berlin",
-          "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlarena-fragerunde-politiker-buerger-talk.html",
-          "published": "2026-09-16T17:57:10+00:00",
+          "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
+          "published": "2026-09-16T19:11:50+00:00",
+          "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit …"
+        },
+        {
+          "title": "tagesschau 20:00 Uhr",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1650254.html",
+          "published": "2026-09-16T18:48:07+00:00",
+          "summary": "Regierungskoalition arbeitet an schnellen Entlastungen angesichts hoher Spritpreise, Umstieg auf Elektro-Lkws aufgrund gestiegener Dieselpreise, CDU-Ministerpräsidenten warnen vor Personaldiskussion …"
+        },
+        {
+          "title": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html",
+          "published": "2026-09-16T18:20:26+00:00",
+          "summary": "Martin Gutzeit war 1989 Mitbegründer der Ost-SPD und später langjähriger Berliner Beauftragter für die Stasi-Unterlagen. Nun ist er im Alter von 74 Jahren in Berlin gestorben."
+        },
+        {
+          "title": "Markus Preiß, ARD Berlin, zu den Personaldiskussionen um Kanzler Merz",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1650232.html",
+          "published": "2026-09-16T18:20:06+00:00",
           "summary": ""
         },
         {
-          "title": "Livestream: TV-Duell vor der MV-Landtagswahl - Holm fordert Schwesig heraus",
-          "link": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/tv-duell-vor-der-mv-landtagswahl-holm-fordert-schwesig-heraus,mvwahl-364.html",
-          "published": "2026-09-16T17:57:09+00:00",
+          "title": "Wie sich die Spritpreise auf die Speditionsunternehmen auswirken",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1650224.html",
+          "published": "2026-09-16T18:18:29+00:00",
           "summary": ""
-        },
-        {
-          "title": "Vier Jahre \"Frau, Leben, Freiheit\": Was von Irans Protesten geblieben ist",
-          "link": "https://www.tagesschau.de/ausland/asien/iran-jahrestag-frau-leben-freiheit-100.html",
-          "published": "2026-09-16T17:40:33+00:00",
-          "summary": "Vor vier Jahren starb eine junge Kurdin nach ihrer Festnahme durch die Sittenpolizei in Iran, es folgten landesweite Proteste. Frauen haben sich seitdem kleine Freiräume erkämpft - doch die …"
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-16T17:38:20+00:00",
-          "summary": "Donnerstag gibts im Nordwesten viele Wolken und ab dem Nachmittag Regen. Sonst erwartet uns ein trockener Wechsel aus Sonne und Wolken mit dem meisten Sonnenschein vom Bodensee bis nach Oberschwaben. …"
-        },
-        {
-          "title": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
-          "published": "2026-09-16T17:15:59+00:00",
-          "summary": "Angesichts hoher Spritpreise hat die Politik Entlastung versprochen - aber es ist unklar, wie die aussehen könnte. Nach Unionsfraktionschef Frei sprach sich nun auch Wirtschaftsministerin Reiche für …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "ARD und ZDF: SPD wirft Weimer indirekte Wahlkampfhilfe für AfD vor",
+          "link": "https://www.handelsblatt.com/politik/deutschland/ard-und-zdf-spd-wirft-weimer-indirekte-wahlkampfhilfe-fuer-afd-vor/100255139.html",
+          "published": "2026-09-16T19:10:48+00:00",
+          "summary": "Kulturstaatsminister Wolfram Weimer bringt die Privatisierung des ZDF und die Auflösung kleinerer ARD-Anstalten ins Gespräch. Die AfD lobt den Vorstoß, die SPD ist empört."
+        },
+        {
+          "title": "Wall Street: US-Börsen drehen nach Fed-Zinserhöhung ins Minus",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-drehen-nach-fed-zinserhoehung-ins-minus/100255058.html",
+          "published": "2026-09-16T19:09:08+00:00",
+          "summary": "Die US-Notenbank hat die Zinsen um 0,25 Prozentpunkte angehoben. Einzelne Börsenindizes reagieren negativ. Bei den Anleiherenditen deutet sich dagegen etwas Entspannung an."
+        },
+        {
           "title": "US-Wirtschaft: US-Notenbank erhöht erstmals seit Juli 2023 wieder Leitzins",
           "link": "https://www.handelsblatt.com/politik/deutschland/us-wirtschaft-us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins/100255142.html",
-          "published": "2026-09-16T18:01:58+00:00",
+          "published": "2026-09-16T19:00:05+00:00",
           "summary": "Fed-Chef Warsh signalisierte jüngst Bereitschaft für eine Zinserhöhung, an den Finanzmärkten wurde mit großer Mehrheit damit gerechnet. Sicher war das allerdings keineswegs."
         },
         {
-          "title": "Fed: US-Notenbank erhöht Leitzins erstmals seit rund drei Jahren",
+          "title": "Fed: Einstimmige Entscheidung: US-Notenbank erhöht Leitzins erstmals seit rund drei Jahren",
           "link": "https://www.handelsblatt.com/finanzen/geldpolitik/fed-us-notenbank-erhoeht-leitzins-erstmals-seit-rund-drei-jahren/100253966.html",
-          "published": "2026-09-16T18:01:22+00:00",
+          "published": "2026-09-16T18:33:23+00:00",
           "summary": "Ein starker Arbeitsmarkt sowie die anhaltend hohe Inflation hatten für eine Erhöhung gesprochen. Die Notenbanker stellen sich somit gegen die Wünsche von US-Präsident Donald Trump."
         },
         {
-          "title": "Temperaturbestimmung beim Dino: Zahnanalyse bestätigt: Der T. rex war Warmblüter",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/temperaturbestimmung-beim-dino-zahnanalyse-bestaetigt-der-t-rex-war-warmblueter/100255141.html",
-          "published": "2026-09-16T18:00:04+00:00",
-          "summary": "Von wegen kaltblütige Echse. Forscher haben an Zähnen eines Museums-Dinos gekratzt und wissen nun: Der T. rex hatte eine Körpertemperatur, die gar nicht so weit von unserer entfernt war."
-        },
-        {
-          "title": "Hohe Spritpreise: Italien verzichtet ein Jahr lang weitgehend auf Kfz-Steuer",
-          "link": "https://www.handelsblatt.com/politik/international/hohe-spritpreise-italien-verzichtet-ein-jahr-lang-weitgehend-auf-kfz-steuer/100255140.html",
-          "published": "2026-09-16T17:53:50+00:00",
-          "summary": "Auch in Italien muss an den Tankstellen derzeit deutlich mehr gezahlt werden als früher. Jetzt setzt die Regierung Meloni für 2027 für viele Autos und Motorräder die Kfz-Steuer aus."
-        },
-        {
-          "title": "Autofahrer: Reiche will Umsatzsteuer auf Benzin und Diesel senken – und kündigt weitere Maßnahmen an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/autofahrer-reiche-will-umsatzsteuer-auf-benzin-und-diesel-senken/100255131.html",
-          "published": "2026-09-16T17:45:49+00:00",
-          "summary": "Die Wirtschaftsministerin will beim Sprit über die Steuer entlasten, für Unternehmen sind weitere Hilfen denkbar. Von den Vorschlägen des Koalitionspartners hält sie hingegen nichts."
+          "title": "Schrottimmobilien: Zehn-Punkte-Plan von Bas und Dobrindt gegen Sozialbetrug",
+          "link": "https://www.handelsblatt.com/politik/deutschland/schrottimmobilien-zehn-punkte-plan-von-bas-und-dobrindt-gegen-sozialbetrug/100255129.html",
+          "published": "2026-09-16T18:22:40+00:00",
+          "summary": "Bei Sozialbetrug geht es um kriminelle Machenschaften und viel Geld. Die Bundesregierung hat einen verstärkten Kampf dagegen bereits angekündigt - nun sollen Taten folgen."
         }
       ],
       "error": null
@@ -86,10 +86,16 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Härtetest Deutschland: Waymo plant Robotaxi-Start in München und Berlin",
+          "link": "https://www.n-tv.de/wirtschaft/Waymo-plant-Robotaxi-Start-in-Muenchen-und-Berlin-id31314182.html",
+          "published": "2026-09-16T19:27:49+00:00",
+          "summary": "Die Google-Tochter Waymo drängt mit Macht nach Deutschland und arbeitet am Start in München und wohl auch in Berlin. Dazu hat sie sich jetzt mit dem Versicherer Allianz zusammengeschlossen."
+        },
+        {
           "title": "Um 0,25 Prozentpunkte: US-Zentralbank erhöht Leitzins erstmals seit 2023",
           "link": "https://www.n-tv.de/wirtschaft/US-Zentralbank-erhoeht-Leitzins-erstmals-seit-2023-id31314183.html",
           "published": "2026-09-16T18:03:07+00:00",
-          "summary": "Die Inflation in den USA hält sich hartnäckig. Das veranlasst die dortige Notenbank zu einem Schritt, den es schon lange nicht mehr gab. Gleichzeitig ist das Vorgehen aber auch keine Überraschung."
+          "summary": "Die Inflation in den USA hält sich hartnäckig. Das veranlasst die dortige Notenbank zu einem Schritt, den es schon lange nicht mehr gab. Gleichzeitig ist das Vorgehen aber auch keine Überraschung. …"
         },
         {
           "title": "Profite fallen woanders an: Benzinpreisdeckel funktionieren, sind aber sinnlos",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Der-Dieselmarkt-wird-sich-so-schnell-nicht-erholen-id31312380.html",
           "published": "2026-09-16T13:27:25+00:00",
           "summary": "Zu Beginn des Jahres trieb vor allem die knappe Versorgung mit Rohöl die Spritpreise. Mittlerweile sind knappe Raffinerie-Kapazitäten mindestens Teil des Problems. Die Lage hat sich damit …"
-        },
-        {
-          "title": "Fed vor riskanter Entscheidung: Warsh und Trump steuern auf Kollision zu",
-          "link": "https://www.n-tv.de/wirtschaft/Warsh-und-Trump-steuern-auf-Kollision-zu-id31306805.html",
-          "published": "2026-09-16T11:41:22+00:00",
-          "summary": "Kevin Warsh steht vor seiner bislang heikelsten Entscheidung als Fed-Chef. Die Inflation spricht für höhere Zinsen, Donald Trump verlangt niedrigere. Wie der US-Präsident auf Widerstand aus der …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "Goldpreis fällt nach Fed-Zinserhöhung auf tiefsten Stand seit Anfang August",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/goldpreis-faellt-nach-fed-zinserhoehung-auf-tiefsten-stand-seit-anfang-august-15938177",
+          "published": "2026-09-16T20:02:39+00:00",
+          "summary": "LONDON (dpa-AFX) - Der Goldpreis ist am Mittwochabend nach der Zinserhöhung in den USA auf den tiefsten Stand seit Anfang August abgesackt. Der Preis für eine Feinunze Gold (etwa 31,1 Gramm) gab am …"
+        },
+        {
+          "title": "Ökonomen-Stimmen zur Zinsentscheidung der US-Notenbank Fed",
+          "link": "https://www.finanzen.net/nachricht/aktien/oekonomen-stimmen-zur-zinsentscheidung-der-us-notenbank-fed-15938173",
+          "published": "2026-09-16T19:51:38+00:00",
+          "summary": "WASHINGTON (dpa-AFX) - Die US-Notenbank Federal Reserve hebt wegen der hartnäckig hohen Inflation erstmals seit Sommer 2023 den Leitzins an. Dieser steigt um 0,25 Prozentpunkte auf 3,75 bis 4,00 …"
+        },
+        {
+          "title": "RWE-Aktie gefragt: Energiekonzern stockt bei Amprion weiter auf",
+          "link": "https://www.finanzen.net/nachricht/aktien/anteil-gestiegen-rwe-aktie-gefragt-energiekonzern-stockt-bei-amprion-weiter-auf-15937891",
+          "published": "2026-09-16T19:50:00+00:00",
+          "summary": "Der Anteil von RWE an Amprion steigt damit auf rund 58 Prozent. M31 hält rund drei Viertel der Anteile an dem deutschen Übertragungsnetzbetreiber. Mitte Juni hatte RWE seine Amprion-Beteiligung ..."
+        },
+        {
           "title": "Hot Stocks heute: Öl, Fed, großer Verfall: Kommt jetzt Bewegung in den DAX?",
           "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-oel-fed-grosser-verfall-kommt-jetzt-bewegung-in-den-dax-15937062",
-          "published": "2026-09-16T18:05:00+00:00",
+          "published": "2026-09-16T19:49:00+00:00",
           "summary": "Dazu: Die US-Notenbank und die Zinsentscheidung als möglicher Kurstreiber, der große Verfall an den Terminbörsen am Freitag. Außerdem im Fokus: der stark gestiegene"
         },
         {
-          "title": "Vor Anthropic-IPO: Was die Sicherheitsbedenken für den Börsengang und KI-Aktien bedeuten",
-          "link": "https://www.finanzen.net/nachricht/aktien/sicherheitsdebatte-vor-anthropic-ipo-was-die-sicherheitsbedenken-fuer-den-boersengang-und-ki-aktien-bedeuten-00-15932798",
-          "published": "2026-09-16T18:05:00+00:00",
-          "summary": "Anthropic-Forscher Jacob Coxon kündigt und warnt vor gefährlichem KI-Tempo Alignmentforscher Evan Hubinger sieht ein KI-Risiko von über 10 Prozent Debatte trifft Anthropic mitten in Börsenplänen"
-        },
-        {
-          "title": "US-Notenbank hebt Leitzins wie erwartet um 25 Basispunkte an",
-          "link": "https://www.finanzen.net/nachricht/zinsen/us-notenbank-hebt-leitzins-wie-erwartet-um-25-basispunkte-an-15938087",
-          "published": "2026-09-16T18:04:44+00:00",
-          "summary": "Von Nick Timiraos DOW JONES--Die US-Notenbank strafft wie erwartet ihre Geldpolitik. Wie die Federal Reserve mitteilte, steigt der Zielsatz für die Fed Funds Rate um 25 Basispunkte auf 3,75 bis 4,00 …"
-        },
-        {
-          "title": "HOLD: US-Notenbank hebt Leitzinsen um 0,25 Prozentpunkte an",
-          "link": "https://www.finanzen.net/nachricht/aktien/hold-us-notenbank-hebt-leitzinsen-um-0-25-prozentpunkte-an-15938086",
-          "published": "2026-09-16T18:04:38+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Die US-Notenbank Fed hat ihre Leitzinsen erstmals unter dem neuen Notenbankchef Kevin Warsh angehoben. Die Zinsspanne steige um 0,25 Prozentpunkte, wie die Fed am Mittwoch in …"
-        },
-        {
-          "title": "Starker Wochentag in New York: NASDAQ 100 in der Gewinnzone",
-          "link": "https://www.finanzen.net/nachricht/aktien/starker-wochentag-in-new-york-nasdaq-100-in-der-gewinnzone-15938080",
-          "published": "2026-09-16T18:02:37+00:00",
-          "summary": "Am Mittwoch notiert der NASDAQ 100 um 20:00 Uhr via NASDAQ 0,76 Prozent höher bei 29.156,79 Punkten. In den Handel ging der NASDAQ 100 0,595 Prozent höher bei 29.110,04 Punkten, nach 28.937,84 ..."
+          "title": "Euro gerät nach Fed-Entscheid kräftig unter Druck",
+          "link": "https://www.finanzen.net/nachricht/devisen/zinsentscheid-voraus-euro-geraet-nach-fed-entscheid-kraeftig-unter-druck-15936577",
+          "published": "2026-09-16T19:45:00+00:00",
+          "summary": "In New York kostete die Gemeinschaftswährung Euro mit 1,1466 US-Dollar zuletzt deutlich weniger als im späten europäischen Nachmittagshandel. Die Europäische Zentralbank hatte den Referenzkurs ..."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Fed-Entscheid: Fed erhöht Leitzins auf 3,75 bis 4,00 Prozent",
-          "link": "https://www.wiwo.de/politik/ausland/fed-entscheid-us-notenbank-erhoeht-leitzins-auf-375-bis-400-prozent/100254802.html",
-          "published": "2026-09-16T18:08:00+00:00",
+          "title": "Fed-Leitzins: Kevin Warsh stärkt das Vertrauen in die US-Notenbank",
+          "link": "https://www.wiwo.de/finanzen/boerse/fed-leitzins-warum-kevin-warsh-den-leitzins-gegen-donald-trumps-willen-anhebt/100254905.html",
+          "published": "2026-09-16T19:35:00+00:00",
+          "summary": "Der US-Notenbankchef will entschieden gegen die steigende Inflation kämpfen und erhöht den Leitzins. Die Wünsche von US-Präsident Donald Trump rücken in weite Ferne."
+        },
+        {
+          "title": "Debatte um Kanzlerwechsel: Diese Entscheidungen zeigen, wie ernst Merz' Krise wirklich ist",
+          "link": "https://www.wiwo.de/politik/deutschland/kanzler-in-der-krise-friedrich-merz-sagt-new-york-reise-kurzfristig-ab/100254864.html",
+          "published": "2026-09-16T19:32:00+00:00",
+          "summary": "Keine Reise nach New York, dafür ein Unterstützerbrief der CDU-Ministerpräsidenten: Die Krise des Kanzlers verschärft sich – selbst wichtige Investorengespräche fallen aus."
+        },
+        {
+          "title": "US-Notenbank: Warsh wagt die Zinserhöhung – und will bald nachlegen",
+          "link": "https://www.wiwo.de/politik/ausland/fed-leitzins-us-notenbank-erhoeht-zins-auf-bis-zu-400-prozent/100254802.html",
+          "published": "2026-09-16T19:20:00+00:00",
           "summary": "Zum ersten Mal seit Sommer 2023 hat die Fed den Leitzins angehoben. US-Notenbank-Chef Kevin Warsh gerät damit auf Konfrontationskurs zu Donald Trump."
+        },
+        {
+          "title": "Kampf um China-Technik: Die Tricks der Mobilfunkanbieter gegen ein Huawei-Verbot",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/huawei-verbot-wie-netzbetreiber-gegen-das-eu-gesetz-kaempfen/100255063.html",
+          "published": "2026-09-16T18:31:00+00:00",
+          "summary": "Mobilfunkanbieter mit Huawei-Technik in ihren Netzen wehren sich gegen die Austauschpflicht. Ihre Einflussnahme auf eine vermeintlich unabhängige Studie zeigt, wie weit sie gehen."
         },
         {
           "title": "BörsenTag: Die Rally der Cybersecurity-Aktien",
           "link": "https://www.wiwo.de/finanzen/boerse/crowdstrike-fortinet-palo-alto-networks-diese-aktien-haben-von-den-kiwarnungen-profitiert/100254908.html",
           "published": "2026-09-16T17:59:00+00:00",
           "summary": "Die mahnenden Rufe der KI-Chefs lassen Aktien von Crowdstrike, Fortinet und Palo Alto Networks steigen. Der Markt boomt – doch die Bewertung der Aktien ist bereits hoch."
-        },
-        {
-          "title": "Sozialmissbrauch: Regierung legt Zehn-Punkte-Plan gegen Sozialbetrug vor",
-          "link": "https://www.wiwo.de/politik/deutschland/sozialmissbrauch-regierung-legt-zehn-punkte-plan-zu-sozialbetrug-vor/100255130.html",
-          "published": "2026-09-16T17:54:00+00:00",
-          "summary": "Mit ausbeuterischen Geschäftsmodellen betrügen Kriminelle den Staat um viel Geld. Jetzt will die Regierung wirkungsvoller gegen die Machenschaften einschreiten."
-        },
-        {
-          "title": "Leere Gasspeicher: Die Angst vor leeren Speichern lässt die Prinzipien schmelzen",
-          "link": "https://www.wiwo.de/unternehmen/energie/gasspeicher-fuellstand-katherina-reiches-heikle-wende-vor-dem-winter/100255092.html",
-          "published": "2026-09-16T17:04:00+00:00",
-          "summary": "Wirtschaftsministerin Reiche forciert die Befüllung der Gasspeicher nun doch. Gut so – auch wenn es die beteiligten Staatsbetriebe in Erklärungsnöte bringt. Ein Kommentar."
-        },
-        {
-          "title": "Kampf um China-Technik: Die Tricks der Mobilfunkanbieter gegen ein Huawei-Verbot",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/huawei-verbot-wie-netzbetreiber-gegen-das-eu-gesetz-kaempfen/100255063.html",
-          "published": "2026-09-16T17:03:06+00:00",
-          "summary": "Mobilfunkanbieter mit Huawei-Technik in ihren Netzen wehren sich gegen die Austauschpflicht. Ihre Einflussnahme auf eine vermeintlich unabhängige Studie zeigt, wie weit sie gehen."
         }
       ],
       "error": null
