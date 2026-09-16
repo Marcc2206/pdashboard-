@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T22:09:08+00:00",
+  "generatedAt": "2026-09-16T00:12:18+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649704.html",
+          "published": "2026-09-16T00:02:42+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
+          "link": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
+          "published": "2026-09-15T23:13:56+00:00",
+          "summary": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtmunition beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf …"
+        },
+        {
+          "title": "So lief die TV-Debatte zur Landtagswahl in Mecklenburg-Vorpommern",
+          "link": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/tv-debatte-so-lief-der-schlagabtausch-zur-landtagswahl-in-mv,mvwahl-362.html",
+          "published": "2026-09-15T23:02:42+00:00",
+          "summary": "In Mecklenburg-Vorpommern läuft der Wahlkampf-Endspurt vor der Landtagswahl am Sonntag. Bei der TV-Debatte im NDR lieferten sich die Spitzenkandidaten der Linken, CDU, Grünen und des BSW einen …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80930.html",
+          "published": "2026-09-15T22:26:55+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12860.html",
           "published": "2026-09-15T20:55:57+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Engin Catik, Leiter Landesinstitut für Qualifizierung und Qualitätsentwicklung, über die Probleme an Berlins Schulen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1649676.html",
-          "published": "2026-09-15T20:35:58+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Lehrermangel und Pisa-Studie: Berlins Schulen unter Druck",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1649674.html",
-          "published": "2026-09-15T20:33:40+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Wohnungsnot und hohe Mieten sind auch Wahlthemen in Berlin am Wochenende",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1649672.html",
-          "published": "2026-09-15T20:28:56+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649648.html",
-          "published": "2026-09-15T19:51:12+00:00",
           "summary": ""
         }
       ],
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "+++ USA +++: Trump will Kennedy Center schließen",
+          "link": "https://www.handelsblatt.com/politik/international/trump-draengt-staaten-zur-abkehr-vom-internationalen-strafgerichtshof/29669594.html",
+          "published": "2026-09-15T23:44:00+00:00",
+          "summary": "Niederlage vor Supreme Court – Trump rügt das Gericht +++ USA entsenden erstmals Waffen ins Weltall +++ Trumps Beliebtheit steigt leicht +++ Der Newsblog."
+        },
+        {
+          "title": "US-Kongress: Iran-Krieg kostet die USA bereits 38 Milliarden Dollar",
+          "link": "https://www.handelsblatt.com/politik/international/us-kongress-iran-krieg-kostet-die-usa-bereits-38-milliarden-dollar/100254832.html",
+          "published": "2026-09-15T23:35:30+00:00",
+          "summary": "Nach Berechnungen des US-Haushaltsbüros könnte jeder weitere Kriegsmonat bis zu drei Milliarden Dollar kosten. Zugleich treibt der Konflikt die Inflation und belastet die Raketenbestände."
+        },
+        {
+          "title": "USA-Reise: Hegseth: Deutsche Industrie für Nato-Verteidigung nutzen",
+          "link": "https://www.handelsblatt.com/politik/international/usa-reise-hegseth-deutsche-industrie-fuer-nato-verteidigung-nutzen/100254835.html",
+          "published": "2026-09-15T23:15:04+00:00",
+          "summary": "Der „Kriegsminister“ ist voll des Lobes für Deutschlands Kurs in der Nato. Beim Besuch von Pistorius wird eine vertiefte Zusammenarbeit beim Bau von Waffen und Munition vereinbart."
+        },
+        {
           "title": "Nato-Ostflanke: Litauen: Abgeschossene Drohne hatte Sprengsatz",
           "link": "https://www.handelsblatt.com/politik/international/nato-ostflanke-litauen-abgeschossene-drohne-hatte-sprengsatz/100254507.html",
           "published": "2026-09-15T21:32:58+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-sefe-befuellt-fuer-ministerin-reiche-deutsche-gasspeicher/100254812.html",
           "published": "2026-09-15T19:37:26+00:00",
           "summary": "Die Wirtschaftsministerin hat den bundeseigenen Gasimporteur dazu angehalten, Gas einzukaufen. Reiche will so eine drohende Versorgungskrise verhindern. Erste Reaktionen aus der Branche sind positiv."
-        },
-        {
-          "title": "USA-Reise: Pistorius und Hegseth unterzeichnen Rüstungsvereinbarung",
-          "link": "https://www.handelsblatt.com/politik/international/usa-reise-pistorius-und-hegseth-unterzeichnen-ruestungsvereinbarung/100254545.html",
-          "published": "2026-09-15T19:26:55+00:00",
-          "summary": "Rüstungsprojekte, UN-Einsätze, Tarnkappenjets: Der deutsche Verteidigungsminister beginnt wichtige Gespräche in den USA. Zum Auftakt vereinbart er engere Rüstungskooperationen."
-        },
-        {
-          "title": "CDU: Merz zwischen Adenauer und der Gegenwart – „Wo wir stehen, wo wir hinwollen und was der Plan ist“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-merz-beruft-sich-auf-adenauer-und-muss-antworten-auf-die-krise-finden/100254460.html",
-          "published": "2026-09-15T19:26:52+00:00",
-          "summary": "Der Kanzler sucht am Dienstagabend Halt bei Konrad Adenauer und ringt um Vertrauen – seine Partei um Richtung und junge Menschen um eine Perspektive. Merz muss erklären, wohin er Deutschland führen …"
-        },
-        {
-          "title": "Kultureinrichtung: Trump: Kennedy Center wird umgehend geschlossen",
-          "link": "https://www.handelsblatt.com/politik/international/kultureinrichtung-trump-kennedy-center-wird-umgehend-geschlossen/100254824.html",
-          "published": "2026-09-15T19:26:04+00:00",
-          "summary": "Präsident Trump wollte seinen Namen an das berühmte Kennedy Center in Washington anbringen, doch ein Gericht blockiert den Schritt mehrfach. Jetzt folgt ein drastischer Schritt."
         }
       ],
       "error": null
