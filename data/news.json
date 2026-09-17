@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T14:10:19+00:00",
+  "generatedAt": "2026-09-17T16:10:05+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in Einfacher Sprache",
+          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1430.html",
+          "published": "2026-09-17T16:02:32+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80990.html",
-          "published": "2026-09-17T14:09:00+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80988.html",
+          "published": "2026-09-17T15:48:42+00:00",
           "summary": ""
         },
         {
-          "title": "Kanadischer Premier begrüßt bei Rede vor EU-Pläne für Status als \"assoziiertes Mitglied\"",
-          "link": "https://www.tagesschau.de/video/video-1650632.html",
-          "published": "2026-09-17T14:06:19+00:00",
+          "title": "Brandanschlag auf Synagoge in Wuppertal - Verdächtiger festgenommen",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html",
+          "published": "2026-09-17T15:36:00+00:00",
+          "summary": "Auf die Synagoge der Jüdischen Kultusgemeinde in Wuppertal ist ein Brandanschlag verübt worden. Ein Mann soll einen Beutel mit brennbarer Flüssigkeit an das Gebäude geworfen haben. Der Verdächtige …"
+        },
+        {
+          "title": "EU plant Verbot von Social Media für Kinder unter 13 Jahren",
+          "link": "https://www.tagesschau.de/video/video-1650666.html",
+          "published": "2026-09-17T15:17:34+00:00",
           "summary": ""
         },
         {
-          "title": "Wahlarena Berlin: Zwischen Schlagabtausch und Sondierungsgesprächen",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/wahlarena-berlin-100.html",
-          "published": "2026-09-17T13:52:29+00:00",
-          "summary": "Wenige Tage vor der Berlin-Wahl haben sich sechs Spitzenkandidaten in der Wahlarena den Fragen der Zuschauer gestellt. Dabei wurden teils deutliche Unterschiede deutlich, an denen Gespräche nach der …"
-        },
-        {
-          "title": "Frankfurt am Main: An Malaria erkrankte Person gestorben",
-          "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-faelle-frankfurt-100.html",
-          "published": "2026-09-17T13:46:01+00:00",
-          "summary": "In Frankfurt am Main ist eine Person, die an Malaria erkrankt war, gestorben. Sie und eine weitere erkrankte Person haben laut Gesundheitsamt nahe dem Flughafen gewohnt. Ein Malaria-Gebiet hatten …"
-        },
-        {
-          "title": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
-          "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
-          "published": "2026-09-17T13:27:18+00:00",
-          "summary": "Der von Ulf Kristersson geführte konservativ-rechte Parteienblock musste bei der Wahl in Schweden eine Niederlage hinnehmen. Der Regierungschef trat zurück. Die bisherige Opposition steht mit …"
+          "title": "Deutschlands größter Windpark an der Nordsee eröffnet",
+          "link": "https://www.tagesschau.de/video/video-1650668.html",
+          "published": "2026-09-17T15:17:32+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -53,28 +53,28 @@
           "summary": "Rund um den letzten Willen gibt es viele Missverständnisse. Von der Rolle des Ex-Partners über das Steuerrecht bis zur Rechtswahl – diesen Irrtümern sollten Sie nicht aufsitzen."
         },
         {
-          "title": "Aussteiger: „Nackt kündigen“: Junge Chinesen entfliehen dem hohen Druck im Job",
-          "link": "https://www.handelsblatt.com/politik/international/arbeitsmarkt-nackt-kuendigen-gegen-den-harten-arbeitsalltag-in-china/100240142.html",
-          "published": "2026-09-17T14:20:00+00:00",
-          "summary": "Chinas Aufstiegsversprechen bröckelt. Vor allem in der jungen Generation schwindet die Bereitschaft, sich aufzureiben. Das Handelsblatt hat junge Aussteiger besucht. Ihre Motive überraschen."
+          "title": "IW-Stimmungsindex: Immobilienmanager blicken skeptisch auf die kommenden Monate",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-immobilienmanager-blicken-skeptisch-auf-die-kommenden-monate/100251123.html",
+          "published": "2026-09-17T16:00:00+00:00",
+          "summary": "Die Stimmung in der Branche erholt sich leicht auf schwachem Niveau. Das zeigt der IW-Stimmungsindex, der dem Handelsblatt vorab vorliegt. Belastend wirken die zuletzt gestiegenen Bauzinsen."
         },
         {
-          "title": "Regulierung: Bafin warnt: Sanierungsfälle mindern Chancen auf weniger Vorgaben für kleine Banken",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bafin-warnt-sanierungsfaelle-mindern-chancen-auf-weniger-vorgaben/100255281.html",
-          "published": "2026-09-17T14:03:58+00:00",
-          "summary": "Sparkassen und Genossenschaftsbanken hoffen auf den Abbau von Vorgaben. Die Bafin hat dazu zwar Vorschläge gemacht, aber die jüngsten Skandale könnten die Chance auf Umsetzung schmälern."
+          "title": "Arbeitszeit: Bundesgericht kippt Ausgleich für Überstunden eines Rektors",
+          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitszeit-bundesgericht-kippt-ausgleich-fuer-ueberstunden-eines-rektors/100255382.html",
+          "published": "2026-09-17T15:51:21+00:00",
+          "summary": "Wie viel Mehrarbeit steckt im Lehreralltag? Ein Grundschulrektor kämpft um Entschädigung. Das Bundesverwaltungsgericht hat nun entschieden."
         },
         {
-          "title": "Autoindustrie: Klingbeil dringt auf robustere Handelspolitik gegenüber China",
-          "link": "https://www.handelsblatt.com/video/politik/autoindustrie-klingbeil-dringt-auf-robustere-handelspolitik-gegenueber-china/100255425.html",
-          "published": "2026-09-17T13:55:26+00:00",
-          "summary": "Angesichts der Krise bei Volkswagen fordert Bundesfinanzminister Klingbeil (SPD) einen härteren Umgang mit Staaten, die die hiesige Industrie durch „unfaire Handelspraktiken“ bedrohen. „Wir dürfen …"
+          "title": "Märkte Insight: Droht das Ende der US-Rally? Prognosen von Wall-Street-Größen fallen zurecht ernüchternd aus",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-wall-street-groessen-sind-zurecht-vorsichtig-bei-us-aktien/100254305.html",
+          "published": "2026-09-17T15:45:37+00:00",
+          "summary": "Ein Analyst hat seinen Ausblick für US-Aktien gekappt, eine Strategin erwartet bis Jahresende sogar Verluste. Ihre Argumente sind nicht nur für Skeptiker interessant, meint Martin Müller."
         },
         {
-          "title": "Digitalisierung: Verspricht die Spark-KI mehr, als sie halten kann?",
-          "link": "https://www.handelsblatt.com/technik/medizin/background-digitalisierung-und-ki/digitalisierung-verspricht-die-spark-ki-mehr-als-sie-halten-kann/100255375.html",
-          "published": "2026-09-17T13:50:41+00:00",
-          "summary": "Erst nach einer IFG-Anfrage veröffentlicht das Bundesdigitalministerium die Kosten für seine Spark-KI. Sie soll Planungs- und Genehmigungsverfahren in Behörden beschleunigen."
+          "title": "Wall Street: Auf den Einbruch folgt der Ausbruch",
+          "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-auf-den-einbruch-folgt-der-ausbruch/100255426.html",
+          "published": "2026-09-17T15:38:16+00:00",
+          "summary": "Am Mittwoch reagierte die Wall Street nur wenig begeistert auf die Zinserhöhungen der Fed. Am Donnerstag hob sie aber schon wieder ab – auch wegen Anleihenrenditen und Ölpreis."
         }
       ],
       "error": null
@@ -86,7 +86,19 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Nicht nur reine E-Autos : Volvo startet größte Modelloffensive seiner Geschichte",
+          "title": "Micron verdiente Milliarden: Chiphersteller bietet Beschäftigten Mega-Bonus - die lehnen ab",
+          "link": "https://www.n-tv.de/wirtschaft/Chiphersteller-bietet-Beschaeftigten-Mega-Bonus-die-lehnen-ab-id31318044.html",
+          "published": "2026-09-17T15:19:36+00:00",
+          "summary": "US-Chiphersteller Micron lässt auch in Taiwan produzieren - und macht dank KI-Boom enorme Umsätze. An denen wollen die Mitarbeiter beteiligt werden. Das Unternehmen bietet ihnen einen Bonus - von bis …"
+        },
+        {
+          "title": "Live-Daten von der Zapfsäule: So reagieren Benzin und Diesel",
+          "link": "https://www.n-tv.de/wirtschaft/Live-Daten-zum-Spritpreise-Anstieg-Benzin-und-Diesel-id31316375.html",
+          "published": "2026-09-17T15:17:48+00:00",
+          "summary": "Die geopolitische Lage führt in Deutschland zu spürbaren Verwerfungen: Die Preise für Benzin und Diesel ziehen steil an. Der weltweite Energiepreisschock trifft Verbraucher in Deutschland immer …"
+        },
+        {
+          "title": "Nicht nur reine E-Autos: Volvo startet größte Modelloffensive seiner Geschichte",
           "link": "https://www.n-tv.de/wirtschaft/Volvo-startet-groesste-Modelloffensive-seiner-Geschichte-id31317468.html",
           "published": "2026-09-17T13:39:20+00:00",
           "summary": "Mit einer breit angelegten Modelloffensive will Volvo seinen Marktanteil verdoppeln und die Profitabilität steigern. Bis 2030 sollen 13 neue Modelle kommen - vom E-Auto bis zum Hybrid. …"
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Meta-haftet-fuer-Fake-Werbung-auf-Instagram-und-Facebook-id31316758.html",
           "published": "2026-09-17T12:29:30+00:00",
           "summary": "Betrüger werben mit gefälschten Profilen und dem Gesicht eines bekannten Finanzexperten für dubiose Geldanlagen auf Social-Media-Plattformen. Ein Gericht nimmt nun Meta in die Pflicht."
-        },
-        {
-          "title": "Rote Zahlen im Güterverkehr: DB Cargo verfehlt erneut EU-Vorgabe",
-          "link": "https://www.n-tv.de/wirtschaft/DB-Cargo-verfehlt-erneut-EU-Vorgabe-id31316637.html",
-          "published": "2026-09-17T11:46:18+00:00",
-          "summary": "DB Cargo und die EU-Kommission müssen nachverhandeln: Trotz EU-Vorgabe schreibt der Konzern auch 2026 weiter rote Zahlen. Cargo-Chef Osburg sieht sein Unternehmen dennoch auf einem guten Weg."
-        },
-        {
-          "title": "Gewerkschaft sieht Ziel verfehlt: Studie: Gastronomie-Steuersenkung kommt bei Gästen nicht an",
-          "link": "https://www.n-tv.de/wirtschaft/Studie-Gastronomie-Steuersenkung-kommt-bei-Gaesten-nicht-an-id31316366.html",
-          "published": "2026-09-17T10:17:40+00:00",
-          "summary": "Für Speisen in Restaurants und Cafés ist seit Januar ein ermäßigter Mehrwertsteuersatz von sieben Prozent fällig. Mit der Maßnahme wollte die Regierung auch Gäste entlasten. Doch für sie bleiben die …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Nokia-Aktie springt hoch: Kooperation mit Microsoft treibt KI-Geschäft an",
-          "link": "https://www.finanzen.net/nachricht/aktien/neue-partnerschaft-nokia-aktie-springt-hoch-kooperation-mit-microsoft-treibt-ki-geschaeft-an-15939136",
-          "published": "2026-09-17T14:03:00+00:00",
-          "summary": "Das Papier notierte in Helsinki zuletzt mit einem Aufschlag von 6,81 Prozent bei 9,44 Euro. Nokia hat seit Jahresbeginn eine Wertsteigerung von fast 70 Prozent verzeichnet."
+          "title": "ROUNDUP: Bundesgericht kippt Ausgleich für Überstunden eines Rektors",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-bundesgericht-kippt-ausgleich-fuer-ueberstunden-eines-rektors-15940030",
+          "published": "2026-09-17T16:04:39+00:00",
+          "summary": "LEIPZIG (dpa-AFX) - Lehrkräfte haben keinen automatischen Anspruch auf finanziellen Ausgleich bei Überschreitung der Wochenarbeitszeit. Es dürfe nicht eigenständig die Arbeitszeit verlängert und …"
         },
         {
-          "title": "Ölpreise geben weiter deutlich nach",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/oelpreise-geben-weiter-deutlich-nach-15939696",
-          "published": "2026-09-17T14:01:39+00:00",
-          "summary": "NEW YORK/LONDON (dpa-AFX) - Die Ölpreise sind am Donnerstag erneut gefallen. Nach einem vergleichsweise leichten Rückgang im frühen Handel haben sie die Verluste im Handelsverlauf deutlich …"
+          "title": "US-Anleihen: Kurse erholen sich von Vortagsverlusten",
+          "link": "https://www.finanzen.net/nachricht/anleihen/us-anleihen-kurse-erholen-sich-von-vortagsverlusten-15940012",
+          "published": "2026-09-17T16:03:39+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Die Kurse von US-Staatsanleihen haben sich am Donnerstag von ihren Vortagsverlusten infolge der Leitzinserhöhung der US-Notenbank erholt. Der Terminkontrakt für zehnjährige …"
         },
         {
-          "title": "RWE-Aktie sinkt: Energiekonzern stockt bei Amprion weiter auf",
-          "link": "https://www.finanzen.net/nachricht/aktien/anteil-gestiegen-rwe-aktie-sinkt-energiekonzern-stockt-bei-amprion-weiter-auf-15937891",
-          "published": "2026-09-17T14:01:00+00:00",
-          "summary": "Der Anteil von RWE an Amprion steigt damit auf rund 58 Prozent. M31 hält rund drei Viertel der Anteile an dem deutschen Übertragungsnetzbetreiber. Mitte Juni hatte RWE seine Amprion-Beteiligung ..."
+          "title": "Pistorius: UN-Friedenssicherung bleibt zentrale Aufgabe",
+          "link": "https://www.finanzen.net/nachricht/aktien/pistorius-un-friedenssicherung-bleibt-zentrale-aufgabe-15940009",
+          "published": "2026-09-17T16:02:38+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Verteidigungsminister Boris Pistorius (SPD) hat den Vereinten Nationen die weitere Unterstützung Deutschlands bei UN-Friedensmissionen zugesichert. Mit seinem Besuch im …"
         },
         {
-          "title": "S&P 500-Titel Super Micro Computer-Aktie: So viel Gewinn hätte eine Investition in Super Micro Computer von vor 5 Jahren abgeworfen",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-super-micro-computer-aktie-so-viel-gewinn-haette-eine-investition-in-super-micro-computer-von-vor-5-jahren-abgeworfen-15939695",
-          "published": "2026-09-17T14:00:47+00:00",
-          "summary": "Die Super Micro Computer -Aktie wurde heute vor 5 Jahren an der Börse NAS gehandelt. Diesen Tag beendete das Papier bei 3,73 USD. Bei einem Investment von 1.000 USD in die Super Micro Computer-Aktie …"
+          "title": "Allianz-Aktie: Waymo-Deal und Wachstumsfonds als neue Kurstreiber?",
+          "link": "https://www.finanzen.net/nachricht/aktien/waymo-milliardenfonds-allianz-aktie-waymo-deal-und-wachstumsfonds-als-neue-kurstreiber-00-15939514",
+          "published": "2026-09-17T16:02:00+00:00",
+          "summary": "Waymo und Allianz bauen gemeinsam ein Ökosystem für autonomes Fahren Versichertengelder fließen in einen Fonds für europäisches Wachstum Analysten bleiben ..."
         },
         {
-          "title": "NASDAQ Composite Index-Titel ADTRAN-Aktie: So viel Verlust hätte eine Investition in ADTRAN von vor einem Jahr bedeutet",
-          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-composite-index-titel-adtran-aktie-so-viel-verlust-haette-eine-investition-in-adtran-von-vor-einem-jahr-bedeutet-15939694",
-          "published": "2026-09-17T14:00:47+00:00",
-          "summary": "Heute vor 1 Jahr fand an der Börse NAS Handel mit der ADTRAN -Aktie statt. Der Schlusskurs der ADTRAN-Aktie betrug an diesem Tag 8,77 USD. Bei einem 1.000-USD-Investment vor 1 Jahr, besäße man nun …"
+          "title": "Bilfinger-Aktie bricht heftig ein: Industriedienstleister zieht die Reißleine - Prognose gesenkt und Sparprogramm geplant",
+          "link": "https://www.finanzen.net/nachricht/aktien/nahost-konflikt-belastet-bilfinger-aktie-bricht-heftig-ein-industriedienstleister-zieht-die-reissleine-prognose-gesenkt-und-sparprogramm-geplant-15938588",
+          "published": "2026-09-17T16:01:00+00:00",
+          "summary": "Die Entwicklung im zweiten Halbjahr blieb bislang hinter den Erwartungen zurück. Die Mannheimer senken daher ihre Prognose für das laufende Jahr und setzen ein Sparprogramm auf. Bis zu 1.500 der …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "BörsenTag: „Die Geldpolitik macht, was sie soll“",
-          "link": "https://www.wiwo.de/finanzen/boerse/reaktionen-auf-fed-zinsentscheid-die-geldpolitik-macht-was-sie-soll/100255261.html",
-          "published": "2026-09-17T14:02:13+00:00",
-          "summary": "Fed-Chef Kevin Warsh hat das Vertrauen der Finanzmärkte zurückerobert. Wie die Märkte reagieren und welche Aktien unter dem jüngsten Zinsanstieg leiden könnten."
+          "title": "Wiesn 2026: „Seit alle tanzen, ist es mit den Schlägereien weniger geworden“",
+          "link": "https://www.wiwo.de/unternehmen/oktoberfest-2026-seit-alle-tanzen-ist-es-mit-den-schlaegereien-weniger-geworden/100253004.html",
+          "published": "2026-09-17T16:06:00+00:00",
+          "summary": "Oktoberfest-Wirtin Stephanie Spendler über Millionenumsätze, Amerikaner im Wiesn-Fieber – und einen heiligen Rotwein-Moment im leeren Bierzelt."
         },
         {
-          "title": "Sportartikelhersteller: Adidas spürt Umsatzschub und Margendruck zugleich",
-          "link": "https://www.wiwo.de/finanzen/boerse/adidas-aktie-sportartikelhersteller-spuert-umsatzschub-und-margendruck-zugleich/100255111.html",
-          "published": "2026-09-17T13:37:58+00:00",
-          "summary": "Die Erlöse von Adidas gehen steil nach oben – aber der Aktienkurs sinkt. Ist das jetzt eine Gelegenheit zum Einstieg?"
+          "title": "Management-Moment: Mercedes-Lohnvergleich – was der Realitätsschock bewirkt",
+          "link": "https://www.wiwo.de/erfolg/management/mercedes-lohnvergleich-was-bewirkt-der-realitaetsschock/100253288.html",
+          "published": "2026-09-17T16:05:00+00:00",
+          "summary": "Mercedes konfrontiert seine deutschen Beschäftigten mit den Löhnen anderer Standorte. Der Vergleich soll wachrütteln – ob er mehr erreicht, hängt von vier Faktoren ab."
         },
         {
-          "title": "Amphenol-Aktie: KI-Hype bringt diesem Tech-Spezialisten eine Milliardenbewertung",
-          "link": "https://www.wiwo.de/finanzen/boerse/amphenol-aktie-ki-hype-bringt-diesem-tech-spezialisten-eine-milliardenbewertung/100254743.html",
-          "published": "2026-09-17T13:31:38+00:00",
-          "summary": "Der Boom bei Rechenzentren für Künstliche Intelligenz beschert dem Technologieunternehmen Amphenol Rekordzahlen."
+          "title": "Arbeitslast: Warum immer dieselben Mitarbeiter Zusatzaufgaben bekommen",
+          "link": "https://www.wiwo.de/erfolg/management/arbeitslast-im-team-warum-engagierte-mitarbeiter-haeufig-leiden/100253273.html",
+          "published": "2026-09-17T16:05:00+00:00",
+          "summary": "Die Arbeitslast steigt aktuell. Umso wichtiger ist eine kluge Aufgabenverteilung. Doch Führungskräften unterläuft dabei oft ein entscheidender Fehler."
         },
         {
-          "title": "Vermieter: 12 Städte im Vermietercheck",
-          "link": "https://www.wiwo.de/finanzen/immobilien/vermieter-check-wo-sich-das-vermieten-von-immobilien-in-deutschland-noch-lohnt/100255296.html",
-          "published": "2026-09-17T13:28:27+00:00",
-          "summary": "Für Vermieter stehen die Zeichen auf Sturm: neue Auflagen, höhere Kosten, in Berlin drohen gar Enteignungen. Wo lohnt sich Immobilien noch zu vermieten?"
+          "title": "Benzin für drei Euro?: Deutsche Autofahrer verlieren beim Benzinpreis gleich dreifach",
+          "link": "https://www.wiwo.de/unternehmen/energie/spritpreise-warum-deutschland-teurer-als-polen-und-schweden-ist/100254689.html",
+          "published": "2026-09-17T16:00:00+00:00",
+          "summary": "Alles Steuern, oder was? Wieso die Spritpreise in europäischen Ländern wie Polen oder Schweden so viel günstiger als in Deutschland sind."
         },
         {
-          "title": "Konsumgüterkonzern Kao: Diese Aktie mit 5 Prozent Free-Cashflow-Rendite kennt hierzulande kaum jemand",
-          "link": "https://www.wiwo.de/finanzen/boerse/kao-aktie-ein-gemischtwarenladen-aus-tokio-wurde-zum-globalen-konsumgueterriesen/100255112.html",
-          "published": "2026-09-17T13:23:34+00:00",
-          "summary": "Die Aktie von Kao ist hierzulande kaum bekannt – die Haarpflegeprodukte des japanischen Konsumgüterherstellers sind es aber."
+          "title": "Immobilienmarkt: Welche Wohnungen jetzt teurer werden",
+          "link": "https://www.wiwo.de/finanzen/immobilien/immobilienpreise-aktuell-welche-wohnungsgroessen-teurer-werden/100254666.html",
+          "published": "2026-09-17T16:00:00+00:00",
+          "summary": "Nicht überall steigen die Kaufpreise für Immobilien gleichmäßig. Eine exklusive Auswertung zeigt, in welchen Städten bestimmte Wohnungsarten gerade teurer werden."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "30 Minuten laden, 700 km fahren – so sollen E-Lkw den Diesel überholen",
+          "link": "https://www.ingenieur.de/allgemein/30-minuten-laden-700-km-fahren-so-sollen-e-lkw-den-diesel-uberholen/",
+          "published": "2026-09-17T14:30:00+00:00",
+          "summary": "Auf der IAA in Hannover laden Daimler, MAN und Scania ihre E-Lkw nacheinander an derselben Säule – binnen 30 Minuten sollen sie fahrbereit sein. Die Technik für einen vollelektrischen Fernverkehr …"
+        },
         {
           "title": "Warum die Energiewende jetzt teurer werden könnte",
           "link": "https://www.ingenieur.de/allgemein/warum-die-energiewende-jetzt-fur-viele-teurer-werden-konnte/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/diamant-mit-lochern-chemiker-bauen-kohlenstoff-der-35-jahre-nur-theorie-war/",
           "published": "2026-09-17T10:00:00+00:00",
           "summary": "35 Jahre lang existierte Diamondiyne nur in den Modellen der theoretischen Chemie. Forscher der Universität Göteborg haben den porösen Kohlenstoff jetzt erstmals hergestellt. Warum war die Synthese …"
-        },
-        {
-          "title": "Meyer Werft plant größtes E-Kreuzfahrtschiff der Welt – es fehlt nur der Auftrag",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/meyer-werft-plant-grosstes-e-kreuzfahrtschiff-der-welt-es-fehlt-nur-der-auftrag/",
-          "published": "2026-09-17T08:30:00+00:00",
-          "summary": "Die Schifffahrt hängt noch fast komplett am Verbrenner. Die Meyer Werft hält ein 275 m langes Kreuzfahrtschiff mit reinem Batterieantrieb für technisch machbar, es wäre das größte der Welt. Was …"
         }
       ],
       "error": null
