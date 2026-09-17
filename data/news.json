@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:11:49+00:00",
+  "generatedAt": "2026-09-17T02:09:17+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "US-Kongress stimmt für schärfere Sanktionen gegen Russland",
+          "link": "https://www.tagesschau.de/ausland/europa/usa-russland-sanktionen-136.html",
+          "published": "2026-09-17T00:13:23+00:00",
+          "summary": "Es ist der wohl bedeutendste Vorstoß der USA zur Unterstützung der Ukraine, seit Trump zurück im Amt ist: Nach dem Senat hat nun auch das Repräsentantenhaus neuen Sanktionen zugestimmt. Nun fehlt nur …"
+        },
         {
           "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
           "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesschau/ts-80994.html",
           "published": "2026-09-16T22:21:55+00:00",
           "summary": ""
-        },
-        {
-          "title": "Bayer Leverkusen startet mit Heimsieg in die Europa League",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-krummes-eigentor-leitet-bayer-sieg-gegen-celje-ein-100.html",
-          "published": "2026-09-16T21:05:00+00:00",
-          "summary": "Bayer Leverkusen hat mit dem 2:0 Sieg gegen NK Celje einen gelungenen Start in die Europa League gefeiert - ließ gegen die Slowenen aber viele Chancen liegen."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Neuer transatlantischer Bund?: Trump droht EU wegen geplanter Annäherung an Kanada",
-          "link": "https://www.handelsblatt.com/politik/international/neuer-transatlantischer-bund-trump-droht-eu-wegen-geplanter-annaeherung-an-kanada/100255170.html",
-          "published": "2026-09-16T23:50:54+00:00",
-          "summary": "EU-Kommissionspräsidentin Ursula von der Leyen hat mit einem Vorschlag für Aufsehen gesorgt. Es geht um den US-Nachbarn Kanada. Wie reagiert Präsident Trump darauf?"
+          "title": "Digtalbank: Kampfansage vom Revolut-Chef: „Wir wollen die Nummer eins in Deutschland werden“",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/revolut-chef-wir-wollen-die-nummer-eins-in-deutschland-werden/100253948.html",
+          "published": "2026-09-17T01:58:32+00:00",
+          "summary": "Nik Storonsky spricht im Handelsblatt-Interview über Revoluts bevorstehende Offensive in der Bundesrepublik, den Kampf um das Vertrauen der Kunden und die Pläne für einen Mega-Börsengang."
         },
         {
-          "title": "+++ US-Zollpolitik +++: Trump droht EU im Falle engerer Beziehungen zu Kanada mit Zöllen",
-          "link": "https://www.handelsblatt.com/politik/international/us-zoelle-trump-droht-eu-im-falle-engerer-beziehungen-zu-kanada-mit-zoellen/30026990.html",
-          "published": "2026-09-16T23:27:00+00:00",
-          "summary": "Kanada erhebt Gegenzölle auf US-Importe ab Dienstag +++ Vergeltungszölle auf Güter im Wert von 20 Milliarden Dollar – Kanada reagiert auf US-Zölle +++ Der Newsblog."
+          "title": "+++ USA +++: USA verweigern palästinensischer Delegation Visa vor UN-Versammlung",
+          "link": "https://www.handelsblatt.com/politik/international/usa-verweigern-palaestinensischer-delegation-visa-vor-un-versammlung/29669594.html",
+          "published": "2026-09-17T01:42:00+00:00",
+          "summary": "US-Repräsentantenhaus stimmt erneut gegen Iran-Krieg +++ Trump will Kennedy Center schließen +++ Niederlage vor Supreme Court – Trump rügt das Gericht +++ Der Newsblog."
         },
         {
-          "title": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-us-kongress-beschliesst-gesetz-fuer-russland-sanktionen/100255167.html",
-          "published": "2026-09-16T23:18:32+00:00",
-          "summary": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten."
+          "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
+          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255175.html",
+          "published": "2026-09-17T01:00:42+00:00",
+          "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt."
         },
         {
-          "title": "Klimawandel: Analyse: Erderwärmung erhöhte Risiko für Sturzflut im Nepal",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/klimawandel-analyse-erderwaermung-erhoehte-risiko-fuer-sturzflut-im-nepal/100255166.html",
-          "published": "2026-09-16T23:01:05+00:00",
-          "summary": "Die rasche Erwärmung im Himalaya verschärft Risikofaktoren für Sturzfluten wie im August in Nepal. Diese können nach Expertenangaben weiterhin geschehen. Das Ausmaß übersteige die Anpassungsfähigkeit."
+          "title": "Koran im Klassenzimmer: Nur wenige Muslime besuchen Islamunterricht in der Schule",
+          "link": "https://www.handelsblatt.com/politik/deutschland/koran-im-klassenzimmer-nur-wenige-muslime-besuchen-islamunterricht-in-der-schule/100255179.html",
+          "published": "2026-09-17T01:00:06+00:00",
+          "summary": "Die Teilnehmerzahlen steigen zwar, aber nur ein kleiner Teil muslimischer Schüler besucht den Islamunterricht. Warum das so ist und wie unterschiedlich die Angebote in den Ländern ausfallen."
         },
         {
-          "title": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-us-kongress-beschliesst-gesetz-fuer-russland-sanktionen/100255163.html",
-          "published": "2026-09-16T22:48:21+00:00",
-          "summary": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten."
+          "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255176.html",
+          "published": "2026-09-17T00:47:55+00:00",
+          "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Attacke gegen Fed-Vorstand : Trump nimmt Zinserhöhung persönlich",
+          "link": "https://www.n-tv.de/wirtschaft/Trump-nimmt-Zinserhoehung-persoenlich-id31314582.html",
+          "published": "2026-09-17T00:26:08+00:00",
+          "summary": "Mit dem früheren Fed-Chef Powell lag Trump im Dauer-Clinch, weil der keine Zinssenkungen auf Bestellung lieferte. Unter seinem Nachfolger steigt der Leitzins jetzt sogar. Der US-Präsident wittert …"
+        },
         {
           "title": "Ölpreise geben nach: Fed-Entscheid schickt Dow auf Talfahrt",
           "link": "https://www.n-tv.de/wirtschaft/Fed-Entscheid-schickt-Dow-auf-Talfahrt-id31314422.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Benzinpreisdeckel-funktionieren-sind-aber-sinnlos-id31313469.html",
           "published": "2026-09-16T17:17:39+00:00",
           "summary": "Preisdeckel nach dem Vorbild von Belgien und Luxemburg gehören zu den beliebtesten Forderungen im Kampf gegen steigende Spritpreise. Ein Blick in die Nachbarländer zeigt: Diese Art von …"
-        },
-        {
-          "title": "Bürger und Firmen entlasten: Reiche will Mehrwertsteuer auf Kraftstoffe auf sieben Prozent senken",
-          "link": "https://www.n-tv.de/wirtschaft/Reiche-will-Mehrwertsteuer-auf-Kraftstoffe-auf-sieben-Prozent-senken-id31313942.html",
-          "published": "2026-09-16T16:59:47+00:00",
-          "summary": "Nach Unionsfraktionschef Frei spricht sich auch Bundeswirtschaftsministerin Reiche für eine Senkung der Mehrwertsteuer auf Benzin und Diesel aus. Es gibt allerdings Unternehmen, an denen eine solche …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "NVIDIA, Apple & Co.: Diese Aktien könnten vom Jahresend-Effekt profitieren - sollten Anleger jetzt zuschlagen?",
+          "link": "https://www.finanzen.net/nachricht/aktien/window-dressing-nvidia-apple-co-diese-aktien-koennten-vom-jahresend-effekt-profitieren-sollten-anleger-jetzt-zuschlagen-00-15937164",
+          "published": "2026-09-17T01:58:00+00:00",
+          "summary": "Large Caps schlagen Small Caps saisonal bedingt im vierten Quartal deutlich Grund ist laut Experten das bonusgetriebene Window Dressing der Fondsmanager Anleger können den Effekt über breite …"
+        },
+        {
+          "title": "Bitcoin-Ausblick: Bitwise-CIO Hougan prognostiziert 1,3 Millionen Dollar bis 2035",
+          "link": "https://www.finanzen.net/nachricht/devisen/optimistische-prognose-bitcoin-ausblick-bitwise-cio-hougan-prognostiziert-1-3-millionen-dollar-bis-2035-00-15936899",
+          "published": "2026-09-17T01:39:57+00:00",
+          "summary": "Bitwise-CIO Matt Hougan hält 1,3 Millionen Dollar bis 2035 für erreichbar Er sieht auch 100.000 Dollar noch in diesem Jahr als realistisches Ziel Null Prozent Bitcoin im Depot nennt er inzwischen …"
+        },
+        {
+          "title": "NVIDIA-Aktie: Börsenstar stand einst vor dem Ruin - Warum diese Kapitalbeteiligung die Rettung bedeutete",
+          "link": "https://www.finanzen.net/nachricht/aktien/rettungsaktion-nvidia-aktie-boersenstar-stand-einst-vor-dem-ruin-warum-diese-kapitalbeteiligung-die-rettung-bedeutete-00-15937187",
+          "published": "2026-09-17T01:24:26+00:00",
+          "summary": "Ex-Sega-Chef erzählt, wie er einst alles auf Jensen Huang setzte Finanzspritze aus Japan bewahrte NVIDIA vor dem drohenden Aus Aus der Rettungsaktion wuchs eine Partnerschaft, die bis heute weiterlebt"
+        },
+        {
+          "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
+          "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
+          "published": "2026-09-17T01:14:39+00:00",
+          "summary": "RBC bestätigt ein S&P 500 Kursziel von 8.150 Punkten für zwölf Monate Ed Yardeni hebt sein Jahresendziel zum dritten Mal 2026 auf 8.400 Punkte VIX unter 15 und steigende Anleiherenditen nähren Sorgen …"
+        },
+        {
           "title": "GNW-News: Vom High Tech Campus nach San Francisco: InSpace macht einen wichtigen Schritt in den US-Markt",
           "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-vom-high-tech-campus-nach-san-francisco-inspace-macht-einen-wichtigen-schritt-in-den-us-markt-15938387",
           "published": "2026-09-16T23:47:38+00:00",
           "summary": "^EINDHOVEN, Niederlande, und SAN FRANCISCO, Sept. 17, 2026 (GLOBE NEWSWIRE) --Das schnell wachsende niederländische KI-Unternehmen InSpace unternimmt den nächsten Schritt bei seiner internationalen …"
-        },
-        {
-          "title": "GNW-News: Die internationale Konferenz der Internationalen Gesellschaft für Kamelidenforschung und -entwicklung (ISOCARD, 2026) wurde im Rechten Alxa-Banner ...",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-die-internationale-konferenz-der-internationalen-gesellschaft-fuer-kamelidenforschung-und-entwicklung-isocard-2026-wurde-im-rechten-alxa-banner-15938384",
-          "published": "2026-09-16T23:40:39+00:00",
-          "summary": "^ALXA, China, Sept. 17, 2026 (GLOBE NEWSWIRE) -- Am Vormittag des 9. Septemberwurde die Internationale Konferenz der Internationalen Gesellschaft für Kamelidenforschung und -entwicklung …"
-        },
-        {
-          "title": "Huawei-Aktie: Warum die Preiserhöhung bei KI-Chips Chinas Plan gegen NVIDIA gefährdet",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-chips-deutlich-teurer-huawei-aktie-warum-die-preiserhoehung-bei-ki-chips-chinas-plan-gegen-nvidia-gefaehrdet-00-15934865",
-          "published": "2026-09-16T21:50:00+00:00",
-          "summary": "Huawei treibt Preise für Top-KI-Chip Ascend 950DT deutlich nach oben Globaler Mangel an Speicherchips setzt Chinas Halbleiterbranche zu Fachredaktion ordnet Vorstoß gegen NVIDIA als gefährdet ein"
-        },
-        {
-          "title": "Vor Anthropic-IPO: Was die Sicherheitsbedenken für den Börsengang und KI-Aktien bedeuten",
-          "link": "https://www.finanzen.net/nachricht/aktien/sicherheitsdebatte-vor-anthropic-ipo-was-die-sicherheitsbedenken-fuer-den-boersengang-und-ki-aktien-bedeuten-00-15932798",
-          "published": "2026-09-16T21:42:00+00:00",
-          "summary": "Anthropic-Forscher Jacob Coxon kündigt und warnt vor gefährlichem KI-Tempo Alignmentforscher Evan Hubinger sieht ein KI-Risiko von über 10 Prozent Debatte trifft Anthropic mitten in Börsenplänen"
-        },
-        {
-          "title": "Nach starken Gewinnen bei Shell, Exxon & Co: Werden Ölaktien jetzt zum Anlegerrisiko?",
-          "link": "https://www.finanzen.net/nachricht/aktien/oelaktien-als-profiteure-nach-starken-gewinnen-bei-shell-exxon-co-werden-oelaktien-jetzt-zum-anlegerrisiko-00-15937029",
-          "published": "2026-09-16T21:38:00+00:00",
-          "summary": "Iran-Krieg treibt Öl- und Gaspreise, gleichzeitig beeinträchtigen Produktionsausfälle die Konzerne Shell steigert bereinigten Gewinn im zweiten Quartal auf 9,8 Milliarden US-Dollar Milliardenschwere …"
         }
       ],
       "error": null
