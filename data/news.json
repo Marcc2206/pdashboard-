@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T22:08:22+00:00",
+  "generatedAt": "2026-09-17T00:11:49+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
+          "published": "2026-09-17T00:07:20+00:00",
+          "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1650354.html",
+          "published": "2026-09-16T23:57:01+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Wahl in Mecklenburg-Vorpommern: So lief das TV-Duell zwischen Schwesig und Holm",
+          "link": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/tv-duell-so-lief-der-schlagabtausch-zwischen-schwesig-und-holm,mvwahl-372.html",
+          "published": "2026-09-16T23:08:00+00:00",
+          "summary": "In Mecklenburg-Vorpommern läuft vor der Landtagswahl am Sonntag der Wahlkampf-Endspurt: Im NDR trafen SPD-Spitzenkandidatin Schwesig und Herausforderer Holm von der AfD im TV-Duell aufeinander."
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80994.html",
+          "published": "2026-09-16T22:21:55+00:00",
+          "summary": ""
+        },
+        {
           "title": "Bayer Leverkusen startet mit Heimsieg in die Europa League",
           "link": "https://www.sportschau.de/regional/wdr/wdr-krummes-eigentor-leitet-bayer-sieg-gegen-celje-ein-100.html",
           "published": "2026-09-16T21:05:00+00:00",
           "summary": "Bayer Leverkusen hat mit dem 2:0 Sieg gegen NK Celje einen gelungenen Start in die Europa League gefeiert - ließ gegen die Slowenen aber viele Chancen liegen."
-        },
-        {
-          "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
-          "published": "2026-09-16T21:03:12+00:00",
-          "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit …"
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12856.html",
-          "published": "2026-09-16T20:54:03+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Markus Preiß, ARD Berlin, über die Rückendeckung für Kanzler Merz durch die CDU-Ministerpräsidenten",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1650324.html",
-          "published": "2026-09-16T20:35:26+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Georg Zachmann, Ökonom Denkfabrik Bruegel, zur Umsetzung der Entlastung bei den Spritpreisen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1650322.html",
-          "published": "2026-09-16T20:32:33+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "US-Notenbank: 25 Basispunkte für die Glaubwürdigkeit von Kevin Warsh",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/us-notenbank-25-basispunkte-fuer-die-glaubwuerdigkeit-von-kevin-warsh/100254411.html",
-          "published": "2026-09-16T21:20:22+00:00",
-          "summary": "Die Zweifel an seiner Unabhängigkeit von der US-Regierung waren groß. Mit der aktuellen Zinserhöhung zeigt der Fed-Chef, dass er kein Erfüllungsgehilfe des Weißen Hauses ist."
+          "title": "Neuer transatlantischer Bund?: Trump droht EU wegen geplanter Annäherung an Kanada",
+          "link": "https://www.handelsblatt.com/politik/international/neuer-transatlantischer-bund-trump-droht-eu-wegen-geplanter-annaeherung-an-kanada/100255170.html",
+          "published": "2026-09-16T23:50:54+00:00",
+          "summary": "EU-Kommissionspräsidentin Ursula von der Leyen hat mit einem Vorschlag für Aufsehen gesorgt. Es geht um den US-Nachbarn Kanada. Wie reagiert Präsident Trump darauf?"
         },
         {
-          "title": "Fed: Zinswende vor den Midterms: Fed hebt Leitzinsen erstmals seit 2023 an",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/fed-us-notenbank-erhoeht-leitzins-erstmals-seit-rund-drei-jahren/100253966.html",
-          "published": "2026-09-16T21:01:29+00:00",
-          "summary": "Ein starker Arbeitsmarkt sowie die anhaltend hohe Inflation hatten für eine Erhöhung gesprochen. Die Notenbanker stellen sich damit einstimmig gegen die Wünsche von US-Präsident Trump."
+          "title": "+++ US-Zollpolitik +++: Trump droht EU im Falle engerer Beziehungen zu Kanada mit Zöllen",
+          "link": "https://www.handelsblatt.com/politik/international/us-zoelle-trump-droht-eu-im-falle-engerer-beziehungen-zu-kanada-mit-zoellen/30026990.html",
+          "published": "2026-09-16T23:27:00+00:00",
+          "summary": "Kanada erhebt Gegenzölle auf US-Importe ab Dienstag +++ Vergeltungszölle auf Güter im Wert von 20 Milliarden Dollar – Kanada reagiert auf US-Zölle +++ Der Newsblog."
         },
         {
-          "title": "US-Wirtschaft: US-Notenbank erhöht erstmals seit Juli 2023 wieder Leitzins",
-          "link": "https://www.handelsblatt.com/politik/deutschland/us-wirtschaft-us-notenbank-erhoeht-erstmals-seit-juli-2023-wieder-leitzins/100255142.html",
-          "published": "2026-09-16T20:47:44+00:00",
-          "summary": "Fed-Chef Warsh signalisierte jüngst Bereitschaft für eine Zinserhöhung, an den Finanzmärkten wurde mit großer Mehrheit damit gerechnet. Sicher war das allerdings keineswegs."
+          "title": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-us-kongress-beschliesst-gesetz-fuer-russland-sanktionen/100255167.html",
+          "published": "2026-09-16T23:18:32+00:00",
+          "summary": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten."
         },
         {
-          "title": "Hohe Spritpreise: Italien und Frankreich reagieren auf steigende Kraftstoffpreise",
-          "link": "https://www.handelsblatt.com/politik/international/hohe-spritpreise-italien-und-frankreich-reagieren-auf-steigende-kraftstoffpreise/100255140.html",
-          "published": "2026-09-16T20:15:50+00:00",
-          "summary": "Italien will Millionen Autofahrer bei den hohen Spritkosten entlasten und setzt 2027 für bestimmte Fahrzeuge die Kfz-Steuer aus. Frankreich verlängert seine Tankzuschüsse für bestimmte Branchen."
+          "title": "Klimawandel: Analyse: Erderwärmung erhöhte Risiko für Sturzflut im Nepal",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/klimawandel-analyse-erderwaermung-erhoehte-risiko-fuer-sturzflut-im-nepal/100255166.html",
+          "published": "2026-09-16T23:01:05+00:00",
+          "summary": "Die rasche Erwärmung im Himalaya verschärft Risikofaktoren für Sturzfluten wie im August in Nepal. Diese können nach Expertenangaben weiterhin geschehen. Das Ausmaß übersteige die Anpassungsfähigkeit."
         },
         {
-          "title": "ARD und ZDF: SPD wirft Weimer indirekte Wahlkampfhilfe für AfD vor",
-          "link": "https://www.handelsblatt.com/politik/deutschland/ard-und-zdf-spd-wirft-weimer-indirekte-wahlkampfhilfe-fuer-afd-vor/100255139.html",
-          "published": "2026-09-16T19:10:48+00:00",
-          "summary": "Kulturstaatsminister Wolfram Weimer bringt die Privatisierung des ZDF und die Auflösung kleinerer ARD-Anstalten ins Gespräch. Die AfD lobt den Vorstoß, die SPD ist empört."
+          "title": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-us-kongress-beschliesst-gesetz-fuer-russland-sanktionen/100255163.html",
+          "published": "2026-09-16T22:48:21+00:00",
+          "summary": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten."
         }
       ],
       "error": null
@@ -125,6 +125,18 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "GNW-News: Vom High Tech Campus nach San Francisco: InSpace macht einen wichtigen Schritt in den US-Markt",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-vom-high-tech-campus-nach-san-francisco-inspace-macht-einen-wichtigen-schritt-in-den-us-markt-15938387",
+          "published": "2026-09-16T23:47:38+00:00",
+          "summary": "^EINDHOVEN, Niederlande, und SAN FRANCISCO, Sept. 17, 2026 (GLOBE NEWSWIRE) --Das schnell wachsende niederländische KI-Unternehmen InSpace unternimmt den nächsten Schritt bei seiner internationalen …"
+        },
+        {
+          "title": "GNW-News: Die internationale Konferenz der Internationalen Gesellschaft für Kamelidenforschung und -entwicklung (ISOCARD, 2026) wurde im Rechten Alxa-Banner ...",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-die-internationale-konferenz-der-internationalen-gesellschaft-fuer-kamelidenforschung-und-entwicklung-isocard-2026-wurde-im-rechten-alxa-banner-15938384",
+          "published": "2026-09-16T23:40:39+00:00",
+          "summary": "^ALXA, China, Sept. 17, 2026 (GLOBE NEWSWIRE) -- Am Vormittag des 9. Septemberwurde die Internationale Konferenz der Internationalen Gesellschaft für Kamelidenforschung und -entwicklung …"
+        },
+        {
           "title": "Huawei-Aktie: Warum die Preiserhöhung bei KI-Chips Chinas Plan gegen NVIDIA gefährdet",
           "link": "https://www.finanzen.net/nachricht/aktien/ki-chips-deutlich-teurer-huawei-aktie-warum-die-preiserhoehung-bei-ki-chips-chinas-plan-gegen-nvidia-gefaehrdet-00-15934865",
           "published": "2026-09-16T21:50:00+00:00",
@@ -141,18 +153,6 @@
           "link": "https://www.finanzen.net/nachricht/aktien/oelaktien-als-profiteure-nach-starken-gewinnen-bei-shell-exxon-co-werden-oelaktien-jetzt-zum-anlegerrisiko-00-15937029",
           "published": "2026-09-16T21:38:00+00:00",
           "summary": "Iran-Krieg treibt Öl- und Gaspreise, gleichzeitig beeinträchtigen Produktionsausfälle die Konzerne Shell steigert bereinigten Gewinn im zweiten Quartal auf 9,8 Milliarden US-Dollar Milliardenschwere …"
-        },
-        {
-          "title": "ROUNDUP/Schwesig vs. Holm: So lief das TV-Duell",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-schwesig-vs-holm-so-lief-das-tv-duell-15938250",
-          "published": "2026-09-16T21:34:39+00:00",
-          "summary": "SCHWERIN (dpa-AFX) - Vier Tage vor der Landtagswahl in Mecklenburg-Vorpommern haben sich die SPD-Kandidatin Manuela Schwesig und ihr AfD-Kontrahent Leif-Erik Holm in einem Fernsehduell teils hitzige …"
-        },
-        {
-          "title": "ROUNDUP 2: Berliner Spitzenkandidaten streiten in großem TV-Duell",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-berliner-spitzenkandidaten-streiten-in-grossem-tv-duell-15938249",
-          "published": "2026-09-16T21:34:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Vier Tage vor der Wahl zum Berliner Abgeordnetenhaus haben sich die Spitzenkandidaten von sechs Parteien den Fragen von Bürgern gestellt. In der RBB-\"Wahlarena\" diskutierten sie …"
         }
       ],
       "error": null
