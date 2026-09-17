@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T02:09:17+00:00",
+  "generatedAt": "2026-09-17T04:09:24+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Kritik an Aussetzung des Familiennachzugs wächst",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/familiennachzug-kritik-migration-100.html",
+          "published": "2026-09-17T04:00:50+00:00",
+          "summary": "Seit mehr als einem Jahr ist der Familiennachzug für subsidiär Schutzberechtigte ausgesetzt. Was das für Betroffene bedeutet und warum es auch innerhalb der Koalition Kritik daran gibt. Von Bianca …"
+        },
+        {
+          "title": "Kampf um die Straße von Hormus: Eine Bedrohung auch für die Umwelt",
+          "link": "https://www.tagesschau.de/ausland/asien/hormus-oel-100.html",
+          "published": "2026-09-17T03:47:49+00:00",
+          "summary": "Minen in der Straße von Hormus, Beschuss von Tankern: Satellitenbilder zeigen nun, was das für die Umwelt bedeutet. Rund um die Meerenge gibt es laut Greenpeace mehrere Ölteppiche. Viele …"
+        },
+        {
+          "title": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
+          "link": "https://www.tagesschau.de/ausland/amerika/openai-kuenstliche-intelligenz-100.html",
+          "published": "2026-09-17T03:14:12+00:00",
+          "summary": "Künstliche Intelligenz entwickelt sich rasend schnell - mit teils ungewollten Folgen. Zuletzt löste etwa ein Hacker-Angriff durch KI-Software von OpenAI weltweit Sorgen aus. Jetzt gab der Entwickler …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1650364.html",
+          "published": "2026-09-17T03:05:15+00:00",
+          "summary": ""
+        },
+        {
           "title": "US-Kongress stimmt für schärfere Sanktionen gegen Russland",
           "link": "https://www.tagesschau.de/ausland/europa/usa-russland-sanktionen-136.html",
           "published": "2026-09-17T00:13:23+00:00",
           "summary": "Es ist der wohl bedeutendste Vorstoß der USA zur Unterstützung der Ukraine, seit Trump zurück im Amt ist: Nach dem Senat hat nun auch das Repräsentantenhaus neuen Sanktionen zugestimmt. Nun fehlt nur …"
-        },
-        {
-          "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
-          "published": "2026-09-17T00:07:20+00:00",
-          "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1650354.html",
-          "published": "2026-09-16T23:57:01+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Wahl in Mecklenburg-Vorpommern: So lief das TV-Duell zwischen Schwesig und Holm",
-          "link": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/tv-duell-so-lief-der-schlagabtausch-zwischen-schwesig-und-holm,mvwahl-372.html",
-          "published": "2026-09-16T23:08:00+00:00",
-          "summary": "In Mecklenburg-Vorpommern läuft vor der Landtagswahl am Sonntag der Wahlkampf-Endspurt: Im NDR trafen SPD-Spitzenkandidatin Schwesig und Herausforderer Holm von der AfD im TV-Duell aufeinander."
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80994.html",
-          "published": "2026-09-16T22:21:55+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Digtalbank: Kampfansage vom Revolut-Chef: „Wir wollen die Nummer eins in Deutschland werden“",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/revolut-chef-wir-wollen-die-nummer-eins-in-deutschland-werden/100253948.html",
-          "published": "2026-09-17T01:58:32+00:00",
-          "summary": "Nik Storonsky spricht im Handelsblatt-Interview über Revoluts bevorstehende Offensive in der Bundesrepublik, den Kampf um das Vertrauen der Kunden und die Pläne für einen Mega-Börsengang."
+          "title": "Morning Briefing: Kann nur ein „Supervorstand“ Volkswagen noch retten?",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-kann-nur-ein-supervorstand-volkswagen-noch-retten/100255153.html",
+          "published": "2026-09-17T03:50:54+00:00",
+          "summary": "Das Audi-Hoffnungsmodell A4-Elektro kommt deutlich später als geplant. Das liegt auch an verschlungenen Pfaden im Gesamtkonzern. Dagegen könnte eine Personalie helfen."
         },
         {
-          "title": "+++ USA +++: USA verweigern palästinensischer Delegation Visa vor UN-Versammlung",
-          "link": "https://www.handelsblatt.com/politik/international/usa-verweigern-palaestinensischer-delegation-visa-vor-un-versammlung/29669594.html",
-          "published": "2026-09-17T01:42:00+00:00",
-          "summary": "US-Repräsentantenhaus stimmt erneut gegen Iran-Krieg +++ Trump will Kennedy Center schließen +++ Niederlage vor Supreme Court – Trump rügt das Gericht +++ Der Newsblog."
+          "title": "Nikkei: Börse in Asien uneinheitlich nach erstem US-Zinsschritt seit Jahren",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-boerse-in-asien-uneinheitlich-nach-erstem-us-zinsschritt-seit-jahren/100255203.html",
+          "published": "2026-09-17T03:30:23+00:00",
+          "summary": "Fed-Chef Kevin Warsh begründete den Schritt mit der anhaltend hohen Inflation in den USA. Anleger in Asien blicken mit gemischten Gefühlen auf die Maßnahme."
         },
         {
-          "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
-          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255175.html",
-          "published": "2026-09-17T01:00:42+00:00",
-          "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt."
+          "title": "Autonomes Fahren: US-Behörde nimmt sich Teslas Robotaxi vor",
+          "link": "https://www.handelsblatt.com/technik/it-internet/autonomes-fahren-us-behoerde-nimmt-sich-teslas-robotaxi-vor/100255209.html",
+          "published": "2026-09-17T03:22:21+00:00",
+          "summary": "Nach US-Regeln brauchen auch autonome Robotaxis eine Ausnahmeerlaubnis, wenn sie ohne Lenkrad und Pedale unterwegs sein sollen. Elon Musks Tesla ignorierte das."
         },
         {
-          "title": "Koran im Klassenzimmer: Nur wenige Muslime besuchen Islamunterricht in der Schule",
-          "link": "https://www.handelsblatt.com/politik/deutschland/koran-im-klassenzimmer-nur-wenige-muslime-besuchen-islamunterricht-in-der-schule/100255179.html",
-          "published": "2026-09-17T01:00:06+00:00",
-          "summary": "Die Teilnehmerzahlen steigen zwar, aber nur ein kleiner Teil muslimischer Schüler besucht den Islamunterricht. Warum das so ist und wie unterschiedlich die Angebote in den Ländern ausfallen."
+          "title": "Spirituosen-Markt: Berentzen spricht über Kauf durch US-Konzern",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spirituosen-markt-berentzen-spricht-ueber-kauf-durch-us-konzern/100255188.html",
+          "published": "2026-09-17T03:05:05+00:00",
+          "summary": "Berentzen Apfelkorn könnte bald aus dem selben Haus kommen wie amerikanischer Whiskey. Das US-Schwergewicht Sazerac erwägt ein Übernahmeangebot."
         },
         {
-          "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255176.html",
-          "published": "2026-09-17T00:47:55+00:00",
-          "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt."
+          "title": "Fraunhofer-Institut: Studie: Datenschutz macht Europa wettbewerbsfähiger",
+          "link": "https://www.handelsblatt.com/technik/it-internet/fraunhofer-institut-studie-datenschutz-macht-europa-wettbewerbsfaehiger/100255204.html",
+          "published": "2026-09-17T03:00:14+00:00",
+          "summary": "Datenschutz als Wettbewerbsvorteil: Wie Europa mit Qualität statt Datenmaximierung punkten kann und was Forscher empfehlen."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "NVIDIA, Apple & Co.: Diese Aktien könnten vom Jahresend-Effekt profitieren - sollten Anleger jetzt zuschlagen?",
-          "link": "https://www.finanzen.net/nachricht/aktien/window-dressing-nvidia-apple-co-diese-aktien-koennten-vom-jahresend-effekt-profitieren-sollten-anleger-jetzt-zuschlagen-00-15937164",
-          "published": "2026-09-17T01:58:00+00:00",
-          "summary": "Large Caps schlagen Small Caps saisonal bedingt im vierten Quartal deutlich Grund ist laut Experten das bonusgetriebene Window Dressing der Fondsmanager Anleger können den Effekt über breite …"
+          "title": "EUREX/Bund-Future gibt im Frühhandel nach",
+          "link": "https://www.finanzen.net/nachricht/anleihen/EUREX-Bund-Future-gibt-im-Fruehhandel-nach-15938490",
+          "published": "2026-09-17T04:00:41+00:00",
+          "summary": "DOW JONES-- Der aktuelle Kontrakt des Bund-Futures verliert am frühen Donnerstag 19 Ticks auf 120,41 Prozent. Das Tageshoch liegt bislang bei 120,52 Prozent und das Tagestief bei 120,34 Prozent. …"
         },
         {
-          "title": "Bitcoin-Ausblick: Bitwise-CIO Hougan prognostiziert 1,3 Millionen Dollar bis 2035",
-          "link": "https://www.finanzen.net/nachricht/devisen/optimistische-prognose-bitcoin-ausblick-bitwise-cio-hougan-prognostiziert-1-3-millionen-dollar-bis-2035-00-15936899",
-          "published": "2026-09-17T01:39:57+00:00",
-          "summary": "Bitwise-CIO Matt Hougan hält 1,3 Millionen Dollar bis 2035 für erreichbar Er sieht auch 100.000 Dollar noch in diesem Jahr als realistisches Ziel Null Prozent Bitcoin im Depot nennt er inzwischen …"
+          "title": "EUREX/Bund-Future gibt im Frühhandel nach",
+          "link": "https://www.finanzen.net/nachricht/aktien/eurex-bund-future-gibt-im-fruehhandel-nach-15938489",
+          "published": "2026-09-17T04:00:41+00:00",
+          "summary": "DOW JONES-- Der aktuelle Kontrakt des Bund-Futures verliert am frühen Donnerstag 19 Ticks auf 120,41 Prozent. Das Tageshoch liegt bislang bei 120,52 Prozent und das Tagestief bei 120,34 Prozent. …"
         },
         {
-          "title": "NVIDIA-Aktie: Börsenstar stand einst vor dem Ruin - Warum diese Kapitalbeteiligung die Rettung bedeutete",
-          "link": "https://www.finanzen.net/nachricht/aktien/rettungsaktion-nvidia-aktie-boersenstar-stand-einst-vor-dem-ruin-warum-diese-kapitalbeteiligung-die-rettung-bedeutete-00-15937187",
-          "published": "2026-09-17T01:24:26+00:00",
-          "summary": "Ex-Sega-Chef erzählt, wie er einst alles auf Jensen Huang setzte Finanzspritze aus Japan bewahrte NVIDIA vor dem drohenden Aus Aus der Rettungsaktion wuchs eine Partnerschaft, die bis heute weiterlebt"
+          "title": "EUREX/DAX-Futures im Frühhandel etwas fester",
+          "link": "https://www.finanzen.net/nachricht/aktien/eurex-dax-futures-im-fruehhandel-etwas-fester-15938488",
+          "published": "2026-09-17T03:59:41+00:00",
+          "summary": "DOW JONES-- Der nächstfällige Kontrakt des DAX-Futures steigt am frühen Donnerstag um 143 auf 25.706 Punkte. Das Tageshoch liegt bislang bei 25.706 und das Tagestief bei 25.594 Punkten. Umgesetzt …"
         },
         {
-          "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
-          "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
-          "published": "2026-09-17T01:14:39+00:00",
-          "summary": "RBC bestätigt ein S&P 500 Kursziel von 8.150 Punkten für zwölf Monate Ed Yardeni hebt sein Jahresendziel zum dritten Mal 2026 auf 8.400 Punkte VIX unter 15 und steigende Anleiherenditen nähren Sorgen …"
+          "title": "Bundeskanzler Merz tritt im Berliner Wahlkampf auf",
+          "link": "https://www.finanzen.net/nachricht/aktien/bundeskanzler-merz-tritt-im-berliner-wahlkampf-auf-15938486",
+          "published": "2026-09-17T03:49:40+00:00",
+          "summary": "BERLIN (dpa-AFX) - Inmitten der Debatte um seine politische Zukunft tritt Bundeskanzler Friedrich Merz am Donnerstag (17.00 Uhr) im Wahlkampf für die Wahl zum Berliner Abgeordnetenhaus auf. Zu einer …"
         },
         {
-          "title": "GNW-News: Vom High Tech Campus nach San Francisco: InSpace macht einen wichtigen Schritt in den US-Markt",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-vom-high-tech-campus-nach-san-francisco-inspace-macht-einen-wichtigen-schritt-in-den-us-markt-15938387",
-          "published": "2026-09-16T23:47:38+00:00",
-          "summary": "^EINDHOVEN, Niederlande, und SAN FRANCISCO, Sept. 17, 2026 (GLOBE NEWSWIRE) --Das schnell wachsende niederländische KI-Unternehmen InSpace unternimmt den nächsten Schritt bei seiner internationalen …"
+          "title": "Von der Leyen will Details zu Social-Media-Regeln für Kinder nennen",
+          "link": "https://www.finanzen.net/nachricht/aktien/von-der-leyen-will-details-zu-social-media-regeln-fuer-kinder-nennen-15938485",
+          "published": "2026-09-17T03:49:40+00:00",
+          "summary": "STRASSBURG (dpa-AFX) - Soziale Netzwerke sollen für Kinder unter 13 Jahren in der EU künftig nach dem Willen von EU-Kommissionspräsidentin Ursula von der Leyen tabu sein. Am Tag nach ihrer …"
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "CDU-Wirtschaftsflügel: Jetzt stützt die Mittelstandsbasis den Kanzler",
+          "link": "https://www.wiwo.de/politik/deutschland/machtkampf-in-der-union-wirtschaftsfluegel-staerkt-kanzler-friedrich-merz/100255117.html",
+          "published": "2026-09-17T03:56:42+00:00",
+          "summary": "PKM-Chef Christian von Stetten verteidigt Friedrich Merz gegen seine Kritiker. Doch nach den Landtagswahlen könnte die Debatte erneut aufflammen."
+        },
+        {
+          "title": "Bundesumweltminister: „Es fehlt ein deutsches E-Auto für die Breite“",
+          "link": "https://www.wiwo.de/politik/deutschland/e-auto-foerderung-china-zoelle-umweltminister-carsten-schneider-im-interview/100253459.html",
+          "published": "2026-09-17T03:30:00+00:00",
+          "summary": "Umweltminister Schneider will der deutschen Autoindustrie helfen – mit E-Auto-Prämie, Zöllen ­gegen ­Chinas Importflut und einem neuen ­Tankrabatt. Ein Interview."
+        },
+        {
           "title": "Fed-Leitzins: Kevin Warsh stärkt das Vertrauen in die US-Notenbank",
           "link": "https://www.wiwo.de/finanzen/boerse/fed-leitzins-warum-kevin-warsh-den-leitzins-gegen-donald-trumps-willen-anhebt/100254905.html",
           "published": "2026-09-16T19:35:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/politik/ausland/fed-leitzins-us-notenbank-erhoeht-zins-auf-bis-zu-400-prozent/100254802.html",
           "published": "2026-09-16T19:20:00+00:00",
           "summary": "Zum ersten Mal seit Sommer 2023 hat die Fed den Leitzins angehoben. US-Notenbank-Chef Kevin Warsh gerät damit auf Konfrontationskurs zu Donald Trump."
-        },
-        {
-          "title": "Kampf um China-Technik: Die Tricks der Mobilfunkanbieter gegen ein Huawei-Verbot",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/huawei-verbot-wie-netzbetreiber-gegen-das-eu-gesetz-kaempfen/100255063.html",
-          "published": "2026-09-16T18:31:00+00:00",
-          "summary": "Mobilfunkanbieter mit Huawei-Technik in ihren Netzen wehren sich gegen die Austauschpflicht. Ihre Einflussnahme auf eine vermeintlich unabhängige Studie zeigt, wie weit sie gehen."
-        },
-        {
-          "title": "BörsenTag: Die Rally der Cybersecurity-Aktien",
-          "link": "https://www.wiwo.de/finanzen/boerse/crowdstrike-fortinet-palo-alto-networks-diese-aktien-haben-von-den-kiwarnungen-profitiert/100254908.html",
-          "published": "2026-09-16T17:59:00+00:00",
-          "summary": "Die mahnenden Rufe der KI-Chefs lassen Aktien von Crowdstrike, Fortinet und Palo Alto Networks steigen. Der Markt boomt – doch die Bewertung der Aktien ist bereits hoch."
         }
       ],
       "error": null
