@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T18:11:05+00:00",
+  "generatedAt": "2026-09-17T20:09:41+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-17T20:00",
-    "temperatur": 16.4,
-    "gefuehlt": 14.3,
-    "luftfeuchte": 67,
-    "niederschlag": 0.0,
-    "wind": 15.0,
+    "zeit": "2026-09-17T22:00",
+    "temperatur": 16.0,
+    "gefuehlt": 13.9,
+    "luftfeuchte": 68,
+    "niederschlag": 0.1,
+    "wind": 14.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -37,28 +37,28 @@
     },
     {
       "datum": "2026-09-18",
-      "max": 18.2,
-      "min": 12.4,
+      "max": 18.3,
+      "min": 12.6,
       "regenwahrscheinlichkeit": 20,
       "sonnenaufgang": "2026-09-18T07:04",
       "sonnenuntergang": "2026-09-18T19:33",
       "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     },
     {
       "datum": "2026-09-19",
-      "max": 20.3,
-      "min": 13.3,
+      "max": 19.6,
+      "min": 13.4,
       "regenwahrscheinlichkeit": 23,
       "sonnenaufgang": "2026-09-19T07:06",
       "sonnenuntergang": "2026-09-19T19:31",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
-        "icon": "🌦️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     },
     {
