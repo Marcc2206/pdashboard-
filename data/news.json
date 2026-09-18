@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:08:54+00:00",
+  "generatedAt": "2026-09-18T22:08:40+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651504.html",
-          "published": "2026-09-18T19:36:10+00:00",
+          "title": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
+          "published": "2026-09-18T22:00:25+00:00",
+          "summary": "Die Bundesregierung hat auf die hohen Spritpreise reagiert. Welche Maßnahmen sind ab wann geplant? Wer hat sich in der Koalition durchgesetzt? Und: Welche Kritik gibt es? Die wichtigsten Fragen und …"
+        },
+        {
+          "title": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
+          "published": "2026-09-18T21:07:18+00:00",
+          "summary": "Der Sender CNN und weitere Medien sollen keinen Zugang mehr zum Weißen Haus erhalten. US-Präsident Trump wirft ihnen vor, \"Erfindungen und Lügen\" zu verbreiten. Es ist nicht das erste Mal, dass Trump …"
+        },
+        {
+          "title": "Fußball-Bundesliga: FC Bayern München feiert hohen Sieg gegen Union Berlin und Kane-Rekord",
+          "link": "https://www.sportschau.de/fussball/bundesliga/ein-grandioser-kane-rekord-und-noch-so-viel-mehr,spielbericht-bayern-muenchen-union-berlin-102.html",
+          "published": "2026-09-18T20:23:01+00:00",
+          "summary": "Bayern-Angreifer Harry Kane hat gegen Union Berlin einen Torrekord pulverisiert, wurde in Sachen Spektakel aber noch von seinen Teamkollegen getoppt."
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12858.html",
+          "published": "2026-09-18T20:22:37+00:00",
           "summary": ""
         },
         {
-          "title": "Bund und Länder einigen sich auf Tankrabatt und Spritpreisdeckel",
-          "link": "https://www.tagesschau.de/eilmeldung/einigung-tankrabatt-spritpreisdeckel-100.html",
-          "published": "2026-09-18T19:34:11+00:00",
-          "summary": "Bund und Länder haben sich wegen der hohen Spritpreise auf einen Tankrabatt und einen Spritpreisdeckel geeinigt. Insgesamt sollen Bürger und Unternehmen um rund 2,5 Milliarden Euro entlastet werden."
-        },
-        {
-          "title": "SPD und AfD liefern sich engstes Rennen seit Jahren in Mecklenburg-Vorpommern",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1651480.html",
-          "published": "2026-09-18T18:51:11+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Erster F-35 für Deutschland: Pistorius nimmt Tarnkappen-Jet in Texas entgegen",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1651476.html",
-          "published": "2026-09-18T18:44:37+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Bundesanwaltschaft prüft bei abgestürzter Drohne nahe Bundeswehr-Standort mögliche Verbindung zu Leipzig",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1651478.html",
-          "published": "2026-09-18T18:42:39+00:00",
+          "title": "Haftbefehl gegen mutmaßlichen Täter nach Brandanschlag auf Synagoge in Wuppertal",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1651528.html",
+          "published": "2026-09-18T20:20:03+00:00",
           "summary": ""
         }
       ],
@@ -53,28 +53,28 @@
           "summary": "Rund um den letzten Willen gibt es viele Missverständnisse. Von der Rolle des Ex-Partners über das Steuerrecht bis zur Rechtswahl – diesen Irrtümern sollten Sie nicht aufsitzen."
         },
         {
+          "title": "Medien: Trump verbietet CNN und „Politico“ Zugang zum Weißen Haus",
+          "link": "https://www.handelsblatt.com/politik/international/medien-trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus/100255753.html",
+          "published": "2026-09-18T21:42:32+00:00",
+          "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es wenige Wochen vor den wichtigen Parlamentswahlen CNN und andere. Sie sind nicht die Ersten."
+        },
+        {
+          "title": "Aktie im Blick: Warum boomt mit einem Mal die Volkswagen-Aktie?",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/vw-aktie-warum-boomte-mit-einem-mal-die-autobauer-aktie/100254699.html",
+          "published": "2026-09-18T21:29:04+00:00",
+          "summary": "Sieben Prozent Zuwachs in nur einem Monat machten den Autobauer zum erfolgreichsten Dax‑Titel. Zumindest bis Freitagabend. Die Aktie war aber schon länger in einer guten Ausgangsposition."
+        },
+        {
           "title": "Kommentar: Was hat der Kanzler mit diesem Spritpreispaket angerichtet?!",
           "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-was-hat-der-kanzler-mit-diesem-spritpreispaket-angerichtet/100255749.html",
           "published": "2026-09-18T20:01:37+00:00",
           "summary": "Einen Preisdeckel und einen Tankrabatt hat sich die Regierung ausgedacht. Das wird die Steuermilliarden nicht wert sein und es könnte auch Deutschlands Versorgung mit Sprit gefährden."
         },
         {
-          "title": "Medien: Trump verbietet CNN und „Politico“ Zugang zum Weißen Haus",
-          "link": "https://www.handelsblatt.com/politik/international/medien-trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus/100255753.html",
-          "published": "2026-09-18T20:00:22+00:00",
-          "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es CNN und andere. Sie sind nicht die Ersten, die von Verboten betroffen sind."
-        },
-        {
           "title": "+++ USA +++: Trump verbietet CNN und anderen Medien Zugang zum Weißen Haus",
           "link": "https://www.handelsblatt.com/politik/international/usa-trump-verbietet-cnn-und-anderen-medien-zugang-zum-weissen-haus/29669594.html",
           "published": "2026-09-18T19:46:00+00:00",
           "summary": "Demokraten wollen nach der Wahl gegen Trump-Familie vorgehen +++ US-Post stoppt Arbeit an umstrittenem Computersystem für Briefwahl +++ Trump zieht überraschend Toppersonalie zu ICE-Behörde zurück …"
-        },
-        {
-          "title": "Teures Tanken: Bund und Länder einigen sich auf neuen Tankrabatt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/teures-tanken-bund-und-laender-einigen-sich-auf-neuen-tankrabatt/100255740.html",
-          "published": "2026-09-18T19:44:08+00:00",
-          "summary": "Die Bundesregierung vereinbart mit den Ländern ein neues Paket für Entlastungen bei den hohen Spritreisen. Worum es geht."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Wochenvorschau: Termine bis 27. September 2026",
+          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-27-September-2026-id31296540.html",
+          "published": "2026-09-18T22:01:00+00:00",
+          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+        },
+        {
+          "title": "Zinswoche muss verdaut werden: Wall Street geht erschöpft ins Wochenende",
+          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-geht-erschoepft-ins-Wochenende-id31323498.html",
+          "published": "2026-09-18T21:02:07+00:00",
+          "summary": "Die US-Anleger treten nach einer ereignisreichen Woche auf die Bremse: Die Zinserhöhung der Fed, Höchststände bei den Energiepreisen und hartnäckige Inflationssorgen verpassen der Euphorie um …"
+        },
         {
           "title": "Porsche, China, Geopolitik: Volkswagen streicht Gewinnprognose zusammen",
           "link": "https://www.n-tv.de/wirtschaft/Volkswagen-streicht-Gewinnprognose-zusammen-id31323163.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/CO2-Lager-in-daenischer-Nordsee-geht-in-Regelbetrieb-id31322354.html",
           "published": "2026-09-18T15:07:38+00:00",
           "summary": "Die steigende Menge CO2 in der Atmosphäre ist eine der größten Herausforderungen zur Eindämmung des menschengemachten Klimawandels. Um diese zu reduzieren, ist in Dänemark ein besonderes Projekt in …"
-        },
-        {
-          "title": "Angriff auf wichtige Pipeline: Bericht: Saudi-Arabien liefert im Oktober kein Öl nach Europa",
-          "link": "https://www.n-tv.de/wirtschaft/Bericht-Saudi-Arabien-liefert-im-Oktober-kein-Oel-nach-Europa-id31322174.html",
-          "published": "2026-09-18T13:59:12+00:00",
-          "summary": "Vergangene Woche meldet Saudi-Arabien einen Drohnenangriff auf seine wichtige Ost-West-Pipeline. Wegen der Schäden stoppt Riad nun offenbar Öl-Lieferungen nach Europa für einen Monat. Die Nachricht …"
-        },
-        {
-          "title": "\"Übermenschliche Fähigkeiten\" : Ex-OpenAI-Forscher fordert Stopp der KI-Entwicklung",
-          "link": "https://www.n-tv.de/wirtschaft/Ex-OpenAI-Forscher-fordert-Stopp-der-KI-Entwicklung-id31322025.html",
-          "published": "2026-09-18T13:39:49+00:00",
-          "summary": "Daniel Kokotajlo ist einer der renommiertesten Forscher für die Zukunft der KI. Und für diese Zukunft sieht er schwarz. Mit der von der Techindustrie geplanten Automatisierung der KI-Forschung …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Gold und Bitcoin im Doppelpack: Warum Anleger laut einem Experten auf beide Assets setzen sollten",
-          "link": "https://www.finanzen.net/nachricht/devisen/globale-schuldenkrise-gold-und-bitcoin-im-doppelpack-warum-anleger-laut-einem-experten-auf-beide-assets-setzen-sollten-00-15941002",
-          "published": "2026-09-18T20:07:00+00:00",
-          "summary": "Gold und Bitcoin gelten laut 3iQ zunehmend als komplementäre Anlageklassen G7-Schuldenquote soll laut IWF 2026 auf rund 124 Prozent des BIP steigen Tokenisiertes Gold verbindet physische ..."
+          "title": "Aktien von NVIDIA, AMD & Co.: Piper Sandler empfiehlt diese fünf Chipwerte zum Kauf - sollten Anleger einsteigen?",
+          "link": "https://www.finanzen.net/nachricht/aktien/chip-coverage-aktien-von-nvidia-amd-co-piper-sandler-empfiehlt-diese-fuenf-chipwerte-zum-kauf-sollten-anleger-einsteigen-00-15938949",
+          "published": "2026-09-18T21:42:00+00:00",
+          "summary": "Piper Sandler startet Coverage für fünf US-Chipaktien mit Kaufvotum Bei einem der fünf Unternehmen übersteigt die Nachfrage laut Analyst das Angebot um das Doppelte Diese Aktien könnten für Anleger …"
         },
         {
-          "title": "Lies fordert Übergewinnsteuer für Ölkonzerne nach Tankrabatt",
-          "link": "https://www.finanzen.net/nachricht/aktien/lies-fordert-uebergewinnsteuer-fuer-oelkonzerne-nach-tankrabatt-15942407",
-          "published": "2026-09-18T20:03:39+00:00",
-          "summary": "HANNOVER (dpa-AFX) - Niedersachsens Ministerpräsident Olaf Lies (SPD) dringt nach der Einigung auf einen neuen Tankrabatt auf eine Übergewinnsteuer, um die Ölkonzerne zur Finanzierung der …"
+          "title": "DAX in KW 38: Diese Aktien gehörten zu den Gewinnern und Verlierern",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-38-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15922346",
+          "published": "2026-09-18T21:41:00+00:00",
+          "summary": "So schnitten DAX-Werte in der Kalenderwoche 38 ab"
         },
         {
-          "title": "ROUNDUP 3: Bund und Länder einigen sich auf neuen Tankrabatt",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-3-bund-und-laender-einigen-sich-auf-neuen-tankrabatt-15942401",
-          "published": "2026-09-18T19:57:38+00:00",
-          "summary": "(neu: Wirtschaftministerin Reiche)BERLIN (dpa-AFX) - Autofahrer in Deutschland sollen angesichts der hohen Spritpreise kurzfristig mit einem neuen Tankrabatt entlastet werden. Dieser soll bis Ende …"
+          "title": "Hot Stocks heute: 1 Mio. $ pro Tag! Tanker-Aktie vor dem nächsten Schub? + Deutschlands Cyber-Security-Champion",
+          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-1-mio-pro-tag-tanker-aktie-vor-dem-naechsten-schub-deutschlands-cyber-security-champion-15941450",
+          "published": "2026-09-18T21:32:00+00:00",
+          "summary": "Bei dem Podcast von finanzen.net, Hot Bets heiße Wetten, sprechen wir über TEEKAY TANKERS und secunet . ..."
         },
         {
-          "title": "ROUNDUP 2: 'Neue Ära' für die Luftwaffe: F-35 soll abschrecken",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-neue-aera-fuer-die-luftwaffe-f-35-soll-abschrecken-15942400",
-          "published": "2026-09-18T19:55:39+00:00",
-          "summary": "(neu: Details)FORT WORTH (dpa-AFX) - Verteidigungsminister Boris Pistorius sieht in der Einführung von F-35-Kampfflugzeugen in der Bundeswehr eine entscheidende Stärkung der Abschreckung Russlands. …"
+          "title": "Microsoft-Aktie: Warum Azure und Copilot Anleger jetzt in Richtung 5 Billionen träumen lassen",
+          "link": "https://www.finanzen.net/nachricht/aktien/zahlen-boomen-kurs-stockt-microsoft-aktie-warum-azure-und-copilot-anleger-jetzt-in-richtung-5-billionen-traeumen-lassen-00-15936567",
+          "published": "2026-09-18T21:20:00+00:00",
+          "summary": "Azure liefert bei Microsoft ein Tempo, das die Cloud-Konkurrenz herausfordert Copilot gewinnt bei Unternehmen rasant an zahlenden Nutzern Analysten sehen bei Microsoft trotz hoher Investitionen …"
         },
         {
-          "title": "Selenskyj nennt ukrainisches Haushaltsloch 'astronomisch'",
-          "link": "https://www.finanzen.net/nachricht/aktien/selenskyj-nennt-ukrainisches-haushaltsloch-astronomisch-15942399",
-          "published": "2026-09-18T19:51:38+00:00",
-          "summary": "IWANO-FRANKIWSK (dpa-AFX) - Der ukrainische Präsident Wolodymyr Selenskyj hat das Haushaltsloch seines Landes als \"astronomisch\" bezeichnet. \"Wir arbeiten an einigen Vorschlägen, um das von mir …"
+          "title": "Favoriten der Finanzprofis: Diese Aktien empfehlen Experten zu kaufen",
+          "link": "https://www.finanzen.net/nachricht/aktien/kaufempfehlungen-kw-38-favoriten-der-finanzprofis-diese-aktien-empfehlen-experten-zu-kaufen-15927225",
+          "published": "2026-09-18T21:18:00+00:00",
+          "summary": "In eigener Sache - Tipp: Handeln Sie Ihre Aktien jetzt für 0,00 € bei finanzen.net zero!"
         }
       ],
       "error": null
@@ -209,16 +209,16 @@
           "summary": "Für Vermieter stehen die Zeichen auf Sturm: neue Auflagen, höhere Kosten, in Berlin drohen gar Enteignungen. Wo lohnt es sich noch, Immobilien zu vermieten?"
         },
         {
+          "title": "Entlastungen: Bund und Länder einigen sich auf neuen Tankrabatt",
+          "link": "https://www.wiwo.de/politik/deutschland/entlastungen-verhandlungen-ueber-neuen-tankrabatt/100255715.html",
+          "published": "2026-09-18T20:00:00+00:00",
+          "summary": "Neuer Tankrabatt beschlossen: Benzin und Diesel sollen ab Oktober um 17 Cent günstiger werden. Ab 2027 plant der Bund zudem einen Spritpreisdeckel. Die Details."
+        },
+        {
           "title": "VW kappt Gewinnerwartung: Die Volkswagen-Schmelze geht weiter",
           "link": "https://www.wiwo.de/unternehmen/auto/vw-kappt-gewinnerwartung-volkswagen-kappt-gewinnerwartung/100255743.html",
           "published": "2026-09-18T19:55:41+00:00",
           "summary": "Der VW-Konzern muss seine Gewinnprognose drastisch nach unten korrigieren. Finanzchef Arno Antlitz versucht eilig zu beschwichtigen. Doch seine Erklärungen offenbaren Abgründe."
-        },
-        {
-          "title": "Entlastungen: Regierung einigt sich auf Tankrabatt und Spritpreisdeckel",
-          "link": "https://www.wiwo.de/politik/deutschland/entlastungen-verhandlungen-ueber-neuen-tankrabatt/100255715.html",
-          "published": "2026-09-18T17:56:00+00:00",
-          "summary": "Die Bundesregierung einigt sich auf Entlastungen bei den Spritpreisen. Auch die Länder sind involviert. Worum es geht."
         },
         {
           "title": "Dieselpreise: „Ausländische Speditionen werden uns die Kunden abluchsen“",
