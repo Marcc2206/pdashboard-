@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:09:02+00:00",
+  "generatedAt": "2026-09-18T04:09:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Renommierter Körber-Preis für Zellforscherin Wickström",
+          "link": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
+          "published": "2026-09-18T03:22:27+00:00",
+          "summary": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute erhält die Finnin den diesjährigen Körber-Preis für …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1650930.html",
+          "published": "2026-09-18T03:09:46+00:00",
+          "summary": ""
+        },
+        {
+          "title": "EU-Finanzminister beraten in Dublin über mögliche Übergewinnsteuer",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-finanzminister-uebergewinnsteuer-100.html",
+          "published": "2026-09-18T02:55:53+00:00",
+          "summary": "Die EU-Finanzminister beraten heute in Dublin über mögliche Entlastungen für Autofahrer. Bundesfinanzminister Klingbeil wirbt für eine Übergewinnsteuer, doch sein Vorschlag ist umstritten - auch …"
+        },
+        {
+          "title": "Nach Schließung des Konsulats: Deutschlands schwieriger Kurs gegenüber Russland",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/generalkonsulat-russland-schliessung-102.html",
+          "published": "2026-09-18T02:52:54+00:00",
+          "summary": "Flagge eingeholt, Personal ausgeflogen: Das russische Generalkonsulat in Bonn ist seit heute als Reaktion auf den Leipziger Drohnen-Vorfall geschlossen. Außenminister Wadephul nennt das eine harte …"
+        },
+        {
           "title": "Polizei registriert Hunderte Straftaten im Berliner Wahlkampf",
           "link": "https://www.tagesschau.de/inland/regional/berlin/straftaten-berliner-wahlkampf-100.html",
           "published": "2026-09-18T02:01:20+00:00",
           "summary": "Im Berliner Wahlkampf hat die Polizei seit Anfang August mehr als 1.200 beschädigte Wahlplakate und 39 Angriffe auf Parteimitglieder und Wahlkämpfer registriert. Besonders häufig betroffen war die …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1650926.html",
-          "published": "2026-09-18T00:21:24+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80948.html",
-          "published": "2026-09-17T22:46:43+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12864.html",
-          "published": "2026-09-17T21:23:14+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Bundesregierung diskutiert über Entlastung bei Spritpreisen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1650886.html",
-          "published": "2026-09-17T20:46:49+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -53,28 +53,28 @@
           "summary": "Rund um den letzten Willen gibt es viele Missverständnisse. Von der Rolle des Ex-Partners über das Steuerrecht bis zur Rechtswahl – diesen Irrtümern sollten Sie nicht aufsitzen."
         },
         {
-          "title": "Tata-Gruppe: Börsengang von Indiens größtem Konglomerat rückt näher",
-          "link": "https://www.handelsblatt.com/finanzen/tata-gruppe-boersengang-von-indiens-groesstem-konglomerat-rueckt-naeher/100254636.html",
-          "published": "2026-09-18T02:05:29+00:00",
-          "summary": "Indiens Zentralbank will die Muttergesellschaft der Tata-Gruppe an die Börse zwingen. Der Vorstand gibt den Widerstand auf, doch hinter den Kulissen tobt ein Machtkampf um die Führung."
+          "title": "Nikkei, Topix, CSI 300: Asiens Börsen im Plus – Bank of Japan hebt Zinsen an",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-im-plus-bank-of-japan-hebt-zinsen-an/100255536.html",
+          "published": "2026-09-18T04:04:16+00:00",
+          "summary": "Im Fokus steht die Anhebung des Leitzinses der BOJ auf den höchsten Stand seit 31 Jahren. Denn der andauernde Krieg im Nahen Osten schürt weltweit Inflationsängste."
         },
         {
-          "title": "HRI-Konjunkturprognose: Wachstum ja, aber Deutschlands Bevölkerung wird trotzdem ärmer",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/hri-konjunkturprognose-wachstum-ja-aber-deutschlands-bevoelkerung-wird-trotzdem-aermer/100251425.html",
-          "published": "2026-09-18T02:03:37+00:00",
-          "summary": "Die Signale weisen auf den Aufschwung hin. Und tatsächlich ist Deutschland auf kurze Sicht ein Krisengewinner. Gleichwohl wachsen die strukturellen Probleme gewaltig."
+          "title": "Morning Briefing: Drei Thesen, zu was die KI wirklich fähig ist",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-drei-thesen-zu-was-die-ki-wirklich-faehig-ist/100255472.html",
+          "published": "2026-09-18T03:57:04+00:00",
+          "summary": "Bisherige KI-Ausbrüche zeigen, was die Technologie schon heute kann. Ein Blick auf die Details zeigt, Ängste übertrieben sind und welche Schäden die KI dennoch anrichten kann."
         },
         {
-          "title": "Zufallsfund vor 35 Jahren: Irrweg als Glücksfall: Wie Ötzi zur Weltsensation wurde",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/zufallsfund-vor-35-jahren-irrweg-als-gluecksfall-wie-oetzi-zur-weltsensation-wurde/100255502.html",
-          "published": "2026-09-18T02:00:45+00:00",
-          "summary": "Sein Fund war eine Sensation. Ötzi starb vor 5.300 Jahren - heute kann er in einem speziellen Kühlraum besichtigt werden. Forschenden gibt die Mumie noch immer viele Rätsel auf."
+          "title": "Gesundheitstipps vom Chatbot: KI, was hab' ich? Symptome online checken - aber richtig",
+          "link": "https://www.handelsblatt.com/technik/medizin/gesundheitstipps-vom-chatbot-ki-was-hab-ich-symptome-online-checken-aber-richtig/100255534.html",
+          "published": "2026-09-18T03:42:04+00:00",
+          "summary": "Dr. KI hat 24/7 Sprechstunde und immer eine Idee, was hinter unseren Beschwerden stecken könnte. Wie man Chatbots bei Gesundheitsfragen clever nutzt - und welche (eher unbekannte) Alternative es gibt."
         },
         {
-          "title": "Kolonisierung Australiens: Studie: Zahl der Aborigines war viel höher als gedacht",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/kolonisierung-australiens-studie-zahl-der-aborigines-war-viel-hoeher-als-gedacht/100255501.html",
-          "published": "2026-09-18T02:00:07+00:00",
-          "summary": "Wie viele Menschen lebten in Australien vor der Kolonisierung? Einer Studie zufolge viel mehr als bislang angenommen. Zugleich wird klar, wie drastisch die indigene Bevölkerung danach schrumpfte."
+          "title": "Bank of Japan: Japans Notenbank erhöht Leitzins auf höchsten Stand seit 31 Jahren",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/bank-of-japan-japans-notenbank-erhoeht-leitzins-auf-hoechsten-stand-seit-31-jahren/100255529.html",
+          "published": "2026-09-18T03:36:57+00:00",
+          "summary": "Die Währungshüter wollen das Risiko eindämmen, dass die Teuerungsrate das Inflationsziel der Notenbank übersteigt. Die BOJ reagiert mit der Straffung zudem auf das internationale Umfeld."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "KI schlägt Menschen beim Investieren? Bridgewater gibt Aktien-Anlegern klare Hinweise",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-statt-menschen-ki-schlaegt-menschen-beim-investieren-bridgewater-gibt-aktien-anlegern-klare-hinweise-00-15937305",
-          "published": "2026-09-18T01:49:12+00:00",
-          "summary": "Bridgewaters Token-Nutzung für KI stieg um das 200-Fache Co-Investmentchef Jensen sieht die KI in wenigen Jahren allen Mitarbeitern überlegen Könnte KI bald bessere Anlageentscheidungen als Menschen …"
+          "title": "WOCHENVORSCHAU: Termine bis 1. Oktober 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-1-oktober-2026-15940528",
+          "published": "2026-09-18T04:04:39+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Donnerstag, den 1. Oktober^--------------------------------------------------------------------------------------- FREITAG, DEN 18. …"
         },
         {
-          "title": "GNW-News: Aduro gehört zu den 10 Unternehmen, die eingeladen wurden, im Rahmen des \"PepsiCo Sustainability Innovation Hub 2026\" eine Präsentation zu halten",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-aduro-gehoert-zu-den-10-unternehmen-die-eingeladen-wurden-im-rahmen-des-pepsico-sustainability-innovation-hub-2026-eine-praesentation-zu-halten-15940458",
-          "published": "2026-09-18T01:47:39+00:00",
-          "summary": "^LONDON, Ontario, Sept. 18, 2026 (GLOBE NEWSWIRE) -- Aduro Clean Technologies Inc(https://www.adurocleantech.com/?utm_source=AduroWebsite&utm_campaign=PR212&utm_ medium=PressRelease). (?Aduro\" oder …"
+          "title": "DGB warnt vor AfD - und protestiert gegen Regierung",
+          "link": "https://www.finanzen.net/nachricht/aktien/dgb-warnt-vor-afd-und-protestiert-gegen-regierung-15940527",
+          "published": "2026-09-18T04:04:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - DGB-Chefin Yasmin Fahimi wirft der Bundesregierung eine falsche Ausrichtung vor und warnt vor einem Ruin Deutschlands im Fall einer AfD-Regierung. Unter dem Motto \"Hart verdient! …"
         },
         {
-          "title": "SP 500 vor neuem Rekord? Strategen sehen Milliardenpotenzial - und eine Gefahr",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-amp-p-500-vor-neuem-rekord-strategen-sehen-milliardenpotenzial-und-eine-gefahr-15940457",
-          "published": "2026-09-18T01:43:22+00:00",
-          "summary": "Mehrere Häuser an der Wall Street rücken beim SP 500 ein rundes Kursniveau in den Blick, das noch vor Monaten fern schien."
+          "title": "TAGESVORSCHAU: Termine am 18. September 2026",
+          "link": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-18-september-2026-15940526",
+          "published": "2026-09-18T04:04:38+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine am Freitag, den 18. September^TERMINE UNTERNEHMEN 11:00 DEU: Verbandstag der Sparda-BankenTERMINE KONJUNKTUR01:00 GBR: Verbrauchervertrauen 9/26 …"
         },
         {
-          "title": "Bitcoin-Gold-Korrelation auf hohem Niveau: Was Anleger daraus ableiten können",
-          "link": "https://www.finanzen.net/nachricht/aktien/bitcoin-gold-korrelation-auf-hohem-niveau-was-anleger-daraus-ableiten-koennen-15940451",
-          "published": "2026-09-18T01:34:06+00:00",
-          "summary": "Noch nie liefen Bitcoin und Gold so im Gleichschritt, doch ausgerechnet das nährt einen Trugschluss über die Kryptowährung als sicheren Hafen."
+          "title": "Fast jeder Zweite erwartet Kanzlerwechsel vor Jahresende",
+          "link": "https://www.finanzen.net/nachricht/aktien/fast-jeder-zweite-erwartet-kanzlerwechsel-vor-jahresende-15940525",
+          "published": "2026-09-18T04:03:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Fast die Hälfte der Menschen in Deutschland rechnet damit, dass Bundeskanzler Friedrich Merz (CDU) noch in diesem Jahr abgelöst wird. In einer Umfrage des …"
         },
         {
-          "title": "Anthropic-IPO im Schatten der KI-Angst: Jetzt warnt sogar ein Insider",
-          "link": "https://www.finanzen.net/nachricht/aktien/anthropic-ipo-im-schatten-der-ki-angst-jetzt-warnt-sogar-ein-insider-15940450",
-          "published": "2026-09-18T01:30:54+00:00",
-          "summary": "Ein Ex-Anthropic-Forscher warnt vor 'tödlicher KI' – und ausgerechnet ein Insider bestätigt seine schlimmsten Befürchtungen. Was die angekündigte Entwicklungspause für Anleger wirklich bedeutet."
+          "title": "US-Wahlkampf: Republikanische Abgeordnete attackiert Trump",
+          "link": "https://www.finanzen.net/nachricht/aktien/us-wahlkampf-republikanische-abgeordnete-attackiert-trump-15940523",
+          "published": "2026-09-18T04:03:39+00:00",
+          "summary": "TALLAHASSEE/WASHINGTON (dpa-AFX) - Knapp sieben Wochen vor den US-Parlamentswahlen bekommt Präsident Donald Trump aus den eigenen Reihen Gegenwind für seine umstrittene Abschiebepolitik. Die …"
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Vonovia und Co.: So gefährlich sind die Enteignungsfantasien für Immobilienkonzerne",
+          "link": "https://www.wiwo.de/finanzen/immobilien/vonovia-und-co.-so-gefaehrlich-sind-die-enteignungsfantasien-fuer-immobilienkonzerne/100255113.html",
+          "published": "2026-09-18T04:01:24+00:00",
+          "summary": "Die Berliner Linke will Immobilienkonzerne vergesellschaften. Für deren Aktionäre kommt die Debatte zur Unzeit, denn die Branche steht bereits aus anderem Grund unter Druck."
+        },
+        {
+          "title": "Energiepreise: Wie stark trifft mich der Preisboom bei Öl und Gas?",
+          "link": "https://www.wiwo.de/finanzen/boerse/energiepreise-wie-stark-trifft-mich-der-preisboom-bei-oel-und-gas/100255318.html",
+          "published": "2026-09-18T04:01:22+00:00",
+          "summary": "Der Krieg im Nahen Osten schlägt auf die Energiepreise durch. In der Heizperiode werden Verbraucher das merken. Wie stark, hängt von der Art ihrer Heizung ab."
+        },
+        {
           "title": "Wiesn 2026: „Seit alle tanzen, ist es mit den Schlägereien weniger geworden“",
           "link": "https://www.wiwo.de/unternehmen/oktoberfest-2026-seit-alle-tanzen-ist-es-mit-den-schlaegereien-weniger-geworden/100253004.html",
           "published": "2026-09-17T16:06:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/erfolg/management/arbeitslast-im-team-warum-engagierte-mitarbeiter-haeufig-leiden/100253273.html",
           "published": "2026-09-17T16:05:00+00:00",
           "summary": "Die Arbeitslast steigt aktuell. Umso wichtiger ist eine kluge Aufgabenverteilung. Doch Führungskräften unterläuft dabei oft ein entscheidender Fehler."
-        },
-        {
-          "title": "Benzin für drei Euro?: Deutsche Autofahrer verlieren beim Benzinpreis gleich dreifach",
-          "link": "https://www.wiwo.de/unternehmen/energie/spritpreise-warum-deutschland-teurer-als-polen-und-schweden-ist/100254689.html",
-          "published": "2026-09-17T16:00:00+00:00",
-          "summary": "Alles Steuern, oder was? Wieso die Spritpreise in europäischen Ländern wie Polen oder Schweden so viel günstiger als in Deutschland sind."
-        },
-        {
-          "title": "Immobilienmarkt: Welche Wohnungen jetzt teurer werden",
-          "link": "https://www.wiwo.de/finanzen/immobilien/immobilienpreise-aktuell-welche-wohnungsgroessen-teurer-werden/100254666.html",
-          "published": "2026-09-17T16:00:00+00:00",
-          "summary": "Nicht überall steigen die Kaufpreise für Immobilien gleichmäßig. Eine exklusive Auswertung zeigt, in welchen Städten bestimmte Wohnungsarten gerade teurer werden."
         }
       ],
       "error": null
