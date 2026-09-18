@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:08:59+00:00",
+  "generatedAt": "2026-09-18T16:09:11+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bundeswehr: Drohne am Fliegerhorst Wunstorf dasselbe Modell wie in Leipzig",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/abgestuerzte-drohne-bei-wunstorf-modell-wie-in-leipzig,drohne-466.html",
-          "published": "2026-09-18T13:50:55+00:00",
-          "summary": "Anfang der Woche wurden nahe einem Militärflughafen in Niedersachsen Drohnenteile gefunden. Jetzt schaut sich die Bundesanwaltschaft die Sache genauer an. Sie prüft einen Zusammenhang mit dem Vorfall …"
-        },
-        {
-          "title": "Frankfurt am Main: An Malaria erkrankte Person gestorben",
-          "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-faelle-frankfurt-100.html",
-          "published": "2026-09-18T13:50:33+00:00",
-          "summary": "In Frankfurt am Main ist eine Person, die an Malaria erkrankt war, gestorben. Sie und eine weitere erkrankte Person haben laut Gesundheitsamt nahe dem Flughafen gewohnt. Ein Malaria-Gebiet hatten …"
-        },
-        {
-          "title": "Opposition bei Parlamentswahl in Russland ausgeschlossen",
-          "link": "https://www.tagesschau.de/video/video-1651196.html",
-          "published": "2026-09-18T13:35:34+00:00",
+          "title": "Silke Diettrich, ARD Moskau, zur Parlamentswahl in Russland ohne Opposition",
+          "link": "https://www.tagesschau.de/video/video-1651258.html",
+          "published": "2026-09-18T15:28:04+00:00",
           "summary": ""
         },
         {
-          "title": "CDU schlägt Entlastung von 25 Cent bei Spritpreisen vor",
-          "link": "https://www.tagesschau.de/video/video-1651194.html",
-          "published": "2026-09-18T13:32:02+00:00",
+          "title": "Investor Warren Buffett übergibt an seinen Sohn",
+          "link": "https://www.tagesschau.de/wirtschaft/buffett-warren-howard-100.html",
+          "published": "2026-09-18T15:27:15+00:00",
+          "summary": "Mit 96 Jahren übergibt Warren Buffett einen weiteren Teil seines Imperiums. Den Vorsitz des Verwaltungsrats übernimmt sein Sohn Howard. Ganz zurückziehen wird sich der legendäre Investor aber …"
+        },
+        {
+          "title": "Nach Drohnenfund in Wunstorf prüft Bundesanwaltschaft Verbindung zu Leipzig",
+          "link": "https://www.tagesschau.de/video/video-1651256.html",
+          "published": "2026-09-18T15:24:57+00:00",
           "summary": ""
         },
         {
-          "title": "Endspurt vor den Landtagswahlen: Sowohl in Berlin als auch in MV knapper Ausgang erwartet",
-          "link": "https://www.tagesschau.de/video/video-1651192.html",
-          "published": "2026-09-18T13:28:37+00:00",
+          "title": "Markus Preiß, ARD Berlin, zu den Maßnahmen gegen hohe Spritpreise",
+          "link": "https://www.tagesschau.de/video/video-1651246.html",
+          "published": "2026-09-18T15:22:09+00:00",
           "summary": ""
+        },
+        {
+          "title": "Anschlag auf Synagoge in NRW: Ermittler vermuten antisemitisches Motiv",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html",
+          "published": "2026-09-18T15:19:00+00:00",
+          "summary": "Auf die Synagoge der Jüdischen Kultusgemeinde in Wuppertal ist ein Brandanschlag verübt worden. Ein aus Afghanistan stammender Verdächtiger ist in Untersuchungshaft. Die Ermittler gehen von einem …"
         }
       ],
       "error": null
@@ -53,28 +53,28 @@
           "summary": "Rund um den letzten Willen gibt es viele Missverständnisse. Von der Rolle des Ex-Partners über das Steuerrecht bis zur Rechtswahl – diesen Irrtümern sollten Sie nicht aufsitzen."
         },
         {
-          "title": "Wall Street: US-Märkte starten verhalten in den Verfallstag",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-starten-verhalten-in-den-verfallstag/100255660.html",
-          "published": "2026-09-18T14:01:44+00:00",
+          "title": "Autobauer: Volkswagen kappt Prognose – Aktie fällt",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-volkswagen-kappt-prognose-aktie-faellt/100255727.html",
+          "published": "2026-09-18T15:48:21+00:00",
+          "summary": "Der kriselnde Wolfsburger Konzern erwartet für das laufende Jahr eine deutlich geringere Umsatzrendite. Auch die Eigentümerholding Porsche SE korrigiert ihre Prognose nach unten."
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: Ukraine erhält 3,3 Milliarden Euro an EU-Mitteln für Rüstung",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-18T15:32:00+00:00",
+          "summary": "Ukraine: Wahlen in Russland sind eine Farce +++ Russische Attacken: Macron will Schutzplan für Infrastruktur +++ Russland: Mehr als 600 ukrainische Drohnen abgefangen +++ Der Newsblog."
+        },
+        {
+          "title": "Wall Street: US-Märkte zum Wochenschluss weitgehend stabil",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-zum-wochenschluss-weitgehend-stabil/100255660.html",
+          "published": "2026-09-18T15:28:00+00:00",
           "summary": "Robuste US-Arbeitsmarktdaten und sinkende Ölpreise haben positive Signale gesendet – Anleger reagieren zum Handelsstart dennoch eher ruhig. Analysten zeigen sich weiter optimistisch."
         },
         {
-          "title": "Dax aktuell: Dax notiert schwächer – Tech-Aktie legt zu",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-deutlich-im-minus-tech-aktie-legt-zu/100255551.html",
-          "published": "2026-09-18T13:59:48+00:00",
-          "summary": "Nach der US-Notenbank Fed hat nun auch die Bank of Japan den Leitzins erhöht. Der Dax profitiert von sinkenden Ölpreisen, neue Konjunkturdaten dürften Anleger jedoch beunruhigen."
-        },
-        {
-          "title": "Koordinierte Attacke: Zahlreiche Tote bei Anschlag mit Autobombe in Pakistan",
-          "link": "https://www.handelsblatt.com/politik/international/koordinierte-attacke-zahlreiche-tote-bei-anschlag-mit-autobombe-in-pakistan/100255633.html",
-          "published": "2026-09-18T13:52:40+00:00",
-          "summary": "Ein Anschlag mit einer Autobombe trifft eine Polizeizentrale im Nordwesten Pakistans. Die Detonation beschädigt auch eine Moschee. Mehrere Angreifer sollen involviert gewesen sein."
-        },
-        {
-          "title": "Luxus-Krise: Die deutsche Tochter des Luxuslabels Bally ist insolvent",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/bally-die-deutsche-tochter-des-luxuslabels-ist-insolvent/100255696.html",
-          "published": "2026-09-18T13:50:52+00:00",
-          "summary": "Die Schweizer Traditionsmarke Bally kämpft ums Überleben. Jetzt hat die deutsche Tochter Insolvenz angemeldet – und bereitet den Ausverkauf vor."
+          "title": "Handelsblatt Live: US-Börsenexperte Koch: UN-Generalversammlung könnte für Entspannung an Ölmärkten sorgen",
+          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-un-generalversammlung-koennte-fuer-entspannung-an-oelmaerkten-sorgen/100255726.html",
+          "published": "2026-09-18T15:27:50+00:00",
+          "summary": "Kommende Woche findet in New York die Generalversammlung der Vereinten Nationen statt. Auch das Thema Iran-Krieg steht auf der Agenda. Markus Koch erklärt, dass Signale der Entspannung wieder zu …"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Kohlendioxid unter dem Meer: CO2-Lager in dänischer Nordsee geht in Regelbetrieb",
+          "link": "https://www.n-tv.de/wirtschaft/CO2-Lager-in-daenischer-Nordsee-geht-in-Regelbetrieb-id31322354.html",
+          "published": "2026-09-18T15:07:38+00:00",
+          "summary": "Die steigende Menge CO2 in der Atmosphäre ist eine der größten Herausforderungen zur Eindämmung des menschengemachten Klimawandels. Um diese zu reduzieren, ist in Dänemark ein besonderes Projekt in …"
+        },
         {
           "title": "Angriff auf wichtige Pipeline: Bericht: Saudi-Arabien liefert im Oktober kein Öl nach Europa",
           "link": "https://www.n-tv.de/wirtschaft/Bericht-Saudi-Arabien-liefert-im-Oktober-kein-Oel-nach-Europa-id31322174.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Deutscher-Staatskonzern-setzt-Gasversorgung-aufs-Spiel-id31317671.html",
           "published": "2026-09-18T10:47:12+00:00",
           "summary": "Nach Russlands Vollinvasion in der Ukraine übernimmt Deutschland die hiesige Gazprom-Tochter. Heute heißt das Gasunternehmen Securing Energy for Europe (Sefe). Doch statt die Versorgung zu sichern …"
-        },
-        {
-          "title": "Unternehmen prüft Optionen: Putin stellt Nestlé in Russland unter Zwangsverwaltung",
-          "link": "https://www.n-tv.de/wirtschaft/Putin-stellt-Nestle-in-Russland-unter-Zwangsverwaltung-id31320351.html",
-          "published": "2026-09-18T08:55:18+00:00",
-          "summary": "Sechs Fabriken, Tausende Beschäftigte und bekannte Lebensmittelmarken: Nestlé ist seit Jahrzehnten in Russland aktiv. Nun übernimmt ein von Moskau bestimmtes Unternehmen die Kontrolle. Analysten …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "S&P 500-Papier GE HealthCare Technologies-Aktie: So viel Verlust hätte ein GE HealthCare Technologies-Investment von vor 3 Jahren eingefahren",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-ge-healthcare-technologies-aktie-so-viel-verlust-haette-ein-ge-healthcare-technologies-investment-von-vor-3-jahren-eingefahren-15941810",
-          "published": "2026-09-18T14:00:48+00:00",
-          "summary": "Die GE HealthCare Technologies -Aktie wurde heute vor 3 Jahren an der Börse NAS gehandelt. Zum Handelsende stand das Papier an diesem Tag bei 66,28 USD. Hätte ein Anleger 1.000 USD zu diesem …"
+          "title": "Volkswagen senkt Gewinnprognose deutlich",
+          "link": "https://www.finanzen.net/nachricht/aktien/volkswagen-senkt-gewinnprognose-deutlich-15942141",
+          "published": "2026-09-18T16:01:38+00:00",
+          "summary": "WOLFSBURG (dpa-AFX) - Wegen einer milliardenschweren Abschreibung auf Porsche, schwacher Geschäfte in China und weiterer Kosten für den Konzernumbau senkt VW ( Volkswagen (VW) vz ) seine Prognose für …"
         },
         {
-          "title": "S&P 500-Wert Coherent-Aktie: So viel Gewinn hätte ein Coherent-Investment von vor einem Jahr eingefahren",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-wert-coherent-aktie-so-viel-gewinn-haette-ein-coherent-investment-von-vor-einem-jahr-eingefahren-15941809",
-          "published": "2026-09-18T14:00:48+00:00",
-          "summary": "Am 18.09.2025 wurde die Coherent -Aktie via Börse NYSE gehandelt. Zum Handelsende standen Coherent-Anteile an diesem Tag bei 108,05 USD. Bei einem Coherent-Investment von 1.000 USD zu diesem …"
+          "title": "40 Prozent verloren – jetzt wird die Infineon-Aktie hochgestuft - Titel reagiert und zieht AIXTRON & Co. mit",
+          "link": "https://www.finanzen.net/nachricht/aktien/analystenstimme-40-prozent-verloren-jetzt-wird-die-infineon-aktie-hochgestuft-titel-reagiert-und-zieht-aixtron-co-mit-15940762",
+          "published": "2026-09-18T16:00:00+00:00",
+          "summary": "Eine Hochstufung der Investmentbank Oddo BHF trieb die Infineon -Aktien am Freitag relativ deutlich an. Nachdem sie am Vortag dem erholten Umfeld in der globalen Chipbranche mit einem gut …"
         },
         {
-          "title": "S&P 500-Papier GE Aerospace (ex General Electric)-Aktie: So viel Gewinn hätte ein GE Aerospace (ex General Electric)-Investment von vor 3 Jahren abgeworfen",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-ge-aerospace-ex-general-electric-aktie-so-viel-gewinn-haette-ein-ge-aerospace-ex-general-electric-investment-von-vor-3-jahren-abgeworfen-15941808",
-          "published": "2026-09-18T14:00:48+00:00",
-          "summary": "Heute vor 3 Jahren wurden Trades der GE Aerospace (ex General Electric) -Aktie an der Börse NYSE ausgeführt. Der Schlusskurs des GE Aerospace (ex General Electric)-Papiers betrug an diesem Tag 93,66 …"
+          "title": "Börse New York in Rot: NASDAQ 100 im Minus",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-in-rot-nasdaq-100-im-minus-15942133",
+          "published": "2026-09-18T15:59:50+00:00",
+          "summary": "Um 17:57 Uhr bewegt sich der NASDAQ 100 im NASDAQ-Handel 0,06 Prozent schwächer bei 29.430,24 Punkten. Zum Handelsbeginn stand ein Gewinn von 0,281 Prozent auf 29.529,64 Punkte an der Kurstafel, ..."
         },
         {
-          "title": "S&P 500-Titel Airbnb-Aktie: Hätte sich eine Airbnb-Kapitalanlage von vor 5 Jahren rentiert?",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-airbnb-aktie-haette-sich-eine-airbnb-kapitalanlage-von-vor-5-jahren-rentiert-15941807",
-          "published": "2026-09-18T14:00:48+00:00",
-          "summary": "Heute vor 5 Jahren wurden Airbnb -Anteile wochenend-bedingt nicht an der Börse NAS gehandelt. Den vorangegangenen Handelstag beendete das Airbnb-Papier bei 166,59 USD. Wenn ein Anleger damals 1.000 …"
+          "title": "Schwacher Handel: S&P 500 legt den Rückwärtsgang ein",
+          "link": "https://www.finanzen.net/nachricht/aktien/schwacher-handel-s-p-500-legt-den-rueckwaertsgang-ein-15942132",
+          "published": "2026-09-18T15:59:50+00:00",
+          "summary": "Am Freitag fällt der S&P 500 um 17:57 Uhr via NYSE um 0,20 Prozent auf 7.622,16 Punkte zurück. An der Börse sind die im Index enthaltenen Werte damit 61,491 Bio. Euro wert. Zuvor ging der S&P ..."
         },
         {
-          "title": "S&P 500-Papier DoorDash-Aktie: So viel Gewinn hätte ein Investment in DoorDash von vor 3 Jahren eingebracht",
-          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-doordash-aktie-so-viel-gewinn-haette-ein-investment-in-doordash-von-vor-3-jahren-eingebracht-15941806",
-          "published": "2026-09-18T14:00:48+00:00",
-          "summary": "Am 18.09.2023 wurden DoorDash -Anteile an der Börse NAS gehandelt. Zur Schlussglocke war die Aktie an diesem Tag 80,92 USD wert. Hätte ein Anleger 100 USD zu diesem Zeitpunkt in die DoorDash-Aktie …"
+          "title": "Angespannte Stimmung in New York: NASDAQ Composite mit Abgaben",
+          "link": "https://www.finanzen.net/nachricht/aktien/angespannte-stimmung-in-new-york-nasdaq-composite-mit-abgaben-15942131",
+          "published": "2026-09-18T15:59:50+00:00",
+          "summary": "Um 17:57 Uhr bewegt sich der NASDAQ Composite im NASDAQ-Handel 0,13 Prozent leichter bei 26.384,72 Punkten. In den Freitagshandel ging der NASDAQ Composite 0,393 Prozent höher bei 26.522,09 ..."
         }
       ],
       "error": null
@@ -209,28 +209,28 @@
           "summary": "Für Vermieter stehen die Zeichen auf Sturm: neue Auflagen, höhere Kosten, in Berlin drohen gar Enteignungen. Wo lohnt es sich noch, Immobilien zu vermieten?"
         },
         {
-          "title": "Überschuldungsreport: Welche Gründe Menschen in die Überschuldungsfalle treiben",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/ueberschuldung-was-treibt-millionen-menschen-in-die-schuldenfalle/100255599.html",
-          "published": "2026-09-18T14:04:20+00:00",
-          "summary": "In Deutschland sind über 5,6 Millionen Menschen überschuldet – Tendenz zuletzt steigend. Eine Bevölkerungsgruppe ist besonders gefährdet."
+          "title": "VW-Aktie fällt: Volkswagen kappt Prognose für 2026 drastisch",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-kappt-prognose-fuer-2026-drastisch-aktie-verliert-im-dax/100255730.html",
+          "published": "2026-09-18T16:02:00+00:00",
+          "summary": "W erwartet für 2026 kaum noch Gewinn. Was dahintersteckt – und was die Prognose bei Anlegern auslöst."
         },
         {
-          "title": "Solar- und Windkraft: Jetzt machen die Kohlekonzerne auf Öko",
-          "link": "https://www.wiwo.de/unternehmen/energie/eeg-deckel-bedroht-solarparks-kohlekonzerne-warnen-vor-ausbaustopp/100255567.html",
-          "published": "2026-09-18T13:13:36+00:00",
-          "summary": "Die ostdeutschen Braunkohlekonzerne Leag und Mibrag kritisieren, dass Wirtschaftsministerin Reiche Hilfen für Grünstrom streichen will. Warum bloß?"
+          "title": "Bundeskanzler: Warum Merz ausgerechnet auf die einstige Chaos-CDU Berlins hofft",
+          "link": "https://www.wiwo.de/politik/deutschland/friedrich-merz-im-berlin-wahlkampf-ist-stefan-evers-der-rettungsanker/100254642.html",
+          "published": "2026-09-18T15:02:04+00:00",
+          "summary": "Friedrich Merz setzt im Berliner Wahlkampf auf Spitzenkandidat Stefan Evers. Ein Erfolg könnte ihm Zeit verschaffen. Mehr nicht."
         },
         {
-          "title": "Mecklenburg-Vorpommern-Wahl 2026: Was man über die Wahl im Nordosten wissen sollte",
-          "link": "https://www.wiwo.de/politik/deutschland/spd-gegen-afd-was-man-ueber-die-wahl-in-mecklenburg-vorpommern-wissen-sollte/100255684.html",
-          "published": "2026-09-18T13:05:49+00:00",
-          "summary": "Mehr als 1,3 Millionen Menschen in Mecklenburg-Vorpommern dürfen mitbestimmen, wer künftig das Land regiert. Wer wählen darf und warum es diesmal besonders spannend ist."
+          "title": "„Äußerst angespannt“: Verkehrsministerium schlägt wegen Lage bei DB Cargo Alarm",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/db-cargo-sanierung-akut-gefaehrdet-ministerium-schlaegt-alarm/100255710.html",
+          "published": "2026-09-18T14:51:51+00:00",
+          "summary": "Das Bundesverkehrsministerium sorgt sich um die Zukunftsfähigkeit der Frachtsparte der Deutschen Bahn."
         },
         {
-          "title": "Playmobil: Kann dieser Mann Playmobil retten?",
-          "link": "https://www.wiwo.de/unternehmen/handel/playmobil-lars-wagner-wird-neuer-chef-des-spielzeugriesen/100255594.html",
-          "published": "2026-09-18T13:00:00+00:00",
-          "summary": "Lars Wagner übernimmt bei Playmobil. Der frühere Disney-Manager folgt auf Bahri Kurter und soll den kriselnden Spielwarenhersteller stabilisieren."
+          "title": "Entlastungen: Koalition vor Einigung auf Spritpreisdeckel und Tankrabatt",
+          "link": "https://www.wiwo.de/politik/deutschland/entlastungen-verhandlungen-ueber-neuen-tankrabatt/100255715.html",
+          "published": "2026-09-18T14:42:44+00:00",
+          "summary": "Die Bundesregierung will etwas gegen die hohen Spritpreise unternehmen. Es könnte ein Paket kommen. Wird heute noch eine Einigung verkündet?"
         }
       ],
       "error": null
@@ -242,8 +242,8 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Es braucht nur Wasser: Forscher entdecken verborgene Methanolquelle im Erdboden",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/umwelt/es-braucht-nur-wasser-forscher-entdecken-verborgene-methanolquelle-im-erdboden/",
+          "title": "Forscher entdecken verborgene Methanolquelle im Erdboden",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/es-braucht-nur-wasser-forscher-entdecken-verborgene-methanolquelle-im-erdboden/",
           "published": "2026-09-18T13:00:00+00:00",
           "summary": "Methanol gilt vor allem als Industriechemikalie. Heidelberger Forschende zeigen nun, dass es auch rein chemisch im Boden entstehen kann. Ausgangsstoff ist Lignin: schon das Befeuchten natürlicher …"
         },
