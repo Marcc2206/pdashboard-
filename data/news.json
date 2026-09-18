@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T06:11:29+00:00",
+  "generatedAt": "2026-09-18T08:09:33+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651022.html",
+          "published": "2026-09-18T07:42:31+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energiekosten-strom-oel-gas-100.html",
+          "published": "2026-09-18T07:20:19+00:00",
+          "summary": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monaten noch einstellen? Von Till …"
+        },
+        {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-18T07:11:26+00:00",
+          "summary": "Am Freitag fällt anfangs von der südlichen Mitte bis in den Osten mancherorts etwas Regen. Im Norden gibt es gelegentlich Schauer. Sonst ist es oft trocken und es stellt sich ein Wechsel aus Sonne …"
+        },
+        {
+          "title": "Wartungsarbeiten am EU-Gebäude, Oktoberfest, Skulptur \"La Valse\" von Camille Claudel",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10452.html",
+          "published": "2026-09-18T06:31:57+00:00",
+          "summary": ""
+        },
+        {
           "title": "Spritpreise: Hoppermann schlägt bis zu 25 Cent Entlastung pro Liter vor",
           "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-spritpreise-100.html",
-          "published": "2026-09-18T05:48:43+00:00",
+          "published": "2026-09-18T06:31:11+00:00",
           "summary": "Wie können Autofahrer und Spediteure angesichts der hohen Spritpreise entlastet werden? Viele Vorschläge liegen auf dem Tisch, nun hat CDU-Generalsekretärin Hoppermann erstmals konkrete Eckdaten ins …"
-        },
-        {
-          "title": "Brandanschlag auf Synagoge in Wuppertal - Verdächtiger festgenommen",
-          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html",
-          "published": "2026-09-18T05:47:00+00:00",
-          "summary": "Auf die Synagoge der Jüdischen Kultusgemeinde in Wuppertal ist ein Brandanschlag verübt worden. Ein Mann soll einen Beutel mit brennbarer Flüssigkeit an das Gebäude geworfen haben. Der Verdächtige …"
-        },
-        {
-          "title": "Marktbericht: DAX dürfte zum Wochenschluss zurückfallen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
-          "published": "2026-09-18T05:46:21+00:00",
-          "summary": "Zumindest der Start dürfte für den DAX heute holprig verlaufen. Dabei sollten sinkende Ölpreise eigentlich stützen. Auch die Vorgaben aus den USA und Asien fallen stark aus - aber die Verunsicherung …"
-        },
-        {
-          "title": "15 Minuten-Podcast: Kein Social Media für Kinder, Malaria-Toter in Frankfurt",
-          "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15min-podcast-social-media-100.html",
-          "published": "2026-09-18T05:16:49+00:00",
-          "summary": "Die geplanten Social-Media-Einschränkungen für Jugendliche in der EU, Malaria-Infektionen in Frankfurt und die Wahl in Berlin - das sind einige der Themen im Podcast 15 Minuten."
-        },
-        {
-          "title": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
-          "link": "https://www.tagesschau.de/ausland/europa/schweiz-ernaehrungsinitiative-selbstversorgung-100.html",
-          "published": "2026-09-18T05:06:59+00:00",
-          "summary": "\"Tu ma lieber die Möhrchen\", könnte es bald in der Schweiz heißen. Eine Initiative fordert mehr pflanzliche Lebensmittel und weniger Tierhaltung. Dahinter steckt die Frage: Inwieweit will sich das …"
         }
       ],
       "error": null
@@ -53,28 +53,28 @@
           "summary": "Rund um den letzten Willen gibt es viele Missverständnisse. Von der Rolle des Ex-Partners über das Steuerrecht bis zur Rechtswahl – diesen Irrtümern sollten Sie nicht aufsitzen."
         },
         {
-          "title": "Cyberangriffe: Nordkorea-Cybergruppe bestiehlt IT-Fachleute auf Jobsuche",
-          "link": "https://www.handelsblatt.com/technik/it-internet/cyberangriffe-nordkorea-cybergruppe-bestiehlt-it-fachleute-auf-jobsuche/100255558.html",
-          "published": "2026-09-18T06:00:07+00:00",
-          "summary": "Sicherheitsbehörden warnen vor einer Cybergruppe aus Nordkorea, die gezielt IT-Spezialisten angreift. Was hinter der Kampagne „Contagious Interview“ steckt."
+          "title": "EU-Haushalt: Fünf EU-Regierungschefs lehnen gemeinsame Schuldenaufnahme ab",
+          "link": "https://www.handelsblatt.com/politik/international/eu-haushalt-fuenf-eu-regierungschefs-lehnen-gemeinsame-schuldenaufnahme-ab/100255589.html",
+          "published": "2026-09-18T07:59:29+00:00",
+          "summary": "Der Haushalt der EU sorgt für Diskussionen. Fünf große Nettozahler, auch Deutschland, sprechen sich nun gegen gemeinsame Schulden aus. Die Verlässlichkeit der EU stehe auf dem Spiel."
         },
         {
-          "title": "Gehaltsrechner: Wie viel verdienen Sie im Vergleich zu anderen Führungskräften?",
-          "link": "https://www.handelsblatt.com/karriere/gehalt-gehoeren-sie-zu-den-top-verdienern-in-deutschland/100248227.html",
-          "published": "2026-09-18T05:39:00+00:00",
-          "summary": "Branche, Unternehmensgröße und Standort beeinflussen maßgeblich die Gehälter – das gilt auch für Chefs. Mit unserem interaktiven Rechner sehen Sie, wo Sie im Verhältnis zu anderen stehen."
+          "title": "Führung: „Die Leute müssen das Gefühl haben, blöd sein zu dürfen“",
+          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-die-leute-muessen-das-gefuehl-haben-bloed-sein-zu-duerfen/100252820.html",
+          "published": "2026-09-18T07:59:00+00:00",
+          "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“."
         },
         {
-          "title": "Rentnerparadies: Rente im Ausland: Dieses Tool zeigt, wohin Sie auswandern sollten",
-          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-im-ausland-finden-sie-hier-ihr-paradies-fuer-den-ruhestand/100168299.html",
-          "published": "2026-09-18T05:38:00+00:00",
-          "summary": "Den Lebensabend im Ausland verbringen, davon träumen viele. Doch wie finden Sie zum Beispiel heraus, in welchem Land am Meer es sonnig und sicher ist? Das Handelsblatt hilft bei der Auswahl."
+          "title": "Editorial: Das verharmloste Problem der Linken",
+          "link": "https://www.handelsblatt.com/meinung/kolumnen/editorial-das-verharmloste-problem-der-linken/100255109.html",
+          "published": "2026-09-18T07:58:49+00:00",
+          "summary": "Die Linke in Berlin hat ein erhebliches Antisemitismusproblem und fährt einen wirtschaftspolitischen Irrsinnskurs. Für Grüne und SPD ist das offenbar kein Koalitionshindernis."
         },
         {
-          "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-          "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-echte-karrierechancen-bieten/100235558.html",
-          "published": "2026-09-18T05:36:00+00:00",
-          "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten."
+          "title": "Meckel & Matthes: Das Ende der Menschheit? KI-Panik – und Merz stellt die Vertrauensfrage",
+          "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-das-ende-der-menschheit-ki-panik-und-merz-stellt-die-vertrauensfrage/100255515.html",
+          "published": "2026-09-18T07:53:46+00:00",
+          "summary": "Meckel & Matthes ordnen die Bedrohungsszenarien rund um den rasanten Fortschritt bei Künstlicher Intelligenz ein – und blicken auf einen Kanzler, der um sein Amt kämpft."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Aussichten hellen sich auf\": Industrie korrigiert Wachstumsprognose nach oben",
+          "link": "https://www.n-tv.de/wirtschaft/Industrie-korrigiert-Wachstumsprognose-nach-oben-id31319687.html",
+          "published": "2026-09-18T06:21:21+00:00",
+          "summary": "Es gibt Rückenwind für Deutschlands Industrie: Der Bundesverband prognostiziert, dass das Bruttoinlandsprodukt stärker wächst als bisher angenommen. Treiber sind staatliche Ausgaben für Infrastruktur …"
+        },
+        {
+          "title": "Live-Daten von der Zapfsäule: So reagieren Benzin und Diesel",
+          "link": "https://www.n-tv.de/wirtschaft/Live-Daten-zum-Spritpreise-Anstieg-Benzin-und-Diesel-id31316375.html",
+          "published": "2026-09-18T04:00:00+00:00",
+          "summary": "Die geopolitische Lage führt in Deutschland zu spürbaren Verwerfungen: Die Preise für Benzin und Diesel ziehen steil an. Der weltweite Energiepreisschock trifft Verbraucher in Deutschland immer …"
+        },
         {
           "title": "Zweiter Zinsschritt erwartet: Wall Street nach Fed-Votum wieder in Kauflaune",
           "link": "https://www.n-tv.de/wirtschaft/Wall-Street-nach-Fed-Votum-wieder-in-Kauflaune-id31319047.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Chiphersteller-bietet-Beschaeftigten-Mega-Bonus-die-lehnen-ab-id31318044.html",
           "published": "2026-09-17T15:19:36+00:00",
           "summary": "US-Chiphersteller Micron lässt auch in Taiwan produzieren - und macht dank KI-Boom enorme Umsätze. An denen wollen die Mitarbeiter beteiligt werden. Das Unternehmen bietet ihnen einen Bonus - von bis …"
-        },
-        {
-          "title": "Live-Daten von der Zapfsäule: So reagieren Benzin und Diesel",
-          "link": "https://www.n-tv.de/wirtschaft/Live-Daten-zum-Spritpreise-Anstieg-Benzin-und-Diesel-id31316375.html",
-          "published": "2026-09-17T15:17:48+00:00",
-          "summary": "Die geopolitische Lage führt in Deutschland zu spürbaren Verwerfungen: Die Preise für Benzin und Diesel ziehen steil an. Der weltweite Energiepreisschock trifft Verbraucher in Deutschland immer …"
-        },
-        {
-          "title": "Nicht nur reine E-Autos: Volvo startet größte Modelloffensive seiner Geschichte",
-          "link": "https://www.n-tv.de/wirtschaft/Volvo-startet-groesste-Modelloffensive-seiner-Geschichte-id31317468.html",
-          "published": "2026-09-17T13:39:20+00:00",
-          "summary": "Mit einer breit angelegten Modelloffensive will Volvo seinen Marktanteil verdoppeln und die Profitabilität steigern. Bis 2030 sollen 13 neue Modelle kommen - vom E-Auto bis zum Hybrid. …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Huber+Suhner-Aktie: Konzern setzt auf vier Wachstumsfelder",
-          "link": "https://www.finanzen.net/nachricht/aktien/huber-suhner-aktie-konzern-setzt-auf-vier-wachstumsfelder-15940683",
-          "published": "2026-09-18T06:05:00+00:00",
-          "summary": "Huber+Suhner wird an seinem heutigen Kapitalmarkttag seine strategischen Prioritäten und Wachstumsmöglichkeiten vorstellen."
+          "title": "ROUNDUP: Baugenehmigungen nehmen zu - deutliches Plus seit Jahresbeginn",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-baugenehmigungen-nehmen-zu-deutliches-plus-seit-jahresbeginn-15940978",
+          "published": "2026-09-18T08:03:38+00:00",
+          "summary": "WIESBADEN (dpa-AFX) - Im seit Jahren kriselnden Wohnungsbau in Deutschland zeichnet sich Besserung ab. Im Juli wurden 22.500 Wohnungen genehmigt, 1,9 Prozent mehr als im Vorjahresmonat, wie das …"
         },
         {
-          "title": "Ölpreise weiter etwas schwächer - Das steckt dahinter",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/schwarzes-gold-oelpreise-weiter-etwas-schwaecher-das-steckt-dahinter-15940670",
-          "published": "2026-09-18T06:04:00+00:00",
-          "summary": "Die Ölpreise sind am Freitag weiter zurückgegangen und haben damit den dritten Tag in Folge nachgegeben. Der Preis für ein Barrel (159 Liter) Rohöl der Referenzsorte Brent aus der Nordsee ..."
+          "title": "SpaceX-Aktie legt nach starkem KI-Ausblick weiter zu: Sollten Anleger jetzt einsteigen?",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-wette-treibt-kurs-spacex-aktie-legt-nach-starkem-ki-ausblick-weiter-zu-sollten-anleger-jetzt-einsteigen-00-15940804",
+          "published": "2026-09-18T08:01:09+00:00",
+          "summary": "Analysten trauen SpaceX einen deutlich größeren KI-Umsatz zu Chip-Partnerschaften und Rechenzentren rücken stärker in den Fokus Sollten Anleger jetzt bei der SpaceX-Aktie einsteigen? Die Aktie ..."
         },
         {
-          "title": "Warum sich der Schweizer Franken zum US-Dollar und Euro kaum bewegt",
-          "link": "https://www.finanzen.net/nachricht/aktien/warum-sich-der-schweizer-franken-zum-us-dollar-und-euro-kaum-bewegt-15940682",
-          "published": "2026-09-18T06:03:00+00:00",
-          "summary": "Der Schweizer Franken hat in der Nacht auf Freitag nach einer vorangegangenen Erholung wieder auf einen Abwärtskurs umgeschwenkt."
+          "title": "SPI-Papier ams-OSRAM-Aktie: So viel Verlust hätte ein ams-OSRAM-Investment von vor 10 Jahren eingebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/spi-papier-ams-osram-aktie-so-viel-verlust-haette-ein-ams-osram-investment-von-vor-10-jahren-eingebracht-15940977",
+          "published": "2026-09-18T08:00:52+00:00",
+          "summary": "Vor 10 Jahren wurde die ams-OSRAM -Aktie wochenend-bedingt nicht an der Börse SWX gehandelt. Den vorangegangenen Handelstag beendete die ams-OSRAM-Aktie bei 112,56 CHF. Bei einem Investment von 100 …"
         },
         {
-          "title": "Aktien von NVIDIA, AMD & Co.: Piper Sandler empfiehlt diese fünf Chipwerte zum Kauf - sollten Anleger einsteigen?",
-          "link": "https://www.finanzen.net/nachricht/aktien/chip-coverage-aktien-von-nvidia-amd-co-piper-sandler-empfiehlt-diese-fuenf-chipwerte-zum-kauf-sollten-anleger-einsteigen-00-15938949",
-          "published": "2026-09-18T06:03:00+00:00",
-          "summary": "Piper Sandler startet Coverage für fünf US-Chipaktien mit Kaufvotum Bei einem der fünf Unternehmen übersteigt die Nachfrage laut Analyst das Angebot um das Doppelte Diese Aktien könnten für Anleger …"
+          "title": "SPI-Titel MindMaze Therapeutics-Aktie: So viel hätten Anleger mit einem Investment in MindMaze Therapeutics von vor 5 Jahren verloren",
+          "link": "https://www.finanzen.net/nachricht/aktien/spi-titel-mindmaze-therapeutics-aktie-so-viel-haetten-anleger-mit-einem-investment-in-mindmaze-therapeutics-von-vor-5-jahren-verloren-15940976",
+          "published": "2026-09-18T08:00:52+00:00",
+          "summary": "Am 18.09.2021 wurden MindMaze Therapeutics -Anteile an der Börse SWX wochenend-bedingt nicht gehandelt. Den vorherigen Handelstag beendete die MindMaze Therapeutics-Aktie bei 58,80 CHF. Wer vor 5 …"
         },
         {
-          "title": "WashTec-Aktie: Führungskraft investiert in eigene Anteile",
-          "link": "https://www.finanzen.net/nachricht/aktien/washtec-aktie-fuehrungskraft-investiert-in-eigene-anteile-15940678",
-          "published": "2026-09-18T06:01:11+00:00",
-          "summary": "Am 16.09.2026 wurden bei WashTec Eigengeschäfte von Führungskräften verzeichnet. Die Transaktion wurde am 17.09.2026 publik gemacht. Aufsichtsrat Broger, Norbert kaufte am 16.09.2026 WashTec-Aktien. …"
+          "title": "SPI-Wert Straumann-Aktie: So viel Verlust hätte ein Investment in Straumann von vor 5 Jahren bedeutet",
+          "link": "https://www.finanzen.net/nachricht/aktien/spi-wert-straumann-aktie-so-viel-verlust-haette-ein-investment-in-straumann-von-vor-5-jahren-bedeutet-15940975",
+          "published": "2026-09-18T08:00:52+00:00",
+          "summary": "Straumann -Anteile wurden heute vor 5 Jahren via Börse SWX wochenend-bedingt nicht gehandelt. Den vorherigen Handelstag beendeten die Straumann-Anteile bei 187,80 CHF. Wenn zu diesem Zeitpunkt 100 …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "VW-Krise: Warum VW nicht mehr zur europäischen Börsen-Elite gehört",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-krise-warum-vw-nicht-mehr-zur-europaeischen-boersen-elite-gehoert/100255555.html",
-          "published": "2026-09-18T06:01:13+00:00",
-          "summary": "Angesichts der Krise muss Europas größter Autokonzern einen wichtigen Aktienindex verlassen. Was bedeutet das für die Wolfsburger?"
+          "title": "Immobilien: Welche Städte Vermieter ausbremsen, welche sie unterstützen",
+          "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-check-wo-sich-das-vermieten-von-immobilien-in-deutschland-noch-lohnt/100255296.html",
+          "published": "2026-09-19T07:14:00+00:00",
+          "summary": "Für Vermieter stehen die Zeichen auf Sturm: neue Auflagen, höhere Kosten, in Berlin drohen gar Enteignungen. Wo lohnt es sich noch, Immobilien zu vermieten?"
         },
         {
-          "title": "Anthropic: KI-Modell Claude hilft bei Entwicklung seines Nachfolgers",
-          "link": "https://www.wiwo.de/unternehmen/it/anthropic-ki-modell-claude-hilft-bei-entwicklung-seines-nachfolgers/100255552.html",
-          "published": "2026-09-18T05:43:27+00:00",
-          "summary": "Eine KI, die sich selbst verbessern kann, gilt als ein risikoreiches Szenario. Anthropic ist diesem nun einen Schritt näher gekommen."
+          "title": "Konjunktur: Erzeugerpreise mit stärkstem Anstieg seit 2023",
+          "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-erzeugerpreise-mit-staerkstem-anstieg-seit-2023/100255584.html",
+          "published": "2026-09-18T08:00:00+00:00",
+          "summary": "Der Iran-Krieg und der Klimawandel fordern ihren Tribut. Die Erzeugerpreise sind so hoch, wie seit drei Jahren nicht mehr."
         },
         {
           "title": "Russland: Nestlé prüft rechtliche Schritte gegen russische Zwangsverwaltung",
           "link": "https://www.wiwo.de/politik/ausland/russland-nestle-prueft-rechtliche-schritte-gegen-russische-zwangsverwaltung/100255548.html",
-          "published": "2026-09-18T05:42:49+00:00",
+          "published": "2026-09-18T07:33:00+00:00",
           "summary": "Putin hat die russischen Vermögenswerte von Nestlé unter temporäre staatliche Verwaltung gestellt. Wie der Lebensmittelkonzern reagiert."
         },
         {
-          "title": "Konjunktur: Industrie erhöht Wachstumsprognose",
-          "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-industrie-erhoeht-wachstumsprognose/100255544.html",
-          "published": "2026-09-18T05:42:29+00:00",
-          "summary": "Die deutsche Wirtschaft scheint sich wieder zu erholen. Auch der BDI hebt seine Erwartungen an. Warum das trotzdem kein Grund zur Entwarnung ist."
+          "title": "Reformdebatte: Geht Bärbel Bas? Oder geht sie die Reformen mit?",
+          "link": "https://www.wiwo.de/politik/deutschland/baerbel-bas-debatte-um-reformen-setzt-arbeitsministerin-unter-druck/100255421.html",
+          "published": "2026-09-18T07:12:46+00:00",
+          "summary": "Aus der CDU und aus der eigenen SPD selbst wächst der Druck auf die Arbeitsministerin. Die kommenden Wochen nach den Landtagswahlen werden auch für sie entscheidende."
         },
         {
-          "title": "Wahlen in Russland: Putins Kriegswahl – Russland bestimmt neues Parlament",
-          "link": "https://www.wiwo.de/politik/ausland/wahlen-in-russland-putins-kriegswahl-russland-bestimmt-neues-parlament/100255542.html",
-          "published": "2026-09-18T05:41:11+00:00",
-          "summary": "Von Freitag bis Sonntag wird in Russland ein neues Parlament gewählt. Kremlkritische Parteien sind nicht zugelassen."
+          "title": "Wirtschaft von oben: Saudi-Arabien versucht hier eilig, seinen Ölexport zu retten – und damit den Spritpreis",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/oelpreis-hier-versucht-saudi-arabien-im-eiltempo-den-spritpreis-zu-retten/100254446.html",
+          "published": "2026-09-18T06:51:00+00:00",
+          "summary": "Arbeiter verlegen neben der zerstörten Pumpstation 11 der saudischen Ost-West-Pipeline eine provisorische Röhre. Die Zeit drängt, sonst kann das Land bald nicht mehr exportieren."
         }
       ],
       "error": null
@@ -243,13 +243,13 @@
       "items": [
         {
           "title": "30 Minuten laden, 700 km fahren – so sollen E-Lkw den Diesel überholen",
-          "link": "https://www.ingenieur.de/allgemein/30-minuten-laden-700-km-fahren-so-sollen-e-lkw-den-diesel-uberholen/",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/30-minuten-laden-700-km-fahren-so-sollen-e-lkw-den-diesel-uberholen/",
           "published": "2026-09-17T14:30:00+00:00",
           "summary": "Auf der IAA in Hannover laden Daimler, MAN und Scania ihre E-Lkw nacheinander an derselben Säule – binnen 30 Minuten sollen sie fahrbereit sein. Die Technik für einen vollelektrischen Fernverkehr …"
         },
         {
           "title": "Warum die Energiewende jetzt teurer werden könnte",
-          "link": "https://www.ingenieur.de/allgemein/warum-die-energiewende-jetzt-fur-viele-teurer-werden-konnte/",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/warum-die-energiewende-jetzt-fur-viele-teurer-werden-konnte/",
           "published": "2026-09-17T12:00:00+00:00",
           "summary": "EEG-Novelle und Netzpaket sollen die Systemkosten senken. Experten warnen jedoch: Höhere Risiken könnten Finanzierung und Ausbau erneuerbarer Energien verteuern. Eine belastbare Gesamtrechnung fehlt …"
         },
