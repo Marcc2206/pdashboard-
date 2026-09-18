@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:09:32+00:00",
+  "generatedAt": "2026-09-18T12:11:15+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Russlands Präsident Putin stellt per Dekret die Geschäfte von Nestlé unter Zwangsverwaltung",
-          "link": "https://www.tagesschau.de/video/video-1651094.html",
-          "published": "2026-09-18T09:58:53+00:00",
+          "title": "Volkswagen verliert Platz in Europas wichtigster Börsenliga",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/vw-aktie-europa-100.html",
+          "published": "2026-09-18T11:40:02+00:00",
+          "summary": "Nach Börsenschluss am Freitag gehört die Volkswagen-Aktie nicht mehr zum europäischen Leitindex. Für das operative Geschäft ändert sich dadurch nichts - für die Aktie kann der Schritt kurzfristig …"
+        },
+        {
+          "title": "Silke Diettrich, ARD Moskau, zur Parlamentswahl in Russland",
+          "link": "https://www.tagesschau.de/video/video-1651112.html",
+          "published": "2026-09-18T11:39:41+00:00",
           "summary": ""
         },
         {
-          "title": "Bundeswehr: Drohne am Fliegerhorst Wunstorf dasselbe Modell wie in Leipzig",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/abgestuerzte-drohne-bei-wunstorf-modell-wie-in-leipzig,drohne-466.html",
-          "published": "2026-09-18T09:55:07+00:00",
-          "summary": "Anfang der Woche wurden nahe einem Militärflughafen in Niedersachsen Drohnenteile gefunden. Das LKA nimmt den Vorfall nach NDR-Informationen sehr ernst. Es soll sich um dasselbe Modell handeln wie …"
+          "title": "Mecklenburg-Vorpommern: Wer könnte nach der Wahl regieren?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-mecklenburg-vorpommern-wahlkampf-102.html",
+          "published": "2026-09-18T11:23:36+00:00",
+          "summary": "Die Zuspitzung im Wahlkampf in Mecklenburg-Vorpommern zwischen SPD und AfD droht die kleineren Parteien zu zerreiben. Doch von diesen hängt ab, wie einfach oder kompliziert die Regierungsbildung …"
         },
         {
-          "title": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-russland-100.html",
-          "published": "2026-09-18T09:49:03+00:00",
-          "summary": "Auch nach Ausbruch des Ukraine-Krieges produzierte Nestlé weiter in Russland. Nun stellt Präsident Putin das Russland-Geschäft des Schweizer Lebensmittelkonzerns per Dekret unter Zwangsverwaltung. Es …"
+          "title": "Renommierter Körber-Preis für Zellforscherin Wickström",
+          "link": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
+          "published": "2026-09-18T11:22:10+00:00",
+          "summary": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute hat die Finnin den diesjährigen Körber-Preis für …"
         },
         {
-          "title": "Dieselpreis auf neuem Allzeithoch",
-          "link": "https://www.tagesschau.de/wirtschaft/energie/diesel-preis-rekordhoch-100.html",
-          "published": "2026-09-18T09:45:26+00:00",
-          "summary": "Am zweiten Tag in Folge hat der Preis für Diesel ein neues Rekordhoch erreicht. Im Schnitt kostete der Liter zuletzt 2,471 Euro, so eine Auswertung des ADAC. Beim Benzinpreis ging es dagegen leicht …"
-        },
-        {
-          "title": "FAQ: Wie gefährlich sind die aktuellen Malaria-Fälle?",
-          "link": "https://www.tagesschau.de/wissen/faq-malaria-100.html",
-          "published": "2026-09-18T09:28:36+00:00",
-          "summary": "In Frankfurt am Main ist erneut ein Mensch an der Tropenkrankheit Malaria gestorben, er soll von einer eingeschleppten Mücke infiziert worden sein. Drohen weitere Fälle? Und sinken mit dem Herbst die …"
+          "title": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
+          "link": "https://www.tagesschau.de/ausland/europa/italien-erwaegt-marineeinsatz-rotes-meer-100.html",
+          "published": "2026-09-18T11:02:32+00:00",
+          "summary": "Die Huthi-Miliz kontrolliert die Meerenge Bab al-Mandab im Roten Meer weitgehend. Ohne auf die EU zu warten, will Italien dort Schiffe mit der eigenen Marine schützen. Die Ankündigung dürfte vor …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Bald im Livestream: Haben wir Deutschlands Krise falsch erklärt?",
+          "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
+          "published": "2026-09-30T04:00:00+00:00",
+          "summary": "Über diese Frage streiten Chefredakteur Sebastian Matthes und Wirtschaftsweise Monika Schnitzer am 30. September ab 17.30 Uhr im Livestream. Stellen Sie den beiden Ihre Fragen."
+        },
+        {
           "title": "Vermögen: Diese sieben Fehler sollten Vermögende im Testament vermeiden",
           "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-diese-sieben-fehler-sollten-vermoegende-im-testament-vermeiden-01/100228330.html",
           "published": "2026-09-19T08:30:00+00:00",
           "summary": "Rund um den letzten Willen gibt es viele Missverständnisse. Von der Rolle des Ex-Partners über das Steuerrecht bis zur Rechtswahl – diesen Irrtümern sollten Sie nicht aufsitzen."
         },
         {
-          "title": "Wochenendnewsletter: Raus aus dem Ohrensessel – das Handelsblatt-Wochenende",
-          "link": "https://www.handelsblatt.com/wochenende/wochenendnewsletter-raus-aus-dem-ohrensessel-das-handelsblatt-wochenende/100254918.html",
-          "published": "2026-09-18T09:59:34+00:00",
-          "summary": "Außerdem: Deutsche, die nach Polen auswandern, ein Philosoph, der die Dummheit erklärt, und ein Selbstversuch mit „Alternativmedien“. Das sind unsere Leseempfehlungen."
+          "title": "Dax aktuell: Dax notiert schwächer – Tech-Aktie legt zu",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-schwaecher-tech-aktie-legt-zu/100255551.html",
+          "published": "2026-09-18T12:02:16+00:00",
+          "summary": "Nach der US-Notenbank Fed hat nun auch die Bank of Japan den Leitzins erhöht. Der Dax profitiert von sinkenden Ölpreisen, neue Konjunkturdaten dürften Anleger jedoch beunruhigen."
         },
         {
-          "title": "Brandstiftung: Feuer an Synagoge: Hinweise auf Antisemitismus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/brandstiftung-feuer-an-synagoge-hinweise-auf-antisemitismus/100255634.html",
-          "published": "2026-09-18T09:55:48+00:00",
-          "summary": "Nach dem Feuer an der Wuppertaler Synagoge gibt es Hinweise auf Antisemitismus als Tatmotiv. Zwei Frauen werden als wichtige Zeuginnen gesucht."
+          "title": "Landtagswahlen: Spannung vor Wahlen mit bundespolitischer Tragweite",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-spannung-vor-wahlen-mit-bundespolitischer-tragweite/100255498.html",
+          "published": "2026-09-18T12:02:14+00:00",
+          "summary": "Wahlkampffinale in Mecklenburg-Vorpommern und Berlin: Umfragen deuten auf enge Rennen und schwierige Koalitionsbildungen hin. Die Auswirkungen über beide Länder hinaus dürften groß sein."
         },
         {
-          "title": "Explosionen: Mindestens 14 Tote bei Anschlag mit Autobombe in Pakistan",
-          "link": "https://www.handelsblatt.com/politik/international/explosionen-mindestens-14-tote-bei-anschlag-mit-autobombe-in-pakistan/100255633.html",
-          "published": "2026-09-18T09:55:33+00:00",
-          "summary": "Ein Anschlag mit einer Autobombe trifft eine Polizeizentrale im Nordwesten Pakistans. Die Detonation beschädigt auch eine Moschee während des Freitagsgebets."
-        },
-        {
-          "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-          "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-ki-kompetenzen-die-top-headhunter-ueberzeugen/100240522.html",
-          "published": "2026-09-18T09:51:00+00:00",
-          "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert."
+          "title": "Autoindustrie: Arbeitskampf bei Mercedes – Management fordert 38-Stunden-Woche",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/mercedes-arbeitskampf-beim-autobauer-management-will-38-stunden-woche/100255590.html",
+          "published": "2026-09-18T11:57:24+00:00",
+          "summary": "Der Autobauer will unbezahlte Mehrarbeit durchsetzen. Gewerkschaft und Betriebsräte stemmen sich dagegen. Drohen Werksschließungen in Deutschland und Verlagerungen ins Ausland?"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Sefe gehörte russischem Gazprom: Deutscher Staatskonzern setzt Gasversorgung aufs Spiel",
+          "link": "https://www.n-tv.de/wirtschaft/Deutscher-Staatskonzern-setzt-Gasversorgung-aufs-Spiel-id31317671.html",
+          "published": "2026-09-18T10:47:12+00:00",
+          "summary": "Nach Russlands Vollinvasion in der Ukraine übernimmt Deutschland die hiesige Gazprom-Tochter. Heute heißt das Gasunternehmen Securing Energy for Europe (Sefe). Doch statt die Versorgung zu sichern …"
+        },
         {
           "title": "Unternehmen prüft Optionen: Putin stellt Nestlé in Russland unter Zwangsverwaltung",
           "link": "https://www.n-tv.de/wirtschaft/Putin-stellt-Nestle-in-Russland-unter-Zwangsverwaltung-id31320351.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wall-Street-nach-Fed-Votum-wieder-in-Kauflaune-id31319047.html",
           "published": "2026-09-17T20:57:04+00:00",
           "summary": "Nach der Zinserhöhung stecken die US-Anleger den Dämpfer schnell weg. Die Einstimmigkeit des Fed-Votums sorgt für Erleichterung. Auch sinkende Ölpreise sorgen für ein Aufatmen."
-        },
-        {
-          "title": "Größter Offshore-Windpark fertig: 64 Windräder in der Nordsee können über eine Million Haushalte versorgen",
-          "link": "https://www.n-tv.de/wirtschaft/64-Windraeder-in-der-Nordsee-koennen-ueber-eine-Million-Haushalte-versorgen-id31318068.html",
-          "published": "2026-09-17T16:44:58+00:00",
-          "summary": "Mit einem neuen Offshore-Windpark wird Deutschland wieder ein Stück unabhängiger von teurer fossiler Energie. Dank der windigen Nordsee reichen dabei ein paar Dutzend Windkraftanlagen aus, um viele …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Microsoft-Aktie: Warum Azure und Copilot Anleger jetzt in Richtung 5 Billionen träumen lassen",
-          "link": "https://www.finanzen.net/nachricht/aktien/zahlen-boomen-kurs-stockt-microsoft-aktie-warum-azure-und-copilot-anleger-jetzt-in-richtung-5-billionen-traeumen-lassen-00-15936567",
-          "published": "2026-09-18T10:08:00+00:00",
-          "summary": "Azure liefert bei Microsoft ein Tempo, das die Cloud-Konkurrenz herausfordert Copilot gewinnt bei Unternehmen rasant an zahlenden Nutzern Analysten sehen bei Microsoft trotz hoher Investitionen …"
+          "title": "Aktien von NVIDIA, AMD & Co.: Piper Sandler empfiehlt diese fünf Chipwerte zum Kauf - sollten Anleger einsteigen?",
+          "link": "https://www.finanzen.net/nachricht/aktien/chip-coverage-aktien-von-nvidia-amd-co-piper-sandler-empfiehlt-diese-fuenf-chipwerte-zum-kauf-sollten-anleger-einsteigen-00-15938949",
+          "published": "2026-09-18T12:04:00+00:00",
+          "summary": "Piper Sandler startet Coverage für fünf US-Chipaktien mit Kaufvotum Bei einem der fünf Unternehmen übersteigt die Nachfrage laut Analyst das Angebot um das Doppelte Diese Aktien könnten für Anleger …"
         },
         {
-          "title": "70 Prozent der Privatanleger verlieren Geld - wegen dieser drei Denkfehler",
-          "link": "https://www.finanzen.net/nachricht/aktien/70-prozent-der-privatanleger-verlieren-geld-wegen-dieser-drei-denkfehler-15941172",
-          "published": "2026-09-18T10:05:20+00:00",
-          "summary": "70 Prozent der Privatanleger verlieren Geld – wegen dieser drei Denkfehler"
+          "title": "MÄRKTE EUROPA/Börsen bauen Verluste aus - Telekom-Aktien schwach",
+          "link": "https://www.finanzen.net/nachricht/aktien/maerkte-europa-boersen-bauen-verluste-aus-telekom-aktien-schwach-15941381",
+          "published": "2026-09-18T12:00:50+00:00",
+          "summary": "DOW JONES--Europas Börsen bauen die Verluste bis Freitagmittag weiter aus. Die kurze Entspannungsphase an den Anleihemärkten nach der Zinsentscheidung der US-Notenbank scheint bereits wieder vorüber …"
         },
         {
-          "title": "Neuer Kurstreiber für NVIDIA-Aktie? Huang erwartet Verdopplung der Chipverkäufe binnen eines Jahres",
-          "link": "https://www.finanzen.net/nachricht/aktien/huangs-verdopplungs-ansage-neuer-kurstreiber-fuer-nvidia-aktie-huang-erwartet-verdopplung-der-chipverkaeufe-binnen-eines-jahres-00-15940766",
-          "published": "2026-09-18T10:03:00+00:00",
-          "summary": "Jensen Huang stellt eine Verdopplung des Chipabsatzes im nächsten Jahr in Aussicht Neue Benchmarkdaten zur Vera-Rubin-Plattform befeuern den KI-Handel Analysten sehen bei NVIDIA weiterhin klare …"
+          "title": "Volkswagen ruft mehr als 250.000 Fahrzeuge wegen zwei Defekten zurück",
+          "link": "https://www.finanzen.net/nachricht/aktien/volkswagen-ruft-mehr-als-250-000-fahrzeuge-wegen-zwei-defekten-zurueck-15941380",
+          "published": "2026-09-18T11:59:41+00:00",
+          "summary": "Von Kelly Cloonan DOW JONES--Volkswagen hat zwei Rückrufe in den USA angekündigt, die insgesamt mehr als 250.000 Fahrzeuge betreffen und sich um potenzielle Lenkungsprobleme sowie einen …"
         },
         {
-          "title": "Aktien Frankfurt: Dax schwächelt am großen Verfallstag",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-frankfurt-dax-schwaechelt-am-grossen-verfallstag-15941166",
-          "published": "2026-09-18T10:02:39+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Der DAX ist am großen Verfallstag etwas eingeknickt. An diesem Freitag laufen an den Termin- und Derivatebörsen Futures und Optionen auf Aktienindizes und einzelne Aktien aus …"
+          "title": "ROUNDUP: DGB warnt vor AfD - und protestiert gegen Regierung",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-dgb-warnt-vor-afd-und-protestiert-gegen-regierung-15941379",
+          "published": "2026-09-18T11:59:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - DGB-Chefin Yasmin Fahimi wirft der Bundesregierung eine falsche Ausrichtung vor und warnt vor einem Ruin Deutschlands im Fall einer AfD-Regierung. Unter dem Motto \"Hart verdient! …"
         },
         {
-          "title": "ETF: In Zukunftstechnologien investieren - Wie du mit ETFs gezielt von KI, Cybersecurity und Robotik profitierst",
-          "link": "https://www.finanzen.net/nachricht/aktien/etf-in-zukunftstechnologien-investieren-wie-du-mit-etfs-gezielt-von-ki-cybersecurity-und-robotik-profitierst-15941171",
-          "published": "2026-09-18T10:01:19+00:00",
-          "summary": "ETF: In Zukunftstechnologien investieren – Wie du mit ETFs gezielt von KI, Cybersecurity und Robotik profitierst"
+          "title": "Mehrheit hält geplante Spritpreissenkung für Wahlkampf",
+          "link": "https://www.finanzen.net/nachricht/aktien/mehrheit-haelt-geplante-spritpreissenkung-fuer-wahlkampf-15941366",
+          "published": "2026-09-18T11:50:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Eine Mehrheit der Deutschen hält die von Bundeskanzler Friedrich Merz (CDU) angesichts hoher Spritpreise angekündigten Entlastungen vor allem für ein Wahlkampfmanöver. Das gaben 70 …"
         }
       ],
       "error": null
@@ -209,28 +209,28 @@
           "summary": "Für Vermieter stehen die Zeichen auf Sturm: neue Auflagen, höhere Kosten, in Berlin drohen gar Enteignungen. Wo lohnt es sich noch, Immobilien zu vermieten?"
         },
         {
-          "title": "Aufrüstung: „Deutschlands schärfstes Schwert der Abschreckung“",
-          "link": "https://www.wiwo.de/politik/deutschland/aufruestung-deutschlands-schaerfstes-schwert-der-abschreckung/100255603.html",
-          "published": "2026-09-18T09:41:28+00:00",
-          "summary": "Verteidigungsminister Pistorius übernimmt in Texas Deutschlands ersten F‑35‑Kampfjet. Warum die Bundesregierung beim Kauf trotz anhaltender Kritik keine Kompromisse macht."
+          "title": "Konsumgüterkonzern Kao: Diese Aktie mit 5 Prozent Free-Cashflow-Rendite kennt hierzulande kaum jemand",
+          "link": "https://www.wiwo.de/finanzen/boerse/kao-aktie-ein-gemischtwarenladen-aus-tokio-wurde-zum-globalen-konsumgueterriesen/100255112.html",
+          "published": "2026-09-18T12:08:00+00:00",
+          "summary": "Die Aktie von Kao ist hierzulande kaum bekannt – die Haarpflegeprodukte des japanischen Konsumgüterherstellers sind es aber."
         },
         {
-          "title": "Vorschriften für Eigentümer: Fünf Regeln, die Vermieter kennen sollten",
-          "link": "https://www.wiwo.de/finanzen/immobilien/vorschriften-fuer-eigentuemer-fuenf-regeln-die-vermieter-kennen-sollten/100255310.html",
-          "published": "2026-09-18T09:33:00+00:00",
-          "summary": "Fahrstuhl bis Gasheizung: Kommunen setzen Vermietern immer engere Grenzen."
+          "title": "Studium: Wie können wir die Ausbildung der Kinder fair finanzieren?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/studium-der-kinder-finanzieren-so-funktioniert-es-fair-bei-geschwistern/100253936.html",
+          "published": "2026-09-18T12:08:00+00:00",
+          "summary": "Unsere Leserin hat Zwillinge, die gerade ihr Abitur gemacht haben. Nun zeichnen sich Unterschiede bei den Studienkosten ab. Wie kann sie das berücksichtigen?"
         },
         {
-          "title": "Erstmal die Fakten: Das Oktoberfest in vier Grafiken",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/oktoberfest-2026-die-wiesn-in-vier-grafiken/100255107.html",
-          "published": "2026-09-18T09:20:23+00:00",
-          "summary": "„O’zapft is“, heißt es am 19. September auf dem Oktoberfest. Millionen Besucher werden erwartet. Doch das Bier fließt nicht mehr so wie früher."
+          "title": "Immobilienmarkt: Welche Wohnungen jetzt teurer werden",
+          "link": "https://www.wiwo.de/finanzen/immobilien/immobilienpreise-aktuell-welche-wohnungsgroessen-teurer-werden/100254666.html",
+          "published": "2026-09-18T12:07:00+00:00",
+          "summary": "Nicht überall steigen die Kaufpreise für Immobilien gleichmäßig. Eine exklusive Auswertung zeigt, in welchen Städten bestimmte Wohnungsarten gerade teurer werden."
         },
         {
-          "title": "Playmobil: Medienmanager kehrt als Chef zu Playmobil zurück",
-          "link": "https://www.wiwo.de/unternehmen/handel/playmobil-lars-wagner-wird-neuer-chef/100255594.html",
-          "published": "2026-09-18T09:10:13+00:00",
-          "summary": "Ehemaliger übernimmt: Lars Wagner ist ab Oktober neuer Chef des kriselnden Spielwarenherstellers Playmobil."
+          "title": "Krieg im Nahen Osten: Der Iran-Krieg treibt den Ölpreis – doch der Markt kennt dieses Muster",
+          "link": "https://www.wiwo.de/finanzen/boerse/oelpreis-prognose-wann-sprit-und-rohoelpreise-wieder-sinken/100254950.html",
+          "published": "2026-09-18T12:06:00+00:00",
+          "summary": "Die Eskalation im Iran-Krieg treibt den Ölpreis erneut an – das dürfte zunächst so bleiben. Die Erfahrung aus früheren Bewegungen am Ölmarkt macht dennoch Mut."
         }
       ],
       "error": null
@@ -242,34 +242,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Premiere beim DLR: Dieses Forschungsschiff testet Wasserstoff, Methanol und Ammoniak",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/premiere-beim-dlr-dieses-forschungsschiff-testet-wasserstoff-methanol-und-ammoniak/",
+          "published": "2026-09-18T12:00:00+00:00",
+          "summary": "Das DLR baut ein Schiff, auf dem neue Antriebe auch mal ausfallen dürfen: Drei Hauptmotoren sichern den Betrieb, während Wasserstoff, Methanol oder Ammoniak im Maschinenraum getestet werden. Zudem …"
+        },
+        {
+          "title": "Mehr Schiffe reichen nicht: Deutschland braucht eine andere Marine",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/mehr-schiffe-reichen-nicht-deutschland-braucht-eine-andere-marine/",
+          "published": "2026-09-18T11:30:00+00:00",
+          "summary": "Die Marine bekommt acht neue Fregatten, TKMS liefert sie in Rekordzeit. Aber der Ukrainekrieg zeigt: Nicht Großkampfschiffe entscheiden künftig auf See, sondern Drohnen und Vernetzung. Und die …"
+        },
+        {
+          "title": "400.000 neue Roboter: Toyota baut sich seine Belegschaft selbst",
+          "link": "https://www.ingenieur.de/allgemein/400-000-neue-roboter-toyota-baut-sich-seine-belegschaft-selbst/",
+          "published": "2026-09-18T11:00:00+00:00",
+          "summary": "Toyota will weltweit 400.000 selbst entwickelte Roboter in seinen Fabriken einsetzen. Im Zentrum steht der humanoide Roboter Eley, der auf Rädern rollt, mit Zwei-Finger-Greifern zupackt und von den …"
+        },
+        {
+          "title": "Neue Spitze bei Maxon: Andreas Richter übernimmt CEO-Posten",
+          "link": "https://www.ingenieur.de/karriere/arbeitsleben/fuehrung/neue-spitze-bei-maxon-andreas-richter-ubernimmt-ceo-posten/",
+          "published": "2026-09-18T10:30:00+00:00",
+          "summary": "Nach 15 Jahren an der Spitze bekommt der Schweizer Antriebsspezialist Maxon einen neuen CEO. Andreas Richter übernimmt im März 2027 von Eugen Elmiger, der dem Unternehmen im Verwaltungsrat erhalten …"
+        },
+        {
           "title": "64 Riesen à 15 MW: Deutschlands größter Offshore-Windpark ist eingeweiht",
-          "link": "https://www.ingenieur.de/allgemein/64-riesen-a-15-mw-deutschlands-grosster-offshore-windpark-ist-eingeweiht/",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/64-riesen-a-15-mw-deutschlands-grosster-offshore-windpark-ist-eingeweiht/",
           "published": "2026-09-18T10:03:09+00:00",
           "summary": "He Dreiht ist eingeweiht. 64 Turbinen mit je 15 MW machen den EnBW-Park in der Nordsee zum größten Offshore-Windpark Deutschlands, rechnerisch reicht der Strom für 1,1 Mio. Haushalte. Voll am Netz …"
-        },
-        {
-          "title": "35 Mrd. € für neue Kriegsschiffe: Wie Deutschland seine Marine aufrüstet",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/35-mrd-fur-neue-kriegsschiffe-wie-deutschland-seine-marine-aufrustet/",
-          "published": "2026-09-18T09:31:52+00:00",
-          "summary": "Mindestens 35 Mrd. € will Deutschland in neue Fregatten, U-Boote und Drohnen investieren. Auf der Schiffbaumesse SMM in Hamburg wurde klar: Der Zeitdruck ist enorm, aber die Kosten steigen. Zudem hat …"
-        },
-        {
-          "title": "30 Minuten laden, 700 km fahren – so sollen E-Lkw den Diesel überholen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/30-minuten-laden-700-km-fahren-so-sollen-e-lkw-den-diesel-uberholen/",
-          "published": "2026-09-17T14:30:00+00:00",
-          "summary": "Auf der IAA in Hannover laden Daimler, MAN und Scania ihre E-Lkw nacheinander an derselben Säule – binnen 30 Minuten sollen sie fahrbereit sein. Die Technik für einen vollelektrischen Fernverkehr …"
-        },
-        {
-          "title": "Warum die Energiewende jetzt teurer werden könnte",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/warum-die-energiewende-jetzt-fur-viele-teurer-werden-konnte/",
-          "published": "2026-09-17T12:00:00+00:00",
-          "summary": "EEG-Novelle und Netzpaket sollen die Systemkosten senken. Experten warnen jedoch: Höhere Risiken könnten Finanzierung und Ausbau erneuerbarer Energien verteuern. Eine belastbare Gesamtrechnung fehlt …"
-        },
-        {
-          "title": "Bitcoin: Kult-Analyst verrät Krypto-Strategie – so entsteht jetzt „generationenübergreifender Reichtum“",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/bitcoin-kult-analyst-verrat-krypto-strategie-so-entsteht-jetzt-generationenubergreifender-reichtum/",
-          "published": "2026-09-17T11:30:00+00:00",
-          "summary": "Zinserhöhung, gescheitertes Krypto-Gesetz, Kursrutsch – Bitcoin hält sich trotzdem über 76.000 $. Top-Analyst PlanB sieht ein seltenes Kaufsignal. Dazu: Warum Ethereum-Erfinder Buterin 90 % seines …"
         }
       ],
       "error": null
