@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:09:38+00:00",
+  "generatedAt": "2026-09-19T20:08:33+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Duma-Wahl: Warum Snegowskij keine Chance gegen Tolstoj hat",
-          "link": "https://www.tagesschau.de/ausland/europa/russland-direktkandidat-jabloko-100.html",
-          "published": "2026-09-19T18:03:33+00:00",
-          "summary": "Seine Jabloko-Partei ist von der Duma-Wahl ausgeschlossen. Aber als Direktkandidat darf Artjom Snegowskij in Moskau antreten. Hat er eine Chance? Sein Gegenkandidat ist der Vizepräsident der Duma …"
-        },
-        {
-          "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
-          "published": "2026-09-19T17:58:34+00:00",
-          "summary": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er …"
-        },
-        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651858.html",
-          "published": "2026-09-19T17:36:40+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651952.html",
+          "published": "2026-09-19T19:06:48+00:00",
           "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-19T16:14:15+00:00",
-          "summary": "Sonntag ist es im Süden zum Teil sonnig, in der Mitte fällt gebietsweise Regen und im Norden gibts bei Sonne und Wolken Schauer sowie einzelne Gewitter. In der Nordhälfte sehr windig. 16 bis 28 Grad."
+          "title": "Beier schießt den BVB in Stuttgart nach 40 Monaten an die Spitze",
+          "link": "https://www.sportschau.de/fussball/bundesliga/beier-schiesst-bvb-nach-40-monaten-zurueck-an-die-spitze,spielbericht-vfb-stuttgart-borussia-dortmund-112.html",
+          "published": "2026-09-19T18:43:22+00:00",
+          "summary": "Borussia Dortmund ist Tabellenführer in der Bundesliga - was einst gar nicht so außergewöhnlich klang, ist nach dem Sieg beim VfB Stuttgart erstmals seit über drei Jahren Fakt."
         },
         {
-          "title": "Gladbach verliert auch unter Lichte gegen Mainz",
-          "link": "https://www.sportschau.de/fussball/bundesliga/wieder-vier-gegentore-gladbach-verliert-auch-unter-lichte,spielbericht-borussia-moenchengladbach-mainz-05-100.html",
-          "published": "2026-09-19T16:04:13+00:00",
-          "summary": "Borussia Mönchengladbach hat in der Fußball-Bundesliga auch unter Interimstrainer Jan-Moritz Lichte eine Niederlage kassiert. Gegen den 1. FSV Mainz 05 war erneut die Abwehr schwach."
+          "title": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
+          "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html",
+          "published": "2026-09-19T18:32:06+00:00",
+          "summary": "In der saudi-arabischen Hauptstadt Riad ist nach Luftalarm in der Nähe des Flughafens schwarzer Rauch aufgestiegen. Zuletzt hatte sich der Konflikt zwischen Saudi-Arabien und der von Iran …"
+        },
+        {
+          "title": "Eröffnung des 191. Oktoberfests in München",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1651930.html",
+          "published": "2026-09-19T18:22:14+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Bundesregierung kündigt Tankrabatt und Spritpreisdeckel als Entlastung an",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1651918.html",
+          "published": "2026-09-19T18:21:42+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
+          "link": "https://www.handelsblatt.com/politik/international/krieg-in-nahost-huthi-miliz-reklamiert-angriffe-in-saudi-arabien/100255859.html",
+          "published": "2026-09-19T19:42:43+00:00",
+          "summary": "Seit der neuen Eskalation im Jemen-Krieg gerät Saudi-Arabien immer wieder unter Beschuss aus dem südlichen Nachbarland. Augenzeugen berichten von einem Brand am internationalen Flughafen in Riad."
+        },
+        {
+          "title": "Iran-Krieg: Signal aus Teheran: Iran will zurück zu Rahmenabkommen",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen/100255854.html",
+          "published": "2026-09-19T18:32:02+00:00",
+          "summary": "Teheran strebt offensichtlich eine Rückkehr zum Rahmenabkommen mit den USA an. Neben dem Ende der Schiffsblockade verlangt der Iran die Freigabe eingefrorener Gelder und Ruhe an allen Fronten"
+        },
+        {
+          "title": "Künstliche Intelligenz: Trump setzt stärker auf KI trotz Warnungen vor Gefahren",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren/100255853.html",
+          "published": "2026-09-19T18:28:35+00:00",
+          "summary": "Führende Köpfe der KI-Labore wollen das Tempo drosseln, weil sie einen Kontrollverlust befürchten. Die Botschaft von Donald Trump lautet hingegen: Volle Kraft voraus!"
+        },
+        {
           "title": "Pressefreiheit in den USA: Weißes Haus verweigert CNN, „Politico“ und MS NOW den Zugang",
           "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-weisses-haus-verweigert-cnn-politico-und-ms-now-den-zugang/100255753.html",
           "published": "2026-09-19T17:48:41+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-suedkorea-sagt-usa-unterstuetzung-bei-sicherung-der-strasse-von-hormus-zu/100136895.html",
           "published": "2026-09-19T17:10:19+00:00",
           "summary": "Iran übermittelt USA Bedingungen für Kriegsende +++ Italien geleitet Handelsschiff mit Fregatte durch Meerenge ins Rote Meer +++ Der Newsblog."
-        },
-        {
-          "title": "Deutschland in der Nato: Deutscher General wird Chef von Nato-Militärausschuss",
-          "link": "https://www.handelsblatt.com/politik/international/deutschland-in-der-nato-deutscher-general-wird-chef-von-nato-militaerausschuss/100255846.html",
-          "published": "2026-09-19T17:08:53+00:00",
-          "summary": "Die Nato steht vor entscheidenden Weichenstellungen. Nach mehr als 20 Jahren übernimmt wieder ein Deutscher die Aufgabe als wichtigster militärischer Berater des Generalsekretärs."
-        },
-        {
-          "title": "Analyse: Trump beendet die Grönland-Krise vorerst - aber ein Problem bleibt",
-          "link": "https://www.handelsblatt.com/politik/international/analyse-ein-problem-bleibt-nach-der-einigung-zwischen-groenland-und-usa/100255831.html",
-          "published": "2026-09-19T16:46:03+00:00",
-          "summary": "US-Präsident Trump und seine Unterstützer bezeichnen die Vereinbarung mit Dänemark als „historischen Sieg“. Experten begrüßen den Fortschritt, zweifeln jedoch an dieser Darstellung."
-        },
-        {
-          "title": "Verteidigung: General Carsten Breuer übernimmt Vorsitz des Nato-Militärausschusses",
-          "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-general-carsten-breuer-uebernimmt-vorsitz-des-nato-militaerausschusses/100255568.html",
-          "published": "2026-09-19T16:26:12+00:00",
-          "summary": "Das Gremium wählte den ranghöchsten Bundeswehroffizier zum Nachfolger des italienischen Admirals Cavo Dragone. Ist der Deutsche der richtige Stratege für die Kriegführung von morgen?"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Live-Daten von der Zapfsäule: So reagieren Benzin und Diesel",
+          "link": "https://www.n-tv.de/wirtschaft/Live-Daten-zum-Spritpreise-Anstieg-Benzin-und-Diesel-id31316375.html",
+          "published": "2026-09-19T18:00:00+00:00",
+          "summary": "Die geopolitische Lage führt in Deutschland zu spürbaren Verwerfungen: Die Preise für Benzin und Diesel ziehen steil an. Der weltweite Energiepreisschock trifft Verbraucher in Deutschland immer …"
+        },
         {
           "title": "Keine Rekruten? Dann Maschinen!: So planen Südkorea, China und auch Deutschland die Armee ohne Menschen",
           "link": "https://www.n-tv.de/wirtschaft/So-planen-Suedkorea-China-und-auch-Deutschland-die-Armee-ohne-Menschen-id31293174.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Sind-bei-Porsche-weitere-Tausende-Jobs-in-Gefahr-id31324502.html",
           "published": "2026-09-19T11:52:47+00:00",
           "summary": "Der Sportautobauer Porsche war einst eine Ertragsperle im VW-Konzern. Doch die Nachfrage ist drastisch gesunken und die Tochter zwingt den Mutterkonzern-VW zur Aufgabe seiner Jahresziele. Einem …"
-        },
-        {
-          "title": "Händler als Tech-Treiber: Warum Lidl einen autonomen Lkw auf die Straße schickt",
-          "link": "https://www.n-tv.de/wirtschaft/Warum-Lidl-einen-autonomen-Lkw-auf-die-Strasse-schickt-id31318191.html",
-          "published": "2026-09-19T11:41:32+00:00",
-          "summary": "Die Strecke ist zwar kurz, die Bedeutung jedoch groß: Lidl darf einen autonomen Elektro-Lkw auf einer öffentlichen Straße einsetzen. Zugleich baut die Schwarz-Gruppe hinter dem Discounter eine eigene …"
         }
       ],
       "error": null
@@ -127,32 +127,32 @@
         {
           "title": "So managst du dein (Aktien-)Risiko",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
-          "published": "2026-09-19T18:00:00+00:00",
+          "published": "2026-09-19T20:00:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "KW 38 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-38-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15922348",
-          "published": "2026-09-19T17:47:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 38"
+          "title": "Burggraben-Aktien im Check: So können sich Anleger absichern",
+          "link": "https://www.finanzen.net/nachricht/aktien/economic-moat-burggraben-aktien-im-check-so-koennen-sich-anleger-absichern-11705656",
+          "published": "2026-09-19T19:39:00+00:00",
+          "summary": "Begriff der Burggraben-Aktie durch Warren Buffett geprägt • Je breiter und tiefer der Graben, desto nachhaltiger der Erfolg des Unternehmens • Wettbewerbsvorteile ..."
         },
         {
-          "title": "Wie viel Verlust bei einem Investment in Toncoin von vor 1 Jahr angefallen wäre",
-          "link": "https://www.finanzen.net/nachricht/devisen/wie-viel-verlust-bei-einem-investment-in-toncoin-von-vor-1-jahr-angefallen-waere-15942899",
-          "published": "2026-09-19T17:43:04+00:00",
-          "summary": "Am 18.09.2025 notierte Toncoin bei 3,160 USD. Bei einer Investition in Höhe von 10.000 USD zu diesem Zeitpunkt, befänden sich nun 3.164,39 TON im Portfolio. Da sich der Wert von Toncoin am 18.09.2026 …"
+          "title": "Finanzielle Resilienz aufbauen - wie das Vermögen von Privatpersonen in Krisenzeiten stabil bleibt",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/krisenfest-finanzielle-resilienz-aufbauen-wie-das-vermoegen-von-privatpersonen-in-krisenzeiten-stabil-bleibt-14531868",
+          "published": "2026-09-19T19:37:00+00:00",
+          "summary": "Klarheit schaffen Wer seine Finanzen im Griff haben will, braucht Überblick. Denn nur, wer weiß, wo das Geld bleibt, kann entscheiden, wo es sinnvoller eingesetzt werden könnte. Einnahmen, Ausgaben …"
         },
         {
-          "title": "Wie viel Wert mit einem Hedera-Investment von vor 1 Jahr verloren gegangen wäre",
-          "link": "https://www.finanzen.net/nachricht/devisen/wie-viel-wert-mit-einem-hedera-investment-von-vor-1-jahr-verloren-gegangen-waere-15942898",
-          "published": "2026-09-19T17:43:04+00:00",
-          "summary": "Am 18.09.2025 lag der Kurs von Hedera bei 0,2466 USD. Bei einem Investment von 100 USD in HBAR zu diesem Zeitpunkt, wäre ein Anleger nun im Besitz von 405,52 Hedera. Da sich der Wert von Hedera ..."
+          "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
+          "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
+          "published": "2026-09-19T19:35:00+00:00",
+          "summary": "RBC bestätigt ein S&P 500 Kursziel von 8.150 Punkten für zwölf Monate Ed Yardeni hebt sein Jahresendziel zum dritten Mal 2026 auf 8.400 Punkte VIX unter 15 und steigende Anleiherenditen nähren Sorgen …"
         },
         {
-          "title": "Aktien von VW und Porsche knicken ein: Volkswagen senkt Gewinnprognose deutlich",
-          "link": "https://www.finanzen.net/nachricht/aktien/konzernumbau-co-aktien-von-vw-und-porsche-knicken-ein-volkswagen-senkt-gewinnprognose-deutlich-15942141",
-          "published": "2026-09-19T17:38:00+00:00",
-          "summary": "Der Autobauer rechnet nun damit, dass vom Umsatz höchstens ein Prozent als operativer Gewinn übrig bleibt. Bisher hatte der Konzern eine Spanne von 4,0 bis 5,5 Prozent erwartet. Im vergangenen Jahr …"
+          "title": "Krypto-Boom: Volksbanken öffnen sich für Bitcoin und Ether",
+          "link": "https://www.finanzen.net/nachricht/devisen/krypto-offensive-krypto-boom-volksbanken-oeffnen-sich-fuer-bitcoin-und-ether-15942666",
+          "published": "2026-09-19T19:18:00+00:00",
+          "summary": "Die ersten 6 Prozent der genossenschaftlichen Institute sind nach eigenen Angaben am Markt, weitere 26 Prozent wollen in spätestens fünf Monaten eine Lösung für den Kryptohandel mit Bitcoin und ..."
         }
       ],
       "error": null
