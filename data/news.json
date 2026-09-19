@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:08:40+00:00",
+  "generatedAt": "2026-09-19T00:12:08+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Dänemark und USA verkünden Durchbruch im Grönland-Streit",
+          "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
+          "published": "2026-09-18T23:54:48+00:00",
+          "summary": "US-Präsident Trump sorgte mit seinen Ansprüchen auf Grönland für Spannungen innerhalb der NATO. Nun wollen die USA, Dänemark und Grönland ein Abkommen schließen. Laut Grönlands Regierungschef nützt …"
+        },
+        {
+          "title": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
+          "link": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+          "published": "2026-09-18T22:40:52+00:00",
+          "summary": "Vier Tage war Verteidigungsminister Pistorius in den USA. In Washington, New York und Fort Worth in Texas wird schnell klar, dass sich etwas verändert hat: Das Interesse der USA am Bündnispartner …"
+        },
         {
           "title": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
           "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
@@ -24,18 +36,6 @@
           "link": "https://www.sportschau.de/fussball/bundesliga/ein-grandioser-kane-rekord-und-noch-so-viel-mehr,spielbericht-bayern-muenchen-union-berlin-102.html",
           "published": "2026-09-18T20:23:01+00:00",
           "summary": "Bayern-Angreifer Harry Kane hat gegen Union Berlin einen Torrekord pulverisiert, wurde in Sachen Spektakel aber noch von seinen Teamkollegen getoppt."
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12858.html",
-          "published": "2026-09-18T20:22:37+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Haftbefehl gegen mutmaßlichen Täter nach Brandanschlag auf Synagoge in Wuppertal",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1651528.html",
-          "published": "2026-09-18T20:20:03+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -53,28 +53,28 @@
           "summary": "Rund um den letzten Willen gibt es viele Missverständnisse. Von der Rolle des Ex-Partners über das Steuerrecht bis zur Rechtswahl – diesen Irrtümern sollten Sie nicht aufsitzen."
         },
         {
-          "title": "Medien: Trump verbietet CNN und „Politico“ Zugang zum Weißen Haus",
-          "link": "https://www.handelsblatt.com/politik/international/medien-trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus/100255753.html",
-          "published": "2026-09-18T21:42:32+00:00",
-          "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es wenige Wochen vor den wichtigen Parlamentswahlen CNN und andere. Sie sind nicht die Ersten."
+          "title": "Rüstungsprojekte: „Neue Ära“ für die Luftwaffe – Pistorius nimmt erste F-35 in Empfang",
+          "link": "https://www.handelsblatt.com/politik/international/ruestungsprojekte-pistorius-nimmt-erste-f-35-in-empfang/100255035.html",
+          "published": "2026-09-18T23:55:20+00:00",
+          "summary": "In Texas wird der erste Tarnkappenjet für Deutschland präsentiert. Mit der Fähigkeit, Atombomben zu tragen, beteiligt sich die Bundeswehr damit auch in Zukunft an der nuklearen Abschreckung."
         },
         {
-          "title": "Aktie im Blick: Warum boomt mit einem Mal die Volkswagen-Aktie?",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/vw-aktie-warum-boomte-mit-einem-mal-die-autobauer-aktie/100254699.html",
-          "published": "2026-09-18T21:29:04+00:00",
-          "summary": "Sieben Prozent Zuwachs in nur einem Monat machten den Autobauer zum erfolgreichsten Dax‑Titel. Zumindest bis Freitagabend. Die Aktie war aber schon länger in einer guten Ausgangsposition."
+          "title": "+++ Ukraine-Krieg +++: Putin wirft Ukraine Störung russischer Parlamentswahl vor",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-18T23:52:00+00:00",
+          "summary": "Trump unterzeichnet Paket mit Sanktionen gegen Russland +++ Ukraine: Wahlen in Russland sind eine Farce +++ Ukraine erhält 3,3 Milliarden Euro an EU-Mitteln für Rüstung +++ Der Newsblog."
         },
         {
-          "title": "Kommentar: Was hat der Kanzler mit diesem Spritpreispaket angerichtet?!",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-was-hat-der-kanzler-mit-diesem-spritpreispaket-angerichtet/100255749.html",
-          "published": "2026-09-18T20:01:37+00:00",
-          "summary": "Einen Preisdeckel und einen Tankrabatt hat sich die Regierung ausgedacht. Das wird die Steuermilliarden nicht wert sein und es könnte auch Deutschlands Versorgung mit Sprit gefährden."
+          "title": "Künstliche Intelligenz: Kalifornien könnte Notschalter für KI vorschreiben",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-kalifornien-koennte-notschalter-fuer-ki-vorschreiben/100255771.html",
+          "published": "2026-09-18T23:46:27+00:00",
+          "summary": "Die bekanntesten leistungsstarken KI-Modelle werden in Kalifornien entwickelt. Der US-Bundesstaat will in der Debatte um Sicherheitsrisiken die Initiative ergreifen - und erwägt eine radikale Vorgabe."
         },
         {
-          "title": "+++ USA +++: Trump verbietet CNN und anderen Medien Zugang zum Weißen Haus",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trump-verbietet-cnn-und-anderen-medien-zugang-zum-weissen-haus/29669594.html",
-          "published": "2026-09-18T19:46:00+00:00",
-          "summary": "Demokraten wollen nach der Wahl gegen Trump-Familie vorgehen +++ US-Post stoppt Arbeit an umstrittenem Computersystem für Briefwahl +++ Trump zieht überraschend Toppersonalie zu ICE-Behörde zurück …"
+          "title": "Ukraine-Krieg: Trump unterzeichnet Paket mit Sanktionen gegen Russland",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-unterzeichnet-paket-mit-sanktionen-gegen-russland/100255767.html",
+          "published": "2026-09-18T23:34:50+00:00",
+          "summary": "Mit weitreichenden Sanktionen will der US-Kongress den Angreifer Russland im Ukraine-Krieg unter Druck setzen. Nun haben sie die letzte Hürde genommen."
         }
       ],
       "error": null
