@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T14:08:35+00:00",
+  "generatedAt": "2026-09-19T16:08:29+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Auch Googles KI hackte Unternehmen",
-          "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
-          "published": "2026-09-19T13:09:00+00:00",
-          "summary": "Wiederholt haben KI-Systeme bei Tests unerwartet auf fremde Systeme zugegriffen. Nun wurden solche Vorfälle auch bei Googles Gemini bekannt. In der Debatte um KI-Sicherheit lässt Kalifornien mögliche …"
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-19T16:07:34+00:00",
+          "summary": "Sonntag ist es im Süden zum Teil sonnig, in der Mitte fällt gebietsweise Regen und im Norden gibts bei Sonne und Wolken Schauer sowie einzelne Gewitter. In der Nordhälfte sehr windig. 16 bis 28 Grad."
         },
         {
-          "title": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
-          "link": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html",
-          "published": "2026-09-19T13:08:46+00:00",
-          "summary": "Debatten um die Eindämmung der Gefahren durch Künstliche Intelligenz enden in den USA meist mit dem Hinweis, dass China dann einen gefährlichen Vorsprung erlange. Doch wo steht Peking in der Debatte? …"
+          "title": "Wieder vier Gegentore - Gladbach verliert auch unter Lichte",
+          "link": "https://www.sportschau.de/fussball/bundesliga/wieder-vier-gegentore-gladbach-verliert-auch-unter-lichte,spielbericht-borussia-moenchengladbach-mainz-05-100.html",
+          "published": "2026-09-19T16:04:13+00:00",
+          "summary": "Borussia Mönchengladbach hat in der Bundesliga auch unter Interimstrainer Jan-Moritz Lichte eine Niederlage kassiert. Gegen Mainz war erneut die Abwehr schwach."
         },
         {
-          "title": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
-          "published": "2026-09-19T12:39:46+00:00",
-          "summary": "Mit Tankrabatt und Spritpreisdeckel will die Bundesregierung gegen hohe Kraftstoffpreise vorgehen. Die Maßnahmen stoßen größtenteils auf Kritik - sie seien zu wenig zielgenau. Doch es gibt auch …"
+          "title": "Eintracht Frankfurt gegen SC Freiburg: Kein Sieger im Duell der Neu-Nationalspieler",
+          "link": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-im-duell-der-neu-nationalspieler,spielbericht-eintracht-frankfurt-sc-freiburg-114.html",
+          "published": "2026-09-19T16:03:15+00:00",
+          "summary": "Gleich sechs neue Nationalspieler standen sich im Duell Eintracht Frankfurt gegen den SC Freiburg gegenüber. Einen Sieger in dieser Partie gab es nicht."
         },
         {
-          "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
-          "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
-          "published": "2026-09-19T12:38:26+00:00",
-          "summary": "Vor dem Wahlen in Mecklenburg-Vorpommern und Berlin beenden die Parteien heute ihren Wahlkampf. Bundeskanzler Merz erhält vor dem Wahlsonntag weitere Rückendeckung aus seiner eigenen Partei."
+          "title": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
+          "published": "2026-09-19T15:53:33+00:00",
+          "summary": "US-Präsident Trump hatte angekündigt, CNN, MS NOW und Politico aus dem Weißen Haus zu verbannen. Und tatsächlich: Die Reporter wurden heute abgewiesen, ihre Presseausweise deaktiviert."
         },
         {
-          "title": "Berufsleben: Job weg, Abfindung - und dann?",
-          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/abfindung-berufsleben-100.html",
-          "published": "2026-09-19T12:26:53+00:00",
-          "summary": "Ob Volkswagen, Bayer oder Lufthansa - besonders das mittlere Management steht auf dem Arbeitsmarkt unter Druck. Wie kann es man sich nach einem Aufhebungsvertrag beruflich neu orientieren? Von Anke …"
+          "title": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
+          "published": "2026-09-19T15:46:45+00:00",
+          "summary": "Gesundheitsminister Linnemann will das Aus der Informationspflicht für gesetzliche Krankenkassen über Beitragserhöhungen wieder rückgängig machen. Vor allem Verbraucherschützer hatten die Abschaffung …"
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Pressefreiheit in den USA: Weißes Haus verweigert CNN, „Politico“ und MS NOW den Zugang",
+          "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-weisses-haus-verweigert-cnn-politico-und-ms-now-den-zugang/100255753.html",
+          "published": "2026-09-19T15:35:26+00:00",
+          "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es wenige Wochen vor den wichtigen Parlamentswahlen CNN und andere. Sie sind nicht die Ersten."
+        },
+        {
+          "title": "Deutschland in der Nato: Deutscher General wird Chef von Nato-Militärausschuss",
+          "link": "https://www.handelsblatt.com/politik/international/deutschland-in-der-nato-deutscher-general-wird-chef-von-nato-militaerausschuss/100255846.html",
+          "published": "2026-09-19T15:29:00+00:00",
+          "summary": "Die Nato steht vor entscheidenden Weichenstellungen. Nach mehr als 20 Jahren übernimmt wieder ein Deutscher die Aufgabe als wichtigster militärischer Berater des Generalsekretärs."
+        },
+        {
+          "title": "Verteidigung: General Carsten Breuer übernimmt Vorsitz des Nato-Militärausschusses",
+          "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-general-carsten-breuer-uebernimmt-vorsitz-des-nato-militaerausschusses/100255568.html",
+          "published": "2026-09-19T15:23:35+00:00",
+          "summary": "Das Gremium wählte den ranghöchsten Bundeswehroffizier zum Nachfolger des italienischen Admirals Cavo Dragone. Ist der Deutsche der richtige Stratege für die Kriegführung von morgen?"
+        },
+        {
           "title": "Konflikte: Frankreichs Le Pen geht auf Abstand zu Russland",
           "link": "https://www.handelsblatt.com/politik/international/konflikte-frankreichs-le-pen-geht-auf-abstand-zu-russland/100255839.html",
           "published": "2026-09-19T13:54:36+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/einigung-auf-paket-entlastung-bei-spritpreisen-wie-geht-es-jetzt-weiter/100255825.html",
           "published": "2026-09-19T13:37:29+00:00",
           "summary": "Tankrabatt und Spritpreisdeckel: Wie schnell kommen die Entlastungen für Autofahrer und Unternehmen? Und wer profitiert am stärksten?"
-        },
-        {
-          "title": "Spritpreispaket: Neuer Tankrabatt ab Oktober – Kritik an Gießkannenlösung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/spritpreispaket-neuer-tankrabatt-ab-oktober-kritik-an-giesskannenloesung/100255836.html",
-          "published": "2026-09-19T13:31:51+00:00",
-          "summary": "Die Neuauflage des Tankrabatts soll Autofahrer kurzfristig entlasten, stößt aber auf Kritik. Verbraucherschützer fordern gezieltere Maßnahmen für Haushalte mit geringem Einkommen."
-        },
-        {
-          "title": "Energie: Blockade für die Energiewende – Stromnetzbetreiber verzögern neue Solar- und Windprojekte um Jahre",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/energie-netzbetreiber-verzoegern-neue-solar-und-windprojekte-um-jahre/100254472.html",
-          "published": "2026-09-19T13:29:55+00:00",
-          "summary": "Ohne das Stromnetz geht in Deutschland nichts. Doch dessen Betreiber wehren sich immer stärker gegen neue Anlagen – und ziehen zunehmend den Zorn von Unternehmen und Privatleuten auf sich."
-        },
-        {
-          "title": "Immobilien: Wie Sie Ihr Haus vor Extremwetter schützen – und was das kostet",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-sie-ihr-haus-vor-extremwetter-schuetzen-und-was-das-kostet/100254653.html",
-          "published": "2026-09-19T13:08:15+00:00",
-          "summary": "Die Schäden durch Hitze oder Starkregen nehmen zu. Wer hohe Reparaturkosten vermeiden will, kann sein Haus davor schützen. Die Kosten für einzelne Maßnahmen unterscheiden sich erheblich."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Keine Rekruten? Dann Maschinen!: So planen Südkorea, China und auch Deutschland die Armee ohne Menschen",
+          "link": "https://www.n-tv.de/wirtschaft/So-planen-Suedkorea-China-und-auch-Deutschland-die-Armee-ohne-Menschen-id31293174.html",
+          "published": "2026-09-19T15:28:43+00:00",
+          "summary": "Südkorea lässt humanoide Roboter ein Kriegsschiff steuern, China erforscht solche Maschinen für den Häuserkampf. Hinter dem militärischen Interesse an dieser Technik steckt ein drängendes Problem …"
+        },
         {
           "title": "Luxushotels statt Rente: Zahnärzte-Versorgungswerk verzockt 1,3 Milliarden Euro",
           "link": "https://www.n-tv.de/wirtschaft/Zahnaerzte-Versorgungswerk-verzockt-1-3-Milliarden-Euro-id31320636.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Warum-Lidl-einen-autonomen-Lkw-auf-die-Strasse-schickt-id31318191.html",
           "published": "2026-09-19T11:41:32+00:00",
           "summary": "Die Strecke ist zwar kurz, die Bedeutung jedoch groß: Lidl darf einen autonomen Elektro-Lkw auf einer öffentlichen Straße einsetzen. Zugleich baut die Schwarz-Gruppe hinter dem Discounter eine eigene …"
-        },
-        {
-          "title": "Gurkenglas in den Pfandautomaten: Läutet der Ukraine-Krieg das Ende des Einwegglases ein?",
-          "link": "https://www.n-tv.de/wirtschaft/Laeutet-der-Ukraine-Krieg-das-Ende-des-Einwegglases-ein-id31316065.html",
-          "published": "2026-09-19T08:37:09+00:00",
-          "summary": "Der Ukraine-Krieg macht Einweggläser für Hersteller wie Kühne oder Feinkost Dittman zum Kostenrisiko. Gemeinsam mit dem Mehrweg-Unternehmen Dotch planen sie den Umstieg. Das Nadelöhr sind Aldi, Lidl …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Multiorder beim Online-Broker: Mit einem Trade in mehrere Aktien gleichzeitig investieren",
-          "link": "https://www.finanzen.net/nachricht/aktien/multiorder-beim-online-broker-mit-einem-trade-in-mehrere-aktien-gleichzeitig-investieren-15942849",
-          "published": "2026-09-19T13:40:23+00:00",
+          "title": "In eigener Sache: So legst du finanzen.net als bevorzugte Quelle bei Google fest",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-in-eigener-sache-so-legst-du-finanzen-net-als-bevorzugte-quelle-bei-google-fest-15688821",
+          "published": "2026-09-19T16:02:00+00:00",
+          "summary": "Bei Suchanfragen zu Finanz- und Wirtschaftsthemen blendet Google zunehmend redaktionelle Inhalte wie Nachrichten direkt in die Suchergebnisse ein. Was viele Nutzer nicht wissen: Mit zwei kleinen …"
+        },
+        {
+          "title": "So managst du dein (Aktien-)Risiko",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
+          "published": "2026-09-19T16:00:00+00:00",
+          "summary": "Zum Artikel"
+        },
+        {
+          "title": "Preiskampf bei Welt-ETFs: Wer ist der wahre Volks-ETF?",
+          "link": "https://www.finanzen.net/nachricht/aktien/preiskampf-bei-welt-etfs-wer-ist-der-wahre-volks-etf-15942878",
+          "published": "2026-09-19T15:49:08+00:00",
           "summary": ""
         },
         {
-          "title": "Burggraben-Aktien im Check: So können sich Anleger absichern",
-          "link": "https://www.finanzen.net/nachricht/aktien/economic-moat-burggraben-aktien-im-check-so-koennen-sich-anleger-absichern-11705656",
-          "published": "2026-09-19T13:31:00+00:00",
-          "summary": "Begriff der Burggraben-Aktie durch Warren Buffett geprägt • Je breiter und tiefer der Graben, desto nachhaltiger der Erfolg des Unternehmens • Wettbewerbsvorteile ..."
+          "title": "Brokerwechsel: So sparen Anleger mehr als 130 Euro im Jahr",
+          "link": "https://www.finanzen.net/nachricht/aktien/brokerwechsel-so-sparen-anleger-mehr-als-130-euro-im-jahr-15942875",
+          "published": "2026-09-19T15:43:02+00:00",
+          "summary": ""
         },
         {
-          "title": "Einfach in Krypto investieren - mit dem Top 10 Crypto ETP von finanzen.net und CoinShares",
-          "link": "https://www.finanzen.net/nachricht/devisen/in-eigener-sache-einfach-in-krypto-investieren-mit-dem-top-10-crypto-etp-von-finanzen-net-und-coinshares-13849011",
-          "published": "2026-09-19T13:30:00+00:00",
-          "summary": "Krypto­währungen wie Bitcoin und Ethereum haben sich längst etabliert - bei privaten wie insti­­tutio­nellen Investoren. Anleger setzen damit auf attrak­tive Rendite­­chancen …"
-        },
-        {
-          "title": "Handle bei finanzen.net ZERO auch am Wochenende - jeden Samstag ab 14 Uhr",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-handle-bei-finanzen-net-zero-auch-am-wochenende-jeden-samstag-ab-14-uhr-15339784",
-          "published": "2026-09-19T13:30:00+00:00",
-          "summary": "Kursbewegende Ereignisse passieren oft am Wochenende. Bei ZERO kannst Du darauf schon samstags reagieren - ein entscheidender Vorteil. Wechsle auch Du zum 'Kostensieger' der Stiftung Warentest …"
-        },
-        {
-          "title": "Anthropic-Aktie voraus: Warum sich das IPO offenbar auf November verschiebt - und was das für Anleger bedeutet",
-          "link": "https://www.finanzen.net/nachricht/aktien/boersengang-verschoben-anthropic-aktie-voraus-warum-sich-das-ipo-offenbar-auf-november-verschiebt-und-was-das-fuer-anleger-bedeutet-00-15942800",
-          "published": "2026-09-19T13:27:00+00:00",
-          "summary": "Anthropic-IPO verzögert sich offenbar Sicherheitsdebatte um Amodeis Warnungen begleitet den Zeitplan Anleger richten den Blick auf eine mögliche Rekordbewertung"
+          "title": "NVIDIA-Aktie: Börsenstar stand einst vor dem Ruin - Warum diese Kapitalbeteiligung die Rettung bedeutete",
+          "link": "https://www.finanzen.net/nachricht/aktien/rettungsaktion-nvidia-aktie-boersenstar-stand-einst-vor-dem-ruin-warum-diese-kapitalbeteiligung-die-rettung-bedeutete-00-15937187",
+          "published": "2026-09-19T15:33:00+00:00",
+          "summary": "Ex-Sega-Chef erzählt, wie er einst alles auf Jensen Huang setzte Finanzspritze aus Japan bewahrte NVIDIA vor dem drohenden Aus Aus der Rettungsaktion wuchs eine Partnerschaft, die bis heute weiterlebt"
         }
       ],
       "error": null
@@ -203,6 +203,24 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Rolf Dobelli: „Viele Menschen sind wahnsinnig gut darin, unwichtige Ziele zu verfolgen“",
+          "link": "https://www.wiwo.de/erfolg/trends/rolf-dobelli-warum-menschen-gut-darin-sind-unwichtige-ziele-zu-verfolgen/100253270.html",
+          "published": "2026-09-19T14:59:13+00:00",
+          "summary": "Antworten gibt es dank KI im Überfluss, sagt Rolf Dobelli – kluge Fragen dagegen zu wenige. Im Gespräch verrät der Bestsellerautor, welche für ihn die wichtigste ist."
+        },
+        {
+          "title": "Vermögensbildung: Stärkere Rentenbesteuerung freut den Finanzminister",
+          "link": "https://www.wiwo.de/politik/deutschland/vermoegensbildung-staerkere-rentenbesteuerung-freut-den-finanzminister/100255069.html",
+          "published": "2026-09-19T14:53:00+00:00",
+          "summary": "Seit 2005 werden gesetzliche Renten zunehmend nachgelagert besteuert. Das brachte dem Staat zuletzt 63 Milliarden Euro Einkommensteuer – Tendenz steigend."
+        },
+        {
+          "title": "Wahlkampf in der Hauptstadt: Berliner Spitzenkandidat der CDU erfreut über handlungsfähige Bundesregierung",
+          "link": "https://www.wiwo.de/politik/deutschland/wahlkampf-in-der-hauptstadt-berliner-spitzenkandidat-der-cdu-erfreut-ueber-handlungsfaehige-bundesregierung/100255841.html",
+          "published": "2026-09-19T14:46:59+00:00",
+          "summary": "Jüngste Umfragen sagen ein enges Rennen für die Wahl am Sonntag in Berlin voraus. Stunden vor Öffnung der Wahllokale werben die Kandidaten für sich."
+        },
+        {
           "title": "Marine Le Pen: Frankreichs Le Pen geht auf Abstand zu Russland",
           "link": "https://www.wiwo.de/politik/europa/marine-le-pen-frankreichs-le-pen-geht-auf-abstand-zu-russland/100255838.html",
           "published": "2026-09-19T14:04:59+00:00",
@@ -213,24 +231,6 @@
           "link": "https://www.wiwo.de/politik/deutschland/flughafen-findel-drohnen-legen-flughafen-luxemburg-zeitweise-lahm/100255837.html",
           "published": "2026-09-19T13:49:40+00:00",
           "summary": "Nicht genehmigte Drohnen über dem Flughafen Findel in Luxemburg haben den Flugbetrieb vorübergehend gestoppt. Die Behörden ermitteln."
-        },
-        {
-          "title": "Ukraine: „Der Krieg hatte uns keine Wahl gelassen“",
-          "link": "https://www.wiwo.de/politik/ausland/ukraine-wie-der-krieg-das-land-technologisch-revolutioniert/100248379.html",
-          "published": "2026-09-19T13:26:20+00:00",
-          "summary": "Nach vier Jahren Abwehrkampf gegen Russland ist die Ukraine innovativer und technologisch führender denn je – und exportiert ihre Kriegskompetenz."
-        },
-        {
-          "title": "Gesundheitspolitik: Kassen sollen Beitragsanhebung doch mitteilen",
-          "link": "https://www.wiwo.de/politik/deutschland/gesundheitspolitik-kassen-sollen-beitragsanhebung-doch-mitteilen/100255833.html",
-          "published": "2026-09-19T13:04:54+00:00",
-          "summary": "Erst wurde den Krankenkassen die Pflicht erlassen, bei einer Beitragserhöhung jeden Versicherten zu informieren. Nun reagiert der neue Gesundheitsminister."
-        },
-        {
-          "title": "Mecklenburg-Vorpommern: Landet Manuela Schwesig auf der Ziellinie vor der AfD?",
-          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-mv-wie-manuela-schwesig-die-afd-stoppen-will/100255655.html",
-          "published": "2026-09-19T12:45:00+00:00",
-          "summary": "Die SPD-Ministerpräsidentin könnte die AfD bei den Landtagswahlen am Sonntag knapp besiegen. Ein Grund: Sie hat sich von zwei Ministerpräsidenten etwas abgeschaut."
         }
       ],
       "error": null
