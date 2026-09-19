@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T06:11:02+00:00",
+  "generatedAt": "2026-09-19T08:09:28+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-19T07:39:57+00:00",
+          "summary": "Am Samstag im Norden meist wolkenverhangen und gelegentlich etwas Regen, dazu windig. Im Süden dagegen oft sonnig oder nur locker bewölkt und trocken. 18 bis 26 Grad."
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651602.html",
+          "published": "2026-09-19T07:35:35+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Trump will CNN und andere Medien aus dem Weißen Haus verbannen",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html",
+          "published": "2026-09-19T06:08:18+00:00",
+          "summary": "US-Präsident Trump legt im Streit mit kritischen Medien nach: Nun sollen CNN, MS NOW und Politico aus dem Weißen Haus weichen. Was das konkret bedeutet, ist noch unklar - und es zeichnet sich …"
+        },
         {
           "title": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
           "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-wahlen-berlin-mecklenburg-vorpommern-100.html",
@@ -18,24 +36,6 @@
           "link": "https://www.tagesschau.de/inland/gesellschaft/islamismus-radikalisierung-social-media-gaming-100.html",
           "published": "2026-09-19T03:10:46+00:00",
           "summary": "Islamistische Propaganda erreicht Jugendliche längst mitten in ihrem digitalen Alltag. Recherchen von BR und SWR zeigen, wie Radikalisierung über Social Media und Gaming funktioniert - und wie schwer …"
-        },
-        {
-          "title": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
-          "published": "2026-09-19T03:09:49+00:00",
-          "summary": "Das Design der Euroscheine ist in die Jahre gekommen. Bei der anstehenden Überarbeitung lässt die EZB die Bürgerinnen und Bürger jetzt mitreden. Noch bis Montag kann abgestimmt werden. Von Ursula …"
-        },
-        {
-          "title": "Oktoberfest beginnt - München für zwei Wochen in Feierlaune",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
-          "published": "2026-09-19T03:04:33+00:00",
-          "summary": "In München beginnt das Oktoberfest. Zum ersten Mal bekommt Bayerns Ministerpräsident Söder das erste Wiesn-Bier von einem Grünen gereicht - dem neuen Oberbürgermeister Krause."
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651582.html",
-          "published": "2026-09-19T02:52:25+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -53,28 +53,28 @@
           "summary": "Rund um den letzten Willen gibt es viele Missverständnisse. Von der Rolle des Ex-Partners über das Steuerrecht bis zur Rechtswahl – diesen Irrtümern sollten Sie nicht aufsitzen."
         },
         {
-          "title": "Berlin-Wahl 2026: Von Mieten bis Müll: Was man zur Berlin-Wahl wissen muss",
-          "link": "https://www.handelsblatt.com/politik/deutschland/berlin-wahl-2026-von-mieten-bis-muell-was-man-zur-berlin-wahl-wissen-muss/100255801.html",
-          "published": "2026-09-19T05:00:05+00:00",
-          "summary": "Bei der Wahl in der Hauptstadt treten am Sonntag 17 Parteien an, erstmals dürfen alle ab 16 Jahren wählen. Welche Koalitionen sind möglich? Und was war im Wahlkampf besonders umstritten?"
+          "title": "Kommentar: Die F-35 macht Deutschland militärisch stärker – und politisch abhängiger",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-f-35-macht-deutschland-militaerisch-staerker-und-politisch-abhaengiger/100255577.html",
+          "published": "2026-09-19T08:00:00+00:00",
+          "summary": "Mit der Übernahme der ersten F-35 begibt sich die Bundeswehr auf den Weg zur technologisch überlegenen Armee. Erkauft wird das aber mit einer noch größeren Abhängigkeit von Trump."
         },
         {
-          "title": "Führung: „Die Leute müssen das Gefühl haben, blöd sein zu dürfen“",
-          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-jeder-leidet-unter-dem-perfektionszwang/100252820.html",
-          "published": "2026-09-19T04:47:00+00:00",
-          "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“."
+          "title": "+++ Ukraine-Krieg +++: Putin wirft Ukraine Störung russischer Parlamentswahl vor",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-19T07:58:00+00:00",
+          "summary": "Polen lässt präventiv Kampfjets aufsteigen +++ Trump unterzeichnet Paket mit Sanktionen gegen Russland +++ Ukraine: Wahlen in Russland sind eine Farce +++ Der Newsblog."
         },
         {
-          "title": "Künstliche Intelligenz: Googles KI Gemini hackte ebenfalls andere Unternehmen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-googles-ki-gemini-hackte-ebenfalls-andere-unternehmen/100255775.html",
-          "published": "2026-09-19T04:45:27+00:00",
-          "summary": "Bisher waren keine Hacking-Vorfälle mit Googles Künstlicher Intelligenz Gemini bekannt. Das ändert sich nun – aber erst, nachdem eine US-Zeitung Fragen gestellt hat."
+          "title": "Ratingagentur: Moody's hebt Griechenland an und senkt Polens Bonitätsnote",
+          "link": "https://www.handelsblatt.com/politik/international/ratingagentur-moodys-hebt-griechenland-an-und-senkt-polens-bonitaetsnote/100255812.html",
+          "published": "2026-09-19T07:53:29+00:00",
+          "summary": "Die Ratingagentur Moody's blickt optimistischer auf die Kreditwürdigkeit Griechenlands. Polens Bonitätsnote sinkt einer anhaltenden Verschlechterung der Haushaltslage von „A2“ auf „A3“."
         },
         {
-          "title": "Konflikt um Arktisinsel: Dänemark und USA verkünden Durchbruch im Grönland-Streit",
-          "link": "https://www.handelsblatt.com/politik/international/konflikt-um-arktisinsel-daenemark-und-usa-verkuenden-durchbruch-im-groenland-streit/100255763.html",
-          "published": "2026-09-19T04:23:21+00:00",
-          "summary": "Donald Trumps Drohung, Grönland zu annektieren, stellte die Nato vor eine Zerreißprobe. Nun soll es in dem Dauerstreit eine Einigung geben. Doch die Darstellungen dazu klingen unterschiedlich."
+          "title": "Ermittlungen: Durchsuchung bei Mitarbeiter von AfD-Spitzenkandidatin",
+          "link": "https://www.handelsblatt.com/politik/deutschland/ermittlungen-durchsuchung-bei-mitarbeiter-von-afd-spitzenkandidatin/100255811.html",
+          "published": "2026-09-19T07:46:45+00:00",
+          "summary": "Wenige Tage vor der Wahl in Berlin rückt die Polizei bei einem AfD-Mitarbeiter an. Es geht um illegale Waffen. Die werden nicht gefunden – aber andere Sachen."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Zwischenfälle schon im Mai: Googles KI dringt in fremde Firmensysteme ein",
+          "link": "https://www.n-tv.de/wirtschaft/Google-KI-Gemini-hackt-bei-Tests-fremde-Firmensysteme-id31323916.html",
+          "published": "2026-09-19T07:47:07+00:00",
+          "summary": "Nach OpenAI, Anthropic und Meta nun auch Google. Wie andere KI-Unternehmen vor ihm muss der Konzern einräumen: Unsere Software ist in Systeme anderer Unternehmen eingedrungen. Googles Gemini …"
+        },
         {
           "title": "Preise zum Semesterstart stabil: In diesen vier Städten kosten WG-Zimmer deutlich mehr",
           "link": "https://www.n-tv.de/wirtschaft/In-diesen-vier-Staedten-kosten-WG-Zimmer-deutlich-mehr-id31323740.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Volkswagen-streicht-Gewinnprognose-zusammen-id31323163.html",
           "published": "2026-09-18T18:16:10+00:00",
           "summary": "Die Krisenstimmung in Wolfsburg hält an. Wegen verschiedener \"Sondereffekte\" muss der Volkswagen-Konzern seine Gewinnprognose für das aktuelle Geschäftsjahr drastisch senken. Weitere Unsicherheiten …"
-        },
-        {
-          "title": "Trump soll Korruption verhindern: Venezuela vertraut USA tonnenweise Gold an",
-          "link": "https://www.n-tv.de/wirtschaft/Venezuela-vertraut-USA-tonnenweise-Gold-an-id31322385.html",
-          "published": "2026-09-18T16:43:26+00:00",
-          "summary": "31 Tonnen Gold aus der Reserve der venezolanischen Notenbank sollen aus Großbritannien in die USA gebracht werden. Ausgerechnet der selbst unter Korruptionsverdacht stehende US-Präsident und seine …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP 2: Trump verbietet US-Sender CNN Zugang zum Weißen Haus",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-trump-verbietet-us-sender-cnn-zugang-zum-weissen-haus-15942698",
-          "published": "2026-09-19T06:04:40+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - US-Präsident Donald Trump verbietet dem renommierten TV-Sender CNN ab sofort den Zugang zum Weißen Haus. Betroffen von dem Verbot seien auch der Sender MS NOW und das …"
+          "title": "KW 38: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
+          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-38-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15922347",
+          "published": "2026-09-19T08:02:00+00:00",
+          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 38 aus"
         },
         {
-          "title": "ROUNDUP: Googles KI Gemini hackte ebenfalls andere Unternehmen",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-googles-ki-gemini-hackte-ebenfalls-andere-unternehmen-15942697",
-          "published": "2026-09-19T06:04:40+00:00",
-          "summary": "MOUNTAIN VIEW (dpa-AFX) - Auch Googles KI-Software Gemini hat sich bei Tests ihrer Cybersicherheits-Fähigkeiten in Computersysteme anderer Unternehmen gehackt. Der Internet-Riese ist der vierte …"
+          "title": "So managst du dein (Aktien-)Risiko",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
+          "published": "2026-09-19T08:00:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
-          "title": "ROUNDUP: Kritik an Spritpreis-Entlastungspaket von Bund und Ländern",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-kritik-an-spritpreis-entlastungspaket-von-bund-und-laendern-15942696",
-          "published": "2026-09-19T06:04:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Die Einigung von Bund und Ländern auf ein Entlastungspaket gegen die hohen Spritpreise stößt bei Verbraucherschützern, Sozialverbänden und der Opposition im Bundestag auf Kritik. …"
+          "title": "Bitcoin-Kurs und Goldpreis so eng wie nie: Was die Korrelation wirklich bedeutet - Chance für Anleger?",
+          "link": "https://www.finanzen.net/nachricht/devisen/sicherer-hafen-bitcoin-kurs-und-goldpreis-so-eng-wie-nie-was-die-korrelation-wirklich-bedeutet-chance-fuer-anleger-00-15933110",
+          "published": "2026-09-19T08:00:00+00:00",
+          "summary": "Korrelation zwischen Bitcoin und Gold nähert sich einem Allzeithoch Gold ist ein physischer Hafen, Bitcoin bleibt rein digitales Gut Laut WisdomTree notiert Bitcoin trotzdem mit Abschlag ..."
         },
         {
-          "title": "ROUNDUP: Dänemark und USA verkünden Durchbruch im Grönland-Streit",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-daenemark-und-usa-verkuenden-durchbruch-im-groenland-streit-15942695",
-          "published": "2026-09-19T06:04:38+00:00",
-          "summary": "WASHINGTON/KOPENHAGEN/NUUK (dpa-AFX) - Die USA, Dänemark und Grönland haben im Streit um die Arktisinsel einen Durchbruch verkündet. In der kommenden Woche werde voraussichtlich ein Abkommen mit den …"
+          "title": "Das sind die aktuellen Kurse von Bitcoin, Dogecoin & Co.",
+          "link": "https://www.finanzen.net/nachricht/devisen/das-sind-die-aktuellen-kurse-von-bitcoin-dogecoin-co-15942731",
+          "published": "2026-09-19T07:48:21+00:00",
+          "summary": "Der Kurs der Kryptowährung Bitcoin liegt um 09:41 bei 81.015,64 US-Dollar und damit 0,16 Prozent im Plus. Am Vortag bezifferte sich der Kurs auf 80.883,46 US-Dollar.Steigende Kurse bei …"
         },
         {
-          "title": "Studie: Pflegende Angehörige benötigen mehr psychische Hilfe",
-          "link": "https://www.finanzen.net/nachricht/aktien/studie-pflegende-angehoerige-benoetigen-mehr-psychische-hilfe-15942693",
-          "published": "2026-09-19T06:02:38+00:00",
-          "summary": "SYDNEY (dpa-AFX) - Pflegende Angehörige vernachlässigen ihre eigene psychische Gesundheit, wenn sie teils rund um die Uhr für einen geliebten Menschen da sind. Dies geht aus einer Auswertung von …"
+          "title": "Finanzielle Resilienz aufbauen - wie das Vermögen von Privatpersonen in Krisenzeiten stabil bleibt",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/krisenfest-finanzielle-resilienz-aufbauen-wie-das-vermoegen-von-privatpersonen-in-krisenzeiten-stabil-bleibt-14531868",
+          "published": "2026-09-19T07:37:00+00:00",
+          "summary": "Klarheit schaffen Wer seine Finanzen im Griff haben will, braucht Überblick. Denn nur, wer weiß, wo das Geld bleibt, kann entscheiden, wo es sinnvoller eingesetzt werden könnte. Einnahmen, Ausgaben …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Neuer Tankrabatt beschlossen: Scharfe Kritik an Milliarden-Paket",
+          "link": "https://www.wiwo.de/politik/deutschland/entlastungen-verhandlungen-ueber-neuen-tankrabatt/100255715.html",
+          "published": "2026-09-19T07:34:00+00:00",
+          "summary": "Bund und Länder planen ab Oktober einen neuen Tankrabatt von 17 Cent je Liter. Doch Opposition und Verbände kritisieren das scharf. Ein Überblick über die Argumente."
+        },
+        {
           "title": "Immobilien: Welche Städte Vermieter ausbremsen, welche sie unterstützen",
           "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-check-wo-sich-das-vermieten-von-immobilien-in-deutschland-noch-lohnt/100255296.html",
           "published": "2026-09-19T07:14:00+00:00",
           "summary": "Für Vermieter stehen die Zeichen auf Sturm: neue Auflagen, höhere Kosten, in Berlin drohen gar Enteignungen. Wo lohnt es sich noch, Immobilien zu vermieten?"
         },
         {
-          "title": "BörsenWoche 577: Was eine neue Krypto-Regulierung für den Bitcoin-Kurs bedeuten würde",
-          "link": "https://www.wiwo.de/finanzen/boerse/kryptowaehrungen-was-eine-neue-krypto-regulierung-fuer-den-bitcoin-kurs-bedeuten-wuerde/100255370.html",
-          "published": "2026-09-19T05:51:00+00:00",
-          "summary": "Der „Clarity Act“ soll Kryptowährungen besser regulieren, scheiterte aber diese Woche im US‑Senat. Woran das lag – und was das für den Bitcoin heißt."
+          "title": "Wirtschaft von oben: Saudische Pipeline war durch Anti-Drohnen-Netze geschützt",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/wirtschaft-von-oben-422-ost-west-pipeline-saudische-pipeline-war-durch-anti-drohnen-netze-geschuetzt/100255632.html",
+          "published": "2026-09-19T07:10:16+00:00",
+          "summary": "Neue Satellitenbilder zeigen die Spuren eines Drohnenangriffs auf Saudi-Arabiens wichtigste Ölpipeline – trotz sichtbarer Schutzmaßnahmen."
         },
         {
-          "title": "Konflikt um Arktisinsel: USA und Dänemark einigen sich in Streit um Grönland",
-          "link": "https://www.wiwo.de/politik/ausland/konflikt-um-arktisinsel-daenemark-und-usa-verkuenden-durchbruch-im-groenland-streit/100255764.html",
-          "published": "2026-09-19T05:23:00+00:00",
-          "summary": "Im Streit um Grönland steht ein Abkommen zwischen den USA und Dänemark bevor. Doch die Darstellungen der Einigung klingen unterschiedlich."
+          "title": "WiWo History: Monstermäßiger Erfolg",
+          "link": "https://www.wiwo.de/unternehmen/handel/pokemon-japanisches-unternehmen-macht-milliarden/100246482.html",
+          "published": "2026-09-19T07:09:51+00:00",
+          "summary": "Mehr als 100 Milliarden Dollar Umsatz haben die japanischen Monster in den letzten 30 Jahren ­generiert. Dabei wäre Pokémon fast nie im Westen erschienen."
         },
         {
-          "title": "Entlastungen: Bund und Länder einigen sich auf neuen Tankrabatt",
-          "link": "https://www.wiwo.de/politik/deutschland/entlastungen-verhandlungen-ueber-neuen-tankrabatt/100255715.html",
-          "published": "2026-09-18T20:00:00+00:00",
-          "summary": "Neuer Tankrabatt beschlossen: Benzin und Diesel sollen ab Oktober um 17 Cent günstiger werden. Ab 2027 plant der Bund zudem einen Spritpreisdeckel. Die Details."
-        },
-        {
-          "title": "VW kappt Gewinnerwartung: Die Volkswagen-Schmelze geht weiter",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-kappt-gewinnerwartung-volkswagen-kappt-gewinnerwartung/100255743.html",
-          "published": "2026-09-18T19:55:41+00:00",
-          "summary": "Der VW-Konzern muss seine Gewinnprognose drastisch nach unten korrigieren. Finanzchef Arno Antlitz versucht eilig zu beschwichtigen. Doch seine Erklärungen offenbaren Abgründe."
+          "title": "Mecklenburg-Vorpommern: Woidke. Söder. Schwesig!",
+          "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-mv-wie-manuela-schwesig-die-afd-stoppen-will/100255655.html",
+          "published": "2026-09-19T07:08:46+00:00",
+          "summary": "SPD-Ministerpräsidentin Manuela Schwesig könnte die AfD am Sonntag noch abfangen. Weil sie sich von zwei anderen Ministerpräsidenten einiges abgeschaut hat."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Deutschland hat Gesetze fürs autonome Fahren – aber kaum Autos, die sie nutzen",
+          "link": "https://www.ingenieur.de/allgemein/deutschland-hat-gesetze-furs-autonome-fahren-aber-kaum-autos-die-sie-nutzen/",
+          "published": "2026-09-19T07:00:00+00:00",
+          "summary": "Deutschland hat die weltweit fortschrittlichsten Gesetze fürs autonome Fahren. Trotzdem lässt der Markt auf sich warten. Warum ist das so?"
+        },
         {
           "title": "Forscher entdecken verborgene Methanolquelle im Erdboden",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/es-braucht-nur-wasser-forscher-entdecken-verborgene-methanolquelle-im-erdboden/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/automation/400-000-neue-roboter-toyota-baut-sich-seine-belegschaft-selbst/",
           "published": "2026-09-18T11:00:00+00:00",
           "summary": "Toyota will weltweit 400.000 selbst entwickelte Roboter in seinen Fabriken einsetzen. Im Zentrum steht der humanoide Roboter Eley, der auf Rädern rollt, mit Zwei-Finger-Greifern zupackt und von den …"
-        },
-        {
-          "title": "Neue Spitze bei Maxon: Andreas Richter übernimmt CEO-Posten",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/fuehrung/neue-spitze-bei-maxon-andreas-richter-ubernimmt-ceo-posten/",
-          "published": "2026-09-18T10:30:00+00:00",
-          "summary": "Nach 15 Jahren an der Spitze bekommt der Schweizer Antriebsspezialist Maxon einen neuen CEO. Andreas Richter übernimmt im März 2027 von Eugen Elmiger, der dem Unternehmen im Verwaltungsrat erhalten …"
         }
       ],
       "error": null
