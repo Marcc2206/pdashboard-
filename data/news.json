@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:08:33+00:00",
+  "generatedAt": "2026-09-19T22:08:26+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651952.html",
-          "published": "2026-09-19T19:06:48+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12868.html",
+          "published": "2026-09-19T21:36:38+00:00",
           "summary": ""
         },
         {
-          "title": "Beier schießt den BVB in Stuttgart nach 40 Monaten an die Spitze",
-          "link": "https://www.sportschau.de/fussball/bundesliga/beier-schiesst-bvb-nach-40-monaten-zurueck-an-die-spitze,spielbericht-vfb-stuttgart-borussia-dortmund-112.html",
-          "published": "2026-09-19T18:43:22+00:00",
-          "summary": "Borussia Dortmund ist Tabellenführer in der Bundesliga - was einst gar nicht so außergewöhnlich klang, ist nach dem Sieg beim VfB Stuttgart erstmals seit über drei Jahren Fakt."
-        },
-        {
-          "title": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
-          "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html",
-          "published": "2026-09-19T18:32:06+00:00",
-          "summary": "In der saudi-arabischen Hauptstadt Riad ist nach Luftalarm in der Nähe des Flughafens schwarzer Rauch aufgestiegen. Zuletzt hatte sich der Konflikt zwischen Saudi-Arabien und der von Iran …"
-        },
-        {
-          "title": "Eröffnung des 191. Oktoberfests in München",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1651930.html",
-          "published": "2026-09-19T18:22:14+00:00",
+          "title": "Trotz Wirtschaftskrise hoher Besucherandrang am ersten Tag des Oktoberfestes",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1651968.html",
+          "published": "2026-09-19T21:32:38+00:00",
           "summary": ""
         },
         {
-          "title": "Bundesregierung kündigt Tankrabatt und Spritpreisdeckel als Entlastung an",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1651918.html",
-          "published": "2026-09-19T18:21:42+00:00",
+          "title": "Jörg Schönenborn, ARD Wahlstudio Schwerin, zu den Wahlen in Mecklenburg-Vorpommern und Berlin",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1651966.html",
+          "published": "2026-09-19T21:28:28+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Stimmung vor den Wahlen in Mecklenburg-Vorpommern und Berlin",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1651964.html",
+          "published": "2026-09-19T21:25:52+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Nach monatelangem Streit um Grönland: Mögliches Abkommen zwischen Dänemark, den USA und Grönland",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1651962.html",
+          "published": "2026-09-19T21:23:12+00:00",
           "summary": ""
         }
       ],
@@ -47,9 +47,15 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-mutter-und-kinder-bei-angriff-im-kiewer-umland-getoetet/100255865.html",
+          "published": "2026-09-19T21:10:58+00:00",
+          "summary": "Die ukrainische Hauptstadt Kiew und das umliegende Gebiet werden regelmäßig von russischen Drohnen und Raketen angegriffen. Bei einer weiteren Attacke kommt es zu einer Tragödie."
+        },
+        {
           "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
           "link": "https://www.handelsblatt.com/politik/international/krieg-in-nahost-huthi-miliz-reklamiert-angriffe-in-saudi-arabien/100255859.html",
-          "published": "2026-09-19T19:42:43+00:00",
+          "published": "2026-09-19T20:33:08+00:00",
           "summary": "Seit der neuen Eskalation im Jemen-Krieg gerät Saudi-Arabien immer wieder unter Beschuss aus dem südlichen Nachbarland. Augenzeugen berichten von einem Brand am internationalen Flughafen in Riad."
         },
         {
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-weisses-haus-verweigert-cnn-politico-und-ms-now-den-zugang/100255753.html",
           "published": "2026-09-19T17:48:41+00:00",
           "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es wenige Wochen vor den wichtigen Parlamentswahlen CNN und andere. Doch es formiert sich Protest."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Südkorea sagt USA Unterstützung bei Sicherung der Straße von Hormus zu",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-suedkorea-sagt-usa-unterstuetzung-bei-sicherung-der-strasse-von-hormus-zu/100136895.html",
-          "published": "2026-09-19T17:10:19+00:00",
-          "summary": "Iran übermittelt USA Bedingungen für Kriegsende +++ Italien geleitet Handelsschiff mit Fregatte durch Meerenge ins Rote Meer +++ Der Newsblog."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "So managst du dein (Aktien-)Risiko",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
-          "published": "2026-09-19T20:00:00+00:00",
-          "summary": "Zum Artikel"
-        },
-        {
-          "title": "Burggraben-Aktien im Check: So können sich Anleger absichern",
-          "link": "https://www.finanzen.net/nachricht/aktien/economic-moat-burggraben-aktien-im-check-so-koennen-sich-anleger-absichern-11705656",
-          "published": "2026-09-19T19:39:00+00:00",
-          "summary": "Begriff der Burggraben-Aktie durch Warren Buffett geprägt • Je breiter und tiefer der Graben, desto nachhaltiger der Erfolg des Unternehmens • Wettbewerbsvorteile ..."
-        },
-        {
-          "title": "Finanzielle Resilienz aufbauen - wie das Vermögen von Privatpersonen in Krisenzeiten stabil bleibt",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/krisenfest-finanzielle-resilienz-aufbauen-wie-das-vermoegen-von-privatpersonen-in-krisenzeiten-stabil-bleibt-14531868",
-          "published": "2026-09-19T19:37:00+00:00",
-          "summary": "Klarheit schaffen Wer seine Finanzen im Griff haben will, braucht Überblick. Denn nur, wer weiß, wo das Geld bleibt, kann entscheiden, wo es sinnvoller eingesetzt werden könnte. Einnahmen, Ausgaben …"
-        },
-        {
           "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
           "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
-          "published": "2026-09-19T19:35:00+00:00",
+          "published": "2026-09-19T21:50:00+00:00",
           "summary": "RBC bestätigt ein S&P 500 Kursziel von 8.150 Punkten für zwölf Monate Ed Yardeni hebt sein Jahresendziel zum dritten Mal 2026 auf 8.400 Punkte VIX unter 15 und steigende Anleiherenditen nähren Sorgen …"
         },
         {
-          "title": "Krypto-Boom: Volksbanken öffnen sich für Bitcoin und Ether",
-          "link": "https://www.finanzen.net/nachricht/devisen/krypto-offensive-krypto-boom-volksbanken-oeffnen-sich-fuer-bitcoin-und-ether-15942666",
-          "published": "2026-09-19T19:18:00+00:00",
-          "summary": "Die ersten 6 Prozent der genossenschaftlichen Institute sind nach eigenen Angaben am Markt, weitere 26 Prozent wollen in spätestens fünf Monaten eine Lösung für den Kryptohandel mit Bitcoin und ..."
+          "title": "NVIDIA-Aktie: Börsenstar stand einst vor dem Ruin - Warum diese Kapitalbeteiligung die Rettung bedeutete",
+          "link": "https://www.finanzen.net/nachricht/aktien/rettungsaktion-nvidia-aktie-boersenstar-stand-einst-vor-dem-ruin-warum-diese-kapitalbeteiligung-die-rettung-bedeutete-00-15937187",
+          "published": "2026-09-19T21:46:00+00:00",
+          "summary": "Ex-Sega-Chef erzählt, wie er einst alles auf Jensen Huang setzte Finanzspritze aus Japan bewahrte NVIDIA vor dem drohenden Aus Aus der Rettungsaktion wuchs eine Partnerschaft, die bis heute weiterlebt"
+        },
+        {
+          "title": "S&P 500 vor Belastungsprobe: Trumps Kurs bringt die Fed in Bedrängnis – und bedroht die Börsenrally",
+          "link": "https://www.finanzen.net/nachricht/aktien/bewertungsalarm-s-p-500-vor-belastungsprobe-trumps-kurs-bringt-die-fed-in-bedraengnis-und-bedroht-die-boersenrally-00-15929877",
+          "published": "2026-09-19T21:41:00+00:00",
+          "summary": "CAPE-Kennzahl des S&P 500 liegt nahe Rekordhoch von 1999 US- Inflation steigt im Juli auf 3,4 Prozent, Fed-Zinssenkung wird schwerer Zehnjahresrendite ..."
+        },
+        {
+          "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
+          "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
+          "published": "2026-09-19T21:25:00+00:00",
+          "summary": "Evercore sieht acht US-Blue Chips als Kandidaten für vorgezogene Verkäufe Tesla, Trade Desk und DraftKings zeigen die stärksten Gewinnrevisionen Der SpaceX-Börsengang im Juni gilt als Blaupause für …"
+        },
+        {
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-19T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
         }
       ],
       "error": null
