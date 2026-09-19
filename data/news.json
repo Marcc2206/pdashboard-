@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:08:29+00:00",
+  "generatedAt": "2026-09-19T18:09:38+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Duma-Wahl: Warum Snegowskij keine Chance gegen Tolstoj hat",
+          "link": "https://www.tagesschau.de/ausland/europa/russland-direktkandidat-jabloko-100.html",
+          "published": "2026-09-19T18:03:33+00:00",
+          "summary": "Seine Jabloko-Partei ist von der Duma-Wahl ausgeschlossen. Aber als Direktkandidat darf Artjom Snegowskij in Moskau antreten. Hat er eine Chance? Sein Gegenkandidat ist der Vizepräsident der Duma …"
+        },
+        {
+          "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
+          "published": "2026-09-19T17:58:34+00:00",
+          "summary": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651858.html",
+          "published": "2026-09-19T17:36:40+00:00",
+          "summary": ""
+        },
+        {
           "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
           "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-19T16:07:34+00:00",
+          "published": "2026-09-19T16:14:15+00:00",
           "summary": "Sonntag ist es im Süden zum Teil sonnig, in der Mitte fällt gebietsweise Regen und im Norden gibts bei Sonne und Wolken Schauer sowie einzelne Gewitter. In der Nordhälfte sehr windig. 16 bis 28 Grad."
         },
         {
-          "title": "Wieder vier Gegentore - Gladbach verliert auch unter Lichte",
+          "title": "Gladbach verliert auch unter Lichte gegen Mainz",
           "link": "https://www.sportschau.de/fussball/bundesliga/wieder-vier-gegentore-gladbach-verliert-auch-unter-lichte,spielbericht-borussia-moenchengladbach-mainz-05-100.html",
           "published": "2026-09-19T16:04:13+00:00",
-          "summary": "Borussia Mönchengladbach hat in der Bundesliga auch unter Interimstrainer Jan-Moritz Lichte eine Niederlage kassiert. Gegen Mainz war erneut die Abwehr schwach."
-        },
-        {
-          "title": "Eintracht Frankfurt gegen SC Freiburg: Kein Sieger im Duell der Neu-Nationalspieler",
-          "link": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-im-duell-der-neu-nationalspieler,spielbericht-eintracht-frankfurt-sc-freiburg-114.html",
-          "published": "2026-09-19T16:03:15+00:00",
-          "summary": "Gleich sechs neue Nationalspieler standen sich im Duell Eintracht Frankfurt gegen den SC Freiburg gegenüber. Einen Sieger in dieser Partie gab es nicht."
-        },
-        {
-          "title": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
-          "published": "2026-09-19T15:53:33+00:00",
-          "summary": "US-Präsident Trump hatte angekündigt, CNN, MS NOW und Politico aus dem Weißen Haus zu verbannen. Und tatsächlich: Die Reporter wurden heute abgewiesen, ihre Presseausweise deaktiviert."
-        },
-        {
-          "title": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
-          "published": "2026-09-19T15:46:45+00:00",
-          "summary": "Gesundheitsminister Linnemann will das Aus der Informationspflicht für gesetzliche Krankenkassen über Beitragserhöhungen wieder rückgängig machen. Vor allem Verbraucherschützer hatten die Abschaffung …"
+          "summary": "Borussia Mönchengladbach hat in der Fußball-Bundesliga auch unter Interimstrainer Jan-Moritz Lichte eine Niederlage kassiert. Gegen den 1. FSV Mainz 05 war erneut die Abwehr schwach."
         }
       ],
       "error": null
@@ -49,32 +49,32 @@
         {
           "title": "Pressefreiheit in den USA: Weißes Haus verweigert CNN, „Politico“ und MS NOW den Zugang",
           "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-weisses-haus-verweigert-cnn-politico-und-ms-now-den-zugang/100255753.html",
-          "published": "2026-09-19T15:35:26+00:00",
-          "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es wenige Wochen vor den wichtigen Parlamentswahlen CNN und andere. Sie sind nicht die Ersten."
+          "published": "2026-09-19T17:48:41+00:00",
+          "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es wenige Wochen vor den wichtigen Parlamentswahlen CNN und andere. Doch es formiert sich Protest."
+        },
+        {
+          "title": "+++ Iran-Krieg +++: Südkorea sagt USA Unterstützung bei Sicherung der Straße von Hormus zu",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-suedkorea-sagt-usa-unterstuetzung-bei-sicherung-der-strasse-von-hormus-zu/100136895.html",
+          "published": "2026-09-19T17:10:19+00:00",
+          "summary": "Iran übermittelt USA Bedingungen für Kriegsende +++ Italien geleitet Handelsschiff mit Fregatte durch Meerenge ins Rote Meer +++ Der Newsblog."
         },
         {
           "title": "Deutschland in der Nato: Deutscher General wird Chef von Nato-Militärausschuss",
           "link": "https://www.handelsblatt.com/politik/international/deutschland-in-der-nato-deutscher-general-wird-chef-von-nato-militaerausschuss/100255846.html",
-          "published": "2026-09-19T15:29:00+00:00",
+          "published": "2026-09-19T17:08:53+00:00",
           "summary": "Die Nato steht vor entscheidenden Weichenstellungen. Nach mehr als 20 Jahren übernimmt wieder ein Deutscher die Aufgabe als wichtigster militärischer Berater des Generalsekretärs."
+        },
+        {
+          "title": "Analyse: Trump beendet die Grönland-Krise vorerst - aber ein Problem bleibt",
+          "link": "https://www.handelsblatt.com/politik/international/analyse-ein-problem-bleibt-nach-der-einigung-zwischen-groenland-und-usa/100255831.html",
+          "published": "2026-09-19T16:46:03+00:00",
+          "summary": "US-Präsident Trump und seine Unterstützer bezeichnen die Vereinbarung mit Dänemark als „historischen Sieg“. Experten begrüßen den Fortschritt, zweifeln jedoch an dieser Darstellung."
         },
         {
           "title": "Verteidigung: General Carsten Breuer übernimmt Vorsitz des Nato-Militärausschusses",
           "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-general-carsten-breuer-uebernimmt-vorsitz-des-nato-militaerausschusses/100255568.html",
-          "published": "2026-09-19T15:23:35+00:00",
+          "published": "2026-09-19T16:26:12+00:00",
           "summary": "Das Gremium wählte den ranghöchsten Bundeswehroffizier zum Nachfolger des italienischen Admirals Cavo Dragone. Ist der Deutsche der richtige Stratege für die Kriegführung von morgen?"
-        },
-        {
-          "title": "Konflikte: Frankreichs Le Pen geht auf Abstand zu Russland",
-          "link": "https://www.handelsblatt.com/politik/international/konflikte-frankreichs-le-pen-geht-auf-abstand-zu-russland/100255839.html",
-          "published": "2026-09-19T13:54:36+00:00",
-          "summary": "Der französischen Rechtsnationalen wurde immer wieder Russlandnähe nachgesagt. Nun findet die Präsidentschaftskandidatin klare Worte und wirft dem Kreml Destabilisierung und Provokation in Europa vor."
-        },
-        {
-          "title": "Einigung auf Paket: Entlastung bei Spritpreisen - wie geht es jetzt weiter?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/einigung-auf-paket-entlastung-bei-spritpreisen-wie-geht-es-jetzt-weiter/100255825.html",
-          "published": "2026-09-19T13:37:29+00:00",
-          "summary": "Tankrabatt und Spritpreisdeckel: Wie schnell kommen die Entlastungen für Autofahrer und Unternehmen? Und wer profitiert am stärksten?"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "In eigener Sache: So legst du finanzen.net als bevorzugte Quelle bei Google fest",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-in-eigener-sache-so-legst-du-finanzen-net-als-bevorzugte-quelle-bei-google-fest-15688821",
-          "published": "2026-09-19T16:02:00+00:00",
-          "summary": "Bei Suchanfragen zu Finanz- und Wirtschaftsthemen blendet Google zunehmend redaktionelle Inhalte wie Nachrichten direkt in die Suchergebnisse ein. Was viele Nutzer nicht wissen: Mit zwei kleinen …"
-        },
-        {
           "title": "So managst du dein (Aktien-)Risiko",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
-          "published": "2026-09-19T16:00:00+00:00",
+          "published": "2026-09-19T18:00:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "Preiskampf bei Welt-ETFs: Wer ist der wahre Volks-ETF?",
-          "link": "https://www.finanzen.net/nachricht/aktien/preiskampf-bei-welt-etfs-wer-ist-der-wahre-volks-etf-15942878",
-          "published": "2026-09-19T15:49:08+00:00",
-          "summary": ""
+          "title": "KW 38 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-38-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15922348",
+          "published": "2026-09-19T17:47:00+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 38"
         },
         {
-          "title": "Brokerwechsel: So sparen Anleger mehr als 130 Euro im Jahr",
-          "link": "https://www.finanzen.net/nachricht/aktien/brokerwechsel-so-sparen-anleger-mehr-als-130-euro-im-jahr-15942875",
-          "published": "2026-09-19T15:43:02+00:00",
-          "summary": ""
+          "title": "Wie viel Verlust bei einem Investment in Toncoin von vor 1 Jahr angefallen wäre",
+          "link": "https://www.finanzen.net/nachricht/devisen/wie-viel-verlust-bei-einem-investment-in-toncoin-von-vor-1-jahr-angefallen-waere-15942899",
+          "published": "2026-09-19T17:43:04+00:00",
+          "summary": "Am 18.09.2025 notierte Toncoin bei 3,160 USD. Bei einer Investition in Höhe von 10.000 USD zu diesem Zeitpunkt, befänden sich nun 3.164,39 TON im Portfolio. Da sich der Wert von Toncoin am 18.09.2026 …"
         },
         {
-          "title": "NVIDIA-Aktie: Börsenstar stand einst vor dem Ruin - Warum diese Kapitalbeteiligung die Rettung bedeutete",
-          "link": "https://www.finanzen.net/nachricht/aktien/rettungsaktion-nvidia-aktie-boersenstar-stand-einst-vor-dem-ruin-warum-diese-kapitalbeteiligung-die-rettung-bedeutete-00-15937187",
-          "published": "2026-09-19T15:33:00+00:00",
-          "summary": "Ex-Sega-Chef erzählt, wie er einst alles auf Jensen Huang setzte Finanzspritze aus Japan bewahrte NVIDIA vor dem drohenden Aus Aus der Rettungsaktion wuchs eine Partnerschaft, die bis heute weiterlebt"
+          "title": "Wie viel Wert mit einem Hedera-Investment von vor 1 Jahr verloren gegangen wäre",
+          "link": "https://www.finanzen.net/nachricht/devisen/wie-viel-wert-mit-einem-hedera-investment-von-vor-1-jahr-verloren-gegangen-waere-15942898",
+          "published": "2026-09-19T17:43:04+00:00",
+          "summary": "Am 18.09.2025 lag der Kurs von Hedera bei 0,2466 USD. Bei einem Investment von 100 USD in HBAR zu diesem Zeitpunkt, wäre ein Anleger nun im Besitz von 405,52 Hedera. Da sich der Wert von Hedera ..."
+        },
+        {
+          "title": "Aktien von VW und Porsche knicken ein: Volkswagen senkt Gewinnprognose deutlich",
+          "link": "https://www.finanzen.net/nachricht/aktien/konzernumbau-co-aktien-von-vw-und-porsche-knicken-ein-volkswagen-senkt-gewinnprognose-deutlich-15942141",
+          "published": "2026-09-19T17:38:00+00:00",
+          "summary": "Der Autobauer rechnet nun damit, dass vom Umsatz höchstens ein Prozent als operativer Gewinn übrig bleibt. Bisher hatte der Konzern eine Spanne von 4,0 bis 5,5 Prozent erwartet. Im vergangenen Jahr …"
         }
       ],
       "error": null
