@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T14:08:33+00:00",
+  "generatedAt": "2026-09-20T16:08:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Wahlbeteiligung voraussichtlich höher als 2021 ++",
+          "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: AfD laut ARD-Prognose stärkste Kraft ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-          "published": "2026-09-20T14:01:21+00:00",
-          "summary": "In Mecklenburg-Vorpommern zeichnet sich eine hohe Wahlbeteiligung ab: Bis 14 Uhr sind mehr Menschen zur Wahlurne gegangen als bei der vorherigen Landtagswahl. Auch mehrere Spitzenkandidaten waren …"
+          "published": "2026-09-20T16:06:50+00:00",
+          "summary": "Für die CDU scheint die Wahl in Mecklenburg-Vorpommern zu einer historischen Niederlage zu werden. Die Partei holt laut ARD-Prognose nur etwas mehr als fünf Prozent. Auch Grüne und BSW liegen nur …"
         },
         {
-          "title": "++ Liveticker zur Berlin-Wahl: Hohe Wahlbeteiligung zeichnet sich ab ++",
+          "title": "++ Liveticker zur Berlin-Wahl: AfD erreicht wohl bisher bestes Ergebnis ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-          "published": "2026-09-20T14:00:23+00:00",
-          "summary": "In Berlin zeichnet sich eine hohe Wahlbeteiligung ab: Bis mittags wählten 27,9 Prozent- das sind fast fünf Prozentpunkte mehr als 2023. Nach und nach geben immer mehr Spitzenkandidaten und …"
+          "published": "2026-09-20T16:06:36+00:00",
+          "summary": "Die AfD erreicht laut ARD-Prognose 16 Prozent und damit ihr bisher bestes Ergebnis bei einer Abgeordnetenhauswahl. Im Vergleich zur vergangenen Wahl zeichnet sich eine höhere Beteiligung ab."
         },
         {
-          "title": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
-          "published": "2026-09-20T13:46:29+00:00",
-          "summary": "In Berlin steht für die CDU das Rote Rathaus auf dem Spiel, in Mecklenburg-Vorpommern droht den Christdemokraten ein einstelliges Ergebnis. Welche Folgen hätte das für Kanzler Merz?"
+          "title": "ARD-Prognose für Mecklenburg-Vorpommern: AfD liegt knapp vor SPD, CDU stürzt ab",
+          "link": "https://www.tagesschau.de/inland/landtagswahlen/mecklenburg-vorpommern/mecklenburg-vorpommern-landtagswahl-ergebnis-100.html",
+          "published": "2026-09-20T16:00:17+00:00",
+          "summary": "Enges Rennen in Mecklenburg-Vorpommern: Laut ARD-Prognose liegt die AfD knapp vor der regierenden SPD. Die CDU stürzt ab und liegt nur knapp über der 5-Prozent-Marke. Die Grünen knapp darüber. Das …"
         },
         {
-          "title": "Katze aus Gras, Taifun in Japan, Lucas Museum of Narrative Art",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10456.html",
-          "published": "2026-09-20T13:46:29+00:00",
+          "title": "ARD-Prognose zur Berlin-Wahl: Linke klar vorne, CDU, AfD und Grüne dahinter",
+          "link": "https://www.tagesschau.de/inland/landtagswahlen/berlin/2026/wahlergebnis-berlin-abgeordnetenhaus-100.html",
+          "published": "2026-09-20T16:00:05+00:00",
+          "summary": "Bei der Abgeordnetenhauswahl in Berlin zeichnet sich erstmals ein Sieg der Linken ab: Laut ARD-Prognose kommt sie auf 24,5 Prozent. Dahinter folgen CDU, AfD und Grüne. Linken-Spitzenkandidatin Eralp …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-80970.html",
+          "published": "2026-09-20T15:41:41+00:00",
           "summary": ""
-        },
-        {
-          "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
-          "link": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html",
-          "published": "2026-09-20T13:02:26+00:00",
-          "summary": "Italien fürchtet massive wirtschaftliche Schäden aufgrund der jüngsten Entwicklungen in der Meerenge Bab al-Mandab. Das Land fordert Unterstützung von der EU - nachdem es kürzlich noch einen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Märkte Insight: Der Dax hat seinen Spielraum für Verluste fast ausgereizt – bald könnte es ungemütlich werden",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktienmarkt-der-dax-steht-an-einem-wichtigen-wendepunkt/100255089.html",
-          "published": "2026-09-20T13:58:24+00:00",
-          "summary": "Am Freitag wurden am deutschen Aktienmarkt die kompletten Gewinne der Woche egalisiert. Handelsblatt-Redakteur Andreas Neuhaus erklärt, welche Marken jetzt wichtig sind."
+          "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: Hohe Beteiligung bei Landtagswahlen zeichnet sich ab",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-hohe-beteiligung-bei-landtagswahlen-zeichnet-sich-ab/100252039.html",
+          "published": "2026-09-20T15:47:00+00:00",
+          "summary": "Spürbar höhere Wahlbeteiligung in Berlin +++ CDU-Chef Merz will wohl kurz nach 18 Uhr Erklärung abgeben +++ Wahlpanne in Rostock – Bürger stimmen zeitweise in Bus ab +++ Der Newsblog."
         },
         {
-          "title": "Autoindustrie: Zellmer folgt auf Samuelsson – Skoda-Chef soll bei Volvo übernehmen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/volvo-skoda-chef-zellmer-soll-samuelsson-an-der-konzernspitze-abloesen/100255939.html",
-          "published": "2026-09-20T13:53:42+00:00",
-          "summary": "Der schwedische Autobauer holt Klaus Zellmer von Skoda. Der Manager muss Volvo durch einen weitreichenden Umbau führen. Dreizehn neue Modelle sollen auf den Markt kommen."
+          "title": "CDU: Merz will sich um kurz nach 18.00 Uhr zum Wahlausgang äußern",
+          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-merz-will-sich-um-kurz-nach-1800-uhr-zum-wahlausgang-aeussern/100255881.html",
+          "published": "2026-09-20T15:36:24+00:00",
+          "summary": "Schicksalstag für den Kanzler: Bekommt der CDU-Chef nach den Wahlen in Mecklenburg-Vorpommern und Berlin die Rückendeckung der eigenen Parteispitze? Merz will rasch Stellung nehmen."
         },
         {
-          "title": "Familienunternehmen: Ulrich Grillo: „Merz muss jetzt durchregieren, auch wenn Nachfolger die Lorbeeren einheimsen“",
-          "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/familienunternehmen-richtige-reformen-sind-teilweise-auch-gegen-die-buerger/100252631.html",
-          "published": "2026-09-20T13:33:23+00:00",
-          "summary": "Der frühere BDI-Präsident Ulrich Grillo hat die Grillo-Werke durch eine schwierige Sanierung geführt. Im Interview warnt er vor der AfD und mahnt Merz, bei seinen Reformen Kurs zu halten."
+          "title": "+++ Bundespolitik +++: Unions-Wirtschaftsflügel fordert Umsetzung der Reformen bis zum Winter",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-unions-wirtschaftsfluegel-fordert-umsetzung-der-reformen-bis-zum-winter/100137034.html",
+          "published": "2026-09-20T15:16:41+00:00",
+          "summary": "Laschet: Ein Kanzlerwechsel wäre extrem schädlich +++ Breuer wird Vorsitzender des Nato-Militärausschusses +++ Regierung: Trotz Merz-Absage bestmöglich bei UN vertreten +++ Der Newsblog."
         },
         {
-          "title": "Italien: Meloni plant Ausländerquote und Schleierverbot in Schulen",
-          "link": "https://www.handelsblatt.com/politik/international/italien-meloni-plant-auslaenderquote-und-schleierverbot-in-schulen/100255946.html",
-          "published": "2026-09-20T13:28:01+00:00",
-          "summary": "Die italienische Ministerpräsidentin will Burkas und Nikabs in Schulen verbieten – und die Zahl ausländischer Schüler pro Klasse begrenzen. Dem Kabinett werde sie dazu eine Maßnahme vorlegen."
+          "title": "+++ Iran-Krieg +++: CIA-Chef trifft ägyptischen Präsidenten",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-cia-chef-trifft-aegyptischen-praesidenten/100136895.html",
+          "published": "2026-09-20T15:05:19+00:00",
+          "summary": "Iran droht mit Vergeltungsschlägen gegen USA und Partner +++ Huthi-Miliz reklamiert Angriffe in Saudi-Arabien +++ Ägypten, Jordanien und Kuwait verurteilen Angriff auf Riad +++ Der Newsblog."
         },
         {
-          "title": "Ukraine-Krieg: Ukrainische Drohnen attackieren Moskau am Wahltag",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-ukrainische-drohnen-attackieren-moskau-am-wahltag/100255922.html",
-          "published": "2026-09-20T13:14:30+00:00",
-          "summary": "180 Fluggeräte sollen abgefangen worden sein, zwei Menschen starben. Auch eine Ölraffinerie wurde getroffen. Moskaus Bürgermeister sprach von einem Versuch, die Abstimmung zu stören."
+          "title": "+++ Ukraine-Krieg +++: Moskauer Bürgermeister – Beispielloser Angriff am Wahltag",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-20T14:55:00+00:00",
+          "summary": "Russische Opposition im Exil protestiert gegen Duma-Wahl und Krieg +++ Ukrainische Drohnen attackieren Moskau am Wahltag +++ Russische Wirtschaft gerät zunehmend in Schieflage +++ Der Newsblog."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Geld, das Regierung nicht hat\": DIW-Chef Fratzscher hält Tankrabatt für zu teuer und sozial ungerecht",
+          "link": "https://www.n-tv.de/wirtschaft/DIW-Chef-Fratzscher-haelt-Tankrabatt-fuer-zu-teuer-und-sozial-ungerecht-id31326964.html",
+          "published": "2026-09-20T15:26:10+00:00",
+          "summary": "Der Tankrabatt kommt wieder, die Bundesregierung wird die Autofahrer erneut mit einer Milliardensumme entlasten. Umweltverbände protestieren, doch auch die soziale Komponente des Instruments steht in …"
+        },
         {
           "title": "Chinesischer Algorithmus-Schock: Wie Tiktok die sozialen Medien aufmischte",
           "link": "https://www.n-tv.de/wirtschaft/Wie-Tiktok-die-sozialen-Medien-aufmischte-id31312295.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Chinas-Lkw-Hersteller-nehmen-Europa-ins-Visier-id31321412.html",
           "published": "2026-09-20T07:53:57+00:00",
           "summary": "Chinesische Hersteller drängen mit günstigen Elektro-Lkw auf den europäischen Markt. Erste Spediteure testen die Fahrzeuge bereits - und stellen Daimler Truck, MAN & Co. vor eine unangenehme Frage …"
-        },
-        {
-          "title": "Öl-Poker in Caracas: Trumps Hoffnungsträger in Venezuela ist ein Krypto-Milliardär",
-          "link": "https://www.n-tv.de/wirtschaft/Trumps-Hoffnungstraeger-in-Venezuela-ist-ein-Krypto-Milliardaer-id31321964.html",
-          "published": "2026-09-20T07:27:13+00:00",
-          "summary": "Coinbase-Mitbegründer Ehrsam weitet seine Aktivitäten auf das Ölgeschäft in Venezuela aus. Als politisch gut vernetzter Investor will er in Caracas die marode Industrie neu beleben. Doch politische …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 38",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-38-15922354",
-          "published": "2026-09-20T14:05:00+00:00",
-          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 38"
+          "title": "Frederiksen: Keine Details vor Unterzeichnung von Grönland-Abkommen",
+          "link": "https://www.finanzen.net/nachricht/aktien/frederiksen-keine-details-vor-unterzeichnung-von-groenland-abkommen-15943263",
+          "published": "2026-09-20T16:02:39+00:00",
+          "summary": "NUUK/KOPENHAGEN/WASHINGTON (dpa-AFX) - Die dänische Regierungschefin Mette Frederiksen hält sich nach dem verkündeten Durchbruch im Streit um Grönland weiter mit Details zu dem Abkommen mit den USA …"
         },
         {
-          "title": "So managst du dein (Aktien-)Risiko",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
-          "published": "2026-09-20T14:00:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Israels Militär tötet erneut Hamas-Mitglieder in Gaza",
+          "link": "https://www.finanzen.net/nachricht/aktien/israels-militaer-toetet-erneut-hamas-mitglieder-in-gaza-15943262",
+          "published": "2026-09-20T16:02:38+00:00",
+          "summary": "TEL AVIV/GAZA (dpa-AFX) - Israels Streitkräfte haben eigenen Angaben zufolge erneut Mitglieder der Hamas im Gazastreifen getötet. Darunter seien zwei Terroristen, die mutmaßlich am Massaker am 7. …"
         },
         {
-          "title": "Geheimtipp für Wachstumsaktien: Das sagt die Net Retention Rate über ein Unternehmen aus",
-          "link": "https://www.finanzen.net/nachricht/aktien/statt-kgv-geheimtipp-fuer-wachstumsaktien-das-sagt-die-net-retention-rate-ueber-ein-unternehmen-aus-12208967",
-          "published": "2026-09-20T13:46:00+00:00",
-          "summary": "Net Retention Rate gibt Aufschluss über Wachstum • Konjunkturelle Einordnung möglich • Richtige Interpretation wichtig Kurs-Gewinn-Verhältnis und Kurs-Umsatz-Verhältnis Viele Anleger schwören bei der …"
+          "title": "Neue Impulse für NVIDIA-Aktie und Co.? Trump plant „AI Force“ - KI-Vorsprung der USA soll gesichert werden",
+          "link": "https://www.finanzen.net/nachricht/aktien/trotz-sicherheitsbedenken-neue-impulse-fuer-nvidia-aktie-und-co-trump-plant-ai-force-ki-vorsprung-der-usa-soll-gesichert-werden-15943055",
+          "published": "2026-09-20T16:02:00+00:00",
+          "summary": "\"Wir werden das Wachstum dieser unglaublichen Industrie in keinster Weise behindern oder abwürgen\", schrieb Trump auf seiner Online-Plattform Truth Social. Er verwies erneut darauf, dass die USA bei …"
         },
         {
-          "title": "Multiorder beim Online-Broker: Mit einem Trade in mehrere Aktien gleichzeitig investieren",
-          "link": "https://www.finanzen.net/nachricht/aktien/multiorder-beim-online-broker-mit-einem-trade-in-mehrere-aktien-gleichzeitig-investieren-15943227",
-          "published": "2026-09-20T13:40:24+00:00",
-          "summary": ""
+          "title": "Regierungstruppen im Jemen erobern Gebiete von Huthi zurück",
+          "link": "https://www.finanzen.net/nachricht/aktien/regierungstruppen-im-jemen-erobern-gebiete-von-huthi-zurueck-15943261",
+          "published": "2026-09-20T16:01:38+00:00",
+          "summary": "ADEN (dpa-AFX) - Im Jemen gehen die schweren Kämpfe zwischen der Huthi-Miliz und Truppen der international anerkannten Regierung weiter. Diese eroberten im Westen der Provinz Tais mehrere Gebiete von …"
         },
         {
-          "title": "ROUNDUP 2/Analyse: Deutsche Autobauer verlieren weiter an Boden",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-analyse-deutsche-autobauer-verlieren-weiter-an-boden-15943225",
-          "published": "2026-09-20T13:34:39+00:00",
-          "summary": "(Neu: weitere Details)STUTTGART (dpa-AFX) - Die drei deutschen Autobauer verlieren im Vergleich zur internationalen Konkurrenz weiter an Boden. In der ersten Jahreshälfte sanken die Umsätze von …"
+          "title": "Wahlbeteiligung in Berlin höher als bei vorheriger Wahl",
+          "link": "https://www.finanzen.net/nachricht/aktien/wahlbeteiligung-in-berlin-hoeher-als-bei-vorheriger-wahl-15943260",
+          "published": "2026-09-20T16:00:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Bei der Abgeordnetenhauswahl in Berlin zeichnet sich eine höhere Wahlbeteiligung ab als bei der vorherigen Wahl. Bis 16.00 Uhr gaben 58,2 Prozent der Wahlberechtigten ihre Stimme …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Berlin-Wahl 2026: Berliner können seit acht Uhr ihre Stimme abgeben",
+          "link": "https://www.wiwo.de/politik/deutschland/wahl-berlin-2026-im-liveticker-das-muessen-sie-wissen/100255680.html",
+          "published": "2026-09-20T15:50:00+00:00",
+          "summary": "Sowohl die Linke als auch die CDU machen sich in Berlin Hoffnungen aufs Rote Rathaus. Alle Ereignisse im Liveticker."
+        },
+        {
+          "title": "Mein Wendepunkt: „Die Idee existierte nur auf dem Papier, ich kannte meine Mitgründer kaum“",
+          "link": "https://www.wiwo.de/erfolg/management/mein-wendepunkt-die-idee-existierte-nur-auf-dem-papier-ich-kannte-meine-mitgruender-kaum/100255257.html",
+          "published": "2026-09-20T14:59:04+00:00",
+          "summary": "Bei einer Tasse Kaffee entschließt sich Michiel Muller, Picnic zu gründen – mit einem Mann, den er kaum kennt. Erst acht Jahre später realisiert er, dass es die richtige Entscheidung war."
+        },
+        {
+          "title": "Erbschaft & Schenkung: Melden Banken eine Geldübertragung in der Familie ans Finanzamt?",
+          "link": "https://www.wiwo.de/finanzen/steuern-recht/erbschaft-und-schenkung-melden-banken-eine-gelduebertragung-in-der-familie-ans-finanzamt-/28412516.html",
+          "published": "2026-09-20T14:58:00+00:00",
+          "summary": "Unser Leser möchte wissen, ob Banken den Übertrag von Geld oder auch Depotwerten in der Familie dem Finanzamt melden und welche Folgen dies hat."
+        },
+        {
+          "title": "Hohe Neuverschuldung: Wofür verschuldet sich Deutschland?",
+          "link": "https://www.wiwo.de/politik/deutschland/hohe-neuverschuldung-wofuer-verschuldet-sich-deutschland/100251741.html",
+          "published": "2026-09-20T14:25:30+00:00",
+          "summary": "Michael Hüther will neue Schulden nutzen – auch für Europas Aufstieg. Lars Feld hält dagegen: Ohne gemeinsamen Staat werden Euro-Bonds zum unkalkulierbaren Risiko. Ein Streitgespräch."
+        },
+        {
           "title": "Autobauer: Skoda-Chef Zellmer soll Volvo leiten",
           "link": "https://www.wiwo.de/unternehmen/auto/volvo-skoda-chef-zellmer-soll-schwedischen-autobauer-leiten/100255950.html",
           "published": "2026-09-20T14:00:29+00:00",
           "summary": "Klaus Zellmer soll spätestens im Oktober 2027 Chef von Volvo werden. Auf den neuen CEO wartet eine große Aufgabe: den Autobauer auf Kurs zu bringen."
-        },
-        {
-          "title": "VW, Mercedes, BMW: Deutsche Autobauer verlieren weiter an Boden",
-          "link": "https://www.wiwo.de/unternehmen/auto/minus-bei-umsatz-und-gewinn-analyse-deutsche-autobauer-verlieren-weiter-an-boden/100255887.html",
-          "published": "2026-09-20T13:57:00+00:00",
-          "summary": "Während in der Autoindustrie Zehntausende Stellen wegfallen, wächst der Unmut: Die IG Metall will am Montag an mehr als 200 Orten protestieren."
-        },
-        {
-          "title": "Berlin Wahlen 2026: Kopf-an-Kopf-Rennen zwischen Linke und SPD laut aktueller Umfrage",
-          "link": "https://www.wiwo.de/politik/deutschland/berlin-wahlen-2026-aktuelle-umfrage-moegliche-koalitionen-co./100255930.html",
-          "published": "2026-09-20T13:48:02+00:00",
-          "summary": "Berlin wählt am heutigen Sonntag einen neuen Landtag. Aktuelle Umfrageergebnisse und mögliche Koalitionen im Überblick."
-        },
-        {
-          "title": "Wahl Mecklenburg-Vorpommern 2026: Schwesig gegen die AfD – Wahllokale geöffnet",
-          "link": "https://www.wiwo.de/politik/deutschland/wahl-mecklenburg-vorpommern-2026-aktuelle-news-im-liveticker/100255684.html",
-          "published": "2026-09-20T13:40:00+00:00",
-          "summary": "Mecklenburg-Vorpommern wählt einen neuen Landtag. Wir begleiten die Wahl in unserem Liveticker."
-        },
-        {
-          "title": "Authentizität als Markenkern: Von Licht und Schatten einer Lovebrand",
-          "link": "https://www.wiwo.de/unternehmen/handel/authentizitaet-als-markenkern-von-licht-und-schatten-einer-lovebrand/100255746.html",
-          "published": "2026-09-20T13:01:40+00:00",
-          "summary": "Wenn eine Marke zur Lovebrand wird, hat das auch eine Kehrseite. Denn auf enttäuschte Liebe können negative Emotionen folgen. Eine Kolumne."
         }
       ],
       "error": null
