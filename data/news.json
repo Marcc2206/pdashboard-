@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:08:55+00:00",
+  "generatedAt": "2026-09-20T18:09:56+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: AfD laut ARD-Prognose stärkste Kraft ++",
+          "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: CDU muss immer stärker zittern ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-          "published": "2026-09-20T16:06:50+00:00",
-          "summary": "Für die CDU scheint die Wahl in Mecklenburg-Vorpommern zu einer historischen Niederlage zu werden. Die Partei holt laut ARD-Prognose nur etwas mehr als fünf Prozent. Auch Grüne und BSW liegen nur …"
+          "published": "2026-09-20T18:08:42+00:00",
+          "summary": "Die CDU muss fürchten, dass sie in Zukunft nicht mehr im Landtag in Schwerin vertreten sein könnte. Mit weiteren Verlusten würde die Partei unter die Hürde von fünf Prozent rutschen. Das BSW verpasst …"
         },
         {
-          "title": "++ Liveticker zur Berlin-Wahl: AfD erreicht wohl bisher bestes Ergebnis ++",
+          "title": "Fußball-Bundesliga: Schalke 04 und SV Elversberg mit Remis im Aufsteigerduell",
+          "link": "https://www.sportschau.de/fussball/bundesliga/schalke-und-elversberg-neutralisieren-sich,spielbericht-schalke-04-sv-elversberg-100.html",
+          "published": "2026-09-20T18:07:32+00:00",
+          "summary": "Das Aufsteigerduell zwischen Schalke und Elversberg bietet defensiv anspruchsvollen Fußball und viel Kampf. Kurz vor Schluss hätten beide auch noch treffen können. Doch die Partie endet unentschieden."
+        },
+        {
+          "title": "++ Liveticker zur Berlin-Wahl: Klingbeil kündigt Kurskorrektur an ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-          "published": "2026-09-20T16:06:36+00:00",
-          "summary": "Die AfD erreicht laut ARD-Prognose 16 Prozent und damit ihr bisher bestes Ergebnis bei einer Abgeordnetenhauswahl. Im Vergleich zur vergangenen Wahl zeichnet sich eine höhere Beteiligung ab."
+          "published": "2026-09-20T18:06:15+00:00",
+          "summary": "SPD-Chef und Vizekanzler Klingbeil will das Regierungshandeln auf den Prüfstand stellen. Die Grünen streben nach der Wahl zum Berliner Abgeordnetenhaus eine rot-grün-rote Koalition an."
         },
         {
-          "title": "ARD-Prognose für Mecklenburg-Vorpommern: AfD liegt knapp vor SPD, CDU stürzt ab",
+          "title": "Hochrechnung für Mecklenburg-Vorpommern: AfD leicht vor SPD, CDU bangt um Einzug ins Parlament",
           "link": "https://www.tagesschau.de/inland/landtagswahlen/mecklenburg-vorpommern/mecklenburg-vorpommern-landtagswahl-ergebnis-100.html",
-          "published": "2026-09-20T16:00:17+00:00",
-          "summary": "Enges Rennen in Mecklenburg-Vorpommern: Laut ARD-Prognose liegt die AfD knapp vor der regierenden SPD. Die CDU stürzt ab und liegt nur knapp über der 5-Prozent-Marke. Die Grünen knapp darüber. Das …"
+          "published": "2026-09-20T18:02:13+00:00",
+          "summary": "Die AfD liegt bei der Wahl in Mecklenburg-Vorpommern vorne - die regierende SPD ist knapp dahinter. Dramatisch ist die Situation für die CDU, die aus dem Landtag fliegen könnte. Die Grünen schaffen …"
         },
         {
-          "title": "ARD-Prognose zur Berlin-Wahl: Linke klar vorne, CDU, AfD und Grüne dahinter",
+          "title": "Hochrechnung zur Berlin-Wahl: Linke klar vorne, CDU, AfD und Grüne dahinter",
           "link": "https://www.tagesschau.de/inland/landtagswahlen/berlin/2026/wahlergebnis-berlin-abgeordnetenhaus-100.html",
-          "published": "2026-09-20T16:00:05+00:00",
-          "summary": "Bei der Abgeordnetenhauswahl in Berlin zeichnet sich erstmals ein Sieg der Linken ab: Laut ARD-Prognose kommt sie auf 24,5 Prozent. Dahinter folgen CDU, AfD und Grüne. Linken-Spitzenkandidatin Eralp …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-80970.html",
-          "published": "2026-09-20T15:41:41+00:00",
-          "summary": ""
+          "published": "2026-09-20T17:55:59+00:00",
+          "summary": "Die Linke hat die Abgeordnetenhauswahl in Berlin klar gewonnen: 25,1 Prozent stimmten für die Partei von Spitzenkandidatin Eralp. Die CDU verliert deutlich und muss das Rote Rathaus wohl räumen. Die …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: Hohe Beteiligung bei Landtagswahlen zeichnet sich ab",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-hohe-beteiligung-bei-landtagswahlen-zeichnet-sich-ab/100252039.html",
-          "published": "2026-09-20T15:47:00+00:00",
-          "summary": "Spürbar höhere Wahlbeteiligung in Berlin +++ CDU-Chef Merz will wohl kurz nach 18 Uhr Erklärung abgeben +++ Wahlpanne in Rostock – Bürger stimmen zeitweise in Bus ab +++ Der Newsblog."
+          "title": "Landtagswahl: Die „Frau gegen Blau“ hofft auf Fortsetzung in Schwerin",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-die-frau-gegen-blau-hofft-auf-fortsetzung-in-schwerin/100255966.html",
+          "published": "2026-09-20T17:55:01+00:00",
+          "summary": "Nach dem Sieg in Sachsen-Anhalt hat die AfD auch in Mecklenburg-Vorpommern ein Rekordergebnis erzielt. Doch die SPD hat zuletzt enorm Boden gut gemacht. Reicht das zum Weiterregieren?"
         },
         {
-          "title": "CDU: Merz will sich um kurz nach 18.00 Uhr zum Wahlausgang äußern",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-merz-will-sich-um-kurz-nach-1800-uhr-zum-wahlausgang-aeussern/100255881.html",
-          "published": "2026-09-20T15:36:24+00:00",
-          "summary": "Schicksalstag für den Kanzler: Bekommt der CDU-Chef nach den Wahlen in Mecklenburg-Vorpommern und Berlin die Rückendeckung der eigenen Parteispitze? Merz will rasch Stellung nehmen."
+          "title": "Wahltag: Parlamentswahl in Russland von Unregelmäßigkeiten überschattet",
+          "link": "https://www.handelsblatt.com/politik/international/wahltag-parlamentswahl-in-russland-von-unregelmaessigkeiten-ueberschattet/100255984.html",
+          "published": "2026-09-20T17:51:30+00:00",
+          "summary": "Am letzten Wahltag meldet Russland einen umfassenden Drohnenangriff auf Moskau. Oppositionelle berichten von Unregelmäßigkeiten und Behinderungen von Wahlbeobachtern."
         },
         {
-          "title": "+++ Bundespolitik +++: Unions-Wirtschaftsflügel fordert Umsetzung der Reformen bis zum Winter",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-unions-wirtschaftsfluegel-fordert-umsetzung-der-reformen-bis-zum-winter/100137034.html",
-          "published": "2026-09-20T15:16:41+00:00",
-          "summary": "Laschet: Ein Kanzlerwechsel wäre extrem schädlich +++ Breuer wird Vorsitzender des Nato-Militärausschusses +++ Regierung: Trotz Merz-Absage bestmöglich bei UN vertreten +++ Der Newsblog."
+          "title": "Wahl in Berlin: „Stadt verändern“: Linke greift in Berlin nach der Macht",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-berlin-stadt-veraendern-linke-greift-in-berlin-nach-der-macht/100255968.html",
+          "published": "2026-09-20T17:48:42+00:00",
+          "summary": "In Berlin steht nach der Wahl zum Abgeordnetenhaus ein Regierungswechsel an. Die zwischenzeitlich schon totgesagte Linke jubelt, die CDU kann ihr nicht Paroli bieten. Das sind die Koalitionsoptionen."
         },
         {
-          "title": "+++ Iran-Krieg +++: CIA-Chef trifft ägyptischen Präsidenten",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-cia-chef-trifft-aegyptischen-praesidenten/100136895.html",
-          "published": "2026-09-20T15:05:19+00:00",
-          "summary": "Iran droht mit Vergeltungsschlägen gegen USA und Partner +++ Huthi-Miliz reklamiert Angriffe in Saudi-Arabien +++ Ägypten, Jordanien und Kuwait verurteilen Angriff auf Riad +++ Der Newsblog."
+          "title": "Wahl in Mecklenburg-Vorpommern: AfD im Nordosten leicht vor SPD - CDU nur knapp im Landtag",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-mecklenburg-vorpommern-afd-im-nordosten-leicht-vor-spd-cdu-nur-knapp-im-landtag/100255963.html",
+          "published": "2026-09-20T17:45:42+00:00",
+          "summary": "Die AfD liegt an Ostseeküste und Seenplatte knapp vor der SPD. Beide beanspruchen die Regierung. Die CDU ist nach den ersten Hochrechnungen nur hauchdünn im Parlament und muss zittern."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Moskauer Bürgermeister – Beispielloser Angriff am Wahltag",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-20T14:55:00+00:00",
-          "summary": "Russische Opposition im Exil protestiert gegen Duma-Wahl und Krieg +++ Ukrainische Drohnen attackieren Moskau am Wahltag +++ Russische Wirtschaft gerät zunehmend in Schieflage +++ Der Newsblog."
+          "title": "Landtagswahlen: CDU stürzt im Nordosten ab – Linke klar vorn in Berlin",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-cdu-stuerzt-im-nordosten-ab-linke-klar-vorn-in-berlin/100255884.html",
+          "published": "2026-09-20T17:41:27+00:00",
+          "summary": "Die CDU erlebt in Mecklenburg-Vorpommern das nächste Desaster – in Berlin könnte erstmals eine Linken-Politikerin die Regierung führen. Das erhöht den Druck auf Kanzler Merz."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Frederiksen: Keine Details vor Unterzeichnung von Grönland-Abkommen",
-          "link": "https://www.finanzen.net/nachricht/aktien/frederiksen-keine-details-vor-unterzeichnung-von-groenland-abkommen-15943263",
-          "published": "2026-09-20T16:02:39+00:00",
-          "summary": "NUUK/KOPENHAGEN/WASHINGTON (dpa-AFX) - Die dänische Regierungschefin Mette Frederiksen hält sich nach dem verkündeten Durchbruch im Streit um Grönland weiter mit Details zu dem Abkommen mit den USA …"
+          "title": "ROUNDUP 3: AfD im Nordosten leicht vor SPD - CDU nur knapp im Landtag",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-3-afd-im-nordosten-leicht-vor-spd-cdu-nur-knapp-im-landtag-15943347",
+          "published": "2026-09-20T18:04:38+00:00",
+          "summary": "SCHWERIN (dpa-AFX) - Die Aufholjagd der SPD hat am Ende nicht ganz gereicht: Bei der Landtagswahl in Mecklenburg-Vorpommern liegt die AfD vorn - Ministerpräsidentin Manuela Schwesig kann aber …"
         },
         {
-          "title": "Israels Militär tötet erneut Hamas-Mitglieder in Gaza",
-          "link": "https://www.finanzen.net/nachricht/aktien/israels-militaer-toetet-erneut-hamas-mitglieder-in-gaza-15943262",
-          "published": "2026-09-20T16:02:38+00:00",
-          "summary": "TEL AVIV/GAZA (dpa-AFX) - Israels Streitkräfte haben eigenen Angaben zufolge erneut Mitglieder der Hamas im Gazastreifen getötet. Darunter seien zwei Terroristen, die mutmaßlich am Massaker am 7. …"
+          "title": "So managst du dein (Aktien-)Risiko",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
+          "published": "2026-09-20T18:00:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
-          "title": "Neue Impulse für NVIDIA-Aktie und Co.? Trump plant „AI Force“ - KI-Vorsprung der USA soll gesichert werden",
-          "link": "https://www.finanzen.net/nachricht/aktien/trotz-sicherheitsbedenken-neue-impulse-fuer-nvidia-aktie-und-co-trump-plant-ai-force-ki-vorsprung-der-usa-soll-gesichert-werden-15943055",
-          "published": "2026-09-20T16:02:00+00:00",
-          "summary": "\"Wir werden das Wachstum dieser unglaublichen Industrie in keinster Weise behindern oder abwürgen\", schrieb Trump auf seiner Online-Plattform Truth Social. Er verwies erneut darauf, dass die USA bei …"
+          "title": "Linke-Chef: Wahlsieg in Berlin Zeichen an Merz",
+          "link": "https://www.finanzen.net/nachricht/aktien/linke-chef-wahlsieg-in-berlin-zeichen-an-merz-15943346",
+          "published": "2026-09-20T17:59:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Linken-Chef Luigi Pantisano sieht im Sieg seiner Partei bei der Wahl zum Berliner Abgeordnetenhaus eine Botschaft an die Bundesregierung. \"Es ist ein deutliches Zeichen für einen …"
         },
         {
-          "title": "Regierungstruppen im Jemen erobern Gebiete von Huthi zurück",
-          "link": "https://www.finanzen.net/nachricht/aktien/regierungstruppen-im-jemen-erobern-gebiete-von-huthi-zurueck-15943261",
-          "published": "2026-09-20T16:01:38+00:00",
-          "summary": "ADEN (dpa-AFX) - Im Jemen gehen die schweren Kämpfe zwischen der Huthi-Miliz und Truppen der international anerkannten Regierung weiter. Diese eroberten im Westen der Provinz Tais mehrere Gebiete von …"
+          "title": "BSW-Spitzenkandidat: Wir könnten Zünglein an der Waage sein",
+          "link": "https://www.finanzen.net/nachricht/aktien/bsw-spitzenkandidat-wir-koennten-zuenglein-an-der-waage-sein-15943344",
+          "published": "2026-09-20T17:58:39+00:00",
+          "summary": "SCHWERIN (dpa-AFX) - Nach der Landtagswahl in Mecklenburg-Vorpommern hofft das Bündnis Sahra Wagenknecht auf einen Einzug in das Parlament. \"Wir sind ganz zuversichtlich, dass wir in den Landtag …"
         },
         {
-          "title": "Wahlbeteiligung in Berlin höher als bei vorheriger Wahl",
-          "link": "https://www.finanzen.net/nachricht/aktien/wahlbeteiligung-in-berlin-hoeher-als-bei-vorheriger-wahl-15943260",
-          "published": "2026-09-20T16:00:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Bei der Abgeordnetenhauswahl in Berlin zeichnet sich eine höhere Wahlbeteiligung ab als bei der vorherigen Wahl. Bis 16.00 Uhr gaben 58,2 Prozent der Wahlberechtigten ihre Stimme …"
+          "title": "Bitcoin-Ausblick: Bitwise-CIO Hougan prognostiziert 1,3 Millionen Dollar bis 2035",
+          "link": "https://www.finanzen.net/nachricht/devisen/optimistische-prognose-bitcoin-ausblick-bitwise-cio-hougan-prognostiziert-1-3-millionen-dollar-bis-2035-00-15936899",
+          "published": "2026-09-20T17:58:00+00:00",
+          "summary": "Bitwise-CIO Matt Hougan hält 1,3 Millionen Dollar bis 2035 für erreichbar Er sieht auch 100.000 Dollar noch in diesem Jahr als realistisches Ziel Null Prozent Bitcoin im Depot nennt er inzwischen …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Landtagswahlen Mecklenburg-Vorpommern: AfD laut aktuellen Hochrechnungen vorn, BSW fliegt raus",
+          "link": "https://www.wiwo.de/politik/deutschland/wahl-mecklenburg-vorpommern-2026-aktuelle-hochrechnungen-sitzverteilung-co./100252860.html",
+          "published": "2026-09-20T18:06:00+00:00",
+          "summary": "Mecklenburg-Vorpommern hat einen neuen Landtag gewählt. Laut aktuellen Hochrechnungen führt die AfD knapp vor der SPD."
+        },
+        {
+          "title": "Landtagswahlen Berlin: Linke gewinnen Berlin-Wahlen laut aktuellen Hochrechnungen",
+          "link": "https://www.wiwo.de/politik/deutschland/berlin-wahlen-2026-aktuelle-hochrechnung-sitzverteilung-co./100255930.html",
+          "published": "2026-09-20T18:01:00+00:00",
+          "summary": "Die schwarz-rote Regierung verliert ihre Mehrheit. Das BSW zittert um den Einzug ins Abgeordnetenhaus. Aktuelle Hochrechnungen und mögliche Koalitionen im Überblick."
+        },
+        {
+          "title": "Immobilienstandort Berlin: Enteignung! Ein Worst-Case-Szenario",
+          "link": "https://www.wiwo.de/politik/deutschland/immobilien-in-berlin-enteignungs-szenario-durch-linke/100255323.html",
+          "published": "2026-09-20T17:30:00+00:00",
+          "summary": "Die Linke gewinnt. Rot-Grün-Rot kommt. Die Enteignung privater Immobilienunternehmen nimmt ihren Lauf. Was würde dann passieren? Ein hypothetisches Szenario in fünf Akten."
+        },
+        {
+          "title": "Landtagswahlen: Ein schwarzer Sonntag, der nicht ohne Folgen bleiben kann",
+          "link": "https://www.wiwo.de/politik/deutschland/wahlen-in-berlin-und-mv-friedrich-merz-wird-zum-bundeskanzler-auf-abruf/100255970.html",
+          "published": "2026-09-20T17:28:25+00:00",
+          "summary": "Die CDU erlebt an der Küste eine historische Havarie, in Berlin eine tiefe Enttäuschung. Und Friedrich Merz? Ist künftig ein Kanzler auf Abruf. Ein Kommentar."
+        },
+        {
           "title": "Berlin-Wahl 2026: Berliner können seit acht Uhr ihre Stimme abgeben",
           "link": "https://www.wiwo.de/politik/deutschland/wahl-berlin-2026-im-liveticker-das-muessen-sie-wissen/100255680.html",
           "published": "2026-09-20T15:50:00+00:00",
           "summary": "Sowohl die Linke als auch die CDU machen sich in Berlin Hoffnungen aufs Rote Rathaus. Alle Ereignisse im Liveticker."
-        },
-        {
-          "title": "Mein Wendepunkt: „Die Idee existierte nur auf dem Papier, ich kannte meine Mitgründer kaum“",
-          "link": "https://www.wiwo.de/erfolg/management/mein-wendepunkt-die-idee-existierte-nur-auf-dem-papier-ich-kannte-meine-mitgruender-kaum/100255257.html",
-          "published": "2026-09-20T14:59:04+00:00",
-          "summary": "Bei einer Tasse Kaffee entschließt sich Michiel Muller, Picnic zu gründen – mit einem Mann, den er kaum kennt. Erst acht Jahre später realisiert er, dass es die richtige Entscheidung war."
-        },
-        {
-          "title": "Erbschaft & Schenkung: Melden Banken eine Geldübertragung in der Familie ans Finanzamt?",
-          "link": "https://www.wiwo.de/finanzen/steuern-recht/erbschaft-und-schenkung-melden-banken-eine-gelduebertragung-in-der-familie-ans-finanzamt-/28412516.html",
-          "published": "2026-09-20T14:58:00+00:00",
-          "summary": "Unser Leser möchte wissen, ob Banken den Übertrag von Geld oder auch Depotwerten in der Familie dem Finanzamt melden und welche Folgen dies hat."
-        },
-        {
-          "title": "Hohe Neuverschuldung: Wofür verschuldet sich Deutschland?",
-          "link": "https://www.wiwo.de/politik/deutschland/hohe-neuverschuldung-wofuer-verschuldet-sich-deutschland/100251741.html",
-          "published": "2026-09-20T14:25:30+00:00",
-          "summary": "Michael Hüther will neue Schulden nutzen – auch für Europas Aufstieg. Lars Feld hält dagegen: Ohne gemeinsamen Staat werden Euro-Bonds zum unkalkulierbaren Risiko. Ein Streitgespräch."
-        },
-        {
-          "title": "Autobauer: Skoda-Chef Zellmer soll Volvo leiten",
-          "link": "https://www.wiwo.de/unternehmen/auto/volvo-skoda-chef-zellmer-soll-schwedischen-autobauer-leiten/100255950.html",
-          "published": "2026-09-20T14:00:29+00:00",
-          "summary": "Klaus Zellmer soll spätestens im Oktober 2027 Chef von Volvo werden. Auf den neuen CEO wartet eine große Aufgabe: den Autobauer auf Kurs zu bringen."
         }
       ],
       "error": null
