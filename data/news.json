@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:12:43+00:00",
+  "generatedAt": "2026-09-20T02:09:01+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "US-Medien kritisierten Trumps Hausverbot als rechtswidrigen Angriff auf die Pressefreiheit",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-104.html",
+          "published": "2026-09-20T01:55:19+00:00",
+          "summary": "Der Hausausweis abgenommen, der Zutritt zum Weißen Haus verwehrt: Die Entscheidung des US-Präsidenten, Journalisten von CNN, MS NOW und Politico den Zutritt zu verwehren, stößt auf breite Kritik. …"
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651978.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/tt-12868.html",
           "published": "2026-09-19T21:36:38+00:00",
           "summary": ""
-        },
-        {
-          "title": "Trotz Wirtschaftskrise hoher Besucherandrang am ersten Tag des Oktoberfestes",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1651968.html",
-          "published": "2026-09-19T21:32:38+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Europa versus China: Mahle-Chef zum Wettbewerb bei Lkw: „Kampf der Giganten“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/europa-versus-china-mahle-chef-zum-wettbewerb-bei-lkw-kampf-der-giganten/100255876.html",
+          "published": "2026-09-20T02:00:05+00:00",
+          "summary": "Bei elektrischen Lkw treffen europäische und chinesische Hersteller aufeinander. Der Chef des Zulieferers Mahle schreibt die Europäer nicht ab, obwohl China bei den Batterien im Vorteil ist. Warum?"
+        },
+        {
+          "title": "Mensch besser als KI: KI hat gravierende Schwächen beim Erkennen von Formen",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/mensch-besser-als-ki-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen/100255873.html",
+          "published": "2026-09-20T01:00:07+00:00",
+          "summary": "Warum KI selbst die einfachsten Umrisse oft nicht erkennt – und Katzen plötzlich als „Kreuzworträtsel“ deutet."
+        },
         {
           "title": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-mutter-und-kinder-bei-angriff-im-kiewer-umland-getoetet/100255865.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen/100255854.html",
           "published": "2026-09-19T18:32:02+00:00",
           "summary": "Teheran strebt offensichtlich eine Rückkehr zum Rahmenabkommen mit den USA an. Neben dem Ende der Schiffsblockade verlangt der Iran die Freigabe eingefrorener Gelder und Ruhe an allen Fronten"
-        },
-        {
-          "title": "Künstliche Intelligenz: Trump setzt stärker auf KI trotz Warnungen vor Gefahren",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren/100255853.html",
-          "published": "2026-09-19T18:28:35+00:00",
-          "summary": "Führende Köpfe der KI-Labore wollen das Tempo drosseln, weil sie einen Kontrollverlust befürchten. Die Botschaft von Donald Trump lautet hingegen: Volle Kraft voraus!"
-        },
-        {
-          "title": "Pressefreiheit in den USA: Weißes Haus verweigert CNN, „Politico“ und MS NOW den Zugang",
-          "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-weisses-haus-verweigert-cnn-politico-und-ms-now-den-zugang/100255753.html",
-          "published": "2026-09-19T17:48:41+00:00",
-          "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es wenige Wochen vor den wichtigen Parlamentswahlen CNN und andere. Doch es formiert sich Protest."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Keine Kraft für Reformen\": Wirtschaftsweise Grimm lehnt \"zynischen\" Tankrabatt ab",
+          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsweise-Grimm-lehnt-zynischen-Tankrabatt-ab-id31325523.html",
+          "published": "2026-09-20T01:28:21+00:00",
+          "summary": "Der Nahost-Konflikt treibt den Ölpreis in die Höhe. Die Bundesregierung verspricht Autofahrern mit dem Tankrabatt-Comeback und einem Spritpreisdeckel etwas Entlastung. Dies gehe auf Kosten der jungen …"
+        },
         {
           "title": "Defizit so hoch wie zuletzt 1978: Frankreichs Schuldenberg wächst auf Rekordniveau",
           "link": "https://www.n-tv.de/wirtschaft/Frankreichs-Schuldenberg-waechst-auf-Rekordniveau-id31325460.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Zahnaerzte-Versorgungswerk-verzockt-1-3-Milliarden-Euro-id31320636.html",
           "published": "2026-09-19T13:43:04+00:00",
           "summary": "Ermittler durchsuchen im Sommer das Berliner Zahnärzte-Versorgungswerk. Dabei stehen zwei ehemalige Führungskräfte im Fokus. Jahrelang hat die Rentenkasse riskant investiert, unter anderem in …"
-        },
-        {
-          "title": "Korrektur schon vorbei?: Was den Dax so widerstandsfähig macht",
-          "link": "https://www.n-tv.de/wirtschaft/Was-den-Dax-so-widerstandsfaehig-macht-id31322712.html",
-          "published": "2026-09-19T13:30:00+00:00",
-          "summary": "Eine anziehende Inflation, steigende Zinsen und Ölpreise: All das wirkt sich ganz direkt an den Börsen aus. Erstaunlicherweise hält sich der Dax recht stabil. Hat die Korrektur gerade erst begonnen …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
-          "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
-          "published": "2026-09-19T21:50:00+00:00",
-          "summary": "RBC bestätigt ein S&P 500 Kursziel von 8.150 Punkten für zwölf Monate Ed Yardeni hebt sein Jahresendziel zum dritten Mal 2026 auf 8.400 Punkte VIX unter 15 und steigende Anleiherenditen nähren Sorgen …"
+          "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 38 im Überblick",
+          "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-38-im-ueberblick-15922351",
+          "published": "2026-09-20T02:05:00+00:00",
+          "summary": "Die schlechtesten und besten TecDAX-Werte in der Kalenderwoche 38"
         },
         {
-          "title": "NVIDIA-Aktie: Börsenstar stand einst vor dem Ruin - Warum diese Kapitalbeteiligung die Rettung bedeutete",
-          "link": "https://www.finanzen.net/nachricht/aktien/rettungsaktion-nvidia-aktie-boersenstar-stand-einst-vor-dem-ruin-warum-diese-kapitalbeteiligung-die-rettung-bedeutete-00-15937187",
-          "published": "2026-09-19T21:46:00+00:00",
-          "summary": "Ex-Sega-Chef erzählt, wie er einst alles auf Jensen Huang setzte Finanzspritze aus Japan bewahrte NVIDIA vor dem drohenden Aus Aus der Rettungsaktion wuchs eine Partnerschaft, die bis heute weiterlebt"
+          "title": "Deutsche Bank-Aktie: Dieser neue Krypto-Service verändert das Geschäft",
+          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-bank-aktie-dieser-neue-krypto-service-veraendert-das-geschaeft-15942952",
+          "published": "2026-09-20T01:53:55+00:00",
+          "summary": "Die Deutsche Bank will noch in diesem Jahr einen Verwahrservice für digitale Vermögenswerte in Europa anbieten."
         },
         {
-          "title": "S&P 500 vor Belastungsprobe: Trumps Kurs bringt die Fed in Bedrängnis – und bedroht die Börsenrally",
-          "link": "https://www.finanzen.net/nachricht/aktien/bewertungsalarm-s-p-500-vor-belastungsprobe-trumps-kurs-bringt-die-fed-in-bedraengnis-und-bedroht-die-boersenrally-00-15929877",
-          "published": "2026-09-19T21:41:00+00:00",
-          "summary": "CAPE-Kennzahl des S&P 500 liegt nahe Rekordhoch von 1999 US- Inflation steigt im Juli auf 3,4 Prozent, Fed-Zinssenkung wird schwerer Zehnjahresrendite ..."
+          "title": "Die Performance der Kryptowährungen in KW 38: Das hat sich bei Bitcoin, Ether Co. getan",
+          "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-38-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15942949",
+          "published": "2026-09-20T01:44:08+00:00",
+          "summary": "Am Kryptomarkt bewegten sich einige Werte in der vergangenen Handelswoche stark. Das sind die Gewinner und Verlierer."
         },
         {
-          "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
-          "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
-          "published": "2026-09-19T21:25:00+00:00",
-          "summary": "Evercore sieht acht US-Blue Chips als Kandidaten für vorgezogene Verkäufe Tesla, Trade Desk und DraftKings zeigen die stärksten Gewinnrevisionen Der SpaceX-Börsengang im Juni gilt als Blaupause für …"
+          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 38",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-38-15922354",
+          "published": "2026-09-20T01:34:30+00:00",
+          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 38"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-19T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "NVIDIA-Aktie: Die 5-Millionen-Dollar-Wette, die den Chipkonzern rettete",
+          "link": "https://www.finanzen.net/nachricht/aktien/nvidia-aktie-die-5-millionen-dollar-wette-die-den-chipkonzern-rettete-15942948",
+          "published": "2026-09-20T01:28:21+00:00",
+          "summary": "Einst stand der heutige Börsenstar NVIDIA vor dem Ruin. Seit der Rettung durch einen Ex-Sega-Chef wuchs eine enge Partnerschaft, die bis heute weiterlebt."
         }
       ],
       "error": null
