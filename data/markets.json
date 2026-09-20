@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T06:10:53+00:00",
+  "generatedAt": "2026-09-20T08:09:07+00:00",
   "werte": [
     {
       "id": "dax",
@@ -31,25 +31,8 @@
       "name": "Bitcoin",
       "symbol": "bitcoin",
       "typ": "krypto",
-      "error": null,
-      "kurs": 70053,
-      "waehrung": "EUR",
-      "veraenderung": -453.18009617054486,
-      "prozent": -0.6427523027802746,
-      "vortag": 70506.18009617054,
-      "hoch52": null,
-      "tief52": null,
-      "stand": null,
-      "boerse": "CoinGecko",
-      "verlauf": [
-        66453.02887741779,
-        67484.49784410257,
-        65757.58653248921,
-        66048.03952471547,
-        66522.02959631018,
-        70745.16692052121,
-        70056.0304035582
-      ]
+      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>",
+      "kurs": null
     },
     {
       "id": "sap",
