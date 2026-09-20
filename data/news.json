@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:08:26+00:00",
+  "generatedAt": "2026-09-20T00:12:43+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651978.html",
+          "published": "2026-09-19T23:47:45+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
+          "published": "2026-09-19T23:11:09+00:00",
+          "summary": "Vor der Wahl zum Berliner Abgeordnetenhaus ist laut Infratest Dimap nur noch jeder Fünfte mit der Arbeit des Senats zufrieden. Damit ist die Landesregierung in Berlin so unbeliebt wie zuletzt keine …"
+        },
+        {
+          "title": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
+          "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
+          "published": "2026-09-19T23:10:56+00:00",
+          "summary": "Die Huthi-Miliz im Jemen hat die jüngsten Angriffe auf Ziele in Saudi-Arabien für sich reklamiert. Zuvor hatten Anwohner in Riad von Explosionen und einer Rauchsäule nahe dem internationalen …"
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12868.html",
@@ -17,24 +35,6 @@
           "title": "Trotz Wirtschaftskrise hoher Besucherandrang am ersten Tag des Oktoberfestes",
           "link": "https://www.tagesschau.de/tagesthemen/video-1651968.html",
           "published": "2026-09-19T21:32:38+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Jörg Schönenborn, ARD Wahlstudio Schwerin, zu den Wahlen in Mecklenburg-Vorpommern und Berlin",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1651966.html",
-          "published": "2026-09-19T21:28:28+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Stimmung vor den Wahlen in Mecklenburg-Vorpommern und Berlin",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1651964.html",
-          "published": "2026-09-19T21:25:52+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Nach monatelangem Streit um Grönland: Mögliches Abkommen zwischen Dänemark, den USA und Grönland",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1651962.html",
-          "published": "2026-09-19T21:23:12+00:00",
           "summary": ""
         }
       ],
@@ -86,6 +86,12 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Defizit so hoch wie zuletzt 1978: Frankreichs Schuldenberg wächst auf Rekordniveau",
+          "link": "https://www.n-tv.de/wirtschaft/Frankreichs-Schuldenberg-waechst-auf-Rekordniveau-id31325460.html",
+          "published": "2026-09-19T23:39:05+00:00",
+          "summary": "Die Obergrenze für die Staatsverschuldung in der Eurozone liegt bei 60 Prozent des BIP. Frankreich überschreitet diese Marke inzwischen um mehr als das Doppelte. 2027 plant die französische Regierung …"
+        },
+        {
           "title": "Live-Daten von der Zapfsäule: So reagieren Benzin und Diesel",
           "link": "https://www.n-tv.de/wirtschaft/Live-Daten-zum-Spritpreise-Anstieg-Benzin-und-Diesel-id31316375.html",
           "published": "2026-09-19T18:00:00+00:00",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Was-den-Dax-so-widerstandsfaehig-macht-id31322712.html",
           "published": "2026-09-19T13:30:00+00:00",
           "summary": "Eine anziehende Inflation, steigende Zinsen und Ölpreise: All das wirkt sich ganz direkt an den Börsen aus. Erstaunlicherweise hält sich der Dax recht stabil. Hat die Korrektur gerade erst begonnen …"
-        },
-        {
-          "title": "Sparpaket könnte zu klein sein: Sind bei Porsche weitere Tausende Jobs in Gefahr?",
-          "link": "https://www.n-tv.de/wirtschaft/Sind-bei-Porsche-weitere-Tausende-Jobs-in-Gefahr-id31324502.html",
-          "published": "2026-09-19T11:52:47+00:00",
-          "summary": "Der Sportautobauer Porsche war einst eine Ertragsperle im VW-Konzern. Doch die Nachfrage ist drastisch gesunken und die Tochter zwingt den Mutterkonzern-VW zur Aufgabe seiner Jahresziele. Einem …"
         }
       ],
       "error": null
