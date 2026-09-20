@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:09:01+00:00",
+  "generatedAt": "2026-09-20T04:09:02+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "US-Medien kritisierten Trumps Hausverbot als rechtswidrigen Angriff auf die Pressefreiheit",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-104.html",
-          "published": "2026-09-20T01:55:19+00:00",
-          "summary": "Der Hausausweis abgenommen, der Zutritt zum Weißen Haus verwehrt: Die Entscheidung des US-Präsidenten, Journalisten von CNN, MS NOW und Politico den Zutritt zu verwehren, stößt auf breite Kritik. …"
+          "title": "Warum wir noch immer so viel Essen wegwerfen",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
+          "published": "2026-09-20T03:38:41+00:00",
+          "summary": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen."
+        },
+        {
+          "title": "FAQ: Was Sie zur Wahl in Berlin wissen müssen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/faq-abgeordnetenhauswahl-2026-berlin-100.html",
+          "published": "2026-09-20T03:38:24+00:00",
+          "summary": "Vier Parteien liegen in den Umfragen dicht beieinander, CDU und Linke konkurrieren um die Spitze: Die Berlin-Wahl verspricht spannend zu werden. Wie die Wahl abläuft und warum ihr Ausgang vieles …"
+        },
+        {
+          "title": "Was zur Wahl in Mecklenburg-Vorpommern wichtig ist",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/faq-wahl-mecklenburg-vorpommern-100.html",
+          "published": "2026-09-20T03:38:16+00:00",
+          "summary": "Es ist ein Zweikampf zwischen der in Umfragen führenden AfD und der regierenden SPD: In Mecklenburg-Vorpommern kämpft Manuela Schwesig um den Wahlsieg. Warum es für ein Zweierbündnis nicht reichen …"
+        },
+        {
+          "title": "Duma-Wahl in Russland endet: Der Wahlsieger steht wohl jetzt schon fest",
+          "link": "https://www.tagesschau.de/ausland/europa/duma-wahl-russland-100.html",
+          "published": "2026-09-20T03:29:28+00:00",
+          "summary": "Drei Tage lang haben die Russen ein neues Parlament gewählt, ab 20 Uhr werden die Stimmen ausgezählt. Ein Sieg der Regierungspartei gilt als sicher. Wahlbeobachter berichten von …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651978.html",
-          "published": "2026-09-19T23:47:45+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
-          "published": "2026-09-19T23:11:09+00:00",
-          "summary": "Vor der Wahl zum Berliner Abgeordnetenhaus ist laut Infratest Dimap nur noch jeder Fünfte mit der Arbeit des Senats zufrieden. Damit ist die Landesregierung in Berlin so unbeliebt wie zuletzt keine …"
-        },
-        {
-          "title": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
-          "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
-          "published": "2026-09-19T23:10:56+00:00",
-          "summary": "Die Huthi-Miliz im Jemen hat die jüngsten Angriffe auf Ziele in Saudi-Arabien für sich reklamiert. Zuvor hatten Anwohner in Riad von Explosionen und einer Rauchsäule nahe dem internationalen …"
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12868.html",
-          "published": "2026-09-19T21:36:38+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651994.html",
+          "published": "2026-09-20T03:05:04+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Europa versus China: Mahle-Chef zum Wettbewerb bei Lkw: „Kampf der Giganten“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/europa-versus-china-mahle-chef-zum-wettbewerb-bei-lkw-kampf-der-giganten/100255876.html",
-          "published": "2026-09-20T02:00:05+00:00",
-          "summary": "Bei elektrischen Lkw treffen europäische und chinesische Hersteller aufeinander. Der Chef des Zulieferers Mahle schreibt die Europäer nicht ab, obwohl China bei den Batterien im Vorteil ist. Warum?"
+          "title": "Parlamentswahl in Kriegszeiten: Wahl in Russland endet - wie schneidet Putins Partei ab?",
+          "link": "https://www.handelsblatt.com/politik/international/parlamentswahl-in-kriegszeiten-wahl-in-russland-endet-wie-schneidet-putins-partei-ab/100255880.html",
+          "published": "2026-09-20T03:24:21+00:00",
+          "summary": "Präsident Putin will seinen Kriegskurs bestätigen lassen. Bei der dreitägigen Wahl zur Staatsduma stehen auch nur kremlnahe Parteien auf dem Stimmzettel. Wahlbeobachter melden einige Auffälligkeiten."
         },
         {
-          "title": "Mensch besser als KI: KI hat gravierende Schwächen beim Erkennen von Formen",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/mensch-besser-als-ki-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen/100255873.html",
-          "published": "2026-09-20T01:00:07+00:00",
-          "summary": "Warum KI selbst die einfachsten Umrisse oft nicht erkennt – und Katzen plötzlich als „Kreuzworträtsel“ deutet."
+          "title": "Serbiens Hauptstadt: Zwischen Skyline und zwei Strömen: Citytrip nach Belgrad",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/serbiens-hauptstadt-zwischen-skyline-und-zwei-stroemen-citytrip-nach-belgrad/100255891.html",
+          "published": "2026-09-20T03:05:09+00:00",
+          "summary": "In der kontrastreichen Metropole an Donau und Save vibrieren die Balkan-Beats. Aber nicht nur: Belgrad hat auch erholsame Ruheoasen und Aussichtspunkte für tolle Stadtpanoramen. 5 Tipps."
         },
         {
-          "title": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-mutter-und-kinder-bei-angriff-im-kiewer-umland-getoetet/100255865.html",
-          "published": "2026-09-19T21:10:58+00:00",
-          "summary": "Die ukrainische Hauptstadt Kiew und das umliegende Gebiet werden regelmäßig von russischen Drohnen und Raketen angegriffen. Bei einer weiteren Attacke kommt es zu einer Tragödie."
+          "title": "Optimismus-Appell: Telekom-Chef: „Ich freue mich über jede Baustelle“",
+          "link": "https://www.handelsblatt.com/technik/it-internet/optimismus-appell-telekom-chef-ich-freue-mich-ueber-jede-baustelle/100255890.html",
+          "published": "2026-09-20T03:05:04+00:00",
+          "summary": "Ach herrje: Die Brücke ist gesperrt und auch auf der Bahnstrecke sorgen Bauarbeiten für Verzögerungen und Umwege. Das sorgt für Frust im Alltag. Ein Bonner Top-Manager möchte trotzdem nicht meckern."
         },
         {
-          "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
-          "link": "https://www.handelsblatt.com/politik/international/krieg-in-nahost-huthi-miliz-reklamiert-angriffe-in-saudi-arabien/100255859.html",
-          "published": "2026-09-19T20:33:08+00:00",
-          "summary": "Seit der neuen Eskalation im Jemen-Krieg gerät Saudi-Arabien immer wieder unter Beschuss aus dem südlichen Nachbarland. Augenzeugen berichten von einem Brand am internationalen Flughafen in Riad."
+          "title": "Versorgung: Pflegebranche beklagt hohen Aufwand nur fürs Karten-Einlesen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/versorgung-pflegebranche-beklagt-hohen-aufwand-nur-fuers-karten-einlesen/100255889.html",
+          "published": "2026-09-20T03:00:20+00:00",
+          "summary": "Viele Pflegekräfte sind überlastet und unter Zeitdruck. Braucht es da weiterhin Fahrten zu Arztpraxen, um Gesundheitskarten für die Abrechnung einlesen zu lassen?"
         },
         {
-          "title": "Iran-Krieg: Signal aus Teheran: Iran will zurück zu Rahmenabkommen",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen/100255854.html",
-          "published": "2026-09-19T18:32:02+00:00",
-          "summary": "Teheran strebt offensichtlich eine Rückkehr zum Rahmenabkommen mit den USA an. Neben dem Ende der Schiffsblockade verlangt der Iran die Freigabe eingefrorener Gelder und Ruhe an allen Fronten"
+          "title": "Landtagswahlen: Wahlen in zwei Bundesländern – Wegweiser in der Merz-Krise?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-wahlen-in-zwei-bundeslaendern-wegweiser-in-der-merz-krise/100255884.html",
+          "published": "2026-09-20T02:45:06+00:00",
+          "summary": "Wer wird stärkste Kraft in Berlin - wieder die CDU oder erstmals die Linke? Und kann die SPD die AfD in Mecklenburg-Vorpommern noch hinter sich lassen? Die Entscheidungen haben Folgen auch im Bund."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 38 im Überblick",
-          "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-38-im-ueberblick-15922351",
-          "published": "2026-09-20T02:05:00+00:00",
-          "summary": "Die schlechtesten und besten TecDAX-Werte in der Kalenderwoche 38"
+          "title": "So managst du dein (Aktien-)Risiko",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
+          "published": "2026-09-20T04:00:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
-          "title": "Deutsche Bank-Aktie: Dieser neue Krypto-Service verändert das Geschäft",
-          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-bank-aktie-dieser-neue-krypto-service-veraendert-das-geschaeft-15942952",
-          "published": "2026-09-20T01:53:55+00:00",
-          "summary": "Die Deutsche Bank will noch in diesem Jahr einen Verwahrservice für digitale Vermögenswerte in Europa anbieten."
+          "title": "KI-Aktien wie NVIDIA & Co. in Gefahr? Warum Ray Dalio vor einem Crash wie in den 1920ern warnt",
+          "link": "https://www.finanzen.net/nachricht/aktien/kollaps-voraus-ki-aktien-wie-nvidia-co-in-gefahr-warum-ray-dalio-vor-einem-crash-wie-in-den-1920ern-warnt-00-15929503",
+          "published": "2026-09-20T03:54:00+00:00",
+          "summary": "Ray Dalio vergleicht KI-Boom mit Technologie-Euphorie der 1920er Jahre Bridgewater-Gründer trennt zwischen Technologie und Aktienpreis Bank of England sieht historisch hohe Bewertungen und wachsende …"
         },
         {
-          "title": "Die Performance der Kryptowährungen in KW 38: Das hat sich bei Bitcoin, Ether Co. getan",
-          "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-38-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15942949",
-          "published": "2026-09-20T01:44:08+00:00",
-          "summary": "Am Kryptomarkt bewegten sich einige Werte in der vergangenen Handelswoche stark. Das sind die Gewinner und Verlierer."
+          "title": "Bitcoin-Ausblick: Bitwise-CIO Hougan prognostiziert 1,3 Millionen Dollar bis 2035",
+          "link": "https://www.finanzen.net/nachricht/devisen/optimistische-prognose-bitcoin-ausblick-bitwise-cio-hougan-prognostiziert-1-3-millionen-dollar-bis-2035-00-15936899",
+          "published": "2026-09-20T03:29:00+00:00",
+          "summary": "Bitwise-CIO Matt Hougan hält 1,3 Millionen Dollar bis 2035 für erreichbar Er sieht auch 100.000 Dollar noch in diesem Jahr als realistisches Ziel Null Prozent Bitcoin im Depot nennt er inzwischen …"
         },
         {
-          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 38",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-38-15922354",
-          "published": "2026-09-20T01:34:30+00:00",
-          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 38"
+          "title": "KI-ETFs boomen: Chancen und Risiken für Anleger im Überblick",
+          "link": "https://www.finanzen.net/nachricht/etf/ki-boom-ki-etfs-boomen-chancen-und-risiken-fuer-anleger-im-ueberblick-00-15922785",
+          "published": "2026-09-20T03:08:00+00:00",
+          "summary": "Anleger mit breiten Indexfonds sind über große Technologiewerte bereits stark im KI-Thema investiert •Ein Investment in thematische KI-ETFs bedeutet laut Morningstar gleich drei Wetten zugleich …"
         },
         {
-          "title": "NVIDIA-Aktie: Die 5-Millionen-Dollar-Wette, die den Chipkonzern rettete",
-          "link": "https://www.finanzen.net/nachricht/aktien/nvidia-aktie-die-5-millionen-dollar-wette-die-den-chipkonzern-rettete-15942948",
-          "published": "2026-09-20T01:28:21+00:00",
-          "summary": "Einst stand der heutige Börsenstar NVIDIA vor dem Ruin. Seit der Rettung durch einen Ex-Sega-Chef wuchs eine enge Partnerschaft, die bis heute weiterlebt."
+          "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
+          "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-38-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15932161",
+          "published": "2026-09-20T03:03:00+00:00",
+          "summary": "Hier finden Sie den Nachrichten-Rückblick auf die vergangene Woche."
         }
       ],
       "error": null
