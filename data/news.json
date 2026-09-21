@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:09:22+00:00",
+  "generatedAt": "2026-09-21T18:10:44+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Liveticker: ++ \"Die politische Mitte ist entleert\" ++",
+          "title": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-mv-berlin-cdu-folgen-100.html",
+          "published": "2026-09-21T18:03:50+00:00",
+          "summary": "Der Bundeskanzler und CDU-Chef kämpft nach dem erneuten Wahldebakel um sein Amt. Die SPD setzt sich vom Reformkurs ab. Merz will daran festhalten und hofft auf Unterstützung. Von Jakob Mayr."
+        },
+        {
+          "title": "Liveticker: ++ Amthor übernimmt CDU-Vorsitz in Mecklenburg-Vorpommern ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
-          "published": "2026-09-21T16:03:26+00:00",
-          "summary": "Laut dem Soziologe Harald Welzer hat der Wahlsonntag vor allem eines gezeigt: Die politische Mitte schwindet. Kanzler Merz nennt Antisemitismus in Deutschland \"eine Schande\" und kündigt einen harten …"
+          "published": "2026-09-21T18:00:23+00:00",
+          "summary": "Nach der Wahlschlappe in Mecklenburg-Vorpommern hat der CDU-Landesvorsitzende Peters nach NDR-Informationen seinen Rücktritt angekündigt. Amthor übernimmt für den Übergang. Die Linke in Berlin will …"
         },
         {
-          "title": "tagesschau in Einfacher Sprache",
-          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1434.html",
-          "published": "2026-09-21T15:51:57+00:00",
+          "title": "Klage gegen Paramount: Streit über Warner-Übernahme offenbar beigelegt",
+          "link": "https://www.tagesschau.de/wirtschaft/warner-paramount-110.html",
+          "published": "2026-09-21T17:20:54+00:00",
+          "summary": "Der Weg scheint frei für die Übernahme des Medienkonzerns Warner durch den Konkurrenten Paramount. Es habe einen Vergleich mit den US-Bundesstaaten gegeben, die dagegen geklagt hatten, wie …"
+        },
+        {
+          "title": "Merz kündigt Gesetz gegen linke Enteignungspläne an",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/enteignung-vergesellschaftung-wohnungen-berlin-100.html",
+          "published": "2026-09-21T17:11:31+00:00",
+          "summary": "Die Vergesellschaftungspläne der Linkspartei in Berlin schlagen hohe Wellen: Kanzler Merz will Enteignungen per Gesetz verbieten lassen. Die Bankenbranche mahnt, Investoren könnten verschreckt und …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653000.html",
+          "published": "2026-09-21T16:38:24+00:00",
           "summary": ""
-        },
-        {
-          "title": "Berlin-Wahl: Giffey verpasst Einzug ins Abgeordnetenhaus",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-wahl-2026-giffey-100.html",
-          "published": "2026-09-21T15:46:00+00:00",
-          "summary": "Die ehemalige Berliner Regierende Bürgermeisterin Giffey hat das Direktmandat in ihrem Wahlkreis verpasst. Die SPD-Politikerin gehört damit nicht mehr dem Abgeordnetenhaus an. Sie wurde knapp von …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81164.html",
-          "published": "2026-09-21T15:39:22+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Bayern Landesregierung bekommt neue Minister für Justiz und Jugend",
-          "link": "https://www.tagesschau.de/inland/regional/bayern/neue-minister-in-bayern-100.html",
-          "published": "2026-09-21T15:38:13+00:00",
-          "summary": "Rotation im Kabinett von Ministerpräsident Söder: Der CSU-Abgeordnete Schmid wird Justizminister in Bayern, nachdem der Amtsinhaber zurückgetreten ist. JU-Landeschef Knoll wird Minister für Jugend …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Abgeordnetenhauswahl: Clan-Mitglied bei Linken-Wahlparty – Hürden für Rot-Grün-Rot",
-          "link": "https://www.handelsblatt.com/politik/deutschland/abgeordnetenhauswahl-clan-mitglied-bei-linken-wahlparty-huerden-fuer-rot-gruen-rot/100256023.html",
-          "published": "2026-09-21T15:56:39+00:00",
-          "summary": "Die Linke in Berlin will die nächste Landesregierung führen. Aber der Besuch eines Mitglieds einer arabischstämmigen Großfamilie auf einer Wahlparty und Antisemitismus-Vorwürfe könnten das erschweren."
+          "title": "+++ USA +++: US-Sender stoppen Berichterstattung über Trump",
+          "link": "https://www.handelsblatt.com/politik/international/usa-us-sender-stoppen-berichterstattung-ueber-trump/29669594.html",
+          "published": "2026-09-21T18:45:00+00:00",
+          "summary": "CNN und weitere Medien verklagen US-Regierung wegen Pressefreiheit +++ Trump will Triumphbogen in Washington zum Militärkomplex machen +++ ICE-Beamter schießt in Austin auf Mann +++ Bürgermeister …"
         },
         {
-          "title": "Russland: Wahlkämpfer mit 85 Jahren: Ein Schweizer Milliardär will die Sanktionen gegen Putin kippen",
-          "link": "https://www.handelsblatt.com/politik/international/russland-ein-schweizer-milliardaer-will-die-sanktionen-gegen-putin-kippen/100254805.html",
-          "published": "2026-09-21T15:51:19+00:00",
-          "summary": "Christoph Blocher gilt als Übervater der rechtskonservativen SVP. Er will den Neutralitätsstatus der Schweiz stärken – zugunsten von Russland. In wenigen Tagen kommt es zum Showdown."
+          "title": "+++ Ukraine-Krieg +++: EU will Sanktionen gegen russische Milliardäre aufheben",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-21T17:49:52+00:00",
+          "summary": "Selenskyj und Trump treffen sich in New York +++ Russische Opposition im Exil protestiert gegen Duma-Wahl und Krieg +++ Ukrainische Drohnen attackieren Moskau am Wahltag +++ Der Newsblog."
         },
         {
-          "title": "Konjunktur: Führende Institute verdoppeln Wachstumsprognose",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-fuehrende-institute-verdoppeln-wachstumsprognose/100256290.html",
-          "published": "2026-09-21T15:41:11+00:00",
-          "summary": "Die Prognose im Auftrag des Wirtschaftsministeriums fällt nach Handelsblatt-Informationen dieses Jahr deutlich besser aus. Der Aufschwung setzt sich auch im kommenden Jahr fort."
+          "title": "Russische Milliardäre: EU will Sanktionen gegen russische Milliardäre aufheben",
+          "link": "https://www.handelsblatt.com/politik/international/russische-milliardaere-eu-will-sanktionen-gegen-russische-milliardaere-aufheben/100256323.html",
+          "published": "2026-09-21T17:48:11+00:00",
+          "summary": "Die EU hat nach dem Beginn von Russlands Angriffskrieg gegen die Ukraine Sanktionen gegen etliche milliardenschwere Oligarchen verhängt. Nun erzwingen Mitgliedstaaten einen umstrittenen Rückzieher."
         },
         {
-          "title": "Today: Landtagswahlen: Wie reagieren CDU und SPD? | Strompreise könnten sinken",
-          "link": "https://www.handelsblatt.com/audio/today/today-landtagswahlen-wie-reagieren-cdu-und-spd-strompreise-koennten-sinken/100256296.html",
-          "published": "2026-09-21T15:35:01+00:00",
-          "summary": "SPD und CDU verlieren in Berlin und Mecklenburg-Vorpommern, eine historische Niederlage für die CDU. Und: Sinken bald die Strompreise in Deutschland?"
+          "title": "Hollywood-Megadeal: Paramount auf Weg zu Warner-Kauf nach Deal mit Bundesstaaten",
+          "link": "https://www.handelsblatt.com/technik/it-internet/hollywood-megadeal-paramount-auf-weg-zu-warner-kauf-nach-deal-mit-bundesstaaten/100256316.html",
+          "published": "2026-09-21T17:40:09+00:00",
+          "summary": "Nach monatelangem Stillstand ist der Hollywood-Konzern Paramount wieder auf Kurs, den Konkurrenten Warner Brothers zu schlucken. US-Bundesstaaten geben nach Zugeständnissen ihren Widerstand auf."
         },
         {
-          "title": "Schiffbauer: Investorensuche: Steigt die Schweizer MSC bei der Meyer Werft ein?",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/schiffbauer-steigt-die-schweizer-msc-bei-der-meyer-werft-ein/100256255.html",
-          "published": "2026-09-21T15:26:37+00:00",
-          "summary": "Die Spekulationen verdichten sich, dass die Reederei MSC beim Kreuzfahrt-Spezialisten einsteigt. Doch bisher stehen einem solchen Deal einige durchaus große Hürden im Weg."
+          "title": "TV-Konzern: Paramount einig mit klagenden Bundesstaaten zu Warner-Kauf",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/tv-konzern-paramount-einig-mit-klagenden-bundesstaaten-zu-warner-kauf/100256295.html",
+          "published": "2026-09-21T17:40:00+00:00",
+          "summary": "Die Aktien von Warner Bros Discovery legten nach dem Bericht um fast zehn Prozent zu, die von Paramount notierten rund sieben Prozent im Plus."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Kanada hätte das Nachsehen: Trump plant großen Kalisalz-Deal mit Lukaschenko",
+          "link": "https://www.n-tv.de/wirtschaft/Trump-plant-grossen-Kalisalz-Deal-mit-Lukaschenko-id31332097.html",
+          "published": "2026-09-21T17:24:38+00:00",
+          "summary": "Seit Donald Trump im Amt ist, gibt es immer wieder Annäherungen zwischen den USA und Belarus. Nun könnte ein großer Wirtschaftsdeal zwischen den beiden Staaten bevorstehen. Der Leidtragende wäre …"
+        },
+        {
+          "title": "Vergleich erzielt: Paramount legt Streit um Milliardenfusion mit Warner bei",
+          "link": "https://www.n-tv.de/wirtschaft/Paramount-legt-Streit-um-Milliardenfusion-mit-Warner-bei-id31332060.html",
+          "published": "2026-09-21T17:24:07+00:00",
+          "summary": "Paramount macht den Weg für eine Übernahme von Warner Bros Discovery frei. Das Unternehmen erzielt mit einer Reihe von US-Bundesstaaten einen Vergleich, die zuvor eine Fusion blockiert haben."
+        },
+        {
+          "title": "Wachstum oder neue Krise?: \"Wir erleben einen Aufschwung mit angezogener Handbremse\"",
+          "link": "https://www.n-tv.de/wirtschaft/Wir-erleben-einen-Aufschwung-mit-angezogener-Handbremse-id31331148.html",
+          "published": "2026-09-21T17:05:34+00:00",
+          "summary": "Die Stimmung in der Wirtschaft hat sich stark verbessert. Konjunkturforscher rechnen erstmals seit Jahren mit Wachstum. Gleichzeitig aber steigen die Energiepreise, Inflation und ziehen an. Der …"
+        },
+        {
           "title": "Lobende Worte für Nachfolger: Mitgründer verlässt Raketen-Startup Isar Aerospace",
           "link": "https://www.n-tv.de/wirtschaft/wirtschaft_startup/Mitgruender-verlaesst-Raketen-Startup-Isar-Aerospace-id31331099.html",
           "published": "2026-09-21T15:37:57+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Beethoven-oder-Basstoelpel-Bevoelkerung-entscheidet-ueber-neue-Euro-Scheine-id31330214.html",
           "published": "2026-09-21T13:31:54+00:00",
           "summary": "Mehr als neun Millionen Menschen haben bereits über das künftige Aussehen der Euro-Banknoten abgestimmt. Zur Wahl stehen Persönlichkeiten aus der europäischen Kultur sowie Flüsse und Vögel. Die …"
-        },
-        {
-          "title": "Wohnungskonzerne im Visier: Wie teuer wird Elif Eralps Enteignungsplan?",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-teuer-wird-Elif-Eralps-Enteignungsplan-id31330513.html",
-          "published": "2026-09-21T12:20:21+00:00",
-          "summary": "Berlin muss sparen. Die Linke will trotzdem mehr als 200.000 Wohnungen in öffentliche Hand bringen. Finanziert werden sollen die milliardenschweren Pläne durch Mieten, die möglichst niedrig sein …"
-        },
-        {
-          "title": "Schleppender Ausbau: Deutschland hat jetzt mehr als drei Millionen Smart Meter",
-          "link": "https://www.n-tv.de/wirtschaft/Deutschland-hat-jetzt-mehr-als-drei-Millionen-Smart-Meter-id31330115.html",
-          "published": "2026-09-21T12:17:43+00:00",
-          "summary": "Für die Energiewende ist nicht nur die Produktion von Strom wesentlich, sondern auch dessen clevere Nutzung. Zentral sind hierbei vor allem Smart Meter. Für die verordnet der Bund zum Teil einen …"
-        },
-        {
-          "title": "Anleger sind besorgt: Vonovia-Aktien sacken nach Sieg der Berliner Linken deutlich ab",
-          "link": "https://www.n-tv.de/wirtschaft/Vonovia-Aktien-sacken-nach-Sieg-der-Berliner-Linken-deutlich-ab-id31330330.html",
-          "published": "2026-09-21T11:19:40+00:00",
-          "summary": "Die Berliner Linke gewinnt die Abgeordnetenhauswahl. Laut Wahlsiegerin Eralp soll nun die Vergesellschaftung großer Wohnungsunternehmen folgen. Die Papiere des Immobilienkonzerns Vonovia reagieren …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Bayer-Konkurrentin Roche erhält EU-Zulassung für Augenmittel Susvimo",
-          "link": "https://www.finanzen.net/nachricht/aktien/bayer-konkurrentin-roche-erhaelt-eu-zulassung-fuer-augenmittel-susvimo-15945070",
-          "published": "2026-09-21T16:05:39+00:00",
-          "summary": "BASEL (dpa-AFX) - Der Pharmakonzern Roche kann das Medikament Susvimo zur Behandlung der feuchten Makuladegeneration (nAMD) in der EU verkaufen. Die Europäische Kommission habe das Mittel gegen diese …"
+          "title": "Quantenbedrohung für Bitcoin & Ethereum rückt näher: Was das für die Aktien von Rigetti & Co. bedeutet",
+          "link": "https://www.finanzen.net/nachricht/devisen/quantenrisiko-quantenbedrohung-fuer-bitcoin-ethereum-rueckt-naeher-was-das-fuer-die-aktien-von-rigetti-co-bedeutet-00-15938830",
+          "published": "2026-09-21T18:05:00+00:00",
+          "summary": "Forscher drücken die geschätzte Hürde für einen Quantenangriff auf Krypto Aktuelle Hardware kann Bitcoin und Ethereum weiterhin nicht knacken Für Anleger rücken Quantenaktien wie Rigetti als …"
         },
         {
-          "title": "Neuer KI-Boom, Sandisk, SK Hynix, Accenture - Charttechnik mit Harald Weygand",
-          "link": "https://www.finanzen.net/nachricht/zertifikate/neuer-ki-boom-sandisk-sk-hynix-accenture-charttechnik-mit-harald-weygand-15945068",
-          "published": "2026-09-21T16:00:00+00:00",
-          "summary": ""
+          "title": "NASDAQ 100-Handel aktuell: NASDAQ 100 notiert im Plus",
+          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-100-handel-aktuell-nasdaq-100-notiert-im-plus-15945258",
+          "published": "2026-09-21T18:02:36+00:00",
+          "summary": "Um 20:00 Uhr tendiert der NASDAQ 100 im NASDAQ-Handel 2,59 Prozent fester bei 30.411,12 Punkten. Zum Beginn des Montagshandels stand ein Zuschlag von 1,02 Prozent auf 29.947,16 Punkte an ..."
         },
         {
-          "title": "Neuer KI-Boom, Sandisk, SK Hynix, Accenture - Charttechnik mit Harald Weygand",
-          "link": "https://www.finanzen.net/nachricht/zertifikate/neuer-ki-boom-sandisk-sk-hynix-accenture-charttechnik-mit-harald-weygand-15945067",
-          "published": "2026-09-21T16:00:00+00:00",
-          "summary": ""
+          "title": "Börse New York: S&P 500 mit Gewinnen",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-s-p-500-mit-gewinnen-15945257",
+          "published": "2026-09-21T18:02:36+00:00",
+          "summary": "Der S&P 500 tendiert im NYSE-Handel um 20:00 Uhr um 1,43 Prozent höher bei 7.759,95 Punkten. An der Börse sind die im Index enthaltenen Werte damit 62,386 Bio. Euro wert. Zum Start des Montagshandels …"
         },
         {
-          "title": "Neuer KI-Boom, Sandisk, SK Hynix, Accenture - Charttechnik mit Harald Weygand",
-          "link": "https://www.finanzen.net/nachricht/aktien/neuer-ki-boom-sandisk-sk-hynix-accenture-charttechnik-mit-harald-weygand-15945069",
-          "published": "2026-09-21T16:00:00+00:00",
-          "summary": ""
+          "title": "NASDAQ Composite aktuell: So performt der NASDAQ Composite nachmittags",
+          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-composite-aktuell-so-performt-der-nasdaq-composite-nachmittags-15945256",
+          "published": "2026-09-21T18:02:36+00:00",
+          "summary": "Der NASDAQ Composite springt im NASDAQ-Handel um 20:00 Uhr um 2,10 Prozent auf 27.079,35 Punkte an. Zuvor ging der NASDAQ Composite 0,756 Prozent höher bei 26.723,19 Punkten in den ..."
         },
         {
-          "title": "Börse New York in Grün: NASDAQ 100 steigt am Montagmittag",
-          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-in-gruen-nasdaq-100-steigt-am-montagmittag-15945035",
-          "published": "2026-09-21T15:59:47+00:00",
-          "summary": "Der NASDAQ 100 notiert im NASDAQ-Handel um 17:57 Uhr um 2,24 Prozent stärker bei 30.308,50 Punkten. Zum Handelsbeginn standen Gewinne von 1,02 Prozent auf 29.947,16 Punkte an der Kurstafel, ..."
+          "title": "Börse New York: Dow Jones nachmittags mit Kursplus",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-dow-jones-nachmittags-mit-kursplus-15945255",
+          "published": "2026-09-21T18:02:36+00:00",
+          "summary": "Um 20:00 Uhr notiert der Dow Jones im NYSE-Handel 0,61 Prozent höher bei 51.999,75 Punkten. Die Marktkapitalisierung der enthaltenen Werte beträgt damit 25,180 Bio. Euro. Zum Handelsbeginn ..."
         }
       ],
       "error": null
@@ -164,16 +164,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Entspannung am Ölmarkt stützt den DAX",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
+          "published": "2026-09-21T16:27:04+00:00",
+          "summary": "Gibt es wieder Bewegung zwischen den USA und Iran? Die Hoffnung darauf ließ die Ölpreise weiter fallen und verhalf dem DAX zu einem starken Wochenstart. Unter Druck standen Immobilientitel."
+        },
+        {
           "title": "Nach Berlin-Wahl: Enteignungs-Sorgen belasten Immobilienaktien",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-vonovia-deutsche-wohnen-100.html",
           "published": "2026-09-21T12:35:12+00:00",
           "summary": "Nach der Abgeordnetenhauswahl in Berlin stehen die Aktien deutscher Wohnungsbauunternehmen deutlich unter Druck. Auch wenn für Enteignungen hohe Hürden bestehen, scheuen die Anleger das Risiko."
-        },
-        {
-          "title": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
-          "published": "2026-09-21T08:38:27+00:00",
-          "summary": "Die Hoffnung auf eine Entspannung im Nahen Osten drückt die Ölpreise und schiebt damit den DAX an. Die Wahlergebnisse vom Sonntag sind zwar ebenfalls Thema - aber noch bewegen sie nicht die Kurse."
         },
         {
           "title": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Berlin-Wahl 2026: Merz will Anti-Enteignungs-Gesetz vorantreiben",
-          "link": "https://www.wiwo.de/politik/deutschland/berlin-wahl-2026-merz-will-anti-enteignungs-gesetz-vorantreiben/100256288.html",
-          "published": "2026-09-21T15:23:20+00:00",
-          "summary": "Nach dem Sieg der Linken in Berlin hat Friedrich Merz eine klare Botschaft: „Es gibt in Deutschland keine Enteignungen von privatem Eigentum.“"
+          "title": "Immobilien: „Der Hamburger Baustandard kann die Kosten um 30 Prozent senken“",
+          "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-der-hamburger-baustandard-kann-die-kosten-um-30-prozent-senken/100255102.html",
+          "published": "2026-09-22T05:00:00+00:00",
+          "summary": "In Deutschland sind Wohnungen knapp, doch der Neubau stockt. Drei Immobilienmanager erklären, welche Hürden es gibt und wo sich Potenzial für Wohnraum heben lässt."
         },
         {
-          "title": "Mecklenburg-Vorpommern: Die neue Liebe der Unternehmer für Rot-Rot-Grün",
-          "link": "https://www.wiwo.de/unternehmen/industrie/mecklenburg-vorpommern-die-neue-liebe-der-unternehmer-fuer-rot-rot-gruen/100255083.html",
-          "published": "2026-09-21T15:17:29+00:00",
-          "summary": "Sie leiden mit der CDU – und freuen sich über die Machtperspektive für die SPD: Reaktionen dreier Unternehmen auf das Wahlergebnis in Schwerin."
+          "title": "Versorgung: Merz sieht „Gerechtigkeitsproblem“ bei Krankenkassen",
+          "link": "https://www.wiwo.de/politik/deutschland/versorgung-merz-sieht-gerechtigkeitsproblem-bei-krankenkassen/100256322.html",
+          "published": "2026-09-21T18:05:13+00:00",
+          "summary": "Bundeskanzler Friedrich Merz sieht eine wachsende Ungleichheit zwischen gesetzlich und privat Versicherten. Kommt der Kurswechsel?"
         },
         {
-          "title": "Nasdaq 100: SpaceX und die Gewichtsfrage",
-          "link": "https://www.wiwo.de/finanzen/boerse/nasdaq-100-spacex-und-die-gewichtsfrage/100256155.html",
-          "published": "2026-09-21T15:05:19+00:00",
-          "summary": "SpaceX hat im Index Nasdaq 100 neuerdings ein doppelt so hohes Gewicht wie zuvor. Das könnte Folgen für den Kurs der Aktie haben."
+          "title": "Mercedes-Benz: Mercedes droht mit Werksschließungen, wenn Kosten nicht sinken",
+          "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-mercedes-droht-mit-werksschliessungen-wenn-kosten-nicht-sinken/100256297.html",
+          "published": "2026-09-21T18:01:00+00:00",
+          "summary": "Die Arbeitskosten sind in den Augen von Mercedes-Benz zu hoch. Der Produktionsvorstand warnt nun vor Konsequenzen."
         },
         {
-          "title": "Erneuerbare Energien: Ist die Enerparc-Insolvenz erst der Anfang?",
-          "link": "https://www.wiwo.de/unternehmen/energie/erneuerbare-energien-ist-die-enerparc-insolvenz-erst-der-anfang/100255917.html",
-          "published": "2026-09-21T14:49:55+00:00",
-          "summary": "Nach der Insolvenz des Solarentwicklers Enerparc fürchtet die Branche der Erneuerbaren eine Pleitewelle. Verschärfen gut gemeinte Gesetze noch die Lage?"
+          "title": "Immobilienkonzern: Vonovia-Titel sacken nach Berlin-Wahl ans Dax-Ende",
+          "link": "https://www.wiwo.de/finanzen/immobilien/immobilienkonzern-vonovia-aktien-fallen-nach-berlin-wahl-ans-dax-ende/100256181.html",
+          "published": "2026-09-21T17:38:00+00:00",
+          "summary": "Für die ohnehin schwächelnden Aktien des Immobilienkonzerns Vonovia geht es weiter abwärts. Das Ergebnis der Wahl in Berlin verunsichert die Anleger."
         },
         {
-          "title": "IG-Metall-Proteste: Ist das noch eine Demonstration oder schon ein Trauermarsch?",
-          "link": "https://www.wiwo.de/unternehmen/auto/ig-metall-aktionstag-auto-beschaeftigte-protestieren-gegen-kahlschlag/100256253.html",
-          "published": "2026-09-21T14:44:23+00:00",
-          "summary": "Von Aumovio bis Mahle und Mercedes geht die Jobangst um. Echte Proteststimmung kommt dennoch nicht auf beim großen Aktionstag der IG Metall für die Autoindustrie."
+          "title": "Pressefreiheit: CNN und andere Medien verklagen Trumps Regierung",
+          "link": "https://www.wiwo.de/politik/ausland/pressefreiheit-cnn-und-andere-medien-verklagen-trumps-regierung/100256314.html",
+          "published": "2026-09-21T17:31:34+00:00",
+          "summary": "Trump hat mehrere Medien aus dem Weißen Haus verbannt. Nun gehen die Medienhäuser gegen die Regierung vor."
         }
       ],
       "error": null
