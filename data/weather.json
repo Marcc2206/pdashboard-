@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:08:59+00:00",
+  "generatedAt": "2026-09-21T22:08:41+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-21T22:00",
-    "temperatur": 12.8,
-    "gefuehlt": 11.5,
-    "luftfeuchte": 75,
+    "zeit": "2026-09-22T00:00",
+    "temperatur": 11.6,
+    "gefuehlt": 10.3,
+    "luftfeuchte": 77,
     "niederschlag": 0.0,
-    "wind": 5.6,
+    "wind": 4.3,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -22,19 +22,6 @@
     }
   },
   "tage": [
-    {
-      "datum": "2026-09-21",
-      "max": 18.7,
-      "min": 11.0,
-      "regenwahrscheinlichkeit": 0,
-      "sonnenaufgang": "2026-09-21T07:09",
-      "sonnenuntergang": "2026-09-21T19:26",
-      "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
-      }
-    },
     {
       "datum": "2026-09-22",
       "max": 16.9,
@@ -52,26 +39,39 @@
       "datum": "2026-09-23",
       "max": 18.2,
       "min": 8.4,
-      "regenwahrscheinlichkeit": 48,
+      "regenwahrscheinlichkeit": 38,
       "sonnenaufgang": "2026-09-23T07:13",
       "sonnenuntergang": "2026-09-23T19:22",
       "wetter": {
-        "code": 95,
-        "text": "Gewitter",
-        "icon": "⛈️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     },
     {
       "datum": "2026-09-24",
-      "max": 16.5,
-      "min": 9.8,
-      "regenwahrscheinlichkeit": 57,
+      "max": 17.0,
+      "min": 10.3,
+      "regenwahrscheinlichkeit": 60,
       "sonnenaufgang": "2026-09-24T07:14",
       "sonnenuntergang": "2026-09-24T19:19",
       "wetter": {
-        "code": 95,
-        "text": "Gewitter",
-        "icon": "⛈️"
+        "code": 80,
+        "text": "Leichte Schauer",
+        "icon": "🌦️"
+      }
+    },
+    {
+      "datum": "2026-09-25",
+      "max": 19.4,
+      "min": 5.7,
+      "regenwahrscheinlichkeit": 0,
+      "sonnenaufgang": "2026-09-25T07:16",
+      "sonnenuntergang": "2026-09-25T19:17",
+      "wetter": {
+        "code": 2,
+        "text": "Teils bewölkt",
+        "icon": "⛅"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:08:55+00:00",
+  "generatedAt": "2026-09-21T22:08:37+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653172.html",
-          "published": "2026-09-21T19:58:53+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81166.html",
+          "published": "2026-09-21T21:46:41+00:00",
           "summary": ""
         },
         {
           "title": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
-          "published": "2026-09-21T19:26:21+00:00",
+          "published": "2026-09-21T21:20:07+00:00",
           "summary": "In Mecklenburg-Vorpommern will die zweitplatzierte SPD Sondierungsgespräche beginnen. Der CDU-Landesvorsitzende Peters hat dort seinen Rücktritt erklärt. Amthor übernimmt für den Übergang."
         },
         {
-          "title": "CDU-Chef Peters tritt zurück, Amthor übernimmt",
-          "link": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/nach-wahl-debakel-cdu-chef-peters-tritt-zurueck-amthor-uebernimmt,mvwahl-446.html",
-          "published": "2026-09-21T18:54:16+00:00",
-          "summary": "Der Spitzenkandidat der Christdemokraten in Mecklenburg-Vorpommern zieht die Konsequenzen aus dem verpassten Einzug in den Landtag."
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12264.html",
-          "published": "2026-09-21T18:43:51+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12872.html",
+          "published": "2026-09-21T21:19:51+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1653132.html",
-          "published": "2026-09-21T18:38:06+00:00",
-          "summary": "Nach schwerer CDU-Wahlniederlage in Mecklenburg-Vorpommern: Kanzler Merz bekräftigt Fortsetzung des Reformkurses zusammen mit der SPD, SPD-Ministerpräsidentin Schwesig will in Mecklenburg-Vorpommern …"
+          "title": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
+          "published": "2026-09-21T20:59:55+00:00",
+          "summary": "Für viele überraschend hat sich Kanzler Merz zum dualen System der Krankenkassen geäußert. Viele sähen darin ein \"Gerechtigkeitsproblem\", über das man sprechen müsse. Seine Aussage ruft deutliche …"
+        },
+        {
+          "title": "Zustand der CDU nach den verheerenden Wahlergebnissen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1653190.html",
+          "published": "2026-09-21T20:40:14+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
+          "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-rauswurf-aus-weissem-haus-trumps-streit-mit-medien-eskaliert/100256211.html",
+          "published": "2026-09-21T21:46:48+00:00",
+          "summary": "Donald Trump stellt den weltbekannten TV-Sender CNN und andere Medien als Müll dar, vergleicht sie mit Krebs - und verbannt sie aus dem Weißen Haus verbannt. Doch er stößt auf Widerstand."
+        },
+        {
+          "title": "Spritpreise: Regierung hat Tankrabatt auf den Weg gebracht",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-regierung-hat-tankrabatt-auf-den-weg-gebracht/100256279.html",
+          "published": "2026-09-21T20:52:27+00:00",
+          "summary": "Zum 1. Oktober soll das Tanken billiger werden. Die Bundesregierung hat dazu nun entsprechende Beschlüsse gefasst."
+        },
+        {
+          "title": "Russische Milliardäre: Zoff um Oligarchen: Vorerst kein Deal zu Russland-Sanktionen",
+          "link": "https://www.handelsblatt.com/politik/international/russische-milliardaere-zoff-um-oligarchen-vorerst-kein-deal-zu-russland-sanktionen/100256323.html",
+          "published": "2026-09-21T20:23:16+00:00",
+          "summary": "Die EU hat nach dem Beginn von Russlands Angriffskrieg gegen die Ukraine Sanktionen gegen etliche milliardenschwere Oligarchen verhängt. Nun gibt es in der EU großen Ärger um zwei von ihnen."
+        },
+        {
+          "title": "Kanzler-Spekulationen: Wüst: „Ich möchte Ministerpräsident bleiben“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/kanzler-spekulationen-wuest-ich-moechte-ministerpraesident-bleiben/100256342.html",
+          "published": "2026-09-21T20:20:28+00:00",
+          "summary": "Nordrhein-Westfalens Regierungschef Wüst wird als möglicher Nachfolger von Kanzler Merz gehandelt. Bei einer Veranstaltung bekennt Wüst sich zu seinem Amt in NRW – für immer?"
+        },
+        {
           "title": "Nach der Landtagswahl in MV: MV mit Kurs auf Rot-Rot-Grün - CDU-Landesführung wirft hin",
           "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-landtagswahl-in-mv-mv-mit-kurs-auf-rot-rot-gruen-cdu-landesfuehrung-wirft-hin/100256336.html",
           "published": "2026-09-21T19:19:05+00:00",
           "summary": "Nach der Wahl ist vor den Koalitionsverhandlungen in Mecklenburg-Vorpommern. Die ersten Weichen sind gestellt. Bei dem Wahlverlierer CDU gibt es derweil personelle Konsequenzen."
-        },
-        {
-          "title": "+++ USA +++: US-Sender stoppen Berichterstattung über Trump",
-          "link": "https://www.handelsblatt.com/politik/international/usa-tv-sender-stoppen-berichterstattung-ueber-trump/29669594.html",
-          "published": "2026-09-21T18:45:00+00:00",
-          "summary": "CNN und weitere Medien verklagen US-Regierung wegen Pressefreiheit +++ Trumps Zustimmungswerte fallen in Umfrage auf Rekordtief +++ Der Newsblog."
-        },
-        {
-          "title": "Hollywood-Megadeal: Paramount auf Weg zu Warner-Kauf nach Deal mit Bundesstaaten",
-          "link": "https://www.handelsblatt.com/technik/it-internet/hollywood-megadeal-paramount-auf-weg-zu-warner-kauf-nach-deal-mit-bundesstaaten/100256316.html",
-          "published": "2026-09-21T18:41:57+00:00",
-          "summary": "Nach monatelangem Stillstand ist der Hollywood-Konzern Paramount wieder auf Kurs, den Konkurrenten Warner Brothers zu schlucken. US-Bundesstaaten geben nach Zugeständnissen ihren Widerstand auf."
-        },
-        {
-          "title": "+++ Wahlen +++: CDU-Verlierer Peters tritt ab – Amthor soll vorerst übernehmen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-cdu-verlierer-peters-tritt-ab-amthor-soll-vorerst-uebernehmen/100252039.html",
-          "published": "2026-09-21T18:38:00+00:00",
-          "summary": "Merkel wirbt nach Wahlschlappen fürs Brückenbauen +++ Heil bereit für SPD-Führungsamt +++ Merz löst Debatte um private Krankenversicherung aus +++ Der Newsblog."
-        },
-        {
-          "title": "Koalition: SPD stellt Koalitions-Kurs auf den Prüfstand: „Die Menschen wollen Reformen, aber…“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/koalition-spd-stellt-reformkurs-auf-den-pruefstand/100256072.html",
-          "published": "2026-09-21T18:30:24+00:00",
-          "summary": "Nach dem Erfolg der Reformen-Kritikerin Manuela Schwesig wächst der Widerstand gegen die versprochenen Vorhaben im Bund. Eine große Ankündigung dürfte bereits ziemlich sicher scheitern."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Wall Street hofft auf Iran-Deal: Fallender Ölpreis sorgt für Erleichterungsrally",
+          "link": "https://www.n-tv.de/wirtschaft/Fallender-Oelpreis-sorgt-fuer-Erleichterungsrally-id31332409.html",
+          "published": "2026-09-21T20:51:56+00:00",
+          "summary": "Gerüchte über neue Gespräche zwischen Teheran und Washington lassen die Wall Street aufatmen. Fallende Ölpreise und sinkende Anleiherenditen heben die Kauflaune der US-Anleger. Vor allem Tech-Aktien …"
+        },
         {
           "title": "Proteste gegen Jobabbau: Mercedes: Werksschließungen, wenn Kosten nicht sinken",
           "link": "https://www.n-tv.de/wirtschaft/Mercedes-Werksschliessungen-wenn-Kosten-nicht-sinken-id31332276.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Paramount-legt-Streit-um-Milliardenfusion-mit-Warner-bei-id31332060.html",
           "published": "2026-09-21T17:24:07+00:00",
           "summary": "Paramount macht den Weg für eine Übernahme von Warner Bros Discovery frei. Das Unternehmen erzielt mit einer Reihe von US-Bundesstaaten einen Vergleich, die zuvor eine Fusion blockiert haben."
-        },
-        {
-          "title": "Wachstum oder neue Krise?: \"Wir erleben einen Aufschwung mit angezogener Handbremse\"",
-          "link": "https://www.n-tv.de/wirtschaft/Wir-erleben-einen-Aufschwung-mit-angezogener-Handbremse-id31331148.html",
-          "published": "2026-09-21T17:05:34+00:00",
-          "summary": "Die Stimmung in der Wirtschaft hat sich stark verbessert. Konjunkturforscher rechnen erstmals seit Jahren mit Wachstum. Gleichzeitig aber steigen die Energiepreise, Inflation und ziehen an. Der …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Wüst: 'Wir brauchen eine stabile Bundesregierung'",
-          "link": "https://www.finanzen.net/nachricht/aktien/wuest-wir-brauchen-eine-stabile-bundesregierung-15945359",
-          "published": "2026-09-21T19:58:38+00:00",
-          "summary": "DÜSSELDORF (dpa-AFX) - Der nordrhein-westfälische Ministerpräsident Hendrik Wüst hat auch nach den neuen Wahlniederlagen der CDU bekräftigt, dass er Personaldebatten nicht für zielführend hält. \"Wir …"
-        },
-        {
-          "title": "Hubertus Heil: SPD muss 'klarer erkennbar sein'",
-          "link": "https://www.finanzen.net/nachricht/aktien/hubertus-heil-spd-muss-klarer-erkennbar-sein-15945354",
-          "published": "2026-09-21T19:51:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Der SPD-Politiker Hubertus Heil rät seiner Partei zu mehr eigenem Profil. Vorbild sei dabei auch Manuela Schwesig, die es geschafft habe, dass die AfD in Mecklenburg-Vorpommern …"
-        },
-        {
           "title": "Asien entdeckt Bitcoin: Warum Japan den nächsten Krypto-Boom auslösen könnte",
           "link": "https://www.finanzen.net/nachricht/devisen/krypto-wende-asien-entdeckt-bitcoin-warum-japan-den-naechsten-krypto-boom-ausloesen-koennte-00-15916494",
-          "published": "2026-09-21T19:35:00+00:00",
+          "published": "2026-09-21T21:50:00+00:00",
           "summary": "Metaplanet-Chef Simon Gerovich spricht vom Beginn eines asiatischen Bitcoin -Zyklus •Japan hat 2026 eine umfassende Reform der Krypto-Regulierung beschlossen •Metaplanet hält ..."
         },
         {
-          "title": "Zugeständnisse für geplanten Zukauf: Aktien von Paramount und Warner Bros uneinheitlich",
-          "link": "https://www.finanzen.net/nachricht/aktien/medienbericht-zugestaendnisse-fuer-geplanten-zukauf-aktien-von-paramount-und-warner-bros-uneinheitlich-15944128",
-          "published": "2026-09-21T19:29:00+00:00",
-          "summary": "Der Unterhaltungskonzern Paramount Skydance hat die letzten großen Hürden für die Übernahme des Hollywood-Rivalen Warner Bros Discovery ausgeräumt. Paramount ..."
+          "title": "Quantenbedrohung für Bitcoin & Ethereum rückt näher: Was das für die Aktien von Rigetti & Co. bedeutet",
+          "link": "https://www.finanzen.net/nachricht/devisen/quantenrisiko-quantenbedrohung-fuer-bitcoin-ethereum-rueckt-naeher-was-das-fuer-die-aktien-von-rigetti-co-bedeutet-00-15938830",
+          "published": "2026-09-21T21:42:00+00:00",
+          "summary": "Forscher drücken die geschätzte Hürde für einen Quantenangriff auf Krypto Aktuelle Hardware kann Bitcoin und Ethereum weiterhin nicht knacken Für Anleger rücken Quantenaktien wie Rigetti als …"
         },
         {
-          "title": "ROUNDUP: MV mit Kurs auf Rot-Rot-Grün - CDU-Landesführung wirft hin",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-mv-mit-kurs-auf-rot-rot-gruen-cdu-landesfuehrung-wirft-hin-15945333",
-          "published": "2026-09-21T19:26:38+00:00",
-          "summary": "SCHWERIN (dpa-AFX) - Nach dem Desaster bei der Landtagswahl in Mecklenburg-Vorpommern ist die CDU-Führung im Land erst untergetaucht - und dann zurückgetreten. Der Spitzenkandidat der CDU im …"
+          "title": "Klumpenrisiko KI-Aktien? Cramer warnt vor zu viel NVIDIA & Co. - Worauf Anleger stattdessen setzen sollten",
+          "link": "https://www.finanzen.net/nachricht/aktien/alternativen-zum-hype-klumpenrisiko-ki-aktien-cramer-warnt-vor-zu-viel-nvidia-co-worauf-anleger-stattdessen-setzen-sollten-00-15938657",
+          "published": "2026-09-21T21:00:00+00:00",
+          "summary": "Cramer warnt vor zu großer KI-Konzentration und rät zur Streuung Er nennt sieben Alternativen aus Luftfahrt, Fintech, Gesundheit und Energie Amgen fiel nach Novartis-Studiendaten deutlich, ..."
+        },
+        {
+          "title": "ROUNDUP: Regierung hat Tankrabatt auf den Weg gebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-regierung-hat-tankrabatt-auf-den-weg-gebracht-15945405",
+          "published": "2026-09-21T20:59:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Die Bundesregierung drückt beim angestrebten Tankrabatt aufs Tempo und hat den Gesetzentwurf dazu auf den Weg gebracht. Er wurde nach Angaben einer Regierungssprecherin vom …"
+        },
+        {
+          "title": "ROUNDUP/Zoff um Oligarchen: Vorerst kein Deal zu Russland-Sanktionen",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-zoff-um-oligarchen-vorerst-kein-deal-zu-russland-sanktionen-15945402",
+          "published": "2026-09-21T20:58:39+00:00",
+          "summary": "BRÜSSEL (dpa-AFX) - Die unter dem Druck einzelner EU-Staaten geplante Aufhebung von Sanktionen gegen die beiden russischen Oligarchen Alischer Usmanow und Michail Fridman hat am Abend nicht wie …"
         }
       ],
       "error": null
@@ -209,6 +209,12 @@
           "summary": "In Deutschland sind Wohnungen knapp, doch der Neubau stockt. Drei Immobilienmanager erklären, welche Hürden es gibt und wo sich Potenzial für Wohnraum heben lässt."
         },
         {
+          "title": "Die Höhle der Löwen: „Ich war aufgeregter als bei meinen Abiturprüfungen“",
+          "link": "https://www.wiwo.de/erfolg/gruender/die-hoehle-der-loewen-compactgreens-begeistert-investoren-mit-pflanzsystem/100256117.html",
+          "published": "2026-09-21T21:00:00+00:00",
+          "summary": "Compactgreens baut Pflanzsysteme für Städter. Die Begeisterung der Löwen ist groß. Was ist aus dem Handschlagdeal mit Dagmar Wöhrl geworden?"
+        },
+        {
           "title": "Arktisinsel: Grönland-Abkommen soll am Dienstag unterzeichnet werden",
           "link": "https://www.wiwo.de/politik/ausland/groenland-trump-will-am-dienstag-abkommen-unterzeichnen/100256335.html",
           "published": "2026-09-21T18:44:41+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/politik/deutschland/versorgung-merz-sieht-gerechtigkeitsproblem-bei-krankenkassen/100256322.html",
           "published": "2026-09-21T18:05:13+00:00",
           "summary": "Bundeskanzler Friedrich Merz sieht eine wachsende Ungleichheit zwischen gesetzlich und privat Versicherten. Kommt der Kurswechsel?"
-        },
-        {
-          "title": "Mercedes-Benz: Mercedes droht mit Werksschließungen, wenn Kosten nicht sinken",
-          "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-mercedes-droht-mit-werksschliessungen-wenn-kosten-nicht-sinken/100256297.html",
-          "published": "2026-09-21T18:01:00+00:00",
-          "summary": "Die Arbeitskosten sind in den Augen von Mercedes-Benz zu hoch. Der Produktionsvorstand warnt nun vor Konsequenzen."
         }
       ],
       "error": null
