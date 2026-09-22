@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:11:55+00:00",
+  "generatedAt": "2026-09-22T02:09:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "UN-Generaldebatte in New York - Rede von Trump geplant",
+          "link": "https://www.tagesschau.de/ausland/un-trump-102.html",
+          "published": "2026-09-22T00:39:03+00:00",
+          "summary": "Treffen mit Selenskyj, Grönland-Abkommen: Am Rande der UN-Generaldebatte stehen für Trump gleich mehrere Termine auf dem Plan. Auch eine Rede will er wieder halten - nach einem denkwürdigen Auftritt …"
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653214.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesschau/ts-81166.html",
           "published": "2026-09-21T21:46:41+00:00",
           "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12872.html",
-          "published": "2026-09-21T21:19:51+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Grenzregion: Ostfrankreich will verstärkt deutsche Investoren werben",
-          "link": "https://www.handelsblatt.com/politik/deutschland/grenzregion-ostfrankreich-will-verstaerkt-deutsche-investoren-werben/100256356.html",
-          "published": "2026-09-21T23:00:04+00:00",
-          "summary": "Mit einer neuen Anlaufstelle in München will Ostfrankreich gezielt deutsche Unternehmen ansprechen. Besonders in Schlüsseltechnologien wollen die Franzosen deutsche Investoren gewinnen."
+          "title": "Kommentar: SPD und Grüne brauchen eine Brandmauer gegen Enteignungen",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-spd-und-gruene-brauchen-eine-brandmauer-gegen-enteignungen/100256289.html",
+          "published": "2026-09-22T02:03:26+00:00",
+          "summary": "Der Wahnsinn hat Methode. Berlin benötigt mehr Wohnungen und keine sozialistische Symbolpolitik auf Kosten von Steuerzahlern, Eigentümern und Investoren."
         },
         {
-          "title": "Energiekosten: Heizkosten steigen laut Prognose 2026 an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/energiekosten-heizkosten-steigen-laut-prognose-2026-an/100256352.html",
-          "published": "2026-09-21T22:53:42+00:00",
-          "summary": "Es zeichnet sich ab, dass Haushalte in diesem Jahr fürs Heizen oft mehr bezahlen müssen als 2025. Wer mit Gas heizt, könnte aber noch Glück haben. Eine neue Studie nennt Gründe."
+          "title": "António Guterres: Covid, Gaza, Trump: Warum der UN-Generalsekretär nur scheitern konnte",
+          "link": "https://www.handelsblatt.com/politik/international/antonio-guterres-warum-der-un-generalsekretaer-nur-scheitern-konnte/100255549.html",
+          "published": "2026-09-22T02:03:22+00:00",
+          "summary": "Bevor der Portugiese zum Jahresende abtritt, hat er bei der Generalversammlung diese Woche seinen letzten großen Auftritt. Die Bilanz seiner Amtszeit fällt sehr durchwachsen aus."
         },
         {
-          "title": "Energiekosten: Prognose: Heizkosten steigen 2026 an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/energiekosten-prognose-heizkosten-steigen-2026-an/100256350.html",
-          "published": "2026-09-21T22:02:04+00:00",
-          "summary": "Es zeichnet sich ab, dass Haushalte in diesem Jahr fürs Heizen oft mehr bezahlen müssen als 2025. Wer mit Gas heizt, könnte erstaunlicherweise aber noch Glück haben. Eine neue Studie nennt Gründe."
+          "title": "Trump-Xi-Gipfel: „Festung der Freiheit“: Taiwan rüstet sich militärisch und moralisch für den Ernstfall",
+          "link": "https://www.handelsblatt.com/politik/international/festung-der-freiheit-taiwan-ruestet-sich-fuer-den-ernstfall-gegen-china/100251386.html",
+          "published": "2026-09-22T02:03:19+00:00",
+          "summary": "Vor dem US-China-Gipfel wächst in Taiwan die Sorge, dass Donald Trump die Chiphochburg für einen Deal mit Xi Jinping opfert. Ein Bericht aus einer Demokratie im Belagerungszustand."
         },
         {
-          "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
-          "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-rauswurf-aus-weissem-haus-trumps-streit-mit-medien-eskaliert/100256211.html",
-          "published": "2026-09-21T21:46:48+00:00",
-          "summary": "Donald Trump stellt den weltbekannten TV-Sender CNN und andere Medien als Müll dar, vergleicht sie mit Krebs - und verbannt sie aus dem Weißen Haus verbannt. Doch er stößt auf Widerstand."
+          "title": "Logos bei Live-Übertragungen: Studie: WM mit Werbung für Ungesundes und Riskantes geflutet",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/logos-bei-live-uebertragungen-studie-wm-mit-werbung-fuer-ungesundes-und-riskantes-geflutet/100256370.html",
+          "published": "2026-09-22T02:00:13+00:00",
+          "summary": "Überschwemmt mit Werbung für Cola, Bier und Wetten: Eine Analyse der Fußball-WM 2026 zeigt, wie massiv Fans während der Live-Übertragungen mit potenziell schädlichen Produkten konfrontiert wurden."
         },
         {
-          "title": "Spritpreise: Regierung hat Tankrabatt auf den Weg gebracht",
-          "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-regierung-hat-tankrabatt-auf-den-weg-gebracht/100256279.html",
-          "published": "2026-09-21T20:52:27+00:00",
-          "summary": "Zum 1. Oktober soll das Tanken billiger werden. Die Bundesregierung hat dazu nun entsprechende Beschlüsse gefasst."
+          "title": "Autokosten: Umfrage: Mehr als zwei Drittel für Spritpreisdeckel",
+          "link": "https://www.handelsblatt.com/politik/deutschland/autokosten-umfrage-mehr-als-zwei-drittel-fuer-spritpreisdeckel/100256369.html",
+          "published": "2026-09-22T02:00:06+00:00",
+          "summary": "Die Bundesregierung will die Spritpreise neben einem erneuten Steuerrabatt auch mit Hilfe eines Preisdeckels in Krisenzeiten drücken. Letzteres hat offenbar große Zustimmung in der Bevölkerung."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Asien entdeckt Bitcoin: Warum Japan den nächsten Krypto-Boom auslösen könnte",
-          "link": "https://www.finanzen.net/nachricht/devisen/krypto-wende-asien-entdeckt-bitcoin-warum-japan-den-naechsten-krypto-boom-ausloesen-koennte-00-15916494",
-          "published": "2026-09-21T21:50:00+00:00",
-          "summary": "Metaplanet-Chef Simon Gerovich spricht vom Beginn eines asiatischen Bitcoin -Zyklus •Japan hat 2026 eine umfassende Reform der Krypto-Regulierung beschlossen •Metaplanet hält ..."
+          "title": "Bitcoin vor dem Asien-Boom? Metaplanet-Chef sieht neuen Zyklus",
+          "link": "https://www.finanzen.net/nachricht/aktien/bitcoin-vor-dem-asien-boom-metaplanet-chef-sieht-neuen-zyklus-15945595",
+          "published": "2026-09-22T01:45:26+00:00",
+          "summary": "Metaplanet-Chef Simon Gerovich sieht den Beginn eines ersten asiatischen Bitcoin-Zyklus. Japan reformiert parallel seine Krypto-Regulierung und treibt seine Bitcoin-Strategie voran."
         },
         {
-          "title": "Quantenbedrohung für Bitcoin & Ethereum rückt näher: Was das für die Aktien von Rigetti & Co. bedeutet",
-          "link": "https://www.finanzen.net/nachricht/devisen/quantenrisiko-quantenbedrohung-fuer-bitcoin-ethereum-rueckt-naeher-was-das-fuer-die-aktien-von-rigetti-co-bedeutet-00-15938830",
-          "published": "2026-09-21T21:42:00+00:00",
-          "summary": "Forscher drücken die geschätzte Hürde für einen Quantenangriff auf Krypto Aktuelle Hardware kann Bitcoin und Ethereum weiterhin nicht knacken Für Anleger rücken Quantenaktien wie Rigetti als …"
+          "title": "Jim Cramer warnt vor KI-Konzentration und nennt Alternativaktien zu NVIDIA",
+          "link": "https://www.finanzen.net/nachricht/aktien/jim-cramer-warnt-vor-ki-konzentration-und-nennt-alternativaktien-zu-nvidia-15945594",
+          "published": "2026-09-22T01:41:55+00:00",
+          "summary": "CNBC-Moderator Jim Cramer riet Anlegern, nicht alles auf KI-Werte wie NVIDIA zu setzen, und nannte sieben Alternativen aus anderen Branchen."
         },
         {
-          "title": "Klumpenrisiko KI-Aktien? Cramer warnt vor zu viel NVIDIA & Co. - Worauf Anleger stattdessen setzen sollten",
-          "link": "https://www.finanzen.net/nachricht/aktien/alternativen-zum-hype-klumpenrisiko-ki-aktien-cramer-warnt-vor-zu-viel-nvidia-co-worauf-anleger-stattdessen-setzen-sollten-00-15938657",
-          "published": "2026-09-21T21:00:00+00:00",
-          "summary": "Cramer warnt vor zu großer KI-Konzentration und rät zur Streuung Er nennt sieben Alternativen aus Luftfahrt, Fintech, Gesundheit und Energie Amgen fiel nach Novartis-Studiendaten deutlich, ..."
+          "title": "Dividendenaktien im Check: Fünf Kriterien für langfristige Anleger",
+          "link": "https://www.finanzen.net/nachricht/aktien/dividendenaktien-im-check-fuenf-kriterien-fuer-langfristige-anleger-15945593",
+          "published": "2026-09-22T01:38:23+00:00",
+          "summary": "Die 64. Dividendenerhöhung von Coca-Cola zeigt ein Muster, das sich in keinem Kurschart ablesen lässt und sich mit einem einfachen Check auf jede andere Aktie übertragen lässt."
         },
         {
-          "title": "ROUNDUP: Regierung hat Tankrabatt auf den Weg gebracht",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-regierung-hat-tankrabatt-auf-den-weg-gebracht-15945405",
-          "published": "2026-09-21T20:59:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Die Bundesregierung drückt beim angestrebten Tankrabatt aufs Tempo und hat den Gesetzentwurf dazu auf den Weg gebracht. Er wurde nach Angaben einer Regierungssprecherin vom …"
+          "title": "SpaceX-Aktie: Cathie Wood sieht eine 10-Billionen-Dollar-Chance - Was ist wirklich dran?",
+          "link": "https://www.finanzen.net/nachricht/aktien/woods-billionen-rechnung-spacex-aktie-cathie-wood-sieht-eine-10-billionen-dollar-chance-was-ist-wirklich-dran-00-15939377",
+          "published": "2026-09-22T01:20:13+00:00",
+          "summary": "Cathie Wood rechnet Starship-Flüge in gigantische Starlink-Umsätze um Musk reagiert auf ARK-Chefin und nennt das Ziel nicht unmöglich Die theoretische Rechnung setzt eine massive Steigerung der …"
         },
         {
-          "title": "ROUNDUP/Zoff um Oligarchen: Vorerst kein Deal zu Russland-Sanktionen",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-zoff-um-oligarchen-vorerst-kein-deal-zu-russland-sanktionen-15945402",
-          "published": "2026-09-21T20:58:39+00:00",
-          "summary": "BRÜSSEL (dpa-AFX) - Die unter dem Druck einzelner EU-Staaten geplante Aufhebung von Sanktionen gegen die beiden russischen Oligarchen Alischer Usmanow und Michail Fridman hat am Abend nicht wie …"
+          "title": "Bitcoin-Rally steht laut Experten auf wackligen Beinen: Bietet sich jetzt eine günstige Einstiegschance bei BTC?",
+          "link": "https://www.finanzen.net/nachricht/aktien/ruecksetzer-bitcoin-rally-steht-laut-experten-auf-wackligen-beinen-bietet-sich-jetzt-eine-guenstige-einstiegschance-bei-btc-00-15939378",
+          "published": "2026-09-22T01:18:17+00:00",
+          "summary": "CryptoQuant-Analysten warnen vor schwachem Kaufdruck hinter der jüngsten Rally CLARITY Act scheitert im Senat und belastet Kryptowährungen spürbar Bitwise-CIO Hougan bleibt trotz Rückschlägen …"
         }
       ],
       "error": null
