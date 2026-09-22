@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:11:26+00:00",
+  "generatedAt": "2026-09-22T20:08:42+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "EU streicht zwei russische Oligarchen von Sanktionsliste",
-          "link": "https://www.tagesschau.de/ausland/europa/sanktionen-eu-oligarchen-100.html",
-          "published": "2026-09-22T17:11:38+00:00",
-          "summary": "Die EU hat sich in letzter Minute darauf verständigt, die Russland-Sanktionen gegen rund 3.000 Menschen und Organisationen um drei Jahre zu verlängern - mit wichtigen Ausnahmen: Zwei Oligarchen …"
+          "title": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
+          "published": "2026-09-22T19:58:52+00:00",
+          "summary": "Der Unionsfraktionsvorsitzende Frei sieht nach dem CDU-Wahldebakel einen \"enormen Aussprachebedarf\". Im tagesthemen-Interview stellt er sich hinter Kanzler Merz - obwohl es beim Fraktionstreffen …"
         },
         {
-          "title": "Militärjet bei US-Airbase Spangdahlem abgestürzt",
-          "link": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/flugzeugunglueck-us-airbase-spangdahlem-100.html",
-          "published": "2026-09-22T16:37:00+00:00",
-          "summary": "Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz und wird medizinisch versorgt. Die Ursache ist unklar."
+          "title": "Kanzler Merz erhofft sich Rückhalt in der Unionsfraktion nach Wahldebakeln",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1653826.html",
+          "published": "2026-09-22T19:06:42+00:00",
+          "summary": ""
         },
         {
-          "title": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
-          "link": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
-          "published": "2026-09-22T16:12:08+00:00",
-          "summary": "In seiner Rede vor den Vereinten Nationen gibt sich US-Präsident Trump zuversichtlich, den Iran-Krieg mit einem Abkommen beenden zu können. Erneut verbindet er dies mit einer Drohung. Auch für den …"
+          "title": "Markus Preiß, ARD Berlin, zum Treffen im Kanzleramt mit Union und SPD",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1653828.html",
+          "published": "2026-09-22T18:59:24+00:00",
+          "summary": ""
         },
         {
-          "title": "Wahlparty in Berlin: Linken-Politiker Kocak distanziert sich von Remmo",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/linken-politiker-kocak-remmo-100.html",
-          "published": "2026-09-22T16:11:18+00:00",
-          "summary": "Die Remmo-Familie ist für viele Verbrechen verantwortlich. Nach der Wahl in Berlin tauchte ein Familienmitglied auf der Linken-Wahlparty auf. Auch Chats des Bundestagsabgeordneten Kocak sorgen für …"
+          "title": "tagesschau 20:00 Uhr",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1653854.html",
+          "published": "2026-09-22T18:46:06+00:00",
+          "summary": "Kanzler Merz trifft sich nach historischer Wahlniederlage der CDU mit Abgeordneten der Unionsfraktion, Bundesregierung bringt angekündigten Tankrabatt auf den Weg, Linken-Bundestagsabeordneter Ferat …"
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653718.html",
-          "published": "2026-09-22T16:06:46+00:00",
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12272.html",
+          "published": "2026-09-22T18:42:10+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Regierungsbildung in Berlin: SPD-Spitze an Linke: Antisemitismus nicht mit uns",
+          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-spd-spitze-an-linke-antisemitismus-nicht-mit-uns/100256692.html",
+          "published": "2026-09-22T19:55:05+00:00",
+          "summary": "Die Linke in Berlin möchte - neben den Grünen - zusammen mit den Sozialdemokraten regieren. Die SPD-Bundesspitze macht nun klar: Antisemitismus hat in ihrer Politik keinen Platz."
+        },
+        {
+          "title": "Diplomatie: Trump: Vertreter der USA und des Irans haben sich getroffen",
+          "link": "https://www.handelsblatt.com/politik/international/diplomatie-trump-vertreter-der-usa-und-des-irans-haben-sich-getroffen/100256685.html",
+          "published": "2026-09-22T19:33:21+00:00",
+          "summary": "Im Iran-Krieg gelten die Fronten als verhärtet. Nun wurde laut den Amerikanern das erste Mal seit längerem wieder verhandelt."
+        },
+        {
+          "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256671.html",
+          "published": "2026-09-22T19:05:20+00:00",
+          "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch nach langem Ringen steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger."
+        },
+        {
           "title": "Wall Street: US-Börsen notieren uneinheitlich – KI-Zuversicht hilft Nasdaq",
           "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-uneinheitlich-ki-zuversicht-hilft-nasdaq/100256578.html",
-          "published": "2026-09-22T17:42:00+00:00",
+          "published": "2026-09-22T18:47:00+00:00",
           "summary": "Der Technologiesektor gibt den US-Märkten auch am Dienstag Rückenwind. Die Ölpreise fallen weiter und die Hoffnungen auf Gespräche der USA mit dem Iran und China halten an."
         },
         {
-          "title": "Bundesregierung: Reformen durchziehen oder aufweichen? Union streitet um ihren Kurs",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-reformen-durchziehen-oder-aufweichen-streit-um-unions-kurs/100256430.html",
-          "published": "2026-09-22T17:26:11+00:00",
-          "summary": "Nach den Wahlniederlagen wachsen auch bei CDU und CSU Zweifel am Kurs der Regierung. Bald schon will Merz ihn intern zur Diskussion stellen. Schon jetzt zeichnen sich zwei Lager ab."
-        },
-        {
-          "title": "Ressourcen: USA unterzeichnen Vereinbarung mit Dänemark im Grönland-Streit",
-          "link": "https://www.handelsblatt.com/politik/international/ressourcen-usa-unterzeichnen-vereinbarung-mit-daenemark-im-groenland-streit/100256674.html",
-          "published": "2026-09-22T17:24:01+00:00",
-          "summary": "Amerika baut seine Militärpräsenz in Grönland aus. Ein Abkommen mit Dänemark und der Arktisinsel erlaubt zusätzliche Stützpunkte. US-Präsident Trump hat damit nicht ganz sein Ziel erreicht."
-        },
-        {
-          "title": "UN-Vollversammlung: „Friedensstifter und Technologie-Erklärer“: Die große Trump-Show bei den Vereinten Nationen",
-          "link": "https://www.handelsblatt.com/politik/international/un-vollversammlung-die-grosse-trump-show-bei-den-vereinten-nationen/100256267.html",
-          "published": "2026-09-22T17:23:48+00:00",
-          "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von KI erklärt er zur Lüge – und will den Begriff durch „Superintelligenz“ ersetzen."
-        },
-        {
-          "title": "Nach Streit mit Trump: Grönland-Abkommen: Was springt für Trump raus?",
-          "link": "https://www.handelsblatt.com/politik/international/nach-streit-mit-trump-groenland-abkommen-was-springt-fuer-trump-raus/100256677.html",
-          "published": "2026-09-22T17:21:59+00:00",
-          "summary": "Er wollte die Insel in US-Territorium verwandeln. Ein frisch unterzeichneter Deal soll den Grönland-Streit zwischen US-Präsident Trump und Dänemark nun beilegen. Was steht im Abkommen?"
+          "title": "+++ Iran-Krieg +++: Trump: US-Vertreter haben sich mit Iranern getroffen",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-vertreter-haben-sich-laut-trump-mit-iranern-getroffen/100136895.html",
+          "published": "2026-09-22T18:35:00+00:00",
+          "summary": "Guterres zu Nahost-Konflikt: „Genug ist genug“ +++ Iran stellte vor UN-Treffen unter Bedingungen Öffnung der Straße von Hormus in Aussicht +++ Der Newsblog"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Forderung nach fairer Balance: IG Metall fordert fünf Prozent mehr Lohn für VW-Mitarbeiter",
+          "link": "https://www.n-tv.de/wirtschaft/IG-Metall-fordert-fuenf-Prozent-mehr-Lohn-fuer-VW-Mitarbeiter-id31336626.html",
+          "published": "2026-09-22T18:54:37+00:00",
+          "summary": "Die Krise der Branche trifft Volkswagen mit voller Wucht: Zehntausende Jobs fallen weg, Werke stehen auf der Kippe. Unabhängig davon fordert die IG Metall für VW-Mitarbeiter mehr Geld. Schließlich …"
+        },
         {
           "title": "Linke will Vergesellschaftung: Können Enteignungen Berlins Mieten senken?",
           "link": "https://www.n-tv.de/wirtschaft/Koennen-Enteignungen-Berlins-Mieten-senken-id31335604.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsforscher-verdoppeln-Wachstumsprognose-id31334071.html",
           "published": "2026-09-22T10:06:46+00:00",
           "summary": "Das Bruttoinlandsprodukt soll in diesem Jahr deutlich stärker steigen als zuletzt erwartet. Die staatlichen Investitionen schlagen zu Buche, der Iran-Krieg dagegen weniger als befürchtet. Ökonomen …"
-        },
-        {
-          "title": "Deutschlands neue Abhängigkeit: Nach Putin sitzt nun Trump am Gas-Erpressungshebel",
-          "link": "https://www.n-tv.de/wirtschaft/Nach-Putin-sitzt-nun-Trump-am-Gas-Erpressungshebel-id31331534.html",
-          "published": "2026-09-22T09:09:11+00:00",
-          "summary": "Statt russischem Gas importiert Deutschland heute eine entscheidende Menge Flüssiggas aus den USA. Kritiker sehen ein erhebliches Risiko für die Preise, aber auch die Versorgungssicherheit. Gezielt …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Handel in New York: NASDAQ 100 nachmittags fester",
-          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-nasdaq-100-nachmittags-fester-15947386",
-          "published": "2026-09-22T18:02:36+00:00",
-          "summary": "Der NASDAQ 100 steigt im NASDAQ-Handel um 20:00 Uhr um 0,65 Prozent auf 30.681,39 Punkte. Zum Beginn des Dienstagshandels stand ein Zuschlag von 0,046 Prozent auf 30.496,43 Punkte an der ..."
+          "title": "Bitcoin-Rally steht laut Experten auf wackligen Beinen: Bietet sich jetzt eine günstige Einstiegschance bei BTC?",
+          "link": "https://www.finanzen.net/nachricht/aktien/ruecksetzer-bitcoin-rally-steht-laut-experten-auf-wackligen-beinen-bietet-sich-jetzt-eine-guenstige-einstiegschance-bei-btc-00-15939378",
+          "published": "2026-09-22T19:56:00+00:00",
+          "summary": "CryptoQuant-Analysten warnen vor schwachem Kaufdruck hinter der jüngsten Rally CLARITY Act scheitert im Senat und belastet Kryptowährungen spürbar Bitwise-CIO Hougan bleibt trotz Rückschlägen …"
         },
         {
-          "title": "Starker Wochentag in New York: S&P 500 zeigt sich am Dienstagnachmittag fester",
-          "link": "https://www.finanzen.net/nachricht/aktien/starker-wochentag-in-new-york-s-p-500-zeigt-sich-am-dienstagnachmittag-fester-15947385",
-          "published": "2026-09-22T18:02:36+00:00",
-          "summary": "Am Dienstag tendiert der S&P 500 um 20:00 Uhr via NYSE 0,09 Prozent stärker bei 7.771,53 Punkten. Die S&P 500-Mitglieder kommen damit auf einen Börsenwert von 62,456 Bio. Euro. Zum Beginn des ..."
+          "title": "Trump: Würde Richterspruch zu CNN 'wahrscheinlich' befolgen",
+          "link": "https://www.finanzen.net/nachricht/aktien/trump-wuerde-richterspruch-zu-cnn-wahrscheinlich-befolgen-15947477",
+          "published": "2026-09-22T19:55:38+00:00",
+          "summary": "NEW YORK (dpa-AFX) - US-Präsident Donald Trump hat im Falle einer Niederlage im Rechtsstreit mit dem Sender CNN und anderen Medien über ein Zugangsverbot zum Weißen Haus ein Einlenken in Aussicht …"
         },
         {
-          "title": "Zuversicht in New York: NASDAQ Composite liegt nachmittags im Plus",
-          "link": "https://www.finanzen.net/nachricht/aktien/zuversicht-in-new-york-nasdaq-composite-liegt-nachmittags-im-plus-15947384",
-          "published": "2026-09-22T18:02:36+00:00",
-          "summary": "Am Dienstag geht es im NASDAQ Composite um 20:00 Uhr via NASDAQ um 0,45 Prozent auf 27.244,45 Punkte nach oben. Zum Handelsbeginn stand ein Gewinn von 0,144 Prozent auf 27.161,20 Punkte ..."
+          "title": "Hormus vor der Öffnung? Warum Anleger der Lufthansa-Aktie jetzt auf den Ölpreis schauen",
+          "link": "https://www.finanzen.net/nachricht/aktien/oelpreis-rutscht-ab-hormus-vor-der-oeffnung-warum-anleger-der-lufthansa-aktie-jetzt-auf-den-oelpreis-schauen-00-15946516",
+          "published": "2026-09-22T19:55:00+00:00",
+          "summary": "Teheran knüpft Hormus-Öffnung an ein Ende der US-Blockade Sinkende Ölpreise entlasten die Kerosinkosten der Fluggesellschaften Washington verschärft parallel den Druck auf iranische Airlines Nach ..."
         },
         {
-          "title": "NYSE-Handel Dow Jones verbucht Verluste",
-          "link": "https://www.finanzen.net/nachricht/aktien/nyse-handel-dow-jones-verbucht-verluste-15947383",
-          "published": "2026-09-22T18:02:36+00:00",
-          "summary": "Um 20:00 Uhr notiert der Dow Jones im NYSE-Handel 0,32 Prozent leichter bei 51.884,31 Punkten. Die Marktkapitalisierung der enthaltenen Werte beträgt damit 25,208 Bio. Euro. In den Dienstagshandel ..."
+          "title": "Novo Nordisk-Aktie stürzt ab: Jetzt reagieren die Analysten - Handlungsbedarf auch für Anleger?",
+          "link": "https://www.finanzen.net/nachricht/aktien/margenziel-enttaeuscht-markt-novo-nordisk-aktie-stuerzt-ab-jetzt-reagieren-die-analysten-handlungsbedarf-auch-fuer-anleger-00-15945984",
+          "published": "2026-09-22T19:54:00+00:00",
+          "summary": "Anleger reagierten am Kapitalmarkttag mit deutlichem Kursabschlag auf die Ziele CEO Doustdar kündigt härtere Arbeit und Übernahmeprüfungen an Analysten sehen im stabilen Margenausblick den Hauptgrund …"
         },
         {
-          "title": "Irak: Entwaffnung von Milizen erst im Sommer 2027",
-          "link": "https://www.finanzen.net/nachricht/aktien/irak-entwaffnung-von-milizen-erst-im-sommer-2027-15947387",
-          "published": "2026-09-22T18:00:39+00:00",
-          "summary": "BAGDAD (dpa-AFX) - Die mit Iran verbündeten, mächtigen Milizen im Irak sollen erst bis zum Sommer 2027 entwaffnet werden und damit neun Monate später als bisher geplant. Das sagte der irakische …"
+          "title": "ROUNDUP 2/Trump: Vertreter der USA und des Irans haben sich getroffen",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-trump-vertreter-der-usa-und-des-irans-haben-sich-getroffen-15947476",
+          "published": "2026-09-22T19:53:38+00:00",
+          "summary": "(neu: US-Medien-Infos)NEW YORK (dpa-AFX) - Vertreter der USA und des Irans haben sich nach Angaben von Präsident Donald Trump am Rande der UN-Generaldebatte in New York getroffen. Das Gespräch am …"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "UN-Generalversammlung: Jetzt erfindet Trump auch noch einen neuen Namen für Künstliche Intelligenz",
+          "link": "https://www.wiwo.de/politik/ausland/donald-trump-will-ki-umbenennen-absage-an-regulierung/100256688.html",
+          "published": "2026-09-22T19:54:01+00:00",
+          "summary": "Kurz vor dem Treffen mit Xi will Trump „Artificial Intelligence“ in „Super Intelligence“ umtaufen – und zeigt damit, dass er lieber auf absurde Symbolpolitik statt Regulierung setzt."
+        },
+        {
           "title": "Metall- und Elektroindustrie: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und sichere Jobs",
           "link": "https://www.wiwo.de/unternehmen/auto/tarifrunde-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-sichere-jobs/100256623.html",
           "published": "2026-09-22T18:05:00+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/dienstleister/navid-thielemann-vermoegen-und-aufstieg-des-logistikunternehmers/100255937.html",
           "published": "2026-09-22T17:03:36+00:00",
           "summary": "Navid Thielemann liebt große Geschäfte und sichtbaren Luxus. Sein Logistikimperium gibt Rätsel auf: Woher kommt das ganze Geld?"
-        },
-        {
-          "title": "Gipfel in Washington: Großer Empfang, lange Konfliktliste – Xi besucht Trump",
-          "link": "https://www.wiwo.de/politik/ausland/sicherheitsrisiken-im-fokus-vor-trump-xi-gipfel-china-und-usa-sprechen-ueber-ki/100256051.html",
-          "published": "2026-09-22T17:02:00+00:00",
-          "summary": "US-Präsident Trump und Chinas Staatschef Xi sehen sich nach Monaten wieder. Es soll erneut pompös zugehen. Doch bei vielen Themen liegen die beiden Großmächte weit auseinander."
         }
       ],
       "error": null
