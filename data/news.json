@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:10:12+00:00",
+  "generatedAt": "2026-09-22T12:11:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "EU und Philippinen einigen sich auf Freihandelsabkommen",
-          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-philippinen-freihandelsabkommen-102.html",
-          "published": "2026-09-22T09:58:06+00:00",
-          "summary": "Die EU und die Philippinen haben sich im Grundsatz auf ein Freihandelsabkommen verständigt. Die Vereinbarung soll für Unternehmen auf beiden Seiten neue Exportmärkte erschließen und Lieferketten …"
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81124.html",
+          "published": "2026-09-22T12:10:42+00:00",
+          "summary": ""
         },
         {
-          "title": "Los Angeles: Lucas Museum für Narrative Art wird eröffnet",
-          "link": "https://www.tagesschau.de/ausland/amerika/lucas-arts-museum-100.html",
-          "published": "2026-09-22T09:28:42+00:00",
-          "summary": "Fotos, Requisiten, Kostüme: Im neuen Museum von Stars-Wars-Erfinder George Lucas kommen Fans auf ihren Geschmack. Aber Star Wars macht nur sieben Prozent des Museums aus. Antje Sieb verrät, was sonst …"
+          "title": "AfD-Wahlerfolg in Sachsen-Anhalt: Steht die Kulturpolitik vor einem Kurswechsel?",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/afd-sachsen-anhalt-kultur-100.html",
+          "published": "2026-09-22T11:06:01+00:00",
+          "summary": "Der Wahlerfolg der AfD sorgt für Unruhe bei Kulturschaffenden in Sachsen-Anhalt. Sie fürchten Einschnitte für ihre Arbeit und bei Fördermitteln. Andere sehen Kultur gerade jetzt als Ort des Dialogs. …"
+        },
+        {
+          "title": "\"Swan Song\": Warum ein Buch über Prinzessin Diana für Furore sorgt",
+          "link": "https://www.tagesschau.de/ausland/europa/prinzessin-diana-buch-bruder-100.html",
+          "published": "2026-09-22T11:00:55+00:00",
+          "summary": "Charles Spencer, der Bruder von Lady Di, hat ein Buch über seine Schwester geschrieben. Darin erhebt er schwere Vorwürfe gegen den heutigen König, die der Palast ungewöhnlich deutlich zurückweist. …"
         },
         {
           "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
           "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-22T09:22:18+00:00",
-          "summary": "Am Dienstag ist es im Nordosten sowie im Südwesten sonnig. Dazwischen gibt es in einem breiten Korridor neben Sonnenschein dichte Wolken, aber es bleibt meist trocken. Von Sachsen bis nach Bayern …"
+          "published": "2026-09-22T10:35:34+00:00",
+          "summary": "Am Mittwoch ist es im Süden und in der Mitte nach Auflösung regionaler Nebelfelder sonnig oder leicht bewölkt. Im Norden ist es wolkiger und im Nordwesten fällt gegen Abend Regen. 15 bis 24 Grad."
         },
         {
-          "title": "UN wollen neues \"Rolltreppen-Gate\" mit Trump verhindern",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-un-128.html",
-          "published": "2026-09-22T09:19:10+00:00",
-          "summary": "Trumps Auftritt bei den Vereinten Nationen vor einem Jahr sorgte für Wirbel. Der US-Präsident sprach von \"Sabotage\" - unter anderem, weil eine Rolltreppe plötzlich stoppte. Heute soll sich all das …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653440.html",
-          "published": "2026-09-22T09:06:34+00:00",
-          "summary": ""
+          "title": "Anteil von E-Autos bei Neuzulassungen in EU erreicht neuen Rekord",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-e-autos-neuwagen-zulassungen-100.html",
+          "published": "2026-09-22T10:25:19+00:00",
+          "summary": "Noch nie sind in der EU so viele Autos mit einem reinen Elektroantrieb zugelassen worden wie im vergangenen Jahr. Gut jeder sechste Pkw war ein E-Auto. Deutschland lag dabei leicht über dem Schnitt."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Geld Leben Looman: So gelingt die Vermögensanlage ohne teure Berater",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anlagestrategie-warum-sie-fuer-die-geldanlage-keinen-teuren-berater-brauchen/100254436.html",
-          "published": "2026-09-22T10:01:00+00:00",
-          "summary": "Guter Rat ist teuer, schlechter Rat kostet ein Vermögen. Dabei ist die Geldanlage in Eigenregie kein Hexenwerk. Finanz-Experte Volker Looman gibt eine Anleitung."
+          "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-haben-2025-die-hoechsten-renditen-fuer-anleger-erzielt/100224417.html",
+          "published": "2026-09-22T12:07:00+00:00",
+          "summary": "Digitale Vermögensverwalter erzielten 2025 teils zweistellige Renditen, wie eine neue Auswertung zeigt. Die Lösungen eignen sich besonders für zwei Anlegertypen."
         },
         {
-          "title": "+++ Wahlen +++: Berliner Linke lädt Grüne und SPD zu „Vorgesprächen“ ein",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-berliner-linke-laedt-gruene-und-spd-zu-vorgespraechen-ein/100252039.html",
-          "published": "2026-09-22T10:01:00+00:00",
-          "summary": "CDU-Verlierer Peters tritt ab – Amthor soll vorerst übernehmen +++ Merkel wirbt nach Wahlschlappen fürs Brückenbauen +++ Heil bereit für SPD-Führungsamt +++ Der Newsblog."
+          "title": "Gewerkschaften: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und Jobsicherheit",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaften-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-jobsicherheit/100256579.html",
+          "published": "2026-09-22T12:05:31+00:00",
+          "summary": "Die IG-Metall-Bezirke stecken ihre Ziele für die Tarifrunde ab. Angesichts von Stellenabbau und drohenden Werksschließungen rückt vor allem die Beschäftigungssicherung in den Fokus."
         },
         {
-          "title": "USA: „Fake News“ – Trump greift US-Medien bei Treffen mit Mamdani erneut an",
-          "link": "https://www.handelsblatt.com/video/politik/usa-fake-news-trump-greift-us-medien-bei-treffen-mit-mamdani-erneut-an/100256535.html",
-          "published": "2026-09-22T10:00:52+00:00",
-          "summary": "Der US-Präsident hat sich am Montag mit dem New Yorker Bürgermeister zum Thema Wohnungsnot in der Metropole getroffen. Dabei bekräftigte Trump seine Entscheidung, großen US‑Medien wie CNN den Zugang …"
+          "title": "Linke in der Kritik: Linke-Politiker chattet mit Clan-Mitglied - deutliche Kritik",
+          "link": "https://www.handelsblatt.com/politik/deutschland/linke-in-der-kritik-linke-politiker-chattet-mit-clan-mitglied-deutliche-kritik/100256589.html",
+          "published": "2026-09-22T12:04:44+00:00",
+          "summary": "Der Linke-Bundestagsabgeordnete Ferat Koçak hatte Chatkontakt mit einem Mitglied der Familie Remmo. Dabei ging es auch um eine seiner Reden im Parlament. Die Forderung nach Konsequenzen wird lauter."
         },
         {
-          "title": "USA: Trumps Zustimmungswerte fallen auf neues Rekordtief",
-          "link": "https://www.handelsblatt.com/video/politik/usa-trumps-zustimmungswerte-fallen-auf-neues-rekordtief/100256534.html",
-          "published": "2026-09-22T10:00:40+00:00",
-          "summary": "Der US-Präsident ist laut einer Umfrage so unbeliebt wie noch nie. Mit Donald Trump zeigten sich nur noch 32 Prozent der Befragten zufrieden. Auch in seiner Partei sank die Zustimmung binnen einer …"
+          "title": "Dax aktuell: Dax im Plus – Ölpreis sinkt wieder unter 100 Dollar",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-im-plus-oelpreis-sinkt-wieder-unter-100-dollar/100256414.html",
+          "published": "2026-09-22T12:02:47+00:00",
+          "summary": "Die Energiepreise bleiben bestimmendes Thema an den Börsen. Anleger haben zudem die Rede von Donald Trump vor der UN-Vollversammlung im Blick. Unter Druck gerät erneut die Vonovia-Aktie."
         },
         {
-          "title": "Aktionstag: Protest im ganzen Land gegen Kahlschlag in der Autoindustrie",
-          "link": "https://www.handelsblatt.com/video/politik/aktionstag-protest-im-ganzen-land-gegen-kahlschlag-in-der-autoindustrie/100256531.html",
-          "published": "2026-09-22T10:00:26+00:00",
-          "summary": "Die IG Metall hat am Montag zu einem bundesweiten Aktionstag gegen den Stellenabbau bei Autoherstellern aufgerufen. Insgesamt beteiligten sich bundesweit rund 175.000 Beschäftigte an mehr als 280 …"
+          "title": "Linke-Wahlsieg: Israels Botschafter sieht nach Berlin-Wahl Gefahr für Juden",
+          "link": "https://www.handelsblatt.com/politik/deutschland/linke-wahlsieg-israels-botschafter-sieht-nach-berlin-wahl-gefahr-fuer-juden/100256376.html",
+          "published": "2026-09-22T12:01:11+00:00",
+          "summary": "Hat die Linke ein Antisemitismus-Problem? Nach dem Wahlsieg in Berlin schlägt Israels Botschafter Alarm. Die Partei wehrt sich gegen die Vorhaltungen - und treibt die Regierungsbildung voran."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Pivotal-Point Nachverfolgung SailPoint (SAIL): KI-Identitätsschutz treibt Quartalsgewinn – BofA-Analysten heben Kursziel auf 22 USD",
-          "link": "https://www.finanzen.net/nachricht/aktien/Pivotal-Point-Nachverfolgung-SailPoint-SAIL-KI-Identitaetsschutz-treibt-Quartalsgewinn-BofA-Analysten-heben-Kursziel-auf-22-USD-15946248",
-          "published": "2026-09-22T10:04:59+00:00",
-          "summary": "SailPoint ist ein führender Softwareanbieter für digitale Identitätsverwaltung (IGA), der Zugriffsrechte in Unternehmen schützt."
+          "title": "Ölpreise fallen: DAX schüttelt Verluste ab - 50-Tage-Linie im Fokus",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-oelpreise-fallen-dax-schuettelt-verluste-ab-50-tage-linie-im-fokus-15943636",
+          "published": "2026-09-22T12:02:00+00:00",
+          "summary": "Der DAX verbuchte zum Sitzungsbeginn einen kleinen Aufschlag von 0,07 Prozent auf 25.592,98 Zähler. Danach zeigte er sich zunächst wankelmütig und pendelte zwischen Gewinn- und Verlustzone hin und …"
         },
         {
-          "title": "EZB-Chefvolkswirt: Energie hält Inflation länger auf erhöhtem Niveau als gedacht",
-          "link": "https://www.finanzen.net/nachricht/aktien/ezb-chefvolkswirt-energie-haelt-inflation-laenger-auf-erhoehtem-niveau-als-gedacht-15946245",
-          "published": "2026-09-22T10:03:39+00:00",
-          "summary": "GENF (dpa-AFX) - Der jüngste Anstieg der Energiepreise wird die Inflation in der Eurozone nach Einschätzung des Chefvolkswirtes der Europäischen Zentralbank (EZB) länger auf einem erhöhten Niveau …"
+          "title": "Bitcoin trotzt Clarity Act Rückschlag und Zinserhöhung und steigt auf das höchste Niveau seit Jahresbeginn",
+          "link": "https://www.finanzen.net/nachricht/devisen/coin-tuesday-bitcoin-trotzt-clarity-act-rueckschlag-und-zinserhoehung-und-steigt-auf-das-hoechste-niveau-seit-jahresbeginn-00-15946408",
+          "published": "2026-09-22T12:00:00+00:00",
+          "summary": "Das Wichtigste in Kürze: Der Bitcoin Kurs verkraftete das Scheitern des Clarity Act und die Zinserhöhung der Fed und stieg anschließend ..."
         },
         {
-          "title": "Allianz-Aktie verliert im DAX an Boden: Droht weiterer Druck?",
-          "link": "https://www.finanzen.net/nachricht/aktien/50-tage-linie-unterschritten-allianz-aktie-verliert-im-dax-an-boden-droht-weiterer-druck-00-15946202",
-          "published": "2026-09-22T10:03:00+00:00",
-          "summary": "Allianz-Aktie gerät im DAX ins Hintertreffen und testet Unterstützungszonen Rückkaufprogramm und mögliche AA-Übernahme sorgen weiter für Gesprächsstoff Analysten bleiben gespalten mit weit …"
+          "title": "Hot Stocks heute: ASML vor dem Ausbruch? Dieser Chip-Gigant ist der Trade der Woche!",
+          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-asml-vor-dem-ausbruch-dieser-chip-gigant-ist-der-trade-der-woche-15946413",
+          "published": "2026-09-22T11:52:54+00:00",
+          "summary": "Außerdem im Podcast: Meta und der KI-Assistent Muse, die Rally bei AMD und Intel, die Konjunkturhoffnungen für Deutschland, steigende Staatsausgaben für Infrastruktur und Verteidigung sowie neue …"
         },
         {
-          "title": "Siemens-Aktie höher: Großauftrag für Bahnnetz in Vietnam",
-          "link": "https://www.finanzen.net/nachricht/aktien/turnkey-vertrag-siemens-aktie-hoeher-grossauftrag-fuer-bahnnetz-in-vietnam-15946239",
-          "published": "2026-09-22T10:00:41+00:00",
-          "summary": "Wie Siemens Mobility mitteilte, unterzeichneten beide Seiten einen Turnkey-Vertrag für die Hochgeschwindigkeitsstrecken Hanoi-Quang Ninh und Ben Thanh-Can Gio. Mit einem Volumen von bis ..."
+          "title": "Warnung vor Russland: Ischinger erwartet gefährlichen Herbst",
+          "link": "https://www.finanzen.net/nachricht/aktien/warnung-vor-russland-ischinger-erwartet-gefaehrlichen-herbst-15946415",
+          "published": "2026-09-22T11:52:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Die Vertrauenskrise der Bundesregierung und die Schwäche Europas vergrößern nach Einschätzung des früheren Spitzendiplomaten Wolfgang Ischinger die Bedrohung durch Russland. …"
         },
         {
-          "title": "Duolingo wurde totgesagt! Doch nun meldet sich die Spracheule bei 150 USD wieder zurück!",
-          "link": "https://www.finanzen.net/nachricht/aktien/Duolingo-wurde-totgesagt-Doch-nun-meldet-sich-die-Spracheule-bei-150-USD-wieder-zurueck-15946249",
-          "published": "2026-09-22T09:58:02+00:00",
-          "summary": "Noch im Mai 2025 kostete Duolingo (DUOL) zeitweise über 540 USD."
+          "title": "ROUNDUP: Planet Labs startet bald Satellitenproduktion in Berlin",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-planet-labs-startet-bald-satellitenproduktion-in-berlin-15946414",
+          "published": "2026-09-22T11:52:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Das US-Unternehmen Planet Labs will von diesem Herbst an mit dem Bau von Satelliten in Deutschland beginnen. Die gesamte Fertigung und Erprobung der Satelliten solle in Berlin …"
         }
       ],
       "error": null
@@ -163,6 +163,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Iran-Krieg und Last-Minute-Trend zehren an TUI-Gewinn",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-tui-100.html",
+          "published": "2026-09-22T12:00:03+00:00",
+          "summary": "Der Reisekonzern TUI hat den Iran-Krieg und den Trend zu Last-Minute-Buchungen deutlich zu spüren bekommen. Höhere Preise konnten das nur zum Teil ausgleichen. Die Aktie erlebte ein Wechselbad."
+        },
         {
           "title": "Marktbericht: Anleger warten auf Trumps UN-Auftritt",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
@@ -186,12 +192,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
           "published": "2026-09-19T03:09:49+00:00",
           "summary": "Das Design der Euroscheine ist in die Jahre gekommen. Bei der anstehenden Überarbeitung lässt die EZB die Bürgerinnen und Bürger jetzt mitreden. Noch bis Montag kann abgestimmt werden. Von Ursula …"
-        },
-        {
-          "title": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/girokonto-kontofuehrungsgebuehr-wechsel-100.html",
-          "published": "2026-09-17T04:28:03+00:00",
-          "summary": "Das Girokonto ist praktisch unverzichtbar. Doch vor allem bei vielen Filialbanken fällt mittlerweile eine Kontoführungsgebühr an - Kosten, die sich oft vermeiden lassen. Von L.-M. Hiltscher und L. …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Gesundheits-Debatte: Wie es zu der Krankenkassen-Panne des Kanzlers kam",
-          "link": "https://www.wiwo.de/politik/deutschland/merz-und-die-krankenkassen-warum-die-debatte-entstand-und-was-sie-bedeutet/100256481.html",
-          "published": "2026-09-22T09:52:57+00:00",
-          "summary": "Friedrich Merz wollte wohl signalisieren: Ich nehme die Sorgen der Bürger ernst. Stattdessen setzte er ohne Not eine Debatte über das Gesundheitssystem in Gang."
+          "title": "Berlin-Wahl 2026: Wie die Berliner Gründerszene auf die Wahlergebnisse blickt",
+          "link": "https://www.wiwo.de/politik/deutschland/berlin-wahl-2026-wie-die-gruenderszene-auf-die-wahlergebnisse-blickt/100256256.html",
+          "published": "2026-09-22T12:04:14+00:00",
+          "summary": "Die Linke gewinnt erstmals die Berlin-Wahl. Doch dortige Start-ups kritisieren linke Enteignungspläne – und fordern lang ausgebliebene Reformen."
         },
         {
-          "title": "Ex-Milliardär vor Gericht: Prozess gegen René Benko gestartet – Urteil wahrscheinlich",
-          "link": "https://www.wiwo.de/unternehmen/handel/ex-milliardaer-vor-gericht-prozess-gegen-rene-benko-gestartet-urteil-wahrscheinlich/100256461.html",
-          "published": "2026-09-22T09:20:00+00:00",
-          "summary": "Vor rund einem Jahr wurde der Investor wegen Schädigung seiner Gläubiger verurteilt. Das Verfahren muss nun in Teilen wiederholt werden."
+          "title": "Oktoberfest 2026: „999 Euro für eine Nacht in der Besenkammer“",
+          "link": "https://www.wiwo.de/unternehmen/oktoberfest-2026-999-euro-fuer-eine-nacht-in-der-besenkammer/100256122.html",
+          "published": "2026-09-22T12:00:42+00:00",
+          "summary": "Tourismus-Experte Michael Lidl über die Königsdisziplin der Hoteliers, zur Wiesn das Maximale rauszuholen – und die Gefahr, sich zu verzocken."
         },
         {
-          "title": "Mobilität: Anteil von E-Autos bei Neuzulassungen in EU erreicht Rekord",
-          "link": "https://www.wiwo.de/unternehmen/auto/mobilitaet-anteil-von-e-autos-bei-neuzulassungen-in-eu-erreicht-rekord/100256445.html",
-          "published": "2026-09-22T09:18:00+00:00",
-          "summary": "2025 wurden anteilig so viele E-Autos in der EU neu zugelassen wie nie zuvor. Deutschland liegt über dem Schnitt, aber Spitzenreiter sind andere Länder."
+          "title": "Energiepreise: Preisboom bei Öl und Gas: So teuer könnte Heizen werden",
+          "link": "https://www.wiwo.de/finanzen/boerse/heizen-oel-und-gaspreise-explodieren-so-viel-mehr-muessen-sie-zahlen/100255318.html",
+          "published": "2026-09-22T11:57:00+00:00",
+          "summary": "Der Krieg im Nahen Osten schlägt auf die Energiepreise durch. Im Winter werden Verbraucher das merken. Wie stark, hängt von der Art ihrer Heizung ab."
         },
         {
-          "title": "Chemiekonzern: Evonik kündigt Abbau von 3200 Stellen an",
-          "link": "https://www.wiwo.de/unternehmen/industrie/chemiekonzern-evonik-kuendigt-abbau-von-3200-stellen-an/100256454.html",
-          "published": "2026-09-22T09:09:00+00:00",
-          "summary": "Der Chemiekonzern setzt auf Wachstum in Asien und Amerika. In Deutschland sollen neue Aufgaben verteilt werden. Es ist nicht die erste Sparrunde."
+          "title": "Constellation Software: Die KI-Panik bei Software-Aktien ist vorbei",
+          "link": "https://www.wiwo.de/finanzen/boerse/constellation-software-warum-die-ki-panik-bei-software-aktien-vorbei-ist/100255439.html",
+          "published": "2026-09-22T11:26:06+00:00",
+          "summary": "Die Aktien der kanadischen Holding Constellation Software bieten nach starkem Abverkauf eine lukrative Einstiegsgelegenheit."
         },
         {
-          "title": "Autobauer: Mercedes-Benz droht mit Schließung von zwei deutschen Werken",
-          "link": "https://www.wiwo.de/unternehmen/auto/mercedes-ohne-kostensenkung-muessen-zwei-werke-schliessen-welche-ist-offen/100256492.html",
-          "published": "2026-09-22T09:05:39+00:00",
-          "summary": "Mercedes stellt die Schließung von zwei Werken in Aussicht. Der Autobauer fordert vom Betriebsrat deutliche Kostensenkungen, um das zu verhindern."
+          "title": "Inflation: Wegen Energiekosten rechnet EZB-Chefvolkswirt mit anhaltender Inflation",
+          "link": "https://www.wiwo.de/unternehmen/banken/inflation-wegen-energiekosten-rechnet-ezb-chefvolkswirt-mit-anhaltender-inflation/100256549.html",
+          "published": "2026-09-22T11:21:39+00:00",
+          "summary": "Öl und Gas verteuern sich erneut: EZB-Chefvolkswirt Philip Lane sieht die Inflation in der Eurozone länger über dem Zielwert."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Saudi-Arabien baut Elektroautos – mit Technik aus Deutschland",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/saudi-arabien-baut-elektroautos-mit-technologie-aus-deutschland/",
+          "published": "2026-09-22T11:10:00+00:00",
+          "summary": "Ausgerechnet der Ölstaat Saudi-Arabien steigt in den Bau von Elektroautos ein. Unter der neuen Marke Ceer wurden eine Limousine und ein SUV mit dem Namen „Exobot“ vorgestellt. Beide starten mit 850 …"
+        },
         {
           "title": "Elektroingenieure aus aller Welt studieren in Deutschland – über die Hälfte geht wieder",
           "link": "https://www.ingenieur.de/karriere/bildung/studium/elektroingenieure-aus-aller-welt-studieren-in-deutschland-uber-die-halfte-geht-wieder/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/karriere/arbeitsleben/ki-veraendert-die-gehaelter-diese-kompetenzen-sind-2027-gefragt/",
           "published": "2026-09-22T08:30:00+00:00",
           "summary": "Ingenieur ist nicht gleich Ingenieur: Laut Gehaltsreport 2027 von Michael Page liegen zwischen Maschinenbau und Systemarchitektur im Schnitt über 30.000 € im Jahr. Den Unterschied machen Daten …"
-        },
-        {
-          "title": "Ein Laserblitz genügt: Wie deutsche Forscher Plastik in Diamanten verwandeln",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/ein-laserblitz-genugt-wie-deutsche-forscher-plastik-in-diamanten-verwandeln/",
-          "published": "2026-09-21T15:30:22+00:00",
-          "summary": "Forschende aus Dresden und Rostock schießen mit einem Laser Nanodiamanten aus PET-Folie, mehr als 10 km/s schnell. Ein wasserlösliches Gel fängt die Partikel erstmals unversehrt auf. Reicht das für …"
         }
       ],
       "error": null
