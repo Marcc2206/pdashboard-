@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:11:16+00:00",
+  "generatedAt": "2026-09-22T14:09:04+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81124.html",
-          "published": "2026-09-22T12:10:42+00:00",
-          "summary": ""
+          "title": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html",
+          "published": "2026-09-22T13:46:48+00:00",
+          "summary": "Die Linke könnte in Berlin die Regierende Bürgermeisterin stellen - doch es gibt scharfe Kritik an antisemitischen Tendenzen in Teilen der Partei. Von der Parteiführung kommen Zusagen - aber reicht …"
         },
         {
-          "title": "AfD-Wahlerfolg in Sachsen-Anhalt: Steht die Kulturpolitik vor einem Kurswechsel?",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/afd-sachsen-anhalt-kultur-100.html",
-          "published": "2026-09-22T11:06:01+00:00",
-          "summary": "Der Wahlerfolg der AfD sorgt für Unruhe bei Kulturschaffenden in Sachsen-Anhalt. Sie fürchten Einschnitte für ihre Arbeit und bei Fördermitteln. Andere sehen Kultur gerade jetzt als Ort des Dialogs. …"
+          "title": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
+          "link": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html",
+          "published": "2026-09-22T13:45:32+00:00",
+          "summary": "Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine …"
         },
         {
-          "title": "\"Swan Song\": Warum ein Buch über Prinzessin Diana für Furore sorgt",
-          "link": "https://www.tagesschau.de/ausland/europa/prinzessin-diana-buch-bruder-100.html",
-          "published": "2026-09-22T11:00:55+00:00",
-          "summary": "Charles Spencer, der Bruder von Lady Di, hat ein Buch über seine Schwester geschrieben. Darin erhebt er schwere Vorwürfe gegen den heutigen König, die der Palast ungewöhnlich deutlich zurückweist. …"
+          "title": "Nach Berlin-Wahl: SPD-Fraktionschef Saleh will nicht erneut kandidieren",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/spd-fraktionschef-saleh-100.html",
+          "published": "2026-09-22T13:42:27+00:00",
+          "summary": "Der derzeitige Fraktionsvorsitzende der Berliner SPD, Raed Saleh, wird sich nicht erneut um das Amt bewerben. Grund ist das schlechte Abschneiden bei der Wahl, zuletzt wurden parteiinterne Rufe nach …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-22T10:35:34+00:00",
-          "summary": "Am Mittwoch ist es im Süden und in der Mitte nach Auflösung regionaler Nebelfelder sonnig oder leicht bewölkt. Im Norden ist es wolkiger und im Nordwesten fällt gegen Abend Regen. 15 bis 24 Grad."
+          "title": "Wahlparty in Berlin: Linken-Politiker Kocak distanziert sich von Remmo",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/linken-politiker-kocak-remmo-100.html",
+          "published": "2026-09-22T13:26:00+00:00",
+          "summary": "Die Remmo-Familie ist für viele Verbrechen verantwortlich. Nach der Wahl in Berlin tauchte ein Familienmitglied auf der Linken-Wahlparty auf. Auch Chats des Bundestagsabgeordneten Kocak sorgen für …"
         },
         {
-          "title": "Anteil von E-Autos bei Neuzulassungen in EU erreicht neuen Rekord",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-e-autos-neuwagen-zulassungen-100.html",
-          "published": "2026-09-22T10:25:19+00:00",
-          "summary": "Noch nie sind in der EU so viele Autos mit einem reinen Elektroantrieb zugelassen worden wie im vergangenen Jahr. Gut jeder sechste Pkw war ein E-Auto. Deutschland lag dabei leicht über dem Schnitt."
+          "title": "Soll Borussia retten: Blessin ist neuer Trainer in Mönchengladbach",
+          "link": "https://www.sportschau.de/regional/wdr/wdr-blessin-neuer-trainer-in-gladbach-100.html",
+          "published": "2026-09-22T13:22:30+00:00",
+          "summary": "Alexander Blessin wird neuer Trainer des Bundesliga-Schlusslichts Borussia Mönchengladbach. Er hatte zuletzt zwei Jahre lang den FC St. Pauli trainiert."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-haben-2025-die-hoechsten-renditen-fuer-anleger-erzielt/100224417.html",
-          "published": "2026-09-22T12:07:00+00:00",
-          "summary": "Digitale Vermögensverwalter erzielten 2025 teils zweistellige Renditen, wie eine neue Auswertung zeigt. Die Lösungen eignen sich besonders für zwei Anlegertypen."
+          "title": "+++ Wahlen +++: Söder will „extremistischer“ Politik der Linken in Berlin das Geld entziehen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-soeder-will-extremistischer-politik-der-linken-geld-entziehen/100252039.html",
+          "published": "2026-09-22T13:57:00+00:00",
+          "summary": "Schwesig will Sondierungen nächste Woche starten +++ Berlins SPD-Fraktionschef will nicht wieder kandieren +++ Fraktionsmanagerin: „Volle Rückendeckung“ für den Kanzler ++ Der Newsblog"
         },
         {
-          "title": "Gewerkschaften: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und Jobsicherheit",
-          "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaften-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-jobsicherheit/100256579.html",
-          "published": "2026-09-22T12:05:31+00:00",
-          "summary": "Die IG-Metall-Bezirke stecken ihre Ziele für die Tarifrunde ab. Angesichts von Stellenabbau und drohenden Werksschließungen rückt vor allem die Beschäftigungssicherung in den Fokus."
+          "title": "Wall Street: US-Börsen starten im Plus – Neue KI-Zuversicht als Kurstreiber",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-starten-im-plus-neue-ki-zuversicht/100256578.html",
+          "published": "2026-09-22T13:50:44+00:00",
+          "summary": "Der Technologiesektor gibt den US-Märkten auch am Dienstag Rückenwind. Die Ölpreise fallen weiter und die Hoffnungen auf Gespräche der USA mit dem Iran und China halten an."
         },
         {
-          "title": "Linke in der Kritik: Linke-Politiker chattet mit Clan-Mitglied - deutliche Kritik",
-          "link": "https://www.handelsblatt.com/politik/deutschland/linke-in-der-kritik-linke-politiker-chattet-mit-clan-mitglied-deutliche-kritik/100256589.html",
-          "published": "2026-09-22T12:04:44+00:00",
-          "summary": "Der Linke-Bundestagsabgeordnete Ferat Koçak hatte Chatkontakt mit einem Mitglied der Familie Remmo. Dabei ging es auch um eine seiner Reden im Parlament. Die Forderung nach Konsequenzen wird lauter."
+          "title": "Konjunktur: Mehr als doppelt so viel Wachstum in diesem Jahr – woher der plötzliche deutsche Aufschwung kommt",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-woher-der-ploetzliche-deutsche-aufschwung-kommt/100256427.html",
+          "published": "2026-09-22T13:43:50+00:00",
+          "summary": "Die führenden Forschungsinstitute gehen von deutlich mehr Wirtschaftswachstum aus – aus drei Gründen. Sind die wirtschaftlichen Probleme in Deutschland doch nicht so groß?"
         },
         {
-          "title": "Dax aktuell: Dax im Plus – Ölpreis sinkt wieder unter 100 Dollar",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-im-plus-oelpreis-sinkt-wieder-unter-100-dollar/100256414.html",
-          "published": "2026-09-22T12:02:47+00:00",
-          "summary": "Die Energiepreise bleiben bestimmendes Thema an den Börsen. Anleger haben zudem die Rede von Donald Trump vor der UN-Vollversammlung im Blick. Unter Druck gerät erneut die Vonovia-Aktie."
+          "title": "Energiekosten: Prognose: Heizkosten steigen 2026 an",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energiekosten-prognose-heizkosten-steigen-2026-an/100256350.html",
+          "published": "2026-09-22T13:42:10+00:00",
+          "summary": "Es zeichnet sich ab, dass Haushalte in diesem Jahr fürs Heizen oft mehr bezahlen müssen als 2025. Wer mit Gas heizt, könnte erstaunlicherweise aber noch Glück haben. Eine neue Studie nennt Gründe."
         },
         {
-          "title": "Linke-Wahlsieg: Israels Botschafter sieht nach Berlin-Wahl Gefahr für Juden",
-          "link": "https://www.handelsblatt.com/politik/deutschland/linke-wahlsieg-israels-botschafter-sieht-nach-berlin-wahl-gefahr-fuer-juden/100256376.html",
-          "published": "2026-09-22T12:01:11+00:00",
-          "summary": "Hat die Linke ein Antisemitismus-Problem? Nach dem Wahlsieg in Berlin schlägt Israels Botschafter Alarm. Die Partei wehrt sich gegen die Vorhaltungen - und treibt die Regierungsbildung voran."
+          "title": "Bundesregierung: Reformen durchziehen oder aufweichen? Union streitet um ihren Kurs",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-reformen-durchziehen-oder-aufweichen-streit-um-union-kurs/100256430.html",
+          "published": "2026-09-22T13:38:42+00:00",
+          "summary": "Nach den Wahlniederlagen wachsen auch bei CDU und CSU Zweifel am Kurs der Regierung. Während die Bundestagsfraktion Reformen durchziehen will, fordern viele Ministerpräsidenten Korrekturen."
         }
       ],
       "error": null
@@ -86,6 +86,12 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "S&P 500 im Chart-Check: Steilvorlage hoch drei!",
+          "link": "https://www.n-tv.de/wirtschaft/boerse/Steilvorlage-hoch-drei-id30347915.html",
+          "published": "2026-09-22T13:56:00+00:00",
+          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den S&P 500."
+        },
+        {
           "title": "Staatsausgaben zahlen sich aus: Wirtschaftsforscher verdoppeln Wachstumsprognose",
           "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsforscher-verdoppeln-Wachstumsprognose-id31334071.html",
           "published": "2026-09-22T10:06:46+00:00",
@@ -95,7 +101,7 @@
           "title": "Deutschlands neue Abhängigkeit: Nach Putin sitzt nun Trump am Gas-Erpressungshebel",
           "link": "https://www.n-tv.de/wirtschaft/Nach-Putin-sitzt-nun-Trump-am-Gas-Erpressungshebel-id31331534.html",
           "published": "2026-09-22T09:09:11+00:00",
-          "summary": "Statt russischem Gas importiert Deutschland heute eine entscheidende Menge Flüssiggas aus den USA. Kritiker sehen ein erhebliches Risiko für die Preise, aber auch die Versorgungssicherheit. Europa …"
+          "summary": "Statt russischem Gas importiert Deutschland heute eine entscheidende Menge Flüssiggas aus den USA. Kritiker sehen ein erhebliches Risiko für die Preise, aber auch die Versorgungssicherheit. Gezielt …"
         },
         {
           "title": "\"Frühe und gezielte Bildung\": Nach Pisa-Schock verbünden sich Arbeitgeber und Gewerkschaften",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/US-Firma-will-in-Kuerze-mit-Satellitenbau-in-Deutschland-starten-id31332975.html",
           "published": "2026-09-22T07:24:34+00:00",
           "summary": "Satelliten liefern Daten zum Wetter, aber auch zu militärischen Anlagen. Jetzt will das Unternehmen Planet Labs einen Produktionsstandort in Berlin eröffnen. Auf Fragen nach einem möglichen Einfluss …"
-        },
-        {
-          "title": "Großteil entfällt in Deutschland: Chemiekonzern Evonik kündigt Abbau von 3200 Stellen an",
-          "link": "https://www.n-tv.de/wirtschaft/Chemiekonzern-Evonik-kuendigt-Abbau-von-3200-Stellen-an-id31333391.html",
-          "published": "2026-09-22T07:21:11+00:00",
-          "summary": "Der Spezialchemiekonzern Evonik steckt wie die gesamte Branche in der Krise und setzt seinen Umbau auf allen Ebenen fort. Zahlreiche Beschäftigte müssen um ihre Jobs bangen. Auch Tochterunternehmen …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Ölpreise fallen: DAX schüttelt Verluste ab - 50-Tage-Linie im Fokus",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-oelpreise-fallen-dax-schuettelt-verluste-ab-50-tage-linie-im-fokus-15943636",
-          "published": "2026-09-22T12:02:00+00:00",
-          "summary": "Der DAX verbuchte zum Sitzungsbeginn einen kleinen Aufschlag von 0,07 Prozent auf 25.592,98 Zähler. Danach zeigte er sich zunächst wankelmütig und pendelte zwischen Gewinn- und Verlustzone hin und …"
+          "title": "Siemens Energy-Aktie erholt sich nach Kursrutsch: Wie weit reicht die Rally?",
+          "link": "https://www.finanzen.net/nachricht/aktien/sorgen-um-ki-investitionen-siemens-energy-aktie-erholt-sich-nach-kursrutsch-wie-weit-reicht-die-rally-00-15946478",
+          "published": "2026-09-22T14:02:05+00:00",
+          "summary": "Nach heftigem Ausverkauf kämpft sich die Aktie zurück Richtung altes Niveau Konzernumbau und sinkender Siemens-Anteil sorgen für neue Dynamik Analysten sehen bei Siemens Energy überwiegend weiteres …"
         },
         {
-          "title": "Bitcoin trotzt Clarity Act Rückschlag und Zinserhöhung und steigt auf das höchste Niveau seit Jahresbeginn",
-          "link": "https://www.finanzen.net/nachricht/devisen/coin-tuesday-bitcoin-trotzt-clarity-act-rueckschlag-und-zinserhoehung-und-steigt-auf-das-hoechste-niveau-seit-jahresbeginn-00-15946408",
-          "published": "2026-09-22T12:00:00+00:00",
-          "summary": "Das Wichtigste in Kürze: Der Bitcoin Kurs verkraftete das Scheitern des Clarity Act und die Zinserhöhung der Fed und stieg anschließend ..."
+          "title": "S&P 500-Papier Marvell Technology-Aktie: So viel Gewinn hätte eine Marvell Technology-Investition von vor 3 Jahren eingebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-marvell-technology-aktie-so-viel-gewinn-haette-eine-marvell-technology-investition-von-vor-3-jahren-eingebracht-15946800",
+          "published": "2026-09-22T14:00:48+00:00",
+          "summary": "Das Marvell Technology -Papier wurde heute vor 3 Jahren via Börse NAS gehandelt. Der Schlusskurs der Marvell Technology-Aktie betrug an diesem Tag 52,30 USD. Bei einer 100-USD-Investition vor 3 …"
         },
         {
-          "title": "Hot Stocks heute: ASML vor dem Ausbruch? Dieser Chip-Gigant ist der Trade der Woche!",
-          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-asml-vor-dem-ausbruch-dieser-chip-gigant-ist-der-trade-der-woche-15946413",
-          "published": "2026-09-22T11:52:54+00:00",
-          "summary": "Außerdem im Podcast: Meta und der KI-Assistent Muse, die Rally bei AMD und Intel, die Konjunkturhoffnungen für Deutschland, steigende Staatsausgaben für Infrastruktur und Verteidigung sowie neue …"
+          "title": "S&P 500-Titel Blackstone-Aktie: So viel hätte eine Investition in Blackstone von vor 3 Jahren abgeworfen",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-blackstone-aktie-so-viel-haette-eine-investition-in-blackstone-von-vor-3-jahren-abgeworfen-15946799",
+          "published": "2026-09-22T14:00:48+00:00",
+          "summary": "Heute vor 3 Jahren wurde die Blackstone -Aktie via Börse NYSE gehandelt. Zur Schlussglocke waren Blackstone-Anteile an diesem Tag 111,18 USD wert. Bei einem Blackstone-Investment von 100 USD zu …"
         },
         {
-          "title": "Warnung vor Russland: Ischinger erwartet gefährlichen Herbst",
-          "link": "https://www.finanzen.net/nachricht/aktien/warnung-vor-russland-ischinger-erwartet-gefaehrlichen-herbst-15946415",
-          "published": "2026-09-22T11:52:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Die Vertrauenskrise der Bundesregierung und die Schwäche Europas vergrößern nach Einschätzung des früheren Spitzendiplomaten Wolfgang Ischinger die Bedrohung durch Russland. …"
+          "title": "S&P 500-Papier The Cigna Group Registered-Aktie: So viel Gewinn hätte ein Investment in The Cigna Group Registered von vor 5 Jahren eingebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-the-cigna-group-registered-aktie-so-viel-gewinn-haette-ein-investment-in-the-cigna-group-registered-von-vor-5-jahren-eingebracht-15946798",
+          "published": "2026-09-22T14:00:48+00:00",
+          "summary": "Heute vor 5 Jahren fand an der Börse NYSE Handel mit der The Cigna Group Registered -Aktie statt. Diesen Tag beendete das Papier bei 201,99 USD. Wenn zu diesem Zeitpunkt 100 USD in das Papier …"
         },
         {
-          "title": "ROUNDUP: Planet Labs startet bald Satellitenproduktion in Berlin",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-planet-labs-startet-bald-satellitenproduktion-in-berlin-15946414",
-          "published": "2026-09-22T11:52:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Das US-Unternehmen Planet Labs will von diesem Herbst an mit dem Bau von Satelliten in Deutschland beginnen. Die gesamte Fertigung und Erprobung der Satelliten solle in Berlin …"
+          "title": "S&P 500-Wert Booking-Aktie: So viel hätten Anleger mit einem Investment in Booking von vor 5 Jahren verdient",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-wert-booking-aktie-so-viel-haetten-anleger-mit-einem-investment-in-booking-von-vor-5-jahren-verdient-15946797",
+          "published": "2026-09-22T14:00:48+00:00",
+          "summary": "Vor 5 Jahren wurde die Booking -Aktie an der Börse NAS gehandelt. Diesen Tag beendete die Booking-Aktie bei 96,24 USD. Bei einem 10.000-USD-Investment vor 5 Jahren, besäße man nun 103,902 …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Berlin-Wahl 2026: Wie die Berliner Gründerszene auf die Wahlergebnisse blickt",
-          "link": "https://www.wiwo.de/politik/deutschland/berlin-wahl-2026-wie-die-gruenderszene-auf-die-wahlergebnisse-blickt/100256256.html",
-          "published": "2026-09-22T12:04:14+00:00",
-          "summary": "Die Linke gewinnt erstmals die Berlin-Wahl. Doch dortige Start-ups kritisieren linke Enteignungspläne – und fordern lang ausgebliebene Reformen."
+          "title": "Nach der Wahl: Wie die Bundesregierung offenbar verhindern will, dass die AfD Geheimnisse nach Russland weiterleitet",
+          "link": "https://www.wiwo.de/politik/deutschland/afd-und-russland-wie-die-bundesregierung-verhindern-will-dass-geheimnisse-weitergeleitet-werden/100256416.html",
+          "published": "2026-09-22T13:56:32+00:00",
+          "summary": "Die Bundesregierung möchte einer möglichen AfD-Landesregierung in Magdeburg keine Geheimdienstinformationen mehr zu Russland zukommen lassen."
         },
         {
-          "title": "Oktoberfest 2026: „999 Euro für eine Nacht in der Besenkammer“",
-          "link": "https://www.wiwo.de/unternehmen/oktoberfest-2026-999-euro-fuer-eine-nacht-in-der-besenkammer/100256122.html",
-          "published": "2026-09-22T12:00:42+00:00",
-          "summary": "Tourismus-Experte Michael Lidl über die Königsdisziplin der Hoteliers, zur Wiesn das Maximale rauszuholen – und die Gefahr, sich zu verzocken."
+          "title": "Metall- und Elektroindustrie: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und sichere Jobs",
+          "link": "https://www.wiwo.de/unternehmen/auto/metall-und-elektroindustrie-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-sichere-jobs/100256623.html",
+          "published": "2026-09-22T13:49:47+00:00",
+          "summary": "Die IG Metall fordert fünf Prozent mehr Lohn. In der kriselnden Metall- und Elektroindustrie droht ein Konflikt um Arbeitskosten und Jobs."
         },
         {
-          "title": "Energiepreise: Preisboom bei Öl und Gas: So teuer könnte Heizen werden",
-          "link": "https://www.wiwo.de/finanzen/boerse/heizen-oel-und-gaspreise-explodieren-so-viel-mehr-muessen-sie-zahlen/100255318.html",
-          "published": "2026-09-22T11:57:00+00:00",
-          "summary": "Der Krieg im Nahen Osten schlägt auf die Energiepreise durch. Im Winter werden Verbraucher das merken. Wie stark, hängt von der Art ihrer Heizung ab."
+          "title": "Geldanlage: „Am besten lässt man sich nicht verrückt machen“",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-wie-sollen-anleger-mit-der-aktuellen-marktlage-umgehen/100256436.html",
+          "published": "2026-09-22T13:44:56+00:00",
+          "summary": "Anlageprofi Andreas Beck erklärt, warum Anleihen jetzt attraktiv sind, wie Anleger mit Unsicherheit bei Aktien umgehen sollten und warum Gold gerade keine gute Absicherung ist."
         },
         {
-          "title": "Constellation Software: Die KI-Panik bei Software-Aktien ist vorbei",
-          "link": "https://www.wiwo.de/finanzen/boerse/constellation-software-warum-die-ki-panik-bei-software-aktien-vorbei-ist/100255439.html",
-          "published": "2026-09-22T11:26:06+00:00",
-          "summary": "Die Aktien der kanadischen Holding Constellation Software bieten nach starkem Abverkauf eine lukrative Einstiegsgelegenheit."
+          "title": "BörsenTag: Angst vor KI‑Agenten? Offenbar nicht vor Muse",
+          "link": "https://www.wiwo.de/finanzen/boerse/meta-angst-vor-kiagenten-offenbar-nicht-vor-muse/100256489.html",
+          "published": "2026-09-22T13:43:54+00:00",
+          "summary": "Metas neuer KI-Agent Muse führt wenige Tage nach dem Start die App-Charts an. An der Börse löst das einmal mehr Euphorie aus."
         },
         {
-          "title": "Inflation: Wegen Energiekosten rechnet EZB-Chefvolkswirt mit anhaltender Inflation",
-          "link": "https://www.wiwo.de/unternehmen/banken/inflation-wegen-energiekosten-rechnet-ezb-chefvolkswirt-mit-anhaltender-inflation/100256549.html",
-          "published": "2026-09-22T11:21:39+00:00",
-          "summary": "Öl und Gas verteuern sich erneut: EZB-Chefvolkswirt Philip Lane sieht die Inflation in der Eurozone länger über dem Zielwert."
+          "title": "Grönland-Abkommen: Hoffnung auf den Grönland-Deal lässt Rohstoffaktien explodieren",
+          "link": "https://www.wiwo.de/finanzen/boerse/groenland-abkommen-hoffnung-auf-den-groenland-deal-laesst-rohstoffaktien-explodieren/100256604.html",
+          "published": "2026-09-22T13:24:15+00:00",
+          "summary": "Die Aussicht auf ein Abkommen zwischen den USA und Dänemark lässt die Kurse von Aktien mit Grönland-Bezug hochschießen. Wer einsteigen will, sollte vorsichtig sein."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "UBTech schraubt Produktion hoch – auf 10.000 Roboter pro Jahr",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/automation/ubtech-schraubt-produktion-hoch-auf-10-000-roboter-pro-jahr/",
+          "published": "2026-09-22T13:00:00+00:00",
+          "summary": "Mit einer geplanten Jahreskapazität von 10.000 humanoiden Robotern im neuen Werk setzt UBTech ein Zeichen. Doch noch ist die Nachfrage aus der Industrie zögerlich."
+        },
         {
           "title": "Saudi-Arabien baut Elektroautos – mit Technik aus Deutschland",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/saudi-arabien-baut-elektroautos-mit-technologie-aus-deutschland/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/volvo-wirbt-vw-seinen-profitabelsten-markenchef-ab/",
           "published": "2026-09-22T09:06:30+00:00",
           "summary": "Klaus Zellmer wechselt von Škoda zu Volvo Cars. Wer ist der Manager, der Škoda profitabler machte als die Kernmarke VW?"
-        },
-        {
-          "title": "67.500 € oder 99.000 €? Warum zwei Ingenieure so unterschiedlich verdienen",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/ki-veraendert-die-gehaelter-diese-kompetenzen-sind-2027-gefragt/",
-          "published": "2026-09-22T08:30:00+00:00",
-          "summary": "Ingenieur ist nicht gleich Ingenieur: Laut Gehaltsreport 2027 von Michael Page liegen zwischen Maschinenbau und Systemarchitektur im Schnitt über 30.000 € im Jahr. Den Unterschied machen Daten …"
         }
       ],
       "error": null
