@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T22:08:37+00:00",
+  "generatedAt": "2026-09-22T00:11:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653214.html",
+          "published": "2026-09-21T23:21:57+00:00",
+          "summary": ""
+        },
+        {
+          "title": "SPD-Vize Rehlinger fordert \"echte Reformen und nicht nur Kürzungsvorschläge\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-regierung-rehlinger-100.html",
+          "published": "2026-09-21T22:55:54+00:00",
+          "summary": "Für SPD-Vizechefin Rehlinger sind die jüngsten Wahlergebnisse ein Signal, dass sich etwas ändern müsse. Das \"Störgefühl\" vieler Menschen beim Rentenpaket könne sie nachvollziehen. Bei den Reformen …"
+        },
+        {
+          "title": "FIFA: Infantino bereit für Reformen - aber kein Rückzug",
+          "link": "https://www.sportschau.de/fussball/infantino-zeigt-sich-offen-fuer-reformen,infantino-brief-100.html",
+          "published": "2026-09-21T21:53:16+00:00",
+          "summary": "FIFA-Präsident Gianni Infantino hat auf die andauernde Kritik an seinem Führungsstil reagiert: Erstmals bot er seinen Gegnern Gespräche über mögliche Reformen im Fußball-Weltverband an."
+        },
+        {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-81166.html",
           "published": "2026-09-21T21:46:41+00:00",
           "summary": ""
         },
         {
-          "title": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
-          "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
-          "published": "2026-09-21T21:20:07+00:00",
-          "summary": "In Mecklenburg-Vorpommern will die zweitplatzierte SPD Sondierungsgespräche beginnen. Der CDU-Landesvorsitzende Peters hat dort seinen Rücktritt erklärt. Amthor übernimmt für den Übergang."
-        },
-        {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12872.html",
           "published": "2026-09-21T21:19:51+00:00",
-          "summary": ""
-        },
-        {
-          "title": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
-          "published": "2026-09-21T20:59:55+00:00",
-          "summary": "Für viele überraschend hat sich Kanzler Merz zum dualen System der Krankenkassen geäußert. Viele sähen darin ein \"Gerechtigkeitsproblem\", über das man sprechen müsse. Seine Aussage ruft deutliche …"
-        },
-        {
-          "title": "Zustand der CDU nach den verheerenden Wahlergebnissen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1653190.html",
-          "published": "2026-09-21T20:40:14+00:00",
           "summary": ""
         }
       ],
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Grenzregion: Ostfrankreich will verstärkt deutsche Investoren werben",
+          "link": "https://www.handelsblatt.com/politik/deutschland/grenzregion-ostfrankreich-will-verstaerkt-deutsche-investoren-werben/100256356.html",
+          "published": "2026-09-21T23:00:04+00:00",
+          "summary": "Mit einer neuen Anlaufstelle in München will Ostfrankreich gezielt deutsche Unternehmen ansprechen. Besonders in Schlüsseltechnologien wollen die Franzosen deutsche Investoren gewinnen."
+        },
+        {
+          "title": "Energiekosten: Heizkosten steigen laut Prognose 2026 an",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energiekosten-heizkosten-steigen-laut-prognose-2026-an/100256352.html",
+          "published": "2026-09-21T22:53:42+00:00",
+          "summary": "Es zeichnet sich ab, dass Haushalte in diesem Jahr fürs Heizen oft mehr bezahlen müssen als 2025. Wer mit Gas heizt, könnte aber noch Glück haben. Eine neue Studie nennt Gründe."
+        },
+        {
+          "title": "Energiekosten: Prognose: Heizkosten steigen 2026 an",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energiekosten-prognose-heizkosten-steigen-2026-an/100256350.html",
+          "published": "2026-09-21T22:02:04+00:00",
+          "summary": "Es zeichnet sich ab, dass Haushalte in diesem Jahr fürs Heizen oft mehr bezahlen müssen als 2025. Wer mit Gas heizt, könnte erstaunlicherweise aber noch Glück haben. Eine neue Studie nennt Gründe."
+        },
+        {
           "title": "Pressefreiheit in den USA: Rauswurf aus Weißem Haus: Trumps Streit mit Medien eskaliert",
           "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-rauswurf-aus-weissem-haus-trumps-streit-mit-medien-eskaliert/100256211.html",
           "published": "2026-09-21T21:46:48+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-regierung-hat-tankrabatt-auf-den-weg-gebracht/100256279.html",
           "published": "2026-09-21T20:52:27+00:00",
           "summary": "Zum 1. Oktober soll das Tanken billiger werden. Die Bundesregierung hat dazu nun entsprechende Beschlüsse gefasst."
-        },
-        {
-          "title": "Russische Milliardäre: Zoff um Oligarchen: Vorerst kein Deal zu Russland-Sanktionen",
-          "link": "https://www.handelsblatt.com/politik/international/russische-milliardaere-zoff-um-oligarchen-vorerst-kein-deal-zu-russland-sanktionen/100256323.html",
-          "published": "2026-09-21T20:23:16+00:00",
-          "summary": "Die EU hat nach dem Beginn von Russlands Angriffskrieg gegen die Ukraine Sanktionen gegen etliche milliardenschwere Oligarchen verhängt. Nun gibt es in der EU großen Ärger um zwei von ihnen."
-        },
-        {
-          "title": "Kanzler-Spekulationen: Wüst: „Ich möchte Ministerpräsident bleiben“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/kanzler-spekulationen-wuest-ich-moechte-ministerpraesident-bleiben/100256342.html",
-          "published": "2026-09-21T20:20:28+00:00",
-          "summary": "Nordrhein-Westfalens Regierungschef Wüst wird als möglicher Nachfolger von Kanzler Merz gehandelt. Bei einer Veranstaltung bekennt Wüst sich zu seinem Amt in NRW – für immer?"
-        },
-        {
-          "title": "Nach der Landtagswahl in MV: MV mit Kurs auf Rot-Rot-Grün - CDU-Landesführung wirft hin",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-landtagswahl-in-mv-mv-mit-kurs-auf-rot-rot-gruen-cdu-landesfuehrung-wirft-hin/100256336.html",
-          "published": "2026-09-21T19:19:05+00:00",
-          "summary": "Nach der Wahl ist vor den Koalitionsverhandlungen in Mecklenburg-Vorpommern. Die ersten Weichen sind gestellt. Bei dem Wahlverlierer CDU gibt es derweil personelle Konsequenzen."
         }
       ],
       "error": null
