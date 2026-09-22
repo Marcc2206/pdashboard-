@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T16:09:17+00:00",
+  "generatedAt": "2026-09-22T18:11:26+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653718.html",
-          "published": "2026-09-22T16:06:46+00:00",
-          "summary": ""
+          "title": "EU streicht zwei russische Oligarchen von Sanktionsliste",
+          "link": "https://www.tagesschau.de/ausland/europa/sanktionen-eu-oligarchen-100.html",
+          "published": "2026-09-22T17:11:38+00:00",
+          "summary": "Die EU hat sich in letzter Minute darauf verständigt, die Russland-Sanktionen gegen rund 3.000 Menschen und Organisationen um drei Jahre zu verlängern - mit wichtigen Ausnahmen: Zwei Oligarchen …"
         },
         {
           "title": "Militärjet bei US-Airbase Spangdahlem abgestürzt",
           "link": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/flugzeugunglueck-us-airbase-spangdahlem-100.html",
-          "published": "2026-09-22T16:04:00+00:00",
+          "published": "2026-09-22T16:37:00+00:00",
           "summary": "Auf der US-Airbase Spangdahlem ist eine F‑16 der US Air Force abgestürzt. Der Pilot rettete sich mit dem Schleudersitz und wird medizinisch versorgt. Die Ursache ist unklar."
         },
         {
-          "title": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
-          "link": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html",
-          "published": "2026-09-22T16:02:38+00:00",
-          "summary": "Im Streit um Grönland haben die USA, Dänemark und die Arktisinsel ein Abkommen geschlossen. Die Regierungschefs der drei Parteien unterzeichneten am Rande der UN-Vollversammlung in New York eine …"
-        },
-        {
-          "title": "tagesschau in Einfacher Sprache",
-          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1440.html",
-          "published": "2026-09-22T16:01:02+00:00",
-          "summary": ""
+          "title": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
+          "link": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
+          "published": "2026-09-22T16:12:08+00:00",
+          "summary": "In seiner Rede vor den Vereinten Nationen gibt sich US-Präsident Trump zuversichtlich, den Iran-Krieg mit einem Abkommen beenden zu können. Erneut verbindet er dies mit einer Drohung. Auch für den …"
         },
         {
           "title": "Wahlparty in Berlin: Linken-Politiker Kocak distanziert sich von Remmo",
           "link": "https://www.tagesschau.de/inland/regional/berlin/linken-politiker-kocak-remmo-100.html",
-          "published": "2026-09-22T15:59:13+00:00",
+          "published": "2026-09-22T16:11:18+00:00",
           "summary": "Die Remmo-Familie ist für viele Verbrechen verantwortlich. Nach der Wahl in Berlin tauchte ein Familienmitglied auf der Linken-Wahlparty auf. Auch Chats des Bundestagsabgeordneten Kocak sorgen für …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653718.html",
+          "published": "2026-09-22T16:06:46+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Dax aktuell: Dax im Plus – Ölpreis sinkt zeitweise wieder unter 100 Dollar",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-oelpreis-zeitweise-unter-100-dollar/100256414.html",
-          "published": "2026-09-22T15:53:00+00:00",
-          "summary": "Die Energiepreise blieben am Dienstag bestimmendes Thema an den Börsen. Anleger hatten zudem die Rede von Donald Trump vor der UN-Vollversammlung im Blick."
+          "title": "Wall Street: US-Börsen notieren uneinheitlich – KI-Zuversicht hilft Nasdaq",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-uneinheitlich-ki-zuversicht-hilft-nasdaq/100256578.html",
+          "published": "2026-09-22T17:42:00+00:00",
+          "summary": "Der Technologiesektor gibt den US-Märkten auch am Dienstag Rückenwind. Die Ölpreise fallen weiter und die Hoffnungen auf Gespräche der USA mit dem Iran und China halten an."
         },
         {
-          "title": "Nach Wahldebakel: Berliner SPD sucht Orientierung und neuen Fraktionschef",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-wahldebakel-berliner-spd-sucht-orientierung-und-neuen-fraktionschef/100256617.html",
-          "published": "2026-09-22T15:51:20+00:00",
-          "summary": "Raed Saleh war 15 Jahre lang Fraktionschef in Berlin. Jetzt will er nicht wieder kandidieren. Aber was heißt das für die Hauptstadt-SPD und für die anstehenden Sondierungsgespräche?"
+          "title": "Bundesregierung: Reformen durchziehen oder aufweichen? Union streitet um ihren Kurs",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-reformen-durchziehen-oder-aufweichen-streit-um-unions-kurs/100256430.html",
+          "published": "2026-09-22T17:26:11+00:00",
+          "summary": "Nach den Wahlniederlagen wachsen auch bei CDU und CSU Zweifel am Kurs der Regierung. Bald schon will Merz ihn intern zur Diskussion stellen. Schon jetzt zeichnen sich zwei Lager ab."
         },
         {
-          "title": "Gerichtsprozess: Zweieinhalb Jahre Haft für René Benko",
-          "link": "https://www.handelsblatt.com/politik/international/gerichtsprozess-zweieinhalb-jahre-haft-fuer-rene-benko/100256638.html",
-          "published": "2026-09-22T15:50:40+00:00",
-          "summary": "René Benko ist erneut wegen Gläubigerschädigung verurteilt worden. Im teilweise neu aufgerollten Prozess erhöhte das Landesgericht Innsbruck seine Haftstrafe sogar."
+          "title": "Ressourcen: USA unterzeichnen Vereinbarung mit Dänemark im Grönland-Streit",
+          "link": "https://www.handelsblatt.com/politik/international/ressourcen-usa-unterzeichnen-vereinbarung-mit-daenemark-im-groenland-streit/100256674.html",
+          "published": "2026-09-22T17:24:01+00:00",
+          "summary": "Amerika baut seine Militärpräsenz in Grönland aus. Ein Abkommen mit Dänemark und der Arktisinsel erlaubt zusätzliche Stützpunkte. US-Präsident Trump hat damit nicht ganz sein Ziel erreicht."
         },
         {
-          "title": "UN-Generaldebatte: Trump will Begriff KI mit „Superintelligenz“ ersetzen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/un-generaldebatte-trump-will-begriff-ki-mit-superintelligenz-ersetzen/100256660.html",
-          "published": "2026-09-22T15:49:24+00:00",
-          "summary": "Donald Trump mag die Bezeichnung Künstliche Intelligenz nicht, weil sie die Technologie „fake“ erscheinen lasse. Der Präsident hat einen neuen Namen parat, an den sich seine Regierung nun halten soll."
+          "title": "UN-Vollversammlung: „Friedensstifter und Technologie-Erklärer“: Die große Trump-Show bei den Vereinten Nationen",
+          "link": "https://www.handelsblatt.com/politik/international/un-vollversammlung-die-grosse-trump-show-bei-den-vereinten-nationen/100256267.html",
+          "published": "2026-09-22T17:23:48+00:00",
+          "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von KI erklärt er zur Lüge – und will den Begriff durch „Superintelligenz“ ersetzen."
         },
         {
-          "title": "+++ USA +++: Trump feiert vor der UN die USA und sich selbst: „Wir sind jetzt im goldenen Zeitalter“",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trump-feiert-vor-der-un-die-usa-und-sich-selbst/29669594.html",
-          "published": "2026-09-22T15:48:35+00:00",
-          "summary": "Grönland, USA und Dänemark unterzeichnen Abkommen +++ US-Präsident ruft Staaten zu Austritt aus Strafgerichtshof auf +++ Iran-Krieg laut Trump vor Umbruch: Deal oder „Hölle“ für den Iran +++ Der …"
+          "title": "Nach Streit mit Trump: Grönland-Abkommen: Was springt für Trump raus?",
+          "link": "https://www.handelsblatt.com/politik/international/nach-streit-mit-trump-groenland-abkommen-was-springt-fuer-trump-raus/100256677.html",
+          "published": "2026-09-22T17:21:59+00:00",
+          "summary": "Er wollte die Insel in US-Territorium verwandeln. Ein frisch unterzeichneter Deal soll den Grönland-Streit zwischen US-Präsident Trump und Dänemark nun beilegen. Was steht im Abkommen?"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Linke will Vergesellschaftung: Können Enteignungen Berlins Mieten senken?",
+          "link": "https://www.n-tv.de/wirtschaft/Koennen-Enteignungen-Berlins-Mieten-senken-id31335604.html",
+          "published": "2026-09-22T16:09:19+00:00",
+          "summary": "Hunderttausende zusätzliche Wohnungen in öffentlicher Hand, niedrigere Mieten für viele Berliner: Das ist das Versprechen der Linken. Ob diese Rechnung aufgeht, ist zweifelhaft."
+        },
         {
           "title": "Neu aufgerollter Prozess: Investor René Benko zu zweieinhalb Jahren Haft verurteilt",
           "link": "https://www.n-tv.de/wirtschaft/Investor-Rene-Benko-zu-zweieinhalb-Jahren-Haft-verurteilt-id31335852.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Nach-Putin-sitzt-nun-Trump-am-Gas-Erpressungshebel-id31331534.html",
           "published": "2026-09-22T09:09:11+00:00",
           "summary": "Statt russischem Gas importiert Deutschland heute eine entscheidende Menge Flüssiggas aus den USA. Kritiker sehen ein erhebliches Risiko für die Preise, aber auch die Versorgungssicherheit. Gezielt …"
-        },
-        {
-          "title": "\"Frühe und gezielte Bildung\": Nach Pisa-Schock verbünden sich Arbeitgeber und Gewerkschaften",
-          "link": "https://www.n-tv.de/wirtschaft/Nach-Pisa-Schock-verbuenden-sich-Arbeitgeber-und-Gewerkschaften-id31333121.html",
-          "published": "2026-09-22T08:44:28+00:00",
-          "summary": "Nie zuvor waren die deutschen Pisa-Ergebnisse schlechter. Nicht nur die Bildungsministerin ist besorgt. Wirtschaftsvertreter fordern mehr und treffsichere Ausgaben für die Jüngsten."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Börse New York in Grün: Anleger lassen NASDAQ 100 mittags steigen",
-          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-in-gruen-anleger-lassen-nasdaq-100-mittags-steigen-15947176",
-          "published": "2026-09-22T15:59:53+00:00",
-          "summary": "Am Dienstag tendiert der NASDAQ 100 um 17:57 Uhr via NASDAQ 0,36 Prozent höher bei 30.593,20 Punkten. Zuvor ging der NASDAQ 100 0,046 Prozent stärker bei 30.496,43 Punkten in den Handel, ..."
+          "title": "Handel in New York: NASDAQ 100 nachmittags fester",
+          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-nasdaq-100-nachmittags-fester-15947386",
+          "published": "2026-09-22T18:02:36+00:00",
+          "summary": "Der NASDAQ 100 steigt im NASDAQ-Handel um 20:00 Uhr um 0,65 Prozent auf 30.681,39 Punkte. Zum Beginn des Dienstagshandels stand ein Zuschlag von 0,046 Prozent auf 30.496,43 Punkte an der ..."
         },
         {
-          "title": "Börse New York in Rot: S&P 500 gibt nach",
-          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-in-rot-s-p-500-gibt-nach-15947175",
-          "published": "2026-09-22T15:59:53+00:00",
-          "summary": "Um 17:57 Uhr steht im NYSE-Handel ein Minus von 0,09 Prozent auf 7.757,40 Punkte an der S&P 500 -Kurstafel. Die Marktkapitalisierung der enthaltenen Werte beträgt damit 62,456 Bio. Euro. In den ..."
+          "title": "Starker Wochentag in New York: S&P 500 zeigt sich am Dienstagnachmittag fester",
+          "link": "https://www.finanzen.net/nachricht/aktien/starker-wochentag-in-new-york-s-p-500-zeigt-sich-am-dienstagnachmittag-fester-15947385",
+          "published": "2026-09-22T18:02:36+00:00",
+          "summary": "Am Dienstag tendiert der S&P 500 um 20:00 Uhr via NYSE 0,09 Prozent stärker bei 7.771,53 Punkten. Die S&P 500-Mitglieder kommen damit auf einen Börsenwert von 62,456 Bio. Euro. Zum Beginn des ..."
         },
         {
-          "title": "Optimismus in New York: NASDAQ Composite liegt mittags im Plus",
-          "link": "https://www.finanzen.net/nachricht/aktien/optimismus-in-new-york-nasdaq-composite-liegt-mittags-im-plus-15947174",
-          "published": "2026-09-22T15:59:53+00:00",
-          "summary": "Um 17:57 Uhr notiert der NASDAQ Composite im NASDAQ-Handel 0,20 Prozent stärker bei 27.175,13 Punkten. Zum Handelsstart standen Gewinne von 0,144 Prozent auf 27.161,20 Punkte an der ..."
+          "title": "Zuversicht in New York: NASDAQ Composite liegt nachmittags im Plus",
+          "link": "https://www.finanzen.net/nachricht/aktien/zuversicht-in-new-york-nasdaq-composite-liegt-nachmittags-im-plus-15947384",
+          "published": "2026-09-22T18:02:36+00:00",
+          "summary": "Am Dienstag geht es im NASDAQ Composite um 20:00 Uhr via NASDAQ um 0,45 Prozent auf 27.244,45 Punkte nach oben. Zum Handelsbeginn stand ein Gewinn von 0,144 Prozent auf 27.161,20 Punkte ..."
         },
         {
-          "title": "Handel in New York: Dow Jones fällt",
-          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-dow-jones-faellt-15947173",
-          "published": "2026-09-22T15:59:53+00:00",
-          "summary": "Um 17:57 Uhr gibt der Dow Jones im NYSE-Handel um 0,56 Prozent auf 51.756,14 Punkte nach. Die Dow Jones-Mitglieder kommen damit auf eine Marktkapitalisierung von 25,208 Bio. Euro. In den …"
+          "title": "NYSE-Handel Dow Jones verbucht Verluste",
+          "link": "https://www.finanzen.net/nachricht/aktien/nyse-handel-dow-jones-verbucht-verluste-15947383",
+          "published": "2026-09-22T18:02:36+00:00",
+          "summary": "Um 20:00 Uhr notiert der Dow Jones im NYSE-Handel 0,32 Prozent leichter bei 51.884,31 Punkten. Die Marktkapitalisierung der enthaltenen Werte beträgt damit 25,208 Bio. Euro. In den Dienstagshandel ..."
         },
         {
-          "title": "Siemens Energy-Aktie erholt sich nach Kursrutsch: Wie weit reicht die Rally?",
-          "link": "https://www.finanzen.net/nachricht/aktien/sorgen-um-ki-investitionen-siemens-energy-aktie-erholt-sich-nach-kursrutsch-wie-weit-reicht-die-rally-00-15946478",
-          "published": "2026-09-22T15:59:05+00:00",
-          "summary": "Nach heftigem Ausverkauf kämpft sich die Aktie zurück Richtung altes Niveau Konzernumbau und sinkender Siemens-Anteil sorgen für neue Dynamik Analysten sehen bei Siemens Energy überwiegend weiteres …"
+          "title": "Irak: Entwaffnung von Milizen erst im Sommer 2027",
+          "link": "https://www.finanzen.net/nachricht/aktien/irak-entwaffnung-von-milizen-erst-im-sommer-2027-15947387",
+          "published": "2026-09-22T18:00:39+00:00",
+          "summary": "BAGDAD (dpa-AFX) - Die mit Iran verbündeten, mächtigen Milizen im Irak sollen erst bis zum Sommer 2027 entwaffnet werden und damit neun Monate später als bisher geplant. Das sagte der irakische …"
         }
       ],
       "error": null
@@ -164,16 +164,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Die Märkte hoffen auf Frieden",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
+          "published": "2026-09-22T16:35:53+00:00",
+          "summary": "Vage Hoffnungen auf eine Annäherung zwischen den USA und Iran bei der UN-Generalversammlung haben heute die Kurse gestützt. Bis zum Handelsschluss ließen aber echte Fortschritte in New York auf sich …"
+        },
+        {
           "title": "Iran-Krieg und Last-Minute-Trend zehren an TUI-Gewinn",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-tui-100.html",
           "published": "2026-09-22T12:00:03+00:00",
           "summary": "Der Reisekonzern TUI hat den Iran-Krieg und den Trend zu Last-Minute-Buchungen deutlich zu spüren bekommen. Höhere Preise konnten das nur zum Teil ausgleichen. Die Aktie erlebte ein Wechselbad."
-        },
-        {
-          "title": "Marktbericht: Anleger warten auf Trumps UN-Auftritt",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
-          "published": "2026-09-22T08:29:02+00:00",
-          "summary": "Nach dem starken Wochenstart bleiben die Anleger zurückhaltend. Sie hoffen auf diplomatische Perspektiven: US-Präsident Trump könnte am Rande der heutigen UN-Generalversammlung mit Vertretern Irans …"
         },
         {
           "title": "Nach Berlin-Wahl: Enteignungs-Sorgen belasten Immobilienaktien",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Konflikt um Arktisinsel: Grönland, USA und Dänemark unterzeichnen Abkommen",
+          "title": "Metall- und Elektroindustrie: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und sichere Jobs",
+          "link": "https://www.wiwo.de/unternehmen/auto/tarifrunde-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-sichere-jobs/100256623.html",
+          "published": "2026-09-22T18:05:00+00:00",
+          "summary": "Die IG Metall fordert fünf Prozent mehr Lohn. In der kriselnden Metall- und Elektroindustrie droht ein Konflikt um Arbeitskosten und Jobs."
+        },
+        {
+          "title": "Konflikt um Arktisinsel: Was springt für Trump beim Grönland-Abkommen raus?",
           "link": "https://www.wiwo.de/politik/ausland/konflikt-um-arktisinsel-daenemark-und-usa-verkuenden-durchbruch-im-groenland-streit/100255764.html",
-          "published": "2026-09-22T16:01:00+00:00",
-          "summary": "Im Konflikt um Grönland unterzeichnen USA und Dänemark das am Samstag angekündigte Abkommen."
+          "published": "2026-09-22T17:40:00+00:00",
+          "summary": "Er wollte die Insel in US-Territorium verwandeln. Ein frisch unterzeichneter Deal soll den Grönland-Streit zwischen US-Präsident Trump und Dänemark nun beilegen. Was steht im Abkommen?"
         },
         {
-          "title": "Grönland-Abkommen: Grönland-Deal lässt Rohstoffaktien explodieren",
-          "link": "https://www.wiwo.de/finanzen/boerse/groenland-aktien-im-hype-warum-anleger-jetzt-aufpassen-muessen/100256604.html",
-          "published": "2026-09-22T15:54:00+00:00",
-          "summary": "Das Abkommen zwischen den USA und Dänemark lässt die Kurse von Aktien mit Grönland-Bezug hochschießen. Wer einsteigen will, sollte vorsichtig sein."
+          "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
+          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256672.html",
+          "published": "2026-09-22T17:10:00+00:00",
+          "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch jetzt steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger."
         },
         {
-          "title": "UN-Generaldebatte: Guterres kritisiert bei UN-Abschiedsrede Iran-Krieg",
-          "link": "https://www.wiwo.de/politik/ausland/guterres-kritisiert-bei-un-abschiedsrede-iran-krieg/100256335.html",
-          "published": "2026-09-22T15:11:00+00:00",
-          "summary": "In New York kommt die Welt im Schatten zahlreicher ungelöster Konflikte zusammen. Mit Spannung wird erwartet, ob US-Präsident Trump am Rande Fortschritte bei der Krisenlösung erreichen kann."
+          "title": "Logistik: Der rasante Aufstieg des Unternehmers Navid Thielemann",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/navid-thielemann-vermoegen-und-aufstieg-des-logistikunternehmers/100255937.html",
+          "published": "2026-09-22T17:03:36+00:00",
+          "summary": "Navid Thielemann liebt große Geschäfte und sichtbaren Luxus. Sein Logistikimperium gibt Rätsel auf: Woher kommt das ganze Geld?"
         },
         {
-          "title": "Signaltechnik: Milliardenauftrag aus Österreich für Siemens-Bahnsparte",
-          "link": "https://www.wiwo.de/unternehmen/industrie/signaltechnik-milliardenauftrag-aus-oesterreich-fuer-siemens-bahnsparte/100256648.html",
-          "published": "2026-09-22T15:00:00+00:00",
-          "summary": "Digitalisierung soll das österreichische Bahnnetz verbessern. Bis es losgeht, dauert es aber noch."
-        },
-        {
-          "title": "Landesbank: Sparkassen meutern gegen Nord/LB-Deal mit Niedersachsen",
-          "link": "https://www.wiwo.de/unternehmen/banken/verkauf-der-nordlb-anteile-sparkassen-meutern-gegen-das-land/100256620.html",
-          "published": "2026-09-22T14:39:13+00:00",
-          "summary": "Niedersachsen will seine Macht bei der Landesbank Nord/LB ausbauen. Doch nun könnte der zweitwichtigste Bankendeal des Jahres wackeln – wegen der Sparkassen."
+          "title": "Gipfel in Washington: Großer Empfang, lange Konfliktliste – Xi besucht Trump",
+          "link": "https://www.wiwo.de/politik/ausland/sicherheitsrisiken-im-fokus-vor-trump-xi-gipfel-china-und-usa-sprechen-ueber-ki/100256051.html",
+          "published": "2026-09-22T17:02:00+00:00",
+          "summary": "US-Präsident Trump und Chinas Staatschef Xi sehen sich nach Monaten wieder. Es soll erneut pompös zugehen. Doch bei vielen Themen liegen die beiden Großmächte weit auseinander."
         }
       ],
       "error": null
@@ -242,13 +242,19 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Lidls fahrerloser Lkw: Was die ersten Wochen gezeigt haben",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/lidls-fahrerloser-lkw-was-die-ersten-wochen-gezeigt-haben/",
+          "published": "2026-09-22T17:00:00+00:00",
+          "summary": "Lidl setzt in Hessen einen fahrerlosen Elektro-Lkw nach Level 4 ein – ohne Fahrerhaus und mit KBA-Genehmigung. Neue Details aus dem laufenden Betrieb zeigen nun, wie eng der Einsatz noch begrenzt …"
+        },
+        {
           "title": "Windkraft: Bundesregierung will starke Branche – aber nicht um jeden Preis",
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wo-die-windkraftbranche-in-deutschland-steht/",
           "published": "2026-09-22T16:00:00+00:00",
           "summary": "Windenergie in Deutschland wächst deutlich. Doch Netzausbau, Speicher, verlässliche Regeln und Investitionen entscheiden über den weiteren Erfolg der Branche."
         },
         {
-          "title": "UBTech schraubt Produktion hoch – auf 10.000 Roboter pro Jahr",
+          "title": "10.000 Roboter pro Jahr: UBTech schraubt Produktion hoch",
           "link": "https://www.ingenieur.de/technik/fachbereiche/automation/ubtech-schraubt-produktion-hoch-auf-10-000-roboter-pro-jahr/",
           "published": "2026-09-22T13:00:00+00:00",
           "summary": "Mit einer geplanten Jahreskapazität von 10.000 humanoiden Robotern im neuen Werk setzt UBTech ein Zeichen. Doch noch ist die Nachfrage aus der Industrie zögerlich."
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/karriere/bildung/studium/elektroingenieure-aus-aller-welt-studieren-in-deutschland-uber-die-halfte-geht-wieder/",
           "published": "2026-09-22T10:00:00+00:00",
           "summary": "Internationale Studierende prägen das Elektrotechnik-Studium. Doch laut VDE steht über die Hälfte der Master-Absolventinnen und -Absolventen aus dem Ausland dem deutschen Arbeitsmarkt danach nicht …"
-        },
-        {
-          "title": "Nach 53 Jahren und 93 Mio. t Roheisen: In Duisburg geht ein Hochofen aus",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/werkstoffe/nach-53-jahren-und-93-mio-t-roheisen-in-duisburg-geht-ein-hochofen-aus/",
-          "published": "2026-09-22T09:29:45+00:00",
-          "summary": "Hochofen A bei HKM in Duisburg hat seinen letzten Abstich gefahren. Für Salzgitter ist das der nächste Schritt weg von der Hochofenroute: Ab 2029 soll am Standort der größte Elektrolichtbogenofen …"
         }
       ],
       "error": null
