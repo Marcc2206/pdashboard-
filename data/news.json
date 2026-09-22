@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:08:42+00:00",
+  "generatedAt": "2026-09-22T22:07:52+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653900.html",
+          "published": "2026-09-22T21:36:33+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12880.html",
+          "published": "2026-09-22T21:19:01+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Thorsten Frei, Fraktionsvorsitzender CDU, über die Rede von Kanzler Merz vor der Fraktion",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1653914.html",
+          "published": "2026-09-22T20:38:33+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Unionsfraktionssitzung nach Wahldebakel bei zwei Landtagswahlen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1653912.html",
+          "published": "2026-09-22T20:30:06+00:00",
+          "summary": ""
+        },
+        {
           "title": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
           "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
           "published": "2026-09-22T19:58:52+00:00",
           "summary": "Der Unionsfraktionsvorsitzende Frei sieht nach dem CDU-Wahldebakel einen \"enormen Aussprachebedarf\". Im tagesthemen-Interview stellt er sich hinter Kanzler Merz - obwohl es beim Fraktionstreffen …"
-        },
-        {
-          "title": "Kanzler Merz erhofft sich Rückhalt in der Unionsfraktion nach Wahldebakeln",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1653826.html",
-          "published": "2026-09-22T19:06:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Markus Preiß, ARD Berlin, zum Treffen im Kanzleramt mit Union und SPD",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1653828.html",
-          "published": "2026-09-22T18:59:24+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1653854.html",
-          "published": "2026-09-22T18:46:06+00:00",
-          "summary": "Kanzler Merz trifft sich nach historischer Wahlniederlage der CDU mit Abgeordneten der Unionsfraktion, Bundesregierung bringt angekündigten Tankrabatt auf den Weg, Linken-Bundestagsabeordneter Ferat …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12272.html",
-          "published": "2026-09-22T18:42:10+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,28 +47,28 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Diplomatie: USA und Iran treffen sich erstmals seit Monaten",
+          "link": "https://www.handelsblatt.com/politik/international/diplomatie-usa-und-iran-treffen-sich-erstmals-seit-monaten/100256685.html",
+          "published": "2026-09-22T21:20:41+00:00",
+          "summary": "Im Iran-Krieg gelten die Fronten als verhärtet. Nun wurde laut den Amerikanern das erste Mal seit längerem wieder verhandelt. Der Iran betont, dies sei auf US-Wunsch geschehen."
+        },
+        {
+          "title": "Gastkommentar: Wir brauchen einen neuen Leistungsanspruch in der Bildung",
+          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wir-brauchen-einen-neuen-leistungsanspruch-in-der-bildung/100256198.html",
+          "published": "2026-09-22T20:39:56+00:00",
+          "summary": "Ludger Wößmann, Chef des Ifo-Zentrums für Bildungsökonomik, fordert ein einheitliches Kernabitur, um den Pisa-Abstieg zu stoppen. Dass sich Reformen auszahlen, zeigen Hamburg und England."
+        },
+        {
           "title": "Regierungsbildung in Berlin: SPD-Spitze an Linke: Antisemitismus nicht mit uns",
           "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-spd-spitze-an-linke-antisemitismus-nicht-mit-uns/100256692.html",
           "published": "2026-09-22T19:55:05+00:00",
           "summary": "Die Linke in Berlin möchte - neben den Grünen - zusammen mit den Sozialdemokraten regieren. Die SPD-Bundesspitze macht nun klar: Antisemitismus hat in ihrer Politik keinen Platz."
         },
         {
-          "title": "Diplomatie: Trump: Vertreter der USA und des Irans haben sich getroffen",
-          "link": "https://www.handelsblatt.com/politik/international/diplomatie-trump-vertreter-der-usa-und-des-irans-haben-sich-getroffen/100256685.html",
-          "published": "2026-09-22T19:33:21+00:00",
-          "summary": "Im Iran-Krieg gelten die Fronten als verhärtet. Nun wurde laut den Amerikanern das erste Mal seit längerem wieder verhandelt."
-        },
-        {
           "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256671.html",
           "published": "2026-09-22T19:05:20+00:00",
           "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch nach langem Ringen steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger."
-        },
-        {
-          "title": "Wall Street: US-Börsen notieren uneinheitlich – KI-Zuversicht hilft Nasdaq",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-uneinheitlich-ki-zuversicht-hilft-nasdaq/100256578.html",
-          "published": "2026-09-22T18:47:00+00:00",
-          "summary": "Der Technologiesektor gibt den US-Märkten auch am Dienstag Rückenwind. Die Ölpreise fallen weiter und die Hoffnungen auf Gespräche der USA mit dem Iran und China halten an."
         },
         {
           "title": "+++ Iran-Krieg +++: Trump: US-Vertreter haben sich mit Iranern getroffen",
@@ -86,6 +86,18 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Zinssorgen und Ölpreis belasten: KI-Fantasien geben der Wall Street Auftrieb",
+          "link": "https://www.n-tv.de/wirtschaft/KI-Fantasien-geben-der-Wall-Street-Auftrieb-id31336889.html",
+          "published": "2026-09-22T21:07:52+00:00",
+          "summary": "Metas neuer KI-Assistent Muse hievt Technologiewerte in neue Höchststände. Darunter mischen sich auch Sorgen, dass ganze Branchen davon umgekrempelt werden könnten. Hohe Ölpreise und Sorge vor der …"
+        },
+        {
+          "title": "Um heimische Preise zu senken: USA erwägen Stopp von Diesel-Exporten",
+          "link": "https://www.n-tv.de/wirtschaft/USA-erwaegen-Stopp-von-Diesel-Exporten-id31336799.html",
+          "published": "2026-09-22T20:08:56+00:00",
+          "summary": "Mit dem Iran-Krieg sorgt Donald Trump für einen Anstieg der Ölpreise weltweit. Auch die US-Bevölkerung ist stark betroffen, was die Republikaner bei den Zwischenwahlen teuer zu stehen kommen könnte. …"
+        },
+        {
           "title": "Forderung nach fairer Balance: IG Metall fordert fünf Prozent mehr Lohn für VW-Mitarbeiter",
           "link": "https://www.n-tv.de/wirtschaft/IG-Metall-fordert-fuenf-Prozent-mehr-Lohn-fuer-VW-Mitarbeiter-id31336626.html",
           "published": "2026-09-22T18:54:37+00:00",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Investor-Rene-Benko-zu-zweieinhalb-Jahren-Haft-verurteilt-id31335852.html",
           "published": "2026-09-22T14:18:34+00:00",
           "summary": "Vor rund einem Jahr wurde der österreichische Investor René Benko bereits einmal verurteilt. Das Verfahren ist in Teilen nun wiederholt worden. Das Landesgericht Innsbruck sieht es als erwiesen an …"
-        },
-        {
-          "title": "S&P 500 im Chart-Check: Steilvorlage hoch drei!",
-          "link": "https://www.n-tv.de/wirtschaft/boerse/Steilvorlage-hoch-drei-id30347915.html",
-          "published": "2026-09-22T13:56:00+00:00",
-          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den S&P 500."
-        },
-        {
-          "title": "Staatsausgaben zahlen sich aus: Wirtschaftsforscher verdoppeln Wachstumsprognose",
-          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsforscher-verdoppeln-Wachstumsprognose-id31334071.html",
-          "published": "2026-09-22T10:06:46+00:00",
-          "summary": "Das Bruttoinlandsprodukt soll in diesem Jahr deutlich stärker steigen als zuletzt erwartet. Die staatlichen Investitionen schlagen zu Buche, der Iran-Krieg dagegen weniger als befürchtet. Ökonomen …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Bitcoin-Rally steht laut Experten auf wackligen Beinen: Bietet sich jetzt eine günstige Einstiegschance bei BTC?",
-          "link": "https://www.finanzen.net/nachricht/aktien/ruecksetzer-bitcoin-rally-steht-laut-experten-auf-wackligen-beinen-bietet-sich-jetzt-eine-guenstige-einstiegschance-bei-btc-00-15939378",
-          "published": "2026-09-22T19:56:00+00:00",
-          "summary": "CryptoQuant-Analysten warnen vor schwachem Kaufdruck hinter der jüngsten Rally CLARITY Act scheitert im Senat und belastet Kryptowährungen spürbar Bitwise-CIO Hougan bleibt trotz Rückschlägen …"
+          "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
+          "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
+          "published": "2026-09-22T21:50:00+00:00",
+          "summary": "BofA korrigiert ihre Prognosen für die Chipbranche kräftig nach oben Speicherchips und Server-CPUs rücken als neue Wachstumstreiber in den Fokus Chancen für KI-Anleger im Blick"
         },
         {
-          "title": "Trump: Würde Richterspruch zu CNN 'wahrscheinlich' befolgen",
-          "link": "https://www.finanzen.net/nachricht/aktien/trump-wuerde-richterspruch-zu-cnn-wahrscheinlich-befolgen-15947477",
-          "published": "2026-09-22T19:55:38+00:00",
-          "summary": "NEW YORK (dpa-AFX) - US-Präsident Donald Trump hat im Falle einer Niederlage im Rechtsstreit mit dem Sender CNN und anderen Medien über ein Zugangsverbot zum Weißen Haus ein Einlenken in Aussicht …"
+          "title": "GNW-News: UPT startet einen virtuellen IBAN-Dienst zur Vereinfachung internationaler Zahlungen",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-upt-startet-einen-virtuellen-iban-dienst-zur-vereinfachung-internationaler-zahlungen-15947539",
+          "published": "2026-09-22T21:43:38+00:00",
+          "summary": "^ISTANBUL, Sept. 22, 2026 (GLOBE NEWSWIRE) -- UPT gab heute seine Zusammenarbeitmit Visa, einem weltweit führenden Anbieter von digitalen Zahlungen, bekannt, um die von Visa Direct angebotene …"
         },
         {
-          "title": "Hormus vor der Öffnung? Warum Anleger der Lufthansa-Aktie jetzt auf den Ölpreis schauen",
-          "link": "https://www.finanzen.net/nachricht/aktien/oelpreis-rutscht-ab-hormus-vor-der-oeffnung-warum-anleger-der-lufthansa-aktie-jetzt-auf-den-oelpreis-schauen-00-15946516",
-          "published": "2026-09-22T19:55:00+00:00",
-          "summary": "Teheran knüpft Hormus-Öffnung an ein Ende der US-Blockade Sinkende Ölpreise entlasten die Kerosinkosten der Fluggesellschaften Washington verschärft parallel den Druck auf iranische Airlines Nach ..."
+          "title": "NVIDIA-Aktie: Was Jensen Huangs erwartete Teilnahme am Trump-Xi-Staatsbankett für Anleger bedeutet",
+          "link": "https://www.finanzen.net/nachricht/aktien/staatsbankett-nvidia-aktie-was-jensen-huangs-erwartete-teilnahme-am-trump-xi-staatsbankett-fuer-anleger-bedeutet-00-15939475",
+          "published": "2026-09-22T21:20:00+00:00",
+          "summary": "Jensen Huang soll bei Staatsbankett für Xi Jinping in Washington dabei sein Schon im Mai reiste der NVIDIA-CEO mit Trumps Delegation nach China zum Gegenbankett Analysten bewerten NVIDIA weiterhin …"
         },
         {
-          "title": "Novo Nordisk-Aktie stürzt ab: Jetzt reagieren die Analysten - Handlungsbedarf auch für Anleger?",
-          "link": "https://www.finanzen.net/nachricht/aktien/margenziel-enttaeuscht-markt-novo-nordisk-aktie-stuerzt-ab-jetzt-reagieren-die-analysten-handlungsbedarf-auch-fuer-anleger-00-15945984",
-          "published": "2026-09-22T19:54:00+00:00",
-          "summary": "Anleger reagierten am Kapitalmarkttag mit deutlichem Kursabschlag auf die Ziele CEO Doustdar kündigt härtere Arbeit und Übernahmeprüfungen an Analysten sehen im stabilen Margenausblick den Hauptgrund …"
+          "title": "SpaceX-Aktie: Cathie Wood sieht eine 10-Billionen-Dollar-Chance - Was ist wirklich dran?",
+          "link": "https://www.finanzen.net/nachricht/aktien/woods-billionen-rechnung-spacex-aktie-cathie-wood-sieht-eine-10-billionen-dollar-chance-was-ist-wirklich-dran-00-15939377",
+          "published": "2026-09-22T21:18:00+00:00",
+          "summary": "Cathie Wood rechnet Starship-Flüge in gigantische Starlink-Umsätze um Musk reagiert auf ARK-Chefin und nennt das Ziel nicht unmöglich Die theoretische Rechnung setzt eine massive Steigerung der …"
         },
         {
-          "title": "ROUNDUP 2/Trump: Vertreter der USA und des Irans haben sich getroffen",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-trump-vertreter-der-usa-und-des-irans-haben-sich-getroffen-15947476",
-          "published": "2026-09-22T19:53:38+00:00",
-          "summary": "(neu: US-Medien-Infos)NEW YORK (dpa-AFX) - Vertreter der USA und des Irans haben sich nach Angaben von Präsident Donald Trump am Rande der UN-Generaldebatte in New York getroffen. Das Gespräch am …"
+          "title": "Wacker Chemie platziert Siltronic-Aktien - Bruttoerlös bei 171 Millionen Euro",
+          "link": "https://www.finanzen.net/nachricht/aktien/wacker-chemie-platziert-siltronic-aktien-bruttoerloes-bei-171-millionen-euro-15947526",
+          "published": "2026-09-22T21:04:38+00:00",
+          "summary": "MÜNCHEN (dpa-AFX) - WACKER CHEMIE hat seinen Anteil am Hersteller von Halbleiter-Wafern Siltronic weiter reduziert. So seien 2,2 Millionen Siltronic-Aktien zu je 77,25 Euro ..."
         }
       ],
       "error": null
