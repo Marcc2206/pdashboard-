@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:12:06+00:00",
+  "generatedAt": "2026-09-23T02:09:24+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653946.html",
+          "published": "2026-09-23T00:11:49+00:00",
+          "summary": ""
+        },
         {
           "title": "Mehr Staatsmann und weniger Konfrontation",
           "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
@@ -17,12 +23,6 @@
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-81078.html",
           "published": "2026-09-22T22:22:41+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653900.html",
-          "published": "2026-09-22T21:36:33+00:00",
           "summary": ""
         },
         {
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Künstlichen Intelligenz: Großbritannien will bei KI-Regeln international eine Führungsrolle",
+          "link": "https://www.handelsblatt.com/politik/international/kuenstlichen-intelligenz-grossbritannien-will-bei-ki-regeln-international-eine-fuehrungsrolle/100256711.html",
+          "published": "2026-09-23T01:54:48+00:00",
+          "summary": "London will feindliche Informationsangriffe mit einem neuen Abwehrzentrum bekämpfen. Globale KI-Standards sollen Thema der britischen G20-Präsidentschaft werden."
+        },
+        {
+          "title": "Spritpreise: ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen/100256713.html",
+          "published": "2026-09-23T01:41:04+00:00",
+          "summary": "Seit April dürfen nur um 12 Uhr die Spritpreise an den Tankstellen erhöht werden. Der ADAC kritisiert, dass die Regel vor allem zu noch größeren Preisschwankungen im Tagesverlauf geführt habe."
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: Selenskyj – Stopp russischer Ölkäufe würde Krieg beenden",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-23T00:21:00+00:00",
+          "summary": "EU hebt Sanktionen gegen russische Milliardäre auf +++ Ukraine erhält 841 Millionen Dollar von der Weltbank +++ Slowakei fordert Sondergipfel wegen hoher Spritpreise +++ Der Newsblog."
+        },
+        {
           "title": "Energie: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
           "link": "https://www.handelsblatt.com/politik/deutschland/energie-usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel/100256705.html",
           "published": "2026-09-22T23:29:47+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/diplomatie-usa-und-iran-treffen-sich-erstmals-seit-monaten/100256685.html",
           "published": "2026-09-22T21:20:41+00:00",
           "summary": "Im Iran-Krieg gelten die Fronten als verhärtet. Nun wurde laut den Amerikanern das erste Mal seit längerem wieder verhandelt. Der Iran betont, dies sei auf US-Wunsch geschehen."
-        },
-        {
-          "title": "Gastkommentar: Wir brauchen einen neuen Leistungsanspruch in der Bildung",
-          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wir-brauchen-einen-neuen-leistungsanspruch-in-der-bildung/100256198.html",
-          "published": "2026-09-22T20:39:56+00:00",
-          "summary": "Ludger Wößmann, Chef des Ifo-Zentrums für Bildungsökonomik, fordert ein einheitliches Kernabitur, um den Pisa-Abstieg zu stoppen. Dass sich Reformen auszahlen, zeigen Hamburg und England."
-        },
-        {
-          "title": "Regierungsbildung in Berlin: SPD-Spitze an Linke: Antisemitismus nicht mit uns",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-spd-spitze-an-linke-antisemitismus-nicht-mit-uns/100256692.html",
-          "published": "2026-09-22T19:55:05+00:00",
-          "summary": "Die Linke in Berlin möchte - neben den Grünen - zusammen mit den Sozialdemokraten regieren. Die SPD-Bundesspitze macht nun klar: Antisemitismus hat in ihrer Politik keinen Platz."
-        },
-        {
-          "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256671.html",
-          "published": "2026-09-22T19:05:20+00:00",
-          "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch nach langem Ringen steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "GNW-News: Opterion Health gibt positive Ergebnisse der Phase-1-Studie für OPT101 bekannt, die den Übergang zur Phase 2a ermöglichen",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-opterion-health-gibt-positive-ergebnisse-der-phase-1-studie-fuer-opt101-bekannt-die-den-uebergang-zur-phase-2a-ermoeglichen-15947656",
-          "published": "2026-09-22T23:59:39+00:00",
-          "summary": "^* Die positiven Ergebnisse der Phase-I-Studie stärken das Vertrauen in OPT101,da SPARC seine Ziele bei allen wichtigen Endpunkten erreicht hat, darunter Sicherheit, Verträglichkeit, Pharmakokinetik …"
+          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
+          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
+          "published": "2026-09-23T01:58:18+00:00",
+          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
         },
         {
-          "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
-          "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
-          "published": "2026-09-22T21:50:00+00:00",
-          "summary": "BofA korrigiert ihre Prognosen für die Chipbranche kräftig nach oben Speicherchips und Server-CPUs rücken als neue Wachstumstreiber in den Fokus Chancen für KI-Anleger im Blick"
+          "title": "IREN, TeraWulf & Co.: Warum Bitcoin-Miner ihre Rechenzentren auf KI umrüsten und was das für Anleger bedeutet",
+          "link": "https://www.finanzen.net/nachricht/devisen/ki-margen-schlagen-mining-iren-terawulf-co-warum-bitcoin-miner-ihre-rechenzentren-auf-ki-umruesten-und-was-das-fuer-anleger-bedeutet-00-15945983",
+          "published": "2026-09-23T01:54:50+00:00",
+          "summary": "Miner rüsten Rechenzentren still von Mining auf KI-Computing um Selbst steigende Bitcoin-Kurse bremsen den Wandel offenbar nicht mehr Investoren bewerten KI-Verträge deutlich höher als reines Mining"
         },
         {
-          "title": "GNW-News: UPT startet einen virtuellen IBAN-Dienst zur Vereinfachung internationaler Zahlungen",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-upt-startet-einen-virtuellen-iban-dienst-zur-vereinfachung-internationaler-zahlungen-15947539",
-          "published": "2026-09-22T21:43:38+00:00",
-          "summary": "^ISTANBUL, Sept. 22, 2026 (GLOBE NEWSWIRE) -- UPT gab heute seine Zusammenarbeitmit Visa, einem weltweit führenden Anbieter von digitalen Zahlungen, bekannt, um die von Visa Direct angebotene …"
+          "title": "Quantenangriff auf Krypto: Aktien von Rigetti, D-Wave Quantinuum im Fokus",
+          "link": "https://www.finanzen.net/nachricht/aktien/quantenangriff-auf-krypto-aktien-von-rigetti-d-wave-amp-quantinuum-im-fokus-15947694",
+          "published": "2026-09-23T01:46:32+00:00",
+          "summary": "Forscher haben den Aufwand für einen Quantenangriff auf Bitcoin und Ethereum mehr als halbiert, und für Anleger stellt sich damit eine unbequeme Frage neu."
         },
         {
-          "title": "NVIDIA-Aktie: Was Jensen Huangs erwartete Teilnahme am Trump-Xi-Staatsbankett für Anleger bedeutet",
-          "link": "https://www.finanzen.net/nachricht/aktien/staatsbankett-nvidia-aktie-was-jensen-huangs-erwartete-teilnahme-am-trump-xi-staatsbankett-fuer-anleger-bedeutet-00-15939475",
-          "published": "2026-09-22T21:20:00+00:00",
-          "summary": "Jensen Huang soll bei Staatsbankett für Xi Jinping in Washington dabei sein Schon im Mai reiste der NVIDIA-CEO mit Trumps Delegation nach China zum Gegenbankett Analysten bewerten NVIDIA weiterhin …"
+          "title": "SpaceX-Aktie im Visier: Dieser bekannte Kunde setzt auf Starfalls ersten kommerziellen Flug - Signal für Anleger?",
+          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-im-visier-dieser-bekannte-kunde-setzt-auf-starfalls-ersten-kommerziellen-flug-signal-fuer-anleger-00-15944532",
+          "published": "2026-09-23T01:32:13+00:00",
+          "summary": "Space Cargo Unlimited ist erster europäischer Kunde von SpaceX Starfall • Flug auf der ersten kommerziellen Starship-Mission ist offenbar für 2028 geplant • Bis zu eine Tonne Nutzlast für Pharma und …"
         },
         {
-          "title": "SpaceX-Aktie: Cathie Wood sieht eine 10-Billionen-Dollar-Chance - Was ist wirklich dran?",
-          "link": "https://www.finanzen.net/nachricht/aktien/woods-billionen-rechnung-spacex-aktie-cathie-wood-sieht-eine-10-billionen-dollar-chance-was-ist-wirklich-dran-00-15939377",
-          "published": "2026-09-22T21:18:00+00:00",
-          "summary": "Cathie Wood rechnet Starship-Flüge in gigantische Starlink-Umsätze um Musk reagiert auf ARK-Chefin und nennt das Ziel nicht unmöglich Die theoretische Rechnung setzt eine massive Steigerung der …"
+          "title": "SpaceX vor 10 Billionen Dollar Bewertung? So realistisch ist Woods Mega-These zu der Raumfahrtaktie",
+          "link": "https://www.finanzen.net/nachricht/aktien/spacex-vor-10-billionen-dollar-bewertung-so-realistisch-ist-woods-mega-these-zu-der-raumfahrtaktie-15947686",
+          "published": "2026-09-23T01:15:34+00:00",
+          "summary": "Ein Post von Cathie Wood zu Starship-Flügen und Starlink-Umsätzen lässt Anleger neu über die Bewertung von SpaceX nachdenken, Elon Musk widerspricht nicht."
         }
       ],
       "error": null
@@ -240,8 +240,39 @@
       "name": "Technik & Robotik (ingenieur.de)",
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
-      "items": [],
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+      "items": [
+        {
+          "title": "Lidls fahrerloser Lkw: Was die ersten Wochen gezeigt haben",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/lidls-fahrerloser-lkw-was-die-ersten-wochen-gezeigt-haben/",
+          "published": "2026-09-22T17:00:00+00:00",
+          "summary": "Lidl setzt in Hessen einen fahrerlosen Elektro-Lkw nach Level 4 ein – ohne Fahrerhaus und mit KBA-Genehmigung. Neue Details aus dem laufenden Betrieb zeigen nun, wie eng der Einsatz noch begrenzt …"
+        },
+        {
+          "title": "Windkraft: Bundesregierung will starke Branche – aber nicht um jeden Preis",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wo-die-windkraftbranche-in-deutschland-steht/",
+          "published": "2026-09-22T16:00:00+00:00",
+          "summary": "Windenergie in Deutschland wächst deutlich. Doch Netzausbau, Speicher, verlässliche Regeln und Investitionen entscheiden über den weiteren Erfolg der Branche."
+        },
+        {
+          "title": "10.000 Roboter pro Jahr: UBTech schraubt Produktion hoch",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/automation/ubtech-schraubt-produktion-hoch-auf-10-000-roboter-pro-jahr/",
+          "published": "2026-09-22T13:00:00+00:00",
+          "summary": "Mit einer geplanten Jahreskapazität von 10.000 humanoiden Robotern im neuen Werk setzt UBTech ein Zeichen. Doch noch ist die Nachfrage aus der Industrie zögerlich."
+        },
+        {
+          "title": "Saudi-Arabien baut Elektroautos – mit Technik aus Deutschland",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/saudi-arabien-baut-elektroautos-mit-technologie-aus-deutschland/",
+          "published": "2026-09-22T11:10:00+00:00",
+          "summary": "Ausgerechnet der Ölstaat Saudi-Arabien steigt in den Bau von Elektroautos ein. Unter der neuen Marke Ceer wurden eine Limousine und ein SUV mit dem Namen „Exobot“ vorgestellt. Beide starten mit 850 …"
+        },
+        {
+          "title": "Elektroingenieure aus aller Welt studieren in Deutschland – über die Hälfte geht wieder",
+          "link": "https://www.ingenieur.de/karriere/bildung/studium/elektroingenieure-aus-aller-welt-studieren-in-deutschland-uber-die-halfte-geht-wieder/",
+          "published": "2026-09-22T10:00:00+00:00",
+          "summary": "Internationale Studierende prägen das Elektrotechnik-Studium. Doch laut VDE steht über die Hälfte der Master-Absolventinnen und -Absolventen aus dem Ausland dem deutschen Arbeitsmarkt danach nicht …"
+        }
+      ],
+      "error": null
     }
   ]
 }
