@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:09:38+00:00",
+  "generatedAt": "2026-09-23T06:11:26+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Heribert Roth, ARD Berlin, zum Treffen Selenskyjs mit Trump",
-          "link": "https://www.tagesschau.de/video/video-1653954.html",
-          "published": "2026-09-23T03:58:04+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Selenskyj zeigt sich vor Treffen mit Trump in New York optimistisch für Veränderung",
-          "link": "https://www.tagesschau.de/video/video-1653952.html",
-          "published": "2026-09-23T03:53:57+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Bauzinsen über vier Prozent: Was Käufer jetzt wissen müssen",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bauzinsen-hypotheken-immobilienkauf-anschlussfinanzierung-100.html",
-          "published": "2026-09-23T03:29:12+00:00",
-          "summary": "Der Immobilienkauf wird wieder teurer. Bauzinsen für zehnjährige Darlehen liegen inzwischen über vier Prozent. Was Käufer und Eigentümer jetzt bei Finanzierung und Anschlusskredit beachten sollten. …"
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-23T06:09:55+00:00",
+          "summary": "Am Mittwoch ist es im Süden und in der Mitte nach Auflösung regionaler Nebelfelder sonnig oder leicht bewölkt. Nach Norden hin ist es wolkiger und im Nordwesten fällt gegen Abend Regen, vereinzelt …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653950.html",
-          "published": "2026-09-23T03:04:18+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653994.html",
+          "published": "2026-09-23T06:09:01+00:00",
           "summary": ""
         },
         {
-          "title": "Trump und Selenskyj sprechen über Deeskalation mit Russland",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html",
-          "published": "2026-09-23T02:43:48+00:00",
-          "summary": "Selenskyj bezeichnete das Treffen mit Trump als \"positiv und produktiv\". Ebenfalls erklärte er sich bereit, gemeinsam mit Trump ein Treffen mit Russlands Präsident Putin abzuhalten."
+          "title": "Kanzleramtschefin Warken verspricht Tempo bei Reformen",
+          "link": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
+          "published": "2026-09-23T05:57:37+00:00",
+          "summary": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitionsspitzen drang …"
+        },
+        {
+          "title": "Freude über Grönland-Abkommen - doch etwas Skepsis bleibt",
+          "link": "https://www.tagesschau.de/ausland/europa/groenland-abkommen-104.html",
+          "published": "2026-09-23T05:57:36+00:00",
+          "summary": "Lange wussten die Grönländer nicht, wie der Streit mit den USA um die Arktisinsel ausgehen wird. Jetzt gibt es ein Abkommen und die Erleichterung ist groß. Doch gibt US-Präsident Trump wirklich Ruhe? …"
+        },
+        {
+          "title": "Berlin, München oder Köln-Rhein-Ruhr? So läuft die Olympiawahl in Baden-Baden",
+          "link": "https://www.sportschau.de/olympia/so-laeuft-die-olympiawahl-in-baden-baden,olympia-bewerbung-faq-100.html",
+          "published": "2026-09-23T05:53:16+00:00",
+          "summary": "Der DOSB stimmt darüber ab, mit welcher Stadt sich Deutschland um Olympische Sommerspiele bewirbt. Das Erste überträgt die historische Entscheidung live aus Baden-Baden."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Rentenreform: Der neue Unions-Fraktionsvize Johannes Winkel will Rentenreform ohne Abstriche",
-          "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-der-neue-unions-fraktionsvize-johannes-winkel-will-rentenreform-ohne-abstriche/100256698.html",
-          "published": "2026-09-23T04:00:58+00:00",
-          "summary": "Der „Rentenrebell“ ist im Fraktionsvorstand nun für Arbeit und Soziales zuständig. Er will die Rentenreform ohne Änderungen – und die Abschaffung der Rente mit 63. Bas müsse jetzt liefern."
+          "title": "Vermögen: Erbschaftsteuer: Diese Abzüge sollten Sie nutzen",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-erbschaftsteuer-diese-abzuege-sollten-sie-nutzen/100248623.html",
+          "published": "2026-09-23T06:07:37+00:00",
+          "summary": "Nicht nur Erben, sondern auch Vermächtnisnehmer können mit der Erbfallkostenpauschale ihre Erbschaftsteuer senken. Das hat der BFH klargestellt. Ein weiterer Freibetrag wird oft übersehen."
         },
         {
-          "title": "Nikkei-Futures und CSI 300: Asiens Börsen profitieren von KI-Boom – Anleger in China vor Xi-Reise vorsichtig",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-futures-und-csi-300-asiens-boersen-profitieren-von-ki-boom-anleger-in-china-vor-xi-reise-vorsichtig/100256739.html",
-          "published": "2026-09-23T03:57:35+00:00",
-          "summary": "Technologiewerte zählen zu den großen Gewinnern in Asien. Sie steigen dank der starken Nachfrage nach neuen KI-Apps von Meta und Google."
+          "title": "Vermögen: So bleiben Familienheim und Gartengrundstück von der Erbschaftsteuer verschont",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-familienheim-geerbt-so-bleibt-das-gartengrundstueck-steuerfrei/100247122.html",
+          "published": "2026-09-23T06:07:04+00:00",
+          "summary": "Wer ins geerbte Familienheim einzieht, zahlt keine Erbschaftsteuer. Diese Begünstigung legt der BFH großzügig aus und bezieht auch einen weitläufigen Garten mit ein – unter einer Bedingung."
         },
         {
-          "title": "Authentisch vs. professionell: Bühne oder unverstellt: Wie viel Ich verträgt der Job?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/authentisch-vs-professionell-buehne-oder-unverstellt-wie-viel-ich-vertraegt-der-job/100256740.html",
-          "published": "2026-09-23T03:45:05+00:00",
-          "summary": "„Sei einfach du selbst“ - ein beliebter Karriereratschlag. Doch im Beruf kann radikale Authentizität zum Problem werden. Wie finden Beschäftigte eine Rolle, in der sie sich wohlfühlen?"
+          "title": "Vermögen: Depot vererben – so machen Sie es Ihren Kindern einfach",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-so-sichern-sie-ihren-erben-schnellen-zugriff-auf-das-depot/100252853.html",
+          "published": "2026-09-23T06:06:04+00:00",
+          "summary": "Wer ein Depot vererben möchte, sollte einige Vorkehrungen treffen. Ansonsten kann es für die Erben nicht nur mühsam, sondern auch teuer werden."
         },
         {
-          "title": "Regierungsbildung in Berlin: SPD setzt Linken Stoppsignal: Antisemitismus nicht mit uns",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-spd-setzt-linken-stoppsignal-antisemitismus-nicht-mit-uns/100256731.html",
-          "published": "2026-09-23T03:05:06+00:00",
-          "summary": "Die Linke in Berlin möchte mit SPD und Grünen zusammen regieren. Aber sie steht wegen mehrerer Vorfälle in der Kritik. Die SPD-Bundesspitze schaltet sich nun ein und macht eine klare Ansage."
+          "title": "+++ Ukraine-Krieg +++: EU hebt Sanktionen gegen zwei russische Milliardäre auf",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-23T06:03:29+00:00",
+          "summary": "Lawrow und Rubio treffen sich heute in New York +++ Polen sperrt zwei Flughäfen nach Angriffen auf die Ukraine +++ Selenskyj: Stopp russischer Ölkäufe würde Krieg beenden +++ Der Newsblog."
         },
         {
-          "title": "Invest: Hedgefonds-Manager Anthony Scaramucci: „Wir müssen Trump loswerden\"",
-          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-hedgefonds-manager-anthony-scaramucci-wir-muessen-trump-loswerden/100256624.html",
-          "published": "2026-09-23T03:05:00+00:00",
-          "summary": "Elf Tage war er Kommunikationschef im Weißen Haus. Heute ist Scaramucci ein lauter Kritiker des Präsidenten und erklärt im Podcast-Interview, wo er die größten Gefahren für die Wirtschaft sieht."
+          "title": "+++ Geschäftszahlen +++: KWS verdient operativ weniger – Aktie rutscht vorbörslich ab",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-kws-verdient-operativ-weniger-aktie-rutscht-vorboerslich-ab/24098412.html",
+          "published": "2026-09-23T06:03:06+00:00",
+          "summary": "Tui erwartet leichten Gewinnrückgang und bremst das Angebot +++ Leica erstmals seit Jahren mit Umsatzrückgang +++ Zara-Mutter Inditex steigert Umsatz um 9 Prozent +++ Der Newsblog."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Länder fürchten Sanktionen: Wirtschaftskrieg der USA gegen Teheran wird an Flughäfen spürbar",
+          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftskrieg-der-USA-gegen-Teheran-wird-an-Flughaefen-spuerbar-id31337461.html",
+          "published": "2026-09-23T05:42:47+00:00",
+          "summary": "Die USA wollen iranische Airlines \"weltweit lahmlegen\". Wer ihnen Kerosin bereitstellt oder die Abfertigung übernimmt, wird mit harten Sanktionen bestraft. Nun zeigt die Drohung der US-Regierung …"
+        },
         {
           "title": "Zinssorgen und Ölpreis belasten: KI-Fantasien geben der Wall Street Auftrieb",
           "link": "https://www.n-tv.de/wirtschaft/KI-Fantasien-geben-der-Wall-Street-Auftrieb-id31336889.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Koennen-Enteignungen-Berlins-Mieten-senken-id31335604.html",
           "published": "2026-09-22T16:09:19+00:00",
           "summary": "Hunderttausende zusätzliche Wohnungen in öffentlicher Hand, niedrigere Mieten für viele Berliner: Das ist das Versprechen der Linken. Ob diese Rechnung aufgeht, ist zweifelhaft."
-        },
-        {
-          "title": "Neu aufgerollter Prozess: Investor René Benko zu zweieinhalb Jahren Haft verurteilt",
-          "link": "https://www.n-tv.de/wirtschaft/Investor-Rene-Benko-zu-zweieinhalb-Jahren-Haft-verurteilt-id31335852.html",
-          "published": "2026-09-22T14:18:34+00:00",
-          "summary": "Vor rund einem Jahr wurde der österreichische Investor René Benko bereits einmal verurteilt. Das Verfahren ist in Teilen nun wiederholt worden. Das Landesgericht Innsbruck sieht es als erwiesen an …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "EUREX/Bund-Future im Frühhandel etwas fester",
-          "link": "https://www.finanzen.net/nachricht/anleihen/EUREX-Bund-Future-im-Fruehhandel-etwas-fester-15947770",
-          "published": "2026-09-23T04:03:40+00:00",
-          "summary": "DOW JONES--Der aktuelle Kontrakt des Bund-Futures steigt am Mittwochmorgen um 22 Ticks auf 121,33 Prozent. Das Tageshoch liegt bislang bei 121,38 Prozent und das Tagestief bei 121,16 Prozent. …"
+          "title": "Verhandlungen zwischen USA und Iran: DAX fester erwartet - Vortageshoch im Blick",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-verhandlungen-zwischen-usa-und-iran-dax-fester-erwartet-vortageshoch-im-blick-15943636",
+          "published": "2026-09-23T06:05:00+00:00",
+          "summary": "Der DAX hatte am Dienstag zum Handelsende ein marginales Kursplus von 0,02 Prozent auf 25.578,85 Punkte verbucht. Am Mittwoch dürfte der deutsche Leitindex jedoch nochmals sein im Handelsverlauf …"
         },
         {
-          "title": "EUREX/Bund-Future im Frühhandel etwas fester",
-          "link": "https://www.finanzen.net/nachricht/aktien/eurex-bund-future-im-fruehhandel-etwas-fester-15947769",
-          "published": "2026-09-23T04:03:40+00:00",
-          "summary": "DOW JONES--Der aktuelle Kontrakt des Bund-Futures steigt am Mittwochmorgen um 22 Ticks auf 121,33 Prozent. Das Tageshoch liegt bislang bei 121,38 Prozent und das Tagestief bei 121,16 Prozent. …"
+          "title": "Devisen: Euro fällt auf tiefsten Stand seit Ende Juli",
+          "link": "https://www.finanzen.net/nachricht/devisen/devisen-euro-faellt-auf-tiefsten-stand-seit-ende-juli-15947971",
+          "published": "2026-09-23T06:04:39+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Der Kurs des Euro ist am Mittwoch weiter gefallen. Am Morgen kostete die Gemeinschaftswährung 1,1423 US-Dollar und damit etwas weniger als am Vorabend und so wenig wie seit Ende …"
+        },
+        {
+          "title": "Lufthansa-Aktie: Sicherheitslandung bei Tochter Eurowings in Düsseldorf",
+          "link": "https://www.finanzen.net/nachricht/aktien/rauchentwicklung-lufthansa-aktie-sicherheitslandung-bei-tochter-eurowings-in-duesseldorf-15947880",
+          "published": "2026-09-23T06:02:39+00:00",
+          "summary": "Wie ein Sprecher von Eurowings auf Nachfrage mitteilte, wurde am Nachmittag, kurz nach dem Start der Maschine in Richtung Brindisi (Italien), eine leichte Rauchentwicklung festgestellt. Daraufhin sei …"
         },
         {
           "title": "WACKER CHEMIE-Aktie: Siltronic-Anteil soll weiter reduziert werden",
           "link": "https://www.finanzen.net/nachricht/aktien/deinvestition-wacker-chemie-aktie-siltronic-anteil-soll-weiter-reduziert-werden-15947172",
-          "published": "2026-09-23T04:02:00+00:00",
-          "summary": "Wie der Konzern mitteilte, will er im Rahmen eines beschleunigten Platzierungsverfahrens 2,2 Millionen Aktien abstoßen, was einem Anteil von 6,7 Prozent am Grundkapital des Wafer-Herstellers …"
+          "published": "2026-09-23T06:02:00+00:00",
+          "summary": "WACKER CHEMIE hat seine Beteiligung am Wafer-Hersteller Siltronic auf rund 15 Prozent von zuvor 21,67 Prozent reduziert. Im Rahmen eines beschleunigten ..."
         },
         {
-          "title": "Expertentreffen zu Extremwetter startet",
-          "link": "https://www.finanzen.net/nachricht/aktien/expertentreffen-zu-extremwetter-startet-15947766",
-          "published": "2026-09-23T03:49:40+00:00",
-          "summary": "HAMBURG (dpa-AFX) - Hitzewellen und andere Extremwetter-Ereignisse häufen sich nach Angaben von Meteorologen im Zuge des Klimawandels. Infolge von Hitze sind in diesem Sommer in Deutschland nach …"
-        },
-        {
-          "title": "Xi reist zu Trump - dreitägiger Staatsbesuch",
-          "link": "https://www.finanzen.net/nachricht/aktien/xi-reist-zu-trump-dreitaegiger-staatsbesuch-15947765",
-          "published": "2026-09-23T03:49:39+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - Chinas Staats- und Parteichef Xi Jinping trifft an diesem Mittwoch auf Einladung von US-Präsident Donald Trump zu einem dreitägigen Staatsbesuch in Washington ein. Themen des …"
+          "title": "Managers’ Transactions bei Amadeus Fire: Führungskraft weitet Engagement aus",
+          "link": "https://www.finanzen.net/nachricht/aktien/managers-transactions-bei-amadeus-fire-fuehrungskraft-weitet-engagement-aus-15947954",
+          "published": "2026-09-23T06:01:12+00:00",
+          "summary": "Am 22.09.2026 tätigte bei Amadeus Fire eine Führungskraft ein Eigengeschäft. Amadeus Fire meldete die Managers’ Transaction am 22.09.2026. Amadeus Fire-Vorstand Gerlitzki, Dennis vergrößerte am …"
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Die Märkte hoffen auf Frieden",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
-          "published": "2026-09-22T16:35:53+00:00",
-          "summary": "Vage Hoffnungen auf eine Annäherung zwischen den USA und Iran bei der UN-Generalversammlung haben heute die Kurse gestützt. Bis zum Handelsschluss ließen aber echte Fortschritte in New York auf sich …"
+          "title": "Marktbericht: DAX leicht höher erwartet",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+          "published": "2026-09-23T05:41:08+00:00",
+          "summary": "Die KI-Rally ist zurück, zugleich setzen die Märkte auf eine weitere Entspannung im Iran-Konflikt sowie ein konstruktives Gipfeltreffen zwischen China und den USA. Der DAX dürfte etwas höher starten."
         },
         {
           "title": "Iran-Krieg und Last-Minute-Trend zehren an TUI-Gewinn",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Reform der privaten Altersvorsorge: Wie lange geht die Preisschlacht ums Altersvorsorgedepot noch?",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/reform-der-privaten-altersvorsorge-wie-lange-geht-die-preisschlacht-ums-altersvorsorgedepot-noch/100256482.html",
-          "published": "2026-09-23T03:59:59+00:00",
+          "title": "Private Altersvorsorge: Die Rabattschlacht ums Altersvorsorgedepot könnte schon bald vorbei sein",
+          "link": "https://www.wiwo.de/finanzen/vorsorge/private-altersvorsorge-wie-lange-geht-die-preisschlacht-ums-altersvorsorgedepot-noch/100256482.html",
+          "published": "2026-09-23T06:04:00+00:00",
           "summary": "Anbieter unterbieten sich bisher bei den Kosten des neuen Altersvorsorgedepots. Doch dieser Preiskampf könnte bald enden – wegen einer kaum bekannten Regel."
         },
         {
-          "title": "UN-Generalversammlung: Jetzt erfindet Trump auch noch einen neuen Namen für Künstliche Intelligenz",
-          "link": "https://www.wiwo.de/politik/ausland/donald-trump-will-ki-umbenennen-absage-an-regulierung/100256688.html",
-          "published": "2026-09-22T19:54:01+00:00",
-          "summary": "Kurz vor dem Treffen mit Xi will Trump „Artificial Intelligence“ in „Super Intelligence“ umtaufen – und zeigt damit, dass er lieber auf absurde Symbolpolitik statt Regulierung setzt."
+          "title": "Importe in die EU: Billiganbieter werden laut Handel mit Zöllen nicht gestoppt",
+          "link": "https://www.wiwo.de/unternehmen/handel/importe-in-die-eu-billiganbieter-werden-laut-handel-mit-zoellen-nicht-gestoppt/100256754.html",
+          "published": "2026-09-23T05:31:37+00:00",
+          "summary": "Eine zusätzliche Bearbeitungsgebühr soll ab November den EU-Markt vor Billigware schützen. Dem deutschen Handelsverband geht das nicht weit genug."
         },
         {
-          "title": "Metall- und Elektroindustrie: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und sichere Jobs",
-          "link": "https://www.wiwo.de/unternehmen/auto/tarifrunde-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-sichere-jobs/100256623.html",
-          "published": "2026-09-22T18:05:00+00:00",
-          "summary": "Die IG Metall fordert fünf Prozent mehr Lohn. In der kriselnden Metall- und Elektroindustrie droht ein Konflikt um Arbeitskosten und Jobs."
+          "title": "Xi und Trump in Washington: Deutsche Wirtschaft fordert aktive EU-Handelspolitik",
+          "link": "https://www.wiwo.de/politik/ausland/xi-und-trump-in-washington-deutsche-wirtschaft-fordert-aktive-eu-handelspolitik/100256751.html",
+          "published": "2026-09-23T05:22:03+00:00",
+          "summary": "Der Handelskonflikt zwischen den USA und China belastet internationale Geschäfte. Die Präsidenten beider Mächte treffen sich. Welche Rolle hat Europa?"
         },
         {
-          "title": "Konflikt um Arktisinsel: Was springt für Trump beim Grönland-Abkommen raus?",
-          "link": "https://www.wiwo.de/politik/ausland/konflikt-um-arktisinsel-daenemark-und-usa-verkuenden-durchbruch-im-groenland-streit/100255764.html",
-          "published": "2026-09-22T17:40:00+00:00",
-          "summary": "Er wollte die Insel in US-Territorium verwandeln. Ein frisch unterzeichneter Deal soll den Grönland-Streit zwischen US-Präsident Trump und Dänemark nun beilegen. Was steht im Abkommen?"
+          "title": "US-China-Gipfel: „Das ist jetzt Xi Jinpings Welt“",
+          "link": "https://www.wiwo.de/politik/ausland/trump-und-xi-jinping-warum-china-beim-usa-china-gipfel-im-vorteil-ist/100256307.html",
+          "published": "2026-09-23T05:06:47+00:00",
+          "summary": "Donald Trump rollt Xi Jinping in Washington den roten Teppich aus. Das spielt Chinas Staatschef bei seinen langfristigen Plänen in die Hände."
         },
         {
-          "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
-          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256672.html",
-          "published": "2026-09-22T17:10:00+00:00",
-          "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch jetzt steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger."
+          "title": "Abkommen unterzeichnet: Grönland-Aktien im Check",
+          "link": "https://www.wiwo.de/finanzen/boerse/groenland-aktien-warum-anleger-den-hype-meiden-sollten/100256604.html",
+          "published": "2026-09-23T04:43:00+00:00",
+          "summary": "Das Abkommen zwischen den USA und Dänemark lässt die Kurse von Aktien mit Grönland-Bezug hochschießen. Was Anleger wissen sollten."
         }
       ],
       "error": null
