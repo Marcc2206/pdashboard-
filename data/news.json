@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T02:09:24+00:00",
+  "generatedAt": "2026-09-23T04:09:38+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Heribert Roth, ARD Berlin, zum Treffen Selenskyjs mit Trump",
+          "link": "https://www.tagesschau.de/video/video-1653954.html",
+          "published": "2026-09-23T03:58:04+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Selenskyj zeigt sich vor Treffen mit Trump in New York optimistisch für Veränderung",
+          "link": "https://www.tagesschau.de/video/video-1653952.html",
+          "published": "2026-09-23T03:53:57+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Bauzinsen über vier Prozent: Was Käufer jetzt wissen müssen",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bauzinsen-hypotheken-immobilienkauf-anschlussfinanzierung-100.html",
+          "published": "2026-09-23T03:29:12+00:00",
+          "summary": "Der Immobilienkauf wird wieder teurer. Bauzinsen für zehnjährige Darlehen liegen inzwischen über vier Prozent. Was Käufer und Eigentümer jetzt bei Finanzierung und Anschlusskredit beachten sollten. …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653946.html",
-          "published": "2026-09-23T00:11:49+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653950.html",
+          "published": "2026-09-23T03:04:18+00:00",
           "summary": ""
         },
         {
-          "title": "Mehr Staatsmann und weniger Konfrontation",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
-          "published": "2026-09-22T22:44:43+00:00",
-          "summary": "US-Präsident Trump hat sich bei der UN-Vollversammlung ungewohnt diszipliniert präsentiert. Doch hinter dem Kurswechsel stecken vor allem innenpolitischer Druck und die Suche nach einem Ausweg, meint …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81078.html",
-          "published": "2026-09-22T22:22:41+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12880.html",
-          "published": "2026-09-22T21:19:01+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Thorsten Frei, Fraktionsvorsitzender CDU, über die Rede von Kanzler Merz vor der Fraktion",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1653914.html",
-          "published": "2026-09-22T20:38:33+00:00",
-          "summary": ""
+          "title": "Trump und Selenskyj sprechen über Deeskalation mit Russland",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html",
+          "published": "2026-09-23T02:43:48+00:00",
+          "summary": "Selenskyj bezeichnete das Treffen mit Trump als \"positiv und produktiv\". Ebenfalls erklärte er sich bereit, gemeinsam mit Trump ein Treffen mit Russlands Präsident Putin abzuhalten."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Künstlichen Intelligenz: Großbritannien will bei KI-Regeln international eine Führungsrolle",
-          "link": "https://www.handelsblatt.com/politik/international/kuenstlichen-intelligenz-grossbritannien-will-bei-ki-regeln-international-eine-fuehrungsrolle/100256711.html",
-          "published": "2026-09-23T01:54:48+00:00",
-          "summary": "London will feindliche Informationsangriffe mit einem neuen Abwehrzentrum bekämpfen. Globale KI-Standards sollen Thema der britischen G20-Präsidentschaft werden."
+          "title": "Rentenreform: Der neue Unions-Fraktionsvize Johannes Winkel will Rentenreform ohne Abstriche",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-der-neue-unions-fraktionsvize-johannes-winkel-will-rentenreform-ohne-abstriche/100256698.html",
+          "published": "2026-09-23T04:00:58+00:00",
+          "summary": "Der „Rentenrebell“ ist im Fraktionsvorstand nun für Arbeit und Soziales zuständig. Er will die Rentenreform ohne Änderungen – und die Abschaffung der Rente mit 63. Bas müsse jetzt liefern."
         },
         {
-          "title": "Spritpreise: ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen/100256713.html",
-          "published": "2026-09-23T01:41:04+00:00",
-          "summary": "Seit April dürfen nur um 12 Uhr die Spritpreise an den Tankstellen erhöht werden. Der ADAC kritisiert, dass die Regel vor allem zu noch größeren Preisschwankungen im Tagesverlauf geführt habe."
+          "title": "Nikkei-Futures und CSI 300: Asiens Börsen profitieren von KI-Boom – Anleger in China vor Xi-Reise vorsichtig",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-futures-und-csi-300-asiens-boersen-profitieren-von-ki-boom-anleger-in-china-vor-xi-reise-vorsichtig/100256739.html",
+          "published": "2026-09-23T03:57:35+00:00",
+          "summary": "Technologiewerte zählen zu den großen Gewinnern in Asien. Sie steigen dank der starken Nachfrage nach neuen KI-Apps von Meta und Google."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Selenskyj – Stopp russischer Ölkäufe würde Krieg beenden",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-23T00:21:00+00:00",
-          "summary": "EU hebt Sanktionen gegen russische Milliardäre auf +++ Ukraine erhält 841 Millionen Dollar von der Weltbank +++ Slowakei fordert Sondergipfel wegen hoher Spritpreise +++ Der Newsblog."
+          "title": "Authentisch vs. professionell: Bühne oder unverstellt: Wie viel Ich verträgt der Job?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/authentisch-vs-professionell-buehne-oder-unverstellt-wie-viel-ich-vertraegt-der-job/100256740.html",
+          "published": "2026-09-23T03:45:05+00:00",
+          "summary": "„Sei einfach du selbst“ - ein beliebter Karriereratschlag. Doch im Beruf kann radikale Authentizität zum Problem werden. Wie finden Beschäftigte eine Rolle, in der sie sich wohlfühlen?"
         },
         {
-          "title": "Energie: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-          "link": "https://www.handelsblatt.com/politik/deutschland/energie-usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel/100256705.html",
-          "published": "2026-09-22T23:29:47+00:00",
-          "summary": "Mitten im Wahlkampf ziehen die Spritpreise in den USA weiter deutlich an. Die US-Regierung prüft deshalb eine Maßnahme, die auch Europa aufhorchen lassen dürfte."
+          "title": "Regierungsbildung in Berlin: SPD setzt Linken Stoppsignal: Antisemitismus nicht mit uns",
+          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-spd-setzt-linken-stoppsignal-antisemitismus-nicht-mit-uns/100256731.html",
+          "published": "2026-09-23T03:05:06+00:00",
+          "summary": "Die Linke in Berlin möchte mit SPD und Grünen zusammen regieren. Aber sie steht wegen mehrerer Vorfälle in der Kritik. Die SPD-Bundesspitze schaltet sich nun ein und macht eine klare Ansage."
         },
         {
-          "title": "Diplomatie: USA und Iran treffen sich erstmals seit Monaten",
-          "link": "https://www.handelsblatt.com/politik/international/diplomatie-usa-und-iran-treffen-sich-erstmals-seit-monaten/100256685.html",
-          "published": "2026-09-22T21:20:41+00:00",
-          "summary": "Im Iran-Krieg gelten die Fronten als verhärtet. Nun wurde laut den Amerikanern das erste Mal seit längerem wieder verhandelt. Der Iran betont, dies sei auf US-Wunsch geschehen."
+          "title": "Invest: Hedgefonds-Manager Anthony Scaramucci: „Wir müssen Trump loswerden\"",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-hedgefonds-manager-anthony-scaramucci-wir-muessen-trump-loswerden/100256624.html",
+          "published": "2026-09-23T03:05:00+00:00",
+          "summary": "Elf Tage war er Kommunikationschef im Weißen Haus. Heute ist Scaramucci ein lauter Kritiker des Präsidenten und erklärt im Podcast-Interview, wo er die größten Gefahren für die Wirtschaft sieht."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
-          "published": "2026-09-23T01:58:18+00:00",
-          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
+          "title": "EUREX/Bund-Future im Frühhandel etwas fester",
+          "link": "https://www.finanzen.net/nachricht/anleihen/EUREX-Bund-Future-im-Fruehhandel-etwas-fester-15947770",
+          "published": "2026-09-23T04:03:40+00:00",
+          "summary": "DOW JONES--Der aktuelle Kontrakt des Bund-Futures steigt am Mittwochmorgen um 22 Ticks auf 121,33 Prozent. Das Tageshoch liegt bislang bei 121,38 Prozent und das Tagestief bei 121,16 Prozent. …"
         },
         {
-          "title": "IREN, TeraWulf & Co.: Warum Bitcoin-Miner ihre Rechenzentren auf KI umrüsten und was das für Anleger bedeutet",
-          "link": "https://www.finanzen.net/nachricht/devisen/ki-margen-schlagen-mining-iren-terawulf-co-warum-bitcoin-miner-ihre-rechenzentren-auf-ki-umruesten-und-was-das-fuer-anleger-bedeutet-00-15945983",
-          "published": "2026-09-23T01:54:50+00:00",
-          "summary": "Miner rüsten Rechenzentren still von Mining auf KI-Computing um Selbst steigende Bitcoin-Kurse bremsen den Wandel offenbar nicht mehr Investoren bewerten KI-Verträge deutlich höher als reines Mining"
+          "title": "EUREX/Bund-Future im Frühhandel etwas fester",
+          "link": "https://www.finanzen.net/nachricht/aktien/eurex-bund-future-im-fruehhandel-etwas-fester-15947769",
+          "published": "2026-09-23T04:03:40+00:00",
+          "summary": "DOW JONES--Der aktuelle Kontrakt des Bund-Futures steigt am Mittwochmorgen um 22 Ticks auf 121,33 Prozent. Das Tageshoch liegt bislang bei 121,38 Prozent und das Tagestief bei 121,16 Prozent. …"
         },
         {
-          "title": "Quantenangriff auf Krypto: Aktien von Rigetti, D-Wave Quantinuum im Fokus",
-          "link": "https://www.finanzen.net/nachricht/aktien/quantenangriff-auf-krypto-aktien-von-rigetti-d-wave-amp-quantinuum-im-fokus-15947694",
-          "published": "2026-09-23T01:46:32+00:00",
-          "summary": "Forscher haben den Aufwand für einen Quantenangriff auf Bitcoin und Ethereum mehr als halbiert, und für Anleger stellt sich damit eine unbequeme Frage neu."
+          "title": "WACKER CHEMIE-Aktie: Siltronic-Anteil soll weiter reduziert werden",
+          "link": "https://www.finanzen.net/nachricht/aktien/deinvestition-wacker-chemie-aktie-siltronic-anteil-soll-weiter-reduziert-werden-15947172",
+          "published": "2026-09-23T04:02:00+00:00",
+          "summary": "Wie der Konzern mitteilte, will er im Rahmen eines beschleunigten Platzierungsverfahrens 2,2 Millionen Aktien abstoßen, was einem Anteil von 6,7 Prozent am Grundkapital des Wafer-Herstellers …"
         },
         {
-          "title": "SpaceX-Aktie im Visier: Dieser bekannte Kunde setzt auf Starfalls ersten kommerziellen Flug - Signal für Anleger?",
-          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-im-visier-dieser-bekannte-kunde-setzt-auf-starfalls-ersten-kommerziellen-flug-signal-fuer-anleger-00-15944532",
-          "published": "2026-09-23T01:32:13+00:00",
-          "summary": "Space Cargo Unlimited ist erster europäischer Kunde von SpaceX Starfall • Flug auf der ersten kommerziellen Starship-Mission ist offenbar für 2028 geplant • Bis zu eine Tonne Nutzlast für Pharma und …"
+          "title": "Expertentreffen zu Extremwetter startet",
+          "link": "https://www.finanzen.net/nachricht/aktien/expertentreffen-zu-extremwetter-startet-15947766",
+          "published": "2026-09-23T03:49:40+00:00",
+          "summary": "HAMBURG (dpa-AFX) - Hitzewellen und andere Extremwetter-Ereignisse häufen sich nach Angaben von Meteorologen im Zuge des Klimawandels. Infolge von Hitze sind in diesem Sommer in Deutschland nach …"
         },
         {
-          "title": "SpaceX vor 10 Billionen Dollar Bewertung? So realistisch ist Woods Mega-These zu der Raumfahrtaktie",
-          "link": "https://www.finanzen.net/nachricht/aktien/spacex-vor-10-billionen-dollar-bewertung-so-realistisch-ist-woods-mega-these-zu-der-raumfahrtaktie-15947686",
-          "published": "2026-09-23T01:15:34+00:00",
-          "summary": "Ein Post von Cathie Wood zu Starship-Flügen und Starlink-Umsätzen lässt Anleger neu über die Bewertung von SpaceX nachdenken, Elon Musk widerspricht nicht."
+          "title": "Xi reist zu Trump - dreitägiger Staatsbesuch",
+          "link": "https://www.finanzen.net/nachricht/aktien/xi-reist-zu-trump-dreitaegiger-staatsbesuch-15947765",
+          "published": "2026-09-23T03:49:39+00:00",
+          "summary": "WASHINGTON (dpa-AFX) - Chinas Staats- und Parteichef Xi Jinping trifft an diesem Mittwoch auf Einladung von US-Präsident Donald Trump zu einem dreitägigen Staatsbesuch in Washington ein. Themen des …"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Reform der privaten Altersvorsorge: Wie lange geht die Preisschlacht ums Altersvorsorgedepot noch?",
+          "link": "https://www.wiwo.de/finanzen/vorsorge/reform-der-privaten-altersvorsorge-wie-lange-geht-die-preisschlacht-ums-altersvorsorgedepot-noch/100256482.html",
+          "published": "2026-09-23T03:59:59+00:00",
+          "summary": "Anbieter unterbieten sich bisher bei den Kosten des neuen Altersvorsorgedepots. Doch dieser Preiskampf könnte bald enden – wegen einer kaum bekannten Regel."
+        },
+        {
           "title": "UN-Generalversammlung: Jetzt erfindet Trump auch noch einen neuen Namen für Künstliche Intelligenz",
           "link": "https://www.wiwo.de/politik/ausland/donald-trump-will-ki-umbenennen-absage-an-regulierung/100256688.html",
           "published": "2026-09-22T19:54:01+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256672.html",
           "published": "2026-09-22T17:10:00+00:00",
           "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch jetzt steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger."
-        },
-        {
-          "title": "Logistik: Der rasante Aufstieg des Unternehmers Navid Thielemann",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/navid-thielemann-vermoegen-und-aufstieg-des-logistikunternehmers/100255937.html",
-          "published": "2026-09-22T17:03:36+00:00",
-          "summary": "Navid Thielemann liebt große Geschäfte und sichtbaren Luxus. Sein Logistikimperium gibt Rätsel auf: Woher kommt das ganze Geld?"
         }
       ],
       "error": null
