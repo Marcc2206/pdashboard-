@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T22:07:52+00:00",
+  "generatedAt": "2026-09-23T00:12:06+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Mehr Staatsmann und weniger Konfrontation",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
+          "published": "2026-09-22T22:44:43+00:00",
+          "summary": "US-Präsident Trump hat sich bei der UN-Vollversammlung ungewohnt diszipliniert präsentiert. Doch hinter dem Kurswechsel stecken vor allem innenpolitischer Druck und die Suche nach einem Ausweg, meint …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81078.html",
+          "published": "2026-09-22T22:22:41+00:00",
+          "summary": ""
+        },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1653900.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1653914.html",
           "published": "2026-09-22T20:38:33+00:00",
           "summary": ""
-        },
-        {
-          "title": "Unionsfraktionssitzung nach Wahldebakel bei zwei Landtagswahlen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1653912.html",
-          "published": "2026-09-22T20:30:06+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
-          "published": "2026-09-22T19:58:52+00:00",
-          "summary": "Der Unionsfraktionsvorsitzende Frei sieht nach dem CDU-Wahldebakel einen \"enormen Aussprachebedarf\". Im tagesthemen-Interview stellt er sich hinter Kanzler Merz - obwohl es beim Fraktionstreffen …"
         }
       ],
       "error": null
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Energie: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energie-usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel/100256705.html",
+          "published": "2026-09-22T23:29:47+00:00",
+          "summary": "Mitten im Wahlkampf ziehen die Spritpreise in den USA weiter deutlich an. Die US-Regierung prüft deshalb eine Maßnahme, die auch Europa aufhorchen lassen dürfte."
+        },
         {
           "title": "Diplomatie: USA und Iran treffen sich erstmals seit Monaten",
           "link": "https://www.handelsblatt.com/politik/international/diplomatie-usa-und-iran-treffen-sich-erstmals-seit-monaten/100256685.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256671.html",
           "published": "2026-09-22T19:05:20+00:00",
           "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch nach langem Ringen steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Trump: US-Vertreter haben sich mit Iranern getroffen",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-vertreter-haben-sich-laut-trump-mit-iranern-getroffen/100136895.html",
-          "published": "2026-09-22T18:35:00+00:00",
-          "summary": "Guterres zu Nahost-Konflikt: „Genug ist genug“ +++ Iran stellte vor UN-Treffen unter Bedingungen Öffnung der Straße von Hormus in Aussicht +++ Der Newsblog"
         }
       ],
       "error": null
@@ -125,6 +125,12 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "GNW-News: Opterion Health gibt positive Ergebnisse der Phase-1-Studie für OPT101 bekannt, die den Übergang zur Phase 2a ermöglichen",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-opterion-health-gibt-positive-ergebnisse-der-phase-1-studie-fuer-opt101-bekannt-die-den-uebergang-zur-phase-2a-ermoeglichen-15947656",
+          "published": "2026-09-22T23:59:39+00:00",
+          "summary": "^* Die positiven Ergebnisse der Phase-I-Studie stärken das Vertrauen in OPT101,da SPARC seine Ziele bei allen wichtigen Endpunkten erreicht hat, darunter Sicherheit, Verträglichkeit, Pharmakokinetik …"
+        },
+        {
           "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
           "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
           "published": "2026-09-22T21:50:00+00:00",
@@ -147,12 +153,6 @@
           "link": "https://www.finanzen.net/nachricht/aktien/woods-billionen-rechnung-spacex-aktie-cathie-wood-sieht-eine-10-billionen-dollar-chance-was-ist-wirklich-dran-00-15939377",
           "published": "2026-09-22T21:18:00+00:00",
           "summary": "Cathie Wood rechnet Starship-Flüge in gigantische Starlink-Umsätze um Musk reagiert auf ARK-Chefin und nennt das Ziel nicht unmöglich Die theoretische Rechnung setzt eine massive Steigerung der …"
-        },
-        {
-          "title": "Wacker Chemie platziert Siltronic-Aktien - Bruttoerlös bei 171 Millionen Euro",
-          "link": "https://www.finanzen.net/nachricht/aktien/wacker-chemie-platziert-siltronic-aktien-bruttoerloes-bei-171-millionen-euro-15947526",
-          "published": "2026-09-22T21:04:38+00:00",
-          "summary": "MÜNCHEN (dpa-AFX) - WACKER CHEMIE hat seinen Anteil am Hersteller von Halbleiter-Wafern Siltronic weiter reduziert. So seien 2,2 Millionen Siltronic-Aktien zu je 77,25 Euro ..."
         }
       ],
       "error": null
@@ -240,39 +240,8 @@
       "name": "Technik & Robotik (ingenieur.de)",
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
-      "items": [
-        {
-          "title": "Lidls fahrerloser Lkw: Was die ersten Wochen gezeigt haben",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/lidls-fahrerloser-lkw-was-die-ersten-wochen-gezeigt-haben/",
-          "published": "2026-09-22T17:00:00+00:00",
-          "summary": "Lidl setzt in Hessen einen fahrerlosen Elektro-Lkw nach Level 4 ein – ohne Fahrerhaus und mit KBA-Genehmigung. Neue Details aus dem laufenden Betrieb zeigen nun, wie eng der Einsatz noch begrenzt …"
-        },
-        {
-          "title": "Windkraft: Bundesregierung will starke Branche – aber nicht um jeden Preis",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wo-die-windkraftbranche-in-deutschland-steht/",
-          "published": "2026-09-22T16:00:00+00:00",
-          "summary": "Windenergie in Deutschland wächst deutlich. Doch Netzausbau, Speicher, verlässliche Regeln und Investitionen entscheiden über den weiteren Erfolg der Branche."
-        },
-        {
-          "title": "10.000 Roboter pro Jahr: UBTech schraubt Produktion hoch",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/automation/ubtech-schraubt-produktion-hoch-auf-10-000-roboter-pro-jahr/",
-          "published": "2026-09-22T13:00:00+00:00",
-          "summary": "Mit einer geplanten Jahreskapazität von 10.000 humanoiden Robotern im neuen Werk setzt UBTech ein Zeichen. Doch noch ist die Nachfrage aus der Industrie zögerlich."
-        },
-        {
-          "title": "Saudi-Arabien baut Elektroautos – mit Technik aus Deutschland",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/saudi-arabien-baut-elektroautos-mit-technologie-aus-deutschland/",
-          "published": "2026-09-22T11:10:00+00:00",
-          "summary": "Ausgerechnet der Ölstaat Saudi-Arabien steigt in den Bau von Elektroautos ein. Unter der neuen Marke Ceer wurden eine Limousine und ein SUV mit dem Namen „Exobot“ vorgestellt. Beide starten mit 850 …"
-        },
-        {
-          "title": "Elektroingenieure aus aller Welt studieren in Deutschland – über die Hälfte geht wieder",
-          "link": "https://www.ingenieur.de/karriere/bildung/studium/elektroingenieure-aus-aller-welt-studieren-in-deutschland-uber-die-halfte-geht-wieder/",
-          "published": "2026-09-22T10:00:00+00:00",
-          "summary": "Internationale Studierende prägen das Elektrotechnik-Studium. Doch laut VDE steht über die Hälfte der Master-Absolventinnen und -Absolventen aus dem Ausland dem deutschen Arbeitsmarkt danach nicht …"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "HTTPError: HTTP Error 502: Bad Gateway"
     }
   ]
 }
