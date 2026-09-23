@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T20:09:44+00:00",
+  "generatedAt": "2026-09-23T22:09:06+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
-          "link": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
-          "published": "2026-09-23T19:59:52+00:00",
-          "summary": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine …"
-        },
-        {
-          "title": "Hendrik Holt in Dubai gefasst - Windkraft-Betrüger war geflohen",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-flucht-windkraft-betrueger-hendrik-holt-in-dubai-gefasst,holt-154.html",
-          "published": "2026-09-23T19:31:35+00:00",
-          "summary": "Der Windkraft-Betrüger Holt ist in Dubai festgenommen worden. Der verurteilte Straftäter war mehrere Wochen auf der Flucht, nachdem er von einem genehmigten Freigang nicht ins Gefängnis zurückgekehrt …"
-        },
-        {
-          "title": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
-          "published": "2026-09-23T19:11:42+00:00",
-          "summary": "Die Bundesregierung hat einen Aktionsplan gegen Sozialmissbrauch beschlossen. Er zielt zum Beispiel auf Kriminelle, die Menschen in \"Schrottimmobilien\" unterbringen, für die das Jobcenter überhöhte …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81072.html",
-          "published": "2026-09-23T19:07:43+00:00",
+          "title": "Debatte um Antisemitismus bei der Linkspartei",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1654572.html",
+          "published": "2026-09-23T21:20:07+00:00",
           "summary": ""
         },
         {
-          "title": "Internationale Konflikte bestimmen weiter UN-Generalversammlung in New York",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1654518.html",
-          "published": "2026-09-23T18:55:32+00:00",
+          "title": "Umgang mit Künstlicher Intelligenz zentrales Thema bei UN-Generaldebatte",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1654574.html",
+          "published": "2026-09-23T21:20:06+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Vor Trump-Xi-Gipfel: KI-Wettlauf zwischen China und USA",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1654576.html",
+          "published": "2026-09-23T21:20:05+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Bundesregierung beschließt mit Aktionsplan härteres Vorgehen gegen Sozialbetrug",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1654570.html",
+          "published": "2026-09-23T21:15:40+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12876.html",
+          "published": "2026-09-23T21:13:56+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Pressefreiheit: Medien und Verbände stellen sich an Seite von CNN und Co",
+          "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-medien-und-verbaende-stellen-sich-an-seite-von-cnn-und-co/100256964.html",
+          "published": "2026-09-23T21:25:01+00:00",
+          "summary": "Präsident Trump sorgt mit seinem Ausschluss mehrerer US-Medien aus dem Weißen Haus für einen Aufschrei in der Presselandschaft."
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: Rubio begründet Einladung von Putin zu G20-Gipfel in Florida",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-23T21:11:00+00:00",
+          "summary": "USA laden Putin zu G20-Gipfel in Miami ein +++ Selenskyj in New York: Russlands Einnahmen weiter beschneiden +++ Moskau: Mehr als 500 ukrainische Drohnen abgefangen +++ Der Newsblog."
+        },
+        {
+          "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
+          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-anthropic-chef-warnt-un-sicherheitsrat-vor-ki-gefahren-fuer-die-menschheit/100256961.html",
+          "published": "2026-09-23T20:46:44+00:00",
+          "summary": "Die CEOs von OpenAI und Anthropic werben bei der UN für eine Zusammenarbeit im Bereich KI. Trump hatte zuvor Versuche abgelehnt, ein globales Kontrollsystem zu errichten."
+        },
+        {
           "title": "+++ US-Zollpolitik +++: Vor Trump-Xi-Treffen: Chinas Botschafter nennt „rote Linien“ für USA",
           "link": "https://www.handelsblatt.com/politik/international/us-zoelle-vor-trump-xi-treffen-chinas-botschafter-nennt-rote-linien-fuer-usa/30026990.html",
           "published": "2026-09-23T19:59:21+00:00",
           "summary": "Schumer warnt Trump vor Lockerung von Chip-Exportkontrollen +++ Republikanische Senatoren vor Trump-Xi-Treffen besorgt um Taiwan +++ Der Newsblog."
         },
         {
-          "title": "Dow Jones, S&P 500, Nasdaq: Zinssorgen heben zehnjährige US‑Bonds auf über 5,1 Prozent",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-zinssorgen-heben-zehnjaehrige-usbonds-auf-ueber-51-prozent/100256895.html",
+          "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen schließen schwächer – Zehnjährige US‑Bonds auf über 5,1 Prozent",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-schwaecher-zehnjaehrige-usbonds-auf-ueber-51-prozent/100256895.html",
           "published": "2026-09-23T18:34:41+00:00",
-          "summary": "Steigende Ölpreise belasten erneut die Stimmung an den US‑Börsen. Neue Zinssorgen treiben die Rendite der 10-jährigen US-Staatsanleihe auf den höchsten Stand seit 2007."
-        },
-        {
-          "title": "Luxus unter Strom: SUV Torcal soll Bentley ins Elektro-Zeitalter beamen",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/luxus-unter-strom-suv-torcal-soll-bentley-ins-elektro-zeitalter-beamen/100256954.html",
-          "published": "2026-09-23T18:15:04+00:00",
-          "summary": "Als eine der letzten Luxusmarken wird nun auch Bentley elektrisch - und steckt dafür den Porsche Cayenne in feinen Zwirn. Der Antrieb ist neu, das Ambiente aber bleibt typisch Bentley. Der Preis auch."
-        },
-        {
-          "title": "Handelskonflikt: Verordnungen Nummer 834 und 835: Pekings neue Waffen im Handelskrieg",
-          "link": "https://www.handelsblatt.com/politik/international/rohstoffe-pekings-neue-waffen-im-handelskrieg/100251195.html",
-          "published": "2026-09-23T17:50:31+00:00",
-          "summary": "Mit den Exportbeschränkungen für seltene Erden hat Xi Trump an den Verhandlungstisch gezwungen. Nun erweitert Peking sein Abwehrinstrumentarium – mit Folgen für deutsche Unternehmen."
-        },
-        {
-          "title": "+++ Wahlen +++: SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-spd-laedt-vier-parteien-zu-gespraechen-in-sachsen-anhalt-ein/100252039.html",
-          "published": "2026-09-23T17:31:14+00:00",
-          "summary": "Berliner Grüne stellen Bedingungen für Sondierungen +++ Thüringens SPD-Chef Maier will nicht mehr antreten +++ Schwesig will Sondierungsgespräche nächste Woche starten +++ Der Newsblog."
+          "summary": "Steigende Ölpreise belasten erneut die Stimmung an den US‑Börsen. Neue Zinssorgen treiben die Rendite der zehnjährigen US-Staatsanleihe auf den höchsten Stand seit 2007."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Auch Nahost-Sorgen drücken Kurse: Zinsangst sucht die Wall Street heim",
+          "link": "https://www.n-tv.de/wirtschaft/Zinsangst-sucht-die-Wall-Street-heim-id31341201.html",
+          "published": "2026-09-23T21:04:48+00:00",
+          "summary": "Vergeblich hofft die Wall Street auf ein baldiges Ende des Iran-Krieges. Nach der harten Ansage des iranischen Präsidenten vor den Vereinten Nationen rechnen US-Anleger inzwischen mit einem zweiten …"
+        },
         {
           "title": "Thema im Bundesrat: Wird die 12-Uhr-Regel an Tankstellen wieder abgeschafft?",
           "link": "https://www.n-tv.de/wirtschaft/Wird-die-12-Uhr-Regel-an-Tankstellen-wieder-abgeschafft-id31340205.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Flixtrain-faehrt-ab-2027-im-Stundentakt-auf-der-Strecke-Berlin-Hamburg-id31339398.html",
           "published": "2026-09-23T12:05:20+00:00",
           "summary": "Flixtrain investiert rund 2,4 Milliarden Euro in den Ausbau seiner Zugflotte. Die grünen Wagen sollen bereits im kommenden Jahr deutlich öfter im Schienennetz unterwegs sein. Davon profitieren …"
-        },
-        {
-          "title": "Firmen verzichten trotz Bedarfs: Mittelstand beklagt Barrieren bei Einstellung ausländischer Fachkräfte",
-          "link": "https://www.n-tv.de/wirtschaft/Mittelstand-beklagt-Barrieren-bei-Einstellung-auslaendischer-Fachkraefte-id31339345.html",
-          "published": "2026-09-23T12:03:21+00:00",
-          "summary": "Deutschlands Bevölkerung altert. Um Personallücken zu schließen, greifen Firmen auf Arbeitskräfte aus dem Ausland zurück. Doch einige Unternehmen halten sich zurück, obwohl es ihnen an Fachkräften …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Abschied von den ADRs? Was ein NYSE-Direktlisting für die Novo Nordisk-Aktie bedeuten würde",
-          "link": "https://www.finanzen.net/nachricht/aktien/fuer-und-wider-abschied-von-den-adrs-was-ein-nyse-direktlisting-fuer-die-novo-nordisk-aktie-bedeuten-wuerde-00-15948332",
-          "published": "2026-09-23T20:05:00+00:00",
-          "summary": "CEO Doustdar sieht Vorteile in einem direkten NYSE-Listing der Aktie statt der ADRs Aktiv verfolgt das Unternehmen die Idee nach eigenen Worten derzeit nicht Eli Lilly setzt Novo Nordisk im …"
+          "title": "SpaceX-Aktie im Visier: Dieser bekannte Kunde setzt auf Starfalls ersten kommerziellen Flug - Signal für Anleger?",
+          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-im-visier-dieser-bekannte-kunde-setzt-auf-starfalls-ersten-kommerziellen-flug-signal-fuer-anleger-00-15944532",
+          "published": "2026-09-23T21:50:00+00:00",
+          "summary": "Space Cargo Unlimited ist erster europäischer Kunde von SpaceX Starfall • Flug auf der ersten kommerziellen Starship-Mission ist offenbar für 2028 geplant • Bis zu eine Tonne Nutzlast für Pharma und …"
         },
         {
-          "title": "Apple-Aktie kurz vor 5-Billionen-Marke: Welche Chancen Analysten noch sehen",
-          "link": "https://www.finanzen.net/nachricht/aktien/meilenstein-voraus-apple-aktie-kurz-vor-5-billionen-marke-welche-chancen-analysten-noch-sehen-00-15948144",
-          "published": "2026-09-23T20:04:00+00:00",
-          "summary": "Apple steuert auf Marktkapitalisierung von fünf Billionen US-Dollar zu NVIDIA bislang einziges Unternehmen mit Schlusskurs über der Marke Neue iPhone-Modelle treiben die Rally seit der Vorstellung an"
+          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
+          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
+          "published": "2026-09-23T21:42:00+00:00",
+          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
         },
         {
-          "title": "McDonald's-Aktie fällt nach Investorentag auf Jahrestief: Warum die NEXT-Strategie enttäuscht",
-          "link": "https://www.finanzen.net/nachricht/aktien/zweifel-kommen-auf-mcdonald-s-aktie-faellt-nach-investorentag-auf-jahrestief-warum-die-next-strategie-enttaeuscht-00-15949491",
-          "published": "2026-09-23T20:03:00+00:00",
-          "summary": "McDonald's stellt milliardenschwere Investitionspläne für Franchisenehmer vor Anleger von neuen Zielen abgeschreckt, Aktie mit deutlichen Kursverlusten Analysten bleiben trotz Skepsis mehrheitlich …"
+          "title": "Ausblick: H&M stellt Zahlen zum jüngsten Quartal vor",
+          "link": "https://www.finanzen.net/nachricht/aktien/erwartungen-im-ueberblick-ausblick-h-m-stellt-zahlen-zum-juengsten-quartal-vor-15947870",
+          "published": "2026-09-23T21:18:00+00:00",
+          "summary": "Hennes Mauritz (H&M) wird am 24.09.2026 die Geschäftsergebnisse zum am 31.08.2026 abgelaufenen Quartal offenlegen. 17 Analysten prognostizieren im Schnitt einen Gewinn je Aktie von 2,20 SEK gegenüber …"
         },
         {
-          "title": "WDH/Drohnensichtung am BER - Flugbetrieb kurzzeitig eingestellt",
-          "link": "https://www.finanzen.net/nachricht/aktien/wdh-drohnensichtung-am-ber-flugbetrieb-kurzzeitig-eingestellt-15949555",
-          "published": "2026-09-23T19:46:38+00:00",
-          "summary": "(fehlender Buchstabe ergänzt)BERLIN (dpa-AFX) - Wegen einer Drohnensichtung am Hauptstadtflughafen Berlin-Brandenburg (BER) ist der Flugbetrieb dort für 45 Minuten komplett eingestellt worden. …"
+          "title": "Kaufsignal oder Modellrechnung? Warum ein Analyst eine Kursverdopplung der Intel-Aktie für möglich hält",
+          "link": "https://www.finanzen.net/nachricht/aktien/foundry-geschaeft-im-fokus-kaufsignal-oder-modellrechnung-warum-ein-analyst-eine-kursverdopplung-der-intel-aktie-fuer-moeglich-haelt-00-15945904",
+          "published": "2026-09-23T21:00:00+00:00",
+          "summary": "Melius Research-Analyst Ben Reitzes stellt gewagte 200-US-Dollar-These auf Foundry-Geschäft und 14A-Fertigung als Werttreiber Expertenkonsens nach starkem Lauf vorsichtig Melius Research-Analyst ..."
         },
         {
-          "title": "Drohnensichtung am BER - Flugbetrieb kurzzeitig eingestellt",
-          "link": "https://www.finanzen.net/nachricht/aktien/drohnensichtung-am-ber-flugbetrieb-kurzzeitig-eingestellt-15949553",
-          "published": "2026-09-23T19:41:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Wegen einer Drohnensichtung am Hauptstadtflughafen Berlin-Brandenburg (BER) ist der Flugbetrieb dort für 45 Minuten komplett eingestellt worden. Inzwischen sei die Sperrung bereits …"
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-23T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
         }
       ],
       "error": null
