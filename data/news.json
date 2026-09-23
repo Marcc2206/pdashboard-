@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T16:09:42+00:00",
+  "generatedAt": "2026-09-23T18:11:34+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
-          "link": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
-          "published": "2026-09-23T15:44:34+00:00",
-          "summary": "Nach einem Jahr Abwesenheit wollen die Niederlande 2027 wieder beim Eurovision Song Contest mit dabei sein. Der öffentlich-rechtliche Rundfunk übernimmt vom bisherigen Sender. Ein erneuter Boykott …"
+          "title": "Hendrik Holt in Dubai gefasst - Windkraft-Betrüger war geflohen",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-flucht-windkraft-betrueger-hendrik-holt-in-dubai-gefasst,holt-154.html",
+          "published": "2026-09-23T17:57:12+00:00",
+          "summary": "Der Windkraft-Betrüger Holt ist in Dubai festgenommen worden. Der verurteilte Straftäter war mehrere Wochen auf der Flucht, nachdem er von einem genehmigten Freigang nicht ins Gefängnis zurückgekehrt …"
         },
         {
-          "title": "UN-Generalversammlung in New York: Iranischer Präsident Peseschkian sieht sein Land als Opfer der USA",
-          "link": "https://www.tagesschau.de/video/video-1654340.html",
-          "published": "2026-09-23T15:41:21+00:00",
-          "summary": ""
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-23T17:09:28+00:00",
+          "summary": "Am Donnerstag gibt es vor allem zwischen Ostsee und Erzgebirge sowie im östlichen und südlichen Bayern Schauer. Nach Westen hin ist es trocken und am häufigsten scheint die Sonne. 10 bis 23 Grad."
         },
         {
-          "title": "Aktionsplan der Bundesregierung verschärft Vorgehen gegen Sozialbetrug",
-          "link": "https://www.tagesschau.de/video/video-1654330.html",
-          "published": "2026-09-23T15:37:55+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Sebastian Schöbel, RBB, über das Zurückziehen der Olympia-Bewerbung Berlins",
-          "link": "https://www.tagesschau.de/video/video-1654338.html",
-          "published": "2026-09-23T15:31:56+00:00",
-          "summary": ""
+          "title": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
+          "published": "2026-09-23T16:50:49+00:00",
+          "summary": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht …"
         },
         {
           "title": "Berlin zieht Olympia-Bewerbung zurück",
           "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
-          "published": "2026-09-23T15:21:29+00:00",
+          "published": "2026-09-23T16:23:08+00:00",
           "summary": "Zuletzt waren Berlin ohnehin nur noch Außenseiterchancen eingeräumt worden. Nun will die Stadt ihre Bewerbung für die Olympischen Spiele zurückziehen. Das dürfte auch am Ergebnis der …"
+        },
+        {
+          "title": "Marktbericht: DAX baut Verluste aus",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+          "published": "2026-09-23T16:00:34+00:00",
+          "summary": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die jüngst aufgekeimte Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder dahin."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "PDF: Handelsblatt vom 24. September 2026",
-          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-24.-september-2026/100256939.html",
-          "published": "2026-09-23T15:55:10+00:00",
-          "summary": ""
+          "title": "Handelskonflikt: Pekings neue Waffen im Handelskrieg: So baut China sein Vergeltungsarsenal aus",
+          "link": "https://www.handelsblatt.com/politik/international/handelskonflikt-china-baut-sein-vergeltungsarsenal-aus/100251195.html",
+          "published": "2026-09-23T17:50:31+00:00",
+          "summary": "Mit den Exportbeschränkungen für seltene Erden hat Xi Trump an den Verhandlungstisch gezwungen. Nun erweitert Peking sein Abwehrinstrumentarium – mit Folgen für deutsche Unternehmen."
         },
         {
-          "title": "PDF: Handelsblatt vom 24. September 2026 - Beilage",
-          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-24.-september-2026-beilage/100256835.html",
-          "published": "2026-09-23T15:55:02+00:00",
-          "summary": ""
+          "title": "+++ Wahlen +++: SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-spd-laedt-vier-parteien-zu-gespraechen-in-sachsen-anhalt-ein/100252039.html",
+          "published": "2026-09-23T17:31:14+00:00",
+          "summary": "Berliner Grüne stellen Bedingungen für Sondierungen +++ Thüringens SPD-Chef Maier will nicht mehr antreten +++ Schwesig will Sondierungsgespräche nächste Woche starten +++ Der Newsblog."
         },
         {
-          "title": "PDF: Handelsblatt vom 24. September 2026 - Beilage",
-          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-24.-september-2026-beilage/100256834.html",
-          "published": "2026-09-23T15:54:53+00:00",
-          "summary": ""
+          "title": "Justiz: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
+          "link": "https://www.handelsblatt.com/unternehmen/energie/justiz-windparkbetrueger-hendrik-holt-in-dubai-festgenommen/100256944.html",
+          "published": "2026-09-23T17:14:35+00:00",
+          "summary": "Die Staatsanwaltschaft Osnabrück vermeldet einen Fahndungserfolg. Der seit vier Wochen flüchtige Betrüger sei in den Vereinigten Arabischen Emiraten erwischt worden."
         },
         {
-          "title": "Ukraine-Krieg: Rubio: Haben Putin zu G20-Gipfel in Miami eingeladen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-rubio-haben-putin-zu-g20-gipfel-in-miami-eingeladen/100256919.html",
-          "published": "2026-09-23T15:50:14+00:00",
-          "summary": "Im Dezember soll das Treffen der G20 in Miami stattfinden – aber auch mit Kremlchef Putin? Der Gastgeber USA versucht, darauf hinzuwirken."
+          "title": "Wall Street: Chinas Staatschef Xi Jinping in Washington, Ölpreis zieht an",
+          "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-chinas-staatschef-xi-jinping-in-washington-oelpreis-zieht-an/100256946.html",
+          "published": "2026-09-23T17:06:17+00:00",
+          "summary": "US-Präsident Trump empfängt Chinas Staatschef Xi zu einem Gipfel in Washington. Außerdem: Nach Drohungen im Konflikt mit dem Iran steigt der Ölpreis."
         },
         {
-          "title": "Märkte Insight: Wann die hohen Zinsen zum Problem für Aktien werden",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-wann-die-hohen-zinsen-zum-problem-fuer-aktien-werden/100256079.html",
-          "published": "2026-09-23T15:42:43+00:00",
-          "summary": "Obwohl die Notenbanken die Zinswende eingeleitet haben, steigen die Kurse an den Börsen. Denn Anleger klammern eine starke Entwicklung aus, meint Ulf Sommer."
+          "title": "+++ Iran-Krieg +++: Wadephul fordert iranischen Außenminister wohl zu Verhandlungen auf",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-wadephul-fordert-iranischen-aussenminister-wohl-zu-verhandlungen-auf/100136895.html",
+          "published": "2026-09-23T17:04:59+00:00",
+          "summary": "Iran knüpft Öffnung der Straße von Hormus an Bedingungen +++ Iran droht Nachbarstaaten mit Lahmlegung von Flughäfen +++ Behörde: Frachtschiff in der Straße von Hormus in Flammen +++ Der Newsblog."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Aktien Wien Schluss: ATX verliert leicht nach Rekordhoch",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-wien-schluss-atx-verliert-leicht-nach-rekordhoch-15949281",
-          "published": "2026-09-23T16:01:39+00:00",
-          "summary": "WIEN (dpa-AFX) - Der Wiener Aktienmarkt hat am Mittwoch nach einem Stimmungsdreh etwas leichter geschlossen, nachdem er sich im Verlauf noch auf Rekordkurs befunden hatte. Der ATX gab am Ende 0,17 …"
+          "title": "Mensch statt KI am Telefon: Metas 'Muse'-Experiment sorgt für Wirbel - was Aktienanleger wissen müssen",
+          "link": "https://www.finanzen.net/nachricht/aktien/mitarbeiter-aeussern-bedenken-mensch-statt-ki-am-telefon-metas-muse-experiment-sorgt-fuer-wirbel-was-aktienanleger-wissen-muessen-00-15948619",
+          "published": "2026-09-23T18:06:00+00:00",
+          "summary": "Mitarbeiter kritisieren fehlende Offenlegung beim Anruftest Meta rollt die Testfunktion vorerst wieder zurück Analysten heben ihre Kursziele für die Meta-Aktie weiter an"
         },
         {
-          "title": "Handel in New York: NASDAQ 100 fällt am Mittag zurück",
-          "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-nasdaq-100-faellt-am-mittag-zurueck-15949275",
-          "published": "2026-09-23T15:59:50+00:00",
-          "summary": "Um 17:57 Uhr bewegt sich der NASDAQ 100 im NASDAQ-Handel 0,92 Prozent tiefer bei 30.448,90 Punkten. Zuvor ging der NASDAQ 100 0,085 Prozent tiefer bei 30.706,23 Punkten in den Handel, nach ..."
+          "title": "Aktien New York: Ölpreisanstieg hält Anleger in der Defensive",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-new-york-oelpreisanstieg-haelt-anleger-in-der-defensive-15949461",
+          "published": "2026-09-23T18:05:39+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Die US-Aktienmärkte haben am Mittwoch im Zuge wieder steigender Ölpreise nachgegeben. Der Dow Jones Industrial sank zuletzt um 0,5 Prozent auf 51.600 Punkte. Der marktbreite S&P …"
         },
         {
-          "title": "Minuszeichen in New York: S&P 500 verliert",
-          "link": "https://www.finanzen.net/nachricht/aktien/minuszeichen-in-new-york-s-p-500-verliert-15949274",
-          "published": "2026-09-23T15:59:50+00:00",
-          "summary": "Am Mittwoch verliert der S&P 500 um 17:57 Uhr via NYSE 0,62 Prozent auf 7.716,26 Punkte. Der Börsenwert der im S&P 500 enthaltenen Werte beträgt damit 63,538 Bio. Euro. Zuvor ging der S&P 500 ..."
+          "title": "Anleger schicken die IonQ-Aktie nach Durchbruch bei Quantenfehlerkorrektur nach oben",
+          "link": "https://www.finanzen.net/nachricht/aktien/b-riley-bekraeftigt-kauf-anleger-schicken-die-ionq-aktie-nach-durchbruch-bei-quantenfehlerkorrektur-nach-oben-00-15948642",
+          "published": "2026-09-23T18:05:00+00:00",
+          "summary": "Quantenfehlerkorrektur-Durchbruch treibt IonQ-Aktie deutlich an Neue Dekodertechnik soll IonQs Roadmap zu tausenden Qubits stützen Analysten bekräftigen ihre Kaufeinschätzung nach der …"
         },
         {
-          "title": "Minuszeichen in New York: NASDAQ Composite präsentiert sich schwächer",
-          "link": "https://www.finanzen.net/nachricht/aktien/minuszeichen-in-new-york-nasdaq-composite-praesentiert-sich-schwaecher-15949273",
-          "published": "2026-09-23T15:59:50+00:00",
-          "summary": "Um 17:57 Uhr fällt der NASDAQ Composite im NASDAQ-Handel um 1,01 Prozent auf 26.967,82 Punkte zurück. Zum Start des Mittwochshandels stand ein Verlust von 0,113 Prozent auf 27.213,52 ..."
+          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
+          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
+          "published": "2026-09-23T18:05:00+00:00",
+          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
         },
         {
-          "title": "Angespannte Stimmung in New York: Das macht der Dow Jones am Mittag",
-          "link": "https://www.finanzen.net/nachricht/aktien/angespannte-stimmung-in-new-york-das-macht-der-dow-jones-am-mittag-15949272",
-          "published": "2026-09-23T15:59:50+00:00",
-          "summary": "Um 17:57 Uhr fällt der Dow Jones im NYSE-Handel um 0,58 Prozent auf 51.561,04 Punkte. Der Wert der im Dow Jones enthaltenen Werte beträgt damit 25,583 Bio. Euro. Zum Handelsstart standen Gewinne ..."
+          "title": "Bayer-Aktie im Fokus: Pharmariese sammelt frisches Geld über Hybridanleihen ein",
+          "link": "https://www.finanzen.net/nachricht/aktien/kapitalmassnahme-bayer-aktie-im-fokus-pharmariese-sammelt-frisches-geld-ueber-hybridanleihen-ein-15949326",
+          "published": "2026-09-23T18:04:00+00:00",
+          "summary": "Wie der DAX -Konzern mitteilte, hat er Hybridanleihen über 2 Milliarden Euro platziert. Beide Tranchen mit gleichem Volumen seien mehrfach überzeichnet gewesen. Das Geld ist für allgemeine …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Überidentifikation: „Sagen Sie Leistungsträgern nicht, dass sie weniger arbeiten sollen“",
+          "link": "https://www.wiwo.de/erfolg/management/ueberidentifikation-im-job-wenn-arbeit-krank-macht/100254798.html",
+          "published": "2026-09-23T17:17:16+00:00",
+          "summary": "Wer sich zu sehr mit seiner Arbeit identifiziert, neigt zur Überarbeitung. Ein Mediziner erklärt, warum es helfen kann, an die eigene Grabesrede zu denken."
+        },
+        {
+          "title": "Europäischer Haftbefehl: Aus Haft geflohen – Windkraftbetrüger Holt in Dubai gefasst",
+          "link": "https://www.wiwo.de/politik/europa/europaeischer-haftbefehl-aus-haft-geflohen-windkraftbetrueger-holt-in-dubai-gefasst/100256947.html",
+          "published": "2026-09-23T17:02:38+00:00",
+          "summary": "Von einem Ausgang im offenen Vollzug kam der Betrüger nicht zurück. Vermutet wurde er in Russland – nun aber woanders gefasst."
+        },
+        {
+          "title": "Ukraine-Krieg: USA haben Putin zu G20-Treffen eingeladen",
+          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-usa-haben-putin-zu-g20-treffen-eingeladen/100256941.html",
+          "published": "2026-09-23T16:53:02+00:00",
+          "summary": "Seit 2019 hat Russland nicht mehr an einem Treffen der großen Industrie- und Schwellenländer teilgenommen. Die Trump-Regierung will das ändern."
+        },
+        {
+          "title": "Bilanzzahlen Bosch: Womit will Bosch seine Auto-Lücken füllen?",
+          "link": "https://www.wiwo.de/unternehmen/auto/bilanzzahlen-bosch-womit-will-bosch-seine-auto-luecken-fuellen/100256929.html",
+          "published": "2026-09-23T16:09:19+00:00",
+          "summary": "Der weltgrößte Autozulieferer schrumpft im Autogeschäft und wächst bei Klimaanlagen. Für einen Wandel zur Technologiefirma wird das allein nicht reichen."
+        },
+        {
           "title": "Offshore-Windkraft: Das Schicksal der Windkraft liegt in der Hand der Ölkonzerne",
           "link": "https://www.wiwo.de/unternehmen/energie/offshore-windkraft-warum-16-gigawatt-in-deutschland-blockieren/100255572.html",
           "published": "2026-09-23T15:28:25+00:00",
           "summary": "Wie lässt sich ein Fadenriss beim Offshore-Wind-Ausbau verhindern? Diese Frage steht für die Branche im Vordergrund. Eine entscheidende Rolle spielen: Ölkonzerne, ausgerechnet."
-        },
-        {
-          "title": "Gesundheits-Debatte: Immer wieder holt der Kanzler den Gesundheitsminister ein",
-          "link": "https://www.wiwo.de/politik/deutschland/gesundheits-debatte-immer-wieder-holt-der-kanzler-den-gesundheitsminister-ein/100256793.html",
-          "published": "2026-09-23T15:22:18+00:00",
-          "summary": "Der neue Minister Carsten Linnemann stellt sich Fragen im Bundestag – und offenbart dabei, wie viel Geld sowohl bei Gesundheit und Pflege vor Jahresende noch fehlen."
-        },
-        {
-          "title": "Sozialbetrug: Was bewirkt der Zehn-Punkte-Plan gegen Sozialbetrug wirklich?",
-          "link": "https://www.wiwo.de/politik/deutschland/zehn-punkte-plan-gegen-sozialbetrug-was-bringt-er-wirklich/100243918.html",
-          "published": "2026-09-23T15:20:00+00:00",
-          "summary": "Die Regierung will Sozialbetrug mit einem Zehn-Punkte-Plan stoppen. Kommunen schlagen derweil Alarm. Wie wirksam sind die Maßnahmen gegen Scheinarbeit und Schleuser? Ein Ortsbesuch."
-        },
-        {
-          "title": "Energiewende: Uniper sichert sich große Mengen Öko-Flugzeugtreibstoff",
-          "link": "https://www.wiwo.de/unternehmen/energie/energiewende-warum-uniper-sich-grosse-mengen-oeko-flugzeugtreibstoff-sichert/100256910.html",
-          "published": "2026-09-23T14:35:00+00:00",
-          "summary": "Uniper will vom wachsenden Markt für nachhaltigen Flugkraftstoff profitieren. Dafür setzt der Energiekonzern auf eine langfristige Partnerschaft."
-        },
-        {
-          "title": "Zinsen: Geldmarkt vs. Tagesgeld – was sich wirklich lohnt",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/zinsen-geldmarkt-vs.-tagesgeld-was-sich-wirklich-lohnt/100256649.html",
-          "published": "2026-09-23T13:59:27+00:00",
-          "summary": "Geldmarkt-ETFs bieten Anlegern die Möglichkeit, Cash kurzfristig verzinst zu parken. Die Produkte haben einige Vorteile gegenüber Tagesgeld."
         }
       ],
       "error": null
