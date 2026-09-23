@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T18:11:34+00:00",
+  "generatedAt": "2026-09-23T20:09:44+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
+          "link": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
+          "published": "2026-09-23T19:59:52+00:00",
+          "summary": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine …"
+        },
+        {
           "title": "Hendrik Holt in Dubai gefasst - Windkraft-Betrüger war geflohen",
           "link": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-flucht-windkraft-betrueger-hendrik-holt-in-dubai-gefasst,holt-154.html",
-          "published": "2026-09-23T17:57:12+00:00",
+          "published": "2026-09-23T19:31:35+00:00",
           "summary": "Der Windkraft-Betrüger Holt ist in Dubai festgenommen worden. Der verurteilte Straftäter war mehrere Wochen auf der Flucht, nachdem er von einem genehmigten Freigang nicht ins Gefängnis zurückgekehrt …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-23T17:09:28+00:00",
-          "summary": "Am Donnerstag gibt es vor allem zwischen Ostsee und Erzgebirge sowie im östlichen und südlichen Bayern Schauer. Nach Westen hin ist es trocken und am häufigsten scheint die Sonne. 10 bis 23 Grad."
+          "title": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
+          "published": "2026-09-23T19:11:42+00:00",
+          "summary": "Die Bundesregierung hat einen Aktionsplan gegen Sozialmissbrauch beschlossen. Er zielt zum Beispiel auf Kriminelle, die Menschen in \"Schrottimmobilien\" unterbringen, für die das Jobcenter überhöhte …"
         },
         {
-          "title": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
-          "published": "2026-09-23T16:50:49+00:00",
-          "summary": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht …"
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81072.html",
+          "published": "2026-09-23T19:07:43+00:00",
+          "summary": ""
         },
         {
-          "title": "Berlin zieht Olympia-Bewerbung zurück",
-          "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
-          "published": "2026-09-23T16:23:08+00:00",
-          "summary": "Zuletzt waren Berlin ohnehin nur noch Außenseiterchancen eingeräumt worden. Nun will die Stadt ihre Bewerbung für die Olympischen Spiele zurückziehen. Das dürfte auch am Ergebnis der …"
-        },
-        {
-          "title": "Marktbericht: DAX baut Verluste aus",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-          "published": "2026-09-23T16:00:34+00:00",
-          "summary": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die jüngst aufgekeimte Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder dahin."
+          "title": "Internationale Konflikte bestimmen weiter UN-Generalversammlung in New York",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1654518.html",
+          "published": "2026-09-23T18:55:32+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,8 +47,26 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Handelskonflikt: Pekings neue Waffen im Handelskrieg: So baut China sein Vergeltungsarsenal aus",
-          "link": "https://www.handelsblatt.com/politik/international/handelskonflikt-china-baut-sein-vergeltungsarsenal-aus/100251195.html",
+          "title": "+++ US-Zollpolitik +++: Vor Trump-Xi-Treffen: Chinas Botschafter nennt „rote Linien“ für USA",
+          "link": "https://www.handelsblatt.com/politik/international/us-zoelle-vor-trump-xi-treffen-chinas-botschafter-nennt-rote-linien-fuer-usa/30026990.html",
+          "published": "2026-09-23T19:59:21+00:00",
+          "summary": "Schumer warnt Trump vor Lockerung von Chip-Exportkontrollen +++ Republikanische Senatoren vor Trump-Xi-Treffen besorgt um Taiwan +++ Der Newsblog."
+        },
+        {
+          "title": "Dow Jones, S&P 500, Nasdaq: Zinssorgen heben zehnjährige US‑Bonds auf über 5,1 Prozent",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-zinssorgen-heben-zehnjaehrige-usbonds-auf-ueber-51-prozent/100256895.html",
+          "published": "2026-09-23T18:34:41+00:00",
+          "summary": "Steigende Ölpreise belasten erneut die Stimmung an den US‑Börsen. Neue Zinssorgen treiben die Rendite der 10-jährigen US-Staatsanleihe auf den höchsten Stand seit 2007."
+        },
+        {
+          "title": "Luxus unter Strom: SUV Torcal soll Bentley ins Elektro-Zeitalter beamen",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/luxus-unter-strom-suv-torcal-soll-bentley-ins-elektro-zeitalter-beamen/100256954.html",
+          "published": "2026-09-23T18:15:04+00:00",
+          "summary": "Als eine der letzten Luxusmarken wird nun auch Bentley elektrisch - und steckt dafür den Porsche Cayenne in feinen Zwirn. Der Antrieb ist neu, das Ambiente aber bleibt typisch Bentley. Der Preis auch."
+        },
+        {
+          "title": "Handelskonflikt: Verordnungen Nummer 834 und 835: Pekings neue Waffen im Handelskrieg",
+          "link": "https://www.handelsblatt.com/politik/international/rohstoffe-pekings-neue-waffen-im-handelskrieg/100251195.html",
           "published": "2026-09-23T17:50:31+00:00",
           "summary": "Mit den Exportbeschränkungen für seltene Erden hat Xi Trump an den Verhandlungstisch gezwungen. Nun erweitert Peking sein Abwehrinstrumentarium – mit Folgen für deutsche Unternehmen."
         },
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-spd-laedt-vier-parteien-zu-gespraechen-in-sachsen-anhalt-ein/100252039.html",
           "published": "2026-09-23T17:31:14+00:00",
           "summary": "Berliner Grüne stellen Bedingungen für Sondierungen +++ Thüringens SPD-Chef Maier will nicht mehr antreten +++ Schwesig will Sondierungsgespräche nächste Woche starten +++ Der Newsblog."
-        },
-        {
-          "title": "Justiz: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/justiz-windparkbetrueger-hendrik-holt-in-dubai-festgenommen/100256944.html",
-          "published": "2026-09-23T17:14:35+00:00",
-          "summary": "Die Staatsanwaltschaft Osnabrück vermeldet einen Fahndungserfolg. Der seit vier Wochen flüchtige Betrüger sei in den Vereinigten Arabischen Emiraten erwischt worden."
-        },
-        {
-          "title": "Wall Street: Chinas Staatschef Xi Jinping in Washington, Ölpreis zieht an",
-          "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-chinas-staatschef-xi-jinping-in-washington-oelpreis-zieht-an/100256946.html",
-          "published": "2026-09-23T17:06:17+00:00",
-          "summary": "US-Präsident Trump empfängt Chinas Staatschef Xi zu einem Gipfel in Washington. Außerdem: Nach Drohungen im Konflikt mit dem Iran steigt der Ölpreis."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Wadephul fordert iranischen Außenminister wohl zu Verhandlungen auf",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-wadephul-fordert-iranischen-aussenminister-wohl-zu-verhandlungen-auf/100136895.html",
-          "published": "2026-09-23T17:04:59+00:00",
-          "summary": "Iran knüpft Öffnung der Straße von Hormus an Bedingungen +++ Iran droht Nachbarstaaten mit Lahmlegung von Flughäfen +++ Behörde: Frachtschiff in der Straße von Hormus in Flammen +++ Der Newsblog."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Mensch statt KI am Telefon: Metas 'Muse'-Experiment sorgt für Wirbel - was Aktienanleger wissen müssen",
-          "link": "https://www.finanzen.net/nachricht/aktien/mitarbeiter-aeussern-bedenken-mensch-statt-ki-am-telefon-metas-muse-experiment-sorgt-fuer-wirbel-was-aktienanleger-wissen-muessen-00-15948619",
-          "published": "2026-09-23T18:06:00+00:00",
-          "summary": "Mitarbeiter kritisieren fehlende Offenlegung beim Anruftest Meta rollt die Testfunktion vorerst wieder zurück Analysten heben ihre Kursziele für die Meta-Aktie weiter an"
+          "title": "Abschied von den ADRs? Was ein NYSE-Direktlisting für die Novo Nordisk-Aktie bedeuten würde",
+          "link": "https://www.finanzen.net/nachricht/aktien/fuer-und-wider-abschied-von-den-adrs-was-ein-nyse-direktlisting-fuer-die-novo-nordisk-aktie-bedeuten-wuerde-00-15948332",
+          "published": "2026-09-23T20:05:00+00:00",
+          "summary": "CEO Doustdar sieht Vorteile in einem direkten NYSE-Listing der Aktie statt der ADRs Aktiv verfolgt das Unternehmen die Idee nach eigenen Worten derzeit nicht Eli Lilly setzt Novo Nordisk im …"
         },
         {
-          "title": "Aktien New York: Ölpreisanstieg hält Anleger in der Defensive",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-new-york-oelpreisanstieg-haelt-anleger-in-der-defensive-15949461",
-          "published": "2026-09-23T18:05:39+00:00",
-          "summary": "NEW YORK (dpa-AFX) - Die US-Aktienmärkte haben am Mittwoch im Zuge wieder steigender Ölpreise nachgegeben. Der Dow Jones Industrial sank zuletzt um 0,5 Prozent auf 51.600 Punkte. Der marktbreite S&P …"
+          "title": "Apple-Aktie kurz vor 5-Billionen-Marke: Welche Chancen Analysten noch sehen",
+          "link": "https://www.finanzen.net/nachricht/aktien/meilenstein-voraus-apple-aktie-kurz-vor-5-billionen-marke-welche-chancen-analysten-noch-sehen-00-15948144",
+          "published": "2026-09-23T20:04:00+00:00",
+          "summary": "Apple steuert auf Marktkapitalisierung von fünf Billionen US-Dollar zu NVIDIA bislang einziges Unternehmen mit Schlusskurs über der Marke Neue iPhone-Modelle treiben die Rally seit der Vorstellung an"
         },
         {
-          "title": "Anleger schicken die IonQ-Aktie nach Durchbruch bei Quantenfehlerkorrektur nach oben",
-          "link": "https://www.finanzen.net/nachricht/aktien/b-riley-bekraeftigt-kauf-anleger-schicken-die-ionq-aktie-nach-durchbruch-bei-quantenfehlerkorrektur-nach-oben-00-15948642",
-          "published": "2026-09-23T18:05:00+00:00",
-          "summary": "Quantenfehlerkorrektur-Durchbruch treibt IonQ-Aktie deutlich an Neue Dekodertechnik soll IonQs Roadmap zu tausenden Qubits stützen Analysten bekräftigen ihre Kaufeinschätzung nach der …"
+          "title": "McDonald's-Aktie fällt nach Investorentag auf Jahrestief: Warum die NEXT-Strategie enttäuscht",
+          "link": "https://www.finanzen.net/nachricht/aktien/zweifel-kommen-auf-mcdonald-s-aktie-faellt-nach-investorentag-auf-jahrestief-warum-die-next-strategie-enttaeuscht-00-15949491",
+          "published": "2026-09-23T20:03:00+00:00",
+          "summary": "McDonald's stellt milliardenschwere Investitionspläne für Franchisenehmer vor Anleger von neuen Zielen abgeschreckt, Aktie mit deutlichen Kursverlusten Analysten bleiben trotz Skepsis mehrheitlich …"
         },
         {
-          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
-          "published": "2026-09-23T18:05:00+00:00",
-          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
+          "title": "WDH/Drohnensichtung am BER - Flugbetrieb kurzzeitig eingestellt",
+          "link": "https://www.finanzen.net/nachricht/aktien/wdh-drohnensichtung-am-ber-flugbetrieb-kurzzeitig-eingestellt-15949555",
+          "published": "2026-09-23T19:46:38+00:00",
+          "summary": "(fehlender Buchstabe ergänzt)BERLIN (dpa-AFX) - Wegen einer Drohnensichtung am Hauptstadtflughafen Berlin-Brandenburg (BER) ist der Flugbetrieb dort für 45 Minuten komplett eingestellt worden. …"
         },
         {
-          "title": "Bayer-Aktie im Fokus: Pharmariese sammelt frisches Geld über Hybridanleihen ein",
-          "link": "https://www.finanzen.net/nachricht/aktien/kapitalmassnahme-bayer-aktie-im-fokus-pharmariese-sammelt-frisches-geld-ueber-hybridanleihen-ein-15949326",
-          "published": "2026-09-23T18:04:00+00:00",
-          "summary": "Wie der DAX -Konzern mitteilte, hat er Hybridanleihen über 2 Milliarden Euro platziert. Beide Tranchen mit gleichem Volumen seien mehrfach überzeichnet gewesen. Das Geld ist für allgemeine …"
+          "title": "Drohnensichtung am BER - Flugbetrieb kurzzeitig eingestellt",
+          "link": "https://www.finanzen.net/nachricht/aktien/drohnensichtung-am-ber-flugbetrieb-kurzzeitig-eingestellt-15949553",
+          "published": "2026-09-23T19:41:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Wegen einer Drohnensichtung am Hauptstadtflughafen Berlin-Brandenburg (BER) ist der Flugbetrieb dort für 45 Minuten komplett eingestellt worden. Inzwischen sei die Sperrung bereits …"
         }
       ],
       "error": null
