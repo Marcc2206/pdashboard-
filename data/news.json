@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T06:11:55+00:00",
+  "generatedAt": "2026-09-24T08:09:52+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bundestag befasst sich mit Widerspruchslösung bei Organspende",
-          "link": "https://www.tagesschau.de/video/video-1654634.html",
-          "published": "2026-09-24T05:36:17+00:00",
-          "summary": ""
-        },
-        {
-          "title": "R. Lang, Bündnis 90/ Die Grünen, M.Brand, CDU, Mitglied des Bundestages, zur Debatte über Widerspruchslösung bei Organspende",
-          "link": "https://www.tagesschau.de/video/video-1654642.html",
-          "published": "2026-09-24T05:34:08+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
-          "published": "2026-09-24T05:26:00+00:00",
-          "summary": "Der DAX dürfte heute zum Handelsbeginn sinken. Der kräftige Anstieg des Ölpreises schürt neue Inflations- und Zinssorgen. Im Fokus stehen zudem der Trump-Xi-Gipfel und die neue Konjunkturprognose."
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-24T07:51:13+00:00",
+          "summary": "Am Donnerstag gibt es vor allem zwischen Ostsee und Erzgebirge sowie im östlichen und südlichen Bayern einige Schauer. Nach Westen hin ist es trocken und am häufigsten scheint die Sonne. 10 bis 24 …"
         },
         {
           "title": "Windkraft-Betrüger Hendrik Holt in Dubai gefasst",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-flucht-windkraft-betrueger-hendrik-holt-in-dubai-gefasst,holt-154.html",
-          "published": "2026-09-24T05:21:09+00:00",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-flucht-windkraft-betrueger-hendrik-holt-wird-in-dubai-gefasst,holt-154.html",
+          "published": "2026-09-24T07:13:09+00:00",
           "summary": "Der Windkraft-Betrüger Holt ist in Dubai festgenommen worden. Der verurteilte Straftäter war mehrere Wochen auf der Flucht, nachdem er von einem genehmigten Freigang nicht ins Gefängnis zurückgekehrt …"
         },
         {
+          "title": "KI-Agent hackt australisches Regierungsportal",
+          "link": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
+          "published": "2026-09-24T07:12:43+00:00",
+          "summary": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1654632.html",
-          "published": "2026-09-24T05:10:03+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1654672.html",
+          "published": "2026-09-24T07:10:19+00:00",
           "summary": ""
+        },
+        {
+          "title": "Hitze schwächt Europas Wirtschaftsleistung",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/hitze-senkt-europas-wirtschaftsleistung-allianz-100.html",
+          "published": "2026-09-24T06:45:33+00:00",
+          "summary": "Extreme Hitze kostet die europäische Wirtschaft in diesem Jahr voraussichtlich 113 Milliarden Euro. Deutschland ist besonders stark betroffen. Die Allianz warnt vor weiter steigenden Schäden durch …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "USA: Trumps Ausschluss von US-Medien vorerst aufgehoben",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trumps-ausschluss-von-us-medien-vorerst-aufgehoben/100257048.html",
-          "published": "2026-09-24T06:09:11+00:00",
-          "summary": "Ein Bundesrichter stoppt den Ausschluss der drei Medienhäuser aus dem Weißen Haus. Trump hatte den Sendern „Fiktion und Lügen“ vorgeworfen."
+          "title": "Baubranche: Immobilienpreise in Deutschland steigen immer langsamer",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/baubranche-immobilienpreise-in-deutschland-steigen-immer-langsamer/100257091.html",
+          "published": "2026-09-24T07:49:55+00:00",
+          "summary": "Der Preisauftrieb bei Häusern und Wohnungen fällt so schwach aus wie seit über einem Jahr nicht mehr. Warum Eigentumswohnungen in den Metropolen sogar günstiger werden – und wo es anders läuft."
         },
         {
-          "title": "Elektronik: Schneider Electric kauft Smart-Home-Anbieter Shelly",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/shelly-schneider-electric-kauft-smart-home-anbieter/100257049.html",
-          "published": "2026-09-24T06:06:31+00:00",
-          "summary": "Der französische Elektrokonzern bewertet den bulgarischen Hersteller vernetzter Geräte mit rund 1,2 Milliarden Euro. Die Gründer von Shelly unterstützen die Übernahme."
+          "title": "Lieferdienst: Kehrtwende bei Delivery Hero – Chef Östberg bleibt",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/delivery-hero-kehrtwende-an-der-konzernspitze-niklas-oestberg-bleibt/100257096.html",
+          "published": "2026-09-24T07:49:16+00:00",
+          "summary": "Ein Großaktionär drängte lange auf seine Ablösung. Doch nach der Übernahme durch Uber bleibt Niklas Östberg dem Berliner Lieferdienst überraschend erhalten."
         },
         {
-          "title": "Kommentar: Private Krankenversicherung: Merz’ Eigentor in der Gerechtigkeitsdebatte",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-merz-eigentor-in-der-gerechtigkeitsdebatte-um-die-krankenversicherung-01/100256428.html",
-          "published": "2026-09-24T06:02:00+00:00",
-          "summary": "Mit seiner Kritik an der unterschiedlichen Behandlung von Kassen- und Privatpatienten hat der Kanzler eine Debatte losgetreten, die er so wohl gar nicht führen will."
+          "title": "Mobilität: Strom statt Benzin – wie viel spart ein E-Auto beim Tanken ein?",
+          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/e-auto-so-viel-geld-sparen-autofahrer-beim-laden-statt-tanken/100251862.html",
+          "published": "2026-09-24T07:49:00+00:00",
+          "summary": "Durch den Iran-Krieg sind die Spritpreise nach wie vor auf Höchstniveau. Wie viel lässt sich durch Laden statt Tanken einsparen? Der Handelsblatt-Rechner zeigt es."
         },
         {
-          "title": "Wiederbelebt mit mehr PS: Renault zeigt neuen R8 Gordini in Paris",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/wiederbelebt-mit-mehr-ps-renault-zeigt-neuen-r8-gordini-in-paris/100257051.html",
-          "published": "2026-09-24T06:01:04+00:00",
-          "summary": "Nach dem R5 Turbo holt Renault auch den R8 Gordini als elektrische Neuauflage zurück - allerdings nicht auf die Straße..."
+          "title": "Sparen: Vier Prozent und mehr – wann beenden die Tagesgeld-Zinsen ihren Höhenflug?",
+          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-was-sparer-beim-tagesgeld-jetzt-beachten-sollten/100255706.html",
+          "published": "2026-09-24T07:48:00+00:00",
+          "summary": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss."
         },
         {
-          "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-lektionen-ich-beim-etf-einstieg-gelernt-habe/100184984.html",
-          "published": "2026-09-24T05:55:00+00:00",
-          "summary": "Aus dem Handelsblatt-Archiv: Unser Autor befasst sich zum ersten Mal in seinem Leben mit ETFs – und stellt fest, dass Altersvorsorge damit in der Theorie einfacher ist als in der Praxis."
+          "title": "Steuern: Wie Sie Ihre Erbschaft anzeigen müssen und wann Strafen drohen",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/finanzamt-welche-fehler-sie-bei-der-erbschaftsteuererklaerung-vermeiden-sollten/100233322.html",
+          "published": "2026-09-24T07:47:00+00:00",
+          "summary": "Schon um die Frage, wann man eine Erbschaftsteuererklärung erstellen muss, gibt es viel Unsicherheit. Komplex kann es mit Immobilien werden. Diese zehn Fehler sollten Sie vermeiden."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Kleiner Lichtstreif für Käufer: Wohnungspreise in sieben Großstädten etwas gesunken",
+          "link": "https://www.n-tv.de/wirtschaft/Wohnungspreise-in-sieben-Grossstaedten-etwas-gesunken-id31342148.html",
+          "published": "2026-09-24T08:07:10+00:00",
+          "summary": "Bezahlen oder mieten? Für viele stellt sich diese Frage anhand astronomischer Immobilienpreise gar nicht. Deutschlandweit steigen diese zudem weiter an, wenn auch nur leicht. Und es gibt ein paar …"
+        },
         {
           "title": "Einbußen an mehreren Stellen: Hitze vermindert deutsche Wirtschaftsleistung",
           "link": "https://www.n-tv.de/wirtschaft/Hitze-vermindert-deutsche-Wirtschaftsleistung-id31341859.html",
@@ -105,15 +111,9 @@
         },
         {
           "title": "Thema im Bundesrat: Wird die 12-Uhr-Regel an Tankstellen wieder abgeschafft?",
-          "link": "https://www.n-tv.de/wirtschaft/Wird-die-12-Uhr-Regel-an-Tankstellen-wieder-abgeschafft-id31340205.html",
+          "link": "https://www.n-tv.de/wirtschaft/12-Uhr-Regel-an-Tankstellen-vor-dem-Aus-Bundesrat-beraet-ueber-Abschaffung-id31340205.html",
           "published": "2026-09-23T15:14:42+00:00",
           "summary": "Dank der 12-Uhr-Regel ist jetzt klar, zu welcher Uhrzeit Autofahrer am besten tanken sollten. Eine wichtige Hoffnung hat sich jedoch nicht erfüllt: niedrigere Preise für Diesel und Benzin. Gegner der …"
-        },
-        {
-          "title": "Entlastung für Mieter: Welche Alternativen zur Wohnungsenteignung liegen auf dem Tisch?",
-          "link": "https://www.n-tv.de/wirtschaft/Welche-Alternativen-zur-Wohnungsenteignung-liegen-auf-dem-Tisch-id31338558.html",
-          "published": "2026-09-23T15:12:48+00:00",
-          "summary": "Der Plan, große Wohnungsbestände zu enteignen, sorgt für Entrüstung. Die möglichen Koalitionspartner und die Konkurrenten der Linken wollen die Wohnungskrise der Hauptstadt auf andere Weise …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Schneider Electric plant Übernahme der Shelly Group",
-          "link": "https://www.finanzen.net/nachricht/aktien/schneider-electric-plant-uebernahme-der-shelly-group-15950086",
-          "published": "2026-09-24T06:03:41+00:00",
-          "summary": "DOW JONES--Der französische Elektrokonzern Schneider Electric SE greift nach dem bulgarischen Smart-Home-Spezialisten Shelly ..."
+          "title": "Studie deckt Messfehler bei Onchain-Daten auf: Was das für die Bewertung von Bitcoin bedeutet",
+          "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
+          "published": "2026-09-24T08:06:00+00:00",
+          "summary": "BIS-Forscher hinterfragen gängige Onchain-Kennzahlen bei Bitcoin Wechselgeld-Effekte und verlorene Coins verzerren gängige Berechnungen Auch Ethereum und Tron zeigen laut Studie ähnliche Messprobleme"
         },
         {
-          "title": "Führungskraft kauft Heidelberg Materials-Aktien",
-          "link": "https://www.finanzen.net/nachricht/aktien/fuehrungskraft-kauft-heidelberg-materials-aktien-15950083",
-          "published": "2026-09-24T06:01:11+00:00",
-          "summary": "Für den 23.09.2026 wurde bei Heidelberg Materials eine Managers’ Transaction gemeldet. Die Publikation der Managers’ Transaction fand am 23.09.2026 statt. 250 Heidelberg Materials-Aktien für jeweils …"
+          "title": "WDH: Schneider Electric will bulgarische Shelly Group übernehmen",
+          "link": "https://www.finanzen.net/nachricht/aktien/wdh-schneider-electric-will-bulgarische-shelly-group-uebernehmen-15950367",
+          "published": "2026-09-24T08:05:39+00:00",
+          "summary": "(Tippfehler im 2. Satz behoben: Übernahmeangebot )PARIS (dpa-AFX) - Der Technologiekonzern Schneider Electric steht vor der Übernahme der bulgarischen Shelly Group. Die Franzosen wollen für den …"
         },
         {
-          "title": "Rekordhitze und El Niño verschärfen Feuerkrise in Manaus",
-          "link": "https://www.finanzen.net/nachricht/nachhaltigkeit/rekordhitze-und-el-niño-verschaerfen-feuerkrise-in-manaus-15950084",
-          "published": "2026-09-24T06:00:38+00:00",
-          "summary": "MANAUS (dpa-AFX) - Die brasilianische Amazonas-Metropole Manaus ist wegen zahlreicher Brände in der Region von dichtem Rauch eingehüllt. Die städtische Gesundheitsbehörde Semsa stufte die …"
+          "title": "Ifo-Geschäftsklimaindex im September etwas höher als erwartet",
+          "link": "https://www.finanzen.net/nachricht/aktien/ifo-geschaeftsklimaindex-im-september-etwas-hoeher-als-erwartet-15950366",
+          "published": "2026-09-24T08:04:42+00:00",
+          "summary": "Von Hans Bentzien DOW JONES--Das Geschäftsklima in Deutschland hat sich im September etwas deutlicher als erwartet aufgehellt. Der vom Ifo-Institut erhobene Geschäftsklimaindex stieg auf 89,9 …"
         },
         {
-          "title": "10 wichtige Fakten zum Börsenhandel am Donnerstag - Meta mit neuem KI-Vorstoß",
-          "link": "https://www.finanzen.net/nachricht/aktien/10-vor-9-10-wichtige-fakten-zum-boersenhandel-am-donnerstag-meta-mit-neuem-ki-vorstoss-15947921",
-          "published": "2026-09-24T06:00:04+00:00",
-          "summary": "Behalten Sie hier den kompletten aktuellen Handelstag im Auge. 1. DAX wird tiefer erwartetDer"
+          "title": "ROUNDUP: Mehr als jeder fünfte neue Pkw in der EU fährt elektrisch",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-mehr-als-jeder-fuenfte-neue-pkw-in-der-eu-faehrt-elektrisch-15950365",
+          "published": "2026-09-24T08:04:39+00:00",
+          "summary": "BRÜSSEL (dpa-AFX) - Elektroautos haben ihren Anteil an den Neuzulassungen in der Europäischen Union binnen eines Jahres deutlich ausgebaut. Nach acht Monaten waren 21,7 Prozent der neu zugelassenen …"
         },
         {
-          "title": "AKTIE IM FOKUS: MTU stark nach Kehrtwende der Citigroup - Empfehlen nun zum Kauf",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktie-im-fokus-mtu-stark-nach-kehrtwende-der-citigroup-empfehlen-nun-zum-kauf-15950082",
-          "published": "2026-09-24T05:59:40+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Eine totale Kehrtwende der Citigroup in ihrer Einstufung von MTU ( MTU Aero Engines ) hat die Papiere des deutschen Triebwerkherstellers am Donnerstagmorgen deutlich …"
+          "title": "ROUNDUP/Aktien Frankfurt Eröffnung: Verluste - Hohe Ölpreise verunsichern",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-eroeffnung-verluste-hohe-oelpreise-verunsichern-15950362",
+          "published": "2026-09-24T08:01:38+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Der DAX hat am Donnerstag seine Vortagesverluste etwas ausgeweitet. Auf die Stimmung drückte, dass die Ölpreise weiterhin auf hohem Niveau notieren. Im frühen Handel büßte der …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Pressefreiheit: Trump muss CNN und andere verbannte Medien wieder ins Weiße Haus lassen",
-          "link": "https://www.wiwo.de/politik/ausland/pressefreiheit-trump-muss-cnn-und-andere-verbannte-medien-wieder-ins-weisse-haus-lassen/100256314.html",
+          "title": "Essenslieferant: Kehrtwende bei Delivery Hero – Chef Östberg bleibt",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/delivery-hero-kehrtwende-bei-essenslieferanten-chef-oestberg-bleibt/100257095.html",
+          "published": "2026-09-24T07:58:32+00:00",
+          "summary": "Eigentlich sollte Delivery-Hero-Chef Niklas Östberg gehen – jetzt bleibt er im Amt. Das hat auch mit der geplanten Übernahme durch Uber zu tun."
+        },
+        {
+          "title": "Immobilienmarkt: Preise für Immobilien in Deutschland steigen deutlich langsamer",
+          "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-preise-in-deutschland-steigen-deutlich-langsamer/100257068.html",
+          "published": "2026-09-24T07:39:00+00:00",
+          "summary": "Der Preisanstieg bei Wohnimmobilien schwächt sich weiter ab. Je nach Region und Immobilientyp entwickeln sich die Preise sehr unterschiedlich."
+        },
+        {
+          "title": "Trump trifft Xi: Warum dieser deutsche CEO zu Trumps China-Gipfel eingeladen ist",
+          "link": "https://www.wiwo.de/politik/ausland/mastercard-ceo-donald-trumps-maechtigster-deutscher/100225075.html",
+          "published": "2026-09-24T06:31:00+00:00",
+          "summary": "Am US-China-Gipfel nimmt auch ein deutscher Top-Manager teil: Mastercard-Chef Michael Miebach. Schon im Mai reiste er mit nach China, jetzt trifft er Xi in Washington."
+        },
+        {
+          "title": "Pressefreiheit: Donald Trump muss CNN und andere verbannte Medien wieder ins Weiße Haus lassen",
+          "link": "https://www.wiwo.de/politik/ausland/donald-trump-cnn-und-andere-verbannte-medien-wieder-im-weissen-haus/100256314.html",
           "published": "2026-09-24T05:48:00+00:00",
           "summary": "Trump hatte mehrere Medien aus dem Weißen Haus verbannt. Nun erklärt ein US-Bundesgericht die Sperre für verfassungswidrig."
         },
         {
           "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/warnung-vor-ki-gefahren-tech-chefs-draengen-un-zu-regulierung/100257039.html",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/warnung-vor-ki-tech-chefs-draengen-un-zu-regulierung/100257039.html",
           "published": "2026-09-24T05:34:07+00:00",
           "summary": "Anthropic-CEO Dario Amodei sieht KI als Risiko für die Menschheit. Vor dem UN-Sicherheitsrat fordert er die Regierungen zur Zusammenarbeit auf."
-        },
-        {
-          "title": "Autoindustrie: Chinesische Automarken wachsen weiter stark in Europa",
-          "link": "https://www.wiwo.de/unternehmen/auto/byd-chery-geely-chinesische-automarken-wachsen-weiter-stark-in-europa/100257034.html",
-          "published": "2026-09-24T05:23:32+00:00",
-          "summary": "Chinesische Autobauer bauen ihren Marktanteil in Europa weiter aus. Die Forderungen nach Gegenmaßnahmen werden lauter."
-        },
-        {
-          "title": "Autoindustrie: Bis zu 800 Millionen Euro – so will Mercedes Arbeitskosten sparen",
-          "link": "https://www.wiwo.de/unternehmen/auto/mercedes-und-der-betriebsrat-streit-um-arbeitszeit-und-werke/100256924.html",
-          "published": "2026-09-24T05:20:23+00:00",
-          "summary": "Die Kosten für Arbeit in Deutschland müssen sinken – sonst schließt Mercedes zwei deutsche Werke. Der Betriebsrat lotet nun Zugeständnisse aus."
-        },
-        {
-          "title": "Handelskonflikt: USA verkünden zu Xis Staatsbesuch verlängerte Zollpause",
-          "link": "https://www.wiwo.de/politik/ausland/sicherheitsrisiken-im-fokus-vor-trump-xi-gipfel-china-und-usa-sprechen-ueber-ki/100256051.html",
-          "published": "2026-09-24T05:18:00+00:00",
-          "summary": "Die Liste der Streitpunkte zwischen China und den USA beim Treffen ist lang. Zumindest bei einem Punkt soll es eine Übereinkunft geben."
         }
       ],
       "error": null
