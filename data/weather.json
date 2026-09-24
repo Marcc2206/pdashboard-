@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:09:57+00:00",
+  "generatedAt": "2026-09-24T22:09:13+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-09-24T22:00",
-    "temperatur": 10.6,
-    "gefuehlt": 9.2,
-    "luftfeuchte": 77,
+    "zeit": "2026-09-25T00:00",
+    "temperatur": 9.7,
+    "gefuehlt": 8.5,
+    "luftfeuchte": 79,
     "niederschlag": 0.0,
-    "wind": 4.0,
+    "wind": 1.9,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -22,19 +22,6 @@
     }
   },
   "tage": [
-    {
-      "datum": "2026-09-24",
-      "max": 17.0,
-      "min": 9.9,
-      "regenwahrscheinlichkeit": 63,
-      "sonnenaufgang": "2026-09-24T07:14",
-      "sonnenuntergang": "2026-09-24T19:19",
-      "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
-      }
-    },
     {
       "datum": "2026-09-25",
       "max": 19.0,
@@ -52,7 +39,7 @@
       "datum": "2026-09-26",
       "max": 20.4,
       "min": 6.9,
-      "regenwahrscheinlichkeit": 0,
+      "regenwahrscheinlichkeit": 3,
       "sonnenaufgang": "2026-09-26T07:18",
       "sonnenuntergang": "2026-09-26T19:15",
       "wetter": {
@@ -63,15 +50,28 @@
     },
     {
       "datum": "2026-09-27",
-      "max": 23.2,
-      "min": 10.0,
-      "regenwahrscheinlichkeit": 3,
+      "max": 23.8,
+      "min": 10.4,
+      "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-09-27T07:19",
       "sonnenuntergang": "2026-09-27T19:12",
       "wetter": {
-        "code": 45,
-        "text": "Nebel",
-        "icon": "🌫️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
+      }
+    },
+    {
+      "datum": "2026-09-28",
+      "max": 27.1,
+      "min": 13.3,
+      "regenwahrscheinlichkeit": 15,
+      "sonnenaufgang": "2026-09-28T07:21",
+      "sonnenuntergang": "2026-09-28T19:10",
+      "wetter": {
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     }
   ]

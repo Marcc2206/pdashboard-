@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:09:53+00:00",
+  "generatedAt": "2026-09-24T22:09:08+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655100.html",
-          "published": "2026-09-24T20:04:11+00:00",
-          "summary": ""
-        },
-        {
           "title": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
           "link": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
-          "published": "2026-09-24T19:51:55+00:00",
+          "published": "2026-09-24T21:51:23+00:00",
           "summary": "Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahost."
         },
         {
-          "title": "Prunk und Pandas: Trump empfängt Xi in Washington",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
-          "published": "2026-09-24T19:43:38+00:00",
-          "summary": "KI, Handel, Ukraine und Taiwan - die Liste der Gipfelthemen ist lang. Doch das Treffen der Präsidenten Trump und Xi beginnt freundschaftlich - was auch mit Pandas zu tun haben könnte. Und dann ist da …"
+          "title": "Nations League: Klopp-Einstand mit Enthusiasmus, Fehlern und Remis in den Niederlanden",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-einstand-mit-enthusiasmus-fehlern-und-remis,spielbericht-nl-niederlande-deutschland-100.html",
+          "published": "2026-09-24T21:49:51+00:00",
+          "summary": "Bis in die Nachspielzeit sah es nach einem Einstand nach Maß für Jürgen Klopp aus. Doch dann trafen die Niederländer gegen ein enthusiastisches, aber fehlerhaftes DFB-Team doch noch zum 1:1-Ausgleich."
         },
         {
-          "title": "Deutschlands Aufstellung gegen Niederlande: Klopp setzt beim Debüt auf Treu - Musiala fällt aus",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-setzt-beim-debuet-auf-treu-und-eine-klare-achse,spielbericht-nl-niederlande-deutschland-100.html",
-          "published": "2026-09-24T18:44:51+00:00",
-          "summary": "Von 15 möglichen Debütanten bei Jürgen Klopp steht einer in der Startelf: Philipp Treu spielt in Amsterdam gegen die Niederlande hinten rechts. Der für die Startelf eingeplante Jamal Musiala fällt …"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12884.html",
+          "published": "2026-09-24T21:46:28+00:00",
+          "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1655080.html",
-          "published": "2026-09-24T18:40:06+00:00",
-          "summary": "Laut Herbstprognose stärkeres Wirtschaftswachstum als erwartet, Unternehmen Ziehl-Abegg profitiert von Künstlicher Intelligenz, Betont freundlicher Empfang von Chinas Staatschef Xi im Weißen Haus …"
+          "title": "Erneuter Vorstoß im Bundestag zu Widerspruchslösung für Organspenden",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1655120.html",
+          "published": "2026-09-24T21:38:54+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Anja Kohl, HR, zur positiven Konjunkturprognose der Wirtschaftsforschungsinstitute",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1655114.html",
+          "published": "2026-09-24T21:36:27+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -53,28 +53,28 @@
           "summary": "Die richtigen Reformen statt Kompromisse aus politischer Not: Worauf es jetzt ankommt, darüber diskutieren die Wirtschaftsweise Monika Schnitzer und Handelsblatt-Chefredakteur Sebastian Matthes am …"
         },
         {
+          "title": "Regierungschef unter Druck: Konfrontiert mit Protest: Netanjahu verteidigt Kriege bei UN",
+          "link": "https://www.handelsblatt.com/politik/international/regierungschef-unter-druck-konfrontiert-mit-protest-netanjahu-verteidigt-kriege-bei-un/100256997.html",
+          "published": "2026-09-24T21:45:28+00:00",
+          "summary": "Israels Ministerpräsident Netanjahu schlägt in New York Kritik entgegen. Vor den UN verteidigt er seinen Kurs, kurz nachdem Palästinenserpräsident Abbas schwere Vorwürfe gegen Israel erhoben hat."
+        },
+        {
+          "title": "Kommentar: Die Zukunft hat in Deutschland keine Lobby",
+          "link": "https://www.handelsblatt.com/meinung/kolumnen/kommentar-die-zukunft-hat-in-deutschland-keine-lobby/100257074.html",
+          "published": "2026-09-24T21:35:22+00:00",
+          "summary": "Laufen unsere Kinder eines Tages im VW-Werk Schlittschuh? Reisen nach Boston und Shenzhen zeigen, wie Transformation und Aufstieg gelingen – wenn man sie wirklich will."
+        },
+        {
+          "title": "Unternehmen: Starbucks schließt 250 Filialen in Nordamerika",
+          "link": "https://www.handelsblatt.com/unternehmen/unternehmen-starbucks-schliesst-250-filialen-in-nordamerika/100257285.html",
+          "published": "2026-09-24T20:57:43+00:00",
+          "summary": "Die US-Kaffeehauskette setzt ihren Sparkurs fort und gibt unrentable Standorte auf. Die Schließungen kosten den Konzern 300 Millionen Dollar."
+        },
+        {
           "title": "USA: Ausgesperrte Journalisten von CNN, MS Now und „Politico“ dürfen nun doch wieder ins Weiße Haus",
           "link": "https://www.handelsblatt.com/politik/international/usa-ausgesperrte-journalisten-duerfen-nun-doch-wieder-ins-weisse-haus/100257048.html",
           "published": "2026-09-24T20:01:56+00:00",
           "summary": "Ein Bundesrichter hatte in der Nacht den Ausschluss der drei Medien aus dem Weißen Haus gestoppt. Am Vormittag waren deren Journalisten trotzdem zunächst abgewiesen worden."
-        },
-        {
-          "title": "Brandmauer-Debatte: AfD und CDU stimmen gegen Verlegung von Stolpersteinen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/brandmauer-debatte-afd-und-cdu-stimmen-gegen-verlegung-von-stolpersteinen/100257281.html",
-          "published": "2026-09-24T19:43:18+00:00",
-          "summary": "Stadträte von CDU und AfD sprechen sich gegen Stolpersteine zur Erinnerung an Opfer des Nationalsozialismus in der Stadt aus. Ihr Antrag wurde angenommen."
-        },
-        {
-          "title": "Wall Street: Zinssorgen und steigender Ölpreis bremsen US-Börsen",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-zinssorgen-und-steigender-oelpreis-bremsen-us-boersen/100257196.html",
-          "published": "2026-09-24T19:26:00+00:00",
-          "summary": "Inflationsrisiken, Unsicherheiten bei den Ölpreisen und US-Staatsfinanzen machen der Wall Street zu schaffen. Anleger schauen auf das Treffen von Trump und Xi."
-        },
-        {
-          "title": "UN-Vollversammlung: EU kündigt Widerstand gegen Trumps Gerichtsvorstoß an",
-          "link": "https://www.handelsblatt.com/politik/international/un-vollversammlung-eu-kuendigt-widerstand-gegen-trumps-gerichtsvorstoss-an/100257277.html",
-          "published": "2026-09-24T18:43:22+00:00",
-          "summary": "US-Präsident Trump fordert den Austritt aller Staaten aus dem Internationalen Strafgerichtshof. EU-Ratspräsident António Costa reagiert jetzt in New York mit einer klaren Botschaft."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Nahost-Konflikt drückt Stimmung: Wall Street tritt auf der Stelle",
+          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-tritt-auf-der-Stelle-id31345690.html",
+          "published": "2026-09-24T20:53:57+00:00",
+          "summary": "Die US-Anleger blicken mit Anspannung auf den Nahost-Konflikt und die hohen Energiepreise. Es dreht sich alles ums Öl, bemerkt ein Analyst. Rendite der 30-jährigen US-Staatsanleihen stieg auf den …"
+        },
         {
           "title": "Rückkehr ins Tagesgeschäft: Capri-Sun-Eigentümer will es mit 85 Jahren noch mal wissen",
           "link": "https://www.n-tv.de/wirtschaft/Capri-Sun-Eigentuemer-will-es-mit-85-Jahren-noch-mal-wissen-id31344931.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/EEG-Novelle-und-Netzpaket-So-bewertet-ein-Vestas-Manager-die-Energiegesetze-von-Katherina-Reiche-id31337768.html",
           "published": "2026-09-24T13:14:33+00:00",
           "summary": "Die deutsche Windkraft erlebt einen erstaunlichen Aufschwung. \"Es fließt viel Geld nach Deutschland\", sagt ein Windradhersteller im Interview. Doch ausgerechnet jetzt sorgen die Energiepläne von …"
-        },
-        {
-          "title": "Weniger als fünf Minuten: Geely präsentiert Batterie, die ultraschnell lädt",
-          "link": "https://www.n-tv.de/wirtschaft/Geely-praesentiert-Batterie-die-ultraschnell-laedt-id31343328.html",
-          "published": "2026-09-24T11:01:54+00:00",
-          "summary": "Die Ladezeit ist ein entscheidendes Verkaufsargument von E-Autos. Chinesische Hersteller liefern sich ein Wettrennen, wessen Akku am schnellsten lädt. Der Branchenprimus wird nun überholt."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Ölpreis steigt kräftig – Brent springt über 107 Dollar",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/iran-im-fokus-oelpreis-steigt-kraeftig-brent-springt-ueber-107-dollar-15950060",
-          "published": "2026-09-24T19:37:00+00:00",
-          "summary": "Sie bauten damit ihre Vortagsgewinne aus. Ein Barrel (159 Liter) der weltweiten Referenzsorte Brent aus der Nordsee zur Lieferung im November kostete am Abend 107,57 US-Dollar - über vier Prozent …"
-        },
-        {
-          "title": "Hot Stocks heute: US-Zinsen explodieren: Der Schulden-Teufelskreis setzt die Märkte unter Druck!",
-          "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-us-zinsen-explodieren-der-schulden-teufelskreis-setzt-die-maerkte-unter-druck-15950779",
-          "published": "2026-09-24T19:37:00+00:00",
-          "summary": "Bei dem Podcast von finanzen.net, Hot Bets heiße Wetten, sprechen wir über die Gefahr von steigenden Renditen der Staatsanleihen. Für mehr Details, hört doch ..."
-        },
-        {
-          "title": "HelloFresh senkt Ziele drastisch - Anleger müssen sich auf weniger einstellen: Aktie fällt deutlich",
-          "link": "https://www.finanzen.net/nachricht/aktien/weniger-erwartet-hellofresh-senkt-ziele-drastisch-anleger-muessen-sich-auf-weniger-einstellen-aktie-faellt-deutlich-15951822",
-          "published": "2026-09-24T19:35:00+00:00",
-          "summary": "HelloFresh senkt nach schwachem Neukundengeschäft seine Jahresprognose Umsatz soll währungsbereinigt nun um 9 bis 11 Prozent sinken HelloFresh-Aktie fällt auf Rekordtief und verliert seit …"
+          "title": "Goldpreis-Hausse noch lange nicht vorbei? Wo Experten die nächste Rally-Etappe sehen",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/notenbanken-kaufen-weiter-goldpreis-hausse-noch-lange-nicht-vorbei-wo-experten-die-naechste-rally-etappe-sehen-00-15950635",
+          "published": "2026-09-24T21:54:00+00:00",
+          "summary": "TD Securities sieht Gold auf dem Weg zu neuen Höhen Zentralbanken und ETFs kaufen trotz höherer Zinsen weiter Analysten erwarten Kurse über 5.000 US-Dollar bis 2027"
         },
         {
           "title": "Tesla-Aktie nach enttäuschendem Cybercab-Debüt: Warum Anleger die Robotaxi-Story hinterfragen sollten",
           "link": "https://www.finanzen.net/nachricht/aktien/behoerde-ermittelt-tesla-aktie-nach-enttaeuschendem-cybercab-debuet-warum-anleger-die-robotaxi-story-hinterfragen-sollten-00-15948072",
-          "published": "2026-09-24T19:35:00+00:00",
+          "published": "2026-09-24T21:50:00+00:00",
           "summary": "Cybercab-Event ohne Musk lässt Anleger ratlos zurück Regulierer und Wettbewerber setzen Tesla unter Druck Analysten bleiben trotz hoher Investitionen zurückhaltend für Tesla-Aktie"
         },
         {
-          "title": "AKTIE IM FOKUS: Hellofresh auf Tradegate sehr schwach - Senkt Jahresziele",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktie-im-fokus-hellofresh-auf-tradegate-sehr-schwach-senkt-jahresziele-15951867",
-          "published": "2026-09-24T19:30:38+00:00",
-          "summary": "FRANKFURT (dpa-AFX Broker) - Die Aktien von HelloFresh haben am Donnerstag im nachbörslichen Handel mit deutlichen Verlusten auf reduzierte Jahresziele des Kochboxenversenders reagiert. Auf der …"
+          "title": "BioNTech-Aktie im Fokus: Ist die Krebs-Pipeline stärker als der Markt denkt?",
+          "link": "https://www.finanzen.net/nachricht/aktien/pipeline-trotz-rueckschlag-biontech-aktie-im-fokus-ist-die-krebs-pipeline-staerker-als-der-markt-denkt-00-15950363",
+          "published": "2026-09-24T21:43:00+00:00",
+          "summary": "Analysten stufen BioNTech trotz Studienabbruch mehrheitlich mit Buy ein Neue Überlebensdaten zu Gotistobart nähren Hoffnung auf Zulassung Konkurrenz von Moderna und Merck setzt mRNA-Krebsimpfstoffe …"
+        },
+        {
+          "title": "Studie deckt Messfehler bei Onchain-Daten auf: Was das für die Bewertung von Bitcoin bedeutet",
+          "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
+          "published": "2026-09-24T21:20:00+00:00",
+          "summary": "BIS-Forscher hinterfragen gängige Onchain-Kennzahlen bei Bitcoin Wechselgeld-Effekte und verlorene Coins verzerren gängige Berechnungen Auch Ethereum und Tron zeigen laut Studie ähnliche Messprobleme"
+        },
+        {
+          "title": "KI-Aktien wie NVIDIA vor dem Crash? Warum Anleihekönig Jeffrey Gundlach die Reißleine zieht",
+          "link": "https://www.finanzen.net/nachricht/aktien/anleihekoenig-steigt-aus-ki-aktien-wie-nvidia-vor-dem-crash-warum-anleihekoenig-jeffrey-gundlach-die-reissleine-zieht-00-15948249",
+          "published": "2026-09-24T21:18:00+00:00",
+          "summary": "Gundlach senkt seine empfohlene Aktienquote von 40 auf 30 Prozent Statt auf KI-Schwergewichte setzt er auf einen gleichgewichteten Index Beim Shiller-KGV über 42 erwartet er negative reale Renditen …"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Trumps Diesel-Exportstopp: Der absurde Umweg über Asien, der Ihren Diesel verteuert",
+          "link": "https://www.wiwo.de/unternehmen/energie/spritpreis-donald-trumps-drohendes-diesel-chaos-einmal-richtig-erklaert/100256888.html",
+          "published": "2026-09-24T21:05:00+00:00",
+          "summary": "Donald Trump erwägt einen Exportstopp für US‑Diesel. Warum Europa neue Preisschübe fürchten muss und wie Konzerne in Südkorea und Indien profitieren."
+        },
+        {
           "title": "US-China-Gipfel: Xi und Trump beschwören Freundschaft – Panda-Diplomatie und Handelsgespräche",
           "link": "https://www.wiwo.de/politik/ausland/us-china-gipfel-xi-und-trump-beschwoeren-freundschaft-panda-diplomatie-und-handelsgespraeche/100257269.html",
           "published": "2026-09-24T16:59:23+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/politik/europa/notenbank-ezb-direktorin-schnabel-tritt-anfang-januar-vorzeitig-ab/100257248.html",
           "published": "2026-09-24T15:32:54+00:00",
           "summary": "Isabel Schnabel wechselt von der EZB zum Internationalen Währungsfonds. Ihr vorzeitiger Abgang bringt Bewegung in die anstehende Neuordnung der Notenbankspitze."
-        },
-        {
-          "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
-          "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-wir-haben-unterschaetzt-wie-stark-deutschland-vom-ki-boom-profitiert-hat/100256792.html",
-          "published": "2026-09-24T15:31:22+00:00",
-          "summary": "Die deutsche Wirtschaft ist im Aufschwung. Vorerst. Allerdings braucht es dringend Reformen, mahnt Ifo-Ökonom Timo Wollmershäuser."
         }
       ],
       "error": null
