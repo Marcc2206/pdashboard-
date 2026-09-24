@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T22:09:11+00:00",
+  "generatedAt": "2026-09-24T00:11:47+00:00",
   "werte": [
     {
       "id": "dax",
@@ -31,8 +31,25 @@
       "name": "Bitcoin",
       "symbol": "bitcoin",
       "typ": "krypto",
-      "error": "HTTPError: HTTP Error 429: Too Many Requests",
-      "kurs": null
+      "error": null,
+      "kurs": 74156,
+      "waehrung": "EUR",
+      "veraenderung": -1162.1919921788212,
+      "prozent": -1.5430428711027844,
+      "vortag": 75318.19199217882,
+      "hoch52": null,
+      "tief52": null,
+      "stand": null,
+      "boerse": "CoinGecko",
+      "verlauf": [
+        66572.85609487517,
+        67458.22437198856,
+        70784.64373161347,
+        70085.08422664355,
+        74967.33729407856,
+        75334.24342864777,
+        74132.37133087985
+      ]
     },
     {
       "id": "sap",
