@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:11:23+00:00",
+  "generatedAt": "2026-09-24T14:09:10+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Steht die CDU vor ihrem Ende als Volkspartei?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/afd-cdu-volkspartei-100.html",
+          "published": "2026-09-24T13:45:39+00:00",
+          "summary": "Ob die CDU noch Volkspartei sei, wurde Friedrich Merz nach dem Wahldesaster gefragt: \"Nur noch in Teilen\", antwortete der Kanzler. Was bedeutet das konkret? Und ist die AfD mittlerweile eine …"
+        },
+        {
+          "title": "Red Storm Charlie\": Bundeswehr-Übung startet in Hamburg",
+          "link": "https://www.tagesschau.de/inland/regional/hamburg/red-storm-charlie-bundeswehr-uebt-bis-samstag-in-hamburg,redstormcharlie-102.html",
+          "published": "2026-09-24T13:31:46+00:00",
+          "summary": "Hamburg wird erneut zum Schauplatz einer großen zivil-militärischen Übung: Rund 500 Soldaten der Bundeswehr proben drei Tage lang gemeinsam mit etwa 60 Organisationen den Ernstfall."
+        },
+        {
           "title": "Windkraftbetrüger Holt in Dubai gefasst: Wie geht es jetzt weiter?",
           "link": "https://www.tagesschau.de/inland/regional/niedersachsen/betrueger-hendrik-holt-in-dubai-gefasst-wie-geht-es-jetzt-weiter,holt-154.html",
-          "published": "2026-09-24T11:57:13+00:00",
+          "published": "2026-09-24T13:27:14+00:00",
           "summary": "Der Windkraft-Betrüger Holt ist in Dubai festgenommen worden. Der verurteilte Straftäter war mehrere Wochen auf der Flucht, nachdem er von einem genehmigten Freigang nicht ins Gefängnis zurückgekehrt …"
         },
         {
-          "title": "Nach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html",
-          "published": "2026-09-24T11:55:47+00:00",
-          "summary": "Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei gegen …"
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81158.html",
+          "published": "2026-09-24T13:10:35+00:00",
+          "summary": ""
         },
         {
-          "title": "Sachsen-Anhalt: SPD lädt Parteien zu Gesprächen ein - CDU sagt ab",
-          "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/ministerpraesident-einladung-regierung-spd-102,regierungsbildung-spd-gespraeche-104.html",
-          "published": "2026-09-24T11:55:11+00:00",
-          "summary": "Nach dem Wahlsieg der AfD ist die Regierungsbildung in Sachsen-Anhalt weiter offen. Die SPD lädt nun CDU, Grüne, Linke und BSW zu Gesprächen über einen überparteilichen Ministerpräsidenten ein. Die …"
-        },
-        {
-          "title": "Marktbericht: Boeing muss um neue China-Bestellungen bangen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boeing-bestellungen-china-100.html",
-          "published": "2026-09-24T11:28:15+00:00",
-          "summary": "Eigentlich setzte der US-Flugzeugbauer Boeing große Hoffnungen in das Treffen zwischen den Präsidenten der USA und Chinas. Neue Lieferverträge sollten geschlossen werden. Doch diese Hoffnungen …"
-        },
-        {
-          "title": "Wie Lotte Reiniger den ersten Animationsfilm drehte",
-          "link": "https://www.tagesschau.de/kultur/lotte-reiniger-trickfilm-100.html",
-          "published": "2026-09-24T11:14:14+00:00",
-          "summary": "Landläufig gilt Disneys \"Schneewittchen\" als der erste lange Animationsfilm. Doch bereits elf Jahre vor Disney animierte die Deutsche Lotte Reiniger \"Die Abenteuer des Prinzen Achmed\", ein …"
+          "title": "Institute rechnen mit stärkerem Wachstum",
+          "link": "https://www.tagesschau.de/video/video-1654842.html",
+          "published": "2026-09-24T13:05:22+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Banken: Orlopp: Commerzbank könnte Unicredit-Tochter HVB übernehmen",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-commerzbank-koennte-unicredit-tochter-hvb-uebernehmen/100256931.html",
-          "published": "2026-09-24T12:00:45+00:00",
-          "summary": "Im Zuge eines Zusammenschlusses mit der italienischen Großbank könnte die Commerzbank die Hypovereinsbank übernehmen. Über einen Aktientausch könnte Unicredit damit ihre Beteiligung ausbauen."
+          "title": "Bald im Livestream: Warum wir gerade über die falsche Krise sprechen",
+          "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
+          "published": "2026-09-30T04:00:00+00:00",
+          "summary": "Die richtigen Reformen statt Kompromisse aus politischer Not: Worauf es jetzt ankommt, darüber diskutieren die Wirtschaftsweise Monika Schnitzer und Handelsblatt-Chefredakteur Sebastian Matthes am …"
         },
         {
-          "title": "Gesundheit: Nächster Anlauf zu umstrittenen neuen Organspende-Regeln",
-          "link": "https://www.handelsblatt.com/politik/deutschland/gesundheit-naechster-anlauf-zu-umstrittenen-neuen-organspende-regeln/100256987.html",
-          "published": "2026-09-24T11:46:39+00:00",
-          "summary": "Tausende Schwerkranke warten auf eine gespendete Niere oder Leber. Um zu mehr Transplantationen zu kommen, wird schon lange über ein ganz anderes Prinzip diskutiert. Im Parlament wird das nun konkret."
+          "title": "Dow Jones, S&P 500, Nasdaq: Zinssorgen bremsen US-Börsen zum Handelsstart",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-zinssorgen-bremsen-us-boersen-zum-handelsstart/100257196.html",
+          "published": "2026-09-24T14:04:12+00:00",
+          "summary": "Inflationsrisiken, Unsicherheiten bei den Ölpreisen und US-Staatsfinanzen machen der Wall Street zu schaffen. Anleger schauen auf das Treffen von Trump und Xi."
         },
         {
-          "title": "Modernisierung der Marine: Neues deutsches U-Boot in Israel eingetroffen",
-          "link": "https://www.handelsblatt.com/politik/international/modernisierung-der-marine-neues-deutsches-u-boot-in-israel-eingetroffen/100257187.html",
-          "published": "2026-09-24T11:43:42+00:00",
-          "summary": "Israels größtes U-Boot aus deutscher Produktion soll die Marine als strategischen Arm mit größerer Reichweite und Feuerkraft stärken. Die „INS Drakon“ ist das sechste U-Boot der israelischen Flotte."
+          "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
+          "link": "https://www.handelsblatt.com/unternehmen/management/ki-technologie-ist-die-zeit-des-managers-als-massenberuf-vorbei/100243656.html",
+          "published": "2026-09-24T13:50:00+00:00",
+          "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“"
         },
         {
-          "title": "Nach der Wahl: Berliner Linke auf steinigem Weg zur Macht",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-wahl-berliner-linke-auf-steinigem-weg-zur-macht/100257179.html",
-          "published": "2026-09-24T11:34:34+00:00",
-          "summary": "Debatte über Judenhass, radikale Forderungen und eine unerfahrene Großfraktion: Auf die Berliner Linke warten bei der Regierungsbildung viele Stolperfallen. Daran könnte alles scheitern."
+          "title": "USA: Weißes Haus sperrt US-Medien trotz Richterspruchs aus",
+          "link": "https://www.handelsblatt.com/politik/international/usa-weisses-haus-sperrt-us-medien-trotz-richterspruchs-aus/100257048.html",
+          "published": "2026-09-24T13:48:28+00:00",
+          "summary": "Ein Bundesrichter stoppt den Ausschluss der drei Medienhäuser aus dem Weißen Haus. Doch vor dem Treffen von Trump und Xi bekommen die Journalisten dennoch keinen Zutritt."
         },
         {
-          "title": "Automatisierung: Autoindustrie bremst Robotik-Ausbau in Deutschland",
-          "link": "https://www.handelsblatt.com/politik/deutschland/automatisierung-autoindustrie-bremst-robotik-ausbau-in-deutschland/100257178.html",
-          "published": "2026-09-24T11:30:04+00:00",
-          "summary": "Deutschland ist bei der industriellen Automatisierung zwar Europas führende Volkswirtschaft. Doch im weltweiten Wettlauf droht der Standort den Anschluss zu verlieren."
+          "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-grosse-sprachmodelle-sind-darauf-ausgelegt-unsere-schwaechen-auszunutzen-01/100223312.html",
+          "published": "2026-09-24T13:47:00+00:00",
+          "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Die Kilowattstunde wird teurer\": Windradhersteller hält Reiches Energiegesetze für \"bestenfalls tollpatschig\"",
+          "link": "https://www.n-tv.de/wirtschaft/EEG-Novelle-und-Netzpaket-So-bewertet-ein-Vestas-Manager-die-Energiegesetze-von-Katherina-Reiche-id31337768.html",
+          "published": "2026-09-24T13:14:33+00:00",
+          "summary": "Die deutsche Windkraft erlebt einen erstaunlichen Aufschwung. \"Es fließt viel Geld nach Deutschland\", sagt ein Windradhersteller im Interview. Doch ausgerechnet jetzt sorgen die Energiepläne von …"
+        },
         {
           "title": "Weniger als fünf Minuten: Geely präsentiert Batterie, die ultraschnell lädt",
           "link": "https://www.n-tv.de/wirtschaft/Geely-praesentiert-Batterie-die-ultraschnell-laedt-id31343328.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wohnungspreise-in-sieben-Grossstaedten-etwas-gesunken-id31342148.html",
           "published": "2026-09-24T08:07:10+00:00",
           "summary": "Bezahlen oder mieten? Für viele stellt sich diese Frage anhand astronomischer Immobilienpreise gar nicht. Deutschlandweit steigen diese zudem weiter an, wenn auch nur leicht. Und es gibt ein paar …"
-        },
-        {
-          "title": "Einbußen an mehreren Stellen: Hitze vermindert deutsche Wirtschaftsleistung",
-          "link": "https://www.n-tv.de/wirtschaft/Hitze-vermindert-deutsche-Wirtschaftsleistung-id31341859.html",
-          "published": "2026-09-24T05:45:48+00:00",
-          "summary": "In ganz Europa sorgen die verbreiteten Hitzewellen des Sommers für wirtschaftliche Einbußen. In Deutschland betragen diese laut Schätzung der Allianz rund 25 Milliarden Euro. Auch für das kommende …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "US-Regierung verkündet verlängerte Zollpause zu Trumps Treffen mit Xi",
-          "link": "https://www.finanzen.net/nachricht/aktien/busan-abkommen-us-regierung-verkuendet-verlaengerte-zollpause-zu-trumps-treffen-mit-xi-15950015",
-          "published": "2026-09-24T12:02:41+00:00",
-          "summary": "Die US-Regierung hatte es zum Auftakt von Xi Jinpings Staatsbesuch eilig, Fortschritte im Handelsstreit zu präsentieren. Kaum war Chinas Staatschef in Washington gelandet, verkündete Finanzminister …"
+          "title": "S&P 500-Papier Super Micro Computer-Aktie: So viel Gewinn hätte ein Super Micro Computer-Investment von vor 10 Jahren eingefahren",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-super-micro-computer-aktie-so-viel-gewinn-haette-ein-super-micro-computer-investment-von-vor-10-jahren-eingefahren-15951178",
+          "published": "2026-09-24T14:00:46+00:00",
+          "summary": "Heute vor 10 Jahren fand an der Börse NAS wochenend-bedingt kein Handel mit der Super Micro Computer -Aktie statt. Zur Schlussglocke des vorherigen Handelstages war das Super Micro Computer-Papier …"
         },
         {
-          "title": "Um 18 Uhr live: Aktive ETFs - Aktive Strategie trifft auf ETF-Effizienz",
-          "link": "https://www.finanzen.net/nachricht/trading/webinar-um-18-uhr-live-aktive-etfs-aktive-strategie-trifft-auf-etf-effizienz-15921391",
-          "published": "2026-09-24T12:00:00+00:00",
-          "summary": "Passive Indexfonds bilden Märkte ab, wie sie sind - akt ive ETFs wollen mehr: Sie verbinden die Kosteneffizienz und Handelbarkeit eines ETFs mit gezielter Titelauswahl, die zusätzliche Erträge …"
+          "title": "NASDAQ Composite Index-Titel ADTRAN-Aktie: So viel Verlust hätte eine Investition in ADTRAN von vor 3 Jahren bedeutet",
+          "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-composite-index-titel-adtran-aktie-so-viel-verlust-haette-eine-investition-in-adtran-von-vor-3-jahren-bedeutet-15951177",
+          "published": "2026-09-24T14:00:46+00:00",
+          "summary": "Vor 3 Jahren wurde das ADTRAN -Papier wochenend-bedingt nicht via Börse NAS gehandelt. Der Schlusskurs der Anteile betrug am vorangegangen Handelstag 8,26 USD. Anleger, die zu diesem Zeitpunkt 10.000 …"
         },
         {
-          "title": "So testet die Schwarz-Gruppe fahrerlose Lieferungen",
-          "link": "https://www.finanzen.net/nachricht/aktien/so-testet-die-schwarz-gruppe-fahrerlose-lieferungen-15950844",
-          "published": "2026-09-24T11:58:38+00:00",
-          "summary": "GEISENFELD (dpa-AFX) - Die Schwarz-Gruppe will dem Mangel an Lkw-Fahrern unter anderem mit autonomen Lieferungen begegnen. Dazu testet sie im hessischen Edermünde bei Kassel Lkw der schwedischen …"
+          "title": "S&P 500-Titel Organon Company-Aktie: So viel hätte eine Investition in Organon Company von vor 5 Jahren gekostet",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-organon-company-aktie-so-viel-haette-eine-investition-in-organon-company-von-vor-5-jahren-gekostet-15951176",
+          "published": "2026-09-24T14:00:46+00:00",
+          "summary": "Heute vor 5 Jahren fand an der Börse NYSE Handel mit der Organon Company -Aktie statt. Diesen Handelstag beendete das Organon Company-Papier bei 33,69 USD. Investoren, die vor 5 Jahren 1.000 USD in …"
         },
         {
-          "title": "Neues deutsches U-Boot in Israel eingetroffen - TKMS-Bau",
-          "link": "https://www.finanzen.net/nachricht/aktien/neues-deutsches-u-boot-in-israel-eingetroffen-tkms-bau-15950834",
-          "published": "2026-09-24T11:50:38+00:00",
-          "summary": "TEL AVIV (dpa-AFX) - Israels Marine hat ein neues Schwergewicht: Nach mehrwöchiger Fahrt von Deutschland ist die \"INS Drakon\" im Hafen der Mittelmeerstadt Haifa eingetroffen. Dies bestätigte eine …"
+          "title": "S&P 500-Titel Howmet Aerospace-Aktie: So viel Gewinn hätte ein Howmet Aerospace-Investment von vor 5 Jahren abgeworfen",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-howmet-aerospace-aktie-so-viel-gewinn-haette-ein-howmet-aerospace-investment-von-vor-5-jahren-abgeworfen-15951175",
+          "published": "2026-09-24T14:00:46+00:00",
+          "summary": "Heute vor 5 Jahren fand via Börse NYSE Handel mit der Howmet Aerospace -Aktie statt. Der Schlusskurs des Howmet Aerospace-Papiers betrug an diesem Tag 31,53 USD. Wenn man vor 5 Jahren 1.000 USD in …"
         },
         {
-          "title": "Schwache Vorgaben und anhaltende Ölmarkt-Problematik: DAX in Rot",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-schwache-vorgaben-und-anhaltende-oelmarkt-problematik-dax-in-rot-15943636",
-          "published": "2026-09-24T11:49:00+00:00",
-          "summary": "Der DAX ging mit einem Abschlag von 0,58 Prozent bei 25.263,11 Punkten in den Handel. Danach bleibt er auf negativem Terrain. Korrektur weitet sich aus Bei insgesamt schwächeren ..."
+          "title": "S&P 500-Papier NortonLifeLock-Aktie: So viel hätte eine Investition in NortonLifeLock von vor einem Jahr gekostet",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-papier-nortonlifelock-aktie-so-viel-haette-eine-investition-in-nortonlifelock-von-vor-einem-jahr-gekostet-15951174",
+          "published": "2026-09-24T14:00:46+00:00",
+          "summary": "Heute vor 1 Jahr fand via Börse NAS Handel mit der NortonLifeLock -Aktie statt. Diesen Handelstag beendeten die NortonLifeLock-Anteile bei 29,09 USD. Bei einem 1.000-USD-Investment vor 1 Jahr, besäße …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Signa: Urteil gegen Benko rechtskräftig – 30 Monate Haft",
+          "link": "https://www.wiwo.de/finanzen/immobilien/signa-urteil-gegen-rene-benko-rechtskraeftig/100257213.html",
+          "published": "2026-09-24T13:30:04+00:00",
+          "summary": "Das Urteil gegen Signa-Gründer René Benko ist rechtskräftig. Der Unternehmer muss wegen Insolvenzbetrugs eine Haftstrafe verbüßen."
+        },
+        {
+          "title": "Friedrich Merz: Kanzler auf Reserve",
+          "link": "https://www.wiwo.de/politik/deutschland/friedrich-merz-die-zukunft-des-kanzlers-steht-unter-druck/100257052.html",
+          "published": "2026-09-24T13:23:31+00:00",
+          "summary": "Friedrich Merz versucht eine Flucht nach vorn. Sein Reformkurs aber wird von allen Seiten infrage gestellt. Findet die Koalition die Kraft zu einem Neustart?"
+        },
+        {
+          "title": "BörsenTag: Jetzt wird die US-Wirtschaft zum Problem für den Anleihemarkt",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/boerse-us-wirtschaft-wird-zum-problem-fuer-den-anleihemarkt/100257114.html",
+          "published": "2026-09-24T12:53:14+00:00",
+          "summary": "Die Renditen von US-Staatsanleihen steigen wieder. Das liegt auch an der überraschend starken US-Konjunktur."
+        },
+        {
+          "title": "Kinderkrankengeld: Das Kinderkrankengeld soll gekürzt werden – na und?",
+          "link": "https://www.wiwo.de/erfolg/trends/kinderkrankentage-kuerzen-warum-die-plaene-kaum-eltern-treffen/100257153.html",
+          "published": "2026-09-24T12:44:41+00:00",
+          "summary": "Der Gesundheitsminister will die Zahl der Kinderkrankentage senken. Bevor der Aufschrei zu groß wird, hilft ein Blick auf die Daten – und auf die eigentlichen Probleme."
+        },
+        {
           "title": "Automatisierung: Autoindustrie bremst Robotik-Ausbau in Deutschland",
-          "link": "https://www.wiwo.de/unternehmen/auto/autoindustrie-bremst-robotik-ausbau-in-deutschland/100257177.html",
+          "link": "https://www.wiwo.de/unternehmen/auto/autoindustrie-robotik-ausbau-in-deutschland-wird-gebremst/100257177.html",
           "published": "2026-09-24T11:40:14+00:00",
           "summary": "Deutschland ist bei der industriellen Automatisierung zwar Europas führende Volkswirtschaft. Doch im weltweiten Wettlauf droht der Standort, den Anschluss zu verlieren."
-        },
-        {
-          "title": "Spritpreis: Beim Spritpreis deutet sich die nächste Trendwende an",
-          "link": "https://www.wiwo.de/politik/konjunktur/spritpreis-eine-naechste-trendwende-kuendigt-sich-an/100257167.html",
-          "published": "2026-09-24T11:16:57+00:00",
-          "summary": "Im Vergleich zu den Rekorden der vergangenen Woche sind Benzin und Diesel ein gutes Stück günstiger geworden. Am Vormittag zeichnet sich aber eine Wende nach oben ab."
-        },
-        {
-          "title": "Rekordrenditen: Welche Anleihen jetzt kaufenswert sind",
-          "link": "https://www.wiwo.de/finanzen/boerse/anleihen-welche-rentenpapiere-jetzt-rendite-bringen/100257075.html",
-          "published": "2026-09-24T11:04:51+00:00",
-          "summary": "Lange waren Anleihen unattraktiv, nun liefern sie endlich wieder auskömmliche Erträge. Aber wie lange? Und wie funktionieren die Papiere eigentlich?"
-        },
-        {
-          "title": "Geld. Leben. Looman.: Hilfe, meine Tochter verdient immer noch kein Geld!",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-in-der-familie-warum-einmischung-oft-scheitert/100257120.html",
-          "published": "2026-09-24T10:59:33+00:00",
-          "summary": "Dürfen Söhne sich in die Geldanlage ihrer Mutter einmischen? Müssen Eltern für ihre (erwachsenen) Töchter zahlen? Unser Kolumnist hat dazu sehr klare Meinungen."
-        },
-        {
-          "title": "Immobilienmarkt: Immobilienpreise steigen – aber Rückgänge in Metropolen",
-          "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-preise-in-deutschland-steigen-deutlich-langsamer/100257068.html",
-          "published": "2026-09-24T10:34:00+00:00",
-          "summary": "Immobilien verteuern sich, wenn auch nicht mehr so stark. In Metropolen wurden Eigentumswohnungen zuletzt sogar etwas günstiger. Hohe Baukosten und Zinsen werden für Käufer und Bauherren zur Bürde."
         }
       ],
       "error": null
@@ -242,10 +242,16 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Wasserstoff, Kerosin oder Erdgas: Forscher drucken Turbinendüse für fast jeden Brennstoff",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoff-kerosin-oder-erdgas-forscher-drucken-turbinenduse-fur-fast-jeden-brennstoff/",
+          "published": "2026-09-24T13:30:00+00:00",
+          "summary": "Neue Gaskraftwerke sollen später mit Wasserstoff laufen, doch womit sie wirklich betrieben werden, weiß heute niemand. Stuttgarter Forschende haben eine Einspritzdüse entwickelt, die laut Universität …"
+        },
+        {
           "title": "Ein Handyfoto reicht: Wie eine KI erkennt, ob Wunden heilen",
           "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/ein-handyfoto-reicht-wie-eine-ki-erkennt-ob-wunden-heilen/",
           "published": "2026-09-24T12:00:00+00:00",
-          "summary": "Eine KI vermisst chronische Wunden anhand von Fotos und analysiert ihre Gewebezusammensetzung. WoundTrack II von Pixacare hat nun die CE-Kennzeichnung als Medizinprodukt der Klasse IIa erhalten."
+          "summary": "Viele Wunden werden oft noch mit dem Lineal vermessen, das überschätzt ihre Größe. Eine Software aus Frankreich berechnet Fläche und Gewebe aus einem Foto und darf nun EU-weit als Medizinprodukt …"
         },
         {
           "title": "Holz statt Stahlbeton: Stuttgarter Decke schafft 20 t ohne tragende Wände",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/tesla-roadster-mit-raketendusen-was-elon-musk-am-1-oktober-zeigen-will/",
           "published": "2026-09-24T10:02:26+00:00",
           "summary": "Neun Jahre nach der ersten Ankündigung will Tesla den neuen Roadster enthüllen. Eine Sonderversion soll mit Druckluftdüsen von SpaceX schneller beschleunigen, als Reifen es erlauben. Auf die Straße …"
-        },
-        {
-          "title": "Ohne KI-Kenntnisse kein Berufseinstieg? Mehr als die Hälfte der Beschäftigten glaubt das",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/ohne-ki-kenntnisse-kein-berufseinstieg-mehr-als-die-halfte-der-beschaftigten-glaubt-das/",
-          "published": "2026-09-24T09:35:00+00:00",
-          "summary": "Mehr als die Hälfte der Beschäftigten hält KI-Kompetenz bald für eine Grundvoraussetzung beim Jobstart. Gleichzeitig könnten ausgerechnet die Aufgaben wegfallen, an denen Berufsanfänger bisher …"
         }
       ],
       "error": null
