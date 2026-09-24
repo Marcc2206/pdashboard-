@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T04:08:55+00:00",
+  "generatedAt": "2026-09-24T06:11:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Bundestag befasst sich mit Widerspruchslösung bei Organspende",
+          "link": "https://www.tagesschau.de/video/video-1654634.html",
+          "published": "2026-09-24T05:36:17+00:00",
+          "summary": ""
+        },
+        {
+          "title": "R. Lang, Bündnis 90/ Die Grünen, M.Brand, CDU, Mitglied des Bundestages, zur Debatte über Widerspruchslösung bei Organspende",
+          "link": "https://www.tagesschau.de/video/video-1654642.html",
+          "published": "2026-09-24T05:34:08+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
+          "published": "2026-09-24T05:26:00+00:00",
+          "summary": "Der DAX dürfte heute zum Handelsbeginn sinken. Der kräftige Anstieg des Ölpreises schürt neue Inflations- und Zinssorgen. Im Fokus stehen zudem der Trump-Xi-Gipfel und die neue Konjunkturprognose."
+        },
+        {
+          "title": "Windkraft-Betrüger Hendrik Holt in Dubai gefasst",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-flucht-windkraft-betrueger-hendrik-holt-in-dubai-gefasst,holt-154.html",
+          "published": "2026-09-24T05:21:09+00:00",
+          "summary": "Der Windkraft-Betrüger Holt ist in Dubai festgenommen worden. Der verurteilte Straftäter war mehrere Wochen auf der Flucht, nachdem er von einem genehmigten Freigang nicht ins Gefängnis zurückgekehrt …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1654620.html",
-          "published": "2026-09-24T04:05:11+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1654632.html",
+          "published": "2026-09-24T05:10:03+00:00",
           "summary": ""
-        },
-        {
-          "title": "Chinas Präsident Xi bei US-Präsident Trump in Washington",
-          "link": "https://www.tagesschau.de/video/video-1654616.html",
-          "published": "2026-09-24T03:48:44+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Torben Börgers, ARD Washignton, zum Besuch von Chinas Präsident Xi bei US-Präsident Trump",
-          "link": "https://www.tagesschau.de/video/video-1654618.html",
-          "published": "2026-09-24T03:48:40+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
-          "link": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
-          "published": "2026-09-24T03:32:22+00:00",
-          "summary": "Drohnen, die andere Drohnen einfangen, KI-gesteuerte Abfangsysteme und Sensoren, die den Luftraum überwachen: Auf der neuen Verteidigungsmesse Euro Defence Expo zeigt die Branche, wie sie auf …"
-        },
-        {
-          "title": "USA verkünden zu Xis Staatsbesuch längere Zollpause",
-          "link": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-100.html",
-          "published": "2026-09-24T03:17:51+00:00",
-          "summary": "Der mit Spannung erwartete Staatsbesuch von Chinas Präsident Xi in den USA hat mit einem Signal der Annäherung begonnen: Eine Zollpause soll vorerst verlängert werden. Doch die Liste der Streitpunkte …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Meta-Konzern: Das Tamagotchi ist zurück - Zuckerberg startet Frontalangriff auf OpenAI",
-          "link": "https://www.handelsblatt.com/technik/it-internet/meta-konzern-das-tamagotchi-ist-zurueck-zuckerberg-startet-frontalangriff-auf-openai/100256358.html",
-          "published": "2026-09-24T04:00:03+00:00",
-          "summary": "Der Facebook-Gründer stellt ein neues KI-Gerät für die Handfläche vor, das herzallerliebst aussieht und unser aller Leben managen soll. OpenAI-Chef Altman, der ähnliches plant, dürfte rotieren."
+          "title": "USA: Trumps Ausschluss von US-Medien vorerst aufgehoben",
+          "link": "https://www.handelsblatt.com/politik/international/usa-trumps-ausschluss-von-us-medien-vorerst-aufgehoben/100257048.html",
+          "published": "2026-09-24T06:09:11+00:00",
+          "summary": "Ein Bundesrichter stoppt den Ausschluss der drei Medienhäuser aus dem Weißen Haus. Trump hatte den Sendern „Fiktion und Lügen“ vorgeworfen."
         },
         {
-          "title": "Rüstung: 455 Millionen Euro für Europas Verteidigungs-Start-ups",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-455-millionen-euro-fuer-europas-verteidigungs-start-ups/100256612.html",
-          "published": "2026-09-24T04:00:00+00:00",
-          "summary": "Der Hamburger Investor DTCP gibt das „First Closing“ seines ersten Verteidigungsfonds bekannt. Das Kapital kommt unter anderem aus Dänemark und von zwei deutschen Konzernen."
+          "title": "Elektronik: Schneider Electric kauft Smart-Home-Anbieter Shelly",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/shelly-schneider-electric-kauft-smart-home-anbieter/100257049.html",
+          "published": "2026-09-24T06:06:31+00:00",
+          "summary": "Der französische Elektrokonzern bewertet den bulgarischen Hersteller vernetzter Geräte mit rund 1,2 Milliarden Euro. Die Gründer von Shelly unterstützen die Übernahme."
         },
         {
-          "title": "Künstliche Intelligenz: OpenAI-Agent hackt australisches Regierungsportal",
-          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257017.html",
-          "published": "2026-09-24T03:58:54+00:00",
-          "summary": "Eine KI sollte Gesundheitsstatistiken suchen – und hackte sich dabei in ein australisches Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß."
+          "title": "Kommentar: Private Krankenversicherung: Merz’ Eigentor in der Gerechtigkeitsdebatte",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-merz-eigentor-in-der-gerechtigkeitsdebatte-um-die-krankenversicherung-01/100256428.html",
+          "published": "2026-09-24T06:02:00+00:00",
+          "summary": "Mit seiner Kritik an der unterschiedlichen Behandlung von Kassen- und Privatpatienten hat der Kanzler eine Debatte losgetreten, die er so wohl gar nicht führen will."
         },
         {
-          "title": "Morning Briefing: Was die Biontech-Gründer nicht über sich lesen wollten",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-was-die-biontech-gruender-nicht-ueber-sich-lesen-wollten/100256958.html",
-          "published": "2026-09-24T03:47:06+00:00",
-          "summary": "Gründer-Frust statt Gründer-Lust: Die Corona-Impfstoff-Helden verzetteln sich bei der Neuausrichtung. Darüber reden wollen sie nicht. Was dennoch bekannt wurde."
+          "title": "Wiederbelebt mit mehr PS: Renault zeigt neuen R8 Gordini in Paris",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/wiederbelebt-mit-mehr-ps-renault-zeigt-neuen-r8-gordini-in-paris/100257051.html",
+          "published": "2026-09-24T06:01:04+00:00",
+          "summary": "Nach dem R5 Turbo holt Renault auch den R8 Gordini als elektrische Neuauflage zurück - allerdings nicht auf die Straße..."
         },
         {
-          "title": "Nikkei, Topix, CSI 300: KI-Boom in Tokio trotzt Zinsängsten – Asien-Börsen uneinheitlich",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-ki-boom-in-tokio-trotzt-zinsaengsten-asien-boersen-uneinheitlich/100257012.html",
-          "published": "2026-09-24T03:44:15+00:00",
-          "summary": "Die KI-Euphorie und die globalen Konflikte sind die dominierenden Themen an den asiatischen Börsen. Die japanische Börse tendiert fester, in China geben die Märkte nach."
+          "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-lektionen-ich-beim-etf-einstieg-gelernt-habe/100184984.html",
+          "published": "2026-09-24T05:55:00+00:00",
+          "summary": "Aus dem Handelsblatt-Archiv: Unser Autor befasst sich zum ersten Mal in seinem Leben mit ETFs – und stellt fest, dass Altersvorsorge damit in der Theorie einfacher ist als in der Praxis."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Einbußen an mehreren Stellen: Hitze vermindert deutsche Wirtschaftsleistung",
+          "link": "https://www.n-tv.de/wirtschaft/Hitze-vermindert-deutsche-Wirtschaftsleistung-id31341859.html",
+          "published": "2026-09-24T05:45:48+00:00",
+          "summary": "In ganz Europa sorgen die verbreiteten Hitzewellen des Sommers für wirtschaftliche Einbußen. In Deutschland betragen diese laut Schätzung der Allianz rund 25 Milliarden Euro. Auch für das kommende …"
+        },
+        {
+          "title": "Xi zu Besuch bei Trump: USA verlängern Pause für Zusatzzölle gegen China",
+          "link": "https://www.n-tv.de/wirtschaft/USA-verlaengern-Pause-fuer-Zusatzzoelle-gegen-China-id31341707.html",
+          "published": "2026-09-24T04:52:19+00:00",
+          "summary": "Im Handelskonflikt zwischen den USA und China überziehen sich die beiden Großmächte gegenseitig mit Zusatzzöllen. Nun reist Chinas Staats- und Parteichef Xi zu US-Präsident Trump - und direkt zu …"
+        },
         {
           "title": "Auch Nahost-Sorgen drücken Kurse: Zinsangst sucht die Wall Street heim",
           "link": "https://www.n-tv.de/wirtschaft/Zinsangst-sucht-die-Wall-Street-heim-id31341201.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Welche-Alternativen-zur-Wohnungsenteignung-liegen-auf-dem-Tisch-id31338558.html",
           "published": "2026-09-23T15:12:48+00:00",
           "summary": "Der Plan, große Wohnungsbestände zu enteignen, sorgt für Entrüstung. Die möglichen Koalitionspartner und die Konkurrenten der Linken wollen die Wohnungskrise der Hauptstadt auf andere Weise …"
-        },
-        {
-          "title": "Neustart in Mainz: Biontech-Gründer verraten Namen ihrer neuen Firma",
-          "link": "https://www.n-tv.de/wirtschaft/Biontech-Gruender-verraten-Namen-ihrer-neuen-Firma-id31340261.html",
-          "published": "2026-09-23T14:43:14+00:00",
-          "summary": "Der Abschied von Biontech nimmt Gestalt an. Ugur Sahin und Özlem Türeci gründen ein neues Unternehmen. Mit der Firma wollen sie eine neue Generation von Medikamenten entwickeln."
-        },
-        {
-          "title": "Schneller als der ICE? : Flixtrain fährt ab 2027 im Stundentakt auf der Strecke Berlin - Hamburg",
-          "link": "https://www.n-tv.de/wirtschaft/Flixtrain-faehrt-ab-2027-im-Stundentakt-auf-der-Strecke-Berlin-Hamburg-id31339398.html",
-          "published": "2026-09-23T12:05:20+00:00",
-          "summary": "Flixtrain investiert rund 2,4 Milliarden Euro in den Ausbau seiner Zugflotte. Die grünen Wagen sollen bereits im kommenden Jahr deutlich öfter im Schienennetz unterwegs sein. Davon profitieren …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Trump empfängt Chinas Präsidenten Xi im Weißen Haus",
-          "link": "https://www.finanzen.net/nachricht/aktien/trump-empfaengt-chinas-praesidenten-xi-im-weissen-haus-15949879",
-          "published": "2026-09-24T03:49:39+00:00",
-          "summary": "WASHINGTON (dpa-AFX) - US-Präsident Donald Trump empfängt Chinas Staatschef Xi Jinping an diesem Donnerstag im Weißen Haus. Ein Thema dürfte der Handelsstreit zwischen den beiden Ländern ..."
+          "title": "Schneider Electric plant Übernahme der Shelly Group",
+          "link": "https://www.finanzen.net/nachricht/aktien/schneider-electric-plant-uebernahme-der-shelly-group-15950086",
+          "published": "2026-09-24T06:03:41+00:00",
+          "summary": "DOW JONES--Der französische Elektrokonzern Schneider Electric SE greift nach dem bulgarischen Smart-Home-Spezialisten Shelly ..."
         },
         {
-          "title": "Führende Wirtschaftsinstitute legen neue Konjunkturprognose vor",
-          "link": "https://www.finanzen.net/nachricht/aktien/fuehrende-wirtschaftsinstitute-legen-neue-konjunkturprognose-vor-15949878",
-          "published": "2026-09-24T03:49:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Führende Wirtschaftsforschungsinstitute legen am Donnerstag (10 Uhr) in Berlin ihr Herbstgutachten vor. Erwartet wird, dass sie mit einem höheren Wirtschaftswachstum in Deutschland …"
+          "title": "Führungskraft kauft Heidelberg Materials-Aktien",
+          "link": "https://www.finanzen.net/nachricht/aktien/fuehrungskraft-kauft-heidelberg-materials-aktien-15950083",
+          "published": "2026-09-24T06:01:11+00:00",
+          "summary": "Für den 23.09.2026 wurde bei Heidelberg Materials eine Managers’ Transaction gemeldet. Die Publikation der Managers’ Transaction fand am 23.09.2026 statt. 250 Heidelberg Materials-Aktien für jeweils …"
         },
         {
-          "title": "Merz berät mit Ministerpräsidenten über EU-Haushalt",
-          "link": "https://www.finanzen.net/nachricht/aktien/merz-beraet-mit-ministerpraesidenten-ueber-eu-haushalt-15949877",
-          "published": "2026-09-24T03:49:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Im Ringen um den billionenschweren EU-Haushalt stimmt sich Bundeskanzler Friedrich Merz (CDU) am Donnerstag mit den Ministerpräsidenten der Bundesländer ab. Möglichst bis …"
+          "title": "Rekordhitze und El Niño verschärfen Feuerkrise in Manaus",
+          "link": "https://www.finanzen.net/nachricht/nachhaltigkeit/rekordhitze-und-el-niño-verschaerfen-feuerkrise-in-manaus-15950084",
+          "published": "2026-09-24T06:00:38+00:00",
+          "summary": "MANAUS (dpa-AFX) - Die brasilianische Amazonas-Metropole Manaus ist wegen zahlreicher Brände in der Region von dichtem Rauch eingehüllt. Die städtische Gesundheitsbehörde Semsa stufte die …"
         },
         {
-          "title": "Pressestimme: 'Straubinger Tagblatt/Landshuter Zeitung' zu Andreas Scheuer",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-straubinger-tagblatt-landshuter-zeitung-zu-andreas-scheuer-15949873",
-          "published": "2026-09-24T03:34:42+00:00",
-          "summary": "STRAUBING (dpa-AFX) - Die Zeitungen \"Straubinger Tagblatt\" und \"Landshuter Zeitung\" zum Prozess um Andreas Scheuer: \"Fehler passieren überall, auch in der Politik. Aber die Politik hat auch im …"
+          "title": "10 wichtige Fakten zum Börsenhandel am Donnerstag - Meta mit neuem KI-Vorstoß",
+          "link": "https://www.finanzen.net/nachricht/aktien/10-vor-9-10-wichtige-fakten-zum-boersenhandel-am-donnerstag-meta-mit-neuem-ki-vorstoss-15947921",
+          "published": "2026-09-24T06:00:04+00:00",
+          "summary": "Behalten Sie hier den kompletten aktuellen Handelstag im Auge. 1. DAX wird tiefer erwartetDer"
         },
         {
-          "title": "Pressestimme: 'Die Glocke' zur Tarifrunde der Metall- und Elektroindustrie",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-die-glocke-zur-tarifrunde-der-metall-und-elektroindustrie-15949872",
-          "published": "2026-09-24T03:34:41+00:00",
-          "summary": "OELDE (dpa-AFX) - Die \"Glocke\" zur Tarifrunde der Metall- und Elektroindustrie:\"Den Sozialpartnern muss an einem zügigen Abschluss gelegen sein. Bitte keine Streiks. Nicht endlos verhandeln. Ohnehin …"
+          "title": "AKTIE IM FOKUS: MTU stark nach Kehrtwende der Citigroup - Empfehlen nun zum Kauf",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktie-im-fokus-mtu-stark-nach-kehrtwende-der-citigroup-empfehlen-nun-zum-kauf-15950082",
+          "published": "2026-09-24T05:59:40+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Eine totale Kehrtwende der Citigroup in ihrer Einstufung von MTU ( MTU Aero Engines ) hat die Papiere des deutschen Triebwerkherstellers am Donnerstagmorgen deutlich …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Künstliche Intelligenz: Wie lange braucht China die KI-Chips aus dem Westen noch?",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/alibaba-chip-wie-china-bei-ki-prozessoren-aufholt/100256583.html",
-          "published": "2026-09-24T03:55:26+00:00",
-          "summary": "KI-Chips sind Amerikas Faustpfand in Auseinandersetzungen mit China. Jetzt hat Alibaba den angeblich schnellsten Prozessor aus China vorgestellt. Endet die Abhängigkeit bald?"
+          "title": "Pressefreiheit: Trump muss CNN und andere verbannte Medien wieder ins Weiße Haus lassen",
+          "link": "https://www.wiwo.de/politik/ausland/pressefreiheit-trump-muss-cnn-und-andere-verbannte-medien-wieder-ins-weisse-haus-lassen/100256314.html",
+          "published": "2026-09-24T05:48:00+00:00",
+          "summary": "Trump hatte mehrere Medien aus dem Weißen Haus verbannt. Nun erklärt ein US-Bundesgericht die Sperre für verfassungswidrig."
         },
         {
-          "title": "Überidentifikation: „Sagen Sie Leistungsträgern nicht, dass sie weniger arbeiten sollen“",
-          "link": "https://www.wiwo.de/erfolg/management/ueberidentifikation-im-job-wenn-arbeit-krank-macht/100254798.html",
-          "published": "2026-09-23T17:17:16+00:00",
-          "summary": "Wer sich zu sehr mit seiner Arbeit identifiziert, neigt zur Überarbeitung. Ein Mediziner erklärt, warum es helfen kann, an die eigene Grabesrede zu denken."
+          "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/warnung-vor-ki-gefahren-tech-chefs-draengen-un-zu-regulierung/100257039.html",
+          "published": "2026-09-24T05:34:07+00:00",
+          "summary": "Anthropic-CEO Dario Amodei sieht KI als Risiko für die Menschheit. Vor dem UN-Sicherheitsrat fordert er die Regierungen zur Zusammenarbeit auf."
         },
         {
-          "title": "Europäischer Haftbefehl: Aus Haft geflohen – Windkraftbetrüger Holt in Dubai gefasst",
-          "link": "https://www.wiwo.de/politik/europa/europaeischer-haftbefehl-aus-haft-geflohen-windkraftbetrueger-holt-in-dubai-gefasst/100256947.html",
-          "published": "2026-09-23T17:02:38+00:00",
-          "summary": "Von einem Ausgang im offenen Vollzug kam der Betrüger nicht zurück. Vermutet wurde er in Russland – nun aber woanders gefasst."
+          "title": "Autoindustrie: Chinesische Automarken wachsen weiter stark in Europa",
+          "link": "https://www.wiwo.de/unternehmen/auto/byd-chery-geely-chinesische-automarken-wachsen-weiter-stark-in-europa/100257034.html",
+          "published": "2026-09-24T05:23:32+00:00",
+          "summary": "Chinesische Autobauer bauen ihren Marktanteil in Europa weiter aus. Die Forderungen nach Gegenmaßnahmen werden lauter."
         },
         {
-          "title": "Ukraine-Krieg: USA haben Putin zu G20-Treffen eingeladen",
-          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-usa-haben-putin-zu-g20-treffen-eingeladen/100256941.html",
-          "published": "2026-09-23T16:53:02+00:00",
-          "summary": "Seit 2019 hat Russland nicht mehr an einem Treffen der großen Industrie- und Schwellenländer teilgenommen. Die Trump-Regierung will das ändern."
+          "title": "Autoindustrie: Bis zu 800 Millionen Euro – so will Mercedes Arbeitskosten sparen",
+          "link": "https://www.wiwo.de/unternehmen/auto/mercedes-und-der-betriebsrat-streit-um-arbeitszeit-und-werke/100256924.html",
+          "published": "2026-09-24T05:20:23+00:00",
+          "summary": "Die Kosten für Arbeit in Deutschland müssen sinken – sonst schließt Mercedes zwei deutsche Werke. Der Betriebsrat lotet nun Zugeständnisse aus."
         },
         {
-          "title": "Bilanzzahlen Bosch: Womit will Bosch seine Auto-Lücken füllen?",
-          "link": "https://www.wiwo.de/unternehmen/auto/bilanzzahlen-bosch-womit-will-bosch-seine-auto-luecken-fuellen/100256929.html",
-          "published": "2026-09-23T16:09:19+00:00",
-          "summary": "Der weltgrößte Autozulieferer schrumpft im Autogeschäft und wächst bei Klimaanlagen. Für einen Wandel zur Technologiefirma wird das allein nicht reichen."
+          "title": "Handelskonflikt: USA verkünden zu Xis Staatsbesuch verlängerte Zollpause",
+          "link": "https://www.wiwo.de/politik/ausland/sicherheitsrisiken-im-fokus-vor-trump-xi-gipfel-china-und-usa-sprechen-ueber-ki/100256051.html",
+          "published": "2026-09-24T05:18:00+00:00",
+          "summary": "Die Liste der Streitpunkte zwischen China und den USA beim Treffen ist lang. Zumindest bei einem Punkt soll es eine Übereinkunft geben."
         }
       ],
       "error": null
