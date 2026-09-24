@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:11:42+00:00",
+  "generatedAt": "2026-09-24T02:08:56+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ US-Zollpolitik +++: USA und China verlängern Vereinbarung im Zollstreit bis Januar",
-          "link": "https://www.handelsblatt.com/politik/international/us-zoelle-usa-und-china-verlaengern-vereinbarung-im-zollstreit-bis-januar/30026990.html",
-          "published": "2026-09-24T00:00:00+00:00",
-          "summary": "US-Regierung – Zusatzzölle gegen China erneut aufgeschoben +++ Republikanische Senatoren vor Trump-Xi-Treffen besorgt um Taiwan +++ Der Newsblog."
+          "title": "Konsum: Milliardengeschäft – wie Henkel dank seiner Haarsparte wächst",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/konsum-milliardengeschaeft-wie-henkel-dank-seiner-haarsparte-waechst/100254499.html",
+          "published": "2026-09-24T02:04:06+00:00",
+          "summary": "Das Haarsegment legt schneller zu als das übrige Konsumentengeschäft des Konzerns. Forschung und die neue Marke Olaplex sollen Henkel weiter stärken. Doch Konkurrenten ziehen mit."
         },
         {
-          "title": "Handelskonflikt: US-Regierung: Zusatzzölle gegen China erneut aufgeschoben",
-          "link": "https://www.handelsblatt.com/politik/deutschland/handelskonflikt-us-regierung-zusatzzoelle-gegen-china-erneut-aufgeschoben/100256980.html",
-          "published": "2026-09-23T23:51:45+00:00",
-          "summary": "Chinas Staatschef Xi Jingping ist in Washington eingetroffen. Gleich zu Beginn des Besuchs geben die USA einen weiteren Aufschub für hohe Zölle bekannt."
+          "title": "Kommentar: Tankrabatt – warum 17 Cent Entlastung niemanden retten werden",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-tankrabatt-warum-17-cent-entlastung-niemanden-retten-werden/100256281.html",
+          "published": "2026-09-24T02:03:35+00:00",
+          "summary": "Die Entlastungen der Regierung sind nur ein Tropfen auf den heißen Stein, und die Dieselpreise könnten weiter steigen. Die Rechnung zahlt der Verbraucher – und die Politik ist machtlos."
+        },
+        {
+          "title": "Pharma: „Enteignung der eigenen Firma“ – Eklat um das Erbe von Biontech",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/biontech-enteignung-der-eigenen-firma-eklat-um-impfstoff-pioniere/100254498.html",
+          "published": "2026-09-24T02:03:03+00:00",
+          "summary": "Das Gründerpaar Şahin und Türeci will mit dem Unternehmen Arife neu starten, doch seine Trennung von Biontech sorgt für Ärger: Es geht um Patente, Geld und die Zukunft der Mitarbeiter."
+        },
+        {
+          "title": "Gipfel in Washington: Der KI-Machtkampf zwischen USA und China",
+          "link": "https://www.handelsblatt.com/politik/international/technologie-der-ki-machtkampf-zwischen-usa-und-china/100251198.html",
+          "published": "2026-09-24T02:02:25+00:00",
+          "summary": "Trump und Xi wollen auf dem Gipfel am Donnerstag über gemeinsame Leitplanken für KI sprechen. Doch schon bei der Definition der größten Risiken sind sie uneins."
         },
         {
           "title": "Krieg gegen die Ukraine: Russland beschießt Kiew mit ballistischen Raketen",
           "link": "https://www.handelsblatt.com/politik/international/krieg-gegen-die-ukraine-russland-beschiesst-kiew-mit-ballistischen-raketen/100256978.html",
-          "published": "2026-09-23T23:39:48+00:00",
-          "summary": "Schwere Explosionen erschüttern Kiew bei nächtlichem Raketenbeschuss. Viele Bewohner müssen wegen des Luftalarms erneut Schutz suchen. Bürgermeister Klitschko zufolge sind Rettungskräfte im Einsatz."
-        },
-        {
-          "title": "Staatsbesuch: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
-          "link": "https://www.handelsblatt.com/politik/international/staatsbesuch-chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen/100256975.html",
-          "published": "2026-09-23T23:38:14+00:00",
-          "summary": "Chinas Präsident Xi Jinping ist zu einem Besuch in Washington gelandet. Für den Chinesen ist es die erste USA-Reise seit rund drei Jahren."
-        },
-        {
-          "title": "Anleihemarkt: Ausverkauf am Bondmarkt – zehnjährige US-Anleihe bei 5,1 Prozent",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihemarkt-ausverkauf-am-bondmarkt-zehnjaehrige-us-anleihe-bei-51-prozent/100256963.html",
-          "published": "2026-09-23T23:02:15+00:00",
-          "summary": "Eine schwache Nachfrage bei der Auktion von US-Staatsanleihen und zunehmende Sorgen um einen strafferen Zinskurs der Fed haben die Renditen auf neue Jahreshöchststände getrieben."
+          "published": "2026-09-24T01:31:50+00:00",
+          "summary": "Schwere Explosionen erschüttern Kiew bei nächtlichem Raketenbeschuss. Viele Bewohner müssen wegen des Luftalarms erneut Schutz suchen. Bürgermeister Klitschko berichtet von mehreren Opfern."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "SpaceX-Aktie im Visier: Dieser bekannte Kunde setzt auf Starfalls ersten kommerziellen Flug - Signal für Anleger?",
-          "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-im-visier-dieser-bekannte-kunde-setzt-auf-starfalls-ersten-kommerziellen-flug-signal-fuer-anleger-00-15944532",
-          "published": "2026-09-23T21:50:00+00:00",
-          "summary": "Space Cargo Unlimited ist erster europäischer Kunde von SpaceX Starfall • Flug auf der ersten kommerziellen Starship-Mission ist offenbar für 2028 geplant • Bis zu eine Tonne Nutzlast für Pharma und …"
+          "title": "NVIDIA-Chef beim Trump-Xi-Dinner: Chance oder Risiko für Aktienanleger?",
+          "link": "https://www.finanzen.net/nachricht/aktien/nvidia-chef-beim-trump-xi-dinner-chance-oder-risiko-fuer-aktienanleger-15949836",
+          "published": "2026-09-24T01:40:03+00:00",
+          "summary": "Am Donnerstag empfängt Donald Trump Chinas Präsidenten Xi Jinping mit einem Staatsbankett, zu dem offenbar auch NVIDIA-Chef Jensen Huang erwartet wird."
         },
         {
-          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
-          "published": "2026-09-23T21:42:00+00:00",
-          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
+          "title": "Neuer Chip-Boom? BofA sieht Rally bei KI-Aktien wie NVIDIA, AMD und Co.",
+          "link": "https://www.finanzen.net/nachricht/aktien/neuer-chip-boom-bofa-sieht-rally-bei-ki-aktien-wie-nvidia-amd-und-co-15949833",
+          "published": "2026-09-24T01:35:26+00:00",
+          "summary": "Bank of America schraubt ihre Wachstumsprognose für die US-Chipindustrie deutlich nach oben, was Anleger von NVIDIA, AMD und Co. aufhorchen lässt."
         },
         {
-          "title": "Ausblick: H&M stellt Zahlen zum jüngsten Quartal vor",
-          "link": "https://www.finanzen.net/nachricht/aktien/erwartungen-im-ueberblick-ausblick-h-m-stellt-zahlen-zum-juengsten-quartal-vor-15947870",
-          "published": "2026-09-23T21:18:00+00:00",
-          "summary": "Hennes Mauritz (H&M) wird am 24.09.2026 die Geschäftsergebnisse zum am 31.08.2026 abgelaufenen Quartal offenlegen. 17 Analysten prognostizieren im Schnitt einen Gewinn je Aktie von 2,20 SEK gegenüber …"
+          "title": "Tesla-Aktie nach enttäuschendem Cybercab-Debüt: Warum Anleger die Robotaxi-Story hinterfragen sollten",
+          "link": "https://www.finanzen.net/nachricht/aktien/behoerde-ermittelt-tesla-aktie-nach-enttaeuschendem-cybercab-debuet-warum-anleger-die-robotaxi-story-hinterfragen-sollten-00-15948072",
+          "published": "2026-09-24T01:19:41+00:00",
+          "summary": "Cybercab-Event ohne Musk lässt Anleger ratlos zurück Regulierer und Wettbewerber setzen Tesla unter Druck Analysten bleiben trotz hoher Investitionen zurückhaltend für Tesla-Aktie"
         },
         {
-          "title": "Kaufsignal oder Modellrechnung? Warum ein Analyst eine Kursverdopplung der Intel-Aktie für möglich hält",
-          "link": "https://www.finanzen.net/nachricht/aktien/foundry-geschaeft-im-fokus-kaufsignal-oder-modellrechnung-warum-ein-analyst-eine-kursverdopplung-der-intel-aktie-fuer-moeglich-haelt-00-15945904",
-          "published": "2026-09-23T21:00:00+00:00",
-          "summary": "Melius Research-Analyst Ben Reitzes stellt gewagte 200-US-Dollar-These auf Foundry-Geschäft und 14A-Fertigung als Werttreiber Expertenkonsens nach starkem Lauf vorsichtig Melius Research-Analyst ..."
+          "title": "KI-Aktien wie NVIDIA vor dem Crash? Warum Anleihe-König Jeffrey Gundlach die Reißleine zieht",
+          "link": "https://www.finanzen.net/nachricht/aktien/anleihekoenig-steigt-aus-ki-aktien-wie-nvidia-vor-dem-crash-warum-anleihe-koenig-jeffrey-gundlach-die-reissleine-zieht-00-15948249",
+          "published": "2026-09-24T01:13:43+00:00",
+          "summary": "Gundlach senkt seine empfohlene Aktienquote von 40 auf 30 Prozent Statt auf KI-Schwergewichte setzt er auf einen gleichgewichteten Index Beim Shiller-KGV über 42 erwartet er negative reale Renditen …"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-23T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "Studie deckt Messfehler bei Onchain-Daten auf: Was das für die Bewertung von Bitcoin bedeutet",
+          "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
+          "published": "2026-09-24T01:04:02+00:00",
+          "summary": "BIS-Forscher hinterfragen gängige Onchain-Kennzahlen bei Bitcoin Wechselgeld-Effekte und verlorene Coins verzerren gängige Berechnungen Auch Ethereum und Tron zeigen laut Studie ähnliche Messprobleme"
         }
       ],
       "error": null
