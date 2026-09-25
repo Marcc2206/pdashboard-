@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:11:30+00:00",
+  "generatedAt": "2026-09-25T08:09:25+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Nach AfD- und CDU-Antrag: Keine neuen Stolpersteine in Heidenau",
+          "link": "https://www.tagesschau.de/inland/regional/sachsen/afd-cdu-antrag-beschlossen,stolpersteine-heidenau-100.html",
+          "published": "2026-09-25T07:48:15+00:00",
+          "summary": "Im sächsischen Heidenau sollen künftig keine Stolpersteine mehr zur Erinnerung an Opfer des Nationalsozialismus verlegt werden. Der Stadtrat hat am Abend einen entsprechenden Antrag von AfD und CDU …"
+        },
+        {
           "title": "Berliner Linke entscheidet auf Parteitag über Sondierungen",
           "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
-          "published": "2026-09-25T05:58:46+00:00",
+          "published": "2026-09-25T07:46:12+00:00",
           "summary": "Als Wahlsieger muss die Berliner Linke nun entscheiden, mit wem sie über eine mögliche Koalition spricht. Die Parteispitze will Grüne und SPD zu Sondierungen einladen und ist überzeugt, dass die …"
         },
         {
-          "title": "Nations League: Jürgen Klopps Einstand mit Enthusiasmus, Fehlern und Remis in den Niederlanden",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-einstand-mit-enthusiasmus-fehlern-und-remis,spielbericht-nl-niederlande-deutschland-100.html",
-          "published": "2026-09-25T05:58:02+00:00",
-          "summary": "Bis in die Nachspielzeit sah es nach einem Einstand nach Maß für Jürgen Klopp aus. Doch dann trafen die Niederländer gegen ein enthusiastisches, aber fehlerhaftes DFB-Team doch noch zum 1:1-Ausgleich."
-        },
-        {
-          "title": "Marktbericht: Stoppt der DAX seine Verlustserie?",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-          "published": "2026-09-25T05:57:17+00:00",
-          "summary": "Dem deutschen Leitindex winkt ein versöhnlicher Wochenabschluss. Dafür könnten neue Konjunkturdaten sorgen. Doch der hohe Ölpreis bleibt eine Belastung und facht die Inflationsangst an."
-        },
-        {
-          "title": "11KM-Podcast: Warnungen vor Technologie - Bedroht KI die Menschheit?",
-          "link": "https://www.tagesschau.de/multimedia/podcast/11km/11km-ki-102.html",
-          "published": "2026-09-25T05:45:38+00:00",
-          "summary": "Künstliche Intelligenz hackt unkontrolliert Websites und KI-Forscher warnen sogar vor dem Ende der Menschheit. 11KM fragt: Alles Panikmache oder reale Gefahr?"
+          "title": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+          "published": "2026-09-25T07:27:57+00:00",
+          "summary": "Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt ausfällt und was noch …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655172.html",
-          "published": "2026-09-25T05:22:40+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655192.html",
+          "published": "2026-09-25T07:14:00+00:00",
           "summary": ""
+        },
+        {
+          "title": "DFB-Team: Spurenelemente vom Fußball von Jürgen Klopp",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/die-dfb-elf-und-spurenelemente-vom-klopp-fussball,analyse-niederlande-deutschland-klopp-100.html",
+          "published": "2026-09-25T07:10:34+00:00",
+          "summary": "Im ersten Spiel unter Jürgen Klopp hat die Nationalmannschaft gegen die Niederlande 1:1 gespielt. Dabei zeigte das DFB-Team bereits Ansätze vom Klopp-Fußball. Angesichts der kurzen Vorbereitungszeit …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Vermögen: Depot vererben – so machen Sie es Ihren Kindern einfach",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-wie-sie-ihr-depot-unkompliziert-an-ihre-kinder-vererben-koennen/100252853.html",
+          "published": "2026-09-25T08:02:00+00:00",
+          "summary": "Wer ein Depot vererben möchte, sollte einige Vorkehrungen treffen. Ansonsten kann es für die Erben nicht nur mühsam, sondern auch teuer werden."
+        },
+        {
+          "title": "Energie: Plus 28 Prozent: Heizen wird dieses Jahr für viele Haushalte deutlich teurer",
+          "link": "https://www.handelsblatt.com/unternehmen/energie/energie-wie-stark-steigen-die-heizkosten-fuer-haushalte-dieses-jahr/100253833.html",
+          "published": "2026-09-25T08:01:00+00:00",
+          "summary": "Eine bundesweite Analyse zeigt, wie sich die Kosten 2026 für die verschiedenen Heizarten entwickeln. Nur ein Wärmeträger wird günstiger."
+        },
+        {
+          "title": "Leistungsfähigkeit: Warum Firmen ihre Mitarbeiter ausschlafen lassen sollten",
+          "link": "https://www.handelsblatt.com/karriere/unternehmen-sollte-die-arbeitszeit-zum-rhythmus-der-inneren-uhr-passen/100231866.html",
+          "published": "2026-09-25T08:00:00+00:00",
+          "summary": "Die innere Uhr wirkt sich maßgeblich auf die Produktivität aus. Trotzdem arbeiten viele gegen ihren eigenen Rhythmus. Wie lässt sich das verhindern?"
+        },
+        {
           "title": "Bald im Livestream: Warum wir gerade über die falsche Krise sprechen",
           "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
-          "published": "2026-09-30T04:00:00+00:00",
+          "published": "2026-09-25T07:53:52+00:00",
           "summary": "Die richtigen Reformen statt Kompromisse aus politischer Not: Worauf es jetzt ankommt, darüber diskutieren die Wirtschaftsweise Monika Schnitzer und Handelsblatt-Chefredakteur Sebastian Matthes am …"
         },
         {
-          "title": "Handel: EU fordert von Großbritannien offenbar höhere Zölle auf chinesische Autos",
-          "link": "https://www.handelsblatt.com/politik/international/handel-eu-fordert-von-grossbritannien-offenbar-hoehere-zoelle-auf-chinesische-autos/100257344.html",
-          "published": "2026-09-25T06:00:55+00:00",
-          "summary": "Großbritannien soll einem Medienbericht zufolge strengere Regeln gegen chinesische Autoimporte einführen. Premier Andy Burnham warnte bereits vor Folgen für die britische Industrie."
-        },
-        {
-          "title": "Interview: „Früher oder später muss die abschlagsfreie Rente ohnehin abgeschafft werden“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/rentenkommission-die-abschlagsfreie-rente-muss-ohnehin-abgeschafft-werden-01/100257130.html",
-          "published": "2026-09-25T05:59:00+00:00",
-          "summary": "Die Rentenkommission möchte die abschlagsfreie Rente nach 45 Beitragsjahren streichen. Nur ein Vorschlag unter vielen und damit verzichtbar? Keineswegs, sagt Constanze Janda, die Co-Vorsitzende des …"
-        },
-        {
-          "title": "Pharma: „Enteignung der eigenen Firma“ – Eklat um das Erbe von Biontech",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-enteignung-der-eigenen-firma-eklat-um-das-erbe-von-biontech/100254498.html",
-          "published": "2026-09-25T05:45:00+00:00",
-          "summary": "Das Gründerpaar Şahin und Türeci will mit dem Unternehmen Arife neu starten, doch seine Trennung von Biontech sorgt für Ärger: Es geht um Patente, Geld und die Zukunft der Mitarbeiter."
-        },
-        {
-          "title": "+++ Bundespolitik +++: AfD baut im Bund Vorsprung auf CDU aus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-afd-baut-im-bund-vorsprung-auf-cdu-aus/100137034.html",
-          "published": "2026-09-25T05:43:21+00:00",
-          "summary": "Ökonomen kritisieren „unklare Wirtschaftspolitik“ +++ Kabinett beschließt Tankrabatt +++ Unions-Wirtschaftsflügel fordert Umsetzung der Reformen bis Winter +++ Der Newsblog."
+          "title": "Immobilien: Wann ist es sinnvoll, die Grundschuld löschen zu lassen?",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wann-ist-es-sinnvoll-die-grundschuld-loeschen-zu-lassen/100252489.html",
+          "published": "2026-09-25T07:50:00+00:00",
+          "summary": "Wenn Immobilienkäufer die Eigentumswohnung abbezahlt haben, lassen sie in der Regel auch sofort die Grundschuld löschen. Doch es kann sinnvoll sein, mit diesem Schritt zu warten."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Krisen drücken auf Kauflaune: Deutsche sind so sparsam wie seit der Finanzkrise nicht mehr",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-sind-so-sparsam-wie-seit-der-Finanzkrise-nicht-mehr-id31346783.html",
+          "published": "2026-09-25T07:48:28+00:00",
+          "summary": "Teure Energie, Kriege, Inflation: Die anhaltenden Krisen wirken sich deutlich auf das Konsumverhalten der Deutschen aus. Einer Studie zufolge ist die Sparneigung im September abermals gestiegen …"
+        },
+        {
+          "title": "Neues Grundsatzpapier: Industrie fordert mehr Selbstbewusstsein gegenüber Trump",
+          "link": "https://www.n-tv.de/wirtschaft/Industrie-fordert-mehr-Selbstbewusstsein-gegenueber-Trump-id31346712.html",
+          "published": "2026-09-25T06:57:41+00:00",
+          "summary": "Der Industriestandort Deutschland steht unter Druck: Lieferketten sind abhängig von China, US-Maßnahmen sorgen für Unsicherheit. Nun formuliert der Branchenverband BDI neue Prioritäten - und …"
+        },
         {
           "title": "Nahost-Konflikt drückt Stimmung: Wall Street tritt auf der Stelle",
           "link": "https://www.n-tv.de/wirtschaft/Wall-Street-tritt-auf-der-Stelle-id31345690.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Deutsche-EZB-Direktorin-Isabel-Schnabel-wechselt-zum-IWF-id31345156.html",
           "published": "2026-09-24T18:00:00+00:00",
           "summary": "Von der Europäischen Zentralbank zum Internationalen Währungsfonds: Die deutsche Top-Ökonomin Isabel Schnabel zieht es für eine neue Rolle nach Washington. Das dürfte Folgen für die Neubesetzung der …"
-        },
-        {
-          "title": "Doch kein Aus der \"Rente mit 63\"?: \"Bei einem Aufweichen wäre das Rentenpaket faktisch tot\"",
-          "link": "https://www.n-tv.de/wirtschaft/Bei-einem-Aufweichen-waere-das-Rentenpaket-faktisch-tot-id31344698.html",
-          "published": "2026-09-24T17:09:28+00:00",
-          "summary": "Schwarz-Rot diskutiert, die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren aufzuweichen. Topökonomen schlagen Alarm und sehen die gesamte Rentenreform in Gefahr."
-        },
-        {
-          "title": "\"Die Kilowattstunde wird teurer\": So bewertet ein Windradhersteller Reiches Energiegesetze",
-          "link": "https://www.n-tv.de/wirtschaft/EEG-Novelle-und-Netzpaket-So-bewertet-ein-Vestas-Manager-die-Energiegesetze-von-Katherina-Reiche-id31337768.html",
-          "published": "2026-09-24T13:14:33+00:00",
-          "summary": "Die deutsche Windkraft erlebt einen erstaunlichen Aufschwung. \"Es fließt viel Geld nach Deutschland\", sagt ein Windradhersteller im Interview. Doch ausgerechnet jetzt sorgen die Energiepläne von …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Sparen statt Shoppen: Verbraucher halten ihr Geld zusammen",
-          "link": "https://www.finanzen.net/nachricht/aktien/sparen-statt-shoppen-verbraucher-halten-ihr-geld-zusammen-15952317",
-          "published": "2026-09-25T06:08:38+00:00",
-          "summary": "NÜRNBERG (dpa-AFX) - Die Deutschen halten in Zeiten teurer Energie und einer unsicheren geopolitischen Lage ihr Geld zusammen: Das Konsumklima hat der neuesten Studie der Nürnberger Institute NIM und …"
+          "title": "AKTIE IM FOKUS 2: Hellofresh wieder auf Rekordtief - Umsatzpotenzial unsicher",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktie-im-fokus-2-hellofresh-wieder-auf-rekordtief-umsatzpotenzial-unsicher-15952570",
+          "published": "2026-09-25T08:01:39+00:00",
+          "summary": "(neu: Kurs, weitere Stimmen)FRANKFURT (dpa-AFX) - Die Aktien von HelloFresh sind am Freitag zweistellig abgesackt auf ein weiteres Rekordtief von 2,156 Euro. Damit waren sie das klare Schlusslicht im …"
         },
         {
-          "title": "EUREX/Bund-Future zieht etwas an",
-          "link": "https://www.finanzen.net/nachricht/anleihen/EUREX-Bund-Future-zieht-etwas-an-15952306",
-          "published": "2026-09-25T06:05:43+00:00",
-          "summary": "DOW JONES--Der aktuelle Kontrakt des Bund-Futures steigt am Freitagmorgen um 8.03 Uhr um 27 Ticks auf 119,90 Prozent. Das Tageshoch liegt bislang bei 119,91 Prozent und das Tagestief bei 119,62 …"
+          "title": "Alphabet-Aktie kaum verändert: Google-Chips fliegen testweise ins All",
+          "link": "https://www.finanzen.net/nachricht/aktien/nach-vibrationstests-alphabet-aktie-kaum-veraendert-google-chips-fliegen-testweise-ins-all-15952184",
+          "published": "2026-09-25T08:01:39+00:00",
+          "summary": "Der Internet-Konzern schickt vier seiner KI-Chips in die Umlaufbahn, um zu testen, wie gut sie das vertragen können. Probleme könnten dabei schon in der Startphase drohen, weil die Prozessoren …"
         },
         {
-          "title": "EUREX/Bund-Future zieht etwas an",
-          "link": "https://www.finanzen.net/nachricht/aktien/eurex-bund-future-zieht-etwas-an-15952305",
-          "published": "2026-09-25T06:05:43+00:00",
-          "summary": "DOW JONES--Der aktuelle Kontrakt des Bund-Futures steigt am Freitagmorgen um 8.03 Uhr um 27 Ticks auf 119,90 Prozent. Das Tageshoch liegt bislang bei 119,91 Prozent und das Tagestief bei 119,62 …"
+          "title": "SPI-Papier ams-OSRAM-Aktie: So viel Gewinn hätte ein Investment in ams-OSRAM von vor einem Jahr abgeworfen",
+          "link": "https://www.finanzen.net/nachricht/aktien/spi-papier-ams-osram-aktie-so-viel-gewinn-haette-ein-investment-in-ams-osram-von-vor-einem-jahr-abgeworfen-15952568",
+          "published": "2026-09-25T08:00:46+00:00",
+          "summary": "Heute vor 1 Jahr fand via Börse SWX Handel mit der ams-OSRAM -Aktie statt. Diesen Tag beendete die ams-OSRAM-Aktie bei 11,53 CHF. Bei einer 1.000-CHF-Investition vor 1 Jahr, wären Anleger nun im …"
         },
         {
-          "title": "EUREX/DAX-Future sehr fest",
-          "link": "https://www.finanzen.net/nachricht/aktien/eurex-dax-future-sehr-fest-15952304",
-          "published": "2026-09-25T06:05:42+00:00",
-          "summary": "DOW JONES--Der nächstfällige Kontrakt des DAX-Futures steigt am Freitagmorgen bis 8.02 Uhr um 188 auf 25.617 Punkte. Das Tageshoch liegt bislang bei 25.621 und das Tagestief bei 25.516 Punkten. …"
+          "title": "SPI-Wert MindMaze Therapeutics-Aktie: So viel Verlust hätte ein MindMaze Therapeutics-Investment von vor 10 Jahren eingefahren",
+          "link": "https://www.finanzen.net/nachricht/aktien/spi-wert-mindmaze-therapeutics-aktie-so-viel-verlust-haette-ein-mindmaze-therapeutics-investment-von-vor-10-jahren-eingefahren-15952567",
+          "published": "2026-09-25T08:00:46+00:00",
+          "summary": "Am 25.09.2016 wurde das MindMaze Therapeutics -Papier an der Börse SWX wochenend-bedingt nicht gehandelt. Am Handelstag zuvor standen die Anteile letztlich bei 12,00 CHF. Bei einem MindMaze …"
         },
         {
-          "title": "Valora-Aktie: Detailhändler plant bis zu 1000 neue Standorte in Deutschland",
-          "link": "https://www.finanzen.net/nachricht/aktien/valora-aktie-detailhaendler-plant-bis-zu-1000-neue-standorte-in-deutschland-15952310",
-          "published": "2026-09-25T06:05:00+00:00",
-          "summary": "Valora will sein Auslandsgeschäft deutlich ausbauen und sieht vor allem in Deutschland grosses Potenzial. Dort könnten mittelfristig bis zu 1000 weitere Standorte entstehen."
+          "title": "SPI-Wert Straumann-Aktie: So viel Gewinn hätte ein Straumann-Investment von vor 10 Jahren eingefahren",
+          "link": "https://www.finanzen.net/nachricht/aktien/spi-wert-straumann-aktie-so-viel-gewinn-haette-ein-straumann-investment-von-vor-10-jahren-eingefahren-15952566",
+          "published": "2026-09-25T08:00:46+00:00",
+          "summary": "Vor 10 Jahren wurde das Straumann -Aktie wochenend-bedingt nicht via Börse SWX gehandelt. Am Handelstag zuvor standen Straumann-Anteile letztlich bei 38,53 CHF. Anleger, die zu diesem Zeitpunkt 1.000 …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Berlin-Wahl: Diese Berliner Linke sollte niemals an die Macht kommen",
-          "link": "https://www.wiwo.de/politik/deutschland/berlin-wahl-diese-berliner-linke-sollte-niemals-an-die-macht-kommen/100257118.html",
-          "published": "2026-09-25T06:00:27+00:00",
-          "summary": "Wochenlang wurde vor der AfD gewarnt, das Unwesen am linken Rand wird zu oft verklärt. Die Berliner Wahl zeigt, wie die Mitte auch von linken Extremisten aufgerieben wird. Ein Kommentar."
+          "title": "KI-Lieferkette: Was der Arbeitskampf in Taiwans Chipindustrie für die KI-Welt bedeutet",
+          "link": "https://www.wiwo.de/unternehmen/it/tsmc-co.-was-der-chip-streik-in-taiwan-fuer-ki-bedeutet/100256210.html",
+          "published": "2026-09-25T07:56:28+00:00",
+          "summary": "Taiwans Vorzeigebranche steht vor einem Verteilungskonflikt: Beschäftigte wollen stärker am KI-Boom beteiligt werden – mit globalen Folgen?"
         },
         {
-          "title": "Satelliten-Internet Starlink: Finnland bittet Musk um Starlink-Freischaltung für Ukraine-Angriffe in Russland",
-          "link": "https://www.wiwo.de/politik/europa/satelliten-internet-starlink-finnland-bittet-musk-um-starlink-freischaltung-fuer-ukraine-angriffe-in-russland/100257342.html",
-          "published": "2026-09-25T05:47:02+00:00",
-          "summary": "Mit Starlink könnte die Ukraine russische Raketenabschussrampen angreifen. Finnlands Präsident Stubb richtet deshalb eine Bitte an Elon Musk."
+          "title": "Scale: Standortförderung sieht anders aus",
+          "link": "https://www.wiwo.de/finanzen/boerse/boerse-scale-segment-verliert-an-attraktivitaet-fuer-anleger/100256912.html",
+          "published": "2026-09-25T07:41:23+00:00",
+          "summary": "Das Börsensegment Scale soll ein Sprungbrett für junge Firmen sein. Nun droht es, zur Resterampe zu werden. Ein Kommentar."
         },
         {
-          "title": "Künstliche Intelligenz: Anthropic plant vor Börsengang wohl Stimmrechtsmehrheit für Gründer",
-          "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
-          "published": "2026-09-25T05:45:56+00:00",
-          "summary": "Der KI-Entwickler Anthropic strebt an die Börse – mit einer Aktienstruktur nach Palantir-Vorbild und Kontrolle der Gründer."
+          "title": "Spritpreise: Die fünf versteckten Schwächen des Tankstellen-Preisdeckels",
+          "link": "https://www.wiwo.de/politik/deutschland/spritpreisdeckel-und-tankrabatt-das-sind-fuenf-versteckte-schwaechen/100256222.html",
+          "published": "2026-09-25T07:32:00+00:00",
+          "summary": "Ab Januar will die Bundesregierung Spritpreise staatlich begrenzen. Der Wirtschaftsweise Gabriel Felbermayr nennt fünf Gründe, die gegen den Spritpreisdeckel sprechen."
         },
         {
-          "title": "Künstliche Intelligenz: OpenAI wohl vor Präsentation von neuem Cybersicherheitsmodell",
-          "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-openai-wohl-vor-praesentation-von-neuem-cybersicherheitsmodell/100257339.html",
-          "published": "2026-09-25T05:44:42+00:00",
-          "summary": "Der KI-Pionier plant offenbar ein neues Modell für Cybersicherheit und ein Sicherheitsprodukt für KI-Agenten. Warum OpenAI nun auf diese Sparte setzen will."
+          "title": "US-China-Gipfel: Trump empfängt Xi – viel Pomp und demonstrative Harmonie",
+          "link": "https://www.wiwo.de/politik/ausland/us-china-gipfel-donald-trump-empfaengt-xijinping/100257269.html",
+          "published": "2026-09-25T07:19:00+00:00",
+          "summary": "Bei Staatsbesuch von Chinas Präsident Xi in Washington betont US-Präsident Trump die Verbindung beider Länder – den vielen Streitthemen zum Trotz."
         },
         {
-          "title": "Immobilienmarkt: Der Wohnungsneubau braucht Planungssicherheit",
-          "link": "https://www.wiwo.de/finanzen/immobilien/immobilienmarkt-was-deutschland-beim-wohnungsneubau-vom-ausland-lernen-kann/100255606.html",
-          "published": "2026-09-25T05:10:18+00:00",
-          "summary": "Deutschland bleibt beim Wohnungsneubau hinter den Zielen zurück. Ein Blick ins Ausland zeigt, wie es besser gehen könnte. Ein Gastbeitrag."
+          "title": "Trumps Diesel-Exportstopp: Der absurde Umweg über Asien, der Ihren Diesel verteuert",
+          "link": "https://www.wiwo.de/unternehmen/energie/spritpreis-donald-trumps-drohendes-diesel-chaos-einmal-richtig-erklaert/100256888.html",
+          "published": "2026-09-25T07:00:00+00:00",
+          "summary": "Donald Trump erwägt einen Exportstopp für US‑Diesel. Warum Europa neue Preisschübe fürchten muss und wie Konzerne in Südkorea und Indien profitieren."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "„Machine-Native Economy“: Irre BlackRock-Analyse! Wird Künstliche Intelligenz bald Bitcoin kaufen?",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/machine-native-economy-irre-blackrock-analyse-wird-kunstliche-intelligenz-bald-bitcoin-kaufen/",
+          "published": "2026-09-25T07:14:11+00:00",
+          "summary": "BlackRock hält Kryptowährungen für das künftige Geld der Maschinen: KI-Agenten sollen damit Daten, Dienste und Rechenleistung bezahlen. Welche Coins davon profitieren könnten, haben ChatGPT, Gemini …"
+        },
         {
           "title": "Wasserstoff, Kerosin oder Erdgas: Forscher drucken Turbinendüse für fast jeden Brennstoff",
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoff-kerosin-oder-erdgas-forscher-drucken-turbinenduse-fur-fast-jeden-brennstoff/",
@@ -264,12 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/automation/humanoider-roboter-atlas-lernt-den-autobau-hyundai-plant-25-000-einheiten/",
           "published": "2026-09-24T10:30:00+00:00",
           "summary": "In einem neuen Trainingszentrum in Georgia lernt der humanoide Roboter Atlas die Arbeit am Band. Hyundai will 25.000 Exemplare in seine Werke bringen und eine eigene Roboterfabrik bauen."
-        },
-        {
-          "title": "Tesla Roadster mit Raketendüsen: Was Elon Musk am 1. Oktober zeigen will",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/tesla-roadster-mit-raketendusen-was-elon-musk-am-1-oktober-zeigen-will/",
-          "published": "2026-09-24T10:02:26+00:00",
-          "summary": "Neun Jahre nach der ersten Ankündigung will Tesla den neuen Roadster enthüllen. Eine Sonderversion soll mit Druckluftdüsen von SpaceX schneller beschleunigen, als Reifen es erlauben. Auf die Straße …"
         }
       ],
       "error": null
