@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T12:11:43+00:00",
+  "generatedAt": "2026-09-25T14:09:56+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81082.html",
-          "published": "2026-09-25T12:10:46+00:00",
-          "summary": ""
+          "title": "Proteste gegen Wehrpflicht - Tausende Schüler demonstrieren bundesweit",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/wehrpflicht-proteste-schueler-100.html",
+          "published": "2026-09-25T13:56:05+00:00",
+          "summary": "Das Gesetz über den neuen Wehrdienst ist Anfang des Jahres in Kraft getreten. Damit will die Regierung mehr junge Menschen für die Bundeswehr gewinnen. Nun gab es in vielen Städten Schüler-Proteste …"
         },
         {
-          "title": "Bundestag beschließt erneuten \"Tankrabatt\"- Bundesrat muss noch zustimmen",
+          "title": "Entlastung im Bundestag: So schnell soll der \"Tankrabatt\" kommen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+          "published": "2026-09-25T13:48:03+00:00",
+          "summary": "Mit einem neuen \"Tankrabatt\" will die Bundesregierung die Spritpreise möglichst schnell senken. Nach dem Bundestag stimmte auch der Bundesrat zu. Wie hoch der Rabatt ausfällt und was noch geplant ist."
+        },
+        {
+          "title": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris",
+          "link": "https://www.tagesschau.de/ausland/europa/papst-leo-reise-frankreich-100.html",
+          "published": "2026-09-25T13:34:08+00:00",
+          "summary": "Papst Leo XIV. ist zu seinem ersten Frankreich-Besuch in Paris eingetroffen. Beim Treffen mit Präsident Macron sprach er über Sterbehilfe und KI. In den kommenden Tagen werden Hunderttausende …"
+        },
+        {
+          "title": "Bundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu",
           "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
-          "published": "2026-09-25T12:07:44+00:00",
-          "summary": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Der Bundesrat soll noch heute zustimmen."
+          "published": "2026-09-25T13:30:47+00:00",
+          "summary": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu."
         },
         {
-          "title": "Teresa Peters, ARD Berlin, zum \"Tankrabatt\"",
-          "link": "https://www.tagesschau.de/video/video-1655334.html",
-          "published": "2026-09-25T12:05:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "VW, Audi, Seat müssen mehr als eine Million Autos zurückrufen",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-lenkungsausfall-100.html",
-          "published": "2026-09-25T11:55:15+00:00",
-          "summary": "Volkswagen, Audi und Seat müssen allein in Deutschland rund eine Million Autos in die Werkstätten zurückrufen. Grund dafür sind mögliche Probleme mit der Lenkung bei mehreren Modellen."
-        },
-        {
-          "title": "Marktbericht: Verbraucher halten ihr Geld zusammen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
-          "published": "2026-09-25T11:11:04+00:00",
-          "summary": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus."
+          "title": "Nach AfD- und CDU-Antrag: Keine neuen Stolpersteine in Heidenau",
+          "link": "https://www.tagesschau.de/inland/regional/sachsen/afd-cdu-antrag-beschlossen,stolpersteine-heidenau-100.html",
+          "published": "2026-09-25T13:26:44+00:00",
+          "summary": "Im sächsischen Heidenau sollen künftig keine Stolpersteine mehr zur Erinnerung an Opfer des Nationalsozialismus verlegt werden. Der Stadtrat hat am Abend einen entsprechenden Antrag von AfD und CDU …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Dax aktuell: Dax notiert im Plus – Ölpreise sinken wieder",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-oelpreise-sinken-weiter/100257343.html",
-          "published": "2026-09-25T12:09:45+00:00",
-          "summary": "Aussichten auf eine Lösung im Iran-Konflikt sorgen für Entspannung am Ölmarkt. Doch die Stimmung der deutschen Verbraucher trübt sich weiter ein."
+          "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen öffnen im Plus – Ölpreis fällt wieder",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-oeffnen-im-plus-oelpreis-faellt-wieder/100257444.html",
+          "published": "2026-09-25T13:58:56+00:00",
+          "summary": "Weiter steigende Anleiherenditen, neue Entwicklungen im Nahen Osten und neue Firmendeals bewegen am Freitag die Börse. In Washington endet derweil das Treffen zwischen Trump und Xi."
         },
         {
-          "title": "Chemie: BASF laut Bericht an Evonik-Übernahme interessiert – Aktien reagieren kräftig",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-laut-bericht-an-evonik-uebernahme-interessiert/100257452.html",
-          "published": "2026-09-25T12:02:08+00:00",
-          "summary": "In Deutschlands Chemieindustrie bahnt sich womöglich ein Milliarden-Zusammenschluss an. Marktführer BASF hat offenbar Evonik mit entsprechenden Plänen kontaktiert."
+          "title": "Zollpolitik: Neue 2-Euro-Gebühr gegen Paketflut für Importe in die EU",
+          "link": "https://www.handelsblatt.com/politik/international/zollpolitik-neue-2-euro-gebuehr-gegen-paketflut-fuer-importe-in-die-eu/100257491.html",
+          "published": "2026-09-25T13:49:57+00:00",
+          "summary": "Milliarden günstige Produkte aus China kommen in der EU an – seit Juli nicht mehr zollfrei. Ab November soll die Einfuhr noch teurer werden."
         },
         {
-          "title": "Technik: Neuer Rekord: Die mit Abstand genaueste Uhr der Welt",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/technik-neuer-rekord-die-mit-abstand-genaueste-uhr-der-welt/100257456.html",
-          "published": "2026-09-25T11:55:52+00:00",
-          "summary": "Forscher stellen eine Atomuhr vor, deren Präzision den bisherigen Rekord weit übertrifft: Über 55 Milliarden Jahren würde sie nur um eine Sekunde falsch gehen. Das eröffnet neuartige Anwendungen."
+          "title": "Neues Gesetz: Abschiebehaft und KI – Bundespolizei bekommt neue Befugnisse",
+          "link": "https://www.handelsblatt.com/politik/deutschland/neues-gesetz-abschiebehaft-und-ki-bundespolizei-bekommt-neue-befugnisse/100257489.html",
+          "published": "2026-09-25T13:41:37+00:00",
+          "summary": "Im Juli gab es eine Panne bei der Abstimmung, jetzt steht die Kanzlermehrheit im Bundestag: Die Bundespolizei soll neue Befugnisse bekommen. Und diesmal stimmt auch der Bundesrat zu."
         },
         {
-          "title": "Spritpreise: Bundestag beschließt erneuten Tankrabatt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-bundestag-beschliesst-erneuten-tankrabatt/100257453.html",
-          "published": "2026-09-25T11:52:32+00:00",
-          "summary": "Um die stark gestiegenen Preise an den Zapfsäulen zu drücken, soll wieder eine Steuersenkung kommen. Die vorletzte Hürde dafür ist jetzt genommen."
+          "title": "Chemie: BASF arbeitet an Übernahme von Evonik – Aktien reagieren kräftig",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-arbeitet-an-uebernahme-von-evonik/100257452.html",
+          "published": "2026-09-25T13:30:10+00:00",
+          "summary": "In Deutschlands Chemieindustrie bahnt sich ein Milliarden-Zusammenschluss an: BASF prüft den Kauf von Evonik. Die Essener bestätigen Informationen des Handelsblattes über eine Kontaktaufnahme."
         },
         {
-          "title": "Felix Pakleppa: „Neubauförderung ist keine Ausgabe, sondern eine Investition“",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/felix-pakleppa-neubaufoerderung-ist-keine-ausgabe-sondern-eine-investition/100253789.html",
-          "published": "2026-09-25T11:43:49+00:00",
-          "summary": "Der Hauptgeschäftsführer des ZDB erklärt, warum von einer verlässlichen und stärkeren Subventionierung des Wohnungsbaus auch die Staatsfinanzen profitieren können."
+          "title": "Bundestag und Bundesrat: Neue Befugnisse für Bundespolizei - auch für Abschiebehaft",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-und-bundesrat-neue-befugnisse-fuer-bundespolizei-auch-fuer-abschiebehaft/100257487.html",
+          "published": "2026-09-25T13:25:45+00:00",
+          "summary": "Im Juli gab es eine Panne bei der Abstimmung, jetzt steht die Kanzlermehrheit im Bundestag: Die Bundespolizei soll neue Befugnisse bekommen. Und diesmal stimmt auch der Bundesrat zu."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Wie \"ansteckende Krankheit\": Beim Tankrabatt sind sich die zerstrittenen Ökonomen einig",
+          "link": "https://www.n-tv.de/wirtschaft/Beim-Tankrabatt-sind-sich-die-zerstrittenen-Oekonomen-einig-id31348269.html",
+          "published": "2026-09-25T13:53:56+00:00",
+          "summary": "Wenn sie Entscheidungen treffen, müssen Politiker häufig zwischen den Argumenten von Fachleuten mit ganz unterschiedlicher Meinungen abwägen. Das gilt besonders für die Wirtschaftspolitik. Beim …"
+        },
+        {
+          "title": "Banker und Staatssekretär: Nimmermann wird erster Grüner im Bundesbank-Vorstand",
+          "link": "https://www.n-tv.de/wirtschaft/Nimmermann-wird-erster-Gruener-im-Bundesbank-Vorstand-id31348826.html",
+          "published": "2026-09-25T13:17:46+00:00",
+          "summary": "In gewisser Weise schließt sich für Philipp Nimmermann ein Kreis. Seine berufliche Laufbahn beginnt bei einer Bank und nach zahlreichen Stationen als politischer Beamter führt ihn sein Weg nun zur …"
+        },
+        {
+          "title": "Ab Oktober bis Jahresende: Tankrabatt kommt erneut - bis zu 17 Cent Entlastung",
+          "link": "https://www.n-tv.de/wirtschaft/Tankrabatt-kommt-erneut-bis-zu-17-Cent-Entlastung-id31348338.html",
+          "published": "2026-09-25T13:10:00+00:00",
+          "summary": "Der Bundestag und Bundesrat bringen Entlastungen von Verbrauchern und Unternehmen angesichts hoher Spritpreise auf den Weg. Der beschlossene Tankrabatt soll bis Ende des Jahres gelten. Bund und …"
+        },
+        {
+          "title": "Börsenkurse im Aufwind : BASF arbeitet an Übernahme seines Rivalen Evonik",
+          "link": "https://www.n-tv.de/wirtschaft/BASF-arbeitet-an-Uebernahme-seines-Rivalen-Evonik-id31348521.html",
+          "published": "2026-09-25T12:51:00+00:00",
+          "summary": "Chemiekonzern BASF will Evonik übernehmen. Die Ludwigshafener wollen damit ihr Portfolio vertiefen. Die Nachricht schiebt die Evonik-Aktie kräftig an."
+        },
+        {
           "title": "Investor Attestor übernimmt ganz: Bund und Land Hessen steigen bei Condor aus",
           "link": "https://www.n-tv.de/wirtschaft/Bund-und-Land-Hessen-steigen-bei-Condor-aus-id31348423.html",
           "published": "2026-09-25T12:04:32+00:00",
           "summary": "Die Fluggesellschaft Condor liegt bald vollständig in britischer Hand: Der Finanzinvestor Attestor übernimmt alle Staatsanteile, die bislang der Bund und das Land Hessen halten. Ein Stichtag für die …"
-        },
-        {
-          "title": "17 Cent Rabatt je Liter: Bundestag gibt grünes Licht für neuen Tankrabatt",
-          "link": "https://www.n-tv.de/wirtschaft/Bundestag-gibt-gruenes-Licht-fuer-neuen-Tankrabatt-id31348338.html",
-          "published": "2026-09-25T11:33:15+00:00",
-          "summary": "Der Bundestag bringt Entlastungen von Verbrauchern und Unternehmen angesichts hoher Spritpreise auf den Weg. Der beschlossene Tankrabatt soll bis Ende des Jahres gelten. Bund und Länder verzichten …"
-        },
-        {
-          "title": "Etliche Modelle betroffen: VW und Audi müssen fast eine Million Fahrzeuge zurückrufen",
-          "link": "https://www.n-tv.de/wirtschaft/VW-und-Audi-muessen-fast-eine-Million-Fahrzeuge-zurueckrufen-id31347337.html",
-          "published": "2026-09-25T08:56:38+00:00",
-          "summary": "Hunderttausenden Fahrzeugen von Volkswagen in Deutschland droht ein Ausfall der Lenkung aufgrund eines Schraubenabrisses. Davon betroffen sind etliche Modelle von verschiedenen Marken des großen …"
-        },
-        {
-          "title": "Ergebnisse stützen Linken-Pläne: Vergesellschaftung Berliner Wohnungen wäre laut Studie finanzierbar",
-          "link": "https://www.n-tv.de/wirtschaft/Vergesellschaftung-Berliner-Wohnungen-waere-laut-Studie-finanzierbar-id31347066.html",
-          "published": "2026-09-25T08:37:49+00:00",
-          "summary": "Die Berliner Linke will große Wohnungsunternehmen vergesellschaften, um Wohnraum in der Hauptstadt bezahlbarer zu machen. Ökonomen kommen zu dem Ergebnis: Die Maßnahme könne dafür sinnvoll sein. Ein …"
-        },
-        {
-          "title": "Krisen drücken auf Kauflaune: Deutsche sind so sparsam wie seit der Finanzkrise nicht mehr",
-          "link": "https://www.n-tv.de/wirtschaft/Deutsche-sind-so-sparsam-wie-seit-der-Finanzkrise-nicht-mehr-id31346783.html",
-          "published": "2026-09-25T07:48:28+00:00",
-          "summary": "Teure Energie, Kriege, Inflation: Die anhaltenden Krisen wirken sich deutlich auf das Konsumverhalten der Deutschen aus. Einer Studie zufolge ist die Sparneigung im September abermals gestiegen …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "GNW-News: Alaska Airlines, Philips und Verizon Connect gehören zu den Finalisten der \"Contentstack Experience Awards 2026\"",
-          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-alaska-airlines-philips-und-verizon-connect-gehoeren-zu-den-finalisten-der-contentstack-experience-awards-2026-15952910",
-          "published": "2026-09-25T11:58:38+00:00",
-          "summary": "^Wichtige Fakten* Mit den?Contentstack Experience Awards\" (CXAs) 2026 werden herausragende digitale Leistungen von Contentstack-Kunden und -Partnern gewürdigt.* Zehn Finalisten, darunter Alaska …"
+          "title": "Aktien New York: Freundlich - Wieder mehr Hoffnung auf Nahost-Lösung",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-new-york-freundlich-wieder-mehr-hoffnung-auf-nahost-loesung-15953274",
+          "published": "2026-09-25T14:01:40+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Die US-Aktienmärkte haben am Freitag dank wieder zunehmender Hoffnungen auf eine Lösung des Nahost-Konflikts moderat zugelegt. Der Dow Jones Industrial stieg im frühen Handel um …"
         },
         {
-          "title": "ROUNDUP 2: Investor Attestor übernimmt Condor ganz - Staat steigt aus",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-investor-attestor-uebernimmt-condor-ganz-staat-steigt-aus-15952905",
-          "published": "2026-09-25T11:54:39+00:00",
-          "summary": "(Aktualisierung: weitere Details)FRANKFURT (dpa-AFX) - Bei der zweitgrößten deutschen Fluggesellschaft Condor ziehen sich der Bund und das Land Hessen zurück. Der britische Mehrheitseigner Attestor …"
+          "title": "Börse Stuttgart: Trump und Xi verlängern Zollpause",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-stuttgart-trump-und-xi-verlaengern-zollpause-15953273",
+          "published": "2026-09-25T14:01:39+00:00",
+          "summary": "Täglicher Marktbericht Börse Stuttgart 25.09.2026, 12:45 Uhr | Verfasser: Steffen HeizerederDie USA und China haben am Donnerstag am Rande des dreitägigen Staatsbesuchs von Chinas Präsident Xi …"
         },
         {
-          "title": "Costco spielt in einer eigenen Liga! Selbst der schwache Konsument kann den Wachstumsmotor kaum bremsen!",
-          "link": "https://www.finanzen.net/nachricht/aktien/Costco-spielt-in-einer-eigenen-Liga-Selbst-der-schwache-Konsument-kann-den-Wachstumsmotor-kaum-bremsen-15952903",
-          "published": "2026-09-25T11:53:43+00:00",
-          "summary": "Costco (COST) liefert für mich gerade den Beweis, warum das Geschäftsmodell zu den stärksten im Einzelhandel gehört."
+          "title": "Börse Stuttgart: thyssenkrupp vor nächster Abspaltung",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-stuttgart-thyssenkrupp-vor-naechster-abspaltung-15953272",
+          "published": "2026-09-25T14:01:39+00:00",
+          "summary": "EUWAX Trends 25.09.2026, 15:00 Uhr | Verfasser: Steffen HeizerederSolana testet Upgrade für Echtzeit-Überweisungen Die Kryptowährung Solana hat in der vergangenen Woche mit einem Kurs von rund 120 …"
         },
         {
-          "title": "DHL Group (ex Deutsche Post)-Aktie: JP Morgan Chase & Co. gibt Overweight-Bewertung bekannt",
-          "link": "https://www.finanzen.net/nachricht/aktien/dhl-group-ex-deutsche-post-aktie-jp-morgan-chase-co-gibt-overweight-bewertung-bekannt-15952897",
-          "published": "2026-09-25T11:52:42+00:00",
-          "summary": "Die US-Bank JPMorgan hat die Einstufung für DHL Group nach einer Investorenveranstaltung mit einem Kursziel von 65 Euro auf \"Overweight\" belassen. Alexia Dogani zieht in einer am Freitag vorliegenden …"
+          "title": "S&P 500-Titel Sandisk-Aktie: So viel Gewinn hätte ein Investment in Sandisk von vor einem Jahr eingebracht",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-titel-sandisk-aktie-so-viel-gewinn-haette-ein-investment-in-sandisk-von-vor-einem-jahr-eingebracht-15953271",
+          "published": "2026-09-25T14:00:48+00:00",
+          "summary": "Vor 1 Jahr wurden Sandisk -Anteile via Börse NAS gehandelt. Zum Handelsende stand das Papier an diesem Tag bei 94,29 USD. Wenn ein Anleger damals 100 USD in die Sandisk-Aktie investiert hätte, wäre …"
         },
         {
-          "title": "Evonik-Aktie hebt ab: Bericht über BASF-Interesse beflügelt Aktie",
-          "link": "https://www.finanzen.net/nachricht/aktien/medienbericht-evonik-aktie-hebt-ab-bericht-ueber-basf-interesse-befluegelt-aktie-15952872",
-          "published": "2026-09-25T11:50:38+00:00",
-          "summary": "Die Ludwigshafener seien hinsichtlich einer Übernahme auf die Essener und die RAG-Stiftung als ihren Großaktionär zugegangen, schrieb die Wirtschaftszeitung \"Financial Times\" (\"FT\") am Freitag unter …"
+          "title": "S&P 500-Wert Coherent-Aktie: So viel Gewinn hätte ein Investment in Coherent von vor 3 Jahren abgeworfen",
+          "link": "https://www.finanzen.net/nachricht/aktien/s-p-500-wert-coherent-aktie-so-viel-gewinn-haette-ein-investment-in-coherent-von-vor-3-jahren-abgeworfen-15953270",
+          "published": "2026-09-25T14:00:48+00:00",
+          "summary": "Heute vor 3 Jahren fand an der Börse NYSE Handel mit der Coherent -Aktie statt. Diesen Handelstag beendete die Coherent-Aktie bei 32,18 USD. Bei einem Investment von 10.000 USD in Coherent-Papiere …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Spritpreise: Bundestag gibt grünes Licht für Tankrabatt",
+          "link": "https://www.wiwo.de/politik/deutschland/spritpreise-tankrabatt-bekommt-gruenes-licht-vom-bundestag/100257450.html",
+          "published": "2026-09-25T13:00:00+00:00",
+          "summary": "17 Cent weniger je Liter: Der Tankrabatt soll Autofahrer und Betriebe entlasten. Doch wie viel genau davon bei den Verbrauchern ankommt, ist offen."
+        },
+        {
+          "title": "Chemiekonzerne: BASF arbeitet offenbar an Übernahme von Evonik",
+          "link": "https://www.wiwo.de/unternehmen/industrie/chemiekonzerne-basf-arbeitet-offenbar-an-uebernahme-von-evonik/100257469.html",
+          "published": "2026-09-25T12:54:46+00:00",
+          "summary": "Der Chemieriese BASF hat den Konkurrenten Evonik ins Visier genommen. Das berichten mehrere Medien. In der Folge reagieren die Aktien der Unternehmen stark."
+        },
+        {
+          "title": "Riedls Dax-Radar: Alte und neue Dax-Favoriten in Zeiten steigender Zinsen",
+          "link": "https://www.wiwo.de/finanzen/boerse/dax-radar-alte-und-neue-dax-favoriten-in-zeiten-steigender-zinsen/100257423.html",
+          "published": "2026-09-25T12:51:19+00:00",
+          "summary": "Hohe Renditen und wacklige Bonds sind derzeit die größten Risiken für Aktien. Dennoch notieren die Börsen auf Rekordniveau – und könnten noch weiter steigen. Eine Kolumne."
+        },
+        {
+          "title": "Streit um Autozölle: Neue Zölle braucht das Land",
+          "link": "https://www.wiwo.de/unternehmen/auto/zoelle-fuer-autos-wie-china-von-dem-streit-in-europa-profitiert/100257439.html",
+          "published": "2026-09-25T12:22:02+00:00",
+          "summary": "EU und Großbritannien streiten um Autozölle und Autobatterien – wahrscheinlich sehr zur Freude von China, das währenddessen die hiesige Autoindustrie plattmacht. Ein Kommentar."
+        },
+        {
           "title": "Deutsche Konjunktur: Ist dieser Tankrabatt sinnvoll, Frau Schnitzer?",
           "link": "https://www.wiwo.de/politik/konjunktur/neuer-tankrabatt-warum-monika-schnitzer-vor-hilfen-warnt/100249127.html",
           "published": "2026-09-25T11:51:45+00:00",
           "summary": "Der Bundestag hat einen neuen Tankrabatt beschlossen. Warum Wirtschaftsweise Monika Schnitzer die Maßnahme für falsch hält. Und vor fatalen Folgen für den Haushalt warnt."
-        },
-        {
-          "title": "Spritpreise: Bundestag gibt grünes Licht für Tankrabatt",
-          "link": "https://www.wiwo.de/politik/deutschland/spritpreise-tankrabatt-bekommt-gruenes-licht-vom-bundestag/100257450.html",
-          "published": "2026-09-25T11:44:57+00:00",
-          "summary": "17 Cent weniger je Liter: Der Tankrabatt soll Autofahrer und Betriebe entlasten. Doch wie viel genau davon bei den Verbrauchern ankommt, ist offen."
-        },
-        {
-          "title": "Spritpreisdeckel: „Wenn der Staat Kraftstoffe subventioniert, zahlen dafür alle Steuerzahler“",
-          "link": "https://www.wiwo.de/politik/konjunktur/tankrabatt-und-spritpreisdeckel-warum-dieser-experte-nichts-davon-haelt/100256291.html",
-          "published": "2026-09-25T11:42:00+00:00",
-          "summary": "Der Bundestag hat einen erneuten Tankrabatt wegen der hohen Spritpreise beschlossen. ZEW-Präsident Achim Wambach hält einen Spritpreisdeckel für kontraproduktiv."
-        },
-        {
-          "title": "Credit Suisse: UBS einigt sich in Greensill-Milliardenklage mit Versicherer IAG",
-          "link": "https://www.wiwo.de/unternehmen/banken/credit-suisse-ubs-einigt-sich-in-greensill-milliardenklage-mit-versicherer-iag/100257436.html",
-          "published": "2026-09-25T11:08:14+00:00",
-          "summary": "Im Greensill-Debakel erzielt die UBS einen vertraulichen Vergleich mit der IAG. Für die Bank könnte das im dritten Quartal finanziell spürbar werden."
-        },
-        {
-          "title": "IMK-Studie: Vergesellschaftung von Wohnungen in Berlin finanzierbar",
-          "link": "https://www.wiwo.de/politik/deutschland/linke-in-berlin-imk-studie-belegt-vergesellschaftung-von-wohnungen/100257434.html",
-          "published": "2026-09-25T11:06:27+00:00",
-          "summary": "Die Wohnungspläne der Linken in Berlin werden heftig kritisiert. Ökonomen erklären nun: Eine Vergesellschaftung kann funktionieren – unter bestimmten Voraussetzungen."
         }
       ],
       "error": null
@@ -241,6 +241,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Kiel schafft Windows ab: So läuft der Umstieg auf Open Source in der Verwaltung",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/kiel-schafft-windows-ab-so-laeuft-der-umstieg-auf-open-source-in-der-verwaltung/",
+          "published": "2026-09-25T12:46:18+00:00",
+          "summary": "Die Kieler Staatskanzlei arbeitet seit dem 19. September mit Linux, E-Mail und Bürosoftware liefen schon vorher ohne Microsoft. Schleswig-Holstein zeigt, was beim Wechsel auf Open Source funktioniert …"
+        },
         {
           "title": "Lenkung kann ausfallen: VW ruft weltweit über 2 Mio. Autos zurück",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/lenkung-kann-ausfallen-vw-ruft-weltweit-uber-2-mio-autos-zuruck/",
@@ -257,19 +263,13 @@
           "title": "Re-skilling für Ingenieure: Der Branchenwechsel beginnt selten bei null",
           "link": "https://www.ingenieur.de/karriere/bildung/re-skilling-fur-ingenieure-warum-der-branchenwechsel-selten-bei-null-beginnt/",
           "published": "2026-09-25T09:30:00+00:00",
-          "summary": "Neue Branche, neues Fachgebiet, aber die Erfahrung bleibt: Rolls-Royce hat 100 Maschinenbauer zu Elektrotechnikern qualifiziert, ein Automotive-Manager übernahm einen Mittelständler. Beim …"
+          "summary": "Neue Branche, neues Fachgebiet, aber die Erfahrung bleibt: Rolls-Royce hat 100 Maschinenbauer zu Elektrotechnikern qualifiziert, ein Automotive-Manager übernahm einen Mittelständler. Beim VDI …"
         },
         {
           "title": "7000 heute, eine Milliarde 2036? Wo humanoide Roboter wirklich stehen",
           "link": "https://www.ingenieur.de/technik/fachbereiche/automation/7000-verkauft-eine-milliarde-bis-2036-versprochen-wo-humanoide-roboter-heute-stehen/",
           "published": "2026-09-25T09:01:00+00:00",
           "summary": "Humanoide Roboter bewegen sich heute menschenähnlich. Ob sie aber industrietauglich sind, müssen sie noch beweisen, etwa am neuen Humanoid Robots Experience Lab des Fraunhofer-Instituts in Lemgo."
-        },
-        {
-          "title": "„Machine-Native Economy“: Irre BlackRock-Analyse! Wird Künstliche Intelligenz bald Bitcoin kaufen?",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/machine-native-economy-irre-blackrock-analyse-wird-kunstliche-intelligenz-bald-bitcoin-kaufen/",
-          "published": "2026-09-25T07:14:11+00:00",
-          "summary": "BlackRock hält Kryptowährungen für das künftige Geld der Maschinen: KI-Agenten sollen damit Daten, Dienste und Rechenleistung bezahlen. Welche Coins davon profitieren könnten, haben ChatGPT, Gemini …"
         }
       ],
       "error": null
