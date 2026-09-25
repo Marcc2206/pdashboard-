@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T04:09:11+00:00",
+  "generatedAt": "2026-09-25T06:11:30+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Berliner Linke entscheidet auf Parteitag über Sondierungen",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
+          "published": "2026-09-25T05:58:46+00:00",
+          "summary": "Als Wahlsieger muss die Berliner Linke nun entscheiden, mit wem sie über eine mögliche Koalition spricht. Die Parteispitze will Grüne und SPD zu Sondierungen einladen und ist überzeugt, dass die …"
+        },
+        {
+          "title": "Nations League: Jürgen Klopps Einstand mit Enthusiasmus, Fehlern und Remis in den Niederlanden",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-einstand-mit-enthusiasmus-fehlern-und-remis,spielbericht-nl-niederlande-deutschland-100.html",
+          "published": "2026-09-25T05:58:02+00:00",
+          "summary": "Bis in die Nachspielzeit sah es nach einem Einstand nach Maß für Jürgen Klopp aus. Doch dann trafen die Niederländer gegen ein enthusiastisches, aber fehlerhaftes DFB-Team doch noch zum 1:1-Ausgleich."
+        },
+        {
+          "title": "Marktbericht: Stoppt der DAX seine Verlustserie?",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
+          "published": "2026-09-25T05:57:17+00:00",
+          "summary": "Dem deutschen Leitindex winkt ein versöhnlicher Wochenabschluss. Dafür könnten neue Konjunkturdaten sorgen. Doch der hohe Ölpreis bleibt eine Belastung und facht die Inflationsangst an."
+        },
+        {
+          "title": "11KM-Podcast: Warnungen vor Technologie - Bedroht KI die Menschheit?",
+          "link": "https://www.tagesschau.de/multimedia/podcast/11km/11km-ki-102.html",
+          "published": "2026-09-25T05:45:38+00:00",
+          "summary": "Künstliche Intelligenz hackt unkontrolliert Websites und KI-Forscher warnen sogar vor dem Ende der Menschheit. 11KM fragt: Alles Panikmache oder reale Gefahr?"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655160.html",
-          "published": "2026-09-25T04:07:39+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655172.html",
+          "published": "2026-09-25T05:22:40+00:00",
           "summary": ""
-        },
-        {
-          "title": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
-          "link": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
-          "published": "2026-09-25T03:44:09+00:00",
-          "summary": "Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht …"
-        },
-        {
-          "title": "Manipulationsskandal an der türkischen Börse",
-          "link": "https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html",
-          "published": "2026-09-25T03:22:52+00:00",
-          "summary": "Die türkische Börse wird von einem Manipulationsskandal erschüttert. Mehrere Investmentfirmen sollen einzelne Aktienkurse künstlich in die Höhe getrieben haben. Hunderttausende Anleger könnten …"
-        },
-        {
-          "title": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
-          "link": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
-          "published": "2026-09-25T03:22:44+00:00",
-          "summary": "Der KI die Hausaufgaben überlassen: Die Möglichkeiten künstlicher Intelligenz sind für Schüler verführerisch. Singapur hat deshalb eigene KI-Tools für den Unterricht entwickelt - von denen auch …"
-        },
-        {
-          "title": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
-          "published": "2026-09-25T03:22:34+00:00",
-          "summary": "Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt ausfällt und was noch …"
         }
       ],
       "error": null
@@ -53,28 +53,28 @@
           "summary": "Die richtigen Reformen statt Kompromisse aus politischer Not: Worauf es jetzt ankommt, darüber diskutieren die Wirtschaftsweise Monika Schnitzer und Handelsblatt-Chefredakteur Sebastian Matthes am …"
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Finnland bittet Musk um Starlink für Angriffe in Russland",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-25T04:00:00+00:00",
-          "summary": "Baltenstaaten verhängen eigene Sanktionen gegen russische Milliardäre +++ Bundesregierung: „Keine Normalität im Umgang mit Russland“ +++ Der Newsblog."
+          "title": "Handel: EU fordert von Großbritannien offenbar höhere Zölle auf chinesische Autos",
+          "link": "https://www.handelsblatt.com/politik/international/handel-eu-fordert-von-grossbritannien-offenbar-hoehere-zoelle-auf-chinesische-autos/100257344.html",
+          "published": "2026-09-25T06:00:55+00:00",
+          "summary": "Großbritannien soll einem Medienbericht zufolge strengere Regeln gegen chinesische Autoimporte einführen. Premier Andy Burnham warnte bereits vor Folgen für die britische Industrie."
         },
         {
-          "title": "Morning Briefing: Drei Gründe, warum der Ausverkauf am Anleihemarkt weitergeht",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-drei-gruende-warum-der-ausverkauf-am-anleihemarkt-weitergeht/100257287.html",
-          "published": "2026-09-25T03:59:12+00:00",
-          "summary": "Ölpreis? Steigt. Inflation? Steigt. Lieferengpässe? Wachsen. Das alles führt dazu, dass die Sorge an den Anleihemärkten immer weiter wächst. Was dort nun droht."
+          "title": "Interview: „Früher oder später muss die abschlagsfreie Rente ohnehin abgeschafft werden“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rentenkommission-die-abschlagsfreie-rente-muss-ohnehin-abgeschafft-werden-01/100257130.html",
+          "published": "2026-09-25T05:59:00+00:00",
+          "summary": "Die Rentenkommission möchte die abschlagsfreie Rente nach 45 Beitragsjahren streichen. Nur ein Vorschlag unter vielen und damit verzichtbar? Keineswegs, sagt Constanze Janda, die Co-Vorsitzende des …"
         },
         {
-          "title": "+++ Iran-Krieg +++: Konfrontiert mit Protest – Netanjahu verteidigt Kriege bei UN",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-konfrontiert-mit-protest-netanjahu-verteidigt-kriege-bei-un/100136895.html",
-          "published": "2026-09-25T03:54:00+00:00",
-          "summary": "Etliche UN-Delegierte verlassen bei Netanjahu-Rede den Saal +++ EU-Ratschef fordert von Iran Kooperation mit Atombehörde +++ Der Newsblog."
+          "title": "Pharma: „Enteignung der eigenen Firma“ – Eklat um das Erbe von Biontech",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-enteignung-der-eigenen-firma-eklat-um-das-erbe-von-biontech/100254498.html",
+          "published": "2026-09-25T05:45:00+00:00",
+          "summary": "Das Gründerpaar Şahin und Türeci will mit dem Unternehmen Arife neu starten, doch seine Trennung von Biontech sorgt für Ärger: Es geht um Patente, Geld und die Zukunft der Mitarbeiter."
         },
         {
-          "title": "Nikkei, Yen, Hang Seng: Asiens Börsen trotzen globalem Anleihe-Ausverkauf – Nikkei im Plus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asiens-boersen-trotzen-globalem-anleihe-ausverkauf-nikkei-im-plus/100257321.html",
-          "published": "2026-09-25T03:38:37+00:00",
-          "summary": "Steigende Staatsanleiherenditen schüren Sorgen vor höheren Kreditkosten. Trumps Kritik am schwachen Yen bewegt zugleich die Devisenmärkte."
+          "title": "+++ Bundespolitik +++: AfD baut im Bund Vorsprung auf CDU aus",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-afd-baut-im-bund-vorsprung-auf-cdu-aus/100137034.html",
+          "published": "2026-09-25T05:43:21+00:00",
+          "summary": "Ökonomen kritisieren „unklare Wirtschaftspolitik“ +++ Kabinett beschließt Tankrabatt +++ Unions-Wirtschaftsflügel fordert Umsetzung der Reformen bis Winter +++ Der Newsblog."
         }
       ],
       "error": null
@@ -110,7 +110,7 @@
           "summary": "Schwarz-Rot diskutiert, die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren aufzuweichen. Topökonomen schlagen Alarm und sehen die gesamte Rentenreform in Gefahr."
         },
         {
-          "title": "\"Die Kilowattstunde wird teurer\": Windradhersteller hält Reiches Energiegesetze für \"bestenfalls tollpatschig\"",
+          "title": "\"Die Kilowattstunde wird teurer\": So bewertet ein Windradhersteller Reiches Energiegesetze",
           "link": "https://www.n-tv.de/wirtschaft/EEG-Novelle-und-Netzpaket-So-bewertet-ein-Vestas-Manager-die-Energiegesetze-von-Katherina-Reiche-id31337768.html",
           "published": "2026-09-24T13:14:33+00:00",
           "summary": "Die deutsche Windkraft erlebt einen erstaunlichen Aufschwung. \"Es fließt viel Geld nach Deutschland\", sagt ein Windradhersteller im Interview. Doch ausgerechnet jetzt sorgen die Energiepläne von …"
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Wadephul in Kanada - Sicherheit und Verteidigung im Zentrum",
-          "link": "https://www.finanzen.net/nachricht/aktien/wadephul-in-kanada-sicherheit-und-verteidigung-im-zentrum-15952123",
-          "published": "2026-09-25T03:49:39+00:00",
-          "summary": "OTTAWA (dpa-AFX) - Außenminister Johann Wadephul besucht an diesem Freitag Kanada - und unterbricht dafür seine Teilnahme an der Generaldebatte der Vollversammlung der Vereinten Nationen in New York. …"
+          "title": "Sparen statt Shoppen: Verbraucher halten ihr Geld zusammen",
+          "link": "https://www.finanzen.net/nachricht/aktien/sparen-statt-shoppen-verbraucher-halten-ihr-geld-zusammen-15952317",
+          "published": "2026-09-25T06:08:38+00:00",
+          "summary": "NÜRNBERG (dpa-AFX) - Die Deutschen halten in Zeiten teurer Energie und einer unsicheren geopolitischen Lage ihr Geld zusammen: Das Konsumklima hat der neuesten Studie der Nürnberger Institute NIM und …"
         },
         {
-          "title": "Bundestag und Bundesrat sollen erneuten Tankrabatt besiegeln",
-          "link": "https://www.finanzen.net/nachricht/aktien/bundestag-und-bundesrat-sollen-erneuten-tankrabatt-besiegeln-15952122",
-          "published": "2026-09-25T03:49:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Zur Entlastung der Autofahrerinnen und Autofahrer von hohen Spritpreisen soll am Freitag der Weg für einen erneuten Tankrabatt frei gemacht werden. Die schwarz-rote Koalition will …"
+          "title": "EUREX/Bund-Future zieht etwas an",
+          "link": "https://www.finanzen.net/nachricht/anleihen/EUREX-Bund-Future-zieht-etwas-an-15952306",
+          "published": "2026-09-25T06:05:43+00:00",
+          "summary": "DOW JONES--Der aktuelle Kontrakt des Bund-Futures steigt am Freitagmorgen um 8.03 Uhr um 27 Ticks auf 119,90 Prozent. Das Tageshoch liegt bislang bei 119,91 Prozent und das Tagestief bei 119,62 …"
         },
         {
-          "title": "Pressestimme: 'Augsburger Allgemeine' zur Wirtschaftsprognose",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-augsburger-allgemeine-zur-wirtschaftsprognose-15952119",
-          "published": "2026-09-25T03:34:43+00:00",
-          "summary": "AUGSBURG (dpa-AFX) - Die \"Augsburger Allgemeine\" zur Wirtschaftsprognose:\"Die Träume der angeschlagenen Bundesregierung brauchen mit der neuen Prognose allerdings nicht in den Himmel zu wachsen. Denn …"
+          "title": "EUREX/Bund-Future zieht etwas an",
+          "link": "https://www.finanzen.net/nachricht/aktien/eurex-bund-future-zieht-etwas-an-15952305",
+          "published": "2026-09-25T06:05:43+00:00",
+          "summary": "DOW JONES--Der aktuelle Kontrakt des Bund-Futures steigt am Freitagmorgen um 8.03 Uhr um 27 Ticks auf 119,90 Prozent. Das Tageshoch liegt bislang bei 119,91 Prozent und das Tagestief bei 119,62 …"
         },
         {
-          "title": "Pressestimme: 'Neue Presse' zu Wirtschaft und Reformen",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-neue-presse-zu-wirtschaft-und-reformen-15952118",
-          "published": "2026-09-25T03:34:43+00:00",
-          "summary": "COBURG (dpa-AFX) - Die \"Neue Presse\" zu Wirtschaft und Reformen:\"Alles schwarz zu malen, das lässt sich nach der neuen Prognose der führenden Wirtschaftsforschungsinstitute nicht mehr durchhalten. …"
+          "title": "EUREX/DAX-Future sehr fest",
+          "link": "https://www.finanzen.net/nachricht/aktien/eurex-dax-future-sehr-fest-15952304",
+          "published": "2026-09-25T06:05:42+00:00",
+          "summary": "DOW JONES--Der nächstfällige Kontrakt des DAX-Futures steigt am Freitagmorgen bis 8.02 Uhr um 188 auf 25.617 Punkte. Das Tageshoch liegt bislang bei 25.621 und das Tagestief bei 25.516 Punkten. …"
         },
         {
-          "title": "Pressestimme: 'Neue Osnabrücker Zeitung' zu Festnahme von Hendrik Holt",
-          "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-neue-osnabruecker-zeitung-zu-festnahme-von-hendrik-holt-15952117",
-          "published": "2026-09-25T03:34:42+00:00",
-          "summary": "OSNABRÜCK (dpa-AFX) - 'Neue Osnabrücker Zeitung' zu Festnahme von Hendrik HoltDie jüngste Entwicklung ist ein Hoffnungsschimmer für jeden, der dieser ganzen unfassbaren Geschichte des Hendrik Holt …"
+          "title": "Valora-Aktie: Detailhändler plant bis zu 1000 neue Standorte in Deutschland",
+          "link": "https://www.finanzen.net/nachricht/aktien/valora-aktie-detailhaendler-plant-bis-zu-1000-neue-standorte-in-deutschland-15952310",
+          "published": "2026-09-25T06:05:00+00:00",
+          "summary": "Valora will sein Auslandsgeschäft deutlich ausbauen und sieht vor allem in Deutschland grosses Potenzial. Dort könnten mittelfristig bis zu 1000 weitere Standorte entstehen."
         }
       ],
       "error": null
@@ -164,6 +164,12 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Stoppt der DAX seine Verlustserie?",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
+          "published": "2026-09-25T05:57:17+00:00",
+          "summary": "Dem deutschen Leitindex winkt ein versöhnlicher Wochenabschluss. Dafür könnten neue Konjunkturdaten sorgen. Doch der hohe Ölpreis bleibt eine Belastung und facht die Inflationsangst an."
+        },
+        {
           "title": "Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html",
           "published": "2026-09-24T14:29:16+00:00",
@@ -174,12 +180,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boeing-bestellungen-china-100.html",
           "published": "2026-09-24T11:28:15+00:00",
           "summary": "Eigentlich setzte der US-Flugzeugbauer Boeing große Hoffnungen in das Treffen zwischen den Präsidenten der USA und Chinas. Neue Lieferverträge sollten geschlossen werden. Doch diese Hoffnungen …"
-        },
-        {
-          "title": "Marktbericht: DAX baut Verluste aus",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-          "published": "2026-09-23T16:00:34+00:00",
-          "summary": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die jüngst aufgekeimte Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder dahin."
         },
         {
           "title": "Nach einer Studie investieren immer mehr Deutsche in Aktien",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Versteckte Beitragserhöhung: Warum viele Arbeitnehmer bald 1200 Euro mehr für die Krankenkasse zahlen müssen",
-          "link": "https://www.wiwo.de/politik/deutschland/versteckte-beitragserhoehung-warum-viele-arbeitnehmer-bald-1200-euro-mehr-fuer-die-krankenkasse-zahlen-muessen/100257071.html",
-          "published": "2026-09-25T03:59:18+00:00",
-          "summary": "Die Regierung will die Sozialbeiträge stabil halten. Gutverdiener und ihre Arbeitgeber werden ab 2027 trotzdem deutlich mehr an die gesetzliche Krankenkasse überweisen."
+          "title": "Berlin-Wahl: Diese Berliner Linke sollte niemals an die Macht kommen",
+          "link": "https://www.wiwo.de/politik/deutschland/berlin-wahl-diese-berliner-linke-sollte-niemals-an-die-macht-kommen/100257118.html",
+          "published": "2026-09-25T06:00:27+00:00",
+          "summary": "Wochenlang wurde vor der AfD gewarnt, das Unwesen am linken Rand wird zu oft verklärt. Die Berliner Wahl zeigt, wie die Mitte auch von linken Extremisten aufgerieben wird. Ein Kommentar."
         },
         {
-          "title": "Trumps Diesel-Exportstopp: Der absurde Umweg über Asien, der Ihren Diesel verteuert",
-          "link": "https://www.wiwo.de/unternehmen/energie/spritpreis-donald-trumps-drohendes-diesel-chaos-einmal-richtig-erklaert/100256888.html",
-          "published": "2026-09-24T21:05:00+00:00",
-          "summary": "Donald Trump erwägt einen Exportstopp für US‑Diesel. Warum Europa neue Preisschübe fürchten muss und wie Konzerne in Südkorea und Indien profitieren."
+          "title": "Satelliten-Internet Starlink: Finnland bittet Musk um Starlink-Freischaltung für Ukraine-Angriffe in Russland",
+          "link": "https://www.wiwo.de/politik/europa/satelliten-internet-starlink-finnland-bittet-musk-um-starlink-freischaltung-fuer-ukraine-angriffe-in-russland/100257342.html",
+          "published": "2026-09-25T05:47:02+00:00",
+          "summary": "Mit Starlink könnte die Ukraine russische Raketenabschussrampen angreifen. Finnlands Präsident Stubb richtet deshalb eine Bitte an Elon Musk."
         },
         {
-          "title": "US-China-Gipfel: Xi und Trump beschwören Freundschaft – Panda-Diplomatie und Handelsgespräche",
-          "link": "https://www.wiwo.de/politik/ausland/us-china-gipfel-xi-und-trump-beschwoeren-freundschaft-panda-diplomatie-und-handelsgespraeche/100257269.html",
-          "published": "2026-09-24T16:59:23+00:00",
-          "summary": "Trump und Xi demonstrieren beim Treffen im Weißen Haus überraschende Einigkeit. Freundschaft, Pandas und Handel sollen die Spannungen zwischen den Supermächten entschärfen."
+          "title": "Künstliche Intelligenz: Anthropic plant vor Börsengang wohl Stimmrechtsmehrheit für Gründer",
+          "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
+          "published": "2026-09-25T05:45:56+00:00",
+          "summary": "Der KI-Entwickler Anthropic strebt an die Börse – mit einer Aktienstruktur nach Palantir-Vorbild und Kontrolle der Gründer."
         },
         {
-          "title": "Nach der Wahl in Berlin: „Die Lösung kann doch nicht sein, dass wir Start-ups und Investoren vergraulen“",
-          "link": "https://www.wiwo.de/politik/deutschland/nach-der-wahl-in-berlin-die-loesung-kann-doch-nicht-sein-dass-wir-start-ups-und-investoren-vergraulen/100257176.html",
-          "published": "2026-09-24T16:02:27+00:00",
-          "summary": "Berlins Unternehmer-Präsident Harald Christ warnt vor einer linken Regierung in Berlin. Die Hauptstadt müsse attraktiv für Talente und Geldgeber bleiben."
+          "title": "Künstliche Intelligenz: OpenAI wohl vor Präsentation von neuem Cybersicherheitsmodell",
+          "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-openai-wohl-vor-praesentation-von-neuem-cybersicherheitsmodell/100257339.html",
+          "published": "2026-09-25T05:44:42+00:00",
+          "summary": "Der KI-Pionier plant offenbar ein neues Modell für Cybersicherheit und ein Sicherheitsprodukt für KI-Agenten. Warum OpenAI nun auf diese Sparte setzen will."
         },
         {
-          "title": "Kinderkrankengeld: Das Kinderkrankengeld soll gekürzt werden – na und?",
-          "link": "https://www.wiwo.de/erfolg/trends/carsten-linnemann-kuerzung-von-kinderkrankengeld-trifft-kaum-eltern/100257153.html",
-          "published": "2026-09-24T15:44:00+00:00",
-          "summary": "Der Gesundheitsminister will die Zahl der Kinderkrankentage senken. Bevor der Aufschrei zu groß wird, hilft ein Blick auf die Daten – und auf die eigentlichen Probleme."
+          "title": "Immobilienmarkt: Der Wohnungsneubau braucht Planungssicherheit",
+          "link": "https://www.wiwo.de/finanzen/immobilien/immobilienmarkt-was-deutschland-beim-wohnungsneubau-vom-ausland-lernen-kann/100255606.html",
+          "published": "2026-09-25T05:10:18+00:00",
+          "summary": "Deutschland bleibt beim Wohnungsneubau hinter den Zielen zurück. Ein Blick ins Ausland zeigt, wie es besser gehen könnte. Ein Gastbeitrag."
         }
       ],
       "error": null
