@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:08:49+00:00",
+  "generatedAt": "2026-09-25T12:11:43+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Kraftfahrtbundesamt warnt vor Lenkungsproblem bei VW und Audi",
-          "link": "https://www.tagesschau.de/video/video-1655292.html",
-          "published": "2026-09-25T10:01:28+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81082.html",
+          "published": "2026-09-25T12:10:46+00:00",
           "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-25T09:39:23+00:00",
-          "summary": "Am Freitag ist es nach Auflösung lokaler Nebelfelder oft sonnig oder nur locker bewölkt. Im Osten und Nordosten ist es zum Teil dicht bewölkt, aber meist bleibt es trocken. Am meisten Wolken gibt …"
+          "title": "Bundestag beschließt erneuten \"Tankrabatt\"- Bundesrat muss noch zustimmen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
+          "published": "2026-09-25T12:07:44+00:00",
+          "summary": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Der Bundesrat soll noch heute zustimmen."
         },
         {
-          "title": "Auch Bundesliga kritisiert FIFA-Chef Infantino",
-          "link": "https://www.sportschau.de/fussball/ausbeuterisch-auch-bundesliga-kritisiert-fifa-chef-infantino,fifa-kritik-topligen-100.html",
-          "published": "2026-09-25T09:39:08+00:00",
-          "summary": "Die vier einflussreichsten Ligen Europas haben den Weltverband FIFA und Präsident Gianni Infantino scharf attackiert und weiter unter Druck gesetzt - auch die Bundesliga und ihr Geschäftsführer Marc …"
-        },
-        {
-          "title": "Hunderte Jungwale tot in Argentinien - Forscher vermuten Infektion",
-          "link": "https://www.tagesschau.de/ausland/amerika/jungwale-argentinien-100.html",
-          "published": "2026-09-25T09:25:47+00:00",
-          "summary": "Hunderte Walkälber sind tot an Strände in Südargentinien gespült worden. Forscher gehen davon aus, dass das Walsterben auf eine Hautinfektion zurückgeht - die Walpopulation der Region sei aber nicht …"
-        },
-        {
-          "title": "München und Rhein-Ruhr kämpfen um deutsche Olympia-Bewerbung",
-          "link": "https://www.tagesschau.de/video/video-1655262.html",
-          "published": "2026-09-25T09:14:32+00:00",
+          "title": "Teresa Peters, ARD Berlin, zum \"Tankrabatt\"",
+          "link": "https://www.tagesschau.de/video/video-1655334.html",
+          "published": "2026-09-25T12:05:42+00:00",
           "summary": ""
+        },
+        {
+          "title": "VW, Audi, Seat müssen mehr als eine Million Autos zurückrufen",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-lenkungsausfall-100.html",
+          "published": "2026-09-25T11:55:15+00:00",
+          "summary": "Volkswagen, Audi und Seat müssen allein in Deutschland rund eine Million Autos in die Werkstätten zurückrufen. Grund dafür sind mögliche Probleme mit der Lenkung bei mehreren Modellen."
+        },
+        {
+          "title": "Marktbericht: Verbraucher halten ihr Geld zusammen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
+          "published": "2026-09-25T11:11:04+00:00",
+          "summary": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Vereinte Nationen: Diplomaten verlassen Saal bei Netanjahu-Rede",
-          "link": "https://www.handelsblatt.com/video/politik/vereinte-nationen-diplomaten-verlassen-saal-bei-netanjahu-rede/100257420.html",
-          "published": "2026-09-25T10:04:54+00:00",
-          "summary": "Der israelische Ministerpräsident hat die militärischen Handlungen seines Landes vor der UN-Generalversammlung am Donnerstag verteidigt. „Wir werden gewinnen, wir haben keine andere Wahl“, erklärte …"
+          "title": "Dax aktuell: Dax notiert im Plus – Ölpreise sinken wieder",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-oelpreise-sinken-weiter/100257343.html",
+          "published": "2026-09-25T12:09:45+00:00",
+          "summary": "Aussichten auf eine Lösung im Iran-Konflikt sorgen für Entspannung am Ölmarkt. Doch die Stimmung der deutschen Verbraucher trübt sich weiter ein."
         },
         {
-          "title": "Medien: Medienanstalt schließt Prüfung zu Berndts Höcke-Podcast ab",
-          "link": "https://www.handelsblatt.com/politik/deutschland/medien-medienanstalt-schliesst-pruefung-zu-berndts-hoecke-podcast-ab/100257421.html",
-          "published": "2026-09-25T10:02:27+00:00",
-          "summary": "Die Medienanstalt NRW hatte ein Höcke-Interview des Podcasters Ben Berndt beanstandet. Nun sieht sie von weiteren Maßnahmen ab – obwohl Berndt die umstrittene Passage nicht geändert hat."
+          "title": "Chemie: BASF laut Bericht an Evonik-Übernahme interessiert – Aktien reagieren kräftig",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-laut-bericht-an-evonik-uebernahme-interessiert/100257452.html",
+          "published": "2026-09-25T12:02:08+00:00",
+          "summary": "In Deutschlands Chemieindustrie bahnt sich womöglich ein Milliarden-Zusammenschluss an. Marktführer BASF hat offenbar Evonik mit entsprechenden Plänen kontaktiert."
         },
         {
-          "title": "Geldanlage: Aktien, Anleihen, ETFs, Optionen: So klappt es mit dem Nebenverdienst ohne Arbeit",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-mit-diesen-strategien-laesst-sich-passives-einkommen-aufbauen/100188789.html",
-          "published": "2026-09-25T10:02:00+00:00",
-          "summary": "Nichts tun und das Geld fließt trotzdem: Damit die Verheißung vom passiven Einkommen wahr werden kann, gilt es, häufige Fehler zu vermeiden – und sich von einer Illusion zu verabschieden."
+          "title": "Technik: Neuer Rekord: Die mit Abstand genaueste Uhr der Welt",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/technik-neuer-rekord-die-mit-abstand-genaueste-uhr-der-welt/100257456.html",
+          "published": "2026-09-25T11:55:52+00:00",
+          "summary": "Forscher stellen eine Atomuhr vor, deren Präzision den bisherigen Rekord weit übertrifft: Über 55 Milliarden Jahren würde sie nur um eine Sekunde falsch gehen. Das eröffnet neuartige Anwendungen."
         },
         {
-          "title": "Immobilien: Studie hält Vergesellschaftung von Wohnungen in Berlin für finanzierbar",
-          "link": "https://www.handelsblatt.com/politik/deutschland/immobilien-studie-haelt-vergesellschaftung-von-wohnungen-in-berlin-fuer-finanzierbar/100257357.html",
-          "published": "2026-09-25T10:01:15+00:00",
-          "summary": "Die Linke will Wohnungskonzerne in Berlin in großem Stil enteignen. Eine Studie gewerkschaftsnaher Ökonomen hat die Pläne nun durchgerechnet."
+          "title": "Spritpreise: Bundestag beschließt erneuten Tankrabatt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-bundestag-beschliesst-erneuten-tankrabatt/100257453.html",
+          "published": "2026-09-25T11:52:32+00:00",
+          "summary": "Um die stark gestiegenen Preise an den Zapfsäulen zu drücken, soll wieder eine Steuersenkung kommen. Die vorletzte Hürde dafür ist jetzt genommen."
         },
         {
-          "title": "5G am Gleis: Alle wollen besseres Internet im Zug – aber wer soll das zahlen?",
-          "link": "https://www.handelsblatt.com/technik/medizin/background-digitalisierung-und-ki/5g-am-gleis-alle-wollen-besseres-internet-im-zug-aber-wer-soll-das-zahlen/100257368.html",
-          "published": "2026-09-25T10:00:23+00:00",
-          "summary": "Bis 2035 muss die Bahn ihren Bahnfunk entlang des Schienennetzes erneuern. Aus Sicht der Regierung eine Chance, Bahn- und Mobilfunknetz stärker zu verknüpfen und zu verbessern. Ein Gesetz soll dabei …"
+          "title": "Felix Pakleppa: „Neubauförderung ist keine Ausgabe, sondern eine Investition“",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/felix-pakleppa-neubaufoerderung-ist-keine-ausgabe-sondern-eine-investition/100253789.html",
+          "published": "2026-09-25T11:43:49+00:00",
+          "summary": "Der Hauptgeschäftsführer des ZDB erklärt, warum von einer verlässlichen und stärkeren Subventionierung des Wohnungsbaus auch die Staatsfinanzen profitieren können."
         }
       ],
       "error": null
@@ -86,10 +86,22 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Investor Attestor übernimmt ganz: Bund und Land Hessen steigen bei Condor aus",
+          "link": "https://www.n-tv.de/wirtschaft/Bund-und-Land-Hessen-steigen-bei-Condor-aus-id31348423.html",
+          "published": "2026-09-25T12:04:32+00:00",
+          "summary": "Die Fluggesellschaft Condor liegt bald vollständig in britischer Hand: Der Finanzinvestor Attestor übernimmt alle Staatsanteile, die bislang der Bund und das Land Hessen halten. Ein Stichtag für die …"
+        },
+        {
+          "title": "17 Cent Rabatt je Liter: Bundestag gibt grünes Licht für neuen Tankrabatt",
+          "link": "https://www.n-tv.de/wirtschaft/Bundestag-gibt-gruenes-Licht-fuer-neuen-Tankrabatt-id31348338.html",
+          "published": "2026-09-25T11:33:15+00:00",
+          "summary": "Der Bundestag bringt Entlastungen von Verbrauchern und Unternehmen angesichts hoher Spritpreise auf den Weg. Der beschlossene Tankrabatt soll bis Ende des Jahres gelten. Bund und Länder verzichten …"
+        },
+        {
           "title": "Etliche Modelle betroffen: VW und Audi müssen fast eine Million Fahrzeuge zurückrufen",
           "link": "https://www.n-tv.de/wirtschaft/VW-und-Audi-muessen-fast-eine-Million-Fahrzeuge-zurueckrufen-id31347337.html",
           "published": "2026-09-25T08:56:38+00:00",
-          "summary": "Hunderttausenden Fahrzeugen von Volkswagen in Deutschland droht ein Ausfall der Lenkung aufgrund eines Schraubenabrisses. Davon betroffen sind etliche Modelle. Auch bei Pkw der Tochter Audi tritt das …"
+          "summary": "Hunderttausenden Fahrzeugen von Volkswagen in Deutschland droht ein Ausfall der Lenkung aufgrund eines Schraubenabrisses. Davon betroffen sind etliche Modelle von verschiedenen Marken des großen …"
         },
         {
           "title": "Ergebnisse stützen Linken-Pläne: Vergesellschaftung Berliner Wohnungen wäre laut Studie finanzierbar",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Deutsche-sind-so-sparsam-wie-seit-der-Finanzkrise-nicht-mehr-id31346783.html",
           "published": "2026-09-25T07:48:28+00:00",
           "summary": "Teure Energie, Kriege, Inflation: Die anhaltenden Krisen wirken sich deutlich auf das Konsumverhalten der Deutschen aus. Einer Studie zufolge ist die Sparneigung im September abermals gestiegen …"
-        },
-        {
-          "title": "Neues Grundsatzpapier: Industrie fordert mehr Selbstbewusstsein gegenüber Trump",
-          "link": "https://www.n-tv.de/wirtschaft/Industrie-fordert-mehr-Selbstbewusstsein-gegenueber-Trump-id31346712.html",
-          "published": "2026-09-25T06:57:41+00:00",
-          "summary": "Der Industriestandort Deutschland steht unter Druck: Lieferketten sind abhängig von China, US-Maßnahmen sorgen für Unsicherheit. Nun formuliert der Branchenverband BDI neue Prioritäten - und …"
-        },
-        {
-          "title": "Nahost-Konflikt drückt Stimmung: Wall Street tritt auf der Stelle",
-          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-tritt-auf-der-Stelle-id31345690.html",
-          "published": "2026-09-24T20:53:57+00:00",
-          "summary": "Die US-Anleger blicken mit Anspannung auf den Nahost-Konflikt und die hohen Energiepreise. Es dreht sich alles ums Öl, bemerkt ein Analyst. Die Rendite der 30-jährigen US-Staatsanleihen stieg auf den …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "UBS einigt sich in Greensill-Milliardenklage mit Versicherer IAG",
-          "link": "https://www.finanzen.net/nachricht/aktien/ubs-einigt-sich-in-greensill-milliardenklage-mit-versicherer-iag-15952721",
-          "published": "2026-09-25T10:00:39+00:00",
-          "summary": "ZÜRICH (dpa-AFX) - Die von der UBS übernommene Credit Suisse schließt eine weitere Altlast in der Aufarbeitung des Greensill-Debakels ab. Sie hat sich nun in einer milliardenschweren Klage gegen den …"
+          "title": "GNW-News: Alaska Airlines, Philips und Verizon Connect gehören zu den Finalisten der \"Contentstack Experience Awards 2026\"",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-alaska-airlines-philips-und-verizon-connect-gehoeren-zu-den-finalisten-der-contentstack-experience-awards-2026-15952910",
+          "published": "2026-09-25T11:58:38+00:00",
+          "summary": "^Wichtige Fakten* Mit den?Contentstack Experience Awards\" (CXAs) 2026 werden herausragende digitale Leistungen von Contentstack-Kunden und -Partnern gewürdigt.* Zehn Finalisten, darunter Alaska …"
         },
         {
-          "title": "finanzen.net ZERO - Top-Konditionen bei unserem Broker sichern!",
-          "link": "https://www.finanzen.net/nachricht/aktien/finanzen-net-zero-top-konditionen-bei-unserem-broker-sichern-10701966",
-          "published": "2026-09-25T10:00:00+00:00",
-          "summary": "Mehr erfahren!"
+          "title": "ROUNDUP 2: Investor Attestor übernimmt Condor ganz - Staat steigt aus",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-investor-attestor-uebernimmt-condor-ganz-staat-steigt-aus-15952905",
+          "published": "2026-09-25T11:54:39+00:00",
+          "summary": "(Aktualisierung: weitere Details)FRANKFURT (dpa-AFX) - Bei der zweitgrößten deutschen Fluggesellschaft Condor ziehen sich der Bund und das Land Hessen zurück. Der britische Mehrheitseigner Attestor …"
         },
         {
-          "title": "Aktien Europa: Aufatmen zum Wochenende",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-europa-aufatmen-zum-wochenende-15952717",
-          "published": "2026-09-25T09:58:39+00:00",
-          "summary": "PARIS/LONDON/ZÜRICH (dpa-AFX) - Die europäischen Aktienmärkte haben sich am Freitag erholt. Sinkende Ölpreise verschafften den Kursen Luft. \"Zum Wochenschluss bleibt der Ölpreis das Zünglein an der …"
+          "title": "Costco spielt in einer eigenen Liga! Selbst der schwache Konsument kann den Wachstumsmotor kaum bremsen!",
+          "link": "https://www.finanzen.net/nachricht/aktien/Costco-spielt-in-einer-eigenen-Liga-Selbst-der-schwache-Konsument-kann-den-Wachstumsmotor-kaum-bremsen-15952903",
+          "published": "2026-09-25T11:53:43+00:00",
+          "summary": "Costco (COST) liefert für mich gerade den Beweis, warum das Geschäftsmodell zu den stärksten im Einzelhandel gehört."
         },
         {
-          "title": "Erholung auf tönernen Füßen: Verhandlungen im Nahost-Konflikt bescheren DAX Gewinne",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-erholung-auf-toenernen-fuessen-verhandlungen-im-nahost-konflikt-bescheren-dax-gewinne-15943636",
-          "published": "2026-09-25T09:57:00+00:00",
-          "summary": "Zum Handelsstart legte der DAX um 0,69 Prozent auf 25.441,79 Punkte zu. Im Anschluss behält er diese Tendenz bei. DAX vor versöhnlichem Wochenabschluss? Bei sinkenden"
+          "title": "DHL Group (ex Deutsche Post)-Aktie: JP Morgan Chase & Co. gibt Overweight-Bewertung bekannt",
+          "link": "https://www.finanzen.net/nachricht/aktien/dhl-group-ex-deutsche-post-aktie-jp-morgan-chase-co-gibt-overweight-bewertung-bekannt-15952897",
+          "published": "2026-09-25T11:52:42+00:00",
+          "summary": "Die US-Bank JPMorgan hat die Einstufung für DHL Group nach einer Investorenveranstaltung mit einem Kursziel von 65 Euro auf \"Overweight\" belassen. Alexia Dogani zieht in einer am Freitag vorliegenden …"
         },
         {
-          "title": "Depotübersicht und Kommentar: Das 1-Billion-Dollar-Potenzial bei Meta: \"Muse\" als ultimativer Einkaufsagent — Jabil und Rocket Lab im Blick!",
-          "link": "https://www.finanzen.net/nachricht/aktien/Depotuebersicht-und-Kommentar-Das-1-Billion-Dollar-Potenzial-bei-Meta-Muse-als-ultimativer-Einkaufsagent-Jabil-und-Rocket-Lab-im-Blick-15952720",
-          "published": "2026-09-25T09:52:40+00:00",
-          "summary": "Liebe Tenbagger-Investoren,die Meta Connect 2026 am Hauptsitz in Menlo Park in dieser Woche stellt einen Paradigmenwechsel für den Technologiekonzern Meta dar."
+          "title": "Evonik-Aktie hebt ab: Bericht über BASF-Interesse beflügelt Aktie",
+          "link": "https://www.finanzen.net/nachricht/aktien/medienbericht-evonik-aktie-hebt-ab-bericht-ueber-basf-interesse-befluegelt-aktie-15952872",
+          "published": "2026-09-25T11:50:38+00:00",
+          "summary": "Die Ludwigshafener seien hinsichtlich einer Übernahme auf die Essener und die RAG-Stiftung als ihren Großaktionär zugegangen, schrieb die Wirtschaftszeitung \"Financial Times\" (\"FT\") am Freitag unter …"
         }
       ],
       "error": null
@@ -163,6 +163,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Marktbericht: Verbraucher halten ihr Geld zusammen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
+          "published": "2026-09-25T11:11:04+00:00",
+          "summary": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus."
+        },
         {
           "title": "Marktbericht: Sinkende Ölpreise bewegen DAX ins Plus",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
@@ -186,12 +192,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktienmarkt-investieren-dax-ing-bank-marktbericht-100.html",
           "published": "2026-09-23T12:43:28+00:00",
           "summary": "Deutsche gelten als Aktienmuffel. Doch jeder Zweite investiert einer Studie zufolge am Kapitalmarkt, insbesondere jüngere Menschen. Ein Großteil lässt das Geld aber weiter mit Verlusten auf dem …"
-        },
-        {
-          "title": "Iran-Krieg und Last-Minute-Trend zehren an TUI-Gewinn",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-tui-100.html",
-          "published": "2026-09-22T12:00:03+00:00",
-          "summary": "Der Reisekonzern TUI hat den Iran-Krieg und den Trend zu Last-Minute-Buchungen deutlich zu spüren bekommen. Höhere Preise konnten das nur zum Teil ausgleichen. Die Aktie erlebte ein Wechselbad."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Ferienflieger: Investor Attestor übernimmt Condor ganz – Staat steigt aus",
-          "link": "https://www.wiwo.de/unternehmen/industrie/condor-eigner-attestor-uebernimmt-anteile-von-condor-komplett/100257393.html",
-          "published": "2026-09-25T09:44:00+00:00",
-          "summary": "Condor hat Staatshilfen aus der Corona-Krise zurückbezahlt, nun folgt der nächste Schritt: Mehrheitseigner Attestor übernimmt bis Sommer 2027 alle Anteile. Der Bund und das Land Hessen steigen aus."
+          "title": "Deutsche Konjunktur: Ist dieser Tankrabatt sinnvoll, Frau Schnitzer?",
+          "link": "https://www.wiwo.de/politik/konjunktur/neuer-tankrabatt-warum-monika-schnitzer-vor-hilfen-warnt/100249127.html",
+          "published": "2026-09-25T11:51:45+00:00",
+          "summary": "Der Bundestag hat einen neuen Tankrabatt beschlossen. Warum Wirtschaftsweise Monika Schnitzer die Maßnahme für falsch hält. Und vor fatalen Folgen für den Haushalt warnt."
         },
         {
-          "title": "Ölpreis aktuell: Ölpreise sinken nach starken Vortagsgewinnen",
-          "link": "https://www.wiwo.de/finanzen/oelpreis-aktuell-oelpreise-sinken-nach-starken-vortagsgewinnen/100207502.html",
-          "published": "2026-09-25T09:23:00+00:00",
-          "summary": "Die Ölpreise geben nach. Der Iran legt den USA laut Medien einen Vorschlag vor. Derweil will Frankreich ein Ölterminal in Saudi-Arabien schützen."
+          "title": "Spritpreise: Bundestag gibt grünes Licht für Tankrabatt",
+          "link": "https://www.wiwo.de/politik/deutschland/spritpreise-tankrabatt-bekommt-gruenes-licht-vom-bundestag/100257450.html",
+          "published": "2026-09-25T11:44:57+00:00",
+          "summary": "17 Cent weniger je Liter: Der Tankrabatt soll Autofahrer und Betriebe entlasten. Doch wie viel genau davon bei den Verbrauchern ankommt, ist offen."
         },
         {
-          "title": "Autobranche: Die Robotaxis kommen und Deutschlands Autobauer werden abgehängt",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-prueft-moia-aus-deutschland-verliert-bei-robotaxis/100257371.html",
-          "published": "2026-09-25T09:14:34+00:00",
-          "summary": "Volkswagen wollte mit Moia das Robotaxi nach Europa bringen. Jetzt sind die Firmen aus den USA und China schon da. Und Moia? Wird wohl abgewickelt."
+          "title": "Spritpreisdeckel: „Wenn der Staat Kraftstoffe subventioniert, zahlen dafür alle Steuerzahler“",
+          "link": "https://www.wiwo.de/politik/konjunktur/tankrabatt-und-spritpreisdeckel-warum-dieser-experte-nichts-davon-haelt/100256291.html",
+          "published": "2026-09-25T11:42:00+00:00",
+          "summary": "Der Bundestag hat einen erneuten Tankrabatt wegen der hohen Spritpreise beschlossen. ZEW-Präsident Achim Wambach hält einen Spritpreisdeckel für kontraproduktiv."
         },
         {
-          "title": "Gipfeltreffen in Washington: Warum das Gipfeltreffen mit Xi kein Triumph für Trump ist",
-          "link": "https://www.wiwo.de/politik/ausland/gipfeltreffen-in-washington-warum-das-gipfeltreffen-mit-xi-kein-triumph-fuer-trump-ist/100257102.html",
-          "published": "2026-09-25T08:41:32+00:00",
-          "summary": "Viel Show, wenig Substanz: Das Gipfeltreffen zwischen Donald Trump und Xi Jinping liefert magere Ergebnisse. Für Europa kann das heikle Folgen haben."
+          "title": "Credit Suisse: UBS einigt sich in Greensill-Milliardenklage mit Versicherer IAG",
+          "link": "https://www.wiwo.de/unternehmen/banken/credit-suisse-ubs-einigt-sich-in-greensill-milliardenklage-mit-versicherer-iag/100257436.html",
+          "published": "2026-09-25T11:08:14+00:00",
+          "summary": "Im Greensill-Debakel erzielt die UBS einen vertraulichen Vergleich mit der IAG. Für die Bank könnte das im dritten Quartal finanziell spürbar werden."
         },
         {
-          "title": "KI-Lieferkette: Was der Arbeitskampf in Taiwans Chipindustrie für die KI-Welt bedeutet",
-          "link": "https://www.wiwo.de/unternehmen/it/tsmc-co.-was-der-chip-streik-in-taiwan-fuer-ki-bedeutet/100256210.html",
-          "published": "2026-09-25T07:56:28+00:00",
-          "summary": "Taiwans Vorzeigebranche steht vor einem Verteilungskonflikt: Beschäftigte wollen stärker am KI-Boom beteiligt werden – mit globalen Folgen?"
+          "title": "IMK-Studie: Vergesellschaftung von Wohnungen in Berlin finanzierbar",
+          "link": "https://www.wiwo.de/politik/deutschland/linke-in-berlin-imk-studie-belegt-vergesellschaftung-von-wohnungen/100257434.html",
+          "published": "2026-09-25T11:06:27+00:00",
+          "summary": "Die Wohnungspläne der Linken in Berlin werden heftig kritisiert. Ökonomen erklären nun: Eine Vergesellschaftung kann funktionieren – unter bestimmten Voraussetzungen."
         }
       ],
       "error": null
@@ -242,10 +242,22 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Re-skilling für Ingenieure: Warum der Branchenwechsel selten bei null beginnt",
+          "title": "Lenkung kann ausfallen: VW ruft weltweit über 2 Mio. Autos zurück",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/lenkung-kann-ausfallen-vw-ruft-weltweit-uber-2-mio-autos-zuruck/",
+          "published": "2026-09-25T11:29:14+00:00",
+          "summary": "Volkswagen ruft in Deutschland 895.832 Golf, Golf Variant, Tiguan, Touran und Caddy zurück, weltweit sogar mehr als 2 Mio. Fahrzeuge. Eine Befestigungsschraube am Lenkgetriebe kann korrodieren und …"
+        },
+        {
+          "title": "100 km ohne Oberleitung: Das Comeback des Akkus auf der Schiene",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/100-km-ohne-oberleitung-warum-akkuzuge-auf-der-innotrans-das-grosse-thema-sind/",
+          "published": "2026-09-25T11:00:00+00:00",
+          "summary": "Mehr als 85.000 km des europäischen Schienennetzes haben keine Oberleitung. Auf der InnoTrans in Berlin zeigen Hitachi, Škoda und Siemens Züge, die solche Lücken mit Batterie überbrücken. Was die …"
+        },
+        {
+          "title": "Re-skilling für Ingenieure: Der Branchenwechsel beginnt selten bei null",
           "link": "https://www.ingenieur.de/karriere/bildung/re-skilling-fur-ingenieure-warum-der-branchenwechsel-selten-bei-null-beginnt/",
           "published": "2026-09-25T09:30:00+00:00",
-          "summary": "Die Autoindustrie baut Ingenieurstellen ab, Energie- und Verteidigungsbranche suchen Fachkräfte. Wer wechselt, fängt selten bei null an: Rolls-Royce hat etwa 100 Maschinenbauer zu Elektrotechnikern …"
+          "summary": "Neue Branche, neues Fachgebiet, aber die Erfahrung bleibt: Rolls-Royce hat 100 Maschinenbauer zu Elektrotechnikern qualifiziert, ein Automotive-Manager übernahm einen Mittelständler. Beim …"
         },
         {
           "title": "7000 heute, eine Milliarde 2036? Wo humanoide Roboter wirklich stehen",
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/machine-native-economy-irre-blackrock-analyse-wird-kunstliche-intelligenz-bald-bitcoin-kaufen/",
           "published": "2026-09-25T07:14:11+00:00",
           "summary": "BlackRock hält Kryptowährungen für das künftige Geld der Maschinen: KI-Agenten sollen damit Daten, Dienste und Rechenleistung bezahlen. Welche Coins davon profitieren könnten, haben ChatGPT, Gemini …"
-        },
-        {
-          "title": "Wasserstoff, Kerosin oder Erdgas: Forscher drucken Turbinendüse für fast jeden Brennstoff",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoff-kerosin-oder-erdgas-forscher-drucken-turbinenduse-fur-fast-jeden-brennstoff/",
-          "published": "2026-09-24T13:30:00+00:00",
-          "summary": "Neue Gaskraftwerke sollen mal mit Wasserstoff laufen, doch womit sie langfristig wirklich betrieben werden, weiß heute niemand. Stuttgarter Forschende haben eine 3D-Druck-Einspritzdüse entwickelt …"
-        },
-        {
-          "title": "Ein Handyfoto reicht: Wie eine KI erkennt, ob Wunden heilen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/ein-handyfoto-reicht-wie-eine-ki-erkennt-ob-wunden-heilen/",
-          "published": "2026-09-24T12:00:00+00:00",
-          "summary": "Viele Wunden werden oft noch mit dem Lineal vermessen, das überschätzt ihre Größe. Eine Software aus Frankreich berechnet Fläche und Gewebe aus einem Foto und darf nun EU-weit als Medizinprodukt …"
         }
       ],
       "error": null
