@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:10:50+00:00",
+  "generatedAt": "2026-09-25T20:08:18+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655620.html",
+          "published": "2026-09-25T19:35:29+00:00",
+          "summary": ""
+        },
+        {
           "title": "Berliner Linkspartei stimmt für Gespräche mit Grünen und SPD",
           "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
-          "published": "2026-09-25T18:07:44+00:00",
+          "published": "2026-09-25T19:08:33+00:00",
           "summary": "Jetzt ist es offiziell: Die Berliner Linkspartei lädt Grüne und SPD zu Sondierungsgesprächen für eine Regierungsbildung ein. Ob die drei Parteien später tatsächlich eine Koalition bilden, ist noch …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-25T17:19:28+00:00",
-          "summary": "Am Samstag ist es verbreitet sonnig oder nur leicht bewölkt. Im Norden und Nordwesten gibt es zeitweise Wolkenfelder und örtlich fällt etwas Regen. Die Höchstwerte liegen zwischen 17 Grad an der …"
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12270.html",
+          "published": "2026-09-25T19:05:02+00:00",
+          "summary": ""
         },
         {
-          "title": "Diego Garcia - Streit um einen Militärstützpunkt",
-          "link": "https://www.tagesschau.de/ausland/afrika/afrika-indischer-ozean-chagos-usa-mauritius-100.html",
-          "published": "2026-09-25T16:47:04+00:00",
-          "summary": "Eigentlich wollte London die Insel Diego Garcia an Mauritius zurückgeben. Doch US-Präsident Trump stoppte den \"schrecklichen\" Deal. Für ihn geht es um einen der wichtigsten US-Militärstützpunkte. Von …"
+          "title": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html",
+          "published": "2026-09-25T18:38:15+00:00",
+          "summary": "Kommende Woche wollte das Bundeskabinett die geplante Reform in der Pflege auf den Weg bringen - doch das wird wohl nicht klappen. Die SPD will nachverhandeln und droht nach Informationen des …"
         },
         {
-          "title": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
-          "published": "2026-09-25T16:44:11+00:00",
-          "summary": "Eine fehlerhafte Schraube kann bei Autos des VW-Konzerns zu einem Ausfall der Lenkung führen. Allein in Deutschland müssen fast eine Million Fahrzeuge vorsorglich in die Werkstatt. Welche Modelle …"
-        },
-        {
-          "title": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-          "published": "2026-09-25T16:31:47+00:00",
-          "summary": "Neue Hoffnungen auf einen Frieden im Nahen Osten lassen die Ölpreise zum Wochenschluss sinken. Das macht den Anlegern an der Börse Mut. Gleichzeitig bewegt eine mögliche Übernahme die Kurse."
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81090.html",
+          "published": "2026-09-25T18:37:07+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Wahlen +++: Parteitag entscheidet – Berliner Linkspartei will mit Grünen und SPD sondieren",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-berliner-linkspartei-will-mit-gruenen-und-spd-sondieren/100252039.html",
-          "published": "2026-09-25T17:59:00+00:00",
-          "summary": "Schweig fordert Reformgipfel mit Merz und Ministerpräsidenten +++ Berliner SPD-Vize Kiziltepe für Rot-Grün-Rot +++ SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein +++ Der Newsblog."
+          "title": "Chemie: BASF arbeitet an Übernahme von Evonik – Aktien reagieren deutlich",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-arbeitet-an-uebernahme-von-evonik/100257452.html",
+          "published": "2026-09-25T19:41:40+00:00",
+          "summary": "In Deutschlands Chemieindustrie bahnt sich ein Milliarden-Zusammenschluss an: BASF prüft den Kauf von Evonik. Beide bestätigen eine Kontaktaufnahme. Nun gibt es erste Details zum möglichen Deal."
         },
         {
-          "title": "Nach der Abgeordnetenhauswahl: Berliner Linke will mit Grünen und SPD sondieren",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-abgeordnetenhauswahl-berliner-linke-will-mit-gruenen-und-spd-sondieren/100257515.html",
-          "published": "2026-09-25T17:52:55+00:00",
-          "summary": "Jetzt ist es offiziell: Die Berliner Linke lädt Grüne und SPD zu Sondierungsgesprächen für eine Regierungsbildung ein. Ob die drei Parteien später tatsächlich eine Koalition bilden, ist noch offen."
+          "title": "Reformdebatte: SPD-Generalsekretär: Keine Leistungskürzung in der Pflege",
+          "link": "https://www.handelsblatt.com/politik/deutschland/reformdebatte-spd-generalsekretaer-keine-leistungskuerzung-in-der-pflege/100257526.html",
+          "published": "2026-09-25T19:17:36+00:00",
+          "summary": "Die Pflegeversicherung ist in Finanznöten, CDU-Gesundheitsminister Linnemann will nächste Woche eine Reform auf den Weg bringen. Doch kurz vorher meldet sich der Koalitionspartner zu Wort."
+        },
+        {
+          "title": "Nach der Abgeordnetenhauswahl: Berliner Linke startet Projekt Regierungsbildung",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-abgeordnetenhauswahl-berliner-linke-startet-projekt-regierungsbildung/100257515.html",
+          "published": "2026-09-25T18:34:58+00:00",
+          "summary": "Der Gegenwind ist stark, Probleme gibt es reichlich - doch die Linke in Berlin will sich nach ihrem Wahlsieg nicht beirren lassen. Die Partei lädt Grüne und SPD zu Sondierungen ein."
+        },
+        {
+          "title": "WhatsApp-Nachricht: Bank-Manager fällt auf KI-Fake rein – Betrüger erbeuten 36 Millionen Euro von Intesa-Sanpaolo-Tochter",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/whatsapp-fake-betrueger-legen-bank-manager-rein-36-millionen-euro-schaden/100257520.html",
+          "published": "2026-09-25T18:29:13+00:00",
+          "summary": "Der Ex-Verwaltungsratschef der italienischen Fideuram-Bank wurde Opfer eines KI-Betrugs. Er ließ 95 Millionen Euro aus dem Bankvermögen überweisen. Nur ein Teil konnte zurückgeholt werden."
         },
         {
           "title": "Wall Street: US-Börsen bauen Gewinne im Handelsverlauf aus – Anleiherenditen bleiben auf hohem Niveau",
           "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-bauen-tagesgewinne-im-handelsverlauf-aus/100257444.html",
-          "published": "2026-09-25T17:52:00+00:00",
+          "published": "2026-09-25T18:23:00+00:00",
           "summary": "Weiter steigende Anleiherenditen, neue Entwicklungen im Nahen Osten und neue Firmendeals bewegen am Freitag die Börse. In Washington endet derweil das Treffen zwischen Trump und Xi."
-        },
-        {
-          "title": "Diplomatie: Xi und Trump wollen sich im November in China treffen",
-          "link": "https://www.handelsblatt.com/politik/international/diplomatie-xi-und-trump-wollen-sich-im-november-in-china-treffen/100257522.html",
-          "published": "2026-09-25T17:46:13+00:00",
-          "summary": "Chinas Staatschef Xi hat seinen Besuch bei US-Präsident Trump in Washington beendet. Doch noch in diesem Jahr soll es zwei weitere Treffen geben."
-        },
-        {
-          "title": "+++ USA +++: Xi Jinping lädt Trump zu nächstem gemeinsamen Treffen nach China ein",
-          "link": "https://www.handelsblatt.com/politik/international/usa-xi-jinping-laedt-trump-zu-naechstem-treffen-nach-china-ein/29669594.html",
-          "published": "2026-09-25T17:33:00+00:00",
-          "summary": "Trump fährt Zwischenerfolg im Rechtsstreit um Wählerdaten ein +++ Verbindung zwischen USA und China war Trump zufolge nie stärker +++ Ergebnisse von Treffen wohl am Montag +++ Der Newsblog."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Aktien von NVIDIA und Palantir im Blick: Sovereign AI wird zur nächsten KI-Wette der Wall Street - das steckt dahinter",
-          "link": "https://www.finanzen.net/nachricht/aktien/analysten-sehen-neuen-trend-aktien-von-nvidia-und-palantir-im-blick-sovereign-ai-wird-zur-naechsten-ki-wette-der-wall-street-das-steckt-dahinter-00-15950230",
-          "published": "2026-09-25T18:04:00+00:00",
-          "summary": "Sovereign AI meint Kontrolle über eigene Daten, Modelle und Rechenzentren Erster Profiteur meldet 149 Prozent Wachstum im US-Firmenkundengeschäft Ob hinter dem Konzept Substanz oder Marketing steckt …"
+          "title": "Warum der Euro zum Dollar etwas stärker wird",
+          "link": "https://www.finanzen.net/nachricht/devisen/devisen-im-blick-warum-der-euro-zum-dollar-etwas-staerker-wird-15952350",
+          "published": "2026-09-25T19:52:09+00:00",
+          "summary": "Zuletzt wurde die Gemeinschaftswährung Euro bei 1,1401 Dollar gehandelt. Die Europäische Zentralbank (EZB) setzte den Referenzkurs auf 1,1403 (Donnerstag: 1,1367) Dollar fest. Der Dollar ..."
         },
         {
-          "title": "Wadephul: Vertiefte Beziehung zu Kanada wichtig",
-          "link": "https://www.finanzen.net/nachricht/aktien/wadephul-vertiefte-beziehung-zu-kanada-wichtig-15953796",
-          "published": "2026-09-25T18:02:38+00:00",
-          "summary": "OTTAWA (dpa-AFX) - Außenminister Johann Wadephul hat angesichts der Diskussion über eine mögliche assoziierte Mitgliedschaft Kanadas in der Europäischen Union dazu aufgerufen, sich nicht auf Worte zu …"
+          "title": "CLARITY Act gescheitert: Warum die Rally bei Bitcoin & Co. laut Bitwise-Experte Hougan weiterlaufen könnte",
+          "link": "https://www.finanzen.net/nachricht/devisen/kryptoregulierung-clarity-act-gescheitert-warum-die-rally-bei-bitcoin-co-laut-bitwise-experte-hougan-weiterlaufen-koennte-00-15946618",
+          "published": "2026-09-25T19:50:00+00:00",
+          "summary": "CLARITY Act scheiterte mit 49 zu 50 Stimmen im US-Senat • SEC und CFTC kündigen eigene Kryptoregeln auf Basis bestehender Befugnisse an • Bitwise-CIO Matt Hougan sieht trotz fehlendem Gesetz keinen …"
         },
         {
-          "title": "Gewinne in New York: NASDAQ 100 zeigt sich am Nachmittag fester",
-          "link": "https://www.finanzen.net/nachricht/aktien/gewinne-in-new-york-nasdaq-100-zeigt-sich-am-nachmittag-fester-15953794",
-          "published": "2026-09-25T18:02:32+00:00",
-          "summary": "Der NASDAQ 100 notiert im NASDAQ-Handel um 20:00 Uhr um 0,51 Prozent fester bei 30.632,92 Punkten. Zuvor ging der NASDAQ 100 0,127 Prozent höher bei 30.517,46 Punkten in den Handel, nach ..."
+          "title": "Vier italienische Nato-Soldaten in Lettland verletzt",
+          "link": "https://www.finanzen.net/nachricht/aktien/vier-italienische-nato-soldaten-in-lettland-verletzt-15953876",
+          "published": "2026-09-25T19:43:38+00:00",
+          "summary": "RIGA/ROM (dpa-AFX) - Bei einem Zwischenfall während einer Nato-Übung in Lettland sind vier italienische Soldaten verletzt worden, einer davon schwer. Nach Angaben des Verteidigungsministeriums in Rom …"
         },
         {
-          "title": "Börse New York in Grün: S&P 500 steigt",
-          "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-in-gruen-s-p-500-steigt-15953793",
-          "published": "2026-09-25T18:02:32+00:00",
-          "summary": "Am Freitag klettert der S&P 500 um 20:00 Uhr via NYSE um 0,49 Prozent auf 7.741,81 Punkte. Insgesamt kommt der S&P 500 damit auf eine Marktkapitalisierung in Höhe von 63,245 Bio. Euro. In den ..."
+          "title": "Putin zu neuen Verhandlungen: Werden gründlich überlegen",
+          "link": "https://www.finanzen.net/nachricht/aktien/putin-zu-neuen-verhandlungen-werden-gruendlich-ueberlegen-15953867",
+          "published": "2026-09-25T19:30:38+00:00",
+          "summary": "ST. PETERSBURG (dpa-AFX) - Kremlchef Wladimir Putin zweifelt an einer Wiederaufnahme von Verhandlungen für ein Ende des Ukraine-Kriegs. Ansätze, die auf eine \"sogenannte Befriedung\" und einen …"
         },
         {
-          "title": "Zuversicht in New York: NASDAQ Composite nachmittags in der Gewinnzone",
-          "link": "https://www.finanzen.net/nachricht/aktien/zuversicht-in-new-york-nasdaq-composite-nachmittags-in-der-gewinnzone-15953792",
-          "published": "2026-09-25T18:02:32+00:00",
-          "summary": "Um 20:00 Uhr bewegt sich der NASDAQ Composite im NASDAQ-Handel 0,54 Prozent fester bei 27.084,48 Punkten. Zuvor ging der NASDAQ Composite 0,117 Prozent höher bei 26.970,95 Punkten in ..."
+          "title": "DAX in KW 39: Diese Aktien gehörten zu den Gewinnern und Verlierern",
+          "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-39-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15925676",
+          "published": "2026-09-25T19:28:00+00:00",
+          "summary": "So schnitten DAX-Werte in der Kalenderwoche 39 ab"
         }
       ],
       "error": null
