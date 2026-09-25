@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T20:08:18+00:00",
+  "generatedAt": "2026-09-25T22:08:53+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655620.html",
-          "published": "2026-09-25T19:35:29+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12878.html",
+          "published": "2026-09-25T20:43:59+00:00",
           "summary": ""
         },
         {
-          "title": "Berliner Linkspartei stimmt für Gespräche mit Grünen und SPD",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
-          "published": "2026-09-25T19:08:33+00:00",
-          "summary": "Jetzt ist es offiziell: Die Berliner Linkspartei lädt Grüne und SPD zu Sondierungsgesprächen für eine Regierungsbildung ein. Ob die drei Parteien später tatsächlich eine Koalition bilden, ist noch …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12270.html",
-          "published": "2026-09-25T19:05:02+00:00",
+          "title": "Ukrainische Wirtschaft durch Krieg mit Russland unter Druck",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1655650.html",
+          "published": "2026-09-25T20:17:42+00:00",
           "summary": ""
         },
         {
-          "title": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html",
-          "published": "2026-09-25T18:38:15+00:00",
-          "summary": "Kommende Woche wollte das Bundeskabinett die geplante Reform in der Pflege auf den Weg bringen - doch das wird wohl nicht klappen. Die SPD will nachverhandeln und droht nach Informationen des …"
+          "title": "Die Meinung von Christian Feld, ARD Brüssel, zur Regulierung von KI",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1655646.html",
+          "published": "2026-09-25T20:13:50+00:00",
+          "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81090.html",
-          "published": "2026-09-25T18:37:07+00:00",
+          "title": "Diskussion über Deutschlands KI-Strategie",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1655642.html",
+          "published": "2026-09-25T20:12:41+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Berliner Linkspartei entscheidet bei Sonderparteitag über mögliche Sondierungsgespräche",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1655638.html",
+          "published": "2026-09-25T20:10:53+00:00",
           "summary": ""
         }
       ],
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Frankreich-Besuch: Papst mahnt zu „neuer Brüderlichkeit“",
+          "link": "https://www.handelsblatt.com/politik/international/frankreich-besuch-papst-mahnt-zu-neuer-bruederlichkeit/100257440.html",
+          "published": "2026-09-25T20:29:23+00:00",
+          "summary": "Eigentlich gilt Frankreich als „älteste Tochter“ der Kirche. Aber beim ersten Besuch von Leo XIV. in Paris geht es auch um Konfliktthemen wie Sterbehilfe und Abtreibung. Und um seine Wurzeln."
+        },
         {
           "title": "Chemie: BASF arbeitet an Übernahme von Evonik – Aktien reagieren deutlich",
           "link": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-arbeitet-an-uebernahme-von-evonik/100257452.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/whatsapp-fake-betrueger-legen-bank-manager-rein-36-millionen-euro-schaden/100257520.html",
           "published": "2026-09-25T18:29:13+00:00",
           "summary": "Der Ex-Verwaltungsratschef der italienischen Fideuram-Bank wurde Opfer eines KI-Betrugs. Er ließ 95 Millionen Euro aus dem Bankvermögen überweisen. Nur ein Teil konnte zurückgeholt werden."
-        },
-        {
-          "title": "Wall Street: US-Börsen bauen Gewinne im Handelsverlauf aus – Anleiherenditen bleiben auf hohem Niveau",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-bauen-tagesgewinne-im-handelsverlauf-aus/100257444.html",
-          "published": "2026-09-25T18:23:00+00:00",
-          "summary": "Weiter steigende Anleiherenditen, neue Entwicklungen im Nahen Osten und neue Firmendeals bewegen am Freitag die Börse. In Washington endet derweil das Treffen zwischen Trump und Xi."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Wochenvorschau: Termine bis 4. Oktober 2026",
+          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-4-Oktober-2026-id31322501.html",
+          "published": "2026-09-25T22:01:00+00:00",
+          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+        },
+        {
+          "title": "Sinkende Ölpreise belebend: Wall Street legt zum Ende der Woche zu",
+          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-legt-zum-Ende-der-Woche-zu-id31350051.html",
+          "published": "2026-09-25T20:56:50+00:00",
+          "summary": "Die Hoffnung auf ein schrittweises Ende des Iran-Kriegs verschafft den US-Börsen Rückenwind. Doch vor allem die KI-Fantasien der Anleger schicken die Chipwerte auf neue Höhenflüge. Eine Zinserhöhung …"
+        },
         {
           "title": "Ökonom über Vergesellschaftung: \"Der einzig realistische Weg\" für bezahlbaren Wohnraum in den nächsten Jahren",
           "link": "https://www.n-tv.de/wirtschaft/Der-einzig-realistische-Weg-fuer-bezahlbaren-Wohnraum-in-den-naechsten-Jahren-id31348104.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Zwei-Euro-Gebuehr-soll-Paketflut-aus-China-eindaemmen-id31349056.html",
           "published": "2026-09-25T14:58:12+00:00",
           "summary": "Milliarden Pakete von Onlinehändlern fluten 2025 die EU, der Großteil stammt aus China und von dortigen Billigproduzenten. Die Europäische Union will das ändern und führt ab November eine Gebühr von …"
-        },
-        {
-          "title": "Staaten brauchen dringend Geld: Rumänien bietet hohe Anleiherendite gegen Blut",
-          "link": "https://www.n-tv.de/wirtschaft/Rumaenien-bietet-hohe-Anleiherendite-gegen-Blut-id31348812.html",
-          "published": "2026-09-25T14:23:55+00:00",
-          "summary": "Weltweit versuchen Regierungen, Privatanleger zum Kauf von Staatsanaleihen zu bewegen. Rumänien lockt mit einem ganz besonderen Angebot und schlägt so zwei Fliegen mit einer Klappe."
-        },
-        {
-          "title": "Wie \"ansteckende Krankheit\": Beim Tankrabatt sind sich die zerstrittenen Ökonomen einig",
-          "link": "https://www.n-tv.de/wirtschaft/Beim-Tankrabatt-sind-sich-die-zerstrittenen-Oekonomen-einig-id31348269.html",
-          "published": "2026-09-25T13:53:56+00:00",
-          "summary": "Wenn sie Entscheidungen treffen, müssen Politiker häufig zwischen den Argumenten von Fachleuten mit ganz unterschiedlicher Meinungen abwägen. Das gilt besonders für die Wirtschaftspolitik. Beim …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Warum der Euro zum Dollar etwas stärker wird",
-          "link": "https://www.finanzen.net/nachricht/devisen/devisen-im-blick-warum-der-euro-zum-dollar-etwas-staerker-wird-15952350",
-          "published": "2026-09-25T19:52:09+00:00",
-          "summary": "Zuletzt wurde die Gemeinschaftswährung Euro bei 1,1401 Dollar gehandelt. Die Europäische Zentralbank (EZB) setzte den Referenzkurs auf 1,1403 (Donnerstag: 1,1367) Dollar fest. Der Dollar ..."
-        },
-        {
-          "title": "CLARITY Act gescheitert: Warum die Rally bei Bitcoin & Co. laut Bitwise-Experte Hougan weiterlaufen könnte",
-          "link": "https://www.finanzen.net/nachricht/devisen/kryptoregulierung-clarity-act-gescheitert-warum-die-rally-bei-bitcoin-co-laut-bitwise-experte-hougan-weiterlaufen-koennte-00-15946618",
-          "published": "2026-09-25T19:50:00+00:00",
-          "summary": "CLARITY Act scheiterte mit 49 zu 50 Stimmen im US-Senat • SEC und CFTC kündigen eigene Kryptoregeln auf Basis bestehender Befugnisse an • Bitwise-CIO Matt Hougan sieht trotz fehlendem Gesetz keinen …"
-        },
-        {
-          "title": "Vier italienische Nato-Soldaten in Lettland verletzt",
-          "link": "https://www.finanzen.net/nachricht/aktien/vier-italienische-nato-soldaten-in-lettland-verletzt-15953876",
-          "published": "2026-09-25T19:43:38+00:00",
-          "summary": "RIGA/ROM (dpa-AFX) - Bei einem Zwischenfall während einer Nato-Übung in Lettland sind vier italienische Soldaten verletzt worden, einer davon schwer. Nach Angaben des Verteidigungsministeriums in Rom …"
-        },
-        {
-          "title": "Putin zu neuen Verhandlungen: Werden gründlich überlegen",
-          "link": "https://www.finanzen.net/nachricht/aktien/putin-zu-neuen-verhandlungen-werden-gruendlich-ueberlegen-15953867",
-          "published": "2026-09-25T19:30:38+00:00",
-          "summary": "ST. PETERSBURG (dpa-AFX) - Kremlchef Wladimir Putin zweifelt an einer Wiederaufnahme von Verhandlungen für ein Ende des Ukraine-Kriegs. Ansätze, die auf eine \"sogenannte Befriedung\" und einen …"
-        },
-        {
           "title": "DAX in KW 39: Diese Aktien gehörten zu den Gewinnern und Verlierern",
           "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-39-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15925676",
-          "published": "2026-09-25T19:28:00+00:00",
+          "published": "2026-09-25T21:39:00+00:00",
           "summary": "So schnitten DAX-Werte in der Kalenderwoche 39 ab"
+        },
+        {
+          "title": "Börsencrash überstehen: So kommen Anleger gut durch breite Kurseinbrüche am Markt",
+          "link": "https://www.finanzen.net/nachricht/aktien/massnahmen-bei-markteinbruch-boersencrash-ueberstehen-so-kommen-anleger-gut-durch-breite-kurseinbrueche-am-markt-13028305",
+          "published": "2026-09-25T21:08:00+00:00",
+          "summary": "Börsencrashs kommen immer wieder vor • Mit vorbeugenden Maßnahmen lassen sich Verluste abfedern • Auch mitten im Crash lohnt sich das Investieren In den vergangenen Jahrzehnten kam es immer wieder zu …"
+        },
+        {
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-25T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+        },
+        {
+          "title": "ROUNDUP/Aktien New York Schluss: Dow erholt sich - Hoffnung auf Nahost-Lösung",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-dow-erholt-sich-hoffnung-auf-nahost-loesung-15953908",
+          "published": "2026-09-25T20:36:39+00:00",
+          "summary": "NEW YORK (dpa-AFX) - Gestützt von fallenden Ölpreisen im Zuge von Entspannungssignalen im Nahost-Konflikt sind die US-Aktienmärkte mit Gewinnen ins Wochenende gegangen. Der Dow Jones Industrial …"
+        },
+        {
+          "title": "Pluszeichen in New York: NASDAQ 100 notiert zum Handelsende im Plus",
+          "link": "https://www.finanzen.net/nachricht/aktien/pluszeichen-in-new-york-nasdaq-100-notiert-zum-handelsende-im-plus-15953900",
+          "published": "2026-09-25T20:32:58+00:00",
+          "summary": "Der NASDAQ 100 kletterte im NASDAQ-Handel letztendlich um 0,42 Prozent auf 30.608,13 Punkte. In den Freitagshandel ging der NASDAQ 100 0,127 Prozent stärker bei 30.517,46 Punkten, nach 30.478,86 ..."
         }
       ],
       "error": null
