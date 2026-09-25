@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:09:08+00:00",
+  "generatedAt": "2026-09-25T00:13:12+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/evers-cdu-fraktion-berlin-100.html",
+          "published": "2026-09-24T22:56:25+00:00",
+          "summary": "Berlins Finanzsenator Evers wird künftig die CDU-Fraktion im Abgeordnetenhaus führen. Er sei offen für eine Koalition mit der SPD und den Grünen - zunächst wolle er aber die Sondierungsgespräche der …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81168.html",
+          "published": "2026-09-24T22:52:03+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Nations League: Klopp-Einstand mit Enthusiasmus, Fehlern und Remis in den Niederlanden",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-einstand-mit-enthusiasmus-fehlern-und-remis,spielbericht-nl-niederlande-deutschland-100.html",
+          "published": "2026-09-24T22:15:55+00:00",
+          "summary": "Bis in die Nachspielzeit sah es nach einem Einstand nach Maß für Jürgen Klopp aus. Doch dann trafen die Niederländer gegen ein enthusiastisches, aber fehlerhaftes DFB-Team doch noch zum 1:1-Ausgleich."
+        },
+        {
           "title": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
           "link": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
           "published": "2026-09-24T21:51:23+00:00",
           "summary": "Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahost."
         },
         {
-          "title": "Nations League: Klopp-Einstand mit Enthusiasmus, Fehlern und Remis in den Niederlanden",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-einstand-mit-enthusiasmus-fehlern-und-remis,spielbericht-nl-niederlande-deutschland-100.html",
-          "published": "2026-09-24T21:49:51+00:00",
-          "summary": "Bis in die Nachspielzeit sah es nach einem Einstand nach Maß für Jürgen Klopp aus. Doch dann trafen die Niederländer gegen ein enthusiastisches, aber fehlerhaftes DFB-Team doch noch zum 1:1-Ausgleich."
-        },
-        {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12884.html",
           "published": "2026-09-24T21:46:28+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Erneuter Vorstoß im Bundestag zu Widerspruchslösung für Organspenden",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1655120.html",
-          "published": "2026-09-24T21:38:54+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Anja Kohl, HR, zur positiven Konjunkturprognose der Wirtschaftsforschungsinstitute",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1655114.html",
-          "published": "2026-09-24T21:36:27+00:00",
           "summary": ""
         }
       ],
@@ -125,6 +125,12 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "GNW-News: Quantexa erhält von Chartis Research höchste Auszeichnungen in den Bereichen AML-Transaktionsüberwachung und im Rahmen der RiskTech100",
+          "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-quantexa-erhaelt-von-chartis-research-hoechste-auszeichnungen-in-den-bereichen-aml-transaktionsueberwachung-und-im-rahmen-der-risktech100-15951977",
+          "published": "2026-09-24T22:48:38+00:00",
+          "summary": "^Pionier im Bereich?Decision Intelligence\" wurde im aktualisierten?AMLTransaction Monitoring Quadrant 2026\" von Chartis als?Category Leader\" ausgezeichnetQuantexa belegt Platz 18 und gewinnt im …"
+        },
+        {
           "title": "Goldpreis-Hausse noch lange nicht vorbei? Wo Experten die nächste Rally-Etappe sehen",
           "link": "https://www.finanzen.net/nachricht/rohstoffe/notenbanken-kaufen-weiter-goldpreis-hausse-noch-lange-nicht-vorbei-wo-experten-die-naechste-rally-etappe-sehen-00-15950635",
           "published": "2026-09-24T21:54:00+00:00",
@@ -147,12 +153,6 @@
           "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
           "published": "2026-09-24T21:20:00+00:00",
           "summary": "BIS-Forscher hinterfragen gängige Onchain-Kennzahlen bei Bitcoin Wechselgeld-Effekte und verlorene Coins verzerren gängige Berechnungen Auch Ethereum und Tron zeigen laut Studie ähnliche Messprobleme"
-        },
-        {
-          "title": "KI-Aktien wie NVIDIA vor dem Crash? Warum Anleihekönig Jeffrey Gundlach die Reißleine zieht",
-          "link": "https://www.finanzen.net/nachricht/aktien/anleihekoenig-steigt-aus-ki-aktien-wie-nvidia-vor-dem-crash-warum-anleihekoenig-jeffrey-gundlach-die-reissleine-zieht-00-15948249",
-          "published": "2026-09-24T21:18:00+00:00",
-          "summary": "Gundlach senkt seine empfohlene Aktienquote von 40 auf 30 Prozent Statt auf KI-Schwergewichte setzt er auf einen gleichgewichteten Index Beim Shiller-KGV über 42 erwartet er negative reale Renditen …"
         }
       ],
       "error": null
