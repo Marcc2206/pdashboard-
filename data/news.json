@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T04:09:05+00:00",
+  "generatedAt": "2026-09-26T06:11:10+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Fachkräfte wetteifern auf der Weltmeisterschaft der Berufe",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/world-skills-shanghai-100.html",
+          "published": "2026-09-26T06:00:40+00:00",
+          "summary": "In Shanghai laufen die Wettkämpfe der \"WorldSkills\". Die chinesische Metropole ist erstmals Austragungsort der der Weltmeisterschaft der Berufe, bei der auch deutsche Fachkräfte am Start sind. Von …"
+        },
+        {
+          "title": "Weltraumspiegel: Satelliten sollen nachts die Erde erhellen",
+          "link": "https://www.tagesschau.de/wissen/technologie/satellitenspiegel-nacht-100.html",
+          "published": "2026-09-26T05:56:44+00:00",
+          "summary": "Ein US-Unternehmen will Tausende Satelliten ins All schicken, um mit Spiegeln die Nachtseite der Erde zu beleuchten. Forschende warnen vor Gefahren für Astronomie, Natur - und den Menschen. Von Jan …"
+        },
         {
           "title": "Deutsche Olympia-Bewerbung: Wer macht das Rennen?",
           "link": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/tt-12878.html",
           "published": "2026-09-25T20:43:59+00:00",
           "summary": ""
-        },
-        {
-          "title": "Ukrainische Wirtschaft durch Krieg mit Russland unter Druck",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1655650.html",
-          "published": "2026-09-25T20:17:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Die Meinung von Christian Feld, ARD Brüssel, zur Regulierung von KI",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1655646.html",
-          "published": "2026-09-25T20:13:50+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Ukraine-Krieg +++: Die Ukraine bittet die Partner um weitere 27 Milliarden Dollar für Verteidigung",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-26T03:39:00+00:00",
-          "summary": "Putin zu neuen Verhandlungen: Werden gründlich überlegen +++ Treffen zwischen USA, Ukraine und Russland könnte bald stattfinden +++ Selenskyj: Finanzierung von Drohnen gefährdet +++ Der Newsblog."
+          "title": "Aktie im Blick: Anleger misstrauen den Zukunftsplänen von Novo Nordisk",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-anleger-misstrauen-den-zukunftsplaenen-von-novo-nordisk-01/100256611.html",
+          "published": "2026-09-26T05:57:00+00:00",
+          "summary": "Der Hersteller von Abnehmspritzen und Weltmarktführer für Insulinprodukte blickt weit in die Zukunft. Doch das reicht Anlegern nicht. Ein großer Wettbewerber macht es besser."
         },
         {
-          "title": "+++ Bundespolitik +++: Digitalminister Wildberger fordert internationale KI-Kontrolle",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-digitalminister-wildberger-fordert-internationale-ki-kontrolle/100137034.html",
-          "published": "2026-09-26T03:36:00+00:00",
-          "summary": "Bundesrat stimmt Tankrabatt zu – Gilt ab 1. Oktober +++ Länder im Bundesrat gegen höhere Steuern +++ Söder fordert grundlegende Reform der Energiesteuern +++ Der Newsblog."
+          "title": "Arbeitszeit: Berechnen Sie, wie teuer Ihr letztes Meeting war",
+          "link": "https://www.handelsblatt.com/karriere/arbeitszeit-teuer-und-ineffizient-so-viel-hat-ihr-letztes-meeting-gekostet-01/100245523.html",
+          "published": "2026-09-26T05:55:00+00:00",
+          "summary": "Corporate Deutschland sitzt und redet. Doch viele Meetings liefern wenig Output. Der Handelsblatt-Rechner hilft Ihnen, Kosten von Meetings besser zu schätzen – und diese effizienter zu führen."
         },
         {
-          "title": "Mit Zustimmung der Verbraucher: Pakete landen immer häufiger vor der Haustür",
-          "link": "https://www.handelsblatt.com/politik/deutschland/mit-zustimmung-der-verbraucher-pakete-landen-immer-haeufiger-vor-der-haustuer/100257566.html",
-          "published": "2026-09-26T03:00:10+00:00",
-          "summary": "Ein paar Klicks und das Paket ist bestellt. Aber wie bekomme ich es, wenn ich nicht daheim bin? Der Paketbote soll es einfach vor die Tür legen, finden viele Bürger. Doch die Sache hat ein Risiko."
+          "title": "+++ USA +++: US-Sender CNN darf Trump nicht auf Reise nach Tennessee begleiten",
+          "link": "https://www.handelsblatt.com/politik/international/usa-us-sender-cnn-darf-trump-nicht-auf-reise-nach-tennessee-begleiten/29669594.html",
+          "published": "2026-09-26T05:53:28+00:00",
+          "summary": "Republikaner scheitern mit Wahlkreis-Umbau für Missouri +++ Trump will vom Kongress bewilligte Mittel zurückhalten +++ Xi Jinping lädt Trump zu nächstem Treffen nach China ein +++ Der Newsblog."
         },
         {
-          "title": "Ernährung: Experten warnen vor Risiken bei Nahrungsergänzungsmitteln",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/ernaehrung-experten-warnen-vor-risiken-bei-nahrungsergaenzungsmitteln/100257565.html",
-          "published": "2026-09-26T03:00:06+00:00",
-          "summary": "Mehr als 30.000 neue Mittel kamen 2025 auf den Markt – ohne behördliche Prüfung. Wissenschaftler schlagen Alarm und schicken einen Brief an zwei Bundesministerien."
+          "title": "Management: Das Erfolgsprinzip von Amazon – und was andere Unternehmen davon lernen können",
+          "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-was-ehemalige-top-manager-ueber-den-erfolg-von-amazon-verraten-01/100244278.html",
+          "published": "2026-09-26T05:49:00+00:00",
+          "summary": "Um die Managementtechniken des Konzerns ranken sich viele Legenden. Ehemalige Führungskräfte verraten exklusiv, wie sie funktionieren und wie sie sich auf andere Firmen übertragen lassen."
         },
         {
-          "title": "Künstliche Intelligenz: KI von OpenAI lud Nutzer-Bilder zu Online-Plattformen hoch",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257564.html",
-          "published": "2026-09-26T02:55:54+00:00",
-          "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Zudem heißt es nun, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet."
+          "title": "Filiz Albrecht: „Ich halte nichts von Cowboy-Mentalität und autoritärer Führung“",
+          "link": "https://www.handelsblatt.com/unternehmen/management/filiz-albrecht-ich-halte-nichts-von-cowboy-mentalitaet-und-autoritaerer-fuehrung-01/100232396.html",
+          "published": "2026-09-26T05:46:00+00:00",
+          "summary": "Sie war die erste Vorständin bei Bosch. Seitdem weiß sie: Harte Entscheidungen können nötig sein, Härte gegenüber Menschen nicht. Heute zweifelt sie am Leistungsprinzip. Warum?"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Ablageort zugestimmt: Pakete landen immer häufiger vor der Haustür",
+          "link": "https://www.n-tv.de/wirtschaft/Pakete-landen-immer-haeufiger-vor-der-Haustuer-id31350398.html",
+          "published": "2026-09-26T05:02:50+00:00",
+          "summary": "Ein paar Klicks und das Paket ist bestellt. Aber wie bekomme ich es, wenn ich nicht daheim bin? Der Paketdienst soll es einfach vor die Tür legen, finden viele. Doch das ist nicht ohne Risiko."
+        },
         {
           "title": "Wochenvorschau: Termine bis 4. Oktober 2026",
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-4-Oktober-2026-id31322501.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Produktion-von-Weihnachtsschokolade-laeuft-auf-Hochtouren-id31346981.html",
           "published": "2026-09-25T15:58:10+00:00",
           "summary": "Rund drei Monate vor Weihnachten ist die Produktion in den Schokoladenfabriken bereits in vollem Gange. Wie tief Verbraucher für Nikolaus, Weihnachtsmann und Co in die Tasche greifen müssen, ist noch …"
-        },
-        {
-          "title": "Ab November geht es los: Zwei-Euro-Gebühr soll Paketflut aus China eindämmen",
-          "link": "https://www.n-tv.de/wirtschaft/Zwei-Euro-Gebuehr-soll-Paketflut-aus-China-eindaemmen-id31349056.html",
-          "published": "2026-09-25T14:58:12+00:00",
-          "summary": "Milliarden Pakete von Onlinehändlern fluten 2025 die EU, der Großteil stammt aus China und von dortigen Billigproduzenten. Die Europäische Union will das ändern und führt ab November eine Gebühr von …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Lehren aus der Krise: Erste Erkenntnisse aus dem Iran-Krieg und dem globalen Energieschock",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/werbung-lehren-aus-der-krise-erste-erkenntnisse-aus-dem-iran-krieg-und-dem-globalen-energieschock-15657084",
-          "published": "2026-09-26T04:02:00+00:00",
-          "summary": "https://www.finanzen.net/specials-advertorials/advertorial ..."
+          "title": "Engagement ausgebaut: Führungskraft erhöht flatexDEGIRO-Position",
+          "link": "https://www.finanzen.net/nachricht/aktien/engagement-ausgebaut-fuehrungskraft-erhoeht-flatexdegiro-position-15954158",
+          "published": "2026-09-26T06:01:12+00:00",
+          "summary": "Am 25.09.2026 wurden bei flatexDEGIRO Eigengeschäfte von Führungskräften registriert. flatexDEGIRO meldete die Managers’ Transaction am 25.09.2026. Von in enger Beziehung Ditandus GmbH wurden am …"
         },
         {
-          "title": "Kaufsignal oder Modellrechnung? Warum ein Analyst eine Verdopplung der Intel-Aktie für möglich hält",
-          "link": "https://www.finanzen.net/nachricht/aktien/foundry-geschaeft-im-fokus-kaufsignal-oder-modellrechnung-warum-ein-analyst-eine-verdopplung-der-intel-aktie-fuer-moeglich-haelt-00-15945904",
-          "published": "2026-09-26T03:52:00+00:00",
-          "summary": "Melius Research-Analyst Ben Reitzes stellt gewagte 200-US-Dollar-These auf Foundry-Geschäft und 14A-Fertigung als Werttreiber Expertenkonsens nach starkem Lauf vorsichtig Melius Research-Analyst ..."
+          "title": "Asien entdeckt Bitcoin: Warum Japan den nächsten Krypto-Boom auslösen könnte",
+          "link": "https://www.finanzen.net/nachricht/devisen/krypto-wende-asien-entdeckt-bitcoin-warum-japan-den-naechsten-krypto-boom-ausloesen-koennte-00-15916494",
+          "published": "2026-09-26T05:53:00+00:00",
+          "summary": "Metaplanet-Chef Simon Gerovich spricht vom Beginn eines asiatischen Bitcoin -Zyklus •Japan hat 2026 eine umfassende Reform der Krypto-Regulierung beschlossen •Metaplanet hält ..."
         },
         {
-          "title": "High-Margin Nischen: Warum Spezialpharma boomt und welche Aktien profitieren",
-          "link": "https://www.finanzen.net/nachricht/aktien/nebenwerte-im-fokus-high-margin-nischen-warum-spezialpharma-boomt-und-welche-aktien-profitieren-00-15938935",
-          "published": "2026-09-26T03:23:00+00:00",
-          "summary": "JPMorgan startet SCHOTT Pharma mit Overweight und Kursziel 27,10 Euro Lonza steigerte die Kern-EBITDA-Marge im ersten Halbjahr auf 34,8 Prozent Auch Gerresheimer und West Pharma bauen Kapazitäten für …"
+          "title": "Der neue WhatsApp-Channel von finanzen.net ist da - jetzt abonnieren!",
+          "link": "https://www.finanzen.net/nachricht/aktien/top-news-im-ueberblick-der-neue-whatsapp-channel-von-finanzen-net-ist-da-jetzt-abonnieren-13733006",
+          "published": "2026-09-26T05:53:00+00:00",
+          "summary": "Hier geht's direkt zum WhatsApp-Channel von finanzen.net! Seien Sie beim neuen WhatsApp-Channel von finanzen.net ..."
         },
         {
-          "title": "KW 39 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-39-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15925702",
-          "published": "2026-09-26T03:14:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 39"
+          "title": "XRP nach US-Wahl 2024 fast versiebenfacht: Kommt nach den Midterms die Ripple-Rally?",
+          "link": "https://www.finanzen.net/nachricht/devisen/prognose-fuer-kryptosaison-xrp-nach-us-wahl-2024-fast-versiebenfacht-kommt-nach-den-midterms-die-ripple-rally-00-15938955",
+          "published": "2026-09-26T05:44:00+00:00",
+          "summary": "XRP legte nach der US-Wahl 2024 binnen weniger Wochen um rund 580 Prozent zu Ripple-Chef Garlinghouse gilt als Schlüsselfigur in Trumps Kryptopolitik Vor den Midterms fließen fast 200 Millionen ..."
         },
         {
-          "title": "Tesla-Aktie nach enttäuschendem Cybercab-Debüt: Warum Anleger die Robotaxi-Story hinterfragen sollten",
-          "link": "https://www.finanzen.net/nachricht/aktien/behoerde-ermittelt-tesla-aktie-nach-enttaeuschendem-cybercab-debuet-warum-anleger-die-robotaxi-story-hinterfragen-sollten-00-15948072",
-          "published": "2026-09-26T03:14:00+00:00",
-          "summary": "Cybercab-Event ohne Musk lässt Anleger ratlos zurück Regulierer und Wettbewerber setzen Tesla unter Druck Analysten bleiben trotz hoher Investitionen zurückhaltend für Tesla-Aktie"
+          "title": "Vermögensaufbau für Minderjährige: So holen Eltern das Maximum aus Steuern und Automatisierung heraus",
+          "link": "https://www.finanzen.net/nachricht/aktien/vermoegensaufbau-fuer-minderjaehrige-so-holen-eltern-das-maximum-aus-steuern-und-automatisierung-heraus-15954155",
+          "published": "2026-09-26T05:44:00+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "BörsenWoche 578: Editorial: Wie kann das gutgehen?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/steigende-zinsen-und-aktien-warum-die-kurse-trotzdem-klettern/100257162.html",
+          "published": "2026-09-26T04:51:00+00:00",
+          "summary": "Ölpreis, Anleiherenditen, Leitzinsen: Das Umfeld für Aktien war schonmal besser. Doch es gibt gute Gründe für steigende Kurse."
+        },
+        {
+          "title": "BörsenWoche 578: Analyse: So wirkt sich die Abnehmpille aufs Depot aus",
+          "link": "https://www.wiwo.de/finanzen/boerse/boom-der-abnehmpille-zwei-aktien-trotzen-dem-snack-druck/100256472.html",
+          "published": "2026-09-26T04:50:00+00:00",
+          "summary": "Der Markt für GLP-1-Medikamente wächst rasant. Das verändert auch die Essgewohnheiten und sorgt für Druck auf Lebensmittelhersteller. Doch einige reagieren längst."
+        },
+        {
           "title": "BASF-Chef Kamieth: Der Sanierer, der jetzt Deutschlands zweitgrößten Chemiekonzern kaufen will",
           "link": "https://www.wiwo.de/unternehmen/industrie/basf-will-evonik-kaufen-was-hinter-kamieths-strategiewechsel-steckt/100257510.html",
           "published": "2026-09-25T17:56:06+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/erfolg/gruender/start-up-der-woche-ventile-fuer-das-weltall/100256629.html",
           "published": "2026-09-25T16:14:30+00:00",
           "summary": "DeltaVision fertigt Bauteile für Raketen – und will sie bald im All betanken. Was hält Investor Herbert Mangesius von der Idee?"
-        },
-        {
-          "title": "Fondstipp der Woche: Überraschende Chancen in Griechenland",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/alken-small-cap-europe-chancen-mit-griechenland-aktien/100256814.html",
-          "published": "2026-09-25T15:44:15+00:00",
-          "summary": "Über Jahre dominierten Großkonzerne die Börsen, jetzt holen Nebenwerte auf. Ein Fondsmanager setzt dabei erfolgreich auf griechische Banken."
-        },
-        {
-          "title": "Rückruf bei VW und Audi: Lenkungsausfall droht – was tun?",
-          "link": "https://www.wiwo.de/unternehmen/auto/rueckruf-bei-vw-und-audi-lenkungsausfall-droht-was-tun/100257495.html",
-          "published": "2026-09-25T14:48:14+00:00",
-          "summary": "VW ruft fast eine Million Autos wegen Problemen an der Lenkung zurück. Betroffene Modelle bei VW, Audi und Seat, Sicherheitsrisiko und Werkstatt-Ablauf im Überblick."
         }
       ],
       "error": null
