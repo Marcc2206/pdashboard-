@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:09:59+00:00",
+  "generatedAt": "2026-09-26T20:08:18+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wadephul trifft überraschend Lawrow in New York",
-          "link": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
-          "published": "2026-09-26T17:54:50+00:00",
-          "summary": "Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und Lawrow fand am Rande …"
-        },
-        {
-          "title": "Militärübung \"Red Storm Charlie\" beendet",
-          "link": "https://www.tagesschau.de/inland/regional/hamburg/red-storm-charlie-1700-kraefte-bei-militaer-uebung-in-hamburg,stormpk-100.html",
-          "published": "2026-09-26T17:45:05+00:00",
-          "summary": "Begleitet von Demonstrationen ist in Hamburg eine dreitägige zivil-militärische Übung zu Ende gegangen. Teilgenommen hatten 1.700 Einsatzkräfte - unter anderem von Bundeswehr und Polizei."
-        },
-        {
           "title": "Münchens Segelstandort Kiel jubelt - Trauer in Warnemünde",
           "link": "https://www.ndr.de/sport/olympia/Olympia-Bewerbung-DOSB-Muenchen-Kiel-Rhein-Ruhr-Warnemuende,olympia-entscheidung-100.html",
-          "published": "2026-09-26T17:33:18+00:00",
+          "published": "2026-09-26T19:55:44+00:00",
           "summary": "Die bayerische Landeshauptstadt geht ins Rennen für die Spiele 2036, 2040 oder 2044. Kiel wäre dann Segelstandort, Warnemünde hingegen geht leer aus."
         },
         {
-          "title": "Arnd Henze, ARD Washington, über das Gespräch zwischen Wadephul und Lawrow",
-          "link": "https://www.tagesschau.de/video/video-1655962.html",
-          "published": "2026-09-26T17:12:33+00:00",
+          "title": "Olympia-Bewerbung: Entscheidung über deutschen Kandidaten fällt auf München und Kiel",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1656056.html",
+          "published": "2026-09-26T19:35:39+00:00",
           "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-26T17:09:04+00:00",
-          "summary": "Am Sonntag lösen sich tagsüber die einzelnen Nebelfelder rasch auf. Dann viel Sonnenschein neben meist lockeren und nur ab und an dichteren Wolkenfeldern."
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656078.html",
+          "published": "2026-09-26T19:20:49+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Berliner SPD will mit Linken und Grünen sondieren",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-spd-linke-gruene-sondierungen-100.html",
+          "published": "2026-09-26T19:09:20+00:00",
+          "summary": "Der Vorstand der Berliner SPD hat sich nach Informationen des rbb zu Sondierungsgesprächen mit Linkspartei und Grünen bereit erklärt. Damit haben nun alle drei Parteien Sondierungen zugestimmt."
+        },
+        {
+          "title": "Wadephul trifft überraschend Lawrow in New York",
+          "link": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+          "published": "2026-09-26T19:00:59+00:00",
+          "summary": "Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und Lawrow fand am Rande …"
         }
       ],
       "error": null
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Wahlen: Berliner SPD will mit Linken über Regierungsbildung sprechen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-berliner-spd-will-mit-linken-ueber-regierungsbildung-sprechen/100257636.html",
+          "published": "2026-09-26T18:36:48+00:00",
+          "summary": "Die Linke will erstmals die Regierende Bürgermeisterin in der Hauptstadt stellen – doch die SPD sieht als mögliche Partnerin hohe Hürden. Welche Verhandlungen nun anstehen."
+        },
         {
           "title": "Kommentar: Trump gefährdet mit seiner Außenpolitik die demokratische Welt",
           "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-trump-gefaehrdet-mit-seiner-aussenpolitik-die-demokratische-welt/100256385.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/migration-dobrindt-will-frontex-deutlich-staerken/100257615.html",
           "published": "2026-09-26T16:35:07+00:00",
           "summary": "Bundesinnenminister Alexander Dobrindt hat einige Amtskollegen aus Europa nach München eingeladen. Er will den Kurs in der Migrationspolitik weiter verschärfen. Was schlägt er vor?"
-        },
-        {
-          "title": "Vereinte Nationen: Erste Gespräche seit Jahren: Wadephul trifft Lawrow",
-          "link": "https://www.handelsblatt.com/politik/international/vereinte-nationen-erste-gespraeche-seit-jahren-wadephul-trifft-lawrow/100257625.html",
-          "published": "2026-09-26T16:14:50+00:00",
-          "summary": "Seit Beginn des russischen Angriffskriegs gab es kein bilaterales Gespräch der Außenminister Deutschlands und Russlands mehr. Nun treffen sich Wadephul und Lawrow überraschend in New York."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Miete um 275 Prozent erhöht: Zwangsräumung von 87-Jähriger bringt Tausende auf die Straße",
+          "link": "https://www.n-tv.de/wirtschaft/Zwangsraeumung-von-87-Jaehriger-bringt-Tausende-auf-die-Strasse-id31351666.html",
+          "published": "2026-09-26T19:40:45+00:00",
+          "summary": "In Madrid erhöht ein Investor die Miete einer 87 Jahre alten Frau drastisch - auf 2650 Euro im Monat. Die Seniorin kann das nicht bezahlen und wird unter Zwang aus ihrer Wohnung geholt. Der Fall löst …"
+        },
         {
           "title": "Warten auf den großen Durchbruch: Bei der Quantencomputer-Revolution mischt Deutschland ganz vorne mit",
           "link": "https://www.n-tv.de/wirtschaft/Bei-der-Quantencomputer-Revolution-mischt-Deutschland-ganz-vorne-mit-id31348813.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Tiktok-stimmt-Vergleich-und-damit-Millionenzahlung-zu-id31350637.html",
           "published": "2026-09-26T09:33:48+00:00",
           "summary": "Der US-Bundesstaat Alabama wirft Tiktok vor, Minderjährige in eine Social-Media-Sucht zu treiben. Kurz vor Prozessbeginn lenkt die Videoplattform ein und will zahlen. Der Betrag liegt im …"
-        },
-        {
-          "title": "Nächster Ausbruch: KI von OpenAI lud Nutzer-Bilder auf Online-Plattformen hoch",
-          "link": "https://www.n-tv.de/wirtschaft/KI-von-OpenAI-lud-Nutzer-Bilder-auf-Online-Plattformen-hoch-id31350448.html",
-          "published": "2026-09-26T08:53:29+00:00",
-          "summary": "OpenAI verliert erneut die Kontrolle über seine KI: Nutzerbilder aus Daten von ChatGPT-Nutzern tauchen plötzlich auf fremden Plattformen auf. Die Sicherheitsalarmglocken werden lauter."
         }
       ],
       "error": null
@@ -127,32 +127,32 @@
         {
           "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
-          "published": "2026-09-26T17:54:00+00:00",
+          "published": "2026-09-26T19:54:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "XRP nach US-Wahl 2024 fast versiebenfacht: Kommt nach den Midterms die Ripple-Rally?",
-          "link": "https://www.finanzen.net/nachricht/devisen/prognose-fuer-kryptosaison-xrp-nach-us-wahl-2024-fast-versiebenfacht-kommt-nach-den-midterms-die-ripple-rally-00-15938955",
-          "published": "2026-09-26T17:48:00+00:00",
-          "summary": "XRP legte nach der US-Wahl 2024 binnen weniger Wochen um rund 580 Prozent zu Ripple-Chef Garlinghouse gilt als Schlüsselfigur in Trumps Kryptopolitik Vor den Midterms fließen fast 200 Millionen ..."
+          "title": "OpenAI: Nutzer-Bilder landeten durch KI auf externen Plattformen",
+          "link": "https://www.finanzen.net/nachricht/aktien/chatgpt-openai-nutzer-bilder-landeten-durch-ki-auf-externen-plattformen-15954201",
+          "published": "2026-09-26T19:39:00+00:00",
+          "summary": "Die Links dazu seien nicht öffentlich gewesen, erklärte OpenAI. Ein Großteil sei bereits wieder entfernt worden und man arbeite mit den Plattformen daran, auch den Rest zu löschen. Es ist der erste …"
         },
         {
-          "title": "Asien entdeckt Bitcoin: Warum Japan den nächsten Krypto-Boom auslösen könnte",
-          "link": "https://www.finanzen.net/nachricht/devisen/krypto-wende-asien-entdeckt-bitcoin-warum-japan-den-naechsten-krypto-boom-ausloesen-koennte-00-15916494",
-          "published": "2026-09-26T17:47:00+00:00",
-          "summary": "Metaplanet-Chef Simon Gerovich spricht vom Beginn eines asiatischen Bitcoin -Zyklus •Japan hat 2026 eine umfassende Reform der Krypto-Regulierung beschlossen •Metaplanet hält ..."
+          "title": "VW-Aktie: Neuer Rückruf zwingt Fahrer zu zwei Werkstatt-Besuchen",
+          "link": "https://www.finanzen.net/nachricht/aktien/korrosion-vw-aktie-neuer-rueckruf-zwingt-fahrer-zu-zwei-werkstatt-besuchen-15954320",
+          "published": "2026-09-26T19:37:00+00:00",
+          "summary": "Bei dem Rückruf geht es um Korrosion an einer Befestigungsverschraubung der Lenkung.Zum Start der Aktion könne die vorgeschriebene Schraube möglicherweise nicht in ausreichender Menge zur Verfügung …"
         },
         {
-          "title": "So viel Verlust hätte eine Investition in Toncoin von vor 5 Jahren bedeutet",
-          "link": "https://www.finanzen.net/nachricht/devisen/so-viel-verlust-haette-eine-investition-in-toncoin-von-vor-5-jahren-bedeutet-15954584",
-          "published": "2026-09-26T17:43:04+00:00",
-          "summary": "Toncoin wurde am 23.12.2021 zu einem Wert von 3,508 USD gehandelt. Investoren, die vor 5 Jahren 100 USD in TON investierten, hätten nun 28,51 Toncoin im Portfolio. Mit dem TON-USD-Kurs vom 25.09.2026 …"
+          "title": "Straße von Hormus: Iran schiebt den Ball bei Öffnung den USA zu",
+          "link": "https://www.finanzen.net/nachricht/aktien/persischer-golf-strasse-von-hormus-iran-schiebt-den-ball-bei-oeffnung-den-usa-zu-15954250",
+          "published": "2026-09-26T19:33:00+00:00",
+          "summary": "Teheran habe Washington über Katar einen \"Sieben-Tage-Plan\" übermittelt, sagte Außenminister Abbas Araghtschi in New York vor Journalisten. Die Entscheidung liege nun bei den Vereinigten Staaten. …"
         },
         {
-          "title": "Wie viel Verlust ein Investment in Hedera von vor 5 Jahren eingefahren hätte",
-          "link": "https://www.finanzen.net/nachricht/devisen/wie-viel-verlust-ein-investment-in-hedera-von-vor-5-jahren-eingefahren-haette-15954583",
-          "published": "2026-09-26T17:43:04+00:00",
-          "summary": "Hedera wurde am 26.10.2021 zu einem Wert von 0,3908 USD gehandelt. Wenn ein Anleger damals 1.000 USD in HBAR investiert hätte, befänden sich nun 2.558,71 Hedera in seinem Portfolio. Die gehaltenen ..."
+          "title": "Meta-Aktie: Gericht weist Einwände im Cambridge-Analytica-Fall ab",
+          "link": "https://www.finanzen.net/nachricht/aktien/datenschutz-meta-aktie-gericht-weist-einwaende-im-cambridge-analytica-fall-ab-15954200",
+          "published": "2026-09-26T19:21:00+00:00",
+          "summary": "Geschworene im US-Bundesstaat New Mexico entschieden, dass Nutzer mit Blick auf Datenschutz und Redefreiheit in die Irre geführt wurden. Der zuständige Richter soll nun die Höhe der Strafe festlegen …"
         }
       ],
       "error": null
