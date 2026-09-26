@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T00:11:41+00:00",
+  "generatedAt": "2026-09-26T02:08:33+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655680.html",
+          "published": "2026-09-26T00:18:21+00:00",
+          "summary": ""
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12878.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1655642.html",
           "published": "2026-09-25T20:12:41+00:00",
           "summary": ""
-        },
-        {
-          "title": "Berliner Linkspartei entscheidet bei Sonderparteitag über mögliche Sondierungsgespräche",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1655638.html",
-          "published": "2026-09-25T20:10:53+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -48,6 +48,24 @@
       "items": [
         {
           "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
+          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257541.html",
+          "published": "2026-09-26T01:56:07+00:00",
+          "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Es heißt, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet."
+        },
+        {
+          "title": "Düsseldorfer Konzern: Persil, Taft, Pril, Pritt – Henkel wird 150",
+          "link": "https://www.handelsblatt.com/politik/deutschland/duesseldorfer-konzern-persil-taft-pril-pritt-henkel-wird-150/100257545.html",
+          "published": "2026-09-26T01:30:05+00:00",
+          "summary": "Mit seinen bekannten Markenprodukten prägt Henkel seit Jahrzehnten den Alltag vieler Kunden. Ein Blick auf wichtige Meilensteine, Krisen und aktuelle Herausforderungen des Konzerns."
+        },
+        {
+          "title": "Alter Skandal, neues Urteil: Rückschlag für Meta vor Gericht wegen Cambridge Analytica",
+          "link": "https://www.handelsblatt.com/technik/it-internet/alter-skandal-neues-urteil-rueckschlag-fuer-meta-vor-gericht-wegen-cambridge-analytica/100257543.html",
+          "published": "2026-09-26T01:08:56+00:00",
+          "summary": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Im Nachgang führt der Fall nun zu einem neuen Urteil gegen den Meta-Konzern. Das könnte für ihn teuer werden."
+        },
+        {
+          "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
           "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257537.html",
           "published": "2026-09-25T23:18:18+00:00",
           "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Zudem heißt es nun, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet."
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-haben-usa-plan-uebermittelt-nun-ist-washington-am-zug/100136895.html",
           "published": "2026-09-25T22:58:00+00:00",
           "summary": "Iran bei Atomprogramm in Verhandlungen offenbar unnachgiebig +++ Iran legt wohl Sieben-Tage-Plan zur Beendigung des Krieges vor +++ Netanjahu verteidigt Kriege bei UN-Rede +++ Der Newsblog."
-        },
-        {
-          "title": "Reformdebatte: SPD will bei Pflegereform Leistungskürzung verhindern",
-          "link": "https://www.handelsblatt.com/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257533.html",
-          "published": "2026-09-25T22:02:04+00:00",
-          "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten. Doch kurz vorher macht der Koalitionspartner Druck."
-        },
-        {
-          "title": "Frankreich-Besuch: Papst mahnt zu „neuer Brüderlichkeit“",
-          "link": "https://www.handelsblatt.com/politik/international/frankreich-besuch-papst-mahnt-zu-neuer-bruederlichkeit/100257440.html",
-          "published": "2026-09-25T20:29:23+00:00",
-          "summary": "Eigentlich gilt Frankreich als „älteste Tochter“ der Kirche. Aber beim ersten Besuch von Leo XIV. in Paris geht es auch um Konfliktthemen wie Sterbehilfe und Abtreibung. Und um seine Wurzeln."
-        },
-        {
-          "title": "Chemie: BASF arbeitet an Übernahme von Evonik – Aktien reagieren deutlich",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-arbeitet-an-uebernahme-von-evonik/100257452.html",
-          "published": "2026-09-25T19:41:40+00:00",
-          "summary": "In Deutschlands Chemieindustrie bahnt sich ein Milliarden-Zusammenschluss an: BASF prüft den Kauf von Evonik. Beide bestätigen eine Kontaktaufnahme. Nun gibt es erste Details zum möglichen Deal."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Tesla-Robotaxis floppen: Droht der Aktie der nächste Dämpfer?",
-          "link": "https://www.finanzen.net/nachricht/aktien/tesla-robotaxis-floppen-droht-der-aktie-der-naechste-daempfer-15954006",
-          "published": "2026-09-25T23:32:00+00:00",
-          "summary": "Nach dem Cybercab-Launch Anfang September steht die Tesla-Bewertung auf dem Prüfstand, während Regulierer, Analysten und das China-Geschäft neue Fragen aufwerfen."
+          "title": "KW 39 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-39-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15925702",
+          "published": "2026-09-26T01:50:23+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 39"
         },
         {
-          "title": "Showdown am US-Aktienmarkt: Warum Experten wie Tom Lee und Ed Yardeni jetzt heftig streiten",
-          "link": "https://www.finanzen.net/nachricht/aktien/showdown-am-us-aktienmarkt-warum-experten-wie-tom-lee-und-ed-yardeni-jetzt-heftig-streiten-15953979",
-          "published": "2026-09-25T23:22:00+00:00",
-          "summary": "Tom Lee hält trotz des jüngsten Fed-Schocks an seiner Prognose einer kräftigen Aktienmarktrally fest. Ein anderer Experte wird dagegen vorsichtiger."
+          "title": "KW 39: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
+          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-39-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15925704",
+          "published": "2026-09-26T00:53:43+00:00",
+          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 39 aus"
         },
         {
-          "title": "SpaceX-Aktie: Cathie Wood sieht eine 10-Billionen-Dollar-Chance - Was ist wirklich dran?",
-          "link": "https://www.finanzen.net/nachricht/aktien/woods-billionen-rechnung-spacex-aktie-cathie-wood-sieht-eine-10-billionen-dollar-chance-was-ist-wirklich-dran-00-15939377",
-          "published": "2026-09-25T23:12:00+00:00",
-          "summary": "Cathie Wood rechnet Starship-Flüge in gigantische Starlink-Umsätze um Musk reagiert auf ARK-Chefin und nennt das Ziel nicht unmöglich Die theoretische Rechnung setzt eine massive Steigerung der …"
+          "title": "Crash bei NVIDIA Co.? Anleihe-Legende Jeffrey Gundlach zieht die Notbremse",
+          "link": "https://www.finanzen.net/nachricht/aktien/crash-bei-nvidia-amp-co-anleihe-legende-jeffrey-gundlach-zieht-die-notbremse-15954033",
+          "published": "2026-09-26T00:37:00+00:00",
+          "summary": "Jeffrey Gundlach will mit seinem Depot so weit weg von KI wie möglich und stützt sich dabei auf eine Bewertungskennzahl, die bislang keine einzige Ausnahme kennt."
         },
         {
-          "title": "Sicher bestellen aus Drittländern: Zoll, Steuern und Fallen",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/online-shopping-sicher-bestellen-aus-drittlaendern-zoll-steuern-und-fallen-14628387",
-          "published": "2026-09-25T23:03:00+00:00",
-          "summary": "Einfuhr aus Nicht-EU-Ländern: Was rechtlich gilt Bestellungen aus sogenannten Drittländern, also Staaten außerhalb der Europäischen Union, unterliegen grundsätzlich einer zollamtlichen Abfertigung. …"
+          "title": "Überstunden: So erkennt man, wann Schluss ist - und was dann zu tun ist",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitsrecht-ueberstunden-so-erkennt-man-wann-schluss-ist-und-was-dann-zu-tun-ist-14645547",
+          "published": "2026-09-26T00:31:00+00:00",
+          "summary": "Wann gelten Überstunden - und wann nicht? Überstunden liegen vor, wenn Beschäftigte mehr arbeiten als vertraglich vereinbart, etwa über die im Arbeits-, Tarifvertrag oder per Betriebsvereinbarung …"
         },
         {
-          "title": "DAX in KW 39: Diese Aktien gehörten zu den Gewinnern und Verlierern",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-39-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15925676",
-          "published": "2026-09-25T21:39:00+00:00",
-          "summary": "So schnitten DAX-Werte in der Kalenderwoche 39 ab"
+          "title": "KW 39: Das waren die Gewinner und Verlierer im DAX",
+          "link": "https://www.finanzen.net/nachricht/aktien/kw-39-das-waren-die-gewinner-und-verlierer-im-dax-15954032",
+          "published": "2026-09-26T00:17:00+00:00",
+          "summary": "Im Laufe der Woche kam es am deutschen Aktienmarkt zu Ausschlägen. So entwickelten sich die Einzelwerte des deutschen Leitindex DAX."
         }
       ],
       "error": null
