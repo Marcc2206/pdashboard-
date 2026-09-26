@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:08:32+00:00",
+  "generatedAt": "2026-09-26T12:10:39+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Heiko Neumann, HR, mit Informationen zum Bundesweiten DGB-Aktionstag zur Rente",
-          "link": "https://www.tagesschau.de/video/video-1655762.html",
-          "published": "2026-09-26T09:23:21+00:00",
-          "summary": ""
+          "title": "DGB protestiert in mehreren Städten gegen Sozialreformen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
+          "published": "2026-09-26T12:05:22+00:00",
+          "summary": "Der Deutsche Gewerkschaftsbund (DGB) protestiert gegen die Sozialpolitik der Bundesregierung. In mehreren Städten gibt es Kundgebungen. Die geplanten Maßnahmen gingen zu Lasten der Arbeitnehmer …"
         },
         {
-          "title": "Wie lange gibt es diesen Gletscher noch? Weltkarte zeigt Schmelze",
-          "link": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html",
-          "published": "2026-09-26T09:16:37+00:00",
-          "summary": "Durch den Klimawandel schmelzen Gletscher - das ist bekannt. Doch wie lange wird es jeden einzelnen noch geben? Eine interaktive Karte zeigt, wie sie sich in Zukunft entwickeln - je nach …"
-        },
-        {
-          "title": "Kann die Linke in der Hauptstadt regieren?",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html",
-          "published": "2026-09-26T09:16:05+00:00",
-          "summary": "Die Abgeordnetenhauswahl in Berlin hat die Linke gewonnen. Aber was ist der Sieg wert? Antisemitismusvorwürfe lassen die möglichen Koalitionspartner SPD und Grüne zögern. Einige Linke sehen eine …"
-        },
-        {
-          "title": "Außenminister Wadephul spricht vor UN-Generalversammlung",
-          "link": "https://www.tagesschau.de/ausland/amerika/un-versammlung-wadephul-lawrow-100.html",
-          "published": "2026-09-26T09:11:14+00:00",
-          "summary": "Bundesaußenminister Wadephul vertritt heute Kanzler Merz bei den Vereinten Nationen. Die Unterstützung der Ukraine wird in seiner Rede vor der UN-Generalversammlung voraussichtlich im Mittelpunkt …"
+          "title": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html",
+          "published": "2026-09-26T11:27:04+00:00",
+          "summary": "Stolpersteine erinnern an die Opfer des Nationalsozialismus. Im sächsischen Heidenau sollen laut einem Beschluss des Stadtrats keine neuen mehr verlegt werden. Bundesbildungsministerin Prien spricht …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655748.html",
-          "published": "2026-09-26T08:49:00+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655810.html",
+          "published": "2026-09-26T11:26:40+00:00",
           "summary": ""
+        },
+        {
+          "title": "Warum die deutsche Offshore-Windenergiebranche in der Krise steckt",
+          "link": "https://www.tagesschau.de/wirtschaft/energie/offshore-windparks-deutschland-100.html",
+          "published": "2026-09-26T11:13:17+00:00",
+          "summary": "Bei Windenergie-Firmen wachsen die Sorgen. Projekte fehlen, chinesische Konkurrenten unterbieten die Preise. Droht das Schicksal der Solarenergie-Branche, indem Firmen schließen und die Produktion …"
+        },
+        {
+          "title": "Jubiläum des Comics \"Tim und Struppi\": Beliebt wie eh und je",
+          "link": "https://www.tagesschau.de/kultur/tim-struppi-comics-jubilaeum-100.html",
+          "published": "2026-09-26T11:11:51+00:00",
+          "summary": "Die Comics über den Reporter Tim und seinen Hund Struppi gab es schon vor dem Krieg. Doch vor 80 Jahren feierten sie den Durchbruch. Der Erfolg hält bis heute an. Neue Bücher durften nach dem Tod von …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Insight Innovation: An dieser Technologie hängt Intels Comeback",
-          "link": "https://www.handelsblatt.com/technik/it-internet/halbleiter-an-dieser-technologie-haengt-intels-comeback/100246256.html",
-          "published": "2026-09-26T10:00:03+00:00",
-          "summary": "Mit einem neuen Fertigungsprozess wagt der Chiphersteller einen fundamentalen Wechsel in der Transistorarchitektur. Anleger feiern den technischen Fortschritt – aber eine Sache fehlt noch."
+          "title": "Krankenversicherung: Ökonomen schlagen Solidarbeitrag für Gutverdiener vor statt Bürgerversicherung",
+          "link": "https://www.handelsblatt.com/politik/deutschland/krankenversicherung-solidarbeitrag-fuer-gutverdiener-statt-buergerversicherung/100257192.html",
+          "published": "2026-09-26T11:41:35+00:00",
+          "summary": "Private Krankenversicherung behalten, Gutverdienende stärker beteiligen: Ökonomen des Kiel-Instituts schlagen einen Mittelweg zwischen dem heutigen System und einer Bürgerversicherung vor."
         },
         {
-          "title": "+++ US-Zollpolitik +++: China und USA einigen sich auf Zollsenkungen für Waren im Wert von 30 Milliarden US-Dollar",
-          "link": "https://www.handelsblatt.com/politik/international/us-zoelle-china-und-usa-einigen-sich-auf-zollsenkungen-details-am-montag/30026990.html",
-          "published": "2026-09-26T09:52:33+00:00",
-          "summary": "USA wollen am Montag Details zu Handelsvereinbarungen mit China nennen +++ US-Regierung – Zusatzzölle gegen China erneut aufgeschoben +++ Der Newsblog."
+          "title": "Die Welt in Bildern: Blickfang",
+          "link": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
+          "published": "2026-09-26T11:30:00+00:00",
+          "summary": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein Blickfang."
         },
         {
-          "title": "Tesla: „Wenn in den USA einer Go sagt“ – Tesla-Ausbau in Grünheide weiter offen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-wenn-in-den-usa-einer-go-sagt-tesla-ausbau-in-gruenheide-weiter-offen/100257473.html",
-          "published": "2026-09-26T09:45:52+00:00",
-          "summary": "Elon Musk machte den Ausbau der Gigafabrik vom Einfluss der IG Metall abhängig. Entschieden ist nichts. Derweil können Mitarbeiter bis zu 10.000 Euro für Anwesenheit gewinnen."
+          "title": "Autobauer: Warum VW-Fahrer nach Rückruf zweimal in die Werkstatt müssen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/autobauer-warum-vw-fahrer-nach-rueckruf-zweimal-in-die-werkstatt-muessen/100257598.html",
+          "published": "2026-09-26T11:26:22+00:00",
+          "summary": "Eine fehlerhafte Schraube kann bei mehreren Modellen von VW, Audi und Seat zum Ausfall der Lenkung führen. Die Schrauben müssen getauscht werden, allerdings dürften nicht genug vorrätig sein. Was nun?"
         },
         {
-          "title": "Management: Das Erfolgsprinzip von Amazon – und was andere Unternehmen davon lernen können",
-          "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-was-ehemalige-top-manager-ueber-den-erfolg-von-amazon-verraten-02/100244278.html",
-          "published": "2026-09-26T09:26:00+00:00",
-          "summary": "Um die Managementtechniken des Konzerns ranken sich viele Legenden. Ehemalige Führungskräfte verraten exklusiv, wie sie funktionieren und wie sie sich auf andere Firmen übertragen lassen."
+          "title": "Longevity: Einblicke in eine exklusive Welt: Wo Superreiche das ewige Leben suchen",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/longevity-exklusive-einblicke-wo-superreiche-das-ewige-leben-suchen/100256251.html",
+          "published": "2026-09-26T10:59:55+00:00",
+          "summary": "120 Investoren und Ärzte treffen sich in den Schweizer Alpen zu einer Longevity-Tagung. Das Handelsblatt war dabei. Ein Ortsbesuch beim Milliardärstreffen gegen den Tod."
         },
         {
-          "title": "KI: Wer bezahlt die Aufpasser der KI?",
-          "link": "https://www.handelsblatt.com/meinung/kolumnen/deutschland-wer-bezahlt-die-aufpasser-der-ki-02/100256634.html",
-          "published": "2026-09-26T09:23:00+00:00",
-          "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert."
+          "title": "Ukraine-Krieg: Selenskyj: Tote und Verletzte durch russische Angriffe",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-tote-und-verletzte-durch-russische-angriffe/100257592.html",
+          "published": "2026-09-26T10:38:06+00:00",
+          "summary": "Nach Angriffen auf Saporischschja und andere Städte mahnt Selenskyj: „Russland eskaliert jeden Tag.“ Er bestätigt auch ukrainische Drohnenangriffe auf russische Ziele."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "KW 39 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-39-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15925702",
-          "published": "2026-09-26T09:56:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 39"
+          "title": "ROUNDUP: Vandalismus an Bahnkabeln in NRW - Störungen im Fernverkehr",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-vandalismus-an-bahnkabeln-in-nrw-stoerungen-im-fernverkehr-15954329",
+          "published": "2026-09-26T12:04:38+00:00",
+          "summary": "GELSENKIRCHEN (dpa-AFX) - Wegen Vandalismus an Bahnkabeln in Gelsenkirchen kommt es im Fernverkehr zu weiträumigen Umleitungen, Haltausfällen sowie Verspätungen. Betroffen von der Störung seien etwa …"
         },
         {
-          "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
-          "published": "2026-09-26T09:54:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Handle bei finanzen.net ZERO auch am Wochenende - jeden Samstag ab 14 Uhr",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-handle-bei-finanzen-net-zero-auch-am-wochenende-jeden-samstag-ab-14-uhr-15339784",
+          "published": "2026-09-26T12:00:00+00:00",
+          "summary": "Kursbewegende Ereignisse passieren oft am Wochenende. Bei ZERO kannst Du darauf schon samstags reagieren - ein entscheidender Vorteil. Wechsle auch Du zum 'Kostensieger' der Stiftung Warentest …"
         },
         {
-          "title": "OpenAI: Nutzer-Bilder landeten durch KI auf externen Plattformen",
-          "link": "https://www.finanzen.net/nachricht/aktien/chatgpt-openai-nutzer-bilder-landeten-durch-ki-auf-externen-plattformen-15954201",
-          "published": "2026-09-26T09:50:39+00:00",
-          "summary": "Die Links dazu seien nicht öffentlich gewesen, erklärte OpenAI. Ein Großteil sei bereits wieder entfernt worden und man arbeite mit den Plattformen daran, auch den Rest zu löschen. Es ist der erste …"
+          "title": "BSW-Spitze zu Sachsen-Anhalt: Nach Inhalten entscheiden",
+          "link": "https://www.finanzen.net/nachricht/aktien/bsw-spitze-zu-sachsen-anhalt-nach-inhalten-entscheiden-15954327",
+          "published": "2026-09-26T11:57:39+00:00",
+          "summary": "LEIPZIG (dpa-AFX) - Die BSW-Bundesspitze hat sich in der laufenden Regierungsbildung in Sachsen-Anhalt erneut für eine Zusammenarbeit mit allen Parteien im neu gewählten Landtag ausgesprochen. \"Wir …"
         },
         {
-          "title": "Vanguard-Welt-ETF für 0,07 Prozent: Reicht dieser eine ETF?",
-          "link": "https://www.finanzen.net/nachricht/aktien/vanguard-welt-etf-fuer-0-07-prozent-reicht-dieser-eine-etf-15954273",
-          "published": "2026-09-26T09:50:00+00:00",
-          "summary": ""
+          "title": "Thailand: Überschwemmungen legen Millionenstadt Bangkok lahm",
+          "link": "https://www.finanzen.net/nachricht/nachhaltigkeit/thailand-ueberschwemmungen-legen-millionenstadt-bangkok-lahm-15954326",
+          "published": "2026-09-26T11:56:38+00:00",
+          "summary": "BANGKOK (dpa-AFX) - Starkregen und Überschwemmungen haben die thailändische Hauptstadt Bangkok weitgehend lahmgelegt. Alle 50 Bezirke des Großraums seien zum Katastrophengebiet erklärt worden …"
         },
         {
-          "title": "Riester-Nachfolger Altersvorsorgedepot: Warum du jetzt schon ein Depot eröffnen solltest",
-          "link": "https://www.finanzen.net/nachricht/aktien/riester-nachfolger-altersvorsorgedepot-warum-du-jetzt-schon-ein-depot-eroeffnen-solltest-15954272",
-          "published": "2026-09-26T09:45:43+00:00",
-          "summary": ""
+          "title": "XRP nach US-Wahl 2024 fast versiebenfacht: Kommt nach den Midterms die Ripple-Rally?",
+          "link": "https://www.finanzen.net/nachricht/devisen/prognose-fuer-kryptosaison-xrp-nach-us-wahl-2024-fast-versiebenfacht-kommt-nach-den-midterms-die-ripple-rally-00-15938955",
+          "published": "2026-09-26T11:56:00+00:00",
+          "summary": "XRP legte nach der US-Wahl 2024 binnen weniger Wochen um rund 580 Prozent zu Ripple-Chef Garlinghouse gilt als Schlüsselfigur in Trumps Kryptopolitik Vor den Midterms fließen fast 200 Millionen ..."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "WiWo History: Die BenQ-Mobile-Pleite und das Ende der Siemens-Handys",
-          "link": "https://www.wiwo.de/unternehmen/industrie/benq-mobile-pleite-wie-siemens-seine-handysparte-verlor/100246485.html",
-          "published": "2026-09-26T09:59:39+00:00",
-          "summary": "Vor 20 Jahren schlug die Insolvenz von Benq Mobile Wellen. Kurz zuvor hatte Siemens seine verlustreiche Handysparte an das Unternehmen weitergereicht."
+          "title": "Tarifrunde 2026: Bitte nicht einer für alle!",
+          "link": "https://www.wiwo.de/politik/konjunktur/ig-metall-tarifrunde-2026-warum-fuenf-prozent-lohnplus-einen-jobabbau-riskieren/100256625.html",
+          "published": "2026-09-26T13:36:00+00:00",
+          "summary": "Die IG Metall fordert in der Tarifrunde fünf Prozent mehr Lohn. Will die Gewerkschaft den Jobabbau nicht verschärfen, muss sie weitreichende Öffnungsklauseln akzeptieren. Ein Kommentar."
         },
         {
-          "title": "Wirtschaft von oben #423 – Chinesische E-Autos: Hier kommt jetzt das nächste BYD aus China",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/nach-byd-greift-leapmotor-an-chinas-naechster-e-auto-riese-bedraengt-vw/100257247.html",
-          "published": "2026-09-26T09:24:00+00:00",
-          "summary": "Exklusive Satellitenbilder zeigen den rasanten Ausbau der Leapmotor-Fabriken. Wie Chinas neuer E-Auto-Riese mit Stellantis jetzt VW herausfordert."
+          "title": "US-China-Gipfel: China und USA vereinbaren Zollsenkungen in Höhe von 30 Mrd Dollar",
+          "link": "https://www.wiwo.de/politik/ausland/us-china-gipfel-donald-trump-empfaengt-xijinping/100257269.html",
+          "published": "2026-09-26T11:36:00+00:00",
+          "summary": "Beim US-China-Gipfel vereinbaren Donald Trump und Xi Jinping Zollsenkungen und einen KI-Dialog. Im Fokus stand aber eher persönliche Diplomatie."
         },
         {
-          "title": "Deutsche Konjunktur: „Es ist abenteuerlich, dass wir über Enteignungen diskutieren“",
-          "link": "https://www.wiwo.de/politik/konjunktur/neuer-tankrabatt-warum-monika-schnitzer-vor-hilfen-warnt/100249127.html",
-          "published": "2026-09-26T09:15:00+00:00",
-          "summary": "Monika Schnitzer, die Chefin der Wirtschaftsweisen, hält den Aufschwung nicht für sicher. Sie warnt vor einem Aufweichen der politischen Reformen."
+          "title": "UhrenWoche: Die Auster öffnet sich",
+          "link": "https://www.wiwo.de/unternehmen/handel/rolex-padellone-warum-die-luxusmarke-jetzt-neue-wege-geht/100256561.html",
+          "published": "2026-09-26T11:01:01+00:00",
+          "summary": "Mit der Perpetual Padellone geht Rolex neue Wege im Uhrenbau und in der Kommunikation – und schon am Montag könnte in London ein Uhren-Weltrekord fallen."
         },
         {
-          "title": "Anleihen unter Druck: Warum bereitet Japans Premierministerin den Finanzmärkten so große Sorgen?",
-          "link": "https://www.wiwo.de/politik/ausland/japans-schuldenkurs-warum-anleger-sanae-takaichi-misstrauen/100257097.html",
-          "published": "2026-09-26T09:06:19+00:00",
-          "summary": "Japans Schuldenlast steigt bedenklich an, weil Sanae Takaichi mit wirtschaftspolitischen Traditionen bricht. Immer mehr Experten zweifeln an ihrem Kurs – aber sie macht unbeirrt weiter."
+          "title": "Biotech: Biontech vor dem Rückzug aus drei deutschen Werken",
+          "link": "https://www.wiwo.de/unternehmen/industrie/biontech-frist-fuer-deutsche-werke-und-2000-stellen-laeuft-ab/100257405.html",
+          "published": "2026-09-26T10:56:00+00:00",
+          "summary": "Biontech sucht bis Ende September Käufer für Werke in Marburg, Tübingen und Idar-Oberstein. Fast 2000 Stellen und mRNA-Know-how stehen auf dem Spiel."
         },
         {
-          "title": "BASF-Chef Kamieth: Der Sanierer, der jetzt Deutschlands zweitgrößten Chemiekonzern kaufen will",
-          "link": "https://www.wiwo.de/unternehmen/industrie/basf-will-evonik-kaufen-was-hinter-kamieths-juengstem-strategiewechsel-steckt/100257510.html",
-          "published": "2026-09-26T08:40:00+00:00",
-          "summary": "Schlanker und schuldenärmer wollte BASF werden. Mit den Übernahmeplänen für Evonik stellt CEO Markus Kamieth seinen eigenen Kurs infrage. Warum bloß?"
+          "title": "Geldanlage: Kann ich Trend- und Qualitätsinvestments gut kombinieren?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/trend-und-qualitaetsinvestments-lassen-sich-die-etfs-kombinieren/100255657.html",
+          "published": "2026-09-26T10:51:00+00:00",
+          "summary": "Ein Leser erhofft sich Vorteile durch die Kombination zweier ganz unterschiedlicher Anlagestrategien. Er möchte diese mit ETFs abbilden. Ist das sinnvoll?"
         }
       ],
       "error": null
