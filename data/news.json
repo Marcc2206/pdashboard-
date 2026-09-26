@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T02:08:33+00:00",
+  "generatedAt": "2026-09-26T04:09:05+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,9 +8,15 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Deutsche Olympia-Bewerbung: Wer macht das Rennen?",
+          "link": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
+          "published": "2026-09-26T04:00:21+00:00",
+          "summary": "Der Deutsche Olympische Sportbund entscheidet heute über die deutsche Olympia-Bewerbung. Was Sie zur Abstimmung und der Konkurrenz wissen müssen - und wie es danach weitergeht."
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655680.html",
-          "published": "2026-09-26T00:18:21+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655682.html",
+          "published": "2026-09-26T03:17:32+00:00",
           "summary": ""
         },
         {
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1655646.html",
           "published": "2026-09-25T20:13:50+00:00",
           "summary": ""
-        },
-        {
-          "title": "Diskussion über Deutschlands KI-Strategie",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1655642.html",
-          "published": "2026-09-25T20:12:41+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
-          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257541.html",
-          "published": "2026-09-26T01:56:07+00:00",
-          "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Es heißt, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet."
+          "title": "+++ Ukraine-Krieg +++: Die Ukraine bittet die Partner um weitere 27 Milliarden Dollar für Verteidigung",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-26T03:39:00+00:00",
+          "summary": "Putin zu neuen Verhandlungen: Werden gründlich überlegen +++ Treffen zwischen USA, Ukraine und Russland könnte bald stattfinden +++ Selenskyj: Finanzierung von Drohnen gefährdet +++ Der Newsblog."
         },
         {
-          "title": "Düsseldorfer Konzern: Persil, Taft, Pril, Pritt – Henkel wird 150",
-          "link": "https://www.handelsblatt.com/politik/deutschland/duesseldorfer-konzern-persil-taft-pril-pritt-henkel-wird-150/100257545.html",
-          "published": "2026-09-26T01:30:05+00:00",
-          "summary": "Mit seinen bekannten Markenprodukten prägt Henkel seit Jahrzehnten den Alltag vieler Kunden. Ein Blick auf wichtige Meilensteine, Krisen und aktuelle Herausforderungen des Konzerns."
+          "title": "+++ Bundespolitik +++: Digitalminister Wildberger fordert internationale KI-Kontrolle",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-digitalminister-wildberger-fordert-internationale-ki-kontrolle/100137034.html",
+          "published": "2026-09-26T03:36:00+00:00",
+          "summary": "Bundesrat stimmt Tankrabatt zu – Gilt ab 1. Oktober +++ Länder im Bundesrat gegen höhere Steuern +++ Söder fordert grundlegende Reform der Energiesteuern +++ Der Newsblog."
         },
         {
-          "title": "Alter Skandal, neues Urteil: Rückschlag für Meta vor Gericht wegen Cambridge Analytica",
-          "link": "https://www.handelsblatt.com/technik/it-internet/alter-skandal-neues-urteil-rueckschlag-fuer-meta-vor-gericht-wegen-cambridge-analytica/100257543.html",
-          "published": "2026-09-26T01:08:56+00:00",
-          "summary": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Im Nachgang führt der Fall nun zu einem neuen Urteil gegen den Meta-Konzern. Das könnte für ihn teuer werden."
+          "title": "Mit Zustimmung der Verbraucher: Pakete landen immer häufiger vor der Haustür",
+          "link": "https://www.handelsblatt.com/politik/deutschland/mit-zustimmung-der-verbraucher-pakete-landen-immer-haeufiger-vor-der-haustuer/100257566.html",
+          "published": "2026-09-26T03:00:10+00:00",
+          "summary": "Ein paar Klicks und das Paket ist bestellt. Aber wie bekomme ich es, wenn ich nicht daheim bin? Der Paketbote soll es einfach vor die Tür legen, finden viele Bürger. Doch die Sache hat ein Risiko."
         },
         {
-          "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257537.html",
-          "published": "2026-09-25T23:18:18+00:00",
+          "title": "Ernährung: Experten warnen vor Risiken bei Nahrungsergänzungsmitteln",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/ernaehrung-experten-warnen-vor-risiken-bei-nahrungsergaenzungsmitteln/100257565.html",
+          "published": "2026-09-26T03:00:06+00:00",
+          "summary": "Mehr als 30.000 neue Mittel kamen 2025 auf den Markt – ohne behördliche Prüfung. Wissenschaftler schlagen Alarm und schicken einen Brief an zwei Bundesministerien."
+        },
+        {
+          "title": "Künstliche Intelligenz: KI von OpenAI lud Nutzer-Bilder zu Online-Plattformen hoch",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257564.html",
+          "published": "2026-09-26T02:55:54+00:00",
           "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Zudem heißt es nun, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Iran – Haben USA Plan übermittelt, nun ist Washington am Zug",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-haben-usa-plan-uebermittelt-nun-ist-washington-am-zug/100136895.html",
-          "published": "2026-09-25T22:58:00+00:00",
-          "summary": "Iran bei Atomprogramm in Verhandlungen offenbar unnachgiebig +++ Iran legt wohl Sieben-Tage-Plan zur Beendigung des Krieges vor +++ Netanjahu verteidigt Kriege bei UN-Rede +++ Der Newsblog."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "Lehren aus der Krise: Erste Erkenntnisse aus dem Iran-Krieg und dem globalen Energieschock",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/werbung-lehren-aus-der-krise-erste-erkenntnisse-aus-dem-iran-krieg-und-dem-globalen-energieschock-15657084",
+          "published": "2026-09-26T04:02:00+00:00",
+          "summary": "https://www.finanzen.net/specials-advertorials/advertorial ..."
+        },
+        {
+          "title": "Kaufsignal oder Modellrechnung? Warum ein Analyst eine Verdopplung der Intel-Aktie für möglich hält",
+          "link": "https://www.finanzen.net/nachricht/aktien/foundry-geschaeft-im-fokus-kaufsignal-oder-modellrechnung-warum-ein-analyst-eine-verdopplung-der-intel-aktie-fuer-moeglich-haelt-00-15945904",
+          "published": "2026-09-26T03:52:00+00:00",
+          "summary": "Melius Research-Analyst Ben Reitzes stellt gewagte 200-US-Dollar-These auf Foundry-Geschäft und 14A-Fertigung als Werttreiber Expertenkonsens nach starkem Lauf vorsichtig Melius Research-Analyst ..."
+        },
+        {
+          "title": "High-Margin Nischen: Warum Spezialpharma boomt und welche Aktien profitieren",
+          "link": "https://www.finanzen.net/nachricht/aktien/nebenwerte-im-fokus-high-margin-nischen-warum-spezialpharma-boomt-und-welche-aktien-profitieren-00-15938935",
+          "published": "2026-09-26T03:23:00+00:00",
+          "summary": "JPMorgan startet SCHOTT Pharma mit Overweight und Kursziel 27,10 Euro Lonza steigerte die Kern-EBITDA-Marge im ersten Halbjahr auf 34,8 Prozent Auch Gerresheimer und West Pharma bauen Kapazitäten für …"
+        },
+        {
           "title": "KW 39 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
           "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-39-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15925702",
-          "published": "2026-09-26T01:50:23+00:00",
+          "published": "2026-09-26T03:14:00+00:00",
           "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 39"
         },
         {
-          "title": "KW 39: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
-          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-39-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15925704",
-          "published": "2026-09-26T00:53:43+00:00",
-          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 39 aus"
-        },
-        {
-          "title": "Crash bei NVIDIA Co.? Anleihe-Legende Jeffrey Gundlach zieht die Notbremse",
-          "link": "https://www.finanzen.net/nachricht/aktien/crash-bei-nvidia-amp-co-anleihe-legende-jeffrey-gundlach-zieht-die-notbremse-15954033",
-          "published": "2026-09-26T00:37:00+00:00",
-          "summary": "Jeffrey Gundlach will mit seinem Depot so weit weg von KI wie möglich und stützt sich dabei auf eine Bewertungskennzahl, die bislang keine einzige Ausnahme kennt."
-        },
-        {
-          "title": "Überstunden: So erkennt man, wann Schluss ist - und was dann zu tun ist",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitsrecht-ueberstunden-so-erkennt-man-wann-schluss-ist-und-was-dann-zu-tun-ist-14645547",
-          "published": "2026-09-26T00:31:00+00:00",
-          "summary": "Wann gelten Überstunden - und wann nicht? Überstunden liegen vor, wenn Beschäftigte mehr arbeiten als vertraglich vereinbart, etwa über die im Arbeits-, Tarifvertrag oder per Betriebsvereinbarung …"
-        },
-        {
-          "title": "KW 39: Das waren die Gewinner und Verlierer im DAX",
-          "link": "https://www.finanzen.net/nachricht/aktien/kw-39-das-waren-die-gewinner-und-verlierer-im-dax-15954032",
-          "published": "2026-09-26T00:17:00+00:00",
-          "summary": "Im Laufe der Woche kam es am deutschen Aktienmarkt zu Ausschlägen. So entwickelten sich die Einzelwerte des deutschen Leitindex DAX."
+          "title": "Tesla-Aktie nach enttäuschendem Cybercab-Debüt: Warum Anleger die Robotaxi-Story hinterfragen sollten",
+          "link": "https://www.finanzen.net/nachricht/aktien/behoerde-ermittelt-tesla-aktie-nach-enttaeuschendem-cybercab-debuet-warum-anleger-die-robotaxi-story-hinterfragen-sollten-00-15948072",
+          "published": "2026-09-26T03:14:00+00:00",
+          "summary": "Cybercab-Event ohne Musk lässt Anleger ratlos zurück Regulierer und Wettbewerber setzen Tesla unter Druck Analysten bleiben trotz hoher Investitionen zurückhaltend für Tesla-Aktie"
         }
       ],
       "error": null
