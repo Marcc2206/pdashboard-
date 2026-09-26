@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:10:39+00:00",
+  "generatedAt": "2026-09-26T14:08:36+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "DGB protestiert in mehreren Städten gegen Sozialreformen",
+          "title": "Zehntausende protestieren in mehreren Städten gegen Sozialreformen",
           "link": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
-          "published": "2026-09-26T12:05:22+00:00",
-          "summary": "Der Deutsche Gewerkschaftsbund (DGB) protestiert gegen die Sozialpolitik der Bundesregierung. In mehreren Städten gibt es Kundgebungen. Die geplanten Maßnahmen gingen zu Lasten der Arbeitnehmer …"
-        },
-        {
-          "title": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html",
-          "published": "2026-09-26T11:27:04+00:00",
-          "summary": "Stolpersteine erinnern an die Opfer des Nationalsozialismus. Im sächsischen Heidenau sollen laut einem Beschluss des Stadtrats keine neuen mehr verlegt werden. Bundesbildungsministerin Prien spricht …"
+          "published": "2026-09-26T13:54:08+00:00",
+          "summary": "Zehntausende Menschen haben gegen die Sozialpolitik der Bundesregierung protestiert. Dazu aufgerufen hatte der Deutsche Gewerkschaftsbund. Die Regierungspläne gingen zu Lasten der Arbeitnehmer, so …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655810.html",
-          "published": "2026-09-26T11:26:40+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1655834.html",
+          "published": "2026-09-26T13:37:23+00:00",
           "summary": ""
         },
         {
-          "title": "Warum die deutsche Offshore-Windenergiebranche in der Krise steckt",
-          "link": "https://www.tagesschau.de/wirtschaft/energie/offshore-windparks-deutschland-100.html",
-          "published": "2026-09-26T11:13:17+00:00",
-          "summary": "Bei Windenergie-Firmen wachsen die Sorgen. Projekte fehlen, chinesische Konkurrenten unterbieten die Preise. Droht das Schicksal der Solarenergie-Branche, indem Firmen schließen und die Produktion …"
+          "title": "Deutschland geht mit München ins Olympia-Rennen",
+          "link": "https://www.sportschau.de/olympia/deutschland-geht-mit-muenchen-ins-olympia-rennen,olympia-bewerbung-entscheidung-100.html",
+          "published": "2026-09-26T13:34:33+00:00",
+          "summary": "Die Entscheidung ist gefallen: München wird sich um die Olympischen Sommerspiele bewerben. KölnRheinRuhr geht leer aus."
         },
         {
-          "title": "Jubiläum des Comics \"Tim und Struppi\": Beliebt wie eh und je",
-          "link": "https://www.tagesschau.de/kultur/tim-struppi-comics-jubilaeum-100.html",
-          "published": "2026-09-26T11:11:51+00:00",
-          "summary": "Die Comics über den Reporter Tim und seinen Hund Struppi gab es schon vor dem Krieg. Doch vor 80 Jahren feierten sie den Durchbruch. Der Erfolg hält bis heute an. Neue Bücher durften nach dem Tod von …"
+          "title": "Überschwemmungen: Behörden rufen Katastrophenfall in Bangkok aus",
+          "link": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
+          "published": "2026-09-26T13:22:36+00:00",
+          "summary": "Überflutete Straßen und vollgelaufene Kanäle - in der thailändischen Hauptstadt Bangkok herrscht nach tagelangen Regenfällen Notstand. Der Katastrophenschutz warnt vor Sturzfluten und Schlammlawinen."
+        },
+        {
+          "title": "München wird deutscher Olympia-Bewerber - KölnRheinRuhr unterliegt",
+          "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-muenchen-olympia-100.html",
+          "published": "2026-09-26T13:02:07+00:00",
+          "summary": "Der Deutsche Olympische Sportbund hat sich für München als deutschen Olympia-Bewerber entschieden. Damit setzt sich der Olympia-Gastgeber von 1972 gegen den einzigen verbliebenen Konkurrenten …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Krankenversicherung: Ökonomen schlagen Solidarbeitrag für Gutverdiener vor statt Bürgerversicherung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/krankenversicherung-solidarbeitrag-fuer-gutverdiener-statt-buergerversicherung/100257192.html",
-          "published": "2026-09-26T11:41:35+00:00",
-          "summary": "Private Krankenversicherung behalten, Gutverdienende stärker beteiligen: Ökonomen des Kiel-Instituts schlagen einen Mittelweg zwischen dem heutigen System und einer Bürgerversicherung vor."
+          "title": "Katholische Kirche: 700.000 Menschen bei Papstmesse in Paris",
+          "link": "https://www.handelsblatt.com/politik/international/katholische-kirche-700000-menschen-bei-papstmesse-in-paris/100257604.html",
+          "published": "2026-09-26T13:33:05+00:00",
+          "summary": "Frankreich gilt als „älteste Tochter der Kirche“. Das Verhältnis zwischen Paris und dem Vatikan ist nicht frei von Spannungen – aber trotzdem wird Leo XIV. von einer riesigen Menschenmenge gefeiert."
         },
         {
-          "title": "Die Welt in Bildern: Blickfang",
-          "link": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
-          "published": "2026-09-26T11:30:00+00:00",
-          "summary": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein Blickfang."
+          "title": "Pflegeversicherung: SPD will bei Pflegereform Leistungskürzung verhindern",
+          "link": "https://www.handelsblatt.com/politik/deutschland/pflegeversicherung-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257586.html",
+          "published": "2026-09-26T13:24:37+00:00",
+          "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten. Doch kurz vorher macht der Koalitionspartner Druck."
         },
         {
-          "title": "Autobauer: Warum VW-Fahrer nach Rückruf zweimal in die Werkstatt müssen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/autobauer-warum-vw-fahrer-nach-rueckruf-zweimal-in-die-werkstatt-muessen/100257598.html",
-          "published": "2026-09-26T11:26:22+00:00",
-          "summary": "Eine fehlerhafte Schraube kann bei mehreren Modellen von VW, Audi und Seat zum Ausfall der Lenkung führen. Die Schrauben müssen getauscht werden, allerdings dürften nicht genug vorrätig sein. Was nun?"
+          "title": "Staatsbesuch: China und USA richten KI-Kommunikationskanal ein",
+          "link": "https://www.handelsblatt.com/politik/international/staatsbesuch-china-und-usa-richten-ki-kommunikationskanal-ein/100257606.html",
+          "published": "2026-09-26T13:18:45+00:00",
+          "summary": "Nach dem Besuch des chinesischen Staatschefs in den USA planen die beiden Länder einen neuen Kommunikationskanal. Darin soll es um Vorteile und Risiken von KI gehen."
         },
         {
-          "title": "Longevity: Einblicke in eine exklusive Welt: Wo Superreiche das ewige Leben suchen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/longevity-exklusive-einblicke-wo-superreiche-das-ewige-leben-suchen/100256251.html",
-          "published": "2026-09-26T10:59:55+00:00",
-          "summary": "120 Investoren und Ärzte treffen sich in den Schweizer Alpen zu einer Longevity-Tagung. Das Handelsblatt war dabei. Ein Ortsbesuch beim Milliardärstreffen gegen den Tod."
+          "title": "Koalition: Miersch droht mit Stopp von Linnemanns Pflegeplänen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/koalition-miersch-droht-mit-stopp-von-linnemanns-pflegeplaenen/100257533.html",
+          "published": "2026-09-26T12:55:51+00:00",
+          "summary": "Bei der Pflege fehlen Milliarden. Gesundheitsminister Carsten Linnemann will sparen. Doch der SPD-Fraktionschef stellt sich auf die Bremse."
         },
         {
-          "title": "Ukraine-Krieg: Selenskyj: Tote und Verletzte durch russische Angriffe",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-tote-und-verletzte-durch-russische-angriffe/100257592.html",
-          "published": "2026-09-26T10:38:06+00:00",
-          "summary": "Nach Angriffen auf Saporischschja und andere Städte mahnt Selenskyj: „Russland eskaliert jeden Tag.“ Er bestätigt auch ukrainische Drohnenangriffe auf russische Ziele."
+          "title": "Olympia: Entscheidung gefallen – München Kandidat für Olympische Spiele",
+          "link": "https://www.handelsblatt.com/politik/deutschland/olympia-entscheidung-gefallen-muenchen-kandidat-fuer-olympische-spiele/100257601.html",
+          "published": "2026-09-26T12:43:31+00:00",
+          "summary": "Die Entscheidung ist gefallen: Die Wahlleute des Deutschen Olympischen Sportbundes haben abgestimmt, ob München oder Köln-Rhein-Ruhr Deutschlands Olympia-Kandidat wird."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Märkte im Krisenmodus: \"Wir haben uns dran gewöhnt\"",
+          "link": "https://www.n-tv.de/wirtschaft/Wir-haben-uns-dran-gewoehnt-id31349222.html",
+          "published": "2026-09-26T13:30:00+00:00",
+          "summary": "Steigende Zinsen, explodierende Ölpreise, militärische Konflikte - die Börsen werden derzeit mit einigen Störfeuern konfrontiert. Dennoch zeigen sich die Märkte bislang äußerst robust. Wieso? Das …"
+        },
+        {
+          "title": "Ersatzteile sind Mangelware: VW-Fahrern drohen nach Rückruf sogar zwei Werkstattbesuche",
+          "link": "https://www.n-tv.de/wirtschaft/VW-Fahrern-drohen-nach-Rueckruf-sogar-zwei-Werkstattbesuche-id31351011.html",
+          "published": "2026-09-26T13:06:55+00:00",
+          "summary": "Wegen einer fehlerhaften Schraube ruft VW Hunderttausende Fahrzeuge zurück. Da zunächst nicht genügend Ersatzteile vorrätig sind, muss sich der Autobauer mit einem Provisorium behelfen - was zu einem …"
+        },
         {
           "title": "Prozess in Alabama abgewendet: Tiktok stimmt Vergleich und damit Millionenzahlung zu",
           "link": "https://www.n-tv.de/wirtschaft/Tiktok-stimmt-Vergleich-und-damit-Millionenzahlung-zu-id31350637.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Pakete-landen-immer-haeufiger-vor-der-Haustuer-id31350398.html",
           "published": "2026-09-26T05:02:50+00:00",
           "summary": "Ein paar Klicks und das Paket ist bestellt. Aber wie bekomme ich es, wenn ich nicht daheim bin? Der Paketdienst soll es einfach vor die Tür legen, finden viele. Doch das ist nicht ohne Risiko."
-        },
-        {
-          "title": "Wochenvorschau: Termine bis 4. Oktober 2026",
-          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-4-Oktober-2026-id31322501.html",
-          "published": "2026-09-25T22:01:00+00:00",
-          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
-        },
-        {
-          "title": "Sinkende Ölpreise belebend: Wall Street legt zum Ende der Woche zu",
-          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-legt-zum-Ende-der-Woche-zu-id31350051.html",
-          "published": "2026-09-25T20:56:50+00:00",
-          "summary": "Die Hoffnung auf ein schrittweises Ende des Iran-Kriegs verschafft den US-Börsen Rückenwind. Doch vor allem die KI-Fantasien der Anleger schicken die Chipwerte auf neue Höhenflüge. Eine Zinserhöhung …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "ROUNDUP: Vandalismus an Bahnkabeln in NRW - Störungen im Fernverkehr",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-vandalismus-an-bahnkabeln-in-nrw-stoerungen-im-fernverkehr-15954329",
-          "published": "2026-09-26T12:04:38+00:00",
-          "summary": "GELSENKIRCHEN (dpa-AFX) - Wegen Vandalismus an Bahnkabeln in Gelsenkirchen kommt es im Fernverkehr zu weiträumigen Umleitungen, Haltausfällen sowie Verspätungen. Betroffen von der Störung seien etwa …"
+          "title": "In eigener Sache: So legst du finanzen.net als bevorzugte Quelle bei Google fest",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-in-eigener-sache-so-legst-du-finanzen-net-als-bevorzugte-quelle-bei-google-fest-15688821",
+          "published": "2026-09-26T14:04:00+00:00",
+          "summary": "Bei Suchanfragen zu Finanz- und Wirtschaftsthemen blendet Google zunehmend redaktionelle Inhalte wie Nachrichten direkt in die Suchergebnisse ein. Was viele Nutzer nicht wissen: Mit zwei kleinen …"
         },
         {
-          "title": "Handle bei finanzen.net ZERO auch am Wochenende - jeden Samstag ab 14 Uhr",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-handle-bei-finanzen-net-zero-auch-am-wochenende-jeden-samstag-ab-14-uhr-15339784",
-          "published": "2026-09-26T12:00:00+00:00",
-          "summary": "Kursbewegende Ereignisse passieren oft am Wochenende. Bei ZERO kannst Du darauf schon samstags reagieren - ein entscheidender Vorteil. Wechsle auch Du zum 'Kostensieger' der Stiftung Warentest …"
+          "title": "KW 39: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
+          "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-39-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15925704",
+          "published": "2026-09-26T14:03:00+00:00",
+          "summary": "Diese Ausschläge wiesen MDAX-Aktien in Kalenderwoche 39 aus"
         },
         {
-          "title": "BSW-Spitze zu Sachsen-Anhalt: Nach Inhalten entscheiden",
-          "link": "https://www.finanzen.net/nachricht/aktien/bsw-spitze-zu-sachsen-anhalt-nach-inhalten-entscheiden-15954327",
-          "published": "2026-09-26T11:57:39+00:00",
-          "summary": "LEIPZIG (dpa-AFX) - Die BSW-Bundesspitze hat sich in der laufenden Regierungsbildung in Sachsen-Anhalt erneut für eine Zusammenarbeit mit allen Parteien im neu gewählten Landtag ausgesprochen. \"Wir …"
+          "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
+          "published": "2026-09-26T13:54:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
-          "title": "Thailand: Überschwemmungen legen Millionenstadt Bangkok lahm",
-          "link": "https://www.finanzen.net/nachricht/nachhaltigkeit/thailand-ueberschwemmungen-legen-millionenstadt-bangkok-lahm-15954326",
-          "published": "2026-09-26T11:56:38+00:00",
-          "summary": "BANGKOK (dpa-AFX) - Starkregen und Überschwemmungen haben die thailändische Hauptstadt Bangkok weitgehend lahmgelegt. Alle 50 Bezirke des Großraums seien zum Katastrophengebiet erklärt worden …"
+          "title": "VW-Aktie: Neuer Rückruf zwingt Fahrer zu zwei Werkstatt-Besuchen",
+          "link": "https://www.finanzen.net/nachricht/aktien/korrosion-vw-aktie-neuer-rueckruf-zwingt-fahrer-zu-zwei-werkstatt-besuchen-15954320",
+          "published": "2026-09-26T13:47:00+00:00",
+          "summary": "Bei dem Rückruf geht es um Korrosion an einer Befestigungsverschraubung der Lenkung.Zum Start der Aktion könne die vorgeschriebene Schraube möglicherweise nicht in ausreichender Menge zur Verfügung …"
         },
         {
-          "title": "XRP nach US-Wahl 2024 fast versiebenfacht: Kommt nach den Midterms die Ripple-Rally?",
-          "link": "https://www.finanzen.net/nachricht/devisen/prognose-fuer-kryptosaison-xrp-nach-us-wahl-2024-fast-versiebenfacht-kommt-nach-den-midterms-die-ripple-rally-00-15938955",
-          "published": "2026-09-26T11:56:00+00:00",
-          "summary": "XRP legte nach der US-Wahl 2024 binnen weniger Wochen um rund 580 Prozent zu Ripple-Chef Garlinghouse gilt als Schlüsselfigur in Trumps Kryptopolitik Vor den Midterms fließen fast 200 Millionen ..."
+          "title": "OpenAI: Nutzer-Bilder landeten durch KI auf externen Plattformen",
+          "link": "https://www.finanzen.net/nachricht/aktien/chatgpt-openai-nutzer-bilder-landeten-durch-ki-auf-externen-plattformen-15954201",
+          "published": "2026-09-26T13:45:00+00:00",
+          "summary": "Die Links dazu seien nicht öffentlich gewesen, erklärte OpenAI. Ein Großteil sei bereits wieder entfernt worden und man arbeite mit den Plattformen daran, auch den Rest zu löschen. Es ist der erste …"
         }
       ],
       "error": null
@@ -203,10 +203,22 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Zollkontrolle: Zoll kontrolliert bundesweit in Barbershops und Friseure",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/zollkontrolle-zoll-kontrolliert-bundesweit-in-barbershops-und-friseure/100257608.html",
+          "published": "2026-09-26T13:42:29+00:00",
+          "summary": "Bundesweit hat der Zoll heute Friseurläden und Kosmetikstudios kontrolliert. Im Fokus der Aktion stehen Schwarzarbeit und Verstöße gegen den Mindestlohn."
+        },
+        {
           "title": "Tarifrunde 2026: Bitte nicht einer für alle!",
           "link": "https://www.wiwo.de/politik/konjunktur/ig-metall-tarifrunde-2026-warum-fuenf-prozent-lohnplus-einen-jobabbau-riskieren/100256625.html",
           "published": "2026-09-26T13:36:00+00:00",
           "summary": "Die IG Metall fordert in der Tarifrunde fünf Prozent mehr Lohn. Will die Gewerkschaft den Jobabbau nicht verschärfen, muss sie weitreichende Öffnungsklauseln akzeptieren. Ein Kommentar."
+        },
+        {
+          "title": "Uniper-Verkauf: Křetínskýs Kalkül mit Gas und Speichern",
+          "link": "https://www.wiwo.de/unternehmen/energie/uniper-verkauf-was-daniel-kretinsky-mit-uniper-vorhaben-koennte/100257504.html",
+          "published": "2026-09-26T13:17:09+00:00",
+          "summary": "Der tschechische Milliardär und Investor Daniel Křetínský hat ein Angebot für Deutschlands größten Speicherbetreiber und Gasimporteur abgegeben. Was könnte die Absicht sein?"
         },
         {
           "title": "US-China-Gipfel: China und USA vereinbaren Zollsenkungen in Höhe von 30 Mrd Dollar",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/unternehmen/handel/rolex-padellone-warum-die-luxusmarke-jetzt-neue-wege-geht/100256561.html",
           "published": "2026-09-26T11:01:01+00:00",
           "summary": "Mit der Perpetual Padellone geht Rolex neue Wege im Uhrenbau und in der Kommunikation – und schon am Montag könnte in London ein Uhren-Weltrekord fallen."
-        },
-        {
-          "title": "Biotech: Biontech vor dem Rückzug aus drei deutschen Werken",
-          "link": "https://www.wiwo.de/unternehmen/industrie/biontech-frist-fuer-deutsche-werke-und-2000-stellen-laeuft-ab/100257405.html",
-          "published": "2026-09-26T10:56:00+00:00",
-          "summary": "Biontech sucht bis Ende September Käufer für Werke in Marburg, Tübingen und Idar-Oberstein. Fast 2000 Stellen und mRNA-Know-how stehen auf dem Spiel."
-        },
-        {
-          "title": "Geldanlage: Kann ich Trend- und Qualitätsinvestments gut kombinieren?",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/trend-und-qualitaetsinvestments-lassen-sich-die-etfs-kombinieren/100255657.html",
-          "published": "2026-09-26T10:51:00+00:00",
-          "summary": "Ein Leser erhofft sich Vorteile durch die Kombination zweier ganz unterschiedlicher Anlagestrategien. Er möchte diese mit ETFs abbilden. Ist das sinnvoll?"
         }
       ],
       "error": null
