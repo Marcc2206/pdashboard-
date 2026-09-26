@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:08:53+00:00",
+  "generatedAt": "2026-09-26T00:11:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257537.html",
+          "published": "2026-09-25T23:18:18+00:00",
+          "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Zudem heißt es nun, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet."
+        },
+        {
+          "title": "+++ Iran-Krieg +++: Iran – Haben USA Plan übermittelt, nun ist Washington am Zug",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-haben-usa-plan-uebermittelt-nun-ist-washington-am-zug/100136895.html",
+          "published": "2026-09-25T22:58:00+00:00",
+          "summary": "Iran bei Atomprogramm in Verhandlungen offenbar unnachgiebig +++ Iran legt wohl Sieben-Tage-Plan zur Beendigung des Krieges vor +++ Netanjahu verteidigt Kriege bei UN-Rede +++ Der Newsblog."
+        },
+        {
+          "title": "Reformdebatte: SPD will bei Pflegereform Leistungskürzung verhindern",
+          "link": "https://www.handelsblatt.com/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257533.html",
+          "published": "2026-09-25T22:02:04+00:00",
+          "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten. Doch kurz vorher macht der Koalitionspartner Druck."
+        },
+        {
           "title": "Frankreich-Besuch: Papst mahnt zu „neuer Brüderlichkeit“",
           "link": "https://www.handelsblatt.com/politik/international/frankreich-besuch-papst-mahnt-zu-neuer-bruederlichkeit/100257440.html",
           "published": "2026-09-25T20:29:23+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-arbeitet-an-uebernahme-von-evonik/100257452.html",
           "published": "2026-09-25T19:41:40+00:00",
           "summary": "In Deutschlands Chemieindustrie bahnt sich ein Milliarden-Zusammenschluss an: BASF prüft den Kauf von Evonik. Beide bestätigen eine Kontaktaufnahme. Nun gibt es erste Details zum möglichen Deal."
-        },
-        {
-          "title": "Reformdebatte: SPD-Generalsekretär: Keine Leistungskürzung in der Pflege",
-          "link": "https://www.handelsblatt.com/politik/deutschland/reformdebatte-spd-generalsekretaer-keine-leistungskuerzung-in-der-pflege/100257526.html",
-          "published": "2026-09-25T19:17:36+00:00",
-          "summary": "Die Pflegeversicherung ist in Finanznöten, CDU-Gesundheitsminister Linnemann will nächste Woche eine Reform auf den Weg bringen. Doch kurz vorher meldet sich der Koalitionspartner zu Wort."
-        },
-        {
-          "title": "Nach der Abgeordnetenhauswahl: Berliner Linke startet Projekt Regierungsbildung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-abgeordnetenhauswahl-berliner-linke-startet-projekt-regierungsbildung/100257515.html",
-          "published": "2026-09-25T18:34:58+00:00",
-          "summary": "Der Gegenwind ist stark, Probleme gibt es reichlich - doch die Linke in Berlin will sich nach ihrem Wahlsieg nicht beirren lassen. Die Partei lädt Grüne und SPD zu Sondierungen ein."
-        },
-        {
-          "title": "WhatsApp-Nachricht: Bank-Manager fällt auf KI-Fake rein – Betrüger erbeuten 36 Millionen Euro von Intesa-Sanpaolo-Tochter",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/whatsapp-fake-betrueger-legen-bank-manager-rein-36-millionen-euro-schaden/100257520.html",
-          "published": "2026-09-25T18:29:13+00:00",
-          "summary": "Der Ex-Verwaltungsratschef der italienischen Fideuram-Bank wurde Opfer eines KI-Betrugs. Er ließ 95 Millionen Euro aus dem Bankvermögen überweisen. Nur ein Teil konnte zurückgeholt werden."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
+          "title": "Tesla-Robotaxis floppen: Droht der Aktie der nächste Dämpfer?",
+          "link": "https://www.finanzen.net/nachricht/aktien/tesla-robotaxis-floppen-droht-der-aktie-der-naechste-daempfer-15954006",
+          "published": "2026-09-25T23:32:00+00:00",
+          "summary": "Nach dem Cybercab-Launch Anfang September steht die Tesla-Bewertung auf dem Prüfstand, während Regulierer, Analysten und das China-Geschäft neue Fragen aufwerfen."
+        },
+        {
+          "title": "Showdown am US-Aktienmarkt: Warum Experten wie Tom Lee und Ed Yardeni jetzt heftig streiten",
+          "link": "https://www.finanzen.net/nachricht/aktien/showdown-am-us-aktienmarkt-warum-experten-wie-tom-lee-und-ed-yardeni-jetzt-heftig-streiten-15953979",
+          "published": "2026-09-25T23:22:00+00:00",
+          "summary": "Tom Lee hält trotz des jüngsten Fed-Schocks an seiner Prognose einer kräftigen Aktienmarktrally fest. Ein anderer Experte wird dagegen vorsichtiger."
+        },
+        {
+          "title": "SpaceX-Aktie: Cathie Wood sieht eine 10-Billionen-Dollar-Chance - Was ist wirklich dran?",
+          "link": "https://www.finanzen.net/nachricht/aktien/woods-billionen-rechnung-spacex-aktie-cathie-wood-sieht-eine-10-billionen-dollar-chance-was-ist-wirklich-dran-00-15939377",
+          "published": "2026-09-25T23:12:00+00:00",
+          "summary": "Cathie Wood rechnet Starship-Flüge in gigantische Starlink-Umsätze um Musk reagiert auf ARK-Chefin und nennt das Ziel nicht unmöglich Die theoretische Rechnung setzt eine massive Steigerung der …"
+        },
+        {
+          "title": "Sicher bestellen aus Drittländern: Zoll, Steuern und Fallen",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/online-shopping-sicher-bestellen-aus-drittlaendern-zoll-steuern-und-fallen-14628387",
+          "published": "2026-09-25T23:03:00+00:00",
+          "summary": "Einfuhr aus Nicht-EU-Ländern: Was rechtlich gilt Bestellungen aus sogenannten Drittländern, also Staaten außerhalb der Europäischen Union, unterliegen grundsätzlich einer zollamtlichen Abfertigung. …"
+        },
+        {
           "title": "DAX in KW 39: Diese Aktien gehörten zu den Gewinnern und Verlierern",
           "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-39-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15925676",
           "published": "2026-09-25T21:39:00+00:00",
           "summary": "So schnitten DAX-Werte in der Kalenderwoche 39 ab"
-        },
-        {
-          "title": "Börsencrash überstehen: So kommen Anleger gut durch breite Kurseinbrüche am Markt",
-          "link": "https://www.finanzen.net/nachricht/aktien/massnahmen-bei-markteinbruch-boersencrash-ueberstehen-so-kommen-anleger-gut-durch-breite-kurseinbrueche-am-markt-13028305",
-          "published": "2026-09-25T21:08:00+00:00",
-          "summary": "Börsencrashs kommen immer wieder vor • Mit vorbeugenden Maßnahmen lassen sich Verluste abfedern • Auch mitten im Crash lohnt sich das Investieren In den vergangenen Jahrzehnten kam es immer wieder zu …"
-        },
-        {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-25T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
-        },
-        {
-          "title": "ROUNDUP/Aktien New York Schluss: Dow erholt sich - Hoffnung auf Nahost-Lösung",
-          "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-dow-erholt-sich-hoffnung-auf-nahost-loesung-15953908",
-          "published": "2026-09-25T20:36:39+00:00",
-          "summary": "NEW YORK (dpa-AFX) - Gestützt von fallenden Ölpreisen im Zuge von Entspannungssignalen im Nahost-Konflikt sind die US-Aktienmärkte mit Gewinnen ins Wochenende gegangen. Der Dow Jones Industrial …"
-        },
-        {
-          "title": "Pluszeichen in New York: NASDAQ 100 notiert zum Handelsende im Plus",
-          "link": "https://www.finanzen.net/nachricht/aktien/pluszeichen-in-new-york-nasdaq-100-notiert-zum-handelsende-im-plus-15953900",
-          "published": "2026-09-25T20:32:58+00:00",
-          "summary": "Der NASDAQ 100 kletterte im NASDAQ-Handel letztendlich um 0,42 Prozent auf 30.608,13 Punkte. In den Freitagshandel ging der NASDAQ 100 0,127 Prozent stärker bei 30.517,46 Punkten, nach 30.478,86 ..."
         }
       ],
       "error": null
