@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:08:18+00:00",
+  "generatedAt": "2026-09-26T22:08:25+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Münchens Segelstandort Kiel jubelt - Trauer in Warnemünde",
-          "link": "https://www.ndr.de/sport/olympia/Olympia-Bewerbung-DOSB-Muenchen-Kiel-Rhein-Ruhr-Warnemuende,olympia-entscheidung-100.html",
-          "published": "2026-09-26T19:55:44+00:00",
-          "summary": "Die bayerische Landeshauptstadt geht ins Rennen für die Spiele 2036, 2040 oder 2044. Kiel wäre dann Segelstandort, Warnemünde hingegen geht leer aus."
+          "title": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
+          "link": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html",
+          "published": "2026-09-26T22:04:36+00:00",
+          "summary": "Es war das erste Treffen der Chefdiplomaten Deutschlands und Russlands seit Beginn des russischen Angriffs auf die Ukraine. In den tagesthemen erklärt Bundesaußenminister Wadephul wie es zum Treffen …"
         },
         {
-          "title": "Olympia-Bewerbung: Entscheidung über deutschen Kandidaten fällt auf München und Kiel",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1656056.html",
-          "published": "2026-09-26T19:35:39+00:00",
+          "title": "Papst Leo XIV. feiert Messe in Paris",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1656098.html",
+          "published": "2026-09-26T20:13:30+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656078.html",
-          "published": "2026-09-26T19:20:49+00:00",
+          "title": "Schweizer Volksabstimmung über ein Verbot von Sanktionen gegen Russland",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1656102.html",
+          "published": "2026-09-26T20:12:09+00:00",
           "summary": ""
         },
         {
-          "title": "Berliner SPD will mit Linken und Grünen sondieren",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-spd-linke-gruene-sondierungen-100.html",
-          "published": "2026-09-26T19:09:20+00:00",
-          "summary": "Der Vorstand der Berliner SPD hat sich nach Informationen des rbb zu Sondierungsgesprächen mit Linkspartei und Grünen bereit erklärt. Damit haben nun alle drei Parteien Sondierungen zugestimmt."
+          "title": "Demonstrationen in mehreren Städten gegen die Reformpläne der Bundesregierung",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1656096.html",
+          "published": "2026-09-26T20:10:13+00:00",
+          "summary": ""
         },
         {
-          "title": "Wadephul trifft überraschend Lawrow in New York",
-          "link": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
-          "published": "2026-09-26T19:00:59+00:00",
-          "summary": "Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und Lawrow fand am Rande …"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12874.html",
+          "published": "2026-09-26T20:10:07+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Wohnungsnot: Riesen-Protest gegen Zwangsräumung einer Rentnerin in Madrid",
+          "link": "https://www.handelsblatt.com/politik/international/wohnungsnot-riesen-protest-gegen-zwangsraeumung-einer-rentnerin-in-madrid/100257643.html",
+          "published": "2026-09-26T21:23:45+00:00",
+          "summary": "Nach der Zwangsräumung einer 87-Jährigen gehen in Spanien Zehntausende auf die Straße. Der Fall Maricarmen wird zum Symbol für die schlimme Wohnungsnot – und erhöht den Druck auf die linke Regierung."
+        },
+        {
+          "title": "Vereinte Nationen: Treffen am Rande der UN: Wadephul und Lawrow bleiben uneins",
+          "link": "https://www.handelsblatt.com/politik/international/vereinte-nationen-treffen-am-rande-der-un-wadephul-und-lawrow-bleiben-uneins/100257625.html",
+          "published": "2026-09-26T20:27:46+00:00",
+          "summary": "Ein Handschlag, gut 20 Minuten Gespräch – und grundlegender Dissens: Wadephul trifft in New York am Rande der UN-Generalversammlung erstmals bilateral auf Lawrow."
+        },
+        {
+          "title": "Flugzeugbauer: Boeing meldet Software-Fehler bei 737 MAX",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/flugzeugbauer-boeing-meldet-software-fehler-bei-737-max/100257640.html",
+          "published": "2026-09-26T20:21:46+00:00",
+          "summary": "Der Flugzeugbauer hat ein weiteres Problem bei seiner Pannen-Maschine 737 Max eingeräumt. Zwei Airlines haben gebeten, vorerst keine neuen Maschinen mit der betroffenen Software auszuliefern."
+        },
+        {
           "title": "Wahlen: Berliner SPD will mit Linken über Regierungsbildung sprechen",
           "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-berliner-spd-will-mit-linken-ueber-regierungsbildung-sprechen/100257636.html",
           "published": "2026-09-26T18:36:48+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-trump-gefaehrdet-mit-seiner-aussenpolitik-die-demokratische-welt/100256385.html",
           "published": "2026-09-26T17:40:38+00:00",
           "summary": "Viel Show, wenig Inhalt – der US-Präsident zeigte beim Besuch von Chinas Staats- und Parteichef Xi Jinping, wo seine Prioritäten liegen. Das schadet nicht nur den USA."
-        },
-        {
-          "title": "Anschlusspapier: KI, Handel und Militär – China und USA wollen Dialog stärken",
-          "link": "https://www.handelsblatt.com/politik/international/anschlusspapier-ki-handel-und-militaer-china-und-usa-wollen-dialog-staerken/100257630.html",
-          "published": "2026-09-26T17:34:00+00:00",
-          "summary": "Trump und Xi wollen bei KI-Vorfällen besser kommunizieren. Mit Blick auf Handelsfragen soll das Board of Trade bald seine Arbeit aufnehmen."
-        },
-        {
-          "title": "Staatsbesuch: China und USA richten KI-Kommunikationskanal ein",
-          "link": "https://www.handelsblatt.com/politik/international/staatsbesuch-china-und-usa-richten-ki-kommunikationskanal-ein/100257606.html",
-          "published": "2026-09-26T16:42:17+00:00",
-          "summary": "Nach dem Besuch des chinesischen Staatschefs in den USA planen die beiden Länder einen neuen Kommunikationskanal. Darin soll es um Vorteile und Risiken von KI gehen."
-        },
-        {
-          "title": "Migration: Dobrindt will Frontex deutlich stärken",
-          "link": "https://www.handelsblatt.com/politik/deutschland/migration-dobrindt-will-frontex-deutlich-staerken/100257615.html",
-          "published": "2026-09-26T16:35:07+00:00",
-          "summary": "Bundesinnenminister Alexander Dobrindt hat einige Amtskollegen aus Europa nach München eingeladen. Er will den Kurs in der Migrationspolitik weiter verschärfen. Was schlägt er vor?"
         }
       ],
       "error": null
@@ -127,32 +127,32 @@
         {
           "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
-          "published": "2026-09-26T19:54:00+00:00",
+          "published": "2026-09-26T21:54:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "OpenAI: Nutzer-Bilder landeten durch KI auf externen Plattformen",
-          "link": "https://www.finanzen.net/nachricht/aktien/chatgpt-openai-nutzer-bilder-landeten-durch-ki-auf-externen-plattformen-15954201",
-          "published": "2026-09-26T19:39:00+00:00",
-          "summary": "Die Links dazu seien nicht öffentlich gewesen, erklärte OpenAI. Ein Großteil sei bereits wieder entfernt worden und man arbeite mit den Plattformen daran, auch den Rest zu löschen. Es ist der erste …"
+          "title": "Kaufsignal oder Modellrechnung? Warum ein Analyst eine Verdopplung der Intel-Aktie für möglich hält",
+          "link": "https://www.finanzen.net/nachricht/aktien/foundry-geschaeft-im-fokus-kaufsignal-oder-modellrechnung-warum-ein-analyst-eine-verdopplung-der-intel-aktie-fuer-moeglich-haelt-00-15945904",
+          "published": "2026-09-26T21:47:00+00:00",
+          "summary": "Melius Research-Analyst Ben Reitzes stellt gewagte 200-US-Dollar-These auf Foundry-Geschäft und 14A-Fertigung als Werttreiber Expertenkonsens nach starkem Lauf vorsichtig Melius Research-Analyst ..."
         },
         {
-          "title": "VW-Aktie: Neuer Rückruf zwingt Fahrer zu zwei Werkstatt-Besuchen",
-          "link": "https://www.finanzen.net/nachricht/aktien/korrosion-vw-aktie-neuer-rueckruf-zwingt-fahrer-zu-zwei-werkstatt-besuchen-15954320",
-          "published": "2026-09-26T19:37:00+00:00",
-          "summary": "Bei dem Rückruf geht es um Korrosion an einer Befestigungsverschraubung der Lenkung.Zum Start der Aktion könne die vorgeschriebene Schraube möglicherweise nicht in ausreichender Menge zur Verfügung …"
+          "title": "High-Margin Nischen: Warum Spezialpharma boomt und welche Aktien profitieren",
+          "link": "https://www.finanzen.net/nachricht/aktien/nebenwerte-im-fokus-high-margin-nischen-warum-spezialpharma-boomt-und-welche-aktien-profitieren-00-15938935",
+          "published": "2026-09-26T21:41:00+00:00",
+          "summary": "JPMorgan startet SCHOTT Pharma mit Overweight und Kursziel 27,10 Euro Lonza steigerte die Kern-EBITDA-Marge im ersten Halbjahr auf 34,8 Prozent Auch Gerresheimer und West Pharma bauen Kapazitäten für …"
         },
         {
-          "title": "Straße von Hormus: Iran schiebt den Ball bei Öffnung den USA zu",
-          "link": "https://www.finanzen.net/nachricht/aktien/persischer-golf-strasse-von-hormus-iran-schiebt-den-ball-bei-oeffnung-den-usa-zu-15954250",
-          "published": "2026-09-26T19:33:00+00:00",
-          "summary": "Teheran habe Washington über Katar einen \"Sieben-Tage-Plan\" übermittelt, sagte Außenminister Abbas Araghtschi in New York vor Journalisten. Die Entscheidung liege nun bei den Vereinigten Staaten. …"
+          "title": "KW 39 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-39-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15925702",
+          "published": "2026-09-26T21:36:00+00:00",
+          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 39"
         },
         {
-          "title": "Meta-Aktie: Gericht weist Einwände im Cambridge-Analytica-Fall ab",
-          "link": "https://www.finanzen.net/nachricht/aktien/datenschutz-meta-aktie-gericht-weist-einwaende-im-cambridge-analytica-fall-ab-15954200",
-          "published": "2026-09-26T19:21:00+00:00",
-          "summary": "Geschworene im US-Bundesstaat New Mexico entschieden, dass Nutzer mit Blick auf Datenschutz und Redefreiheit in die Irre geführt wurden. Der zuständige Richter soll nun die Höhe der Strafe festlegen …"
+          "title": "Überstunden: So erkennt man, wann Schluss ist - und was dann zu tun ist",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitsrecht-ueberstunden-so-erkennt-man-wann-schluss-ist-und-was-dann-zu-tun-ist-14645547",
+          "published": "2026-09-26T21:29:00+00:00",
+          "summary": "Wann gelten Überstunden - und wann nicht? Überstunden liegen vor, wenn Beschäftigte mehr arbeiten als vertraglich vereinbart, etwa über die im Arbeits-, Tarifvertrag oder per Betriebsvereinbarung …"
         }
       ],
       "error": null
