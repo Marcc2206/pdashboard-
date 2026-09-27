@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T02:08:54+00:00",
+  "generatedAt": "2026-09-27T04:08:48+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Schweiz: Volksabstimmung über striktere Neutralität",
+          "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-104.html",
+          "published": "2026-09-27T03:21:29+00:00",
+          "summary": "Die Schweiz ist berühmt für Schokolade, Uhren und politische Neutralität. Über letzteres wird gestritten. Der Grund: Die Sanktionen gegen Russland - aus Sicht der Initiative, über die heute …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656130.html",
+          "published": "2026-09-27T02:52:11+00:00",
+          "summary": ""
+        },
         {
           "title": "EU stellt 710 Millionen Euro für weltweite Krisenhilfe bereit",
           "link": "https://www.tagesschau.de/ausland/europa/eu-krisenhilfe-100.html",
@@ -17,25 +29,13 @@
           "title": "Sturm an der US-Ostküste: Ein Toter, viele Haushalte ohne Strom",
           "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-144.html",
           "published": "2026-09-27T00:59:29+00:00",
-          "summary": "Ein schwerer Herbststurm hat im Nordosten der USA den Flugverkehr teilweise lahmgelegt und zu Stromausfällen geführt. Mindestens ein Menschen kam durch das Unwetter ums Leben. Viele Veranstaltungen …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656128.html",
-          "published": "2026-09-27T00:54:25+00:00",
-          "summary": ""
+          "summary": "Ein schwerer Sturm hat im Nordosten der USA den Flugverkehr teilweise lahmgelegt und zu Stromausfällen geführt. Mindestens ein Menschen kam durch das Unwetter ums Leben. Viele Veranstaltungen wurden …"
         },
         {
           "title": "Zehntausende demonstrieren nach Zwangsräumung von 87-Jähriger in Madrid",
           "link": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
           "published": "2026-09-26T23:37:30+00:00",
           "summary": "Unmut über Wohnungsnot und hohe Mieten gibt es auch in Spanien schon lange. Doch die Zwangsräumung einer 87-Jährigen bringt für viele nun offenbar das Fass zum Überlaufen. Zehntausende gingen in …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81280.html",
-          "published": "2026-09-26T23:18:43+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Wohnungsnot: Riesen-Protest gegen Zwangsräumung einer Rentnerin in Madrid",
-          "link": "https://www.handelsblatt.com/politik/international/wohnungsnot-riesen-protest-gegen-zwangsraeumung-einer-rentnerin-in-madrid/100257643.html",
-          "published": "2026-09-27T00:07:39+00:00",
-          "summary": "Nach der Zwangsräumung einer 87-Jährigen gehen in Spanien Zehntausende auf die Straße. Der Fall Maricarmen wird zum Symbol für die schlimme Wohnungsnot – und erhöht den Druck auf die linke Regierung."
+          "title": "CDU nach Wahlniederlagen: Voigt fordert Trendumkehr: „Länder mischen sich ein“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-nach-wahlniederlagen-voigt-fordert-trendumkehr-laender-mischen-sich-ein/100257677.html",
+          "published": "2026-09-27T03:30:15+00:00",
+          "summary": "Mehr als Wunden lecken: In einer Klausur will die CDU ihre Wahlniederlagen aufarbeiten. Der Thüringer Regierungschef verlangt eine programmatische Neuaufstellung und sieht die Länder am Drücker."
         },
         {
-          "title": "Gerichtsverfahren: Patent-Urteil – Apple soll 5,7 Milliarden Dollar zahlen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/gerichtsverfahren-patent-urteil-apple-soll-57-milliarden-dollar-zahlen/100257659.html",
-          "published": "2026-09-26T23:48:05+00:00",
-          "summary": "Hinter Vibrations-Alarmen von iPhone und Apple Watch steckt die sogenannte „Taptic Engine“. US-Geschworene befanden, dass Apple bei dem Mechanismus Patente verletzt hat. Es geht um viel Geld."
+          "title": "Wahl des Bundespräsidenten: CSU-Vize: Kandidatur für Steinmeier-Nachfolge schnell klären",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-des-bundespraesidenten-csu-vize-kandidatur-fuer-steinmeier-nachfolge-schnell-klaeren/100257678.html",
+          "published": "2026-09-27T03:30:08+00:00",
+          "summary": "Die Kräfteverhältnisse für die Bundespräsidentenwahl stehen fest. Union und SPD haben eine satte Mehrheit. Jetzt fehlt nur noch ein Kandidat oder eine Kandidatin."
         },
         {
-          "title": "Technik-Streit: Patent-Urteil: Apple soll 5,7 Milliarden Dollar zahlen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/technik-streit-patent-urteil-apple-soll-57-milliarden-dollar-zahlen/100257660.html",
-          "published": "2026-09-26T23:36:26+00:00",
-          "summary": "Hinter Vibrations-Alarmen von iPhone und Apple Watch steckt die sogenannte „Taptic Engine“. US-Geschworene befanden, dass Apple bei dem Mechanismus Patente verletzt hat. Es geht um viel Geld."
+          "title": "Anhörung im Thüringer Landtag: Warum Kerkeling und Maaßen über ein AfD-Verbot sprechen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/anhoerung-im-thueringer-landtag-warum-kerkeling-und-maassen-ueber-ein-afd-verbot-sprechen/100257673.html",
+          "published": "2026-09-27T03:00:17+00:00",
+          "summary": "Die Debatte über ein mögliches AfD-Verbotsverfahren läuft seit Jahren. Nun kommen Expertinnen und Experten zu einer Anhörung in den Thüringer Landtag. Warum auch ein prominenter Entertainer dabei ist."
         },
         {
-          "title": "Nach Instagram-Beitrag: Prozess um angebliche Drohung Comeys gegen Trump erst 2027",
-          "link": "https://www.handelsblatt.com/politik/international/nach-instagram-beitrag-prozess-um-angebliche-drohung-comeys-gegen-trump-erst-2027/100257654.html",
-          "published": "2026-09-26T22:40:10+00:00",
-          "summary": "Der frühere FBI-Chef James Comey ist wegen eines Fotos von Muscheln am Strand angeklagt, die zu Zahlen zusammengelegt sind und auf Präsident Trump anspielen. Der Prozess wird nun erneut verschoben."
+          "title": "Spielautomaten: Gewerkschaft fordert Schritte gegen illegales Glücksspiel",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spielautomaten-gewerkschaft-fordert-schritte-gegen-illegales-gluecksspiel/100257672.html",
+          "published": "2026-09-27T03:00:06+00:00",
+          "summary": "Der Betrieb von Spielautomaten unterliegt strengen Vorschriften. Doch in manchen Kneipen und Kulturvereinen sind Automaten ohne Erlaubnis im Einsatz. Tu was dagegen, wird nun an den Staat appelliert."
         },
         {
-          "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall",
-          "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
-          "published": "2026-09-26T22:35:38+00:00",
-          "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. Nun zieht OpenAI Konsequenzen, um an wichtigen Stellen bei der Sicherheit nachzubessern."
+          "title": "Koalition: Kassen warnen vor Pflege-Blockade - „Geld alle“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/koalition-kassen-warnen-vor-pflege-blockade-geld-alle/100257670.html",
+          "published": "2026-09-27T02:30:05+00:00",
+          "summary": "Kommt sie früher oder später? Die geplante Pflegereform wird zu einem neuen großen Streitpunkt zwischen Union und SPD. Die Pflegekassen warnen vor den Folgen eines Reformstopps."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 39",
-          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-39-15925726",
-          "published": "2026-09-27T01:16:48+00:00",
-          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 39"
-        },
-        {
-          "title": "S&P 500-Index: Warum die Crash-Angst vor Oktober historisch unbegründet ist",
-          "link": "https://www.finanzen.net/nachricht/aktien/statistik-entkraeftet-angst-s-p-500-index-warum-die-crash-angst-vor-oktober-historisch-unbegruendet-ist-00-15950858",
-          "published": "2026-09-27T01:10:57+00:00",
-          "summary": "Historische Muster zeigen, der Oktober ist selten der gefürchtete Crash-Monat Wall Street-Strategen bleiben trotz Turbulenzen mehrheitlich zuversichtlich Steigende Anleiherenditen und Ölpreise sorgen …"
-        },
-        {
-          "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 39 im Überblick",
-          "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-39-im-ueberblick-15925705",
-          "published": "2026-09-27T00:55:12+00:00",
-          "summary": "Die schlechtesten und besten TecDAX-Werte in der Kalenderwoche 39"
+          "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
+          "published": "2026-09-27T03:54:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
           "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
           "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
-          "published": "2026-09-27T00:43:00+00:00",
+          "published": "2026-09-27T03:52:00+00:00",
           "summary": "BofA korrigiert ihre Prognosen für die Chipbranche kräftig nach oben Speicherchips und Server-CPUs rücken als neue Wachstumstreiber in den Fokus Chancen für KI-Anleger im Blick"
         },
         {
-          "title": "Die Performance der Kryptowährungen in KW 39: Das hat sich bei Bitcoin, Ether Co. getan",
-          "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-39-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15954639",
-          "published": "2026-09-27T00:23:00+00:00",
-          "summary": "Am Kryptomarkt bewegten sich einige Werte in der vergangenen Handelswoche stark. Das sind die Gewinner und Verlierer."
+          "title": "Steuern sparen: Mit geschickter Planung Jahresendprämieren richtig nutzen",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/steuerlast-optimieren-steuern-sparen-mit-geschickter-planung-jahresendpraemieren-richtig-nutzen-00-15291507",
+          "published": "2026-09-27T03:46:00+00:00",
+          "summary": "Bedeutung des Auszahlungszeitpunkts Der Zeitpunkt der Auszahlung bestimmt, in welchem Steuerjahr eine Prämie oder Sonderzahlung berücksichtigt wird. Laut dem Online-Portal Biallo & Team GmbH ist …"
+        },
+        {
+          "title": "Klumpenrisiko KI-Aktien? Cramer warnt vor zu viel NVIDIA & Co. - Worauf Anleger setzen sollten",
+          "link": "https://www.finanzen.net/nachricht/aktien/alternativen-zum-hype-klumpenrisiko-ki-aktien-cramer-warnt-vor-zu-viel-nvidia-co-worauf-anleger-setzen-sollten-00-15938657",
+          "published": "2026-09-27T03:37:00+00:00",
+          "summary": "Cramer warnt vor zu großer KI-Konzentration und rät zur Streuung Er nennt sieben Alternativen aus Luftfahrt, Fintech, Gesundheit und Energie Amgen fiel nach Novartis-Studiendaten deutlich, ..."
+        },
+        {
+          "title": "Bitcoin-Rally steht laut Experten auf wackligen Beinen: Bietet sich eine günstige Einstiegschance bei BTC?",
+          "link": "https://www.finanzen.net/nachricht/devisen/ruecksetzer-bitcoin-rally-steht-laut-experten-auf-wackligen-beinen-bietet-sich-eine-guenstige-einstiegschance-bei-btc-00-15939378",
+          "published": "2026-09-27T03:12:00+00:00",
+          "summary": "CryptoQuant-Analysten warnen vor schwachem Kaufdruck hinter der jüngsten Rally CLARITY Act scheitert im Senat und belastet Kryptowährungen spürbar Bitwise-CIO Hougan bleibt trotz Rückschlägen …"
         }
       ],
       "error": null
@@ -203,6 +203,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Geldanlage: So nehmen Anleger jetzt durchdacht Gewinne mit",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-so-nehmen-anleger-jetzt-durchdacht-gewinne-mit/100256897.html",
+          "published": "2026-09-27T03:14:00+00:00",
+          "summary": "Viele Anleger haben derzeit hohe Gewinne in ihren Depots – ­und fragen sich, ob sie einen Teil ihrer Aktien ­verkaufen sollten. Diese Strategien können helfen."
+        },
+        {
           "title": "UpTrade: Kassieren, wenn die Aktie dümpelt: Was taugt das neue Consors-Angebot?",
           "link": "https://www.wiwo.de/finanzen/geldanlage/aktie-kassieren-wenn-sie-duempelt-mit-uptrade/100256832.html",
           "published": "2026-09-26T15:04:15+00:00",
@@ -225,12 +231,6 @@
           "link": "https://www.wiwo.de/politik/deutschland/sozialprotest-zehntausende-demonstrieren-fuer-den-sozialstaat/100257618.html",
           "published": "2026-09-26T14:27:00+00:00",
           "summary": "Die Gewerkschaften haben aufgerufen – und Zehntausende sind gekommen. In zahlreichen deutschen Großstädten gab es Demonstrationszüge."
-        },
-        {
-          "title": "Rückruf bei VW und Audi: Lenkungsausfall droht – was tun?",
-          "link": "https://www.wiwo.de/unternehmen/auto/rueckruf-bei-vw-und-audi-lenkungsausfall-droht-was-tun/100257495.html",
-          "published": "2026-09-26T14:20:00+00:00",
-          "summary": "VW ruft fast eine Million Autos wegen Problemen an der Lenkung zurück. Betroffene Modelle bei VW, Audi und Seat, Sicherheitsrisiko und Werkstatt-Ablauf im Überblick."
         }
       ],
       "error": null
