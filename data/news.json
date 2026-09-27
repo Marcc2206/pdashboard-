@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:13:01+00:00",
+  "generatedAt": "2026-09-27T02:08:54+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "EU stellt 710 Millionen Euro für weltweite Krisenhilfe bereit",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-krisenhilfe-100.html",
+          "published": "2026-09-27T01:07:57+00:00",
+          "summary": "Weltweit leiden Menschen unter den Folgen von Naturkatastrophen oder Konflikten. EU-Kommissionspräsidentin von der Leyen hat nun weitere Hilfen für sie angekündigt. Ein Großteil des Geldes soll nach …"
+        },
+        {
+          "title": "Sturm an der US-Ostküste: Ein Toter, viele Haushalte ohne Strom",
+          "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-144.html",
+          "published": "2026-09-27T00:59:29+00:00",
+          "summary": "Ein schwerer Herbststurm hat im Nordosten der USA den Flugverkehr teilweise lahmgelegt und zu Stromausfällen geführt. Mindestens ein Menschen kam durch das Unwetter ums Leben. Viele Veranstaltungen …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656128.html",
+          "published": "2026-09-27T00:54:25+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Zehntausende demonstrieren nach Zwangsräumung von 87-Jähriger in Madrid",
+          "link": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
+          "published": "2026-09-26T23:37:30+00:00",
+          "summary": "Unmut über Wohnungsnot und hohe Mieten gibt es auch in Spanien schon lange. Doch die Zwangsräumung einer 87-Jährigen bringt für viele nun offenbar das Fass zum Überlaufen. Zehntausende gingen in …"
+        },
+        {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-81280.html",
           "published": "2026-09-26T23:18:43+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
-          "link": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html",
-          "published": "2026-09-26T22:29:36+00:00",
-          "summary": "Es war das erste Treffen der Chefdiplomaten Deutschlands und Russlands seit Beginn des russischen Angriffs auf die Ukraine. In den tagesthemen erklärt Bundesaußenminister Wadephul, wie es zum Treffen …"
-        },
-        {
-          "title": "Papst Leo XIV. feiert Messe in Paris",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1656098.html",
-          "published": "2026-09-26T20:13:30+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Schweizer Volksabstimmung über ein Verbot von Sanktionen gegen Russland",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1656102.html",
-          "published": "2026-09-26T20:12:09+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Demonstrationen in mehreren Städten gegen die Reformpläne der Bundesregierung",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1656096.html",
-          "published": "2026-09-26T20:10:13+00:00",
           "summary": ""
         }
       ],
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Wohnungsnot: Riesen-Protest gegen Zwangsräumung einer Rentnerin in Madrid",
+          "link": "https://www.handelsblatt.com/politik/international/wohnungsnot-riesen-protest-gegen-zwangsraeumung-einer-rentnerin-in-madrid/100257643.html",
+          "published": "2026-09-27T00:07:39+00:00",
+          "summary": "Nach der Zwangsräumung einer 87-Jährigen gehen in Spanien Zehntausende auf die Straße. Der Fall Maricarmen wird zum Symbol für die schlimme Wohnungsnot – und erhöht den Druck auf die linke Regierung."
+        },
         {
           "title": "Gerichtsverfahren: Patent-Urteil – Apple soll 5,7 Milliarden Dollar zahlen",
           "link": "https://www.handelsblatt.com/technik/it-internet/gerichtsverfahren-patent-urteil-apple-soll-57-milliarden-dollar-zahlen/100257659.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
           "published": "2026-09-26T22:35:38+00:00",
           "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. Nun zieht OpenAI Konsequenzen, um an wichtigen Stellen bei der Sicherheit nachzubessern."
-        },
-        {
-          "title": "Künstliche Intelligenz: OpenAI pausiert KI-Training nach neuem Zwischenfall",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257651.html",
-          "published": "2026-09-26T22:21:48+00:00",
-          "summary": "Nach Hacking-Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell schaffte es trotzdem, Antworten von einem externen Chatbot zu bekommen."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Gericht sieht Patent verletzt: Apple muss 5,7 Milliarden Dollar für iPhone-Vibrationsalarm zahlen",
+          "link": "https://www.n-tv.de/wirtschaft/Apple-muss-5-7-Milliarden-Dollar-fuer-iPhone-Vibrationsalarm-zahlen-id31351849.html",
+          "published": "2026-09-27T00:18:34+00:00",
+          "summary": "Das Unternehmen Taction Technology wirft Apple vor, eine spezielle Technik zu Unrecht genutzt zu haben. Diese sorgt für den Vibrationsalarm im iPhone und der Apple Watch. Die US-Geschworenen sprechen …"
+        },
         {
           "title": "Lande-Navigation teils gestört: Boeing räumt bei 737-Max-Maschinen Softwarefehler ein",
           "link": "https://www.n-tv.de/wirtschaft/Boeing-raeumt-bei-737-Max-Maschinen-Softwarefehler-ein-id31351769.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wir-haben-uns-dran-gewoehnt-id31349222.html",
           "published": "2026-09-26T13:30:00+00:00",
           "summary": "Steigende Zinsen, explodierende Ölpreise, militärische Konflikte - die Börsen werden derzeit mit einigen Störfeuern konfrontiert. Dennoch zeigen sich die Märkte bislang äußerst robust. Wieso? Das …"
-        },
-        {
-          "title": "Ersatzteile sind Mangelware: VW-Fahrern drohen nach Rückruf sogar zwei Werkstattbesuche",
-          "link": "https://www.n-tv.de/wirtschaft/VW-Fahrern-drohen-nach-Rueckruf-sogar-zwei-Werkstattbesuche-id31351011.html",
-          "published": "2026-09-26T13:06:55+00:00",
-          "summary": "Wegen einer fehlerhaften Schraube ruft VW Hunderttausende Fahrzeuge zurück. Da zunächst nicht genügend Ersatzteile vorrätig sind, muss sich der Autobauer mit einem Provisorium behelfen - was zu einem …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Steuern sparen: Mit geschickter Planung Jahresendprämieren richtig nutzen",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/steuerlast-optimieren-steuern-sparen-mit-geschickter-planung-jahresendpraemieren-richtig-nutzen-00-15291507",
-          "published": "2026-09-27T00:05:00+00:00",
-          "summary": "Bedeutung des Auszahlungszeitpunkts Der Zeitpunkt der Auszahlung bestimmt, in welchem Steuerjahr eine Prämie oder Sonderzahlung berücksichtigt wird. Laut dem Online-Portal Biallo & Team GmbH ist …"
+          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 39",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-39-15925726",
+          "published": "2026-09-27T01:16:48+00:00",
+          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 39"
         },
         {
-          "title": "Achtung: Mietwagen-Kosten im Blick!",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/urlaubsplaene-achtung-mietwagen-kosten-im-blick-14633104",
-          "published": "2026-09-26T23:57:00+00:00",
-          "summary": "Was wie ein Schnäppchen aussieht, wird schnell teuer Die Suche beginnt meist online. Vergleichsportale zeigen Preise, die kaum günstiger wirken könnten. Doch was im Netz gut aussieht, offenbart seine …"
+          "title": "S&P 500-Index: Warum die Crash-Angst vor Oktober historisch unbegründet ist",
+          "link": "https://www.finanzen.net/nachricht/aktien/statistik-entkraeftet-angst-s-p-500-index-warum-die-crash-angst-vor-oktober-historisch-unbegruendet-ist-00-15950858",
+          "published": "2026-09-27T01:10:57+00:00",
+          "summary": "Historische Muster zeigen, der Oktober ist selten der gefürchtete Crash-Monat Wall Street-Strategen bleiben trotz Turbulenzen mehrheitlich zuversichtlich Steigende Anleiherenditen und Ölpreise sorgen …"
         },
         {
-          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
-          "published": "2026-09-26T23:41:00+00:00",
-          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
+          "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 39 im Überblick",
+          "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-39-im-ueberblick-15925705",
+          "published": "2026-09-27T00:55:12+00:00",
+          "summary": "Die schlechtesten und besten TecDAX-Werte in der Kalenderwoche 39"
         },
         {
-          "title": "Gold, Öl Co. in KW 39: So bewegten sich die Rohstoffe in der vergangenen Woche",
-          "link": "https://www.finanzen.net/nachricht/aktien/gold-oel-amp-co-in-kw-39-so-bewegten-sich-die-rohstoffe-in-der-vergangenen-woche-15954634",
-          "published": "2026-09-26T23:12:00+00:00",
-          "summary": "Am Rohstoffmarkt hat sich in der vergangenen Handelswoche einiges getan. Das sind die Gewinner und Verlierer."
+          "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
+          "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
+          "published": "2026-09-27T00:43:00+00:00",
+          "summary": "BofA korrigiert ihre Prognosen für die Chipbranche kräftig nach oben Speicherchips und Server-CPUs rücken als neue Wachstumstreiber in den Fokus Chancen für KI-Anleger im Blick"
         },
         {
-          "title": "Studie deckt Messfehler bei Onchain-Daten auf: Was das für die Bewertung von Bitcoin bedeutet",
-          "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
-          "published": "2026-09-26T23:11:00+00:00",
-          "summary": "BIS-Forscher hinterfragen gängige Onchain-Kennzahlen bei Bitcoin Wechselgeld-Effekte und verlorene Coins verzerren gängige Berechnungen Auch Ethereum und Tron zeigen laut Studie ähnliche Messprobleme"
+          "title": "Die Performance der Kryptowährungen in KW 39: Das hat sich bei Bitcoin, Ether Co. getan",
+          "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-39-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15954639",
+          "published": "2026-09-27T00:23:00+00:00",
+          "summary": "Am Kryptomarkt bewegten sich einige Werte in der vergangenen Handelswoche stark. Das sind die Gewinner und Verlierer."
         }
       ],
       "error": null
