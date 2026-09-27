@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T06:11:32+00:00",
+  "generatedAt": "2026-09-27T08:09:03+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "EU geht gegen \"Greenwashing\" in der Werbung vor",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-greenwashing-100.html",
-          "published": "2026-09-27T04:51:55+00:00",
-          "summary": "\"Grün\", \"nachhaltig\", \"klimaneutral\" - eine ab heute geltende EU-Richtlinie soll für mehr Klarheit bei Umwelt-Aussagen sorgen. Kritik gibt es an der deutschen Umsetzung. Was passiert nun mit …"
+          "title": "Zwei Tote bei Unfall von Reisebus auf A96",
+          "link": "https://www.tagesschau.de/inland/regional/bayern/reisebus-auf-a96-umgekippt-100.html",
+          "published": "2026-09-27T07:48:55+00:00",
+          "summary": "Auf der A96 bei Buchloe im Ostallgäu ist ein Reisebus umgekippt. Nach Polizeiangaben kamen zwei Menschen ums Leben, mehrere wurden verletzt. Im Bus befand sich eine philippinische Reisegruppe."
         },
         {
-          "title": "Schweiz: Volksabstimmung über striktere Neutralität",
-          "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-104.html",
-          "published": "2026-09-27T03:21:29+00:00",
-          "summary": "Die Schweiz ist berühmt für Schokolade, Uhren und politische Neutralität. Über letzteres wird gestritten. Der Grund: Die Sanktionen gegen Russland - aus Sicht der Initiative, über die heute …"
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-27T07:36:57+00:00",
+          "summary": "Am Sonntag ist es oft sonnig oder nur locker bewölkt. Bevorzugt im Westen und Nordwesten zeigt sich der Himmel hier und da mal wolkiger. Es bleibt trocken. 18 bis 31 Grad."
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656130.html",
-          "published": "2026-09-27T02:52:11+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656174.html",
+          "published": "2026-09-27T07:34:45+00:00",
           "summary": ""
+        },
+        {
+          "title": "Rente nach 45 Beitragsjahren - sinnvoll oder ungerecht?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/rentensystem-deutschland-100.html",
+          "published": "2026-09-27T07:21:42+00:00",
+          "summary": "Die Debatte über die Rentenreform wird hoch emotional geführt. Der Blick auf die Zahlen macht aber klar: Irgendetwas muss passieren. Denn das deutsche Rentensystem steht unter Druck. Von Jan-Peter …"
         },
         {
           "title": "EU stellt 710 Millionen Euro für weltweite Krisenhilfe bereit",
           "link": "https://www.tagesschau.de/ausland/europa/eu-krisenhilfe-100.html",
-          "published": "2026-09-27T01:07:57+00:00",
+          "published": "2026-09-27T07:05:01+00:00",
           "summary": "Weltweit leiden Menschen unter den Folgen von Naturkatastrophen oder Konflikten. EU-Kommissionspräsidentin von der Leyen hat nun weitere Hilfen für sie angekündigt. Ein Großteil des Geldes soll nach …"
-        },
-        {
-          "title": "Sturm an der US-Ostküste: Ein Toter, viele Haushalte ohne Strom",
-          "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-144.html",
-          "published": "2026-09-27T00:59:29+00:00",
-          "summary": "Ein schwerer Sturm hat im Nordosten der USA den Flugverkehr teilweise lahmgelegt und zu Stromausfällen geführt. Mindestens ein Menschen kam durch das Unwetter ums Leben. Viele Veranstaltungen wurden …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall – Altman und Amodei sollen vor Untersuchungsausschuss",
-          "link": "https://www.handelsblatt.com/technik/ki/openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
-          "published": "2026-09-27T05:44:34+00:00",
-          "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. OpenAI will nun an wichtigen Stellen bei der Sicherheit nachbessern. Die Chefs von OpenAI und Amodei sollen sich in Australien erklären."
+          "title": "Pflegereform: Kassen warnen vor Pflege-Blockade – „Geld alle“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/pflegereform-kassen-warnen-vor-pflege-blockade-geld-alle/100257700.html",
+          "published": "2026-09-27T07:27:39+00:00",
+          "summary": "Nachdem die SPD weitere Ausbesserungen bei der Pflegereform gefordert hat, kommt Kritik von den Kassen: Die Reform müsse dringend umgesetzt werden, den Kassen ginge das Geld aus."
         },
         {
-          "title": "Nahverkehr: Statt Tarifdschungel: Fahrscheine für 15 oder 60 Minuten?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nahverkehr-statt-tarifdschungel-fahrscheine-fuer-15-oder-60-minuten/100257690.html",
-          "published": "2026-09-27T05:00:07+00:00",
-          "summary": "Ticketpreise für S-Bahnen und Busse können eine komplizierte Sache sein, wenn man sie nicht so häufig nutzt. Verbraucherschützer schlagen deshalb ein einfaches Modell vor - und zwar gleich bundesweit."
+          "title": "„Gewichtsstigmatisierung“: Hohes Gewicht, großer Druck: Was übergewichtige Eltern nervt",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/gewichtsstigmatisierung-hohes-gewicht-grosser-druck-was-uebergewichtige-eltern-nervt/100257665.html",
+          "published": "2026-09-27T07:03:14+00:00",
+          "summary": "Was erleben Eltern mit Übergewicht und wie gehen sie damit um? Damit beschäftigt sich Judith Pape-Greif in ihrer Forschung. Jolyn Muijsers berichtet über das Leben mit zwei Kindern und 140 Kilo."
         },
         {
-          "title": "Konflikte: Gericht in Nordirland lässt umstrittene Oranier-Parade zu",
-          "link": "https://www.handelsblatt.com/politik/international/konflikte-gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu/100257687.html",
-          "published": "2026-09-27T04:40:13+00:00",
-          "summary": "Erstmals seit fast drei Jahrzehnten darf der protestantische Oranier-Orden entlang der Garvaghy Road in einem katholischen Teil von Portadown marschieren. Die Bestätigung kommt kurz vor der Parade."
+          "title": "+++ Iran-Krieg +++: Iran pocht auf Diplomatie – Trump lehnt Vorschlag zur Öffnung der Straße von Hormus ab",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-draengt-auf-diplomatie-trump-lehnt-vorschlag-zu-hormus-ab/100136895.html",
+          "published": "2026-09-27T06:53:00+00:00",
+          "summary": "Iran bei Atomprogramm in Verhandlungen offenbar unnachgiebig +++ Iran legt wohl Sieben-Tage-Plan zur Beendigung des Krieges vor +++ Netanjahu verteidigt Kriege bei UN-Rede +++ Der Newsblog."
         },
         {
-          "title": "Brasiliens Norden: Karibik Amazoniens: Was Alter do Chão einzigartig macht",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/brasiliens-norden-karibik-amazoniens-was-alter-do-chao-einzigartig-macht/100257683.html",
-          "published": "2026-09-27T03:55:08+00:00",
-          "summary": "Weiße Strände, warmes Wasser, tropisches Klima – die Gegend um das brasilianische Alter do Chão wird als „Karibik Amazoniens“ vermarktet. Ein Realität-Check vor Ort."
+          "title": "+++ Ukraine-Krieg +++: Selenskyj – Keine Friedensbereitschaft im Kreml erkennbar",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-27T06:48:00+00:00",
+          "summary": "Wadephul und Lawrow nach bilateralem Gespräch weiter uneins – Dänemark und Polen warnen vor wachsendem Risiko eines russischen Angriffs auf einen NATO-Staat +++ Der Newsblog."
         },
         {
-          "title": "CDU nach Wahlniederlagen: Voigt fordert Trendumkehr: „Länder mischen sich ein“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-nach-wahlniederlagen-voigt-fordert-trendumkehr-laender-mischen-sich-ein/100257677.html",
-          "published": "2026-09-27T03:30:15+00:00",
-          "summary": "Mehr als Wunden lecken: In einer Klausur will die CDU ihre Wahlniederlagen aufarbeiten. Der Thüringer Regierungschef verlangt eine programmatische Neuaufstellung und sieht die Länder am Drücker."
+          "title": "Ukraine-Krieg: Treffen in New York: Wadephul fordert Deeskalation – Lawrow kritisiert Forderungen",
+          "link": "https://www.handelsblatt.com/politik/international/treffen-bei-un-wadephul-fordert-deeskalation-lawrow-kritisiert-forderungen/100257694.html",
+          "published": "2026-09-27T06:41:10+00:00",
+          "summary": "Die Außenminister Deutschlands und Russlands haben sich zum ersten Mal seit Beginn des Ukraine-Kriegs bilateral getroffen. Eine Annäherung zeichnet sich nicht ab."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Steuern sparen: Mit geschickter Planung Jahresendprämieren richtig nutzen",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/steuerlast-optimieren-steuern-sparen-mit-geschickter-planung-jahresendpraemieren-richtig-nutzen-00-15291507",
-          "published": "2026-09-27T06:05:00+00:00",
-          "summary": "Bedeutung des Auszahlungszeitpunkts Der Zeitpunkt der Auszahlung bestimmt, in welchem Steuerjahr eine Prämie oder Sonderzahlung berücksichtigt wird. Laut dem Online-Portal Biallo & Team GmbH ist …"
+          "title": "S&P 500-Index: Warum die Crash-Angst vor Oktober historisch unbegründet ist",
+          "link": "https://www.finanzen.net/nachricht/aktien/statistik-entkraeftet-angst-s-p-500-index-warum-die-crash-angst-vor-oktober-historisch-unbegruendet-ist-00-15950858",
+          "published": "2026-09-27T07:57:00+00:00",
+          "summary": "Historische Muster zeigen, der Oktober ist selten der gefürchtete Crash-Monat Wall Street-Strategen bleiben trotz Turbulenzen mehrheitlich zuversichtlich Steigende Anleiherenditen und Ölpreise sorgen …"
         },
         {
-          "title": "Vermögenswirksame Leistungen mit ETFs: So wird aus dem Arbeitgeberzuschuss langfristig Vermögen",
-          "link": "https://www.finanzen.net/nachricht/aktien/vermoegenswirksame-leistungen-mit-etfs-so-wird-aus-dem-arbeitgeberzuschuss-langfristig-vermoegen-15954763",
-          "published": "2026-09-27T06:01:46+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Megatrends im Depot: Wie viel KI und Halbleiter sind sinnvoll?",
-          "link": "https://www.finanzen.net/nachricht/aktien/megatrends-im-depot-wie-viel-ki-und-halbleiter-sind-sinnvoll-15954762",
-          "published": "2026-09-27T06:00:43+00:00",
-          "summary": ""
-        },
-        {
-          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
-          "published": "2026-09-27T05:57:00+00:00",
-          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
-        },
-        {
-          "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
-          "published": "2026-09-27T05:54:00+00:00",
+          "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
+          "published": "2026-09-27T07:54:00+00:00",
           "summary": "Zum Artikel"
+        },
+        {
+          "title": "Meta-Aktie: Gericht weist Einwände im Cambridge-Analytica-Fall ab",
+          "link": "https://www.finanzen.net/nachricht/aktien/datenschutz-meta-aktie-gericht-weist-einwaende-im-cambridge-analytica-fall-ab-15954200",
+          "published": "2026-09-27T07:54:00+00:00",
+          "summary": "Geschworene im US-Bundesstaat New Mexico entschieden, dass Nutzer mit Blick auf Datenschutz und Redefreiheit in die Irre geführt wurden. Der zuständige Richter soll nun die Höhe der Strafe festlegen …"
+        },
+        {
+          "title": "So bewegen sich die Kurse von Bitcoin, Ripple, Bitcoin Cash und Ethereum am Vormittag",
+          "link": "https://www.finanzen.net/nachricht/devisen/so-bewegen-sich-die-kurse-von-bitcoin-ripple-bitcoin-cash-und-ethereum-am-vormittag-15954791",
+          "published": "2026-09-27T07:48:20+00:00",
+          "summary": "Der Bitcoin -Kurs wertet am Sonntagvormittag um 0,15 Prozent auf 84.542,15 US-Dollar auf. Am Vortag stand Bitcoin bei 84.412,72 US-Dollar.Der Kryptomarkt zeigt sich insgesamt ..."
+        },
+        {
+          "title": "Bilanzen & Termine: Tesla, NVIDIA, Apple, Amazon & Co. - Ergebnisse der Tech-Riesen in der aktuellen Saison",
+          "link": "https://www.finanzen.net/nachricht/aktien/giganten-im-ueberblick-bilanzen-termine-tesla-nvidia-apple-amazon-co-ergebnisse-der-tech-riesen-in-der-aktuellen-saison-15759085",
+          "published": "2026-09-27T07:42:00+00:00",
+          "summary": "Die US-Schwergewichte unter den Technologie-Firmen werden am Markt besonders unter die Lupe genommen. Die jüngsten Bilanzen und Termine im Überblick: Bereits erfolgte Bilanzen 15. Juli 2026:"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "100 Jahre WiWo: Finden Sie die WirtschaftsWoche zu Ihrem Geburtstag",
-          "link": "https://www.wiwo.de/100/100-jahre-wirtschaftswoche-finden-sie-das-cover-zu-ihrem-geburtstag/100248332.html",
-          "published": "2026-09-27T06:07:31+00:00",
-          "summary": "Seit hundert Jahren berichten wir über Wirtschaft, Politik und Geldanlage. Stöbern Sie durch fast 5000 Titelseiten – und entdecken Sie Ihre Lieblingsausgabe."
-        },
-        {
-          "title": "Künstliche Intelligenz: „Wenn wir jetzt nicht investieren, wird Europa Kollateralschaden im KI-Rennen“",
-          "link": "https://www.wiwo.de/technologie/ki-souveraenitaet-europas-chance-im-rennen-gegen-usa-und-china/100255463.html",
-          "published": "2026-09-27T04:39:00+00:00",
-          "summary": "Experten fordern mehr KI-Souveränität für Europa. Was ein Rückfallen im KI-Rennen bedeuten könnte – und wo Europas Stärken liegen."
-        },
-        {
-          "title": "Geldanlage: So nehmen Anleger jetzt durchdacht Gewinne mit",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-so-nehmen-anleger-jetzt-durchdacht-gewinne-mit/100256897.html",
-          "published": "2026-09-27T03:14:00+00:00",
-          "summary": "Viele Anleger haben derzeit hohe Gewinne in ihren Depots – ­und fragen sich, ob sie einen Teil ihrer Aktien ­verkaufen sollten. Diese Strategien können helfen."
-        },
-        {
-          "title": "UpTrade: Kassieren, wenn die Aktie dümpelt: Was taugt das neue Consors-Angebot?",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/aktie-kassieren-wenn-sie-duempelt-mit-uptrade/100256832.html",
-          "published": "2026-09-26T15:04:15+00:00",
-          "summary": "Die Consorsbank macht Privatanlegern unter dem Namen UpTrade eine Profi-Strategie zugänglich. Damit lässt sich gut verdienen – oder viel verlieren."
+          "title": "Künstliche Intelligenz: OpenAI pausiert KI-Training nach neuem Zwischenfall",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257562.html",
+          "published": "2026-09-27T07:51:00+00:00",
+          "summary": "Nach Hacking-Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell schaffte es trotzdem, Antworten von einem externen Chatbot zu bekommen."
         },
         {
           "title": "Russland Gespräche: Wadephul trifft Lawrow in New York zu Gesprächen",
           "link": "https://www.wiwo.de/politik/ausland/russland-gespraeche-wadephul-trifft-lawrow-in-new-york-zu-gespraechen/100257623.html",
-          "published": "2026-09-26T15:02:15+00:00",
-          "summary": "Seit Beginn des russischen Angriffskriegs gab es kein bilaterales Gespräch der Außenminister Deutschlands und Russlands mehr. Nun treffen sich Wadephul und Lawrow in New York."
+          "published": "2026-09-27T07:06:00+00:00",
+          "summary": "Ein Handschlag, gut 20 Minuten Gespräch – und grundlegender Dissens: Wadephul trifft in New York am Rande der UN-Generalversammlung erstmals bilateral auf Lawrow."
+        },
+        {
+          "title": "WiWo History: Als Siemens seine Handysparte aus der Hand gab",
+          "link": "https://www.wiwo.de/unternehmen/industrie/benq-mobile-pleite-wie-siemens-seine-handysparte-verlor/100246485.html",
+          "published": "2026-09-27T06:47:00+00:00",
+          "summary": "Vor 20 Jahren schlug die Insolvenz von Benq Mobile Wellen. Kurz zuvor hatte Siemens seine verlustreiche Handysparte an das Unternehmen weitergereicht."
+        },
+        {
+          "title": "Recht: Was kann ich tun, wenn die Aktienabfindung nach einer Übernahme ausbleibt?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/aktienabfindung-nach-uebernahme-bleibt-aus-das-koennen-anleger-dagegen-tun/100255659.html",
+          "published": "2026-09-27T06:45:00+00:00",
+          "summary": "Ein Leser wartet vergeblich auf eine Barabfindung seiner Aktienanteile nach einer Übernahme. Wie kommt er an sein Geld?"
+        },
+        {
+          "title": "Hohe Ölpreise: Kann diese Ölpalme die Biosprit-Knappheit beenden?",
+          "link": "https://www.wiwo.de/technologie/hohe-oelpreise-kann-diese-palme-den-mangel-an-bio-kerosin-lindern/100257193.html",
+          "published": "2026-09-27T06:24:00+00:00",
+          "summary": "Preislich attraktiv sind Biokraftstoffe inzwischen – und knapp. Eine bisher kaum bekannte brasilianische Ölpalme könnte das ändern, sagen Wissenschaftler."
         }
       ],
       "error": null
