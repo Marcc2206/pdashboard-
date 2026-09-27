@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:08:47+00:00",
+  "generatedAt": "2026-09-27T22:08:30+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,16 +8,22 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
-          "published": "2026-09-27T20:02:02+00:00",
-          "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit …"
+          "title": "Nations League: Griechenland schlägt Deutschlands 1:0",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/wunderheilung-vertagt-griechenland-bestraft-deutschlands-fehler,spielbericht-nations-league-deutschland-griechenland-100.html",
+          "published": "2026-09-27T21:58:58+00:00",
+          "summary": "Die deutsche Fußball-Nationalmannschaft hat das Heimdebüt des Bundestrainers Klopp 0:1 verloren. Es war im elften Duell gegen Griechenland die erste Niederlage einer DFB-Elf."
         },
         {
           "title": "Niedersachsen zählt aus",
           "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/liveticker-ergebnisse-der-stichwahl-in-niedersachsen,stichwahl-liveticker-100.html",
-          "published": "2026-09-27T20:00:19+00:00",
+          "published": "2026-09-27T20:16:32+00:00",
           "summary": "In 123 Kommunen in Niedersachsen wurden Bürgermeister, Oberbürgermeister und Landräte gewählt. Ergebnisse gibt es hier im Liveticker."
+        },
+        {
+          "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
+          "published": "2026-09-27T20:02:02+00:00",
+          "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit …"
         },
         {
           "title": "Vor 80 Jahren starteten Tim und Struppi im Magazin \"Tintin\"",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1656570.html",
           "published": "2026-09-27T19:46:21+00:00",
           "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12882.html",
-          "published": "2026-09-27T19:45:40+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Kommunalwahl: AfD verliert Stichwahlen in Niedersachsen – Hannover bleibt grün",
+          "link": "https://www.handelsblatt.com/politik/international/kommunalwahl-afd-verliert-stichwahlen-in-niedersachsen-hannover-bleibt-gruen/100257769.html",
+          "published": "2026-09-27T21:04:42+00:00",
+          "summary": "In drei Stichwahlen hat die AfD Chancen auf ein erstes kommunales Spitzenamt in Niedersachsen. Alle drei gehen klar verloren. In Hannover setzt sich der Amtsinhaber durch."
+        },
+        {
+          "title": "US-Militär in Nahost: Irak: US-Truppen sind vollständig abgezogen",
+          "link": "https://www.handelsblatt.com/politik/international/us-militaer-in-nahost-irak-us-truppen-sind-vollstaendig-abgezogen/100257767.html",
+          "published": "2026-09-27T20:54:12+00:00",
+          "summary": "Die IS-Terrormiliz gilt im Irak als besiegt - nun zieht das US-Militär ab. Von dauerhafter Stabilität ist das Land aber weit entfernt. Es wird vor allem ein Schauplatz im Iran-Krieg bleiben."
+        },
+        {
+          "title": "Oberhaus des Parlaments: Machtzuwachs für Le Pens Rechtsnationale im Pariser Senat",
+          "link": "https://www.handelsblatt.com/politik/international/oberhaus-des-parlaments-machtzuwachs-fuer-le-pens-rechtsnationale-im-pariser-senat/100257707.html",
+          "published": "2026-09-27T20:26:11+00:00",
+          "summary": "Erstmals erreicht das Rassemblement National Fraktionsstärke. Welche Signalwirkung hat der Machtzuwachs kurz vor der französischen Präsidentschaftswahl?"
+        },
+        {
           "title": "Szene in ZDF-Dokumentation: Amthor eckt mit Strandkorb im Kanzleramt an",
           "link": "https://www.handelsblatt.com/politik/deutschland/szene-in-zdf-dokumentation-amthor-eckt-mit-strandkorb-im-kanzleramt-an/100257762.html",
           "published": "2026-09-27T19:23:04+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/politik-am-balkan-serbiens-praesident-vucic-zurueckgetreten/100257760.html",
           "published": "2026-09-27T19:12:04+00:00",
           "summary": "Vucic zieht als Machtstratege ins Rennen um das Amt des Ministerpräsidenten – nach Massenprotesten und politischem Druck. Als letzte Amtshandlung begnadigte er Oppositionelle."
-        },
-        {
-          "title": "Leo XIV. in Frankreich: Papst trifft Missbrauchsopfer in Lourdes",
-          "link": "https://www.handelsblatt.com/politik/international/leo-xiv-in-frankreich-papst-trifft-missbrauchsopfer-in-lourdes/100257746.html",
-          "published": "2026-09-27T18:59:54+00:00",
-          "summary": "Auch in Frankreich gab es zahlreiche Fälle sexuellen Missbrauchs durch katholische Geistliche. Leo XIV. betont, solches Unrecht dürfe sich nicht wiederholen."
-        },
-        {
-          "title": "Von USA genutzter Stützpunkt: Festnahmen bei britischer Militärbasis - Terrorverdacht",
-          "link": "https://www.handelsblatt.com/politik/international/von-usa-genutzter-stuetzpunkt-festnahmen-bei-britischer-militaerbasis-terrorverdacht/100257743.html",
-          "published": "2026-09-27T18:21:06+00:00",
-          "summary": "Laut US-Präsident Trump wollten sie „großen Schaden“ anrichten: Fünf Männer stehen nach einem Vorfall nahe einer britischen Militärbasis unter Terrorverdacht. Den Stützpunkt nutzt die US-Luftwaffe."
-        },
-        {
-          "title": "CDU: „Keine FDP-light“ – Arbeitnehmerflügel der CDU verlangt von Merz eine Kurskorrektur",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-arbeitnehmerfluegel-der-partei-verlangt-kurskorrektur/100257273.html",
-          "published": "2026-09-27T16:30:08+00:00",
-          "summary": "Die CDU habe sich „verengt“, kritisiert CDA-Chef Radtke. Er will sozialen Belangen mehr Platz geben und nennt konkrete Vorhaben – darunter eines, das viele Wirtschaftsvertreter fürchten."
         }
       ],
       "error": null
@@ -127,8 +127,20 @@
         {
           "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
-          "published": "2026-09-27T19:54:00+00:00",
+          "published": "2026-09-27T21:54:00+00:00",
           "summary": "Zum Artikel"
+        },
+        {
+          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+          "published": "2026-09-27T20:50:00+00:00",
+          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+        },
+        {
+          "title": "Online Broker Vergleich - die besten Aktiendepots und Trading-Plattformen im Test",
+          "link": "https://www.finanzen.net/nachricht/aktien/online-broker-vergleich-die-besten-aktiendepots-und-trading-plattformen-im-test-4714571",
+          "published": "2026-09-27T20:30:00+00:00",
+          "summary": "https://www.finanzen.net/ratgeber/rechner-vergleiche/online-broker-vergleich?utm_medium=article-4714571-obv-obv"
         },
         {
           "title": "Lufthansa-Aktie: Mehrere Flugstörungen durch Powerbank-Feuer und Geruchsbelästigung",
@@ -141,18 +153,6 @@
           "link": "https://www.finanzen.net/nachricht/aktien/automatisierung-boeing-aktie-neue-software-panne-bei-der-737-max-15954848",
           "published": "2026-09-27T19:46:00+00:00",
           "summary": "Dem Konzern zufolge kann das Problem bei einigen Maschinen dazu führen, dass nach einem abgebrochenen Landeversuch die automatisierte vertikale Navigation bei weiteren Anläufen zunächst nicht zur …"
-        },
-        {
-          "title": "Mercedes-Benz: Werk Sindelfingen musste Produktion herunterfahren",
-          "link": "https://www.finanzen.net/nachricht/aktien/lieferengpass-mercedes-benz-werk-sindelfingen-musste-produktion-herunterfahren-15954840",
-          "published": "2026-09-27T19:30:00+00:00",
-          "summary": "Das teilte ein Sprecher des Autobauers auf Anfrage mit. \"Gegenwärtig besteht ein Lieferengpass an bestimmten Komponenten für die Fahrzeugfertigung\", teilte der Sprecher mit. Deshalb sei eine Schicht …"
-        },
-        {
-          "title": "VW-Aktie: Neuer Rückruf zwingt Fahrer zu zwei Werkstatt-Besuchen",
-          "link": "https://www.finanzen.net/nachricht/aktien/korrosion-vw-aktie-neuer-rueckruf-zwingt-fahrer-zu-zwei-werkstatt-besuchen-15954320",
-          "published": "2026-09-27T19:28:00+00:00",
-          "summary": "Bei dem Rückruf geht es um Korrosion an einer Befestigungsverschraubung der Lenkung.Zum Start der Aktion könne die vorgeschriebene Schraube möglicherweise nicht in ausreichender Menge zur Verfügung …"
         }
       ],
       "error": null
