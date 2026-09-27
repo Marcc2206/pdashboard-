@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:10:28+00:00",
+  "generatedAt": "2026-09-27T20:08:47+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656488.html",
-          "published": "2026-09-27T17:50:37+00:00",
+          "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
+          "published": "2026-09-27T20:02:02+00:00",
+          "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit …"
+        },
+        {
+          "title": "Niedersachsen zählt aus",
+          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/liveticker-ergebnisse-der-stichwahl-in-niedersachsen,stichwahl-liveticker-100.html",
+          "published": "2026-09-27T20:00:19+00:00",
+          "summary": "In 123 Kommunen in Niedersachsen wurden Bürgermeister, Oberbürgermeister und Landräte gewählt. Ergebnisse gibt es hier im Liveticker."
+        },
+        {
+          "title": "Vor 80 Jahren starteten Tim und Struppi im Magazin \"Tintin\"",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1656572.html",
+          "published": "2026-09-27T19:48:44+00:00",
           "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-27T17:15:09+00:00",
-          "summary": "Am Montag tagsüber lockere Wolken, im Süden und Osten ungestörter Sonnenschein. Dichtere Wolken im Westen und Nordwesten, am Nachmittag von der Eifel über das Münsterland bis zur Nordsee einzelne …"
-        },
-        {
-          "title": "Nepal nach der Katastrophe: Weite Teile der Infrastruktur zerstört und Tausende Menschen werden vermisst",
-          "link": "https://www.tagesschau.de/video/video-1656330.html",
-          "published": "2026-09-27T17:08:53+00:00",
+          "title": "Nepal nach der Sturzflut: Infrastruktur zerstört und Tausende vermisst",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1656570.html",
+          "published": "2026-09-27T19:46:21+00:00",
           "summary": ""
         },
         {
-          "title": "Terrorverdacht: Britische Polizei nimmt fünf Männer bei Militärstützpunkt fest",
-          "link": "https://www.tagesschau.de/ausland/festnahmen-grossbritannien-luftwaffenstuetzpunkt-100.html",
-          "published": "2026-09-27T16:57:19+00:00",
-          "summary": "Großeinsatz nach Sprengstoffverdacht: An dem auch von den USA genutzten britischen Militärstützpunkt Fairford sind fünf Männer festgenommen worden. Laut US-Präsident Trump wollten sie \"großen …"
-        },
-        {
-          "title": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
-          "published": "2026-09-27T16:14:05+00:00",
-          "summary": "Die SPD droht, die geplante Pflegereform zu blockieren - und fordert Änderungen. Doch die bieten aus Sicht von Gesundheitsminister Linnemann keine Lösungen. Eine Einigung hält er trotz des Streits in …"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12882.html",
+          "published": "2026-09-27T19:45:40+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Szene in ZDF-Dokumentation: Amthor eckt mit Strandkorb im Kanzleramt an",
+          "link": "https://www.handelsblatt.com/politik/deutschland/szene-in-zdf-dokumentation-amthor-eckt-mit-strandkorb-im-kanzleramt-an/100257762.html",
+          "published": "2026-09-27T19:23:04+00:00",
+          "summary": "Eine Szene aus der Dokumentation „Inside CDU“ erhitzt die Gemüter in den sozialen Medien: Philipp Amthor lässt einen Strandkorb auf dem Balkon des Kanzleramts aufstellen. Schadet das seiner Partei?"
+        },
+        {
+          "title": "Politik am Balkan: Serbiens Präsident Vucic zurückgetreten",
+          "link": "https://www.handelsblatt.com/politik/international/politik-am-balkan-serbiens-praesident-vucic-zurueckgetreten/100257760.html",
+          "published": "2026-09-27T19:12:04+00:00",
+          "summary": "Vucic zieht als Machtstratege ins Rennen um das Amt des Ministerpräsidenten – nach Massenprotesten und politischem Druck. Als letzte Amtshandlung begnadigte er Oppositionelle."
+        },
+        {
+          "title": "Leo XIV. in Frankreich: Papst trifft Missbrauchsopfer in Lourdes",
+          "link": "https://www.handelsblatt.com/politik/international/leo-xiv-in-frankreich-papst-trifft-missbrauchsopfer-in-lourdes/100257746.html",
+          "published": "2026-09-27T18:59:54+00:00",
+          "summary": "Auch in Frankreich gab es zahlreiche Fälle sexuellen Missbrauchs durch katholische Geistliche. Leo XIV. betont, solches Unrecht dürfe sich nicht wiederholen."
+        },
+        {
+          "title": "Von USA genutzter Stützpunkt: Festnahmen bei britischer Militärbasis - Terrorverdacht",
+          "link": "https://www.handelsblatt.com/politik/international/von-usa-genutzter-stuetzpunkt-festnahmen-bei-britischer-militaerbasis-terrorverdacht/100257743.html",
+          "published": "2026-09-27T18:21:06+00:00",
+          "summary": "Laut US-Präsident Trump wollten sie „großen Schaden“ anrichten: Fünf Männer stehen nach einem Vorfall nahe einer britischen Militärbasis unter Terrorverdacht. Den Stützpunkt nutzt die US-Luftwaffe."
+        },
+        {
           "title": "CDU: „Keine FDP-light“ – Arbeitnehmerflügel der CDU verlangt von Merz eine Kurskorrektur",
           "link": "https://www.handelsblatt.com/politik/deutschland/cdu-arbeitnehmerfluegel-der-partei-verlangt-kurskorrektur/100257273.html",
           "published": "2026-09-27T16:30:08+00:00",
           "summary": "Die CDU habe sich „verengt“, kritisiert CDA-Chef Radtke. Er will sozialen Belangen mehr Platz geben und nennt konkrete Vorhaben – darunter eines, das viele Wirtschaftsvertreter fürchten."
-        },
-        {
-          "title": "+++ Ukraine-Krieg +++: Tote und Verletzte bei russischen Angriffen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-27T16:18:00+00:00",
-          "summary": "Selenskyj – Keine Friedensbereitschaft im Kreml erkennbar - Wadephul und Lawrow nach bilateralem Gespräch weiter uneins +++ Der Newsblog."
-        },
-        {
-          "title": "Iran-Krieg: Trump: Erwarte weitere Gespräche mit dem Iran",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-erwarte-weitere-gespraeche-mit-dem-iran/100257751.html",
-          "published": "2026-09-27T15:48:47+00:00",
-          "summary": "Die USA und der Iran kamen jüngst erstmals seit Monaten wieder für Verhandlungen zusammen. Einen Vorschlag des Irans zur Straße von Hormus lehnte Trump kurz darauf ab, doch er erwartet neue Gespräche."
-        },
-        {
-          "title": "Bundesregierung: Linnemann gegen Pflegedeckel - Warum die Koalition streitet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-linnemann-gegen-pflegedeckel-warum-die-koalition-streitet/100257750.html",
-          "published": "2026-09-27T15:47:05+00:00",
-          "summary": "Reine Sparvorschläge will die SPD bei der Pflege nicht mitmachen. Doch von einem sozialdemokratischen Gegenvorschlag hält der CDU-Gesundheitsminister nichts. Wie der Koalitionsstreit endet, ist offen."
-        },
-        {
-          "title": "Start-ups: Zehn Einhörner 2026 – Deutschlands neue Wachstumshoffnung",
-          "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-ups-zehn-einhoerner-2026-deutschlands-neue-wachstumshoffnung/100251819.html",
-          "published": "2026-09-27T15:31:02+00:00",
-          "summary": "Isar Aerospace, Helsing und Neura Robotics stehen für eine neue Generation deutscher Tech-Firmen. Eine Studie zeigt, was sich ändern muss, damit nicht nur einzelne Start-ups glänzen."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Dank Ausbau und viel Sonne: Deutschland produziert so viel Solarstrom wie noch nie",
+          "link": "https://www.n-tv.de/wirtschaft/Deutschland-produziert-so-viel-Solarstrom-wie-noch-nie-id31353734.html",
+          "published": "2026-09-27T18:21:00+00:00",
+          "summary": "PV-Anlagen in Deutschland produzieren so viel Strom wie im Vorjahr - und das bereits Ende September. Dank viel Sonne und Anlagenausbau wird mit 90,2 Terrawattstunden ein neuer Rekord aufgestellt. Wer …"
+        },
         {
           "title": "Konsulat in Mailand errichtet: US-Baukonzern zahlt Millionensumme wegen möglicher Ausbeutung",
           "link": "https://www.n-tv.de/wirtschaft/US-Baukonzern-zahlt-Millionensumme-wegen-moeglicher-Ausbeutung-id31353351.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/TikTok-will-Nutzungszeit-fuer-Teenager-in-Alabama-begrenzen-id31352690.html",
           "published": "2026-09-27T10:44:35+00:00",
           "summary": "Der US-Bundesstaat Alabama wirft Tiktok vor, dass die Kurzvideo-Plattform Kinder gezielt süchtig mache. Um einem Prozess zu entgehen, stimmt Tiktok nun einem Vergleich und strengeren Regeln für die …"
-        },
-        {
-          "title": "Einfallstor für Strom-Sabotage: \"Zur Trafostation kann man einfach rübergehen und den Schalter umlegen\"",
-          "link": "https://www.n-tv.de/wirtschaft/Zur-Trafostation-kann-man-einfach-ruebergehen-und-den-Schalter-umlegen-id31347998.html",
-          "published": "2026-09-27T09:16:40+00:00",
-          "summary": "Die Energiewende benötigt Stromautobahnen und andere Infrastruktur. Doch wie gut sind Freileitungen, Erdkabel und Umspannwerke vor Sabotage geschützt? Friedrich Vorwerk ist maßgeblich am Bau dieser …"
         }
       ],
       "error": null
@@ -127,32 +127,32 @@
         {
           "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
-          "published": "2026-09-27T17:54:00+00:00",
+          "published": "2026-09-27T19:54:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "Polygon Ecosystem Token (ex MATIC): Wie viel eine Investition von vor 1 Jahr gekostet hätte",
-          "link": "https://www.finanzen.net/nachricht/devisen/polygon-ecosystem-token-ex-matic-wie-viel-eine-investition-von-vor-1-jahr-gekostet-haette-15955116",
-          "published": "2026-09-27T17:43:04+00:00",
-          "summary": "Vor 1 Jahr notierte Polygon Ecosystem Token (ex MATIC) bei 0,2213 USD. Bei einem Investment von 100 USD in POL vor 1 Jahr, wäre ein Investor nun im Besitz von 451,89 ..."
+          "title": "Lufthansa-Aktie: Mehrere Flugstörungen durch Powerbank-Feuer und Geruchsbelästigung",
+          "link": "https://www.finanzen.net/nachricht/aktien/luftnotlage-lufthansa-aktie-mehrere-flugstoerungen-durch-powerbank-feuer-und-geruchsbelaestigung-15954864",
+          "published": "2026-09-27T19:54:00+00:00",
+          "summary": "Ein Lufthansa-Flug von Frankfurt nach Toronto mit 371 Passagieren an Bord ist aus Sicherheitsgründen über Schottland umgekehrt und in Manchester gelandet. Grund war Geruch in der Kabine, wie …"
         },
         {
-          "title": "Worldcoin: Wie viel eine Investition von vor 1 Jahr gekostet hätte",
-          "link": "https://www.finanzen.net/nachricht/devisen/worldcoin-wie-viel-eine-investition-von-vor-1-jahr-gekostet-haette-15955115",
-          "published": "2026-09-27T17:43:04+00:00",
-          "summary": "Am 26.09.2025 war Worldcoin 1,286 USD wert. Bei einer Investition in Höhe von 100 USD zu diesem Zeitpunkt, befänden sich nun 77,76 WLD im Portfolio. Die Anlage hätte nun einen Wert ..."
+          "title": "Boeing-Aktie: Neue Software-Panne bei der 737 Max",
+          "link": "https://www.finanzen.net/nachricht/aktien/automatisierung-boeing-aktie-neue-software-panne-bei-der-737-max-15954848",
+          "published": "2026-09-27T19:46:00+00:00",
+          "summary": "Dem Konzern zufolge kann das Problem bei einigen Maschinen dazu führen, dass nach einem abgebrochenen Landeversuch die automatisierte vertikale Navigation bei weiteren Anläufen zunächst nicht zur …"
         },
         {
-          "title": "Webinar: Trading mit System - So helfen Statistik und Psychologie bei besseren Entscheidungen",
-          "link": "https://www.finanzen.net/nachricht/trading/statistik-statt-bauchgefuehl-webinar-trading-mit-system-so-helfen-statistik-und-psychologie-bei-besseren-entscheidungen-15946561",
-          "published": "2026-09-27T17:37:00+00:00",
-          "summary": "Bauchgefühl schlägt selten den Markt – Statistik schon eher. Im finanzen.net-Webinar ..."
+          "title": "Mercedes-Benz: Werk Sindelfingen musste Produktion herunterfahren",
+          "link": "https://www.finanzen.net/nachricht/aktien/lieferengpass-mercedes-benz-werk-sindelfingen-musste-produktion-herunterfahren-15954840",
+          "published": "2026-09-27T19:30:00+00:00",
+          "summary": "Das teilte ein Sprecher des Autobauers auf Anfrage mit. \"Gegenwärtig besteht ein Lieferengpass an bestimmten Komponenten für die Fahrzeugfertigung\", teilte der Sprecher mit. Deshalb sei eine Schicht …"
         },
         {
-          "title": "Lufthansa-Flug wegen brennender Powerbank umgeleitet",
-          "link": "https://www.finanzen.net/nachricht/aktien/lufthansa-flug-wegen-brennender-powerbank-umgeleitet-15955106",
-          "published": "2026-09-27T17:20:38+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Eine Passagiermaschine der Lufthansa ist auf ihrem Weg von Frankfurt nach Lissabon wegen einer brennenden Powerbank ins französische Lyon umgeleitet worden. Das Gerät habe einem …"
+          "title": "VW-Aktie: Neuer Rückruf zwingt Fahrer zu zwei Werkstatt-Besuchen",
+          "link": "https://www.finanzen.net/nachricht/aktien/korrosion-vw-aktie-neuer-rueckruf-zwingt-fahrer-zu-zwei-werkstatt-besuchen-15954320",
+          "published": "2026-09-27T19:28:00+00:00",
+          "summary": "Bei dem Rückruf geht es um Korrosion an einer Befestigungsverschraubung der Lenkung.Zum Start der Aktion könne die vorgeschriebene Schraube möglicherweise nicht in ausreichender Menge zur Verfügung …"
         }
       ],
       "error": null
