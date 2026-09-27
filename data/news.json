@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:08:48+00:00",
+  "generatedAt": "2026-09-27T06:11:32+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,12 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "EU geht gegen \"Greenwashing\" in der Werbung vor",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-greenwashing-100.html",
+          "published": "2026-09-27T04:51:55+00:00",
+          "summary": "\"Grün\", \"nachhaltig\", \"klimaneutral\" - eine ab heute geltende EU-Richtlinie soll für mehr Klarheit bei Umwelt-Aussagen sorgen. Kritik gibt es an der deutschen Umsetzung. Was passiert nun mit …"
+        },
         {
           "title": "Schweiz: Volksabstimmung über striktere Neutralität",
           "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-104.html",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-144.html",
           "published": "2026-09-27T00:59:29+00:00",
           "summary": "Ein schwerer Sturm hat im Nordosten der USA den Flugverkehr teilweise lahmgelegt und zu Stromausfällen geführt. Mindestens ein Menschen kam durch das Unwetter ums Leben. Viele Veranstaltungen wurden …"
-        },
-        {
-          "title": "Zehntausende demonstrieren nach Zwangsräumung von 87-Jähriger in Madrid",
-          "link": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
-          "published": "2026-09-26T23:37:30+00:00",
-          "summary": "Unmut über Wohnungsnot und hohe Mieten gibt es auch in Spanien schon lange. Doch die Zwangsräumung einer 87-Jährigen bringt für viele nun offenbar das Fass zum Überlaufen. Zehntausende gingen in …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall – Altman und Amodei sollen vor Untersuchungsausschuss",
+          "link": "https://www.handelsblatt.com/technik/ki/openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
+          "published": "2026-09-27T05:44:34+00:00",
+          "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. OpenAI will nun an wichtigen Stellen bei der Sicherheit nachbessern. Die Chefs von OpenAI und Amodei sollen sich in Australien erklären."
+        },
+        {
+          "title": "Nahverkehr: Statt Tarifdschungel: Fahrscheine für 15 oder 60 Minuten?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/nahverkehr-statt-tarifdschungel-fahrscheine-fuer-15-oder-60-minuten/100257690.html",
+          "published": "2026-09-27T05:00:07+00:00",
+          "summary": "Ticketpreise für S-Bahnen und Busse können eine komplizierte Sache sein, wenn man sie nicht so häufig nutzt. Verbraucherschützer schlagen deshalb ein einfaches Modell vor - und zwar gleich bundesweit."
+        },
+        {
+          "title": "Konflikte: Gericht in Nordirland lässt umstrittene Oranier-Parade zu",
+          "link": "https://www.handelsblatt.com/politik/international/konflikte-gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu/100257687.html",
+          "published": "2026-09-27T04:40:13+00:00",
+          "summary": "Erstmals seit fast drei Jahrzehnten darf der protestantische Oranier-Orden entlang der Garvaghy Road in einem katholischen Teil von Portadown marschieren. Die Bestätigung kommt kurz vor der Parade."
+        },
+        {
+          "title": "Brasiliens Norden: Karibik Amazoniens: Was Alter do Chão einzigartig macht",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/brasiliens-norden-karibik-amazoniens-was-alter-do-chao-einzigartig-macht/100257683.html",
+          "published": "2026-09-27T03:55:08+00:00",
+          "summary": "Weiße Strände, warmes Wasser, tropisches Klima – die Gegend um das brasilianische Alter do Chão wird als „Karibik Amazoniens“ vermarktet. Ein Realität-Check vor Ort."
+        },
+        {
           "title": "CDU nach Wahlniederlagen: Voigt fordert Trendumkehr: „Länder mischen sich ein“",
           "link": "https://www.handelsblatt.com/politik/deutschland/cdu-nach-wahlniederlagen-voigt-fordert-trendumkehr-laender-mischen-sich-ein/100257677.html",
           "published": "2026-09-27T03:30:15+00:00",
           "summary": "Mehr als Wunden lecken: In einer Klausur will die CDU ihre Wahlniederlagen aufarbeiten. Der Thüringer Regierungschef verlangt eine programmatische Neuaufstellung und sieht die Länder am Drücker."
-        },
-        {
-          "title": "Wahl des Bundespräsidenten: CSU-Vize: Kandidatur für Steinmeier-Nachfolge schnell klären",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahl-des-bundespraesidenten-csu-vize-kandidatur-fuer-steinmeier-nachfolge-schnell-klaeren/100257678.html",
-          "published": "2026-09-27T03:30:08+00:00",
-          "summary": "Die Kräfteverhältnisse für die Bundespräsidentenwahl stehen fest. Union und SPD haben eine satte Mehrheit. Jetzt fehlt nur noch ein Kandidat oder eine Kandidatin."
-        },
-        {
-          "title": "Anhörung im Thüringer Landtag: Warum Kerkeling und Maaßen über ein AfD-Verbot sprechen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/anhoerung-im-thueringer-landtag-warum-kerkeling-und-maassen-ueber-ein-afd-verbot-sprechen/100257673.html",
-          "published": "2026-09-27T03:00:17+00:00",
-          "summary": "Die Debatte über ein mögliches AfD-Verbotsverfahren läuft seit Jahren. Nun kommen Expertinnen und Experten zu einer Anhörung in den Thüringer Landtag. Warum auch ein prominenter Entertainer dabei ist."
-        },
-        {
-          "title": "Spielautomaten: Gewerkschaft fordert Schritte gegen illegales Glücksspiel",
-          "link": "https://www.handelsblatt.com/politik/deutschland/spielautomaten-gewerkschaft-fordert-schritte-gegen-illegales-gluecksspiel/100257672.html",
-          "published": "2026-09-27T03:00:06+00:00",
-          "summary": "Der Betrieb von Spielautomaten unterliegt strengen Vorschriften. Doch in manchen Kneipen und Kulturvereinen sind Automaten ohne Erlaubnis im Einsatz. Tu was dagegen, wird nun an den Staat appelliert."
-        },
-        {
-          "title": "Koalition: Kassen warnen vor Pflege-Blockade - „Geld alle“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/koalition-kassen-warnen-vor-pflege-blockade-geld-alle/100257670.html",
-          "published": "2026-09-27T02:30:05+00:00",
-          "summary": "Kommt sie früher oder später? Die geplante Pflegereform wird zu einem neuen großen Streitpunkt zwischen Union und SPD. Die Pflegekassen warnen vor den Folgen eines Reformstopps."
         }
       ],
       "error": null
@@ -86,14 +86,20 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Löchrige Sicherheitsvorkehrungen: OpenAI pausiert KI-Training nach neuem Zwischenfall",
+          "link": "https://www.n-tv.de/wirtschaft/OpenAI-pausiert-KI-Training-nach-neuem-Zwischenfall-id31352103.html",
+          "published": "2026-09-27T05:53:51+00:00",
+          "summary": "Nach Hacking-Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell schaffte es trotzdem, Antworten von einem externen Chatbot zu bekommen."
+        },
+        {
           "title": "Gericht sieht Patent verletzt: Apple muss 5,7 Milliarden Dollar für iPhone-Vibrationsalarm zahlen",
           "link": "https://www.n-tv.de/wirtschaft/Apple-muss-5-7-Milliarden-Dollar-fuer-iPhone-Vibrationsalarm-zahlen-id31351849.html",
           "published": "2026-09-27T00:18:34+00:00",
           "summary": "Das Unternehmen Taction Technology wirft Apple vor, eine spezielle Technik zu Unrecht genutzt zu haben. Diese sorgt für den Vibrationsalarm im iPhone und der Apple Watch. Die US-Geschworenen sprechen …"
         },
         {
-          "title": "Lande-Navigation teils gestört: Boeing räumt bei 737-Max-Maschinen Softwarefehler ein",
-          "link": "https://www.n-tv.de/wirtschaft/Boeing-raeumt-bei-737-Max-Maschinen-Softwarefehler-ein-id31351769.html",
+          "title": "Lande-Navigation teils gestört: Boeing räumt bei 737-Max-Maschinen Software-Fehler ein",
+          "link": "https://www.n-tv.de/wirtschaft/Boeing-raeumt-bei-737-Max-Maschinen-Software-Fehler-ein-id31351769.html",
           "published": "2026-09-26T22:19:49+00:00",
           "summary": "Nach zwei Abstürzen von 737-Max-Maschinen steht Boeing unter strenger Beobachtung der US-Aufsichtsbehörden. Nach einem Software-Update meldet der Hersteller nun ein Problem, das nach einem …"
         },
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Bei-der-Quantencomputer-Revolution-mischt-Deutschland-ganz-vorne-mit-id31348813.html",
           "published": "2026-09-26T15:21:00+00:00",
           "summary": "Bei Entwicklungen wie der Künstlichen Intelligenz dominieren amerikanische Technologiekonzerne nahezu uneinholbar. Anders sieht es bei Quantencomputern aus. Hier spielen mehrere deutsche Unternehmen …"
-        },
-        {
-          "title": "Märkte im Krisenmodus: \"Wir haben uns dran gewöhnt\"",
-          "link": "https://www.n-tv.de/wirtschaft/Wir-haben-uns-dran-gewoehnt-id31349222.html",
-          "published": "2026-09-26T13:30:00+00:00",
-          "summary": "Steigende Zinsen, explodierende Ölpreise, militärische Konflikte - die Börsen werden derzeit mit einigen Störfeuern konfrontiert. Dennoch zeigen sich die Märkte bislang äußerst robust. Wieso? Das …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
-          "published": "2026-09-27T03:54:00+00:00",
-          "summary": "Zum Artikel"
-        },
-        {
-          "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
-          "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
-          "published": "2026-09-27T03:52:00+00:00",
-          "summary": "BofA korrigiert ihre Prognosen für die Chipbranche kräftig nach oben Speicherchips und Server-CPUs rücken als neue Wachstumstreiber in den Fokus Chancen für KI-Anleger im Blick"
-        },
-        {
           "title": "Steuern sparen: Mit geschickter Planung Jahresendprämieren richtig nutzen",
           "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/steuerlast-optimieren-steuern-sparen-mit-geschickter-planung-jahresendpraemieren-richtig-nutzen-00-15291507",
-          "published": "2026-09-27T03:46:00+00:00",
+          "published": "2026-09-27T06:05:00+00:00",
           "summary": "Bedeutung des Auszahlungszeitpunkts Der Zeitpunkt der Auszahlung bestimmt, in welchem Steuerjahr eine Prämie oder Sonderzahlung berücksichtigt wird. Laut dem Online-Portal Biallo & Team GmbH ist …"
         },
         {
-          "title": "Klumpenrisiko KI-Aktien? Cramer warnt vor zu viel NVIDIA & Co. - Worauf Anleger setzen sollten",
-          "link": "https://www.finanzen.net/nachricht/aktien/alternativen-zum-hype-klumpenrisiko-ki-aktien-cramer-warnt-vor-zu-viel-nvidia-co-worauf-anleger-setzen-sollten-00-15938657",
-          "published": "2026-09-27T03:37:00+00:00",
-          "summary": "Cramer warnt vor zu großer KI-Konzentration und rät zur Streuung Er nennt sieben Alternativen aus Luftfahrt, Fintech, Gesundheit und Energie Amgen fiel nach Novartis-Studiendaten deutlich, ..."
+          "title": "Vermögenswirksame Leistungen mit ETFs: So wird aus dem Arbeitgeberzuschuss langfristig Vermögen",
+          "link": "https://www.finanzen.net/nachricht/aktien/vermoegenswirksame-leistungen-mit-etfs-so-wird-aus-dem-arbeitgeberzuschuss-langfristig-vermoegen-15954763",
+          "published": "2026-09-27T06:01:46+00:00",
+          "summary": ""
         },
         {
-          "title": "Bitcoin-Rally steht laut Experten auf wackligen Beinen: Bietet sich eine günstige Einstiegschance bei BTC?",
-          "link": "https://www.finanzen.net/nachricht/devisen/ruecksetzer-bitcoin-rally-steht-laut-experten-auf-wackligen-beinen-bietet-sich-eine-guenstige-einstiegschance-bei-btc-00-15939378",
-          "published": "2026-09-27T03:12:00+00:00",
-          "summary": "CryptoQuant-Analysten warnen vor schwachem Kaufdruck hinter der jüngsten Rally CLARITY Act scheitert im Senat und belastet Kryptowährungen spürbar Bitwise-CIO Hougan bleibt trotz Rückschlägen …"
+          "title": "Megatrends im Depot: Wie viel KI und Halbleiter sind sinnvoll?",
+          "link": "https://www.finanzen.net/nachricht/aktien/megatrends-im-depot-wie-viel-ki-und-halbleiter-sind-sinnvoll-15954762",
+          "published": "2026-09-27T06:00:43+00:00",
+          "summary": ""
+        },
+        {
+          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
+          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
+          "published": "2026-09-27T05:57:00+00:00",
+          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
+        },
+        {
+          "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
+          "published": "2026-09-27T05:54:00+00:00",
+          "summary": "Zum Artikel"
         }
       ],
       "error": null
@@ -203,6 +203,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "100 Jahre WiWo: Finden Sie die WirtschaftsWoche zu Ihrem Geburtstag",
+          "link": "https://www.wiwo.de/100/100-jahre-wirtschaftswoche-finden-sie-das-cover-zu-ihrem-geburtstag/100248332.html",
+          "published": "2026-09-27T06:07:31+00:00",
+          "summary": "Seit hundert Jahren berichten wir über Wirtschaft, Politik und Geldanlage. Stöbern Sie durch fast 5000 Titelseiten – und entdecken Sie Ihre Lieblingsausgabe."
+        },
+        {
+          "title": "Künstliche Intelligenz: „Wenn wir jetzt nicht investieren, wird Europa Kollateralschaden im KI-Rennen“",
+          "link": "https://www.wiwo.de/technologie/ki-souveraenitaet-europas-chance-im-rennen-gegen-usa-und-china/100255463.html",
+          "published": "2026-09-27T04:39:00+00:00",
+          "summary": "Experten fordern mehr KI-Souveränität für Europa. Was ein Rückfallen im KI-Rennen bedeuten könnte – und wo Europas Stärken liegen."
+        },
+        {
           "title": "Geldanlage: So nehmen Anleger jetzt durchdacht Gewinne mit",
           "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-so-nehmen-anleger-jetzt-durchdacht-gewinne-mit/100256897.html",
           "published": "2026-09-27T03:14:00+00:00",
@@ -219,18 +231,6 @@
           "link": "https://www.wiwo.de/politik/ausland/russland-gespraeche-wadephul-trifft-lawrow-in-new-york-zu-gespraechen/100257623.html",
           "published": "2026-09-26T15:02:15+00:00",
           "summary": "Seit Beginn des russischen Angriffskriegs gab es kein bilaterales Gespräch der Außenminister Deutschlands und Russlands mehr. Nun treffen sich Wadephul und Lawrow in New York."
-        },
-        {
-          "title": "Fehlverhalten: Wie Mitarbeiter moralische Grenzen verschieben – und Skandale entstehen",
-          "link": "https://www.wiwo.de/erfolg/beruf/betrug-im-unternehmen-warum-mitarbeiter-mitmachen-und-schweigen/100254739.html",
-          "published": "2026-09-26T15:01:10+00:00",
-          "summary": "Mitarbeiter dulden Betrügereien ihrer Arbeitgeber oft – oder machen sogar mit. Dahinter steckt mehr als die Angst um den Job."
-        },
-        {
-          "title": "Sozialprotest: Zehntausende demonstrieren für den Sozialstaat",
-          "link": "https://www.wiwo.de/politik/deutschland/sozialprotest-zehntausende-demonstrieren-fuer-den-sozialstaat/100257618.html",
-          "published": "2026-09-26T14:27:00+00:00",
-          "summary": "Die Gewerkschaften haben aufgerufen – und Zehntausende sind gekommen. In zahlreichen deutschen Großstädten gab es Demonstrationszüge."
         }
       ],
       "error": null
