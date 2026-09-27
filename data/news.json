@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T22:08:25+00:00",
+  "generatedAt": "2026-09-27T00:13:01+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,10 +8,16 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81280.html",
+          "published": "2026-09-26T23:18:43+00:00",
+          "summary": ""
+        },
+        {
           "title": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
           "link": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html",
-          "published": "2026-09-26T22:04:36+00:00",
-          "summary": "Es war das erste Treffen der Chefdiplomaten Deutschlands und Russlands seit Beginn des russischen Angriffs auf die Ukraine. In den tagesthemen erklärt Bundesaußenminister Wadephul wie es zum Treffen …"
+          "published": "2026-09-26T22:29:36+00:00",
+          "summary": "Es war das erste Treffen der Chefdiplomaten Deutschlands und Russlands seit Beginn des russischen Angriffs auf die Ukraine. In den tagesthemen erklärt Bundesaußenminister Wadephul, wie es zum Treffen …"
         },
         {
           "title": "Papst Leo XIV. feiert Messe in Paris",
@@ -30,12 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1656096.html",
           "published": "2026-09-26T20:10:13+00:00",
           "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12874.html",
-          "published": "2026-09-26T20:10:07+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Wohnungsnot: Riesen-Protest gegen Zwangsräumung einer Rentnerin in Madrid",
-          "link": "https://www.handelsblatt.com/politik/international/wohnungsnot-riesen-protest-gegen-zwangsraeumung-einer-rentnerin-in-madrid/100257643.html",
-          "published": "2026-09-26T21:23:45+00:00",
-          "summary": "Nach der Zwangsräumung einer 87-Jährigen gehen in Spanien Zehntausende auf die Straße. Der Fall Maricarmen wird zum Symbol für die schlimme Wohnungsnot – und erhöht den Druck auf die linke Regierung."
+          "title": "Gerichtsverfahren: Patent-Urteil – Apple soll 5,7 Milliarden Dollar zahlen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/gerichtsverfahren-patent-urteil-apple-soll-57-milliarden-dollar-zahlen/100257659.html",
+          "published": "2026-09-26T23:48:05+00:00",
+          "summary": "Hinter Vibrations-Alarmen von iPhone und Apple Watch steckt die sogenannte „Taptic Engine“. US-Geschworene befanden, dass Apple bei dem Mechanismus Patente verletzt hat. Es geht um viel Geld."
         },
         {
-          "title": "Vereinte Nationen: Treffen am Rande der UN: Wadephul und Lawrow bleiben uneins",
-          "link": "https://www.handelsblatt.com/politik/international/vereinte-nationen-treffen-am-rande-der-un-wadephul-und-lawrow-bleiben-uneins/100257625.html",
-          "published": "2026-09-26T20:27:46+00:00",
-          "summary": "Ein Handschlag, gut 20 Minuten Gespräch – und grundlegender Dissens: Wadephul trifft in New York am Rande der UN-Generalversammlung erstmals bilateral auf Lawrow."
+          "title": "Technik-Streit: Patent-Urteil: Apple soll 5,7 Milliarden Dollar zahlen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/technik-streit-patent-urteil-apple-soll-57-milliarden-dollar-zahlen/100257660.html",
+          "published": "2026-09-26T23:36:26+00:00",
+          "summary": "Hinter Vibrations-Alarmen von iPhone und Apple Watch steckt die sogenannte „Taptic Engine“. US-Geschworene befanden, dass Apple bei dem Mechanismus Patente verletzt hat. Es geht um viel Geld."
         },
         {
-          "title": "Flugzeugbauer: Boeing meldet Software-Fehler bei 737 MAX",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/flugzeugbauer-boeing-meldet-software-fehler-bei-737-max/100257640.html",
-          "published": "2026-09-26T20:21:46+00:00",
-          "summary": "Der Flugzeugbauer hat ein weiteres Problem bei seiner Pannen-Maschine 737 Max eingeräumt. Zwei Airlines haben gebeten, vorerst keine neuen Maschinen mit der betroffenen Software auszuliefern."
+          "title": "Nach Instagram-Beitrag: Prozess um angebliche Drohung Comeys gegen Trump erst 2027",
+          "link": "https://www.handelsblatt.com/politik/international/nach-instagram-beitrag-prozess-um-angebliche-drohung-comeys-gegen-trump-erst-2027/100257654.html",
+          "published": "2026-09-26T22:40:10+00:00",
+          "summary": "Der frühere FBI-Chef James Comey ist wegen eines Fotos von Muscheln am Strand angeklagt, die zu Zahlen zusammengelegt sind und auf Präsident Trump anspielen. Der Prozess wird nun erneut verschoben."
         },
         {
-          "title": "Wahlen: Berliner SPD will mit Linken über Regierungsbildung sprechen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-berliner-spd-will-mit-linken-ueber-regierungsbildung-sprechen/100257636.html",
-          "published": "2026-09-26T18:36:48+00:00",
-          "summary": "Die Linke will erstmals die Regierende Bürgermeisterin in der Hauptstadt stellen – doch die SPD sieht als mögliche Partnerin hohe Hürden. Welche Verhandlungen nun anstehen."
+          "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall",
+          "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
+          "published": "2026-09-26T22:35:38+00:00",
+          "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. Nun zieht OpenAI Konsequenzen, um an wichtigen Stellen bei der Sicherheit nachzubessern."
         },
         {
-          "title": "Kommentar: Trump gefährdet mit seiner Außenpolitik die demokratische Welt",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-trump-gefaehrdet-mit-seiner-aussenpolitik-die-demokratische-welt/100256385.html",
-          "published": "2026-09-26T17:40:38+00:00",
-          "summary": "Viel Show, wenig Inhalt – der US-Präsident zeigte beim Besuch von Chinas Staats- und Parteichef Xi Jinping, wo seine Prioritäten liegen. Das schadet nicht nur den USA."
+          "title": "Künstliche Intelligenz: OpenAI pausiert KI-Training nach neuem Zwischenfall",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257651.html",
+          "published": "2026-09-26T22:21:48+00:00",
+          "summary": "Nach Hacking-Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell schaffte es trotzdem, Antworten von einem externen Chatbot zu bekommen."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Lande-Navigation teils gestört: Boeing räumt bei 737-Max-Maschinen Softwarefehler ein",
+          "link": "https://www.n-tv.de/wirtschaft/Boeing-raeumt-bei-737-Max-Maschinen-Softwarefehler-ein-id31351769.html",
+          "published": "2026-09-26T22:19:49+00:00",
+          "summary": "Nach zwei Abstürzen von 737-Max-Maschinen steht Boeing unter strenger Beobachtung der US-Aufsichtsbehörden. Nach einem Software-Update meldet der Hersteller nun ein Problem, das nach einem …"
+        },
         {
           "title": "Miete um 275 Prozent erhöht: Zwangsräumung von 87-Jähriger bringt Tausende auf die Straße",
           "link": "https://www.n-tv.de/wirtschaft/Zwangsraeumung-von-87-Jaehriger-bringt-Tausende-auf-die-Strasse-id31351666.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/VW-Fahrern-drohen-nach-Rueckruf-sogar-zwei-Werkstattbesuche-id31351011.html",
           "published": "2026-09-26T13:06:55+00:00",
           "summary": "Wegen einer fehlerhaften Schraube ruft VW Hunderttausende Fahrzeuge zurück. Da zunächst nicht genügend Ersatzteile vorrätig sind, muss sich der Autobauer mit einem Provisorium behelfen - was zu einem …"
-        },
-        {
-          "title": "Prozess in Alabama abgewendet: Tiktok stimmt Vergleich und damit Millionenzahlung zu",
-          "link": "https://www.n-tv.de/wirtschaft/Tiktok-stimmt-Vergleich-und-damit-Millionenzahlung-zu-id31350637.html",
-          "published": "2026-09-26T09:33:48+00:00",
-          "summary": "Der US-Bundesstaat Alabama wirft Tiktok vor, Minderjährige in eine Social-Media-Sucht zu treiben. Kurz vor Prozessbeginn lenkt die Videoplattform ein und will zahlen. Der Betrag liegt im …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
-          "published": "2026-09-26T21:54:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Steuern sparen: Mit geschickter Planung Jahresendprämieren richtig nutzen",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/steuerlast-optimieren-steuern-sparen-mit-geschickter-planung-jahresendpraemieren-richtig-nutzen-00-15291507",
+          "published": "2026-09-27T00:05:00+00:00",
+          "summary": "Bedeutung des Auszahlungszeitpunkts Der Zeitpunkt der Auszahlung bestimmt, in welchem Steuerjahr eine Prämie oder Sonderzahlung berücksichtigt wird. Laut dem Online-Portal Biallo & Team GmbH ist …"
         },
         {
-          "title": "Kaufsignal oder Modellrechnung? Warum ein Analyst eine Verdopplung der Intel-Aktie für möglich hält",
-          "link": "https://www.finanzen.net/nachricht/aktien/foundry-geschaeft-im-fokus-kaufsignal-oder-modellrechnung-warum-ein-analyst-eine-verdopplung-der-intel-aktie-fuer-moeglich-haelt-00-15945904",
-          "published": "2026-09-26T21:47:00+00:00",
-          "summary": "Melius Research-Analyst Ben Reitzes stellt gewagte 200-US-Dollar-These auf Foundry-Geschäft und 14A-Fertigung als Werttreiber Expertenkonsens nach starkem Lauf vorsichtig Melius Research-Analyst ..."
+          "title": "Achtung: Mietwagen-Kosten im Blick!",
+          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/urlaubsplaene-achtung-mietwagen-kosten-im-blick-14633104",
+          "published": "2026-09-26T23:57:00+00:00",
+          "summary": "Was wie ein Schnäppchen aussieht, wird schnell teuer Die Suche beginnt meist online. Vergleichsportale zeigen Preise, die kaum günstiger wirken könnten. Doch was im Netz gut aussieht, offenbart seine …"
         },
         {
-          "title": "High-Margin Nischen: Warum Spezialpharma boomt und welche Aktien profitieren",
-          "link": "https://www.finanzen.net/nachricht/aktien/nebenwerte-im-fokus-high-margin-nischen-warum-spezialpharma-boomt-und-welche-aktien-profitieren-00-15938935",
-          "published": "2026-09-26T21:41:00+00:00",
-          "summary": "JPMorgan startet SCHOTT Pharma mit Overweight und Kursziel 27,10 Euro Lonza steigerte die Kern-EBITDA-Marge im ersten Halbjahr auf 34,8 Prozent Auch Gerresheimer und West Pharma bauen Kapazitäten für …"
+          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
+          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
+          "published": "2026-09-26T23:41:00+00:00",
+          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
         },
         {
-          "title": "KW 39 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-          "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-39-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15925702",
-          "published": "2026-09-26T21:36:00+00:00",
-          "summary": "So bewegten sich die einzelnen Kryptowährungen in der Kalenderwoche 39"
+          "title": "Gold, Öl Co. in KW 39: So bewegten sich die Rohstoffe in der vergangenen Woche",
+          "link": "https://www.finanzen.net/nachricht/aktien/gold-oel-amp-co-in-kw-39-so-bewegten-sich-die-rohstoffe-in-der-vergangenen-woche-15954634",
+          "published": "2026-09-26T23:12:00+00:00",
+          "summary": "Am Rohstoffmarkt hat sich in der vergangenen Handelswoche einiges getan. Das sind die Gewinner und Verlierer."
         },
         {
-          "title": "Überstunden: So erkennt man, wann Schluss ist - und was dann zu tun ist",
-          "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitsrecht-ueberstunden-so-erkennt-man-wann-schluss-ist-und-was-dann-zu-tun-ist-14645547",
-          "published": "2026-09-26T21:29:00+00:00",
-          "summary": "Wann gelten Überstunden - und wann nicht? Überstunden liegen vor, wenn Beschäftigte mehr arbeiten als vertraglich vereinbart, etwa über die im Arbeits-, Tarifvertrag oder per Betriebsvereinbarung …"
+          "title": "Studie deckt Messfehler bei Onchain-Daten auf: Was das für die Bewertung von Bitcoin bedeutet",
+          "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
+          "published": "2026-09-26T23:11:00+00:00",
+          "summary": "BIS-Forscher hinterfragen gängige Onchain-Kennzahlen bei Bitcoin Wechselgeld-Effekte und verlorene Coins verzerren gängige Berechnungen Auch Ethereum und Tron zeigen laut Studie ähnliche Messprobleme"
         }
       ],
       "error": null
