@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:11:15+00:00",
+  "generatedAt": "2026-09-27T14:08:29+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Modenschau in Mailand, Feuerlauf in Barcelona, Kirchenglocke in Bayern",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10470.html",
-          "published": "2026-09-27T12:10:46+00:00",
+          "title": "Anina Pommerenke, ARD-aktuell, zum Treffen Papst Leos XIV. mit Opfern von sexuellem Missbrauch",
+          "link": "https://www.tagesschau.de/video/video-1656286.html",
+          "published": "2026-09-27T13:48:17+00:00",
           "summary": ""
         },
         {
-          "title": "Polen: Wenn der Krieg näher kommt",
-          "link": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
-          "published": "2026-09-27T12:01:01+00:00",
-          "summary": "Drohnen und Raketen, die nah an der polnischen Grenze einschlagen - der Krieg gegen die Ukraine rückt spürbar an den Alltag der Menschen heran. Schutzräume und Warn-SMS gewinnen an Bedeutung. Wie ist …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81130.html",
-          "published": "2026-09-27T11:58:29+00:00",
+          "title": "Nach zwei Monaten im Amt steht Andy Burnhams erster Labour-Parteitag als Premierminister bevor",
+          "link": "https://www.tagesschau.de/video/video-1656282.html",
+          "published": "2026-09-27T13:37:43+00:00",
           "summary": ""
         },
         {
-          "title": "Papst Leo XIV. im französischem Lourdes",
-          "link": "https://www.tagesschau.de/video/video-1656242.html",
-          "published": "2026-09-27T11:51:52+00:00",
+          "title": "Volksabstimmung in der Schweiz: Mehrheit laut Hochrechnung gegen verschärfte Neutralität",
+          "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-106.html",
+          "published": "2026-09-27T13:33:49+00:00",
+          "summary": "In einer Volksabstimmung hat sich in der Schweiz eine Mehrheit dagegen ausgesprochen, das Neutralitätsgebot für das eigene Land zu verschärfen. Ein Ergebnis, das in Russland für Unmut sorgen dürfte."
+        },
+        {
+          "title": "Christoph Prössl, ARD London, zzt. Liverpool, zum Beginn des Labour-Parteitags",
+          "link": "https://www.tagesschau.de/video/video-1656280.html",
+          "published": "2026-09-27T13:29:50+00:00",
           "summary": ""
         },
         {
-          "title": "Neues Gesetzt für Ökosiegel tritt in Kraft",
-          "link": "https://www.tagesschau.de/video/video-1656240.html",
-          "published": "2026-09-27T11:49:21+00:00",
-          "summary": ""
+          "title": "Zehntausende demonstrieren nach Zwangsräumung bei 87-Jähriger in Madrid",
+          "link": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
+          "published": "2026-09-27T13:15:09+00:00",
+          "summary": "Unmut über Wohnungsnot und hohe Mieten gibt es auch in Spanien schon lange. Doch die Zwangsräumung der Wohnung einer 87-Jährigen bringt für viele nun offenbar das Fass zum Überlaufen. Zehntausende …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Prognosemärkte: So präzise hat Polymarket die US-Vorwahlen vorhergesagt",
-          "link": "https://www.handelsblatt.com/politik/international/prognosemaerkte-so-praezise-hat-polymarket-die-us-vorwahlen-vorhergesagt/100253622.html",
-          "published": "2026-09-27T12:01:02+00:00",
-          "summary": "Das Handelsblatt hat die Wahlausgänge aller US-Primaries ausgewertet und mit den entsprechenden Prognosemarkt-Wetten abgeglichen. Sind die Plattformen ein guter Indikator?"
+          "title": "Luftwaffenstützpunkt: Vorfall an Militärbasis: Fünf Männer unter Terrorverdacht",
+          "link": "https://www.handelsblatt.com/politik/international/luftwaffenstuetzpunkt-vorfall-an-militaerbasis-fuenf-maenner-unter-terrorverdacht/100257743.html",
+          "published": "2026-09-27T13:49:22+00:00",
+          "summary": "Alarm außerhalb eines britischen Luftwaffenstützpunkts: Fünf Männer stehen im Verdacht, einen Terroranschlag vorbereitet zu haben. Die Militärbasis wird von der US-Luftwaffe genutzt."
         },
         {
-          "title": "Bundespräsident: CSU- und SPD-Politiker machen Druck bei Steinmeier-Nachfolge",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesident-csu-und-spd-politiker-machen-druck-bei-steinmeier-nachfolge/100257725.html",
-          "published": "2026-09-27T11:56:54+00:00",
-          "summary": "Der Vize-CSU-Chef Weber fordert, innerhalb der nächsten vier Wochen eine Einigung auf einen gemeinsamen Kandidaten zu erzielen. Die Benennung dürfte sich auf die Kanzlerwechsel-Debatte auswirken."
+          "title": "Konflikte: Gegner blockieren umstrittene Oranier-Parade in Nordirland",
+          "link": "https://www.handelsblatt.com/politik/international/konflikte-gegner-blockieren-umstrittene-oranier-parade-in-nordirland/100257687.html",
+          "published": "2026-09-27T13:39:40+00:00",
+          "summary": "Der protestantische Oranier-Orden sollte in einem katholischen Teil von Portadown in Nordirland marschieren. Doch Gegner blockieren den umstrittenen Marsch. Bahnt sich eine politische Krise an?"
         },
         {
-          "title": "Bundespolitik: Grünen-Chefs Brantner und Banaszak streben wohl zweite Amtszeit an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-gruenen-spitzenduo-strebt-wohl-zweite-amtszeit-an/100257726.html",
-          "published": "2026-09-27T11:54:12+00:00",
-          "summary": "Franziska Brantner und Felix Banaszak wollen sich im Dezember erneut um den Parteivorsitz bewerben. In Umfragen hat die Partei nach den Verlusten bei der vergangenen Wahl wieder zugelegt."
+          "title": "Großbritannien: Sprengstoffverdacht nahe US-genutzter Militärbasis – Terror-Hintergrund vermutet",
+          "link": "https://www.handelsblatt.com/politik/international/grossbritannien-sprengstoffverdacht-nahe-us-genutzter-militaerbasis/100257706.html",
+          "published": "2026-09-27T13:31:00+00:00",
+          "summary": "Mehrere Personen sollen nahe der Militärbasis gegen das Sprengstoffgesetz verstoßen haben. Zahlreiche Einsatzkräfte untersuchen den Vorfall vor Ort. Die Lage sei unter Kontrolle, heißt es."
         },
         {
-          "title": "Flugverkehr: 53.000 Klagen von Passieren gegen Fluglinien im Halbjahr",
-          "link": "https://www.handelsblatt.com/politik/deutschland/flugverkehr-53000-klagen-von-passieren-gegen-fluglinien-im-halbjahr/100257728.html",
-          "published": "2026-09-27T11:52:37+00:00",
-          "summary": "Die Zahl der Klagen von Passagieren wegen Verspätungen ist deutlich gesunken – bleibt aber laut Richterbund weiter auf hohem Niveau."
+          "title": "Demonstrationen: DGB-Chefin ruft Regierung nach Protesten zu Konsequenzen auf",
+          "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-dgb-chefin-ruft-regierung-nach-protesten-zu-konsequenzen-auf/100257739.html",
+          "published": "2026-09-27T13:30:15+00:00",
+          "summary": "175.000 Menschen haben sich laut Gewerkschaftsbund bundesweit zu Protesten gegen Sozialkürzungen versammelt. DGB-Chefin Fahimi sieht nun die Bundesregierung gefordert."
         },
         {
-          "title": "Zukunftsgestalter: Die Kundenversteher – mit digitalen Tools gewinnt Fielmann abtrünnige Kunden zurück",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/fielmann-mit-digitalen-tools-zu-mehr-kundenzufriedenheit-01/100243934.html",
-          "published": "2026-09-27T11:47:00+00:00",
-          "summary": "Jedes Jahr verlor der Optiker 700.000 Kunden – durch zu lange Wartezeiten. Mithilfe von KI vereinfacht Fielmann nun Augencheck und Brillenkauf und hat so seinen Marktanteil erhöht."
+          "title": "Flugverkehr: Ätna-Aschewolke legt Flughafen auf Sizilien weiter lahm",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/flugverkehr-aetna-aschewolke-legt-flughafen-auf-sizilien-weiter-lahm/100257736.html",
+          "published": "2026-09-27T12:37:29+00:00",
+          "summary": "Wegen Vulkanasche bleibt der Flughafen auch am Sonntag geschlossen. Seit Monaten gibt es immer wieder Einschränkungen am Aeroporto di Catania-Fontanarossa."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Zwangsräumung einer 87-Jährigen: Wohnungsnot-Proteste setzen Spaniens Regierung unter Druck",
+          "link": "https://www.n-tv.de/wirtschaft/Wohnungsnot-Proteste-setzen-Spaniens-Regierung-unter-Druck-id31353175.html",
+          "published": "2026-09-27T13:03:29+00:00",
+          "summary": "In Spanien machen Zehntausende Menschen ihrer Wut über die Wohnungsnot bei zahlreichen Demonstrationen Luft. In der Hauptstadt Madrid gehen Hunderte Menschen am Samstagabend gar nicht nach Hause. Auf …"
+        },
         {
           "title": "Viele Vermögen eingefroren: Börsen-Skandal: Dutzende Festnahmen in der Türkei",
           "link": "https://www.n-tv.de/wirtschaft/Festnahmen-in-der-Tuerkei-wegen-angeblichem-Boersen-Skandal-id31352887.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Spionage-steigerte-Wirtschaftsleistung-der-DDR-erheblich-id31352353.html",
           "published": "2026-09-27T08:37:27+00:00",
           "summary": "Gestohlene Innovationen, Milliarden-Gewinne: Eine neue Studie zeigt, wie massiv die DDR-Wirtschaft von Stasi-Spionage im Westen profitierte - und warum manche Betriebe nach der Wende bessere …"
-        },
-        {
-          "title": "Löchrige Sicherheitsvorkehrungen: OpenAI pausiert KI-Training nach neuem Zwischenfall",
-          "link": "https://www.n-tv.de/wirtschaft/OpenAI-pausiert-KI-Training-nach-neuem-Zwischenfall-id31352103.html",
-          "published": "2026-09-27T05:53:51+00:00",
-          "summary": "Nach Hacking-Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell schaffte es trotzdem, Antworten von einem externen Chatbot zu bekommen."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "S&P 500-Index: Warum die Crash-Angst vor Oktober historisch unbegründet ist",
-          "link": "https://www.finanzen.net/nachricht/aktien/statistik-entkraeftet-angst-s-p-500-index-warum-die-crash-angst-vor-oktober-historisch-unbegruendet-ist-00-15950858",
-          "published": "2026-09-27T11:57:00+00:00",
-          "summary": "Historische Muster zeigen, der Oktober ist selten der gefürchtete Crash-Monat Wall Street-Strategen bleiben trotz Turbulenzen mehrheitlich zuversichtlich Steigende Anleiherenditen und Ölpreise sorgen …"
+          "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 39",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-39-15925726",
+          "published": "2026-09-27T13:57:00+00:00",
+          "summary": "So bewegten sich die einzelnen Commodities in der Kalenderwoche 39"
         },
         {
           "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
           "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
-          "published": "2026-09-27T11:54:00+00:00",
+          "published": "2026-09-27T13:54:00+00:00",
           "summary": "Zum Artikel"
         },
         {
-          "title": "Huthi: Tote und Dutzende Verletzte bei Angriff im Jemen",
-          "link": "https://www.finanzen.net/nachricht/aktien/huthi-tote-und-dutzende-verletzte-bei-angriff-im-jemen-15954946",
-          "published": "2026-09-27T11:49:39+00:00",
-          "summary": "ADEN (dpa-AFX) - Bei einem Luftangriff in der jemenitischen Provinz Tais sind nach Angaben der Huthi-Rebellen mindestens sieben Menschen getötet und 40 weitere verletzt worden. Die saudische …"
+          "title": "Multiorder beim Online-Broker: Mit einem Trade in mehrere Aktien gleichzeitig investieren",
+          "link": "https://www.finanzen.net/nachricht/aktien/multiorder-beim-online-broker-mit-einem-trade-in-mehrere-aktien-gleichzeitig-investieren-15955039",
+          "published": "2026-09-27T13:40:24+00:00",
+          "summary": ""
         },
         {
-          "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
-          "published": "2026-09-27T11:46:00+00:00",
-          "summary": "Tom Lee erklärt, warum seine Rally-Prognose weiterhin aufgehen soll Kevin Warshs Fed-Pressekonferenz markiert für ihn einen Wendepunkt Ed Yardeni sieht die Risiken für den Markt dagegen wachsen"
+          "title": "Einfach in Krypto investieren - mit dem Top 10 Crypto ETP von finanzen.net und CoinShares",
+          "link": "https://www.finanzen.net/nachricht/devisen/in-eigener-sache-einfach-in-krypto-investieren-mit-dem-top-10-crypto-etp-von-finanzen-net-und-coinshares-13849011",
+          "published": "2026-09-27T13:30:00+00:00",
+          "summary": "Krypto­währungen wie Bitcoin und Ethereum haben sich längst etabliert - bei privaten wie insti­­tutio­nellen Investoren. Anleger setzen damit auf attrak­tive Rendite­­chancen …"
         },
         {
-          "title": "WDH/Hochrechnung: Schweizer gegen striktere Neutralität",
-          "link": "https://www.finanzen.net/nachricht/aktien/wdh-hochrechnung-schweizer-gegen-striktere-neutralitaet-15954944",
-          "published": "2026-09-27T11:45:39+00:00",
-          "summary": "(Im letzten Satz im 1. Absatz wurde ein fehlendes Komma ergänzt.)BERN (dpa-AFX) - Die Schweizer haben bei einer Volksabstimmung den Vorstoß abgelehnt, eine striktere Neutralität in der Verfassung zu …"
+          "title": "Apple-Aktie nach Patent-Urteil im Blick: iKonzern soll Milliarden-Dollar-Betrag zahlen",
+          "link": "https://www.finanzen.net/nachricht/aktien/strafe-apple-aktie-nach-patent-urteil-im-blick-ikonzern-soll-milliarden-dollar-betrag-zahlen-15954843",
+          "published": "2026-09-27T13:30:00+00:00",
+          "summary": "In dem Prozess warf das Unternehmen Taction Technology dem Konzern vor, seine Technologie in der sogenannten \"Taptic Engine\" zu nutzen, die zum Beispiel die Vibrationsalarme im iPhone und der …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Glücksforschung: Geld allein macht nicht glücklich – Vermögen offenbar schon",
-          "link": "https://www.wiwo.de/politik/konjunktur/gluecksforschung-vermoegen-macht-menschen-zufriedener-als-hohes-einkommen/100249129.html",
-          "published": "2026-09-27T12:00:00+00:00",
-          "summary": "Für die Lebenszufriedenheit der Menschen ist Vermögen wichtiger als ein hohes Einkommen, sagt eine neue wissenschaftliche Studie."
+          "title": "Reformdebatte: SPD bremst Pflegereform aus – warum die Koalition wieder streitet",
+          "link": "https://www.wiwo.de/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257534.html",
+          "published": "2026-09-27T13:50:00+00:00",
+          "summary": "Bei der Pflege will der Gesundheitsminister den jüngsten Reformankündigungen des Kanzlers schnell Taten folgen lassen. Doch die SPD stellt sich trotz großen Handlungsdrucks quer."
         },
         {
-          "title": "Aktien: Diese drei deutschen Nebenwerte haben Kurspotenzial",
-          "link": "https://www.wiwo.de/finanzen/boerse/aktien-diese-drei-deutschen-nebenwerte-haben-kurspotenzial/100256812.html",
-          "published": "2026-09-27T11:24:40+00:00",
-          "summary": "Der SDax lief zuletzt besser als der Dax. Das lag vor allem an Highflyern wie SMA Solar und SFC Energy – interessanter sind jetzt aber drei andere Werte."
+          "title": "Landesbank Nord/LB: Droht ein Rückfall in alte, größenwahnsinnige Zeiten?",
+          "link": "https://www.wiwo.de/unternehmen/banken/landesbank-nord-lb-wie-sich-rot-gruen-in-niedersachsen-eine-staatsbank-bastelt/100257382.html",
+          "published": "2026-09-27T13:39:36+00:00",
+          "summary": "Niedersachsen will seinen Anteil bei der umstrittenen Landesbank Nord/LB auf über 80 Prozent erhöhen. Was der Ausbau kostet und welche Risiken für das Land bleiben."
         },
         {
-          "title": "Brasilien: Polare Politik – und streitmüde Wähler",
-          "link": "https://www.wiwo.de/politik/ausland/polare-politik-und-streitmuede-waehler-wieso-die-wahl-in-brasilien-wegweisend-ist/100248384.html",
-          "published": "2026-09-27T10:04:49+00:00",
-          "summary": "Lula oder Bolsonaro, mehr Staat oder mehr Markt, EU-Europa oder Trump-USA: Die Wahl in Lateinamerikas größter Volkswirtschaft Brasilien ist richtungsweisend."
+          "title": "Armani: Modehaus Armani offen für mehrere Investoren bei Verkauf von 15-Prozent-Anteil",
+          "link": "https://www.wiwo.de/unternehmen/handel/armani-modehaus-armani-offen-fuer-mehrere-investoren-bei-verkauf-von-15-prozent-anteil/100257730.html",
+          "published": "2026-09-27T12:30:37+00:00",
+          "summary": "Der im Testament vorgesehene Verkauf eines Anteils von 15 Prozent an Armani könnte auf mehrere Investoren aufgeteilt werden. Eine Entscheidung sei aber noch offen."
         },
         {
-          "title": "UhrenWoche: Die Marke Rolex erfindet sich neu",
-          "link": "https://www.wiwo.de/unternehmen/handel/rolex-padellone-warum-die-luxusmarke-nun-neue-wege-geht/100256561.html",
-          "published": "2026-09-27T10:00:00+00:00",
-          "summary": "Mit der Perpetual Padellone geht Rolex neue Wege im Uhrenbau und in der Kommunikation – und schon am Montag könnte in London ein Uhren-Weltrekord fallen."
-        },
-        {
-          "title": "UpTrade: Kassieren, wenn die Aktie dümpelt: Was taugt das neue Consors-Angebot?",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/aktie-kassieren-wenn-die-aktie-duempelt-was-taugt-das-neue-consors-angebot/100256832.html",
-          "published": "2026-09-27T09:11:00+00:00",
+          "title": "UpTrade: Kassieren, wenn die Aktie dümpelt – was taugt das neue Consors-Angebot?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/aktie-kassieren-wenn-die-aktie-duempelt-was-taugt-das-neue-angebot-von-consors/100256832.html",
+          "published": "2026-09-27T12:26:00+00:00",
           "summary": "Die Consorsbank macht Privatanlegern unter dem Namen UpTrade eine Profi-Strategie zugänglich. Damit lässt sich gut verdienen – oder viel verlieren."
+        },
+        {
+          "title": "Künstliche Intelligenz: Im KI-Wettlauf droht Europa der Rückstand",
+          "link": "https://www.wiwo.de/technologie/ki-souveraenitaet-europas-chance-im-rennen-gegen-usa-und-china/100255463.html",
+          "published": "2026-09-27T12:25:00+00:00",
+          "summary": "In den USA gibt es Wirbel um OpenAIs KI. Dazu passt, dass Experten für Europa mehr KI-Souveränität fordern. Was ein Rückfallen im KI-Rennen bedeuten könnte – und wo Europas Stärken liegen."
         }
       ],
       "error": null
