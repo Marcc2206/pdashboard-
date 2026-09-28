@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T04:09:57+00:00",
+  "generatedAt": "2026-09-28T06:12:45+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Lebensmittelpreise: Droht die nächste Inflationswelle?",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittelpreise-weizen-mais-zucker-inflation-100.html",
-          "published": "2026-09-28T04:00:07+00:00",
-          "summary": "An den Rohstoffbörsen steigen die Preise für Weizen, Mais und Zucker kräftig - im deutschen Supermarkt ist davon bislang kaum etwas angekommen. Doch Experten warnen: Das ist nur eine Frage der Zeit. …"
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-28T06:11:50+00:00",
+          "summary": "Am Montag ist es in weiten Landesteilen sonnig bis leicht bewölkt. Im Westen und Nordwesten ist es wolkiger und vereinzelt fällt etwas Regen. 19 bis 31 Grad."
         },
         {
-          "title": "Israels Wahlkampf mit harten Bandagen - Ausschluss arabischer Parteien?",
-          "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-parteien-arabisch-100.html",
-          "published": "2026-09-28T03:54:40+00:00",
-          "summary": "In dieser Woche soll Israels Oberster Gerichtshof entscheiden, ob arabische Parteien von den Wahlen ausgeschlossen werden. Allein der Versuch des Ausschlusses sorgt für Verunsicherung und Wut. Von …"
+          "title": "11KM-Podcast: So prägt das Bundesverfassungsgericht unser Leben",
+          "link": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-bundesverfassungsgericht-100.html",
+          "published": "2026-09-28T05:51:49+00:00",
+          "summary": "Seit 75 Jahren spricht das Bundesverfassungsgericht seine Urteile. Dabei waren die Karlsruher Verfahren immer auch Spiegel ihrer Zeit. Von Gleichberechtigung bis Datenschutz. 11KM über das …"
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656590.html",
-          "published": "2026-09-28T02:52:36+00:00",
-          "summary": ""
+          "title": "Marktbericht: DAX vor freundlichem Wochenstart",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
+          "published": "2026-09-28T05:39:06+00:00",
+          "summary": "Trotz Zinssorgen und der anhaltend schwierigen Lage im Nahen Osten dürfte der DAX mit einem Plus in die neue Woche starten. Ein schwaches Gewinnwachstum der chinesischen Industrie belastet den …"
         },
         {
-          "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
-          "link": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
-          "published": "2026-09-28T01:22:23+00:00",
-          "summary": "Der Fall einer 87‑Jährigen, die nach Jahrzehnten ihre Wohnung verlassen muss, bewegt Spanien. 25.000 Menschen demonstrierten in Madrid an diesem Wochenende gegen die Wohnungskrise. Ein Protestcamp …"
+          "title": "Ex-Vizekanzler Habeck dementiert Pläne für Parteigründung",
+          "link": "https://www.tagesschau.de/inland/habeck-dementiert-plaene-parteigruendung-100.html",
+          "published": "2026-09-28T05:34:47+00:00",
+          "summary": "Will Robert Habeck eine neue Partei gründen? Darüber wird offenbar im politischen Berlin spekuliert. Bei Caren Miosga stellt der Ex-Vizekanzler klar, was er von diesem Gerücht hält."
         },
         {
-          "title": "Serbiens Präsident Vucic tritt zurück",
-          "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
-          "published": "2026-09-27T23:13:56+00:00",
-          "summary": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und …"
+          "title": "75 Jahre Hüter der Verfassung: Diese Aufgaben hat das Bundesverfassungsgericht",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-jubilaeum-102.html",
+          "published": "2026-09-28T05:34:24+00:00",
+          "summary": "Das Bundesverfassungsgericht wacht über die Verfassung. Was sind seine Aufgaben? Und warum sitzt es in Karlsruhe? Und warum diese roten Roben? Ein Überblick von Michael-Matthias Nordhardt und Frank …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "China: Verlängerte Zollpause mit USA ebnet Weg für Zollsenkungen",
-          "link": "https://www.handelsblatt.com/politik/international/china-verlaengerte-zollpause-mit-usa-ebnet-weg-fuer-zollsenkungen/100257817.html",
-          "published": "2026-09-28T03:57:26+00:00",
-          "summary": "China und die USA verlängern die Zollpause bis Anfang 2027. Beide Seiten wollen die Zeit für weitere Verhandlungen über Handel und Investitionen nutzen."
+          "title": "Erdgas: VNG-Chef hält Gasversorgung im Winter für gesichert",
+          "link": "https://www.handelsblatt.com/unternehmen/energie/erdgas-vng-chef-haelt-gasversorgung-im-winter-fuer-gesichert/100257836.html",
+          "published": "2026-09-28T06:10:02+00:00",
+          "summary": "Die deutschen Gasspeicher sind bislang noch leerer als geplant. Doch ein wichtiger Gasimporteur sieht das System robuster aufgestellt als in der Krise 2022 – selbst wenn es kalt wird."
         },
         {
-          "title": "Barbetragskonto und Gebühren: Bargeld im Pflegeheim: Darf das Verwahren etwas kosten?",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/barbetragskonto-und-gebuehren-bargeld-im-pflegeheim-darf-das-verwahren-etwas-kosten/100257819.html",
-          "published": "2026-09-28T03:49:04+00:00",
-          "summary": "Ein Umzug ins Pflegeheim bringt viele Veränderungen mit sich. Eine betrifft das Bargeld: Dies verwahrt das Heim meist sicher für die Bewohner und zahlt bei Bedarf aus. Das führt oft zu Streit."
+          "title": "+++ Iran-Krieg +++: Iran pocht auf Diplomatie – Trump lehnt Vorschlag zur Öffnung der Straße von Hormus ab",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-erwartet-diese-woche-gespraeche-von-us-unterhaendlern-mit-iran/100136895.html",
+          "published": "2026-09-28T06:04:51+00:00",
+          "summary": "Saudi-Arabiens Außenminister zu Gesprächen in Washington +++ Iran wappnet sich für möglichen neuen Angriff der USA +++ Iran bei Atomprogramm in Verhandlungen offenbar unnachgiebig +++ Der Newsblog."
         },
         {
-          "title": "Morning Briefing: Die Linke gehört in Berliner Koalitionsverhandlungen, aber….",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-die-linke-gehoert-in-berliner-koalitionsverhandlungen-aber./100257770.html",
-          "published": "2026-09-28T03:47:40+00:00",
-          "summary": "Das Letzte, was die Republik braucht: eine zweite Brandmauer. Vielleicht schafft die Mitte im Umgang mit der Linken, woran sie bisher bei der AfD scheiterte. Eine Hoffnung aber bleibt."
+          "title": "US-Militär in Nahost: Eine neue Balance: US-Truppen ziehen aus dem Irak ab",
+          "link": "https://www.handelsblatt.com/politik/international/us-militaer-in-nahost-eine-neue-balance-us-truppen-ziehen-aus-dem-irak-ab/100257837.html",
+          "published": "2026-09-28T06:00:06+00:00",
+          "summary": "Mit Einsätzen des US-Militärs im Irak wurden Saddam Hussein gestürzt und die IS-Terrormiliz besiegt. Zugleich gewann der Iran massiv an Einfluss. Das Land steuert in eine neue Phase der Ungewissheit."
         },
         {
-          "title": "+++ USA +++: Bill Gates befürwortet KI-Sicherheitsvorkehrungen",
-          "link": "https://www.handelsblatt.com/politik/international/usa-bill-gates-befuerwortet-ki-sicherheitsvorkehrungen/29669594.html",
-          "published": "2026-09-28T03:40:00+00:00",
-          "summary": "Trotz Warnungen aus Tech-Branche: Trump lehnt KI-Regulierung ab +++ US-Sender CNN darf Trump nicht auf Reise nach Tennessee begleiten +++ Republikaner scheitern mit Wahlkreis-Umbau für Missouri +++ …"
+          "title": "Kommunalwahl: AfD verliert Stichwahlen in Niedersachsen – Hannover bleibt grün",
+          "link": "https://www.handelsblatt.com/politik/international/kommunalwahl-afd-verliert-stichwahlen-in-niedersachsen-hannover-bleibt-gruen/100257769.html",
+          "published": "2026-09-28T05:59:29+00:00",
+          "summary": "In drei Stichwahlen hat die AfD Chancen auf ein erstes kommunales Spitzenamt in Niedersachsen. Alle drei gehen klar verloren. In Hannover setzt sich der Amtsinhaber durch."
         },
         {
-          "title": "Erneuerbare Energien: Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
-          "link": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energien-solarstromproduktion-uebertrifft-bereits-jetzt-vorjahreswert/100257813.html",
-          "published": "2026-09-28T03:30:06+00:00",
-          "summary": "Bereits Ende September hat die Solarstromproduktion in Deutschland den Vorjahreswert übertroffen. Welche Faktoren zu diesem Rekord geführt haben."
+          "title": "Start-ups: Zehn Einhörner 2026 – Deutschlands neue Wachstumshoffnung",
+          "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-ups-diese-zehn-einhoerner-sind-2026-deutschlands-neue-wachstumshoffnung/100251819.html",
+          "published": "2026-09-28T05:58:00+00:00",
+          "summary": "Isar Aerospace, Helsing und Neura Robotics stehen für eine neue Generation deutscher Tech-Firmen. Eine Studie zeigt, was sich ändern muss, damit nicht nur einzelne Start-ups glänzen."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "VW-Aktie: Neuer Rückruf zwingt Fahrer zu zwei Werkstatt-Besuchen",
-          "link": "https://www.finanzen.net/nachricht/aktien/korrosion-vw-aktie-neuer-rueckruf-zwingt-fahrer-zu-zwei-werkstatt-besuchen-15954320",
-          "published": "2026-09-28T04:05:00+00:00",
-          "summary": "Bei dem Rückruf geht es um Korrosion an einer Befestigungsverschraubung der Lenkung.Zum Start der Aktion könne die vorgeschriebene Schraube möglicherweise nicht in ausreichender Menge zur Verfügung …"
+          "title": "Goldpreis: Zinssorgen verursachen kräftiges Minus zum Wochenstart",
+          "link": "https://www.finanzen.net/nachricht/aktien/goldpreis-zinssorgen-verursachen-kraeftiges-minus-zum-wochenstart-15955396",
+          "published": "2026-09-28T06:04:44+00:00",
+          "summary": "Der Goldpreis ist im frühen Montagshandel deutlich unter Druck geraten und hat seine jüngste Verlustserie fortgesetzt."
         },
         {
-          "title": "Wer steckt eigentlich hinter der Kryptowährung Ripple?",
-          "link": "https://www.finanzen.net/nachricht/devisen/kryptomarkt-hintergrund-wer-steckt-eigentlich-hinter-der-kryptowaehrung-ripple-5925090",
-          "published": "2026-09-28T04:03:00+00:00",
-          "summary": "Bitcoin ist zwar die Nummer eins in der Welt der Kryptowährungen. Dennoch gibt es eine Reihe von anderen Token, die aufschließen konnten. Einer davon ist Ripple XRP . ..."
+          "title": "SpaceX-Aktie unter Druck? Chinas Raumfahrt holt auf und drängt auf den Weltmarkt",
+          "link": "https://www.finanzen.net/nachricht/aktien/neue-konkurrenz-aus-china-spacex-aktie-unter-druck-chinas-raumfahrt-holt-auf-und-draengt-auf-den-weltmarkt-00-15950533",
+          "published": "2026-09-28T06:04:00+00:00",
+          "summary": "China holt bei Raketenstarts auf und ist weltweit bereits die Nummer zwei Pekings Raumfahrtanbieter wollen künftig auch Kunden im Ausland gewinnen Europas Raketenbauer werben um Kunden, die bei …"
         },
         {
-          "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
-          "published": "2026-09-28T03:54:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Warum sich der Euro zum US-Dollar kaum bewegt",
+          "link": "https://www.finanzen.net/nachricht/devisen/devisen-im-blick-warum-sich-der-euro-zum-us-dollar-kaum-bewegt-15955389",
+          "published": "2026-09-28T06:02:00+00:00",
+          "summary": "Am Montagmorgen kostete die Gemeinschaftswährung 1,1382 US-Dollar und damit etwas weniger als am Freitagabend. Die Europäische Zentralbank (EZB) hatte den Referenzkurs am Freitag auf 1,1403 ..."
         },
         {
-          "title": "WOCHENAUSBLICK: Marktexperten bleiben für den Dax vorsichtig",
-          "link": "https://www.finanzen.net/nachricht/aktien/wochenausblick-marktexperten-bleiben-fuer-den-dax-vorsichtig-15955267",
-          "published": "2026-09-28T03:49:41+00:00",
-          "summary": "FRANKFURT (dpa-AFX) - Wohl und Wehe des DAX dürften auch in der neuen Woche maßgeblich von den Ölpreisen und Anleiherenditen abhängen. Zuletzt konnte sich der deutsche Leitindex dank …"
+          "title": "Goldpreis: Zinssorgen verursachen kräftiges Minus zum Wochenstart",
+          "link": "https://www.finanzen.net/nachricht/rohstoffe/goldpreis-und-oelpreis-goldpreis-zinssorgen-verursachen-kraeftiges-minus-zum-wochenstart-15954794",
+          "published": "2026-09-28T06:02:00+00:00",
+          "summary": "von Jörg Bernhard Belastend wirkte vor allem die festgefahrene Situation um die Straße von Hormus. Die anhaltenden Spannungen zwischen den USA und Iran halten die Ölpreise auf hohem Niveau und …"
         },
         {
-          "title": "Wadephul reist nach Den Haag - Besuch bei Strafgerichtshof",
-          "link": "https://www.finanzen.net/nachricht/aktien/wadephul-reist-nach-den-haag-besuch-bei-strafgerichtshof-15955266",
-          "published": "2026-09-28T03:49:40+00:00",
-          "summary": "DEN HAAG (dpa-AFX) - Außenminister Johann Wadephul reist vor dem Hintergrund der anhaltenden Bedrohungen durch Russland und angesichts des Drucks der USA auf den Internationalen Strafgerichtshof …"
+          "title": "Vermögenswirksame Leistungen mit ETFs: So wird aus dem Arbeitgeberzuschuss langfristig Vermögen",
+          "link": "https://www.finanzen.net/nachricht/aktien/vermoegenswirksame-leistungen-mit-etfs-so-wird-aus-dem-arbeitgeberzuschuss-langfristig-vermoegen-15955398",
+          "published": "2026-09-28T06:01:24+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -164,10 +164,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-          "published": "2026-09-25T16:31:47+00:00",
-          "summary": "Neue Hoffnungen auf einen Frieden im Nahen Osten lassen die Ölpreise zum Wochenschluss sinken. Das macht den Anlegern an der Börse Mut. Gleichzeitig bewegt eine mögliche Übernahme die Kurse."
+          "title": "Marktbericht: DAX vor freundlichem Wochenstart",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
+          "published": "2026-09-28T05:39:06+00:00",
+          "summary": "Trotz Zinssorgen und der anhaltend schwierigen Lage im Nahen Osten dürfte der DAX mit einem Plus in die neue Woche starten. Ein schwaches Gewinnwachstum der chinesischen Industrie belastet den …"
         },
         {
           "title": "Marktbericht: Verbraucher halten ihr Geld zusammen",
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Landesbank Nord/LB: Die rot-grünen 750-Millionen-Pläne für die „Bank der Energiewende“",
-          "link": "https://www.wiwo.de/unternehmen/banken/landesbank-nord-lb-warum-nur-will-sich-rot-gruen-in-niedersachsen-eine-staatsbank-basteln/100257382.html",
-          "published": "2026-09-28T04:20:00+00:00",
-          "summary": "Niedersachsen will seine Macht bei der umstrittenen Landesbank Nord/LB ausbauen, sie zu neuer Größe führen. Droht ein Rückfall in alte, größenwahnsinnige Zeiten?"
+          "title": "Glücksforschung: Geld allein macht nicht glücklich – Vermögen offenbar schon",
+          "link": "https://www.wiwo.de/politik/konjunktur/gluecksforschung-vermoegen-macht-menschen-wohl-zufriedener-als-hohes-einkommen/100249129.html",
+          "published": "2026-09-28T05:49:00+00:00",
+          "summary": "Für die Lebenszufriedenheit der Menschen ist Vermögen wichtiger als ein hohes Einkommen, sagt eine neue wissenschaftliche Studie."
         },
         {
-          "title": "100 Jahre WirtschaftsWoche: Kollege Schumpeter",
-          "link": "https://www.wiwo.de/politik/konjunktur/100-jahre-wirtschaftswoche-kollege-schumpeter/100249128.html",
-          "published": "2026-09-27T16:51:59+00:00",
-          "summary": "Standhaft für liberales Denken: Wie der „Deutsche Volkswirt“, der Vorläufer der WirtschaftsWoche, in der Weimarer Republik die ökonomische Debatte prägte. Ein Gastbeitrag."
+          "title": "UpTrade: Kassieren, wenn die Aktie dümpelt – was taugt das neue Consors-Angebot?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/aktie-kassieren-wenn-die-aktie-duempelt-was-taugt-das-neue-consors-angebot/100256832.html",
+          "published": "2026-09-28T05:45:00+00:00",
+          "summary": "Die Consorsbank macht Privatanlegern unter dem Namen UpTrade eine Profi-Strategie zugänglich. Damit lässt sich gut verdienen – oder viel verlieren."
         },
         {
-          "title": "Reformdebatte: Linnemann erteilt SPD-Forderung nach Pflegedeckel Absage",
-          "link": "https://www.wiwo.de/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257534.html",
-          "published": "2026-09-27T15:32:00+00:00",
-          "summary": "Die SPD will Sparpläne des Gesundheitsministers bei der Pflege nicht mittragen. Der kontert – auch mit einer Botschaft an den SPD-Finanzminister."
+          "title": "100 Jahre WiWo: Finden Sie die WirtschaftsWoche zu Ihrem Geburtstag",
+          "link": "https://www.wiwo.de/100/wirtschaftswoche-wird-100-jahre-finden-sie-das-cover-zu-ihrem-geburtstag/100248332.html",
+          "published": "2026-09-28T05:44:00+00:00",
+          "summary": "Seit hundert Jahren berichten wir über Wirtschaft, Politik und Geldanlage. Stöbern Sie durch fast 5000 Titelseiten – und entdecken Sie Ihre Lieblingsausgabe."
         },
         {
-          "title": "Hybride Bedrohungen | Erstmal die Fakten: Kurz vor der roten Linie",
-          "link": "https://www.wiwo.de/politik/deutschland/hybride-bedrohungen-erstmal-die-fakten-kurz-vor-der-roten-linie/100257115.html",
-          "published": "2026-09-27T15:10:34+00:00",
-          "summary": "Russland greift Europa an: mit Sabotage, Spionage, Desinformation und Hacking. Von Tschechien über Deutschland bis Frankreich. Die Bedrohung nimmt zu. Ein Schadensreport."
+          "title": "Künstliche Intelligenz: Im KI-Wettlauf droht Europa der Rückstand",
+          "link": "https://www.wiwo.de/technologie/ki-souveraenitaet-kann-europas-industrie-den-ki-rueckstand-zu-china-und-den-usa-aufholen/100255463.html",
+          "published": "2026-09-28T05:40:00+00:00",
+          "summary": "Experten fordern mehr KI-Souveränität für Europa, um ein Horrorszenario zu verhindern. Was ein Rückfallen im KI-Rennen bedeuten könnte – und wo Europas Stärken liegen."
         },
         {
-          "title": "Enteignung: Welche Bereiche die Linke in Berlin noch vergesellschaften möchte",
-          "link": "https://www.wiwo.de/politik/deutschland/enteignung-welche-bereiche-die-linke-in-berlin-noch-vergesellschaften-moechte/100257085.html",
-          "published": "2026-09-27T15:07:45+00:00",
-          "summary": "Die Linke möchte große Immobilienkonzerne wie Vonovia enteignen. Doch dort hören ihre Pläne nicht auf."
+          "title": "WiWo History: Als Siemens seine Handysparte aus der Hand gab",
+          "link": "https://www.wiwo.de/unternehmen/industrie/benq-mobile-pleite-das-ende-der-siemens-handys/100246485.html",
+          "published": "2026-09-28T05:40:00+00:00",
+          "summary": "Vor 20 Jahren schlug die Insolvenz von Benq Mobile Wellen. Kurz zuvor hatte Siemens seine verlustreiche Handysparte an das Unternehmen weitergereicht."
         }
       ],
       "error": null
@@ -242,6 +242,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "700-t-Bohrer „Donna Maria“ gräbt sich jetzt unter München durch",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/700-t-bohrer-donna-maria-graebt-sich-jetzt-unter-muenchen-durch/",
+          "published": "2026-09-28T05:34:22+00:00",
+          "summary": "178 m lang, 700 t schwer: Münchens erster Tunnelbohrer baut zunächst einen Rettungsstollen. Die eigentlichen S-Bahn-Röhren folgen später."
+        },
+        {
+          "title": "Berechnungsingenieur: Simulation, FEM und Karriere",
+          "link": "https://www.ingenieur.de/karriere/berufsprofile/karriere-berufsprofile-berechnungsingenieur/",
+          "published": "2026-09-28T05:00:00+00:00",
+          "summary": "Berechnungsingenieure führen rechnerische Experimente an virtuellen Modellen durch, um neue Produkte zu entwickeln oder bestehende Waren zu optimieren. Alle Informationen zu Aufgaben, Studium …"
+        },
+        {
+          "title": "Konstruktionsingenieur: Aufgaben, Studium, Gehalt und Karriere",
+          "link": "https://www.ingenieur.de/karriere/berufsprofile/karriere-berufsprofile-konstruktionsingenieur/",
+          "published": "2026-09-28T04:30:00+00:00",
+          "summary": "Konstruktionsingenieur: Aufgaben wie das Erarbeiten von Konzepten für Produkte, Maschinen oder Anlagen, Infos zum Studium, Voraussetzungen, Gehalt und Karriere im Überblick."
+        },
+        {
           "title": "Von Dortmund ins Weltall: Wie das Fraunhofer IML die Logistik für den Orbit plant",
           "link": "https://www.ingenieur.de/technik/fachbereiche/logistik/von-dortmund-ins-weltall-wie-das-fraunhofer-iml-die-logistik-fuer-den-orbit-plant/",
           "published": "2026-09-26T07:00:00+00:00",
@@ -252,24 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/kiel-schafft-windows-ab-so-laeuft-der-umstieg-auf-open-source-in-der-verwaltung/",
           "published": "2026-09-25T12:46:18+00:00",
           "summary": "Die Kieler Staatskanzlei arbeitet seit dem 19. September mit Linux, E-Mail und Bürosoftware liefen schon vorher ohne Microsoft. Schleswig-Holstein zeigt, was beim Wechsel auf Open Source funktioniert …"
-        },
-        {
-          "title": "Lenkung kann ausfallen: VW ruft weltweit über 2 Mio. Autos zurück",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/lenkung-kann-ausfallen-vw-ruft-weltweit-uber-2-mio-autos-zuruck/",
-          "published": "2026-09-25T11:29:14+00:00",
-          "summary": "Volkswagen ruft in Deutschland 895.832 Golf, Golf Variant, Tiguan, Touran und Caddy zurück, weltweit sogar mehr als 2 Mio. Fahrzeuge. Eine Befestigungsschraube am Lenkgetriebe kann korrodieren und …"
-        },
-        {
-          "title": "100 km ohne Oberleitung: Das Comeback des Akkus auf der Schiene",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/100-km-ohne-oberleitung-warum-akkuzuge-auf-der-innotrans-das-grosse-thema-sind/",
-          "published": "2026-09-25T11:00:00+00:00",
-          "summary": "Mehr als 85.000 km des europäischen Schienennetzes haben keine Oberleitung. Auf der InnoTrans in Berlin zeigen Hitachi, Škoda und Siemens Züge, die solche Lücken mit Batterie überbrücken. Was die …"
-        },
-        {
-          "title": "Re-skilling für Ingenieure: Der Branchenwechsel beginnt selten bei null",
-          "link": "https://www.ingenieur.de/karriere/bildung/re-skilling-fur-ingenieure-warum-der-branchenwechsel-selten-bei-null-beginnt/",
-          "published": "2026-09-25T09:30:00+00:00",
-          "summary": "Neue Branche, neues Fachgebiet, aber die Erfahrung bleibt: Rolls-Royce hat 100 Maschinenbauer zu Elektrotechnikern qualifiziert, ein Automotive-Manager übernahm einen Mittelständler. Beim VDI …"
         }
       ],
       "error": null
