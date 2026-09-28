@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:13:46+00:00",
+  "generatedAt": "2026-09-28T02:08:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
+          "link": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
+          "published": "2026-09-28T01:22:23+00:00",
+          "summary": "Der Fall einer 87‑Jährigen, die nach Jahrzehnten ihre Wohnung verlassen muss, bewegt Spanien. 25.000 Menschen demonstrierten in Madrid an diesem Wochenende gegen die Wohnungskrise. Ein Protestcamp …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656588.html",
+          "published": "2026-09-28T00:41:34+00:00",
+          "summary": ""
+        },
         {
           "title": "Serbiens Präsident Vucic tritt zurück",
           "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
@@ -24,18 +36,6 @@
           "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/stichwahl-in-niedersachsen-ein-guter-tag-fuer-die-amtsinhaber,kommunalwahl-680.html",
           "published": "2026-09-27T20:47:51+00:00",
           "summary": "In drei Stichwahlen hatte die AfD in Niedersachsen Chancen auf ein erstes kommunales Spitzenamt. Aber alle drei gingen klar verloren. In Hannover setzte sich der Amtsinhaber durch. Auch in anderen …"
-        },
-        {
-          "title": "Ergebnisse der Stichwahlen",
-          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/liveticker-ergebnisse-der-stichwahl-in-niedersachsen,stichwahl-liveticker-100.html",
-          "published": "2026-09-27T20:16:32+00:00",
-          "summary": "In 123 Kommunen in Niedersachsen wurden Bürgermeister, Oberbürgermeister und Landräte gewählt. Ergebnisse gibt es hier im Liveticker."
-        },
-        {
-          "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
-          "published": "2026-09-27T20:02:02+00:00",
-          "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Proteste: Dutzende Festnahmen bei Demo für Palestine Action in England",
-          "link": "https://www.handelsblatt.com/politik/international/proteste-dutzende-festnahmen-bei-demo-fuer-palestine-action-in-england/100257777.html",
-          "published": "2026-09-27T23:47:50+00:00",
-          "summary": "Am Rande des Labour-Parteitags in Liverpool demonstrieren mehr als 250 Menschen gegen das Verbot der propalästinensischen Gruppe. Sie hoffen auf Unterstützung des neuen Premiers."
+          "title": "Interview: ING-Chef: „Wir wollen der Käufer sein, nicht das Übernahmeziel“",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ing-chef-wir-wollen-der-kaeufer-sein-nicht-das-uebernahmeziel/100255687.html",
+          "published": "2026-09-28T02:00:00+00:00",
+          "summary": "Steven van Rijswijk spricht im Handelsblatt-Interview über die steigende Zahl von Bankendeals in Europa, den Einfluss von Künstlicher Intelligenz und den Umbau der niederländischen Großbank."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Fünf Tote bei russischen Drohnenangriffen in der Ukraine",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-27T23:06:00+00:00",
-          "summary": "Selenskyj – Keine Friedensbereitschaft im Kreml erkennbar - Wadephul und Lawrow nach bilateralem Gespräch weiter uneins +++ Der Newsblog."
+          "title": "Rüstung: Bundeswehr verzögert Verkauf von Mercedes-Werk an KNDS",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-mercedes-werksverkauf-an-ruestungskonzern-knds-geraet-ins-stocken/100256462.html",
+          "published": "2026-09-28T01:59:48+00:00",
+          "summary": "Mercedes will die Van-Fabrik in Ludwigsfelde abgeben, KNDS wäre interessiert. Doch eine Milliardenbestellung der Bundeswehr lässt auf sich warten – für 1800 Beschäftigte drängt die Zeit."
         },
         {
-          "title": "Konflikte: Gegner blockieren umstrittene Oranier-Parade in Nordirland",
-          "link": "https://www.handelsblatt.com/politik/international/konflikte-gegner-blockieren-umstrittene-oranier-parade-in-nordirland/100257687.html",
-          "published": "2026-09-27T22:33:37+00:00",
-          "summary": "Der protestantische Oranier-Orden sollte in einem katholischen Teil von Portadown in Nordirland marschieren. Doch Gegner blockieren den umstrittenen Marsch. Bahnt sich eine politische Krise an?"
+          "title": "Softwarekonzern: SAP-Chef sieht historische Wachstumschance durch KI-Produkte",
+          "link": "https://www.handelsblatt.com/technik/ki/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257786.html",
+          "published": "2026-09-28T01:59:28+00:00",
+          "summary": "SAP erwartet enormes Wachstumspotenzial mit eigenen KI-Angeboten. Konzernchef Christian Klein sieht einen „einzigartigen Vorteil“. Das müsse man jetzt bei den Kunden unter Beweis stellen."
         },
         {
-          "title": "Kommunalwahl: AfD verliert Stichwahlen in Niedersachsen – Hannover bleibt grün",
-          "link": "https://www.handelsblatt.com/politik/international/kommunalwahl-afd-verliert-stichwahlen-in-niedersachsen-hannover-bleibt-gruen/100257769.html",
-          "published": "2026-09-27T21:04:42+00:00",
-          "summary": "In drei Stichwahlen hat die AfD Chancen auf ein erstes kommunales Spitzenamt in Niedersachsen. Alle drei gehen klar verloren. In Hannover setzt sich der Amtsinhaber durch."
+          "title": "Softwarekonzern: SAP-Chef sieht historische Wachstumschance durch KI-Produkte",
+          "link": "https://www.handelsblatt.com/politik/deutschland/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257787.html",
+          "published": "2026-09-28T01:50:05+00:00",
+          "summary": "SAP erwartet enormes Wachstumspotenzial mit eigenen KI-Angeboten. Konzernchef Christian Klein sieht einen „einzigartigen Vorteil“. Das müsse man jetzt bei den Kunden unter Beweis stellen."
         },
         {
-          "title": "US-Militär in Nahost: Irak: US-Truppen sind vollständig abgezogen",
-          "link": "https://www.handelsblatt.com/politik/international/us-militaer-in-nahost-irak-us-truppen-sind-vollstaendig-abgezogen/100257767.html",
-          "published": "2026-09-27T20:54:12+00:00",
-          "summary": "Die IS-Terrormiliz gilt im Irak als besiegt - nun zieht das US-Militär ab. Von dauerhafter Stabilität ist das Land aber weit entfernt. Es wird vor allem ein Schauplatz im Iran-Krieg bleiben."
+          "title": "Iran-Krieg: Ölpreise steigen nach Trumps Absage an Iran",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-oelpreise-steigen-nach-trumps-absage-an-iran/100257785.html",
+          "published": "2026-09-28T01:34:28+00:00",
+          "summary": "US-Präsident Donald Trump hatte einen iranischen Friedensvorschlag zur Öffnung der Straße von Hormus abgelehnt. Die Ölexporte aus dem Nahen Osten erholten sich zuletzt leicht."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
-          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
-          "published": "2026-09-27T21:54:00+00:00",
-          "summary": "Zum Artikel"
+          "title": "Auf dem Verkaufszettel: Diese Aktien empfehlen Experten zu verkaufen",
+          "link": "https://www.finanzen.net/nachricht/aktien/verkaufsempfehlungen-kw-39-auf-dem-verkaufszettel-diese-aktien-empfehlen-experten-zu-verkaufen-15927230",
+          "published": "2026-09-28T01:41:03+00:00",
+          "summary": "In eigener Sache - Tipp: Handeln Sie Ihre Aktien jetzt für 0,00 € bei finanzen.net zero!"
         },
         {
-          "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-          "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-          "published": "2026-09-27T20:50:00+00:00",
-          "summary": "­ Bei vielen Brokern gilt: Einen Teil deiner Rendite verschenkst du in Form von Gebühren. Unser ..."
+          "title": "KI-Aktien in Gefahr? NVIDIA-CEO Huang kontert zunehmende Blasenängste mit neuer Wachstumsphase",
+          "link": "https://www.finanzen.net/nachricht/aktien/ki-debatte-ki-aktien-in-gefahr-nvidia-ceo-huang-kontert-zunehmende-blasenaengste-mit-neuer-wachstumsphase-00-15950507",
+          "published": "2026-09-28T01:39:52+00:00",
+          "summary": "Jensen Huang sieht KI-Branche im Umbruch vom Labor zur Massenproduktion Umsatzprognose von 108 Milliarden US-Dollar stützt Huangs These Huang kontert Warnungen der KI-Chefs deutlich Jensen ..."
         },
         {
-          "title": "Online Broker Vergleich - die besten Aktiendepots und Trading-Plattformen im Test",
-          "link": "https://www.finanzen.net/nachricht/aktien/online-broker-vergleich-die-besten-aktiendepots-und-trading-plattformen-im-test-4714571",
-          "published": "2026-09-27T20:30:00+00:00",
-          "summary": "https://www.finanzen.net/ratgeber/rechner-vergleiche/online-broker-vergleich?utm_medium=article-4714571-obv-obv"
+          "title": "BioNTech zwischen Rückschlag und Hoffnung: So steht es um die Krebs-Pipeline",
+          "link": "https://www.finanzen.net/nachricht/aktien/biontech-zwischen-rueckschlag-und-hoffnung-so-steht-es-um-die-krebs-pipeline-15955220",
+          "published": "2026-09-28T01:29:34+00:00",
+          "summary": "Nach dem Rückschlag bei einer Darmkrebs-Studie im August sehen Analysten die BioNTech-Aktie weiterhin mehrheitlich positiv - die Kursziele lassen auf Potenzial hoffen."
         },
         {
-          "title": "Lufthansa-Aktie: Mehrere Flugstörungen durch Powerbank-Feuer und Geruchsbelästigung",
-          "link": "https://www.finanzen.net/nachricht/aktien/luftnotlage-lufthansa-aktie-mehrere-flugstoerungen-durch-powerbank-feuer-und-geruchsbelaestigung-15954864",
-          "published": "2026-09-27T19:54:00+00:00",
-          "summary": "Ein Lufthansa-Flug von Frankfurt nach Toronto mit 371 Passagieren an Bord ist aus Sicherheitsgründen über Schottland umgekehrt und in Manchester gelandet. Grund war Geruch in der Kabine, wie …"
+          "title": "Aktien von NVIDIA und Palantir im Fokus: Sovereign AI wird zur neuen KI-Wette",
+          "link": "https://www.finanzen.net/nachricht/aktien/aktien-von-nvidia-und-palantir-im-fokus-sovereign-ai-wird-zur-neuen-ki-wette-15955217",
+          "published": "2026-09-28T01:23:28+00:00",
+          "summary": "Ein Podcast-Auftritt von Analyst Dan Ives hat eine Debatte losgetreten, in deren Zentrum ausgerechnet zwei bekannte Namen aus dem KI-Sektor stehen."
         },
         {
-          "title": "Boeing-Aktie: Neue Software-Panne bei der 737 Max",
-          "link": "https://www.finanzen.net/nachricht/aktien/automatisierung-boeing-aktie-neue-software-panne-bei-der-737-max-15954848",
-          "published": "2026-09-27T19:46:00+00:00",
-          "summary": "Dem Konzern zufolge kann das Problem bei einigen Maschinen dazu führen, dass nach einem abgebrochenen Landeversuch die automatisierte vertikale Navigation bei weiteren Anläufen zunächst nicht zur …"
+          "title": "Diese Aktien empfehlen Experten zu verkaufen",
+          "link": "https://www.finanzen.net/nachricht/aktien/diese-aktien-empfehlen-experten-zu-verkaufen-15955216",
+          "published": "2026-09-28T01:23:08+00:00",
+          "summary": "In der vergangenen Handelswoche haben wieder zahlreiche Experten zum Ausstieg aus Aktien geraten. Diese Anteilsscheine wurden von den Analysten zum Verkauf empfohlen."
         }
       ],
       "error": null
