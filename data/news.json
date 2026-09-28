@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T22:08:30+00:00",
+  "generatedAt": "2026-09-28T00:13:46+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,13 +8,25 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Serbiens Präsident Vucic tritt zurück",
+          "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
+          "published": "2026-09-27T23:13:56+00:00",
+          "summary": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und …"
+        },
+        {
           "title": "Nations League: Griechenland schlägt Deutschlands 1:0",
           "link": "https://www.sportschau.de/fussball/nationalmannschaft/wunderheilung-vertagt-griechenland-bestraft-deutschlands-fehler,spielbericht-nations-league-deutschland-griechenland-100.html",
           "published": "2026-09-27T21:58:58+00:00",
           "summary": "Die deutsche Fußball-Nationalmannschaft hat das Heimdebüt des Bundestrainers Klopp 0:1 verloren. Es war im elften Duell gegen Griechenland die erste Niederlage einer DFB-Elf."
         },
         {
-          "title": "Niedersachsen zählt aus",
+          "title": "Kommunalwahl Niedersachsen 2026: Stichwahlen in Niedersachsen",
+          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/stichwahl-in-niedersachsen-ein-guter-tag-fuer-die-amtsinhaber,kommunalwahl-680.html",
+          "published": "2026-09-27T20:47:51+00:00",
+          "summary": "In drei Stichwahlen hatte die AfD in Niedersachsen Chancen auf ein erstes kommunales Spitzenamt. Aber alle drei gingen klar verloren. In Hannover setzte sich der Amtsinhaber durch. Auch in anderen …"
+        },
+        {
+          "title": "Ergebnisse der Stichwahlen",
           "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/liveticker-ergebnisse-der-stichwahl-in-niedersachsen,stichwahl-liveticker-100.html",
           "published": "2026-09-27T20:16:32+00:00",
           "summary": "In 123 Kommunen in Niedersachsen wurden Bürgermeister, Oberbürgermeister und Landräte gewählt. Ergebnisse gibt es hier im Liveticker."
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
           "published": "2026-09-27T20:02:02+00:00",
           "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit …"
-        },
-        {
-          "title": "Vor 80 Jahren starteten Tim und Struppi im Magazin \"Tintin\"",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1656572.html",
-          "published": "2026-09-27T19:48:44+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Nepal nach der Sturzflut: Infrastruktur zerstört und Tausende vermisst",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1656570.html",
-          "published": "2026-09-27T19:46:21+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Proteste: Dutzende Festnahmen bei Demo für Palestine Action in England",
+          "link": "https://www.handelsblatt.com/politik/international/proteste-dutzende-festnahmen-bei-demo-fuer-palestine-action-in-england/100257777.html",
+          "published": "2026-09-27T23:47:50+00:00",
+          "summary": "Am Rande des Labour-Parteitags in Liverpool demonstrieren mehr als 250 Menschen gegen das Verbot der propalästinensischen Gruppe. Sie hoffen auf Unterstützung des neuen Premiers."
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: Fünf Tote bei russischen Drohnenangriffen in der Ukraine",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-27T23:06:00+00:00",
+          "summary": "Selenskyj – Keine Friedensbereitschaft im Kreml erkennbar - Wadephul und Lawrow nach bilateralem Gespräch weiter uneins +++ Der Newsblog."
+        },
+        {
+          "title": "Konflikte: Gegner blockieren umstrittene Oranier-Parade in Nordirland",
+          "link": "https://www.handelsblatt.com/politik/international/konflikte-gegner-blockieren-umstrittene-oranier-parade-in-nordirland/100257687.html",
+          "published": "2026-09-27T22:33:37+00:00",
+          "summary": "Der protestantische Oranier-Orden sollte in einem katholischen Teil von Portadown in Nordirland marschieren. Doch Gegner blockieren den umstrittenen Marsch. Bahnt sich eine politische Krise an?"
+        },
+        {
           "title": "Kommunalwahl: AfD verliert Stichwahlen in Niedersachsen – Hannover bleibt grün",
           "link": "https://www.handelsblatt.com/politik/international/kommunalwahl-afd-verliert-stichwahlen-in-niedersachsen-hannover-bleibt-gruen/100257769.html",
           "published": "2026-09-27T21:04:42+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/us-militaer-in-nahost-irak-us-truppen-sind-vollstaendig-abgezogen/100257767.html",
           "published": "2026-09-27T20:54:12+00:00",
           "summary": "Die IS-Terrormiliz gilt im Irak als besiegt - nun zieht das US-Militär ab. Von dauerhafter Stabilität ist das Land aber weit entfernt. Es wird vor allem ein Schauplatz im Iran-Krieg bleiben."
-        },
-        {
-          "title": "Oberhaus des Parlaments: Machtzuwachs für Le Pens Rechtsnationale im Pariser Senat",
-          "link": "https://www.handelsblatt.com/politik/international/oberhaus-des-parlaments-machtzuwachs-fuer-le-pens-rechtsnationale-im-pariser-senat/100257707.html",
-          "published": "2026-09-27T20:26:11+00:00",
-          "summary": "Erstmals erreicht das Rassemblement National Fraktionsstärke. Welche Signalwirkung hat der Machtzuwachs kurz vor der französischen Präsidentschaftswahl?"
-        },
-        {
-          "title": "Szene in ZDF-Dokumentation: Amthor eckt mit Strandkorb im Kanzleramt an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/szene-in-zdf-dokumentation-amthor-eckt-mit-strandkorb-im-kanzleramt-an/100257762.html",
-          "published": "2026-09-27T19:23:04+00:00",
-          "summary": "Eine Szene aus der Dokumentation „Inside CDU“ erhitzt die Gemüter in den sozialen Medien: Philipp Amthor lässt einen Strandkorb auf dem Balkon des Kanzleramts aufstellen. Schadet das seiner Partei?"
-        },
-        {
-          "title": "Politik am Balkan: Serbiens Präsident Vucic zurückgetreten",
-          "link": "https://www.handelsblatt.com/politik/international/politik-am-balkan-serbiens-praesident-vucic-zurueckgetreten/100257760.html",
-          "published": "2026-09-27T19:12:04+00:00",
-          "summary": "Vucic zieht als Machtstratege ins Rennen um das Amt des Ministerpräsidenten – nach Massenprotesten und politischem Druck. Als letzte Amtshandlung begnadigte er Oppositionelle."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Fusionsgerüchte um O2 und 1&1: Telefonica-Deutschland-Chef hält vier Mobilfunknetze für überflüssig",
+          "link": "https://www.n-tv.de/wirtschaft/Telefonica-Deutschland-Chef-haelt-vier-Mobilfunknetze-fuer-ueberfluessig-id31354070.html",
+          "published": "2026-09-27T22:52:32+00:00",
+          "summary": "Die Telekom, Vodafone, 1&1 und Telefonica betreiben in Deutschland eigene Mobilfunknetze. Der neue Telefonica-Deutschland-Chef hält das für \"innovations- und investitionsfeindlich\" und verweist ins …"
+        },
         {
           "title": "Dank Ausbau und viel Sonne: Deutschland produziert so viel Solarstrom wie noch nie",
           "link": "https://www.n-tv.de/wirtschaft/Deutschland-produziert-so-viel-Solarstrom-wie-noch-nie-id31353734.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Festnahmen-in-der-Tuerkei-wegen-angeblichem-Boersen-Skandal-id31352887.html",
           "published": "2026-09-27T12:04:12+00:00",
           "summary": "In der Türkei sind zahlreiche Personen wegen mutmaßlicher Manipulation der Börsenkurse festgenommen worden. Berichten zufolge sind unter den Betroffenen auch viele Kleinanleger. Die türkische …"
-        },
-        {
-          "title": "Um Prozess zu entgehen: Tiktok will Nutzungszeit für Teenager in Alabama begrenzen",
-          "link": "https://www.n-tv.de/wirtschaft/TikTok-will-Nutzungszeit-fuer-Teenager-in-Alabama-begrenzen-id31352690.html",
-          "published": "2026-09-27T10:44:35+00:00",
-          "summary": "Der US-Bundesstaat Alabama wirft Tiktok vor, dass die Kurzvideo-Plattform Kinder gezielt süchtig mache. Um einem Prozess zu entgehen, stimmt Tiktok nun einem Vergleich und strengeren Regeln für die …"
         }
       ],
       "error": null
