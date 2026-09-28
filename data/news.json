@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:10:53+00:00",
+  "generatedAt": "2026-09-28T12:12:02+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Neue Unwetter fordern Dutzende Todesopfer in Himalaya-Region von Indien und Nepal",
-          "link": "https://www.tagesschau.de/video/video-1656770.html",
-          "published": "2026-09-28T09:46:30+00:00",
+          "title": "Ilanit Spinner, ARD Berlin, zu Nachverhandlungen bei der Pflegereform",
+          "link": "https://www.tagesschau.de/video/video-1656834.html",
+          "published": "2026-09-28T12:10:32+00:00",
           "summary": ""
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81200.html",
+          "published": "2026-09-28T12:09:33+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Spahn verzichtet offenbar auf Sitz im Haushaltsausschuss",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-verzicht-haushaltsausschuss-100.html",
+          "published": "2026-09-28T11:58:52+00:00",
+          "summary": "Ex-Unionsfraktionschef Spahn will sich aus dem Haushaltsausschuss des Bundestags zurückziehen. Das geht aus einer Erklärung des CDU-Politikers hervor. Ein \"normales Arbeiten\" sei für ihn aktuell …"
         },
         {
           "title": "Kallas: Bericht offenbart Lücken bei EU-Verteidigungsbereitschaft",
           "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigung-kallas-100.html",
-          "published": "2026-09-28T09:44:23+00:00",
+          "published": "2026-09-28T11:58:47+00:00",
           "summary": "Die Außenbeauftragte der EU, Kallas, warnt vor mangelnder Verteidigungsbereitschaft innerhalb der Europäischen Union. Ein neuer Bericht verweist offenbar auf Lücken etwa bei der Luftverteidigung und …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-28T09:24:16+00:00",
-          "summary": "Am Montag ist es in weiten Landesteilen sonnig bis leicht bewölkt. Im Westen und Nordwesten ist es wolkiger und vereinzelt fällt etwas Regen. 19 bis 31 Grad."
-        },
-        {
-          "title": "Alexander Franz, ARD-aktuell, zu Habecks Äußerung über Merz",
-          "link": "https://www.tagesschau.de/video/video-1656700.html",
-          "published": "2026-09-28T09:10:05+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Kürzungen und Zukunft der Rente – ARD-Korrespondent erklärt die Streitpunkte bei der Rentenreform",
-          "link": "https://www.tagesschau.de/video/video-1656712.html",
-          "published": "2026-09-28T08:53:37+00:00",
-          "summary": ""
+          "title": "Indien und Nepal: Viele Tote wegen Überschwemmungen",
+          "link": "https://www.tagesschau.de/ausland/asien/nepal-indien-flutkatastrophe-100.html",
+          "published": "2026-09-28T11:51:03+00:00",
+          "summary": "Starke Regenfälle haben in Nordindien und Nepal schwere Überschwemmungen und Erdrutsche ausgelöst. Dabei wurden in beiden Ländern mehr als 80 Menschen getötet, zahlreiche werden noch vermisst. …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Kommentar: Vorsicht vor der Lockvogel-Rente",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-vorsicht-vor-der-lockvogel-rente/100257103.html",
-          "published": "2026-09-28T09:59:18+00:00",
-          "summary": "Kaum ist das Altersvorsorgedepot da, ist es spottbillig – vorerst. Sparerinnen und Sparer, die sich nun für den Riester-Rente-Nachfolger interessieren, sollten aber zwei Punkte beachten."
+          "title": "Bundesregierung: Linnemann hält an Pflegeplänen fest",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-linnemann-haelt-an-pflegeplaenen-fest/100257966.html",
+          "published": "2026-09-28T11:55:23+00:00",
+          "summary": "Aus Sicht des Gesundheitsministers drängt bei der Pflege die Zeit. Hinter den Kulissen verhandelt die Koalition - der Ausgang ist offen."
         },
         {
-          "title": "Aussteiger: „Nackt kündigen“: Junge Chinesen entfliehen dem hohen Druck im Job",
-          "link": "https://www.handelsblatt.com/politik/international/arbeitsmarkt-warum-das-aufstiegsversprechen-junge-chinesen-misstrauisch-macht/100240142.html",
-          "published": "2026-09-28T09:57:00+00:00",
-          "summary": "Chinas Aufstiegsversprechen bröckelt. Vor allem in der jungen Generation schwindet die Bereitschaft, sich aufzureiben. Das Handelsblatt hat junge Aussteiger besucht. Ihre Motive überraschen."
+          "title": "Bundestag: Spahn gibt Posten im Haushaltsausschuss auf",
+          "link": "https://www.handelsblatt.com/politik/deutschland/jens-spahn-cdu-politiker-gibt-nach-kritik-posten-im-haushaltsausschuss-auf/100257944.html",
+          "published": "2026-09-28T11:54:54+00:00",
+          "summary": "Nach Kritik an einer heimlichen Reise tritt der ehemalige Fraktionsvorsitzende nun auch aus dem Haushaltsausschuss aus. „Ein normales Arbeiten“ sei „kaum möglich“, schreibt er in einer Nachricht."
         },
         {
-          "title": "Balea: Von der belächelten Eigenmarke zur Benchmark für die Branche",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/dm-wie-viel-markenarbeit-steckt-hinter-baleas-erfolg/100247806.html",
-          "published": "2026-09-28T09:56:00+00:00",
-          "summary": "Einst als Billigprodukt verschrien, wächst Balea schneller als viele Herstellermarken. Wie hat die Drogeriekette dm das geschafft? Die Erfolgsfaktoren – und die Gefahren."
+          "title": "Abgeordnetenhauswahl: Grüne und SPD in Berlin stellen Bedingung für Sondierungen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/abgeordnetenhauswahl-gruene-und-spd-in-berlin-stellen-bedingung-fuer-sondierungen/100257959.html",
+          "published": "2026-09-28T11:51:33+00:00",
+          "summary": "Die Linke will mit Grünen und SPD über eine neue Regierung in Berlin sprechen. Doch die beiden potenziellen Partner fordern zuvor eine Verständigung zu einem wichtigen Thema."
         },
         {
-          "title": "IWH-Institut: Ostdeutsche Wirtschaft wächst 2026 langsamer als im Westen",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/iwh-institut-ostdeutsche-wirtschaft-waechst-2026-langsamer-als-im-westen/100257910.html",
-          "published": "2026-09-28T09:55:03+00:00",
-          "summary": "Die Auslandsnachfrage treibt Deutschlands Erholung – doch im Osten kommt davon wenig an. Während Deutschland 2026 insgesamt um 1,3 Prozent wächst, kommt der Osten nur auf 0,9 Prozent."
+          "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/reichtum-warum-kai-viehof-den-grossteil-seines-erbes-nicht-behalten-will/100204748.html",
+          "published": "2026-09-28T11:51:00+00:00",
+          "summary": "Kai Viehof hat den Großteil seines Erbes ausgeschlagen, auch vom Rest will der Enkel des Allkauf-Gründers das meiste weggeben. Über einen Mann, dessen Beruf es ist, sinnvoll Geld loszuwerden."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Ukraine: Militär erobert weiteres Gebiet in Region Donezk zurück",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-28T09:54:51+00:00",
-          "summary": "Ukraine setzt Angriffe auf russisches Gebiet fort +++ Kallas warnt vor weiteren russischen Sabotageakten +++ 15 Verletzte bei russischem Angriff auf Charkiw +++ Der Newsblog."
+          "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-was-sollten-sie-beachten-wenn-sie-neu-mit-etfs-starten/100184984.html",
+          "published": "2026-09-28T11:45:00+00:00",
+          "summary": "Aus dem Handelsblatt-Archiv: Unser Autor befasst sich zum ersten Mal in seinem Leben mit ETFs – und stellt fest, dass Altersvorsorge damit in der Theorie einfacher ist als in der Praxis."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Siemens Energy-Aktie vor wichtigem Termin unter Druck: Was bringt der Pre-Close-Call?",
-          "link": "https://www.finanzen.net/nachricht/aktien/wechsel-im-kontrollgremium-siemens-energy-aktie-vor-wichtigem-termin-unter-druck-was-bringt-der-pre-close-call-00-15955474",
-          "published": "2026-09-28T10:00:00+00:00",
-          "summary": "Kurz vor der Stillhalteperiode gibt Siemens Energy letzte Einordnungen Im Kontrollgremium vollzieht sich ein personeller Wechsel an der Spitze Analysten sehen Kursverluste gelassen"
+          "title": "Außenamt: Russland nutzt Wadephul-Treffen für Propaganda",
+          "link": "https://www.finanzen.net/nachricht/aktien/aussenamt-russland-nutzt-wadephul-treffen-fuer-propaganda-15956060",
+          "published": "2026-09-28T12:03:39+00:00",
+          "summary": "BERLIN (dpa-AFX) - Die Bundesregierung wirft Russland vor, das Treffen der Außenminister beider Länder für Propaganda zu missbrauchen. Es gebe den Versuch, das Treffen propagandistisch zu …"
+        },
+        {
+          "title": "US-Dollar vor Todeskreuz: Wie Anleger von einem stärkeren Yen profitieren können",
+          "link": "https://www.finanzen.net/nachricht/devisen/chartsignale-us-dollar-vor-todeskreuz-wie-anleger-von-einem-staerkeren-yen-profitieren-koennen-00-15956031",
+          "published": "2026-09-28T12:03:00+00:00",
+          "summary": "Im Dollar-Yen-Chart zeichnet sich in dieser Woche ein Death Cross ab USA und Japan hatten Ende Juli gemeinsam am Devisenmarkt eingegriffen Historisch lieferte das Signal sehr unterschiedliche …"
+        },
+        {
+          "title": "Linnemann hält an Pflegeplänen fest",
+          "link": "https://www.finanzen.net/nachricht/aktien/linnemann-haelt-an-pflegeplaenen-fest-15956059",
+          "published": "2026-09-28T12:01:38+00:00",
+          "summary": "BERLIN (dpa-AFX) - Ungeachtet des Widerstands des Koalitionspartners SPD hält Gesundheitsminister Carsten Linnemann (CDU) an seinem Vorhaben fest, ein Gesetz für stabile Pflegefinanzen an diesem …"
         },
         {
           "title": "Kräftiger Analysten-Dämpfer für die Telekom-Aktie: Dieser Titel wird zum neuem Branchenfavoriten",
           "link": "https://www.finanzen.net/nachricht/aktien/sorge-um-us-fusion-waechst-kraeftiger-analysten-daempfer-fuer-die-telekom-aktie-dieser-titel-wird-zum-neuem-branchenfavoriten-00-15955834",
-          "published": "2026-09-28T09:59:00+00:00",
+          "published": "2026-09-28T12:00:00+00:00",
           "summary": "Bernstein senkt die Einstufung für die Deutsche Telekom deutlich ab Unsicherheit um eine mögliche T-Mobile US-Fusion belastet die Bewertung Wachsender Wettbewerb im deutschen Breitbandgeschäft drückt …"
         },
         {
-          "title": "MARKT USA/Schwache Eröffnung erwartet - Ölpreise und Renditen steigen weiter",
-          "link": "https://www.finanzen.net/nachricht/aktien/markt-usa-schwache-eroeffnung-erwartet-oelpreise-und-renditen-steigen-weiter-15955880",
-          "published": "2026-09-28T09:55:42+00:00",
-          "summary": "Mit Abgaben dürfte die Wall Street in die neue Woche starten. Im Iran-Krieg stehen die Zeichen weiter auf Konfrontation. So hat US-Präsident Donald Trump den Vorschlag des Irans für einen …"
-        },
-        {
-          "title": "Deutsche Börse-News: Wochenausblick: ,,Ab fünf Prozent Rendite wird es für Aktien",
-          "link": "https://www.finanzen.net/nachricht/aktien/deutsche-boerse-news-wochenausblick-ab-fuenf-prozent-rendite-wird-es-fuer-aktien-15955877",
-          "published": "2026-09-28T09:53:39+00:00",
-          "summary": "FRANKFURT (DEUTSCHE-BOERSE AG) - Technologiewerte haben sich in der abgelaufenen Woche deutlich besser entwickelt als der breite Markt. Zugleich drücken hohe Renditen auf die Bewertungen. Vor dem …"
-        },
-        {
-          "title": "Ströer: Jetzt kommt Rückenwind von zwei Seiten",
-          "link": "https://www.finanzen.net/nachricht/aktien/stroeer-jetzt-kommt-rueckenwind-von-zwei-seiten-15955882",
-          "published": "2026-09-28T09:51:13+00:00",
-          "summary": "Nach einem bislang enttäuschenden Kursverlauf in diesem Jahr könnte sich das Umfeld für die Ströer-Aktie allmählich aufhellen. In einer aktuellen Studie sehen die Analysten von Berenberg jedenfalls …"
+          "title": "RENK-Aktie sackt ab: JPMorgan sieht Schwächen im dritten Quartal",
+          "link": "https://www.finanzen.net/nachricht/aktien/analysteneinschaetzung-renk-aktie-sackt-ab-jpmorgan-sieht-schwaechen-im-dritten-quartal-15956049",
+          "published": "2026-09-28T11:54:00+00:00",
+          "summary": "Nach einem wenig veränderten Start sorgte ein Kommentar der US-Bank JPMorgan zu den Anfang November erwarteten Quartalszahlen für Druck. Zuletzt ging es um 3,66 Prozent auf 39,10 ..."
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "US-Elektroautobauer: Tesla erhöht Gehälter in Grünheide um bis zu fünf Prozent",
-          "link": "https://www.wiwo.de/unternehmen/auto/us-elektroautobauer-tesla-erhoeht-gehaelter-in-gruenheide-um-bis-zu-fuenf-prozent/100257918.html",
-          "published": "2026-09-28T09:45:44+00:00",
-          "summary": "Die Tesla-Mitarbeiter erhalten zum 1. Oktober mehr Gehalt. Einen Tarifvertrag sieht der US-Autobauer allerdings kritisch."
+          "title": "Glücksforschung: Geld allein macht nicht glücklich – Vermögen offenbar schon",
+          "link": "https://www.wiwo.de/politik/konjunktur/gluecksforschung-vermoegen-macht-menschen-wohl-zufriedener-als-hohes-einkommen/100249129.html",
+          "published": "2026-09-28T11:41:21+00:00",
+          "summary": "Für die Lebenszufriedenheit der Menschen ist Vermögen wichtiger als ein hohes Einkommen, zeigt eine neue wissenschaftliche Studie."
         },
         {
-          "title": "Volkswagen: Chinesischer Batteriezellhersteller strebt Einstieg bei VW-Batteriewerk an",
-          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-chinesischer-batteriezellhersteller-strebt-einstieg-bei-vw-batteriewerk-an/100257913.html",
-          "published": "2026-09-28T09:43:04+00:00",
-          "summary": "Volkswagen könnte Gotion an seinem Batteriewerk in Spanien beteiligen. Im Gegenzug ist eine VW-Beteiligung an Werken in drei Ländern geplant."
+          "title": "Start-ups: So treiben KI und Rüstung die deutsche Gründerszene an",
+          "link": "https://www.wiwo.de/erfolg/gruender/start-ups-ki-und-ruestung-treiben-die-gruenderszene-an-ipos-aber-an-us-boersen/100257849.html",
+          "published": "2026-09-28T11:41:09+00:00",
+          "summary": "Acht Milliarden Euro Wagniskapital, Rekord bei den Unicorns: Die Zahlen für deutsche Start-ups klingen gut – an die Börse wollen viele trotzdem anderswo."
         },
         {
-          "title": "Antisemitismusvorwurf: Berliner Linke zeigt Innenminister Dobrindt an",
-          "link": "https://www.wiwo.de/politik/deutschland/na-doch-streit-ueber-antisemitismusvorwurf-linke-zeigt-dobrindt-an/100257799.html",
-          "published": "2026-09-28T08:55:00+00:00",
-          "summary": "Bei „Maybrit Illner“ stritten sich Alexander Dobrindt und Heidi Reichinnek, es ging auch um Antisemitismusvorwürfe. Jetzt wird Dobrindt „üble Nachrede“ vorgeworfen."
+          "title": "Reformdebatte: Pflegereform soll Mittwoch beschlossen werden – bis dahin intensive Verhandlungen",
+          "link": "https://www.wiwo.de/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257534.html",
+          "published": "2026-09-28T11:36:00+00:00",
+          "summary": "Nach den jüngsten Landtagswahlen wollten Kanzler Merz und die Union Tempo bei den Sozialreformen machen. Bei der Pflege hakt es nun allerdings gewaltig."
         },
         {
-          "title": "Geldanlage: So nehmen Anleger jetzt durchdacht Gewinne mit",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-so-nehmen-anleger-jetzt-durchdacht-gewinne-mit/100256897.html",
-          "published": "2026-09-28T08:36:00+00:00",
-          "summary": "Viele Anleger haben derzeit hohe Gewinne in ihren Depots – ­und fragen sich, ob sie einen Teil ihrer Aktien ­verkaufen sollten. Diese Strategien können helfen."
+          "title": "Discounter: Aldi will eine Milliarde Euro in Geschäft in Großbritannien investieren",
+          "link": "https://www.wiwo.de/unternehmen/handel/40-neue-filialen-aldi-will-2027-das-geschaeft-in-grossbritannien-ausbauen/100257940.html",
+          "published": "2026-09-28T11:06:06+00:00",
+          "summary": "Der Marktanteil von Aldi sank zuletzt, während der von Lidl wuchs. Mit neuen Filialen und Preissenkungen will Aldi in Großbritannien wieder wachsen."
         },
         {
-          "title": "Inflation: Rekordhohe Spritpreise treiben Inflation auf höchsten Stand seit 2023",
-          "link": "https://www.wiwo.de/politik/konjunktur/inflation-rekordhohe-spritpreise-treiben-inflation-auf-hoechsten-stand-seit-2023/100257879.html",
-          "published": "2026-09-28T08:13:37+00:00",
-          "summary": "Die Inflation erreicht im September wohl den höchsten Stand seit 2023. Haupttreiber sind die Spritpreise."
+          "title": "CDU-Politiker: Jens Spahn zieht sich aus Haushaltsausschuss zurück",
+          "link": "https://www.wiwo.de/politik/deutschland/jens-spahn-cdu-politiker-gibt-posten-im-haushaltsausschuss-auf/100257948.html",
+          "published": "2026-09-28T11:04:11+00:00",
+          "summary": "Nach nur wenigen Wochen gibt Jens Spahn seinen Sitz im wichtigsten Bundestagsausschuss wieder ab. Ein „normales Arbeiten“ sei kaum möglich, so Spahn."
         }
       ],
       "error": null
@@ -242,13 +242,25 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "180 Weltpremieren auf der Bahnmesse InnoTrans: Diese Neuheiten haben schon einen Termin",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/180-weltpremieren-auf-der-bahnmesse-innotrans-diese-neuheiten-haben-schon-einen-termin/",
+          "published": "2026-09-28T11:30:00+00:00",
+          "summary": "Batteriezüge, Nachtzugideen und KI für Betrieb und Wartung: Die InnoTrans zeigte die Bahn von morgen. Nur wenige Neuheiten haben schon einen Einsatzort und einen Termin. Bei anderen ist offen, wann …"
+        },
+        {
+          "title": "Weiterbildung im Alter: Warum Lernen nicht mit 50 endet",
+          "link": "https://www.ingenieur.de/karriere/bildung/weiterbildung/weiterbildung-im-alter-warum-lernen-nicht-mit-50-endet/",
+          "published": "2026-09-28T10:30:00+00:00",
+          "summary": "Weiterbildung im Alter stärkt berufliche Chancen, fördert soziale Kontakte und kann den Übergang in den Ruhestand positiv beeinflussen."
+        },
+        {
           "title": "Schotter, Wiese, Kopfsteinpflaster: Dieses Modul macht Rollstühle geländetauglich",
           "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/schotter-wiese-kopfsteinpflaster-dieses-modul-macht-rollstuhle-gelandetauglich/",
           "published": "2026-09-28T09:00:00+00:00",
           "summary": "Auf Schotter, Rasen oder Pflaster bleiben die kleinen Vorderräder manueller Rollstühle schnell stecken. Ein französisches Startup hebt sie einfach an: Sein Elektromodul wiegt unter 9 kg, wird vorn …"
         },
         {
-          "title": "100 % recycelt: Porsche testet Akkus mit Lithium und Kobalt aus eigenen Altbatterien",
+          "title": "100 % recycelt: Porsche testet Akkus mit Lithium aus eigenen Altbatterien",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/100-recycelt-porsche-testet-akkus-mit-lithium-und-kobalt-aus-eigenen-altbatterien/",
           "published": "2026-09-28T08:30:00+00:00",
           "summary": "Porsche hat nach eigenen Angaben erstmals Akkuzellen gebaut, in denen Lithium, Nickel, Kobalt und Mangan des Pluspols komplett aus eigenen Altbatterien stammen. Ob sie in Serie taugen, ist offen. Wie …"
@@ -258,18 +270,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/bau/700-t-bohrer-donna-maria-graebt-sich-jetzt-unter-muenchen-durch/",
           "published": "2026-09-28T05:34:22+00:00",
           "summary": "178 m lang, 700 t schwer: Münchens erster Tunnelbohrer der zweiten Stammstrecke baut zunächst einen Rettungsstollen. Die eigentlichen S-Bahn-Röhren folgen später."
-        },
-        {
-          "title": "Berechnungsingenieur: Simulation, FEM und Karriere",
-          "link": "https://www.ingenieur.de/karriere/berufsprofile/karriere-berufsprofile-berechnungsingenieur/",
-          "published": "2026-09-28T05:00:00+00:00",
-          "summary": "Berechnungsingenieure führen rechnerische Experimente an virtuellen Modellen durch, um neue Produkte zu entwickeln oder bestehende Waren zu optimieren. Alle Informationen zu Aufgaben, Studium …"
-        },
-        {
-          "title": "Konstruktionsingenieur: Aufgaben, Studium, Gehalt und Karriere",
-          "link": "https://www.ingenieur.de/karriere/berufsprofile/karriere-berufsprofile-konstruktionsingenieur/",
-          "published": "2026-09-28T04:30:00+00:00",
-          "summary": "Konstruktionsingenieur: Aufgaben wie das Erarbeiten von Konzepten für Produkte, Maschinen oder Anlagen, Infos zum Studium, Voraussetzungen, Gehalt und Karriere im Überblick."
         }
       ],
       "error": null
