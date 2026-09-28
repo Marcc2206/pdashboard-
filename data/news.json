@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T02:08:55+00:00",
+  "generatedAt": "2026-09-28T04:09:57+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Lebensmittelpreise: Droht die nächste Inflationswelle?",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittelpreise-weizen-mais-zucker-inflation-100.html",
+          "published": "2026-09-28T04:00:07+00:00",
+          "summary": "An den Rohstoffbörsen steigen die Preise für Weizen, Mais und Zucker kräftig - im deutschen Supermarkt ist davon bislang kaum etwas angekommen. Doch Experten warnen: Das ist nur eine Frage der Zeit. …"
+        },
+        {
+          "title": "Israels Wahlkampf mit harten Bandagen - Ausschluss arabischer Parteien?",
+          "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-parteien-arabisch-100.html",
+          "published": "2026-09-28T03:54:40+00:00",
+          "summary": "In dieser Woche soll Israels Oberster Gerichtshof entscheiden, ob arabische Parteien von den Wahlen ausgeschlossen werden. Allein der Versuch des Ausschlusses sorgt für Verunsicherung und Wut. Von …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656590.html",
+          "published": "2026-09-28T02:52:36+00:00",
+          "summary": ""
+        },
+        {
           "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
           "link": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
           "published": "2026-09-28T01:22:23+00:00",
           "summary": "Der Fall einer 87‑Jährigen, die nach Jahrzehnten ihre Wohnung verlassen muss, bewegt Spanien. 25.000 Menschen demonstrierten in Madrid an diesem Wochenende gegen die Wohnungskrise. Ein Protestcamp …"
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1656588.html",
-          "published": "2026-09-28T00:41:34+00:00",
-          "summary": ""
-        },
-        {
           "title": "Serbiens Präsident Vucic tritt zurück",
           "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
           "published": "2026-09-27T23:13:56+00:00",
           "summary": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und …"
-        },
-        {
-          "title": "Nations League: Griechenland schlägt Deutschlands 1:0",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/wunderheilung-vertagt-griechenland-bestraft-deutschlands-fehler,spielbericht-nations-league-deutschland-griechenland-100.html",
-          "published": "2026-09-27T21:58:58+00:00",
-          "summary": "Die deutsche Fußball-Nationalmannschaft hat das Heimdebüt des Bundestrainers Klopp 0:1 verloren. Es war im elften Duell gegen Griechenland die erste Niederlage einer DFB-Elf."
-        },
-        {
-          "title": "Kommunalwahl Niedersachsen 2026: Stichwahlen in Niedersachsen",
-          "link": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/stichwahl-in-niedersachsen-ein-guter-tag-fuer-die-amtsinhaber,kommunalwahl-680.html",
-          "published": "2026-09-27T20:47:51+00:00",
-          "summary": "In drei Stichwahlen hatte die AfD in Niedersachsen Chancen auf ein erstes kommunales Spitzenamt. Aber alle drei gingen klar verloren. In Hannover setzte sich der Amtsinhaber durch. Auch in anderen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Interview: ING-Chef: „Wir wollen der Käufer sein, nicht das Übernahmeziel“",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ing-chef-wir-wollen-der-kaeufer-sein-nicht-das-uebernahmeziel/100255687.html",
-          "published": "2026-09-28T02:00:00+00:00",
-          "summary": "Steven van Rijswijk spricht im Handelsblatt-Interview über die steigende Zahl von Bankendeals in Europa, den Einfluss von Künstlicher Intelligenz und den Umbau der niederländischen Großbank."
+          "title": "China: Verlängerte Zollpause mit USA ebnet Weg für Zollsenkungen",
+          "link": "https://www.handelsblatt.com/politik/international/china-verlaengerte-zollpause-mit-usa-ebnet-weg-fuer-zollsenkungen/100257817.html",
+          "published": "2026-09-28T03:57:26+00:00",
+          "summary": "China und die USA verlängern die Zollpause bis Anfang 2027. Beide Seiten wollen die Zeit für weitere Verhandlungen über Handel und Investitionen nutzen."
         },
         {
-          "title": "Rüstung: Bundeswehr verzögert Verkauf von Mercedes-Werk an KNDS",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-mercedes-werksverkauf-an-ruestungskonzern-knds-geraet-ins-stocken/100256462.html",
-          "published": "2026-09-28T01:59:48+00:00",
-          "summary": "Mercedes will die Van-Fabrik in Ludwigsfelde abgeben, KNDS wäre interessiert. Doch eine Milliardenbestellung der Bundeswehr lässt auf sich warten – für 1800 Beschäftigte drängt die Zeit."
+          "title": "Barbetragskonto und Gebühren: Bargeld im Pflegeheim: Darf das Verwahren etwas kosten?",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/barbetragskonto-und-gebuehren-bargeld-im-pflegeheim-darf-das-verwahren-etwas-kosten/100257819.html",
+          "published": "2026-09-28T03:49:04+00:00",
+          "summary": "Ein Umzug ins Pflegeheim bringt viele Veränderungen mit sich. Eine betrifft das Bargeld: Dies verwahrt das Heim meist sicher für die Bewohner und zahlt bei Bedarf aus. Das führt oft zu Streit."
         },
         {
-          "title": "Softwarekonzern: SAP-Chef sieht historische Wachstumschance durch KI-Produkte",
-          "link": "https://www.handelsblatt.com/technik/ki/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257786.html",
-          "published": "2026-09-28T01:59:28+00:00",
-          "summary": "SAP erwartet enormes Wachstumspotenzial mit eigenen KI-Angeboten. Konzernchef Christian Klein sieht einen „einzigartigen Vorteil“. Das müsse man jetzt bei den Kunden unter Beweis stellen."
+          "title": "Morning Briefing: Die Linke gehört in Berliner Koalitionsverhandlungen, aber….",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-die-linke-gehoert-in-berliner-koalitionsverhandlungen-aber./100257770.html",
+          "published": "2026-09-28T03:47:40+00:00",
+          "summary": "Das Letzte, was die Republik braucht: eine zweite Brandmauer. Vielleicht schafft die Mitte im Umgang mit der Linken, woran sie bisher bei der AfD scheiterte. Eine Hoffnung aber bleibt."
         },
         {
-          "title": "Softwarekonzern: SAP-Chef sieht historische Wachstumschance durch KI-Produkte",
-          "link": "https://www.handelsblatt.com/politik/deutschland/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257787.html",
-          "published": "2026-09-28T01:50:05+00:00",
-          "summary": "SAP erwartet enormes Wachstumspotenzial mit eigenen KI-Angeboten. Konzernchef Christian Klein sieht einen „einzigartigen Vorteil“. Das müsse man jetzt bei den Kunden unter Beweis stellen."
+          "title": "+++ USA +++: Bill Gates befürwortet KI-Sicherheitsvorkehrungen",
+          "link": "https://www.handelsblatt.com/politik/international/usa-bill-gates-befuerwortet-ki-sicherheitsvorkehrungen/29669594.html",
+          "published": "2026-09-28T03:40:00+00:00",
+          "summary": "Trotz Warnungen aus Tech-Branche: Trump lehnt KI-Regulierung ab +++ US-Sender CNN darf Trump nicht auf Reise nach Tennessee begleiten +++ Republikaner scheitern mit Wahlkreis-Umbau für Missouri +++ …"
         },
         {
-          "title": "Iran-Krieg: Ölpreise steigen nach Trumps Absage an Iran",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-oelpreise-steigen-nach-trumps-absage-an-iran/100257785.html",
-          "published": "2026-09-28T01:34:28+00:00",
-          "summary": "US-Präsident Donald Trump hatte einen iranischen Friedensvorschlag zur Öffnung der Straße von Hormus abgelehnt. Die Ölexporte aus dem Nahen Osten erholten sich zuletzt leicht."
+          "title": "Erneuerbare Energien: Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
+          "link": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energien-solarstromproduktion-uebertrifft-bereits-jetzt-vorjahreswert/100257813.html",
+          "published": "2026-09-28T03:30:06+00:00",
+          "summary": "Bereits Ende September hat die Solarstromproduktion in Deutschland den Vorjahreswert übertroffen. Welche Faktoren zu diesem Rekord geführt haben."
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Auf dem Verkaufszettel: Diese Aktien empfehlen Experten zu verkaufen",
-          "link": "https://www.finanzen.net/nachricht/aktien/verkaufsempfehlungen-kw-39-auf-dem-verkaufszettel-diese-aktien-empfehlen-experten-zu-verkaufen-15927230",
-          "published": "2026-09-28T01:41:03+00:00",
-          "summary": "In eigener Sache - Tipp: Handeln Sie Ihre Aktien jetzt für 0,00 € bei finanzen.net zero!"
+          "title": "VW-Aktie: Neuer Rückruf zwingt Fahrer zu zwei Werkstatt-Besuchen",
+          "link": "https://www.finanzen.net/nachricht/aktien/korrosion-vw-aktie-neuer-rueckruf-zwingt-fahrer-zu-zwei-werkstatt-besuchen-15954320",
+          "published": "2026-09-28T04:05:00+00:00",
+          "summary": "Bei dem Rückruf geht es um Korrosion an einer Befestigungsverschraubung der Lenkung.Zum Start der Aktion könne die vorgeschriebene Schraube möglicherweise nicht in ausreichender Menge zur Verfügung …"
         },
         {
-          "title": "KI-Aktien in Gefahr? NVIDIA-CEO Huang kontert zunehmende Blasenängste mit neuer Wachstumsphase",
-          "link": "https://www.finanzen.net/nachricht/aktien/ki-debatte-ki-aktien-in-gefahr-nvidia-ceo-huang-kontert-zunehmende-blasenaengste-mit-neuer-wachstumsphase-00-15950507",
-          "published": "2026-09-28T01:39:52+00:00",
-          "summary": "Jensen Huang sieht KI-Branche im Umbruch vom Labor zur Massenproduktion Umsatzprognose von 108 Milliarden US-Dollar stützt Huangs These Huang kontert Warnungen der KI-Chefs deutlich Jensen ..."
+          "title": "Wer steckt eigentlich hinter der Kryptowährung Ripple?",
+          "link": "https://www.finanzen.net/nachricht/devisen/kryptomarkt-hintergrund-wer-steckt-eigentlich-hinter-der-kryptowaehrung-ripple-5925090",
+          "published": "2026-09-28T04:03:00+00:00",
+          "summary": "Bitcoin ist zwar die Nummer eins in der Welt der Kryptowährungen. Dennoch gibt es eine Reihe von anderen Token, die aufschließen konnten. Einer davon ist Ripple XRP . ..."
         },
         {
-          "title": "BioNTech zwischen Rückschlag und Hoffnung: So steht es um die Krebs-Pipeline",
-          "link": "https://www.finanzen.net/nachricht/aktien/biontech-zwischen-rueckschlag-und-hoffnung-so-steht-es-um-die-krebs-pipeline-15955220",
-          "published": "2026-09-28T01:29:34+00:00",
-          "summary": "Nach dem Rückschlag bei einer Darmkrebs-Studie im August sehen Analysten die BioNTech-Aktie weiterhin mehrheitlich positiv - die Kursziele lassen auf Potenzial hoffen."
+          "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
+          "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
+          "published": "2026-09-28T03:54:00+00:00",
+          "summary": "Zum Artikel"
         },
         {
-          "title": "Aktien von NVIDIA und Palantir im Fokus: Sovereign AI wird zur neuen KI-Wette",
-          "link": "https://www.finanzen.net/nachricht/aktien/aktien-von-nvidia-und-palantir-im-fokus-sovereign-ai-wird-zur-neuen-ki-wette-15955217",
-          "published": "2026-09-28T01:23:28+00:00",
-          "summary": "Ein Podcast-Auftritt von Analyst Dan Ives hat eine Debatte losgetreten, in deren Zentrum ausgerechnet zwei bekannte Namen aus dem KI-Sektor stehen."
+          "title": "WOCHENAUSBLICK: Marktexperten bleiben für den Dax vorsichtig",
+          "link": "https://www.finanzen.net/nachricht/aktien/wochenausblick-marktexperten-bleiben-fuer-den-dax-vorsichtig-15955267",
+          "published": "2026-09-28T03:49:41+00:00",
+          "summary": "FRANKFURT (dpa-AFX) - Wohl und Wehe des DAX dürften auch in der neuen Woche maßgeblich von den Ölpreisen und Anleiherenditen abhängen. Zuletzt konnte sich der deutsche Leitindex dank …"
         },
         {
-          "title": "Diese Aktien empfehlen Experten zu verkaufen",
-          "link": "https://www.finanzen.net/nachricht/aktien/diese-aktien-empfehlen-experten-zu-verkaufen-15955216",
-          "published": "2026-09-28T01:23:08+00:00",
-          "summary": "In der vergangenen Handelswoche haben wieder zahlreiche Experten zum Ausstieg aus Aktien geraten. Diese Anteilsscheine wurden von den Analysten zum Verkauf empfohlen."
+          "title": "Wadephul reist nach Den Haag - Besuch bei Strafgerichtshof",
+          "link": "https://www.finanzen.net/nachricht/aktien/wadephul-reist-nach-den-haag-besuch-bei-strafgerichtshof-15955266",
+          "published": "2026-09-28T03:49:40+00:00",
+          "summary": "DEN HAAG (dpa-AFX) - Außenminister Johann Wadephul reist vor dem Hintergrund der anhaltenden Bedrohungen durch Russland und angesichts des Drucks der USA auf den Internationalen Strafgerichtshof …"
         }
       ],
       "error": null
