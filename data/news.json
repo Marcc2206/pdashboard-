@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:12:02+00:00",
+  "generatedAt": "2026-09-28T14:11:39+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Ilanit Spinner, ARD Berlin, zu Nachverhandlungen bei der Pflegereform",
-          "link": "https://www.tagesschau.de/video/video-1656834.html",
-          "published": "2026-09-28T12:10:32+00:00",
+          "title": "Schaden in Milliardenhöhe - Anlagebetrug mit gefälschten Nachrichtenseiten",
+          "link": "https://www.tagesschau.de/investigativ/faktenfinder/geldanlage-betrug-fake-nachrichtenseiten-100.html",
+          "published": "2026-09-28T13:43:05+00:00",
+          "summary": "Sie sehen aus wie Artikel der tagesschau, führen jedoch auf betrügerische Anlageplattformen. Schätzungen zufolge machen Verbrechernetzwerke mit dieser Masche jährlich Milliarden - und bringen …"
+        },
+        {
+          "title": "Christoph Kehlbach, SWR, über das Jubiläum 75 Jahre Bundesverfassungsgericht",
+          "link": "https://www.tagesschau.de/video/video-1656914.html",
+          "published": "2026-09-28T13:25:59+00:00",
           "summary": ""
+        },
+        {
+          "title": "Schweden: Wahlsiegerin Andersson kann keine Regierung bilden",
+          "link": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-110.html",
+          "published": "2026-09-28T13:20:41+00:00",
+          "summary": "Die schwedische Sozialdemokratin und Wahlsiegerin Andersson hat die Sondierungsgespräche mit den Linken für gescheitert erklärt. Hintergrund ist die Unterstützung der Linken für den konservativen …"
+        },
+        {
+          "title": "Drei deutsche BioNTech-Werke müssen schließen",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/biontech-standorte-schliessung-100.html",
+          "published": "2026-09-28T13:17:39+00:00",
+          "summary": "Drei deutsche Produktionsstandorte des Pharmaunternehmens BioNTech werden geschlossen. In den Werken in Marburg, Idar-Oberstein und Tübingen sind derzeit rund 1.800 Mitarbeiter beschäftigt."
         },
         {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81200.html",
-          "published": "2026-09-28T12:09:33+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81198.html",
+          "published": "2026-09-28T13:13:08+00:00",
           "summary": ""
-        },
-        {
-          "title": "Spahn verzichtet offenbar auf Sitz im Haushaltsausschuss",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-verzicht-haushaltsausschuss-100.html",
-          "published": "2026-09-28T11:58:52+00:00",
-          "summary": "Ex-Unionsfraktionschef Spahn will sich aus dem Haushaltsausschuss des Bundestags zurückziehen. Das geht aus einer Erklärung des CDU-Politikers hervor. Ein \"normales Arbeiten\" sei für ihn aktuell …"
-        },
-        {
-          "title": "Kallas: Bericht offenbart Lücken bei EU-Verteidigungsbereitschaft",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigung-kallas-100.html",
-          "published": "2026-09-28T11:58:47+00:00",
-          "summary": "Die Außenbeauftragte der EU, Kallas, warnt vor mangelnder Verteidigungsbereitschaft innerhalb der Europäischen Union. Ein neuer Bericht verweist offenbar auf Lücken etwa bei der Luftverteidigung und …"
-        },
-        {
-          "title": "Indien und Nepal: Viele Tote wegen Überschwemmungen",
-          "link": "https://www.tagesschau.de/ausland/asien/nepal-indien-flutkatastrophe-100.html",
-          "published": "2026-09-28T11:51:03+00:00",
-          "summary": "Starke Regenfälle haben in Nordindien und Nepal schwere Überschwemmungen und Erdrutsche ausgelöst. Dabei wurden in beiden Ländern mehr als 80 Menschen getötet, zahlreiche werden noch vermisst. …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Bundesregierung: Linnemann hält an Pflegeplänen fest",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-linnemann-haelt-an-pflegeplaenen-fest/100257966.html",
-          "published": "2026-09-28T11:55:23+00:00",
-          "summary": "Aus Sicht des Gesundheitsministers drängt bei der Pflege die Zeit. Hinter den Kulissen verhandelt die Koalition - der Ausgang ist offen."
+          "title": "Jürgen Klopp: Sieben Leadership-Lehren, die sich Chefs von ihm abschauen können",
+          "link": "https://www.handelsblatt.com/karriere/fuehrungsstil-was-manager-von-juergen-klopps-fuehrungsstil-lernen-koennen/100242667.html",
+          "published": "2026-09-28T14:02:00+00:00",
+          "summary": "Klopp wird neuer Bundestrainer. Der DFB gewinnt einen Motivator. Sein Führungsstil ist so gut, dass auch andere Chefs sich davon etwas abschauen können, sagt ein Forscher – und erklärt, wie."
         },
         {
-          "title": "Bundestag: Spahn gibt Posten im Haushaltsausschuss auf",
-          "link": "https://www.handelsblatt.com/politik/deutschland/jens-spahn-cdu-politiker-gibt-nach-kritik-posten-im-haushaltsausschuss-auf/100257944.html",
-          "published": "2026-09-28T11:54:54+00:00",
-          "summary": "Nach Kritik an einer heimlichen Reise tritt der ehemalige Fraktionsvorsitzende nun auch aus dem Haushaltsausschuss aus. „Ein normales Arbeiten“ sei „kaum möglich“, schreibt er in einer Nachricht."
+          "title": "Energiekise: Wie teuer wird Diesel in Deutschland?",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/tankstelle-steigen-die-diesel-preise-die-wichtigsten-fragen-und-antworten-01/100257356.html",
+          "published": "2026-09-28T14:00:00+00:00",
+          "summary": "Die USA erwägen Exportbeschränkungen auf Diesel. Am stärksten dürfte davon Europa betroffen sein. Was bedeutet das für die Preise an deutschen Tankstellen – und könnte Diesel knapp werden?"
         },
         {
-          "title": "Abgeordnetenhauswahl: Grüne und SPD in Berlin stellen Bedingung für Sondierungen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/abgeordnetenhauswahl-gruene-und-spd-in-berlin-stellen-bedingung-fuer-sondierungen/100257959.html",
-          "published": "2026-09-28T11:51:33+00:00",
-          "summary": "Die Linke will mit Grünen und SPD über eine neue Regierung in Berlin sprechen. Doch die beiden potenziellen Partner fordern zuvor eine Verständigung zu einem wichtigen Thema."
+          "title": "Bundesregierung: Pflegestreit entzweit Union und SPD",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-pflegestreit-entzweit-union-und-spd/100257966.html",
+          "published": "2026-09-28T13:59:07+00:00",
+          "summary": "Von einer Einigung im Streit um die Pflege scheinen der Gesundheitsminister und die SPD weit entfernt. Kann Carsten Linnemann seinen ehrgeizigen Zeitplan halten?"
         },
         {
-          "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/reichtum-warum-kai-viehof-den-grossteil-seines-erbes-nicht-behalten-will/100204748.html",
-          "published": "2026-09-28T11:51:00+00:00",
-          "summary": "Kai Viehof hat den Großteil seines Erbes ausgeschlagen, auch vom Rest will der Enkel des Allkauf-Gründers das meiste weggeben. Über einen Mann, dessen Beruf es ist, sinnvoll Geld loszuwerden."
+          "title": "Lebensmittelhandel: Edeka darf 178 Tegut-Supermärkte übernehmen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/lebensmittelhandel-edeka-darf-178-tegut-supermaerkte-uebernehmen/100258015.html",
+          "published": "2026-09-28T13:56:33+00:00",
+          "summary": "Die Marke Tegut verschwindet. Den Großteil der Supermärkte wird künftig Edeka weiterbetreiben – allerdings nicht so viele wie ursprünglich geplant. Grund sind Bedenken des Kartellamts."
         },
         {
-          "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-was-sollten-sie-beachten-wenn-sie-neu-mit-etfs-starten/100184984.html",
-          "published": "2026-09-28T11:45:00+00:00",
-          "summary": "Aus dem Handelsblatt-Archiv: Unser Autor befasst sich zum ersten Mal in seinem Leben mit ETFs – und stellt fest, dass Altersvorsorge damit in der Theorie einfacher ist als in der Praxis."
+          "title": "US-Chipkonzern: Nvidia stockt Aktienrückkaufprogramm um 150 Milliarden US-Dollar auf",
+          "link": "https://www.handelsblatt.com/technik/it-internet/us-chipkonzern-nvidia-stockt-aktienrueckkaufprogramm-deutlich-auf/100257960.html",
+          "published": "2026-09-28T13:52:42+00:00",
+          "summary": "Der KI-Boom hat Nvidia zum wertvollsten Unternehmen der Welt gemacht. Nvidia-Chef Jensen Huang wettet mit dem Aktienrückkauf auf eine wachstumsträchtige Zukunft."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Neues Basisprodukt geplant: Versicherer wollen Altersvorsorge bis in die Imbissbude bringen",
+          "link": "https://www.n-tv.de/wirtschaft/Versicherer-wollen-Altersvorsorge-bis-in-die-Imbissbude-bringen-id31357232.html",
+          "published": "2026-09-28T14:02:54+00:00",
+          "summary": "Schwarz-Rot will die betriebliche Altersvorsorge ausweiten. Derzeit profitieren davon zumeist Beschäftigte größerer Unternehmen. Die Versicherer stellen nun ein Produkt in Aussicht, das extra auf …"
+        },
+        {
+          "title": "IG Metall fordert Tarifvertrag: Tesla erhöht Gehälter für Beschäftigte in Grünheide",
+          "link": "https://www.n-tv.de/wirtschaft/Tesla-erhoeht-Gehaelter-fuer-Beschaeftigte-in-Gruenheide-id31356946.html",
+          "published": "2026-09-28T13:51:02+00:00",
+          "summary": "Der einzige europäische Standort des US-Konzerns Tesla hebt die Gehälter zum Oktober an. So sollen Produktionsbeschäftigte in Grünheide fünf Prozent mehr bekommen. Die IG Metall nennt den Schritt …"
+        },
+        {
+          "title": "Keine Käufer gefunden: Biontech macht drei Standorte mit 1800 Mitarbeitern dicht",
+          "link": "https://www.n-tv.de/wirtschaft/Biontech-macht-drei-Standorte-mit-1800-Mitarbeitern-dicht-id31356681.html",
+          "published": "2026-09-28T12:04:53+00:00",
+          "summary": "Einst war Biontech der Star am deutschen Biotechnologie-Himmel, mit einem der ersten Covid-19-Impfstoffe verdiente das Mainzer Unternehmen Milliarden. Heute schreibt die Firma Verluste, ihre Gründer …"
+        },
+        {
           "title": "Pflege, Gastronomie und Bau : Einwanderer sind in vielen Engpassberufen unverzichtbar",
           "link": "https://www.n-tv.de/wirtschaft/Einwanderer-sind-in-vielen-Engpassberufen-unverzichtbar-id31355090.html",
           "published": "2026-09-28T10:01:11+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Zahl-der-Milliarden-Startups-erreicht-Hoechststand-id31354854.html",
           "published": "2026-09-28T07:26:02+00:00",
           "summary": "Künstliche Intelligenz und steigende Investitionen in Rüstungsfirmen lassen Deutschlands Gründerbranche boomen. Immer mehr Startups erreichen dabei eine Bewertung von mehr als einer Milliarde Euro. …"
-        },
-        {
-          "title": "Ifo-Institut ist skeptisch: Arbeitsmarkt stabilisiert sich - \"echte Erholung\" bleibt aus",
-          "link": "https://www.n-tv.de/wirtschaft/Arbeitsmarkt-stabilisiert-sich-echte-Erholung-bleibt-aus-id31354896.html",
-          "published": "2026-09-28T07:20:44+00:00",
-          "summary": "Auch wenn die Stimmung mies sein mag: Die deutsche Wirtschaft wächst zuletzt drei Quartale in Folge. Das macht sich auch auf dem Arbeitsmarkt bemerkbar. Doch die Lage verbessert sich nicht in allen …"
-        },
-        {
-          "title": "Vom Auto-Tycoon zum Influencer : Carlos Ghosn - der Mann, der im Koffer verschwand",
-          "link": "https://www.n-tv.de/wirtschaft/Carlos-Ghosn-der-Mann-der-im-Koffer-verschwand-id31339598.html",
-          "published": "2026-09-28T06:53:59+00:00",
-          "summary": "Als Nissan-Retter war Carlos Ghosn einst ein gefeierter Auto-Manager. Heute gibt er im Internet Führungstipps. Dazwischen liegen Korruptionsvorwürfe, eine schwarze Kiste und eine spektakuläre Flucht …"
-        },
-        {
-          "title": "Fusionsgerüchte um O2 und 1&1: Telefonica-Deutschland-Chef hält vier Mobilfunknetze für überflüssig",
-          "link": "https://www.n-tv.de/wirtschaft/Telefonica-Deutschland-Chef-haelt-vier-Mobilfunknetze-fuer-ueberfluessig-id31354070.html",
-          "published": "2026-09-27T22:52:32+00:00",
-          "summary": "Die Telekom, Vodafone, 1&1 und Telefonica betreiben in Deutschland eigene Mobilfunknetze. Der neue Telefonica-Deutschland-Chef hält das für \"innovations- und investitionsfeindlich\" und verweist ins …"
         }
       ],
       "error": null
@@ -125,34 +125,34 @@
       "url": "https://www.finanzen.net/rss/news",
       "items": [
         {
-          "title": "Außenamt: Russland nutzt Wadephul-Treffen für Propaganda",
-          "link": "https://www.finanzen.net/nachricht/aktien/aussenamt-russland-nutzt-wadephul-treffen-fuer-propaganda-15956060",
-          "published": "2026-09-28T12:03:39+00:00",
-          "summary": "BERLIN (dpa-AFX) - Die Bundesregierung wirft Russland vor, das Treffen der Außenminister beider Länder für Propaganda zu missbrauchen. Es gebe den Versuch, das Treffen propagandistisch zu …"
+          "title": "ROUNDUP 2: Pflegestreit entzweit Union und SPD",
+          "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-pflegestreit-entzweit-union-und-spd-15956446",
+          "published": "2026-09-28T14:05:39+00:00",
+          "summary": "(neu: mehr Details und Hintergrund)BERLIN (dpa-AFX) - Wenige Tage vor dem geplanten Kabinettstermin für eine Pflegereform sind die Fronten zwischen Union und SPD verhärtet. Bundesgesundheitsminister …"
         },
         {
-          "title": "US-Dollar vor Todeskreuz: Wie Anleger von einem stärkeren Yen profitieren können",
-          "link": "https://www.finanzen.net/nachricht/devisen/chartsignale-us-dollar-vor-todeskreuz-wie-anleger-von-einem-staerkeren-yen-profitieren-koennen-00-15956031",
-          "published": "2026-09-28T12:03:00+00:00",
-          "summary": "Im Dollar-Yen-Chart zeichnet sich in dieser Woche ein Death Cross ab USA und Japan hatten Ende Juli gemeinsam am Devisenmarkt eingegriffen Historisch lieferte das Signal sehr unterschiedliche …"
+          "title": "Edeka darf 178 Tegut-Supermärkte übernehmen",
+          "link": "https://www.finanzen.net/nachricht/aktien/edeka-darf-178-tegut-supermaerkte-uebernehmen-15956445",
+          "published": "2026-09-28T14:04:38+00:00",
+          "summary": "BONN (dpa-AFX) - Der Lebensmittelhändler Edeka darf 178 Filialen der Supermarktkette Tegut übernehmen. Das teilte das Bundeskartellamt in Bonn mit. Die Schweizer Genossenschaft ..."
         },
         {
-          "title": "Linnemann hält an Pflegeplänen fest",
-          "link": "https://www.finanzen.net/nachricht/aktien/linnemann-haelt-an-pflegeplaenen-fest-15956059",
-          "published": "2026-09-28T12:01:38+00:00",
-          "summary": "BERLIN (dpa-AFX) - Ungeachtet des Widerstands des Koalitionspartners SPD hält Gesundheitsminister Carsten Linnemann (CDU) an seinem Vorhaben fest, ein Gesetz für stabile Pflegefinanzen an diesem …"
+          "title": "Börse Stuttgart: Metas KI-Agent befeuert Tech-Rallye",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-stuttgart-metas-ki-agent-befeuert-tech-rallye-15956437",
+          "published": "2026-09-28T14:03:39+00:00",
+          "summary": "Börse Stuttgart - Exklusiver Marktbericht 28.09.2026, 11:00 Uhr | Verfasser: Steffen HeizerederDer KI-Agent \"Muse\" von Meta hat laut Reuters an der Wall Street eine breite Tech-Rallye angestoßen. Die …"
         },
         {
-          "title": "Kräftiger Analysten-Dämpfer für die Telekom-Aktie: Dieser Titel wird zum neuem Branchenfavoriten",
-          "link": "https://www.finanzen.net/nachricht/aktien/sorge-um-us-fusion-waechst-kraeftiger-analysten-daempfer-fuer-die-telekom-aktie-dieser-titel-wird-zum-neuem-branchenfavoriten-00-15955834",
-          "published": "2026-09-28T12:00:00+00:00",
-          "summary": "Bernstein senkt die Einstufung für die Deutsche Telekom deutlich ab Unsicherheit um eine mögliche T-Mobile US-Fusion belastet die Bewertung Wachsender Wettbewerb im deutschen Breitbandgeschäft drückt …"
+          "title": "Börse Stuttgart: NVIDIA sichert sich KI-Speicher",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-stuttgart-nvidia-sichert-sich-ki-speicher-15956436",
+          "published": "2026-09-28T14:03:38+00:00",
+          "summary": "Börse Stuttgart - Euwax Trends 28.09.2026, 12:00 Uhr | Verfasser: Steffen HeizerederOptionsschein - NVIDIA: 279 Milliarden Dollar für KI-Speicherchips An der Börse Stuttgart wird heute vermehrt ein …"
         },
         {
-          "title": "RENK-Aktie sackt ab: JPMorgan sieht Schwächen im dritten Quartal",
-          "link": "https://www.finanzen.net/nachricht/aktien/analysteneinschaetzung-renk-aktie-sackt-ab-jpmorgan-sieht-schwaechen-im-dritten-quartal-15956049",
-          "published": "2026-09-28T11:54:00+00:00",
-          "summary": "Nach einem wenig veränderten Start sorgte ein Kommentar der US-Bank JPMorgan zu den Anfang November erwarteten Quartalszahlen für Druck. Zuletzt ging es um 3,66 Prozent auf 39,10 ..."
+          "title": "Börse Stuttgart: NVIDIA sichert sich KI-Speicher",
+          "link": "https://www.finanzen.net/nachricht/aktien/boerse-stuttgart-nvidia-sichert-sich-ki-speicher-15956430",
+          "published": "2026-09-28T14:01:39+00:00",
+          "summary": "Börse Stuttgart - Euwax Trends 28.09.2026, 12:00 Uhr | Verfasser: Steffen HeizerederOptionsschein - NVIDIA: 279 Milliarden Dollar für KI-Speicherchips An der Börse Stuttgart wird heute vermehrt ein …"
         }
       ],
       "error": null
@@ -163,6 +163,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Hohe Ethanolpreise: Südzucker erwartet bessere Geschäfte",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-suedzucker-100.html",
+          "published": "2026-09-28T12:18:56+00:00",
+          "summary": "Die Geschäfte bei Südzucker laufen noch besser als bisher gedacht. Der Zuckerkonzern hat zuletzt sowohl von zunehmenden Wetterextremen als auch von den Folgen des Iran-Konflikts profitiert."
+        },
         {
           "title": "Marktbericht: DAX trotzt steigenden Ölpreisen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
@@ -186,12 +192,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boeing-bestellungen-china-100.html",
           "published": "2026-09-24T11:28:15+00:00",
           "summary": "Eigentlich setzte der US-Flugzeugbauer Boeing große Hoffnungen in das Treffen zwischen den Präsidenten der USA und Chinas. Neue Lieferverträge sollten geschlossen werden. Doch diese Hoffnungen …"
-        },
-        {
-          "title": "Nach einer Studie investieren immer mehr Deutsche in Aktien",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktienmarkt-investieren-dax-ing-bank-marktbericht-100.html",
-          "published": "2026-09-23T12:43:28+00:00",
-          "summary": "Deutsche gelten als Aktienmuffel. Doch jeder Zweite investiert einer Studie zufolge am Kapitalmarkt, insbesondere jüngere Menschen. Ein Großteil lässt das Geld aber weiter mit Verlusten auf dem …"
         }
       ],
       "error": null
@@ -203,34 +203,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Glücksforschung: Geld allein macht nicht glücklich – Vermögen offenbar schon",
-          "link": "https://www.wiwo.de/politik/konjunktur/gluecksforschung-vermoegen-macht-menschen-wohl-zufriedener-als-hohes-einkommen/100249129.html",
-          "published": "2026-09-28T11:41:21+00:00",
-          "summary": "Für die Lebenszufriedenheit der Menschen ist Vermögen wichtiger als ein hohes Einkommen, zeigt eine neue wissenschaftliche Studie."
+          "title": "Drei Werke schließen: Das Aus der Biontech-Werke ist auch ein Armutszeugnis für den Standort",
+          "link": "https://www.wiwo.de/unternehmen/industrie/aus-fuer-drei-biontech-werke-warum-die-schliessung-fatal-ist/100257976.html",
+          "published": "2026-09-28T14:00:45+00:00",
+          "summary": "Biontech schließt seine Werke in Marburg, Idar-Oberstein und Tübingen. Fast 2000 Arbeitsplätze sind betroffen. Das ist gleich dreifach tragisch. Ein Kommentar."
         },
         {
-          "title": "Start-ups: So treiben KI und Rüstung die deutsche Gründerszene an",
-          "link": "https://www.wiwo.de/erfolg/gruender/start-ups-ki-und-ruestung-treiben-die-gruenderszene-an-ipos-aber-an-us-boersen/100257849.html",
-          "published": "2026-09-28T11:41:09+00:00",
-          "summary": "Acht Milliarden Euro Wagniskapital, Rekord bei den Unicorns: Die Zahlen für deutsche Start-ups klingen gut – an die Börse wollen viele trotzdem anderswo."
+          "title": "Autozulieferer: Bosch halbiert seine Belegschaft in Nürnberg",
+          "link": "https://www.wiwo.de/unternehmen/industrie/bosch-automobil-zulieferer-halbiert-bis-2029-seine-belegschaft-in-nuernberg/100258004.html",
+          "published": "2026-09-28T13:50:53+00:00",
+          "summary": "Bosch beschäftigt in seinem Nürnberger Werk derzeit 1800 Mitarbeiter. Die Hälfte der Stellen soll bis 2029 wegfallen, weil Aufträge fehlen."
         },
         {
-          "title": "Reformdebatte: Pflegereform soll Mittwoch beschlossen werden – bis dahin intensive Verhandlungen",
-          "link": "https://www.wiwo.de/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257534.html",
-          "published": "2026-09-28T11:36:00+00:00",
-          "summary": "Nach den jüngsten Landtagswahlen wollten Kanzler Merz und die Union Tempo bei den Sozialreformen machen. Bei der Pflege hakt es nun allerdings gewaltig."
+          "title": "Wirtschaft von oben: Hier kommt schon das nächste BYD aus China",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/auf-byd-folgt-leapmotor-chinas-naechster-e-auto-riese-bedraengt-vw/100257247.html",
+          "published": "2026-09-28T13:49:00+00:00",
+          "summary": "Exklusive Satellitenbilder zeigen den rasanten Ausbau der Leapmotor-Fabriken. Wie Chinas neuer E-Auto-Riese mit Stellantis jetzt VW herausfordert."
         },
         {
-          "title": "Discounter: Aldi will eine Milliarde Euro in Geschäft in Großbritannien investieren",
-          "link": "https://www.wiwo.de/unternehmen/handel/40-neue-filialen-aldi-will-2027-das-geschaeft-in-grossbritannien-ausbauen/100257940.html",
-          "published": "2026-09-28T11:06:06+00:00",
-          "summary": "Der Marktanteil von Aldi sank zuletzt, während der von Lidl wuchs. Mit neuen Filialen und Preissenkungen will Aldi in Großbritannien wieder wachsen."
+          "title": "Sozialumbau: Diese 5 Kompromisse fehlen im Kampf gegen das Minus in der Pflegekasse",
+          "link": "https://www.wiwo.de/politik/deutschland/pflegereform-worueber-die-koalition-streitet/100257864.html",
+          "published": "2026-09-28T13:48:00+00:00",
+          "summary": "Die Forderungen der Großen Koalition zur Pflege schwanken zwischen forsch und feige. Die Finanzprobleme der Sozialkasse lassen sich so nicht lösen. Über diese fünf Punkte wird gestritten."
         },
         {
-          "title": "CDU-Politiker: Jens Spahn zieht sich aus Haushaltsausschuss zurück",
-          "link": "https://www.wiwo.de/politik/deutschland/jens-spahn-cdu-politiker-gibt-posten-im-haushaltsausschuss-auf/100257948.html",
-          "published": "2026-09-28T11:04:11+00:00",
-          "summary": "Nach nur wenigen Wochen gibt Jens Spahn seinen Sitz im wichtigsten Bundestagsausschuss wieder ab. Ein „normales Arbeiten“ sei kaum möglich, so Spahn."
+          "title": "Volkswagen: VW baut Zusammenarbeit mit chinesischem Zellhersteller Gotion aus",
+          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-vw-baut-zusammenarbeit-mit-chinesischem-zellhersteller-gotion-aus/100257913.html",
+          "published": "2026-09-28T13:45:00+00:00",
+          "summary": "VW und der chinesische Batteriezellhersteller Gotion gründen mehrere Gemeinschaftsunternehmen. Das Ziel ist ein besserer Zugang zu günstigen LFP-Batterien."
         }
       ],
       "error": null
@@ -242,34 +242,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "180 Weltpremieren auf der Bahnmesse InnoTrans: Diese Neuheiten haben schon einen Termin",
+          "title": "48 % mehr E-Lkw, doch das Netz kommt nicht mit: Drei Lösungen für das Ladeproblem",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/e-lkw-brauchen-200-twh-bis-2045-drei-losungen-fur-das-ladeproblem/",
+          "published": "2026-09-28T13:31:05+00:00",
+          "summary": "Die Zulassungen von Elektro-Lkw in der EU sind im ersten Halbjahr um fast 50 % gestiegen, auf der IAA zeigten Hersteller Modelle mit 700 km Reichweite. Doch wo sollen sie laden? Eine neue Studie …"
+        },
+        {
+          "title": "Zwei Drittel weniger Einstiegsjobs seit 2022: Wo die Krise als Erstes zuschlägt",
+          "link": "https://www.ingenieur.de/karriere/bewerbung/zwei-drittel-weniger-einstiegsjobs-seit-2022-wo-die-krise-als-erstes-zuschlagt/",
+          "published": "2026-09-28T13:00:00+00:00",
+          "summary": "Seit 2022 ist das Angebot an Einstiegsjobs in Deutschland um mehr als zwei Drittel eingebrochen, am stärksten in IT und Marketing. Wer gerade Studium oder Ausbildung abschließt, spürt die schwache …"
+        },
+        {
+          "title": "Fast ein Tag pro Woche weg: Warum Projektleiter kaum zum Planen kommen",
+          "link": "https://www.ingenieur.de/karriere/arbeitsleben/fast-ein-tag-pro-woche-verloren-warum-projektleiter-kaum-zum-planen-kommen/",
+          "published": "2026-09-28T12:30:00+00:00",
+          "summary": "Ungeplante Aufgaben und Leerlauf kosten Projektleiter in Dienstleistungsfirmen laut einer Umfrage rund 15 % ihrer Arbeitszeit. Die Befragten hoffen auf KI, die Probleme früher sichtbar macht."
+        },
+        {
+          "title": "Regen.Impulse München: Regenwasser richtig behandeln",
+          "link": "https://www.ingenieur.de/advertorial/regen-impulse-muenchen-regenwasser-richtig-behandeln/",
+          "published": "2026-09-28T12:22:12+00:00",
+          "summary": "Fachtagung am 10. November 2026 gibt Architektur- und Planungsbüros Impulse für eine zukunftsfähige Regenwasserbewirtschaftung"
+        },
+        {
+          "title": "180 Weltpremieren auf der Bahnmesse Innotrans: Diese Neuheiten haben schon einen Termin",
           "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/180-weltpremieren-auf-der-bahnmesse-innotrans-diese-neuheiten-haben-schon-einen-termin/",
           "published": "2026-09-28T11:30:00+00:00",
           "summary": "Batteriezüge, Nachtzugideen und KI für Betrieb und Wartung: Die InnoTrans zeigte die Bahn von morgen. Nur wenige Neuheiten haben schon einen Einsatzort und einen Termin. Bei anderen ist offen, wann …"
-        },
-        {
-          "title": "Weiterbildung im Alter: Warum Lernen nicht mit 50 endet",
-          "link": "https://www.ingenieur.de/karriere/bildung/weiterbildung/weiterbildung-im-alter-warum-lernen-nicht-mit-50-endet/",
-          "published": "2026-09-28T10:30:00+00:00",
-          "summary": "Weiterbildung im Alter stärkt berufliche Chancen, fördert soziale Kontakte und kann den Übergang in den Ruhestand positiv beeinflussen."
-        },
-        {
-          "title": "Schotter, Wiese, Kopfsteinpflaster: Dieses Modul macht Rollstühle geländetauglich",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/schotter-wiese-kopfsteinpflaster-dieses-modul-macht-rollstuhle-gelandetauglich/",
-          "published": "2026-09-28T09:00:00+00:00",
-          "summary": "Auf Schotter, Rasen oder Pflaster bleiben die kleinen Vorderräder manueller Rollstühle schnell stecken. Ein französisches Startup hebt sie einfach an: Sein Elektromodul wiegt unter 9 kg, wird vorn …"
-        },
-        {
-          "title": "100 % recycelt: Porsche testet Akkus mit Lithium aus eigenen Altbatterien",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/100-recycelt-porsche-testet-akkus-mit-lithium-und-kobalt-aus-eigenen-altbatterien/",
-          "published": "2026-09-28T08:30:00+00:00",
-          "summary": "Porsche hat nach eigenen Angaben erstmals Akkuzellen gebaut, in denen Lithium, Nickel, Kobalt und Mangan des Pluspols komplett aus eigenen Altbatterien stammen. Ob sie in Serie taugen, ist offen. Wie …"
-        },
-        {
-          "title": "700-t-Bohrer „Donna Maria“ gräbt sich jetzt unter München durch",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/700-t-bohrer-donna-maria-graebt-sich-jetzt-unter-muenchen-durch/",
-          "published": "2026-09-28T05:34:22+00:00",
-          "summary": "178 m lang, 700 t schwer: Münchens erster Tunnelbohrer der zweiten Stammstrecke baut zunächst einen Rettungsstollen. Die eigentlichen S-Bahn-Röhren folgen später."
         }
       ],
       "error": null
