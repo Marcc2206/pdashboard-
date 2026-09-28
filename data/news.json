@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:11:27+00:00",
+  "generatedAt": "2026-09-28T20:08:29+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "\"Starship\"-Rakete erreicht erstmals Erdumlaufbahn",
-          "link": "https://www.tagesschau.de/wirtschaft/technologie/space-x-raketenstart-100.html",
-          "published": "2026-09-28T18:05:57+00:00",
-          "summary": "Eine \"Starship\"-Rakete ist erstmals in den Orbit gelangt. Dort setzte sie mehrere Satelliten aus. Geplant war, dass die Riesen-Rakete die Erde sechsmal umrundet - wegen technischer Probleme landete …"
+          "title": "Türkei: Comedian Göktaş zu 18 Monaten Haft verurteilt",
+          "link": "https://www.tagesschau.de/ausland/europa/tuerkischer-comedian-kommt-aus-haft-frei-100.html",
+          "published": "2026-09-28T19:53:21+00:00",
+          "summary": "Der türkische Comedian Deniz Göktaş ist zu rund 18 Monaten Haft verurteilt worden - unter anderem wegen Präsidentenbeleidigung. Bis zum Abschluss des Berufungsverfahrens kommt er jedoch auf freien …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-28T17:50:36+00:00",
-          "summary": "Am Dienstag ist es verbreitet sonnig oder nur leicht bewölkt, im Norden und Nordwesten auch dichte Wolken. Am ehesten in Nordseenähe gibt es Schauer. 20 bis 30 Grad."
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657198.html",
+          "published": "2026-09-28T19:40:11+00:00",
+          "summary": ""
         },
         {
-          "title": "Papst in Metz - Eine Rede an Europas Gewissen",
-          "link": "https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html",
-          "published": "2026-09-28T17:30:16+00:00",
-          "summary": "Papst Leo XIV. hat Europa zum Festhalten an Völkerrecht, Dialog und Multilateralismus aufgerufen. Zum Abschluss seiner Frankreich-Reise äußerte er auch Kritik, die in Richtung US-Präsident Trump …"
+          "title": "NRW-Landeschef Wüst trifft überraschend Erdogan in Türkei",
+          "link": "https://www.tagesschau.de/ausland/asien/hendrik-wuest-erdogan-tuerkei-100.html",
+          "published": "2026-09-28T19:05:03+00:00",
+          "summary": "Nordrhein-Westfalens Ministerpräsident Wüst ist für drei Tage zu Besuch in der Türkei. Anlass ist das 65-jährige Jubiläum des Gastarbeiter-Abkommens. Für viele überraschend traf Wüst dort …"
         },
         {
-          "title": "Russland stellt Metros Vermögenswerte unter Zwangsverwaltung",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html",
-          "published": "2026-09-28T17:14:23+00:00",
-          "summary": "Die Metro AG hat nach Beginn des Ukraine-Kriegs sein Geschäft in Russland weitergeführt. Jetzt hat der russische Präsident Putin diesen Teil des Handelskonzerns unter Zwangsverwaltung gestellt. Zuvor …"
+          "title": "Feldwege im Burgenlandkreis, Robbe in Wellington, Taylor Swift bei den MTV Video Music Awards",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10472.html",
+          "published": "2026-09-28T18:55:02+00:00",
+          "summary": ""
         },
         {
-          "title": "Worum Union und SPD bei der Pflegereform ringen",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-pflege-100.html",
-          "published": "2026-09-28T16:30:58+00:00",
-          "summary": "Die Pflegereform hat ein Finanzierungsproblem, darin sind sich Union und SPD einig. Doch bei der Frage nach Lösungen liegen die Koalitionspartner weit auseinander. Gelingt der Durchbruch bis zur …"
+          "title": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
+          "link": "https://www.tagesschau.de/ausland/asien/tuerkei-kriminalisierung-lgbt-100.html",
+          "published": "2026-09-28T18:54:46+00:00",
+          "summary": "In der Türkei gehen die Behörden derzeit verstärkt gegen die LGBTQI-Community vor. Menschenrechtler sprechen von einer Kampagne der Kriminalisierung, Betroffene haben Angst vor noch mehr …"
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "+++ Ukraine-Krieg +++: Russland plant 2027 höchste Militärausgaben seit Kriegsbeginn",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-28T19:42:59+00:00",
+          "summary": "Selenskyj: Russland hat mit Mobilmachung begonnen +++ Polen warnt Bewohner im Osten kurzzeitig vor Angriffen +++ Wadephul stellt Bedingungen für Folgetreffen mit Russland +++ Der Newsblog."
+        },
+        {
+          "title": "Rentendebatte: Klingbeil: Selbstständige und Beamte in gesetzliche Rente",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rentendebatte-klingbeil-selbststaendige-und-beamte-in-gesetzliche-rente/100258064.html",
+          "published": "2026-09-28T18:56:30+00:00",
+          "summary": "Um die Vorschläge der Rentenkommission gibt es eine anhaltende politische Debatte. Was davon wird umgesetzt? Der Vizekanzler setzt sich für eine Maßnahme besonders ein."
+        },
+        {
+          "title": "In der Lausitz: 365 Meter: Höchstes Windrad der Welt erreicht seine Höhe",
+          "link": "https://www.handelsblatt.com/politik/deutschland/in-der-lausitz-365-meter-hoechstes-windrad-der-welt-erreicht-seine-hoehe/100258057.html",
+          "published": "2026-09-28T18:15:16+00:00",
+          "summary": "Das laut Unternehmen Gicon höchste Windrad der Welt steht nun in der Lausitz. Zu Wochenbeginn erreichte der Riese seine endgültige Höhe. Vorher gab es Verzögerungen."
+        },
+        {
           "title": "Türkei: Überraschendes Treffen von Wüst und Erdogan in Ankara",
           "link": "https://www.handelsblatt.com/politik/international/tuerkei-ueberraschendes-treffen-von-wuest-und-erdogan-in-ankara/100257963.html",
           "published": "2026-09-28T17:59:17+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/energie-wie-ein-ganzes-kraftwerk-von-deutschland-in-die-ukraine-gebracht-wird/100253817.html",
           "published": "2026-09-28T17:56:54+00:00",
           "summary": "Über Rüstungshilfen für die Ukraine wird viel gesprochen. Genauso wichtig ist die Hilfe für die Energieversorgung. Es geht um Zehntausende Bauteile – und ein gigantisches Unterfangen."
-        },
-        {
-          "title": "Stahlindustrie: „Mut für Deutschland“ – Merz und Rehlinger loben grünen Stahl",
-          "link": "https://www.handelsblatt.com/politik/deutschland/stahlindustrie-mut-fuer-deutschland-merz-und-rehlinger-loben-gruenen-stahl/100258052.html",
-          "published": "2026-09-28T17:45:00+00:00",
-          "summary": "Wasserstoff statt Kohle: Im Saarland ist der Umbau der Stahlindustrie hin zu klimafreundlicherem grünen Stahl in vollen Gange. Welche Herausforderungen es gibt."
-        },
-        {
-          "title": "Protest vor Wahlen: Tausende demonstrieren in Prag gegen Regierung",
-          "link": "https://www.handelsblatt.com/politik/international/protest-vor-wahlen-tausende-demonstrieren-in-prag-gegen-regierung/100258053.html",
-          "published": "2026-09-28T17:29:32+00:00",
-          "summary": "Die Teilnehmer füllen große Teile des Altstädter Rings und fordern mehr Einsatz für Sicherheit und Demokratie. Was die Organisatoren der Bewegung „Eine Million Augenblicke für Demokratie“ kritisieren."
-        },
-        {
-          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street notiert im Minus – Nvidia-Aktie legt zu",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-nvidia-aktie-legt-zu/100257988.html",
-          "published": "2026-09-28T17:23:11+00:00",
-          "summary": "Steigende Ölpreise sowie steigende Renditen von US-Staatsanleihen belasten weiterhin die Stimmung an der Wall Street. Anleger warten auf einige Termine im Laufe der Handelswoche."
         }
       ],
       "error": null
@@ -172,6 +172,24 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Drei Werke schließen: Das Aus der Biontech-Werke ist ein Armutszeugnis für den Standort",
+          "link": "https://www.wiwo.de/unternehmen/industrie/aus-fuer-drei-biontech-werke-warum-die-schliessung-fuer-den-standort-fatal-ist/100257976.html",
+          "published": "2026-09-28T18:50:00+00:00",
+          "summary": "Biontech schließt seine Werke in Marburg, Idar-Oberstein und Tübingen. Fast 2000 Arbeitsplätze sind betroffen. Das ist gleich dreifach tragisch. Ein Kommentar."
+        },
+        {
+          "title": "Hendrik Holt: „Die Haftbedingungen in Dubai sind bedeutend schlechter als in Deutschland“",
+          "link": "https://www.wiwo.de/erfolg/management/hendrik-holt-droht-dem-betrueger-die-auslieferung-aus-dubai/100257129.html",
+          "published": "2026-09-28T18:42:00+00:00",
+          "summary": "Hendrik Holt droht nach der Festnahme in Dubai ein Auslieferungsverfahren, das Monate dauern kann. Was ihn in der Haft erwartet."
+        },
+        {
+          "title": "Landesbank Nord/LB: Deutschlands zweitwichtigster Bankendeal ist (vorerst) geplatzt",
+          "link": "https://www.wiwo.de/unternehmen/banken/nord-lb-sparkassen-stoppen-anteilsverkauf-an-niedersachsen/100258051.html",
+          "published": "2026-09-28T18:38:00+00:00",
+          "summary": "Niedersachsen wollte seine Macht bei der umstrittenen Landesbank Nord/LB ausbauen. Jetzt haben die Sparkassen die Pläne gestoppt – aus Sorge vor neuen Risiken."
+        },
+        {
           "title": "Immobilienfinanzierung: Das teure Erwachen bei der Anschlussfinanzierung",
           "link": "https://www.wiwo.de/finanzen/immobilien/bauzinsen-was-immobilienbesitzer-bei-der-anschlussfinanzierung-beachten-sollten/100257366.html",
           "published": "2026-09-28T17:38:28+00:00",
@@ -182,24 +200,6 @@
           "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-so-nehmen-anleger-jetzt-durchdacht-gewinne-mit/100256897.html",
           "published": "2026-09-28T17:29:00+00:00",
           "summary": "Viele Anleger haben derzeit hohe Gewinne in ihren Depots – ­und fragen sich, ob sie einen Teil ihrer Aktien ­verkaufen sollten. Diese Strategien können helfen."
-        },
-        {
-          "title": "Raumfahrt: Riesen-Rakete Starship schafft es erstmals in Erdumlaufbahn",
-          "link": "https://www.wiwo.de/unternehmen/industrie/raumfahrt-riesen-rakete-starship-bricht-zu-mehrfacher-erdumrundung-auf/100258008.html",
-          "published": "2026-09-28T17:22:00+00:00",
-          "summary": "SpaceX erreicht mit dem Starship erstmals eine Erdumlaufbahn und setzt Starlink-Satelliten aus. Der Testflug endet jedoch früher als geplant."
-        },
-        {
-          "title": "Lidl Plus: Gericht will Entscheidung bei Klage gegen Lidl-App verkünden",
-          "link": "https://www.wiwo.de/unternehmen/handel/lidl-plus-klage-gegen-lidl-app-gericht-will-entscheidung-verkuenden/100258047.html",
-          "published": "2026-09-28T17:13:51+00:00",
-          "summary": "Nach dem ersten Prozesstermin soll ein Gericht über eine Klage gegen die Lidl-App und deren Rabatt-System entscheiden. Verbraucherschützer hatten geklagt."
-        },
-        {
-          "title": "Hendrik Holt: „Früher galt Dubai als sicherer Rückzugsort – das ändert sich gerade“",
-          "link": "https://www.wiwo.de/erfolg/management/hendrik-holt-droht-dem-betrueger-die-auslieferung-aus-dubai/100257129.html",
-          "published": "2026-09-28T17:12:00+00:00",
-          "summary": "Hendrik Holt droht nach der Festnahme in Dubai ein Auslieferungsverfahren, das Monate dauern kann. Was ihn in der Haft erwartet."
         }
       ],
       "error": null
