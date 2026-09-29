@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:13:25+00:00",
+  "generatedAt": "2026-09-29T02:08:34+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Nach Zwangsräumung in Madrid: Rentnerin darf zurück nach Hause",
+          "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
+          "published": "2026-09-29T00:31:37+00:00",
+          "summary": "Die 87-jährige Rentnerin, die in Madrid aus ihrer Wohnung zwangsgeräumt wurde, soll nach Hause zurückkehren können. Nach landesweiten Protesten will die spanische Regierung heute ein Dekret …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657242.html",
+          "published": "2026-09-29T00:26:03+00:00",
+          "summary": ""
+        },
         {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-81278.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1657236.html",
           "published": "2026-09-28T22:49:58+00:00",
           "summary": ""
-        },
-        {
-          "title": "Die Meinung von Frank Bräutigam, SWR, über die Rolle des Bundesverfassungsgerichts",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1657212.html",
-          "published": "2026-09-28T20:37:17+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Susanne Baer, ehem. Richterin Bundesverfassungsgericht, über die Institution",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1657214.html",
-          "published": "2026-09-28T20:37:16+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "KI: OpenAI streicht Veröffentlichung von neuem KI-Modell",
-          "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
-          "published": "2026-09-28T23:30:07+00:00",
-          "summary": "Das Modell 6.1 Astra hätte eigentlich in den nächsten Tagen oder Wochen herauskommen wollen. Allerdings hat das Modell offenbar zum Teil unerlaubt auf Eigeninitiative gehandelt."
+          "title": "Medienbericht: John Waldron offenbar als Goldman-Sachs-Chef im Gespräch",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/medienbericht-john-waldron-offenbar-als-goldman-sachs-chef-im-gespraech/100258100.html",
+          "published": "2026-09-29T01:49:58+00:00",
+          "summary": "Das „Wall Street Journal“ berichtet über die mögliche Nachfolge von Bankenchef David Solomon. Waldron ist bisher als COO ebi Goldman Sachs tätig."
         },
         {
-          "title": "US-Flugzeugbauer: Software-Problem verzögert Zulassung neuer Boeing-Variante",
-          "link": "https://www.handelsblatt.com/technik/it-internet/us-flugzeugbauer-software-problem-verzoegert-zulassung-neuer-boeing-variante/100258091.html",
-          "published": "2026-09-28T23:30:04+00:00",
-          "summary": "Boeing machte sich Hoffnungen, bald die Zulassung für die größte Variante des wichtigen Modells 737 Max zu bekommen. Doch ein neuer Software-Fehler bringt den Zeitplan erneut durcheinander."
+          "title": "+++ USA +++: FBI-Vize tritt zurück – Berichte über Spannungen mit Patel",
+          "link": "https://www.handelsblatt.com/politik/international/usa-fbi-vize-tritt-zurueck-berichte-ueber-spannungen-mit-patel/29669594.html",
+          "published": "2026-09-29T01:32:00+00:00",
+          "summary": "Bill Gates befürwortet KI-Sicherheitsvorkehrungen +++ Dänische UN-Botschafterin lobt Grönland-Abkommen +++ Trump und Tech-Bosse suchen Balance bei KI-Regulierung +++ Der Newsblog."
         },
         {
-          "title": "Iran-Krieg: Sanktionserleichterungen für Iran? Trump dementiert Bericht",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-sanktionserleichterungen-fuer-iran-trump-dementiert-bericht/100258088.html",
-          "published": "2026-09-28T23:21:13+00:00",
-          "summary": "Wie geht es weiter im US-Krieg gegen den Iran? Im Gespräch sollen Sanktionserleichterungen für Teheran sein. Der US-Präsident bestreitet das."
+          "title": "Ebola im Kongo: Mehr als 8.000 Ebola-Fälle im Kongo - bald 4.000 Tote",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-mehr-als-8000-ebola-faelle-im-kongo-bald-4000-tote/100258110.html",
+          "published": "2026-09-29T01:30:10+00:00",
+          "summary": "Die Zahl der bestätigten Ebola-Erkrankungen im Kongo steigt weiter, auch die Zahl der Todesfälle. Doch in einer besonders betroffenen Region gibt es eine hoffnungsvolle Entwicklung."
+        },
+        {
+          "title": "Raumfahrt: Krisengeplagter Starliner soll wieder ins All fliegen",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-krisengeplagter-starliner-soll-wieder-ins-all-fliegen/100258109.html",
+          "published": "2026-09-29T01:30:05+00:00",
+          "summary": "Rund eine Woche sollten zwei US-Astronauten 2024 an Bord der ISS bleiben - daraus wurden wegen einer Panne des „Starliner“-Raumschiffs neun Monate. Doch die Nasa hält am „Starliner“ fest."
         },
         {
           "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
           "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258087.html",
-          "published": "2026-09-28T22:56:31+00:00",
+          "published": "2026-09-29T01:17:00+00:00",
           "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus."
-        },
-        {
-          "title": "Diplomatie: US-Waffenverkauf an China? Trump dementiert Angebot an Xi",
-          "link": "https://www.handelsblatt.com/politik/international/diplomatie-us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi/100258083.html",
-          "published": "2026-09-28T22:46:06+00:00",
-          "summary": "Hat Trump dem chinesischen Präsidenten Xi tatsächlich ein Angebot gemacht, Waffen aus den USA zu kaufen? Vor laufenden Kameras will der US-Präsident davon nichts wissen."
         }
       ],
       "error": null
