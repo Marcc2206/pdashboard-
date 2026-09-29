@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T02:08:34+00:00",
+  "generatedAt": "2026-09-29T04:09:13+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Nach Zwangsräumung in Madrid: Rentnerin darf zurück nach Hause",
-          "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
-          "published": "2026-09-29T00:31:37+00:00",
-          "summary": "Die 87-jährige Rentnerin, die in Madrid aus ihrer Wohnung zwangsgeräumt wurde, soll nach Hause zurückkehren können. Nach landesweiten Protesten will die spanische Regierung heute ein Dekret …"
+          "title": "Weltwirtschaftsforum in Davos: Festnahme wegen angeblicher Attentatspläne auf Trump",
+          "link": "https://www.tagesschau.de/ausland/europa/wef-trump-verdacht-anschlag-100.html",
+          "published": "2026-09-29T04:00:56+00:00",
+          "summary": "Während des Weltwirtschaftsforums in Davos gingen Ermittler dem Verdacht nach, dass ein Anschlag auf US-Präsident Trump geplant sein könnte. Eine Mitarbeiterin des Forums wurde festgenommen - doch …"
+        },
+        {
+          "title": "Australien: Walkadaver sorgt für Hai-Alarm am Stadtstrand von Perth",
+          "link": "https://www.tagesschau.de/ausland/ozeanien/australien-perth-gestrandeter-wal-hai-100.html",
+          "published": "2026-09-29T03:59:31+00:00",
+          "summary": "Ein Walkadaver sorgt an der Westküste Australiens für Aufregung. Direkt am beliebten Stadtstrand von Perth lockt der tote Buckelwal offenbar auch Haie an. Die Behörden haben reagiert - zwei Wochen …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
           "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657242.html",
-          "published": "2026-09-29T00:26:03+00:00",
+          "published": "2026-09-29T03:13:55+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81278.html",
-          "published": "2026-09-28T22:55:37+00:00",
-          "summary": ""
+          "title": "Verteidigung im All: Bundeswehr und Rüstungsbranche bündeln Kräfte",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/ruestungsindustrie-weltraum-100.html",
+          "published": "2026-09-29T03:00:33+00:00",
+          "summary": "Moderne Streitkräfte sind von Satelliten abhängig - das Weltall wird für die Verteidigung wichtiger. Beim Netzwerk-Event \"Mission-K\" in Kalkar nähern sich Bundeswehr und Rüstungsbranche an. Kommen …"
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12888.html",
-          "published": "2026-09-28T22:53:57+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Regierungskoalition ringt um Reform der Pflegeversicherung",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1657236.html",
-          "published": "2026-09-28T22:49:58+00:00",
-          "summary": ""
+          "title": "Oktoberfest - Das Geschäft mit den Teufelsrad-Videos",
+          "link": "https://www.tagesschau.de/investigativ/br-recherche/oktoberfest-muenchen-teufelsrad-videos-100.html",
+          "published": "2026-09-29T03:00:27+00:00",
+          "summary": "Tausende voyeuristische Teufelsrad-Videos stellen Frauen sexualisiert zur Schau. BR-Recherchen zeigen, wer hinter solchen Videos vom Oktoberfest steckt. Doch rechtlich sind die Akteure meist nicht …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Medienbericht: John Waldron offenbar als Goldman-Sachs-Chef im Gespräch",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/medienbericht-john-waldron-offenbar-als-goldman-sachs-chef-im-gespraech/100258100.html",
-          "published": "2026-09-29T01:49:58+00:00",
-          "summary": "Das „Wall Street Journal“ berichtet über die mögliche Nachfolge von Bankenchef David Solomon. Waldron ist bisher als COO ebi Goldman Sachs tätig."
+          "title": "+++ Bundespolitik +++: Klöckner warnt Störer – bei Eskalation ganze Fraktion raus",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-kloeckner-warnt-stoerer-bei-eskalation-ganze-fraktion-raus/100137034.html",
+          "published": "2026-09-29T03:58:00+00:00",
+          "summary": "Wüst hält Aufstieg der AfD für umkehrbar +++ Klingbeil: Selbstständige und Beamte in gesetzliche Rente +++ Wadephul: Regierung außenpolitisch voll handlungsfähig +++ Der Newsblog."
         },
         {
-          "title": "+++ USA +++: FBI-Vize tritt zurück – Berichte über Spannungen mit Patel",
-          "link": "https://www.handelsblatt.com/politik/international/usa-fbi-vize-tritt-zurueck-berichte-ueber-spannungen-mit-patel/29669594.html",
-          "published": "2026-09-29T01:32:00+00:00",
-          "summary": "Bill Gates befürwortet KI-Sicherheitsvorkehrungen +++ Dänische UN-Botschafterin lobt Grönland-Abkommen +++ Trump und Tech-Bosse suchen Balance bei KI-Regulierung +++ Der Newsblog."
+          "title": "+++ Ukraine-Krieg +++: Selenskyj – Nordkorea will 10.000 weitere Soldaten nach Russland schicken",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-09-29T03:56:00+00:00",
+          "summary": "Putin stockt russische Armee auf 1,55 Millionen Soldaten auf +++ Russland plant 2027 höchste Militärausgaben seit Kriegsbeginn +++ Selenskyj: Russland hat mit Mobilmachung begonnen +++ Der Newsblog."
         },
         {
-          "title": "Ebola im Kongo: Mehr als 8.000 Ebola-Fälle im Kongo - bald 4.000 Tote",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-mehr-als-8000-ebola-faelle-im-kongo-bald-4000-tote/100258110.html",
-          "published": "2026-09-29T01:30:10+00:00",
-          "summary": "Die Zahl der bestätigten Ebola-Erkrankungen im Kongo steigt weiter, auch die Zahl der Todesfälle. Doch in einer besonders betroffenen Region gibt es eine hoffnungsvolle Entwicklung."
+          "title": "+++ Iran-Krieg +++: Emirate bestätigen geheimes Treffen mit Netanjahu",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-emirate-bestaetigen-geheimes-treffen-mit-netanjahu/100136895.html",
+          "published": "2026-09-29T03:52:00+00:00",
+          "summary": "Netanjahu reist heimlich zu Treffen nach Abu Dhabi +++ Trump erwartet diese Woche Gespräche von US-Unterhändlern mit Iran +++ Saudi-Arabiens Außenminister zu Gesprächen in USA +++ Der Newsblog."
         },
         {
-          "title": "Raumfahrt: Krisengeplagter Starliner soll wieder ins All fliegen",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-krisengeplagter-starliner-soll-wieder-ins-all-fliegen/100258109.html",
-          "published": "2026-09-29T01:30:05+00:00",
-          "summary": "Rund eine Woche sollten zwei US-Astronauten 2024 an Bord der ISS bleiben - daraus wurden wegen einer Panne des „Starliner“-Raumschiffs neun Monate. Doch die Nasa hält am „Starliner“ fest."
+          "title": "Nikkei, Yen, Hang Seng: Hohe US-Renditen und Ölpreis belasten Asiens Börsen",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-hohe-us-renditen-und-oelpreis-belasten-asiens-boersen/100258099.html",
+          "published": "2026-09-29T03:48:11+00:00",
+          "summary": "Die Rendite zehnjähriger US-Staatsanleihen erreicht den höchsten Stand seit 19 Jahren. Zinssorgen drücken den Nikkei ins Minus, während der Dollar leicht zulegt."
         },
         {
-          "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258087.html",
-          "published": "2026-09-29T01:17:00+00:00",
-          "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus."
+          "title": "Mehr als Small Talk: Was gute Gespräche wirklich ausmacht",
+          "link": "https://www.handelsblatt.com/technik/medizin/mehr-als-small-talk-was-gute-gespraeche-wirklich-ausmacht/100258143.html",
+          "published": "2026-09-29T03:37:04+00:00",
+          "summary": "„Geht's gut?“, „Wie war das Wochenende?“: Austausch im Alltag bleibt oft oberflächlich. Viele vermissen echte Verbindung. Warum bedeutungsvolle Gespräche wichtig sind - und wie man sie führt."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Es verheimlichte Aktionen: OpenAI zieht bei neuem KI-Modell die Notbremse",
+          "link": "https://www.n-tv.de/wirtschaft/OpenAI-zieht-bei-neuem-KI-Modell-die-Notbremse-id31358572.html",
+          "published": "2026-09-29T03:36:51+00:00",
+          "summary": "OpenAI hat unheimliche Verhaltensweisen an seinem neuen KI-Modell festgestellt: Es koppelte sich von seinen Nutzern los und gab keine ehrliche Auskunft über seine Aktionen. Außerdem unternahm es …"
+        },
         {
           "title": "Anleiherenditen auf Rekordhochs: Hoher Ölpreis würgt Wall Street ab",
           "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-wuergt-Wall-Street-ab-id31358252.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Nivida-stockt-Aktienrueckkauf-in-historischem-Umfang-auf-id31357982.html",
           "published": "2026-09-28T17:08:44+00:00",
           "summary": "Nvidia meldet jedes Quartal Rekordergebnisse. Daran sollen auch die Anteilseigner beteiligt werden. Allerdings nicht in Form von Dividenden, sondern durch Kurspflege. Der Konzern stemmt ein …"
-        },
-        {
-          "title": "Weniger Filialen als gehofft: Kartellamt gibt Edeka grünes Licht für Tegut-Übernahme",
-          "link": "https://www.n-tv.de/wirtschaft/Kartellamt-gibt-Edeka-gruenes-Licht-fuer-Tegut-Uebernahme-id31357653.html",
-          "published": "2026-09-28T15:41:08+00:00",
-          "summary": "300 Tegut-Filialen stehen zum Verkauf. Edeka will mehr als 200 davon übernehmen. Das Kartellamt prüft den Fall und stimmt zu - unter leicht veränderten Bedingungen. Viele Mitarbeiter können damit nun …"
         }
       ],
       "error": null
@@ -173,9 +173,15 @@
       "items": [
         {
           "title": "Die Höhle der Löwen: „Eine Doppelrolle als operative Gründerin und Investorin wäre ein Konflikt gewesen“",
-          "link": "https://www.wiwo.de/erfolg/gruender/die-hoehle-der-loewen-diana-zur-loewen-stellt-eigenes-start-up-artem-oral-care-vor/100257455.html",
-          "published": "2026-09-28T21:00:00+00:00",
+          "link": "https://www.wiwo.de/erfolg/gruender/die-hoehle-der-loewen-influencerin-diana-zur-loewen-praesentiert-eigenes-start-up/100257455.html",
+          "published": "2026-09-29T03:57:00+00:00",
           "summary": "Vor vier Jahren war Influencerin Diana zur Löwen Investorin in der TV-Show, nun kehrt sie als Gründerin zurück. Was hat sie mit der Marke Artem vor?"
+        },
+        {
+          "title": "Arzneimittel: Sind US-Medikamente zu teuer oder sind deutsche Arzneimittel zu billig?",
+          "link": "https://www.wiwo.de/unternehmen/industrie/arzneimittel-betreibt-die-deutsche-pharmabranche-dumping-bei-medikamenten/100257866.html",
+          "published": "2026-09-29T03:55:47+00:00",
+          "summary": "Die deutsche Pharmabranche gerät ins Visier der USA, weil ihre angeblich niedrigen Preise durch die hohen Kosten in Amerika subventioniert werden."
         },
         {
           "title": "Drei Werke schließen: Das Aus der Biontech-Werke ist ein Armutszeugnis für den Standort",
@@ -194,12 +200,6 @@
           "link": "https://www.wiwo.de/unternehmen/banken/nord-lb-sparkassen-stoppen-anteilsverkauf-an-niedersachsen/100258051.html",
           "published": "2026-09-28T18:38:00+00:00",
           "summary": "Niedersachsen wollte seine Macht bei der umstrittenen Landesbank Nord/LB ausbauen. Jetzt haben die Sparkassen die Pläne gestoppt – aus Sorge vor neuen Risiken."
-        },
-        {
-          "title": "Immobilienfinanzierung: Das teure Erwachen bei der Anschlussfinanzierung",
-          "link": "https://www.wiwo.de/finanzen/immobilien/bauzinsen-was-immobilienbesitzer-bei-der-anschlussfinanzierung-beachten-sollten/100257366.html",
-          "published": "2026-09-28T17:38:28+00:00",
-          "summary": "Die hohen Bauzinsen machen auch viele Anschlussfinanzierungen teurer. Was Immobilienbesitzer nun beachten sollten."
         }
       ],
       "error": null
