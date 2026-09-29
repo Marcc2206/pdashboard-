@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:11:09+00:00",
+  "generatedAt": "2026-09-29T18:12:05+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-09-29T18:01:44+00:00",
+          "summary": "Am Mittwoch ist es in der Osthälfte oft sonnig, in der Westhälfte im Verlauf zunehmend wolkig. Bis zum Abend bleibt es aber meist trocken. 19 bis 30 Grad."
+        },
+        {
+          "title": "Klage wegen Lidls Rabatt-App: Oberlandesgericht erklärt sich für nicht zuständig",
+          "link": "https://www.tagesschau.de/video/video-1657640.html",
+          "published": "2026-09-29T16:50:03+00:00",
+          "summary": "Das Oberlandesgericht in Brandenburg an der Havel hat die Klage des Bundesverbands der Verbraucherzentrale abgewiesen. Dieser wirft Lidl vor, mit der App bestimmte Personengruppen zu diskriminieren."
+        },
+        {
+          "title": "Marktbericht: Anleger weiter zuversichtlich",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+          "published": "2026-09-29T16:37:28+00:00",
+          "summary": "Am deutschen Aktienmarkt regiert die Hoffnung. Nachrichten über weitere Verhandlungen im Iran-Konflikt verhalfen dem DAX zu einem leichten Plus."
+        },
+        {
           "title": "Offenbar neuer Militärhafen der Marine in Emden geplant",
           "link": "https://www.tagesschau.de/inland/regional/niedersachsen/in-emden-soll-ein-neuer-militaerhafen-der-marine-entstehen,emden-178.html",
-          "published": "2026-09-29T16:02:13+00:00",
+          "published": "2026-09-29T16:29:07+00:00",
           "summary": "An der Nordsee soll ein neuer Militärhafen der Marine entstehen. Dafür waren mehrere mögliche Standorte im Gespräch. Nun ist offenbar die Entscheidung für Emden in Ostfriesland gefallen."
         },
         {
-          "title": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
-          "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html",
-          "published": "2026-09-29T15:55:24+00:00",
-          "summary": "Der britische Premierminister Burnham hat beim Parteitag von Labour umfassende politische Reformen angekündigt. Sie sollen langfristig die Lebenshaltungskosten senken und das Sozialsystem neu …"
-        },
-        {
-          "title": "Westjordanland: Siedler verhindern Rückkehr vertriebener Palästinenser",
-          "link": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
-          "published": "2026-09-29T15:50:53+00:00",
-          "summary": "Selbst Israels Premier schaltete sich in den Fall ein: Familie Tubassi wurde von jüdischen Siedlern aus ihrem Haus im Westjordanland vertrieben. Sie wehrte sich erfolgreich vor Gericht. Doch auch das …"
-        },
-        {
-          "title": "tagesschau in Einfacher Sprache",
-          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1452.html",
-          "published": "2026-09-29T15:45:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81276.html",
-          "published": "2026-09-29T15:35:30+00:00",
-          "summary": ""
+          "title": "Berliner Linken-Fraktionschefin Eralp war Mitglied der \"Roten Hilfe\"",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/linke-eralp-rote-hilfe-100.html",
+          "published": "2026-09-29T16:17:09+00:00",
+          "summary": "Die \"Rote Hilfe\" leistet juristischen Beistand für linke Aktivisten - und wird vom Verfassungsschutz als linksextremistisch eingestuft. Die Fraktionschefin der Berliner Linken, Eralp, war mehrere …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Märkte Insight: „Go big, or go home“: Die US-Wirtschaft wird immer abhängiger von der Wall Street",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-die-us-wirtschaft-wird-immer-abhaengiger-von-der-wall-street/100257472.html",
-          "published": "2026-09-29T15:54:14+00:00",
-          "summary": "Vermögen, Konsum und Finanzierung des US-Außenhandelsdefizits hängen immer stärker vom Aktienmarkt ab. Ein Rücksetzer könnte die USA in mehrfacher Hinsicht treffen, meint Jakob Blume."
+          "title": "Künstliche Intelligenz: OpenAI stellt Assistenten „Dots“ vor – sowie ein 500-Dollar-Abo",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/kuenstliche-intelligenz-openai-stellt-assistenten-dots-vor-sowie-ein-500-dollar-abo/100258113.html",
+          "published": "2026-09-29T18:10:32+00:00",
+          "summary": "OpenAI hat in San Francisco zur Entwicklerkonferenz geladen. Neue Entwicklungen der KI‑Firma aber werden von der Debatte über Sicherheitsrisiken und die Konkurrenz durch Muse überschattet."
         },
         {
-          "title": "Banken: Helaba plant offenbar IKB-Übernahmeangebot",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-helaba-plant-offenbar-ikb-uebernahmeangebot/100258396.html",
-          "published": "2026-09-29T15:36:30+00:00",
-          "summary": "Die Landesbank Hessen-Thüringen bereitet Insidern zufolge ein verbindliches Angebot für mehr als 600 Millionen Euro für die IKB Deutsche Industriebank vor. Eine endgültige Entscheidung steht noch aus."
+          "title": "Künstliche Intelligenz: Dots: OpenAI stellt KI-Agenten für den Alltag vor",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-dots-openai-stellt-ki-agenten-fuer-den-alltag-vor/100258430.html",
+          "published": "2026-09-29T17:55:10+00:00",
+          "summary": "Der Facebook-Konzern Meta kam mit einem KI-Assistenten für den Alltag dem Vorreiter OpenAI zuvor. Doch nur um wenige Wochen - jetzt kontern die ChatGPT-Macher mit einem eigenen Angebot."
         },
         {
-          "title": "Im Madrider Palacio Real: Macron in Spanien von Royals empfangen - Streit um Abkommen",
-          "link": "https://www.handelsblatt.com/politik/international/im-madrider-palacio-real-macron-in-spanien-von-royals-empfangen-streit-um-abkommen/100258403.html",
-          "published": "2026-09-29T15:35:39+00:00",
-          "summary": "Macron wird in Madrid mit militärischen Ehren empfangen. Doch beim ersten Staatsbesuch eines französischen Präsidenten in Spanien seit 2009 sorgt eine Kontroverse um ein Abkommen für Spannungen."
+          "title": "Fußball: Premier League spricht Man City in Finanz-Affäre schuldig",
+          "link": "https://www.handelsblatt.com/politik/international/fussball-premier-league-spricht-man-city-in-finanz-affaere-schuldig/100258424.html",
+          "published": "2026-09-29T17:36:35+00:00",
+          "summary": "Es ist einer der größten Skandale in der Geschichte des englischen Fußballs. Manchester City wird wegen Verstößen gegen Finanzregeln schuldig gesprochen. Nun drohen dem Club harte Strafen."
         },
         {
-          "title": "Handelsblatt Live: US-Börsenexperte Koch: Die Wall Street stagniert",
-          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-die-wall-street-stagniert/100258401.html",
-          "published": "2026-09-29T15:35:27+00:00",
-          "summary": "Nach einem schwachen Wochenstart und fehlenden Fortschritten in den USA-Iran-Verhandlungen haben sich die Märkte am Dienstag kaum erholt. Anleger schauen laut Markus Koch besonders gespannt auf die …"
+          "title": "Tech-Konzern: Neuer Apple-Chef plant offenbar weitreichenden Konzernumbau",
+          "link": "https://www.handelsblatt.com/technik/it-internet/apple-neuer-konzernchef-plant-offenbar-weitreichenden-umbau/100258423.html",
+          "published": "2026-09-29T17:19:08+00:00",
+          "summary": "Apple-CEO John Ternus plant einem Bericht zufolge großangelegte Umstrukturierungen. Demnach stehen das Management und die die KI-Einbindung im Fokus."
         },
         {
-          "title": "Arbeitsmarkt: Herbstbelebung am Arbeitsmarkt dürfte moderat ausfallen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-herbstbelebung-am-arbeitsmarkt-duerfte-moderat-ausfallen/100258402.html",
-          "published": "2026-09-29T15:30:08+00:00",
-          "summary": "Von Unternehmen kommen weiter Meldungen über bevorstehenden Personalabbau - andererseits scheint die Konjunktur leicht anzuziehen. Auf dem Arbeitsmarkt werden für September keine Ausschläge erwartet."
+          "title": "Rhein-Niedrigwasser: Schiff steckt nicht mehr fest, aber Abfahrt verzögert sich",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rhein-niedrigwasser-schiff-steckt-nicht-mehr-fest-aber-abfahrt-verzoegert-sich/100258338.html",
+          "published": "2026-09-29T17:18:21+00:00",
+          "summary": "Mercedes hat in Düsseldorf ein Sprinter-Werk, ein Teil der Transporter wird über den Rhein verschifft. Doch die Trockenheit machte so einer Lieferung einen Strich durch die Rechnung - vorerst."
         }
       ],
       "error": null
@@ -86,8 +86,20 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Keine Versorgungsprobleme: EU prophezeit sehr \"sehr hohe\" Energiepreise im Winter",
-          "link": "https://www.n-tv.de/wirtschaft/EU-prophezeit-sehr-sehr-hohe-Energiepreise-im-Winter-id31362093.html",
+          "title": "Erstflug in Toulouse: Airbus greift mit A350F Konkurrent Boeing in der Frachtsparte an",
+          "link": "https://www.n-tv.de/wirtschaft/Airbus-greift-mit-A350F-Konkurrent-Boeing-in-der-Frachtsparte-an-id31361929.html",
+          "published": "2026-09-29T17:42:02+00:00",
+          "summary": "Weltweit wächst der Markt für Luftfracht. Ein Grund sind die politischen Krisen und ihre Folgen für Seewege. Profitieren will davon der europäische Flugzeugbauer Airbus. Mit einem neuen Modell sagt …"
+        },
+        {
+          "title": "Abspaltung droht zu eskalieren: Biontech-Gründer verkrachen sich mit eigenem Unternehmen",
+          "link": "https://www.n-tv.de/wirtschaft/Biontech-Gruender-verkrachen-sich-mit-eigenem-Unternehmen-id31361662.html",
+          "published": "2026-09-29T16:38:05+00:00",
+          "summary": "Milliardenverlust, Stellenabbau und ein verheerender Streit an der Spitze: Bei Biontech geht es nach dem Boom ums Eingemachte. Die Gründer wollen neue Wege gehen, pokern mit dem Konzern aber noch um …"
+        },
+        {
+          "title": "Keine Versorgungsprobleme: EU prophezeit \"sehr hohe\" Energiepreise im Winter",
+          "link": "https://www.n-tv.de/wirtschaft/EU-prophezeit-sehr-hohe-Energiepreise-im-Winter-id31362093.html",
           "published": "2026-09-29T15:49:28+00:00",
           "summary": "Die Energiepreise sind angesichts des Kriegs im Nahen Osten hoch. Mit Blick auf den Winter dürfte die Nachfrage in Europa steigen und mit ihr die Preise. Die EU beziffert die Zusatzkosten für die …"
         },
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Mercedes-ruft-Beschaeftigte-zurueck-ins-Buero-id31361389.html",
           "published": "2026-09-29T13:51:35+00:00",
           "summary": "Der Autobauer Mercedes will die Produktivität erhöhen und sieht den besten Ort dafür im Büro. Deswegen wird die Möglichkeit zum Homeoffice weitgehend abgeschafft. Vier Tage Präsenz sollen der neue …"
-        },
-        {
-          "title": "DAX im Chart-Check: Gutes Jahr, starker Schlussspurt?",
-          "link": "https://www.n-tv.de/wirtschaft/boerse/DAX-im-Chart-Check-id30347915.html",
-          "published": "2026-09-29T13:41:00+00:00",
-          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den DAX."
-        },
-        {
-          "title": "Aus für nächstes Traditionshaus: Brauerei Wolters in Braunschweig macht dicht",
-          "link": "https://www.n-tv.de/wirtschaft/Brauerei-Wolters-in-Braunschweig-macht-dicht-id31360994.html",
-          "published": "2026-09-29T13:13:47+00:00",
-          "summary": "Das Brauerei-Sterben geht weiter: Die Wolters-Brauerei in Braunschweig schließt die Tore. Für die Produktionsstätte mit 90 Mitarbeitern fand sich kein Interessent. Das Aus für die Marke Wolters muss …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Anleger weiter zuversichtlich",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+          "published": "2026-09-29T16:37:28+00:00",
+          "summary": "Am deutschen Aktienmarkt regiert die Hoffnung. Nachrichten über weitere Verhandlungen im Iran-Konflikt verhalfen dem DAX zu einem leichten Plus."
+        },
+        {
           "title": "Hitzesommer schlägt sich auch an der Börse nieder",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hitzesommer-100.html",
           "published": "2026-09-29T12:31:39+00:00",
           "summary": "Der auslaufende Hitzesommer hat tiefe Spuren in den Bilanzen vieler Unternehmen hinterlassen. Neben vielen Leidtragenden lassen sich an der Börse vereinzelt aber auch Gewinner des Extremwetters …"
-        },
-        {
-          "title": "Marktbericht: Anleger können sich nicht zum Kauf durchringen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
-          "published": "2026-09-29T10:05:02+00:00",
-          "summary": "Die Ölpreise steigen und belasten die globalen Aktienmärkte. Positive Impulse sind Fehlanzeige. Können neue Hoffnungen auf eine diplomatische Einigung zwischen den USA und Iran den Markt stützen?"
         },
         {
           "title": "Hohe Ethanolpreise: Südzucker erwartet bessere Geschäfte",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Apple: John Ternus plant offenbar weitreichenden Konzernumbau",
+          "link": "https://www.wiwo.de/unternehmen/it/apple-john-ternus-plant-offenbar-weitreichenden-konzernumbau/100258421.html",
+          "published": "2026-09-29T17:19:29+00:00",
+          "summary": "Knapp einem Monat nach seinem Antritt will der neue Apple-Chef scheinbar einiges ändern. Das Unternehmen soll demnach verschlankt werden."
+        },
+        {
+          "title": "Siemens: Der Ex-Schwimmer, der Siemens zur Nummer zwei im KI-Simulationsmarkt machte",
+          "link": "https://www.wiwo.de/unternehmen/industrie/zehn-plus-fuenf-milliarden-dollar-siemens-teure-wette-auf-physische-ki/100257885.html",
+          "published": "2026-09-29T17:03:00+00:00",
+          "summary": "Cedrik Neike dreht Siemens auf links, um den Markt für physische Künstliche Intelligenz zu erobern. Der Plan geht auf – nur nicht in Deutschland."
+        },
+        {
+          "title": "Inflation: Rekord-Spritpreise könnten Inflation über 3 Prozent treiben",
+          "link": "https://www.wiwo.de/politik/konjunktur/inflation-rekord-spritpreise-koennten-inflation-ueber-3-prozent-treiben/100258413.html",
+          "published": "2026-09-29T16:30:37+00:00",
+          "summary": "Der anhaltende Iran-Krieg sorgt für hohe Spritpreise. Das treibt die Inflation, die Verbraucher auch an der Supermarktkasse immer stärker zu spüren bekommen. Wird der Tankrabatt helfen?"
+        },
+        {
+          "title": "US-Konjunktur: US-Verbrauchervertrauen sinkt auf tiefsten Stand seit 2014",
+          "link": "https://www.wiwo.de/politik/konjunktur/us-konjunktur-us-verbrauchervertrauen-sinkt-auf-tiefsten-stand-seit-2014/100258410.html",
+          "published": "2026-09-29T16:13:27+00:00",
+          "summary": "Kurz vor den Zwischenwahlen verschlechtert sich das Verbrauchervertrauen in den USA deutlich. Grund dafür sind steigende Preise und der Iran-Krieg."
+        },
+        {
           "title": "Pflegeversicherung: Die SPD verhält sich wie eine Oppositionspartei – aber nicht sozial",
           "link": "https://www.wiwo.de/politik/deutschland/streit-um-die-pflegeversicherung-die-spd-verhaelt-sich-wie-eine-oppositionspartei/100258297.html",
           "published": "2026-09-29T16:03:14+00:00",
           "summary": "Der kleinere Koalitionspartner rebelliert in letzter Minute gegen die Sparpläne. Doch weder sagt die SPD, woher genug Geld kommen soll, noch sind ihre Forderungen gerecht. Ein Kommentar."
-        },
-        {
-          "title": "Stellantis: Stellantis stoppt Produktion wegen fehlender Batterien",
-          "link": "https://www.wiwo.de/unternehmen/auto/stellantis-stellantis-stoppt-produktion-wegen-fehlender-batterien/100258384.html",
-          "published": "2026-09-29T15:49:20+00:00",
-          "summary": "In drei Werken in Frankreich produziert der Autohersteller vorübergehend nicht. Die Nachfrage nach weitreichenden Elektroautos ist zu hoch."
-        },
-        {
-          "title": "BASF greift nach Evonik: Warum BASF trotz Abfuhr an Evonik festhalten dürfte",
-          "link": "https://www.wiwo.de/finanzen/boerse/basf-greift-nach-evonik-warum-basf-trotz-abfuhr-an-evonik-festhalten-duerfte/100258370.html",
-          "published": "2026-09-29T15:42:04+00:00",
-          "summary": "Der Essener Spezialchemiekonzern Evonik lässt den Ludwigshafener Konkurrenten BASF abblitzen – vorerst. Vom Tisch ist der Deal noch nicht."
-        },
-        {
-          "title": "A350F: Dieser neue Frachtflieger trifft Boeings empfindlichste Stelle",
-          "link": "https://www.wiwo.de/unternehmen/industrie/airbus-a350f-startet-der-neue-frachtjet-fordert-boeing-heraus/100258354.html",
-          "published": "2026-09-29T15:23:00+00:00",
-          "summary": "Zum ersten Mal hebt ein Airbus A350F ab. Der neue Frachtjet soll dem US-Rivalen Marktanteile abjagen – wenn auch verspätet."
-        },
-        {
-          "title": "100 Jahre WirtschaftsWoche: Wie der Vorläufer der WirtschaftsWoche gegen Hitler anschrieb",
-          "link": "https://www.wiwo.de/politik/konjunktur/100-jahre-wirtschaftswoche-wie-der-vorlaeufer-der-wirtschaftswoche-gegen-hitler-anschrieb/100249128.html",
-          "published": "2026-09-29T15:21:00+00:00",
-          "summary": "Standhaft für liberales Denken: Der „Deutsche Volkswirt“, der Vorläufer der WirtschaftsWoche, prägte in der Weimarer Republik die ökonomische Debatte. Ein Gastbeitrag."
         }
       ],
       "error": null
@@ -210,6 +210,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Dieser Roboter hat keinen Motor, lebende Muskelzellen treiben ihn an",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/biotechnik/dieser-roboter-hat-keinen-motor-lebende-muskelzellen-treiben-ihn-an/",
+          "published": "2026-09-29T17:18:01+00:00",
+          "summary": "Eine einzige dünne Lage Muskelzellen treibt einen neuen Biohybrid-Roboter an. Licht steuert seine Flossen und damit die Schwimmrichtung."
+        },
         {
           "title": "SMR: Bremsspuren beim Hochlauf",
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/world-nuclear-industry-status-report-2026-bremsspuren-beim-smr-hochlauf/",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/742-wirkungsgrad-bayerisches-start-up-baut-megafactory-fur-kraftwerke-die-auch-wasserstoff-erzeugen/",
           "published": "2026-09-29T12:00:23+00:00",
           "summary": "Reverions reversible Container-Kraftwerke erzeugen Strom aus Biogas, wandeln Überschussstrom in Wasserstoff um und scheiden CO₂ ab. Jetzt hat das Start-up 175 Mio. $ eingesammelt und will seine …"
-        },
-        {
-          "title": "E-Lkw oder Diesel? Eine neue Rechnung kommt zu einem klaren Kostenvorteil",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/prima-sparen-mit-batt-lkw-kritische-einordnung-einer-modellrechnung/",
-          "published": "2026-09-29T12:00:00+00:00",
-          "summary": "Elektro-Lkw sind im Fernverkehr laut T&E trotz höherer Anschaffungskosten bis zu 85.000 € günstiger als Diesel – dank Maut und Stromkosten."
         }
       ],
       "error": null
