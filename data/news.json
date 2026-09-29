@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:11:45+00:00",
+  "generatedAt": "2026-09-29T16:11:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Offenbar neuer Militärhafen der Marine in Emden geplant",
+          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/in-emden-soll-ein-neuer-militaerhafen-der-marine-entstehen,emden-178.html",
+          "published": "2026-09-29T16:02:13+00:00",
+          "summary": "An der Nordsee soll ein neuer Militärhafen der Marine entstehen. Dafür waren mehrere mögliche Standorte im Gespräch. Nun ist offenbar die Entscheidung für Emden in Ostfriesland gefallen."
+        },
+        {
+          "title": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
+          "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html",
+          "published": "2026-09-29T15:55:24+00:00",
+          "summary": "Der britische Premierminister Burnham hat beim Parteitag von Labour umfassende politische Reformen angekündigt. Sie sollen langfristig die Lebenshaltungskosten senken und das Sozialsystem neu …"
+        },
+        {
+          "title": "Westjordanland: Siedler verhindern Rückkehr vertriebener Palästinenser",
+          "link": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
+          "published": "2026-09-29T15:50:53+00:00",
+          "summary": "Selbst Israels Premier schaltete sich in den Fall ein: Familie Tubassi wurde von jüdischen Siedlern aus ihrem Haus im Westjordanland vertrieben. Sie wehrte sich erfolgreich vor Gericht. Doch auch das …"
+        },
+        {
+          "title": "tagesschau in Einfacher Sprache",
+          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1452.html",
+          "published": "2026-09-29T15:45:42+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81266.html",
-          "published": "2026-09-29T14:08:45+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81276.html",
+          "published": "2026-09-29T15:35:30+00:00",
           "summary": ""
-        },
-        {
-          "title": "Heimatschutzdivision trainiert Schutz kritischer Infrastruktur",
-          "link": "https://www.tagesschau.de/video/video-1657542.html",
-          "published": "2026-09-29T14:08:35+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Estland macht Russland für Brandanschlag verantwortlich",
-          "link": "https://www.tagesschau.de/ausland/estland-brandanschlag-russland-nato-ostflanke-100.html",
-          "published": "2026-09-29T13:44:47+00:00",
-          "summary": "Estland wirft Russland Sabotage vor: Hinter einem Brandanschlag auf eine Rüstungsfirma in Tallinn steckt nach neuesten Erkenntnissen Russland. NATO-Chef Rutte rief die Bündnismitglieder auf, ruhig zu …"
-        },
-        {
-          "title": "Nach schweren Drohnenangriffen: Saudi-arabische Ölpipeline offenbar wieder in Betrieb",
-          "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-ost-west-pipeline-100.html",
-          "published": "2026-09-29T13:35:10+00:00",
-          "summary": "Saudi-Arabien hat laut Medienberichten die Ölexporte über die Ost-West-Pipeline wieder aufgenommen. Das Land hatte vorübergehend den Betrieb eingestellt, da die Pipeline bei Angriffen beschädigt …"
-        },
-        {
-          "title": "Haushalte sind so reich wie nie - Vermögen ungleich verteilt",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html",
-          "published": "2026-09-29T13:17:47+00:00",
-          "summary": "Der KI-Boom an den Börsen hat das weltweite Geldvermögen im vergangenen Jahr auf einen Rekordwert getrieben. Die privaten Haushalte besaßen zum Jahresende ein Vermögen von 268,4 Billionen Euro."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Homeoffice: Beschäftigte bei Mercedes müssen künftig wieder vier Tage pro Woche ins Büro",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/homeoffice-mercedes-mitarbeiter-muessen-wieder-vier-tage-pro-woche-ins-buero/100258286.html",
-          "published": "2026-09-29T14:02:32+00:00",
-          "summary": "Der Dax-Konzern erwartet eine höhere Produktivität durch mehr Anwesenheit. Mercedes-Chef Ola Källenius wäre am liebsten noch einen Schritt weiter gegangen."
+          "title": "Märkte Insight: „Go big, or go home“: Die US-Wirtschaft wird immer abhängiger von der Wall Street",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-die-us-wirtschaft-wird-immer-abhaengiger-von-der-wall-street/100257472.html",
+          "published": "2026-09-29T15:54:14+00:00",
+          "summary": "Vermögen, Konsum und Finanzierung des US-Außenhandelsdefizits hängen immer stärker vom Aktienmarkt ab. Ein Rücksetzer könnte die USA in mehrfacher Hinsicht treffen, meint Jakob Blume."
         },
         {
-          "title": "Luxushotel: Insolvenzverwalter: „Die Zukunft des Hotels liegt in den Händen der Behörden“",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/luxushotel-die-zukunft-des-hotels-liegt-in-den-haenden-der-behoerden/100257449.html",
-          "published": "2026-09-29T13:59:34+00:00",
-          "summary": "Das ehemalige Hilton Frankfurt Gravenbruch ist insolvent, der Eigentümer wegen Iran-Verbindungen von der EU und den USA sanktioniert. Was wird aus dem Luxushotel? Die Uhr tickt."
+          "title": "Banken: Helaba plant offenbar IKB-Übernahmeangebot",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-helaba-plant-offenbar-ikb-uebernahmeangebot/100258396.html",
+          "published": "2026-09-29T15:36:30+00:00",
+          "summary": "Die Landesbank Hessen-Thüringen bereitet Insidern zufolge ein verbindliches Angebot für mehr als 600 Millionen Euro für die IKB Deutsche Industriebank vor. Eine endgültige Entscheidung steht noch aus."
         },
         {
-          "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-          "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-noch-karrierechancen-bieten/100235558.html",
-          "published": "2026-09-29T13:53:00+00:00",
-          "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten."
+          "title": "Im Madrider Palacio Real: Macron in Spanien von Royals empfangen - Streit um Abkommen",
+          "link": "https://www.handelsblatt.com/politik/international/im-madrider-palacio-real-macron-in-spanien-von-royals-empfangen-streit-um-abkommen/100258403.html",
+          "published": "2026-09-29T15:35:39+00:00",
+          "summary": "Macron wird in Madrid mit militärischen Ehren empfangen. Doch beim ersten Staatsbesuch eines französischen Präsidenten in Spanien seit 2009 sorgt eine Kontroverse um ein Abkommen für Spannungen."
         },
         {
-          "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-          "link": "https://www.handelsblatt.com/karriere/karriere-wie-veraendert-ki-den-bewerbungsprozess-fuer-jobsuchende-01/100248546.html",
-          "published": "2026-09-29T13:52:00+00:00",
-          "summary": "Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als durchaus hilfreich. Aber wie ist es für die Bewerber am Bildschirm?"
+          "title": "Handelsblatt Live: US-Börsenexperte Koch: Die Wall Street stagniert",
+          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-die-wall-street-stagniert/100258401.html",
+          "published": "2026-09-29T15:35:27+00:00",
+          "summary": "Nach einem schwachen Wochenstart und fehlenden Fortschritten in den USA-Iran-Verhandlungen haben sich die Märkte am Dienstag kaum erholt. Anleger schauen laut Markus Koch besonders gespannt auf die …"
         },
         {
-          "title": "Steuern: Wie Sie Ihre Erbschaft anzeigen müssen und wann Strafen drohen",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/finanzamt-welche-regeln-sollten-sie-bei-der-erbschaftsteuererklaerung-beachten-01/100233322.html",
-          "published": "2026-09-29T13:51:00+00:00",
-          "summary": "Schon um die Frage, wann man eine Erbschaftsteuererklärung erstellen muss, gibt es viel Unsicherheit. Komplex kann es mit Immobilien werden. Diese zehn Fehler sollten Sie vermeiden."
+          "title": "Arbeitsmarkt: Herbstbelebung am Arbeitsmarkt dürfte moderat ausfallen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-herbstbelebung-am-arbeitsmarkt-duerfte-moderat-ausfallen/100258402.html",
+          "published": "2026-09-29T15:30:08+00:00",
+          "summary": "Von Unternehmen kommen weiter Meldungen über bevorstehenden Personalabbau - andererseits scheint die Konjunktur leicht anzuziehen. Auf dem Arbeitsmarkt werden für September keine Ausschläge erwartet."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Keine Versorgungsprobleme: EU prophezeit sehr \"sehr hohe\" Energiepreise im Winter",
+          "link": "https://www.n-tv.de/wirtschaft/EU-prophezeit-sehr-sehr-hohe-Energiepreise-im-Winter-id31362093.html",
+          "published": "2026-09-29T15:49:28+00:00",
+          "summary": "Die Energiepreise sind angesichts des Kriegs im Nahen Osten hoch. Mit Blick auf den Winter dürfte die Nachfrage in Europa steigen und mit ihr die Preise. Die EU beziffert die Zusatzkosten für die …"
+        },
+        {
+          "title": "Brutale Überstunden-Kultur: Chinas Arbeiter beschweren sich bei der EU",
+          "link": "https://www.n-tv.de/wirtschaft/Chinas-Arbeiter-beschweren-sich-bei-der-EU-id31348653.html",
+          "published": "2026-09-29T14:46:21+00:00",
+          "summary": "In China sind Überstunden bis in die Nacht verboten. Eigentlich. Die meisten Unternehmen lassen ihre Angestellten länger schuften. Weil Protest im eigenen Land nichts bringt, versuchen die …"
+        },
         {
           "title": "Homeoffice fast gestrichen: Mercedes ruft Beschäftigte zurück ins Büro",
           "link": "https://www.n-tv.de/wirtschaft/Mercedes-ruft-Beschaeftigte-zurueck-ins-Buero-id31361389.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Brauerei-Wolters-in-Braunschweig-macht-dicht-id31360994.html",
           "published": "2026-09-29T13:13:47+00:00",
           "summary": "Das Brauerei-Sterben geht weiter: Die Wolters-Brauerei in Braunschweig schließt die Tore. Für die Produktionsstätte mit 90 Mitarbeitern fand sich kein Interessent. Das Aus für die Marke Wolters muss …"
-        },
-        {
-          "title": "Cosco greift nach Logistiker : Bund will weitere chinesische Übernahme am Hamburger Hafen verhindern",
-          "link": "https://www.n-tv.de/wirtschaft/Bund-will-weitere-chinesische-Uebernahme-am-Hamburger-Hafen-verhindern-id31360969.html",
-          "published": "2026-09-29T12:53:10+00:00",
-          "summary": "Die umstrittene chinesische Staatsreederei Cosco hegt Übernahmepläne für eine Hamburger Spedition. Das Kartellamt hat keine Bedenken, die Bundesregierung jede Menge. Denn der Mittelständler fährt auf …"
-        },
-        {
-          "title": "Verzicht auf Millioneneinnahmen: Italiens große Tankstellenbetreiber führen freiwilligen Preisdeckel ein",
-          "link": "https://www.n-tv.de/wirtschaft/Italiens-grosse-Tankstellenbetreiber-fuehren-freiwilligen-Preisdeckel-ein-id31360270.html",
-          "published": "2026-09-29T11:54:01+00:00",
-          "summary": "Die hohen Kraftstoffpreise beschäftigen auch die italienische Politik. Doch statt eines staatlichen Preisdeckels belässt es die Regierung bei einem Appell an die Mineralölbranche. Die senkt nun teils …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Mehrjähriger Finanzrahmen der EU: Die Nettozahler verlangen Kürzungen des EU-Budgets",
-          "link": "https://www.wiwo.de/politik/europa/eu-haushalt-wieso-die-nettozahler-kuerzungen-des-eu-budgets-verlangen/100258346.html",
-          "published": "2026-09-29T13:45:29+00:00",
-          "summary": "Die sogenannten „sparsamen“ Länder Europas warnen in einem Brief vor der Überforderung der Zahlungsbereitschaft – und verlangen neue Prioritäten für den EU-Haushalt."
+          "title": "Pflegeversicherung: Die SPD verhält sich wie eine Oppositionspartei – aber nicht sozial",
+          "link": "https://www.wiwo.de/politik/deutschland/streit-um-die-pflegeversicherung-die-spd-verhaelt-sich-wie-eine-oppositionspartei/100258297.html",
+          "published": "2026-09-29T16:03:14+00:00",
+          "summary": "Der kleinere Koalitionspartner rebelliert in letzter Minute gegen die Sparpläne. Doch weder sagt die SPD, woher genug Geld kommen soll, noch sind ihre Forderungen gerecht. Ein Kommentar."
         },
         {
-          "title": "Krankenversicherung: Die beste private Krankenversicherung für Beamte",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/ranking-2026-das-ist-die-beste-private-krankenversicherung-fuer-beamte/100257984.html",
-          "published": "2026-09-29T13:45:14+00:00",
-          "summary": "Der Staat übernimmt für Beamte einen Großteil der Krankheitskosten. Für den Rest schließen sie in der Regel eine private Krankenversicherung ab. Die WiWo kürt die besten Policen."
+          "title": "Stellantis: Stellantis stoppt Produktion wegen fehlender Batterien",
+          "link": "https://www.wiwo.de/unternehmen/auto/stellantis-stellantis-stoppt-produktion-wegen-fehlender-batterien/100258384.html",
+          "published": "2026-09-29T15:49:20+00:00",
+          "summary": "In drei Werken in Frankreich produziert der Autohersteller vorübergehend nicht. Die Nachfrage nach weitreichenden Elektroautos ist zu hoch."
         },
         {
-          "title": "Bundesregierung: Gehen Sie weiter, es gibt hier leider nichts zu sehen!",
-          "link": "https://www.wiwo.de/politik/deutschland/robert-habeck-und-eine-neue-partei-was-rettet-die-demokratische-mitte/100258180.html",
-          "published": "2026-09-29T13:43:29+00:00",
-          "summary": "Es braucht keine neuen Parteien, um die Misere der politischen Mitte zu beenden. Es braucht bessere Politiker mit Leidenschaft und Botschaft. Ein Kommentar."
+          "title": "BASF greift nach Evonik: Warum BASF trotz Abfuhr an Evonik festhalten dürfte",
+          "link": "https://www.wiwo.de/finanzen/boerse/basf-greift-nach-evonik-warum-basf-trotz-abfuhr-an-evonik-festhalten-duerfte/100258370.html",
+          "published": "2026-09-29T15:42:04+00:00",
+          "summary": "Der Essener Spezialchemiekonzern Evonik lässt den Ludwigshafener Konkurrenten BASF abblitzen – vorerst. Vom Tisch ist der Deal noch nicht."
         },
         {
-          "title": "Siemens: Der Ex-Schwimmer, der Siemens zur Nummer zwei im KI-Simulationsmarkt machte",
-          "link": "https://www.wiwo.de/unternehmen/industrie/zehn-plus-fuenf-milliarden-dollar-siemens-teure-wette-auf-physische-ki/100257885.html",
-          "published": "2026-09-29T13:35:51+00:00",
-          "summary": "Cedrik Neike dreht Siemens auf links, um den Markt für physische Künstliche Intelligenz zu erobern. Der Plan geht auf – nur nicht in Deutschland."
+          "title": "A350F: Dieser neue Frachtflieger trifft Boeings empfindlichste Stelle",
+          "link": "https://www.wiwo.de/unternehmen/industrie/airbus-a350f-startet-der-neue-frachtjet-fordert-boeing-heraus/100258354.html",
+          "published": "2026-09-29T15:23:00+00:00",
+          "summary": "Zum ersten Mal hebt ein Airbus A350F ab. Der neue Frachtjet soll dem US-Rivalen Marktanteile abjagen – wenn auch verspätet."
         },
         {
-          "title": "Vermögensverwalter: Finma sieht schwere Mängel bei Julius Bär wegen Signa und Russland",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/rene-benko-finma-sieht-schwere-maengel-bei-julius-baer-wegen-signa-und-russland/100258321.html",
-          "published": "2026-09-29T12:55:11+00:00",
-          "summary": "Mit einer Rüge endet das Verfahren der Aufsicht gegen Julius Bär. Nicht zum ersten Mal hat die Finma gegen den Vermögensverwalter ermittelt."
+          "title": "100 Jahre WirtschaftsWoche: Wie der Vorläufer der WirtschaftsWoche gegen Hitler anschrieb",
+          "link": "https://www.wiwo.de/politik/konjunktur/100-jahre-wirtschaftswoche-wie-der-vorlaeufer-der-wirtschaftswoche-gegen-hitler-anschrieb/100249128.html",
+          "published": "2026-09-29T15:21:00+00:00",
+          "summary": "Standhaft für liberales Denken: Der „Deutsche Volkswirt“, der Vorläufer der WirtschaftsWoche, prägte in der Weimarer Republik die ökonomische Debatte. Ein Gastbeitrag."
         }
       ],
       "error": null
@@ -211,10 +211,10 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Ein Signal aus der Tiefe des Universums und eine Spur zur Dunklen Energie",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/ein-signal-aus-der-tiefe-des-universums-und-eine-spur-zur-dunklen-energie-2/",
-          "published": "2026-09-29T13:58:24+00:00",
-          "summary": "Ein Radiosignal aus rund 8 Mrd. Jahren Entfernung könnte helfen, die Expansion des Universums und die Dunkle Energie besser zu verstehen."
+          "title": "SMR: Bremsspuren beim Hochlauf",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/world-nuclear-industry-status-report-2026-bremsspuren-beim-smr-hochlauf/",
+          "published": "2026-09-29T16:00:00+00:00",
+          "summary": "Der Hochlauf kleiner modularer Reaktoren stockt. Während Kernkraft kaum wächst, überholt Solar sie bei der Stromerzeugung."
         },
         {
           "title": "Roboterarm statt Fahrer: So will VW Rollstühle im autonomen Shuttle sichern",
