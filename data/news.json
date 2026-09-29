@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T20:10:11+00:00",
+  "generatedAt": "2026-09-29T22:09:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Kasachischer Präsident beim Kanzler: Öl, Rohstoffe und Putin",
-          "link": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
-          "published": "2026-09-29T19:44:05+00:00",
-          "summary": "Mehr Öl aus Kasachstan - beim Besuch von Präsident Tokajew in Berlin betonte Kanzler Merz das deutsche Interesse. Generell soll die wirtschaftliche Zusammenarbeit enger werden. Auch der russische …"
-        },
-        {
-          "title": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
-          "link": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
-          "published": "2026-09-29T19:11:36+00:00",
-          "summary": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisheriger …"
-        },
-        {
-          "title": "Premier League spricht Manchester City in Finanzaffäre schuldig",
-          "link": "https://www.sportschau.de/fussball/premier-league/premier-league-spricht-man-city-in-finanz-affaere-schuldig,manchester-city-statement-premier-league-100.html",
-          "published": "2026-09-29T19:08:57+00:00",
-          "summary": "Die englische Premier League hat offiziell mitgeteilt, dass Manchester City \"systematisch\" mit Scheinverträgen Finanzregeln gebrochen hat. So seien Kosten von etwa einer Milliarde Euro verschleiert …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81274.html",
-          "published": "2026-09-29T18:30:38+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12898.html",
+          "published": "2026-09-29T21:18:14+00:00",
           "summary": ""
         },
         {
-          "title": "Europas lange Suche nach einem Gegenkandidaten für Infantino",
-          "link": "https://www.sportschau.de/fussball/lange-suche-nach-einem-gegenkandidaten-fuer-infantino,efc-generalversammlung-kopenhagen-fifa-100.html",
-          "published": "2026-09-29T18:26:10+00:00",
-          "summary": "Europas Fußballelite hat sich in Kopenhagen getroffen. UEFA-Präsident Ceferin griff FIFA-Chef Infantino erneut offen an. Doch eine Antwort auf die Frage nach einem Gegenkandidaten findet Europa …"
+          "title": "Britischer Premier Burnham kündigt Neuanfang mit Sozialreformen an",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1657800.html",
+          "published": "2026-09-29T20:35:56+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Regierungsbildung in Sachsen-Anhalt: AfD-Kandidat Siegmund will Ministerpräsident werden",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1657798.html",
+          "published": "2026-09-29T20:31:11+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Ilanit Spinner, ARD Berlin, über das Krisentreffen zur Pflegereform",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1657796.html",
+          "published": "2026-09-29T20:24:11+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
+          "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
+          "published": "2026-09-29T20:19:59+00:00",
+          "summary": "Burnham könnte für Labour ein Wendepunkt sein: Seine Nahbarkeit kommt an, mit ihm als Premier wird die Partei wieder beliebter. Nach kleineren Projekten sollen nun große Reformen zeigen, dass er auch …"
         }
       ],
       "error": null
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-ki-firmen-sollen-sich-selbst-beaufsichtigen/100258448.html",
+          "published": "2026-09-29T20:50:24+00:00",
+          "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Donald Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen."
+        },
         {
           "title": "Nordafrika: In Marokko übernimmt erstmals eine Frau die Regierungsspitze",
           "link": "https://www.handelsblatt.com/politik/international/nordafrika-in-marokko-uebernimmt-erstmals-eine-frau-die-regierungsspitze/100258440.html",
@@ -65,16 +71,10 @@
           "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus."
         },
         {
-          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street vor Jobdaten und KI-Treffen kaum verändert",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-vor-jobdaten-und-ki-treffen-kaum-veraendert/100258245.html",
+          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt nach KI-Treffen leicht im Minus",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-nach-ki-treffen-leicht-im-minus/100258245.html",
           "published": "2026-09-29T18:58:21+00:00",
-          "summary": "Die Reparatur einer wichtigen Pipeline und mögliche Verhandlungen lassen den Ölpreis fallen. Die Aktienkurse dagegen stagnieren nahezu, während Trump und Tech-Chefs über KI-Risiken beraten."
-        },
-        {
-          "title": "Anleihen: Rendite von 30-jährigen US-Bonds so hoch wie zuletzt 2002 – „Spielraum für weitere Zinsanstiege“",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-rendite-von-30-jaehrigen-us-bonds-jetzt-so-hoch-wie-zuletzt-2002/100258428.html",
-          "published": "2026-09-29T18:30:50+00:00",
-          "summary": "Das Renditeniveau verschiebt sich bei US-Staatsanleihen immer weiter nach oben. Auf dem aktuellen Stand muss aber noch nicht Schluss sein, sagen die Analysten einer US-Großbank."
+          "summary": "Die Reparatur einer wichtigen Pipeline und mögliche Verhandlungen lassen den Ölpreis fallen. Doch die Stimmung bleibt gedrückt, während Trump und Tech-Chefs über KI-Risiken beraten."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Verbrauchervertrauen kühlt ab: Wall Street geht in den Wartemodus",
+          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-geht-in-den-Wartemodus-id31362699.html",
+          "published": "2026-09-29T21:05:45+00:00",
+          "summary": "Das Vertrauen der US-Verbraucher rangiert auf dem tiefsten Stand seit zwölf Jahren. Auch steigende Anleiherenditen verunsichern die Anleger. Ein abwiegelnder Kommentar eines Fed-Bankers lässt jedoch …"
+        },
         {
           "title": "Erstflug in Toulouse: Airbus greift mit A350F Konkurrent Boeing in der Frachtsparte an",
           "link": "https://www.n-tv.de/wirtschaft/Airbus-greift-mit-A350F-Konkurrent-Boeing-in-der-Frachtsparte-an-id31361929.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Chinas-Arbeiter-beschweren-sich-bei-der-EU-id31348653.html",
           "published": "2026-09-29T14:46:21+00:00",
           "summary": "In China sind Überstunden bis in die Nacht verboten. Eigentlich. Die meisten Unternehmen lassen ihre Angestellten länger schuften. Weil Protest im eigenen Land nichts bringt, versuchen die …"
-        },
-        {
-          "title": "Homeoffice fast gestrichen: Mercedes ruft Beschäftigte zurück ins Büro",
-          "link": "https://www.n-tv.de/wirtschaft/Mercedes-ruft-Beschaeftigte-zurueck-ins-Buero-id31361389.html",
-          "published": "2026-09-29T13:51:35+00:00",
-          "summary": "Der Autobauer Mercedes will die Produktivität erhöhen und sieht den besten Ort dafür im Büro. Deswegen wird die Möglichkeit zum Homeoffice weitgehend abgeschafft. Vier Tage Präsenz sollen der neue …"
         }
       ],
       "error": null
