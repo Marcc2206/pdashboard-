@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:09:10+00:00",
+  "generatedAt": "2026-09-29T00:13:25+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,9 +8,21 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81278.html",
+          "published": "2026-09-28T22:55:37+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12888.html",
-          "published": "2026-09-28T21:15:51+00:00",
+          "published": "2026-09-28T22:53:57+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Regierungskoalition ringt um Reform der Pflegeversicherung",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1657236.html",
+          "published": "2026-09-28T22:49:58+00:00",
           "summary": ""
         },
         {
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1657214.html",
           "published": "2026-09-28T20:37:16+00:00",
           "summary": ""
-        },
-        {
-          "title": "75-jähriges Bestehen des Bundesverfassungsgerichts",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1657210.html",
-          "published": "2026-09-28T20:32:00+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Regierungskoalition ringt um Reform der Pflegeversicherung",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1657208.html",
-          "published": "2026-09-28T20:27:58+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "KI: AMD kauft World Labs für rund acht Milliarden Dollar",
-          "link": "https://www.handelsblatt.com/technik/it-internet/ki-amd-kauft-world-labs-fuer-rund-acht-milliarden-dollar/100258070.html",
-          "published": "2026-09-28T20:35:10+00:00",
-          "summary": "Der Chiphersteller expandiert mit dem Kauf eines Teams aus führenden KI-Forschern und deren Modellen. AMD nimmt damit auch künftige Hardware-Projekte in den Blick."
+          "title": "KI: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+          "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
+          "published": "2026-09-28T23:30:07+00:00",
+          "summary": "Das Modell 6.1 Astra hätte eigentlich in den nächsten Tagen oder Wochen herauskommen wollen. Allerdings hat das Modell offenbar zum Teil unerlaubt auf Eigeninitiative gehandelt."
         },
         {
-          "title": "Künstliche Intelligenz: Papst fordert breiten Dialog über KI",
-          "link": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-papst-fordert-breiten-dialog-ueber-ki/100258068.html",
-          "published": "2026-09-28T20:14:42+00:00",
-          "summary": "Auf dem Heimflug aus Frankreich redet Leo XIV. über ein Thema, das ihm am Herzen liegt. Bei allen Sorgen über Risiken von KI versichert er: „Ich schlafe nachts gut.“ Damit belässt er es aber nicht."
+          "title": "US-Flugzeugbauer: Software-Problem verzögert Zulassung neuer Boeing-Variante",
+          "link": "https://www.handelsblatt.com/technik/it-internet/us-flugzeugbauer-software-problem-verzoegert-zulassung-neuer-boeing-variante/100258091.html",
+          "published": "2026-09-28T23:30:04+00:00",
+          "summary": "Boeing machte sich Hoffnungen, bald die Zulassung für die größte Variante des wichtigen Modells 737 Max zu bekommen. Doch ein neuer Software-Fehler bringt den Zeitplan erneut durcheinander."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Russland plant 2027 höchste Militärausgaben seit Kriegsbeginn",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-28T19:42:59+00:00",
-          "summary": "Selenskyj: Russland hat mit Mobilmachung begonnen +++ Polen warnt Bewohner im Osten kurzzeitig vor Angriffen +++ Wadephul stellt Bedingungen für Folgetreffen mit Russland +++ Der Newsblog."
+          "title": "Iran-Krieg: Sanktionserleichterungen für Iran? Trump dementiert Bericht",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-sanktionserleichterungen-fuer-iran-trump-dementiert-bericht/100258088.html",
+          "published": "2026-09-28T23:21:13+00:00",
+          "summary": "Wie geht es weiter im US-Krieg gegen den Iran? Im Gespräch sollen Sanktionserleichterungen für Teheran sein. Der US-Präsident bestreitet das."
         },
         {
-          "title": "Rentendebatte: Klingbeil: Selbstständige und Beamte in gesetzliche Rente",
-          "link": "https://www.handelsblatt.com/politik/deutschland/rentendebatte-klingbeil-selbststaendige-und-beamte-in-gesetzliche-rente/100258064.html",
-          "published": "2026-09-28T18:56:30+00:00",
-          "summary": "Um die Vorschläge der Rentenkommission gibt es eine anhaltende politische Debatte. Was davon wird umgesetzt? Der Vizekanzler setzt sich für eine Maßnahme besonders ein."
+          "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258087.html",
+          "published": "2026-09-28T22:56:31+00:00",
+          "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus."
         },
         {
-          "title": "In der Lausitz: 365 Meter: Höchstes Windrad der Welt erreicht seine Höhe",
-          "link": "https://www.handelsblatt.com/politik/deutschland/in-der-lausitz-365-meter-hoechstes-windrad-der-welt-erreicht-seine-hoehe/100258057.html",
-          "published": "2026-09-28T18:15:16+00:00",
-          "summary": "Das laut Unternehmen Gicon höchste Windrad der Welt steht nun in der Lausitz. Zu Wochenbeginn erreichte der Riese seine endgültige Höhe. Vorher gab es Verzögerungen."
+          "title": "Diplomatie: US-Waffenverkauf an China? Trump dementiert Angebot an Xi",
+          "link": "https://www.handelsblatt.com/politik/international/diplomatie-us-waffenverkauf-an-china-trump-dementiert-angebot-an-xi/100258083.html",
+          "published": "2026-09-28T22:46:06+00:00",
+          "summary": "Hat Trump dem chinesischen Präsidenten Xi tatsächlich ein Angebot gemacht, Waffen aus den USA zu kaufen? Vor laufenden Kameras will der US-Präsident davon nichts wissen."
         }
       ],
       "error": null
