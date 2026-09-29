@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T04:09:13+00:00",
+  "generatedAt": "2026-09-29T06:11:48+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Weltwirtschaftsforum in Davos: Festnahme wegen angeblicher Attentatspläne auf Trump",
-          "link": "https://www.tagesschau.de/ausland/europa/wef-trump-verdacht-anschlag-100.html",
-          "published": "2026-09-29T04:00:56+00:00",
-          "summary": "Während des Weltwirtschaftsforums in Davos gingen Ermittler dem Verdacht nach, dass ein Anschlag auf US-Präsident Trump geplant sein könnte. Eine Mitarbeiterin des Forums wurde festgenommen - doch …"
+          "title": "Putin stockt russische Armee weiter auf",
+          "link": "https://www.tagesschau.de/ausland/europa/russland-armee-aufstockung-100.html",
+          "published": "2026-09-29T05:50:11+00:00",
+          "summary": "Russland erleidet stetig hohe Verluste in der Ukraine. Nun ordnet Präsident Putin die erneute Aufstockung der Armee an. Nach Erkenntnissen Kiews sollen auch neue ausländische Kämpfer eingesetzt …"
         },
         {
-          "title": "Australien: Walkadaver sorgt für Hai-Alarm am Stadtstrand von Perth",
-          "link": "https://www.tagesschau.de/ausland/ozeanien/australien-perth-gestrandeter-wal-hai-100.html",
-          "published": "2026-09-29T03:59:31+00:00",
-          "summary": "Ein Walkadaver sorgt an der Westküste Australiens für Aufregung. Direkt am beliebten Stadtstrand von Perth lockt der tote Buckelwal offenbar auch Haie an. Die Behörden haben reagiert - zwei Wochen …"
+          "title": "Marktbericht: Schwache Wall Street drückt auf die Stimmung",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+          "published": "2026-09-29T05:30:37+00:00",
+          "summary": "Die Aktienmärkte hängen weiter am Ölpreis und damit an der Lage im Nahen Osten. Im Augenblick agieren die Anleger verunsichert, die Vorgaben aus den USA fallen schwach aus."
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657242.html",
-          "published": "2026-09-29T03:13:55+00:00",
+          "title": "15 Minuten-Podcast: Spendenbetrug, Hähnchen-Hype, Grünes Licht an Umspannwerken",
+          "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15minuten-betrug-spenden-essen-umspannwerke-100.html",
+          "published": "2026-09-29T05:26:10+00:00",
+          "summary": "Angeblich erfundene Krankengeschichte - wie sicher sind private Spendenkampagnen? Stundenlang anstehen für Hähnchen - was steckt hinter dem Hype? Und: Warum leuchten Umspannwerke nachts grün? …"
+        },
+        {
+          "title": "11KM-Podcast: Unter den Rock gefilmt - Geschäft mit Oktoberfest-Videos",
+          "link": "https://www.tagesschau.de/podcast-11km-oktoberfest-videos-teufelsrad-100.html",
+          "published": "2026-09-29T05:21:28+00:00",
+          "summary": "Im Internet finden sich Tausende heimlich aufgenommene Videos von Frauen auf dem \"Teufelsrad\", einem Fahrgeschäft auf dem Oktoberfest. 11KM über das Geschäft mit den Aufnahmen und die Personen …"
+        },
+        {
+          "title": "Putin stockt russische Armee auf",
+          "link": "https://www.tagesschau.de/video/video-1657274.html",
+          "published": "2026-09-29T05:08:40+00:00",
           "summary": ""
-        },
-        {
-          "title": "Verteidigung im All: Bundeswehr und Rüstungsbranche bündeln Kräfte",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/ruestungsindustrie-weltraum-100.html",
-          "published": "2026-09-29T03:00:33+00:00",
-          "summary": "Moderne Streitkräfte sind von Satelliten abhängig - das Weltall wird für die Verteidigung wichtiger. Beim Netzwerk-Event \"Mission-K\" in Kalkar nähern sich Bundeswehr und Rüstungsbranche an. Kommen …"
-        },
-        {
-          "title": "Oktoberfest - Das Geschäft mit den Teufelsrad-Videos",
-          "link": "https://www.tagesschau.de/investigativ/br-recherche/oktoberfest-muenchen-teufelsrad-videos-100.html",
-          "published": "2026-09-29T03:00:27+00:00",
-          "summary": "Tausende voyeuristische Teufelsrad-Videos stellen Frauen sexualisiert zur Schau. BR-Recherchen zeigen, wer hinter solchen Videos vom Oktoberfest steckt. Doch rechtlich sind die Akteure meist nicht …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Bundespolitik +++: Klöckner warnt Störer – bei Eskalation ganze Fraktion raus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-kloeckner-warnt-stoerer-bei-eskalation-ganze-fraktion-raus/100137034.html",
-          "published": "2026-09-29T03:58:00+00:00",
-          "summary": "Wüst hält Aufstieg der AfD für umkehrbar +++ Klingbeil: Selbstständige und Beamte in gesetzliche Rente +++ Wadephul: Regierung außenpolitisch voll handlungsfähig +++ Der Newsblog."
+          "title": "Spritpreise: Preisdeckel statt Steuerrabatte: Warum Ölkonzerne in Italien Benzin unter Marktpreis verkaufen",
+          "link": "https://www.handelsblatt.com/politik/international/spritpreise-warum-oelkonzerne-in-italien-benzin-unter-marktpreis-verkaufen/100257877.html",
+          "published": "2026-09-29T06:09:48+00:00",
+          "summary": "Zwei Konzerne geben sich freiwillig einen Tankdeckel für Benzin und Diesel – und ersparen sich damit womöglich eine Übergewinnsteuer. Für Italiens Regierung ein Glücksfall."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Selenskyj – Nordkorea will 10.000 weitere Soldaten nach Russland schicken",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-09-29T03:56:00+00:00",
-          "summary": "Putin stockt russische Armee auf 1,55 Millionen Soldaten auf +++ Russland plant 2027 höchste Militärausgaben seit Kriegsbeginn +++ Selenskyj: Russland hat mit Mobilmachung begonnen +++ Der Newsblog."
+          "title": "Innenpolitik: Wüst heizt mit Auslandsreise in Türkei Diskussion um Kanzlertausch an",
+          "link": "https://www.handelsblatt.com/politik/deutschland/tuerkei-wuest-heizt-mit-auslandsreise-diskussion-um-kanzlertausch-an/100257826.html",
+          "published": "2026-09-29T05:57:53+00:00",
+          "summary": "Der NRW-Ministerpräsident ist auf einer dreitägigen Reise in Ankara und Istanbul. Demonstriert Wüst, dass er auch Außenkanzler kann? Diese Frage scheint sich auch Erdoğan zu stellen."
         },
         {
-          "title": "+++ Iran-Krieg +++: Emirate bestätigen geheimes Treffen mit Netanjahu",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-emirate-bestaetigen-geheimes-treffen-mit-netanjahu/100136895.html",
-          "published": "2026-09-29T03:52:00+00:00",
-          "summary": "Netanjahu reist heimlich zu Treffen nach Abu Dhabi +++ Trump erwartet diese Woche Gespräche von US-Unterhändlern mit Iran +++ Saudi-Arabiens Außenminister zu Gesprächen in USA +++ Der Newsblog."
+          "title": "+++ Bundespolitik +++: Pflegerat fordert umfassende Überarbeitung der Reform",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-pflegerat-fordert-umfassende-ueberarbeitung-der-reform/100137034.html",
+          "published": "2026-09-29T05:54:00+00:00",
+          "summary": "Klöckner warnt Störer: bei Eskalation ganze Fraktion raus +++ Klingbeil: Selbstständige und Beamte in gesetzliche Rente +++ Der Newsblog."
         },
         {
-          "title": "Nikkei, Yen, Hang Seng: Hohe US-Renditen und Ölpreis belasten Asiens Börsen",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-hohe-us-renditen-und-oelpreis-belasten-asiens-boersen/100258099.html",
-          "published": "2026-09-29T03:48:11+00:00",
-          "summary": "Die Rendite zehnjähriger US-Staatsanleihen erreicht den höchsten Stand seit 19 Jahren. Zinssorgen drücken den Nikkei ins Minus, während der Dollar leicht zulegt."
+          "title": "Gastkommentar: KI-Spitzenmodelle dürfen nicht zum politischen Druckmittel werden",
+          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-ki-spitzenmodelle-duerfen-nicht-zum-politischen-druckmittel-werden-01/100256781.html",
+          "published": "2026-09-29T05:45:00+00:00",
+          "summary": "Ohne die Top-KI-Modelle droht uns der wirtschaftliche Bedeutungsverlust. Wir müssen den Zugang sichern, meinen Monika Schnitzer, Chefin der Wirtschaftsweisen, und Philip Fox von Kira Center."
         },
         {
-          "title": "Mehr als Small Talk: Was gute Gespräche wirklich ausmacht",
-          "link": "https://www.handelsblatt.com/technik/medizin/mehr-als-small-talk-was-gute-gespraeche-wirklich-ausmacht/100258143.html",
-          "published": "2026-09-29T03:37:04+00:00",
-          "summary": "„Geht's gut?“, „Wie war das Wochenende?“: Austausch im Alltag bleibt oft oberflächlich. Viele vermissen echte Verbindung. Warum bedeutungsvolle Gespräche wichtig sind - und wie man sie führt."
+          "title": "Elektromobilität: Auslastung von Ladesäulen für E-Autos nimmt zu",
+          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/elektromobilitaet-auslastung-von-ladesaeulen-fuer-e-autos-nimmt-zu/100258161.html",
+          "published": "2026-09-29T05:42:11+00:00",
+          "summary": "Wer mit einem Elektroauto eine freie Ladesäule sucht, hat es in der Regel nicht schwer. Nun melden Betreiber, dass die Nachfrage steigt. Dafür gibt es aus Anbietersicht zwei Gründe."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Trotz Milliardenverlusten: Anthropic plant gigantischen Börsengang in diesem Jahr",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-plant-gigantischen-Boersengang-in-diesem-Jahr-id31358704.html",
+          "published": "2026-09-29T05:14:47+00:00",
+          "summary": "Anthropic macht hohe Verluste, doch die Aussichten sind angesichts der geplanten massiven Investitionen und des Hypes um KI dennoch bestens. Folglich soll auch einem Börsengang nichts im Wege stehen. …"
+        },
         {
           "title": "Es verheimlichte Aktionen: OpenAI zieht bei neuem KI-Modell die Notbremse",
           "link": "https://www.n-tv.de/wirtschaft/OpenAI-zieht-bei-neuem-KI-Modell-die-Notbremse-id31358572.html",
@@ -101,19 +107,13 @@
           "title": "Rückendeckung aus der Politik?: Wie Betrüger den türkischen Aktienmarkt manipulierten und Anleger um Milliarden brachten",
           "link": "https://www.n-tv.de/wirtschaft/Wie-Betrueger-den-tuerkischen-Aktienmarkt-manipulierten-und-Anleger-um-Milliarden-brachten-id31357731.html",
           "published": "2026-09-28T18:11:06+00:00",
-          "summary": "Ein milliardenschwerer Finanzskandal erschüttert die Türkei und hat inzwischen auch die Spitze der Regierungspartei erreicht. Wie konnte es dazu kommen, dass hunderte Fonds offenbar jahrelang …"
+          "summary": "Ein milliardenschwerer Finanzskandal erschüttert die Türkei und hat inzwischen auch die Spitze der Regierungspartei erreicht. Wie konnte es dazu kommen, dass Hunderte Fonds offenbar jahrelang …"
         },
         {
           "title": "Folge schwacher Autoindustrie: Bosch streicht Hälfte der Stellen in Nürnberg",
           "link": "https://www.n-tv.de/wirtschaft/Bosch-streicht-Haelfte-der-Stellen-in-Nuernberg-id31357838.html",
           "published": "2026-09-28T17:15:34+00:00",
           "summary": "Die deutsche Autobranche kommt aktuell auf keinen grünen Zweig. Das trifft auch zahlreiche Zulieferer. Bosch entschließt sich nun, die Hälfte seiner Stelle in Nürnberg zu streichen. Das liegt auch an …"
-        },
-        {
-          "title": "Konzern schwimmt im Geld: Nivida stockt Aktienrückkauf in historischem Umfang auf",
-          "link": "https://www.n-tv.de/wirtschaft/Nivida-stockt-Aktienrueckkauf-in-historischem-Umfang-auf-id31357982.html",
-          "published": "2026-09-28T17:08:44+00:00",
-          "summary": "Nvidia meldet jedes Quartal Rekordergebnisse. Daran sollen auch die Anteilseigner beteiligt werden. Allerdings nicht in Form von Dividenden, sondern durch Kurspflege. Der Konzern stemmt ein …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX gibt nur wenig nach",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
-          "published": "2026-09-28T16:21:45+00:00",
-          "summary": "Trotz steigender Ölpreise hielt sich der DAX zum Wochenstart recht gut. Dabei stützte die Hoffnung auf weitere Gespräche zwischen den USA und Iran. Bewegung gab es bei kleineren Konzernen."
+          "title": "Marktbericht: Schwache Wall Street drückt auf die Stimmung",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+          "published": "2026-09-29T05:30:37+00:00",
+          "summary": "Die Aktienmärkte hängen weiter am Ölpreis und damit an der Lage im Nahen Osten. Im Augenblick agieren die Anleger verunsichert, die Vorgaben aus den USA fallen schwach aus."
         },
         {
           "title": "Hohe Ethanolpreise: Südzucker erwartet bessere Geschäfte",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Die Höhle der Löwen: „Eine Doppelrolle als operative Gründerin und Investorin wäre ein Konflikt gewesen“",
-          "link": "https://www.wiwo.de/erfolg/gruender/die-hoehle-der-loewen-influencerin-diana-zur-loewen-praesentiert-eigenes-start-up/100257455.html",
-          "published": "2026-09-29T03:57:00+00:00",
-          "summary": "Vor vier Jahren war Influencerin Diana zur Löwen Investorin in der TV-Show, nun kehrt sie als Gründerin zurück. Was hat sie mit der Marke Artem vor?"
+          "title": "Leben mit Aktien: Energieaktien sind über den Iran-Krieg hinaus spannend",
+          "link": "https://www.wiwo.de/finanzen/boerse/oelaktien-darum-lohnt-der-einstieg-ueber-den-irankrieg-hinaus/100256862.html",
+          "published": "2026-09-29T06:00:00+00:00",
+          "summary": "Lieferengpässe bei Öl und Gas haben die Preise steigen lassen – und die Aktien von Energiekonzernen gleich mit. Doch die Rally ist mehr als ein Ausdruck der Versorgungskrise."
         },
         {
-          "title": "Arzneimittel: Sind US-Medikamente zu teuer oder sind deutsche Arzneimittel zu billig?",
-          "link": "https://www.wiwo.de/unternehmen/industrie/arzneimittel-betreibt-die-deutsche-pharmabranche-dumping-bei-medikamenten/100257866.html",
-          "published": "2026-09-29T03:55:47+00:00",
-          "summary": "Die deutsche Pharmabranche gerät ins Visier der USA, weil ihre angeblich niedrigen Preise durch die hohen Kosten in Amerika subventioniert werden."
+          "title": "Elektromobilität: Auslastung von Ladesäulen für E-Autos nimmt zu",
+          "link": "https://www.wiwo.de/unternehmen/auto/elektromobilitaet-auslastung-von-ladesaeulen-fuer-e-autos-nimmt-zu/100258117.html",
+          "published": "2026-09-29T05:55:00+00:00",
+          "summary": "Deutsche Autofahrer tanken deutlich mehr Strom als noch 2025. Wer mit einem E-Auto eine freie Ladesäule sucht, hat es trotzdem zumeist nicht schwer."
         },
         {
-          "title": "Drei Werke schließen: Das Aus der Biontech-Werke ist ein Armutszeugnis für den Standort",
-          "link": "https://www.wiwo.de/unternehmen/industrie/aus-fuer-drei-biontech-werke-warum-die-schliessung-fuer-den-standort-fatal-ist/100257976.html",
-          "published": "2026-09-28T18:50:00+00:00",
-          "summary": "Biontech schließt seine Werke in Marburg, Idar-Oberstein und Tübingen. Fast 2000 Arbeitsplätze sind betroffen. Das ist gleich dreifach tragisch. Ein Kommentar."
+          "title": "Testflug: Riesen-Rakete Starship schafft es erstmals in Erdumlaufbahn",
+          "link": "https://www.wiwo.de/unternehmen/industrie/raumfahrt-riesen-rakete-starship-bricht-zu-mehrfacher-erdumrundung-auf/100258008.html",
+          "published": "2026-09-29T05:45:00+00:00",
+          "summary": "SpaceX wollte mit seinem Raketensystem in zehn Stunden mehrmals die Erde umrunden. Doch nach dem Start änderte das Unternehmen seine Pläne."
         },
         {
-          "title": "Hendrik Holt: „Die Haftbedingungen in Dubai sind bedeutend schlechter als in Deutschland“",
-          "link": "https://www.wiwo.de/erfolg/management/hendrik-holt-droht-dem-betrueger-die-auslieferung-aus-dubai/100257129.html",
-          "published": "2026-09-28T18:42:00+00:00",
-          "summary": "Hendrik Holt droht nach der Festnahme in Dubai ein Auslieferungsverfahren, das Monate dauern kann. Was ihn in der Haft erwartet."
+          "title": "Spritpreise: Was man zum Start des neuen Tankrabatts wissen muss",
+          "link": "https://www.wiwo.de/politik/deutschland/beschluss-erwartet-nochmal-tankrabatt-wann-wird-es-billiger-und-wie-viel/100257307.html",
+          "published": "2026-09-29T05:40:00+00:00",
+          "summary": "Der Rabatt ist neu, die Fragen die gleichen: Wann und wie bekommen Autofahrer am Donnerstag möglichst billigen Sprit? Und warum ist das so?"
         },
         {
-          "title": "Landesbank Nord/LB: Deutschlands zweitwichtigster Bankendeal ist (vorerst) geplatzt",
-          "link": "https://www.wiwo.de/unternehmen/banken/nord-lb-sparkassen-stoppen-anteilsverkauf-an-niedersachsen/100258051.html",
-          "published": "2026-09-28T18:38:00+00:00",
-          "summary": "Niedersachsen wollte seine Macht bei der umstrittenen Landesbank Nord/LB ausbauen. Jetzt haben die Sparkassen die Pläne gestoppt – aus Sorge vor neuen Risiken."
+          "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258085.html",
+          "published": "2026-09-29T05:31:00+00:00",
+          "summary": "Nach Hacking-Attacken durch seine KI prüft OpenAI seine Entwicklungsprozesse. Ein US-Bundesstaat klagt bereits wegen der Risiken von KI."
         }
       ],
       "error": null
@@ -210,6 +210,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Boeing 787 bremste beim Start: Neue Daten zeigen, wie knapp es in München wurde",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/boeing-787-bremste-beim-start-neue-daten-zeigen-wie-knapp-es-in-muenchen-wurde/",
+          "published": "2026-09-29T04:13:10+00:00",
+          "summary": "Eine Boeing 787 hebt in München erst hinter der Startbahn ab. Neue BFU-Daten zeigen Bremseingaben, einen Tailstrike und einen ungewöhnlichen Startlauf."
+        },
         {
           "title": "Ein Signal aus der Tiefe des Universums und eine Spur zur Dunklen Energie",
           "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/ein-signal-aus-der-tiefe-des-universums-und-eine-spur-zur-dunklen-energie/",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/karriere/arbeitsleben/fast-ein-tag-pro-woche-verloren-warum-projektleiter-kaum-zum-planen-kommen/",
           "published": "2026-09-28T12:30:00+00:00",
           "summary": "Ungeplante Aufgaben und Leerlauf kosten Projektleiter in Dienstleistungsfirmen laut einer Umfrage rund 15 % ihrer Arbeitszeit. Die Befragten hoffen auf KI, die Probleme früher sichtbar macht."
-        },
-        {
-          "title": "Regen.Impulse München: Regenwasser richtig behandeln",
-          "link": "https://www.ingenieur.de/advertorial/regen-impulse-muenchen-regenwasser-richtig-behandeln/",
-          "published": "2026-09-28T12:22:12+00:00",
-          "summary": "Fachtagung am 10. November 2026 gibt Architektur- und Planungsbüros Impulse für eine zukunftsfähige Regenwasserbewirtschaftung"
         }
       ],
       "error": null
