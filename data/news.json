@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T06:12:06+00:00",
+  "generatedAt": "2026-09-30T08:11:42+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Warum Tschechien einen fiktiven Erfinder verehrt",
-          "link": "https://www.tagesschau.de/ausland/europa/tschechien-cimrman-100.html",
-          "published": "2026-09-30T05:59:24+00:00",
-          "summary": "Was den USA der Erfinder Bell, ist den Tschechen Jara Cimrman. Auch er hat bahnbrechende Erfindungen vorzuweisen, wie etwa den Teller mit Stöpsel. Oder ist das doch nur alles erfunden? Danko Handrick …"
+          "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+          "published": "2026-09-30T07:59:56+00:00",
+          "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen von Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen …"
         },
         {
-          "title": "Marktbericht: Künstliche Intelligenz bleibt Stütze",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
-          "published": "2026-09-30T05:52:28+00:00",
-          "summary": "Angesichts der ungeklärten Lage am Persischen Golf zeigt sich der Deutsche Aktienindex robust. Die Vorgaben aus den USA sind schwach. Doch das Thema KI sorgt weiter für Rückenwind."
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657936.html",
+          "published": "2026-09-30T07:36:22+00:00",
+          "summary": ""
         },
         {
-          "title": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html",
-          "published": "2026-09-30T05:16:04+00:00",
-          "summary": "Durch russische Drohnen- und Raketenangriffe auf die Stadt und Region Kiew sind laut ukrainischen Behörden mehrere Menschen getötet und weitere verletzt worden. In Polen wurde der Betrieb zweier …"
+          "title": "US-Truppen ziehen ab - Im Irak beginnt eine neue Ära",
+          "link": "https://www.tagesschau.de/ausland/asien/irak-usa-truppenabzug-100.html",
+          "published": "2026-09-30T07:13:56+00:00",
+          "summary": "Im Irak ist es der Schlusspunkt nach einer Epoche. Nach mehr als 20 Jahren endete heute die Präsenz des US-Militärs. Doch das bedeutet nicht, dass die irakische Armee die alleinige Kontrolle …"
         },
         {
-          "title": "Preisträger des Alternativen Nobelpreises bekannt gegeben",
-          "link": "https://www.tagesschau.de/ausland/europa/preistraeger-right-livelihood-award-100.html",
-          "published": "2026-09-30T04:54:58+00:00",
-          "summary": "In Stockholm sind die Preisträgerinnen des Right Livelihood Award bekannt gegeben worden - oft auch Alternativer Nobelpreis genannt. Die Auszeichnung geht in diesem Jahr ausschließlich an Frauen und …"
+          "title": "Vergewaltigungsvorwürfe an US-Elite-Uni Cornell werden neu untersucht",
+          "link": "https://www.tagesschau.de/ausland/amerika/kritik-cornell-vorwuerfe-vergewaltigung-100.html",
+          "published": "2026-09-30T07:08:37+00:00",
+          "summary": "Vor etwa zwei Jahren wurde eine Gruppenvergewaltigung an der US-Elite-Uni Cornell angezeigt - ohne große Konsequenzen. Nun meldet sich die junge Frau erneut zu Wort und der Fall wird neu aufgerollt. …"
         },
         {
-          "title": "15 Minuten-Podcast: Gefälschte Handys, Deutsches Flugzeug-Comeback, Problem Quengelzone",
-          "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15minuten-handys-bau-flugzeuge-einkaufen-100.html",
-          "published": "2026-09-30T04:26:22+00:00",
-          "summary": "Ermittler führen eine große Razzia wegen des Verkaufs gefälschter Handys durch. Warum in Deutschland wieder Passagierflugzeuge gebaut werden. Und weshalb Quengelzonen in Supermärkten für Suchtkranke …"
+          "title": "Bundeswehr bekommt sexuelles Fehlverhalten nicht unter Kontrolle",
+          "link": "https://www.tagesschau.de/investigativ/report-mainz/bundeswehr-frauen-102.html",
+          "published": "2026-09-30T07:00:54+00:00",
+          "summary": "Die Bundeswehr bekommt das Problem um sexuelles Fehlverhalten nicht in den Griff, wie Recherchen von REPORT MAINZ zeigen. Experten sprechen von einem Führungsversagen und kritisieren das interne …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Reform: Prien plädiert für Kehrtwende beim Elterngeld – doch keine kürzere Bezugsdauer?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/reform-prien-plaediert-fuer-kehrtwende-beim-elterngeld/100258531.html",
-          "published": "2026-09-30T05:54:42+00:00",
-          "summary": "Familienministerin Prien will eine Kürzung der Elterngeldmonate verhindern und macht Familien Hoffnung. Harsche Kritik äußert sie an einem Rabatt, für den trotz aller Sparzwänge Geld da sei."
+          "title": "Partnerschaft: Deepseek erfindet Programmierwerkzeug für KI-Chips von Huawei",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/partnerschaft-deepseek-erfindet-programmierwerkzeug-fuer-ki-chips-von-huawei/100258573.html",
+          "published": "2026-09-30T08:00:40+00:00",
+          "summary": "Deepseek und Huawei wollen Entwicklern den Zugang zu leistungsfähiger KI-Hardware erleichtern. Ihre neue Software soll eine Alternative zu Nvidias dominanter Programmierumgebung bieten."
         },
         {
-          "title": "Verkehr: Deutschlandticket wird 2027 wohl teurer – Entscheidung steht an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/preis-deutschlandticket-wird-2027-wohl-teurer-entscheidung-steht-an/100258530.html",
-          "published": "2026-09-30T05:45:13+00:00",
-          "summary": "Einen möglichen Preis für das Ticket für das kommende Jahr gibt es bereits – nun muss ein Gremium darüber entscheiden. Grundlage bilden Personal-, Energie- und Betriebskosten."
+          "title": "Arbeitsmarkt: ﻿Zahl der Arbeitslosen sinkt unter Drei-Millionen-Marke",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-unter-drei-millionen-marke/100258529.html",
+          "published": "2026-09-30T08:00:31+00:00",
+          "summary": "Die Zahl der Arbeitslosen hatte im Juli erstmals seit April wieder die Marke übersprungen. Mit dem Ende der Sommerpause setzt meist eine Herbstbelebung ein – die fällt allerdings mau aus."
         },
         {
-          "title": "Geldanlage: Wettanleger haben auf das Ende von Kanzler Merz spekuliert",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/geldanlage-wettanleger-haben-auf-das-ende-von-kanzler-merz-spekuliert/100257098.html",
-          "published": "2026-09-30T05:40:11+00:00",
-          "summary": "Die CDU hat bei den jüngsten Landtagswahlen viele Stimmen verloren. Zeitweise stand ein Rücktritt des Kanzlers im Raum – darauf spekulierten auch Wettanleger auf Prognosemärkten."
+          "title": "Immobilien: Nur in einer Stadt reicht die Bafög‑Wohnhilfe für die Miete",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-nur-in-einer-stadt-reicht-die-bafoegwohnhilfe-fuer-die-miete/100258176.html",
+          "published": "2026-09-30T08:00:00+00:00",
+          "summary": "Zum Semesterstart müssen Studenten bundesweit erneut mehr Geld für eine Wohnung oder ein WG-Zimmer bezahlen. Die Unterschiede bei den Kosten sind gravierend."
         },
         {
-          "title": "Türkei: Neuer Rat soll Fondsabwicklung in der Türkei überwachen",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/tuerkei-neuer-rat-soll-fondsabwicklung-in-der-tuerkei-ueberwachen/100258528.html",
-          "published": "2026-09-30T05:38:22+00:00",
-          "summary": "Nach mutmaßlichen Kursmanipulationen an der türkischen Börse geraten zahlreiche Investmentfonds in Zahlungsnot. Die Regierung will mit dem Gremium die Rechte der betroffenen Anleger sichern."
+          "title": "Arbeitsmarkt: Deutsche Arbeitslosenzahl sinkt auf 2,99 Millionen",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/arbeitsmarkt-deutsche-arbeitslosenzahl-sinkt-auf-299-millionen/100258576.html",
+          "published": "2026-09-30T07:59:57+00:00",
+          "summary": "Der Arbeitsmarkt hat sich im August wie erwartet belebt. Doch in Schwung kommt er nicht, warnt BA-Chefin Andrea Nahles. Das zeigt vor allem der Vergleich zum Vorjahr."
         },
         {
-          "title": "Sozialversicherung: Rentenreform: 46 Top-Ökonomen richten klare Warnung an die Bundesregierung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-46-top-oekonomen-richten-klare-warnung-an-die-regierung-01/100258058.html",
-          "published": "2026-09-30T05:18:00+00:00",
-          "summary": "Selten waren sich führende Wissenschaftler so einig. 46 von ihnen halten das Aufschnüren des Rentenpakets für einen Fehler – und sagen in einem Aufruf, der dem Handelsblatt vorliegt, warum."
+          "title": "Energie: Reiche ordnet Gaseinspeicherung an – Staatsunternehmen soll Speicher füllen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energie-wirtschaftsministerin-reiche-ordnet-gaseinspeicherung-an/100258436.html",
+          "published": "2026-09-30T07:59:02+00:00",
+          "summary": "Katherina Reiche weist nach Handelsblatt-Informationen das Staatsunternehmen Sefe an, vermehrt Erdgas einzuspeichern – und reagiert damit auf die niedrigen Füllstände in den Speichern."
         }
       ],
       "error": null
@@ -86,10 +86,22 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Anstieg im Jahresvergleich: Arbeitslosenzahl sinkt unter drei Millionen - Herbstbelebung schwach",
+          "link": "https://www.n-tv.de/wirtschaft/Arbeitslosenzahl-sinkt-unter-drei-Millionen-Herbstbelebung-schwach-id31363946.html",
+          "published": "2026-09-30T07:59:07+00:00",
+          "summary": "Saisonal bedingt geht die Arbeitslosigkeit im September zurück. Die Zahl der Arbeitslosen sinkt dabei unter eine wichtige Marke. Dennoch fällt die Herbstbelebung in diesem Jahr schwach aus."
+        },
+        {
           "title": "\"Es reicht jetzt erst mal\": Deutschlandticket könnte bald wieder teurer werden",
           "link": "https://www.n-tv.de/wirtschaft/Deutschlandticket-koennte-bald-wieder-teurer-werden-id31363186.html",
           "published": "2026-09-30T04:57:37+00:00",
           "summary": "Ab Oktober gibt es für Autofahrer einen Tankrabatt, Bahnfahren könnte dagegen bald teurer werden. Zumindest für die 14,5 Millionen Menschen, die ein Deutschlandticket besitzen. Der Fahrgastverband …"
+        },
+        {
+          "title": "Weiterhin zu wenig Regen: Rekordniedrigwasser am Rhein - Pegel teils im negativen Bereich",
+          "link": "https://www.n-tv.de/wirtschaft/Rekordniedrigwasser-am-Rhein-Pegel-teils-im-negativen-Bereich-id31363180.html",
+          "published": "2026-09-30T04:56:47+00:00",
+          "summary": "Für ein Ansteigen der Pegelstände des Rheins braucht es viel Regen. Doch der bleibt seit Monaten aus. Insbesondere für die Schifffahrt verlängert sich damit die Leidenszeit."
         },
         {
           "title": "Verbrauchervertrauen kühlt ab: Wall Street geht in den Wartemodus",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Airbus-greift-mit-A350F-Konkurrent-Boeing-in-der-Frachtsparte-an-id31361929.html",
           "published": "2026-09-29T17:42:02+00:00",
           "summary": "Weltweit wächst der Markt für Luftfracht. Ein Grund sind die politischen Krisen und ihre Folgen für Seewege. Profitieren will davon der europäische Flugzeugbauer Airbus. Mit einem neuen Modell sagt …"
-        },
-        {
-          "title": "Abspaltung droht zu eskalieren: Biontech-Gründer verkrachen sich mit eigenem Unternehmen",
-          "link": "https://www.n-tv.de/wirtschaft/Biontech-Gruender-verkrachen-sich-mit-eigenem-Unternehmen-id31361662.html",
-          "published": "2026-09-29T16:38:05+00:00",
-          "summary": "Milliardenverlust, Stellenabbau und ein verheerender Streit an der Spitze: Bei Biontech geht es nach dem Boom ums Eingemachte. Die Gründer wollen neue Wege gehen, pokern mit dem Konzern aber noch um …"
-        },
-        {
-          "title": "Keine Versorgungsprobleme: EU prophezeit \"sehr hohe\" Energiepreise im Winter",
-          "link": "https://www.n-tv.de/wirtschaft/EU-prophezeit-sehr-hohe-Energiepreise-im-Winter-id31362093.html",
-          "published": "2026-09-29T15:49:28+00:00",
-          "summary": "Die Energiepreise sind angesichts des Kriegs im Nahen Osten hoch. Mit Blick auf den Winter dürfte die Nachfrage in Europa steigen und mit ihr die Preise. Die EU beziffert die Zusatzkosten für die …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Neue Sicherheitsregeln: Bundesnetzagentur öffnet die Tür für ein Huawei-Verbot in Deutschland",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/mobilfunk-droht-huawei-durch-den-bnetza-katalog-das-komplett-aus/100258336.html",
-          "published": "2026-09-30T05:59:00+00:00",
-          "summary": "Das Antennenzugangsnetz wird jetzt auch hierzulande als systemkritisch eingestuft. Damit wäre ein Verbot von Huawei-Technologien im Mobilfunk bald wohl rechtssicher möglich."
+          "title": "Erneuerbare Energien: „Wir killen unsere Solarindustrie ein zweites Mal“",
+          "link": "https://www.wiwo.de/unternehmen/energie/solar-in-der-krise-wir-killen-unsere-solarindustrie-ein-zweites-mal/100258267.html",
+          "published": "2026-09-30T08:03:18+00:00",
+          "summary": "BCG-Experten warnen: Die geplanten Energiegesetze würden bis zu 30 Prozent aller neuen Solar-Projekte gefährden – und ein „größeres Sterben\" auslösen."
         },
         {
-          "title": "Pflegeversicherung: Die SPD verhält sich wie eine Oppositionspartei – aber nicht sozial",
-          "link": "https://www.wiwo.de/politik/deutschland/reform-der-pflegeversicherung-warum-der-spd-protest-scheinheilig-ist/100258297.html",
-          "published": "2026-09-30T05:43:00+00:00",
-          "summary": "Der kleinere Koalitionspartner rebelliert gegen die Sparpläne. Doch weder sagt die SPD, woher genug Geld kommen soll, noch sind ihre Forderungen gerecht. Ein Kommentar."
+          "title": "Enteignungspläne: „Investitionen in den Mietwohnungsbau sind in Berlin derzeit ein No-Go“",
+          "link": "https://www.wiwo.de/finanzen/immobilien/enteignung-der-mietwohnungsbau-ist-in-berlin-derzeit-ein-no-go/100257766.html",
+          "published": "2026-09-30T08:02:48+00:00",
+          "summary": "Wie reagieren Projektentwickler auf die Vergesellschaftungspläne in Berlin? Erste Signale deuten auf einen Rückzug – ein schlechtes Zeichen für den Neubau."
         },
         {
-          "title": "Handelsstreit: China droht EU mit Gegenmaßnahmen im Handelsstreit",
-          "link": "https://www.wiwo.de/politik/europa/handelsstreit-china-droht-eu-mit-gegenmassnahmen-im-handelsstreit/100258524.html",
-          "published": "2026-09-30T05:30:07+00:00",
-          "summary": "Peking und Brüssel streiten sich schon länger über das beiderseitige Handelsverhältnis. Gerüchte über neue EU-Maßnahmen veranlassen China nun, die EU vor weiteren Schritten zu warnen."
+          "title": "Kaffeehersteller: Melitta erholt sich vom Koffeinschock",
+          "link": "https://www.wiwo.de/unternehmen/handel/melitta-kaempft-mit-finanziellen-schwierigkeiten-trotz-kaffeeboom/100235506.html",
+          "published": "2026-09-30T07:52:00+00:00",
+          "summary": "Ausgerechnet der weltweite Kaffeeboom hat Melitta in eine schwere Krise gestürzt. Jetzt probiert man es in Minden mit kühnen Wachstumsplänen."
         },
         {
-          "title": "Konzernumbau: Apple soll wieder Risiko wagen",
-          "link": "https://www.wiwo.de/unternehmen/it/neuer-apple-chef-john-ternus-so-baut-er-den-konzern-um/100258520.html",
-          "published": "2026-09-30T05:15:48+00:00",
-          "summary": "John Ternus will bei Apple offenbar kräftig umbauen. Dafür bricht er mit Grundsätzen der Ära Tim Cook. Was den Neuen an der Spitze antreibt und wo die Chancen liegen."
+          "title": "Deutsche Einfuhren: Importpreise steigen so stark wie seit Dezember 2022 nicht mehr",
+          "link": "https://www.wiwo.de/unternehmen/handel/inflation-deutsche-importpreise-steigen-so-stark-wie-seit-2022-nicht-mehr/100258561.html",
+          "published": "2026-09-30T07:41:03+00:00",
+          "summary": "Die Preise für deutsche Einfuhren steigen durch die hohen Energiepreise stärker als erwartet. Das hat auch Auswirkungen auf die Inflation."
         },
         {
-          "title": "Mobilitätskosten: September wird teuerster Tankmonat",
-          "link": "https://www.wiwo.de/technologie/mobilitaet/mobilitaetskosten-september-wird-teuerster-tankmonat/100258482.html",
-          "published": "2026-09-30T05:00:00+00:00",
-          "summary": "Die Rekorde sind selbst dann nicht mehr zu verhindern, wenn Sprit ab jetzt verschenkt würde."
+          "title": "Tankrabatt 2026: Was Sie zum Start des neuen Tankrabatts wissen müssen",
+          "link": "https://www.wiwo.de/politik/deutschland/tankrabatt-2026-gilt-der-neue-tankrabatt-direkt-ab-mitternacht/100257307.html",
+          "published": "2026-09-30T07:37:00+00:00",
+          "summary": "Der Rabatt ist neu, die Fragen bleiben: Wann und wie bekommen Autofahrer am Donnerstag möglichst billigen Sprit? Lohnt es sich, früh aufzustehen? Und was ist mit Heizöl?"
         }
       ],
       "error": null
