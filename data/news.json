@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:10:48+00:00",
+  "generatedAt": "2026-09-30T12:12:38+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bundeskabinett einigt sich auf Pflegereform",
-          "link": "https://www.tagesschau.de/eilmeldung/pflegereform-kabinett-100.html",
-          "published": "2026-09-30T09:52:35+00:00",
-          "summary": "Tagelang war fraglich, ob die Bundesregierung die Pflegereform heute wie geplant auf den Weg bringen kann. Die SPD hatte mit einer Blockade gedroht. Nun hat das Kabinett einen Gesetzentwurf …"
+          "title": "Fußball-Nationalmannschaft: Schlotterbeck fällt womöglich wieder aus",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/nico-schlotterbeck-faellt-womoeglich-wieder-aus,dfb-schlotterbeck-verletzt-100.html",
+          "published": "2026-09-30T11:57:11+00:00",
+          "summary": "Nico Schlotterbeck hat sich offenbar beim Training mit der Nationalmannschaft am Fuß verletzt. Eine genaue Diagnose steht noch aus."
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-09-30T09:30:16+00:00",
-          "summary": "Am Mittwoch ist es in der Osthälfte oft sonnig oder nur leicht bewölkt. In der Westhälfte ist es zum Teil schon wolkig und im Tagesverlauf nimmt die Bewölkung zu, bis zum Abend bleibt es aber meist …"
+          "title": "Marktbericht: Commerzbank-Aktie gerät unter Druck",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html",
+          "published": "2026-09-30T11:38:08+00:00",
+          "summary": "Die Commerzbank-Aktie steht heute unter Druck: Anleger blicken auf die geplante Übernahme der Commerzbank durch die italienische UniCredit, die ihre Schatten voraus wirft. Auch ein Analystenkommentar …"
         },
         {
-          "title": "Marktbericht: KI sorgt für Rückenwind bei Tech-Werten",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
-          "published": "2026-09-30T09:22:36+00:00",
-          "summary": "Der DAX ist positiv in den Handel gestartet. Auftrieb kommt durch die gute Stimmung in der weltweiten Technologiebranche. Die ist einmal mehr getrieben vom Hype um KI."
+          "title": "Pläne der Bundesregierung - Härtere Strafen für Angriffe gegen Einsatzkräfte",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/strafe-angriffe-zugbegleiter-100.html",
+          "published": "2026-09-30T11:36:38+00:00",
+          "summary": "In den vergangenen Jahren haben die Angriffe auf Einsatz- und Rettungskräfte zugenommen. Ebenso auf Zugbegleiter und andere für das Gemeinwohl Tätige. Die Strafen dafür sollen jetzt erhöht werden."
         },
         {
-          "title": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html",
-          "published": "2026-09-30T09:20:40+00:00",
-          "summary": "Durch russische Drohnen- und Raketenangriffe auf die Stadt und Region Kiew sind laut ukrainischen Behörden mehrere Menschen getötet und weitere verletzt worden. In Polen wurde der Betrieb zweier …"
+          "title": "Flydubai-Maschine muss nach Vorfall an Bord notlanden",
+          "link": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-106.html",
+          "published": "2026-09-30T11:16:21+00:00",
+          "summary": "Auf dem Weg nach Tel Aviv musste eine Maschine der Airline Flydubai notlanden. Medien zufolge sollen Notsignale von Bord abgesetzt worden sein, zwischen den Piloten hätte es eine Auseinandersetzung …"
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1658006.html",
-          "published": "2026-09-30T09:15:19+00:00",
+          "title": "Razzia in indonesischem Gefängnis, Hellen Mirren, Berliner Philharmonie",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10476.html",
+          "published": "2026-09-30T11:12:18+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Inflation: Teuerung in Deutschland steigt auf 3,3 Prozent",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-in-deutschland-steigt-auf-33-prozent/100254616.html",
+          "published": "2026-09-30T12:02:15+00:00",
+          "summary": "Die Inflation in Deutschland springt auf den höchsten Stand seit fast drei Jahren. Alarmierend für die EZB: Quer durch die Euro-Zone steigen die Verbraucherpreise schneller als erwartet."
+        },
+        {
           "title": "Volkswagen: VW plant neue Einschnitte: Müssen Mitarbeiter bald länger arbeiten?",
           "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-plant-neue-einschnitte-muessen-mitarbeiter-laenger-arbeiten/100258221.html",
-          "published": "2026-09-30T10:02:07+00:00",
-          "summary": "Nach Mercedes bringt nun auch das VW-Management höhere Wochenstunden aufs Tableau. Beim Überprüfungsgespräch am Mittwoch könnten außerdem einzelne Tarifverträge wackeln."
+          "published": "2026-09-30T11:50:05+00:00",
+          "summary": "Nach Mercedes erwägt auch VW längere Arbeitszeiten. Nun sollen mehrere Tarifverträge gekündigt werden. IG Metall und Betriebsrat kündigen harten Widerstand an."
         },
         {
-          "title": "+++ Bundespolitik +++: Pflegerat fordert umfassende Überarbeitung der Reform",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-pflegerat-fordert-umfassende-ueberarbeitung-der-reform/100137034.html",
-          "published": "2026-09-30T10:00:00+00:00",
-          "summary": "Klöckner warnt Störer: bei Eskalation ganze Fraktion raus +++ Klingbeil: Selbstständige und Beamte in gesetzliche Rente +++ Der Newsblog."
+          "title": "Milliardenbetrug: Wirecard: Verteidiger wollen Prozess vor Ende noch aushebeln",
+          "link": "https://www.handelsblatt.com/politik/deutschland/milliardenbetrug-wirecard-verteidiger-wollen-prozess-vor-ende-noch-aushebeln/100258664.html",
+          "published": "2026-09-30T11:48:49+00:00",
+          "summary": "Nach bald vier Jahren rückt das Urteil im Wirecard-Prozess näher - und Ex-Konzernchef Braun muss eine lange Haftstrafe fürchten. Auf den letzten Metern will die Verteidigung das Verfahren stoppen."
         },
         {
-          "title": "Passives Einkommen: Dieses ETF-Portfolio schüttet jeden Monat Geld aus",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-mit-welchen-fonds-sie-monatliche-ausschuettungen-bekommen/100226123.html",
-          "published": "2026-09-30T09:59:00+00:00",
-          "summary": "Mit nur drei Fonds können Anleger sich eine regelmäßige monatliche Ausschüttung sichern – ohne auf die Chance zusätzlicher Kursgewinne verzichten zu müssen."
+          "title": "Berenberg: Hamburger Privatbank holt JP-Morgan-Manager",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/berenberg-hamburger-privatbank-holt-jp-morgan-manager/100258653.html",
+          "published": "2026-09-30T11:43:21+00:00",
+          "summary": "Gunnar Regier wechselt nach 28 Jahren bei JP Morgan zu Berenberg und führt künftig die Investmentbank. Die Personalie fällt in eine Zeit, in der die ihre Führung neu ordnen muss."
         },
         {
-          "title": "Türkei-Reise: Visaerleichterung für türkische Geschäftsleute",
-          "link": "https://www.handelsblatt.com/politik/international/tuerkei-reise-visaerleichterung-fuer-tuerkische-geschaeftsleute/100258625.html",
-          "published": "2026-09-30T09:55:08+00:00",
-          "summary": "Lange Visaverfahren sind ein Problem für hunderte türkische Unternehmen in Deutschland. Während des Türkei-Besuchs des NRW-Ministerpräsidenten gibt es gute Nachrichten für sie."
-        },
-        {
-          "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-          "link": "https://www.handelsblatt.com/unternehmen/management/karriere-diese-ki-kompetenzen-verschaffen-fuehrungskraeften-einen-vorsprung/100240522.html",
-          "published": "2026-09-30T09:53:00+00:00",
-          "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert."
+          "title": "Flug FZ1073: Was wir zur Flydubai-Notlandung wissen – und was nicht",
+          "link": "https://www.handelsblatt.com/politik/international/flug-fz1073-was-wir-zur-flydubai-notlandung-wissen-und-was-nicht/100258658.html",
+          "published": "2026-09-30T11:39:15+00:00",
+          "summary": "Wollte ein Pilot ein Flugzeug mit rund 180 Israelis an Bord zum Absturz bringen und so einen Terroranschlag begehen? Noch ist vieles zur Notlandung in Saudi-Arabien unklar."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Kraftstoffe als größte Preistreiber: Deutsche Inflationsrate steigt im September auf 3,3 Prozent",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Inflationsrate-steigt-im-September-auf-3-3-Prozent-id31365410.html",
+          "published": "2026-09-30T12:02:06+00:00",
+          "summary": "Rekordhohe Spritpreise treiben die Inflation im September auf den höchsten Stand seit Ende 2023. Waren und Dienstleistungen verteuern sich um 3,3 Prozent im Vergleich zum Vorjahresmonat, wie das …"
+        },
+        {
+          "title": "Betriebe reichen Kosten weiter: Verbrauchern drohen steigende Preise durch teure Energie",
+          "link": "https://www.n-tv.de/wirtschaft/Verbrauchern-drohen-steigende-Preise-durch-teure-Energie-id31364647.html",
+          "published": "2026-09-30T11:38:52+00:00",
+          "summary": "Der eskalierende Konflikt im Nahen Osten lässt die Ölpreise deutlich steigen. Das bekommen nicht nur Autofahrer an den Tankstellen zu spüren. Der Ifo-Konjunkturchef rechnet damit, dass auch …"
+        },
         {
           "title": "Druck auf Energiemarkt steigt: Moskau verlängert erneut Exportverbot für Diesel",
           "link": "https://www.n-tv.de/wirtschaft/Moskau-verlaengert-erneut-Exportverbot-fuer-Diesel-id31364251.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Arbeitslosenzahl-sinkt-unter-drei-Millionen-Herbstbelebung-schwach-id31363946.html",
           "published": "2026-09-30T07:59:07+00:00",
           "summary": "Saisonal bedingt geht die Arbeitslosigkeit im September zurück. Die Zahl der Arbeitslosen sinkt dabei unter eine wichtige Marke. Dennoch fällt die Herbstbelebung in diesem Jahr schwach aus."
-        },
-        {
-          "title": "\"Es reicht jetzt erst mal\": Deutschlandticket könnte bald wieder teurer werden",
-          "link": "https://www.n-tv.de/wirtschaft/Deutschlandticket-koennte-bald-wieder-teurer-werden-id31363186.html",
-          "published": "2026-09-30T04:57:37+00:00",
-          "summary": "Ab Oktober gibt es für Autofahrer einen Tankrabatt, Bahnfahren könnte dagegen bald teurer werden. Zumindest für die 14,5 Millionen Menschen, die ein Deutschlandticket besitzen. Der Fahrgastverband …"
-        },
-        {
-          "title": "Weiterhin zu wenig Regen: Rekordniedrigwasser am Rhein - Pegel teils im negativen Bereich",
-          "link": "https://www.n-tv.de/wirtschaft/Rekordniedrigwasser-am-Rhein-Pegel-teils-im-negativen-Bereich-id31363180.html",
-          "published": "2026-09-30T04:56:47+00:00",
-          "summary": "Für ein Ansteigen der Pegelstände des Rheins braucht es viel Regen. Doch der bleibt seit Monaten aus. Insbesondere für die Schifffahrt verlängert sich damit die Leidenszeit."
         }
       ],
       "error": null
@@ -132,6 +132,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Marktbericht: Commerzbank-Aktie gerät unter Druck",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html",
+          "published": "2026-09-30T11:38:08+00:00",
+          "summary": "Die Commerzbank-Aktie steht heute unter Druck: Anleger blicken auf die geplante Übernahme der Commerzbank durch die italienische UniCredit, die ihre Schatten voraus wirft. Auch ein Analystenkommentar …"
+        },
         {
           "title": "Marktbericht: KI sorgt für Rückenwind bei Tech-Werten",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
           "published": "2026-09-25T11:11:04+00:00",
           "summary": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus."
-        },
-        {
-          "title": "Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html",
-          "published": "2026-09-24T14:29:16+00:00",
-          "summary": "Der deutsche Bankenmarkt zeigt sich weitgehend krisenfest - das ist das Ergebnis des neuen Stresstests von Bundesbank und Finanzaufsicht. Dabei werden bestimmte Schocks und Verwerfungen simuliert. …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Pflege-Streit: Regierung bringt Pflegereform auf den Weg",
+          "title": "Immobilienfinanzierung: Bauzinsen über vier Prozent setzen Immobilienbesitzer unter Druck",
+          "link": "https://www.wiwo.de/finanzen/immobilien/anschlussfinanzierung-was-tun-bei-bauzinsen-ueber-4-prozent/100257366.html",
+          "published": "2026-09-30T12:08:00+00:00",
+          "summary": "Die hohen Bauzinsen machen auch viele Anschlussfinanzierungen teurer. Was Immobilienbesitzer nun beachten sollten."
+        },
+        {
+          "title": "Wirecard-Prozess: Verteidigung von Markus Braun will Verfahren neu aufrollen",
+          "link": "https://www.wiwo.de/politik/deutschland/wirecard-prozess-verteidigung-von-markus-braun-will-verfahren-neu-aufrollen/100258666.html",
+          "published": "2026-09-30T12:05:40+00:00",
+          "summary": "Nach bald vier Jahren rückt das Urteil im Wirecard-Prozess näher – und Ex-Konzernchef Braun muss eine lange Haftstrafe fürchten. Auf den letzten Metern will die Verteidigung das Verfahren stoppen."
+        },
+        {
+          "title": "Erstmal die Fakten: Deutschlands Eltern bekommen weniger Kinder – und bald weniger Geld?",
+          "link": "https://www.wiwo.de/politik/deutschland/elterngeld-deutschlands-eltern-bekommen-weniger-kinder-und-bald-womoeglich-weniger-geld/100228681.html",
+          "published": "2026-09-30T11:12:00+00:00",
+          "summary": "Eigentlich wollte die Regierung am Elterngeld sparen. Nun könnten die geplanten Kürzungen gestoppt werden. Die Zahl der Empfänger sinkt seit einigen Jahren."
+        },
+        {
+          "title": "Gasspeicher: Katherina Reiche sichert Gasversorgung stärker ab",
+          "link": "https://www.wiwo.de/politik/deutschland/energie-reiche-weist-staatsunternehmen-zu-gasspeicherung-an/100258591.html",
+          "published": "2026-09-30T11:00:00+00:00",
+          "summary": "Die Füllstände der deutschen Gasspeicher sind niedrig. Ministerin Reiche hatte gesagt, verschiedene Instrumente seien vorbereitet. Eines wird nun angewendet."
+        },
+        {
+          "title": "Pflege-Streit: Regierung plant höhere Pflege-Beiträge für Kinderlose",
           "link": "https://www.wiwo.de/politik/deutschland/pflege-streit-langes-ringen-um-geplante-pflegereform/100258455.html",
-          "published": "2026-09-30T09:20:00+00:00",
-          "summary": "Bis kurz vor dem geplanten Kabinettstermin ringen Union und SPD um einen Kompromiss in ihrem Streit um die Pflege. Dann gibt es grünes Licht für die Reform."
-        },
-        {
-          "title": "Tech-Gipfel: So wenig steckt hinter Donald Trumps neuer „KI-Verfassung“",
-          "link": "https://www.wiwo.de/politik/ausland/ki-gipfel-bei-trump-was-hinter-der-neuen-vereinbarung-steckt/100258534.html",
-          "published": "2026-09-30T09:10:13+00:00",
-          "summary": "Kurz vor den Midterms stellt Trump Regeln für Künstliche Intelligenz vor. Nimmt er die Warnungen plötzlich ernst? Sicher nicht."
-        },
-        {
-          "title": "Einkommensgrenze: So bekommen Sie trotz hohen Einkommens Elterngeld",
-          "link": "https://www.wiwo.de/finanzen/steuern-recht/einkommensgrenze-so-bekommen-sie-trotz-hohen-einkommens-elterngeld-/29879110.html",
-          "published": "2026-09-30T08:30:00+00:00",
-          "summary": "Kommen die geplanten Kürzungen beim Elterngeld? Oder doch nicht? Schon die abgesenkten Einkommensgrenzen bereiten manchen Eltern Probleme. Spezielle Strategien können helfen."
-        },
-        {
-          "title": "Deutsche Einfuhren: Importpreise steigen so stark wie seit Ende 2022 nicht mehr",
-          "link": "https://www.wiwo.de/unternehmen/handel/inflation-deutsche-importpreise-steigen-so-stark-wie-seit-2022-nicht-mehr/100258561.html",
-          "published": "2026-09-30T08:27:00+00:00",
-          "summary": "Deutschland bezieht viele Rohstoffe aus dem Ausland und bekommt die höheren Energiepreise wegen des Iran-Kriegs zu spüren. Das dürfte auch Folgen für Verbraucher haben."
-        },
-        {
-          "title": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt unter drei Millionen",
-          "link": "https://www.wiwo.de/politik/konjunktur/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-unter-drei-millionen/100258579.html",
-          "published": "2026-09-30T08:17:00+00:00",
-          "summary": "Saisonal bedingt geht die Arbeitslosigkeit im September zurück. Dennoch fällt die Herbstbelebung in diesem Jahr schwach aus."
+          "published": "2026-09-30T11:00:00+00:00",
+          "summary": "Lange haben Union und SPD über die Pflegereform gestritten – nun der Beschluss. Beitragserhöhungen für alle soll es jetzt nicht geben. Aber viele dürften trotzdem mehr zahlen."
         }
       ],
       "error": null
@@ -210,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Wärmedämmung aus dem Moor: Wie Paludi-Biomasse Holzfasern Konkurrenz machen könnte",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/waermedaemmung-aus-dem-moor-wie-paludi-biomasse-holzfasern-konkurrenz-machen-koennte/",
+          "published": "2026-09-30T12:00:00+00:00",
+          "summary": "Fraunhofer-Forschende stellen Dämmplatten aus Biomasse wiedervernässter Moore her. Die Wärmeleitfähigkeit liegt bei rund 0,040 W/(m·K)."
+        },
+        {
+          "title": "KI im Engineering: Warum Dokumente erst der Anfang sind",
+          "link": "https://www.ingenieur.de/karriere/arbeitsleben/ki-im-engineering-warum-dokumente-erst-der-anfang-sind/",
+          "published": "2026-09-30T11:30:00+00:00",
+          "summary": "Wo KI im technischen Alltag ankommt, ist oft unspektakulär: bei Dokumenten. Eine Umfrage im Auftrag von Adobe zeigt, welche Aufgaben Ingenieure schon abgeben und woran das Vertrauen noch scheitert."
+        },
         {
           "title": "Dieser Roboter soll Krankenhausbetten autonom durch die Klinik fahren",
           "link": "https://www.ingenieur.de/technik/fachbereiche/medizin/dieser-roboter-soll-krankenhausbetten-autonom-durch-die-klinik-fahren/",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/nach-einem-04-sekunden-blitz-leuchtete-das-all-noch-zehn-minuten-weiter/",
           "published": "2026-09-30T05:16:23+00:00",
           "summary": "Ein Gammablitz dauerte nur 0,4 Sekunden, doch danach folgten fast zehn Minuten Röntgenstrahlung. Steckt ein neu entstandener Magnetar dahinter?"
-        },
-        {
-          "title": "Dieser Roboter hat keinen Motor, lebende Muskelzellen treiben ihn an",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/biotechnik/dieser-roboter-hat-keinen-motor-lebende-muskelzellen-treiben-ihn-an/",
-          "published": "2026-09-29T17:18:01+00:00",
-          "summary": "Eine einzige dünne Lage Muskelzellen treibt einen neuen Biohybrid-Roboter an. Licht steuert seine Flossen und damit die Schwimmrichtung."
-        },
-        {
-          "title": "SMR: Bremsspuren beim Hochlauf",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/world-nuclear-industry-status-report-2026-bremsspuren-beim-smr-hochlauf/",
-          "published": "2026-09-29T16:00:00+00:00",
-          "summary": "Der Hochlauf kleiner modularer Reaktoren stockt. Während Kernkraft kaum wächst, überholt Solar sie bei der Stromerzeugung."
         }
       ],
       "error": null
