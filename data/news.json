@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:09:16+00:00",
+  "generatedAt": "2026-09-30T00:13:18+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657824.html",
+          "published": "2026-09-29T23:59:34+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+          "published": "2026-09-29T23:02:24+00:00",
+          "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81232.html",
+          "published": "2026-09-29T22:30:14+00:00",
+          "summary": ""
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12898.html",
@@ -18,24 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1657800.html",
           "published": "2026-09-29T20:35:56+00:00",
           "summary": ""
-        },
-        {
-          "title": "Regierungsbildung in Sachsen-Anhalt: AfD-Kandidat Siegmund will Ministerpräsident werden",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1657798.html",
-          "published": "2026-09-29T20:31:11+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Ilanit Spinner, ARD Berlin, über das Krisentreffen zur Pflegereform",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1657796.html",
-          "published": "2026-09-29T20:24:11+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
-          "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
-          "published": "2026-09-29T20:19:59+00:00",
-          "summary": "Burnham könnte für Labour ein Wendepunkt sein: Seine Nahbarkeit kommt an, mit ihm als Premier wird die Partei wieder beliebter. Nach kleineren Projekten sollen nun große Reformen zeigen, dass er auch …"
         }
       ],
       "error": null
@@ -48,33 +48,33 @@
       "items": [
         {
           "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-ki-firmen-sollen-sich-selbst-beaufsichtigen/100258460.html",
+          "published": "2026-09-29T23:37:08+00:00",
+          "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen."
+        },
+        {
+          "title": "E-Geländewagen: Jetzt rollt auch der Range Rover Sport an die Ladesäule",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/e-gelaendewagen-jetzt-rollt-auch-der-range-rover-sport-an-die-ladesaeule/100258457.html",
+          "published": "2026-09-29T23:01:04+00:00",
+          "summary": "Ein Range Rover kommt selten allein - auch nicht mit E-Antrieb. Nach ihrem Flaggschiff setzen die Briten nun auch den Range Rover Sport unter Strom - und machen den leisen Luxus etwas erschwinglicher."
+        },
+        {
+          "title": "Künstliche Intelligenz: Sam Altmans Antwort auf Metas Vorstoß: OpenAI stellt neuen KI-Assistenten für den Alltag vor",
+          "link": "https://www.handelsblatt.com/technik/ki/openai-konferenz-altman-stellt-ki-assistenten-fuer-den-alltag-vor-draussen-wird-protestiert/100258113.html",
+          "published": "2026-09-29T22:24:41+00:00",
+          "summary": "Der ChatGPT-Entwickler tritt in den wachsenden Markt für digitale Assistenten ein. „Dots“ soll auf Befehl Computer bedienen. Zugleich soll es ein neues Abo geben – teurer als je zuvor."
+        },
+        {
+          "title": "Pflege-Streit: Langes Ringen um geplante Pflegereform",
+          "link": "https://www.handelsblatt.com/politik/deutschland/pflege-streit-langes-ringen-um-geplante-pflegereform/100258454.html",
+          "published": "2026-09-29T22:15:05+00:00",
+          "summary": "Bis zuletzt verhandelten Union und SPD noch über die geplante Pflegereform. Der Handlungsdruck ist groß. Drohende weitere Beitragserhöhungen will die Regierung verhindern."
+        },
+        {
+          "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
           "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-ki-firmen-sollen-sich-selbst-beaufsichtigen/100258448.html",
           "published": "2026-09-29T20:50:24+00:00",
           "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Donald Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen."
-        },
-        {
-          "title": "Nordafrika: In Marokko übernimmt erstmals eine Frau die Regierungsspitze",
-          "link": "https://www.handelsblatt.com/politik/international/nordafrika-in-marokko-uebernimmt-erstmals-eine-frau-die-regierungsspitze/100258440.html",
-          "published": "2026-09-29T19:38:13+00:00",
-          "summary": "Fatima Ezzahra el-Mansouri wird neue Regierungschefin des nordafrikanischen Staates. Die 50-Jährige muss noch eine Koalition aushandeln. Ihr Land soll bald ein Weltereignis mitorganisieren."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: USA verhängen Sanktionen gegen Waffenbeschaffer für Iran",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-verhaengen-sanktionen-gegen-waffenbeschaffer-fuer-iran/100136895.html",
-          "published": "2026-09-29T19:35:00+00:00",
-          "summary": "Iran droht mit Aus für alle Öl-Exporte aus der Region +++ Schiff in der Straße von Hormus offenbar unter Beschuss +++ Iran ruft Amerikaner zum Protest gegen Iran-Krieg auf +++ Der Newsblog."
-        },
-        {
-          "title": "Künstliche Intelligenz: OpenAI streicht neues Modell - und setzt auf KI-Agenten",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-neues-modell-und-setzt-auf-ki-agenten/100258087.html",
-          "published": "2026-09-29T19:15:49+00:00",
-          "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus."
-        },
-        {
-          "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt nach KI-Treffen leicht im Minus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-nach-ki-treffen-leicht-im-minus/100258245.html",
-          "published": "2026-09-29T18:58:21+00:00",
-          "summary": "Die Reparatur einer wichtigen Pipeline und mögliche Verhandlungen lassen den Ölpreis fallen. Doch die Stimmung bleibt gedrückt, während Trump und Tech-Chefs über KI-Risiken beraten."
         }
       ],
       "error": null
