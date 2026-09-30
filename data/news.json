@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:09:22+00:00",
+  "generatedAt": "2026-09-30T04:09:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Hat die Schufa ihr Transparenz-Versprechen gebrochen?",
+          "link": "https://www.tagesschau.de/investigativ/ndr/schufa-score-auskunftei-verbraucher-100.html",
+          "published": "2026-09-30T04:00:51+00:00",
+          "summary": "Vollkommen transparent, verständlich und nachvollziehbar: So sollte der neue Schufa-Score sein, mit dem Millionen Verbraucherinnen und Verbraucher bewertet werden. Doch Recherchen von NDR und SZ …"
+        },
+        {
+          "title": "US-Verbrauchervertrauen sinkt auf tiefsten Stand seit 2014",
+          "link": "https://www.tagesschau.de/wirtschaft/usa-verbrauchervertrauen-einbruch-100.html",
+          "published": "2026-09-30T03:35:20+00:00",
+          "summary": "Kurz vor den Zwischenwahlen in den USA sinkt das Vertrauen der Verbraucher deutlich - auf den tiefsten Stand seit 2014. Gründe für die schlechte Stimmung sind steigende Preise und die Lage auf dem …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657824.html",
-          "published": "2026-09-29T23:59:34+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657896.html",
+          "published": "2026-09-30T03:06:38+00:00",
           "summary": ""
         },
         {
-          "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
-          "published": "2026-09-29T23:02:24+00:00",
-          "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich …"
+          "title": "Ukrainische Wirtschaft durch Krieg unter Druck",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html",
+          "published": "2026-09-30T02:06:47+00:00",
+          "summary": "Russland hat seine Angriffe auf die Ukraine seit Wochen verstärkt. Eine große Belastung ist das auch für die Wirtschaft: Brennende Einkaufszentren und Lagerhallen, unterbrochene Logistikketten …"
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81232.html",
-          "published": "2026-09-29T22:30:14+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12898.html",
-          "published": "2026-09-29T21:18:14+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Britischer Premier Burnham kündigt Neuanfang mit Sozialreformen an",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1657800.html",
-          "published": "2026-09-29T20:35:56+00:00",
-          "summary": ""
+          "title": "Bundesfamilienministerin erwägt Kehrtwende bei Elterngeldreform",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/prien-kuerzungen-elterngeld-100.html",
+          "published": "2026-09-30T02:03:26+00:00",
+          "summary": "Familienministerin Prien macht Eltern Hoffnungen: Möglicherweise soll das Elterngeld doch nicht auf zwölf Monate gekürzt werden. Auch die Aufteilung der Elterngeldmonate stehe auf dem Prüfstand, so …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Geldanlage: BIP-gewichtete ETFs versprechen mehr Streuung – bergen aber ein neues Risiko",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-was-bringen-etfs-mit-bip-gewichtung/100256780.html",
-          "published": "2026-09-30T02:01:02+00:00",
-          "summary": "Statt nach Marktkapitalisierung stellt ein neuer Welt-ETF Aktienmärkte nach Wirtschaftskraft zusammen. Das halbiert den US-Anteil, schafft aber neue Probleme."
+          "title": "Morning Briefing: Welchen Gegner OpenAI sich jetzt wirklich aussucht",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-welchen-gegner-openai-sich-jetzt-wirklich-aussucht/100258446.html",
+          "published": "2026-09-30T03:50:20+00:00",
+          "summary": "Während der Rest der Branche bei US-Präsident Donald Trump zu Mittag aß, stellte OpenAI-Chef Sam Altman ein neues Agentensystem vor. Hauptkonkurrent ist nicht der alte Intimfeind Anthropic."
         },
         {
-          "title": "Energie: Reiche ordnet Gaseinspeicherung an – Staatsunternehmen soll Speicher füllen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/energie-wirtschaftsministerin-reiche-ordnet-gaseinspeicherung-an/100258436.html",
-          "published": "2026-09-30T02:00:40+00:00",
-          "summary": "Katherina Reiche weist nach Handelsblatt-Informationen das Staatsunternehmen Sefe an, vermehrt Erdgas einzuspeichern – und reagiert damit auf die niedrigen Füllstände in den Speichern."
+          "title": "Die Insel Krk zu Fuß: „Camino Krk“: So geht Pilgern auf Kroatisch",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/die-insel-krk-zu-fuss-camino-krk-so-geht-pilgern-auf-kroatisch/100258510.html",
+          "published": "2026-09-30T03:24:08+00:00",
+          "summary": "Über die Insel Krk verläuft ein „Jakobsweg“, 152 Kilometer lang, unterteilt in sieben Etappen, teils zauberhaft. Komisch nur, dass eine Anbindung nach Santiago de Compostela fehlt."
         },
         {
-          "title": "Industrie: Mercedes-Vorstand: „Gewinne der Verbrenner finanzieren Investitionen in Nachhaltigkeit“",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/mercedes-benz-verbrenner-gewinne-finanzieren-unsere-nachhaltigkeit/100252511.html",
-          "published": "2026-09-30T02:00:23+00:00",
-          "summary": "Mit recyceltem Aluminium und Türgriffen aus alten Reifen will Mercedes seine Fahrzeuge dekarbonisieren. Vorstand Olaf Schick hat die Nachhaltigkeitsstrategie angepasst."
+          "title": "Märkte Asien: Inflations- und Kriegssorgen belasten Anleihemärkte",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-inflations-und-kriegssorgen-belasten-anleihemaerkte/100258509.html",
+          "published": "2026-09-30T03:18:58+00:00",
+          "summary": "Auch in Asien sorgen die steigenden Anleiherenditen für fallende Kurse. Auch eine fehlende Lösungsaussicht für den Krieg im Iran drückt am Mittwoch auf die Stimmung der Anleger."
         },
         {
-          "title": "Rüstung: Boeing erhält Milliardenauftrag für neuen Tarnkappen-Kampfjet",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-boeing-erhaelt-milliardenauftrag-fuer-neuen-tarnkappen-kampfjet/100258471.html",
-          "published": "2026-09-30T01:45:56+00:00",
-          "summary": "Das Programm könnte über die gesamte Laufzeit ein Volumen von mehreren hundert Milliarden Dollar erreichen. Die USA wollen der schnellen Modernisierung der chinesischen Luftwaffe begegnen."
+          "title": "Invest: Japan-Experte: „Die USA brauchen Geld aus Japan“",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-japan-experte-die-usa-brauchen-geld-aus-japan/100258429.html",
+          "published": "2026-09-30T03:10:00+00:00",
+          "summary": "Japan ist für die Anleihemärkte enorm wichtig. Sönke Siemßen vom Vermögensverwalter Nomura kennt die Gründe und erklärt, warum die Geldpolitik der USA für die Bondmärkte gefährlich ist."
         },
         {
-          "title": "Autoindustrie: BMW streicht beim neuen 3er den Diesel",
-          "link": "https://www.handelsblatt.com/politik/deutschland/autoindustrie-bmw-streicht-beim-neuen-3er-den-diesel/100258472.html",
-          "published": "2026-09-30T01:45:04+00:00",
-          "summary": "Mit den aktuellen Rekordpreisen für den Kraftstoff hat das nichts zu tun - vielmehr mit einer anderen Entwicklung."
+          "title": "Invest: Japan-Experte: „Die USA brauchen Geld aus Japan“",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-japan-experte-die-usa-brauchen-geld-aus-japan/100258258.html",
+          "published": "2026-09-30T03:05:00+00:00",
+          "summary": "Japan ist für die Anleihemärkte enorm wichtig. Sönke Siemßen vom Vermögensverwalter Nomura kennt die Gründe und erklärt, warum die Geldpolitik der USA für die Bondmärkte gefährlich ist."
         }
       ],
       "error": null
@@ -172,6 +172,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "BASF und Evonik: Das würde die Evonik-Übernahme für Arbeitsplätze, Standorte und Wettbewerb bedeuten",
+          "link": "https://www.wiwo.de/unternehmen/industrie/basf-und-evonik-das-wuerde-die-evonik-uebernahme-fuer-arbeitsplaetze-standorte-und-wettbewerb-bedeuten/100258232.html",
+          "published": "2026-09-30T04:01:07+00:00",
+          "summary": "BASF greift nach Evonik, Deutschlands zweitgrößtem Chemiekonzern. Schon jetzt ist absehbar: Das würde noch einmal Tausende Jobs kosten, vor allem an zwei Standorten in NRW."
+        },
+        {
           "title": "VW-Dossier: Die heimlichen Macher des Volkswagen-Umbaus",
           "link": "https://www.wiwo.de/unternehmen/auto/vw-dossier-die-heimlichen-macher-des-volkswagen-umbaus/100258272.html",
           "published": "2026-09-29T18:55:00+00:00",
@@ -194,12 +200,6 @@
           "link": "https://www.wiwo.de/unternehmen/industrie/zehn-plus-fuenf-milliarden-dollar-siemens-teure-wette-auf-physische-ki/100257885.html",
           "published": "2026-09-29T17:03:00+00:00",
           "summary": "Cedrik Neike dreht Siemens auf links, um den Markt für physische Künstliche Intelligenz zu erobern. Der Plan geht auf – nur nicht in Deutschland."
-        },
-        {
-          "title": "Inflation: Rekord-Spritpreise könnten Inflation über 3 Prozent treiben",
-          "link": "https://www.wiwo.de/politik/konjunktur/inflation-rekord-spritpreise-koennten-inflation-ueber-3-prozent-treiben/100258413.html",
-          "published": "2026-09-29T16:30:37+00:00",
-          "summary": "Der anhaltende Iran-Krieg sorgt für hohe Spritpreise. Das treibt die Inflation, die Verbraucher auch an der Supermarktkasse immer stärker zu spüren bekommen. Wird der Tankrabatt helfen?"
         }
       ],
       "error": null
