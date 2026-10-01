@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T16:52:08+00:00",
+  "generatedAt": "2026-10-01T22:19:32+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Klopp unter Druck: Deutschland braucht ein Erfolgserlebnis",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/erfolgserlebnis-gegen-serbien-noetig-klopp-unter-druck,dfb-610.html",
-          "published": "2026-10-01T16:47:39+00:00",
-          "summary": "Deutschland braucht ein Erfolgserlebnis - für die Stimmung und den Verbleib in der Liga A der Nations League. Gegen Serbien tritt Bundestrainer Jürgen Klopp mit vielen unerfahrenen Spielern an."
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12886.html",
+          "published": "2026-10-01T21:55:50+00:00",
+          "summary": ""
         },
         {
-          "title": "„Tankrabatt“: So reagieren Autofahrer auf die gesunkenen Spritpreise",
-          "link": "https://www.tagesschau.de/video/video-1658920.html",
-          "published": "2026-10-01T16:36:54+00:00",
+          "title": "Wirtz und Bischof top, Woltemade im Pech - die Einzelkritik",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/wirtz-und-bischof-top-woltemade-im-pech-die-einzelkritik,einzelkritik-deutschland-serbien-100.html",
+          "published": "2026-10-01T21:50:04+00:00",
+          "summary": "Der erste Sieg unter Jürgen Klopp hatte viele Sieger - für die genialen Momente sorgten Florian Wirtz und Tom Bischof. Nick Woltemade war gut, hatte aber auch einen Aussetzer - die Einzelkritik."
+        },
+        {
+          "title": "Ellen Ehni, WDR, mit dem ARD-DeutschlandTrend im Oktober",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1659110.html",
+          "published": "2026-10-01T21:33:15+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Gemischtes Preis- und Stimmungsbild nach Wiedereinführung des \"Tankrabatts\"",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1659108.html",
+          "published": "2026-10-01T21:23:33+00:00",
           "summary": ""
         },
         {
           "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
           "link": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
-          "published": "2026-10-01T16:26:29+00:00",
+          "published": "2026-10-01T21:02:22+00:00",
           "summary": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen …"
-        },
-        {
-          "title": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
-          "link": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
-          "published": "2026-10-01T16:17:17+00:00",
-          "summary": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese …"
-        },
-        {
-          "title": "tagesschau in Einfacher Sprache",
-          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1444.html",
-          "published": "2026-10-01T16:13:13+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Märkte Insight: Wenn Angst vor Künstlicher Intelligenz zum Geschäftsmodell wird",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wenn-angst-vor-kuenstlicher-intelligenz-zum-geschaeftsmodell-wird/100257475.html",
-          "published": "2026-10-01T16:40:46+00:00",
-          "summary": "Wird uns die KI alle vernichten? Blödsinn, meint Nvidia-Chef Jensen Huang. Er sieht die Debatte vor allem als Möglichkeit, die Dominanz des Chipherstellers auszubauen, meint Michael Maisch."
+          "title": "Sportartikel-Konzern: Nike verschärft Sparprogramm",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sportartikel-konzern-nike-verschaerft-sparprogramm/100259131.html",
+          "published": "2026-10-01T21:44:13+00:00",
+          "summary": "Nike kämpft sich seit mehr als einem Jahr aus einem weitgehend hausgemachten Tief. Zuletzt verlief die Erholung holperig. Jetzt wird härter gespart."
         },
         {
-          "title": "Raumfahrt: Vier Astronauten zur ISS gestartet",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-vier-astronauten-zur-iss-gestartet/100259102.html",
-          "published": "2026-10-01T16:38:20+00:00",
-          "summary": "Seit Februar sind zwei US-Amerikaner, ein Russe und eine Französin im All. Jetzt ist ihre Ablösung unterwegs."
+          "title": "Kompaktes SUV: So tickt der neue Tucson von Hyundai",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/kompaktes-suv-so-tickt-der-neue-tucson-von-hyundai/100259128.html",
+          "published": "2026-10-01T21:15:04+00:00",
+          "summary": "Bei allem elektrischen Engagement hält Hyundai auch der alten Schule die Treue und erneuert noch einmal den Tucson. Unter der Haube will es der Tiguan-Gegner allen recht machen - beinahe jedenfalls."
         },
         {
-          "title": "Musterdepot – Zukunft: Investoren unterschätzen Coinbase",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/bitcoin-investoren-unterschaetzen-coinbase/100258011.html",
-          "published": "2026-10-01T16:36:47+00:00",
-          "summary": "Der Kryptomarkt hat sich von seinem Jahrestief erholt. Coinbase hat davon zwar kaum profitiert. Vieles spricht aber dafür, dass auch der Kurs des Kryptounternehmens bald steigen wird."
+          "title": "Sportartikelhersteller: Nike legt neues Sparprogramm auf",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sportartikelhersteller-nike-legt-neues-sparprogramm-auf/100259124.html",
+          "published": "2026-10-01T21:03:08+00:00",
+          "summary": "Der Sportartikelkonzern Nike rechnet mit einem deutlichen Umsatzrückgang. Bis 2031 sollen die Kosten um 2,5 Milliarden Dollar sinken. Auch weitere Stellenstreichungen sind geplant."
         },
         {
-          "title": "Geopolitik: Merz warnt: „Dann wird sich die russische Kriegsmaschinerie früher oder später gegen uns richten“",
-          "link": "https://www.handelsblatt.com/politik/international/geopolitik-merz-warnt-vor-bislang-schwerstem-kriegswinter-in-der-ukraine/100258890.html",
-          "published": "2026-10-01T16:28:55+00:00",
-          "summary": "Massenmigration, Destabilisierung, Unsicherheit: Ein russischer Sieg über die Ukraine wäre katastrophal, betont der Kanzler. Seine Botschaft richtet sich nicht nur an Moskau, sondern auch an die AfD."
+          "title": "+++ USA +++: Umfrage: Mehrheit unzufrieden mit Trumps Wirtschaftspolitik",
+          "link": "https://www.handelsblatt.com/politik/international/usa-laut-umfrage-mehrheit-unzufrieden-mit-trumps-wirtschaftspolitik/29669594.html",
+          "published": "2026-10-01T20:51:00+00:00",
+          "summary": "Weißes Haus schließt CNN erneut von Reise aus +++ Trump: „Wird Wahlen geben“ in Venezuela – aber noch zu früh +++ Streit bei Republikanern – Senatorin blockiert Trumps Richterwahl +++ Der Newsblog."
         },
         {
-          "title": "Trump Watch: Musk im Pentagon, das US-Diesel-Dilemma, Trumps Medienfirma fusioniert: die Trump-News der Woche",
-          "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-musk-im-pentagon-das-diesel-dilemma-die-trump-news-der-woche/100259094.html",
-          "published": "2026-10-01T16:28:04+00:00",
-          "summary": "Tesla- und SpaceX-Chef Elon Musk soll bis Ende Januar eine Strategie zur Zukunft der US-Kriegsführung ausarbeiten. Diese und weitere Trump-News analysieren die Hosts in dieser Folge."
+          "title": "+++ Ukraine-Krieg +++: Ukraine setzt erstmals neue ballistische Rakete ein",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-10-01T20:36:00+00:00",
+          "summary": "Putin: Wären eigentlich zu Friedensgesprächen bereit gewesen +++ Putin will Donbass in weniger als anderthalb Jahren erobern +++ Russlands Präsident schließt Nationalisierung westlicher Aktiva nicht …"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Inflationssorgen wachsen: Steigende Ölpreise sorgen an Wall Street für Sorgenfalten",
+          "link": "https://www.n-tv.de/wirtschaft/Steigende-Oelpreise-sorgen-an-Wall-Street-fuer-Sorgenfalten-id31371707.html",
+          "published": "2026-10-01T20:56:39+00:00",
+          "summary": "Ein Exportstopp chinesischer Raffinerien treibt die Ölpreise. Anleger flüchten vermehrt in festverzinsliche Papiere, die durch hohe Zinsen attraktiver erscheinen. Das IT-Beratungsunternehmen …"
+        },
         {
           "title": "Netz bundesweit ausbauen: Post kauft Paketautomaten-Firma Myflexbox",
           "link": "https://www.n-tv.de/wirtschaft/Post-kauft-Paketautomaten-Firma-Myflexbox-id31370821.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Bundesnetzagentur-sieht-Gasversorgung-im-Winter-gesichert-id31370146.html",
           "published": "2026-10-01T14:23:12+00:00",
           "summary": "Die deutschen Gasspeicher sind deutlich weniger gefüllt als vor einem Jahr. Die Netzagentur gibt sich dennoch gelassen und erwartet keine Probleme im Winter. Um Signale der Entspannung bemüht sich …"
-        },
-        {
-          "title": "Trumps Kraftstoff-Bumerang: US-Exportverbot für Diesel könnte Preisschock auslösen - in den USA",
-          "link": "https://www.n-tv.de/wirtschaft/US-Exportverbot-fuer-Diesel-koennte-Preisschock-ausloesen-in-den-USA-id31364542.html",
-          "published": "2026-10-01T14:16:41+00:00",
-          "summary": "Die USA wählen in wenigen Wochen ein neues Repräsentantenhaus. Umfragen deuten derzeit eine deutliche Niederlage für Präsident Trump und die Republikaner an. Ein Grund: die Tank-Wut. Ein Exportverbot …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Neobroker: Der Zinsstreit bei Trade Republic geht weiter",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/trade-republic-der-zinsstreit-beim-neobroker-geht-weiter/100258732.html",
+          "published": "2026-10-01T20:24:18+00:00",
+          "summary": "Wer Zinsen bei Trade Republic nicht aktiviert hat, geht leer aus. Die Verbraucherzentrale kritisiert die Praxis, doch der Neobroker verteidigt sie."
+        },
+        {
+          "title": "Einzelhandel: Kodi schließt 43 Filialen, 100 Standorte bleiben",
+          "link": "https://www.wiwo.de/unternehmen/handel/einzelhandel-kodi-schliesst-43-filialen-100-standorte-bleiben/100259114.html",
+          "published": "2026-10-01T17:57:26+00:00",
+          "summary": "Der Discounter Kodi wirbt mit günstigen Preisen für Haushaltswaren um Kunden. Doch die Geschäfte laufen schlecht, das Unternehmen muss saniert werden."
+        },
+        {
+          "title": "Pflegereform: Regierung plant 700-Millionen-Finanzspritze für Pflegekassen",
+          "link": "https://www.wiwo.de/politik/deutschland/pflegereform-regierung-plant-700-millionen-finanzspritze-fuer-pflegekassen/100259113.html",
+          "published": "2026-10-01T17:50:44+00:00",
+          "summary": "Die Finanzlage der Pflegeversicherung ist angespannt. Um kurzfristig Löcher zu stopfen, soll noch in diesem Jahr mehr Geld bereitgestellt werden."
+        },
+        {
+          "title": "Börse: Dax rutscht unter 25.000 Punkte",
+          "link": "https://www.wiwo.de/finanzen/boerse/dax-aktienindex-rutscht-unter-25.000-punkte/100259101.html",
+          "published": "2026-10-01T17:24:24+00:00",
+          "summary": "Der Dax setzt seine Talfahrt fort. Der MDax fiel noch stärker zurück. Auch an den anderen europäischen Börsen zeigen sich die Anleger zurückhaltend."
+        },
+        {
           "title": "WirtschaftsWoche Club: 100 Jahre WirtschaftsWoche – die große Geburtstagsfeier im Livestream",
           "link": "https://www.wiwo.de/club/wirtschaftswoche-club-100-jahre-wirtschaftswoche-die-grosse-geburtstagsfeier-im-livestream/100242139.html",
           "published": "2026-10-01T16:20:00+00:00",
           "summary": "Die WirtschaftsWoche wird 100 – und heute wird daraus ein Abend, den wir am liebsten mit Ihnen verbringen: unseren Abonnentinnen und Abonnenten. Seien Sie live dabei."
-        },
-        {
-          "title": "Ukraine-Krieg: Verhandeln mit Moskau? Ein Scheitern in fünf Akten",
-          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-und-verhandlungen-eine-chronologie-diplomatischer-versuche/100258308.html",
-          "published": "2026-10-01T16:15:31+00:00",
-          "summary": "Mehr als vier Jahre Krieg und Diplomatie-Versuche. Friedensgipfel. Von Istanbul bis Anchorage. Wurde wirklich zu wenig gesprochen mit Moskau? Eine Chronologie."
-        },
-        {
-          "title": "Deutsche Bahn: Gericht hält geplante Schienenmaut für 2027 für rechtens",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/deutsche-bahn-gericht-haelt-geplante-schienenmaut-fuer-2027-fuer-rechtens/100259078.html",
-          "published": "2026-10-01T15:50:30+00:00",
-          "summary": "Die Bahn kann laut Gerichtsbeschluss 2027 höhere Gebühren verlangen. Das hat Folgen für die Unternehmen – und möglicherweise auch für die Fahrgäste."
-        },
-        {
-          "title": "Illegale Absprachen: Dieses Gutachten aus Luxemburg hat es für Manager in sich",
-          "link": "https://www.wiwo.de/erfolg/management/kartellabsprachen-dieses-gutachten-aus-luxemburg-hat-es-fuer-manager-in-sich/100258546.html",
-          "published": "2026-10-01T15:30:00+00:00",
-          "summary": "Der EuGH muss klären, ob Firmen Führungskräfte bei illegalen Absprachen in Regress nehmen können. Der Generalanwalt hat nun seinen Schlussantrag veröffentlicht."
-        },
-        {
-          "title": "Neobroker: Der Zinsstreit bei Trade Republic geht weiter",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/trade-republic-der-zinsstreit-beim-neobroker-geht-weiter/100258732.html",
-          "published": "2026-10-01T15:14:12+00:00",
-          "summary": "Wer Zinsen bei Trade Republic nicht aktiviert hat, geht leer aus. Die Verbraucherzentrale kritisiert die Praxis, doch der Neobroker verteidigt sie."
         }
       ],
       "error": null
