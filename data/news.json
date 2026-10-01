@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:17:17+00:00",
+  "generatedAt": "2026-10-01T16:52:08+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Pauline Deichelmann, SR, zum neuen \"Tankrabatt\"",
-          "link": "https://www.tagesschau.de/video/video-1658564.html",
-          "published": "2026-10-01T08:14:19+00:00",
+          "title": "Klopp unter Druck: Deutschland braucht ein Erfolgserlebnis",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/erfolgserlebnis-gegen-serbien-noetig-klopp-unter-druck,dfb-610.html",
+          "published": "2026-10-01T16:47:39+00:00",
+          "summary": "Deutschland braucht ein Erfolgserlebnis - für die Stimmung und den Verbleib in der Liga A der Nations League. Gegen Serbien tritt Bundestrainer Jürgen Klopp mit vielen unerfahrenen Spielern an."
+        },
+        {
+          "title": "„Tankrabatt“: So reagieren Autofahrer auf die gesunkenen Spritpreise",
+          "link": "https://www.tagesschau.de/video/video-1658920.html",
+          "published": "2026-10-01T16:36:54+00:00",
           "summary": ""
         },
         {
-          "title": "Marktbericht: DAX fällt unter 25.000 Punkte",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
-          "published": "2026-10-01T08:04:49+00:00",
-          "summary": "Belastet von Inflationssorgen und der Befürchtung steigender Zinsen ist der DAX mit Verlusten in den Oktober gestartet. Dabei fiel sogar die psychologisch wichtige Marke von 25.000 Punkten."
+          "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
+          "published": "2026-10-01T16:26:29+00:00",
+          "summary": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen …"
         },
         {
-          "title": "Energieverbrauch: Anteil von Ökostrom steigt auf Rekordwert",
-          "link": "https://www.tagesschau.de/wirtschaft/energie/oekostrom-wind-sonne-wasserkraft-rekord-100.html",
-          "published": "2026-10-01T07:56:39+00:00",
-          "summary": "In den ersten neun Monaten des Jahres betrug der Anteil von Ökostrom am gesamten Stromverbrauch fast 61 Prozent. Das ist so viel wie nie. Gleichzeitig stieg aber auch der Strombedarf."
+          "title": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
+          "link": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
+          "published": "2026-10-01T16:17:17+00:00",
+          "summary": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-01T07:15:33+00:00",
-          "summary": "Am Donnerstag ist es in der Westhälfte meist stark bewölkt, gebietsweise fällt Regen und es Schauer soewie einzelne Gewitter. Lokal ist unwetterartiger Starkregen möglich! Nach Osten hin scheint noch …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1658518.html",
-          "published": "2026-10-01T07:14:05+00:00",
+          "title": "tagesschau in Einfacher Sprache",
+          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1444.html",
+          "published": "2026-10-01T16:13:13+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Geschäftszahlen +++: EVN steckt Milliarden in Energiewende und peilt Gewinnsprung an",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-evn-steckt-milliarden-in-energiewende-und-peilt-gewinnsprung-an/24098412.html",
-          "published": "2026-10-01T08:12:00+00:00",
-          "summary": "Gerresheimer-Geschäft erholt sich im zweiten Quartal +++ Lindt kürzt die Umsatzprognose +++ Hornbach profitiert von hoher Nachfrage nach Klimageräten +++ Der Newsblog."
+          "title": "Märkte Insight: Wenn Angst vor Künstlicher Intelligenz zum Geschäftsmodell wird",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wenn-angst-vor-kuenstlicher-intelligenz-zum-geschaeftsmodell-wird/100257475.html",
+          "published": "2026-10-01T16:40:46+00:00",
+          "summary": "Wird uns die KI alle vernichten? Blödsinn, meint Nvidia-Chef Jensen Huang. Er sieht die Debatte vor allem als Möglichkeit, die Dominanz des Chipherstellers auszubauen, meint Michael Maisch."
         },
         {
-          "title": "Dax aktuell: Dax notiert im Minus – Infineon-Aktie steigt",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-infineon-aktie-steigt/100258866.html",
-          "published": "2026-10-01T08:06:01+00:00",
-          "summary": "Anleger blicken unter anderem auf neue Inflations- und Konjunkturdaten, während die Ölpreise wegen sich erholender Golfexporte und höherer US-Lagerbestände nachgeben."
+          "title": "Raumfahrt: Vier Astronauten zur ISS gestartet",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-vier-astronauten-zur-iss-gestartet/100259102.html",
+          "published": "2026-10-01T16:38:20+00:00",
+          "summary": "Seit Februar sind zwei US-Amerikaner, ein Russe und eine Französin im All. Jetzt ist ihre Ablösung unterwegs."
         },
         {
-          "title": "Bahngastrechte: Streckensperrung verlängert Bahnreise - Gibt es Geld zurück?",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/bahngastrechte-streckensperrung-verlaengert-bahnreise-gibt-es-geld-zurueck/100258909.html",
-          "published": "2026-10-01T07:56:19+00:00",
-          "summary": "Wegen Sanierungsarbeiten dauert die Fahrt zwischen Berlin und Hannover ab Freitag deutlich länger. Welche Ansprüche Bahnkunden haben, hängt davon ab, wann sie ihr Ticket gekauft haben."
+          "title": "Musterdepot – Zukunft: Investoren unterschätzen Coinbase",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/bitcoin-investoren-unterschaetzen-coinbase/100258011.html",
+          "published": "2026-10-01T16:36:47+00:00",
+          "summary": "Der Kryptomarkt hat sich von seinem Jahrestief erholt. Coinbase hat davon zwar kaum profitiert. Vieles spricht aber dafür, dass auch der Kurs des Kryptounternehmens bald steigen wird."
         },
         {
-          "title": "Pharma: Bis zu 750 Millionen: Fresenius kauft Biopharma-Tochter ganz",
-          "link": "https://www.handelsblatt.com/politik/deutschland/pharma-bis-zu-750-millionen-fresenius-kauft-biopharma-tochter-ganz/100258904.html",
-          "published": "2026-10-01T07:44:58+00:00",
-          "summary": "Der Medizin- und Klinikkonzern übernimmt für viel Geld seine Biopharma-Tochter mAbxience komplett und stärkt damit ein wichtiges Geschäft. Für 50 Millionen davon gibt es aber eine Bedingung."
+          "title": "Geopolitik: Merz warnt: „Dann wird sich die russische Kriegsmaschinerie früher oder später gegen uns richten“",
+          "link": "https://www.handelsblatt.com/politik/international/geopolitik-merz-warnt-vor-bislang-schwerstem-kriegswinter-in-der-ukraine/100258890.html",
+          "published": "2026-10-01T16:28:55+00:00",
+          "summary": "Massenmigration, Destabilisierung, Unsicherheit: Ein russischer Sieg über die Ukraine wäre katastrophal, betont der Kanzler. Seine Botschaft richtet sich nicht nur an Moskau, sondern auch an die AfD."
         },
         {
-          "title": "Orlopp-Nachfolge: Michael Diederich als neuer Commerzbank-Chef im Gespräch",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-michael-diederich-als-neuer-commerzbank-chef-im-gespraech/100258896.html",
-          "published": "2026-10-01T07:44:37+00:00",
-          "summary": "Unicredit beschäftigt sich Insidern zufolge bereits mit der Frage, wer Nachfolger von Bettina Orlopp werden könnte. Ob Diederich dafür bereitstünde, ist aber fraglich."
+          "title": "Trump Watch: Musk im Pentagon, das US-Diesel-Dilemma, Trumps Medienfirma fusioniert: die Trump-News der Woche",
+          "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-musk-im-pentagon-das-diesel-dilemma-die-trump-news-der-woche/100259094.html",
+          "published": "2026-10-01T16:28:04+00:00",
+          "summary": "Tesla- und SpaceX-Chef Elon Musk soll bis Ende Januar eine Strategie zur Zukunft der US-Kriegsführung ausarbeiten. Diese und weitere Trump-News analysieren die Hosts in dieser Folge."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Verträge gekündigt: Was der Tarif-Hammer bei VW für die Beschäftigten bedeutet",
-          "link": "https://www.n-tv.de/wirtschaft/Was-der-Tarif-Hammer-bei-VW-fuer-die-Beschaeftigten-bedeutet-id31367888.html",
-          "published": "2026-10-01T06:43:44+00:00",
-          "summary": "Der VW-Konzern kündigt im Zuge seiner Sparmaßnahmen zehn Tarifverträge. Für die Beschäftigten ist das ein schwerer Schlag. Es bedeutet aber immerhin nicht, dass darin enthaltene Regelungen sofort …"
+          "title": "Netz bundesweit ausbauen: Post kauft Paketautomaten-Firma Myflexbox",
+          "link": "https://www.n-tv.de/wirtschaft/Post-kauft-Paketautomaten-Firma-Myflexbox-id31370821.html",
+          "published": "2026-10-01T16:03:10+00:00",
+          "summary": "Das Paketaufkommen steigt, doch die Haustür-Lieferung ist teuer. Platzhirsch DHL will das Land deswegen noch stärker als bisher mit einem Netz aus Paketstationen überziehen. Dazu kaufen die Bonner …"
         },
         {
-          "title": "\"Niedrigste Wärmekosten\": Die meisten Mehrfamilienhäuser sind für Wärmepumpen geeignet",
-          "link": "https://www.n-tv.de/wirtschaft/Die-meisten-Mehrfamilienhaeuser-sind-fuer-Waermepumpen-geeignet-id31367743.html",
-          "published": "2026-10-01T06:10:34+00:00",
-          "summary": "Wärmepumpen sind bei Neubauten in der Regel die erste Wahl. Und auch viele bestehende Mehrfamilienhäuser sind laut einer Studie bereit für die Technik. Mitunter braucht es aber auch größere Umbauten."
+          "title": "Stolze 365 Meter hoch: Höchstes Windrad der Welt soll in der Lausitz bald ans Netz gehen",
+          "link": "https://www.n-tv.de/wirtschaft/Hoechstes-Windrad-der-Welt-soll-in-der-Lausitz-bald-ans-Netz-gehen-id31370603.html",
+          "published": "2026-10-01T15:18:38+00:00",
+          "summary": "Nicht einmal die Chinesen bauen in diese Höhen: In Südbrandenburg ist der höchste Windturm der Welt entstanden, die Betreiber erhoffen sich den doppelten Energieertrag einer konventionellen …"
         },
         {
-          "title": "Cariad-Beschäftigte bangen: Sparkurs bei VW-Tochter - jede vierte Stelle soll wegfallen",
-          "link": "https://www.n-tv.de/wirtschaft/Sparkurs-bei-VW-Tochter-jede-vierte-Stelle-soll-wegfallen-id31367857.html",
-          "published": "2026-10-01T05:56:46+00:00",
-          "summary": "Der Autobauer Volkswagen steckt in der Krise. Das kostet auch bei der Softwaretochter Cariad Arbeitsplätze. Rund 1000 Stellen sollen betroffen sein - doch wie der Abbau konkret ablaufen soll, ist …"
+          "title": "Auf Kosten der Urlaubstage?: VW-Chef Blume plädiert für längere Arbeitszeiten",
+          "link": "https://www.n-tv.de/wirtschaft/VW-Chef-Blume-plaediert-fuer-laengere-Arbeitszeiten-id31370667.html",
+          "published": "2026-10-01T15:08:25+00:00",
+          "summary": "Volkswagen sucht Wege, seine hohen Arbeitskosten zu senken. Konzernchef Blume hat dafür einen konkreten Weg ins Auge gefasst, für den es zwei verschiedene Umsetzungen gibt. Die IG Metall kündigt …"
         },
         {
-          "title": "E10 teilweise unter 2 Euro: Tankrabatt ist in Kraft - Preise fallen deutlich",
-          "link": "https://www.n-tv.de/wirtschaft/Tankrabatt-ist-in-Kraft-Preise-fallen-deutlich-id31367836.html",
-          "published": "2026-10-01T05:56:02+00:00",
-          "summary": "Der Tankrabatt der Bundesregierung ist umstritten, sorgt aber erst einmal für den erhofften Effekt: Die Spritpreise sinken. Erst der weitere Verlauf wird zeigen, ob die Konzerne den Steuerrabatt auch …"
+          "title": "Norwegen garantiert Lieferungen: Bundesnetzagentur sieht Gasversorgung im Winter gesichert",
+          "link": "https://www.n-tv.de/wirtschaft/Bundesnetzagentur-sieht-Gasversorgung-im-Winter-gesichert-id31370146.html",
+          "published": "2026-10-01T14:23:12+00:00",
+          "summary": "Die deutschen Gasspeicher sind deutlich weniger gefüllt als vor einem Jahr. Die Netzagentur gibt sich dennoch gelassen und erwartet keine Probleme im Winter. Um Signale der Entspannung bemüht sich …"
         },
         {
-          "title": "Internationaler Vergleich: Deutschland gehört zu Spitzengruppe bei Einsatz von KI-Agenten",
-          "link": "https://www.n-tv.de/wirtschaft/Deutschland-gehoert-zu-Spitzengruppe-bei-Einsatz-von-KI-Agenten-id31367738.html",
-          "published": "2026-10-01T05:16:03+00:00",
-          "summary": "Sie führen eigenständig komplexe Aufgabenketten aus und treffen Entscheidungen: KI-Agenten gehören in zahlreichen Unternehmen längst zum Alltag. Nun zeigt eine Befragung, dass Büroangestellte in …"
+          "title": "Trumps Kraftstoff-Bumerang: US-Exportverbot für Diesel könnte Preisschock auslösen - in den USA",
+          "link": "https://www.n-tv.de/wirtschaft/US-Exportverbot-fuer-Diesel-koennte-Preisschock-ausloesen-in-den-USA-id31364542.html",
+          "published": "2026-10-01T14:16:41+00:00",
+          "summary": "Die USA wählen in wenigen Wochen ein neues Repräsentantenhaus. Umfragen deuten derzeit eine deutliche Niederlage für Präsident Trump und die Republikaner an. Ein Grund: die Tank-Wut. Ein Exportverbot …"
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX fällt unter 25.000 Punkte",
+          "title": "Marktbericht: DAX schließt unter 25.000 Punkten",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
-          "published": "2026-10-01T08:04:49+00:00",
-          "summary": "Belastet von Inflationssorgen und der Befürchtung steigender Zinsen ist der DAX mit Verlusten in den Oktober gestartet. Dabei fiel sogar die psychologisch wichtige Marke von 25.000 Punkten."
+          "published": "2026-10-01T16:41:56+00:00",
+          "summary": "Steigende Energiepreise und weiter anziehende Anleiherenditen haben den Aktienmarkt geschwächt. Der DAX hat erstmals seit Juli unterhalb der psychologisch wichtige Marke von 25.000 Punkten …"
+        },
+        {
+          "title": "Rüstungskonzern KNDS bekräftigt Börsenpläne",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-boersengaenge-100.html",
+          "published": "2026-10-01T12:32:53+00:00",
+          "summary": "Als KNDS den für Juli geplanten Börsengang kurzfristig abgesagt hat, war die Enttäuschung groß. Jetzt hat KNDS-Chef Alary in einem Interview klargemacht: Man will an die Börse. Vielleicht noch dieses …"
         },
         {
           "title": "Marktbericht: Commerzbank-Aktie gerät unter Druck",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-suedzucker-100.html",
           "published": "2026-09-28T12:18:56+00:00",
           "summary": "Die Geschäfte bei Südzucker laufen noch besser als bisher gedacht. Der Zuckerkonzern hat zuletzt sowohl von zunehmenden Wetterextremen als auch von den Folgen des Iran-Konflikts profitiert."
-        },
-        {
-          "title": "Marktbericht: Verbraucher halten ihr Geld zusammen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
-          "published": "2026-09-25T11:11:04+00:00",
-          "summary": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus."
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Erstmal die Fakten: Das ist so typisch deutsch!",
-          "link": "https://www.wiwo.de/politik/deutschland/typisch-deutsch-ueberraschende-zahlen-und-rekorde-im-check/100258178.html",
-          "published": "2026-10-01T07:51:00+00:00",
-          "summary": "Sind die Deutschen wirklich Reiseweltmeister? Und was ist mit Kartoffeln, Bier und Autos? Eine Zahlenreise durch deutsche Rekorde und Eigenarten."
+          "title": "WirtschaftsWoche Club: 100 Jahre WirtschaftsWoche – die große Geburtstagsfeier im Livestream",
+          "link": "https://www.wiwo.de/club/wirtschaftswoche-club-100-jahre-wirtschaftswoche-die-grosse-geburtstagsfeier-im-livestream/100242139.html",
+          "published": "2026-10-01T16:20:00+00:00",
+          "summary": "Die WirtschaftsWoche wird 100 – und heute wird daraus ein Abend, den wir am liebsten mit Ihnen verbringen: unseren Abonnentinnen und Abonnenten. Seien Sie live dabei."
         },
         {
-          "title": "Forvia-Chef: „Werden weltweit eine Konsolidierung der Zuliefererbranche sehen“",
-          "link": "https://www.wiwo.de/unternehmen/auto/forvia-wie-der-autozulieferer-vom-chinesischen-markt-lernen-will/100255564.html",
-          "published": "2026-10-01T07:20:00+00:00",
-          "summary": "Weniger Modellvariation bei VW? Wunderbar, findet der Chef des Autozulieferers Forvia. Wie der Konzern von China lernen will und wo Stellenstreichungen unvermeidbar sind."
+          "title": "Ukraine-Krieg: Verhandeln mit Moskau? Ein Scheitern in fünf Akten",
+          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-und-verhandlungen-eine-chronologie-diplomatischer-versuche/100258308.html",
+          "published": "2026-10-01T16:15:31+00:00",
+          "summary": "Mehr als vier Jahre Krieg und Diplomatie-Versuche. Friedensgipfel. Von Istanbul bis Anchorage. Wurde wirklich zu wenig gesprochen mit Moskau? Eine Chronologie."
         },
         {
-          "title": "Standort Deutschland: Der Kanzler will kein „Motivations-Voodoo“ – oder doch?",
-          "link": "https://www.wiwo.de/politik/deutschland/standort-deutschland-wie-friedrich-merz-um-investitionen-wirbt/100257852.html",
-          "published": "2026-10-01T07:18:00+00:00",
-          "summary": "Der Bundeskanzler und ausgewählte Konzerne machen Werbung für den Standort Deutschland. Und auch für sich selbst. Dringen sie durch?"
+          "title": "Deutsche Bahn: Gericht hält geplante Schienenmaut für 2027 für rechtens",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/deutsche-bahn-gericht-haelt-geplante-schienenmaut-fuer-2027-fuer-rechtens/100259078.html",
+          "published": "2026-10-01T15:50:30+00:00",
+          "summary": "Die Bahn kann laut Gerichtsbeschluss 2027 höhere Gebühren verlangen. Das hat Folgen für die Unternehmen – und möglicherweise auch für die Fahrgäste."
         },
         {
-          "title": "Volkswagen: Was die Kündigung der VW-Tarifverträge für Beschäftigte bedeutet",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-kuendigt-tarifvertraege-was-das-fuer-beschaeftigte-bedeutet/100258686.html",
-          "published": "2026-10-01T07:10:00+00:00",
-          "summary": "Volkswagen hat zehn Tarifverträge gekündigt. Noch ist nichts entschieden. Es zeichnet sich aber eine harte Auseinandersetzung ab. Was sich bei Lohn, Arbeitszeit und Urlaub ändern könnte."
+          "title": "Illegale Absprachen: Dieses Gutachten aus Luxemburg hat es für Manager in sich",
+          "link": "https://www.wiwo.de/erfolg/management/kartellabsprachen-dieses-gutachten-aus-luxemburg-hat-es-fuer-manager-in-sich/100258546.html",
+          "published": "2026-10-01T15:30:00+00:00",
+          "summary": "Der EuGH muss klären, ob Firmen Führungskräfte bei illegalen Absprachen in Regress nehmen können. Der Generalanwalt hat nun seinen Schlussantrag veröffentlicht."
         },
         {
-          "title": "100 Jahre WiWo: Warum die WiWo eine einzigartige Stimme bleibt",
-          "link": "https://www.wiwo.de/politik/deutschland/wirtschaftswoche-warum-die-wiwo-eine-einzigartige-stimme-bleibt/100258680.html",
-          "published": "2026-10-01T07:09:13+00:00",
-          "summary": "Die WirtschaftsWoche wird 100 Jahre alt. Längst ist aus einem Wochenmagazin eine multimediale Marke geworden. Der Kern bleibt auch in Zukunft derselbe – versprochen!"
+          "title": "Neobroker: Der Zinsstreit bei Trade Republic geht weiter",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/trade-republic-der-zinsstreit-beim-neobroker-geht-weiter/100258732.html",
+          "published": "2026-10-01T15:14:12+00:00",
+          "summary": "Wer Zinsen bei Trade Republic nicht aktiviert hat, geht leer aus. Die Verbraucherzentrale kritisiert die Praxis, doch der Neobroker verteidigt sie."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Wenn der Vertriebsprofi in Rente geht: Dieses Start-up will sein Wissen retten",
-          "link": "https://www.ingenieur.de/karriere/arbeitsleben/wenn-der-vertriebsprofi-in-rente-geht-dieses-start-up-will-sein-wissen-retten/",
-          "published": "2026-10-01T07:30:00+00:00",
-          "summary": "Wie viel Rabatt verträgt der Kunde? Die Antwort steckt oft in fünf Systemen und im Kopf eines erfahrenen Kollegen. Geht der in Rente, ist sie weg. Die Pricing-Expertin Ekaterina Rühle will dieses …"
+          "title": "Stau am Stromnetz: Berlin verteilt den Mangel, Forscher sehen Platz für 150 GW Solar",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/stau-am-stromnetz-berlin-verteilt-den-mangel-forscher-suchen-nach-reserven/",
+          "published": "2026-10-01T16:08:47+00:00",
+          "summary": "Wer einen Solarpark oder eine Großbatterie ans Stromnetz bringen will, braucht Geduld. Beim Treffpunkt Netze des BDEW diskutierten Netzbetreiber, Projektierer und Politik über neue Regeln. Eine …"
         },
         {
-          "title": "Deutschland baut 9000 km Wasserstoffnetz, aber wer soll es füllen?",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/deutschland-baut-9000-km-wasserstoffnetz-aber-wer-soll-es-fullen/",
-          "published": "2026-10-01T07:00:00+00:00",
-          "summary": "Über 500 km des Wasserstoff-Kernnetzes sind in Betrieb, genehmigt sind rund 9000 km. Doch auf zwei Branchentreffen in Berlin wurde deutlich: Wer den Wasserstoff herstellt und wer ihn kauft, ist …"
+          "title": "Adam Back: Börsengang geplatzt, Millionen-Hack, Klagen – wie angeschlagen ist der Bitcoin-Pionier?",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/adam-back-borsengang-geplatzt-millionen-hack-klagen-wie-angeschlagen-ist-der-bitcoin-pionier/",
+          "published": "2026-10-01T11:30:04+00:00",
+          "summary": "Bitcoin hat ein starkes Quartal hinter sich, doch Pionier Adam Back gerät unter Druck: ein Millionen-Hack bei seiner Firma Blockstream, ein geplatzter Börsengang und Klagen gegen einen Partner von …"
         },
         {
-          "title": "Digitale Selbstbestimmung als Grundlage schnellerer Innovationen",
-          "link": "https://www.ingenieur.de/advertorial/digitale-selbstbestimmung-als-grundlage-schnellerer-innovationen/",
-          "published": "2026-10-01T06:30:00+00:00",
-          "summary": "IT, OT, KI und Lieferketten greifen ineinander, doch: Wer kontrolliert die Daten und Systeme, auf deren Basis die Zukunft der Industrie entsteht?"
+          "title": "Wer baut die besten Werkzeuge im deutschsprachigen Raum? Zwölf Betriebe kämpfen um den Titel",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/produktion/werkzeugbau-des-jahres-2026-diese-zwolf-betriebe-kampfen-um-den-titel/",
+          "published": "2026-10-01T10:30:42+00:00",
+          "summary": "Zwölf Betriebe aus Deutschland, Österreich und der Schweiz sind im Finale des Wettbewerbs \"Excellence in production\", zwei davon zum ersten Mal. Der Sieger wird am 11. November im Krönungssaal des …"
         },
         {
-          "title": "Smarter konstruieren",
-          "link": "https://www.ingenieur.de/advertorial/smarter-konstruieren/",
-          "published": "2026-10-01T06:00:00+00:00",
-          "summary": "Digitale Werkzeuge verändern die Art, wie Produkte und Anlagen entwickelt werden. Mit dem Digital Engineering Service von Schmalz lassen sich viele Schritte der Produkt- und Anlagenentwicklung in die …"
+          "title": "Lohnt sich das Ingenieurstudium im KI-Zeitalter noch? Was Arbeitgeber antworten",
+          "link": "https://www.ingenieur.de/karriere/schluesselqualifikationen/lohnt-sich-das-ingenieurstudium-im-ki-zeitalter-noch-was-arbeitgeber-antworten/",
+          "published": "2026-10-01T10:01:25+00:00",
+          "summary": "KI übernimmt genau die Aufgaben, an denen Berufseinsteiger bisher gelernt haben. Eine Umfrage unter Arbeitgebern an der RWTH Aachen zeigt, was sie stattdessen von jungen Ingenieuren erwarten: mehr …"
         },
         {
-          "title": "Pain Points in der Beschaffung aktiv begegnen",
-          "link": "https://www.ingenieur.de/advertorial/pain-points-in-der-beschaffung-aktiv-begegnen/",
-          "published": "2026-10-01T05:30:00+00:00",
-          "summary": "Jederzeit gut versorgt: Mit dem richtigen Partner Zeit und Geld bei der Deckung des technischen Bedarfs sparen Zuverlässige Lieferung, schlanke Prozesse, wenig manueller Aufwand: Das sind drei der …"
+          "title": "Nachts übernehmen Roboter: Wie Automatisierung den Personalmangel in der Pflege lindern soll",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/automation/nachts-ubernehmen-roboter-wie-automatisierung-den-personalmangel-in-der-pflege-lindern-soll/",
+          "published": "2026-10-01T08:30:00+00:00",
+          "summary": "Für Nachtschichten und Feiertage findet die Pflege kaum noch Personal. Ein Robotikhersteller will deshalb tagsüber Mensch und Maschine zusammen arbeiten lassen und nachts die Roboter. Was auf dem …"
         }
       ],
       "error": null
