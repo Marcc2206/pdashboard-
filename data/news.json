@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:19:32+00:00",
+  "generatedAt": "2026-10-02T03:59:23+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1659124.html",
+          "published": "2026-10-02T03:00:47+00:00",
+          "summary": ""
+        },
+        {
+          "title": "\"Maricarmen\"-Dekrete: Spanien stimmt über Wohnungsgesetze ab",
+          "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
+          "published": "2026-10-02T01:49:37+00:00",
+          "summary": "Nach den anhaltenden Protesten aufgrund der Zwangsräumung einer Rentnerin in Madrid, stimmt nun das Parlament ab - unter anderem geht es um stärkeren Mieterschutz und günstigere Mieten. Von …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81250.html",
+          "published": "2026-10-01T23:48:31+00:00",
+          "summary": ""
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12886.html",
@@ -18,24 +36,6 @@
           "link": "https://www.sportschau.de/fussball/nationalmannschaft/wirtz-und-bischof-top-woltemade-im-pech-die-einzelkritik,einzelkritik-deutschland-serbien-100.html",
           "published": "2026-10-01T21:50:04+00:00",
           "summary": "Der erste Sieg unter Jürgen Klopp hatte viele Sieger - für die genialen Momente sorgten Florian Wirtz und Tom Bischof. Nick Woltemade war gut, hatte aber auch einen Aussetzer - die Einzelkritik."
-        },
-        {
-          "title": "Ellen Ehni, WDR, mit dem ARD-DeutschlandTrend im Oktober",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1659110.html",
-          "published": "2026-10-01T21:33:15+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Gemischtes Preis- und Stimmungsbild nach Wiedereinführung des \"Tankrabatts\"",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1659108.html",
-          "published": "2026-10-01T21:23:33+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
-          "published": "2026-10-01T21:02:22+00:00",
-          "summary": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Sportartikel-Konzern: Nike verschärft Sparprogramm",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sportartikel-konzern-nike-verschaerft-sparprogramm/100259131.html",
-          "published": "2026-10-01T21:44:13+00:00",
-          "summary": "Nike kämpft sich seit mehr als einem Jahr aus einem weitgehend hausgemachten Tief. Zuletzt verlief die Erholung holperig. Jetzt wird härter gespart."
+          "title": "Märkte Asien: Asiens Börsen geben nach – Inflationssorgen und Nahost-Konflikt belasten",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-asiens-boersen-geben-nach-inflationssorgen-und-nahost-konflikt-belasten/100259178.html",
+          "published": "2026-10-02T03:51:18+00:00",
+          "summary": "Kurz vor frischen Arbeitsmarktdaten aus den USA steigt in Japan der Verkaufsdruck. Auch frische Inflationsdaten aus Tokio besorgen die Investoren."
         },
         {
-          "title": "Kompaktes SUV: So tickt der neue Tucson von Hyundai",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/kompaktes-suv-so-tickt-der-neue-tucson-von-hyundai/100259128.html",
-          "published": "2026-10-01T21:15:04+00:00",
-          "summary": "Bei allem elektrischen Engagement hält Hyundai auch der alten Schule die Treue und erneuert noch einmal den Tucson. Unter der Haube will es der Tiguan-Gegner allen recht machen - beinahe jedenfalls."
+          "title": "+++ Iran-Krieg +++: USA schicken offenbar weiteren Flugzeugträger nach Nahost",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-schicken-offenbar-weiteren-flugzeugtraeger-nach-nahost/100136895.html",
+          "published": "2026-10-02T03:42:00+00:00",
+          "summary": "Erneut Tanker in der Straße von Hormus von Geschoss getroffen +++ Irans Hormus-Angebot laut Trump unzureichend +++ Saudi-Arabien überstellt Verdächtigen in Emirate +++ Der Newsblog."
         },
         {
-          "title": "Sportartikelhersteller: Nike legt neues Sparprogramm auf",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sportartikelhersteller-nike-legt-neues-sparprogramm-auf/100259124.html",
-          "published": "2026-10-01T21:03:08+00:00",
-          "summary": "Der Sportartikelkonzern Nike rechnet mit einem deutlichen Umsatzrückgang. Bis 2031 sollen die Kosten um 2,5 Milliarden Dollar sinken. Auch weitere Stellenstreichungen sind geplant."
+          "title": "Iran-Krieg: Medien: USA schicken weiteren Flugzeugträger nach Nahost",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-medien-usa-schicken-weiteren-flugzeugtraeger-nach-nahost/100259176.html",
+          "published": "2026-10-02T03:27:00+00:00",
+          "summary": "Könnten die USA nach den Kongresswahlen neue Angriffe gegen den Iran starten? Dazu gibt es aktuell Spekulationen. Berichten zufolge stocken die USA nun ihr Militär in Nahost auf."
         },
         {
-          "title": "+++ USA +++: Umfrage: Mehrheit unzufrieden mit Trumps Wirtschaftspolitik",
-          "link": "https://www.handelsblatt.com/politik/international/usa-laut-umfrage-mehrheit-unzufrieden-mit-trumps-wirtschaftspolitik/29669594.html",
-          "published": "2026-10-01T20:51:00+00:00",
-          "summary": "Weißes Haus schließt CNN erneut von Reise aus +++ Trump: „Wird Wahlen geben“ in Venezuela – aber noch zu früh +++ Streit bei Republikanern – Senatorin blockiert Trumps Richterwahl +++ Der Newsblog."
+          "title": "Rechtsstreit nach Unfall: Lkw auf Gehweg, Kind wird auf Straße erfasst - wer haftet?",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/rechtsstreit-nach-unfall-lkw-auf-gehweg-kind-wird-auf-strasse-erfasst-wer-haftet/100259173.html",
+          "published": "2026-10-02T03:07:04+00:00",
+          "summary": "Ein Lastwagen blockiert den Gehweg. Ein Kind muss auf die Straße ausweichen und wird von einer Autofahrerin erfasst. Eine Frage vor Gericht: Wie viel Mitschuld trägt der Lkw-Fahrer an dem Unfall?"
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Ukraine setzt erstmals neue ballistische Rakete ein",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-10-01T20:36:00+00:00",
-          "summary": "Putin: Wären eigentlich zu Friedensgesprächen bereit gewesen +++ Putin will Donbass in weniger als anderthalb Jahren erobern +++ Russlands Präsident schließt Nationalisierung westlicher Aktiva nicht …"
+          "title": "Vor der Präsidentenwahl: Brasiliens Generalanwalt warnt vor Wahl vor US-Einmischung",
+          "link": "https://www.handelsblatt.com/politik/international/vor-der-praesidentenwahl-brasiliens-generalanwalt-warnt-vor-wahl-vor-us-einmischung/100259167.html",
+          "published": "2026-10-02T02:54:33+00:00",
+          "summary": "Ein Bericht über US-Gelder für Kritiker des brasilianischen Obersten Gerichts sorgt kurz vor der Präsidentenwahl für Aufsehen. Der Generalanwalt der Regierung warnt vor ausländischer Einflussnahme."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Verspätungen bis Ende 2027: Bauarbeiten verzögern Zugfahrten zwischen Hannover und Berlin deutlich",
+          "link": "https://www.n-tv.de/wirtschaft/Bauarbeiten-verzoegern-Zugfahrten-zwischen-Hannover-und-Berlin-deutlich-id31372026.html",
+          "published": "2026-10-02T01:48:02+00:00",
+          "summary": "Eine der vielbefahrensten Ost-West-Bahnverbindungen Deutschlands zwischen Hannover und Berlin wird rund 14 Monate grundsaniert. Die Fernzüge werden umgeleitet und brauchen rund 80 Minuten länger."
+        },
         {
           "title": "Inflationssorgen wachsen: Steigende Ölpreise sorgen an Wall Street für Sorgenfalten",
           "link": "https://www.n-tv.de/wirtschaft/Steigende-Oelpreise-sorgen-an-Wall-Street-fuer-Sorgenfalten-id31371707.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/VW-Chef-Blume-plaediert-fuer-laengere-Arbeitszeiten-id31370667.html",
           "published": "2026-10-01T15:08:25+00:00",
           "summary": "Volkswagen sucht Wege, seine hohen Arbeitskosten zu senken. Konzernchef Blume hat dafür einen konkreten Weg ins Auge gefasst, für den es zwei verschiedene Umsetzungen gibt. Die IG Metall kündigt …"
-        },
-        {
-          "title": "Norwegen garantiert Lieferungen: Bundesnetzagentur sieht Gasversorgung im Winter gesichert",
-          "link": "https://www.n-tv.de/wirtschaft/Bundesnetzagentur-sieht-Gasversorgung-im-Winter-gesichert-id31370146.html",
-          "published": "2026-10-01T14:23:12+00:00",
-          "summary": "Die deutschen Gasspeicher sind deutlich weniger gefüllt als vor einem Jahr. Die Netzagentur gibt sich dennoch gelassen und erwartet keine Probleme im Winter. Um Signale der Entspannung bemüht sich …"
         }
       ],
       "error": null
