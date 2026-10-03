@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:48:04+00:00",
+  "generatedAt": "2026-10-03T00:54:37+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
+          "link": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
+          "published": "2026-10-03T00:18:32+00:00",
+          "summary": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1659646.html",
+          "published": "2026-10-02T23:40:59+00:00",
+          "summary": ""
+        },
         {
           "title": "Brasilien wählt neuen Präsidenten - Umfragen sehen knappes Ergebnis",
           "link": "https://www.tagesschau.de/tagesthemen/video-1659624.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1659610.html",
           "published": "2026-10-02T20:43:47+00:00",
           "summary": ""
-        },
-        {
-          "title": "Woher kommt die Spannung in der Koalition?, Markus Preiß, ARD Berlin",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1659604.html",
-          "published": "2026-10-02T20:39:57+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Warenhauskette Galeria stellt erneut Insolvenzantrag",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1659602.html",
-          "published": "2026-10-02T20:39:07+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ USA +++: Diesel-Exportverbot stand laut Trump nie wirklich zur Debatte",
-          "link": "https://www.handelsblatt.com/politik/international/usa-diesel-exportverbot-stand-laut-trump-nie-wirklich-zur-debatte/29669594.html",
-          "published": "2026-10-02T20:53:00+00:00",
-          "summary": "Trump-Regierung nimmt Ermittlungen gegen Ex-Fed-Chef Powell nicht wieder auf +++ USA planen Stationierung von Raketensystem nahe Taiwan +++ Der Newsblog."
+          "title": "Iran-Krieg: Rohöltanker vor der Küste des Oman angegriffen",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-rohoeltanker-vor-der-kueste-des-oman-angegriffen/100259433.html",
+          "published": "2026-10-03T00:26:53+00:00",
+          "summary": "Fast täglich kommt es in jüngster Zeit zu Angriffen auf Schiffe in der Straße von Hormus. Ein weiterer Zwischenfall ereignet sich nahe der Küste des Oman."
         },
         {
-          "title": "Karibik: US-Küstenwache stoppt Schiff mit Treibstoff für Kuba",
-          "link": "https://www.handelsblatt.com/politik/international/karibik-us-kuestenwache-stoppt-schiff-mit-treibstoff-fuer-kuba/100259143.html",
-          "published": "2026-10-02T20:44:12+00:00",
-          "summary": "Ein Schiff soll seine Ladung für den sozialistischen Staat illegal versteckt haben. Seit Monaten verhindern die USA die Lieferung von Erdöl und Treibstoff aus anderen Ländern nach Kuba."
+          "title": "Korea: Nordkorea feuert ballistische Rakete ab",
+          "link": "https://www.handelsblatt.com/politik/international/korea-nordkorea-feuert-ballistische-rakete-ab/100259429.html",
+          "published": "2026-10-03T00:25:15+00:00",
+          "summary": "Nordkorea hat nach Angaben Südkoreas und Japans erneut eine ballistische Rakete ins Meer abgefeuert. Der Raketenstart erfolgte kurz nach einer scharfen Erklärung von Kim Jong Uns Schwester gegen …"
         },
         {
-          "title": "Demonstrationen: Mehr als 5.000 Festnahmen bei Schülerprotesten in Frankreich",
-          "link": "https://www.handelsblatt.com/politik/international/demonstrationen-mehr-als-5000-festnahmen-bei-schuelerprotesten-in-frankreich/100259251.html",
-          "published": "2026-10-02T19:59:29+00:00",
-          "summary": "Mehr als 5.000 Festnahmen und zunehmende Gewalt: Frankreichs Schülerproteste haben laut Innenminister Laurent Nuñez ein „erhebliches Ausmaß“ angenommen."
+          "title": "Brexit-Politiker als Ziel: Mordfall Widdecombe: Auch Anschlag auf Farage geplant?",
+          "link": "https://www.handelsblatt.com/politik/international/brexit-politiker-als-ziel-mordfall-widdecombe-auch-anschlag-auf-farage-geplant/100259430.html",
+          "published": "2026-10-03T00:23:52+00:00",
+          "summary": "Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Ann Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu möglichen weiteren Anschlagsplänen her."
         },
         {
-          "title": "Konjunktur: Italien hebt Wachstumsprognose an – Defizit 2027 aber Problem",
-          "link": "https://www.handelsblatt.com/politik/international/konjunktur-italien-hebt-wachstumsprognose-an-defizit-2027-aber-problem/100259413.html",
-          "published": "2026-10-02T19:43:01+00:00",
-          "summary": "Italien will 2026 erstmals seit sieben Jahren die EU-Defizitgrenze von drei Prozent einhalten. Allerdings wird die Haushaltslücke wegen höherer Ausgaben für Verteidigung und Energie 2027 wohl wieder …"
+          "title": "Künstliche Intelligenz: US-Gericht stoppt vorläufig KI-Nacktbild-Verbot von Musks xAI",
+          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-us-gericht-stoppt-vorlaeufig-ki-nacktbild-verbot-von-musks-xai/100259427.html",
+          "published": "2026-10-02T23:40:26+00:00",
+          "summary": "Ein US-Berufungsgericht hat ein Gesetz in Minnesota gegen KI-generierte Nacktbilder vorerst ausgesetzt. Musks KI-Unternehmen xAI hatte dagegen mit Verweis auf die Meinungsfreiheit geklagt."
         },
         {
-          "title": "Investitionen im Ausland: Bayer will über 2 Milliarden Dollar in US-Werk investieren",
-          "link": "https://www.handelsblatt.com/politik/deutschland/investitionen-im-ausland-bayer-will-ueber-2-milliarden-dollar-in-us-werk-investieren/100259414.html",
-          "published": "2026-10-02T19:41:15+00:00",
-          "summary": "Bayer plant eine neue Produktionsstätte in Ohio und investiert dafür 2,2 Milliarden Dollar. Was der Konzern sich von dem Standort verspricht."
+          "title": "+++ Iran-Krieg +++: Flydubai-Copilot galt offenbar zuvor als Sicherheitsrisiko",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-flydubai-copilot-galt-offenbar-zuvor-als-sicherheitsrisiko/100136895.html",
+          "published": "2026-10-02T23:08:00+00:00",
+          "summary": "Öltanker vor Küste des Oman von Projektil getroffen +++ Saudi-Arabien plant offenbar neue Offensive gegen Huthis im Jemen +++ Der Newsblog."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Wochenvorschau: Termine bis 11. Oktober 2026",
+          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-11-Oktober-2026-id31357328.html",
+          "published": "2026-10-02T22:01:00+00:00",
+          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+        },
         {
           "title": "Jobdaten dämpfen Zinssorgen: Wall Street beendet die Woche versöhnlich",
           "link": "https://www.n-tv.de/wirtschaft/Wall-Street-beendet-die-Woche-versoehnlich-id31376053.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Arbeitnehmervertreter-beschimpfen-VW-Chef-Blume-id31374761.html",
           "published": "2026-10-02T15:19:03+00:00",
           "summary": "Betriebsrat und IG Metall werfen dem Volkswagen-Chef schon länger eine katastrophale Kommunikation zu dessen Sparplänen vor. Nun halten die Arbeitnehmer Oliver Blume vor, mit Falschbehauptungen eine …"
-        },
-        {
-          "title": "Hohe Preise drücken: G7-Staaten geben \"bis zu 100 Millionen Barrel\" Diesel und Rohöl frei",
-          "link": "https://www.n-tv.de/wirtschaft/G7-Staaten-geben-bis-zu-100-Millionen-Barrel-Diesel-und-Rohoel-frei-id31375418.html",
-          "published": "2026-10-02T14:26:31+00:00",
-          "summary": "Die Energie- und Ölpreise sind infolge des Nahost-Kriegs hoch und haben zuletzt nochmals angezogen. Auf massiven Druck der USA geben die G7-Staaten nun erhebliche Mengen an Diesel und Rohöl aus den …"
         }
       ],
       "error": null
