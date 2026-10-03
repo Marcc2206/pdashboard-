@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:44:34+00:00",
+  "generatedAt": "2026-10-03T20:34:40+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-          "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
-          "published": "2026-10-03T17:41:01+00:00",
-          "summary": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre …"
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-03T17:17:41+00:00",
-          "summary": "Sonntag ist es erst regional trüb durch Nebel und Hochnebel, sonst gibts eine Mischung aus Sonne und Wolken, dazu einzelne Schauer, am ehesten von der Mitte bis in den Südwesten. 17 bis 24 Grad."
-        },
-        {
-          "title": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
-          "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
-          "published": "2026-10-03T17:04:05+00:00",
-          "summary": "Nach der missglückten Hinrichtung liegt die zum Tode verurteilte Christa Pike bewusstlos in einem Krankenhaus und wird künstlich beatmet. Nun gerät das Personal in den Fokus - der Behördenchef ist …"
-        },
-        {
-          "title": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
-          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
-          "published": "2026-10-03T16:40:33+00:00",
-          "summary": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte. Ökonomen sehen dennoch Chancen. Von Claudia …"
-        },
-        {
-          "title": "Bundespräsident Steinmeier beim Festakt zum Tag der Deutschen Einheit",
-          "link": "https://www.tagesschau.de/video/video-1659854.html",
-          "published": "2026-10-03T16:03:16+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1659948.html",
+          "published": "2026-10-03T19:13:09+00:00",
           "summary": ""
+        },
+        {
+          "title": "Ramin Sina, ARD Kairo, zzt. Mukalla, zu den Kämpfen im Jemen",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1659912.html",
+          "published": "2026-10-03T19:12:41+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau 20:00 Uhr",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1659922.html",
+          "published": "2026-10-03T18:50:06+00:00",
+          "summary": "Bundespräsident Steinmeier hält große Rede am Tag der Deutschen Einheit, Eine Bilanz nach 38 Jahren Städtepartnerschaft zwischen Dortmund und Zwickau, Nach Medienberichten durfte Flydubai-Co-Pilot …"
+        },
+        {
+          "title": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
+          "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
+          "published": "2026-10-03T18:28:32+00:00",
+          "summary": "Die Letten haben ein neues Parlament gewählt. Laut Nachwahlbefragung liegt das Bündnis von Ministerpräsident Kulbergs vorn. Zentrale Themen im Wahlkampf waren Sicherheit und Verteidigung, aber auch …"
+        },
+        {
+          "title": "Nations League: 7:0! England nimmt Kroatien auseinander",
+          "link": "https://www.sportschau.de/fussball/nationsleague/70-england-nimmt-kroatien-auseinander,spielbericht-nations-league-kroatien-england-104.html",
+          "published": "2026-10-03T18:26:21+00:00",
+          "summary": "In einer Neuauflage des WM-Vorrundenspiels nimmt England Kroatien komplett auseinander. Kane und Saka trafen beim 7:0-Auswärtssieg zwei Mal."
         }
       ],
       "error": null
@@ -46,6 +46,18 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Nahost: Bericht: Tote bei israelischem Luftangriff auf Gaza",
+          "link": "https://www.handelsblatt.com/politik/international/nahost-bericht-tote-bei-israelischem-luftangriff-auf-gaza/100259475.html",
+          "published": "2026-10-03T19:54:56+00:00",
+          "summary": "Bei einem israelischen Luftangriff im Gazastreifen sterben wieder Menschen. Laut einem israelischen Militärkorrespondenten wollte die Armee ein hochrangiges Hamas-Mitglied gezielt töten."
+        },
+        {
+          "title": "Kommentar: Emissionshandel – wie Brüssel die Industrie erpresst",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-emissionshandel-wie-bruessel-die-industrie-erpresst/100259249.html",
+          "published": "2026-10-03T17:41:23+00:00",
+          "summary": "Die Idee der EU‑Kommission, kostenlose Zertifikate mit Investitionspflichten zu verbinden, ist systemwidrig. Vor allem folgt sie einer fatalen Fehleinschätzung."
+        },
         {
           "title": "Geldanlage: Ein Gemeinschaftsdepot kann eine gute Idee sein – aber nicht für jeden",
           "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-gemeinschaftsdepot-kann-eine-gute-idee-sein-aber-nicht-fuer-jeden/100257957.html",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaft-osten-holt-wirtschaftlich-seit-jahren-nicht-mehr-auf/100259502.html",
           "published": "2026-10-03T15:05:23+00:00",
           "summary": "Die wirtschaftliche Angleichung zwischen Ost und West geht kaum mehr voran. Seit fünf Jahren verharrt Ostdeutschland bei knapp unter 80 Prozent des Westniveaus."
-        },
-        {
-          "title": "Ost-Wirtschaft: IW: Osten holt wirtschaftlich seit Jahren nicht mehr auf",
-          "link": "https://www.handelsblatt.com/politik/deutschland/ost-wirtschaft-iw-osten-holt-wirtschaftlich-seit-jahren-nicht-mehr-auf/100259504.html",
-          "published": "2026-10-03T14:50:54+00:00",
-          "summary": "Die wirtschaftliche Angleichung zwischen Ost und West geht kaum mehr voran. Seit fünf Jahren verharrt Ostdeutschland bei knapp unter 80 Prozent des Westniveaus."
-        },
-        {
-          "title": "Deutsche Einheit: Steinmeier warnt: Es geht um Selbstbehauptung der Demokratie",
-          "link": "https://www.handelsblatt.com/politik/deutschland/deutsche-einheit-steinmeier-warnt-es-geht-um-selbstbehauptung-der-demokratie/100259441.html",
-          "published": "2026-10-03T14:16:51+00:00",
-          "summary": "Der Bundespräsident nutzt den Festakt zum Tag der Deutschen Einheit für eine umfassende Warnung. Er mahnt zu verteidigen, was wertvoll ist und errungen wurde."
         }
       ],
       "error": null
