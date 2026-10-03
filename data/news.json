@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:54:37+00:00",
+  "generatedAt": "2026-10-03T07:33:38+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
-          "link": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
-          "published": "2026-10-03T00:18:32+00:00",
-          "summary": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1659646.html",
-          "published": "2026-10-02T23:40:59+00:00",
+          "title": "Neue Erkenntnisse über Co-Pilot nach Angriff in Flydubai-Flugzeug",
+          "link": "https://www.tagesschau.de/video/video-1659682.html",
+          "published": "2026-10-03T07:22:53+00:00",
           "summary": ""
         },
         {
-          "title": "Brasilien wählt neuen Präsidenten - Umfragen sehen knappes Ergebnis",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1659624.html",
-          "published": "2026-10-02T20:58:15+00:00",
+          "title": "Parlamentswahl in Lettland hat begonnen",
+          "link": "https://www.tagesschau.de/video/video-1659674.html",
+          "published": "2026-10-03T07:10:33+00:00",
           "summary": ""
         },
         {
-          "title": "Unmut über schlechte Lernbedingungen - Schülerproteste in Frankreich weiten sich aus",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1659614.html",
-          "published": "2026-10-02T20:47:57+00:00",
-          "summary": ""
+          "title": "Mysteriöse Einbruchserie bei Abgeordneten in Finnland",
+          "link": "https://www.tagesschau.de/ausland/europa/finnland-einbrueche-abgeordnete-100.html",
+          "published": "2026-10-03T06:39:28+00:00",
+          "summary": "Eine mysteriöse Einbruchserie bei Abgeordneten beschäftigt Finnland. Die Hausbesuche, bei denen nie etwas entwendet wird, erinnern an Spitzelmethoden aus Sowjetzeiten. Die Polizei ermittelt, die …"
         },
         {
-          "title": "\"Aussprache mit Beauty-Booster\" - Bürger treffen Kommunalpolitiker auf dem Friseurstuhl",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1659610.html",
-          "published": "2026-10-02T20:43:47+00:00",
-          "summary": ""
+          "title": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
+          "link": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html",
+          "published": "2026-10-03T04:48:24+00:00",
+          "summary": "Mehr als einen Monat nach der Flutkatastrophe im Himalaya ist die Lage für viele Überlebende immer noch prekär. Gerade für Kinder und junge Frauen birgt das Leben in Notunterkünften viele Gefahren. …"
+        },
+        {
+          "title": "Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten",
+          "link": "https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html",
+          "published": "2026-10-03T04:32:49+00:00",
+          "summary": "Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Iran-Krieg: Rohöltanker vor der Küste des Oman angegriffen",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-rohoeltanker-vor-der-kueste-des-oman-angegriffen/100259433.html",
-          "published": "2026-10-03T00:26:53+00:00",
-          "summary": "Fast täglich kommt es in jüngster Zeit zu Angriffen auf Schiffe in der Straße von Hormus. Ein weiterer Zwischenfall ereignet sich nahe der Küste des Oman."
+          "title": "Präsidentschaftswahl: Lula gegen Bolsonaro: Wie stark wird Trumps Einfluss in Südamerika?",
+          "link": "https://www.handelsblatt.com/politik/international/brasilien-lula-oder-bolsonaro-wie-stark-wird-trumps-einfluss-in-suedamerika/100254741.html",
+          "published": "2026-10-03T07:05:00+00:00",
+          "summary": "Am Sonntag wählt Brasilien einen neuen Präsidenten – und entscheidet damit, wie eng es sich an die USA bindet. Das Ergebnis könnte Europa unter Druck setzen."
         },
         {
-          "title": "Korea: Nordkorea feuert ballistische Rakete ab",
-          "link": "https://www.handelsblatt.com/politik/international/korea-nordkorea-feuert-ballistische-rakete-ab/100259429.html",
-          "published": "2026-10-03T00:25:15+00:00",
-          "summary": "Nordkorea hat nach Angaben Südkoreas und Japans erneut eine ballistische Rakete ins Meer abgefeuert. Der Raketenstart erfolgte kurz nach einer scharfen Erklärung von Kim Jong Uns Schwester gegen …"
+          "title": "Volkswagen: Rückruf von Millionen Autos: VW kannte das Schrauben-Problem seit Herbst 2024",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-millionenrueckruf-bei-vw-problem-war-seit-herbst-2024-bekannt/100258311.html",
+          "published": "2026-10-03T06:32:36+00:00",
+          "summary": "Eine einzelne Schraube löste bei Volkswagen vergangene Woche den wohl größten Rückruf seit dem Dieselskandal aus. Obwohl der Konzern früh erste Hinweise hatte, fehlten zum Start Teile und klare …"
         },
         {
-          "title": "Brexit-Politiker als Ziel: Mordfall Widdecombe: Auch Anschlag auf Farage geplant?",
-          "link": "https://www.handelsblatt.com/politik/international/brexit-politiker-als-ziel-mordfall-widdecombe-auch-anschlag-auf-farage-geplant/100259430.html",
-          "published": "2026-10-03T00:23:52+00:00",
-          "summary": "Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Ann Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu möglichen weiteren Anschlagsplänen her."
+          "title": "Morning Briefing Plus: Es lebe der Übernahmepoker!",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-es-lebe-der-uebernahmepoker/100245248.html",
+          "published": "2026-10-03T06:24:31+00:00",
+          "summary": "BASF will Evonik übernehmen, Evonik will das nicht. Jetzt geht es ums Belauern und Bluffen – und die Frage, wie der Deal aussehen könnte. Was uns diese Woche sonst noch beschäftigt hat."
         },
         {
-          "title": "Künstliche Intelligenz: US-Gericht stoppt vorläufig KI-Nacktbild-Verbot von Musks xAI",
-          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-us-gericht-stoppt-vorlaeufig-ki-nacktbild-verbot-von-musks-xai/100259427.html",
-          "published": "2026-10-02T23:40:26+00:00",
-          "summary": "Ein US-Berufungsgericht hat ein Gesetz in Minnesota gegen KI-generierte Nacktbilder vorerst ausgesetzt. Musks KI-Unternehmen xAI hatte dagegen mit Verweis auf die Meinungsfreiheit geklagt."
+          "title": "Kriminalität: Anklage gegen Iraner: Terrorplan gegen jüdische Gemeinde?",
+          "link": "https://www.handelsblatt.com/politik/international/kriminalitaet-anklage-gegen-iraner-terrorplan-gegen-juedische-gemeinde/100259454.html",
+          "published": "2026-10-03T03:03:10+00:00",
+          "summary": "Die beiden Männer sollen im nordenglischen Manchester Anschläge auf die jüdische Gemeinde vorbereitet haben. Die Anti-Terror-Polizei ermittelt."
         },
         {
-          "title": "+++ Iran-Krieg +++: Flydubai-Copilot galt offenbar zuvor als Sicherheitsrisiko",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-flydubai-copilot-galt-offenbar-zuvor-als-sicherheitsrisiko/100136895.html",
-          "published": "2026-10-02T23:08:00+00:00",
-          "summary": "Öltanker vor Küste des Oman von Projektil getroffen +++ Saudi-Arabien plant offenbar neue Offensive gegen Huthis im Jemen +++ Der Newsblog."
+          "title": "„Cash only“ verlangt: Mehr als jeder Zweite scheitert beim bargeldlosen Bezahlen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/cash-only-verlangt-mehr-als-jeder-zweite-scheitert-beim-bargeldlosen-bezahlen/100259452.html",
+          "published": "2026-10-03T03:00:31+00:00",
+          "summary": "Viele Verbraucher würde gerne noch häufiger mit Karte oder Smartphone zahlen. Doch manche Geschäfte oder Restaurants nehmen nur Bargeld. Ein Vorstoß des Finanzministers kommt bei Volksbanken gut an."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "IW-Studie zeigt Rückstand: Ostdeutsche Wirtschaft kommt nicht voran",
+          "link": "https://www.n-tv.de/wirtschaft/Ostdeutsche-Wirtschaft-kommt-nicht-voran-id31376348.html",
+          "published": "2026-10-03T05:08:38+00:00",
+          "summary": "Die Wiedervereinigung liegt Jahrzehnte zurück. Doch die Angleichung der Wirtschaftsleistung ist längst nicht vollendet, wie eine Studie zeigt. Mehr noch: Investitionen stocken, die Erwerbsbeteiligung …"
+        },
         {
           "title": "Wochenvorschau: Termine bis 11. Oktober 2026",
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-11-Oktober-2026-id31357328.html",
@@ -98,22 +104,16 @@
           "summary": "Die Woche lief an der Wall Street nicht besonders gut. Zum Wochenabschluss geht es wieder etwas nach oben. Das liegt auch daran, dass die Arbeitsmarktdaten in den USA schlechter ausfallen als …"
         },
         {
-          "title": "\"Patrioten für Europa\": Autolobby sucht die Nähe der extremen Rechten",
+          "title": "Abstimmung über Verbrenner-Aus: Autolobby sucht die Nähe der extremen Rechten",
           "link": "https://www.n-tv.de/wirtschaft/Autolobby-sucht-die-Naehe-der-extremen-Rechten-id31376046.html",
           "published": "2026-10-02T20:41:49+00:00",
-          "summary": "Die Autolobby ist sehr an einer Lockerung des Verbrenner-Aus interessiert. Dafür ist ihnen auch eine Zusammenarbeit mit rechtsextremen Parteien nicht zu schade. Auch die EVP-Fraktion braucht für ihre …"
+          "summary": "Die Autolobby ist an einer Lockerung des Verbrenner-Aus interessiert. Dafür ist sie auch bereit für Zusammenarbeit mit rechtsextremen Parteien. Auch die EVP-Fraktion braucht für ihre Pläne eventuell …"
         },
         {
           "title": "Zeit gekauft, Sanierung verpasst: Warum Galeria schon wieder am Abgrund steht",
           "link": "https://www.n-tv.de/wirtschaft/Warum-Galeria-schon-wieder-am-Abgrund-steht-id31375065.html",
           "published": "2026-10-02T15:46:54+00:00",
           "summary": "Millionen Euro an Krediten sind verpufft. Statt die Warenhauskette Galeria neu zu erfinden, setzen Management und Eigner jahrelang auf Schadensbegrenzung. Handelsexperten warnen: Ein erneuter …"
-        },
-        {
-          "title": "Verbaler Krieg in Wolfsburg : Arbeitnehmervertreter beschimpfen VW-Chef Blume",
-          "link": "https://www.n-tv.de/wirtschaft/Arbeitnehmervertreter-beschimpfen-VW-Chef-Blume-id31374761.html",
-          "published": "2026-10-02T15:19:03+00:00",
-          "summary": "Betriebsrat und IG Metall werfen dem Volkswagen-Chef schon länger eine katastrophale Kommunikation zu dessen Sparplänen vor. Nun halten die Arbeitnehmer Oliver Blume vor, mit Falschbehauptungen eine …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Pharma: Bayer investiert Milliarden in den USA",
-          "link": "https://www.wiwo.de/unternehmen/industrie/bayer-konzern-investiert-milliarden-in-den-usa/100259263.html",
-          "published": "2026-10-02T19:10:00+00:00",
-          "summary": "Um US-Präsident Donald Trump milde zu stimmen, bauen viele Pharmakonzerne Fabriken in den USA. Bayer zieht nun nach. Ein Top-Manager verrät die Details."
+          "title": "xAI von Elon Musk: US-Gericht stoppt vorläufig KI-Nacktbild-Verbot",
+          "link": "https://www.wiwo.de/politik/ausland/xai-von-elon-musk-us-gericht-stoppt-vorlaeufig-ki-nacktbild-verbot/100259466.html",
+          "published": "2026-10-03T07:21:54+00:00",
+          "summary": "xAI klagt gegen Minnesotas Verbot von KI-Nacktbildern und bekommt vorläufig Recht. Der Streit berührt die Meinungsfreiheit."
         },
         {
-          "title": "Rechnungshof: Rente verbraucht immer mehr Steuereinnahmen",
-          "link": "https://www.wiwo.de/politik/deutschland/rechnungshof-rente-verbraucht-immer-mehr-steuereinnahmen/100259406.html",
-          "published": "2026-10-02T17:13:45+00:00",
-          "summary": "Der Rechnungshof schlägt Alarm: Die Pläne der Bundesregierung sorgen demnach für Milliardenrisiken."
+          "title": "Zum 3. Oktober: Osten, Westen, Einheit? Fünf Fakten zum Stand der Dinge",
+          "link": "https://www.wiwo.de/politik/deutschland/zum-3-oktober-osten-westen-einheit-fuenf-fakten-zum-stand-der-dinge/100259444.html",
+          "published": "2026-10-03T07:19:00+00:00",
+          "summary": "Wächst nun zusammen, was zusammengehört – oder eher nicht? 36 Jahre nach der deutschen Vereinigung wird viel geklagt, gegrübelt und gemutmaßt."
         },
         {
-          "title": "Künstliche Intelligenz: Diese Frau will Europa an die Weltspitze katapultieren",
-          "link": "https://www.wiwo.de/unternehmen/it/judith-dada-bei-langdock-wie-die-co-chefin-europas-ki-staerken-will/100256457.html",
-          "published": "2026-10-02T16:19:00+00:00",
-          "summary": "Die Berliner Plattform Langdock ist eine der KI-Hoffnungen Europas – auch dank Judith Dada."
+          "title": "Galeria-Insolvenz: Plötzlich gab es dieses 36-Millionen-Euro-Loch bei Galeria",
+          "link": "https://www.wiwo.de/unternehmen/handel/galeria-insolvenz-wie-das-36-millionen-euro-loch-entstand/100259372.html",
+          "published": "2026-10-03T07:12:00+00:00",
+          "summary": "Die Krise war absehbar. Doch dass die Galeria-Chefs bereits in dieser Woche Insolvenz anmelden, soll selbst die Gesellschafter überrascht haben."
         },
         {
-          "title": "Energiekrise: G7-Staaten geben Dieselreserven frei",
-          "link": "https://www.wiwo.de/politik/ausland/diesel-streit-eu-staaten-beraten-nach-us-druck-ueber-freigabe-von-diesel-reserven/100259024.html",
-          "published": "2026-10-02T16:11:00+00:00",
-          "summary": "Die G7 geben dem Drängen der USA nach und geben bis zu 100 Millionen Barrel Diesel und Rohöl frei. Worauf sich die Staaten geeinigt haben."
+          "title": "Wettbewerb: Was persönliche Rivalität im Team anrichtet",
+          "link": "https://www.wiwo.de/erfolg/management/konkurrenzkampf-im-team-was-rivalitaet-am-arbeitsplatz-anrichtet/100258562.html",
+          "published": "2026-10-03T06:59:00+00:00",
+          "summary": "Eine Studie zeigt, was interner Konkurrenzkampf mit Beschäftigten macht. Das Ergebnis sollte Führungskräfte aufhorchen lassen."
         },
         {
-          "title": "Russland: Gerhard Schröder wird Aufsichtsrat bei russischer Globus",
-          "link": "https://www.wiwo.de/politik/ausland/gerhard-schroeder-altkanzler-wird-aufsichtsrat-bei-russischer-globus/100259403.html",
-          "published": "2026-10-02T16:04:12+00:00",
-          "summary": "Der ehemalige Kanzler pflegt gute Kontakte nach Russland. Nun wird er Teil des Aufsichtsrats einer russischen Supermarktkette."
+          "title": "BörsenWoche 579: Editorial: Deshalb wackelt es am IPO-Markt",
+          "link": "https://www.wiwo.de/finanzen/boerse/ipo-markt-geraet-ins-stocken-warum-boersengaenge-verschoben-werden/100259025.html",
+          "published": "2026-10-03T06:47:43+00:00",
+          "summary": "Zuletzt häuften sich Rückzieher bei geplanten Börsengängen. Kritiker sehen darin erste Zeichen für eine bröckelnde KI-Euphorie. Haben Sie Recht?"
         }
       ],
       "error": null
