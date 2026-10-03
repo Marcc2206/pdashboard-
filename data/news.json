@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T07:33:38+00:00",
+  "generatedAt": "2026-10-03T13:01:03+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Neue Erkenntnisse über Co-Pilot nach Angriff in Flydubai-Flugzeug",
-          "link": "https://www.tagesschau.de/video/video-1659682.html",
-          "published": "2026-10-03T07:22:53+00:00",
+          "title": "Freigabe von G7-Energiereserven stößt auf gemischte Reaktionen",
+          "link": "https://www.tagesschau.de/ausland/europa/freigabe-oelreserven-reaktionen-100.html",
+          "published": "2026-10-03T12:54:53+00:00",
+          "summary": "Angesichts der hohen Energiepreise haben sich die G7-Staaten auf die Freigabe von Ölreserven verständigt. US-Präsident Trump begrüßt die Entscheidung, die Grünen üben Kritik. Eine Ökonomin erwartet …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81208.html",
+          "published": "2026-10-03T12:44:04+00:00",
           "summary": ""
         },
         {
-          "title": "Parlamentswahl in Lettland hat begonnen",
-          "link": "https://www.tagesschau.de/video/video-1659674.html",
-          "published": "2026-10-03T07:10:33+00:00",
+          "title": "Jemenitische Flüchtlinge kommen wegen des Bürgerkriegs nach Dschibuti",
+          "link": "https://www.tagesschau.de/video/video-1659798.html",
+          "published": "2026-10-03T12:38:54+00:00",
           "summary": ""
         },
         {
-          "title": "Mysteriöse Einbruchserie bei Abgeordneten in Finnland",
-          "link": "https://www.tagesschau.de/ausland/europa/finnland-einbrueche-abgeordnete-100.html",
-          "published": "2026-10-03T06:39:28+00:00",
-          "summary": "Eine mysteriöse Einbruchserie bei Abgeordneten beschäftigt Finnland. Die Hausbesuche, bei denen nie etwas entwendet wird, erinnern an Spitzelmethoden aus Sowjetzeiten. Die Polizei ermittelt, die …"
+          "title": "Was verbindet West und Ost? Städtepartnerschaft zwischen Dortmund und Zwickau",
+          "link": "https://www.tagesschau.de/video/video-1659794.html",
+          "published": "2026-10-03T12:36:45+00:00",
+          "summary": ""
         },
         {
-          "title": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
-          "link": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html",
-          "published": "2026-10-03T04:48:24+00:00",
-          "summary": "Mehr als einen Monat nach der Flutkatastrophe im Himalaya ist die Lage für viele Überlebende immer noch prekär. Gerade für Kinder und junge Frauen birgt das Leben in Notunterkünften viele Gefahren. …"
-        },
-        {
-          "title": "Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten",
-          "link": "https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html",
-          "published": "2026-10-03T04:32:49+00:00",
-          "summary": "Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren …"
+          "title": "Volksfestcharakter bei Feierlichkeiten in Bremen zum Tag der Deutschen Einheit",
+          "link": "https://www.tagesschau.de/video/video-1659788.html",
+          "published": "2026-10-03T12:34:32+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Präsidentschaftswahl: Lula gegen Bolsonaro: Wie stark wird Trumps Einfluss in Südamerika?",
-          "link": "https://www.handelsblatt.com/politik/international/brasilien-lula-oder-bolsonaro-wie-stark-wird-trumps-einfluss-in-suedamerika/100254741.html",
-          "published": "2026-10-03T07:05:00+00:00",
-          "summary": "Am Sonntag wählt Brasilien einen neuen Präsidenten – und entscheidet damit, wie eng es sich an die USA bindet. Das Ergebnis könnte Europa unter Druck setzen."
+          "title": "Diesel-Deal: Was bringt die Freigabe von Öl-Reserven?",
+          "link": "https://www.handelsblatt.com/politik/international/diesel-deal-was-bringt-die-freigabe-von-oel-reserven/100259496.html",
+          "published": "2026-10-03T12:47:31+00:00",
+          "summary": "Die von den G7-Ländern geplante Freigabe von Öl- und Dieselreserven wird die hohen Spritpreise wohl nicht nachhaltig senken. Doch sie senden ein Signal an den Markt."
         },
         {
-          "title": "Volkswagen: Rückruf von Millionen Autos: VW kannte das Schrauben-Problem seit Herbst 2024",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-millionenrueckruf-bei-vw-problem-war-seit-herbst-2024-bekannt/100258311.html",
-          "published": "2026-10-03T06:32:36+00:00",
-          "summary": "Eine einzelne Schraube löste bei Volkswagen vergangene Woche den wohl größten Rückruf seit dem Dieselskandal aus. Obwohl der Konzern früh erste Hinweise hatte, fehlten zum Start Teile und klare …"
+          "title": "Medizin-Technologie: Computerchips im Gehirn: Spanisches Start-up macht Musk-Firma Konkurrenz",
+          "link": "https://www.handelsblatt.com/unternehmen/start-ups/medizin-technologie-chips-im-gehirn-sollen-parkinson-und-demenzpatienten-helfen/100256651.html",
+          "published": "2026-10-03T12:47:00+00:00",
+          "summary": "Das spanische Start-up Inbrain entwickelt hauchdünne Gehirn-Implantate aus Graphen – mit vielversprechenden Anwendungsmöglichkeiten. Die Firmenchefin sieht den Standort Europa als Vorteil."
         },
         {
-          "title": "Morning Briefing Plus: Es lebe der Übernahmepoker!",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-es-lebe-der-uebernahmepoker/100245248.html",
-          "published": "2026-10-03T06:24:31+00:00",
-          "summary": "BASF will Evonik übernehmen, Evonik will das nicht. Jetzt geht es ums Belauern und Bluffen – und die Frage, wie der Deal aussehen könnte. Was uns diese Woche sonst noch beschäftigt hat."
+          "title": "Wohnungspolitik: Landesweit Demos gegen Wohnungsnot in Spanien",
+          "link": "https://www.handelsblatt.com/politik/international/wohnungspolitik-landesweit-demos-gegen-wohnungsnot-in-spanien/100259494.html",
+          "published": "2026-10-03T12:15:45+00:00",
+          "summary": "Nach dem Scheitern wichtiger Miet-Dekrete gehen viele Menschen in Spanien auf die Straßen. Sie fordern besseren Mieterschutz und bezahlbaren Wohnraum. Derweil gibt es Spekulationen über Neuwahlen."
         },
         {
-          "title": "Kriminalität: Anklage gegen Iraner: Terrorplan gegen jüdische Gemeinde?",
-          "link": "https://www.handelsblatt.com/politik/international/kriminalitaet-anklage-gegen-iraner-terrorplan-gegen-juedische-gemeinde/100259454.html",
-          "published": "2026-10-03T03:03:10+00:00",
-          "summary": "Die beiden Männer sollen im nordenglischen Manchester Anschläge auf die jüdische Gemeinde vorbereitet haben. Die Anti-Terror-Polizei ermittelt."
+          "title": "Interview: „Bei mir steht immer ein gepackter 80-Liter-Rucksack bereit“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/notfall-vorbereitung-bei-mir-steht-immer-ein-gepackter-80-liter-rucksack-bereit/100253964.html",
+          "published": "2026-10-03T11:58:42+00:00",
+          "summary": "Mit Sprengstoff bestückte Drohnen, Blackouts – die Bedrohung habe eine „neue Qualität“, sagt Malteser-Präsident Schelleis. Die Bürger müssten vorbeugen, damit Deutschland krisenfest werde."
         },
         {
-          "title": "„Cash only“ verlangt: Mehr als jeder Zweite scheitert beim bargeldlosen Bezahlen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cash-only-verlangt-mehr-als-jeder-zweite-scheitert-beim-bargeldlosen-bezahlen/100259452.html",
-          "published": "2026-10-03T03:00:31+00:00",
-          "summary": "Viele Verbraucher würde gerne noch häufiger mit Karte oder Smartphone zahlen. Doch manche Geschäfte oder Restaurants nehmen nur Bargeld. Ein Vorstoß des Finanzministers kommt bei Volksbanken gut an."
+          "title": "HDE-Konsumbarometer: Die deutsche Wirtschaft wächst, der Frust der Verbraucher auch",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/hde-konsumbarometer-die-deutsche-wirtschaft-waechst-der-frust-auch/100258034.html",
+          "published": "2026-10-03T11:49:21+00:00",
+          "summary": "Deutschlands Verbraucher verlieren das Vertrauen. Steigende Preise und Arbeitsplatzabbau bereiten den Konsumenten Sorgen. Die Stimmung ist weit schlechter als die tatsächliche Lage."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "IW-Studie zeigt Rückstand: Ostdeutsche Wirtschaft kommt nicht voran",
-          "link": "https://www.n-tv.de/wirtschaft/Ostdeutsche-Wirtschaft-kommt-nicht-voran-id31376348.html",
-          "published": "2026-10-03T05:08:38+00:00",
-          "summary": "Die Wiedervereinigung liegt Jahrzehnte zurück. Doch die Angleichung der Wirtschaftsleistung ist längst nicht vollendet, wie eine Studie zeigt. Mehr noch: Investitionen stocken, die Erwerbsbeteiligung …"
+          "title": "Kaufkraft sinkt dramatisch: Irans Währung im freien Fall",
+          "link": "https://www.n-tv.de/wirtschaft/Irans-Waehrung-im-freien-Fall-id31376994.html",
+          "published": "2026-10-03T11:27:00+00:00",
+          "summary": "Krieg, Sanktionen und Blockaden: Die iranische Wirtschaft liegt am Boden. Mit drastischen Auswirkungen für die Bevölkerung."
         },
         {
-          "title": "Wochenvorschau: Termine bis 11. Oktober 2026",
-          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-11-Oktober-2026-id31357328.html",
-          "published": "2026-10-02T22:01:00+00:00",
-          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+          "title": "Niedriger Rhein bei Düsseldorf: Frachtschiff kämpft sich nach fünf Tagen von Sandbank frei",
+          "link": "https://www.n-tv.de/wirtschaft/Frachtschiff-kaempft-sich-nach-fuenf-Tagen-von-Sandbank-frei-id31376937.html",
+          "published": "2026-10-03T11:01:05+00:00",
+          "summary": "Der Rhein führt nach wie vor wenig Wasser. Das wird einem mit Kleintransportern beladenen Frachtschiff am Montag bei Düsseldorf zum Verhängnis. Nach fünf Tagen kann es die Fahrt fortsetzen. In der …"
         },
         {
-          "title": "Jobdaten dämpfen Zinssorgen: Wall Street beendet die Woche versöhnlich",
-          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-beendet-die-Woche-versoehnlich-id31376053.html",
-          "published": "2026-10-02T21:23:39+00:00",
-          "summary": "Die Woche lief an der Wall Street nicht besonders gut. Zum Wochenabschluss geht es wieder etwas nach oben. Das liegt auch daran, dass die Arbeitsmarktdaten in den USA schlechter ausfallen als …"
+          "title": "Reinfall mit Kinder-Outfit: Zara zieht Halloween-Kostüm im KZ-Look zurück",
+          "link": "https://www.n-tv.de/wirtschaft/Zara-zieht-Halloween-Kostuem-im-KZ-Look-zurueck-id31376817.html",
+          "published": "2026-10-03T10:49:11+00:00",
+          "summary": "Zu Halloween suchen viele Menschen gruselige Kostüme. Die spanische Modekette Zara schießt übers Ziel hinaus. Ein Kinder-Outfit erinnert an Häftlingskleidung aus der NS-Zeit. Es ist allerdings nicht …"
         },
         {
-          "title": "Abstimmung über Verbrenner-Aus: Autolobby sucht die Nähe der extremen Rechten",
-          "link": "https://www.n-tv.de/wirtschaft/Autolobby-sucht-die-Naehe-der-extremen-Rechten-id31376046.html",
-          "published": "2026-10-02T20:41:49+00:00",
-          "summary": "Die Autolobby ist an einer Lockerung des Verbrenner-Aus interessiert. Dafür ist sie auch bereit für Zusammenarbeit mit rechtsextremen Parteien. Auch die EVP-Fraktion braucht für ihre Pläne eventuell …"
+          "title": "Spritpreisbremse tritt in Kraft: Normalbenzin kostet in Polen jetzt 1,54 Euro",
+          "link": "https://www.n-tv.de/wirtschaft/Normalbenzin-kostet-in-Polen-jetzt-1-54-Euro-id31376757.html",
+          "published": "2026-10-03T09:52:06+00:00",
+          "summary": "Seit Jahren ist Polen das Paradies deutscher Autofahrer - zumindest was die Preise an der Tankstelle angeht. Ab diesem Wochenende dürfte ein Abstecher ins Nachbarland für viele noch einmal …"
         },
         {
-          "title": "Zeit gekauft, Sanierung verpasst: Warum Galeria schon wieder am Abgrund steht",
-          "link": "https://www.n-tv.de/wirtschaft/Warum-Galeria-schon-wieder-am-Abgrund-steht-id31375065.html",
-          "published": "2026-10-02T15:46:54+00:00",
-          "summary": "Millionen Euro an Krediten sind verpufft. Statt die Warenhauskette Galeria neu zu erfinden, setzen Management und Eigner jahrelang auf Schadensbegrenzung. Handelsexperten warnen: Ein erneuter …"
+          "title": "Wahlkampfhilfe für Trump: Grüne nennen Freigabe von Dieselreserven \"politische Dummheit\"",
+          "link": "https://www.n-tv.de/wirtschaft/Gruene-nennen-Freigabe-von-Dieselreserven-politische-Dummheit-id31376636.html",
+          "published": "2026-10-03T09:13:17+00:00",
+          "summary": "Die Dieselpreise sind hoch wie nie. Auf Druck der US-Regierung geben die G7-Staaten daher große Mengen ihrer Dieselreserven frei. Die Grünen schütteln mit dem Kopf: \"Die Reserven sind für Notfälle da …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "xAI von Elon Musk: US-Gericht stoppt vorläufig KI-Nacktbild-Verbot",
-          "link": "https://www.wiwo.de/politik/ausland/xai-von-elon-musk-us-gericht-stoppt-vorlaeufig-ki-nacktbild-verbot/100259466.html",
-          "published": "2026-10-03T07:21:54+00:00",
-          "summary": "xAI klagt gegen Minnesotas Verbot von KI-Nacktbildern und bekommt vorläufig Recht. Der Streit berührt die Meinungsfreiheit."
+          "title": "Wirtschaft von oben: Ein exklusiver Einblick in Deutschlands große Chip-Hoffnung",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/tsmc-dresden-ein-erster-exklusiver-einblick-in-europas-wichtigste-chipfabrik/100257891.html",
+          "published": "2026-10-03T12:51:00+00:00",
+          "summary": "Silicon Saxony boomt. Dank einer taiwanischen Firma. Und Politikern mit Mut und Durchhaltevermögen."
         },
         {
-          "title": "Zum 3. Oktober: Osten, Westen, Einheit? Fünf Fakten zum Stand der Dinge",
-          "link": "https://www.wiwo.de/politik/deutschland/zum-3-oktober-osten-westen-einheit-fuenf-fakten-zum-stand-der-dinge/100259444.html",
-          "published": "2026-10-03T07:19:00+00:00",
-          "summary": "Wächst nun zusammen, was zusammengehört – oder eher nicht? 36 Jahre nach der deutschen Vereinigung wird viel geklagt, gegrübelt und gemutmaßt."
+          "title": "Liebes Deutschland!: In Deutschland gibt man sich nicht mit kurzfristigen Erfolgen zufrieden",
+          "link": "https://www.wiwo.de/erfolg/management/sanofi-chefin-belen-garijo-ueber-deutschland-was-den-standort-jetzt-staerkt/100256162.html",
+          "published": "2026-10-03T11:31:00+00:00",
+          "summary": "Wir zweifeln gerade an unserem Land. Höchste Zeit, internationale Manager zu fragen, die einen frischen Blick haben. Zum Beispiel Sanofi-Chefin Belén Garijo."
         },
         {
-          "title": "Galeria-Insolvenz: Plötzlich gab es dieses 36-Millionen-Euro-Loch bei Galeria",
-          "link": "https://www.wiwo.de/unternehmen/handel/galeria-insolvenz-wie-das-36-millionen-euro-loch-entstand/100259372.html",
-          "published": "2026-10-03T07:12:00+00:00",
-          "summary": "Die Krise war absehbar. Doch dass die Galeria-Chefs bereits in dieser Woche Insolvenz anmelden, soll selbst die Gesellschafter überrascht haben."
+          "title": "Wohnungsmarkt: Was ist dran am Mieterparadies Wien?",
+          "link": "https://www.wiwo.de/finanzen/immobilien/mieten-was-kann-berlin-vom-mieterparadies-wien-lernen/100258920.html",
+          "published": "2026-10-03T11:29:00+00:00",
+          "summary": "Wien gilt als Paradies für Mieter und Vorbild für Metropolen von Berlin bis New York. Mittlerweile stößt das Erfolgskonzept aber auch an seine Grenzen."
         },
         {
-          "title": "Wettbewerb: Was persönliche Rivalität im Team anrichtet",
-          "link": "https://www.wiwo.de/erfolg/management/konkurrenzkampf-im-team-was-rivalitaet-am-arbeitsplatz-anrichtet/100258562.html",
-          "published": "2026-10-03T06:59:00+00:00",
-          "summary": "Eine Studie zeigt, was interner Konkurrenzkampf mit Beschäftigten macht. Das Ergebnis sollte Führungskräfte aufhorchen lassen."
+          "title": "Modeikone Jil Sander: „Es kann nur eine Qualität geben“",
+          "link": "https://www.wiwo.de/unternehmen/handel/modeikone-jil-sander-es-kann-nur-eine-qualitaet-geben/100256522.html",
+          "published": "2026-10-03T11:10:00+00:00",
+          "summary": "Jil Sander ist eine Ikone der Modeindustrie. Ihr Vorbild sind die klaren Formen des Bauhaus. Was aber ist das Geheimnis ihres Erfolges? Und hat sie noch Pläne?"
         },
         {
-          "title": "BörsenWoche 579: Editorial: Deshalb wackelt es am IPO-Markt",
-          "link": "https://www.wiwo.de/finanzen/boerse/ipo-markt-geraet-ins-stocken-warum-boersengaenge-verschoben-werden/100259025.html",
-          "published": "2026-10-03T06:47:43+00:00",
-          "summary": "Zuletzt häuften sich Rückzieher bei geplanten Börsengängen. Kritiker sehen darin erste Zeichen für eine bröckelnde KI-Euphorie. Haben Sie Recht?"
+          "title": "Geldanlage: Wo soll ich jetzt 10.000 Euro anlegen?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/10.000-euro-anlegen-drei-anlageideen-fuer-den-jahresendspurt/100258585.html",
+          "published": "2026-10-03T11:04:17+00:00",
+          "summary": "Hoher Ölpreis und Inflationsdruck bewegen die Börsen und drücken die Anleihekurse. Für den Jahresendspurt können mutige Anleger auf IT-Sicherheit, China und die Blockchain setzen."
         }
       ],
       "error": null
