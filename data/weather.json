@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:58:06+00:00",
+  "generatedAt": "2026-10-04T21:06:44+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,18 +7,18 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-04T19:45",
-    "temperatur": 15.6,
-    "gefuehlt": 15.4,
-    "luftfeuchte": 73,
+    "zeit": "2026-10-04T23:00",
+    "temperatur": 11.2,
+    "gefuehlt": 11.1,
+    "luftfeuchte": 91,
     "niederschlag": 0.0,
-    "wind": 3.1,
+    "wind": 0.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 0,
-      "text": "Klar",
-      "icon": "☀️"
+      "code": 1,
+      "text": "Überwiegend klar",
+      "icon": "🌤️"
     }
   },
   "tage": [
@@ -37,8 +37,8 @@
     },
     {
       "datum": "2026-10-05",
-      "max": 20.3,
-      "min": 6.4,
+      "max": 20.0,
+      "min": 7.0,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-05T07:33",
       "sonnenuntergang": "2026-10-05T18:54",
@@ -50,8 +50,8 @@
     },
     {
       "datum": "2026-10-06",
-      "max": 20.2,
-      "min": 9.6,
+      "max": 20.0,
+      "min": 9.7,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-06T07:35",
       "sonnenuntergang": "2026-10-06T18:51",

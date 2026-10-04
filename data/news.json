@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:58:03+00:00",
+  "generatedAt": "2026-10-04T21:06:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
-          "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
-          "published": "2026-10-04T17:43:26+00:00",
-          "summary": "Nach militärischen Erfolgen der Huthi will Jemens international anerkannte Regierung nun in die Offensive gehen. Ziel sei es, das Land aus dem Griff der Miliz zu befreien. Doch das dürfte nicht so …"
+          "title": "Remis gegen Griechenland: Deutschland glänzt nur eine Halbzeit",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-glaenzt-nur-eine-halbzeit-in-griechenland,spielbericht-nl-griechenland-deutschland-100.html",
+          "published": "2026-10-04T20:39:16+00:00",
+          "summary": "Der Gruppensieg in der Nations League ist für Deutschland nach einem Remis in Griechenland fast schon außer Reichweite. Das DFB-Team glänzte nur eine Halbzeit lang."
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660302.html",
-          "published": "2026-10-04T17:33:31+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660396.html",
+          "published": "2026-10-04T19:09:43+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Wahl in Brasilien: Das Rennen zwischen Lula und Bolsonaro",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1660372.html",
+          "published": "2026-10-04T19:05:08+00:00",
           "summary": ""
         },
         {
           "title": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
           "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
-          "published": "2026-10-04T17:20:09+00:00",
+          "published": "2026-10-04T18:58:00+00:00",
           "summary": "Mitglieder der Linksjugend sind in der Geschäftsstelle der Linken in Oranienburg mit Pfefferspray attackiert worden. Die Polizei sucht nach drei Personen. Eine von ihnen soll kurz vor dem Angriff …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-04T16:53:26+00:00",
-          "summary": "Montag gibts in den meisten Regionen nach zum Teil zögerlicher Auflösung von Nebelfeldern längere Zeit Sonnenschein, in Alpennähe am Vormittag noch Schauer. 18 bis 24 Grad."
-        },
-        {
-          "title": "Zwei Weltkriegsbomben in Hannover entschärft",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/zwei-bomben-in-hannover-misburg-sind-entschaerft,evakuierung-118.html",
-          "published": "2026-10-04T16:48:28+00:00",
-          "summary": "Im Hannover-Misburg sind zwei US-amerikanische Weltkriegsbomben erfolgreich entschärft worden. 17.500 Menschen mussten zeitweise ihre Häuser und Wohnungen verlassen."
+          "title": "Wie ist der Alltag für die Menschen im Iran unter dem Krieg mit den USA?",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1660370.html",
+          "published": "2026-10-04T18:56:30+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Lateinamerika: Wahllokale in Brasilien geschlossen – Auszählung begonnen",
+          "link": "https://www.handelsblatt.com/politik/international/lateinamerika-wahllokale-in-brasilien-geschlossen-auszaehlung-begonnen/100259583.html",
+          "published": "2026-10-04T20:52:35+00:00",
+          "summary": "Rund 159 Millionen Brasilianer waren aufgerufen, ihre Stimme abzugeben. Erste Ergebnisse der Präsidentenwahl werden in der Nacht erwartet – es deutet sich ein knappes Rennen an."
+        },
+        {
+          "title": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag",
+          "link": "https://www.handelsblatt.com/politik/deutschland/einzelhandel-warenhauskette-galeria-stellt-abermals-insolvenzantrag/100259252.html",
+          "published": "2026-10-04T19:07:23+00:00",
+          "summary": "Die bislang letzte Insolvenz liegt erst gut zweieinhalb Jahre zurück. Nun ist Galeria wieder in finanzielle Not geraten. Ob die Beschäftigten Insolvenzgeld erhalten, ist unklar."
+        },
+        {
+          "title": "Ukraine-Krieg: Merz: Ganz Europa hängt an der Stabilität in Deutschland",
+          "link": "https://www.handelsblatt.com/politik/deutschland/ukraine-krieg-merz-ganz-europa-haengt-an-der-stabilitaet-in-deutschland/100259601.html",
+          "published": "2026-10-04T18:03:05+00:00",
+          "summary": "Kanzler Merz fordert Tempo bei Sozialreformen und warnt vor wackligen politischen Verhältnissen. Deutschland müsse für ganz Europa stabil regiert werden."
+        },
+        {
           "title": "Gefährliche Kiew-Reise: Merz unterstützt Ukraine – und appelliert an Putin",
           "link": "https://www.handelsblatt.com/politik/deutschland/gefaehrliche-kiew-reise-merz-unterstuetzt-ukraine-und-appelliert-an-putin/100259542.html",
           "published": "2026-10-04T17:33:41+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-nach-der-wahl-cdu-chef-in-sachsen-anhalt-niemand-wird-zur-afd-wechseln/100259606.html",
           "published": "2026-10-04T17:16:15+00:00",
           "summary": "Sven Schulze stellt klar: Es gibt keine Stimme für den AfD-Kandidaten Siegmund bei der Ministerpräsidentenwahl. Was er noch über die Machtverhältnisse in Magdeburg sagt."
-        },
-        {
-          "title": "Ukraine-Krieg: Merz: Ganz Europa hängt an der Stabilität in Deutschland",
-          "link": "https://www.handelsblatt.com/politik/deutschland/ukraine-krieg-merz-ganz-europa-haengt-an-der-stabilitaet-in-deutschland/100259601.html",
-          "published": "2026-10-04T17:03:46+00:00",
-          "summary": "Kanzler Merz fordert Tempo bei Sozialreformen und warnt vor wackligen politischen Verhältnissen. Deutschland müsse für ganz Europa stabil regiert werden."
-        },
-        {
-          "title": "Deep Read: Wie SAP trotz KI-Rückstand wieder gewinnen will",
-          "link": "https://www.handelsblatt.com/technik/it-internet/software-wie-sap-trotz-ki-rueckstand-wieder-gewinnen-will/100258469.html",
-          "published": "2026-10-04T16:39:36+00:00",
-          "summary": "Viel Pilot, wenig Alltag: SAP setzt auf Künstliche Intelligenz – doch die Umsetzung stockt. Konzernchef Christian Klein erhöht nun das Tempo."
-        },
-        {
-          "title": "+++ Ukraine-Krieg +++: Merz in Kiew: Deutsche und ukrainische Firmen schließen Milliardenabkommen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-10-04T15:08:00+00:00",
-          "summary": "Merz ist Drohnenangriff „offen gestanden relativ gleichgültig“ +++ Russland kündigt noch härtere Schläge auf Ukraine an +++ Luftangriff in Kiew während Merz-Besuch +++ Der Newsblog."
         }
       ],
       "error": null
