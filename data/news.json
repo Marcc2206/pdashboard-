@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:34:40+00:00",
+  "generatedAt": "2026-10-04T00:20:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1659948.html",
-          "published": "2026-10-03T19:13:09+00:00",
+          "title": "Israelischer Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
+          "link": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
+          "published": "2026-10-03T23:54:49+00:00",
+          "summary": "Bei einem Luftangriff im Gazastreifen sind nach Angaben von palästinensischen Rettungskräften mehrere Menschen getötet worden. Die israelische Armee gab an, ein hochrangiges Hamas-Mitglied …"
+        },
+        {
+          "title": "Wie belastet der Bürgerkrieg im Jemen den weltweiten Ölmarkt?, Ramin Sina, ARD Kairo, zzt. Mukalla",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1659966.html",
+          "published": "2026-10-03T22:09:21+00:00",
           "summary": ""
         },
         {
-          "title": "Ramin Sina, ARD Kairo, zzt. Mukalla, zu den Kämpfen im Jemen",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1659912.html",
-          "published": "2026-10-03T19:12:41+00:00",
+          "title": "Wie blicken junge Ostdeutsche auf die heutige Situation im Land?, Lena Brasch, Regisseurin",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1659964.html",
+          "published": "2026-10-03T22:08:09+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1659922.html",
-          "published": "2026-10-03T18:50:06+00:00",
-          "summary": "Bundespräsident Steinmeier hält große Rede am Tag der Deutschen Einheit, Eine Bilanz nach 38 Jahren Städtepartnerschaft zwischen Dortmund und Zwickau, Nach Medienberichten durfte Flydubai-Co-Pilot …"
+          "title": "Zwickau und Dortmund: Städtepartnerschaft zwischen Ost- und Westdeutschland",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1659962.html",
+          "published": "2026-10-03T22:06:46+00:00",
+          "summary": ""
         },
         {
-          "title": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
-          "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
-          "published": "2026-10-03T18:28:32+00:00",
-          "summary": "Die Letten haben ein neues Parlament gewählt. Laut Nachwahlbefragung liegt das Bündnis von Ministerpräsident Kulbergs vorn. Zentrale Themen im Wahlkampf waren Sicherheit und Verteidigung, aber auch …"
-        },
-        {
-          "title": "Nations League: 7:0! England nimmt Kroatien auseinander",
-          "link": "https://www.sportschau.de/fussball/nationsleague/70-england-nimmt-kroatien-auseinander,spielbericht-nations-league-kroatien-england-104.html",
-          "published": "2026-10-03T18:26:21+00:00",
-          "summary": "In einer Neuauflage des WM-Vorrundenspiels nimmt England Kroatien komplett auseinander. Kane und Saka trafen beim 7:0-Auswärtssieg zwei Mal."
+          "title": "Bundespräsident Steinmeier hält 51-minütige Rede zum Tag der Deutschen Einheit",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1659960.html",
+          "published": "2026-10-03T22:05:49+00:00",
+          "summary": ""
         }
       ],
       "error": null
