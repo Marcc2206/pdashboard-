@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:06:41+00:00",
+  "generatedAt": "2026-10-05T00:25:11+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660428.html",
+          "published": "2026-10-05T00:04:06+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
+          "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
+          "published": "2026-10-04T23:24:40+00:00",
+          "summary": "Die Abstimmung um die Präsidentschaft in Brasilien gilt als Richtungswahl. Derzeit werden die Stimmen ausgezählt. Herausforderer Bolsonaro liegt zwar vorn - aber die bisherigen Ergebnisse deuten auf …"
+        },
+        {
           "title": "Remis gegen Griechenland: Deutschland glänzt nur eine Halbzeit",
           "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-glaenzt-nur-eine-halbzeit-in-griechenland,spielbericht-nl-griechenland-deutschland-100.html",
-          "published": "2026-10-04T20:39:16+00:00",
+          "published": "2026-10-04T22:00:11+00:00",
           "summary": "Der Gruppensieg in der Nations League ist für Deutschland nach einem Remis in Griechenland fast schon außer Reichweite. Das DFB-Team glänzte nur eine Halbzeit lang."
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660396.html",
-          "published": "2026-10-04T19:09:43+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12896.html",
+          "published": "2026-10-04T21:43:35+00:00",
           "summary": ""
         },
         {
           "title": "Wahl in Brasilien: Das Rennen zwischen Lula und Bolsonaro",
           "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1660372.html",
           "published": "2026-10-04T19:05:08+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
-          "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
-          "published": "2026-10-04T18:58:00+00:00",
-          "summary": "Mitglieder der Linksjugend sind in der Geschäftsstelle der Linken in Oranienburg mit Pfefferspray attackiert worden. Die Polizei sucht nach drei Personen. Eine von ihnen soll kurz vor dem Angriff …"
-        },
-        {
-          "title": "Wie ist der Alltag für die Menschen im Iran unter dem Krieg mit den USA?",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1660370.html",
-          "published": "2026-10-04T18:56:30+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Lateinamerika: Wahllokale in Brasilien geschlossen – Auszählung begonnen",
-          "link": "https://www.handelsblatt.com/politik/international/lateinamerika-wahllokale-in-brasilien-geschlossen-auszaehlung-begonnen/100259583.html",
-          "published": "2026-10-04T20:52:35+00:00",
-          "summary": "Rund 159 Millionen Brasilianer waren aufgerufen, ihre Stimme abzugeben. Erste Ergebnisse der Präsidentenwahl werden in der Nacht erwartet – es deutet sich ein knappes Rennen an."
+          "title": "Präsidentenwahl: Stichwahl in Brasilien: Lula gegen Bolsonaro-Sohn Flávio",
+          "link": "https://www.handelsblatt.com/politik/international/praesidentenwahl-stichwahl-in-brasilien-lula-gegen-bolsonaro-sohn-flavio/100259635.html",
+          "published": "2026-10-05T00:13:13+00:00",
+          "summary": "Die Präsidentenwahl in Brasilien geht in eine zweite Runde. Wie vor vier Jahren stehen zwei Namen zur Auswahl: Lula und Bolsonaro. Dieses Mal heißt Lulas Herausforderer allerdings mit Vornamen Flávio."
         },
         {
-          "title": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag",
-          "link": "https://www.handelsblatt.com/politik/deutschland/einzelhandel-warenhauskette-galeria-stellt-abermals-insolvenzantrag/100259252.html",
-          "published": "2026-10-04T19:07:23+00:00",
-          "summary": "Die bislang letzte Insolvenz liegt erst gut zweieinhalb Jahre zurück. Nun ist Galeria wieder in finanzielle Not geraten. Ob die Beschäftigten Insolvenzgeld erhalten, ist unklar."
+          "title": "Beinahe-Katastrophe: Augenzeuge von Flugdrama: „Im Cockpit war niemand“",
+          "link": "https://www.handelsblatt.com/politik/international/beinahe-katastrophe-augenzeuge-von-flugdrama-im-cockpit-war-niemand/100259629.html",
+          "published": "2026-10-04T23:48:54+00:00",
+          "summary": "Die Minuten nach der Gewalttat sind dramatisch: ein leeres Cockpit, ein schwer verletzter Pilot, improvisierte Fesseln, geschockte weitere Piloten unter den Passagieren. Ein Augenzeuge berichtet."
         },
         {
-          "title": "Ukraine-Krieg: Merz: Ganz Europa hängt an der Stabilität in Deutschland",
-          "link": "https://www.handelsblatt.com/politik/deutschland/ukraine-krieg-merz-ganz-europa-haengt-an-der-stabilitaet-in-deutschland/100259601.html",
-          "published": "2026-10-04T18:03:05+00:00",
-          "summary": "Kanzler Merz fordert Tempo bei Sozialreformen und warnt vor wackligen politischen Verhältnissen. Deutschland müsse für ganz Europa stabil regiert werden."
+          "title": "Bundesregierung: Linke zieht gegen Ministerin Reiche vor Gericht",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-linke-zieht-gegen-ministerin-reiche-vor-gericht/100259625.html",
+          "published": "2026-10-04T22:42:05+00:00",
+          "summary": "Die Linke wirft der Ministerin vor, sich in einem Instagram-Video nach der Berlin-Wahl „einseitig und parteipolitisch“ geäußert zu haben. Nun zieht die Partei vor das Verfassungsgericht."
         },
         {
-          "title": "Gefährliche Kiew-Reise: Merz unterstützt Ukraine – und appelliert an Putin",
-          "link": "https://www.handelsblatt.com/politik/deutschland/gefaehrliche-kiew-reise-merz-unterstuetzt-ukraine-und-appelliert-an-putin/100259542.html",
-          "published": "2026-10-04T17:33:41+00:00",
-          "summary": "Noch nie war ein Kanzler-Besuch in Kiew so gefährlich. Immer wieder heulen die Sirenen. Merz bringt eine klare Botschaft an die Ukrainer mit. Aber auch eine an Putin und gewisse Leute in Deutschland."
+          "title": "Zustand der Koalition: Merz: „Wir müssen in der Regierung zusammenbleiben“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/zustand-der-koalition-merz-wir-muessen-in-der-regierung-zusammenbleiben/100259623.html",
+          "published": "2026-10-04T22:25:04+00:00",
+          "summary": "Nach schwierigen innenpolitischen Wochen formuliert der Kanzler im fernen Kiew eine Botschaft - auch an seine eigene Koalition. Im Blick hat er vor allem die geplanten Sozialreformen."
         },
         {
-          "title": "Sachsen-Anhalt nach der Wahl: CDU-Chef in Sachsen-Anhalt: Niemand wird zur AfD wechseln",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-nach-der-wahl-cdu-chef-in-sachsen-anhalt-niemand-wird-zur-afd-wechseln/100259606.html",
-          "published": "2026-10-04T17:16:15+00:00",
-          "summary": "Sven Schulze stellt klar: Es gibt keine Stimme für den AfD-Kandidaten Siegmund bei der Ministerpräsidentenwahl. Was er noch über die Machtverhältnisse in Magdeburg sagt."
+          "title": "Einzelhandel: Miteigentümer Beetz kritisiert Galeria für Insolvenzantrag",
+          "link": "https://www.handelsblatt.com/politik/deutschland/einzelhandel-miteigentuemer-beetz-kritisiert-galeria-fuer-insolvenzantrag/100259621.html",
+          "published": "2026-10-04T22:15:04+00:00",
+          "summary": "Miteigentümer Beetz sieht die Insolvenz von Galeria kritisch und fordert mehr Tempo bei der Neuausrichtung. Welche Schritte er für die Zukunft des Warenhauses vorschlägt."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Über 100.000 Auszahlungen: E-Auto-Prämie übertrifft alle Erwartungen",
+          "link": "https://www.n-tv.de/wirtschaft/E-Auto-Praemie-uebertrifft-alle-Erwartungen-id31379899.html",
+          "published": "2026-10-04T23:50:06+00:00",
+          "summary": "Gerade in Zeiten hoher Kraftstoffpreise wünschen sich viele Menschen ein Elektroauto. Und tatsächlich werden die Fahrzeuge immer beliebter. Dass sich viele Menschen für einen Kauf entscheiden, liegt …"
+        },
         {
           "title": "Diehl, Hensoldt, Quantum: Deutsche Rüstungsfirmen schließen Milliarden-Deals mit Kiew",
           "link": "https://www.n-tv.de/wirtschaft/Deutsche-Ruestungsfirmen-schliessen-Milliarden-Deals-mit-Kiew-id31379330.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Balkan-Baeckereien-erobern-deutsche-Staedte-id31378119.html",
           "published": "2026-10-04T07:18:51+00:00",
           "summary": "Traditionell deutsche Bäckereien leiden. Stattdessen gehören in Innenstädten immer häufiger Bäckereien mit Spezialitäten vom Balkan zum Straßenbild. Börek, Baklava und Cevapcici besetzen eine …"
-        },
-        {
-          "title": "Halbleiterfertigung ab Ende 2028: Bau einer millionenschweren Chipfabrik in Erfurt beginnt",
-          "link": "https://www.n-tv.de/wirtschaft/Bau-einer-millionenschweren-Chipfabrik-in-Erfurt-beginnt-id31378063.html",
-          "published": "2026-10-04T06:01:46+00:00",
-          "summary": "Der Bedarf nach Halbleitern für KI-Anwendungen, Rechenzentren oder optische Systeme ist riesig. Thüringen profitiert. Der Halbleiterhersteller X-Fab baut seine Produktion in Erfurt aus. Bund und das …"
         }
       ],
       "error": null
