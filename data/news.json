@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:25:11+00:00",
+  "generatedAt": "2026-10-05T08:17:20+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
+          "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
+          "published": "2026-10-05T08:11:20+00:00",
+          "summary": "Der Streit über die Wohnungsmarktpolitik führt zu Neuwahlen in Spanien. Regierungschef Sánchez kündigte eine vorgezogene Parlamentswahl im November an. Seine Sozialisten liegen in Umfragen hinter den …"
+        },
+        {
+          "title": "Marktbericht: DAX mit angezogener Handbremse",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+          "published": "2026-10-05T07:51:50+00:00",
+          "summary": "Der DAX ist kaum verändert in die neue Woche gestartet. Für gedämpfte Stimmung sorgt am Morgen ein erneuter Rückgang beim Euro. Auch weiterhin hohe Ölpreise bleiben eine Belastung."
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660428.html",
-          "published": "2026-10-05T00:04:06+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660514.html",
+          "published": "2026-10-05T07:36:27+00:00",
           "summary": ""
         },
         {
-          "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
-          "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
-          "published": "2026-10-04T23:24:40+00:00",
-          "summary": "Die Abstimmung um die Präsidentschaft in Brasilien gilt als Richtungswahl. Derzeit werden die Stimmen ausgezählt. Herausforderer Bolsonaro liegt zwar vorn - aber die bisherigen Ergebnisse deuten auf …"
+          "title": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
+          "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
+          "published": "2026-10-05T07:22:10+00:00",
+          "summary": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema …"
         },
         {
-          "title": "Remis gegen Griechenland: Deutschland glänzt nur eine Halbzeit",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-glaenzt-nur-eine-halbzeit-in-griechenland,spielbericht-nl-griechenland-deutschland-100.html",
-          "published": "2026-10-04T22:00:11+00:00",
-          "summary": "Der Gruppensieg in der Nations League ist für Deutschland nach einem Remis in Griechenland fast schon außer Reichweite. Das DFB-Team glänzte nur eine Halbzeit lang."
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12896.html",
-          "published": "2026-10-04T21:43:35+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Wahl in Brasilien: Das Rennen zwischen Lula und Bolsonaro",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1660372.html",
-          "published": "2026-10-04T19:05:08+00:00",
-          "summary": ""
+          "title": "Australien: Alge kann Methan-Ausstoß von Rindern reduzieren",
+          "link": "https://www.tagesschau.de/wissen/klima/australien-methan-kuehe-futter-100.html",
+          "published": "2026-10-05T07:03:08+00:00",
+          "summary": "Rund ein Viertel des menschengemachten Methans entsteht in der Rinderzucht. Australische Landwirte wollen das ändern - mit einem Trick: Sie lassen Rotalgen ins Futter ihrer Rinder mischen. Von …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Präsidentenwahl: Stichwahl in Brasilien: Lula gegen Bolsonaro-Sohn Flávio",
-          "link": "https://www.handelsblatt.com/politik/international/praesidentenwahl-stichwahl-in-brasilien-lula-gegen-bolsonaro-sohn-flavio/100259635.html",
-          "published": "2026-10-05T00:13:13+00:00",
-          "summary": "Die Präsidentenwahl in Brasilien geht in eine zweite Runde. Wie vor vier Jahren stehen zwei Namen zur Auswahl: Lula und Bolsonaro. Dieses Mal heißt Lulas Herausforderer allerdings mit Vornamen Flávio."
+          "title": "Berater: Deloitte streicht Stellen in der Nachhaltigkeits-Prüfung",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/berater-deloitte-streicht-stellen-in-der-nachhaltigkeits-pruefung/100256523.html",
+          "published": "2026-10-05T08:08:26+00:00",
+          "summary": "Die EU hat den Prüfern das Geschäft mit Nachhaltigkeitsberichten erschwert. Jetzt werden Jobs abgebaut. Auch in der Beratung zum grünen Umbau erfüllen sich die einst hohen Erwartungen nicht."
         },
         {
-          "title": "Beinahe-Katastrophe: Augenzeuge von Flugdrama: „Im Cockpit war niemand“",
-          "link": "https://www.handelsblatt.com/politik/international/beinahe-katastrophe-augenzeuge-von-flugdrama-im-cockpit-war-niemand/100259629.html",
-          "published": "2026-10-04T23:48:54+00:00",
-          "summary": "Die Minuten nach der Gewalttat sind dramatisch: ein leeres Cockpit, ein schwer verletzter Pilot, improvisierte Fesseln, geschockte weitere Piloten unter den Passagieren. Ein Augenzeuge berichtet."
+          "title": "Einzelhandel: Galeria-Insolvenzantrag vom Gericht zugelassen",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/galeria-insolvenzantrag-vom-gericht-zugelassen/100259716.html",
+          "published": "2026-10-05T08:05:09+00:00",
+          "summary": "Die Warenhauskette steckt erneut in finanziellen Schwierigkeiten. Das zuständige Gericht hat dem Antrag auf Eröffnung eines Insolvenzverfahrens inzwischen entsprochen."
         },
         {
-          "title": "Bundesregierung: Linke zieht gegen Ministerin Reiche vor Gericht",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-linke-zieht-gegen-ministerin-reiche-vor-gericht/100259625.html",
-          "published": "2026-10-04T22:42:05+00:00",
-          "summary": "Die Linke wirft der Ministerin vor, sich in einem Instagram-Video nach der Berlin-Wahl „einseitig und parteipolitisch“ geäußert zu haben. Nun zieht die Partei vor das Verfassungsgericht."
+          "title": "Einzelhandel: Galeria-Insolvenzantrag vom Gericht zugelassen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/einzelhandel-galeria-insolvenzantrag-vom-gericht-zugelassen/100259719.html",
+          "published": "2026-10-05T07:58:04+00:00",
+          "summary": "Die Warenhauskette steckt erneut in finanziellen Schwierigkeiten. Das zuständige Gericht hat dem Antrag auf Eröffnung eines Insolvenzverfahrens inzwischen entsprochen."
         },
         {
-          "title": "Zustand der Koalition: Merz: „Wir müssen in der Regierung zusammenbleiben“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/zustand-der-koalition-merz-wir-muessen-in-der-regierung-zusammenbleiben/100259623.html",
-          "published": "2026-10-04T22:25:04+00:00",
-          "summary": "Nach schwierigen innenpolitischen Wochen formuliert der Kanzler im fernen Kiew eine Botschaft - auch an seine eigene Koalition. Im Blick hat er vor allem die geplanten Sozialreformen."
+          "title": "Wasserpolitik: Umweltminister Schneider will Großverbraucher von Wasser stärker belasten",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wasser-umweltminister-schneider-will-grossverbraucher-staerker-belasten/100259712.html",
+          "published": "2026-10-05T07:52:10+00:00",
+          "summary": "Deutschland muss sich auf zunehmend knappes Wasser einstellen und seine Infrastruktur anpassen. Großverbraucher sollen daher künftig mehr für Wasser zahlen."
         },
         {
-          "title": "Einzelhandel: Miteigentümer Beetz kritisiert Galeria für Insolvenzantrag",
-          "link": "https://www.handelsblatt.com/politik/deutschland/einzelhandel-miteigentuemer-beetz-kritisiert-galeria-fuer-insolvenzantrag/100259621.html",
-          "published": "2026-10-04T22:15:04+00:00",
-          "summary": "Miteigentümer Beetz sieht die Insolvenz von Galeria kritisch und fordert mehr Tempo bei der Neuausrichtung. Welche Schritte er für die Zukunft des Warenhauses vorschlägt."
+          "title": "Regierungskrise: Sánchez ruft vorzeitige Neuwahlen in Spanien aus",
+          "link": "https://www.handelsblatt.com/politik/international/regierungskrise-sanchez-ruft-vorzeitige-neuwahlen-in-spanien-aus/100259595.html",
+          "published": "2026-10-05T07:50:36+00:00",
+          "summary": "Nach der gescheiterten Abstimmung über zwei Immobiliengesetze beendet Sánchez die Legislatur. In Umfragen führen seine Gegner, doch das linke Lager hofft auf einen Stimmungsumschwung."
         }
       ],
       "error": null
@@ -86,7 +86,19 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Über 100.000 Auszahlungen: E-Auto-Prämie übertrifft alle Erwartungen",
+          "title": "Gericht lässt Insolvenzantrag zu: Galeria-Miteigentümer schießt gegen Geschäftsführung",
+          "link": "https://www.n-tv.de/wirtschaft/Galeria-Miteigentuemer-schiesst-gegen-Geschaeftsfuehrung-id31380738.html",
+          "published": "2026-10-05T07:59:57+00:00",
+          "summary": "Die angeschlagene Warenhauskette Galeria will das vierte Insolvenzverfahren in den letzten sechs Jahren durchlaufen. Für einen der Miteigentümer ist dafür auch die Geschäftsführung verantwortlich."
+        },
+        {
+          "title": "Exporte, Jobs, Aufträge, Ertrag: Stimmung in der Autoindustrie rauscht noch tiefer in den Keller",
+          "link": "https://www.n-tv.de/wirtschaft/Stimmung-in-der-Autoindustrie-rauscht-noch-tiefer-in-den-Keller-id31380668.html",
+          "published": "2026-10-05T07:44:42+00:00",
+          "summary": "In einigen Industriezweigen steigt die Laune zuletzt. Nicht so bei den Autobauern. Chinesische Konkurrenten setzen die deutschen Hersteller immer weiter unter Druck. Die Branche ändert ihre Meinung …"
+        },
+        {
+          "title": "100.000 Auszahlungen: E-Auto-Prämie übertrifft alle Erwartungen",
           "link": "https://www.n-tv.de/wirtschaft/E-Auto-Praemie-uebertrifft-alle-Erwartungen-id31379899.html",
           "published": "2026-10-04T23:50:06+00:00",
           "summary": "Gerade in Zeiten hoher Kraftstoffpreise wünschen sich viele Menschen ein Elektroauto. Und tatsächlich werden die Fahrzeuge immer beliebter. Dass sich viele Menschen für einen Kauf entscheiden, liegt …"
@@ -99,21 +111,9 @@
         },
         {
           "title": "\"Rechtmäßig und nicht verjährt\": Griechenland fordert erneut Milliarden von Deutschland",
-          "link": "https://www.n-tv.de/wirtschaft/Griechenland-fordert-erneut-Milliarden-von-Deutschland-id31378896.html",
+          "link": "https://www.n-tv.de/wirtschaft/Griechenland-fordert-erneut-Reparationen-von-Deutschland-bis-zu-341-Milliarden-Euro-im-Raum-id31378896.html",
           "published": "2026-10-04T13:02:20+00:00",
           "summary": "Griechenlands Präsident Tasoulas fordert erneut deutsche Reparationen für Weltkriegsverbrechen. Bis zu 341 Milliarden Euro stehen im Raum. Berlin sieht die Frage rechtlich als abgeschlossen an."
-        },
-        {
-          "title": "Schaufenster eines Konglomerates: Hinter Manchester City steht ein ökonomisches Labyrinth",
-          "link": "https://www.n-tv.de/wirtschaft/Hinter-Manchester-City-steht-ein-oekonomisches-Labyrinth-id31376054.html",
-          "published": "2026-10-04T11:03:19+00:00",
-          "summary": "Mit seinen Öl-Milliarden hat sich Abu Dhabi in Manchester eingekauft. Das Emirat hat nicht nur einen Fußballklub übernommen, sondern ganze Stadtviertel aufgemöbelt. Diese konzertierte Aktion setzt …"
-        },
-        {
-          "title": "Erfolg der neuen Snack-Kultur: Balkan-Bäckereien erobern deutsche Städte",
-          "link": "https://www.n-tv.de/wirtschaft/Balkan-Baeckereien-erobern-deutsche-Staedte-id31378119.html",
-          "published": "2026-10-04T07:18:51+00:00",
-          "summary": "Traditionell deutsche Bäckereien leiden. Stattdessen gehören in Innenstädten immer häufiger Bäckereien mit Spezialitäten vom Balkan zum Straßenbild. Börek, Baklava und Cevapcici besetzen eine …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX geht versöhnlich ins Wochenende",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
-          "published": "2026-10-02T16:49:21+00:00",
-          "summary": "Der DAX hat angesichts schwacher US-Arbeitsmarktdaten zugelegt. Die nähren die Hoffnung, dass die US-Notenbank Fed von einer weiteren Erhöhung der Leitzinsen vorerst absehen kann."
+          "title": "Marktbericht: DAX mit angezogener Handbremse",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+          "published": "2026-10-05T07:51:50+00:00",
+          "summary": "Der DAX ist kaum verändert in die neue Woche gestartet. Für gedämpfte Stimmung sorgt am Morgen ein erneuter Rückgang beim Euro. Auch weiterhin hohe Ölpreise bleiben eine Belastung."
         },
         {
           "title": "Marktbericht: Nikes Schwäche nutzt Konkurrenten wie Adidas",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Bundesregierung: Starke Parteien schaffen Kompromisse – Schwarz-Rot schafft nur Streit",
+          "title": "Telekommunikation: Deutsche Telekom will durch KI-Einsatz Milliarden sparen",
+          "link": "https://www.wiwo.de/unternehmen/it/telekommunikation-deutsche-telekom-will-durch-ki-einsatz-milliarden-sparen/100259721.html",
+          "published": "2026-10-05T08:12:51+00:00",
+          "summary": "Mit KI und Automatisierung will die Telekom bis 2030 jährlich 2,5 Milliarden Euro Kosten reduzieren. Was das für Service und neue Angebote bedeutet."
+        },
+        {
+          "title": "Maschinenbau: Zu wenig Aufträge aus dem Inland",
+          "link": "https://www.wiwo.de/unternehmen/industrie/maschinenbau-in-deutschland-zu-wenig-auftraege-aus-dem-inland/100259710.html",
+          "published": "2026-10-05T08:01:00+00:00",
+          "summary": "Im August fehlen in der deutschen Industrie Großaufträge. Was das für Produktion und Auslastung der Anlagen bedeutet – und wann wieder Wachstum erwartet wird."
+        },
+        {
+          "title": "Spanien: Spaniens Ministerpräsident kündigt Neuwahlen für Ende November an",
+          "link": "https://www.wiwo.de/politik/europa/spanien-ministerpraesident-pedro-sanchez-kuendigt-neuwahlen-an/100259702.html",
+          "published": "2026-10-05T07:34:26+00:00",
+          "summary": "Nach dem Scheitern zweier Mieterschutz-Dekrete im Parlament steht Spaniens Regierung unter Druck. Nun geht Ministerpräsident Pedro Sánchez ins Risiko."
+        },
+        {
+          "title": "Übernahme: Schneider Electric kauft US-Softwarefirma für 21 Milliarden Euro",
+          "link": "https://www.wiwo.de/unternehmen/it/uebernahme-schneider-electric-kauft-us-softwarefirma-fuer-21-milliarden-euro/100259687.html",
+          "published": "2026-10-05T07:18:00+00:00",
+          "summary": "Schneider Electric plant mit dem milliardenschweren Zukauf des Softwareunternehmens PTC seinen Einstieg in den USA. Der französische Konzern will so sein Softwaregeschäft weiter ausbauen."
+        },
+        {
+          "title": "Bundesregierung: Starke Parteien schaffen Kompromisse – Schwarz-Rot schafft Streit",
           "link": "https://www.wiwo.de/politik/deutschland/grosse-koalition-im-streit-union-und-spd-wiederholen-die-fehler-der-ampel-regierung/100259277.html",
-          "published": "2026-10-04T14:02:00+00:00",
+          "published": "2026-10-05T06:59:55+00:00",
           "summary": "Geschichte wiederholt sich nicht, die Große Koalition ist keine Ampel. Union und SPD wiederholen dennoch Fehler, die die Vorgängerregierung an den Abgrund führten. Ein Kommentar."
-        },
-        {
-          "title": "Management-Moment: Wenn Führungskräfte Mitarbeitern das Homeoffice streichen",
-          "link": "https://www.wiwo.de/erfolg/management/mercedes-beendet-homeoffice-so-gelingt-die-rueckkehr-ins-buero-im-team/100259071.html",
-          "published": "2026-10-04T13:41:04+00:00",
-          "summary": "Mercedes beordert seine Mitarbeiter ins Büro. Wie geräuschlos das klappt, hängt von klug agierenden Vorgesetzten ab, die überzeugen und organisieren können."
-        },
-        {
-          "title": "Commerzbank: Diese Manager (und ein Ex-FC-Bayern-Vorstand) könnten Orlopp beerben",
-          "link": "https://www.wiwo.de/unternehmen/banken/commerzbank-und-unicredit-die-moeglichen-nachfolger-von-bettina-orlopp/100259069.html",
-          "published": "2026-10-04T13:29:00+00:00",
-          "summary": "Der Abgang von Commerzbank-Chefin Bettina Orlopp scheint besiegelt. Diese vier Männer und diese Frau könnten ihr nachfolgen."
-        },
-        {
-          "title": "Merz in Kiew: Deutschland hilft Ukraine bei Drohnen und Raketen",
-          "link": "https://www.wiwo.de/politik/deutschland/abwehrkampf-gegen-russland-merz-in-der-ukraine-weitere-militaerhilfe-geplant/100259541.html",
-          "published": "2026-10-04T13:27:00+00:00",
-          "summary": "Merz sichert der Ukraine weitere Milliarden zu und setzt auf gemeinsame Rüstungsprojekte. Trotz russischer Drohungen will der Kanzler den Druck auf Putin erhöhen."
-        },
-        {
-          "title": "Karls Erdbeerhof: Jetzt tritt ein deutscher Erdbeerbauer gegen Disneyland an",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/karls-erdbeerhof-in-den-usa-robert-dahls-riskante-expansion/100256521.html",
-          "published": "2026-10-04T13:01:00+00:00",
-          "summary": "Aus einem Erdbeerhof hat Robert Dahl das Freizeitimperium Karls gemacht. Jetzt expandiert er nach Kalifornien, wo die Konkurrenz riesig ist. Ist das mutig oder vermessen?"
         }
       ],
       "error": null
@@ -211,6 +211,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "54 Energiepfähle und 864 Solarmodule: Die Technik hinter Berlins neuem 133-m-Turm",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/54-energiepfaehle-und-864-solarmodule-die-technik-hinter-berlins-neuem-133-m-turm/",
+          "published": "2026-10-05T06:30:00+00:00",
+          "summary": "Unter Berlins neuem 133-m-Hochhaus arbeiten 54 Gründungspfähle auch als Wärmetauscher. Dazu kommen Fassaden-PV und ein Roboter im Aufzugsschacht."
+        },
+        {
+          "title": "Wie China aus deutscher Tunneltechnik ein Milliardengeschäft machte",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/wie-china-aus-deutscher-tunneltechnik-ein-milliardengeschaeft-machte/",
+          "published": "2026-10-05T05:29:12+00:00",
+          "summary": "China importierte einst moderne Tunnelbohrer aus Deutschland und Japan. Heute baut und exportiert das Land selbst TBM. Welche Rolle Herrenknecht spielte."
+        },
+        {
+          "title": "Wie funktionieren Bitcoins? Ein Überblick für Einsteiger",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/wie-funktionieren-bitcoins-ein-ueberblick-fuer-einsteiger/",
+          "published": "2026-10-05T05:00:16+00:00",
+          "summary": "Wie funktioniert Bitcoin? Wir erklären verständlich, was Wallets speichern, wie Transaktionen ablaufen und welche Rolle Blockchain und Mining spielen."
+        },
+        {
           "title": "Deutschland will viermal mehr KI-Leistung – doch beim Stromnetz wird es eng",
           "link": "https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/deutschland-will-viermal-mehr-ki-leistung-doch-beim-stromnetz-fuer-rechenzentren-wird-es-eng/",
           "published": "2026-10-04T15:07:17+00:00",
@@ -221,24 +239,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/cra-meldepflicht-wann-die-frist-beginnt/",
           "published": "2026-10-02T12:05:06+00:00",
           "summary": "Hersteller müssen nun aktiv ausgenutzte Schwachstellen und schwerwiegende Sicherheitsvorfälle binnen 24 Stunden melden. Doch die Pflicht gilt auch für Maschinen, die längst beim Kunden stehen."
-        },
-        {
-          "title": "Was hat die EU nur mit dem Wasserstoffhochlauf vor?",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/was-die-eu-mit-dem-wasserstoffhochlauf-vorhat/",
-          "published": "2026-10-02T10:00:00+00:00",
-          "summary": "Ein geleaktes EU-Papier zu RED IV verunsichert die Wasserstoffbranche: Drohen weniger verbindliche Ziele und ein langsamerer Hochlauf?"
-        },
-        {
-          "title": "Robotikboom: Protolabs verdoppelt Umsatz mit Roboterherstellern",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/produktion/robotikboom-protolabs-verdoppelt-umsatz-mit-roboterherstellern/",
-          "published": "2026-10-02T08:30:00+00:00",
-          "summary": "Die Produktion neuer Robotertypen erfordert oft noch Anpassungen bei den Komponenten. Worauf es dabei ankommt, wird beim Dienstleister Protolabs deutlich."
-        },
-        {
-          "title": "Ingenieurkarriere: So schärfst Du dein Kompetenzprofil",
-          "link": "https://www.ingenieur.de/karriere/bildung/weiterbildung/weiterbildung-fuer-ingenieure-kompetenzprofil-schaerfen-mit-vdi-masterclass/",
-          "published": "2026-10-02T07:10:19+00:00",
-          "summary": "Welche Kompetenzen brauche ich für den nächsten Karriereschritt? Die digitale VDI Karriere-Masterclass hilft dabei, die eigenen Stärken einzuordnen und neue Perspektiven zu erkennen."
         }
       ],
       "error": null
