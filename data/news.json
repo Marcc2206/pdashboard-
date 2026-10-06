@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:29:01+00:00",
+  "generatedAt": "2026-10-06T22:18:07+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Sachsen-Anhalt: AfD-Erfolg bringt CDU und Schulze in Bedrängnis",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
-          "published": "2026-10-06T16:22:39+00:00",
-          "summary": "Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven Schulze. Steht …"
-        },
-        {
-          "title": "Wahl Sachsen-Anhalt im Liveticker: CDU stellt zweiten Landtags-Vizepräsidenten",
-          "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/liveticker-erste-sitzung-vizepraesident-tillschneider,landtag-sachsen-anhalt-338.html",
-          "published": "2026-10-06T16:19:46+00:00",
-          "summary": "Carsten Borchert von der CDU-Fraktion ist der zweite Vizepräsident im Landtag von Sachsen-Anhalt. Borchert wurde von 82 abgegeben Stimmen mit 64 Ja-Stimmen gewählt. Die aktuellen Entwicklungen im …"
-        },
-        {
-          "title": "Jörg Diehl, Leiter Recherchekooperation von NDR, WDR und SZ, über den Spionageverdacht von Ex-BND-Chef Hanning",
-          "link": "https://www.tagesschau.de/video/video-1661554.html",
-          "published": "2026-10-06T16:16:13+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12900.html",
+          "published": "2026-10-06T21:16:47+00:00",
           "summary": ""
         },
         {
-          "title": "Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident",
-          "link": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html",
-          "published": "2026-10-06T16:15:19+00:00",
-          "summary": "Der AfD-Politiker Tillschneider ist zum neuen Landtagsvizepräsidenten in Sachsen-Anhalt gewählt worden. Die CDU stellt mit dem Abgeordneten Borchert den zweiten Vizepräsidenten. Der SPD-Kandidat …"
+          "title": "Debatte um Abstimmungsverhalten nach Wahl von AfD-Politikern ins Landtagspräsidium in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1661748.html",
+          "published": "2026-10-06T20:34:02+00:00",
+          "summary": ""
         },
         {
-          "title": "Entsetzen nach Festnahme des Ex-BND-Chefs Hanning",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/festnahme-hanning-bnd-reaktionen-100.html",
-          "published": "2026-10-06T15:51:40+00:00",
-          "summary": "\"Verstörend\" und \"alarmierend\": Die überraschende Festnahme des Ex-BND-Chefs Hanning hat für Aufsehen gesorgt. Sicherheitspolitiker von Regierung und Opposition zeigen sich entsetzt und fordern eine …"
+          "title": "AfD-Politiker Tobias Rausch zum Landtagspräsidenten von Sachsen-Anhalt gewählt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1661744.html",
+          "published": "2026-10-06T20:27:22+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
+          "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
+          "published": "2026-10-06T19:54:16+00:00",
+          "summary": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661738.html",
+          "published": "2026-10-06T19:39:57+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Kreative Zerstörung: Miniwasserwerfer oder Sexspielzeug? Was Dysons neueste Erfindung über uns aussagt",
-          "link": "https://www.handelsblatt.com/meinung/kolumnen/ki-dysons-miniwasserwerfer-fuer-den-mund/100259919.html",
-          "published": "2026-10-06T16:13:02+00:00",
-          "summary": "Dyson hat eine KI-gestützte Zahnbürste entwickelt. Sie putzt nicht einfach Zähne, sie eröffnet einen „vollständig neuen Weg, die Zähne zu reinigen“. Unsere Autorin verleitet das eher zu einem …"
+          "title": "Wegen AfD: Spontaner Protestmarsch der SPD‑Fraktion – Pistorius stimmt Nationalhymne an",
+          "link": "https://www.handelsblatt.com/politik/deutschland/wegen-afd-spontaner-protestmarsch-der-spdfraktion-pistorius-stimmt-nationalhymne-an/100260220.html",
+          "published": "2026-10-06T21:20:20+00:00",
+          "summary": "Bei einem Protestmarsch haben die SPD-Abgeordneten am Dienstag gegen den ersten AfD-Ministerpräsidenten demonstriert. Boris Pistorius hielt eine engagierte Rede."
         },
         {
-          "title": "Sachsen-Anhalt: AfD stellt Landtagspräsidenten - Brandmauer bröckelig?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-afd-stellt-landtagspraesidenten-brandmauer-broeckelig/100259943.html",
-          "published": "2026-10-06T16:06:31+00:00",
-          "summary": "Tobias Rausch ist der erste AfD-Landtagspräsident. Gewählt wurde er auch von vier Abgeordneten, die nicht AfD oder BSW angehören. Wird nun auch die Wahl eines AfD-Regierungschefs wahrscheinlicher?"
+          "title": "Familienunternehmen: Generationswechsel an der Spitze der Brenninkmeijer-Familie",
+          "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/familienunternehmen-generationswechsel-an-der-spitze-der-brenninkmeijer-familie/100259911.html",
+          "published": "2026-10-06T21:06:42+00:00",
+          "summary": "Die Holding der C&A-Unternehmerfamilie treibt den Umbau zur Investmentgruppe voran: Florian Brenninkmeyer folgt auf Martijn Brenninkmeijer an der Spitze des Cofra-Verwaltungsrats."
         },
         {
-          "title": "Neues Modell: Ungezähmter Abenteurer: Mini rollt Countryman Untamed vor",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/neues-modell-ungezaehmter-abenteurer-mini-rollt-countryman-untamed-vor/100260195.html",
-          "published": "2026-10-06T16:00:06+00:00",
-          "summary": "Jetzt macht der Mini Countryman seinem Namen alle Ehre: Als Untamed wagt er sich tiefer ins Landleben denn je. Und wo die Zivilisation dünn wird, bringt er gleich sein eigenes Nachtlager mit."
+          "title": "AfD: SPD-Minister setzt bei AfD-Verbot auf Russlandnähe der Partei",
+          "link": "https://www.handelsblatt.com/politik/deutschland/thueringens-innenminister-setzt-bei-afd-verbot-auf-russlandnaehe-der-partei/100260212.html",
+          "published": "2026-10-06T20:28:26+00:00",
+          "summary": "Georg Maier drängt auf die Prüfung eines AfD‑Verbotsverfahrens. Der SPD-Innenminister nennt mehrere Gründe, die dafür sprechen, dass der Bundesrat bald zu einer Entscheidung kommt."
         },
         {
-          "title": "PDF: Handelsblatt vom 07. Oktober 2026",
-          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-07.-oktober-2026/100260191.html",
-          "published": "2026-10-06T15:58:49+00:00",
-          "summary": ""
+          "title": "Hollywood-Megadeal: Paramount schließt Warner-Übernahme ab",
+          "link": "https://www.handelsblatt.com/technik/it-internet/hollywood-megadeal-paramount-schliesst-warner-uebernahme-ab/100260142.html",
+          "published": "2026-10-06T20:06:12+00:00",
+          "summary": "Eine Mega-Fusion krempelt Hollywood um: Paramount schluckt den Rivalen Warner Brothers. Der neue Konzern startet mit Milliardenschulden und Fragen nach politischem Einfluss eines Trump-Freundes."
         },
         {
-          "title": "Handelsblatt Live: US-Börsenexperte Koch: Nasdaq 100 und S&P 500 auf Rekordniveau",
-          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-nasdaq-100-und-sp-500-auf-rekordniveau/100260189.html",
-          "published": "2026-10-06T15:57:47+00:00",
-          "summary": "Die Rally an der Wall Street setzt sich laut Markus Koch im frühen Dienstagshandel fort. „Es sind vor allem die großen Tech-Werte, die den S&P weiter nach oben treiben“, kommentiert der Börsenexperte."
+          "title": "An der Berliner Charité: Erste reguläre Behandlung mit Genschere in Deutschland",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/an-der-berliner-charite-erste-regulaere-behandlung-mit-genschere-in-deutschland/100259037.html",
+          "published": "2026-10-06T19:33:31+00:00",
+          "summary": "Für die Entwicklung der Crispr-Methode gab es 2020 den Nobelpreis. Nun hat ein Patient bundesweit erstmals nach der Zulassung der Genscheren-Therapie ein entsprechendes Mittel erhalten."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Weiter hohe KI-Nachfrage: Entspannung am Rohölmarkt treibt Wall Street auf Bestmarken",
+          "link": "https://www.n-tv.de/wirtschaft/Entspannung-am-Rohoelmarkt-treibt-Wall-Street-auf-Bestmarken-id31389349.html",
+          "published": "2026-10-06T20:58:23+00:00",
+          "summary": "Die G7-Staaten greifen in den Ölmarkt ein und beruhigen damit die Nerven der Investoren. Prompt klettern S&P 500 und Nasdaq auf Höchststände. Das wachsende US-Handelsdefizit könnte den …"
+        },
+        {
+          "title": "Kommission erhält mehr Macht : EU soll \"Zweitschlagswaffe\" gegen Chinas Importe bekommen",
+          "link": "https://www.n-tv.de/wirtschaft/EU-soll-Zweitschlagswaffe-gegen-Chinas-Importe-bekommen-id31388268.html",
+          "published": "2026-10-06T16:42:58+00:00",
+          "summary": "Handelskonflikte zwischen Europa, den USA und China nehmen an Schärfe zu. Doch die EU-Kommission kann bisher nur schwerfällig und langsam reagieren. Nun soll sie eine wirksame Abschreckungswaffe …"
+        },
         {
           "title": "Wut der neuen Energieunternehmen: \"Die Pläne des Wirtschaftsministeriums sind ein Angriff auf privates Eigentum\"",
           "link": "https://www.n-tv.de/wirtschaft/1Komma5Grad-Chef-Schroeder-Die-Plaene-des-Wirtschaftsministeriums-sind-ein-Angriff-auf-privates-Eigentum-id31385876.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wie-ein-Bauboom-Spanien-Jahrzehnte-spaeter-einholt-id31385587.html",
           "published": "2026-10-06T15:40:55+00:00",
           "summary": "Der spanische Bauboom der Nullerjahre und seine Folgen prägen das Land noch immer. Was das mit den anstehenden Neuwahlen zu tun hat."
-        },
-        {
-          "title": "Eigentümer mit Trump verbündet: Paramount schließt Warner-Übernahme ab - Sorge um CNN",
-          "link": "https://www.n-tv.de/wirtschaft/Paramount-schliesst-Warner-Uebernahme-ab-Sorge-um-CNN-id31387904.html",
-          "published": "2026-10-06T12:55:09+00:00",
-          "summary": "Der Unterhaltungskonzern Paramount übernimmt den Konkurrenten Warner Brothers. Die Mega-Fusion hat nicht nur Einfluss auf das Filmgeschäft in Hollywood: Kritiker fürchten auch um die Unabhängigkeit …"
-        },
-        {
-          "title": "Start der Serienproduktion: Rheinmetall stellt Satelliten her - Bundeswehr bekommt Exklusivrechte",
-          "link": "https://www.n-tv.de/wirtschaft/Rheinmetall-stellt-Satelliten-her-Bundeswehr-bekommt-Exklusivrechte-id31385798.html",
-          "published": "2026-10-06T08:44:17+00:00",
-          "summary": "Der Rüstungskonzern Rheinmetall erweitert sein Portfolio: Neben Artillerie, Panzern und Munition stellt das Unternehmen nun auch Weltraumsatelliten her. Für die Aufnahmen aus dem All bezahlt die …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Neue Zuversicht an der Börse",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
+          "published": "2026-10-06T17:10:54+00:00",
+          "summary": "Eine Entspannung am Ölmarkt sowie am Anleihemarkt hat den DAX aus seiner Lethargie gerissen. Dazu kam die anhaltende Technologie-Rally in den USA."
+        },
+        {
           "title": "Rheinmetall erschließt sich das Weltall",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rheinmetall-weltall-100.html",
           "published": "2026-10-06T12:09:30+00:00",
           "summary": "Rheinmetall hat die Serienproduktion von Satelliten aufgenommen. Damit erweitert der Rüstungskonzern sein breites Produktportfolio weiter. Die Rheinmetall-Aktie war zuletzt aber kaum gefragt."
-        },
-        {
-          "title": "Marktbericht: DAX gewinnt an Schwung",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
-          "published": "2026-10-06T07:56:06+00:00",
-          "summary": "Nach dem vorsichtigen Wochenstart ist der deutsche Leitindex mit einem Plus gestartet. Damit folgte der DAX der Tech-Rally an der Wall Street. Gegenwind lieferten neue Konjunkturdaten."
         },
         {
           "title": "Talfahrt geht weiter: Euro fällt unter 1,12 Dollar",
@@ -172,6 +172,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "3-D-Technologie: Der Coder aus dem Erzgebirge",
+          "link": "https://www.wiwo.de/unternehmen/mittelstand/3d-global-wie-ein-erfinder-aus-dem-erzgebirge-3d-revolutioniert/100256508.html",
+          "published": "2026-10-06T17:00:00+00:00",
+          "summary": "Der Erfinder Ullrich Dähnert war pleite, als der schwäbische Investor Matthias Hohenstein bei ihm klingelte. Heute leiten beide ein wohl einzigartiges 3-D-Technologieunternehmen."
+        },
+        {
           "title": "Insolvenzverfahren: Insolvenzverwalter fordert Millionen von Wanja Oberhof",
           "link": "https://www.wiwo.de/unternehmen/dienstleister/wanja-oberhof-insolvenzverwalter-fordert-millionen/100259023.html",
           "published": "2026-10-06T16:05:00+00:00",
@@ -187,19 +193,13 @@
           "title": "EU-Zwangsarbeitsverordnung: Das nächste Bürokratiemonster aus Brüssel",
           "link": "https://www.wiwo.de/politik/europa/eu-zwangsarbeitsverordnung-wie-die-eu-produkte-aus-zwangsarbeit-bannen-will/100260084.html",
           "published": "2026-10-06T14:56:43+00:00",
-          "summary": "Europa will mit der EU-Zwangsarbeitsverordnung Produkte aus erzwungener Beschäftigung verbannen. Das erfordert zum Verdruss der Wirtschaft aufwendige Überprüfungen bei den Unternehmen."
+          "summary": "Europa will mit der Zwangsarbeitsverordnung Produkte aus erzwungener Beschäftigung verbannen. Das erfordert zum Verdruss der Wirtschaft aufwendige Überprüfungen bei den Unternehmen."
         },
         {
           "title": "Baufinanzierung: Die Suche nach dem günstigsten Baugeld",
           "link": "https://www.wiwo.de/finanzen/immobilien/baufinanzierung-die-flexiblen-darlehen-im-check/100260135.html",
           "published": "2026-10-06T14:43:29+00:00",
           "summary": "Der Immobilienkauf wird teurer, denn die Bauzinsen steigen. Was Käufer jetzt bei der Finanzierung beachten sollten und wo es die besten flexiblen Darlehen gibt."
-        },
-        {
-          "title": "3D-Technologie: Der Coder aus dem Erzgebirge",
-          "link": "https://www.wiwo.de/unternehmen/mittelstand/3d-global-wie-ein-erfinder-aus-dem-erzgebirge-3d-revolutioniert/100256508.html",
-          "published": "2026-10-06T14:35:00+00:00",
-          "summary": "Der Erfinder Ullrich Dähnert war pleite, als der schwäbische Investor Matthias Hohenstein bei ihm klingelte. Heute leiten beide ein wohl einzigartiges 3-D-Technologieunternehmen."
         }
       ],
       "error": null
@@ -211,9 +211,15 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Bauroboter im Realitätscheck: Schneller heißt nicht immer günstiger",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/bauroboter-im-realitaetscheck-schneller-heisst-nicht-immer-guenstiger/",
-          "published": "2026-10-06T14:30:00+00:00",
+          "title": "US-Mikroreaktor steht kurz vor dem Start, gekühlt wird mit flüssigem Natrium und Kalium",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/us-mikroreaktor-steht-kurz-vor-dem-start-gekuehlt-wird-mit-fluessigem-natrium-und-kalium/",
+          "published": "2026-10-06T17:47:12+00:00",
+          "summary": "Flüssigmetall statt Wasser: Der US-Mikroreaktor MARVEL rückt mit seinem neuen Primärkühlsystem näher an den Start."
+        },
+        {
+          "title": "Weniger Handarbeit, höhere Kosten: Was Bauroboter wirklich bringen",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/weniger-handarbeit-hoehere-kosten-was-bauroboter-wirklich-bringen/",
+          "published": "2026-10-06T17:00:00+00:00",
           "summary": "Bauroboter bohren, markieren und binden Bewehrung. Studien und Praxiseinsätze zeigen, wann sie Arbeit sparen – und warum Kosten trotzdem steigen können."
         },
         {
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/icecube-vater-und-neutrino-baendiger-francis-halzen-erhaelt-den-physik-nobelpreis/",
           "published": "2026-10-06T11:35:20+00:00",
           "summary": "Francis Halzen erhält den Physik-Nobelpreis 2026 für Icecube: Das Antarktis-Observatorium weist hochenergetische Neutrinos aus dem All nach."
-        },
-        {
-          "title": "105-m-Tanker fährt mit Wasserstoff: Japan meldet Weltpremiere auf See",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/105-m-langer-tanker-fahrt-mit-wasserstoff-japan-meldet-weltpremiere-auf-see/",
-          "published": "2026-10-06T11:00:00+00:00",
-          "summary": "Wasserstoff galt aufgrund seines Volumens lange als ungeeignet für Schiffe. Jetzt ist ein japanischer Tanker zwei Stunden lang mit einem Wasserstoffmotor durch die Bucht von Osaka gefahren. Wie war …"
         }
       ],
       "error": null
