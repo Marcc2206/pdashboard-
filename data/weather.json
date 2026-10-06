@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T08:32:02+00:00",
+  "generatedAt": "2026-10-06T16:29:04+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-06T10:30",
-    "temperatur": 14.9,
-    "gefuehlt": 14.1,
-    "luftfeuchte": 81,
+    "zeit": "2026-10-06T18:15",
+    "temperatur": 17.9,
+    "gefuehlt": 18.8,
+    "luftfeuchte": 79,
     "niederschlag": 0.0,
-    "wind": 8.7,
+    "wind": 3.1,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -24,22 +24,22 @@
   "tage": [
     {
       "datum": "2026-10-06",
-      "max": 19.8,
+      "max": 19.0,
       "min": 9.8,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-06T07:35",
       "sonnenuntergang": "2026-10-06T18:51",
       "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
+        "code": 45,
+        "text": "Nebel",
+        "icon": "🌫️"
       }
     },
     {
       "datum": "2026-10-07",
-      "max": 21.5,
-      "min": 9.1,
-      "regenwahrscheinlichkeit": 18,
+      "max": 21.8,
+      "min": 8.8,
+      "regenwahrscheinlichkeit": 13,
       "sonnenaufgang": "2026-10-07T07:36",
       "sonnenuntergang": "2026-10-07T18:49",
       "wetter": {
@@ -50,9 +50,9 @@
     },
     {
       "datum": "2026-10-08",
-      "max": 14.5,
-      "min": 8.8,
-      "regenwahrscheinlichkeit": 95,
+      "max": 14.9,
+      "min": 9.0,
+      "regenwahrscheinlichkeit": 98,
       "sonnenaufgang": "2026-10-08T07:38",
       "sonnenuntergang": "2026-10-08T18:47",
       "wetter": {
@@ -63,14 +63,14 @@
     },
     {
       "datum": "2026-10-09",
-      "max": 12.8,
-      "min": 8.2,
-      "regenwahrscheinlichkeit": 88,
+      "max": 13.4,
+      "min": 8.1,
+      "regenwahrscheinlichkeit": 85,
       "sonnenaufgang": "2026-10-09T07:40",
       "sonnenuntergang": "2026-10-09T18:45",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     }
