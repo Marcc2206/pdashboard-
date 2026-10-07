@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:37:28+00:00",
+  "generatedAt": "2026-10-07T19:42:55+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,26 +7,26 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-07T14:30",
-    "temperatur": 20.7,
-    "gefuehlt": 19.7,
-    "luftfeuchte": 59,
+    "zeit": "2026-10-07T21:30",
+    "temperatur": 16.6,
+    "gefuehlt": 16.5,
+    "luftfeuchte": 77,
     "niederschlag": 0.0,
-    "wind": 12.0,
+    "wind": 5.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 0,
-      "text": "Klar",
-      "icon": "☀️"
+      "code": 3,
+      "text": "Bedeckt",
+      "icon": "☁️"
     }
   },
   "tage": [
     {
       "datum": "2026-10-07",
-      "max": 21.5,
+      "max": 21.6,
       "min": 9.4,
-      "regenwahrscheinlichkeit": 5,
+      "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-07T07:36",
       "sonnenuntergang": "2026-10-07T18:49",
       "wetter": {
@@ -37,21 +37,21 @@
     },
     {
       "datum": "2026-10-08",
-      "max": 15.7,
-      "min": 8.6,
+      "max": 15.2,
+      "min": 9.4,
       "regenwahrscheinlichkeit": 100,
       "sonnenaufgang": "2026-10-08T07:38",
       "sonnenuntergang": "2026-10-08T18:47",
       "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
+        "code": 95,
+        "text": "Gewitter",
+        "icon": "⛈️"
       }
     },
     {
       "datum": "2026-10-09",
-      "max": 13.0,
-      "min": 7.1,
+      "max": 12.9,
+      "min": 7.7,
       "regenwahrscheinlichkeit": 83,
       "sonnenaufgang": "2026-10-09T07:40",
       "sonnenuntergang": "2026-10-09T18:45",
@@ -63,14 +63,14 @@
     },
     {
       "datum": "2026-10-10",
-      "max": 13.9,
-      "min": 10.1,
-      "regenwahrscheinlichkeit": 61,
+      "max": 14.7,
+      "min": 9.2,
+      "regenwahrscheinlichkeit": 72,
       "sonnenaufgang": "2026-10-10T07:41",
       "sonnenuntergang": "2026-10-10T18:42",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     }
