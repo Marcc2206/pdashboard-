@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:18:14+00:00",
+  "generatedAt": "2026-10-07T04:14:24+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-07T00:15",
-    "temperatur": 11.8,
-    "gefuehlt": 11.9,
+    "zeit": "2026-10-07T06:00",
+    "temperatur": 10.1,
+    "gefuehlt": 9.6,
     "luftfeuchte": 100,
     "niederschlag": 0.0,
-    "wind": 2.9,
+    "wind": 3.9,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -24,9 +24,9 @@
   "tage": [
     {
       "datum": "2026-10-07",
-      "max": 21.7,
-      "min": 9.7,
-      "regenwahrscheinlichkeit": 5,
+      "max": 21.5,
+      "min": 9.8,
+      "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-07T07:36",
       "sonnenuntergang": "2026-10-07T18:49",
       "wetter": {
@@ -37,9 +37,9 @@
     },
     {
       "datum": "2026-10-08",
-      "max": 15.1,
-      "min": 9.2,
-      "regenwahrscheinlichkeit": 100,
+      "max": 15.7,
+      "min": 8.5,
+      "regenwahrscheinlichkeit": 98,
       "sonnenaufgang": "2026-10-08T07:38",
       "sonnenuntergang": "2026-10-08T18:47",
       "wetter": {
@@ -50,28 +50,28 @@
     },
     {
       "datum": "2026-10-09",
-      "max": 12.9,
-      "min": 8.0,
-      "regenwahrscheinlichkeit": 92,
+      "max": 12.4,
+      "min": 7.4,
+      "regenwahrscheinlichkeit": 88,
       "sonnenaufgang": "2026-10-09T07:40",
       "sonnenuntergang": "2026-10-09T18:45",
       "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
+        "code": 61,
+        "text": "Leichter Regen",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-10-10",
-      "max": 14.3,
-      "min": 10.5,
-      "regenwahrscheinlichkeit": 75,
+      "max": 13.3,
+      "min": 9.9,
+      "regenwahrscheinlichkeit": 65,
       "sonnenaufgang": "2026-10-10T07:41",
       "sonnenuntergang": "2026-10-10T18:42",
       "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     }
   ]

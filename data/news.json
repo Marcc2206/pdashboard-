@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:18:07+00:00",
+  "generatedAt": "2026-10-07T04:13:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12900.html",
-          "published": "2026-10-06T21:16:47+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Debatte um Abstimmungsverhalten nach Wahl von AfD-Politikern ins Landtagspräsidium in Sachsen-Anhalt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1661748.html",
-          "published": "2026-10-06T20:34:02+00:00",
-          "summary": ""
-        },
-        {
-          "title": "AfD-Politiker Tobias Rausch zum Landtagspräsidenten von Sachsen-Anhalt gewählt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1661744.html",
-          "published": "2026-10-06T20:27:22+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
-          "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
-          "published": "2026-10-06T19:54:16+00:00",
-          "summary": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein …"
+          "title": "Was die Metall-Tarifrunde so kompliziert macht",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-tarifverhandlungen-104.html",
+          "published": "2026-10-07T04:06:08+00:00",
+          "summary": "Heute beginnen die Verhandlungen über die Tarifbedingungen in der Metall- und Elektroindustrie. Betroffen sind rund 3,7 Millionen Beschäftigte. Antworten auf die wichtigsten Fragen zum Gesprächsstart."
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661738.html",
-          "published": "2026-10-06T19:39:57+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661804.html",
+          "published": "2026-10-07T04:05:55+00:00",
+          "summary": ""
+        },
+        {
+          "title": "BR-Recherche zu Pestiziden - Mehr als 50 Wirkstoffe scheitern an EU-Prüfung",
+          "link": "https://www.tagesschau.de/investigativ/br-recherche/eu-neuregelung-pestizid-zulassung-100.html",
+          "published": "2026-10-07T04:00:21+00:00",
+          "summary": "Mehr als 50 Pestizid-Wirkstoffe sind seit 2011 bei der Wiederzulassung in der EU durchgefallen, zeigt eine Analyse von BR Data. Genau diese Überprüfung will die EU-Kommission abschaffen. …"
+        },
+        {
+          "title": "Erster Koalitionsausschuss nach Sommerpause könnte Klärung beim umstrittenen Reformpaket bringen",
+          "link": "https://www.tagesschau.de/video/video-1661802.html",
+          "published": "2026-10-07T03:51:42+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Christa Pike nach gescheitertem Hinrichtungsversuch wieder bei Bewusstsein",
+          "link": "https://www.tagesschau.de/video/video-1661798.html",
+          "published": "2026-10-07T03:37:59+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Wegen AfD: Spontaner Protestmarsch der SPD‑Fraktion – Pistorius stimmt Nationalhymne an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/wegen-afd-spontaner-protestmarsch-der-spdfraktion-pistorius-stimmt-nationalhymne-an/100260220.html",
-          "published": "2026-10-06T21:20:20+00:00",
-          "summary": "Bei einem Protestmarsch haben die SPD-Abgeordneten am Dienstag gegen den ersten AfD-Ministerpräsidenten demonstriert. Boris Pistorius hielt eine engagierte Rede."
+          "title": "Handelspolitik: China kritisiert Pläne für neue EU-Handelsinstrumente",
+          "link": "https://www.handelsblatt.com/politik/deutschland/handelspolitik-china-kritisiert-plaene-fuer-neue-eu-handelsinstrumente/100260272.html",
+          "published": "2026-10-07T03:53:26+00:00",
+          "summary": "Deutschland und Frankreich wollen die EU besser gegen unfaire Handelspraktiken schützen. Peking sieht darin Protektionismus. Die Kritik kommt unmittelbar vor wichtigen Handelsgesprächen."
         },
         {
-          "title": "Familienunternehmen: Generationswechsel an der Spitze der Brenninkmeijer-Familie",
-          "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/familienunternehmen-generationswechsel-an-der-spitze-der-brenninkmeijer-familie/100259911.html",
-          "published": "2026-10-06T21:06:42+00:00",
-          "summary": "Die Holding der C&A-Unternehmerfamilie treibt den Umbau zur Investmentgruppe voran: Florian Brenninkmeyer folgt auf Martijn Brenninkmeijer an der Spitze des Cofra-Verwaltungsrats."
+          "title": "Invest: MEAG-Immobilienchef Haas: „Viele haben Druck und müssen verkaufen“",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-meag-immobilienchef-haas-viele-haben-druck-und-muessen-verkaufen/100259913.html",
+          "published": "2026-10-07T03:10:00+00:00",
+          "summary": "Die Lage am Immobilienmarkt ist nicht erst seit den jüngsten Zinserhöhungen schwierig. Stefan Haas verantwortet das globale Immobiliengeschäft der MEAG und erklärt im Podcast, was er nun kauft."
         },
         {
-          "title": "AfD: SPD-Minister setzt bei AfD-Verbot auf Russlandnähe der Partei",
-          "link": "https://www.handelsblatt.com/politik/deutschland/thueringens-innenminister-setzt-bei-afd-verbot-auf-russlandnaehe-der-partei/100260212.html",
-          "published": "2026-10-06T20:28:26+00:00",
-          "summary": "Georg Maier drängt auf die Prüfung eines AfD‑Verbotsverfahrens. Der SPD-Innenminister nennt mehrere Gründe, die dafür sprechen, dass der Bundesrat bald zu einer Entscheidung kommt."
+          "title": "Nikkei: Steigender Ölpreis bremst Börsen in Asien",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-steigender-oelpreis-bremst-boersen-in-asien/100260257.html",
+          "published": "2026-10-07T03:08:27+00:00",
+          "summary": "Die Spannungen zwischen Saudi-Arabien und den vom Iran unterstützten Huthi-Rebellen im Jemen treiben die Ölpreise an. Das sorgt für schlechte Stimmung bei den asiatischen Anlegern."
         },
         {
-          "title": "Hollywood-Megadeal: Paramount schließt Warner-Übernahme ab",
-          "link": "https://www.handelsblatt.com/technik/it-internet/hollywood-megadeal-paramount-schliesst-warner-uebernahme-ab/100260142.html",
-          "published": "2026-10-06T20:06:12+00:00",
-          "summary": "Eine Mega-Fusion krempelt Hollywood um: Paramount schluckt den Rivalen Warner Brothers. Der neue Konzern startet mit Milliardenschulden und Fragen nach politischem Einfluss eines Trump-Freundes."
+          "title": "Invest: MEAG-Immobilienchef Haas: „Viele haben Druck und müssen verkaufen“",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-meag-immobilienchef-haas-viele-haben-druck-und-muessen-verkaufen/100260166.html",
+          "published": "2026-10-07T03:05:00+00:00",
+          "summary": "Die Lage am Immobilienmarkt ist nicht erst seit den jüngsten Zinserhöhungen schwierig. Stefan Haas verantwortet das globale Immobiliengeschäft der MEAG und erklärt im Podcast, was er nun kauft."
         },
         {
-          "title": "An der Berliner Charité: Erste reguläre Behandlung mit Genschere in Deutschland",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/an-der-berliner-charite-erste-regulaere-behandlung-mit-genschere-in-deutschland/100259037.html",
-          "published": "2026-10-06T19:33:31+00:00",
-          "summary": "Für die Entwicklung der Crispr-Methode gab es 2020 den Nobelpreis. Nun hat ein Patient bundesweit erstmals nach der Zulassung der Genscheren-Therapie ein entsprechendes Mittel erhalten."
+          "title": "Richtig Druck machen: Wie oft den Luftdruck und Zustand der Autoreifen checken?",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/richtig-druck-machen-wie-oft-den-luftdruck-und-zustand-der-autoreifen-checken/100260260.html",
+          "published": "2026-10-07T03:03:06+00:00",
+          "summary": "Wer regelmäßig selbst den Luftdruck in den Autoreifen prüft, spart Sprit und schont die Reifen. Warum auch ein Reifendruck-Kontrollsystem allein nicht ausreicht und wie oft Experten zur Messung raten."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Auf Dauer nicht normal\": IW-Studie: Ohne die massiven Staatsausgaben wäre BIP geschrumpft",
+          "link": "https://www.n-tv.de/wirtschaft/IW-Studie-Ohne-die-massiven-Staatsausgaben-waere-BIP-geschrumpft-id31389434.html",
+          "published": "2026-10-06T23:55:11+00:00",
+          "summary": "In den letzten sechs Jahren wächst Deutschlands Wirtschaft im Schnitt jährlich nur um 0,2 Prozent. Doch dieses Plus geht rechnerisch allein auf staatliche Ausgaben zurück. Vor allem im Bausektor und …"
+        },
+        {
+          "title": "Antrag kommt in den Bundestag: Koalition ebnet Weg für Bahn-Ausbau zwischen Hamburg und Hannover",
+          "link": "https://www.n-tv.de/wirtschaft/Koalition-ebnet-Weg-fuer-Bahn-Ausbau-zwischen-Hamburg-und-Hannover-id31389426.html",
+          "published": "2026-10-06T23:18:33+00:00",
+          "summary": "Seit Jahren wird über die Bahnstrecke zwischen Hannover und Hamburg gestritten. Nun legt die schwarz-rote Koalition einen gemeinsamen Antrag vor. Bis die ersten Züge rollen, könnten jedoch Jahrzehnte …"
+        },
         {
           "title": "Weiter hohe KI-Nachfrage: Entspannung am Rohölmarkt treibt Wall Street auf Bestmarken",
           "link": "https://www.n-tv.de/wirtschaft/Entspannung-am-Rohoelmarkt-treibt-Wall-Street-auf-Bestmarken-id31389349.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/1Komma5Grad-Chef-Schroeder-Die-Plaene-des-Wirtschaftsministeriums-sind-ein-Angriff-auf-privates-Eigentum-id31385876.html",
           "published": "2026-10-06T16:13:39+00:00",
           "summary": "Der Bundestag beschäftigt sich derzeit mit den Energiegesetzen von Wirtschaftsministerin Katherina Reiche. Der Chef des Energieunternehmens 1Komma5Grad warnt im Interview vor Auseinandersetzungen mit …"
-        },
-        {
-          "title": "Kundenansturm nach Preissenkung : Tankrabatt führte mancherorts zu leeren Tankstellen",
-          "link": "https://www.n-tv.de/wirtschaft/Tankrabatt-fuehrte-mancherorts-zu-leeren-Tankstellen-id31388544.html",
-          "published": "2026-10-06T15:56:31+00:00",
-          "summary": "Einigen Tankstellen geht zu Beginn der Woche Diesel und Benzin aus. Einen Kraftstoffmangel gebe es nicht, heißt es aus der Branche. Vielmehr hänge der Ausverkauf mit dem Tankrabatt zusammen."
-        },
-        {
-          "title": "Wohnungskrise löst Neuwahlen aus: Wie ein Bauboom Spanien Jahrzehnte später einholt",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-ein-Bauboom-Spanien-Jahrzehnte-spaeter-einholt-id31385587.html",
-          "published": "2026-10-06T15:40:55+00:00",
-          "summary": "Der spanische Bauboom der Nullerjahre und seine Folgen prägen das Land noch immer. Was das mit den anstehenden Neuwahlen zu tun hat."
         }
       ],
       "error": null
@@ -172,6 +172,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Aktienmarkt: Europas Aktien haben Aufholpotenzial – aber keinen Freifahrtschein",
+          "link": "https://www.wiwo.de/finanzen/boerse/aktienmarkt-europas-aktien-haben-aufholpotenzial-aber-keinen-freifahrtschein/100260008.html",
+          "published": "2026-10-07T04:02:50+00:00",
+          "summary": "Das Bild vom kriselnden Europa täuscht. Viele Unternehmen sind widerstandsfähig. Goldman-Sachs-Strategin Sharon Bell über Aktienchancen und Hindernisse für eine Jahresendrally."
+        },
+        {
+          "title": "Neue Wachstumsagenda: „Das relativiert die Sorgen vor einer KI-Blase“",
+          "link": "https://www.wiwo.de/politik/deutschland/ludwig-straub-so-etwas-kann-sich-deutschland-heute-nicht-mehr-erlauben/100256808.html",
+          "published": "2026-10-07T04:01:59+00:00",
+          "summary": "Die gestiegenen Renditen zeigen, wie nervös die Finanzmärkte sind. Harvard-Professor Ludwig Straub nennt die Gründe dafür – und erklärt die Folgen."
+        },
+        {
           "title": "3-D-Technologie: Der Coder aus dem Erzgebirge",
           "link": "https://www.wiwo.de/unternehmen/mittelstand/3d-global-wie-ein-erfinder-aus-dem-erzgebirge-3d-revolutioniert/100256508.html",
           "published": "2026-10-06T17:00:00+00:00",
@@ -188,18 +200,6 @@
           "link": "https://www.wiwo.de/unternehmen/it/start-ups-in-muenchen-warum-die-stadt-zur-hochburg-fuer-tech-gruender-wird/100256442.html",
           "published": "2026-10-06T15:03:00+00:00",
           "summary": "BMW-Erbin Susanne Klatten und Helmut Schönenberger haben ein Ökosystem für Milliarden-Projekte geschaffen. Anfangs wurden sie ausgelacht. Und nun?"
-        },
-        {
-          "title": "EU-Zwangsarbeitsverordnung: Das nächste Bürokratiemonster aus Brüssel",
-          "link": "https://www.wiwo.de/politik/europa/eu-zwangsarbeitsverordnung-wie-die-eu-produkte-aus-zwangsarbeit-bannen-will/100260084.html",
-          "published": "2026-10-06T14:56:43+00:00",
-          "summary": "Europa will mit der Zwangsarbeitsverordnung Produkte aus erzwungener Beschäftigung verbannen. Das erfordert zum Verdruss der Wirtschaft aufwendige Überprüfungen bei den Unternehmen."
-        },
-        {
-          "title": "Baufinanzierung: Die Suche nach dem günstigsten Baugeld",
-          "link": "https://www.wiwo.de/finanzen/immobilien/baufinanzierung-die-flexiblen-darlehen-im-check/100260135.html",
-          "published": "2026-10-06T14:43:29+00:00",
-          "summary": "Der Immobilienkauf wird teurer, denn die Bauzinsen steigen. Was Käufer jetzt bei der Finanzierung beachten sollten und wo es die besten flexiblen Darlehen gibt."
         }
       ],
       "error": null
@@ -209,39 +209,8 @@
       "name": "Technik & Robotik (ingenieur.de)",
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
-      "items": [
-        {
-          "title": "US-Mikroreaktor steht kurz vor dem Start, gekühlt wird mit flüssigem Natrium und Kalium",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/us-mikroreaktor-steht-kurz-vor-dem-start-gekuehlt-wird-mit-fluessigem-natrium-und-kalium/",
-          "published": "2026-10-06T17:47:12+00:00",
-          "summary": "Flüssigmetall statt Wasser: Der US-Mikroreaktor MARVEL rückt mit seinem neuen Primärkühlsystem näher an den Start."
-        },
-        {
-          "title": "Weniger Handarbeit, höhere Kosten: Was Bauroboter wirklich bringen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/weniger-handarbeit-hoehere-kosten-was-bauroboter-wirklich-bringen/",
-          "published": "2026-10-06T17:00:00+00:00",
-          "summary": "Bauroboter bohren, markieren und binden Bewehrung. Studien und Praxiseinsätze zeigen, wann sie Arbeit sparen – und warum Kosten trotzdem steigen können."
-        },
-        {
-          "title": "Ohne Umbau von Erdgas auf Wasserstoff: Ein Ofen aus der Eifel kann beides",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/wasserstoff-oder-erdgas-dieser-ofen-muss-sich-nicht-entscheiden/",
-          "published": "2026-10-06T14:00:00+00:00",
-          "summary": "Für viele Karosserieteile wird Stahl auf über 900 °C erhitzt, bislang meist mit fossilem Gas. Eine Pilotanlage in der Eifel kann dabei im laufenden Betrieb auf Wasserstoff wechseln. Wie weit ist die …"
-        },
-        {
-          "title": "Karrieregitter: Wenn Karriere nicht mehr nur nach oben führt",
-          "link": "https://www.ingenieur.de/karriere/bildung/karrieregitter-wenn-karriere-nicht-mehr-nur-nach-oben-fuhrt/",
-          "published": "2026-10-06T12:00:00+00:00",
-          "summary": "Statische Karrieren sind vorbei: Karrieregitter, Fachlaufbahnen und Re-Skilling eröffnen Ingenieurinnen und Ingenieuren neue berufliche Wege."
-        },
-        {
-          "title": "Icecube-Vater und Neutrino-Bändiger Francis Halzen erhält den Physik-Nobelpreis 2026",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/icecube-vater-und-neutrino-baendiger-francis-halzen-erhaelt-den-physik-nobelpreis/",
-          "published": "2026-10-06T11:35:20+00:00",
-          "summary": "Francis Halzen erhält den Physik-Nobelpreis 2026 für Icecube: Das Antarktis-Observatorium weist hochenergetische Neutrinos aus dem All nach."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
     }
   ]
 }
