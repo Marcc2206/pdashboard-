@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:14:24+00:00",
+  "generatedAt": "2026-10-07T12:37:28+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,26 +7,26 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-07T06:00",
-    "temperatur": 10.1,
-    "gefuehlt": 9.6,
-    "luftfeuchte": 100,
+    "zeit": "2026-10-07T14:30",
+    "temperatur": 20.7,
+    "gefuehlt": 19.7,
+    "luftfeuchte": 59,
     "niederschlag": 0.0,
-    "wind": 3.9,
+    "wind": 12.0,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 45,
-      "text": "Nebel",
-      "icon": "🌫️"
+      "code": 0,
+      "text": "Klar",
+      "icon": "☀️"
     }
   },
   "tage": [
     {
       "datum": "2026-10-07",
       "max": 21.5,
-      "min": 9.8,
-      "regenwahrscheinlichkeit": 0,
+      "min": 9.4,
+      "regenwahrscheinlichkeit": 5,
       "sonnenaufgang": "2026-10-07T07:36",
       "sonnenuntergang": "2026-10-07T18:49",
       "wetter": {
@@ -38,8 +38,8 @@
     {
       "datum": "2026-10-08",
       "max": 15.7,
-      "min": 8.5,
-      "regenwahrscheinlichkeit": 98,
+      "min": 8.6,
+      "regenwahrscheinlichkeit": 100,
       "sonnenaufgang": "2026-10-08T07:38",
       "sonnenuntergang": "2026-10-08T18:47",
       "wetter": {
@@ -50,9 +50,9 @@
     },
     {
       "datum": "2026-10-09",
-      "max": 12.4,
-      "min": 7.4,
-      "regenwahrscheinlichkeit": 88,
+      "max": 13.0,
+      "min": 7.1,
+      "regenwahrscheinlichkeit": 83,
       "sonnenaufgang": "2026-10-09T07:40",
       "sonnenuntergang": "2026-10-09T18:45",
       "wetter": {
@@ -63,15 +63,15 @@
     },
     {
       "datum": "2026-10-10",
-      "max": 13.3,
-      "min": 9.9,
-      "regenwahrscheinlichkeit": 65,
+      "max": 13.9,
+      "min": 10.1,
+      "regenwahrscheinlichkeit": 61,
       "sonnenaufgang": "2026-10-10T07:41",
       "sonnenuntergang": "2026-10-10T18:42",
       "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
+        "code": 61,
+        "text": "Leichter Regen",
+        "icon": "🌦️"
       }
     }
   ]

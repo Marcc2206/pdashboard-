@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:13:55+00:00",
+  "generatedAt": "2026-10-07T12:37:24+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Was die Metall-Tarifrunde so kompliziert macht",
-          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-tarifverhandlungen-104.html",
-          "published": "2026-10-07T04:06:08+00:00",
-          "summary": "Heute beginnen die Verhandlungen über die Tarifbedingungen in der Metall- und Elektroindustrie. Betroffen sind rund 3,7 Millionen Beschäftigte. Antworten auf die wichtigsten Fragen zum Gesprächsstart."
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661804.html",
-          "published": "2026-10-07T04:05:55+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81392.html",
+          "published": "2026-10-07T12:30:19+00:00",
           "summary": ""
         },
         {
-          "title": "BR-Recherche zu Pestiziden - Mehr als 50 Wirkstoffe scheitern an EU-Prüfung",
-          "link": "https://www.tagesschau.de/investigativ/br-recherche/eu-neuregelung-pestizid-zulassung-100.html",
-          "published": "2026-10-07T04:00:21+00:00",
-          "summary": "Mehr als 50 Pestizid-Wirkstoffe sind seit 2011 bei der Wiederzulassung in der EU durchgefallen, zeigt eine Analyse von BR Data. Genau diese Überprüfung will die EU-Kommission abschaffen. …"
+          "title": "Früherer BND-Präsident Hanning muss in Untersuchungshaft",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
+          "published": "2026-10-07T12:28:08+00:00",
+          "summary": "Der ehemalige BND-Chef Hanning muss in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs habe den Haftbefehl in Vollzug gesetzt, teilte die Bundesanwaltschaft mit. Hanning steht unter …"
         },
         {
-          "title": "Erster Koalitionsausschuss nach Sommerpause könnte Klärung beim umstrittenen Reformpaket bringen",
-          "link": "https://www.tagesschau.de/video/video-1661802.html",
-          "published": "2026-10-07T03:51:42+00:00",
+          "title": "Gedenken an Opfer des Hamas-Überfalls vor drei Jahren",
+          "link": "https://www.tagesschau.de/video/video-1662008.html",
+          "published": "2026-10-07T12:22:25+00:00",
           "summary": ""
         },
         {
-          "title": "Christa Pike nach gescheitertem Hinrichtungsversuch wieder bei Bewusstsein",
-          "link": "https://www.tagesschau.de/video/video-1661798.html",
-          "published": "2026-10-07T03:37:59+00:00",
+          "title": "Frank Bräutigam, SWR, zum weiteren Verlauf für Ex-BND Chef Hanning nach Festnahme",
+          "link": "https://www.tagesschau.de/video/video-1662006.html",
+          "published": "2026-10-07T12:16:26+00:00",
           "summary": ""
+        },
+        {
+          "title": "Sicherheitsstudie: Wenn die Drohne längst verschwunden ist",
+          "link": "https://www.tagesschau.de/inland/sicherheit-drohnen-100.html",
+          "published": "2026-10-07T12:05:01+00:00",
+          "summary": "Deutschland liegt beim Schutz seiner Kritischen Infrastruktur mehr als zehn Jahre zurück, warnt eine Studie. Fachleute fordern bessere Absprachen zwischen Katastrophenschutz, Drohnen- und …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Handelspolitik: China kritisiert Pläne für neue EU-Handelsinstrumente",
-          "link": "https://www.handelsblatt.com/politik/deutschland/handelspolitik-china-kritisiert-plaene-fuer-neue-eu-handelsinstrumente/100260272.html",
-          "published": "2026-10-07T03:53:26+00:00",
-          "summary": "Deutschland und Frankreich wollen die EU besser gegen unfaire Handelspraktiken schützen. Peking sieht darin Protektionismus. Die Kritik kommt unmittelbar vor wichtigen Handelsgesprächen."
+          "title": "Immobilien: Wann ist es sinnvoll, die Grundschuld löschen zu lassen?",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wann-es-fuer-eigentuemer-nicht-noetig-ist-die-grundschuld-zu-loeschen/100252489.html",
+          "published": "2026-10-07T12:33:00+00:00",
+          "summary": "Wenn Immobilienkäufer die Eigentumswohnung abbezahlt haben, lassen sie in der Regel auch sofort die Grundschuld löschen. Doch es kann sinnvoll sein, mit diesem Schritt zu warten."
         },
         {
-          "title": "Invest: MEAG-Immobilienchef Haas: „Viele haben Druck und müssen verkaufen“",
-          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-meag-immobilienchef-haas-viele-haben-druck-und-muessen-verkaufen/100259913.html",
-          "published": "2026-10-07T03:10:00+00:00",
-          "summary": "Die Lage am Immobilienmarkt ist nicht erst seit den jüngsten Zinserhöhungen schwierig. Stefan Haas verantwortet das globale Immobiliengeschäft der MEAG und erklärt im Podcast, was er nun kauft."
+          "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+          "link": "https://www.handelsblatt.com/politik/international/migration-was-zieht-immer-mehr-deutsche-nach-polen/100249315.html",
+          "published": "2026-10-07T12:33:00+00:00",
+          "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?"
         },
         {
-          "title": "Nikkei: Steigender Ölpreis bremst Börsen in Asien",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-steigender-oelpreis-bremst-boersen-in-asien/100260257.html",
-          "published": "2026-10-07T03:08:27+00:00",
-          "summary": "Die Spannungen zwischen Saudi-Arabien und den vom Iran unterstützten Huthi-Rebellen im Jemen treiben die Ölpreise an. Das sorgt für schlechte Stimmung bei den asiatischen Anlegern."
+          "title": "Deutschland-Gipfel: „Wir befinden uns im perfekten Sturm“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/deutschland-gipfel-wir-befinden-uns-im-perfekten-sturm/100260468.html",
+          "published": "2026-10-07T12:29:42+00:00",
+          "summary": "Beim Deutschland-Gipfel von WirtschaftsWoche und Handelsblatt wollen die Spitzenmanager von VW, Allianz und BASF den Wirtschaftsmotor Deutschlands wieder anwerfen. Aber wie?"
         },
         {
-          "title": "Invest: MEAG-Immobilienchef Haas: „Viele haben Druck und müssen verkaufen“",
-          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-meag-immobilienchef-haas-viele-haben-druck-und-muessen-verkaufen/100260166.html",
-          "published": "2026-10-07T03:05:00+00:00",
-          "summary": "Die Lage am Immobilienmarkt ist nicht erst seit den jüngsten Zinserhöhungen schwierig. Stefan Haas verantwortet das globale Immobiliengeschäft der MEAG und erklärt im Podcast, was er nun kauft."
+          "title": "Immobilien: Steuerliche Vorteile nutzen: Neues Urteil begünstigt den Hausverkauf innerhalb der Familie",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-immobilie-an-kinder-verkaufen-was-ein-aktuelles-bfh-urteil-erlaubt-1/100252833.html",
+          "published": "2026-10-07T12:29:00+00:00",
+          "summary": "Verkaufen Eltern eine Immobilie an ihre Kinder und räumen eine zinslose Ratenzahlung ein, entstehen keine steuerpflichtigen Kapitalerträge. Der BFH ändert seine Rechtsprechung."
         },
         {
-          "title": "Richtig Druck machen: Wie oft den Luftdruck und Zustand der Autoreifen checken?",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/richtig-druck-machen-wie-oft-den-luftdruck-und-zustand-der-autoreifen-checken/100260260.html",
-          "published": "2026-10-07T03:03:06+00:00",
-          "summary": "Wer regelmäßig selbst den Luftdruck in den Autoreifen prüft, spart Sprit und schont die Reifen. Warum auch ein Reifendruck-Kontrollsystem allein nicht ausreicht und wie oft Experten zur Messung raten."
+          "title": "Konjunktur: IWF rechnet mit anhaltend hohen Energiepreisen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-iwf-rechnet-mit-anhaltend-hohen-energiepreisen/100260305.html",
+          "published": "2026-10-07T12:21:51+00:00",
+          "summary": "Die Folgen des Iran-Kriegs sind weltweit spürbar. Neben der Energiekrise heizt auch der KI-Boom die Inflation an. Welche Anliegen hat IWF-Chefin Georgiewa?"
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "\"Auf Dauer nicht normal\": IW-Studie: Ohne die massiven Staatsausgaben wäre BIP geschrumpft",
-          "link": "https://www.n-tv.de/wirtschaft/IW-Studie-Ohne-die-massiven-Staatsausgaben-waere-BIP-geschrumpft-id31389434.html",
-          "published": "2026-10-06T23:55:11+00:00",
-          "summary": "In den letzten sechs Jahren wächst Deutschlands Wirtschaft im Schnitt jährlich nur um 0,2 Prozent. Doch dieses Plus geht rechnerisch allein auf staatliche Ausgaben zurück. Vor allem im Bausektor und …"
+          "title": "Erfreuliche Signale aus Europa: Schwaches China-Geschäft zehrt an Mercedes",
+          "link": "https://www.n-tv.de/wirtschaft/Schwaches-China-Geschaeft-zehrt-an-Mercedes-id31392212.html",
+          "published": "2026-10-07T12:28:49+00:00",
+          "summary": "Auf dem größten Automarkt der Welt bringt Mercedes im Sommer ein Drittel weniger Autos an die Kunden als im Vorjahr. In anderen Regionen legt die Marke mit dem Stern hingegen zu. Ein großes Plus …"
         },
         {
-          "title": "Antrag kommt in den Bundestag: Koalition ebnet Weg für Bahn-Ausbau zwischen Hamburg und Hannover",
-          "link": "https://www.n-tv.de/wirtschaft/Koalition-ebnet-Weg-fuer-Bahn-Ausbau-zwischen-Hamburg-und-Hannover-id31389426.html",
-          "published": "2026-10-06T23:18:33+00:00",
-          "summary": "Seit Jahren wird über die Bahnstrecke zwischen Hannover und Hamburg gestritten. Nun legt die schwarz-rote Koalition einen gemeinsamen Antrag vor. Bis die ersten Züge rollen, könnten jedoch Jahrzehnte …"
+          "title": "Konzern lässt sich aber Zeit: Deutsche Bahn schränkt Homeoffice drastisch ein",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Bahn-schraenkt-Homeoffice-drastisch-ein-id31391822.html",
+          "published": "2026-10-07T12:08:13+00:00",
+          "summary": "Es betrifft ohnehin nicht alle und intern gibt es viel Widerstand: Aber die Deutsche Bahn dampft das Homeoffice stark ein. Mit der Umsetzung hat es der Konzern aber nicht eilig."
         },
         {
-          "title": "Weiter hohe KI-Nachfrage: Entspannung am Rohölmarkt treibt Wall Street auf Bestmarken",
-          "link": "https://www.n-tv.de/wirtschaft/Entspannung-am-Rohoelmarkt-treibt-Wall-Street-auf-Bestmarken-id31389349.html",
-          "published": "2026-10-06T20:58:23+00:00",
-          "summary": "Die G7-Staaten greifen in den Ölmarkt ein und beruhigen damit die Nerven der Investoren. Prompt klettern S&P 500 und Nasdaq auf Höchststände. Das wachsende US-Handelsdefizit könnte den …"
+          "title": "Handelsdefizit wächst: USA verzeichnen trotz Trumps Zöllen Import-Rekord",
+          "link": "https://www.n-tv.de/wirtschaft/USA-verzeichnen-trotz-Trumps-Zoellen-Import-Rekord-id31391805.html",
+          "published": "2026-10-07T11:53:33+00:00",
+          "summary": "US-Präsident Trump baut weiter auf seine Zollpolitik. Doch kurz vor den wichtigen Zwischenzahlen vermeldet das Statistikamt Rekordzahlen auf der Importseite. Das Handelsdefizit mit Mexiko war noch …"
         },
         {
-          "title": "Kommission erhält mehr Macht : EU soll \"Zweitschlagswaffe\" gegen Chinas Importe bekommen",
-          "link": "https://www.n-tv.de/wirtschaft/EU-soll-Zweitschlagswaffe-gegen-Chinas-Importe-bekommen-id31388268.html",
-          "published": "2026-10-06T16:42:58+00:00",
-          "summary": "Handelskonflikte zwischen Europa, den USA und China nehmen an Schärfe zu. Doch die EU-Kommission kann bisher nur schwerfällig und langsam reagieren. Nun soll sie eine wirksame Abschreckungswaffe …"
+          "title": "Fast 100 Jobs betroffen: Thüringer Traditionsproduzent Kahla-Porzellan stellt Betrieb ein",
+          "link": "https://www.n-tv.de/wirtschaft/Thueringer-Traditionsproduzent-Kahla-Porzellan-stellt-Betrieb-ein-id31391561.html",
+          "published": "2026-10-07T11:21:16+00:00",
+          "summary": "Aus für ein Traditionsunternehmen: Die Porzellanmanufaktur Kahla stellt zum Jahresende die Produktion ein. Eine monatelange Suche nach einem Investor bringt keine Ergebnisse. Fast 100 Menschen …"
         },
         {
-          "title": "Wut der neuen Energieunternehmen: \"Die Pläne des Wirtschaftsministeriums sind ein Angriff auf privates Eigentum\"",
-          "link": "https://www.n-tv.de/wirtschaft/1Komma5Grad-Chef-Schroeder-Die-Plaene-des-Wirtschaftsministeriums-sind-ein-Angriff-auf-privates-Eigentum-id31385876.html",
-          "published": "2026-10-06T16:13:39+00:00",
-          "summary": "Der Bundestag beschäftigt sich derzeit mit den Energiegesetzen von Wirtschaftsministerin Katherina Reiche. Der Chef des Energieunternehmens 1Komma5Grad warnt im Interview vor Auseinandersetzungen mit …"
+          "title": "Lieferketten in Gefahr: Bundesregierung stoppt Verkauf von Logistikfirma an China",
+          "link": "https://www.n-tv.de/wirtschaft/Bundesregierung-stoppt-Verkauf-von-Logistikfirma-an-China-id31391061.html",
+          "published": "2026-10-07T09:55:16+00:00",
+          "summary": "Das Bundeskartellamt hatte bereits grünes Licht gegeben, der Verfassungsschutz dann doch Bedenken angemeldet. Nun steht fest: China darf das Hamburger Logistikunternehmen Zippel nicht kaufen."
         }
       ],
       "error": null
@@ -133,10 +133,22 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Neue Zuversicht an der Börse",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
-          "published": "2026-10-06T17:10:54+00:00",
-          "summary": "Eine Entspannung am Ölmarkt sowie am Anleihemarkt hat den DAX aus seiner Lethargie gerissen. Dazu kam die anhaltende Technologie-Rally in den USA."
+          "title": "Marktbericht: Porsche zieht die Reißleine",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/porsche-mittags-mb-100.html",
+          "published": "2026-10-07T12:23:36+00:00",
+          "summary": "Weniger ist mehr: Der Sportwagenbauer Porsche will sich zukünftig auf weniger, dafür lukrativere Modelle konzentrieren. Zudem sollen die Kosten weiterhin rigoros gesenkt werden."
+        },
+        {
+          "title": "DAX gibt Vortagesgewinn ab",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
+          "published": "2026-10-07T08:36:56+00:00",
+          "summary": "Die Ölpreise sind wieder auf dem Weg nach oben. Das sind keine guten Nachrichten für den Aktienmarkt. Der DAX ist schwach gestartet, konnte sich zuletzt aber etwas erholen. Gute Industriedaten …"
+        },
+        {
+          "title": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzen-frauen-sicherheit-unsicher-100.html",
+          "published": "2026-10-07T07:14:12+00:00",
+          "summary": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können."
         },
         {
           "title": "Rheinmetall erschließt sich das Weltall",
@@ -149,18 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-euro-frankreich-spanien-100.html",
           "published": "2026-10-05T12:11:06+00:00",
           "summary": "Politische Unsicherheiten in Frankreich und Spanien haben den jüngsten Kursverfall des Euro beschleunigt. Dafür gibt es auch längerfristige Gründe. Von Detlev Landmesser."
-        },
-        {
-          "title": "Marktbericht: Nikes Schwäche nutzt Konkurrenten wie Adidas",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nike-adidas-dax-100.html",
-          "published": "2026-10-02T12:48:15+00:00",
-          "summary": "Der weltweit größte Sportartikelhersteller Nike hat enttäuschende Geschäftszahlen vorgelegt. Experten sehen das als Chance für Wettbewerber. Die Papiere von Adidas und Puma drehen deshalb ins Plus. …"
-        },
-        {
-          "title": "Rüstungskonzern KNDS bekräftigt Börsenpläne",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-boersengaenge-100.html",
-          "published": "2026-10-01T12:32:53+00:00",
-          "summary": "Als KNDS den für Juli geplanten Börsengang kurzfristig abgesagt hat, war die Enttäuschung groß. Jetzt hat KNDS-Chef Alary in einem Interview klargemacht: Man will an die Börse. Vielleicht noch dieses …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Aktienmarkt: Europas Aktien haben Aufholpotenzial – aber keinen Freifahrtschein",
-          "link": "https://www.wiwo.de/finanzen/boerse/aktienmarkt-europas-aktien-haben-aufholpotenzial-aber-keinen-freifahrtschein/100260008.html",
-          "published": "2026-10-07T04:02:50+00:00",
-          "summary": "Das Bild vom kriselnden Europa täuscht. Viele Unternehmen sind widerstandsfähig. Goldman-Sachs-Strategin Sharon Bell über Aktienchancen und Hindernisse für eine Jahresendrally."
+          "title": "Live im Stream: Kanzler Merz live beim Deutschland-Gipfel von WiWo und Handelsblatt",
+          "link": "https://www.wiwo.de/politik/deutschland/live-im-stream-kanzler-friedrich-merz-spricht-beim-deutschland-gipfel-von-wiwo-und-handelsblatt/100259689.html",
+          "published": "2026-10-07T12:28:52+00:00",
+          "summary": "Bundeskanzler Friedrich Merz, Ökonominnen, Dax-Chefs und Investoren diskutieren beim Deutschland-Gipfel über den Standort. Seien Sie hier live dabei."
         },
         {
-          "title": "Neue Wachstumsagenda: „Das relativiert die Sorgen vor einer KI-Blase“",
-          "link": "https://www.wiwo.de/politik/deutschland/ludwig-straub-so-etwas-kann-sich-deutschland-heute-nicht-mehr-erlauben/100256808.html",
-          "published": "2026-10-07T04:01:59+00:00",
-          "summary": "Die gestiegenen Renditen zeigen, wie nervös die Finanzmärkte sind. Harvard-Professor Ludwig Straub nennt die Gründe dafür – und erklärt die Folgen."
+          "title": "Deutschland-Gipfel: „Wir befinden uns im perfekten Sturm“",
+          "link": "https://www.wiwo.de/politik/deutschland/deutschland-gipfel-wir-befinden-uns-im-perfekten-sturm/100258901.html",
+          "published": "2026-10-07T12:13:25+00:00",
+          "summary": "Beim Deutschland-Gipfel von WirtschaftsWoche und Handelsblatt wollen die Spitzenmanager von VW, Allianz und BASF den Wirtschaftsmotor Deutschlands wieder anwerfen. Aber wie?"
         },
         {
-          "title": "3-D-Technologie: Der Coder aus dem Erzgebirge",
-          "link": "https://www.wiwo.de/unternehmen/mittelstand/3d-global-wie-ein-erfinder-aus-dem-erzgebirge-3d-revolutioniert/100256508.html",
-          "published": "2026-10-06T17:00:00+00:00",
-          "summary": "Der Erfinder Ullrich Dähnert war pleite, als der schwäbische Investor Matthias Hohenstein bei ihm klingelte. Heute leiten beide ein wohl einzigartiges 3-D-Technologieunternehmen."
+          "title": "Pharma: Deutschland kann wieder zur Apotheke der Welt werden",
+          "link": "https://www.wiwo.de/unternehmen/industrie/boehringer-ingelheim-wie-jascayd-zum-top-medikament-wird/100256505.html",
+          "published": "2026-10-07T12:03:36+00:00",
+          "summary": "Die Geschichte von Boehringers neuem Top-Medikament Jascayd zeigt, wie leidensfähig Pharmaforscher sein müssen – und was noch im Standort Deutschland steckt."
         },
         {
-          "title": "Insolvenzverfahren: Insolvenzverwalter fordert Millionen von Wanja Oberhof",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/wanja-oberhof-insolvenzverwalter-fordert-millionen/100259023.html",
-          "published": "2026-10-06T16:05:00+00:00",
-          "summary": "Unter Oberhofs Führung rutschte ein Sanitärausstatter in die Insolvenz. Ein Immobilienverkauf wirft Fragen auf. Für Oberhof geht es mal wieder um Millionen."
+          "title": "August Hanning: Ex-BND-Präsident Hanning wegen Spionageverdachts in U-Haft",
+          "link": "https://www.wiwo.de/politik/deutschland/august-hanning-ex-bnd-praesident-wegen-spionageverdachts-festgenommen/100260040.html",
+          "published": "2026-10-07T11:56:00+00:00",
+          "summary": "Hanning wird vorgeworfen, geheime BND-Informationen weitergegeben zu haben. An wen und ob er diese auch ans Ausland übermittelt hat, wird geprüft."
         },
         {
-          "title": "Tech-Start-ups: So machten eine Milliardärin und ein Student München zur Hauptstadt der Gründer",
-          "link": "https://www.wiwo.de/unternehmen/it/start-ups-in-muenchen-warum-die-stadt-zur-hochburg-fuer-tech-gruender-wird/100256442.html",
-          "published": "2026-10-06T15:03:00+00:00",
-          "summary": "BMW-Erbin Susanne Klatten und Helmut Schönenberger haben ein Ökosystem für Milliarden-Projekte geschaffen. Anfangs wurden sie ausgelacht. Und nun?"
+          "title": "Bayer: Neuer Rechtsstreit in Sicht",
+          "link": "https://www.wiwo.de/finanzen/boerse/bayer-neuer-rechtsstreitin-sicht/100260131.html",
+          "published": "2026-10-07T11:47:02+00:00",
+          "summary": "Die Börse reagiert empfindlich auf eine neue Klage gegen den Leverkusener Dax-Konzern in den USA."
         }
       ],
       "error": null
@@ -209,8 +209,39 @@
       "name": "Technik & Robotik (ingenieur.de)",
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
-      "items": [],
-      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+      "items": [
+        {
+          "title": "Welche Flächen machen Regenwasser schmutzig? TU Berlin rechnet nach",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/umwelt/welche-flaechen-machen-regenwasser-schmutzig-tu-berlin-rechnet-nach/",
+          "published": "2026-10-07T12:00:00+00:00",
+          "summary": "Regenwasser nimmt auf Straßen und Dächern Schadstoffe auf. Ein Werkzeug der TU Berlin hilft Städten, belastete Abflüsse und ihre Quellen zu erkennen."
+        },
+        {
+          "title": "Jobsuche mit ChatGPT: Die Empfehlung ist erst der Anfang",
+          "link": "https://www.ingenieur.de/karriere/bewerbung/jobsuche-mit-ki-warum-eine-chatgpt-empfehlung-vielen-nicht-reicht/",
+          "published": "2026-10-07T11:30:00+00:00",
+          "summary": "Jobsuche mit KI: ChatGPT empfiehlt Arbeitgeber, doch Bewertungen von Beschäftigten bleiben der entscheidende Gegencheck für Bewerbende."
+        },
+        {
+          "title": "Vom Kasernengelände zum Wohnviertel: Trier legt den Irrbach frei",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/vom-kasernengelaende-zum-wohnviertel-trier-legt-den-irrbach-frei/",
+          "published": "2026-10-07T10:04:51+00:00",
+          "summary": "Ein verrohrter Bach soll in Trier wieder offen fließen. So verbinden die Planer das neue Wohnviertel mit Grünflächen und einer neuen Entwässerung."
+        },
+        {
+          "title": "Erst abgesagt, dann eingestellt: Warum ein Recruiter die passende Erfahrung übersah",
+          "link": "https://www.ingenieur.de/karriere/bewerbung/bewerbung-wie-man-eine-absage-in-eine-einstellung-verwandelt/",
+          "published": "2026-10-07T07:00:00+00:00",
+          "summary": "Eine Bewerbung passt fachlich zur Stelle und trotzdem kommt die Absage. Ex-Recruiter Bastian Hughes erklärt, warum passende Kandidaten im Bewerbungsprozess übersehen werden können und worauf es im …"
+        },
+        {
+          "title": "Quellendes Gestein drückt gegen den Engelbergtunnel: So wird er verstärkt",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/quellendes-gestein-drueckt-gegen-den-engelbergtunnel-so-wird-er-verstaerkt/",
+          "published": "2026-10-07T06:21:01+00:00",
+          "summary": "Quellendes Gestein verformt den Engelbergtunnel. Wie Stahlträger, eine verstärkte Fahrbahnplatte und eine regelbare Decke das Bauwerk stabilisieren sollen."
+        }
+      ],
+      "error": null
     }
   ]
 }
