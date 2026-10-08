@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:00:14+00:00",
+  "generatedAt": "2026-10-08T08:23:39+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
-          "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
-          "published": "2026-10-07T23:25:54+00:00",
-          "summary": "Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidung erreichen. Von M. …"
+          "title": "Nach Huthi-Angriffen auf Riad: Saudi-Arabien greift erneut Ziele im Jemen an",
+          "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
+          "published": "2026-10-08T08:14:35+00:00",
+          "summary": "Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten …"
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81340.html",
-          "published": "2026-10-07T22:26:50+00:00",
+          "title": "Nach Wahl in Berlin: Linke, Grüne und SPD vor Einigung auf Sondierungsgespräche",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-gruene--spd-sondierungen-100.html",
+          "published": "2026-10-08T08:14:01+00:00",
+          "summary": "Zweieinhalb Wochen nach der Wahl zum Berliner Abgeordnetenhaus stehen laut Medienberichten Linke, Grüne und SPD vor einer Einigung auf Sondierungsgespräche. Auch über den Umgang mit Antisemitismus …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1662472.html",
+          "published": "2026-10-08T07:13:10+00:00",
           "summary": ""
         },
         {
-          "title": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
-          "link": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
-          "published": "2026-10-07T22:05:42+00:00",
-          "summary": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekannt - unter anderem …"
+          "title": "Nord-Stream-Anschlag: Diese Indizien belasten den mutmaßlichen Saboteur",
+          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nordstream-anschlag-prozess-olg-hamburg-100.html",
+          "published": "2026-10-08T07:01:10+00:00",
+          "summary": "In wenigen Tagen steht der mutmaßliche Anführer des Sabotage-Kommandos vor dem Hamburger Oberlandesgericht. Welche Indizien sprechen dafür, dass er mit seinem Team die Nord-Stream-Gasröhren in der …"
         },
         {
-          "title": "Sozialdemokraten: Mit dem \"Projekt 2045\" für den Klimaschutz",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html",
-          "published": "2026-10-07T22:01:18+00:00",
-          "summary": "Hitze, ausgetrocknete Flüsse und zunehmende Risiken für Menschen, Natur und Wirtschaft: Die Folgen der Erderwärmung sind unübersehbar. Beim Streitthema Klima will ein neuer SPD-naher Verein nun …"
-        },
-        {
-          "title": "UEFA sucht nach Strategie für Sturz Infantinos",
-          "link": "https://www.sportschau.de/fussball/uefa-sucht-nach-strategie-fuer-sturz-infantinos,uefa-treffen-berlin-fifa-infantino-100.html",
-          "published": "2026-10-07T21:42:37+00:00",
-          "summary": "Die UEFA lädt ihre Verbände am Donnerstag zu einem Treffen in ein Berliner Luxushotel. Hauptthema ist das Vorgehen im Machtkampf mit FIFA-Präsident Infantino. Bislang hat die Opposition aber keinen …"
+          "title": "Commerzbank-Übernahme: Was auf Beschäftigte und Mittelstand zukommt",
+          "link": "https://www.tagesschau.de/wirtschaft/commerzbank-uebernahme-mitarbeiter-kunden-100.html",
+          "published": "2026-10-08T06:57:16+00:00",
+          "summary": "Die italienische Großbank UniCredit steht vor der Übernahme der Commerzbank. Jetzt beginnt die entscheidende Phase - mit gravierenden Folgen für Mitarbeiter und Firmenkunden. Von Steffen Clement."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Erschütterung und Zorn: Tod nach Zwangsräumung heizt Protest in Spanien weiter an",
-          "link": "https://www.handelsblatt.com/politik/international/erschuetterung-und-zorn-tod-nach-zwangsraeumung-heizt-protest-in-spanien-weiter-an/100260564.html",
-          "published": "2026-10-07T23:23:26+00:00",
-          "summary": "Das Schicksal einer 87-jährigen Spanierin, die von der Polizei aus ihrer Wohnung geholt wurde, hat Massenproteste und Neuwahlen ausgelöst. Ihr Tod wird die Fronten nun noch weiter verhärten."
+          "title": "Finanzen: Frauen fühlen sich Umfrage zufolge finanziell unsicherer",
+          "link": "https://www.handelsblatt.com/politik/deutschland/umfrage-sorgen-um-geld-frauen-fuehlen-sich-finanziell-unsicherer/100260261.html",
+          "published": "2026-10-09T07:12:00+00:00",
+          "summary": "Mehr Sorgen, weniger Spielraum: Beim Geld gehen die Geschlechter auseinander. Laut einer Umfrage blicken Frauen anders auf ihre finanzielle Zukunft als Männer."
         },
         {
-          "title": "Burnham bei Merz: Deutschland und Großbritannien stärken Cyberabwehr",
-          "link": "https://www.handelsblatt.com/politik/burnham-bei-merz-deutschland-und-grossbritannien-staerken-cyberabwehr/100260562.html",
-          "published": "2026-10-07T23:12:44+00:00",
-          "summary": "Zweieinhalb Monate nach seinem Amtsantritt besucht der britische Premierminister Andy Burnham Deutschland als erstes EU-Land. In Berlin geht es auch um die Bekämpfung von Cyberangriffen."
+          "title": "Börse am 8. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+          "published": "2026-10-09T04:20:00+00:00",
+          "summary": "Nach drei Gewinntagen gerät der Dax unter Druck. Anleger blicken am Donnerstag nun auf Exportdaten, US-Arbeitsmarkt und Notenbanker-Aussagen."
         },
         {
-          "title": "Ringen um Reformen: „Gut war's“: Koalition kommt ohne Nachtsitzung aus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/ringen-um-reformen-gut-wars-koalition-kommt-ohne-nachtsitzung-aus/100260452.html",
-          "published": "2026-10-07T22:20:04+00:00",
-          "summary": "Bis tief in die Nacht ging es diesmal nicht. Kurz nach 22.00 Uhr ist der erste Koalitionsausschuss seit drei Monaten beendet. Gibt es nun einen Zeitplan für die Reformen?"
+          "title": "Handelsdeal: Wie die EU einen Handelskrieg mit China noch verhindern will",
+          "link": "https://www.handelsblatt.com/politik/international/eu-wie-bruessel-einen-handelskrieg-mit-china-noch-verhindern-will/100260471.html",
+          "published": "2026-10-08T08:15:27+00:00",
+          "summary": "EU-Handelskommissar Maros Sefcovic reist zu Gesprächen nach Peking. Das Ziel: ein Handelsdeal. Nach Informationen des Handelsblatts drängt die EU auf Maßnahmen im Autosektor."
         },
         {
-          "title": "Wahlkampagnen-Finanzierung: Werbung durch Steuergelder? Demokraten klagen gegen Trump",
-          "link": "https://www.handelsblatt.com/politik/international/wahlkampagnen-finanzierung-werbung-durch-steuergelder-demokraten-klagen-gegen-trump/100260558.html",
-          "published": "2026-10-07T21:38:17+00:00",
-          "summary": "Wenige Wochen vor den Kongresswahlen inszenieren aktuell mehrere Videos US-Präsident Trump als antikommunistisches Bollwerk. Kritik daran gibt es schon länger - nun folgt eine Klage."
+          "title": "Binnenmarkt: Deutsche Exporte sinken erneut – Importe legten im Gegensatz zu",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/binnenmarkt-deutsche-exporte-sinken-erneut-importe-legten-im-gegensatz-zu/100260657.html",
+          "published": "2026-10-08T08:04:51+00:00",
+          "summary": "Deutschlands Exporte schrumpfen überraschend den zweiten Monat in Folge. Vor allem die schwächere Nachfrage aus den USA und der EU belastet das Geschäft – und dämpft die Hoffnung auf eine …"
         },
         {
-          "title": "Bundesregierung: Koalitionsausschuss beendet Sitzung nach vier Stunden",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-koalitionsausschuss-beendet-sitzung-nach-vier-stunden/100260554.html",
-          "published": "2026-10-07T20:52:16+00:00",
-          "summary": "Bis tief in die Nacht ging es diesmal nicht. Kurz nach 22.00 Uhr ist der erste Koalitionsausschuss seit drei Monaten beendet. Gibt es nun einen Zeitplan für die Reformen?"
+          "title": "Bürokratieabbau: Normenkontrollrat: „Die Entlastung besteht allein auf dem Papier“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/buerokratieabbau-normenkontrollrat-die-entlastung-besteht-allein-auf-dem-papier/100258937.html",
+          "published": "2026-10-08T08:04:46+00:00",
+          "summary": "Das unabhängige Kontrollgremium der Bundesregierung kritisiert steigende Bürokratiekosten. Und kürt zum 20-jährigen Jubiläum das „schlimmste Gesetz“."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Ölpreis steigt deutlich: Zinsängste schicken Wall Street auf Talfahrt",
-          "link": "https://www.n-tv.de/wirtschaft/Zinsaengste-schicken-Wall-Street-auf-Talfahrt-id31394046.html",
-          "published": "2026-10-07T21:38:44+00:00",
-          "summary": "Steigende Renditen und ein Ölpreis von zeitweise über 100 Dollar pro Barrel wecken bei immer mehr Anlegern neue Inflationsängste. Die Rendite 30-jähriger US-Staatsanleihen klettert zwischenzeitlich …"
+          "title": "Große Geschlechterunterschiede: Krankheitskosten in Deutschland übersteigen halbe Billion Euro",
+          "link": "https://www.n-tv.de/wirtschaft/Krankheitskosten-in-Deutschland-uebersteigen-halbe-Billion-Euro-id31395119.html",
+          "published": "2026-10-08T08:04:02+00:00",
+          "summary": "Die Ausgaben für medizinische Behandlungen, Pflege, Prävention und Rehabilitation in Deutschland steigen. Pro Kopf liegen die Kosten bei über 6000 Euro im Jahr. Eine Bevölkerungsgruppe weist …"
         },
         {
-          "title": "Streit um Flughafengebühren: Ryanair stellt Betrieb in Bremen ein und streicht in Wien Flüge",
-          "link": "https://www.n-tv.de/wirtschaft/Ryanair-stellt-Betrieb-in-Bremen-ein-und-streicht-in-Wien-Fluege-id31392796.html",
-          "published": "2026-10-07T16:13:42+00:00",
-          "summary": "Ryanair macht Ernst und zieht sich aus Bremen zurück. Auch in Wien streicht die Airline zwölf Strecken und 80 Arbeitsplätze. Konzernchef O'Leary macht Österreichs Regierung schwere Vorwürfe und droht …"
+          "title": "Aktie verliert trotzdem: Samsung fährt gigantischen Gewinn ein",
+          "link": "https://www.n-tv.de/wirtschaft/Samsung-faehrt-gigantischen-Gewinn-ein-id31394981.html",
+          "published": "2026-10-08T07:47:38+00:00",
+          "summary": "Der koreanische Technikkonzern Samsung profitiert enorm von den gestiegenen Preisen für Speicherchips. Das Unternehmen steigert seinen operativen Gewinn um fast das Neunfache, ein Rekordergebnis. Die …"
         },
         {
-          "title": "\"911er wird nie elektrisch sein\": Porsche soll schrumpfen, damit die Gewinne wachsen",
-          "link": "https://www.n-tv.de/wirtschaft/Porsche-soll-schrumpfen-damit-die-Gewinne-wachsen-id31393022.html",
-          "published": "2026-10-07T16:12:38+00:00",
-          "summary": "Sparen, wo Kunden es nicht merken, und dort investieren, wo sie es sehen: So beschreibt Porsches Entwicklungschef die neue Strategie. Experten sehen Chancen auf höhere Gewinne. Für das Geschäft in …"
+          "title": "Ausfuhren sinken erneut: Deutsche Exporte erleiden überraschenden Rückschlag",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Exporte-erleiden-ueberraschenden-Rueckschlag-id31394917.html",
+          "published": "2026-10-08T07:46:48+00:00",
+          "summary": "Der Anstieg bei den deutschen Exporten findet bereit im Juli ein Ende. Doch auch der vergangene Monat verläuft schlechter als erwartet. Dafür gibt es vor allem einen Grund."
         },
         {
-          "title": "Gewerkschaft enttäuscht: Erste Metall-Tarifrunde ohne Ergebnisse - kein Angebot der Arbeitgeber",
-          "link": "https://www.n-tv.de/wirtschaft/Erste-Metall-Tarifrunde-ohne-Ergebnisse-kein-Angebot-der-Arbeitgeber-id31393201.html",
-          "published": "2026-10-07T15:07:05+00:00",
-          "summary": "Die Tarifgespräche in der Metall- und Elektroindustrie folgen der üblichen Choreografie: Die Forderung der Gewerkschaft weisen die Arbeitgeber zurück und bleiben zum Auftakt selbst ein Angebot …"
+          "title": "Tropensturm zieht Richtung USA: Hurrikan und Angst vor neuen Iran-Attacken treiben den Ölpreis",
+          "link": "https://www.n-tv.de/wirtschaft/Hurrikan-und-Angst-vor-neuen-Iran-Attacken-treiben-den-Oelpreis-id31394839.html",
+          "published": "2026-10-08T07:46:00+00:00",
+          "summary": "Ölproduzenten im Golf von Mexiko drosseln wegen eines herannahenden Tropensturms ihre Förderung deutlich. Gleichzeitig werden neue Pläne für mögliche Angriffe auf den Iran publik. Der Ölmarkt …"
         },
         {
-          "title": "Geschäft mit der Knappheit: Iran-Krieg beschert Shell Fabel-Rekord bei Raffinerie-Marge",
-          "link": "https://www.n-tv.de/wirtschaft/Iran-Krieg-beschert-Shell-Fabel-Rekord-bei-Raffinerie-Marge-id31392692.html",
-          "published": "2026-10-07T14:43:01+00:00",
-          "summary": "Shell profitiert von der knappen Versorgung mit Benzin und Diesel: Die Raffineriemarge des Energiekonzerns springt binnen eines Quartals um 75 Prozent nach oben. Gründe sind der Iran-Krieg und …"
+          "title": "Massive Staatsverschuldung: Ökonomin warnt vor \"dramatischer Gemengelage\" in Frankreich",
+          "link": "https://www.n-tv.de/wirtschaft/Oekonomin-warnt-vor-dramatischer-Gemengelage-in-Frankreich-id31394423.html",
+          "published": "2026-10-08T04:22:34+00:00",
+          "summary": "Frankreich ist hoch verschuldet und muss alleine für die Zinsen fast 80 Milliarden Euro pro Jahr aufbringen. Das Land sei derzeit das \"größte Problem im Euroraum\", erklärt eine Ökonomin. Ein früheres …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Bill Anderson: „Wir hatten bei Bayer 1300 Seiten von Regeln“",
-          "link": "https://www.wiwo.de/unternehmen/industrie/bayer-ceo-beim-deutschland-gipfel-bill-anderson-fordert-mehr-eigeninitiative/100260457.html",
-          "published": "2026-10-07T18:29:26+00:00",
-          "summary": "Bayer-CEO Bill Anderson lebte schon in den 80ern in Deutschland. Beim Deutschland-Gipfel fordert er mehr Ehrgeiz und Eigeninitiative – etwa bei Robotaxis."
+          "title": "Krankheit: Krankheitskosten in Deutschland übersteigen halbe Billion Euro",
+          "link": "https://www.wiwo.de/politik/deutschland/krankheitskosten-in-deutschland-ueberschreiten-500-milliarden-euro/100260641.html",
+          "published": "2026-10-08T08:11:00+00:00",
+          "summary": "Mehr als die Hälfte der Krankheitskosten im Jahr 2024 entfällt auf Menschen über 65. Alter, Herz-Kreislauf-Leiden und Demenz treiben die Kosten."
         },
         {
-          "title": "Kanzler Merz: „Pessimismus ist Zeitverschwendung“",
-          "link": "https://www.wiwo.de/politik/deutschland/deutschland-gipfel-friedrich-merz-kampfansage-gegen-das-umfragetief/100258903.html",
-          "published": "2026-10-07T18:28:10+00:00",
-          "summary": "Koalitionsstreit, Umfragedämpfer, Unruhe: Es könnte besser laufen für den Kanzler. Trotzdem fordert er Optimismus – und verspricht, Reformprojekte durchzutragen."
+          "title": "„Sportwagenschmiede 2035“: Porsche braucht jetzt den Piëch",
+          "link": "https://www.wiwo.de/unternehmen/auto/sportwagenschmiede-2035-porsche-braucht-jetzt-den-piech/100260287.html",
+          "published": "2026-10-08T08:07:26+00:00",
+          "summary": "Porsches neue Strategie ist ein Kahlschlag: Mindestens jeder vierte Job soll weg. Aber wo ist die Lösung für das E-Auto-Problem des wankenden Autobauers? Ein Kommentar."
         },
         {
-          "title": "Harvard-Ökonom Straub: „So etwas kann sich Deutschland heute nicht mehr erlauben“",
-          "link": "https://www.wiwo.de/politik/deutschland/ludwig-straub-so-etwas-kann-sich-deutschland-heute-nicht-mehr-erlauben/100256808.html",
-          "published": "2026-10-07T18:24:29+00:00",
-          "summary": "Die gestiegenen Renditen zeigen, wie nervös die Finanzmärkte sind. Der Harvard-Ökonom Ludwig Straub nennt vor seinem Auftritt beim Deutschland-Gipfel die Gründe – und erklärt die Folgen."
+          "title": "Pharmakonzern: US-Behörde stimmt Bayers Zulassungsantrag für Nierenmedikament zu",
+          "link": "https://www.wiwo.de/unternehmen/industrie/fda-us-behoerde-stimmt-bayers-zulassungsantrag-fuer-nierenmedikament-zu/100260637.html",
+          "published": "2026-10-08T07:58:14+00:00",
+          "summary": "Das Medikament Finerenon soll das Fortschreiten chronischer Nierenerkrankungen bremsen. Die FDA hat Bayers Antrag auf Zulassungserweiterung angenommen."
         },
         {
-          "title": "Dax-Spitzenmanager: „Wir befinden uns im perfekten Sturm“",
-          "link": "https://www.wiwo.de/politik/deutschland/deutschland-gipfel-wir-befinden-uns-im-perfekten-sturm/100258901.html",
-          "published": "2026-10-07T18:23:33+00:00",
-          "summary": "Beim Deutschland-Gipfel von WirtschaftsWoche und Handelsblatt wollen die Spitzenmanager von VW, Allianz und BASF den Wirtschaftsmotor Deutschlands wieder anwerfen. Aber wie?"
+          "title": "Funkfrequenzen: Dommermuth droht eine weitere Niederlage",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/11-ralph-dommermuth-droht-weitere-niederlage-bei-frequenzvergabe/100260198.html",
+          "published": "2026-10-08T07:53:32+00:00",
+          "summary": "Die Mitbewerber müssen dem jungen Netzbetreiber 1&1 wohl doch keine Frequenzen abtreten. Eine Entscheidung der Bundesnetzagentur steht kurz bevor."
         },
         {
-          "title": "Ukraine-Unterstützung: Nicht alle glauben an den Drohnendurchbruch von Friedrich Merz",
-          "link": "https://www.wiwo.de/politik/ausland/ukraine-unterstuetzung-nicht-alle-glauben-an-den-drohnendurchbruch-von-friedrich-merz/100260080.html",
-          "published": "2026-10-07T18:00:52+00:00",
-          "summary": "Im Zuge seines Kiew-Besuchs kündigte der Bundeskanzler die Finanzierung neuer Abwehrdrohnen für Kiew an. Sie sollen gegen Russlands Luftangriffe helfen. Aber manche zweifeln."
+          "title": "Deutschlands neue China-Strategie: „Deutschland ist das Epizentrum des China-Schocks“",
+          "link": "https://www.wiwo.de/politik/deutschland/deutschlands-neue-china-strategie-was-hinter-dem-kill-switch-steckt/100260312.html",
+          "published": "2026-10-08T07:52:58+00:00",
+          "summary": "Deutschland hat Chinas Industrieoffensive lange unterschätzt – jetzt fordert Kanzler Merz sogar einen Kill-Switch. Ökonom Sander Tordoir über die womöglich letzte Chance."
         }
       ],
       "error": null
@@ -210,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Feuchtigkeit bremsen, Papier recyceln: Mainz erforscht neue Dampfbremse",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/feuchtigkeit-bremsen-papier-recyceln-mainz-erforscht-neue-dampfbremse/",
+          "published": "2026-10-08T06:00:00+00:00",
+          "summary": "Feuchtevariable Dampfbremsen mit Papier gibt es bereits. Mainz erforscht, wie sich ihre Funktion mit vollständiger Recyclingfähigkeit verbinden lässt."
+        },
+        {
+          "title": "Mitten im Bahnhof entsteht ein Zeppelin, dahinter steckt eine Geschichte von 1870",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/architektur/warum-in-einem-pariser-bahnhof-ploetzlich-ein-zeppelin-haengt/",
+          "published": "2026-10-08T04:58:03+00:00",
+          "summary": "Warum bekommt ein Pariser Bahnhof einen Zeppelin? Die Antwort führt ins Jahr 1870, als in der Gare d’Austerlitz Gasballons gebaut wurden."
+        },
         {
           "title": "Dieser 3-mm-Faden ist ein Motor und könnte Exosuits antreiben",
           "link": "https://www.ingenieur.de/technik/fachbereiche/automation/dieser-3-mm-faden-ist-ein-motor-und-koennte-exosuits-antreiben/",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/chemie/polystyrol-mit-sollbruchstellen-forschende-planen-den-abbau-gleich-mit/",
           "published": "2026-10-07T14:30:00+00:00",
           "summary": "Neues Polystyrol mit chemischen Sollbruchstellen: Forschende zeigen erste Petrischalen. Was der gezielte Abbau kann und welche Fragen offenbleiben."
-        },
-        {
-          "title": "Wasserstoff-Lkw ohne Brennstoffzelle: Was BMW jetzt in Leipzig testet",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/wasserstoff-lkw-ohne-brennstoffzelle-was-bmw-jetzt-in-leipzig-testet/",
-          "published": "2026-10-07T13:00:00+00:00",
-          "summary": "BMW testet im Werk Leipzig einen Lkw, dessen Motor Wasserstoff verbrennt. Wie der Antrieb funktioniert und wo er gegenüber Brennstoffzelle und Batterie steht."
-        },
-        {
-          "title": "Welche Flächen machen Regenwasser schmutzig? TU Berlin rechnet nach",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/umwelt/welche-flaechen-machen-regenwasser-schmutzig-tu-berlin-rechnet-nach/",
-          "published": "2026-10-07T12:00:00+00:00",
-          "summary": "Regenwasser nimmt auf Straßen und Dächern Schadstoffe auf. Ein Werkzeug der TU Berlin hilft Städten, belastete Abflüsse und ihre Quellen zu erkennen."
         }
       ],
       "error": null
