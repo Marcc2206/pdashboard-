@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:14:32+00:00",
+  "generatedAt": "2026-10-09T23:48:02+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-09T21:00",
-    "temperatur": 13.4,
-    "gefuehlt": 10.0,
-    "luftfeuchte": 90,
-    "niederschlag": 0.0,
-    "wind": 27.0,
+    "zeit": "2026-10-10T01:45",
+    "temperatur": 13.6,
+    "gefuehlt": 11.1,
+    "luftfeuchte": 88,
+    "niederschlag": 0.2,
+    "wind": 20.3,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -23,22 +23,9 @@
   },
   "tage": [
     {
-      "datum": "2026-10-09",
-      "max": 13.4,
-      "min": 7.9,
-      "regenwahrscheinlichkeit": 93,
-      "sonnenaufgang": "2026-10-09T07:40",
-      "sonnenuntergang": "2026-10-09T18:45",
-      "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
-      }
-    },
-    {
       "datum": "2026-10-10",
-      "max": 13.9,
-      "min": 9.4,
+      "max": 14.1,
+      "min": 9.7,
       "regenwahrscheinlichkeit": 80,
       "sonnenaufgang": "2026-10-10T07:41",
       "sonnenuntergang": "2026-10-10T18:42",
@@ -50,8 +37,8 @@
     },
     {
       "datum": "2026-10-11",
-      "max": 12.9,
-      "min": 8.4,
+      "max": 12.0,
+      "min": 8.5,
       "regenwahrscheinlichkeit": 65,
       "sonnenaufgang": "2026-10-11T07:43",
       "sonnenuntergang": "2026-10-11T18:40",
@@ -63,8 +50,8 @@
     },
     {
       "datum": "2026-10-12",
-      "max": 14.5,
-      "min": 7.8,
+      "max": 13.9,
+      "min": 7.4,
       "regenwahrscheinlichkeit": 6,
       "sonnenaufgang": "2026-10-12T07:45",
       "sonnenuntergang": "2026-10-12T18:38",
@@ -72,6 +59,19 @@
         "code": 3,
         "text": "Bedeckt",
         "icon": "☁️"
+      }
+    },
+    {
+      "datum": "2026-10-13",
+      "max": 13.0,
+      "min": 5.8,
+      "regenwahrscheinlichkeit": 22,
+      "sonnenaufgang": "2026-10-13T07:47",
+      "sonnenuntergang": "2026-10-13T18:36",
+      "wetter": {
+        "code": 61,
+        "text": "Leichter Regen",
+        "icon": "🌦️"
       }
     }
   ]
