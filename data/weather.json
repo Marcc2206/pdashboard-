@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T04:30:01+00:00",
+  "generatedAt": "2026-10-09T12:32:49+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,26 +7,26 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-09T06:30",
-    "temperatur": 9.4,
-    "gefuehlt": 6.1,
-    "luftfeuchte": 91,
-    "niederschlag": 0.0,
-    "wind": 18.6,
+    "zeit": "2026-10-09T14:30",
+    "temperatur": 10.0,
+    "gefuehlt": 5.4,
+    "luftfeuchte": 87,
+    "niederschlag": 0.1,
+    "wind": 27.9,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 3,
-      "text": "Bedeckt",
-      "icon": "☁️"
+      "code": 61,
+      "text": "Leichter Regen",
+      "icon": "🌦️"
     }
   },
   "tage": [
     {
       "datum": "2026-10-09",
-      "max": 13.0,
+      "max": 13.2,
       "min": 7.9,
-      "regenwahrscheinlichkeit": 88,
+      "regenwahrscheinlichkeit": 93,
       "sonnenaufgang": "2026-10-09T07:40",
       "sonnenuntergang": "2026-10-09T18:45",
       "wetter": {
@@ -37,9 +37,9 @@
     },
     {
       "datum": "2026-10-10",
-      "max": 13.8,
-      "min": 9.6,
-      "regenwahrscheinlichkeit": 57,
+      "max": 14.0,
+      "min": 9.5,
+      "regenwahrscheinlichkeit": 80,
       "sonnenaufgang": "2026-10-10T07:41",
       "sonnenuntergang": "2026-10-10T18:42",
       "wetter": {
@@ -50,22 +50,22 @@
     },
     {
       "datum": "2026-10-11",
-      "max": 13.9,
-      "min": 8.6,
-      "regenwahrscheinlichkeit": 50,
+      "max": 13.6,
+      "min": 8.4,
+      "regenwahrscheinlichkeit": 65,
       "sonnenaufgang": "2026-10-11T07:43",
       "sonnenuntergang": "2026-10-11T18:40",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-10-12",
-      "max": 14.4,
-      "min": 8.0,
-      "regenwahrscheinlichkeit": 51,
+      "max": 14.3,
+      "min": 7.6,
+      "regenwahrscheinlichkeit": 6,
       "sonnenaufgang": "2026-10-12T07:45",
       "sonnenuntergang": "2026-10-12T18:38",
       "wetter": {
