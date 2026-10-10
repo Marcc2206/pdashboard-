@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:53:19+00:00",
+  "generatedAt": "2026-10-10T16:56:30+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Susanne Petersohn, ARD Kiew, zu Reaktionen nach Trumps Diesel-Deal mit Russland",
-          "link": "https://www.tagesschau.de/video/video-1663832.html",
-          "published": "2026-10-10T11:28:26+00:00",
+          "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
+          "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
+          "published": "2026-10-10T16:44:22+00:00",
+          "summary": "Der Flughafen nahe der saudischen Hauptstadt Riad ist offenbar erneut Ziel eines schweren Angriffs. Vermutet wird, dass die jemenitische Huthi-Miliz für die Attacke verantwortlich ist."
+        },
+        {
+          "title": "Serie von Messerattacken an Schulen in Polen",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
+          "published": "2026-10-10T16:33:42+00:00",
+          "summary": "In Polen sorgt eine Serie von Messerattacken an Schulen für Entsetzen. Am Donnerstag starben zwei Menschen nach einem Angriff auf eine Grundschule. Nun wurden bei einem weiteren Angriff drei Frauen …"
+        },
+        {
+          "title": "Nina Amin, ARD Kairo, über den geplanten Selbstmordanschlag des Co-Piloten der Flydubai-Maschine",
+          "link": "https://www.tagesschau.de/video/video-1663968.html",
+          "published": "2026-10-10T16:30:38+00:00",
           "summary": ""
         },
         {
-          "title": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
-          "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
-          "published": "2026-10-10T11:08:42+00:00",
-          "summary": "In Indien sind Tausende, meist jugendliche Anhänger der \"Kakerlaken\"-Bewegung festgenommen worden. Im ganzen Land gab es Proteste gegen die Wahlkommission. Bereits im Vorfeld war der Gründer der …"
+          "title": "Bernd Rasem, ARD-aktuell, über den Raketenangriff auf das Passagierterminal am Flughafen von Riad",
+          "link": "https://www.tagesschau.de/video/video-1663972.html",
+          "published": "2026-10-10T16:27:09+00:00",
+          "summary": ""
         },
         {
           "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
           "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
-          "published": "2026-10-10T10:54:13+00:00",
+          "published": "2026-10-10T16:05:24+00:00",
           "summary": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere …"
-        },
-        {
-          "title": "Formel 1: Sprint-Sieg für Verstappen - weil Russell spektakulär patzt",
-          "link": "https://www.sportschau.de/motorsport/formel1/sprint-sieg-fuer-verstappen-weil-russell-spektakulaer-patzt,sprint-singapur-102.html",
-          "published": "2026-10-10T10:52:06+00:00",
-          "summary": "Nach 38 Minuten Verzögerung wegen Starkregens hat sich Max Verstappen im Red Bull den Sprint-Sieg in Singapur gesichert. George Russell patzte spektakulär. Nico Hülkenberg holte überraschend Punkte."
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81366.html",
-          "published": "2026-10-10T10:18:35+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Bundespolitik: Bundesregierung zu Trumps Diesel-Deal – Kein Öl aus Russland",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-bundesregierung-zu-trumps-diesel-deal-kein-oel-aus-russland/100137034.html",
-          "published": "2026-10-10T11:29:00+00:00",
-          "summary": "Trumps Diesel-Deal dürfte Preise bei uns kaum ändern +++ Merz „zutiefst empört“ über Schröder bei Putin +++ Prien fordert Parteiausschluss für CDU-Abgeordnete +++ Der Newsblog."
+          "title": "Warnungen vor Rot-Grün-Rot: Sondierung mit Linken in Berlin sorgt für Streit",
+          "link": "https://www.handelsblatt.com/politik/deutschland/warnungen-vor-rot-gruen-rot-sondierung-mit-linken-in-berlin-sorgt-fuer-streit/100261228.html",
+          "published": "2026-10-10T16:24:19+00:00",
+          "summary": "In Berlin gehen die Sondierungen über Rot-Grün-Rot voran - doch im Bund werden die Warnungen vor so einem Bündnis lauter. Auch in der Koalition ist darüber Streit ausgebrochen."
         },
         {
-          "title": "Immobilien: Was der Zinsanstieg für Immobilienkäufer bedeutet",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-was-der-zinsanstieg-fuer-immobilienkaeufer-bedeutet/100260105.html",
-          "published": "2026-10-10T11:26:52+00:00",
-          "summary": "Die steigenden Anleiherenditen machen die Baukosten hierzulande deutlich teurer. In den Vereinigten Staaten ist die Belastung sogar noch höher."
+          "title": "Tech-Szene: San Francisco wird im KI-Boom zum Sehnsuchtsort junger Deutscher",
+          "link": "https://www.handelsblatt.com/technik/it-internet/ki-boom-san-francisco-wird-zum-sehnsuchtsort-junger-deutscher/100260233.html",
+          "published": "2026-10-10T16:06:19+00:00",
+          "summary": "Nie floss mehr Kapital ins Silicon Valley. Mittendrin: junge Deutsche, die Doktortitel oder Konzernkarriere aufgeben, um im KI-Boom reich zu werden. Dabei würden sie es sich anders wünschen."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Putin übermittelt Trump Irans Position zur Konfliktlösung",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
-          "published": "2026-10-10T11:24:00+00:00",
-          "summary": "Tote und Verletzte nach russischen Angriffen in Saporischschja+++ Westen will Russland offenbar neuen Friedensplan vor Winter unterbreiten +++ Der Newsblog."
+          "title": "Bezirksparteitag: SPD Oberpfalz fordert Schröder-Rauswurf",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bezirksparteitag-spd-oberpfalz-fordert-schroeder-rauswurf/100261240.html",
+          "published": "2026-10-10T15:59:44+00:00",
+          "summary": "Anlass ist unter anderem der Geburtstagsbesuch bei Kremlchef Putin. Schröder beschädige die Glaubwürdigkeit der Partei, so der Vorwurf."
         },
         {
-          "title": "Essay: „Mehr leisten, um uns mehr leisten zu können“ – Der Siemens-Chef erklärt, warum wir unseren Wohlstand neu erarbeiten müssen",
-          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/siemens-chef-deutschland-steckt-nicht-in-einer-klassischen-arbeitsmarktkrise/100259909.html",
-          "published": "2026-10-10T10:46:39+00:00",
-          "summary": "Deutschland streitet darüber, wie ein kaum wachsender Wohlstand verteilt wird. Siemens-Chef Roland Busch plädiert für die andere Frage. Ein Essay."
+          "title": "CDU: „CDU pur ist gescheitert“ – Vor der Klausur wächst der Druck auf Merz",
+          "link": "https://www.handelsblatt.com/politik/deutschland/cdu-cdu-pur-ist-gescheitert-vor-der-klausur-waechst-der-druck-auf-merz/100260809.html",
+          "published": "2026-10-10T15:31:00+00:00",
+          "summary": "Das höchste Gremium der CDU tagt, um einen Weg aus der bislang tiefsten Krise der Partei zu finden. Es mehren sich die Stimmen, die eine Kursänderung fordern – weg von den „Merz-Ultras“."
         },
         {
-          "title": "Energiekrise: Bundesregierung zu Trumps Diesel-Deal: Kein Öl aus Russland",
-          "link": "https://www.handelsblatt.com/politik/deutschland/energiekrise-bundesregierung-zu-trumps-diesel-deal-kein-oel-aus-russland/100261222.html",
-          "published": "2026-10-10T10:43:27+00:00",
-          "summary": "Der innenpolitisch unter Druck stehende US-Präsident verkündet eine Diesel-Vereinbarung mit Putin. Die Reaktion der Bundesregierung lässt nicht lange auf sich warten."
+          "title": "Regierungsbildung: MV auf Kurs Rot-Rot-Grün - Verhandlungsstart am Montag",
+          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-mv-auf-kurs-rot-rot-gruen-verhandlungsstart-am-montag/100261164.html",
+          "published": "2026-10-10T15:30:51+00:00",
+          "summary": "SPD, Linke und Grüne wollen in MV über eine Koalition verhandeln. Dafür stimmten alle drei Parteien. Für die Grünen wäre eine Regierungsbeteiligung in MV eine Premiere."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Gift für die Aktienmärkte\": Wie lange trotzen die Börsen noch steigenden Zinsen?",
+          "link": "https://www.n-tv.de/wirtschaft/Wie-lange-trotzen-die-Boersen-noch-steigenden-Zinsen-id31401834.html",
+          "published": "2026-10-10T13:30:00+00:00",
+          "summary": "Die Energiepreise explodieren, die Inflation klettert und die Zinsen ziehen an. Für die Aktienmärkte eine gefährliche Mischung. Wie lange können die Börsen dem Gegenwind noch standhalten?"
+        },
         {
           "title": "Sind die fetten Jahre vorbei?: Wie viel VW-Mitarbeiter verdienen",
           "link": "https://www.n-tv.de/wirtschaft/Wie-viel-VW-Mitarbeiter-verdienen-id31388650.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Brasiliens-Staatsanwaltschaft-verklagt-Shell-wegen-Flutkatastrophe-id31402931.html",
           "published": "2026-10-10T08:05:38+00:00",
           "summary": "Im Bundesstaat Rio Grande do Sul müssen 2024 eine halbe Million Menschen vor dem verheerenden Hochwasser fliehen, fast 200 sterben. Brasiliens Staatsanwaltschaft sieht den britischen Ölkonzern Shell …"
-        },
-        {
-          "title": "\"Ausnahmen abschaffen\": Ökonomen fordern Ende der Steuervorteile für Firmenerben",
-          "link": "https://www.n-tv.de/wirtschaft/Oekonomen-fordern-Ende-der-Steuervorteile-fuer-Firmenerben-id31402940.html",
-          "published": "2026-10-10T07:07:45+00:00",
-          "summary": "Bei Betriebsvermögen gelten weitreichende Ausnahmen von der Erbschaftsteuer. Die Sorge, Unternehmen könnten andernfalls aufgegeben werden, halten Topökonomen für unangebracht. In wenigen Tagen …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Leben mit Aktien: Hier bieten Kaufhäuser noch Chancen für Anleger",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/kaufhaus-aktien-wo-sich-das-warenhaus-fuer-anleger-noch-lohnt/100261062.html",
-          "published": "2026-10-10T11:29:39+00:00",
-          "summary": "Warenhausketten stehen unter Druck, nicht nur in Deutschland. Doch bei zwei US-Handelskonzernen läuft es gut – auch für Aktionäre."
-        },
-        {
-          "title": "EU-Haushalt: Irlands Vorschlag ist ein Dämpfer für die EU-Nettozahler",
-          "link": "https://www.wiwo.de/politik/europa/eu-haushalt-irlands-vorschlag-ist-ein-daempfer-fuer-die-eu-nettozahler/100261217.html",
-          "published": "2026-10-10T11:11:08+00:00",
-          "summary": "Der Vorschlag der irischen Ratspräsidentschaft für den nächsten EU-Haushalt reicht nicht aus und setzt die falschen Prioritäten. Ein Kommentar."
-        },
-        {
-          "title": "USA erlauben Diesel-Lieferungen: Heikler Diesel-Deal – wie Putin zu Donald Trumps Wahlhelfer werden soll",
-          "link": "https://www.wiwo.de/politik/ausland/usa-erlauben-diesel-lieferungen-heikler-diesel-deal-wie-putin-zu-donald-trumps-wahlhelfer-werden-soll/100261201.html",
-          "published": "2026-10-10T10:50:00+00:00",
-          "summary": "Kurz vor den Zwischenwahlen setzt Donald Trump die Diesel-Sanktionen gegen Russland aus. Auf die Preise dürfte sich das kaum auswirken – auf die Kriegskasse des Kremls umso mehr."
-        },
-        {
-          "title": "UhrenWoche: Ausgerechnet Audemars Piguet!",
-          "link": "https://www.wiwo.de/unternehmen/handel/audemars-piguet-warum-die-uhrenikone-jetzt-schmuck-verkauft/100261011.html",
-          "published": "2026-10-10T10:40:57+00:00",
-          "summary": "Eine der berühmtesten Männeruhrenmarken der Welt verkauft jetzt Schmuck: AP bietet das Armband der Royal Oak ohne Uhr an. „Royal Oak Joaillerie“ ist ein wegweisender Schritt für die Branche."
+          "title": "Wirtschaftswissenschaften: „Ein Nobelpreis für die KI!“",
+          "link": "https://www.wiwo.de/politik/konjunktur/wirtschaftsnobelpreis-2026-die-favoriten-deutscher-oekonomen/100258186.html",
+          "published": "2026-10-10T15:47:39+00:00",
+          "summary": "Am Montag wird der Ökonomie-Nobelpreis verkündet. Die WirtschaftsWoche hat sich umgehört, wer die Auszeichnung verdient hätte – und ungewöhnliche Vorschläge erhalten."
         },
         {
           "title": "Wirtschaft von oben: Die Netflix-Krise der Bollywood-Clans",
           "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/indiens-filmindustrie-im-umbruch-wie-bollywood-um-seine-zukunft-kaempft/100259329.html",
-          "published": "2026-10-10T10:00:00+00:00",
+          "published": "2026-10-10T15:39:00+00:00",
           "summary": "Die indische Filmindustrie ist älter, als viele glauben. Satellitenaufnahmen zeigen, wie Bollywood im Wettstreit mit den Streaming-Anbietern um seine Zukunft kämpft."
+        },
+        {
+          "title": "Elektroautos: Es gibt ihn also doch, den elektrischen Porsche 911",
+          "link": "https://www.wiwo.de/unternehmen/auto/verbrenner-auf-elektro-umbauen-was-retrofits-so-schwierig-macht/100260655.html",
+          "published": "2026-10-10T15:11:00+00:00",
+          "summary": "Ein klassischer Porsche als E-Auto: Was die Autokonzerne nicht bieten, erschaffen sich überzeugte Tüftler selbst. Wird aus dem Hobby einiger weniger noch eine breite Bewegung?"
+        },
+        {
+          "title": "BörsenWoche: Analyse: Wie kann die Samsung-Aktie nur so unterbewertet sein?",
+          "link": "https://www.wiwo.de/finanzen/boerse/samsung-aktie-warum-rekordgewinne-den-kurs-bisher-nicht-treiben/100260849.html",
+          "published": "2026-10-10T14:50:00+00:00",
+          "summary": "Der Elektronik- und Chiphersteller Samsung verkündet erneut absurd hohe Gewinne. Anleger sind trotzdem nicht überzeugt – und dafür gibt es durchaus Gründe."
+        },
+        {
+          "title": "Erbschaftsteuerreform: „Ein Unternehmen arbeitet dann 15 Jahre quasi nur für den Fiskus“",
+          "link": "https://www.wiwo.de/politik/deutschland/erbschaftsteuer-was-das-aus-fuer-verschonungsregeln-bedeutet/100260715.html",
+          "published": "2026-10-10T14:31:00+00:00",
+          "summary": "Können Familienunternehmen auch ohne Verschonungsregeln überleben? Ein Unternehmer erklärt die Fakten – kurz vor einer wichtigen Verhandlung beim Bundesverfassungsgericht."
         }
       ],
       "error": null
@@ -210,6 +210,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Rogfast: Norwegen sprengt einen Rekordtunnel unter dem Meer",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/norwegen-baut-weltrekordtunnel/",
+          "published": "2026-10-10T13:00:00+00:00",
+          "summary": "Rogfast wird mit 26,7 Kilometern und 392 Metern Tiefe Norwegens Rekordtunnel. So meistern Ingenieure den Bau unter dem Boknafjord."
+        },
         {
           "title": "Nach 237 Tagen im All: Sophie Adenots Körper muss die Erde neu lernen",
           "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/237-tage-im-all-so-gewoehnt-das-dlr-sophie-adenots-koerper-wieder-an-1-g/",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/technik/fachbereiche/energie/waermepumpenstrom-unter-22-cent-das-steckt-technisch-hinter-den-neuen-tarifen/",
           "published": "2026-10-10T08:30:00+00:00",
           "summary": "Warum ist Wärmepumpenstrom deutlich günstiger als Haushaltsstrom? § 14a, eigener Zähler und Netzentgelte erklären Preise unter 22 Cent/kWh."
-        },
-        {
-          "title": "Der Rekord ist klar. Die Ursache dieses kosmischen Signals nicht",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/der-rekord-ist-klar-die-ursache-dieses-kosmischen-signals-nicht/",
-          "published": "2026-10-10T07:02:37+00:00",
-          "summary": "25.000 Sekunden Gammastrahlung und enorme Energie: GRB 250702B stellt Forschende vor ein Rätsel. Mehrere Erklärungen konkurrieren miteinander."
         }
       ],
       "error": null
