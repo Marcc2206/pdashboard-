@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:47:58+00:00",
+  "generatedAt": "2026-10-10T04:15:40+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "China sagt EU weniger Exporte von Hybridautos zu",
-          "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
-          "published": "2026-10-09T22:54:50+00:00",
-          "summary": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen …"
+          "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
+          "published": "2026-10-10T03:56:30+00:00",
+          "summary": "Eine Militärhinrichtung im Livestream: In den USA wird kontrovers über die Ankündigung des Verteidigungsministers diskutiert. Die Rede ist von Methoden wie bei der IS-Miliz. Auch Vizepräsident Vance …"
         },
         {
           "title": "Trump kündigt russische Diesel-Lieferungen an",
           "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-          "published": "2026-10-09T22:19:16+00:00",
+          "published": "2026-10-10T02:43:04+00:00",
           "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA …"
         },
         {
-          "title": "Start in die WM-Saison geglückt: Deutschland besiegt Australien",
-          "link": "https://www.ndr.de/sport/fussball/start-in-die-wm-saison-geglueckt-deutschland-besiegt-australien,dfb-frauen-344.html",
-          "published": "2026-10-09T21:23:56+00:00",
-          "summary": "Die Mannschaft von Bundestrainer Christian Wück zeigte eine insgesamt gute Leistung und bezwang den WM-Halbfinalisten von 2023 verdient."
-        },
-        {
-          "title": "Fußball-Bundesliga: Werder Bremen punktet dank Füllkrug bei Borussia Dortmund",
-          "link": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
-          "published": "2026-10-09T21:17:49+00:00",
-          "summary": "Ausgerechnet Niclas Füllkrug hat Borussia Dortmund nach der langen Länderspielpause den ersten Rückschlag beschert. Der Ex-Dortmunder erzielte in der Nachspielzeit den 2:2-Ausgleich für Werder …"
-        },
-        {
-          "title": "Samuel Jackisch, ARD Washington, zu Trumps Ankündigung von Dieselimporten aus Russland",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1663670.html",
-          "published": "2026-10-09T21:05:16+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1663718.html",
+          "published": "2026-10-10T02:42:53+00:00",
           "summary": ""
+        },
+        {
+          "title": "Schweres Erdbeben erschüttert Panama",
+          "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+          "published": "2026-10-09T23:58:47+00:00",
+          "summary": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Eine Tsunamiwarnung wurde aufgehoben. Über mögliche Verletzte gibt es …"
+        },
+        {
+          "title": "China sagt EU weniger Exporte von Hybridautos zu",
+          "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
+          "published": "2026-10-09T22:54:50+00:00",
+          "summary": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Landtagswahlen: Nach SPD stimmt auch Linke für Koalitionsverhandlungen in MV",
-          "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-nach-spd-stimmt-auch-linke-fuer-koalitionsverhandlungen-in-mv/100261166.html",
-          "published": "2026-10-09T22:45:18+00:00",
-          "summary": "Nach Abschluss der Sondierungsgespräche soll nun eine Koalition verhandelt werden. Stimmen auch die Grünen zu, könnte die erste rot-rot-grüne Landesregierung Deutschlands entstehen."
+          "title": "Künstliche Intelligenz: KI von Anthropic reichte Fake-Hinweis auf Polizei-Seite ein",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-anthropic-reichte-fake-hinweis-auf-polizei-seite-ein/100261188.html",
+          "published": "2026-10-10T04:03:41+00:00",
+          "summary": "Seit Wochen sorgen vor allem Eskapaden von KI des ChatGPT-Entwicklers OpenAI für Schlagzeilen. Doch auch Software des Rivalen Anthropic reichte echte Formulare auf Behörden-Websites ein."
         },
         {
-          "title": "Energiekrise: Trump kündigt große Diesellieferungen aus Russland an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/energiekrise-trump-kuendigt-grosse-diesellieferungen-aus-russland-an/100261153.html",
-          "published": "2026-10-09T22:31:12+00:00",
-          "summary": "Innenpolitisch hadert der US-Präsident seit langem mit hohen Spritpreisen - insbesondere vor den Kongresswahlen ist der Druck auf ihn hoch. Nun verkündet Trump einen Deal mit Putin."
+          "title": "Untersuchungen im Labor: Bundesverband warnt vor Kontroll-Lücken bei Restaurants",
+          "link": "https://www.handelsblatt.com/politik/deutschland/untersuchungen-im-labor-bundesverband-warnt-vor-kontroll-luecken-bei-restaurants/100261187.html",
+          "published": "2026-10-10T04:00:06+00:00",
+          "summary": "Einheitliche Standards bei Lebensmittelkontrollen sind laut Fachverband unverzichtbar. So soll sichergestellt werden, dass Restaurants, Imbisse und Co. ähnlich oft kontrolliert werden."
         },
         {
-          "title": "Regierungsbildung: Kurs auf Rot-Rot-Grün in Mecklenburg-Vorpommern",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-kurs-auf-rot-rot-gruen-in-mecklenburg-vorpommern/100261164.html",
-          "published": "2026-10-09T22:01:04+00:00",
-          "summary": "SPD und Linke haben am Abend für Koalitionsverhandlungen gestimmt. Nun fehlen noch die Grünen als Dritte im Bunde. Sie treffen sich in Rostock."
+          "title": "US-Präsident hadert: Trump kennt Nobelpreisträgerin nicht: „Trotzdem Glückwunsch“",
+          "link": "https://www.handelsblatt.com/politik/international/us-praesident-hadert-trump-kennt-nobelpreistraegerin-nicht-trotzdem-glueckwunsch/100261185.html",
+          "published": "2026-10-10T03:31:10+00:00",
+          "summary": "Für Donald Trump gibt es nur einen Friedensnobelpreisträger: ihn selbst. Von der nun geehrten Pillay habe er noch nie gehört. Kritik an der Entscheidung übt er an einem Land, das nichts dafür kann."
         },
         {
-          "title": "Weißes Haus: Trump: Katie Zacharia wird neue Sprecherin des Weißen Hauses",
-          "link": "https://www.handelsblatt.com/politik/international/weisses-haus-trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses/100261159.html",
-          "published": "2026-10-09T21:58:31+00:00",
-          "summary": "Wochenlang wurde in Washington gerätselt, wer die Nachfolgerin von Karoline Leavitt wird. Nun verkündet Trump eine Entscheidung. Was ist über seine neue Sprecherin bekannt?"
+          "title": "Nahost: Ein Jahr Waffenruhe – wie steht es um das Gaza-Abkommen?",
+          "link": "https://www.handelsblatt.com/politik/international/nahost-ein-jahr-waffenruhe-wie-steht-es-um-das-gaza-abkommen/100261181.html",
+          "published": "2026-10-10T03:00:10+00:00",
+          "summary": "Seit Oktober 2025 sollen im Gaza-Krieg die Waffen schweigen, doch es gibt weiter Angriffe Israels und die Hamas ist bislang nicht entwaffnet. Die Menschen vor Ort sehnen sich derweil nach Normalität."
         },
         {
-          "title": "Regierungsbildung in MV: Nach SPD stimmt auch Linke für Koalitionsverhandlungen in MV",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-mv-nach-spd-stimmt-auch-linke-fuer-koalitionsverhandlungen-in-mv/100261137.html",
-          "published": "2026-10-09T21:18:11+00:00",
-          "summary": "Bisher regiert die Linke als kleiner Koalitionspartner mit der SPD in Mecklenburg-Vorpommern. Dafür reicht es nach der Landtagswahl nicht mehr. Nun sollen die Grünen dazukommen."
+          "title": "Klimafolgen: Hitze und Dürre: Wird der kostbare weiße Trüffel knapp?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/klimafolgen-hitze-und-duerre-wird-der-kostbare-weisse-trueffel-knapp/100261178.html",
+          "published": "2026-10-10T02:30:05+00:00",
+          "summary": "Weißer Trüffel gilt als wertvoll – nun macht ihm auch der Klimawandel zu schaffen. Die Delikatesse könnte nach Hitze und Dürre in diesem Sommer noch teurer werden. Experten hoffen auf den Spätherbst."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Bereits verheerende Folgen\" : Bau-Präsident beobachtet Flurschaden durch Enteignungspläne der Linken",
+          "link": "https://www.n-tv.de/wirtschaft/Bau-Praesident-beobachtet-Flurschaden-durch-Enteignungsplaene-der-Linken-id31402561.html",
+          "published": "2026-10-10T00:26:12+00:00",
+          "summary": "Internationale Investoren machen wegen der Vergesellschaftungspläne der Linkspartei bereits einen Bogen um Berlin. Der Präsident der Bauindustrie berichtet über eine zunehmende Zurückhaltung der …"
+        },
         {
           "title": "Wochenvorschau: Termine bis 18. Oktober 2026",
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-18-Oktober-2026-id31380619.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Trump-Putin-liefert-Millionen-Tonnen-Diesel-fuer-USA-und-Weltmarkt-id31402371.html",
           "published": "2026-10-09T19:27:00+00:00",
           "summary": "Nach einem Telefonat mit dem Kremlchef verkündet Trump einen Deal. Dem US-Präsidenten zufolge wird Russland Millionen Tonnen Diesel liefern. Dadurch sollen die Preise in Rekordzeit sinken."
-        },
-        {
-          "title": "Mit zwei Milliarden ins Risiko: Texanischer Öl-Händler kauft sich eigene Tankerflotte",
-          "link": "https://www.n-tv.de/wirtschaft/Texanischer-Oel-Haendler-kauft-sich-eigene-Tankerflotte-id31400993.html",
-          "published": "2026-10-09T17:15:11+00:00",
-          "summary": "Kämpfe im Nahen Osten treiben die US-Treibstoffpreise auf Rekordhöhen. Ein Ölhändler aus Texas nimmt die Lage nun selbst in die Hand und geht ein 2-Milliarden-Dollar-Risiko beim Kauf gebrauchter …"
         }
       ],
       "error": null
