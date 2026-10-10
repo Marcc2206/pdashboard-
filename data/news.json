@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T04:15:40+00:00",
+  "generatedAt": "2026-10-10T11:53:19+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
-          "published": "2026-10-10T03:56:30+00:00",
-          "summary": "Eine Militärhinrichtung im Livestream: In den USA wird kontrovers über die Ankündigung des Verteidigungsministers diskutiert. Die Rede ist von Methoden wie bei der IS-Miliz. Auch Vizepräsident Vance …"
-        },
-        {
-          "title": "Trump kündigt russische Diesel-Lieferungen an",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-          "published": "2026-10-10T02:43:04+00:00",
-          "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1663718.html",
-          "published": "2026-10-10T02:42:53+00:00",
+          "title": "Susanne Petersohn, ARD Kiew, zu Reaktionen nach Trumps Diesel-Deal mit Russland",
+          "link": "https://www.tagesschau.de/video/video-1663832.html",
+          "published": "2026-10-10T11:28:26+00:00",
           "summary": ""
         },
         {
-          "title": "Schweres Erdbeben erschüttert Panama",
-          "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
-          "published": "2026-10-09T23:58:47+00:00",
-          "summary": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Eine Tsunamiwarnung wurde aufgehoben. Über mögliche Verletzte gibt es …"
+          "title": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
+          "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+          "published": "2026-10-10T11:08:42+00:00",
+          "summary": "In Indien sind Tausende, meist jugendliche Anhänger der \"Kakerlaken\"-Bewegung festgenommen worden. Im ganzen Land gab es Proteste gegen die Wahlkommission. Bereits im Vorfeld war der Gründer der …"
         },
         {
-          "title": "China sagt EU weniger Exporte von Hybridautos zu",
-          "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
-          "published": "2026-10-09T22:54:50+00:00",
-          "summary": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen …"
+          "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+          "published": "2026-10-10T10:54:13+00:00",
+          "summary": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere …"
+        },
+        {
+          "title": "Formel 1: Sprint-Sieg für Verstappen - weil Russell spektakulär patzt",
+          "link": "https://www.sportschau.de/motorsport/formel1/sprint-sieg-fuer-verstappen-weil-russell-spektakulaer-patzt,sprint-singapur-102.html",
+          "published": "2026-10-10T10:52:06+00:00",
+          "summary": "Nach 38 Minuten Verzögerung wegen Starkregens hat sich Max Verstappen im Red Bull den Sprint-Sieg in Singapur gesichert. George Russell patzte spektakulär. Nico Hülkenberg holte überraschend Punkte."
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81366.html",
+          "published": "2026-10-10T10:18:35+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Künstliche Intelligenz: KI von Anthropic reichte Fake-Hinweis auf Polizei-Seite ein",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-anthropic-reichte-fake-hinweis-auf-polizei-seite-ein/100261188.html",
-          "published": "2026-10-10T04:03:41+00:00",
-          "summary": "Seit Wochen sorgen vor allem Eskapaden von KI des ChatGPT-Entwicklers OpenAI für Schlagzeilen. Doch auch Software des Rivalen Anthropic reichte echte Formulare auf Behörden-Websites ein."
+          "title": "Bundespolitik: Bundesregierung zu Trumps Diesel-Deal – Kein Öl aus Russland",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-bundesregierung-zu-trumps-diesel-deal-kein-oel-aus-russland/100137034.html",
+          "published": "2026-10-10T11:29:00+00:00",
+          "summary": "Trumps Diesel-Deal dürfte Preise bei uns kaum ändern +++ Merz „zutiefst empört“ über Schröder bei Putin +++ Prien fordert Parteiausschluss für CDU-Abgeordnete +++ Der Newsblog."
         },
         {
-          "title": "Untersuchungen im Labor: Bundesverband warnt vor Kontroll-Lücken bei Restaurants",
-          "link": "https://www.handelsblatt.com/politik/deutschland/untersuchungen-im-labor-bundesverband-warnt-vor-kontroll-luecken-bei-restaurants/100261187.html",
-          "published": "2026-10-10T04:00:06+00:00",
-          "summary": "Einheitliche Standards bei Lebensmittelkontrollen sind laut Fachverband unverzichtbar. So soll sichergestellt werden, dass Restaurants, Imbisse und Co. ähnlich oft kontrolliert werden."
+          "title": "Immobilien: Was der Zinsanstieg für Immobilienkäufer bedeutet",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-was-der-zinsanstieg-fuer-immobilienkaeufer-bedeutet/100260105.html",
+          "published": "2026-10-10T11:26:52+00:00",
+          "summary": "Die steigenden Anleiherenditen machen die Baukosten hierzulande deutlich teurer. In den Vereinigten Staaten ist die Belastung sogar noch höher."
         },
         {
-          "title": "US-Präsident hadert: Trump kennt Nobelpreisträgerin nicht: „Trotzdem Glückwunsch“",
-          "link": "https://www.handelsblatt.com/politik/international/us-praesident-hadert-trump-kennt-nobelpreistraegerin-nicht-trotzdem-glueckwunsch/100261185.html",
-          "published": "2026-10-10T03:31:10+00:00",
-          "summary": "Für Donald Trump gibt es nur einen Friedensnobelpreisträger: ihn selbst. Von der nun geehrten Pillay habe er noch nie gehört. Kritik an der Entscheidung übt er an einem Land, das nichts dafür kann."
+          "title": "+++ Ukraine-Krieg +++: Putin übermittelt Trump Irans Position zur Konfliktlösung",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-moskau-schliesst-konsulat-in-st.-petersburg123/27982126.html",
+          "published": "2026-10-10T11:24:00+00:00",
+          "summary": "Tote und Verletzte nach russischen Angriffen in Saporischschja+++ Westen will Russland offenbar neuen Friedensplan vor Winter unterbreiten +++ Der Newsblog."
         },
         {
-          "title": "Nahost: Ein Jahr Waffenruhe – wie steht es um das Gaza-Abkommen?",
-          "link": "https://www.handelsblatt.com/politik/international/nahost-ein-jahr-waffenruhe-wie-steht-es-um-das-gaza-abkommen/100261181.html",
-          "published": "2026-10-10T03:00:10+00:00",
-          "summary": "Seit Oktober 2025 sollen im Gaza-Krieg die Waffen schweigen, doch es gibt weiter Angriffe Israels und die Hamas ist bislang nicht entwaffnet. Die Menschen vor Ort sehnen sich derweil nach Normalität."
+          "title": "Essay: „Mehr leisten, um uns mehr leisten zu können“ – Der Siemens-Chef erklärt, warum wir unseren Wohlstand neu erarbeiten müssen",
+          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/siemens-chef-deutschland-steckt-nicht-in-einer-klassischen-arbeitsmarktkrise/100259909.html",
+          "published": "2026-10-10T10:46:39+00:00",
+          "summary": "Deutschland streitet darüber, wie ein kaum wachsender Wohlstand verteilt wird. Siemens-Chef Roland Busch plädiert für die andere Frage. Ein Essay."
         },
         {
-          "title": "Klimafolgen: Hitze und Dürre: Wird der kostbare weiße Trüffel knapp?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/klimafolgen-hitze-und-duerre-wird-der-kostbare-weisse-trueffel-knapp/100261178.html",
-          "published": "2026-10-10T02:30:05+00:00",
-          "summary": "Weißer Trüffel gilt als wertvoll – nun macht ihm auch der Klimawandel zu schaffen. Die Delikatesse könnte nach Hitze und Dürre in diesem Sommer noch teurer werden. Experten hoffen auf den Spätherbst."
+          "title": "Energiekrise: Bundesregierung zu Trumps Diesel-Deal: Kein Öl aus Russland",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energiekrise-bundesregierung-zu-trumps-diesel-deal-kein-oel-aus-russland/100261222.html",
+          "published": "2026-10-10T10:43:27+00:00",
+          "summary": "Der innenpolitisch unter Druck stehende US-Präsident verkündet eine Diesel-Vereinbarung mit Putin. Die Reaktion der Bundesregierung lässt nicht lange auf sich warten."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "\"Bereits verheerende Folgen\" : Bau-Präsident beobachtet Flurschaden durch Enteignungspläne der Linken",
-          "link": "https://www.n-tv.de/wirtschaft/Bau-Praesident-beobachtet-Flurschaden-durch-Enteignungsplaene-der-Linken-id31402561.html",
-          "published": "2026-10-10T00:26:12+00:00",
-          "summary": "Internationale Investoren machen wegen der Vergesellschaftungspläne der Linkspartei bereits einen Bogen um Berlin. Der Präsident der Bauindustrie berichtet über eine zunehmende Zurückhaltung der …"
+          "title": "Sind die fetten Jahre vorbei?: Wie viel VW-Mitarbeiter verdienen",
+          "link": "https://www.n-tv.de/wirtschaft/Wie-viel-VW-Mitarbeiter-verdienen-id31388650.html",
+          "published": "2026-10-10T09:17:22+00:00",
+          "summary": "Die übliche Gehaltserhöhung bei Volkswagen fällt im vergangenen Tarifstreit den drastischen Sparplänen zum Opfer. Im Vergleich zu anderen Arbeitgebern zahlt der Autobauer trotzdem noch stattliche …"
         },
         {
-          "title": "Wochenvorschau: Termine bis 18. Oktober 2026",
-          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-18-Oktober-2026-id31380619.html",
-          "published": "2026-10-09T22:01:00+00:00",
-          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+          "title": "Ehrlicherer Name in Europa: Tesla nennt Fahrassistent nicht mehr selbstfahrend",
+          "link": "https://www.n-tv.de/wirtschaft/Tesla-nennt-Fahrassistent-nicht-mehr-selbstfahrend-id31403052.html",
+          "published": "2026-10-10T08:49:58+00:00",
+          "summary": "Kunden in europäischen Ländern verspricht Tesla vorerst keine autonomen Autos mehr, sondern nur noch ein Fahrassistenzsystem. Es ist bereits das zweite Mal, dass der Autobauer seine umstrittene …"
         },
         {
-          "title": "Entspannung bei Staatsanleihen: Wall Street geht versöhnlich ins Wochenende",
-          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-geht-versoehnlich-ins-Wochenende-id31402461.html",
-          "published": "2026-10-09T21:26:41+00:00",
-          "summary": "Nach dem Ausverkauf vom Vortag kehrt an der Wall Street zum Wochenschluss eine entspanntere Stimmung ein. Trumps Ankündigung, im Iran bis zu den Midterm-Wahlen nichts zu unternehmen, sorgt für …"
+          "title": "Nigeria liefert Europa Kerosin: Warum wieder Öl durch Hormus fließt, aber kaum Diesel",
+          "link": "https://www.n-tv.de/wirtschaft/Warum-wieder-Oel-durch-Hormus-fliesst-aber-kaum-Diesel-id31401482.html",
+          "published": "2026-10-10T08:06:33+00:00",
+          "summary": "Der Öltransport durch die Straße von Hormus ist teuer und gefährlich, aber wieder zunehmend möglich in den vergangenen Wochen. Bei Kraftstoffen wie Diesel und Kerosin, die Europa importieren muss …"
         },
         {
-          "title": "Import-Quoten bei Hybridautos: Ökonom kritisiert Vorschlag für EU-Deal mit China",
-          "link": "https://www.n-tv.de/wirtschaft/Oekonom-kritisiert-Vorschlag-fuer-EU-Deal-mit-China-id31402486.html",
-          "published": "2026-10-09T21:07:54+00:00",
-          "summary": "Vor dem Gipfel in Brüssel sickern Details durch, wie China und die EU einen Handelskonflikt beilegen könnten. Experten hadern mit der Idee, Exportquoten und Mindestpreise zu vereinbaren. Gegen …"
+          "title": "Mitschuldig an Erderwärmung?: Brasiliens Staatsanwaltschaft verklagt Shell wegen Flutkatastrophe",
+          "link": "https://www.n-tv.de/wirtschaft/Brasiliens-Staatsanwaltschaft-verklagt-Shell-wegen-Flutkatastrophe-id31402931.html",
+          "published": "2026-10-10T08:05:38+00:00",
+          "summary": "Im Bundesstaat Rio Grande do Sul müssen 2024 eine halbe Million Menschen vor dem verheerenden Hochwasser fliehen, fast 200 sterben. Brasiliens Staatsanwaltschaft sieht den britischen Ölkonzern Shell …"
         },
         {
-          "title": "\"Äußerst erfolgreiches Gespräch\": Trump: Putin liefert Millionen Tonnen Diesel für USA und Weltmarkt",
-          "link": "https://www.n-tv.de/wirtschaft/Trump-Putin-liefert-Millionen-Tonnen-Diesel-fuer-USA-und-Weltmarkt-id31402371.html",
-          "published": "2026-10-09T19:27:00+00:00",
-          "summary": "Nach einem Telefonat mit dem Kremlchef verkündet Trump einen Deal. Dem US-Präsidenten zufolge wird Russland Millionen Tonnen Diesel liefern. Dadurch sollen die Preise in Rekordzeit sinken."
+          "title": "\"Ausnahmen abschaffen\": Ökonomen fordern Ende der Steuervorteile für Firmenerben",
+          "link": "https://www.n-tv.de/wirtschaft/Oekonomen-fordern-Ende-der-Steuervorteile-fuer-Firmenerben-id31402940.html",
+          "published": "2026-10-10T07:07:45+00:00",
+          "summary": "Bei Betriebsvermögen gelten weitreichende Ausnahmen von der Erbschaftsteuer. Die Sorge, Unternehmen könnten andernfalls aufgegeben werden, halten Topökonomen für unangebracht. In wenigen Tagen …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Rennunglück: L'Osteria-Mitgründer Rader auf Mallorca tödlich verunglückt",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/rennunglueck-losteria-mitgruender-rader-auf-mallorca-toedlich-verunglueckt/100261143.html",
-          "published": "2026-10-09T18:30:01+00:00",
-          "summary": "Klaus Rader, Co-Gründer von L'Osteria, kommt auf Mallorca bei einem Autorennen ums Leben. Die Unfallursache ist unklar. Die Veranstalter sagen nach dem Unfall das Ereignis ab."
+          "title": "Leben mit Aktien: Hier bieten Kaufhäuser noch Chancen für Anleger",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/kaufhaus-aktien-wo-sich-das-warenhaus-fuer-anleger-noch-lohnt/100261062.html",
+          "published": "2026-10-10T11:29:39+00:00",
+          "summary": "Warenhausketten stehen unter Druck, nicht nur in Deutschland. Doch bei zwei US-Handelskonzernen läuft es gut – auch für Aktionäre."
         },
         {
-          "title": "Internationales Recht: US-Sanktionen gegen Weltstrafgericht – was bedeutet das?",
-          "link": "https://www.wiwo.de/politik/ausland/internationales-recht-us-sanktionen-gegen-weltstrafgericht-was-bedeutet-das/100261131.html",
-          "published": "2026-10-09T17:39:22+00:00",
-          "summary": "Seit langem ist der Internationale Strafgerichtshof US-Präsident Trump ein Dorn im Auge. Nun verhängen die USA neue Sanktionen gegen das Gericht."
+          "title": "EU-Haushalt: Irlands Vorschlag ist ein Dämpfer für die EU-Nettozahler",
+          "link": "https://www.wiwo.de/politik/europa/eu-haushalt-irlands-vorschlag-ist-ein-daempfer-fuer-die-eu-nettozahler/100261217.html",
+          "published": "2026-10-10T11:11:08+00:00",
+          "summary": "Der Vorschlag der irischen Ratspräsidentschaft für den nächsten EU-Haushalt reicht nicht aus und setzt die falschen Prioritäten. Ein Kommentar."
         },
         {
-          "title": "Börsenlage: Diese fünf Indikatoren geben Anlegern jetzt Orientierung",
-          "link": "https://www.wiwo.de/finanzen/boerse/aktienmarkt-diese-indikatoren-sollten-anleger-im-blick-haben/100260065.html",
-          "published": "2026-10-09T17:07:00+00:00",
-          "summary": "Die Lage an den Börsen lässt sich gerade schwer einschätzen. Die Risiken steigen, doch für einen Ausstieg ist es wohl zu früh."
+          "title": "USA erlauben Diesel-Lieferungen: Heikler Diesel-Deal – wie Putin zu Donald Trumps Wahlhelfer werden soll",
+          "link": "https://www.wiwo.de/politik/ausland/usa-erlauben-diesel-lieferungen-heikler-diesel-deal-wie-putin-zu-donald-trumps-wahlhelfer-werden-soll/100261201.html",
+          "published": "2026-10-10T10:50:00+00:00",
+          "summary": "Kurz vor den Zwischenwahlen setzt Donald Trump die Diesel-Sanktionen gegen Russland aus. Auf die Preise dürfte sich das kaum auswirken – auf die Kriegskasse des Kremls umso mehr."
         },
         {
-          "title": "Neue Wachstumsagenda: „Eine europäische KI wäre weltweit gefragt“",
-          "link": "https://www.wiwo.de/politik/europa/philippe-aghion-darum-waere-eine-europaeische-ki-weltweit-gefragt/100252156.html",
-          "published": "2026-10-09T17:02:00+00:00",
-          "summary": "Nobelpreisträger Philippe Aghion hält trotz Schuldenkrise massive Staatsinvestitionen für nötig – und fordert eine europäische KI zum Schutz gegen die Willkür in den USA."
+          "title": "UhrenWoche: Ausgerechnet Audemars Piguet!",
+          "link": "https://www.wiwo.de/unternehmen/handel/audemars-piguet-warum-die-uhrenikone-jetzt-schmuck-verkauft/100261011.html",
+          "published": "2026-10-10T10:40:57+00:00",
+          "summary": "Eine der berühmtesten Männeruhrenmarken der Welt verkauft jetzt Schmuck: AP bietet das Armband der Royal Oak ohne Uhr an. „Royal Oak Joaillerie“ ist ein wegweisender Schritt für die Branche."
         },
         {
-          "title": "Mobilfunk aus dem All: Musk kauft Frequenzen, doch die Physik bremst Starlink aus",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/spacex-greift-mobilfunk-an-warum-musks-netz-kaum-chancen-hat/100260991.html",
-          "published": "2026-10-09T16:50:32+00:00",
-          "summary": "SpaceX kauft terrestrisches Spektrum. Um im Wettbewerb der Mobilfunkanbieter zu bestehen, ist das bei weitem nicht genug."
+          "title": "Wirtschaft von oben: Die Netflix-Krise der Bollywood-Clans",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/indiens-filmindustrie-im-umbruch-wie-bollywood-um-seine-zukunft-kaempft/100259329.html",
+          "published": "2026-10-10T10:00:00+00:00",
+          "summary": "Die indische Filmindustrie ist älter, als viele glauben. Satellitenaufnahmen zeigen, wie Bollywood im Wettstreit mit den Streaming-Anbietern um seine Zukunft kämpft."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "„Jagd“ auf ICEYE: Was fünf russische Satelliten im Orbit treiben",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/jagd-auf-iceye-was-fuenf-russische-satelliten-im-orbit-treiben/",
-          "published": "2026-10-09T16:55:25+00:00",
-          "summary": "Russische Cosmos-Satelliten nähern sich einem ICEYE-Radarsatelliten. Die Bundeswehr warnt: Ähnliche Manöver könnten auch Starlink unter Druck setzen."
+          "title": "Nach 237 Tagen im All: Sophie Adenots Körper muss die Erde neu lernen",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/237-tage-im-all-so-gewoehnt-das-dlr-sophie-adenots-koerper-wieder-an-1-g/",
+          "published": "2026-10-10T10:30:00+00:00",
+          "summary": "237 Tage war Sophie Adenot im All. Jetzt untersucht das DLR, wie sich Kreislauf, Gleichgewicht, Muskeln und Augen wieder an 1 g anpassen."
         },
         {
-          "title": "535 °C heißes Blei: Russland baut ungewöhnlichen Atomreaktor",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/535-c-heisses-blei-russland-baut-ungewoehnlichen-atomreaktor/",
-          "published": "2026-10-09T16:19:04+00:00",
-          "summary": "BREST-OD-300 soll mit flüssigem Blei und neuartigem Brennstoff arbeiten. Warum Russland auf die ungewöhnliche Reaktortechnik setzt – und wo ihre Probleme liegen."
+          "title": "Darum fallen Akademiker besonders häufig auf Phishing-Maschen rein",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/darum-fallen-akademiker-besonders-haeufig-auf-phishing-maschen-rein/",
+          "published": "2026-10-10T10:00:00+00:00",
+          "summary": "Eine aktuelle PayPal-Masche arbeitet mit angeblichen Sicherheitsupdates. Gleichzeitig zeigt eine neue Umfrage: Akademiker sind auffällig häufig von Phishing betroffen."
         },
         {
-          "title": "Forscher lassen Perowskit kurz schmelzen und erreichen 26,5 % Wirkungsgrad",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/forscher-lassen-perowskit-kurz-schmelzen-und-erreichen-265-wirkungsgrad/",
-          "published": "2026-10-09T14:30:00+00:00",
-          "summary": "Eine kurzzeitig flüssige Salzschicht verbessert das Kristallwachstum von Perowskit-Solarzellen. Im Labor erreichen sie 26,5 % Wirkungsgrad."
+          "title": "Warum Deutschland einst Nobelpreis-Supermacht war",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/warum-deutschland-einst-nobelpreis-supermacht-war/",
+          "published": "2026-10-10T09:00:00+00:00",
+          "summary": "Warum Deutschland zur Nobelpreis-Supermacht wurde: Forschungsfreiheit, starke Hochschulen und Industrie prägten den Aufstieg – bis 1933 alles veränderte."
         },
         {
-          "title": "Wenn das Abblendlicht blendet: Was bei modernen Scheinwerfern schiefläuft",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/die-dunkle-jahreszeit-us-will-blendende-scheinwerfer-verhindern/",
-          "published": "2026-10-09T14:00:00+00:00",
-          "summary": "Moderne LED-Scheinwerfer verbessern die Sicht, können den Gegenverkehr aber blenden. Warum Lichtverteilung, Winkel und Tests entscheidend sind."
+          "title": "Wärmepumpenstrom unter 22 Cent: Das steckt technisch hinter den neuen Tarifen",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/waermepumpenstrom-unter-22-cent-das-steckt-technisch-hinter-den-neuen-tarifen/",
+          "published": "2026-10-10T08:30:00+00:00",
+          "summary": "Warum ist Wärmepumpenstrom deutlich günstiger als Haushaltsstrom? § 14a, eigener Zähler und Netzentgelte erklären Preise unter 22 Cent/kWh."
         },
         {
-          "title": "Lithium aus Erdwärme: Wie der Oberrhein Rohstoff für bis zu 160.000 E-Autos liefern könnte",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/lithium-aus-erdwarme-wie-der-oberrhein-rohstoff-fur-bis-zu-160-000-e-autos-liefern-konnte/",
-          "published": "2026-10-09T12:30:08+00:00",
-          "summary": "Unter dem Oberrhein liegt heißes Wasser, das Kraftwerke für Wärme und Strom nutzen. Es enthält auch Lithium, das in den Akkus von E-Autos steckt. Erste Versuche zeigen, dass sich der Rohstoff in …"
+          "title": "Der Rekord ist klar. Die Ursache dieses kosmischen Signals nicht",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/der-rekord-ist-klar-die-ursache-dieses-kosmischen-signals-nicht/",
+          "published": "2026-10-10T07:02:37+00:00",
+          "summary": "25.000 Sekunden Gammastrahlung und enorme Energie: GRB 250702B stellt Forschende vor ein Rätsel. Mehrere Erklärungen konkurrieren miteinander."
         }
       ],
       "error": null
