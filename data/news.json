@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T08:16:01+00:00",
+  "generatedAt": "2026-10-11T16:07:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Seehofer kritisiert Merz vor CDU-Präsidiumsklausur",
-          "link": "https://www.tagesschau.de/video/video-1664222.html",
-          "published": "2026-10-11T08:01:41+00:00",
+          "title": "Friedenspreisträger Sands kritisiert deutsches Schweigen zu Vorgehen Israels",
+          "link": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
+          "published": "2026-10-11T15:38:17+00:00",
+          "summary": "Der Jurist und Schriftsteller Philippe Sands hat den Friedenspreis des Deutschen Buchhandels erhalten. Er bedankte sich mit dem Appell, zu Verletzungen des Völkerrechts nicht zu schweigen. Israels …"
+        },
+        {
+          "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+          "published": "2026-10-11T15:37:39+00:00",
+          "summary": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. …"
+        },
+        {
+          "title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
+          "published": "2026-10-11T15:17:19+00:00",
+          "summary": "Laut US-Präsident Trump gibt es eine \"Energie-Waffenruhe\" zwischen Russland und der Ukraine. Sie trete mit sofortiger Wirkung in Kraft, erklärte er auf seiner Plattform Truth Social. Eine Bestätigung …"
+        },
+        {
+          "title": "Bernd Rasem, ARD-aktuell, über die von Trumps gemeldete \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
+          "link": "https://www.tagesschau.de/video/video-1664346.html",
+          "published": "2026-10-11T15:08:21+00:00",
           "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-11T07:39:42+00:00",
-          "summary": "Am Sonntag bei einem Wechsel aus Sonne und mal lockeren, mal dichten Quellwolken einzelne, im Norden zahlreiche Schauer, vereinzelt kräftig ausfallend mit kurzen Gewittern. Höchstwerte 10 bis 18 Grad."
-        },
-        {
-          "title": "Kritik an Trumps Äußerung zu Selenskyj",
-          "link": "https://www.tagesschau.de/video/video-1664202.html",
-          "published": "2026-10-11T07:24:21+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Asylklagen dauern wieder länger",
-          "link": "https://www.tagesschau.de/video/video-1664206.html",
-          "published": "2026-10-11T07:20:17+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Zwölf Tote und Hunderte Verletzte nach Angriffen der Huthis auf Flughafen in Riad",
-          "link": "https://www.tagesschau.de/video/video-1664200.html",
-          "published": "2026-10-11T07:12:03+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1664332.html",
+          "published": "2026-10-11T14:33:32+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ USA +++: US-Regierung prüft Kartellrechtsverstoß bei TV-Sendern",
-          "link": "https://www.handelsblatt.com/politik/international/usa-us-regierung-prueft-kartellrechtsverstoss-bei-tv-sendern/29669594.html",
-          "published": "2026-10-11T07:39:00+00:00",
-          "summary": "Trump: Nicht an Livestream-Entscheidung zu Hinrichtung beteiligt +++ Trump attackiert Nobelpreiskomitee und Norwegen wegen Friedenspreises +++ Der Newsblog."
+          "title": "PDF: Handelsblatt vom 12. Oktober 2026",
+          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-12.-oktober-2026/100261361.html",
+          "published": "2026-10-11T16:04:37+00:00",
+          "summary": ""
         },
         {
-          "title": "Bundespolitik: Seehofer attestiert Merz „massiven Glaubwürdigkeitsverlust“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-seehofer-attestiert-merz-massiven-glaubwuerdigkeitsverlust/100137034.html",
-          "published": "2026-10-11T07:33:00+00:00",
-          "summary": "Bundesregierung zu Trumps Diesel-Deal: Kein Öl aus Russland +++ Wirtschaftsverband: Trumps Diesel-Deal dürfte Preise in Deutschland kaum ändern +++ Der Newsblog."
+          "title": "Künstliche Intelligenz: BMW plant mit KI-basiertem Geschäftsmodell Milliardeneinsparungen",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/kuenstliche-intelligenz-bmw-plant-mit-ki-basiertem-geschaeftsmodell-milliardeneinsparungen/100260010.html",
+          "published": "2026-10-11T16:00:06+00:00",
+          "summary": "Der Münchener Autobauer will ab 2028 ein „KI-orchestriertes Unternehmen“ sein. Was das bedeutet, zeigt sich im Einkauf. Dort arbeiten künftig autonome Agenten."
         },
         {
-          "title": "Politischer Stimmungstest: Tschechiens Opposition mit Achtungserfolg bei Senatswahl",
-          "link": "https://www.handelsblatt.com/politik/international/politischer-stimmungstest-tschechiens-opposition-mit-achtungserfolg-bei-senatswahl/100261247.html",
-          "published": "2026-10-11T06:58:02+00:00",
-          "summary": "Die regierenden Rechtspopulisten gewinnen die Kommunalwahl im deutschen Nachbarland. Doch bei der Senatswahl erzielt die Opposition einen Teilerfolg. Was das für das politische Gleichgewicht bedeutet."
+          "title": "Ukrainekrieg: „Zusätzliche Einnahmen, um den Krieg zu finanzieren“ – das bedeutet Trumps Diesel-Deal für Europa",
+          "link": "https://www.handelsblatt.com/politik/international/ukrainekrieg-europa-empoert-sich-ueber-trumps-diesel-deal-mit-putin/100261341.html",
+          "published": "2026-10-11T15:43:41+00:00",
+          "summary": "Der US-Präsident setzt die Sanktionen für Dieselimporte aus Russland aus und fordert den Abtritt des ukrainischen Präsidenten. Europa zeigt sich fassungs- und machtlos."
         },
         {
-          "title": "Leapmotor: Von Dacia lernen, heißt siegen lernen – was Leapmotor anders macht als andere Chinamarken",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/elektroautos-leapmotor-diese-china-marke-waechst-mit-der-dacia-strategie/100260383.html",
-          "published": "2026-10-11T06:36:46+00:00",
-          "summary": "Stellantis-Partner Leapmotor wächst in Europa schneller als Tesla. Dabei setzt die Marke auf eine Strategie, die einst Dacia groß machte – und auf ein neues Modell in der Golf-Klasse."
+          "title": "Iran-Krieg: Bisher schwerster Angriff auf Flughafen Riad - zwölf Tote",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-bisher-schwerster-angriff-auf-flughafen-riad-zwoelf-tote/100261261.html",
+          "published": "2026-10-11T15:39:16+00:00",
+          "summary": "Rauch, Chaos und Panik: Videos zeigen, wie Reisende nach dem tödlichen Angriff auf den Flughafen Riad durch zerstörte Hallen flüchten. Saudi-Arabien wird beim Krieg in der Region immer mehr zur Front."
         },
         {
-          "title": "Ukraine: Nach Trump-Attacke zur Ablösung von Selenskyj: Ukrainische Regierung stützt den eigenen Präsidenten",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-nach-trump-attacke-ukrainische-regierung-stuetzt-selenskyj/100261296.html",
-          "published": "2026-10-11T05:55:15+00:00",
-          "summary": "US-Präsident Trump hat einen neuen Präsidenten für die Ukraine gefordert. Wolodymyr Selenskyj habe vielfach die Gelegenheit gehabt, den Ukraine-Krieg zu beenden. Kiew verteidigt Selenskyj."
+          "title": "Kolumne Inside America: Kleine zahlen, Große lobbyieren: New Yorks Müll-Revolution",
+          "link": "https://www.handelsblatt.com/meinung/kolumnen/kolumne-inside-america-kleine-zahlen-grosse-lobbyieren-new-yorks-muell-revolution/100261238.html",
+          "published": "2026-10-11T15:09:33+00:00",
+          "summary": "Die Stadt kontrolliert ihre Bürger neuerdings bis in den Müllsack. Konzerne wie Amazon und Kraft Heinz wehren sich derweil erfolgreich dagegen, für die Entsorgung ihrer Verpackungen zu zahlen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "\"Notbremse\" gefordert: Microsoft-Boss sorgt sich vor KI-Kontrollverlust",
+          "link": "https://www.n-tv.de/wirtschaft/Microsoft-Boss-sorgt-sich-vor-KI-Kontrollverlust-id31405368.html",
+          "published": "2026-10-11T12:41:30+00:00",
+          "summary": "Ausgerechnet die maßgeblichen Entwickler und Profiteure von KI-Modellen warnen vor deren Risiken. Nun mahnt auch Microsoft-Chef Nadella fortgeschrittene Mechanismen zur Eindämmung an: \"Etwas, was man …"
+        },
+        {
+          "title": "Havarie bei Ludwigshöhe: Tanker mit 250 Tonnen Wasserstoff sitzt im Rhein fest",
+          "link": "https://www.n-tv.de/wirtschaft/Tanker-mit-250-Tonnen-Wasserstoff-sitzt-im-Rhein-fest-id31405136.html",
+          "published": "2026-10-11T10:54:13+00:00",
+          "summary": "Vor Ludwigshöhe bleibt ein Tankmotorschiff mit gefährlicher Ladung in der Fahrrinne stecken. Die Behörden sperren den Flussabschnitt für breite Großfahrzeuge. Bereits am Wochenende saßen drei weitere …"
+        },
+        {
+          "title": "Ritter Sport vs. Haferriegel: Der Streit ums Quadrat geht in die nächste Runde",
+          "link": "https://www.n-tv.de/wirtschaft/Der-Streit-ums-Quadrat-geht-in-die-naechste-Runde-id31404696.html",
+          "published": "2026-10-11T08:33:00+00:00",
+          "summary": "Ein kleines Familienunternehmen aus Mannheim erzürnt den Schokoriesen Ritter Sport. Grund ist ein quadratischer Haferriegel, der an die berühmte Tafel erinnert. Dieser soll verboten werden. Eine …"
+        },
+        {
+          "title": "Rating-Analyst vergibt Bestnote: \"Deutschlands Stärken sind noch unverändert da\"",
+          "link": "https://www.n-tv.de/wirtschaft/Deutschlands-Staerken-sind-noch-unveraendert-da-id31399482.html",
+          "published": "2026-10-11T08:31:06+00:00",
+          "summary": "Julian Zimmermann von Scope Rating hat Deutschland gerade wieder die Bestnote für seine Bonität verliehen. Im Interview mit ntv.de erklärt der Analyst, welche Entwicklungen ihm trotzdem Sorgen machen …"
+        },
+        {
           "title": "\"Gift für die Aktienmärkte\": Wie lange trotzen die Börsen noch steigenden Zinsen?",
           "link": "https://www.n-tv.de/wirtschaft/Wie-lange-trotzen-die-Boersen-noch-steigenden-Zinsen-id31401834.html",
           "published": "2026-10-10T13:30:00+00:00",
           "summary": "Die Energiepreise explodieren, die Inflation klettert und die Zinsen ziehen an. Für die Aktienmärkte eine gefährliche Mischung. Wie lange können die Börsen dem Gegenwind noch standhalten?"
-        },
-        {
-          "title": "Sind die fetten Jahre vorbei?: Wie viel VW-Mitarbeiter verdienen",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-viel-VW-Mitarbeiter-verdienen-id31388650.html",
-          "published": "2026-10-10T09:17:22+00:00",
-          "summary": "Die übliche Gehaltserhöhung bei Volkswagen fällt im vergangenen Tarifstreit den drastischen Sparplänen zum Opfer. Im Vergleich zu anderen Arbeitgebern zahlt der Autobauer trotzdem noch stattliche …"
-        },
-        {
-          "title": "Ehrlicherer Name in Europa: Tesla nennt Fahrassistent nicht mehr selbstfahrend",
-          "link": "https://www.n-tv.de/wirtschaft/Tesla-nennt-Fahrassistent-nicht-mehr-selbstfahrend-id31403052.html",
-          "published": "2026-10-10T08:49:58+00:00",
-          "summary": "Kunden in europäischen Ländern verspricht Tesla vorerst keine autonomen Autos mehr, sondern nur noch ein Fahrassistenzsystem. Es ist bereits das zweite Mal, dass der Autobauer seine umstrittene …"
-        },
-        {
-          "title": "Nigeria liefert Europa Kerosin: Warum wieder Öl durch Hormus fließt, aber kaum Diesel",
-          "link": "https://www.n-tv.de/wirtschaft/Warum-wieder-Oel-durch-Hormus-fliesst-aber-kaum-Diesel-id31401482.html",
-          "published": "2026-10-10T08:06:33+00:00",
-          "summary": "Der Öltransport durch die Straße von Hormus ist teuer und gefährlich, aber wieder zunehmend möglich in den vergangenen Wochen. Bei Kraftstoffen wie Diesel und Kerosin, die Europa importieren muss …"
-        },
-        {
-          "title": "Mitschuldig an Erderwärmung?: Brasiliens Staatsanwaltschaft verklagt Shell wegen Flutkatastrophe",
-          "link": "https://www.n-tv.de/wirtschaft/Brasiliens-Staatsanwaltschaft-verklagt-Shell-wegen-Flutkatastrophe-id31402931.html",
-          "published": "2026-10-10T08:05:38+00:00",
-          "summary": "Im Bundesstaat Rio Grande do Sul müssen 2024 eine halbe Million Menschen vor dem verheerenden Hochwasser fliehen, fast 200 sterben. Brasiliens Staatsanwaltschaft sieht den britischen Ölkonzern Shell …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Künstliche Intelligenz: Nvidia prüft offenbar Kauf von KI-Start-up Reflection AI",
-          "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-nvidia-prueft-offenbar-kauf-von-ki-start-up-reflection-ai/100261300.html",
-          "published": "2026-10-11T07:53:54+00:00",
-          "summary": "Reflection AI, Entwickler von KI-Werkzeugen fürs Programmieren, hat die Aufmerksamkeit von Nvidia auf sich gezogen. Das Unternehmen erwägt einen Kauf."
+          "title": "Finfluencer: Das ist die Frau hinter „Mami goes Millionaire“",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/carmen-meyer-das-ist-die-frau-hinter-mami-goes-millionaire/100260345.html",
+          "published": "2026-10-11T15:45:00+00:00",
+          "summary": "In den sozialen Medien will Carmen Meyer zeigen, wie man mit Aktien reich wird. Nicht nur ihre Tipps werfen Fragen auf, sondern auch ihre Empfehlung für einen Broker."
         },
         {
-          "title": "Ukraine-Krieg: Trump fordert Ablösung des ukrainischen Präsidenten",
-          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-trump-fordert-abloesung-des-ukrainischen-praesidenten/100261244.html",
-          "published": "2026-10-11T07:50:00+00:00",
-          "summary": "Im Streit um den Ukraine-Krieg und Angriffe auf den russischen Energiesektor wettert US-Präsident Trump gegen den ukrainischen Präsidenten Selenskyj – und fordert dessen Abgang."
+          "title": "Angriffe auf Rechenzentren: Ukraine zertrümmert Russlands KI-Hoffnungen",
+          "link": "https://www.wiwo.de/politik/ausland/angriffe-auf-russlands-rechenzentren-ukraine-zertruemmert-russlands-ki-hoffnungen/100261305.html",
+          "published": "2026-10-11T15:34:00+00:00",
+          "summary": "Die Drohnenangriffe auf Yandex-Rechenzentren stören Cloud-Dienste und legen die KI-Infrastruktur lahm. Zielen die Luftschläge nicht nur auf Russland?"
         },
         {
-          "title": "Partei in der Krise: CDU-Führung berät bei Klausur über Konsequenzen aus Wahl-Debakel",
+          "title": "Ukraine-Krieg: Moskau und Kiew stoppen laut Trump Angriffe auf Energieanlagen",
+          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-moskau-und-kiew-stoppen-laut-trump-angriffe-auf-energieanlagen/100261357.html",
+          "published": "2026-10-11T14:55:52+00:00",
+          "summary": "US-Präsident Trump zufolge wollen Russland und die Ukraine auf Angriffe auf ihre Energiesektoren verzichten. Es ist nicht die erste Ankündigung dieser Art."
+        },
+        {
+          "title": "VW-Konzernumbau: VW-Chef Blume fordert bessere Rahmenbedingungen von der Politik",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-konzernumbau-vw-chef-blume-fordert-bessere-rahmenbedingungen-von-der-politik/100261355.html",
+          "published": "2026-10-11T14:31:07+00:00",
+          "summary": "Volkswagen arbeitet am größten Umbau seiner Geschichte, mit heftigen Einschnitten. Von der Politik verlangt Chef Oliver Blume nun mehr Wettbewerbsfähigkeit."
+        },
+        {
+          "title": "Führungsklausur in Berlin: CDU in der Krise – keine „Wunderwaffe“ zu erwarten",
           "link": "https://www.wiwo.de/politik/deutschland/partei-in-der-krise-cdu-fuehrung-beraet-ueber-konsequenzen-aus-wahl-debakel/100261285.html",
-          "published": "2026-10-11T07:40:00+00:00",
-          "summary": "Die CDU steckt in einer der schwersten Krisen ihrer Geschichte. Auf einer Klausurtagung berät die Parteiführung darüber, wie sie da herauskommen kann."
-        },
-        {
-          "title": "Versorgung: Wie sicher sind stabile Krankenkassenbeiträge 2027?",
-          "link": "https://www.wiwo.de/politik/deutschland/versorgung-wie-sicher-sind-stabile-krankenkassenbeitraege-2027/100261290.html",
-          "published": "2026-10-11T07:35:00+00:00",
-          "summary": "Die Koalition hat ein Sparpaket beschlossen, damit die Krankenversicherung für Millionen Versicherte nicht noch teurer wird. Jetzt kommen jedoch noch einige Änderungen."
-        },
-        {
-          "title": "Wirtschaft von oben: Die Netflix-Krise der Bollywood-Clans",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/indiens-filmindustrie-im-umbruch-wie-bollywood-um-seine-zukunft-kaempft/100259329.html",
-          "published": "2026-10-11T07:00:00+00:00",
-          "summary": "Mehr als 1000 Filme pro Jahr – und trotzdem unter Druck. Wie Streaming Bollywoods Geschäftsmodell gefährdet. Satellitenaufnahmen zeigen Aufbruch und Scheitern."
+          "published": "2026-10-11T13:40:00+00:00",
+          "summary": "Die CDU steckt in einer der schwersten Krisen ihrer Geschichte. Wie kommt sie da wieder raus? Schnelle Rezepte zeichnen sich nicht ab."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Kamera, Lidar oder Radar: Warum Roboter meist mehrere Augen brauchen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/automation/warum-roboter-meist-mehrere-augen-brauchen/",
-          "published": "2026-10-11T06:00:00+00:00",
-          "summary": "Roboterkameras erkennen Bauteile, Lidar misst Abstände, Radar erfasst Bewegungen. Welche Sensoren eine Maschine braucht, hängt von ihrer Aufgabe ab – und davon, was ihre Umgebung den Sensoren …"
+          "title": "Sie sieht aus wie ein Lichtschwert, doch dieser Plasmafaden ist eine Funkantenne",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/sie-sieht-aus-wie-ein-lichtschwert-doch-dieser-plasmafaden-ist-eine-funkantenne/",
+          "published": "2026-10-11T14:30:00+00:00",
+          "summary": "Statt Metall nutzt diese Antenne ionisierte Luft. Ein Laser erzeugt das Plasma, das anschließend Radiowellen abstrahlt. Was der Versuch wirklich zeigt."
         },
         {
-          "title": "392 m tief, 26,7 km lang: Norwegens neuer Tunnel bricht zwei Rekorde",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/bau/392-m-tief-26-7-km-lang-norwegens-neuer-tunnel-bricht-zwei-rekorde/",
-          "published": "2026-10-10T17:59:39+00:00",
-          "summary": "Rogfast wird mit 26,7 Kilometern und 392 Metern Tiefe Norwegens Rekordtunnel. So meistern Ingenieure den Bau unter dem Boknafjord."
+          "title": "Die unsichersten Airlines der Welt: Diese Fluggesellschaften fallen besonders auf",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/die-unsichersten-airlines-der-welt/",
+          "published": "2026-10-11T14:00:00+00:00",
+          "summary": "Welche Airlines gelten als besonders unsicher? Die EU sperrt 154 Fluggesellschaften. Diese Airlines fallen 2026 besonders auf – und das sind die Gründe."
         },
         {
-          "title": "Nach 237 Tagen im All: Sophie Adenots Körper muss die Erde neu lernen",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/237-tage-im-all-so-gewoehnt-das-dlr-sophie-adenots-koerper-wieder-an-1-g/",
-          "published": "2026-10-10T10:30:00+00:00",
-          "summary": "237 Tage war Sophie Adenot im All. Jetzt untersucht das DLR, wie sich Kreislauf, Gleichgewicht, Muskeln und Augen wieder an 1 g anpassen."
+          "title": "Rätselhafter Radioblitz stellt bisherigen Entfernungsrekord in den Schatten",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/raetselhafter-radioblitz-stellt-bisherigen-entfernungsrekord-in-den-schatten/",
+          "published": "2026-10-11T12:57:23+00:00",
+          "summary": "Webb lokalisiert den bislang fernsten Fast Radio Burst. Seine junge Zwerggalaxie stärkt die Spur zu Magnetaren."
         },
         {
-          "title": "Darum fallen Akademiker besonders häufig auf Phishing-Maschen rein",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/darum-fallen-akademiker-besonders-haeufig-auf-phishing-maschen-rein/",
-          "published": "2026-10-10T10:00:00+00:00",
-          "summary": "Eine aktuelle PayPal-Masche arbeitet mit angeblichen Sicherheitsupdates. Gleichzeitig zeigt eine neue Umfrage: Akademiker sind auffällig häufig von Phishing betroffen."
+          "title": "800 VA, 2000 Wp, 960 Wp: Was beim Balkonkraftwerk 2026 wirklich gilt",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/balkonkraftwerk-wann-lohnt-es-sich-und-was-ist-mit-einem-speicher/",
+          "published": "2026-10-11T12:00:00+00:00",
+          "summary": "Wann lohnt sich ein Balkonkraftwerk? Was bei 800 VA, 2000 Wp und Schuko gilt und warum ein Speicher die Rechnung verschlechtern kann."
         },
         {
-          "title": "Warum Deutschland einst Nobelpreis-Supermacht war",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/rekorde/warum-deutschland-einst-nobelpreis-supermacht-war/",
-          "published": "2026-10-10T09:00:00+00:00",
-          "summary": "Warum Deutschland zur Nobelpreis-Supermacht wurde: Forschungsfreiheit, starke Hochschulen und Industrie prägten den Aufstieg – bis 1933 alles veränderte."
+          "title": "Wasserstoff: Speicher im Fels brauchen mehr als dicke Wände, um dicht zu sein",
+          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/laser-sollen-unterirdische-wasserstoffspeicher-dicht-machen/",
+          "published": "2026-10-11T10:00:00+00:00",
+          "summary": "Lasertechnik soll Stahlhüllen unterirdischer Wasserstoffspeicher dichter und widerstandsfähiger machen – entscheidend für Felskavernen ohne Salz."
         }
       ],
       "error": null
