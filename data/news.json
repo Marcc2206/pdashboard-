@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:08:08+00:00",
+  "generatedAt": "2026-10-11T00:39:35+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
-          "published": "2026-10-10T20:44:04+00:00",
-          "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm …"
+          "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+          "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+          "published": "2026-10-10T23:56:54+00:00",
+          "summary": "Etwa 40 Millionen Passagiere nutzen den Flughafen in der saudischen Hauptstadt Riad jedes Jahr. Zuletzt wurde er mehrfach angegriffen. Nun gab es wieder eine Attacke - mindestens zwölf Menschen …"
         },
         {
-          "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
-          "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
-          "published": "2026-10-10T20:08:55+00:00",
-          "summary": "Der Flughafen nahe der saudischen Hauptstadt Riad ist erneut Ziel eines schweren Angriffs. Vermutet wird, dass die jemenitische Huthi-Miliz für die Attacke verantwortlich ist."
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1664100.html",
-          "published": "2026-10-10T19:10:09+00:00",
+          "title": "Tröten im Trend: Jagdhornblasen für Anfänger",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1664144.html",
+          "published": "2026-10-10T22:10:17+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664090.html",
-          "published": "2026-10-10T18:36:07+00:00",
-          "summary": "Diesel-Deal von Trump und Putin, Viele Tote bei russischen Angriffen in der Ukraine, Trotz Waffenruhe gehen Angriffe in Gaza weiter, Kunstausstellung \"Nie wieder! Gegen das Vergessen der …"
+          "title": "Drei Jahre Krieg im Gazastreifen und erster Jahrestag der Waffenruhe: Wie geht es den Menschen vor Ort?",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1664142.html",
+          "published": "2026-10-10T22:08:15+00:00",
+          "summary": ""
         },
         {
-          "title": "\"Ragebait\" ist Jugendwort des Jahres 2026",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664088.html",
-          "published": "2026-10-10T18:29:33+00:00",
+          "title": "Tag gegen Todesstrafe: USA debattiert über Hinrichtungen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1664140.html",
+          "published": "2026-10-10T22:06:17+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12908.html",
+          "published": "2026-10-10T22:00:37+00:00",
           "summary": ""
         }
       ],
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Angriff: Saudi-Arabien: Zwölf Tote bei Angriff auf Flughafen in Riad",
+          "link": "https://www.handelsblatt.com/politik/international/angriff-saudi-arabien-zwoelf-tote-bei-angriff-auf-flughafen-in-riad/100261261.html",
+          "published": "2026-10-10T22:19:44+00:00",
+          "summary": "Nach dem Angriff auf den Flughafen in Riad meldet die saudische Luftfahrtbehörde zwölf Tote und zahlreiche Verletzte. Der Betrieb wurde vorübergehend eingestellt."
+        },
         {
           "title": "Bezirksparteitag: Forderungen nach Schröder-Rauswurf in der SPD",
           "link": "https://www.handelsblatt.com/politik/deutschland/bezirksparteitag-forderungen-nach-schroeder-rauswurf-in-der-spd/100261240.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-fordert-abloesung-des-ukrainischen-praesidenten/100261246.html",
           "published": "2026-10-10T17:36:56+00:00",
           "summary": "Im Streit um den Ukraine-Krieg und Angriffe auf den russischen Energiesektor wettert US-Präsident Trump gegen den ukrainischen Präsidenten Selenskyj - und fordert dessen Abgang."
-        },
-        {
-          "title": "USA: Trump verkündet Diesel-Deal mit Kreml-Chef Putin",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trump-verkuendet-diesel-deal-mit-kreml-chef-putin/100261151.html",
-          "published": "2026-10-10T16:57:50+00:00",
-          "summary": "Laut dem US‑Präsidenten solle Russland „unverzüglich über 300.000 Tonnen Dieselkraftstoff“ auf den amerikanischen und weltweiten Markt bringen. Aus der Ukraine kommt scharfe Kritik."
         }
       ],
       "error": null
