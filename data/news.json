@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:27:08+00:00",
+  "generatedAt": "2026-10-12T00:56:50+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
+          "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
+          "published": "2026-10-12T00:20:21+00:00",
+          "summary": "Die Huthi-Miliz hat ihre Attacken auf saudische Flughäfen fortgesetzt. Die Luftfahrtbehörde meldete mehrere Verletzte nach einem neuen Angriff auf den Flughafen King Khalid - mindestens ein Mensch …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1664626.html",
+          "published": "2026-10-12T00:20:17+00:00",
+          "summary": ""
+        },
         {
           "title": "Kinotipp „Heimsuchung“ von Schlöndorff: 100 Jahre Deutschland in zwei Stunden Kino",
           "link": "https://www.tagesschau.de/tagesthemen/video-1664614.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1664610.html",
           "published": "2026-10-11T21:11:46+00:00",
           "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12902.html",
-          "published": "2026-10-11T21:06:40+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
-          "published": "2026-10-11T20:11:44+00:00",
-          "summary": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten …"
         }
       ],
       "error": null
@@ -47,9 +47,21 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Ukraine-Krieg: Trump verkündet Waffenruhe in Ukraine - Russen greifen an",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-verkuendet-waffenruhe-in-ukraine-russen-greifen-an/100261393.html",
+          "published": "2026-10-12T00:00:04+00:00",
+          "summary": "Trotz Trumps Ankündigung einer begrenzten Waffenruhe scheint Russland seine Angriffe auf ukrainische Energieanlagen fortzusetzen. Der ukrainische Präsident kritisiert mangelnden Druck auf den Kreml."
+        },
+        {
+          "title": "Untersuchung gefordert: Vorwurf Bestechlichkeit: Kritik an US-Botschafterin in Athen",
+          "link": "https://www.handelsblatt.com/politik/international/untersuchung-gefordert-vorwurf-bestechlichkeit-kritik-an-us-botschafterin-in-athen/100261390.html",
+          "published": "2026-10-11T23:22:12+00:00",
+          "summary": "Sie war mit Trump Jr. verlobt, nun ist sie Botschafterin in Athen: Kimberly Guilfoyle soll einem Spender gegen Bezahlung Zugang zur Regierung angeboten haben. Nun werden Rufe nach Aufklärung lauter."
+        },
+        {
           "title": "Iran-Krieg: Huthi greifen erneut saudische Flughäfen mit Raketen an",
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-huthi-greifen-erneut-saudische-flughaefen-mit-raketen-an/100261261.html",
-          "published": "2026-10-11T20:37:03+00:00",
+          "published": "2026-10-11T23:01:44+00:00",
           "summary": "Nach den tödlichen Angriffen auf Riad setzen die Huthi ihre Attacken auf saudische Flughäfen fort. Auch Industrieanlagen geraten wohl ins Visier."
         },
         {
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-meldet-energie-waffenruhe-selenskyj-ueberrascht/27982126.html",
           "published": "2026-10-11T18:07:43+00:00",
           "summary": "Drohnenalarm an Moskauer Flughäfen – Flugbetrieb eingestellt +++ USA drohen Ukraine mit Stopp von Waffenlieferungen +++ Selenskyj: Neuer russischer Angriff auf Energieanlage +++ Der Newsblog."
-        },
-        {
-          "title": "Konflikte: Ukraine-Krieg: Trump verkündet Waffenruhe für Energieanlagen",
-          "link": "https://www.handelsblatt.com/politik/international/konflikte-ukraine-krieg-trump-verkuendet-waffenruhe-fuer-energieanlagen/100261267.html",
-          "published": "2026-10-11T18:04:43+00:00",
-          "summary": "Trump meldet eine teilweise Waffenruhe im Ukraine-Krieg – doch Präsident Selenskyj zeigt sich überrascht. Die Europäer begrüßen die Idee, bleiben aber angesichts der russischen Angriffe skeptisch."
-        },
-        {
-          "title": "Führungsklausur in Berlin: CDU sucht den Weg aus der Krise",
-          "link": "https://www.handelsblatt.com/politik/deutschland/fuehrungsklausur-in-berlin-cdu-sucht-den-weg-aus-der-krise/100261284.html",
-          "published": "2026-10-11T17:30:58+00:00",
-          "summary": "Die CDU steckt in einer der schwersten Krisen ihrer Geschichte. Wie kommt sie da wieder raus? Schnelle Rezepte zeichnen sich nicht ab."
         }
       ],
       "error": null
