@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:56:50+00:00",
+  "generatedAt": "2026-10-12T08:34:31+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
+          "title": "EU-Außenminister beschließen größte Sanktionsrunde gegen Russland",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-120.html",
+          "published": "2026-10-12T08:33:32+00:00",
+          "summary": "Es geht um mehr als 1.600 Personen und Organisationen: Die EU-Außenminister haben neue Sanktionen wegen des russischen Angriffskrieges gegen die Ukraine beschlossen. Deutliche Kritik gibt es am …"
+        },
+        {
+          "title": "Was hinter der aktuellen Euro-Schwäche steckt",
+          "link": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
+          "published": "2026-10-12T08:17:50+00:00",
+          "summary": "Politische Unsicherheiten in Frankreich und Spanien bringen den Euro unter Druck. Dazu kommen Sorgen wegen der hohen Staatsschulden in Europa. Was bedeutet das für Europas Gemeinschaftswährung? Von …"
+        },
+        {
+          "title": "Nach Rücktritt von Bas: Schweitzer soll neuer Arbeitsminister werden",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/alexander-schweitzer-arbeitsminister-100.html",
+          "published": "2026-10-12T08:15:31+00:00",
+          "summary": "Kurz nach dem Rücktritt von Bärbel Bas präsentiert die SPD einen Nachfolger: Der frühere Ministerpräsident von Rheinland-Pfalz, Alexander Schweitzer, soll neuer Arbeits- uns Sozialminister werden. Er …"
+        },
+        {
+          "title": "Bärbel Bas tritt als Arbeitsministerin und SPD-Vorsitzende zurück",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html",
+          "published": "2026-10-12T08:04:04+00:00",
+          "summary": "Dieser Schritt dürfte für die meisten überraschend kommen: Arbeitsministerin und SPD-Co-Chefin Bas legt ihre Ämter mit sofortiger Wirkung nieder. Sie begründete ihre Entscheidung mit persönlichen …"
+        },
+        {
+          "title": "Huthi-Miliz greift erneut Flughäfen in Saudi-Arabien an",
           "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
-          "published": "2026-10-12T00:20:21+00:00",
-          "summary": "Die Huthi-Miliz hat ihre Attacken auf saudische Flughäfen fortgesetzt. Die Luftfahrtbehörde meldete mehrere Verletzte nach einem neuen Angriff auf den Flughafen King Khalid - mindestens ein Mensch …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1664626.html",
-          "published": "2026-10-12T00:20:17+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Kinotipp „Heimsuchung“ von Schlöndorff: 100 Jahre Deutschland in zwei Stunden Kino",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1664614.html",
-          "published": "2026-10-11T21:15:50+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Angriffe auf Saudi-Arabien: Warum eskaliert der Huthi-Konflikt gerade jetzt?",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1664612.html",
-          "published": "2026-10-11T21:14:19+00:00",
-          "summary": ""
-        },
-        {
-          "title": "CDU-Klausur: Wie verarbeitet die Parteiführung die Wahlniederlagen?",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1664610.html",
-          "published": "2026-10-11T21:11:46+00:00",
-          "summary": ""
+          "published": "2026-10-12T08:00:56+00:00",
+          "summary": "Es ist eine gefährliche Eskalation im Nahen Osten: Die Huthi-Miliz aus dem Jemen greift weiter Saudi-Arabien an. Neben dem Flughafen in Riad wurden auch wieder Energieanlagen getroffen. Nun bietet …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ukraine-Krieg: Trump verkündet Waffenruhe in Ukraine - Russen greifen an",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-verkuendet-waffenruhe-in-ukraine-russen-greifen-an/100261393.html",
-          "published": "2026-10-12T00:00:04+00:00",
-          "summary": "Trotz Trumps Ankündigung einer begrenzten Waffenruhe scheint Russland seine Angriffe auf ukrainische Energieanlagen fortzusetzen. Der ukrainische Präsident kritisiert mangelnden Druck auf den Kreml."
+          "title": "Daniel Stelter: Der Kollaps einer Schlüsselindustrie – und keiner will die einzige Lösung hören",
+          "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/beyond-the-obvious-der-kollaps-einer-schluesselindustrie/100260978.html",
+          "published": "2026-10-12T08:26:19+00:00",
+          "summary": "Die Metall- und Elektroindustrie steckt im größten Stellenabbau ihrer Geschichte. Regierung und Gewerkschaften müssen gegensteuern – denn ein Ausweg wäre längst bekannt. Ein Gastbeitrag."
         },
         {
-          "title": "Untersuchung gefordert: Vorwurf Bestechlichkeit: Kritik an US-Botschafterin in Athen",
-          "link": "https://www.handelsblatt.com/politik/international/untersuchung-gefordert-vorwurf-bestechlichkeit-kritik-an-us-botschafterin-in-athen/100261390.html",
-          "published": "2026-10-11T23:22:12+00:00",
-          "summary": "Sie war mit Trump Jr. verlobt, nun ist sie Botschafterin in Athen: Kimberly Guilfoyle soll einem Spender gegen Bezahlung Zugang zur Regierung angeboten haben. Nun werden Rufe nach Aufklärung lauter."
+          "title": "Rohstoffe: Materialmangel in Industrie steigt – besonders in einer Branche",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/rohstoffengpaesse-nehmen-etwas-zu/100261485.html",
+          "published": "2026-10-12T08:24:15+00:00",
+          "summary": "Probleme bei Materialengpässen in der deutschen Industrie verschärfen sich. Doch in einer Branche entspannt sich die Lage hingegen deutlich."
         },
         {
-          "title": "Iran-Krieg: Huthi greifen erneut saudische Flughäfen mit Raketen an",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-huthi-greifen-erneut-saudische-flughaefen-mit-raketen-an/100261261.html",
-          "published": "2026-10-11T23:01:44+00:00",
-          "summary": "Nach den tödlichen Angriffen auf Riad setzen die Huthi ihre Attacken auf saudische Flughäfen fort. Auch Industrieanlagen geraten wohl ins Visier."
+          "title": "Post: Plus 20 Prozent: Porto kann so stark steigen wie noch nie",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/post-plus-20-prozent-porto-kann-so-stark-steigen-wie-noch-nie/100261493.html",
+          "published": "2026-10-12T08:21:28+00:00",
+          "summary": "Das Porto steigt – mal wieder. Beschlossene Sache ist das zwar nicht, aber so gut wie sicher, ein Behördenpapier weist den Weg. Erstmals springt das Standardbrief-Porto auf mehr als einen Euro."
         },
         {
-          "title": "Naher Osten: Angriffe auf saudische Flughäfen in Riad und Dammam",
-          "link": "https://www.handelsblatt.com/politik/international/naher-osten-angriffe-auf-saudische-flughaefen-in-riad-und-dammam/100261295.html",
-          "published": "2026-10-11T19:23:51+00:00",
-          "summary": "Der internationale Flughafen in Riad wurde erneut angegriffen. Der Flugverkehr ist eingestellt. Saudi-Arabien setzt seinen Präsenzunterricht bis Donnerstag aus."
+          "title": "Sozialdemokraten: Bas tritt als Arbeitsministerin und SPD-Vorsitzende zurück",
+          "link": "https://www.handelsblatt.com/video/politik/sozialdemokraten-bas-tritt-als-arbeitsministerin-und-spd-vorsitzende-zurueck/100261496.html",
+          "published": "2026-10-12T08:19:15+00:00",
+          "summary": "Die SPD-Politikerin begründet ihren Rückzug aus Parteiführung und Bundeskabinett mit dem Tod ihrer Stieftochter. Zudem hätten die Angriffe auf sie auch aus den Reihen des Koalitionspartners in dieser …"
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Trump meldet „Energie-Waffenruhe“ – Selenskyj überrascht",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-meldet-energie-waffenruhe-selenskyj-ueberrascht/27982126.html",
-          "published": "2026-10-11T18:07:43+00:00",
-          "summary": "Drohnenalarm an Moskauer Flughäfen – Flugbetrieb eingestellt +++ USA drohen Ukraine mit Stopp von Waffenlieferungen +++ Selenskyj: Neuer russischer Angriff auf Energieanlage +++ Der Newsblog."
+          "title": "SPD: Arbeitsministerin und SPD-Chefin Bas tritt zurück – Alexander Schweitzer wird neuer Minister",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spd-arbeitsministerin-und-spd-chefin-bas-tritt-zurueck/100261446.html",
+          "published": "2026-10-12T08:13:50+00:00",
+          "summary": "Nach einem Todesfall in der Familie zieht sich die Co-Vorsitzende und Ministerin zurück. Vizekanzler Klingbeil verurteilt die Kritik an ihr als „unanständig“, der Kanzler zollt ihr „Respekt“."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Harter Wettbewerb: Audi-Absatz bricht deutlich ein",
+          "link": "https://www.n-tv.de/wirtschaft/Absatz-von-Audi-bricht-deutlich-ein-id31406900.html",
+          "published": "2026-10-12T07:57:07+00:00",
+          "summary": "Im dritten Quartal geben die Auslieferungen bei Audi kräftig nach. Das liegt an einem schwächelnden Markt in China und an Modellwechseln. Aber auch Trump spielt eine Rolle."
+        },
         {
           "title": "Unmut über Zuckersteuer: Neun Unions-Agrarminister schreiben Protestbrief an Merz",
           "link": "https://www.n-tv.de/wirtschaft/Neun-Unions-Agrarminister-schreiben-Protestbrief-an-Merz-id31405792.html",
@@ -105,15 +111,9 @@
         },
         {
           "title": "Ritter Sport vs. Haferriegel: Der Streit ums Quadrat geht in die nächste Runde",
-          "link": "https://www.n-tv.de/wirtschaft/Der-Streit-ums-Quadrat-geht-in-die-naechste-Runde-id31404696.html",
+          "link": "https://www.n-tv.de/wirtschaft/Ritter-Sport-gegen-Mannheimer-Haferriegel-Hersteller-Naechste-Runde-im-Streit-ums-Quadrat-id31404696.html",
           "published": "2026-10-11T08:33:00+00:00",
           "summary": "Ein kleines Familienunternehmen aus Mannheim erzürnt den Schokoriesen Ritter Sport. Grund ist ein quadratischer Haferriegel, der an die berühmte Tafel erinnert. Dieser soll verboten werden. Eine …"
-        },
-        {
-          "title": "Rating-Analyst vergibt Bestnote: \"Deutschlands Stärken sind noch unverändert da\"",
-          "link": "https://www.n-tv.de/wirtschaft/Deutschlands-Staerken-sind-noch-unveraendert-da-id31399482.html",
-          "published": "2026-10-11T08:31:06+00:00",
-          "summary": "Julian Zimmermann von Scope Rating hat Deutschland gerade wieder die Bestnote für seine Bonität verliehen. Im Interview mit ntv.de erklärt der Analyst, welche Entwicklungen ihm trotzdem Sorgen machen …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
-          "published": "2026-10-09T16:10:17+00:00",
-          "summary": "Ende einer turbulenten Woche: Der DAX profitierte von einer Beruhigung am Ölmarkt und stieg wieder über die Marke von 25.000 Punkten. Lange Gesichter gab es aber bei den Telekom-Aktionären."
+          "title": "Marktbericht: DAX höher erwartet",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+          "published": "2026-10-12T05:43:18+00:00",
+          "summary": "Der DAX bleibt auch in der neuen Woche im Spannungsfeld hoher Ölpreise und Anleiherenditen. Etwas Entspannung kommt von der Wall Street, wo die Anleger den Beginn der Berichtssaison erwarten."
         },
         {
           "title": "Marktbericht: Elon Musk kauft US-Mobilfunklizenzen",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "USA erlauben Diesel-Lieferungen: Heikler Diesel-Deal – wie Putin zu Donald Trumps Wahlhelfer werden soll",
+          "link": "https://www.wiwo.de/politik/ausland/diesel-deal-der-usa-wie-putin-zu-donald-trumps-wahlhelfer-werden-soll/100261201.html",
+          "published": "2026-10-12T08:31:00+00:00",
+          "summary": "Kurz vor den Zwischenwahlen setzt Donald Trump die Diesel-Sanktionen gegen Russland aus. Auf die Preise dürfte sich das kaum auswirken – auf die Kriegskasse des Kremls umso mehr."
+        },
+        {
           "title": "Finfluencer: Das ist die Frau hinter „Mami goes Millionaire“",
           "link": "https://www.wiwo.de/finanzen/geldanlage/carmen-meyer-das-ist-die-frau-hinter-mami-goes-millionaire/100260345.html",
-          "published": "2026-10-11T15:45:00+00:00",
+          "published": "2026-10-12T08:25:00+00:00",
           "summary": "In den sozialen Medien will Carmen Meyer zeigen, wie man mit Aktien reich wird. Nicht nur ihre Tipps werfen Fragen auf, sondern auch ihre Empfehlung für einen Broker."
         },
         {
-          "title": "Angriffe auf Rechenzentren: Ukraine zertrümmert Russlands KI-Hoffnungen",
-          "link": "https://www.wiwo.de/politik/ausland/angriffe-auf-russlands-rechenzentren-ukraine-zertruemmert-russlands-ki-hoffnungen/100261305.html",
-          "published": "2026-10-11T15:34:00+00:00",
-          "summary": "Die Drohnenangriffe auf Yandex-Rechenzentren stören Cloud-Dienste und legen die KI-Infrastruktur lahm. Zielen die Luftschläge nicht nur auf Russland?"
+          "title": "SPD: Bärbel Bas kündigt Rücktritt von allen Ämtern an",
+          "link": "https://www.wiwo.de/politik/deutschland/baerbel-bas-spd-politikerin-kuendigt-ruecktritt-von-allen-aemtern-an/100261447.html",
+          "published": "2026-10-12T08:04:00+00:00",
+          "summary": "In der schwarz-roten Regierung war sie Arbeitsministerin, in der SPD Co-Vorsitzende. Nun gibt Bärbel Bas beide Ämter auf. Ihr Nachfolger für das Ministeramt steht bereits fest."
         },
         {
-          "title": "Ukraine-Krieg: Moskau und Kiew stoppen laut Trump Angriffe auf Energieanlagen",
-          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-moskau-und-kiew-stoppen-laut-trump-angriffe-auf-energieanlagen/100261357.html",
-          "published": "2026-10-11T14:55:52+00:00",
-          "summary": "US-Präsident Trump zufolge wollen Russland und die Ukraine auf Angriffe auf ihre Energiesektoren verzichten. Es ist nicht die erste Ankündigung dieser Art."
+          "title": "Altersvorsorgedepot: Ich mache Rente. Aber wer macht das Geschäft?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/ich-mache-rente-was-steckt-hinter-der-werbung-von-generali-und-dvag/100258584.html",
+          "published": "2026-10-12T07:51:47+00:00",
+          "summary": "Das Altersvorsorgedepot ist interessant – auch für den Vertrieb. Versicherer Generali und Finanzvertrieb DVAG werben intensiv. Was Kunden dazu wissen sollten."
         },
         {
-          "title": "VW-Konzernumbau: VW-Chef Blume fordert bessere Rahmenbedingungen von der Politik",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-konzernumbau-vw-chef-blume-fordert-bessere-rahmenbedingungen-von-der-politik/100261355.html",
-          "published": "2026-10-11T14:31:07+00:00",
-          "summary": "Volkswagen arbeitet am größten Umbau seiner Geschichte, mit heftigen Einschnitten. Von der Politik verlangt Chef Oliver Blume nun mehr Wettbewerbsfähigkeit."
-        },
-        {
-          "title": "Führungsklausur in Berlin: CDU in der Krise – keine „Wunderwaffe“ zu erwarten",
-          "link": "https://www.wiwo.de/politik/deutschland/partei-in-der-krise-cdu-fuehrung-beraet-ueber-konsequenzen-aus-wahl-debakel/100261285.html",
-          "published": "2026-10-11T13:40:00+00:00",
-          "summary": "Die CDU steckt in einer der schwersten Krisen ihrer Geschichte. Wie kommt sie da wieder raus? Schnelle Rezepte zeichnen sich nicht ab."
+          "title": "Russland: Trumps Diesel-Deal – der wahre Dealmaker sitzt in Moskau",
+          "link": "https://www.wiwo.de/politik/ausland/diesel-deal-der-wahre-dealmaker-sitzt-in-moskau/100261441.html",
+          "published": "2026-10-12T07:47:53+00:00",
+          "summary": "Trump verkündet eine Waffenruhe, Putin bombardiert weiter – und kann auf Milliarden hoffen. Derweil muss Kiew um amerikanische Waffen bangen. Was für ein fataler Pakt. Ein Kommentar."
         }
       ],
       "error": null
