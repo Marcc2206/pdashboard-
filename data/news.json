@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T19:36:20+00:00",
+  "generatedAt": "2026-10-13T01:47:48+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Staatsanwaltschaft beschlagnahmt Aufnahmen der Zeit-Redaktion",
-          "link": "https://www.tagesschau.de/inland/regional/hamburg/block-prozess-staatsanwaltschaft-beschlagnahmt-aufnahmen-der-zeit,house-of-block-100.html",
-          "published": "2026-10-12T19:07:25+00:00",
-          "summary": "Im Zusammenhang mit den Ermittlungen gegen die Unternehmerin Christina Block haben Behörden Interview-Mitschnitte der Zeit beschlagnahmt. Das Medienhaus will sich dagegen wehren und sieht die …"
+          "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
+          "published": "2026-10-13T01:38:12+00:00",
+          "summary": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges von Schweitzer - doch sicher ist nichts im politischen Berlin. Von Dagmar …"
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1665076.html",
-          "published": "2026-10-12T18:42:05+00:00",
-          "summary": "Bundesarbeitsministerin und SPD-Co-Vorsitzende Bas legt alle politischen Ämter nieder, Ehemaliger rheinland-pfälzischer Ministerpräsident Schweitzer wird neuer Bundesarbeitsminister, CDU will …"
-        },
-        {
-          "title": "SPD, Linke und Grüne starten Koalitionsverhandlungen",
-          "link": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/erste-runde-der-koalitionsverhandlungen-in-mv-beendet,mvwahl-498.html",
-          "published": "2026-10-12T18:41:28+00:00",
-          "summary": "Die Zeichen stehen auf Rot-Rot-Grün in Mecklenburg-Vorpommern: Heute haben SPD, Linke und Grüne mit Koalitionsverhandlungen begonnen. In drei Wochen soll das Bündnis stehen."
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12314.html",
-          "published": "2026-10-12T18:28:51+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665218.html",
+          "published": "2026-10-13T01:02:22+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81496.html",
-          "published": "2026-10-12T18:27:12+00:00",
+          "title": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
+          "published": "2026-10-13T00:10:57+00:00",
+          "summary": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf …"
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12922.html",
+          "published": "2026-10-12T21:41:25+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Der Rücktritt von Bärbel Bas und die Folgen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1665104.html",
+          "published": "2026-10-12T21:35:04+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Banken: Crédit Agricole übernimmt deutsche Mittelstandsbank IKB",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/ikb-credit-agricole-uebernimmt-deutsche-mittelstandsbank/100261688.html",
-          "published": "2026-10-12T19:26:28+00:00",
-          "summary": "Die französische Bank weitet ihre Aktivitäten auf dem deutschen Bankenmarkt aus. Sie finanziert den Kauf aus eigenen Mitteln, macht zum Preis aber keine Angaben."
+          "title": "Autotest: Der neue DS N°7 will mit französischer Finesse verführen",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/autotest-der-neue-ds-n7-will-mit-franzoesischer-finesse-verfuehren/100261705.html",
+          "published": "2026-10-13T01:33:06+00:00",
+          "summary": "Die Technik ist Standard aus dem Baukasten, doch im Gegensatz zu anderen Stellantis-Schwestern leistet sich DS beim neuen N°7 beim Design viel Extravaganz und sticht aus der Masse heraus."
         },
         {
-          "title": "EU-Kommission: Brüssel ermittelt wegen Porta-Übernahme durch XXXLutz",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/eu-kommission-bruessel-ermittelt-wegen-porta-uebernahme-durch-xxxlutz/100261686.html",
-          "published": "2026-10-12T19:18:26+00:00",
-          "summary": "Die geplante Übernahme treibt die Wettbewerbshüter um. Eine vorläufige Untersuchung warnt vor den Folgen für den Wettbewerb in drei EU-Staaten. Das heißt aber nicht, dass der Schritt untersagt wird."
+          "title": "Rot, Weiß und Rosé: Wohl kleinste Ernte seit 2010: Lese ist abgeschlossen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rot-weiss-und-rose-wohl-kleinste-ernte-seit-2010-lese-ist-abgeschlossen/100261704.html",
+          "published": "2026-10-13T01:30:15+00:00",
+          "summary": "Die Lese im Supersommerjahr 2026 ist bis auf wenige Ausnahmen abgeschlossen. Die Winzer rechnen mit dem niedrigsten Ertrag seit 16 Jahren. Ganz sicher ist das aber noch nicht."
         },
         {
-          "title": "Nach Rücktritt: Klingbeil verteidigt Bas: Rentenreform im Zeitplan",
-          "link": "https://www.handelsblatt.com/politik/deutschland/nach-ruecktritt-klingbeil-verteidigt-bas-rentenreform-im-zeitplan/100261682.html",
-          "published": "2026-10-12T18:40:17+00:00",
-          "summary": "Das Klima im politischen Berlin mache Menschen kaputt, sagt der Vizekanzler. Und er verspricht: Der neue Arbeitsminister startet sofort durch."
+          "title": "+++ Ukraine-Krieg +++: Trump verteidigt Diesel-Abkommen mit Russland",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-verteidigt-diesel-abkommen-mit-russland/27982126.html",
+          "published": "2026-10-13T01:00:00+00:00",
+          "summary": "Merz und Selenskyj fordern Waffenruhe für Energieanlagen +++ EU verhängt Rekord-Sanktionen gegen russische Kriegshelfer +++ Der Newsblog."
         },
         {
-          "title": "Bundeswehr: Pistorius sieht Fortschritte bei Digitalisierung des Heeres",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-pistorius-sieht-fortschritte-bei-der-digitalisierung-des-heeres/100261617.html",
-          "published": "2026-10-12T18:39:32+00:00",
-          "summary": "Der neue Digitalfunk wird aktuell unter Gefechtsbedingungen getestet – mit überzeugenden Ergebnissen. Die Serienintegration der Funkgeräte liegt aber noch hinter dem Plan zurück."
+          "title": "Ukraine-Krieg: Trump: Putin will Deal mehr als Selenskyj",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-putin-will-deal-mehr-als-selenskyj/100261699.html",
+          "published": "2026-10-12T22:55:35+00:00",
+          "summary": "Der ukrainische Staatschef fordert vom US-Präsidenten mehr Druck auf Russland - doch der scheint in dieser Hinsicht keinen Handlungsbedarf zu sehen. Ganz im Gegenteil."
         },
         {
-          "title": "US-Börsen: US-Börsen ohne Richtung – Ölpreis steigt wieder",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-ohne-richtung-oelpreis-steigt-wieder/100261574.html",
-          "published": "2026-10-12T18:35:00+00:00",
-          "summary": "An der Wall Street hat eine ereignisreiche Woche begonnen. Im Handelsverlauf fällt vor allem die Microsoft-Aktie ins Auge, die erstmals seit etwa einem Jahr ein wichtiges Niveau übertrifft."
+          "title": "US-Kongress: „Einschüchterung“? Durchsuchung bei US-Abgeordneter Omar",
+          "link": "https://www.handelsblatt.com/politik/international/us-kongress-einschuechterung-durchsuchung-bei-us-abgeordneter-omar/100261654.html",
+          "published": "2026-10-12T21:21:08+00:00",
+          "summary": "Die Abgeordnete Omar aus Minneapolis sitzt seit 2019 im US-Kongress - und tritt auch bei den Zwischenwahlen in drei Wochen wieder an. Nun gab es Durchsuchungen bei ihr. Worum geht es?"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Inflation und Ölpreis drückt: Wall Street bleibt vor Bilanzsaison auf der Hut",
+          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-bleibt-vor-Bilanzsaison-auf-der-Hut-id31410534.html",
+          "published": "2026-10-12T21:14:04+00:00",
+          "summary": "Bevor morgen die Banken ihre Quartalszahlen vorlegen, blicken die US-Anleger sorgenvoll auf die Geopolitik. Trumps lautstark vorgestellter Diesel-Deal mit Russland verpufft. Ölpreise, Inflation und …"
+        },
         {
           "title": "Ziele für 2029 bereits erreicht: Schaeffler-Mitarbeiter reißen sich um Altersteilzeit und Abfindungen",
           "link": "https://www.n-tv.de/wirtschaft/Schaeffler-Mitarbeiter-reissen-sich-um-Altersteilzeit-und-Abfindungen-id31409886.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Geheimdienste-warnen-vor-russischen-Mordanschlaegen-auf-Firmenchefs-id31408287.html",
           "published": "2026-10-12T15:36:05+00:00",
           "summary": "Mordanschläge auf Zivislisten waren selbst für russische Agenten in ihrem hybriden Krieg gegen Deutschland bislang ein Tabu. Dies ändere sich, warnen Geheimdienste. Im Fokus des russischen …"
-        },
-        {
-          "title": "\"Entfernen uns von Obergrenze\": Experten sehen massiv steigende Verschuldung Deutschlands",
-          "link": "https://www.n-tv.de/wirtschaft/Experten-sehen-massiv-steigende-Verschuldung-Deutschlands-id31409641.html",
-          "published": "2026-10-12T15:32:01+00:00",
-          "summary": "Eigentlich soll der Stabilitätsrat drohende Haushaltsnotlagen früh erkennen. Seine neue Rechnung für Deutschlands Staatsfinanzen gibt weit über die laufende Legislaturperiode hinaus Anlass zur Sorge."
         }
       ],
       "error": null
@@ -178,6 +178,12 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
+          "title": "Die Höhle der Löwen: „Die Löwen waren so in Rage, dass wir mit Inhalten nicht mehr durchdringen konnten“",
+          "link": "https://www.wiwo.de/erfolg/gruender/ajambow-bei-die-hoehle-der-loewen-die-loewen-waren-so-in-rage-dass-wir-mit-inhalten-nicht-mehr-durchdringen-konnten/100261530.html",
+          "published": "2026-10-12T21:00:00+00:00",
+          "summary": "Den Fitnesskurs von Ajambow machen die TV-Investoren noch begeistert mit – dann hagelt es Kritik am Start-up. Wie geht das Gründerpaar damit um?"
+        },
+        {
           "title": "DSAG-Chef Henzler: „Sobald die KI-Nutzung in die Breite geht, werden diese Fragen akut“",
           "link": "https://www.wiwo.de/unternehmen/it/dsag-chef-henzler-was-sap-kunden-bei-ki-und-kosten-erwartet/100260771.html",
           "published": "2026-10-12T19:13:00+00:00",
@@ -194,12 +200,6 @@
           "link": "https://www.wiwo.de/unternehmen/handel/fusion-im-moebelmarkt-bruessel-ermittelt-wegen-porta-uebernahme-durch-xxxlutz/100261684.html",
           "published": "2026-10-12T19:06:14+00:00",
           "summary": "Weniger Auswahl und höhere Preise? Ein Riese auf dem deutschen Möbelmarkt gerät wegen einer geplanten Übernahme ins Visier der EU-Kommission. Der Deal könne Verbrauchern schaden."
-        },
-        {
-          "title": "Rücktritt von Bärbel Bas: Für die Union könnte es mit dem neuen Arbeitsminister noch ungemütlicher werden",
-          "link": "https://www.wiwo.de/politik/deutschland/alexander-schweitzer-was-der-neue-arbeitsminister-fuer-die-union-bedeutet/100261489.html",
-          "published": "2026-10-12T17:54:00+00:00",
-          "summary": "Bärbel Bas tritt als Bundesarbeitsministerin zurück, Alexander Schweitzer folgt. Der sagte zuletzt: Über die Rentenreform müsse noch diskutiert werden."
         }
       ],
       "error": null
