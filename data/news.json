@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:55:08+00:00",
+  "generatedAt": "2026-10-13T17:20:23+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "\"Forderungen nach schlankerem Staat\", Markus Reher, RBB, zum Arbeitgebertag in Berlin",
-          "link": "https://www.tagesschau.de/video/video-1665308.html",
-          "published": "2026-10-13T08:50:24+00:00",
-          "summary": ""
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-10-13T17:17:49+00:00",
+          "summary": "Mittwoch fällt im Süden erst noch etwas Regen, später wird es dort freundlicher, sonst scheint nach Nebelauflösung, neben teilweise dichten Wolken, längere Zeit die Sonne. 11 bis 21 Grad."
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665306.html",
-          "published": "2026-10-13T08:49:29+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665608.html",
+          "published": "2026-10-13T16:38:40+00:00",
           "summary": ""
         },
         {
-          "title": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
-          "link": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
-          "published": "2026-10-13T08:46:32+00:00",
-          "summary": "Rund 20 Prozent weniger als im Durchschnitt: Nach dem Ende der Weinlese rechnen die deutschen Winzer mit weniger Wein für dieses Jahr. \"Spitze\" sei hingegen die diesjährige Qualität."
+          "title": "Immer mehr Suizide in Deutschland - Experten fordern Prävention",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/suizide-deutschland-100.html",
+          "published": "2026-10-13T16:37:50+00:00",
+          "summary": "In Deutschland steigt die Zahl der Suizide weiter. Experten fordern mehr Prävention und niedrigschwellige Hilfe. Doch ein Entwurf des Gesundheitsministeriums für ein Gesetz lässt auf sich warten."
         },
         {
-          "title": "Wechseljahre verändern Körper laut neuer Studie früher als gedacht",
-          "link": "https://www.tagesschau.de/wissen/gesundheit/menopause-koerper-veraenderungen-100.html",
-          "published": "2026-10-13T08:34:21+00:00",
-          "summary": "Hitzewallungen, Schlafstörungen oder Gewichtszunahme - die Symptome der Wechseljahre sind vielfältig. Eine neue Studie zeigt nun: Diese Phase beginnt viel früher als gedacht und bringt massive …"
+          "title": "Marktbericht: DAX driftet ins Minus",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+          "published": "2026-10-13T16:36:06+00:00",
+          "summary": "Am Ende konnte der DAX sein Plus nicht mehr halten. Neue Sorgen im Chipsektor und ein enttäuschender Start in die Berichtssaison lasteten auf den Kursen."
         },
         {
-          "title": "CDU fordert Tempo vom neuen Arbeitsminister Schweitzer",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-tempo-reformen-koalition-100.html",
-          "published": "2026-10-13T08:22:44+00:00",
-          "summary": "Alexander Schweitzer tritt heute seinen neuen Job als Arbeitsminister an. Zeit, sich einzufinden, wird ihm kaum bleiben - denn die CDU drückt aufs Gas. Und in das Ressort fallen Reformen, bei denen …"
+          "title": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/spd-debatte-vorsitz-100.html",
+          "published": "2026-10-13T16:33:51+00:00",
+          "summary": "Wer wird künftig an der Doppelspitze der SPD stehen? Klingbeil gilt vielen als Favorit, lässt seine Kandidatur jedoch offen. Pistorius? Schwesig? Rehlinger? Sie alle haben bereits abgesagt - und die …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Midterms: Musk spendet vor Midterms hunderte Millionen an Republikaner",
-          "link": "https://www.handelsblatt.com/politik/international/midterms-musk-spendet-vor-midterms-hunderte-millionen-an-republikaner/100261786.html",
-          "published": "2026-10-13T08:35:50+00:00",
-          "summary": "Das Verhältnis zwischen Donald Trump und Elon Musk war zuletzt eher distanziert. Jetzt fällt der reichste Mann der Welt erneut mit Millionenspenden an die Republikaner auf."
+          "title": "Berlin: Umstrittene Abgeordnete Vanessa Emde wird Teil der Linkenfraktion",
+          "link": "https://www.handelsblatt.com/politik/deutschland/berlin-umstrittene-abgeordnete-vanessa-emde-wird-teil-der-linkenfraktion/100262005.html",
+          "published": "2026-10-13T17:09:28+00:00",
+          "summary": "Teile der Berliner Linken stehen wegen ihrer Positionen zu Israel immer wieder in der Kritik – insbesondere Emde. Berichten zufolge könnten durch ihre Aufnahme die Sondierungen wackeln."
         },
         {
-          "title": "Arbeitsmarkt: Studie: KI lässt Beschäftigung noch nicht schrumpfen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-studie-ki-laesst-beschaeftigung-noch-nicht-schrumpfen/100261815.html",
-          "published": "2026-10-13T08:33:32+00:00",
-          "summary": "Viele Menschen befürchten, dass ihr Job bald von künstlicher Intelligenz erledigt werden könnte. Daten vom Arbeitsmarkt belegen das im Moment noch nicht."
+          "title": "Fraktionssitzung: Merz weist Vorwürfe aus der SPD erneut zurück",
+          "link": "https://www.handelsblatt.com/politik/deutschland/fraktionssitzung-merz-weist-vorwuerfe-aus-der-spd-erneut-zurueck/100262009.html",
+          "published": "2026-10-13T17:01:41+00:00",
+          "summary": "Die SPD macht ihrem Koalitionspartner nach dem Bas-Rücktritt schwere Vorwürfe. Die Union ist verärgert. Der Kanzler reagiert darauf in der Sitzung der Bundestagsfraktion."
         },
         {
-          "title": "Umfrage: Deutsche lehnen EU-Beitritt der Ukraine mehrheitlich ab",
-          "link": "https://www.handelsblatt.com/politik/international/umfrage-deutsche-lehnen-eu-beitritt-der-ukraine-mehrheitlich-ab/100261809.html",
-          "published": "2026-10-13T08:29:35+00:00",
-          "summary": "Die Europäische Union hat der Ukraine in Aussicht gestellt, perspektivisch ein Mitglied zu werden. Doch in der deutschen Bevölkerung ist die Stimmung gekippt, zeigt eine neue Umfrage."
+          "title": "Streit um KI-Datenschutz: Apple bringt neues Smarthome-Display nicht in die EU",
+          "link": "https://www.handelsblatt.com/technik/it-internet/streit-um-ki-datenschutz-apple-bringt-neues-smarthome-display-nicht-in-die-eu/100262008.html",
+          "published": "2026-10-13T16:57:04+00:00",
+          "summary": "Wegen eines Datenschutz-Streits mit der EU-Kommission kommt die KI-Version von Apples Sprachassistentin Siri auf iPhone und iPad nicht in die Union. Jetzt entgeht Europäern auch ein neues Apple-Gerät."
         },
         {
-          "title": "Arbeitszeit: Teuer und ineffizient? So viel hat Ihr letztes Meeting gekostet",
-          "link": "https://www.handelsblatt.com/karriere/arbeitszeit-dieser-rechner-zeigt-wie-viel-geld-ihr-letztes-meeting-gekostet-hat/100245523.html",
-          "published": "2026-10-13T08:28:00+00:00",
-          "summary": "Corporate Deutschland sitzt und redet. Doch viele Meetings liefern wenig Output. Der Handelsblatt-Rechner hilft Ihnen, Kosten von Meetings besser zu schätzen – und diese effizienter zu führen."
+          "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Octus",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-lseg-verhandelt-ueber-milliarden-uebernahme-von-octus/100262001.html",
+          "published": "2026-10-13T16:56:39+00:00",
+          "summary": "Die London Stock Exchange Group will den US-Finanzdatenanbieter Octus für 3,5 Milliarden Dollar übernehmen. An der Börse kommen die Pläne schlecht an."
         },
         {
-          "title": "Schulden: Bündnis ruft Politik zur Reform der Schuldenbremse auf",
-          "link": "https://www.handelsblatt.com/politik/deutschland/schulden-buendnis-ruft-politik-zur-reform-der-schuldenbremse-auf-01/100260950.html",
-          "published": "2026-10-13T08:27:00+00:00",
-          "summary": "Das IW wirft der Bundesregierung mit der Stiftung Klimawirtschaft und Fiscal Future vor, den Schuldenspielraum zu missbrauchen. Das Bündnis fordert eine Begrenzung der Verteidigungsausgaben."
+          "title": "Vatikan: Papst an Lunge operiert - Bulletin am Abend erwartet",
+          "link": "https://www.handelsblatt.com/politik/international/vatikan-papst-an-lunge-operiert-bulletin-am-abend-erwartet/100262003.html",
+          "published": "2026-10-13T16:43:37+00:00",
+          "summary": "Mit Polizeieskorte lässt sich Leo XIV. in die Gemelli-Klinik bringen. Viele Menschen warten dort schon auf ihn. Dann beginnen die Ärzte damit, dem 71-Jährigen einen Knoten aus der Lunge zu entfernen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Insolvenzgeld für Mitarbeiter: Hat Deutschlands letzter Warenhauskonzern eine Zukunft?",
-          "link": "https://www.n-tv.de/wirtschaft/Hat-Deutschlands-letzter-Warenhauskonzern-eine-Zukunft-id31411257.html",
-          "published": "2026-10-13T08:53:21+00:00",
-          "summary": "Die Beschäftigten der erneut insolventen Kaufhauskette Galeria bekommen Insolvenzgeld von der Bundesagentur für Arbeit. Wie ordnen Experten die Entscheidung ein und was folgt darauf? Dazu Fragen und …"
+          "title": "Deutsches Einhorn greift an: So kontert Robco Chinas Roboter-Schwemme",
+          "link": "https://www.n-tv.de/wirtschaft/wirtschaft_startup/So-kontert-Robco-Chinas-Roboter-Schwemme-id31411355.html",
+          "published": "2026-10-13T16:55:49+00:00",
+          "summary": "Eine frische Kapitalspritze bringt dem Münchner Roboterbauer Robco eine Milliardenbewertung ein. Im Interview mit ntv.de spricht Gründer Roman Hölzl über leere Versprechungen der Branche, die …"
         },
         {
-          "title": "Crédit Agricole drängt in Markt: Französische Großbank schluckt deutsche IKB",
-          "link": "https://www.n-tv.de/wirtschaft/Franzoesische-Grossbank-schluckt-deutsche-IKB-id31411171.html",
-          "published": "2026-10-13T07:59:29+00:00",
-          "summary": "In der Finanzkrise schnappt sich der US-Finanzinvestor Lone Star die Deutsche Industriebank. Ein anvisierter Weiterverkauf gelingt lange nicht, doch jetzt übernimmt die Crédit Agricole das …"
+          "title": "Vorerst kommt Nachfolge-Produkt: McDonald's streicht Burger-Klassiker nach 37 Jahren von der Karte",
+          "link": "https://www.n-tv.de/wirtschaft/McDonald-s-streicht-Burger-Klassiker-nach-37-Jahren-von-der-Karte-id31414269.html",
+          "published": "2026-10-13T16:52:42+00:00",
+          "summary": "Der McRib gehört in Deutschland seit Jahrzehnten zu McDonald's. Ende Oktober nimmt die Fast-Food-Kette den Klassiker von der Speisekarte. Ganz verschwinden wird der Schweinefleisch-Burger vorerst …"
         },
         {
-          "title": "Änderungen zum Fahrplanwechsel: Deutsche Bahn präsentiert neue Sprinter-Strecke und Ziele im Ausland",
-          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Bahn-praesentiert-neue-Sprinter-Strecke-und-Ziele-im-Ausland-id31410929.html",
-          "published": "2026-10-13T05:21:07+00:00",
-          "summary": "Bei der Deutschen Bahn steht zum 13. Dezember der Fahrplanwechsel an. Dann will der Schienenkonzern bei den Kunden mit neuen Verbindungen ins Ausland und einer Ausweitung schneller …"
+          "title": "Chipriese wird Minderheitseigner: Arztplattform Doctolib holt sich Nvidia ins Boot",
+          "link": "https://www.n-tv.de/wirtschaft/Arztplattform-Doctolib-holt-sich-Nvidia-ins-Boot-id31414326.html",
+          "published": "2026-10-13T16:29:10+00:00",
+          "summary": "Nvidia ist mit seinen Chip-Produkten der zentrale Motor des KI-Booms. Nun steigt der US-Konzern bei Doctolib ein. Die Franzosen erhoffen sich durch den Einstieg mehr KI-Expertise für ihre Plattform."
         },
         {
-          "title": "Eurozone dürfte auch zulegen: IWF hebt Wirtschaftsprognose für Deutschland deutlich an",
-          "link": "https://www.n-tv.de/wirtschaft/IWF-hebt-Wirtschaftsprognose-fuer-Deutschland-deutlich-an-id31410877.html",
-          "published": "2026-10-13T05:13:29+00:00",
-          "summary": "Auf die Bundesregierung folgt der Internationale Währungsfonds: Die Experten verbessern ihren Ausblick für die deutsche Wirtschaft in diesem Jahr deutlich. Auch für 2027 sieht der IWF eine leichte …"
+          "title": "Gewinne steigen: Schwankende Märkte sorgen bei US-Banken für gute Geschäfte",
+          "link": "https://www.n-tv.de/wirtschaft/Gute-Aktiengeschaefte-in-schwankendem-Marktumfeld-US-Banken-Goldman-Sachs-JP-Morgan-Chase-Wells-Fargo-und-Citigroup-verdienen-mehr-id31413830.html",
+          "published": "2026-10-13T14:07:15+00:00",
+          "summary": "Hohe Ölpreise, Ausverkauf bei Chips, steigende Zinsen: Aktive Anleger hatten in den vergangenen Wochen zu tun. Und davon profitieren die Banken. Dagegen lahmte das Geschäft mit Übernahmen. Dennoch …"
         },
         {
-          "title": "Gewinnbringende Technologie: Wildberger fordert Steuer auf KI-Umsätze",
-          "link": "https://www.n-tv.de/wirtschaft/Wildberger-fordert-Steuer-auf-KI-Umsaetze-id31410948.html",
-          "published": "2026-10-13T05:12:01+00:00",
-          "summary": "Künstliche Intelligenz boomt. Um von den Umsätzen mit KI zu profitieren, plädiert Digitalminister Wildberger für eine Besteuerung. Wirtschaftsexperte Fratzscher fordert wiederum mehr staatliche …"
+          "title": "Silber im Chart-Check: Wilde Achterbahnfahrt – und jetzt?",
+          "link": "https://www.n-tv.de/wirtschaft/boerse/Silber-im-Chart-Check-id30347915.html",
+          "published": "2026-10-13T13:55:00+00:00",
+          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um das Edelmetall Silber."
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Anleger warten ab",
+          "title": "Marktbericht: DAX driftet ins Minus",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
-          "published": "2026-10-13T05:40:48+00:00",
-          "summary": "Zum Handelsstart dürften sich die DAX-Anleger mit neuen Engagements erst einmal bedeckt halten. Weiterhin hohe Ölpreise, aber auch das Warten auf den Beginn der US-Berichtssaison, sorgen für …"
+          "published": "2026-10-13T16:36:06+00:00",
+          "summary": "Am Ende konnte der DAX sein Plus nicht mehr halten. Neue Sorgen im Chipsektor und ein enttäuschender Start in die Berichtssaison lasteten auf den Kursen."
+        },
+        {
+          "title": "Kann es die Berichtssaison richten?",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-q3-100.html",
+          "published": "2026-10-13T12:39:48+00:00",
+          "summary": "Zuletzt konnten sich die Börsen in einem schwierigen Umfeld gut behaupten. Wesentlich dafür waren die starken Unternehmensgewinne. Die Zahlen zum dritten Quartal sind der nächste wichtige Prüfstein."
         },
         {
           "title": "Marktbericht: Elon Musk kauft US-Mobilfunklizenzen",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
           "published": "2026-10-08T12:02:09+00:00",
           "summary": "Fast 72 Milliarden Euro in einem Quartal - noch nie hat ein Tech-Unternehmen so viel verdient wie jetzt Samsung. Für den südkoreanischen Konzern war es der vierte Rekordgewinn in Folge, angetrieben …"
-        },
-        {
-          "title": "Marktbericht: Porsche zieht die Reißleine",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/porsche-mittags-mb-100.html",
-          "published": "2026-10-07T12:23:36+00:00",
-          "summary": "Weniger ist mehr: Der Sportwagenbauer Porsche will sich zukünftig auf weniger, dafür lukrativere Modelle konzentrieren. Zudem sollen die Kosten weiterhin rigoros gesenkt werden."
         }
       ],
       "error": null
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Mercedes-Benz: Nur dieser radikale Sparkurs kann die deutschen Mercedes-Werke retten",
-          "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-wie-viel-made-in-germany-kann-sich-der-autobauer-noch-leisten/100260382.html",
-          "published": "2026-10-13T08:49:00+00:00",
-          "summary": "Mercedes-Chef Ola Källenius eskaliert den Konflikt mit seiner Belegschaft. Mitarbeiter ahnen: Anders ist der Standort Deutschland des Autobauers nicht zu retten."
+          "title": "Wirtschaft von oben: BYD sucht weitere Europa-Werke – dabei ist das erste noch nicht fertig",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/byd-sucht-weitere-werk-in-europa-dabei-ist-das-erste-nicht-fertig/100248251.html",
+          "published": "2026-10-13T17:30:00+00:00",
+          "summary": "Auslandsverkäufe sollen BYDs Schwäche in der chinesischen Heimat kompensieren. Frankreich und Spanien rücken in den Fokus. Dabei ist der Bau der ersten europäischen Fabrik längst nicht abgeschlossen."
         },
         {
-          "title": "Baumarkt: Obi-Chef Gundel wechselt an die Spitze von Kingfisher",
-          "link": "https://www.wiwo.de/unternehmen/handel/baumarkt-obi-chef-gundel-wechselt-an-die-spitze-von-kingfisher/100261808.html",
-          "published": "2026-10-13T08:46:14+00:00",
-          "summary": "Der Chef der deutschen Baumarktkette, Sebastian Gundel, wechselt Anfang nächsten Jahres zur britischen Konkurrenz."
+          "title": "Windkraft: Was steht auf See auf dem Spiel?",
+          "link": "https://www.wiwo.de/unternehmen/industrie/offshore-windkraft-warum-der-ausbau-in-deutschland-stockt/100261046.html",
+          "published": "2026-10-13T16:30:17+00:00",
+          "summary": "Hohe Kosten, ungenutzte Meeresflächen und Chinas Druck: Der Ausbau der Offshore-Windkraft stockt. So will die Bundesregierung gegensteuern."
         },
         {
-          "title": "Neobroker: Trade Republic bringt das Altersvorsorgedepot zum Nulltarif",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/trade-republic-neobroker-bringt-das-altersvorsorgedepot-zum-nulltarif/100261039.html",
-          "published": "2026-10-13T08:35:49+00:00",
-          "summary": "Nun steigt auch der Neobroker Trade Republic in den Preiskampf rund um den Riester-Nachfolger ein. Bei bestimmten ETFs werden die Fondsgebühren reinvestiert."
+          "title": "US-Chiphersteller: Nvidia steigt bei Ärzteplattform Doctolib ein",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/us-chiphersteller-nvidia-steigt-bei-aerzteplattform-doctolib-ein/100261996.html",
+          "published": "2026-10-13T16:24:00+00:00",
+          "summary": "Der Chipgigant Nvidia wird Minderheitsaktionär bei der Ärzteplattform Doctolib. Das französische Unternehmen will damit seine KI-Lösungen für Arztpraxen und Patienten weiterentwickeln."
         },
         {
-          "title": "Autoindustrie: Opel-Mutter Stellantis mit leichtem Rückgang bei Verkaufszahlen",
-          "link": "https://www.wiwo.de/unternehmen/auto/stellantis-opel-mutter-mit-leichtem-rueckgang-bei-verkaufszahlen/100261807.html",
-          "published": "2026-10-13T08:29:25+00:00",
-          "summary": "Vor allem in den USA verkauft Stellantis weniger Fahrzeuge als erwartet. Die Politik Donald Trumps erschwert dem Konzern das Geschäft."
+          "title": "Koalition: Steinmeier ernennt Schweitzer – Merz macht Druck",
+          "link": "https://www.wiwo.de/politik/deutschland/koalition-steinmeier-ernennt-schweitzer-merz-macht-druck/100261835.html",
+          "published": "2026-10-13T16:21:00+00:00",
+          "summary": "Im Schnellverfahren rückt der Nachfolger von Bärbel Bas in ihr Spitzenamt nach. Vom Kanzler bekommt der Neue mit Nachdruck eine lange Aufgabenliste. Steinmeier mahnt die Koalition zu Disziplin."
         }
       ],
       "error": null

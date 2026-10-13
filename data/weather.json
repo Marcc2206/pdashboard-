@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:55:11+00:00",
+  "generatedAt": "2026-10-13T17:20:27+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,41 +7,41 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-13T10:45",
-    "temperatur": 10.0,
-    "gefuehlt": 7.8,
-    "luftfeuchte": 84,
+    "zeit": "2026-10-13T19:15",
+    "temperatur": 14.3,
+    "gefuehlt": 13.1,
+    "luftfeuchte": 91,
     "niederschlag": 0.0,
-    "wind": 10.6,
+    "wind": 14.5,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 3,
-      "text": "Bedeckt",
-      "icon": "☁️"
+      "code": 80,
+      "text": "Leichte Schauer",
+      "icon": "🌦️"
     }
   },
   "tage": [
     {
       "datum": "2026-10-13",
-      "max": 15.1,
+      "max": 15.3,
       "min": 6.6,
-      "regenwahrscheinlichkeit": 100,
+      "regenwahrscheinlichkeit": 80,
       "sonnenaufgang": "2026-10-13T07:47",
       "sonnenuntergang": "2026-10-13T18:36",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-10-14",
-      "max": 14.4,
-      "min": 9.4,
-      "regenwahrscheinlichkeit": 60,
+      "max": 14.7,
+      "min": 8.4,
+      "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-14T07:48",
-      "sonnenuntergang": "2026-10-14T18:33",
+      "sonnenuntergang": "2026-10-14T18:34",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
@@ -50,28 +50,28 @@
     },
     {
       "datum": "2026-10-15",
-      "max": 17.2,
-      "min": 5.8,
+      "max": 17.3,
+      "min": 6.2,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-15T07:50",
       "sonnenuntergang": "2026-10-15T18:31",
       "wetter": {
-        "code": 45,
-        "text": "Nebel",
-        "icon": "🌫️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     },
     {
       "datum": "2026-10-16",
-      "max": 20.4,
-      "min": 8.8,
-      "regenwahrscheinlichkeit": 49,
+      "max": 19.5,
+      "min": 10.4,
+      "regenwahrscheinlichkeit": 52,
       "sonnenaufgang": "2026-10-16T07:52",
       "sonnenuntergang": "2026-10-16T18:29",
       "wetter": {
-        "code": 2,
-        "text": "Teils bewölkt",
-        "icon": "⛅"
+        "code": 61,
+        "text": "Leichter Regen",
+        "icon": "🌦️"
       }
     }
   ]
