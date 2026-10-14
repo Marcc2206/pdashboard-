@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T03:28:34+00:00",
+  "generatedAt": "2026-10-14T09:16:11+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
-          "link": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html",
-          "published": "2026-10-14T03:24:11+00:00",
-          "summary": "Die Zusammenarbeit bei Waffen- und Rüstungsgütern zwischen Deutschland und der Türkei ist eher gering. In Ankara versuchen Unternehmer nun auf der 4. Deutsch-Türkischen Wirtschaftskonferenz, diese zu …"
+          "title": "Sorge vor Reform - Was pflegende Angehörige heute schon leisten",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/pflegende-angehoerige-pflegereform-100.html",
+          "published": "2026-10-14T09:08:11+00:00",
+          "summary": "Die Regierung will heute eine Pflegekommission einsetzen, die Vorschläge für eine Reform machen soll. Pflegende Angehörige verfolgen die Debatte mit großem Interesse. Ein Ehepaar gewährt einen …"
         },
         {
-          "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
-          "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
-          "published": "2026-10-14T03:07:08+00:00",
-          "summary": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem …"
+          "title": "\"We are Jane Doe\" - Protestdemo an US-Eliteuni",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-protestdemo-elite-uni-cornell-100.html",
+          "published": "2026-10-14T09:02:20+00:00",
+          "summary": "Der Fall einer mutmaßlichen Gruppenvergewaltigung an der Eliteuniversität Cornell sorgt in den USA weiter für Empörung. Rund 1.000 Studierende versammelten sich zu einer Protestdemo. Die Uni kündigte …"
+        },
+        {
+          "title": "Polizei durchsucht regierungskritischen Fernsehsender in der Türkei",
+          "link": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-halk-tv-zwangsverwaltung-100.html",
+          "published": "2026-10-14T08:59:44+00:00",
+          "summary": "Die türkische Polizei hat einen der wenigen regierungskritischen Fernsehsender durchsucht und die laufende Sendung von Halk TV gestoppt. Die Opposition kritisierte das Vorgehen scharf. Erst kürzlich …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665834.html",
-          "published": "2026-10-14T03:02:31+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665942.html",
+          "published": "2026-10-14T08:51:53+00:00",
           "summary": ""
         },
         {
-          "title": "Finnland: KI-Boom auf Kosten der Natur?",
-          "link": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
-          "published": "2026-10-14T00:31:01+00:00",
-          "summary": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Doch für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet: offenbar ohne die vorgeschriebenen Genehmigungen. …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81532.html",
-          "published": "2026-10-13T22:24:57+00:00",
-          "summary": ""
+          "title": "Marktbericht: DAX startet höher",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+          "published": "2026-10-14T08:46:15+00:00",
+          "summary": "Der DAX ist mit leichten Aufschlägen in den Tag gestartet. Die Hoffnungen liegen weiter auf der anlaufenden Berichtssaison. Wichtige Inflationsdaten werden am Nachmittag erwartet."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Rauchen: Zigaretten dürften bald viel teurer werden",
-          "link": "https://www.handelsblatt.com/politik/deutschland/rauchen-zigaretten-duerften-bald-viel-teurer-werden/100262079.html",
-          "published": "2026-10-14T03:15:06+00:00",
-          "summary": "Millionen Menschen rauchen in Deutschland, das beschert dem Fiskus Jahr für Jahr Milliardeneinnahmen. Künftig möchte der Bund noch mehr Steuern kassieren. Das bringt die Tabaklobby auf die Palme."
+          "title": "Öl: Energieagentur erwartet anhaltende Diesel-Knappheit bis weit ins Jahr 2027",
+          "link": "https://www.handelsblatt.com/politik/deutschland/oel-energieagentur-erwartet-diesel-knappheit-bis-weit-ins-jahr-2027/100262174.html",
+          "published": "2026-10-14T09:07:47+00:00",
+          "summary": "Die „extrem angespannte“ Lage am Dieselmarkt verschärft sich durch den nahenden Winter weiter. Daran ändern weder Trumps Deal mit Russland noch Reserve-Freigaben etwas."
         },
         {
-          "title": "Invest: Deutsche-Bank-Experte Ulrich Stephan: „KI ist ein Boom und keine Blase“",
-          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-deutsche-bank-experte-ulrich-stephan-ki-ist-ein-boom-und-keine-blase/100262002.html",
-          "published": "2026-10-14T03:02:00+00:00",
-          "summary": "Der Chefanlagestratege der Deutschen Bank spricht im Podcast darüber, wie gefährlich die steigenden Anleiherenditen in Frankreich und den USA sind und wo er im Dax Chancen sieht."
+          "title": "Industrie: Maschinenbauer werden zuversichtlicher – aber Jobabbau droht",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-maschinenbauer-werden-zuversichtlicher-aber-jobabbau-droht/100262175.html",
+          "published": "2026-10-14T09:06:59+00:00",
+          "summary": "Die deutschen Maschinenbauer schauen optimistischer nach vorn, in manchen Kundenbranchen geht es aufwärts. Für die Beschäftigten gibt es aber schlechte Nachrichten."
         },
         {
-          "title": "Recyclingwirtschaft: Wie Ghana den Elektroschrott als Chance nutzen will",
-          "link": "https://www.handelsblatt.com/politik/deutschland/recyclingwirtschaft-wie-ghana-den-elektroschrott-als-chance-nutzen-will/100262075.html",
-          "published": "2026-10-14T03:00:09+00:00",
-          "summary": "Brennende Kabel, giftiger Rauch: Ein Schrottplatz in Ghana wurde zum Sinnbild der globalen Elektroschrottkrise. Doch die Menschen dort verstehen etwas vom Recycling. Nun sollen sie es sauberer machen."
+          "title": "Geldanlage: Aus dieser Branche ziehen viele Deutsche ihr Geld ab",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-branchen-profitieren-von-den-anlagetrends-im-september/100260026.html",
+          "published": "2026-10-14T09:00:00+00:00",
+          "summary": "Exklusive Daten des Brokers Flatex zeigen verschiedene Anlagetrends bei deutschen Anlegern. Und dass zwei Branchen überraschend davon profitieren."
         },
         {
-          "title": "Prozesse: Nord-Stream-Anschlag - Prozess startet in Hamburg",
-          "link": "https://www.handelsblatt.com/politik/deutschland/prozesse-nord-stream-anschlag-prozess-startet-in-hamburg/100262074.html",
-          "published": "2026-10-14T03:00:08+00:00",
-          "summary": "Rund vier Jahre nach den Explosionen an Nord Stream beginnt in Hamburg der Prozess gegen Serhij K. Die Bundesanwaltschaft hält ihn für den Drahtzieher der Anschläge – was ihm vorgeworfen wird."
+          "title": "Rentnerparadies: Rente im Ausland: Dieses Tool zeigt, wohin Sie auswandern sollten",
+          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-im-ausland-dieses-tool-erleichtert-ihnen-die-entscheidung-beim-auswandern/100168299.html",
+          "published": "2026-10-14T08:59:00+00:00",
+          "summary": "Den Lebensabend im Ausland verbringen, davon träumen viele. Doch wie finden Sie zum Beispiel heraus, in welchem Land am Meer es sonnig und sicher ist? Das Handelsblatt hilft bei der Auswahl."
         },
         {
-          "title": "Invest: Deutsche-Bank-Experte Ulrich Stephan: „KI ist ein Boom und keine Blase“",
-          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-deutsche-bank-experte-ulrich-stephan-ki-ist-ein-boom-und-keine-blase/100221416.html",
-          "published": "2026-10-14T03:00:00+00:00",
-          "summary": "Der Chefanlagestratege der Deutschen Bank spricht im Podcast darüber, wie gefährlich die steigenden Anleiherenditen in Frankreich und den USA sind und wo er im Dax Chancen sieht."
+          "title": "Arbeitszeit: Teuer und ineffizient? So viel hat Ihr letztes Meeting gekostet",
+          "link": "https://www.handelsblatt.com/karriere/arbeitszeit-welche-kosten-entstanden-bei-ihrem-letzten-meeting/100245523.html",
+          "published": "2026-10-14T08:58:00+00:00",
+          "summary": "Corporate Deutschland sitzt und redet. Doch viele Meetings liefern wenig Output. Der Handelsblatt-Rechner hilft Ihnen, Kosten von Meetings besser zu schätzen – und diese effizienter zu führen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Deutsches Einhorn greift an: So kontert Robco Chinas Roboter-Schwemme",
-          "link": "https://www.n-tv.de/wirtschaft/wirtschaft_startup/So-kontert-Robco-Chinas-Roboter-Schwemme-id31411355.html",
-          "published": "2026-10-13T16:55:49+00:00",
-          "summary": "Eine frische Kapitalspritze bringt dem Münchner Roboterbauer Robco eine Milliardenbewertung ein. Im Interview mit ntv.de spricht Gründer Roman Hölzl über leere Versprechungen der Branche, die …"
+          "title": "Käufer nimmt Firma von der Börse: Dating-App Bumble für Milliardensumme verkauft",
+          "link": "https://www.n-tv.de/wirtschaft/Dating-App-Bumble-fuer-Milliardensumme-verkauft-id31415850.html",
+          "published": "2026-10-14T08:29:00+00:00",
+          "summary": "Das Interesse an Online-Dating lässt vor allem bei jüngeren Nutzern nach, entsprechend schwach ist der Marktwert von Dating-Apps. Dennoch wechselt eine von ihnen nun den Besitzer - für einen …"
         },
         {
-          "title": "Vorerst kommt Nachfolge-Produkt: McDonald's streicht Burger-Klassiker nach 37 Jahren von der Karte",
-          "link": "https://www.n-tv.de/wirtschaft/McDonald-s-streicht-Burger-Klassiker-nach-37-Jahren-von-der-Karte-id31414269.html",
-          "published": "2026-10-13T16:52:42+00:00",
-          "summary": "Der McRib gehört in Deutschland seit Jahrzehnten zu McDonald's. Ende Oktober nimmt die Fast-Food-Kette den Klassiker von der Speisekarte. Ganz verschwinden wird der Schweinefleisch-Burger vorerst …"
+          "title": "Handelsüberschuss auf Rekordkurs: Chinesische Exporte steigen um fast 40 Prozent",
+          "link": "https://www.n-tv.de/wirtschaft/Chinesische-Exporte-steigen-um-fast-40-Prozent-id31415601.html",
+          "published": "2026-10-14T08:05:17+00:00",
+          "summary": "Die Exportwirtschaft im Reich der Mitte boomt: Im Vergleich zum Vorjahr legen die chinesischen Ausfuhren um über 36 Prozent zu und übertreffen die Erwartungen deutlich. Beim Handelsüberschuss könnte …"
         },
         {
-          "title": "Chipriese wird Minderheitseigner: Arztplattform Doctolib holt sich Nvidia ins Boot",
-          "link": "https://www.n-tv.de/wirtschaft/Arztplattform-Doctolib-holt-sich-Nvidia-ins-Boot-id31414326.html",
-          "published": "2026-10-13T16:29:10+00:00",
-          "summary": "Nvidia ist mit seinen Chip-Produkten der zentrale Motor des KI-Booms. Nun steigt der US-Konzern bei Doctolib ein. Die Franzosen erhoffen sich durch den Einstieg mehr KI-Expertise für ihre Plattform."
+          "title": "Betrüger kriegt Erleichterung: René Benko darf Strafe im Hausarrest mit Fußfessel verbüßen",
+          "link": "https://www.n-tv.de/wirtschaft/Rene-Benko-darf-Strafe-im-Hausarrest-mit-Fussfessel-verbuessen-id31415880.html",
+          "published": "2026-10-14T07:53:25+00:00",
+          "summary": "René Benko darf das Gefängnis trotz einer Haftstrafe von 30 Monaten verlassen. Der verurteilte Betrüger darf fortan mit einer Fußfessel im Hausarrest die Zeit absitzen."
         },
         {
-          "title": "Gewinne steigen: Schwankende Märkte sorgen bei US-Banken für gute Geschäfte",
-          "link": "https://www.n-tv.de/wirtschaft/Gute-Aktiengeschaefte-in-schwankendem-Marktumfeld-US-Banken-Goldman-Sachs-JP-Morgan-Chase-Wells-Fargo-und-Citigroup-verdienen-mehr-id31413830.html",
-          "published": "2026-10-13T14:07:15+00:00",
-          "summary": "Hohe Ölpreise, Ausverkauf bei Chips, steigende Zinsen: Aktive Anleger hatten in den vergangenen Wochen zu tun. Und davon profitieren die Banken. Dagegen lahmte das Geschäft mit Übernahmen. Dennoch …"
+          "title": "Lange Haftstrafe droht: OpenAI-Mitarbeiter wird wegen verstecktem Abhörgerät festgenommen",
+          "link": "https://www.n-tv.de/wirtschaft/OpenAI-Mitarbeiter-wird-wegen-verstecktem-Abhoergeraet-festgenommen-id31415375.html",
+          "published": "2026-10-14T06:05:21+00:00",
+          "summary": "Die Angst vor Spionage geht unter KI-Firmen angesichts des globalen Wettrüstens verstärkt um. In einem aktuellen Fall bei dem ChatGPT-Entwickler OpenAI versucht ein 35-jähriger Mitarbeiter einen …"
         },
         {
-          "title": "Silber im Chart-Check: Wilde Achterbahnfahrt – und jetzt?",
-          "link": "https://www.n-tv.de/wirtschaft/boerse/Silber-im-Chart-Check-id30347915.html",
-          "published": "2026-10-13T13:55:00+00:00",
-          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um das Edelmetall Silber."
+          "title": "Kampf gegen Geldwäsche: Bank of America muss Milliardenstrafe zahlen",
+          "link": "https://www.n-tv.de/wirtschaft/Bank-of-America-muss-Milliardenstrafe-zahlen-id31415280.html",
+          "published": "2026-10-14T04:53:14+00:00",
+          "summary": "Das US-Finanzministerium verhängt gegen die Bank of America die bisher dritthöchste Geldstrafe seiner Geschichte. Das Finanzinstitut muss über eine Milliarde Dollar entrichten, weil es verdächtige …"
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX driftet ins Minus",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
-          "published": "2026-10-13T16:36:06+00:00",
-          "summary": "Am Ende konnte der DAX sein Plus nicht mehr halten. Neue Sorgen im Chipsektor und ein enttäuschender Start in die Berichtssaison lasteten auf den Kursen."
+          "title": "Marktbericht: DAX startet höher",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+          "published": "2026-10-14T08:46:15+00:00",
+          "summary": "Der DAX ist mit leichten Aufschlägen in den Tag gestartet. Die Hoffnungen liegen weiter auf der anlaufenden Berichtssaison. Wichtige Inflationsdaten werden am Nachmittag erwartet."
+        },
+        {
+          "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
+          "published": "2026-10-14T06:59:05+00:00",
+          "summary": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von …"
         },
         {
           "title": "Kann es die Berichtssaison richten?",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html",
           "published": "2026-10-09T06:43:59+00:00",
           "summary": "Betriebsrenten sind in anderen Ländern viel stärker verbreitet als in Deutschland. Für Arbeitgeber werden sie angesichts des Fachkräftemangels immer wichtiger, um Mitarbeiter zu gewinnen. Von Claudia …"
-        },
-        {
-          "title": "Marktbericht: Samsung setzt mit Rekordgewinn neue Maßstäbe",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
-          "published": "2026-10-08T12:02:09+00:00",
-          "summary": "Fast 72 Milliarden Euro in einem Quartal - noch nie hat ein Tech-Unternehmen so viel verdient wie jetzt Samsung. Für den südkoreanischen Konzern war es der vierte Rekordgewinn in Folge, angetrieben …"
         }
       ],
       "error": null
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Rot-Rot-Grün: Grüne und SPD in Berlin unterbrechen Sondierungen mit Linken",
-          "link": "https://www.wiwo.de/politik/deutschland/rot-rot-gruen-gruene-und-spd-in-berlin-unterbrechen-sondierungen-mit-linken/100262018.html",
-          "published": "2026-10-13T17:51:17+00:00",
-          "summary": "Die Linke will eine rot-grün-rote Koalition in der Hauptstadt schmieden. Doch Grüne und SPD setzen erstmal ein Stoppschild. Auslöser ist der Umgang der Linken mit dem Thema Antisemitismus."
+          "title": "Diesel: Energieagentur warnt vor anhaltender Diesel-Knappheit bis weit ins Jahr 2027",
+          "link": "https://www.wiwo.de/unternehmen/energie/diesel-energieagentur-warnt-vor-anhaltender-diesel-knappheit-bis-weit-ins-jahr-2027/100262177.html",
+          "published": "2026-10-14T09:13:12+00:00",
+          "summary": "Die Dieselpreise steigen, die Lagerbestände sind stark abgebaut. Die IEA rechnet trotz freigegebener Reserven bis 2027 mit Engpässen."
         },
         {
-          "title": "Pariser Autosalon: Chinas Auto-Offensive lässt sich nicht mehr stoppen",
-          "link": "https://www.wiwo.de/unternehmen/auto/pariser-autosalon-chinas-autobauer-stuermen-den-europaeischen-premiummarkt/100261848.html",
-          "published": "2026-10-13T17:36:33+00:00",
-          "summary": "In Paris zeigen Chinas Autobauer, dass der Angriff auf den europäischen Automarkt erst beginnt. Im Visier: das Premiumsegment."
+          "title": "Wirtschaft von oben: Die Netflix-Krise der Bollywood-Clans",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/indiens-filmindustrie-im-umbruch-wie-streaming-indiens-filmindustrie-veraendert/100259329.html",
+          "published": "2026-10-14T09:00:00+00:00",
+          "summary": "Mehr als 1000 Filme pro Jahr – und trotzdem unter Druck. Wie Streaming Bollywoods Geschäftsmodell gefährdet. Satellitenaufnahmen zeigen Aufbruch und Scheitern."
         },
         {
-          "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Finanzdatenanbieter Octus",
-          "link": "https://www.wiwo.de/finanzen/boerse/lseg-verhandelt-ueber-octus-uebernahme/100262013.html",
-          "published": "2026-10-13T17:32:06+00:00",
-          "summary": "Die London Stock Exchange Group verhandelt über die Übernahme von Octus für 3,5 Milliarden Dollar. Anleger reagieren skeptisch, die Aktie fällt."
+          "title": "Fotovoltaik: „Viele können sich im Moment vor Aufträgen kaum retten“",
+          "link": "https://www.wiwo.de/unternehmen/energie/pleitewelle-der-solarteure-warum-dieser-pv-grosshaendler-optimistisch-bleibt/100261850.html",
+          "published": "2026-10-14T08:55:42+00:00",
+          "summary": "Der boomenden Solarbranche drohe eine Pleitewelle, warnten zuletzt zahlreiche Banken. Ein großer Solarkomponenten-Händler zeichnet ein anderes Bild."
         },
         {
-          "title": "Wirtschaft von oben: BYD sucht weitere Europa-Werke – dabei ist das erste noch nicht fertig",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/byd-sucht-weitere-werk-in-europa-dabei-ist-das-erste-nicht-fertig/100248251.html",
-          "published": "2026-10-13T17:30:00+00:00",
-          "summary": "Auslandsverkäufe sollen BYDs Schwäche in der chinesischen Heimat kompensieren. Frankreich und Spanien rücken in den Fokus. Dabei ist der Bau der ersten europäischen Fabrik längst nicht abgeschlossen."
+          "title": "Konjunktur: Maschinenbauer werden zuversichtlicher – aber Jobabbau droht",
+          "link": "https://www.wiwo.de/unternehmen/industrie/arbeitsmarkt-maschinenbauer-werden-zuversichtlicher-aber-jobabbau-droht/100262172.html",
+          "published": "2026-10-14T08:54:31+00:00",
+          "summary": "Die deutschen Maschinenbauer schauen optimistischer nach vorn. In manchen Kundenbranchen geht es aufwärts. Für die Beschäftigten gibt es aber schlechte Nachrichten."
         }
       ],
       "error": null
