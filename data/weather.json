@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:16:20+00:00",
+  "generatedAt": "2026-10-14T14:52:17+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-14T11:15",
-    "temperatur": 13.0,
-    "gefuehlt": 11.7,
-    "luftfeuchte": 84,
+    "zeit": "2026-10-14T16:45",
+    "temperatur": 15.3,
+    "gefuehlt": 13.3,
+    "luftfeuchte": 61,
     "niederschlag": 0.0,
-    "wind": 9.4,
+    "wind": 9.9,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -24,8 +24,8 @@
   "tage": [
     {
       "datum": "2026-10-14",
-      "max": 15.2,
-      "min": 8.6,
+      "max": 15.6,
+      "min": 9.2,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-14T07:48",
       "sonnenuntergang": "2026-10-14T18:34",
@@ -37,22 +37,22 @@
     },
     {
       "datum": "2026-10-15",
-      "max": 16.6,
-      "min": 6.3,
+      "max": 17.7,
+      "min": 7.8,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-15T07:50",
       "sonnenuntergang": "2026-10-15T18:31",
       "wetter": {
-        "code": 45,
-        "text": "Nebel",
-        "icon": "🌫️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     },
     {
       "datum": "2026-10-16",
-      "max": 18.8,
-      "min": 10.0,
-      "regenwahrscheinlichkeit": 68,
+      "max": 19.0,
+      "min": 11.1,
+      "regenwahrscheinlichkeit": 60,
       "sonnenaufgang": "2026-10-16T07:52",
       "sonnenuntergang": "2026-10-16T18:29",
       "wetter": {
@@ -63,15 +63,15 @@
     },
     {
       "datum": "2026-10-17",
-      "max": 12.9,
+      "max": 12.5,
       "min": 7.3,
-      "regenwahrscheinlichkeit": 54,
+      "regenwahrscheinlichkeit": 61,
       "sonnenaufgang": "2026-10-17T07:54",
       "sonnenuntergang": "2026-10-17T18:27",
       "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
+        "code": 61,
+        "text": "Leichter Regen",
+        "icon": "🌦️"
       }
     }
   ]
