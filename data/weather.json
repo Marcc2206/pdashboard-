@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:16:45+00:00",
+  "generatedAt": "2026-10-14T03:28:38+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-14T00:15",
-    "temperatur": 13.2,
-    "gefuehlt": 11.9,
-    "luftfeuchte": 88,
+    "zeit": "2026-10-14T05:15",
+    "temperatur": 10.8,
+    "gefuehlt": 9.2,
+    "luftfeuchte": 92,
     "niederschlag": 0.0,
-    "wind": 11.5,
+    "wind": 9.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -24,11 +24,11 @@
   "tage": [
     {
       "datum": "2026-10-14",
-      "max": 14.9,
-      "min": 9.4,
-      "regenwahrscheinlichkeit": 57,
+      "max": 15.3,
+      "min": 9.8,
+      "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-14T07:48",
-      "sonnenuntergang": "2026-10-14T18:33",
+      "sonnenuntergang": "2026-10-14T18:34",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
@@ -37,8 +37,8 @@
     },
     {
       "datum": "2026-10-15",
-      "max": 17.2,
-      "min": 7.7,
+      "max": 17.4,
+      "min": 9.1,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-15T07:50",
       "sonnenuntergang": "2026-10-15T18:31",
@@ -50,9 +50,9 @@
     },
     {
       "datum": "2026-10-16",
-      "max": 18.9,
+      "max": 18.8,
       "min": 10.0,
-      "regenwahrscheinlichkeit": 16,
+      "regenwahrscheinlichkeit": 58,
       "sonnenaufgang": "2026-10-16T07:52",
       "sonnenuntergang": "2026-10-16T18:29",
       "wetter": {
@@ -63,15 +63,15 @@
     },
     {
       "datum": "2026-10-17",
-      "max": 12.6,
-      "min": 6.6,
-      "regenwahrscheinlichkeit": 37,
+      "max": 12.9,
+      "min": 7.3,
+      "regenwahrscheinlichkeit": 65,
       "sonnenaufgang": "2026-10-17T07:54",
       "sonnenuntergang": "2026-10-17T18:27",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
-        "icon": "🌦️"
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     }
   ]

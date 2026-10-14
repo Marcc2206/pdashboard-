@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:16:43+00:00",
+  "generatedAt": "2026-10-14T03:28:34+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Champions League: Gruda erlöst Leipzig beim 1:0-Sieg gegen PSV",
-          "link": "https://www.sportschau.de/fussball/championsleague/gruda-erloest-leipzig-bei-knappem-sieg-gegen-psv,spielbericht-leipzig-eindhoven-100.html",
-          "published": "2026-10-13T22:08:14+00:00",
-          "summary": "Lange war es ein Spiel der Torhüter, dann kam Brajan Gruda: Mit einem Fernschuss traf der Leipziger zum knappen Erfolg über PSV Eindhoven."
+          "title": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
+          "link": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html",
+          "published": "2026-10-14T03:24:11+00:00",
+          "summary": "Die Zusammenarbeit bei Waffen- und Rüstungsgütern zwischen Deutschland und der Türkei ist eher gering. In Ankara versuchen Unternehmer nun auf der 4. Deutsch-Türkischen Wirtschaftskonferenz, diese zu …"
         },
         {
-          "title": "Papst Leo XIV. hat Lungenkrebs",
-          "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
-          "published": "2026-10-13T21:49:10+00:00",
-          "summary": "Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikans habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Die Operation habe …"
+          "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+          "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+          "published": "2026-10-14T03:07:08+00:00",
+          "summary": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem …"
         },
         {
-          "title": "FC Bayern München blamiert sich beim 3:3 in Viking FK",
-          "link": "https://www.sportschau.de/fussball/championsleague/bayerns-fehlstarter-blamieren-sich-in-stavanger,spielbericht-viking-bayern-100.html",
-          "published": "2026-10-13T21:35:25+00:00",
-          "summary": "Wieder hatte der FC Bayern München den Auftakt verschlafen, wieder blieb der Rekordmeister sieglos - trotz zwischenzeitlicher Führung. Beim norwegischen Underdog Viking FK gab es ein Remis."
-        },
-        {
-          "title": "Papst Leo XIV. hat Lungenkrebs, Tilmann Kleinjung, ARD Rom, mit Hintergrundinformationen",
-          "link": "https://www.tagesschau.de/video/video-1665808.html",
-          "published": "2026-10-13T21:08:58+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665834.html",
+          "published": "2026-10-14T03:02:31+00:00",
           "summary": ""
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12916.html",
-          "published": "2026-10-13T20:58:00+00:00",
+          "title": "Finnland: KI-Boom auf Kosten der Natur?",
+          "link": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
+          "published": "2026-10-14T00:31:01+00:00",
+          "summary": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Doch für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet: offenbar ohne die vorgeschriebenen Genehmigungen. …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81532.html",
+          "published": "2026-10-13T22:24:57+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Diagnose: Papst an Lungenkrebs erkrankt",
-          "link": "https://www.handelsblatt.com/politik/international/diagnose-papst-an-lungenkrebs-erkrankt/100262003.html",
-          "published": "2026-10-13T21:15:57+00:00",
-          "summary": "Erst am Sonntag hatte Leo XIV. einen Knoten in der Lunge öffentlich gemacht. Nur zwei Tage später wird er operiert. Die Diagnose bestätigt die Befürchtungen: Der 71-Jährige hatte ein Karzinom."
+          "title": "Rauchen: Zigaretten dürften bald viel teurer werden",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rauchen-zigaretten-duerften-bald-viel-teurer-werden/100262079.html",
+          "published": "2026-10-14T03:15:06+00:00",
+          "summary": "Millionen Menschen rauchen in Deutschland, das beschert dem Fiskus Jahr für Jahr Milliardeneinnahmen. Künftig möchte der Bund noch mehr Steuern kassieren. Das bringt die Tabaklobby auf die Palme."
         },
         {
-          "title": "US-Großbank: Über 1,2 Milliarden Dollar Strafe für Bank of Amerika",
-          "link": "https://www.handelsblatt.com/politik/deutschland/us-grossbank-ueber-12-milliarden-dollar-strafe-fuer-bank-of-amerika/100262037.html",
-          "published": "2026-10-13T21:02:07+00:00",
-          "summary": "Der Bank of America steht eine Milliarden-Strafzahlung ins Haus. Der US-Regierung zufolge waren ihre Kontrollen unter anderem bei Geldwäsche nicht strikt genug."
+          "title": "Invest: Deutsche-Bank-Experte Ulrich Stephan: „KI ist ein Boom und keine Blase“",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-deutsche-bank-experte-ulrich-stephan-ki-ist-ein-boom-und-keine-blase/100262002.html",
+          "published": "2026-10-14T03:02:00+00:00",
+          "summary": "Der Chefanlagestratege der Deutschen Bank spricht im Podcast darüber, wie gefährlich die steigenden Anleiherenditen in Frankreich und den USA sind und wo er im Dax Chancen sieht."
         },
         {
-          "title": "Katholische Kirche: Papst Leo XIV. an Lungenkrebs erkrankt",
-          "link": "https://www.handelsblatt.com/politik/international/katholische-kirche-papst-leo-xiv.-an-lungenkrebs-erkrankt/100262035.html",
-          "published": "2026-10-13T20:44:37+00:00",
-          "summary": "Der Pontifex hatte erst am Sonntag einen Knoten in der Lunge öffentlich gemacht, zwei Tage später wurde er operiert. Nach Angaben des Vatikans ist es Krebs."
+          "title": "Recyclingwirtschaft: Wie Ghana den Elektroschrott als Chance nutzen will",
+          "link": "https://www.handelsblatt.com/politik/deutschland/recyclingwirtschaft-wie-ghana-den-elektroschrott-als-chance-nutzen-will/100262075.html",
+          "published": "2026-10-14T03:00:09+00:00",
+          "summary": "Brennende Kabel, giftiger Rauch: Ein Schrottplatz in Ghana wurde zum Sinnbild der globalen Elektroschrottkrise. Doch die Menschen dort verstehen etwas vom Recycling. Nun sollen sie es sauberer machen."
         },
         {
-          "title": "Medienbericht: Lufthansa gewinnt wohl Bieterrennen um portugiesische TAP",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/medienbericht-lufthansa-gewinnt-wohl-bieterrennen-um-portugiesische-tap/100262033.html",
-          "published": "2026-10-13T20:28:04+00:00",
-          "summary": "Laut einem Medienbericht bietet die Lufthansa den Kaufpreis für die portugiesische Airline vollständig in bar an. Das Angebot von Air-France KLM wäre so weniger attraktiv."
+          "title": "Prozesse: Nord-Stream-Anschlag - Prozess startet in Hamburg",
+          "link": "https://www.handelsblatt.com/politik/deutschland/prozesse-nord-stream-anschlag-prozess-startet-in-hamburg/100262074.html",
+          "published": "2026-10-14T03:00:08+00:00",
+          "summary": "Rund vier Jahre nach den Explosionen an Nord Stream beginnt in Hamburg der Prozess gegen Serhij K. Die Bundesanwaltschaft hält ihn für den Drahtzieher der Anschläge – was ihm vorgeworfen wird."
         },
         {
-          "title": "Umgang mit Antisemitismus: Sondierungen in Berlin kommen ins Stocken",
-          "link": "https://www.handelsblatt.com/politik/deutschland/umgang-mit-antisemitismus-sondierungen-in-berlin-kommen-ins-stocken/100262019.html",
-          "published": "2026-10-13T19:34:37+00:00",
-          "summary": "Nach einer Woche „guter Gespräche“ steht die Regierungsbildung in Berlin erst einmal still. Was Grüne und SPD jetzt vom Wahlsieger Linke erwarten."
+          "title": "Invest: Deutsche-Bank-Experte Ulrich Stephan: „KI ist ein Boom und keine Blase“",
+          "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-deutsche-bank-experte-ulrich-stephan-ki-ist-ein-boom-und-keine-blase/100221416.html",
+          "published": "2026-10-14T03:00:00+00:00",
+          "summary": "Der Chefanlagestratege der Deutschen Bank spricht im Podcast darüber, wie gefährlich die steigenden Anleiherenditen in Frankreich und den USA sind und wo er im Dax Chancen sieht."
         }
       ],
       "error": null
