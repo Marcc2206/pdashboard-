@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T03:07:46+00:00",
+  "generatedAt": "2026-10-15T08:49:35+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1666486.html",
-          "published": "2026-10-15T03:03:03+00:00",
-          "summary": ""
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-10-15T08:41:03+00:00",
+          "summary": "Am Donnerstag ist es in den Niederungen des Südens und der Mitte regional länger neblig-trüb. Sonst scheint oft die Sonne zwischen lockeren Wolken. Bevorzugt im Norden und Osten ist es mitunter …"
         },
         {
-          "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
-          "published": "2026-10-15T03:00:17+00:00",
-          "summary": "Notaufnahmen und Rettungsdienste sind seit Jahren überlastet. Nun will der Bundestag endlich eine Reform auf den Weg bringen. Große Hilfs- und Rettungsorganisationen verlangen allerdings …"
+          "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+          "published": "2026-10-15T08:32:44+00:00",
+          "summary": "Der DAX startet schwach in den Handel. Die hohe US-Inflation schürt die Sorge vor weiteren Zinserhöhungen und setzt Chipwerte weltweit unter Druck. An den Börsen setzt sich der Ausverkauf fort."
         },
         {
-          "title": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
-          "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
-          "published": "2026-10-15T01:48:20+00:00",
-          "summary": "Bundesweit gilt an allen rund 5.700 Stationen der Deutschen Bahn inklusive der Bahnsteige ab heute ein Alkoholverbot. Die Bahn erhofft sich davon mehr Sicherheit."
+          "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
+          "published": "2026-10-15T08:32:37+00:00",
+          "summary": "Wer wirklich dringend medizinische Hilfe braucht, soll schneller drankommen. Leichtere Fälle sollen gar nicht erst in der Notaufnahme landen - der Bundestag hat die Reform der Notfallmedizin …"
         },
         {
-          "title": "Champions League: BVB bekommt die Klasse von Bodø/Glimt zu spüren",
-          "link": "https://www.sportschau.de/fussball/championsleague/bvb-bekommt-die-klasse-von-bodo-glimt-zu-spueren,spielbericht-bodo-glimt-borussia-dortmund-100.html",
-          "published": "2026-10-14T21:18:39+00:00",
-          "summary": "Nach dem bitteren Remis gegen Werder Bremen in der Bundesliga hat Borussia Dortmund in der Champions League die nächste Enttäuschung erlebt. Bei Bodø/Glimt gab es eine verdiente Niederlage. Die …"
+          "title": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+          "published": "2026-10-15T08:30:00+00:00",
+          "summary": "Nachdem SPD und Grüne die Sondierungen mit der Linkspartei unterbrochen hatten, geht es nun weiter. Alle Parteien verständigten sich, ihre Antisemitismus-Vereinbarung in einen möglichen …"
         },
         {
-          "title": "Massive Raketenangriffe auf Kiew - erneut ohne vorherige Warnung der Verbündeten an die Ukraine",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1666468.html",
-          "published": "2026-10-14T21:13:06+00:00",
-          "summary": ""
+          "title": "Mit AfD- und BSW-Stimmen: Sachsen-Anhalts Landtag fordert sofortigen Stopp aller Ukraine-Hilfen",
+          "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/landespolitik/ukraine-russland-sanktionen-update-landtag,afd-bsw-antrag-100.html",
+          "published": "2026-10-15T07:41:52+00:00",
+          "summary": "AfD und BSW haben im Landtag von Sachsen-Anhalt ihren Antrag für ein sofortiges Ende der Ukraine-Hilfen, Waffenlieferungen und Russland-Sanktionen durchgebracht - obwohl Bundesländer darüber nicht …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ USA +++: USA erwägen Lockerung von Sanktionen gegen Schattenflotten-Tanker",
-          "link": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html",
-          "published": "2026-10-17T01:21:00+00:00",
-          "summary": "Trump würde Informanten für Geheimnisverrat erschießen lassen +++ Demokraten planen bei Mehrheitsgewinn ein Blitzprogramm +++ Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl …"
+          "title": "Bundestag: Bundestag hebt Immunität von Abgeordnetem Ahmetovic auf",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-bundestag-hebt-immunitaet-von-abgeordnetem-ahmetovic-auf/100262463.html",
+          "published": "2026-10-15T08:44:39+00:00",
+          "summary": "Zuletzt fiel sein Name im Zusammenhang mit Ermittlungen in Hannover. Jetzt macht der Bundestag den Weg frei für Durchsuchungen bei einem SPD-Abgeordneten."
         },
         {
-          "title": "Brexit: „Jetzt ist der Moment“: Wirtschaft setzt auf EU-Rückkehr Großbritanniens",
-          "link": "https://www.handelsblatt.com/politik/international/eu-jetzt-ist-der-moment-wirtschaft-setzt-auf-eu-rueckkehr-grossbritanniens/100261080.html",
-          "published": "2026-10-15T03:00:20+00:00",
-          "summary": "Premier Burnham treibt den Neustart mit der EU voran, während britische und deutsche Unternehmen laut einer Umfrage Investitionen zurückhalten. Ein Plan der EU könnte für Streit sorgen."
+          "title": "Aktien: Atomwaffen-Aktien bald erlaubt? Experten schlagen neue Ethik-Regeln für Norwegens Staatsfonds vor",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien-experten-wollen-ethik-regeln-fuer-norwegens-staatsfonds-lockern/100262436.html",
+          "published": "2026-10-15T08:43:16+00:00",
+          "summary": "Nach Kontroversen mit der Trump-Regierung überarbeitet Norwegen die Fondsrichtlinien. Bald könnten Aktienkäufe möglich werden, die bisher noch verboten sind."
         },
         {
-          "title": "Bahn will mehr Sicherheit: Aus für das Bahnsteig-Bier: Was Reisende jetzt noch dürfen",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/bahn-will-mehr-sicherheit-aus-fuer-das-bahnsteig-bier-was-reisende-jetzt-noch-duerfen/100260669.html",
-          "published": "2026-10-15T02:30:10+00:00",
-          "summary": "Das Alkoholverbot auf Bahnhöfen ist da. Ein frisches Feierabend-Bier auf dem Bahnsteig könnte nun Konsequenzen haben. Aber was gilt für Gepäck - und im Bordbistro?"
+          "title": "Maschinenbau: Trumpf verachtfacht seinen Betriebsgewinn nach hartem Sparkurs – Rendite erstmals wieder zweistellig",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/trumpf-betriebsgewinn-verachtfacht-sich-nach-hartem-sparkurs/100262179.html",
+          "published": "2026-10-15T08:30:00+00:00",
+          "summary": "Der Maschinenbauer verdient operativ fast eine halbe Milliarde Euro. Chiptechnik-Umsätze und starkes US-Geschäft sorgen für Optimismus – aber zwei wichtige Märkte schwächeln."
         },
         {
-          "title": "Krankenkassen: Krankenkassenbeiträge - stabil oder nicht?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/krankenkassen-krankenkassenbeitraege-stabil-oder-nicht/100262323.html",
-          "published": "2026-10-15T02:30:07+00:00",
-          "summary": "Schnell versichert der Gesundheitsminister nach einer offiziellen Schätzung: Der durchschnittliche Zusatzbeitrag für die Krankenkassen bleibt stabil. Doch was heißt das für die Beitragszahlenden?"
+          "title": "Bundestag: Parlament hebt Immunität von SPD-Abgeordnetem Ahmetovic auf",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-parlament-hebt-immunitaet-von-spd-abgeordnetem-ahmetovic-auf/100262448.html",
+          "published": "2026-10-15T08:28:09+00:00",
+          "summary": "Nach den Ermittlungen gegen den Berliner SPD-Spitzenkandidaten Steffen Krach untersucht die Staatsanwaltschaft nun weitere Personen. Ahmetovics Anwalt weist die Vorwürfe zurück."
         },
         {
-          "title": "Umrüstung der Busflotten: Weniger Geld für E-Busse - Branche warnt vor Folgen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/umruestung-der-busflotten-weniger-geld-fuer-e-busse-branche-warnt-vor-folgen/100262366.html",
-          "published": "2026-10-15T02:30:06+00:00",
-          "summary": "Der Bund fördert die Anschaffung von Elektrobussen im Nahverkehr mit Hunderten Millionen Euro. Ab kommendem Jahr sollen die Mittel deutlich sinken. Die Branche sieht deshalb die Klimaziele in Gefahr."
+          "title": "Praxis, Notarzt, Klinik?: Notfallreform: Was gilt aktuell bei Krankheit und Unfall?",
+          "link": "https://www.handelsblatt.com/technik/medizin/praxis-notarzt-klinik-notfallreform-was-gilt-aktuell-bei-krankheit-und-unfall/100262450.html",
+          "published": "2026-10-15T08:21:58+00:00",
+          "summary": "Die Notfallreform soll Notaufnahmen entlasten. Auch jetzt schon gibt es Regeln und je nach Beschwerden Wege zur ärztlichen Hilfe. Wie Sie die Lage richtig einschätzen und wann man wo hingeht."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Nur 130 Millionen Euro 2027: Drastische Kürzung bei E-Bus-Förderung bedroht deutsche Hersteller",
+          "link": "https://www.n-tv.de/wirtschaft/Drastische-Kuerzung-bei-E-Bus-Foerderung-bedroht-deutsche-Hersteller-id31419886.html",
+          "published": "2026-10-15T08:02:47+00:00",
+          "summary": "Immer mehr deutsche Großstädte stellen ihre Busflotte langsam auf Elektrofahrzeuge um. Doch das kostet Geld. Der Haushaltsentwurf der Bundesregierung sieht für 2027 weniger als ein Drittel der …"
+        },
+        {
+          "title": "\"Mit Gebühren bestraft\": Verbände laufen Sturm gegen geplanten Solaraufschlag",
+          "link": "https://www.n-tv.de/wirtschaft/Verbaende-laufen-Sturm-gegen-geplanten-Solaraufschlag-id31419766.html",
+          "published": "2026-10-15T07:37:05+00:00",
+          "summary": "Wer eine größere Solaranlage besitzt, soll bald mehr fürs Stromnetz bezahlen - so zumindest will es die Bundesnetzagentur. Damit ruft sie viele Verbände auf den Plan. Sie befürchten ein Ausbremsen …"
+        },
+        {
+          "title": "Berlin und Düsseldorf vorn: Studie: Angebotsmieten steigen in Deutschland wieder schneller",
+          "link": "https://www.n-tv.de/wirtschaft/Studie-Angebotsmieten-steigen-in-Deutschland-wieder-schneller-id31419362.html",
+          "published": "2026-10-15T05:14:05+00:00",
+          "summary": "Die Wohnungssuche in Deutschland wird immer schwieriger: Laut einer neuen Studie steigen die Mieten so stark wie seit Anfang 2025 nicht mehr. Vor allem Bestandswohnungen verteuern sich. In einigen …"
+        },
+        {
           "title": "Experten bezweifeln Nutzen: USA wollen Sanktionen gegen Schattenflotten-Tanker lockern",
           "link": "https://www.n-tv.de/wirtschaft/USA-wollen-Sanktionen-gegen-Schattenflotten-Tanker-lockern-id31419253.html",
           "published": "2026-10-15T02:28:25+00:00",
@@ -95,25 +113,7 @@
           "title": "Lufthansa reagiert: Am Drehkreuz Frankfurt ist das Kerosin knapp",
           "link": "https://www.n-tv.de/wirtschaft/Am-Drehkreuz-Frankfurt-ist-das-Kerosin-knapp-id31419059.html",
           "published": "2026-10-14T22:15:38+00:00",
-          "summary": "Am größten deutschen Flughafen mangelt es an Kerosin. Lufthansa lässt Flugzeuge, die nach Frankfurt fliegen, deshalb schon am Startflughafen mehr tanken als üblich. Flugstreichungen soll es erstmal …"
-        },
-        {
-          "title": "Sorge wegen hoher Inflation: Tech-Werte rutschen an der Wall Street ab",
-          "link": "https://www.n-tv.de/wirtschaft/Tech-Werte-rutschen-an-der-Wall-Street-ab-id31419035.html",
-          "published": "2026-10-14T21:22:25+00:00",
-          "summary": "Die US-Verbraucherpreise legen zu, und das noch stärker als vorausgesagt. An der Wall Street wächst die Sorge vor einer baldigen Zinserhöhung. Die Aussicht auf steigende Kreditkosten bekommt vor …"
-        },
-        {
-          "title": "Nachwehen des Dieselskandals: Gericht kippt VW-Vergleich mit Ex-Audi-Chef Stadler",
-          "link": "https://www.n-tv.de/wirtschaft/Gericht-kippt-VW-Vergleich-mit-Ex-Audi-Chef-Stadler-id31418222.html",
-          "published": "2026-10-14T16:14:09+00:00",
-          "summary": "Volkswagen und der Ex-Audi-Manager Rupert Stadler einigen sich 2021 im Abgasskandal auf einen Vergleich, um Haftungsstreitigkeiten zu beenden. Die Aktionäre stimmen dem Deal mehrheitlich zu. Doch das …"
-        },
-        {
-          "title": "Steuervorteil wird gekippt: Regierung lockert Vorgaben für Zustellzeiten der Post",
-          "link": "https://www.n-tv.de/wirtschaft/Regierung-lockert-Vorgaben-fuer-Zustellzeiten-der-Post-id31417662.html",
-          "published": "2026-10-14T15:19:55+00:00",
-          "summary": "Die Bundesregierung streicht der Post eine Steuerbefreiung. Im Gegenzug sollen Vorgaben zur maximalen Zustellzeit von Briefen gelockert werden. Die Post hält das Vorhaben für rechtswidrig und warnt …"
+          "summary": "Am größten deutschen Flughafen mangelt es an Kerosin. Lufthansa lässt Flugzeuge, die nach Frankfurt fliegen, deshalb schon am Startflughafen mehr tanken als üblich. Flugstreichungen soll es erst …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX bleibt im Seitwärtstrend",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-          "published": "2026-10-14T16:24:05+00:00",
-          "summary": "DAX-Anleger haben sich heute zurückgehalten, der Index pendelt weiter um die Marke von 25.000 Punkten. Auch neue US-Inflationsdaten ändern daran nichts. Bestimmend bleibt der Stillstand in Nahost."
+          "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+          "published": "2026-10-15T08:32:44+00:00",
+          "summary": "Der DAX startet schwach in den Handel. Die hohe US-Inflation schürt die Sorge vor weiteren Zinserhöhungen und setzt Chipwerte weltweit unter Druck. An den Börsen setzt sich der Ausverkauf fort."
         },
         {
           "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Sozialbeiträge: Gesundheitsminister will sinkende Krankenkassenbeiträge erreichen",
-          "link": "https://www.wiwo.de/politik/deutschland/krankenkassenbeitraege-2027-linnemann-kuendigt-stabile-saetze-an/100262284.html",
-          "published": "2026-10-14T18:00:00+00:00",
-          "summary": "Das Spargesetz wirkt: Die Beiträge der gesetzlich Krankenversicherten sollen im kommenden Jahr nicht weiter steigen. Carsten Linnemann will sie mittelfristig sogar senken."
+          "title": "Ölkonzern: Krieg mit Iran lässt Gewinne von TotalEnergies sprudeln",
+          "link": "https://www.wiwo.de/unternehmen/industrie/oelkonzern-krieg-mit-iran-laesst-gewinne-von-totalenergies-sprudeln/100262449.html",
+          "published": "2026-10-15T08:42:01+00:00",
+          "summary": "Die Straße von Hormus ist faktisch geschlossen und Raffineriemargen steigen. TotalEnergies und Konkurrenten profitieren so vom Iran-Krieg."
         },
         {
-          "title": "Nachhaltigkeit: Diese Fabrik baut Wohnungen wie Autos, doch die Auslastung hinkt",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/serieller-holzbau-im-praxistest-was-nokeras-konzept-beim-wohnungsbau-leistet/100261948.html",
-          "published": "2026-10-14T17:52:44+00:00",
-          "summary": "Mehrstöckige Gebäude aus industriell gefertigten Holzmodulen schaffen nachhaltig, schnell und preisgünstig Wohnraum. Der SIA-Award-Preisträger Nokera gehört zu den Vorreitern."
+          "title": "Sexuelle Belästigung: „Sichern Sie keine absolute Vertraulichkeit zu“",
+          "link": "https://www.wiwo.de/erfolg/management/sexuelle-belaestigung-im-job-was-fuehrungskraefte-tun-muessen/100261949.html",
+          "published": "2026-10-15T08:26:48+00:00",
+          "summary": "Sexuelle Belästigung am Arbeitsplatz ist auch neun Jahre nach der MeToo-Bewegung ein Tabuthema. Wird es doch angesprochen, machen viele Chefs verheerende Fehler."
         },
         {
-          "title": "Zuckersteuer: „Ich lehne diese Steuer komplett ab“",
-          "link": "https://www.wiwo.de/unternehmen/handel/zuckersteuer-hersteller-warnen-vor-preisspruengen-bei-getraenken/100262193.html",
-          "published": "2026-10-14T17:23:00+00:00",
-          "summary": "Der Kompromiss der Koalition bei der Zuckersteuer sorgt für breite Kritik. Jetzt skizzieren betroffene Unternehmer die Folgen für die Branche und die Verbraucher."
+          "title": "Handel mit China: Deutsches Handelsdefizit mit China steigt erstmals über 100 Milliarden Euro",
+          "link": "https://www.wiwo.de/politik/deutschland/handel-mit-china-deutsches-handelsdefizit-mit-china-steigt-erstmals-ueber-100-milliarden-euro/100262439.html",
+          "published": "2026-10-15T08:17:40+00:00",
+          "summary": "Das Institut der deutschen Wirtschaft (IW) warnt: Steigende Importe und sinkende Exporte belasten Autoindustrie, Maschinenbau und Elektrobranche."
         },
         {
-          "title": "Sorgen im Job: Was das Miteinander zwischen Führungskräften und Mitarbeitern belastet",
-          "link": "https://www.wiwo.de/erfolg/management/fuehrung-bei-spardruck-wie-chefs-ihren-teams-sicherheit-geben/100261667.html",
-          "published": "2026-10-14T17:12:00+00:00",
-          "summary": "Wirtschaftliche Unsicherheit bestimmt den Büroalltag. Wie stark sie spürbar ist, hängt auch von der Größe des Arbeitgebers ab – und davon, wie Chefs Sicherheit vermitteln."
+          "title": "Städte und Gemeinden: Kommunen erneut mit Rekordeinnahmen aus der Gewerbesteuer",
+          "link": "https://www.wiwo.de/politik/deutschland/gewerbesteuer-kommunen-erzielen-rekordeinnahmen/100262418.html",
+          "published": "2026-10-15T07:05:55+00:00",
+          "summary": "Die Kommunen erzielen 2025 erneut Rekordeinnahmen aus der Gewerbesteuer. Doch hohe Zinsen und Sozialausgaben verschärfen ihre Finanznot trotzdem."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Neues Fügemodul aiPRESS JM basic für Standardpressprozesse",
+          "link": "https://www.ingenieur.de/neues-fuegemodul-aipress-jm-basic-fuer-standardpressprozesse-3daf02c8-6146-4095-bdb2-e2dbb7cd807c/",
+          "published": "2026-10-14T07:53:48+00:00",
+          "summary": "Das neue Fügemodul aiPRESS JM basic richtet sich an alle, die die Vorteile einer servogesteuerten Presse nutzen möchten, aber nicht die hohen Anforderungen für Präzisionsanwendungen benötigen. …"
+        },
+        {
+          "title": "Stellantis mit Milliardenverlust",
+          "link": "https://www.ingenieur.de/stellantis-mit-milliardenverlust-2-9bc28a00-fa87-4472-95ca-3d65fdab66e9/",
+          "published": "2026-10-13T10:02:34+00:00",
+          "summary": "Opel-Mutter Stellantis meldet für 2025 einen Rekordverlust von 22,3 Mrd. Euro. Den Grund sieht Konzernchef Antonio Filosa in notwendigen Anpassungen des Elektromobilitätskurses und im Zuge dessen …"
+        },
+        {
           "title": "Diese Antenne existiert nur als Plasma und sendet trotzdem",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/ittk/diese-antenne-existiert-nur-aus-plasma-und-sendet-trotzdem/",
+          "link": "https://www.ingenieur.de/diese-antenne-existiert-nur-aus-plasma-und-sendet-trotzdem-b6b19fde-b1c8-460d-8494-2cd685813793/",
           "published": "2026-10-11T16:51:34+00:00",
           "summary": "Statt Metall nutzt diese Antenne ionisierte Luft. Ein Laser erzeugt das Plasma, das anschließend Radiowellen abstrahlt. Was der Versuch wirklich zeigt."
         },
         {
           "title": "Ein außergewöhnliches Signal aus dem All gibt Hawking recht – fast",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/das-universum-sendet-ein-echo-und-hawking-behaelt-recht/",
+          "link": "https://www.ingenieur.de/das-universum-sendet-ein-echo-und-hawking-behaelt-recht-f0c07c24-d18d-46db-b269-ae544885a500/",
           "published": "2026-10-11T16:40:00+00:00",
           "summary": "Ein Signal aus 1,3 Milliarden Lichtjahren Entfernung bestätigt eine 55 Jahre alte Vorhersage von Stephen Hawking – so präzise wie nie zuvor."
         },
         {
           "title": "Die unsichersten Airlines der Welt: Diese Fluggesellschaften fallen besonders auf",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/verkehr/die-unsichersten-airlines-der-welt/",
+          "link": "https://www.ingenieur.de/die-unsichersten-airlines-der-welt-821bd68b-8236-4575-b8d5-771bc0f8fec1/",
           "published": "2026-10-11T14:00:00+00:00",
           "summary": "Welche Airlines gelten als besonders unsicher? Die EU sperrt 154 Fluggesellschaften. Diese Airlines fallen 2026 besonders auf – und das sind die Gründe."
-        },
-        {
-          "title": "Rätselhafter Radioblitz stellt bisherigen Entfernungsrekord in den Schatten",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/raetselhafter-radioblitz-stellt-bisherigen-entfernungsrekord-in-den-schatten/",
-          "published": "2026-10-11T12:57:23+00:00",
-          "summary": "Webb lokalisiert den bislang fernsten Fast Radio Burst. Seine junge Zwerggalaxie stärkt die Spur zu Magnetaren."
-        },
-        {
-          "title": "800 VA, 2000 Wp, 960 Wp: Was beim Balkonkraftwerk 2026 wirklich gilt",
-          "link": "https://www.ingenieur.de/technik/fachbereiche/energie/balkonkraftwerk-wann-lohnt-es-sich-und-was-ist-mit-einem-speicher/",
-          "published": "2026-10-11T12:00:00+00:00",
-          "summary": "Wann lohnt sich ein Balkonkraftwerk? Was bei 800 VA, 2000 Wp und Schuko gilt und warum ein Speicher die Rechnung verschlechtern kann."
         }
       ],
       "error": null
