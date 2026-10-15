@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:40:45+00:00",
+  "generatedAt": "2026-10-15T22:52:37+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
-          "link": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
-          "published": "2026-10-15T19:20:05+00:00",
-          "summary": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht."
+          "title": "Hoffenheim verliert auch gegen Besiktas",
+          "link": "https://www.sportschau.de/regional/swr/swr-naechste-pleite-die-tsg-hoffenheim-verliert-auch-gegen-besiktas-100.html",
+          "published": "2026-10-15T20:56:03+00:00",
+          "summary": "Am 2. Spieltag der Europa League hat die TSG Hoffenheim gegen Besiktas JK verloren. Das Team von Christian Ilzer zeigt zwar Moral, kann aber wieder nichts Zählbares mitnehmen."
         },
         {
-          "title": "Leverkusen löst Pflichtaufgabe gegen Posen mit Bravour",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-leverkusen-loest-pflichtaufgabe-lech-posen-mit-bravour-100.html",
-          "published": "2026-10-15T18:38:00+00:00",
-          "summary": "Bayer Leverkusen ist seiner Favoritenrolle erneut gerecht geworden und hat auch das zweite Europa-League-Spiel gewonnen. Gegen Lech Posen gewann die Werkself mit 4:0."
-        },
-        {
-          "title": "Bundeswirtschaftsministerin Reiche muss Instagram-Post über Linke löschen",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1667002.html",
-          "published": "2026-10-15T18:30:27+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12920.html",
+          "published": "2026-10-15T20:54:40+00:00",
           "summary": ""
         },
         {
-          "title": "Brustkrebs-Screening künftig bereits ab 45 Jahren möglich",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1666992.html",
-          "published": "2026-10-15T18:28:07+00:00",
+          "title": "Alkoholverbot gilt nun an allen deutschen Bahnhöfen - Ein Praxisbericht aus Kiel",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1667050.html",
+          "published": "2026-10-15T20:37:48+00:00",
           "summary": ""
         },
         {
-          "title": "Bundestag stimmt für eine Reform der Notfallversorgung",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1666990.html",
-          "published": "2026-10-15T18:25:58+00:00",
+          "title": "Medikament bringt neue Hoffnung bei Bauchspeicheldrüsenkrebs",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1667048.html",
+          "published": "2026-10-15T20:34:33+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Reform der Notfallversorgung - Was sich ändern soll",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1667046.html",
+          "published": "2026-10-15T20:30:55+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Bankenaufsicht: Unicredit: EZB genehmigt Übernahme von Commerzbank-Anteilen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bankenaufsicht-unicredit-ezb-genehmigt-uebernahme-von-commerzbank-anteilen/100262660.html",
-          "published": "2026-10-15T19:02:23+00:00",
-          "summary": "Seit zwei Jahren pirscht sich die Unicredit an die Commerzbank heran. Mit einem Übernahmeangebot im Sommer verfehlte sie eine Mehrheit nur knapp. Nun gibt die EZB-Aufsicht den Italienern grünes Licht."
+          "title": "Krieg im Jemen: Stadt Tais im Jemen eingekesselt - Menschen leben in Angst",
+          "link": "https://www.handelsblatt.com/politik/international/krieg-im-jemen-stadt-tais-im-jemen-eingekesselt-menschen-leben-in-angst/100262683.html",
+          "published": "2026-10-15T22:01:04+00:00",
+          "summary": "Trinkwasser gibt es oft nur noch in Literflaschen, Mehl und Gas sind schwer zu finden. In Tais geht die Angst um. Und viele fragen sich: Beginnt bald die Schlacht um Jemens drittgrößte Stadt?"
         },
         {
-          "title": "Regierungsbildung in Berlin: Trotz vieler Hürden: Berliner Parteien sondieren weiter",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-trotz-vieler-huerden-berliner-parteien-sondieren-weiter/100262535.html",
-          "published": "2026-10-15T18:51:31+00:00",
-          "summary": "„Kommunikationsdesaster“ oder heilsamer Weckruf? Nach dem Streit um das Vorgehen gegen Antisemitismus sprechen Linke, Grüne und SPD weiter über eine Regierung. Aber es bleibt schwierig."
+          "title": "Rauchen: Teure Zigaretten: Bundestag stimmt für höhere Tabaksteuer",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rauchen-bundestag-stimmt-fuer-hoehere-tabaksteuer/100262681.html",
+          "published": "2026-10-15T22:00:41+00:00",
+          "summary": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen."
         },
         {
-          "title": "Justiz: Ehepaar Maduro plädiert bei Folter-Anklage auf unschuldig",
-          "link": "https://www.handelsblatt.com/politik/international/justiz-ehepaar-maduro-plaediert-bei-folter-anklage-auf-unschuldig/100262667.html",
-          "published": "2026-10-15T18:49:34+00:00",
-          "summary": "Das venezolanische Präsidentenpaar wurde Anfang des Jahres in einer umstrittenen Aktion gefangen genommen, in die USA gebracht und angeklagt, auch wegen Folter. Das weisen die beiden nun zurück."
+          "title": "Automobilindustrie: Deutschland und Frankreich vor Einigung bei Verbrenner-Aus",
+          "link": "https://www.handelsblatt.com/politik/deutschland/automobilindustrie-deutschland-und-frankreich-vor-einigung-bei-verbrenner-aus/100262678.html",
+          "published": "2026-10-15T21:27:32+00:00",
+          "summary": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich ein Deal ab."
         },
         {
-          "title": "Banken: UBS erwägt bei zu strengen Schweizer Regeln offenbar Umzug oder Fusion",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ubs-erwaegt-bei-zu-strengen-regeln-offenbar-umzug-oder-fusion/100262665.html",
-          "published": "2026-10-15T18:44:35+00:00",
-          "summary": "Laut Insidern kommt für die Schweizer Großbank UBS etwa ein Umzug ins Ausland infrage. Der Hintergrund sind Pläne der Schweizer Politik für schärfere Bankenregeln."
+          "title": "Ringen um Billionen-Haushalt: Neuer Vorschlag soll Bewegung in EU-Haushaltsstreit bringen",
+          "link": "https://www.handelsblatt.com/politik/international/ringen-um-billionen-haushalt-neuer-vorschlag-soll-bewegung-in-eu-haushaltsstreit-bringen/100262502.html",
+          "published": "2026-10-15T21:21:38+00:00",
+          "summary": "Der Streit um den nächsten EU-Haushalt spitzte sich zuletzt zu, als Friedrich Merz einen irischen Vorschlag zurückwies. Nun will António Costa neue Bewegung in die Verhandlungen bringen."
         },
         {
-          "title": "Banken: EZB genehmigt laut Unicredit Übernahme von Commerzbank-Anteilen",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ezb-genehmigt-lautunicredit-uebernahme-von-commerzbank-anteilen/100262659.html",
-          "published": "2026-10-15T18:23:59+00:00",
-          "summary": "Seit zwei Jahren pirscht sich die Unicredit an die Commerzbank heran. Nun gibt es von der EZB-Aufsicht eine Entscheidung für die italienische Großbank."
+          "title": "Autobauer: Porsche präsentiert neues Supersportwagen-Design",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-porsche-praesentiert-neues-supersportwagen-design/100262674.html",
+          "published": "2026-10-15T21:13:52+00:00",
+          "summary": "Der Sportwagenhersteller Porsche will in Zukunft weniger, aber teurere Luxusautos verkaufen. Einen Vorgeschmack auf die neue Ausrichtung soll der Supersportwagen „Mission S“ geben."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Ausverkauf wegen KI-Sorgen: Techwerte kommen von Tagestiefs zurück",
+          "link": "https://www.n-tv.de/wirtschaft/Techwerte-kommen-von-Tagestiefs-zurueck-id31423621.html",
+          "published": "2026-10-15T20:49:56+00:00",
+          "summary": "US-Anleger rechnen mit steigenden Zinsen. Damit geraten die astronomischen Schulden vieler KI-Unternehmen in den Blick. Besonders Tech-Aktien werden in großem Umfang abgestoßen. Bis zum Abend kehrt …"
+        },
+        {
+          "title": "Weitere Belastungen verhindert?: Bundestag stoppt Anstieg des CO2-Preises",
+          "link": "https://www.n-tv.de/wirtschaft/Bundestag-stoppt-Anstieg-des-CO2-Preises-id31423448.html",
+          "published": "2026-10-15T19:47:41+00:00",
+          "summary": "Der CO2-Preis hätte Kraftstoffe und Gas im nächsten Jahr noch teurer gemacht als ohnehin schon. Nun verhindert der Bundestag den Anstieg mit einem Beschluss. Ein Verband sieht die Gefahr weiterer …"
+        },
+        {
+          "title": "Batterie könnte in Brand geraten: VW drosselt vorsorglich Ladeleistung bestimmter E-Autos",
+          "link": "https://www.n-tv.de/wirtschaft/VW-drosselt-vorsorglich-Ladeleistung-bestimmter-E-Autos-id31423431.html",
+          "published": "2026-10-15T19:47:06+00:00",
+          "summary": "Für VW reißen die Qualitätsprobleme nicht ab. Nach dem Millionenrückruf wegen einer Schraube müssen nun einige E-Autos in die Werkstatt. Die betroffenen Kunden will der Konzern schriftlich …"
+        },
+        {
           "title": "Aktienanteil steigt deutlich: EZB macht Weg frei für Übernahme der Commerzbank durch Unicredit",
           "link": "https://www.n-tv.de/wirtschaft/EZB-macht-Weg-frei-fuer-Uebernahme-der-Commerzbank-durch-Unicredit-id31423367.html",
           "published": "2026-10-15T18:55:22+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Berlin-und-Paris-wollen-Verbrenner-Aus-offenbar-weiter-aufweichen-id31423261.html",
           "published": "2026-10-15T18:29:16+00:00",
           "summary": "Die teilweise Abkehr vom Verbrenner-Aus ist ein wichtiges Ziel von CDU/CSU auf europäischer Ebene. Die Bundesregierung soll sich nun mit Frankreich auf eine Regelung zu den Flottengrenzwerten …"
-        },
-        {
-          "title": "Globale Krise bis 2027?: Kein Ende der Dieselknappheit in Sicht",
-          "link": "https://www.n-tv.de/wirtschaft/Kein-Ende-der-Dieselknappheit-in-Sicht-id31422199.html",
-          "published": "2026-10-15T16:46:30+00:00",
-          "summary": "Der Motor der Weltwirtschaft stockt: Durch den Konflikt im Nahen Osten und fehlende Raffinerie-Kapazitäten bleibt Diesel knapp. Eine Entlastung ist trotz Not-Freigaben durch die G7 vorerst nicht in …"
-        },
-        {
-          "title": "Viele Kurse fallen immer weiter: Ausverkauf von Tech-Aktien an US-Börsen vernichtet Billionenwerte",
-          "link": "https://www.n-tv.de/wirtschaft/Ausverkauf-von-Tech-Aktien-an-US-Boersen-vernichtet-Billionenwerte-id31422632.html",
-          "published": "2026-10-15T15:28:21+00:00",
-          "summary": "Anleger vieler gehypter Technologieaktien müssen in diesen Tagen stark sein. Inflationssorgen und Zweifel an der Finanzierung des KI-Booms sorgen für heftige Kursrücksetzer. Aber auch in anderen …"
-        },
-        {
-          "title": "Gericht deutet Entscheidung an: Quadrat-Riegel ist Ritter Sport \"überdurchschnittlich\" ähnlich",
-          "link": "https://www.n-tv.de/wirtschaft/Quadrat-Riegel-ist-Ritter-Sport-ueberdurchschnittlich-aehnlich-id31421629.html",
-          "published": "2026-10-15T12:57:27+00:00",
-          "summary": "Ein Gericht schickt sich an, den Markenrechtsstreit zwischen Ritter Sport und einer kleinen Mannheimer Firma anders zu entscheiden als die Vorinstanz. Die quadratische Verpackung des \"Monnemer …"
         }
       ],
       "error": null
@@ -211,6 +211,18 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "41. Münchner Gefahrstoff- und Sicherheitstage: Fachkongress für Umwelt-, Gesundheitsschutz und Arbeitssicherheit",
+          "link": "https://www.ingenieur.de/41-muenchner-gefahrstoff-und-sicherheitstage-fachkongress-fuer-umwelt-gesundheitsschutz-und-arbe-76616b33-108b-40d1-86e6-243ed1b83f10/",
+          "published": "2026-10-15T21:00:00+00:00",
+          "summary": "Die Münchner Gefahrstoff- und Sicherheitstage sind eine Institution im Fachbereich Gefahrstoffe. Mit dem neuen Veranstalter UniQMoments finden sie auch im November 2026 wieder statt."
+        },
+        {
+          "title": "Wie Temperatur, Feuchte und Luftbewegung die Innenraumluftqualität beeinflussen",
+          "link": "https://www.ingenieur.de/wie-temperatur-feuchte-und-luftbewegung-die-innenraumluftqualitaet-beeinflussen-88d902d2-758d-4fd1-89ef-3a07d53ab9ee/",
+          "published": "2026-10-15T19:52:03+00:00",
+          "summary": "Moderne, energieeffiziente Gebäude sind dicht – und genau das verändert das Raumklima. Temperatur, relative Feuchte und Luftbewegung bestimmen nicht nur den thermischen Komfort, sondern unmittelbar …"
+        },
+        {
           "title": "Neue Baumaterialien aus Reststoffen der Holzindustrie",
           "link": "https://www.ingenieur.de/neue-baumaterialien-aus-reststoffen-der-holzindustrie-bd02e874-77dc-4342-9d39-7ec4c31bca33/",
           "published": "2026-10-15T14:34:49+00:00",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/neues-fuegemodul-aipress-jm-basic-fuer-standardpressprozesse-3daf02c8-6146-4095-bdb2-e2dbb7cd807c/",
           "published": "2026-10-14T07:53:48+00:00",
           "summary": "Das neue Fügemodul aiPRESS JM basic richtet sich an alle, die die Vorteile einer servogesteuerten Presse nutzen möchten, aber nicht die hohen Anforderungen für Präzisionsanwendungen benötigen. …"
-        },
-        {
-          "title": "Diese Antenne existiert nur als Plasma und sendet trotzdem",
-          "link": "https://www.ingenieur.de/diese-antenne-existiert-nur-aus-plasma-und-sendet-trotzdem-b6b19fde-b1c8-460d-8494-2cd685813793/",
-          "published": "2026-10-11T16:51:34+00:00",
-          "summary": "Statt Metall nutzt diese Antenne ionisierte Luft. Ein Laser erzeugt das Plasma, das anschließend Radiowellen abstrahlt. Was der Versuch wirklich zeigt."
-        },
-        {
-          "title": "Ein außergewöhnliches Signal aus dem All gibt Hawking recht – fast",
-          "link": "https://www.ingenieur.de/das-universum-sendet-ein-echo-und-hawking-behaelt-recht-f0c07c24-d18d-46db-b269-ae544885a500/",
-          "published": "2026-10-11T16:40:00+00:00",
-          "summary": "Ein Signal aus 1,3 Milliarden Lichtjahren Entfernung bestätigt eine 55 Jahre alte Vorhersage von Stephen Hawking – so präzise wie nie zuvor."
         }
       ],
       "error": null
