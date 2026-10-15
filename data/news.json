@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:03:13+00:00",
+  "generatedAt": "2026-10-15T03:07:46+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,8 +8,26 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1666486.html",
+          "published": "2026-10-15T03:03:03+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+          "published": "2026-10-15T03:00:17+00:00",
+          "summary": "Notaufnahmen und Rettungsdienste sind seit Jahren überlastet. Nun will der Bundestag endlich eine Reform auf den Weg bringen. Große Hilfs- und Rettungsorganisationen verlangen allerdings …"
+        },
+        {
+          "title": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
+          "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
+          "published": "2026-10-15T01:48:20+00:00",
+          "summary": "Bundesweit gilt an allen rund 5.700 Stationen der Deutschen Bahn inklusive der Bahnsteige ab heute ein Alkoholverbot. Die Bahn erhofft sich davon mehr Sicherheit."
+        },
+        {
           "title": "Champions League: BVB bekommt die Klasse von Bodø/Glimt zu spüren",
-          "link": "https://www.sportschau.de/fussball/championsleague/x,spielbericht-bodo-glimt-borussia-dortmund-100.html",
+          "link": "https://www.sportschau.de/fussball/championsleague/bvb-bekommt-die-klasse-von-bodo-glimt-zu-spueren,spielbericht-bodo-glimt-borussia-dortmund-100.html",
           "published": "2026-10-14T21:18:39+00:00",
           "summary": "Nach dem bitteren Remis gegen Werder Bremen in der Bundesliga hat Borussia Dortmund in der Champions League die nächste Enttäuschung erlebt. Bei Bodø/Glimt gab es eine verdiente Niederlage. Die …"
         },
@@ -17,24 +35,6 @@
           "title": "Massive Raketenangriffe auf Kiew - erneut ohne vorherige Warnung der Verbündeten an die Ukraine",
           "link": "https://www.tagesschau.de/tagesthemen/video-1666468.html",
           "published": "2026-10-14T21:13:06+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Champions League: VfB Stuttgart auf Kurs K.o.-Runde",
-          "link": "https://www.sportschau.de/fussball/championsleague/stuttgart-mit-wichtigem-schritt-richtung-ko-runde,spielbericht-slovan-bratislava-stuttgart-100.html",
-          "published": "2026-10-14T21:09:33+00:00",
-          "summary": "Der VfB Stuttgart hat im zweiten Spiel der Champions League bei Slovan Bratislava seinen zweiten Sieg geholt. Die Begegnung endete 3:0. Damit nimmt die Mannschaft Kurs Richtung K.o.-Runde."
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12926.html",
-          "published": "2026-10-14T20:51:44+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Joachim Weber, Experte für Sicherheitspolitik, Uni Bonn, mit Hintergründen zum Anschlag auf Nord-Stream-Pipeline",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1666442.html",
-          "published": "2026-10-14T20:35:42+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Sicherheit im Verkehr: Autobahn-Notrufsäulen stehen auf dem Prüfstand",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sicherheit-im-verkehr-autobahn-notrufsaeulen-stehen-auf-dem-pruefstand/100262324.html",
-          "published": "2026-10-14T22:01:21+00:00",
-          "summary": "Rund 17.000 Notrufsäulen stehen noch an deutschen Autobahnen – doch immer weniger Leute nutzen sie. Braucht man das System überhaupt noch?"
+          "title": "+++ USA +++: USA erwägen Lockerung von Sanktionen gegen Schattenflotten-Tanker",
+          "link": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html",
+          "published": "2026-10-17T01:21:00+00:00",
+          "summary": "Trump würde Informanten für Geheimnisverrat erschießen lassen +++ Demokraten planen bei Mehrheitsgewinn ein Blitzprogramm +++ Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl …"
         },
         {
-          "title": "Immobilien: Bis zu 6,7 Prozent mehr – In diesen Metropolen steigen die Mieten besonders stark",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-diesen-metropolen-steigen-die-mieten-besonders-stark/100262197.html",
-          "published": "2026-10-14T22:01:16+00:00",
-          "summary": "Ein neuer Index zeigt, wo die Angebotsmieten besonders kräftig zulegen – und wo Wohnungssuchende noch vergleichsweise günstig wohnen können."
+          "title": "Brexit: „Jetzt ist der Moment“: Wirtschaft setzt auf EU-Rückkehr Großbritanniens",
+          "link": "https://www.handelsblatt.com/politik/international/eu-jetzt-ist-der-moment-wirtschaft-setzt-auf-eu-rueckkehr-grossbritanniens/100261080.html",
+          "published": "2026-10-15T03:00:20+00:00",
+          "summary": "Premier Burnham treibt den Neustart mit der EU voran, während britische und deutsche Unternehmen laut einer Umfrage Investitionen zurückhalten. Ein Plan der EU könnte für Streit sorgen."
         },
         {
-          "title": "+++ USA +++: Trumps neue Sprecherin beendet ersten Auftritt nach wenigen Minuten",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trumps-neue-sprecherin-beendet-ersten-auftritt-nach-wenigen-minuten/29669594.html",
-          "published": "2026-10-14T21:33:00+00:00",
-          "summary": "Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl +++ Trump feuert US-Botschafterin Guilfoyle +++ US-Präsident erwägt Treffen mit Nordkoreas Machthaber Kim im November +++ Der …"
+          "title": "Bahn will mehr Sicherheit: Aus für das Bahnsteig-Bier: Was Reisende jetzt noch dürfen",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/bahn-will-mehr-sicherheit-aus-fuer-das-bahnsteig-bier-was-reisende-jetzt-noch-duerfen/100260669.html",
+          "published": "2026-10-15T02:30:10+00:00",
+          "summary": "Das Alkoholverbot auf Bahnhöfen ist da. Ein frisches Feierabend-Bier auf dem Bahnsteig könnte nun Konsequenzen haben. Aber was gilt für Gepäck - und im Bordbistro?"
         },
         {
-          "title": "EU-Gipfeltreffen: Le Pen will Entscheidung über EU-Haushalt bremsen",
-          "link": "https://www.handelsblatt.com/politik/international/eu-gipfeltreffen-le-pen-will-entscheidung-ueber-eu-haushalt-bremsen/100262335.html",
-          "published": "2026-10-14T21:18:38+00:00",
-          "summary": "Beim Treffen in Brüssel ist die französische Präsidentschaftskandidatin nicht dabei. Die EU-Budget-Verhandlungen will sie dennoch beeinflussen."
+          "title": "Krankenkassen: Krankenkassenbeiträge - stabil oder nicht?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/krankenkassen-krankenkassenbeitraege-stabil-oder-nicht/100262323.html",
+          "published": "2026-10-15T02:30:07+00:00",
+          "summary": "Schnell versichert der Gesundheitsminister nach einer offiziellen Schätzung: Der durchschnittliche Zusatzbeitrag für die Krankenkassen bleibt stabil. Doch was heißt das für die Beitragszahlenden?"
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Selenskyj zu Gespräch mit Premierminister Burnham in London eingetroffen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-zu-gespraech-mit-burnham-in-london-eingetroffen/27982126.html",
-          "published": "2026-10-14T20:57:00+00:00",
-          "summary": "Tanker vor Rumänien in Flammen – möglicher Drohnenangriff wird untersucht +++ Musk: Satelliten-Kontrolle liegt bei US-Regierung +++ Frankreich kann Ukraine nicht weiter finanzieren +++ Der Newsblog."
+          "title": "Umrüstung der Busflotten: Weniger Geld für E-Busse - Branche warnt vor Folgen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/umruestung-der-busflotten-weniger-geld-fuer-e-busse-branche-warnt-vor-folgen/100262366.html",
+          "published": "2026-10-15T02:30:06+00:00",
+          "summary": "Der Bund fördert die Anschaffung von Elektrobussen im Nahverkehr mit Hunderten Millionen Euro. Ab kommendem Jahr sollen die Mittel deutlich sinken. Die Branche sieht deshalb die Klimaziele in Gefahr."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Experten bezweifeln Nutzen: USA wollen Sanktionen gegen Schattenflotten-Tanker lockern",
+          "link": "https://www.n-tv.de/wirtschaft/USA-wollen-Sanktionen-gegen-Schattenflotten-Tanker-lockern-id31419253.html",
+          "published": "2026-10-15T02:28:25+00:00",
+          "summary": "Der Irankrieg treibt die weltweiten Frachtkosten nach oben. Washington denkt darüber nach, bislang sanktionierte Tanker wieder für Transporte freizugeben. Russland soll davon ausdrücklich nicht …"
+        },
         {
           "title": "Lufthansa reagiert: Am Drehkreuz Frankfurt ist das Kerosin knapp",
           "link": "https://www.n-tv.de/wirtschaft/Am-Drehkreuz-Frankfurt-ist-das-Kerosin-knapp-id31419059.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Regierung-lockert-Vorgaben-fuer-Zustellzeiten-der-Post-id31417662.html",
           "published": "2026-10-14T15:19:55+00:00",
           "summary": "Die Bundesregierung streicht der Post eine Steuerbefreiung. Im Gegenzug sollen Vorgaben zur maximalen Zustellzeit von Briefen gelockert werden. Die Post hält das Vorhaben für rechtswidrig und warnt …"
-        },
-        {
-          "title": "\"Wird Sozialstaat nicht retten\": Experten zerlegen Vorstoß zur KI-Steuer",
-          "link": "https://www.n-tv.de/wirtschaft/Experten-zerlegen-Vorstoss-zur-KI-Steuer-id31417126.html",
-          "published": "2026-10-14T15:08:49+00:00",
-          "summary": "Wenn Algorithmen immer mehr Arbeit übernehmen: Woher kommt künftig dann das Geld für die Sozialversicherung? Von ntv.de befragte Experten warnen: Eine KI-Steuer verfehle die Ursache der Krise …"
         }
       ],
       "error": null
