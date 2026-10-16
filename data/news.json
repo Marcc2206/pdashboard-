@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:04:04+00:00",
+  "generatedAt": "2026-10-16T08:44:00+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Christian Saathoff, ARD-aktuell, zur Debatte um den EU-Haushalt",
+          "link": "https://www.tagesschau.de/video/video-1667160.html",
+          "published": "2026-10-16T08:21:33+00:00",
+          "summary": ""
+        },
+        {
           "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
           "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
-          "published": "2026-10-16T03:00:25+00:00",
-          "summary": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag will heute über eine Maßnahme zur Alterssicherung entscheiden: die sogenannte Frühstartrente. Was sie beinhaltet und …"
+          "published": "2026-10-16T08:16:46+00:00",
+          "summary": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie …"
         },
         {
-          "title": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
-          "published": "2026-10-16T01:23:51+00:00",
-          "summary": "In der Ukraine scheint für viele klar: Die Starlink-Ausfälle sind kein Zufall, sondern politisch gewollt. Die Unterstützung aus der EU wird immer wichtiger. Von Rebecca Barth, ARD-Studio Kiew."
+          "title": "Marktbericht: DAX startet mit Gewinnen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+          "published": "2026-10-16T08:12:55+00:00",
+          "summary": "Die Erholung im weltweiten Technologiesektor gibt auch dem deutschen Aktienmarkt Rückenwind. US-Notenbankchef Kevin Warsh sieht in künstlicher Intelligenz enormes Potenzial für Länder bei …"
         },
         {
-          "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
-          "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
-          "published": "2026-10-16T01:17:45+00:00",
-          "summary": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich ein Deal ab."
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667082.html",
-          "published": "2026-10-16T00:40:46+00:00",
-          "summary": ""
+          "title": "Bundeseigene Wohnungsbaugesellschaft soll 2027 starten",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html",
+          "published": "2026-10-16T08:04:20+00:00",
+          "summary": "Der Wohnungsmangel in Deutschland ist groß, eine bundeseigene Wohnungsbaugesellschaft soll Abhilfe schaffen. Nach Angaben von Bundesbauministerin Hubertz soll sie 2027 an den Start gehen."
         },
         {
           "title": "Bundestag beschließt Anhebung der Tabaksteuer",
           "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
-          "published": "2026-10-15T23:06:09+00:00",
+          "published": "2026-10-16T07:55:57+00:00",
           "summary": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen."
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Gebrauchtwagen-Check: Wie zuverlässig ist der Hyundai Tucson als Gebrauchter?",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/gebrauchtwagen-check-wie-zuverlaessig-ist-der-hyundai-tucson-als-gebrauchter/100262709.html",
-          "published": "2026-10-16T02:34:04+00:00",
-          "summary": "Dass der Hyundai zum alten Modellnamen zurückgekehrt ist, scheint ein gutes Omen. Zumindest halten sich seine Marotten in jungen Jahren in Grenzen, während ältere Tucson beim TÜV schlechter dastehen."
+          "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+          "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-diese-13-ki-fragen-sollten-sie-beantworten-koennen/100240522.html",
+          "published": "2026-10-16T08:38:00+00:00",
+          "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert."
         },
         {
-          "title": "Elektromobilität: Wo Elektroautos besonders boomen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/elektromobilitaet-wo-elektroautos-besonders-boomen/100262707.html",
-          "published": "2026-10-16T02:30:07+00:00",
-          "summary": "Förderung, breitere Auswahl und die hohen Spritpreise treiben die Elektroautoneuzulassungen in Deutschland. In zwei Bundesländern fährt dieses Jahr schon fast jedes neue Auto mit nur Strom."
+          "title": "Immobilien: Das sind die zehn deutschen Städte mit den höchsten Wohnungspreisen und Mieten",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-hier-steigen-die-wohnungspreise-und-mieten-am-staerksten/100170988.html",
+          "published": "2026-10-16T08:37:00+00:00",
+          "summary": "Bestandswohnungen haben sich im dritten Quartal stärker verteuert als Neubauten. Exklusive Daten der 400 deutschen Kreise zeigen, wo Wohnraum teurer und wo er günstiger geworden ist."
         },
         {
-          "title": "Altersvorsorge: Schon als Kind fürs Alter vorsorgen - die Frühstartrente",
-          "link": "https://www.handelsblatt.com/politik/deutschland/altersvorsorge-schon-als-kind-fuers-alter-vorsorgen-die-fruehstartrente/100262708.html",
-          "published": "2026-10-16T02:30:05+00:00",
-          "summary": "Ein Zuschuss vom Staat soll Kinder an die Altersvorsorge heranführen. Die Koalition sieht einen wichtigen Baustein für die Rente."
+          "title": "Mission S: Neue Studie stimmt auf neuen Supersportwagen von Porsche ein",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/mission-s-neue-studie-stimmt-auf-neuen-supersportwagen-von-porsche-ein/100262782.html",
+          "published": "2026-10-16T08:35:24+00:00",
+          "summary": "Darauf haben die Petrolheads unter den Porsche-Kunden lange gewartet: Die Stuttgarter bauen einen neuen Sportwagen und siedeln den XXganz obenXX an. Dummerweise gibt's erst mal nur eine Studie."
         },
         {
-          "title": "Anleihen: Deutsche-Bank-Experte Stephan – „Investoren wollen EZB testen“",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/anleihen-deutsche-bank-experte-stephan-investoren-wollen-ezb-testen/100261326.html",
-          "published": "2026-10-16T02:04:15+00:00",
-          "summary": "Ulrich Stephan, Chefanlagestratege der Deutschen Bank, über hohe Anleihe-Renditen, darüber, warum die KI-Rally noch Potenzial hat und über Chancen im Dax."
+          "title": "Meckel & Matthes: Bas-Beben, Bot-Angriff aus Russland und Psychedelika-Trip",
+          "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-bas-beben-bot-angriff-aus-russland-und-psychedelika-trip/100262714.html",
+          "published": "2026-10-16T08:30:21+00:00",
+          "summary": "Die Koalition erreicht nach dem Rücktritt der Arbeitsministerin zwischenmenschlich einen neuen Tiefpunkt. Außerdem: Wie Bots unsere Meinung beeinflussen und warum KI kein Bewusstsein hat."
         },
         {
-          "title": "Gastkommentar: Wer nach unten tritt, bringt niemanden nach oben",
-          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wer-nach-unten-tritt-bringt-niemanden-nach-oben/100262525.html",
-          "published": "2026-10-16T02:03:44+00:00",
-          "summary": "Zuletzt wurde viel über Gerechtigkeit diskutiert. Grund genug, über die christlich-soziale Idee zu sprechen, meinen die Unionspolitiker Dennis Radtke, Kai Whittaker, Stefan Nacke, Elisabeth …"
+          "title": "Militär: General hält die Nato im Konflikt mit Russland für klar überlegen",
+          "link": "https://www.handelsblatt.com/politik/international/konflikt-mit-russland-general-haelt-die-nato-fuer-klar-ueberlegen/100262779.html",
+          "published": "2026-10-16T08:27:38+00:00",
+          "summary": "Nato-General Alexus Grynkewich hält einen direkten russischen Angriff auf Europa für unwahrscheinlich. Warum Moskau seiner Ansicht nach stattdessen auf Sabotage setzt."
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-          "published": "2026-10-15T16:32:51+00:00",
-          "summary": "Der DAX pendelt weiter um die Marke von 25.000 Punkten. Der weltweite Ausverkauf von Tech-Aktien hat den deutschen Leitindex nicht so stark getroffen - denn große Technologiewerte sind kaum vertreten."
+          "title": "Marktbericht: DAX startet mit Gewinnen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+          "published": "2026-10-16T08:12:55+00:00",
+          "summary": "Die Erholung im weltweiten Technologiesektor gibt auch dem deutschen Aktienmarkt Rückenwind. US-Notenbankchef Kevin Warsh sieht in künstlicher Intelligenz enormes Potenzial für Länder bei …"
         },
         {
           "title": "Marktbericht: TSMC gibt sich keine Blöße",
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Energie: CO2-Preis soll stabil bleiben im nächsten Jahr",
-          "link": "https://www.wiwo.de/politik/deutschland/energie-co2-preis-soll-stabil-bleiben-im-naechsten-jahr/100262664.html",
-          "published": "2026-10-15T18:29:54+00:00",
-          "summary": "Der CO2-Preis, der Heizen und Tanken teuer macht, soll mit dem Jahreswechsel nicht steigen. Das soll Verbraucher vor Preissprüngen schützen. Doch es gibt Zweifel, dass das klappt."
+          "title": "Altersvorsorge für Kinder: Bundestag beschließt Frühstartrente",
+          "link": "https://www.wiwo.de/politik/deutschland/altersvorsorge-fuer-kinder-bundestag-beschliesst-fruehstartrente/100262781.html",
+          "published": "2026-10-16T08:40:22+00:00",
+          "summary": "Abgeordnete der Koalition sprechen von einer historischen Entscheidung, die lange wirkt. Kinder bekommen künftig eine staatliche Förderung zur Altersvorsorge."
         },
         {
-          "title": "Volkswagen: VW bereitet Rückruf wegen fehlerhafter Batteriezellen vor",
-          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor/100262655.html",
-          "published": "2026-10-15T17:28:11+00:00",
-          "summary": "Der Rückruf von Millionen Fahrzeugen wegen einer fehlerhaften Schraube ist erst wenige Wochen her – nun muss VW den nächsten Mangel ausräumen. Betroffen sind E-Autos. Was bislang bekannt ist."
+          "title": "Altersvorsorge-Depot: Das müssen Eltern über die Frühstartrente wissen",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/fruehstartrente-fuer-kinder-ab-wann-es-staatliche-foerderung-geben-koennte/100242317.html",
+          "published": "2026-10-16T08:35:00+00:00",
+          "summary": "Die Frühstartrente steht in den Startlöchern. Diese Unterschiede in der Ausführung sollten Eltern kennen."
         },
         {
-          "title": "Chipkonzern: Bundesregierung plant offenbar KI-Partnerschaft mit Nvidia",
-          "link": "https://www.wiwo.de/politik/deutschland/bundesregierung-plant-ki-partnerschaft-mit-chipkonzern-nvidia/100262650.html",
-          "published": "2026-10-15T16:13:12+00:00",
-          "summary": "Die Bundesregierung plant eine Partnerschaft mit Nvidia: Ein dreistelliger Millionenbetrag soll die Industrie-KI in Deutschland stärken."
+          "title": "Geldanlage: Drei Grafiken zeigen die Renditewucht eines Kinderdepots",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/kinderdepot-diese-grafiken-zeigen-renditewucht-von-geldanlagen-fuer-kinder/100221087.html",
+          "published": "2026-10-16T08:26:00+00:00",
+          "summary": "Mit der Frühstartrente will die Politik Eltern zur Geldanlage für ihre Kinder animieren. Wer das Staatsgeld selbst aufstockt, kann den Nachwuchs vermögend machen."
         },
         {
-          "title": "Maschinenbauer: Trumpf expandiert – in Polen und den USA",
-          "link": "https://www.wiwo.de/unternehmen/industrie/maschinenbauer-trumpf-waechst-stark-aber-nicht-in-deutschland/100262189.html",
-          "published": "2026-10-15T15:43:10+00:00",
-          "summary": "Der Technologielieferant Trumpf findet die Schlüssel fürs Wachstum: Fokus auf die Kernkompetenzen und die attraktivsten Märkte. Deutschland spielt dabei vorerst keine Rolle."
+          "title": "Porsche: Mission S – dieser neue Supersportwagen soll Porsche retten",
+          "link": "https://www.wiwo.de/unternehmen/auto/porsche-mission-s-dieser-neue-supersportwagen-soll-porsche-retten/100262336.html",
+          "published": "2026-10-16T08:13:45+00:00",
+          "summary": "Während Tesla mit einem Prototypen seines Roadsters abhebt, setzt Porsche auf einen Luxuswagen mit Verbrennungsmotor. Die Wette von CEO Michael Leiters könnte aufgehen."
         }
       ],
       "error": null
@@ -211,10 +211,10 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "41. Münchner Gefahrstoff- und Sicherheitstage: Fachkongress für Umwelt-, Gesundheitsschutz und Arbeitssicherheit",
-          "link": "https://www.ingenieur.de/41-muenchner-gefahrstoff-und-sicherheitstage-fachkongress-fuer-umwelt-gesundheitsschutz-und-arbe-76616b33-108b-40d1-86e6-243ed1b83f10/",
-          "published": "2026-10-15T21:00:00+00:00",
-          "summary": "Die Münchner Gefahrstoff- und Sicherheitstage sind eine Institution im Fachbereich Gefahrstoffe. Mit dem neuen Veranstalter UniQMoments finden sie auch im November 2026 wieder statt."
+          "title": "7 Jahre alt, schon repariert: Was ist mit der Holzbrücke bei Thyrow passiert?",
+          "link": "https://www.ingenieur.de/7-jahre-alt-schon-repariert-was-ist-mit-der-holbruecke-bei-thyrow-passiert-62548b49-631e-4a02-9c8a-41ea62042ad3/",
+          "published": "2026-10-16T06:18:19+00:00",
+          "summary": "Nach Rissen im Holztragwerk ist die B101 bei Thyrow wieder freigegeben. Die Brücke bleibt unter Beobachtung. Was bisher zur Ursache bekannt ist."
         },
         {
           "title": "Wie Temperatur, Feuchte und Luftbewegung die Innenraumluftqualität beeinflussen",
