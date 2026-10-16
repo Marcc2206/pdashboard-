@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:44:00+00:00",
+  "generatedAt": "2026-10-16T14:30:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Christian Saathoff, ARD-aktuell, zur Debatte um den EU-Haushalt",
-          "link": "https://www.tagesschau.de/video/video-1667160.html",
-          "published": "2026-10-16T08:21:33+00:00",
+          "title": "Wie es mit der Commerzbank nun weitergeht",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
+          "published": "2026-10-16T14:25:09+00:00",
+          "summary": "Nach der Zustimmung der EZB-Aufseher steht einer Mehrheitsübernahme der Commerzbank durch die italienische Großbank UniCredit fast nichts mehr im Weg. Was sind die nächsten Schritte - und die Folgen? …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81440.html",
+          "published": "2026-10-16T14:15:58+00:00",
           "summary": ""
         },
         {
-          "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
-          "published": "2026-10-16T08:16:46+00:00",
-          "summary": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie …"
+          "title": "Gefährliche Mutproben: Bundesrat fordert mehr Schutz von Minderjährigen im Netz",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-bundesrat-100.html",
+          "published": "2026-10-16T13:29:07+00:00",
+          "summary": "Bei \"Blackout-Challenges\" würgen sich Jugendliche selbst oder gegenseitig bis zur Ohnmacht. Aufnahmen davon werden vielfach in Sozialen Medien geteilt. Der Bundesrat fordert nun Strafen für die, die …"
         },
         {
-          "title": "Marktbericht: DAX startet mit Gewinnen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-          "published": "2026-10-16T08:12:55+00:00",
-          "summary": "Die Erholung im weltweiten Technologiesektor gibt auch dem deutschen Aktienmarkt Rückenwind. US-Notenbankchef Kevin Warsh sieht in künstlicher Intelligenz enormes Potenzial für Länder bei …"
+          "title": "Klettern in der Sächsischen Schweiz, Fensterputzer an der Reichstagskuppel, \"Sculpture by the Sea\"",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10508.html",
+          "published": "2026-10-16T13:24:35+00:00",
+          "summary": ""
         },
         {
-          "title": "Bundeseigene Wohnungsbaugesellschaft soll 2027 starten",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html",
-          "published": "2026-10-16T08:04:20+00:00",
-          "summary": "Der Wohnungsmangel in Deutschland ist groß, eine bundeseigene Wohnungsbaugesellschaft soll Abhilfe schaffen. Nach Angaben von Bundesbauministerin Hubertz soll sie 2027 an den Start gehen."
-        },
-        {
-          "title": "Bundestag beschließt Anhebung der Tabaksteuer",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
-          "published": "2026-10-16T07:55:57+00:00",
-          "summary": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen."
+          "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
+          "published": "2026-10-16T13:13:40+00:00",
+          "summary": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-          "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-diese-13-ki-fragen-sollten-sie-beantworten-koennen/100240522.html",
-          "published": "2026-10-16T08:38:00+00:00",
-          "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert."
+          "title": "Gehalt: Top-Verdiener in Deutschland: In diesen Berufen wird am besten bezahlt",
+          "link": "https://www.handelsblatt.com/karriere/einkommen-so-hoch-ist-das-gehalt-der-top-verdiener-in-deutschland/100201057.html",
+          "published": "2026-10-16T14:24:00+00:00",
+          "summary": "Gehören Sie zu den absoluten Top-Verdienern in Deutschland? Eine exklusive Auswertung zeigt, welche Berufe an der Gehaltsspitze stehen."
         },
         {
-          "title": "Immobilien: Das sind die zehn deutschen Städte mit den höchsten Wohnungspreisen und Mieten",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-hier-steigen-die-wohnungspreise-und-mieten-am-staerksten/100170988.html",
-          "published": "2026-10-16T08:37:00+00:00",
-          "summary": "Bestandswohnungen haben sich im dritten Quartal stärker verteuert als Neubauten. Exklusive Daten der 400 deutschen Kreise zeigen, wo Wohnraum teurer und wo er günstiger geworden ist."
+          "title": "Führung: „Die Anerkennung für meine Arbeit bekommt jemand über mir“ – Das Leid der stillen Schaffer",
+          "link": "https://www.handelsblatt.com/karriere/unternehmen-warum-die-arbeitswelt-mehr-stille-mitarbeiter-braucht-01/100108181.html",
+          "published": "2026-10-16T14:24:00+00:00",
+          "summary": "Oft sind laute Mitarbeiter erfolgreich, auch weil sie Führungskräften eher auffallen. Doch meist halten die Stillen ein Unternehmen am Laufen. Wie es gelingt, Introvertierte nicht länger zu übersehen."
         },
         {
-          "title": "Mission S: Neue Studie stimmt auf neuen Supersportwagen von Porsche ein",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/mission-s-neue-studie-stimmt-auf-neuen-supersportwagen-von-porsche-ein/100262782.html",
-          "published": "2026-10-16T08:35:24+00:00",
-          "summary": "Darauf haben die Petrolheads unter den Porsche-Kunden lange gewartet: Die Stuttgarter bauen einen neuen Sportwagen und siedeln den XXganz obenXX an. Dummerweise gibt's erst mal nur eine Studie."
+          "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-diese-vier-aenderungen-sollen-auf-vermieter-zukommen/100199045.html",
+          "published": "2026-10-16T14:21:00+00:00",
+          "summary": "Welche Einschränkungen die jetzt vorgestellten Reformpläne von Justizministerin Hubig für Eigentümer und Vermieter vorsehen – und wie sehr sie den Markt verändern werden."
         },
         {
-          "title": "Meckel & Matthes: Bas-Beben, Bot-Angriff aus Russland und Psychedelika-Trip",
-          "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-bas-beben-bot-angriff-aus-russland-und-psychedelika-trip/100262714.html",
-          "published": "2026-10-16T08:30:21+00:00",
-          "summary": "Die Koalition erreicht nach dem Rücktritt der Arbeitsministerin zwischenmenschlich einen neuen Tiefpunkt. Außerdem: Wie Bots unsere Meinung beeinflussen und warum KI kein Bewusstsein hat."
+          "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+          "link": "https://www.handelsblatt.com/karriere/ki-wie-viel-automatisierung-vertraegt-der-bewerbungsprozess/100248546.html",
+          "published": "2026-10-16T14:19:00+00:00",
+          "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am …"
         },
         {
-          "title": "Militär: General hält die Nato im Konflikt mit Russland für klar überlegen",
-          "link": "https://www.handelsblatt.com/politik/international/konflikt-mit-russland-general-haelt-die-nato-fuer-klar-ueberlegen/100262779.html",
-          "published": "2026-10-16T08:27:38+00:00",
-          "summary": "Nato-General Alexus Grynkewich hält einen direkten russischen Angriff auf Europa für unwahrscheinlich. Warum Moskau seiner Ansicht nach stattdessen auf Sabotage setzt."
+          "title": "Gehaltsreport 2026: 1,3 Millionen Gehaltsdaten im Vergleich: Gehören Sie zu den Besserverdienern in Deutschland?",
+          "link": "https://www.handelsblatt.com/karriere/geld-das-sind-deutschlands-bestbezahlte-berufe-2026-27-03/100179922.html",
+          "published": "2026-10-16T14:17:00+00:00",
+          "summary": "Das Gehalt gehört nach wie vor zu den Tabuthemen in Deutschland. Finden Sie heraus, wie gut Sie im Vergleich in einzelnen Berufen, Branchen und Bundesländern verdienen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Ausverkauf wegen KI-Sorgen: Techwerte kommen von Tagestiefs zurück",
-          "link": "https://www.n-tv.de/wirtschaft/Techwerte-kommen-von-Tagestiefs-zurueck-id31423621.html",
-          "published": "2026-10-15T20:49:56+00:00",
-          "summary": "US-Anleger rechnen mit steigenden Zinsen. Damit geraten die astronomischen Schulden vieler KI-Unternehmen in den Blick. Besonders Tech-Aktien werden in großem Umfang abgestoßen. Bis zum Abend kehrt …"
+          "title": "Kurz nach EU-Auftritt Selenskyjs: Putin geht gegen weitere westliche Unternehmen vor",
+          "link": "https://www.n-tv.de/wirtschaft/Putin-geht-gegen-weitere-westliche-Unternehmen-vor-id31426091.html",
+          "published": "2026-10-16T13:56:26+00:00",
+          "summary": "Einige europäischen Unternehmen haben den Druck durch den Kreml schon erfahren. Nun zieht Russlands Machthaber Putin weiter die Daumenschrauben an."
         },
         {
-          "title": "Weitere Belastungen verhindert?: Bundestag stoppt Anstieg des CO2-Preises",
-          "link": "https://www.n-tv.de/wirtschaft/Bundestag-stoppt-Anstieg-des-CO2-Preises-id31423448.html",
-          "published": "2026-10-15T19:47:41+00:00",
-          "summary": "Der CO2-Preis hätte Kraftstoffe und Gas im nächsten Jahr noch teurer gemacht als ohnehin schon. Nun verhindert der Bundestag den Anstieg mit einem Beschluss. Ein Verband sieht die Gefahr weiterer …"
+          "title": "\"Regionales Ungleichgewicht\": Babyboomer-Verkaufswelle lindert Wohnungsnot in Metropolen kaum",
+          "link": "https://www.n-tv.de/wirtschaft/Babyboomer-Verkaufswelle-lindert-Wohnungsnot-in-Metropolen-kaum-id31426633.html",
+          "published": "2026-10-16T13:51:57+00:00",
+          "summary": "Viele Eigentümer verkaufen im Ruhestand ihr Eigenheim. Doch jüngere Menschen profitieren in umkämpften Ballungszentren kaum davon, wie eine IW-Studie zeigt. Dort bleibt Wohnraum oft Mangelware."
         },
         {
-          "title": "Batterie könnte in Brand geraten: VW drosselt vorsorglich Ladeleistung bestimmter E-Autos",
-          "link": "https://www.n-tv.de/wirtschaft/VW-drosselt-vorsorglich-Ladeleistung-bestimmter-E-Autos-id31423431.html",
-          "published": "2026-10-15T19:47:06+00:00",
-          "summary": "Für VW reißen die Qualitätsprobleme nicht ab. Nach dem Millionenrückruf wegen einer Schraube müssen nun einige E-Autos in die Werkstatt. Die betroffenen Kunden will der Konzern schriftlich …"
+          "title": "Treffen mit Branche steht bevor: An diese Bedingungen knüpft Reiche den Spritpreisdeckel",
+          "link": "https://www.n-tv.de/wirtschaft/An-diese-Bedingungen-knuepft-Reiche-den-Spritpreisdeckel-id31426391.html",
+          "published": "2026-10-16T13:39:06+00:00",
+          "summary": "CDU und SPD haben vereinbart, im nächsten Jahr einen Spritpreisdeckel einzuführen. Wirtschaftsministerin Katherina Reiche will dafür mehrere Bedingungen erfüllt sehen. Von den Konzernen dürfte bald …"
         },
         {
-          "title": "Aktienanteil steigt deutlich: EZB macht Weg frei für Übernahme der Commerzbank durch Unicredit",
-          "link": "https://www.n-tv.de/wirtschaft/EZB-macht-Weg-frei-fuer-Uebernahme-der-Commerzbank-durch-Unicredit-id31423367.html",
-          "published": "2026-10-15T18:55:22+00:00",
-          "summary": "Die Europäische Zentralbank befürwortet einen Zusammenschluss von Unicredit und Commerzbank. Nun genehmigt sie einen Aktientausch, mit dem die Italiener ihren Anteil an den Frankfurtern deutlich …"
+          "title": "Ausschreibung bleibt lokal: Gericht erklärt Vergabe der Wiesn-Zelte für rechtmäßig",
+          "link": "https://www.n-tv.de/wirtschaft/Gericht-erklaert-Vergabe-der-Wiesn-Zelte-fuer-rechtmaessig-id31425473.html",
+          "published": "2026-10-16T11:44:44+00:00",
+          "summary": "Auf den Wiesn bekommt ein Wirt keinen Zuschlag für ein Festzelt und zieht daraufhin vor Gericht. Das entscheidet nun, dass die Vergabepraxis des Oktoberfestes rechtmäßig sei. Eine europaweite …"
         },
         {
-          "title": "Einigung zu Flottengrenzwerten: Berlin und Paris wollen Verbrenner-Aus offenbar weiter aufweichen",
-          "link": "https://www.n-tv.de/wirtschaft/Berlin-und-Paris-wollen-Verbrenner-Aus-offenbar-weiter-aufweichen-id31423261.html",
-          "published": "2026-10-15T18:29:16+00:00",
-          "summary": "Die teilweise Abkehr vom Verbrenner-Aus ist ein wichtiges Ziel von CDU/CSU auf europäischer Ebene. Die Bundesregierung soll sich nun mit Frankreich auf eine Regelung zu den Flottengrenzwerten …"
+          "title": "\"Umfassendes\" Auto-Paket: Berlin und Paris einig über Aus vom Verbrenner-Aus",
+          "link": "https://www.n-tv.de/wirtschaft/Berlin-und-Paris-einig-ueber-Aus-vom-Verbrenner-Aus-id31425571.html",
+          "published": "2026-10-16T11:03:36+00:00",
+          "summary": "Bundeskanzler Merz und Frankreichs Präsident Macron verständigen sich auf ein Auto-Paket. Demnach wollen sie nicht nur verschärfte \"Made in Europe\"-Regeln. Es geht auch um eine Abkehr vom …"
         }
       ],
       "error": null
@@ -133,6 +133,24 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Wie es mit der Commerzbank nun weitergeht",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
+          "published": "2026-10-16T14:25:09+00:00",
+          "summary": "Nach der Zustimmung der EZB-Aufseher steht einer Mehrheitsübernahme der Commerzbank durch die italienische Großbank UniCredit fast nichts mehr im Weg. Was sind die nächsten Schritte - und die Folgen? …"
+        },
+        {
+          "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
+          "published": "2026-10-16T12:17:39+00:00",
+          "summary": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag …"
+        },
+        {
+          "title": "Wie Anleger bei ETFs den Überblick behalten",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/etf-geldanlage-kosten-risiken-100.html",
+          "published": "2026-10-16T11:25:34+00:00",
+          "summary": "Einfach, günstig, transparent: Damit haben ETFs Millionen Anleger überzeugt. Doch die Branche bringt immer kompliziertere Produkte auf den Markt - oft mit höheren Gebühren und zusätzlichen Risiken. …"
+        },
+        {
           "title": "Marktbericht: DAX startet mit Gewinnen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
           "published": "2026-10-16T08:12:55+00:00",
@@ -143,24 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
           "published": "2026-10-15T11:56:37+00:00",
           "summary": "Neue US-Zinssorgen drücken vor allem die Kurse der hochbewerteten Tech-Aktien, allen voran der Chiphersteller. Die Fakten sprechen aber eine andere Sprache - wie heute die Zahlen von TSMC zeigen."
-        },
-        {
-          "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
-          "published": "2026-10-14T13:14:36+00:00",
-          "summary": "Ob Samsung, Apple oder Nvidia: Alle großen Chiphersteller sind Kunden bei ASML. Dessen Maschinen zur Produktion von Halbleitern machen den KI-Boom erst möglich - und die Aktie zur wertvollsten in …"
-        },
-        {
-          "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
-          "published": "2026-10-14T06:59:05+00:00",
-          "summary": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von …"
-        },
-        {
-          "title": "Kann es die Berichtssaison richten?",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-q3-100.html",
-          "published": "2026-10-13T12:39:48+00:00",
-          "summary": "Zuletzt konnten sich die Börsen in einem schwierigen Umfeld gut behaupten. Wesentlich dafür waren die starken Unternehmensgewinne. Die Zahlen zum dritten Quartal sind der nächste wichtige Prüfstein."
         }
       ],
       "error": null
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Altersvorsorge für Kinder: Bundestag beschließt Frühstartrente",
-          "link": "https://www.wiwo.de/politik/deutschland/altersvorsorge-fuer-kinder-bundestag-beschliesst-fruehstartrente/100262781.html",
-          "published": "2026-10-16T08:40:22+00:00",
-          "summary": "Abgeordnete der Koalition sprechen von einer historischen Entscheidung, die lange wirkt. Kinder bekommen künftig eine staatliche Förderung zur Altersvorsorge."
+          "title": "Lebensmittel: Warum der Einkauf bald noch teurer werden könnte",
+          "link": "https://www.wiwo.de/unternehmen/handel/lebensmittelpreise-warum-einkaufen-bald-noch-teurer-werden-koennte/100262777.html",
+          "published": "2026-10-16T14:18:00+00:00",
+          "summary": "Jetzt Kartoffeln, bald womöglich Brot und Schokolade: Extremwetter und Kriege lassen die Preise steigen. Das könnte auch die Inflation weiter antreiben."
         },
         {
-          "title": "Altersvorsorge-Depot: Das müssen Eltern über die Frühstartrente wissen",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/fruehstartrente-fuer-kinder-ab-wann-es-staatliche-foerderung-geben-koennte/100242317.html",
-          "published": "2026-10-16T08:35:00+00:00",
-          "summary": "Die Frühstartrente steht in den Startlöchern. Diese Unterschiede in der Ausführung sollten Eltern kennen."
+          "title": "EU-Gipfel: Brüssel „bedauert“ Trumps Diesel-Deal mit Putin",
+          "link": "https://www.wiwo.de/politik/europa/donald-trumps-diesel-deal-mit-putin-eu-gipfel-stellt-sich-hinter-ukraine/100262649.html",
+          "published": "2026-10-16T14:13:00+00:00",
+          "summary": "Die Regierungschefs der EU stellen sich hinter Selenskyj und versprechen weitere Hilfen, während die Spannungen zwischen Washington und Kiew zunehmen."
         },
         {
-          "title": "Geldanlage: Drei Grafiken zeigen die Renditewucht eines Kinderdepots",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/kinderdepot-diese-grafiken-zeigen-renditewucht-von-geldanlagen-fuer-kinder/100221087.html",
-          "published": "2026-10-16T08:26:00+00:00",
-          "summary": "Mit der Frühstartrente will die Politik Eltern zur Geldanlage für ihre Kinder animieren. Wer das Staatsgeld selbst aufstockt, kann den Nachwuchs vermögend machen."
+          "title": "Chemie: Übernahme von Evonik? Warum derzeit vieles gegen den BASF-Plan spricht",
+          "link": "https://www.wiwo.de/unternehmen/industrie/evonik-uebernahme-warum-vieles-gegen-den-basf-plan-spricht/100262534.html",
+          "published": "2026-10-16T13:59:00+00:00",
+          "summary": "Das erste Angebot ist abgelehnt, der Zeitpunkt ungünstig, die Zugeständnisse teuer. BASF will wachsen, doch auf dem Weg zum europäischen Champion warten zahlreiche Hürden."
         },
         {
-          "title": "Porsche: Mission S – dieser neue Supersportwagen soll Porsche retten",
-          "link": "https://www.wiwo.de/unternehmen/auto/porsche-mission-s-dieser-neue-supersportwagen-soll-porsche-retten/100262336.html",
-          "published": "2026-10-16T08:13:45+00:00",
-          "summary": "Während Tesla mit einem Prototypen seines Roadsters abhebt, setzt Porsche auf einen Luxuswagen mit Verbrennungsmotor. Die Wette von CEO Michael Leiters könnte aufgehen."
+          "title": "Energiekrise: Eurowings prüft Kurzarbeit wegen hoher Kerosinkosten",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/energiekrise-eurowings-prueft-kurzarbeit-wegen-hoher-kerosinkosten/100262856.html",
+          "published": "2026-10-16T13:54:00+00:00",
+          "summary": "Den Winterflugplan hat Eurowings bereits eingeschränkt. Nun will das Unternehmen aufgrund der hohen Kraftstoffpreise die Kurzarbeit prüfen."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "7 Jahre alt, schon repariert: Was ist mit der Holzbrücke bei Thyrow passiert?",
-          "link": "https://www.ingenieur.de/7-jahre-alt-schon-repariert-was-ist-mit-der-holbruecke-bei-thyrow-passiert-62548b49-631e-4a02-9c8a-41ea62042ad3/",
-          "published": "2026-10-16T06:18:19+00:00",
-          "summary": "Nach Rissen im Holztragwerk ist die B101 bei Thyrow wieder freigegeben. Die Brücke bleibt unter Beobachtung. Was bisher zur Ursache bekannt ist."
+          "title": "Dena: Gemeinsamer Datenraum soll Energiewende effizienter machen",
+          "link": "https://www.ingenieur.de/dena-studie-gemeinsamer-datenraum-soll-energiewende-effizienter-machen-900471f3-8f9b-439e-be1b-4182dea64e85/",
+          "published": "2026-10-16T13:52:51+00:00",
+          "summary": "Ein Energiedatenraum soll Netz, Strompreise und flexible Verbraucher verbinden. So könnte die Energiewende effizienter und das Netz stabiler werden."
         },
         {
-          "title": "Wie Temperatur, Feuchte und Luftbewegung die Innenraumluftqualität beeinflussen",
-          "link": "https://www.ingenieur.de/wie-temperatur-feuchte-und-luftbewegung-die-innenraumluftqualitaet-beeinflussen-88d902d2-758d-4fd1-89ef-3a07d53ab9ee/",
-          "published": "2026-10-15T19:52:03+00:00",
-          "summary": "Moderne, energieeffiziente Gebäude sind dicht – und genau das verändert das Raumklima. Temperatur, relative Feuchte und Luftbewegung bestimmen nicht nur den thermischen Komfort, sondern unmittelbar …"
+          "title": "Bitcoin: Diebstahl per Spionage-Chip! 102 Millionen $ weg",
+          "link": "https://www.ingenieur.de/bitcoin-diebstahl-per-spionage-chip-102-millionen-weg-1285bd0c-3fe6-4641-9ab3-27a14ab9a568/",
+          "published": "2026-10-16T12:00:00+00:00",
+          "summary": "Nach Ledger jetzt auch Trezor! Spionage-Chips in Hardware-Wallets: Selbst MediaMarkt nimmt die Geräte aus dem Regal."
         },
         {
-          "title": "Neue Baumaterialien aus Reststoffen der Holzindustrie",
-          "link": "https://www.ingenieur.de/neue-baumaterialien-aus-reststoffen-der-holzindustrie-bd02e874-77dc-4342-9d39-7ec4c31bca33/",
-          "published": "2026-10-15T14:34:49+00:00",
-          "summary": "Holz gehört auch heute zu den wichtigsten nachhaltigen Baumaterialien. Innovative Materialien mit einem großen Anteil an Sägemehl oder -spänen, bei deren Herstellung auf klimarelevante Baustoffe wie …"
+          "title": "Japan will Proben vom Marsmond holen und hofft auf besonderen Beifang",
+          "link": "https://www.ingenieur.de/start-der-marsmission-mmx-39768330-6b03-4dbd-b90f-77b827e0c4e8/",
+          "published": "2026-10-16T11:30:43+00:00",
+          "summary": "Japan will eine Probe vom Marsmond Phobos zur Erde zurückbringen. Womöglich noch lockender ist, was das Landemodul sonst noch findet."
         },
         {
-          "title": "Willkommen auf dem neuen ingenieur.de!",
-          "link": "https://www.ingenieur.de/willkommen-auf-dem-neuen-ingenieur-de-6dae0170-75c5-409f-a266-dad96b1976a4/",
-          "published": "2026-10-15T08:05:19+00:00",
-          "summary": "Technik verstehen, Chancen erkennen, die eigene Karriere gestalten: Das neue ingenieur.de verbindet News, Fachwissen, Jobs und Karriere-Services. Chefredakteur Ken Fouhy erklärt, was die Plattform …"
+          "title": "Quishing: So funktioniert die Betrugsmasche mit dem QR-Code",
+          "link": "https://www.ingenieur.de/quishing-so-funktioniert-die-betrugsmasche-mit-dem-qr-code-a42b4810-83cc-4715-8322-c583dd5dcdc7/",
+          "published": "2026-10-16T11:10:52+00:00",
+          "summary": "QR-Codes in Briefen, Dokumenten oder an Automaten können auf Betrugsseiten führen. So erkennen Sie Quishing und reagieren nach einem verdächtigen Scan."
         },
         {
-          "title": "Neues Fügemodul aiPRESS JM basic für Standardpressprozesse",
-          "link": "https://www.ingenieur.de/neues-fuegemodul-aipress-jm-basic-fuer-standardpressprozesse-3daf02c8-6146-4095-bdb2-e2dbb7cd807c/",
-          "published": "2026-10-14T07:53:48+00:00",
-          "summary": "Das neue Fügemodul aiPRESS JM basic richtet sich an alle, die die Vorteile einer servogesteuerten Presse nutzen möchten, aber nicht die hohen Anforderungen für Präzisionsanwendungen benötigen. …"
+          "title": "Indeed-Ökonomin Virginia Sondergeld: Was der Stellenabbau für Ingenieure bedeutet",
+          "link": "https://www.ingenieur.de/indeed-oekonomin-virginia-sondergeld-was-der-stellenabbau-fuer-ingenieure-bedeutet-d253664a-3abb-42bb-bc15-ba923969054f/",
+          "published": "2026-10-16T10:30:00+00:00",
+          "summary": "Weniger Stellen, mehr Konkurrenz und neue Anforderungen durch KI: Der Ingenieurarbeitsmarkt steht vor einem Wandel. Dr. Virginia Sondergeld erklärt, warum selbst technische Berufe vom Stellenabbau …"
         }
       ],
       "error": null
