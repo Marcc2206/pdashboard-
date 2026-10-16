@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:52:37+00:00",
+  "generatedAt": "2026-10-16T03:04:04+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Hoffenheim verliert auch gegen Besiktas",
-          "link": "https://www.sportschau.de/regional/swr/swr-naechste-pleite-die-tsg-hoffenheim-verliert-auch-gegen-besiktas-100.html",
-          "published": "2026-10-15T20:56:03+00:00",
-          "summary": "Am 2. Spieltag der Europa League hat die TSG Hoffenheim gegen Besiktas JK verloren. Das Team von Christian Ilzer zeigt zwar Moral, kann aber wieder nichts Zählbares mitnehmen."
+          "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+          "published": "2026-10-16T03:00:25+00:00",
+          "summary": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag will heute über eine Maßnahme zur Alterssicherung entscheiden: die sogenannte Frühstartrente. Was sie beinhaltet und …"
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12920.html",
-          "published": "2026-10-15T20:54:40+00:00",
+          "title": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
+          "published": "2026-10-16T01:23:51+00:00",
+          "summary": "In der Ukraine scheint für viele klar: Die Starlink-Ausfälle sind kein Zufall, sondern politisch gewollt. Die Unterstützung aus der EU wird immer wichtiger. Von Rebecca Barth, ARD-Studio Kiew."
+        },
+        {
+          "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+          "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
+          "published": "2026-10-16T01:17:45+00:00",
+          "summary": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich ein Deal ab."
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667082.html",
+          "published": "2026-10-16T00:40:46+00:00",
           "summary": ""
         },
         {
-          "title": "Alkoholverbot gilt nun an allen deutschen Bahnhöfen - Ein Praxisbericht aus Kiel",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1667050.html",
-          "published": "2026-10-15T20:37:48+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Medikament bringt neue Hoffnung bei Bauchspeicheldrüsenkrebs",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1667048.html",
-          "published": "2026-10-15T20:34:33+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Reform der Notfallversorgung - Was sich ändern soll",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1667046.html",
-          "published": "2026-10-15T20:30:55+00:00",
-          "summary": ""
+          "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+          "published": "2026-10-15T23:06:09+00:00",
+          "summary": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Krieg im Jemen: Stadt Tais im Jemen eingekesselt - Menschen leben in Angst",
-          "link": "https://www.handelsblatt.com/politik/international/krieg-im-jemen-stadt-tais-im-jemen-eingekesselt-menschen-leben-in-angst/100262683.html",
-          "published": "2026-10-15T22:01:04+00:00",
-          "summary": "Trinkwasser gibt es oft nur noch in Literflaschen, Mehl und Gas sind schwer zu finden. In Tais geht die Angst um. Und viele fragen sich: Beginnt bald die Schlacht um Jemens drittgrößte Stadt?"
+          "title": "Gebrauchtwagen-Check: Wie zuverlässig ist der Hyundai Tucson als Gebrauchter?",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/gebrauchtwagen-check-wie-zuverlaessig-ist-der-hyundai-tucson-als-gebrauchter/100262709.html",
+          "published": "2026-10-16T02:34:04+00:00",
+          "summary": "Dass der Hyundai zum alten Modellnamen zurückgekehrt ist, scheint ein gutes Omen. Zumindest halten sich seine Marotten in jungen Jahren in Grenzen, während ältere Tucson beim TÜV schlechter dastehen."
         },
         {
-          "title": "Rauchen: Teure Zigaretten: Bundestag stimmt für höhere Tabaksteuer",
-          "link": "https://www.handelsblatt.com/politik/deutschland/rauchen-bundestag-stimmt-fuer-hoehere-tabaksteuer/100262681.html",
-          "published": "2026-10-15T22:00:41+00:00",
-          "summary": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen."
+          "title": "Elektromobilität: Wo Elektroautos besonders boomen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/elektromobilitaet-wo-elektroautos-besonders-boomen/100262707.html",
+          "published": "2026-10-16T02:30:07+00:00",
+          "summary": "Förderung, breitere Auswahl und die hohen Spritpreise treiben die Elektroautoneuzulassungen in Deutschland. In zwei Bundesländern fährt dieses Jahr schon fast jedes neue Auto mit nur Strom."
         },
         {
-          "title": "Automobilindustrie: Deutschland und Frankreich vor Einigung bei Verbrenner-Aus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/automobilindustrie-deutschland-und-frankreich-vor-einigung-bei-verbrenner-aus/100262678.html",
-          "published": "2026-10-15T21:27:32+00:00",
-          "summary": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich ein Deal ab."
+          "title": "Altersvorsorge: Schon als Kind fürs Alter vorsorgen - die Frühstartrente",
+          "link": "https://www.handelsblatt.com/politik/deutschland/altersvorsorge-schon-als-kind-fuers-alter-vorsorgen-die-fruehstartrente/100262708.html",
+          "published": "2026-10-16T02:30:05+00:00",
+          "summary": "Ein Zuschuss vom Staat soll Kinder an die Altersvorsorge heranführen. Die Koalition sieht einen wichtigen Baustein für die Rente."
         },
         {
-          "title": "Ringen um Billionen-Haushalt: Neuer Vorschlag soll Bewegung in EU-Haushaltsstreit bringen",
-          "link": "https://www.handelsblatt.com/politik/international/ringen-um-billionen-haushalt-neuer-vorschlag-soll-bewegung-in-eu-haushaltsstreit-bringen/100262502.html",
-          "published": "2026-10-15T21:21:38+00:00",
-          "summary": "Der Streit um den nächsten EU-Haushalt spitzte sich zuletzt zu, als Friedrich Merz einen irischen Vorschlag zurückwies. Nun will António Costa neue Bewegung in die Verhandlungen bringen."
+          "title": "Anleihen: Deutsche-Bank-Experte Stephan – „Investoren wollen EZB testen“",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/anleihen-deutsche-bank-experte-stephan-investoren-wollen-ezb-testen/100261326.html",
+          "published": "2026-10-16T02:04:15+00:00",
+          "summary": "Ulrich Stephan, Chefanlagestratege der Deutschen Bank, über hohe Anleihe-Renditen, darüber, warum die KI-Rally noch Potenzial hat und über Chancen im Dax."
         },
         {
-          "title": "Autobauer: Porsche präsentiert neues Supersportwagen-Design",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-porsche-praesentiert-neues-supersportwagen-design/100262674.html",
-          "published": "2026-10-15T21:13:52+00:00",
-          "summary": "Der Sportwagenhersteller Porsche will in Zukunft weniger, aber teurere Luxusautos verkaufen. Einen Vorgeschmack auf die neue Ausrichtung soll der Supersportwagen „Mission S“ geben."
+          "title": "Gastkommentar: Wer nach unten tritt, bringt niemanden nach oben",
+          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wer-nach-unten-tritt-bringt-niemanden-nach-oben/100262525.html",
+          "published": "2026-10-16T02:03:44+00:00",
+          "summary": "Zuletzt wurde viel über Gerechtigkeit diskutiert. Grund genug, über die christlich-soziale Idee zu sprechen, meinen die Unionspolitiker Dennis Radtke, Kai Whittaker, Stefan Nacke, Elisabeth …"
         }
       ],
       "error": null
