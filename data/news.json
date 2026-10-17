@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:49:40+00:00",
+  "generatedAt": "2026-10-17T20:04:56+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Muheims Knaller bringt dem HSV gegen Stuttgart den dritten Sieg",
-          "link": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
-          "published": "2026-10-17T16:33:42+00:00",
-          "summary": "Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu."
-        },
-        {
-          "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
-          "link": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
-          "published": "2026-10-17T16:28:04+00:00",
-          "summary": "Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor."
-        },
-        {
-          "title": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
-          "published": "2026-10-17T16:14:36+00:00",
-          "summary": "Immer mehr Menschen bestellen online. Auch die Zahl der Rücksendungen nimmt stetig zu. Ein lohnendes Geschäft für Kioskbesitzer, Paketunternehmen. Kritik kommt von Umweltschützern. Von Lucretia …"
-        },
-        {
-          "title": "Rechtsruck - auch bei Israels linken Parteien?",
-          "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
-          "published": "2026-10-17T16:09:53+00:00",
-          "summary": "Israels politische Landschaft ist über die Jahre nach rechts gerückt. Der Terroranschlag der Hamas vor gut drei Jahren hat diese Entwicklung verstärkt. Wie wirkt sich das auf linke Parteien aus? Von …"
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668138.html",
+          "published": "2026-10-17T19:32:00+00:00",
+          "summary": ""
         },
         {
           "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
           "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-          "published": "2026-10-17T16:02:16+00:00",
+          "published": "2026-10-17T19:15:16+00:00",
           "summary": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können …"
+        },
+        {
+          "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+          "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
+          "published": "2026-10-17T19:10:03+00:00",
+          "summary": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von …"
+        },
+        {
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12316.html",
+          "published": "2026-10-17T18:54:48+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81506.html",
+          "published": "2026-10-17T18:38:37+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Regierungsbildung: Rot-Grün-Rot in Berlin will enteignen und Müllproblem lösen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-rot-gruen-rot-in-berlin-will-enteignen-und-muellproblem-loesen/100262973.html",
+          "published": "2026-10-17T17:13:38+00:00",
+          "summary": "Linke, Grüne und SPD wollen große private Wohnungsbestände in Berlin vergesellschaften – doch bis zur Umsetzung ist es ein langer Weg. Was die Parteien außerdem gegen steigende Mieten planen."
+        },
+        {
+          "title": "Autobauer: Die Anti-Porsche-Strategie – AMG präsentiert erstmals SUV-Sportwagen als reines E-Auto",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-amg-praesentiert-erstmals-suv-sportwagen-als-reines-e-auto/100261064.html",
+          "published": "2026-10-17T17:01:24+00:00",
+          "summary": "Drei Motoren, 1196 PS: Die Mercedes-Sportwagentochter setzt auf ein elektrisches SUV – während Porsche weiter Verbrenner verkauft. Für den neuen AMG-Chef ist es eine Bewährungsprobe."
+        },
+        {
+          "title": "Potenter Brummer: Gleiche Power, mehr Platz: Elektrischer AMG GT auch als SUV",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/potenter-brummer-gleiche-power-mehr-platz-elektrischer-amg-gt-auch-als-suv/100262995.html",
+          "published": "2026-10-17T17:01:04+00:00",
+          "summary": "Der Mercedes-Ableger AMG bockt den viertürigen GT auf - zum SUV. Warum? Die Performance bleibt nahezu gleich, aber die Praktikabilität steigt. Und der Preis sinkt sogar."
+        },
+        {
           "title": "Berlin: Koalitionsgespräche geplant – inklusive Vergesellschaftungen",
           "link": "https://www.handelsblatt.com/politik/deutschland/berlin-koalitionsgespraeche-geplant-inklusive-vergesellschaftungen/100262974.html",
-          "published": "2026-10-17T15:25:00+00:00",
+          "published": "2026-10-17T16:48:21+00:00",
           "summary": "Die drei Berliner Parteien wollen über eine rot-grün-rote Koalition verhandeln. Und: Auch die von den Linken geplante Vergesellschaftung von Wohnungen soll kommen."
         },
         {
-          "title": "JU-Deutschlandtag: Merz verspricht straffen Reformkurs - und warnt die SPD",
-          "link": "https://www.handelsblatt.com/politik/deutschland/ju-deutschlandtag-merz-verspricht-straffen-reformkurs-und-warnt-die-spd/100262914.html",
-          "published": "2026-10-17T14:45:24+00:00",
-          "summary": "Bei seinem letzten Auftritt bei der Jungen Union gab es Zoff um die Rente. Diesmal verläuft der Besuch des Kanzlers beim Deutschlandtag weitgehend konfliktfrei. Es gibt aber einen schwierigen Moment."
-        },
-        {
-          "title": "USA: US-Präsident Trump setzt neue Russland-Sanktionen per Dekret aus",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trump-setzt-neue-russland-sanktionen-per-dekret-aus/100262955.html",
-          "published": "2026-10-17T14:33:00+00:00",
-          "summary": "Mitte September hatte US-Präsident Trump das Sanktionsgesetz gegen Russland unterzeichnet, nun setzt er es kurz vor Inkrafttreten aus. Er begründet das mit dem nationalen Interesse der USA."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Iran – Erneut Explosion an Supertanker in der Straße von Hormus",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-erneut-explosion-an-supertanker-in-strasse-von-hormus/100136895.html",
-          "published": "2026-10-17T14:30:00+00:00",
-          "summary": "Saudischer Zivilschutz gibt Entwarnung für die Grenzregion+++ Raketen treffen Flughafen Aden – Angriff auf Saudi-Ölstadt abgewehrt +++ Der Newsblog."
-        },
-        {
-          "title": "Papstgenesung: Papst nach Krebs-OP zurück im Vatikan",
-          "link": "https://www.handelsblatt.com/politik/international/papstgenesung-papst-nach-krebs-op-zurueck-im-vatikan/100262965.html",
-          "published": "2026-10-17T14:15:55+00:00",
-          "summary": "Die Ärzte entlassen Papst Leo nach neuen Untersuchungsergebnissen aus der Klinik, sein erster öffentlicher Auftritt steht bevor. Ob der Krebs gestreut hat und welche Behandlung nun folgt, ist unklar."
+          "title": "Neue Gelbwestenbewegung?: Schwere Krawalle bei frankreichweiten Protesten",
+          "link": "https://www.handelsblatt.com/politik/international/neue-gelbwestenbewegung-schwere-krawalle-bei-frankreichweiten-protesten/100262942.html",
+          "published": "2026-10-17T16:38:37+00:00",
+          "summary": "Tränengas in Paris, geplünderte Geschäfte in Marseille und eine brennende Touristeninformation in Lyon: Die Proteste gegen hohe Lebenshaltungskosten eskalieren. Was steckt hinter der Wut?"
         }
       ],
       "error": null
@@ -211,6 +211,18 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Maxwells Dämon zapft verborgene Energie der Umgebung an",
+          "link": "https://www.ingenieur.de/maxwells-daemon-zapft-verborgene-energie-der-umgebung-an-d592fb88-854f-4dcd-9e75-5ab7e578717f/",
+          "published": "2026-10-17T17:56:08+00:00",
+          "summary": "Physiker zeigen, wie sich das Gedächtnis einer Flüssigkeit anzapfen lässt. Das Teilchen liefert dadurch mehr Arbeit als zunächst sichtbar."
+        },
+        {
+          "title": "Wenn der Chef die Idee übernimmt: Was Beschäftigte tun können",
+          "link": "https://www.ingenieur.de/wenn-der-chef-die-idee-uebernimmt-was-beschaeftigte-gegen-gestohlene-anerkennung-tun-koennen-115b91d2-9527-40be-a6f1-b12828b9db69/",
+          "published": "2026-10-17T16:00:00+00:00",
+          "summary": "Chef will Ihre Idee übernehmen? So dokumentieren Beschäftigte ihre Beiträge, fordern Anerkennung ein und schützen Erfindungen rechtlich."
+        },
+        {
           "title": "41. Münchner Gefahrstoff- und Sicherheitstage: Fachkongress für Umwelt-, Gesundheitsschutz und Arbeitssicherheit",
           "link": "https://www.ingenieur.de/41-muenchner-gefahrstoff-und-sicherheitstage-fachkongress-fuer-umwelt-gesundheitsschutz-und-arbe-76616b33-108b-40d1-86e6-243ed1b83f10/",
           "published": "2026-10-17T15:00:00+00:00",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/dieser-roboter-baut-mit-bakterien-und-laesst-sand-zu-stein-werden-d31d0b90-d5fc-4790-bbe8-d70c2d1451b1/",
           "published": "2026-10-17T12:49:02+00:00",
           "summary": "4 cm pro Monat wächst eine Struktur aus Sand und Kalk. Möglich machen das Bakterien und ein Roboter der ETH Zürich."
-        },
-        {
-          "title": "Das gesunde Gehör erhalten",
-          "link": "https://www.ingenieur.de/das-gesunde-gehoer-erhalten-5377d73c-0c44-4359-ad57-b1560db1f382/",
-          "published": "2026-10-17T10:30:00+00:00",
-          "summary": "Das Gehör ist ein wichtiges Sinnesorgan und spielt darüber hinaus eine wichtige Rolle für Kommunikation, soziale Interaktion und Orientierung. Die Gesunderhaltung ist unabdingbar für das eigene …"
-        },
-        {
-          "title": "Aus für die Schaltsekunde: Warum eine einzige Sekunde Computersysteme gefährdet",
-          "link": "https://www.ingenieur.de/aus-fuer-die-schaltsekunde-warum-eine-einzige-sekunde-computersysteme-gefaehrdet-7ef5fc82-822e-4b37-a668-2c60d97404a9/",
-          "published": "2026-10-17T06:08:03+00:00",
-          "summary": "Ab Mai 2027 wird die Schaltsekunde abgeschafft. Warum der winzige Zeitsprung Server, Netze und Software vor erstaunliche Probleme stellt."
         }
       ],
       "error": null
