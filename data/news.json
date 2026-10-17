@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:29:48+00:00",
+  "generatedAt": "2026-10-17T02:56:20+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
-          "published": "2026-10-16T21:15:49+00:00",
-          "summary": "Johannes Winkel ist als Vorsitzender der Jungen Union mit seinem bislang besten Ergebnis wiedergewählt worden. Er rief zu Zuversicht und Selbstbewusstsein auf - und teilte gleich darauf in Richtung …"
-        },
-        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667632.html",
-          "published": "2026-10-16T20:58:50+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667740.html",
+          "published": "2026-10-17T02:52:01+00:00",
           "summary": ""
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12914.html",
-          "published": "2026-10-16T20:54:56+00:00",
-          "summary": ""
+          "title": "Wie sich Bundespolitiker auf Social Media schlagen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html",
+          "published": "2026-10-17T02:39:05+00:00",
+          "summary": "Nah an den Leuten oder unangemessen? Auf Social Media versuchen sich die Spitzenpolitiker mit ihrer eigenen Ansprache. Eine Analyse der Postings zeigt: Es gibt klare Gewinner und Verlierer. Von Fynn …"
         },
         {
-          "title": "Trump entlässt Sprecherin des Weißen Hauses, Katie Zacharia",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1667688.html",
-          "published": "2026-10-16T20:43:04+00:00",
-          "summary": ""
+          "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
+          "link": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
+          "published": "2026-10-17T01:50:50+00:00",
+          "summary": "Bundesarbeitsminister Schweitzer setzt bei der Rentenreform auf Kompromissbereitschaft in der schwarz-roten Koalition. Insbesondere über die abschlagsfreie Rente nach 45 Beitragsjahren müssten noch …"
         },
         {
-          "title": "Bundesrat fordert mehr Schutz vor lebensgefährlichen Social Media Challenges",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1667676.html",
-          "published": "2026-10-16T20:38:37+00:00",
-          "summary": ""
+          "title": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
+          "link": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
+          "published": "2026-10-17T01:43:26+00:00",
+          "summary": "Am ersten Tag des Iran-Kriegs im Februar schlägt eine Rakete in einer Schule in Minab ein. 168 Menschen sterben, die meisten sind Kinder. Heute ist der Ort Gedenkstätte, aber auch Bühne für …"
+        },
+        {
+          "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
+          "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html",
+          "published": "2026-10-17T01:40:59+00:00",
+          "summary": "Eigentlich erlebten die Grünen in Großbritannien einen großen Aufschwung in diesem Jahr. Nun sorgt die Partei mit einem Beschluss zu Zionismus und Israel für Kontroversen - selbst in den eigenen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Weißes Haus: US-Kreise: Trumps Sprecherin Zacharia gibt Posten auf",
-          "link": "https://www.handelsblatt.com/politik/international/weisses-haus-us-kreise-trumps-sprecherin-zacharia-gibt-posten-auf/100262902.html",
-          "published": "2026-10-16T22:12:15+00:00",
-          "summary": "Erst eine Woche ist es her, dass der US-Präsident eine wichtige Personalie verkündete. Nun findet die Zeit von Katie Zacharia als Sprecherin des Weißen Haus ein überraschend schnelles Ende."
+          "title": "Bundespolitik: Hoffmann gegen Aufnahme von Politikern in Rentenversicherung",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-hoffmann-gegen-aufnahme-von-politikern-in-rentenversicherung/100137034.html",
+          "published": "2026-10-17T02:37:00+00:00",
+          "summary": "Wüst zum Bundesratspräsidenten gewählt +++ Schwesig: Konzentriere mich auf Regierungsbildung in MV +++ Bundestag beschließt Frühstartrente +++ Der Newsblog."
         },
         {
-          "title": "Junge Union: Winkel mit bisher bestem Ergebnis als JU-Chef bestätigt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/junge-union-winkel-mit-bisher-bestem-ergebnis-als-ju-chef-bestaetigt/100262914.html",
-          "published": "2026-10-16T21:37:36+00:00",
-          "summary": "Die CDU ist in der Krise. Aber die Junge Union tritt bei ihrem Deutschlandtag selbstbewusst auf. Das spiegelt sich im Wahlergebnis des Vorsitzenden wider."
+          "title": "Energiekosten: Untersuchung: Netzentgelte für Strom und Gas steigen 2027",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energiekosten-untersuchung-netzentgelte-fuer-strom-und-gas-steigen-2027/100262938.html",
+          "published": "2026-10-17T02:30:05+00:00",
+          "summary": "Netzentgelte sind ein Bestandteil des Strom- und Gaspreises. Was im kommenden Jahr zu erwarten ist."
         },
         {
-          "title": "Weißes Haus: US‑Kreise – Trumps Sprecherin Zacharia gibt Posten nach nur fünf Tagen auf",
-          "link": "https://www.handelsblatt.com/politik/international/weisses-haus-uskreise-trumps-sprecherin-zacharia-gibt-posten-nach-nur-fuenf-tagen-auf/100262916.html",
-          "published": "2026-10-16T21:34:03+00:00",
-          "summary": "Erst eine Woche ist es her, dass der US-Präsident eine wichtige Personalie verkündete. Nun findet die Zeit von Katie Zacharia als Sprecherin des Weißen Hauses ein überraschend schnelles Ende."
+          "title": "+++ Iran-Krieg +++: Iranische Medien – Öltanker in Straße von Hormus explodiert",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iranische-medien-oeltanker-in-strasse-von-hormus-explodiert/100136895.html",
+          "published": "2026-10-17T02:30:00+00:00",
+          "summary": "Saudischer Zivilschutz gibt Entwarnung für die Grenzregion+++ Raketen treffen Flughafen Aden – Angriff auf Saudi-Ölstadt abgewehrt +++ Der Newsblog."
         },
         {
-          "title": "Technologie: Verkaufsstart für neue Notebooks – Nvidia-Chef Huang rockt Berlin",
-          "link": "https://www.handelsblatt.com/technik/it-internet/technologie-verkaufsstart-fuer-neue-notebooks-nvidia-chef-huang-rockt-berlin/100262592.html",
-          "published": "2026-10-16T20:49:04+00:00",
-          "summary": "Auf seiner Europatour macht der Milliardär in einem Einkaufszentrum in Berlin Halt. Was er vorstellt, könnte die Zukunft des Halbleiterkonzerns verändern."
+          "title": "Ukraine-Krieg: Trump legt geplante Zölle gegen Russland auf Eis",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-legt-geplante-zoelle-gegen-russland-auf-eis/100262936.html",
+          "published": "2026-10-17T02:11:47+00:00",
+          "summary": "Mit weitreichenden Sanktionen wollte der US-Kongress den Angreifer Russland im Ukraine-Krieg unter Druck setzen. US-Präsident Trump sieht das wohl anders."
         },
         {
-          "title": "Junge Union: Wüst Richtung Bundesregierung – „Reißt euch zusammen“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/junge-union-wuest-richtung-bundesregierung-reisst-euch-zusammen/100261877.html",
-          "published": "2026-10-16T19:32:47+00:00",
-          "summary": "Der NRW-Ministerpräsident ruft beim Deutschlandtag der Jungen Union zu mehr Optimismus auf – und kritisiert die AfD und Linken scharf. Für den Kanzler findet er auch lobende Worte."
+          "title": "Windkraft: Geplanter Pachtdeckel für Windräder in der Kritik",
+          "link": "https://www.handelsblatt.com/politik/deutschland/windkraft-geplanter-pachtdeckel-fuer-windraeder-in-der-kritik/100262931.html",
+          "published": "2026-10-17T02:00:48+00:00",
+          "summary": "Um Kosten zu sparen, sollen Flächenpachten für Windenergieanlagen an Land begrenzt werden. Dieser geplante Deckel stößt auf Widerstand."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Auch wegen Zoll-Rückzahlungen: US-Neuverschuldung steigt auf Fünf-Jahres-Hoch",
+          "link": "https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html",
+          "published": "2026-10-17T02:34:04+00:00",
+          "summary": "Als Donald Trump zum zweiten Mal ins Weiße Haus einzieht, verkündet er, er werde die Staatsausgaben und somit auch die Neuverschuldung senken. Aktuell geht der Trend aber in die andere Richtung: Die …"
+        },
         {
           "title": "Wochenvorschau: Termine bis 25. Oktober 2026",
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-25-Oktober-2026-id31407973.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Raketen-Auto-heizt-Fusionsgeruechte-zwischen-Tesla-und-SpaceX-an-id31426968.html",
           "published": "2026-10-16T15:48:35+00:00",
           "summary": "Spektakuläre Sprünge und Kaltgas-Düsen: Mit fast zehn Jahren Verzögerung stellt Tesla seinen Roadster-Sportwagen vor. Analysten sehen darin weit mehr als nur die Enthüllung eines neuen Fahrzeugs."
-        },
-        {
-          "title": "Verbindungen fallen weg: Eurowings erwägt wegen hoher Kerosinkosten Kurzarbeit",
-          "link": "https://www.n-tv.de/wirtschaft/Eurowings-erwaegt-wegen-hoher-Kerosinkosten-Kurzarbeit-id31426745.html",
-          "published": "2026-10-16T15:05:21+00:00",
-          "summary": "Die anhaltend hohen Ölpreise werden auch für Fluggesellschaften zunehmend zur Belastung. Bei Eurowings könnten bald Mitarbeiter in Kurzarbeit geschickt werden. Fest steht bereits, dass einige …"
         }
       ],
       "error": null
