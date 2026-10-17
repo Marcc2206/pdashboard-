@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:04:56+00:00",
+  "generatedAt": "2026-10-17T23:44:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668138.html",
-          "published": "2026-10-17T19:32:00+00:00",
+          "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+          "published": "2026-10-17T22:31:39+00:00",
+          "summary": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Massenprotesten gegen hohe Lebenshaltungskosten hat es in Frankreich schwere Ausschreitungen gegeben. In Limoges setzten Randalierer das …"
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12924.html",
+          "published": "2026-10-17T22:25:47+00:00",
           "summary": ""
         },
         {
-          "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-          "published": "2026-10-17T19:15:16+00:00",
-          "summary": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können …"
-        },
-        {
-          "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-          "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
-          "published": "2026-10-17T19:10:03+00:00",
-          "summary": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12316.html",
-          "published": "2026-10-17T18:54:48+00:00",
+          "title": "US-Präsident Trump hat schon beschlossene Sanktionen gegen Russland gestoppt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1668182.html",
+          "published": "2026-10-17T22:19:15+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81506.html",
-          "published": "2026-10-17T18:38:37+00:00",
+          "title": "Rede von Kanzler Merz auf Deutschlandtag von Junger Union",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1668184.html",
+          "published": "2026-10-17T22:13:47+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Sondierungsgespräche zwischen Rot-Rot-Grün in Berlin positiv verlaufen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1668180.html",
+          "published": "2026-10-17T22:11:12+00:00",
           "summary": ""
         }
       ],
@@ -46,6 +46,12 @@
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
+        {
+          "title": "Welle der Gewalt: 400 Festnahmen und 60 verletzte Polizisten in Frankreich",
+          "link": "https://www.handelsblatt.com/politik/international/welle-der-gewalt-400-festnahmen-und-60-verletzte-polizisten-in-frankreich/100262942.html",
+          "published": "2026-10-17T21:00:10+00:00",
+          "summary": "Ein Rathaus weitgehend zerstört, Geschäfte geplündert, 60 Polizisten verletzt: Frankreich erlebt einen Protesttag voller Gewalt. Warum die Regierung auch einen neuen Gelbwestenprotest fürchtet."
+        },
         {
           "title": "Regierungsbildung: Rot-Grün-Rot in Berlin will enteignen und Müllproblem lösen",
           "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-rot-gruen-rot-in-berlin-will-enteignen-und-muellproblem-loesen/100262973.html",
@@ -69,12 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/deutschland/berlin-koalitionsgespraeche-geplant-inklusive-vergesellschaftungen/100262974.html",
           "published": "2026-10-17T16:48:21+00:00",
           "summary": "Die drei Berliner Parteien wollen über eine rot-grün-rote Koalition verhandeln. Und: Auch die von den Linken geplante Vergesellschaftung von Wohnungen soll kommen."
-        },
-        {
-          "title": "Neue Gelbwestenbewegung?: Schwere Krawalle bei frankreichweiten Protesten",
-          "link": "https://www.handelsblatt.com/politik/international/neue-gelbwestenbewegung-schwere-krawalle-bei-frankreichweiten-protesten/100262942.html",
-          "published": "2026-10-17T16:38:37+00:00",
-          "summary": "Tränengas in Paris, geplünderte Geschäfte in Marseille und eine brennende Touristeninformation in Lyon: Die Proteste gegen hohe Lebenshaltungskosten eskalieren. Was steckt hinter der Wut?"
         }
       ],
       "error": null
