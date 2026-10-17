@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:56:20+00:00",
+  "generatedAt": "2026-10-17T08:14:34+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667740.html",
-          "published": "2026-10-17T02:52:01+00:00",
+          "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
+          "published": "2026-10-17T08:08:36+00:00",
+          "summary": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen. Auch in den USA wird er …"
+        },
+        {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-10-17T08:07:41+00:00",
+          "summary": "Am Samstag zwischen Bayerischem Wald und Alpen erst freundlich, auch im Nordwesten mehr Sonne. Sonst oft grau und dazu gebietsweise Regen oder Schauer. Bei einem lebhaften Wind nur noch 8 bis 18 Grad."
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81512.html",
+          "published": "2026-10-17T07:58:15+00:00",
           "summary": ""
         },
         {
-          "title": "Wie sich Bundespolitiker auf Social Media schlagen",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html",
-          "published": "2026-10-17T02:39:05+00:00",
-          "summary": "Nah an den Leuten oder unangemessen? Auf Social Media versuchen sich die Spitzenpolitiker mit ihrer eigenen Ansprache. Eine Analyse der Postings zeigt: Es gibt klare Gewinner und Verlierer. Von Fynn …"
+          "title": "\"Wohl kein kuscheliger Empfang für Merz\", Kerstin Palzer, ARD Berlin, vom Deutschlandtag der JU in Bonn",
+          "link": "https://www.tagesschau.de/video/video-1667780.html",
+          "published": "2026-10-17T07:47:19+00:00",
+          "summary": ""
         },
         {
-          "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
-          "link": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
-          "published": "2026-10-17T01:50:50+00:00",
-          "summary": "Bundesarbeitsminister Schweitzer setzt bei der Rentenreform auf Kompromissbereitschaft in der schwarz-roten Koalition. Insbesondere über die abschlagsfreie Rente nach 45 Beitragsjahren müssten noch …"
-        },
-        {
-          "title": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
-          "link": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
-          "published": "2026-10-17T01:43:26+00:00",
-          "summary": "Am ersten Tag des Iran-Kriegs im Februar schlägt eine Rakete in einer Schule in Minab ein. 168 Menschen sterben, die meisten sind Kinder. Heute ist der Ort Gedenkstätte, aber auch Bühne für …"
-        },
-        {
-          "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
-          "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html",
-          "published": "2026-10-17T01:40:59+00:00",
-          "summary": "Eigentlich erlebten die Grünen in Großbritannien einen großen Aufschwung in diesem Jahr. Nun sorgt die Partei mit einem Beschluss zu Zionismus und Israel für Kontroversen - selbst in den eigenen …"
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667774.html",
+          "published": "2026-10-17T07:32:53+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Bundespolitik: Hoffmann gegen Aufnahme von Politikern in Rentenversicherung",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-hoffmann-gegen-aufnahme-von-politikern-in-rentenversicherung/100137034.html",
-          "published": "2026-10-17T02:37:00+00:00",
-          "summary": "Wüst zum Bundesratspräsidenten gewählt +++ Schwesig: Konzentriere mich auf Regierungsbildung in MV +++ Bundestag beschließt Frühstartrente +++ Der Newsblog."
+          "title": "USA: US-Präsident Trump setzt neue Russland-Sanktionen per Dekret aus",
+          "link": "https://www.handelsblatt.com/politik/international/usa-trump-setzt-neue-russland-sanktionen-per-dekret-aus/100262955.html",
+          "published": "2026-10-17T07:41:56+00:00",
+          "summary": "Mitte September hatte US-Präsident Trump das Sanktionsgesetz gegen Russland unterzeichnet, nun setzt er es kurz vor Inkrafttreten aus. Er begründet das mit dem nationalen Interesse der USA."
         },
         {
-          "title": "Energiekosten: Untersuchung: Netzentgelte für Strom und Gas steigen 2027",
-          "link": "https://www.handelsblatt.com/politik/deutschland/energiekosten-untersuchung-netzentgelte-fuer-strom-und-gas-steigen-2027/100262938.html",
-          "published": "2026-10-17T02:30:05+00:00",
-          "summary": "Netzentgelte sind ein Bestandteil des Strom- und Gaspreises. Was im kommenden Jahr zu erwarten ist."
+          "title": "Trump-Watch: „Russland hat noch immer die Oberhand“ – Außenpolitik-Expertin Friedlander erklärt Trumps Ukrainepolitik",
+          "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-russland-hat-noch-immer-die-oberhand-aussenpolitik-expertin-friedlander-erklaert-trumps-ukrainepolitik/100262930.html",
+          "published": "2026-10-17T07:16:07+00:00",
+          "summary": "Gescheiterte Energie-Waffenruhe und Druck auf Kiew: Die Geschäftsführerin der Atlantikbrücke ordnet die Ukrainepolitik des US-Präsidenten ein – und die Folgen für Europa."
         },
         {
-          "title": "+++ Iran-Krieg +++: Iranische Medien – Öltanker in Straße von Hormus explodiert",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iranische-medien-oeltanker-in-strasse-von-hormus-explodiert/100136895.html",
-          "published": "2026-10-17T02:30:00+00:00",
+          "title": "Morning Briefing Plus: Über Betroffenheit, Empörung und jubelnde Gründerinnen",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-bas-geht-galeria-bleibt-gruenderinnen-jubeln/100262814.html",
+          "published": "2026-10-17T06:45:24+00:00",
+          "summary": "Bärbel Bas tritt zurück. Galeria ist zum Sterben verdammt – und bekommt trotzdem Geld, das Start-ups in Deutschland dringend bräuchten. Was uns diese Woche sonst noch beschäftigt hat."
+        },
+        {
+          "title": "Technologie: Verkaufsstart für neue Notebooks – Nvidia-Chef wird in Berlin wie ein Rockstar empfangen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/technologie-nvidia-chef-wird-in-berlin-wie-ein-rockstar-empfangen/100262592.html",
+          "published": "2026-10-17T06:28:00+00:00",
+          "summary": "Auf seiner Europatour macht der Milliardär in einem Einkaufszentrum in Berlin Halt. Was er vorstellt, könnte die Zukunft des Halbleiterkonzerns verändern."
+        },
+        {
+          "title": "+++ Iran-Krieg +++: Iran: Supertanker fährt in Straße von Hormus auf Seemine",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-supertanker-faehrt-in-strasse-von-hormus-auf-seemine/100136895.html",
+          "published": "2026-10-17T06:01:00+00:00",
           "summary": "Saudischer Zivilschutz gibt Entwarnung für die Grenzregion+++ Raketen treffen Flughafen Aden – Angriff auf Saudi-Ölstadt abgewehrt +++ Der Newsblog."
-        },
-        {
-          "title": "Ukraine-Krieg: Trump legt geplante Zölle gegen Russland auf Eis",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-legt-geplante-zoelle-gegen-russland-auf-eis/100262936.html",
-          "published": "2026-10-17T02:11:47+00:00",
-          "summary": "Mit weitreichenden Sanktionen wollte der US-Kongress den Angreifer Russland im Ukraine-Krieg unter Druck setzen. US-Präsident Trump sieht das wohl anders."
-        },
-        {
-          "title": "Windkraft: Geplanter Pachtdeckel für Windräder in der Kritik",
-          "link": "https://www.handelsblatt.com/politik/deutschland/windkraft-geplanter-pachtdeckel-fuer-windraeder-in-der-kritik/100262931.html",
-          "published": "2026-10-17T02:00:48+00:00",
-          "summary": "Um Kosten zu sparen, sollen Flächenpachten für Windenergieanlagen an Land begrenzt werden. Dieser geplante Deckel stößt auf Widerstand."
         }
       ],
       "error": null
@@ -98,7 +98,7 @@
           "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
         },
         {
-          "title": "CoreWeave brechen ein: Kreditsorgen ziehen Tech-Werte runter",
+          "title": "CoreWeave-Papiere brechen ein: Kreditsorgen ziehen Tech-Werte runter",
           "link": "https://www.n-tv.de/wirtschaft/Kreditsorgen-ziehen-Tech-Werte-runter-id31428217.html",
           "published": "2026-10-16T21:37:52+00:00",
           "summary": "An der Wall Street wächst die Sorge, dass die KI-Gewinne nicht schnell genug fließen werden, um die zunehmend teuren Kreditverpflichtungen zu bedienen. Für viele Tech-Werte endet die schlechte Woche …"
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Katie Zacharia: Donald Trump legt Pressesprecherin Rücktritt nahe",
-          "link": "https://www.wiwo.de/politik/ausland/katie-zacharia-donald-trump-legt-pressesprecherin-ruecktritt-nahe/100262904.html",
-          "published": "2026-10-16T18:19:24+00:00",
-          "summary": "Katie Zacharia bekam bereits nach ihrem ersten Auftritt als Sprecherin viel negative Kritik. Nun deutet Trump ihren Rücktritt an."
+          "title": "Tesla Roadster: Dieser Tesla kann fliegen – Elon Musk präsentiert Roadster mit Düsenantrieb",
+          "link": "https://www.wiwo.de/unternehmen/auto/tesla-roadster-elon-musk-praesentiert-fliegendes-auto-mit-duesenantrieb/100262755.html",
+          "published": "2026-10-17T08:04:00+00:00",
+          "summary": "Elon Musk will 2028 ein Raketen-Auto auf den Markt bringen. Ein Preis ist nicht bekannt – doch bereits für die Reservierung der Roadster-Version werden 250.000 Euro fällig."
         },
         {
-          "title": "Logistikriese: DHL hebt Ergebnisprognose für 2026 an",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/logistikriese-dhl-hebt-ergebnisprognose-fuer-2026-an/100262898.html",
-          "published": "2026-10-16T17:57:10+00:00",
-          "summary": "Dank Zuwächsen im Expressgeschäft kann DHL seine Prognose für das Geschäftsjahr 2026 anheben. Mit Einbußen kämpft dagegen das Geschäft Post und Paket Deutschland."
+          "title": "Blackrock: Warum sich der weltgrößte Vermögensverwalter von US-Aktien abwendet",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/blackrock-der-weltgroesste-vermoegensverwalter-wendet-sich-von-usaktien-ab-das-ist-der-grund/100262538.html",
+          "published": "2026-10-17T07:58:00+00:00",
+          "summary": "US-Aktien gelten als ungeschlagene Renditebringer – trotzdem rät Blackrock neuerdings nicht mehr zum Kauf. Überwiegen die Risiken die Chancen?"
         },
         {
-          "title": "EU-Gipfel: EU bereitet Instrument gegen unfairen Handel vor",
-          "link": "https://www.wiwo.de/politik/europa/eu-gipfel-eu-bereitet-instrument-gegen-unfairen-handel-vor/100262895.html",
-          "published": "2026-10-16T17:37:20+00:00",
-          "summary": "Um auf Handelsverzerrungen schnell reagieren zu können, soll die EU nach Plänen von Kanzler Merz direkt Maßnahmen verhängen dürfen. Der Wettbewerb solle dabei nicht eingeschränkt werden."
+          "title": "Standort Deutschland: So viele Kunden jagt China der deutschen Industrie ab",
+          "link": "https://www.wiwo.de/unternehmen/industrie/standort-deutschland-so-viele-kunden-jagt-china-den-unternehmen-ab/100262429.html",
+          "published": "2026-10-17T07:57:00+00:00",
+          "summary": "Während die EU über Schutzmaßnahmen berät, zeigen diese exklusiven Zahlen, wie hoch der Druck aus China wirklich ist – und wie sich Betriebe dagegen wehren."
         },
         {
-          "title": "Entwicklungszusammenarbeit: „Öffentliches Kapital wird unverzichtbar bleiben“",
-          "link": "https://www.wiwo.de/politik/ausland/entwicklungszusammenarbeit-oeffentliches-kapital-wird-unverzichtbar-bleiben/100262700.html",
-          "published": "2026-10-16T16:27:59+00:00",
-          "summary": "Die Weltbank hat den Einsatz privaten Kapitals in den vergangenen Jahren verdreifacht, sagt Managing Director Paschal Donohoe. Trotzdem bleibt der Bedarf hoch."
+          "title": "GKV: Krankenkassen für Terminvergabe nach medizinischem Bedarf",
+          "link": "https://www.wiwo.de/politik/deutschland/krankenkasse-terminvergabe-nach-medizinischem-bedarf-gefordert/100262954.html",
+          "published": "2026-10-17T07:43:27+00:00",
+          "summary": "Der GKV-Chef fordert ein Ende der Bevorzugung von Privatpatienten. Termine sollten nach medizinischem Bedarf vergeben werden und „nicht danach, wie jemand versichert ist“."
         }
       ],
       "error": null
@@ -210,6 +210,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Aus für die Schaltsekunde: Warum eine einzige Sekunde Computersysteme gefährdet",
+          "link": "https://www.ingenieur.de/aus-fuer-die-schaltsekunde-warum-eine-einzige-sekunde-computersysteme-gefaehrdet-7ef5fc82-822e-4b37-a668-2c60d97404a9/",
+          "published": "2026-10-17T06:08:03+00:00",
+          "summary": "Ab Mai 2027 wird die Schaltsekunde abgeschafft. Warum der winzige Zeitsprung Server, Netze und Software vor erstaunliche Probleme stellt."
+        },
         {
           "title": "Tesla Roadster hebt ab: So funktionieren Kaltgasdüsen und Saugsystem",
           "link": "https://www.ingenieur.de/tesla-roadster-hebt-ab-so-funktionieren-kaltgasduesen-und-saugsystem-87277c73-39f9-40b4-8e5e-5b19b2e9c0f1/",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/millionen-tonnen-stein-so-bauten-die-aegypter-ihre-pyramiden-b23fb53f-ba4d-4984-acca-a0ef5ad32cc4/",
           "published": "2026-10-16T15:30:00+00:00",
           "summary": "Wie bauten die Ägypter ihre Pyramiden ohne moderne Maschinen? Funde zeigen, wie Steinbearbeitung, Niltransport, Schlitten, Rampen und Vermessung zusammenspielten."
-        },
-        {
-          "title": "Röntgenblitze mit Rekordintensität sollen Elektronen sichtbar machen",
-          "link": "https://www.ingenieur.de/roentgenpulse-mit-1020-w-cm2-sollen-elektronen-sichtbar-machen-d1cedda5-4600-41ab-8ef1-93f5632a4d02/",
-          "published": "2026-10-16T15:00:00+00:00",
-          "summary": "Extrem kurze Röntgenpulse mit rund 10²⁰ W/cm² sollen elektronische Prozesse in Atomen und Molekülen sichtbar machen."
         }
       ],
       "error": null
