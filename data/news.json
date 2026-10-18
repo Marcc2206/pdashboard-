@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T17:03:43+00:00",
+  "generatedAt": "2026-10-18T20:04:17+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-18T17:02:16+00:00",
-          "summary": "Montag ist es zunächst mancherorts noch bedeckt. Später gibts in immer mehr Regionen einen freundlichen Mix aus Sonne und Wolken, zum Teil ist es auch wolkenlos. 8 bis 19 Grad."
+          "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
+          "published": "2026-10-18T19:46:21+00:00",
+          "summary": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot …"
         },
         {
-          "title": "Sportvorstand Markus Krösche in Frankfurt freigestellt",
-          "link": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
-          "published": "2026-10-18T16:50:58+00:00",
-          "summary": "Die Zeit von Markus Krösche bei Eintracht Frankfurt ist vorbei. Der Sportvorstand verlässt die Hessen nach knapp fünfeinhalb Jahren auf eigenen Wunsch - und mit sofortiger Wirkung."
-        },
-        {
-          "title": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
-          "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
-          "published": "2026-10-18T16:48:09+00:00",
-          "summary": "Die Junge Union ist in der Partei längst ein Machtfaktor. Entsprechend selbstbewusst präsentiert sich der Nachwuchs beim \"Deutschlandtag\" - und Kanzler Merz zeigt sich zugewandt. Harmonie ist …"
-        },
-        {
-          "title": "Sturmflutwarnung an der Ostsee: Erstes Hochwasser der Saison erwartet",
-          "link": "https://www.tagesschau.de/inland/regional/schleswigholstein/sturmflutwarnung-an-der-ostsee-erstes-hochwasser-der-saison-erwartet,hochwasserostsee-100.html",
-          "published": "2026-10-18T16:37:36+00:00",
-          "summary": "Das Bundesamt für Seeschifffahrt und Hydrographie hat eine Sturmflutwarnung für die Ostsee herausgegeben. Demnach sind Wasserstände von bis zu 1,35 Meter über Normalhöhennull möglich. Teilweise …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81464.html",
-          "published": "2026-10-18T16:24:06+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668590.html",
+          "published": "2026-10-18T19:07:36+00:00",
           "summary": ""
+        },
+        {
+          "title": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
+          "published": "2026-10-18T19:00:53+00:00",
+          "summary": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor …"
+        },
+        {
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12310.html",
+          "published": "2026-10-18T18:48:39+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+          "published": "2026-10-18T18:45:27+00:00",
+          "summary": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron spricht von …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Angespanntes Verhältnis: Trump spricht Wahlempfehlung für Netanjahu aus",
+          "link": "https://www.handelsblatt.com/politik/international/angespanntes-verhaeltnis-trump-spricht-wahlempfehlung-fuer-netanjahu-aus/100263085.html",
+          "published": "2026-10-18T18:53:35+00:00",
+          "summary": "Immer wieder fragten Reporter US-Präsident Trump, ob er eine Wiederwahl des israelischen Ministerpräsidenten Netanjahu begrüßen würde. Knapp anderthalb Wochen vor der Wahl gibt er eine Antwort."
+        },
+        {
+          "title": "Nach den Ausschreitungen: Erneut Krawalle in Paris – Polizei setzt Tränengas ein",
+          "link": "https://www.handelsblatt.com/politik/international/nach-den-ausschreitungen-erneut-krawalle-in-paris-polizei-setzt-traenengas-ein/100263018.html",
+          "published": "2026-10-18T18:13:46+00:00",
+          "summary": "Am Place de la République errichten Demonstranten Barrikaden, die Polizei setzt Tränengas ein. Später rückt eine Spezialeinheit an. Auch aus Toulouse und Lyon werden wieder Vorfälle gemeldet."
+        },
+        {
+          "title": "SPD: Hubertus Heil bringt sich für SPD-Spitze ins Spiel",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spd-hubertus-heil-bringt-sich-fuer-spd-spitze-ins-spiel/100263091.html",
+          "published": "2026-10-18T17:26:15+00:00",
+          "summary": "Der frühere Bundesarbeitsminister schließt eine Bewerbung um den SPD-Vorsitz beim Sonderparteitag im Januar nicht aus. Zunächst müsse jedoch der politische Kurs der Partei geklärt werden."
+        },
+        {
           "title": "Unglück: Vier Tote durch Feuer auf Militärbasis in Kanada",
           "link": "https://www.handelsblatt.com/politik/international/unglueck-vier-tote-durch-feuer-auf-militaerbasis-in-kanada/100263026.html",
-          "published": "2026-10-18T16:52:40+00:00",
-          "summary": ""
+          "published": "2026-10-18T17:09:40+00:00",
+          "summary": "Auf einem Militärstützpunkt in Kanada ist es zu einem folgenschweren Zwischenfall mit einem großen Brand gekommen. Vier Menschen sterben, Dutzende werden verletzt."
         },
         {
           "title": "Kommentar: In Frankreich wird Chaos zum politischen Kapital",
           "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-in-frankreich-wird-chaos-zum-politischen-kapital/100263006.html",
           "published": "2026-10-18T16:39:09+00:00",
           "summary": "Hunderttausende demonstrierten am Samstag friedlich für bessere Lebensbedingungen und Bildung. In Erinnerung bleibt die Gewalt extremer Gruppen. Und die Regierung lässt ihnen dafür Raum."
-        },
-        {
-          "title": "Krieg gegen die Ukraine: Verständigung zulasten der Ukraine: Trump geht auf Moskau zu",
-          "link": "https://www.handelsblatt.com/politik/international/krieg-gegen-die-ukraine-verstaendigung-zulasten-der-ukraine-trump-geht-auf-moskau-zu/100263031.html",
-          "published": "2026-10-18T16:03:43+00:00",
-          "summary": "Trump ist Selenskyj schon oft in den Rücken gefallen, in seinem aktuellen Kurs sehen einige Experten eine neue Qualität. Gibt der US-Präsident die Ukraine wegen der Folgen des Iran-Kriegs völlig auf?"
-        },
-        {
-          "title": "PDF: Handelsblatt vom 19. Oktober 2026",
-          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-19.-oktober-2026/100263087.html",
-          "published": "2026-10-18T16:02:04+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Angespanntes Verhältnis: Trump spricht Wahlempfehlung für Netanjahu aus",
-          "link": "https://www.handelsblatt.com/politik/international/angespanntes-verhaeltnis-trump-spricht-wahlempfehlung-fuer-netanjahu-aus/100263085.html",
-          "published": "2026-10-18T15:40:30+00:00",
-          "summary": "Immer wieder fragten Reporter US-Präsident Trump, ob er eine Wiederwahl des israelischen Ministerpräsidenten Netanjahu begrüßen würde. Knapp anderthalb Wochen vor der Wahl gibt er eine Antwort."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Laschet, Rösler, Höttges und Co.: Unternehmerin spendiert Prominenten Luxuszugreise von Duisburg nach China",
+          "link": "https://www.n-tv.de/wirtschaft/Unternehmerin-spendiert-Prominenten-Luxuszugreise-von-Duisburg-nach-China-id31431729.html",
+          "published": "2026-10-18T20:02:22+00:00",
+          "summary": "In Duisburg geht ein ungewöhnliches Konferenzformat an den Start. Dutzende einflussreiche Persönlichkeiten aus Politik, Wirtschaft, Wissenschaft und Kultur reisen in einem Zug entlang der legendären …"
+        },
         {
           "title": "Risse ins Putins Atomimperium: Die Kernkraftwerke von Rosatom stecken im \"Sanktions-Fleischwolf\"",
           "link": "https://www.n-tv.de/wirtschaft/Die-Kernkraftwerke-von-Rosatom-stecken-im-Sanktions-Fleischwolf-id31421469.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Das-sind-die-Erwartungen-an-die-Berichtssaison-der-US-Unternehmen-id31427257.html",
           "published": "2026-10-17T13:30:00+00:00",
           "summary": "Hohe Indexstände generieren große Erwartungen an die Unternehmen in der Berichtssaison. Bislang tragen wenige Schwergewichte den Aufschwung. Welche Strategien bieten sich für Anlegerinnen und Anleger …"
-        },
-        {
-          "title": "Initiative mit Frankreich: Bilger will E20-Sprit zum Durchbruch verhelfen",
-          "link": "https://www.n-tv.de/wirtschaft/Bilger-will-E20-Sprit-zum-Durchbruch-verhelfen-id31428830.html",
-          "published": "2026-10-17T13:03:43+00:00",
-          "summary": "Das Verbrenner-Verbot in der EU ab 2035 steht vor dem Aus. Um dennoch mehr fürs Klima zu tun, wollen Berlin und Paris die Bioethanol-Beimischung bei Benzin verdoppeln."
         }
       ],
       "error": null
