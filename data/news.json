@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:04:17+00:00",
+  "generatedAt": "2026-10-18T23:53:57+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
-          "published": "2026-10-18T19:46:21+00:00",
-          "summary": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot …"
+          "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+          "published": "2026-10-18T22:23:09+00:00",
+          "summary": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten …"
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668590.html",
-          "published": "2026-10-18T19:07:36+00:00",
+          "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
+          "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+          "published": "2026-10-18T22:01:28+00:00",
+          "summary": "Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt."
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12918.html",
+          "published": "2026-10-18T21:50:38+00:00",
           "summary": ""
         },
         {
-          "title": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
-          "published": "2026-10-18T19:00:53+00:00",
-          "summary": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12310.html",
-          "published": "2026-10-18T18:48:39+00:00",
+          "title": "Reaktionen auf Abschluss der Sondierungsgespräche zwischen Linke, Grüne und SPD in Berlin",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1668614.html",
+          "published": "2026-10-18T21:31:17+00:00",
           "summary": ""
         },
         {
-          "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-          "published": "2026-10-18T18:45:27+00:00",
-          "summary": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron spricht von …"
+          "title": "Kurden in Syrien: Ist die Vereinbarung \"Kurdisch als Unterrichtsfach\" gefährdet?",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1668608.html",
+          "published": "2026-10-18T21:22:04+00:00",
+          "summary": ""
         }
       ],
       "error": null
