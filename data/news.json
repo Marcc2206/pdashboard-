@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T23:44:09+00:00",
+  "generatedAt": "2026-10-18T02:57:46+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Mindestens 17 Tote bei Massenpanik in Indien",
+          "link": "https://www.tagesschau.de/ausland/asien/indien-tote-bei-massenpanik-100.html",
+          "published": "2026-10-18T02:27:07+00:00",
+          "summary": "Während des Hindu-Fests Durga Puja in der indischen Millionenstadt Kolkata ist es zu einem tödlichen Gedränge gekommen. Medienberichten zufolge starben dabei mindestens 17 Menschen. Es gibt …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668204.html",
+          "published": "2026-10-18T02:22:57+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Frei fordert gleiche Chancen auf Facharzttermine",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/facharzttermine-frei-fordert-mehr-gerechtigkeit-100.html",
+          "published": "2026-10-18T00:35:06+00:00",
+          "summary": "Privat und gesetzlich Versicherte warten unterschiedlich lange auf Facharzttermine. Unionsfraktionschef Frei fordert fairere Chancen. Gesundheitsminister Linnemann soll entsprechende Vorschläge …"
+        },
+        {
+          "title": "Wahlkampf in Brasilien: Die Anti-Feministas aus der Neuer Rechten",
+          "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlkampf-antifeministinnen-100.html",
+          "published": "2026-10-17T23:54:34+00:00",
+          "summary": "Frauen könnten bei der Präsidentschaftswahl in Brasilien entscheidend sein. Lange konnte die Linke auf ihre Unterstützung zählen. Doch nun erzielen Frauen in Brasiliens Neuer Rechten Rekordergebnisse …"
+        },
+        {
           "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
           "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
           "published": "2026-10-17T22:31:39+00:00",
           "summary": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Massenprotesten gegen hohe Lebenshaltungskosten hat es in Frankreich schwere Ausschreitungen gegeben. In Limoges setzten Randalierer das …"
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12924.html",
-          "published": "2026-10-17T22:25:47+00:00",
-          "summary": ""
-        },
-        {
-          "title": "US-Präsident Trump hat schon beschlossene Sanktionen gegen Russland gestoppt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1668182.html",
-          "published": "2026-10-17T22:19:15+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Rede von Kanzler Merz auf Deutschlandtag von Junger Union",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1668184.html",
-          "published": "2026-10-17T22:13:47+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Sondierungsgespräche zwischen Rot-Rot-Grün in Berlin positiv verlaufen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1668180.html",
-          "published": "2026-10-17T22:11:12+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Welle der Gewalt: 400 Festnahmen und 60 verletzte Polizisten in Frankreich",
-          "link": "https://www.handelsblatt.com/politik/international/welle-der-gewalt-400-festnahmen-und-60-verletzte-polizisten-in-frankreich/100262942.html",
-          "published": "2026-10-17T21:00:10+00:00",
-          "summary": "Ein Rathaus weitgehend zerstört, Geschäfte geplündert, 60 Polizisten verletzt: Frankreich erlebt einen Protesttag voller Gewalt. Warum die Regierung auch einen neuen Gelbwestenprotest fürchtet."
+          "title": "„Ernsthafter Zwischenfall“: Tote und Verletzte bei Vorfall auf Militärbasis in Kanada",
+          "link": "https://www.handelsblatt.com/politik/international/ernsthafter-zwischenfall-tote-und-verletzte-bei-vorfall-auf-militaerbasis-in-kanada/100263026.html",
+          "published": "2026-10-18T02:43:13+00:00",
+          "summary": "Auf einem Militärstützpunkt in Kanada ist es zu einem folgenschweren Zwischenfall gekommen, der einen großen Brand ausgelöst hat. Das Feuer breitet sich auch jenseits der Basis aus."
         },
         {
-          "title": "Regierungsbildung: Rot-Grün-Rot in Berlin will enteignen und Müllproblem lösen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-rot-gruen-rot-in-berlin-will-enteignen-und-muellproblem-loesen/100262973.html",
-          "published": "2026-10-17T17:13:38+00:00",
-          "summary": "Linke, Grüne und SPD wollen große private Wohnungsbestände in Berlin vergesellschaften – doch bis zur Umsetzung ist es ein langer Weg. Was die Parteien außerdem gegen steigende Mieten planen."
+          "title": "Bundeswehr an der Küste: Wo die Marine stationiert ist - und wo sie investieren will",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-an-der-kueste-wo-die-marine-stationiert-ist-und-wo-sie-investieren-will/100263024.html",
+          "published": "2026-10-18T02:30:07+00:00",
+          "summary": "Die Marine braucht mehr Platz für Schiffe, Soldaten und Technik. An der Küste laufen bereits die Planungen. Wo wird gebaut, wo investiert – und was ist noch offen?"
         },
         {
-          "title": "Autobauer: Die Anti-Porsche-Strategie – AMG präsentiert erstmals SUV-Sportwagen als reines E-Auto",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-amg-praesentiert-erstmals-suv-sportwagen-als-reines-e-auto/100261064.html",
-          "published": "2026-10-17T17:01:24+00:00",
-          "summary": "Drei Motoren, 1196 PS: Die Mercedes-Sportwagentochter setzt auf ein elektrisches SUV – während Porsche weiter Verbrenner verkauft. Für den neuen AMG-Chef ist es eine Bewährungsprobe."
+          "title": "Smartphones: Akku fast leer? Manch Handynutzer lässt Verabredung platzen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/smartphones-akku-fast-leer-manch-handynutzer-laesst-verabredung-platzen/100263022.html",
+          "published": "2026-10-18T02:20:05+00:00",
+          "summary": "Handys sind nicht mehr wegzudenken aus dem Alltag. Und wenn deren Akku fast leer ist? Powerbanks wären eine Lösung für unterwegs. Trotzdem wird manch Nutzer dann arg nervös, wie eine Umfrage zeigt."
         },
         {
-          "title": "Potenter Brummer: Gleiche Power, mehr Platz: Elektrischer AMG GT auch als SUV",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/potenter-brummer-gleiche-power-mehr-platz-elektrischer-amg-gt-auch-als-suv/100262995.html",
-          "published": "2026-10-17T17:01:04+00:00",
-          "summary": "Der Mercedes-Ableger AMG bockt den viertürigen GT auf - zum SUV. Warum? Die Performance bleibt nahezu gleich, aber die Praktikabilität steigt. Und der Preis sinkt sogar."
+          "title": "Erneuerbare Energie: See-Windparks wollen mit Einspeiseverzicht Geld verdienen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energie-see-windparks-wollen-mit-einspeiseverzicht-geld-verdienen/100263017.html",
+          "published": "2026-10-18T02:00:13+00:00",
+          "summary": "Die Regelreserve gleicht Stromerzeugung und -verbrauch aus. Betreiber und Vermarkter von Windkraftanlagen nehmen auf dem Markt bislang eine untergeordnete Rolle ein. Das könnte sich ändern."
         },
         {
-          "title": "Berlin: Koalitionsgespräche geplant – inklusive Vergesellschaftungen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/berlin-koalitionsgespraeche-geplant-inklusive-vergesellschaftungen/100262974.html",
-          "published": "2026-10-17T16:48:21+00:00",
-          "summary": "Die drei Berliner Parteien wollen über eine rot-grün-rote Koalition verhandeln. Und: Auch die von den Linken geplante Vergesellschaftung von Wohnungen soll kommen."
+          "title": "Hunderttausende demonstrieren: Frankreichs Protesttag endet in Gewalt und Plünderungen",
+          "link": "https://www.handelsblatt.com/politik/international/hunderttausende-demonstrieren-frankreichs-protesttag-endet-in-gewalt-und-pluenderungen/100263018.html",
+          "published": "2026-10-18T01:58:04+00:00",
+          "summary": "150 verletzte Polizisten, 1.200 Festnahmen: Frankreichs Premierminister spricht von einem „entsetzlichen Ausmaß an Gewalt“. Was folgt auf die Ausschreitungen?"
         }
       ],
       "error": null
