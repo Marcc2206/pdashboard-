@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T09:34:12+00:00",
+  "generatedAt": "2026-10-19T16:46:30+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Rot-Rot-Grün sondiert Möglichkeiten für Koalition",
-          "link": "https://www.tagesschau.de/video/video-1668770.html",
-          "published": "2026-10-19T09:25:27+00:00",
-          "summary": ""
-        },
-        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668768.html",
-          "published": "2026-10-19T09:18:28+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669040.html",
+          "published": "2026-10-19T16:37:00+00:00",
           "summary": ""
         },
         {
-          "title": "Volkswagen will offenbar Gehälter einfrieren",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
-          "published": "2026-10-19T09:06:30+00:00",
-          "summary": "Der angeschlagene Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich …"
+          "title": "Marktbericht: Neue Woche, neue Sorgen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+          "published": "2026-10-19T16:29:58+00:00",
+          "summary": "Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich."
         },
         {
-          "title": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
-          "link": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
-          "published": "2026-10-19T09:04:40+00:00",
-          "summary": "In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld für Straßenbau …"
+          "title": "Verena Schälter, ARD Rom, zu den Protesten in Italien",
+          "link": "https://www.tagesschau.de/video/video-1669032.html",
+          "published": "2026-10-19T16:27:41+00:00",
+          "summary": ""
         },
         {
-          "title": "Loch im Flughafenzaun Leipzig/Halle: Polizei meldet Fahndungserfolg",
-          "link": "https://www.tagesschau.de/inland/regional/sachsen/polizei-fahndung-erfolg,flughafen-zaun-verursacher-100.html",
-          "published": "2026-10-19T08:58:43+00:00",
-          "summary": "Nachdem am Flughafen Leipzig/Halle ein Loch im Zaun entdeckt worden war, meldet die Polizei nun einen Erfolg bei den Ermittlungen. Details nannte sie noch nicht."
+          "title": "tagesschau in Einfacher Sprache",
+          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1482.html",
+          "published": "2026-10-19T15:44:58+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat",
+          "link": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html",
+          "published": "2026-10-19T15:43:35+00:00",
+          "summary": "Im Fall der seit dem Sommer 2007 vermissten Kerstin Lee Langley aus Regensburg gibt es einen Durchbruch: Die damals 39-Jährige soll von einem Trio getötet worden sein. Eine der Verdächtigen legte nun …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ausschreitungen: Nach Protesten: Macron lehnt Rücktritt des Innenministers ab – Marseille verbietet Versammlungen",
-          "link": "https://www.handelsblatt.com/politik/international/ausschreitungen-nach-protesten-macron-lehnt-ruecktritt-des-innenministers-ab/100263189.html",
-          "published": "2026-10-19T09:32:34+00:00",
-          "summary": "Nach den schweren Ausschreitungen in Frankreich räumt Innenminister Nuñez einen „Kontrollverlust“ ein und bietet seinen Rücktritt an. Macron lehnt ab – doch was soll sich nun ändern?"
+          "title": "Regierungsbildung: Berliner SPD für Koalitionsgespräche mit Linke und Grünen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-berliner-spd-fuer-koalitionsgespraeche-mit-linke-und-gruenen/100263126.html",
+          "published": "2026-10-19T16:33:20+00:00",
+          "summary": "Nach den erfolgreichen Sondierungen in Berlin sind nun die Parteigremien gefragt. Zuerst gab die SPD grünes Licht für Koalitionsverhandlungen. Die Grünen wollen ebenfalls noch am Abend entscheiden."
         },
         {
-          "title": "Union: Söder: „Die blaue Welle rollt, die rote Front steht“",
-          "link": "https://www.handelsblatt.com/video/politik/union-soeder-die-blaue-welle-rollt-die-rote-front-steht/100263235.html",
-          "published": "2026-10-19T09:25:14+00:00",
-          "summary": "CSU-Chef Söder hat auf dem Deutschlandtag der Jungen Union vor der AfD gewarnt. Die Union müsse sich als Nummer eins im bürgerlichen Lager etablieren. Zugleich attackierte er ein mögliches …"
+          "title": "+++ Bundespolitik +++: Berliner SPD für Koalitionsgespräche mit Linke und Grünen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-berliner-spd-fuer-koalitionsgespraeche-mit-linke-und-gruenen/100137034.html",
+          "published": "2026-10-19T16:33:00+00:00",
+          "summary": "Koalitions-Fraktionschefs für Rentenreform +++ Frei kritisiert SPD-Wortwahl im Streit um Bas +++ 20 SPD-Abgeordnete gegen Verhandlungen mit Linke +++ Der Newsblog."
         },
         {
-          "title": "Influenza: Wie heftig wird die Grippewelle? Impfstoffe stark verändert",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/influenza-wie-heftig-wird-die-grippewelle-impfstoffe-stark-veraendert/100263236.html",
-          "published": "2026-10-19T09:22:58+00:00",
-          "summary": "Impfstoffe gegen Grippe werden regelmäßig angepasst – und für diese Saison besonders umfassend. Entscheidender bleibt aber etwas anderes."
+          "title": "Märkte Insight: Sind Anthropic und OpenAI wirklich geeignete Börsenkandidaten?",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/ki-sind-anthropic-und-openai-wirklich-geeignete-boersenkandidaten/100263207.html",
+          "published": "2026-10-19T16:29:47+00:00",
+          "summary": "Die KI-Labore drängen mit Billionenbewertungen an die Börse. Unklar ist, wie Anleger mit Aktien von Firmen umgehen, deren Technologie die Menschheit auslöschen könnte, meint Astrid Dörner."
         },
         {
-          "title": "Ukraine-Krieg: Trump rechtfertigt Russland-Kurs – Selenskyj besorgt",
-          "link": "https://www.handelsblatt.com/video/politik/ukraine-krieg-trump-rechtfertigt-russland-kurs-selenskyj-besorgt/100263220.html",
-          "published": "2026-10-19T09:22:25+00:00",
-          "summary": "Mit ausgesetzten Sanktionen und einem Diesel-Deal will US-Präsident Trump Russland nach eigenen Angaben am Verhandlungstisch halten. Der ukrainische Präsident Selenskyj warnte vor einer möglichen …"
+          "title": "Kubas Ex-Staatschef: Haftbefehl gegen Raúl Castro im US-Bundesstaat Florida",
+          "link": "https://www.handelsblatt.com/politik/international/kubas-ex-staatschef-haftbefehl-gegen-raul-castro-im-us-bundesstaat-florida/100263356.html",
+          "published": "2026-10-19T16:29:11+00:00",
+          "summary": "Der frühere kubanische Präsident war Verteidigungsminister, als die kubanische Luftwaffe 1996 zwei Flugzeuge einer Exilorganisation abschoss. Floridas Generalstaatsanwalt erhebt nun eigene Vorwürfe."
         },
         {
-          "title": "Regierungsbildung: Zwei Parteien in Berlin entscheiden über Koalitionsgespräche",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-zwei-parteien-in-berlin-entscheiden-ueber-koalitionsgespraeche/100263126.html",
-          "published": "2026-10-19T09:19:56+00:00",
-          "summary": "Nach teils zähen Sondierungen entscheiden Grüne und SPD in Berlin über Koalitionsgespräche mit der Linken. Aber auch aus den Reihen der Sozialdemokraten gibt es Zweifel und Kritik."
+          "title": "Demonstrationen: Meloni kündigt nach Krawallen hartes Vorgehen an",
+          "link": "https://www.handelsblatt.com/politik/international/demonstrationen-meloni-kuendigt-nach-krawallen-hartes-vorgehen-an/100263354.html",
+          "published": "2026-10-19T16:24:15+00:00",
+          "summary": "Szenen wie in Paris: Rund um den Mailänder Dom plündern vermummte Jugendliche Geschäfte. In einer Krisensitzung berät die Regierung über Reaktionen, bis hin zu Ausgangssperren."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "\"Politik hat Vertrauen zerstört\": Pharma-Riese Roche stoppt Investitionen in Deutschland",
-          "link": "https://www.n-tv.de/wirtschaft/Pharma-Riese-Roche-stoppt-Investitionen-in-Deutschland-id31432912.html",
-          "published": "2026-10-19T09:05:32+00:00",
-          "summary": "Roche wirft der Bundesregierung vor, mit kurzfristigen Sparmaßnahmen Vertrauen zerstört zu haben. Während international weiter am Wachstumskurs festgehalten wird, liegen neue Projekte in Deutschland …"
+          "title": "\"Historische Chance\": Siemens und Nvidia entwickeln KI-betriebene Fabrik",
+          "link": "https://www.n-tv.de/wirtschaft/Siemens-und-Nvidia-entwickeln-KI-betriebene-Fabrik-id31435038.html",
+          "published": "2026-10-19T15:31:09+00:00",
+          "summary": "Der Siemens-Konzern und das US-Unternehmen Nvidia treiben in Erlangen ihre Pläne einer vollständig von Künstlicher Intelligenz getriebenen Fabrik voran. Ziel ist es, Prozesse schneller und flexibler …"
         },
         {
-          "title": "Zurück zum Wachstum?: Schoko-Riese Lindt & Sprüngli entlässt Konzernchef Lechner",
-          "link": "https://www.n-tv.de/wirtschaft/Schoko-Riese-Lindt-Spruengli-entlaesst-Konzernchef-Lechner-id31432726.html",
-          "published": "2026-10-19T08:18:00+00:00",
-          "summary": "Schokoladenhersteller kämpfen mit hohen Kakaokosten - Konsumenten reagieren empfindlich auf die drastischen Preiserhöhungen. Lindt & Sprüngli erwartet 2026 kaum noch Wachstum. Nun muss Konzernchef …"
+          "title": "Corona, Kriege, Krisen: Studie: Investitionsausfälle wachsen auf gigantisches Ausmaß",
+          "link": "https://www.n-tv.de/wirtschaft/Krisen-fuehren-seit-2020-zu-Investitionsausfaellen-von-420-Milliarden-Euro-id31434873.html",
+          "published": "2026-10-19T15:29:51+00:00",
+          "summary": "Die Nachwehen der Corona-Krise und internationale Konflikte machen der deutschen Wirtschaft zu schaffen. Private Unternehmen investieren seit Jahren deutlich weniger. Eine Studie veröffentlicht nun …"
         },
         {
-          "title": "Interaktiver Rechner: Wie viel verdienen Sie im Vergleich zum Rest Deutschlands?",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-viel-verdienen-Sie-im-Vergleich-zum-Rest-Deutschlands-id31432874.html",
-          "published": "2026-10-19T08:16:57+00:00",
-          "summary": "Die weite Mehrheit in Deutschland ist sich sicher: Ich gehöre zur Mittelschicht. Die Realität sieht oft anders aus. Für viele weicht das reale Einkommen ab von der gefühlten Position im deutschen …"
+          "title": "\"Wir sind überzeugt\": Vonovia: Berliner Vergesellschaftungspläne halten vor Gericht nicht stand",
+          "link": "https://www.n-tv.de/wirtschaft/Vonovia-Berliner-Vergesellschaftungsplaene-halten-vor-Gericht-nicht-stand-id31435025.html",
+          "published": "2026-10-19T14:49:32+00:00",
+          "summary": "Linke, Grüne und SPD planen ein Gesetz zur Vergesellschaftung großer Wohnungskonzerne in Berlin. Einer der betroffenen Konzerne, Vonovia, äußert sich deutlich zu dem Vorhaben. Bis es dazu aber …"
         },
         {
-          "title": "Sind die fetten Jahre vorbei?: Wie viel VW-Mitarbeiter verdienen",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-viel-VW-Mitarbeiter-verdienen-id31388650.html",
-          "published": "2026-10-19T07:04:00+00:00",
-          "summary": "Die übliche Gehaltserhöhung bei Volkswagen fällt im vergangenen Tarifstreit den drastischen Sparplänen zum Opfer. Im Vergleich zu anderen Arbeitgebern zahlt der Autobauer trotzdem noch stattliche …"
+          "title": "496.000 Industriejobs schon weg: Ifo-Institut diagnostiziert \"verschärften Strukturwandel\"",
+          "link": "https://www.n-tv.de/wirtschaft/Ifo-Institut-diagnostiziert-verschaerften-Strukturwandel-id31434638.html",
+          "published": "2026-10-19T14:22:24+00:00",
+          "summary": "Deutschlands einstige Vorzeigeindustrien verlieren rasant an Boden. Neue Jobs entstehen vor allem in der Gesundheitsbranche sowie in der öffentlichen Verwaltung. Damit schrumpfe das …"
         },
         {
-          "title": "Wirtschaftsinstitut rechnet vor: Ab diesem Einkommen sind Menschen in Deutschland reich",
-          "link": "https://www.n-tv.de/wirtschaft/Ab-diesem-Einkommen-sind-Menschen-in-Deutschland-reich-id31432648.html",
-          "published": "2026-10-19T06:46:41+00:00",
-          "summary": "Wo beginnt finanzieller Reichtum? Eine Antwort auf diese Frage liefert das Institut der deutschen Wirtschaft mit konkreten Schwellenwerten. Dabei unterschätzen offenbar viele Menschen, wie hoch ihr …"
+          "title": "Fink glaubt an Deutschland: Blackrock-Chef: \"Stimmung im Land ist schlechter, als sie sein müsste\"",
+          "link": "https://www.n-tv.de/wirtschaft/Blackrock-Chef-Stimmung-im-Land-ist-schlechter-als-sie-sein-muesste-id31434786.html",
+          "published": "2026-10-19T13:53:56+00:00",
+          "summary": "Die heimische Autoindustrie baut massiv Stellen ab, Manager und Politiker warnen, der Standort Deutschland sei nicht wettbewerbsfähig. Der Chef des größten Vermögensverwalters der Welt dagegen sieht …"
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX fällt unter 25.500 Punkten",
+          "title": "Marktbericht: Neue Woche, neue Sorgen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-          "published": "2026-10-19T08:36:52+00:00",
-          "summary": "Zum Wochenauftakt belasten Meldungen aus China und den USA die Börsen. Sinkende Ölpreise und positive Daten reichen als Gegengewicht nicht aus. Dem DAX misslingt der Handelsauftakt."
+          "published": "2026-10-19T16:29:58+00:00",
+          "summary": "Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich."
+        },
+        {
+          "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
+          "published": "2026-10-19T12:05:00+00:00",
+          "summary": "Die Gewalteskalation in Frankreich lastet auch auf den Finanzmärkten. Sie lässt die Sorge um die französischen Staatsfinanzen wieder aufleben. Der Euro fiel zeitweise wieder unter 1,12 Dollar zurück."
         },
         {
           "title": "Wie es mit der Commerzbank nun weitergeht",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/etf-geldanlage-kosten-risiken-100.html",
           "published": "2026-10-16T11:25:34+00:00",
           "summary": "Einfach, günstig, transparent: Damit haben ETFs Millionen Anleger überzeugt. Doch die Branche bringt immer kompliziertere Produkte auf den Markt - oft mit höheren Gebühren und zusätzlichen Risiken. …"
-        },
-        {
-          "title": "Marktbericht: TSMC gibt sich keine Blöße",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
-          "published": "2026-10-15T11:56:37+00:00",
-          "summary": "Neue US-Zinssorgen drücken vor allem die Kurse der hochbewerteten Tech-Aktien, allen voran der Chiphersteller. Die Fakten sprechen aber eine andere Sprache - wie heute die Zahlen von TSMC zeigen."
         }
       ],
       "error": null
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Büro: Was Homeoffice-Regeln mit dem Ego zu tun haben",
-          "link": "https://www.wiwo.de/erfolg/management/homeoffice-was-strenge-regeln-mit-dem-ego-der-chefs-zu-tun-haben/100262137.html",
-          "published": "2026-10-19T09:15:00+00:00",
-          "summary": "Mercedes und die Bahn wollen wieder mehr Mitarbeiter im Büro sehen. Eine Studie deutet an: Die Homeoffice-Abneigung mancher Chefs hat eine wenig schmeichelhafte Ursache."
+          "title": "Pharmabranche: Merck kauft britische Biotechfirma für knapp eine Milliarde Dollar",
+          "link": "https://www.wiwo.de/unternehmen/industrie/pharmabranche-merck-kauft-britische-biotechfirma-fuer-knapp-eine-milliarde/100263311.html",
+          "published": "2026-10-19T15:51:00+00:00",
+          "summary": "Der Pharma- und Technologiekonzern stemmt unter seinem neuen Chef Kai Beckmann die nächste Übernahme. Der Deal soll Merck im Geschäft mit seltenen Krankheiten voranbringen."
         },
         {
-          "title": "Abfindungsprogramm: BMW erlebt einen Ansturm auf Abfindungen – das kann gefährlich werden",
-          "link": "https://www.wiwo.de/erfolg/management/bmw-abfindungen-warum-der-ansturm-neue-risiken-birgt/100262771.html",
-          "published": "2026-10-19T09:10:00+00:00",
-          "summary": "Das Interesse am BMW-Abfindungsprogramm ist offenbar sehr groß. Und stellt den Autobauer damit vor mehrere Herausforderungen."
+          "title": "Netzentgelte: Wie der Netzausbau Strom und Gas im kommenden Jahr verteuert",
+          "link": "https://www.wiwo.de/finanzen/immobilien/netzentgelte-wie-der-netzausbau-strom-und-gas-im-kommenden-jahr-verteuert/100263179.html",
+          "published": "2026-10-19T15:24:27+00:00",
+          "summary": "Die Strom- und Gasnetze werden weiter ausgebaut. Weil der Bundeszuschuss sinkt, steigen die Netzentgelte. Eine Verivox-Analyse zeigt, wie teuer es wird."
         },
         {
-          "title": "McDonald’s: Das Ende des McRib – die Geschichte eines deutschen Sonderfalls",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/mcrip-das-ende-des-mcdonalds-burgers-und-die-geschichte-eines-deutschen-sonderfalls/100262416.html",
-          "published": "2026-10-19T09:10:00+00:00",
-          "summary": "Auf den Speisekarten der deutschen McDonald’s-Filialen behauptete sich der McRib seit Kanzler Kohls Zeiten. Eine Rückkehr ist nicht ganz ausgeschlossen."
+          "title": "Schuldenquote Deutschland: So hoch ist die Staatsverschuldung aktuell",
+          "link": "https://www.wiwo.de/politik/deutschland/staatsverschuldung-in-deutschland-eu-laendern-und-usa-2026/26683850.html",
+          "published": "2026-10-19T14:51:00+00:00",
+          "summary": "Sondervermögen haben die Schuldenquote im vergangenen Jahr nach oben getrieben. Bereits in den Vorjahren wurden Rekordschulden gezählt. Wie steht es aktuell um die Staatsverschuldung?"
         },
         {
-          "title": "Proteste in Frankreich: Inflation und soziale Ungleichheit sind Grund für die Unruhen in Frankreich",
-          "link": "https://www.wiwo.de/politik/ausland/proteste-in-frankreich-inflation-und-soziale-ungleichheit-sind-grund-fuer-die-unruhen-in-frankreich/100263219.html",
-          "published": "2026-10-19T08:51:06+00:00",
-          "summary": "Soziale Ungleichheit, Kürzungen bei den öffentlichen Ausgaben und die Inflation treiben die Menschen in Frankreich auf die Straßen. Es gibt Szenen „wie in einem Kriegsgebiet“."
+          "title": "BörsenTag: Wenn Anthropic wächst, dann auch der Beitrag zum Gemeinwohl",
+          "link": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-was-hinter-dem-gemeinwohl-vorstoss-steckt/100263199.html",
+          "published": "2026-10-19T14:38:55+00:00",
+          "summary": "Anthropic plant, fünf Prozent seiner Aktien in einen Gemeinwohlfonds einzubringen. Ganz ohne Eigennutz ist das nicht – gerade mit Blick auf den bevorstehenden Börsengang."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Eine Minute pro Bewerbung: Wenn KI über Ingenieure urteilt",
-          "link": "https://www.ingenieur.de/eine-minute-pro-bewerbung-wenn-ki-uber-ingenieure-urteilt-fb2292f0-cee6-42e5-b0a6-a6dd4a9774ee/",
-          "published": "2026-10-19T06:30:00+00:00",
-          "summary": "Bewerbungen lassen sich mit ChatGPT in wenigen Minuten schreiben. Personalabteilungen nutzen KI, um die Unterlagen zu sortieren. Eine Indeed-Umfrage zeigt, wie wenig Zeit für die erste Sichtung …"
+          "title": "Nur Schrott, kein frisches Metall: KI macht Eisen bis zu 15 % fester",
+          "link": "https://www.ingenieur.de/nur-schrott-kein-frisches-metall-ki-macht-eisen-bis-zu-15-fester-12edf7b4-ba2b-4536-8bf5-1a040f964d3b/",
+          "published": "2026-10-19T14:30:00+00:00",
+          "summary": "Verunreinigungen im Schrott gelten beim Metallrecycling als Problem. Ein Team mit Düsseldorfer Beteiligung macht daraus besseres Eisen: Eine KI entwirft Legierungen, die Störelemente gezielt …"
         },
         {
-          "title": "Ein Ring aus Helium soll messen, wie die Erde die Raumzeit verdreht",
-          "link": "https://www.ingenieur.de/ein-ring-aus-helium-soll-messen-wie-die-erde-die-raumzeit-verdreht-90b70933-ec2d-48eb-96fe-6379c4a7593d/",
-          "published": "2026-10-18T15:18:31+00:00",
-          "summary": "Ein Quantensensor könnte selbst eine Drehung erkennen, die vier Milliarden Jahre dauert. Forscher wollen damit Einsteins Theorie überprüfen."
+          "title": "26 Minuten, die die Herzmedizin veränderten",
+          "link": "https://www.ingenieur.de/26-minuten-die-die-herzmedizin-veraenderten-6b549f75-b1bd-4764-b762-ab523d5d8e8f/",
+          "published": "2026-10-19T13:54:27+00:00",
+          "summary": "Von der Herz-Lungen-Maschine bis zur Impella: Wie technische Herzunterstützung Herzchirurgie, Schrittmacher und Implantate revolutionierte."
         },
         {
-          "title": "Nachhaltiges Bauen in Deutschland: Zwischen Anspruch und Umsetzung",
-          "link": "https://www.ingenieur.de/nachhaltiges-bauen-in-deutschland-zwischen-anspruch-und-umsetzung-604f6124-7a3a-41f6-b09f-bbb2ee71d9fc/",
-          "published": "2026-10-18T12:00:00+00:00",
-          "summary": "Andere Länder setzen längst klare Rahmenbedingungen für nachhaltiges Bauen. Warum Deutschland trotz hoher technischer Kompetenz nur langsam vorankommt und welche Aufgaben auf Bauingenieurinnen und …"
+          "title": "Hydraulik oder Elektromechanik? Kriterien für die Auswahl",
+          "link": "https://www.ingenieur.de/hydraulik-oder-elektromechanik-8191be8f-a77e-4119-9435-b11066b5d102/",
+          "published": "2026-10-19T13:00:00+00:00",
+          "summary": "Hydraulische und elektromechanische Antriebe haben ihre Berechtigung - bei der Auswahl gilt es, die Systemgrenzen zu beachten."
         },
         {
-          "title": "In zehn Minuten 454 km nachladen: Wie Mercedes das schaffen will",
-          "link": "https://www.ingenieur.de/in-zehn-minuten-454-km-nachladen-wie-mercedes-das-schaffen-will-f509a1e4-a787-40e3-93c1-023862c2aad7/",
-          "published": "2026-10-18T09:00:00+00:00",
-          "summary": "Mercedes-AMG verspricht 454 km Reichweite in zehn Minuten. Wie 710 kW Ladeleistung, Ölkühlung und 800-Volt-Technik das möglich machen sollen."
+          "title": "Neuer Ansatz macht Polystyrol nachhaltig",
+          "link": "https://www.ingenieur.de/neuer-ansatz-fuer-nachhaltige-kunststoffe-153c3286-e99f-49c7-b88b-0c661b4183b2/",
+          "published": "2026-10-19T12:30:00+00:00",
+          "summary": "Ein Helmholtz Forschungsinstitut hat ein alternatives Polystyrol entwickelt. Im Gegensatz zu herkömmlichem Polystyrol enthält es nachwachsende Rohstoffe und ist recyclebar."
         },
         {
-          "title": "Homeoffice für Ingenieure: Wie viel Büro muss wirklich sein?",
-          "link": "https://www.ingenieur.de/homeoffice-bleibt-trotz-rueckkehrdebatte-neue-zahlen-widersprechen-dem-rto-trend-ba24e05b-63b7-4497-9002-fa17bfb4b906/",
-          "published": "2026-10-18T08:30:00+00:00",
-          "summary": "Immer mehr Unternehmen verlangen von ihren Beschäftigten, häufiger ins Büro zurückzukehren. Doch die Daten zeigen keine flächendeckende Abkehr vom Homeoffice. Für Ingenieurinnen und Ingenieure kann …"
+          "title": "Richtlinen: Die VDI 3810 Blatt 4 wurde überarbeitet: Was ist neu?",
+          "link": "https://www.ingenieur.de/richtlinen-die-vdi-3810-blatt-4-wurde-ueberarbeitet-was-ist-neu-3a42c18f-064a-45b0-8660-b47dcdc01890/",
+          "published": "2026-10-19T12:00:00+00:00",
+          "summary": "Der Verein Deutscher Ingenieure hat die Richtlinie VDI 3810 Blatt 4 „Betreiben und Instandhalten von Gebäuden und gebäudetechnischen Anlagen – Raumlufttechnische Anlagen“ überarbeitet. Das Regelwerk …"
         }
       ],
       "error": null
