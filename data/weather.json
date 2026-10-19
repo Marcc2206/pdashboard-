@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:46:33+00:00",
+  "generatedAt": "2026-10-19T21:58:35+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,25 +7,25 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-19T18:45",
-    "temperatur": 9.0,
-    "gefuehlt": 5.8,
-    "luftfeuchte": 76,
+    "zeit": "2026-10-19T23:45",
+    "temperatur": 5.8,
+    "gefuehlt": 2.9,
+    "luftfeuchte": 87,
     "niederschlag": 0.0,
-    "wind": 13.9,
+    "wind": 10.0,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 3,
-      "text": "Bedeckt",
-      "icon": "☁️"
+      "code": 1,
+      "text": "Überwiegend klar",
+      "icon": "🌤️"
     }
   },
   "tage": [
     {
       "datum": "2026-10-19",
       "max": 11.9,
-      "min": 5.6,
+      "min": 5.7,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-19T07:57",
       "sonnenuntergang": "2026-10-19T18:23",
@@ -37,9 +37,9 @@
     },
     {
       "datum": "2026-10-20",
-      "max": 9.8,
-      "min": 2.8,
-      "regenwahrscheinlichkeit": 20,
+      "max": 9.9,
+      "min": 2.5,
+      "regenwahrscheinlichkeit": 15,
       "sonnenaufgang": "2026-10-20T07:59",
       "sonnenuntergang": "2026-10-20T18:20",
       "wetter": {
@@ -50,9 +50,9 @@
     },
     {
       "datum": "2026-10-21",
-      "max": 11.8,
-      "min": 4.8,
-      "regenwahrscheinlichkeit": 70,
+      "max": 11.9,
+      "min": 6.5,
+      "regenwahrscheinlichkeit": 93,
       "sonnenaufgang": "2026-10-21T08:01",
       "sonnenuntergang": "2026-10-21T18:18",
       "wetter": {
@@ -63,14 +63,14 @@
     },
     {
       "datum": "2026-10-22",
-      "max": 11.7,
-      "min": 7.5,
-      "regenwahrscheinlichkeit": 31,
+      "max": 11.6,
+      "min": 7.9,
+      "regenwahrscheinlichkeit": 30,
       "sonnenaufgang": "2026-10-22T08:02",
       "sonnenuntergang": "2026-10-22T18:16",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:46:30+00:00",
+  "generatedAt": "2026-10-19T21:58:31+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669040.html",
-          "published": "2026-10-19T16:37:00+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12938.html",
+          "published": "2026-10-19T21:09:33+00:00",
           "summary": ""
         },
         {
-          "title": "Marktbericht: Neue Woche, neue Sorgen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-          "published": "2026-10-19T16:29:58+00:00",
-          "summary": "Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich."
+          "title": "Japan startet Mission zu Mars-Monden",
+          "link": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html",
+          "published": "2026-10-19T20:43:14+00:00",
+          "summary": "Der Mars-Mond Phobos steht im Mittelpunkt der jüngsten Weltraummission: Nun ist die Trägerrakete vom japanischen Weltraumbahnhof Tanegashima aufgebrochen. Es ist die erste Mission, bei der Material …"
         },
         {
-          "title": "Verena Schälter, ARD Rom, zu den Protesten in Italien",
-          "link": "https://www.tagesschau.de/video/video-1669032.html",
-          "published": "2026-10-19T16:27:41+00:00",
+          "title": "\"Schattenkrieger\" auf Seiten der Ukraine im russischen Angriffskrieg",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1669222.html",
+          "published": "2026-10-19T20:41:46+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau in Einfacher Sprache",
-          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1482.html",
-          "published": "2026-10-19T15:44:58+00:00",
+          "title": "\"Invest in Germany Summit\": Mühsame Suche nach Investoren für Deutschland",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1669220.html",
+          "published": "2026-10-19T20:38:34+00:00",
           "summary": ""
         },
         {
-          "title": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat",
-          "link": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html",
-          "published": "2026-10-19T15:43:35+00:00",
-          "summary": "Im Fall der seit dem Sommer 2007 vermissten Kerstin Lee Langley aus Regensburg gibt es einen Durchbruch: Die damals 39-Jährige soll von einem Trio getötet worden sein. Eine der Verdächtigen legte nun …"
+          "title": "Claire Demesmay, Politikwissenschaftlerin, zu den Ausschreitungen in Frankreich",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1669214.html",
+          "published": "2026-10-19T20:37:12+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Regierungsbildung: Berliner SPD für Koalitionsgespräche mit Linke und Grünen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-berliner-spd-fuer-koalitionsgespraeche-mit-linke-und-gruenen/100263126.html",
-          "published": "2026-10-19T16:33:20+00:00",
-          "summary": "Nach den erfolgreichen Sondierungen in Berlin sind nun die Parteigremien gefragt. Zuerst gab die SPD grünes Licht für Koalitionsverhandlungen. Die Grünen wollen ebenfalls noch am Abend entscheiden."
+          "title": "Investitionsgipfel: „Ihr bekommt keine weitere Chance“: Wie der Nvidia-Chef die deutsche Industrie revolutionieren will",
+          "link": "https://www.handelsblatt.com/politik/deutschland/investitionsgipfel-wie-der-kanzler-und-der-chipboss-die-industrie-revolutionieren-wollen/100263171.html",
+          "published": "2026-10-19T20:54:44+00:00",
+          "summary": "Beim Auftakt der Investorenkonferenz sprechen Kanzler Merz und Nvidia-Chef Huang über die Fabriken der Zukunft – und eine fast symbiotische Beziehung, die dafür entstehen soll."
         },
         {
-          "title": "+++ Bundespolitik +++: Berliner SPD für Koalitionsgespräche mit Linke und Grünen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-berliner-spd-fuer-koalitionsgespraeche-mit-linke-und-gruenen/100137034.html",
-          "published": "2026-10-19T16:33:00+00:00",
-          "summary": "Koalitions-Fraktionschefs für Rentenreform +++ Frei kritisiert SPD-Wortwahl im Streit um Bas +++ 20 SPD-Abgeordnete gegen Verhandlungen mit Linke +++ Der Newsblog."
+          "title": "Mars-Mission: „Idefix“ fliegt zu Marsmond – Japanische Raummission startet",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/mars-mission-idefix-fliegt-zu-marsmond-japanische-raummission-startet/100263372.html",
+          "published": "2026-10-19T19:56:43+00:00",
+          "summary": "Japan will erstmals Proben von einem der Marsmonde zur Erde holen. Mit an Bord der Raumsonde: ein kleiner deutsch-französischer Rover namens „Idefix“."
         },
         {
-          "title": "Märkte Insight: Sind Anthropic und OpenAI wirklich geeignete Börsenkandidaten?",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/ki-sind-anthropic-und-openai-wirklich-geeignete-boersenkandidaten/100263207.html",
-          "published": "2026-10-19T16:29:47+00:00",
-          "summary": "Die KI-Labore drängen mit Billionenbewertungen an die Börse. Unklar ist, wie Anleger mit Aktien von Firmen umgehen, deren Technologie die Menschheit auslöschen könnte, meint Astrid Dörner."
+          "title": "Haushaltsgeräte: Langjähriger Miele-Chef stirbt im Alter von 98 Jahren",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/haushaltsgeraete-langjaehriger-miele-chef-stirbt-im-alter-von-98-jahren/100263368.html",
+          "published": "2026-10-19T19:54:37+00:00",
+          "summary": "Als er anfing bei Miele, war Adenauer Kanzler; als er aufhörte, neigte sich Schröders Kanzlerschaft dem Ende entgegen. Nun ist der einstige Miele-Patron Peter Christian Zinkann gestorben."
         },
         {
-          "title": "Kubas Ex-Staatschef: Haftbefehl gegen Raúl Castro im US-Bundesstaat Florida",
-          "link": "https://www.handelsblatt.com/politik/international/kubas-ex-staatschef-haftbefehl-gegen-raul-castro-im-us-bundesstaat-florida/100263356.html",
-          "published": "2026-10-19T16:29:11+00:00",
-          "summary": "Der frühere kubanische Präsident war Verteidigungsminister, als die kubanische Luftwaffe 1996 zwei Flugzeuge einer Exilorganisation abschoss. Floridas Generalstaatsanwalt erhebt nun eigene Vorwürfe."
+          "title": "Berlin: SPD und Grüne stimmen für Verhandlungen über Koalition mit der Linken",
+          "link": "https://www.handelsblatt.com/politik/deutschland/berlin-spd-und-gruene-stimmen-fuer-verhandlungen-ueber-koalition-mit-der-linken/100263173.html",
+          "published": "2026-10-19T19:41:37+00:00",
+          "summary": "Trotz heftigen Widerstands aus der Bundestagsfraktion hat die Berliner Landes-SPD für Koalitionsverhandlungen mit der Linken gestimmt. Am Abend folgten auch die Grünen."
         },
         {
-          "title": "Demonstrationen: Meloni kündigt nach Krawallen hartes Vorgehen an",
-          "link": "https://www.handelsblatt.com/politik/international/demonstrationen-meloni-kuendigt-nach-krawallen-hartes-vorgehen-an/100263354.html",
-          "published": "2026-10-19T16:24:15+00:00",
-          "summary": "Szenen wie in Paris: Rund um den Mailänder Dom plündern vermummte Jugendliche Geschäfte. In einer Krisensitzung berät die Regierung über Reaktionen, bis hin zu Ausgangssperren."
+          "title": "Regierungsbildung: Berlin: Grüne und SPD für Koalitionsgespräche mit Linke",
+          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-berlin-gruene-und-spd-fuer-koalitionsgespraeche-mit-linke/100263126.html",
+          "published": "2026-10-19T19:25:16+00:00",
+          "summary": "Nach erfolgreichen Sondierungen in Berlin steuern drei Parteien Koalitionsverhandlungen an. Grüne und SPD haben am Abend entschieden. Warum die Linke sich noch Zeit lässt."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Erholung bei Tech-Werten: Wall Street lässt Talfahrt hinter sich",
+          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-laesst-Talfahrt-hinter-sich-id31436082.html",
+          "published": "2026-10-19T20:46:42+00:00",
+          "summary": "Eine historisch lange Verlustserie bei den Halbleiterwerten geht zu Ende. Ein Börsianer kommentiert scherzhaft: Zwischen Freitag auf Montag habe sich nichts geändert. Aber es sei am Wochenende eben …"
+        },
+        {
+          "title": "Vier Jahrzehnte im Unternehmen: Langjähriger Miele-Chef stirbt im Alter von 98 Jahren",
+          "link": "https://www.n-tv.de/wirtschaft/Langjaehriger-Miele-Chef-stirbt-im-Alter-von-98-Jahren-id31435965.html",
+          "published": "2026-10-19T19:59:59+00:00",
+          "summary": "Miele trauert um Peter Christian Zinkann: Der langjährige Chef des Haushaltsgeräte-Herstellers ist im Alter von 98 Jahren gestorben. Über vier Jahrzehnte prägte er die Entwicklung des Gütersloher …"
+        },
+        {
+          "title": "Technologie trifft auf Industrie: Bund kooperiert mit Nvidia bei Entwicklung von KI-Robotik",
+          "link": "https://www.n-tv.de/wirtschaft/Bund-kooperiert-mit-Nvidia-bei-Entwicklung-von-KI-Robotik-id31435883.html",
+          "published": "2026-10-19T19:59:04+00:00",
+          "summary": "Beim Investitionsgipfel in Berlin unterzeichnen zwei Ministerien eine Absichtserklärung mit dem US-Chipriesen Nvidia. Gemeinsam sollen KI-Modelle für Roboter und Industrieanlagen entstehen. Kanzler …"
+        },
+        {
           "title": "\"Historische Chance\": Siemens und Nvidia entwickeln KI-betriebene Fabrik",
           "link": "https://www.n-tv.de/wirtschaft/Siemens-und-Nvidia-entwickeln-KI-betriebene-Fabrik-id31435038.html",
           "published": "2026-10-19T15:31:09+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Krisen-fuehren-seit-2020-zu-Investitionsausfaellen-von-420-Milliarden-Euro-id31434873.html",
           "published": "2026-10-19T15:29:51+00:00",
           "summary": "Die Nachwehen der Corona-Krise und internationale Konflikte machen der deutschen Wirtschaft zu schaffen. Private Unternehmen investieren seit Jahren deutlich weniger. Eine Studie veröffentlicht nun …"
-        },
-        {
-          "title": "\"Wir sind überzeugt\": Vonovia: Berliner Vergesellschaftungspläne halten vor Gericht nicht stand",
-          "link": "https://www.n-tv.de/wirtschaft/Vonovia-Berliner-Vergesellschaftungsplaene-halten-vor-Gericht-nicht-stand-id31435025.html",
-          "published": "2026-10-19T14:49:32+00:00",
-          "summary": "Linke, Grüne und SPD planen ein Gesetz zur Vergesellschaftung großer Wohnungskonzerne in Berlin. Einer der betroffenen Konzerne, Vonovia, äußert sich deutlich zu dem Vorhaben. Bis es dazu aber …"
-        },
-        {
-          "title": "496.000 Industriejobs schon weg: Ifo-Institut diagnostiziert \"verschärften Strukturwandel\"",
-          "link": "https://www.n-tv.de/wirtschaft/Ifo-Institut-diagnostiziert-verschaerften-Strukturwandel-id31434638.html",
-          "published": "2026-10-19T14:22:24+00:00",
-          "summary": "Deutschlands einstige Vorzeigeindustrien verlieren rasant an Boden. Neue Jobs entstehen vor allem in der Gesundheitsbranche sowie in der öffentlichen Verwaltung. Damit schrumpfe das …"
-        },
-        {
-          "title": "Fink glaubt an Deutschland: Blackrock-Chef: \"Stimmung im Land ist schlechter, als sie sein müsste\"",
-          "link": "https://www.n-tv.de/wirtschaft/Blackrock-Chef-Stimmung-im-Land-ist-schlechter-als-sie-sein-muesste-id31434786.html",
-          "published": "2026-10-19T13:53:56+00:00",
-          "summary": "Die heimische Autoindustrie baut massiv Stellen ab, Manager und Politiker warnen, der Standort Deutschland sei nicht wettbewerbsfähig. Der Chef des größten Vermögensverwalters der Welt dagegen sieht …"
         }
       ],
       "error": null
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Pharmabranche: Merck kauft britische Biotechfirma für knapp eine Milliarde Dollar",
-          "link": "https://www.wiwo.de/unternehmen/industrie/pharmabranche-merck-kauft-britische-biotechfirma-fuer-knapp-eine-milliarde/100263311.html",
-          "published": "2026-10-19T15:51:00+00:00",
-          "summary": "Der Pharma- und Technologiekonzern stemmt unter seinem neuen Chef Kai Beckmann die nächste Übernahme. Der Deal soll Merck im Geschäft mit seltenen Krankheiten voranbringen."
+          "title": "Die Höhle der Löwen: „Keiner ernährt sich nur von Kaviar und Gänseleber“",
+          "link": "https://www.wiwo.de/erfolg/trends/die-hoehle-der-loewen-wie-ging-es-mit-start-up-fryzza-nach-der-sendung-weiter/100263204.html",
+          "published": "2026-10-19T21:00:00+00:00",
+          "summary": "Fryzza feiert Erfolge mit Tiefkühlpizza für Airfryer. Das schmeckt den Investoren Ralph Dümmel und Frank Thelen. Doch wie will das Start-up Konkurrenten auf Abstand halten?"
         },
         {
-          "title": "Netzentgelte: Wie der Netzausbau Strom und Gas im kommenden Jahr verteuert",
-          "link": "https://www.wiwo.de/finanzen/immobilien/netzentgelte-wie-der-netzausbau-strom-und-gas-im-kommenden-jahr-verteuert/100263179.html",
-          "published": "2026-10-19T15:24:27+00:00",
-          "summary": "Die Strom- und Gasnetze werden weiter ausgebaut. Weil der Bundeszuschuss sinkt, steigen die Netzentgelte. Eine Verivox-Analyse zeigt, wie teuer es wird."
+          "title": "Investitionsgipfel Berlin: „Deutschland ist bereit, schneller zu wachsen“",
+          "link": "https://www.wiwo.de/politik/deutschland/investitionsgipfel-berlin-kanzler-friedrich-merz-wirbt-mit-nvidia-um-private-investoren/100263153.html",
+          "published": "2026-10-19T19:01:00+00:00",
+          "summary": "Die Bundesregierung zieht alle Register, um mehr Investoren nach Deutschland zu locken. Eine Konferenz soll ein Willkommens-Signal senden. Stargast des Eröffnungsabends ist der Nvidia-Chef."
         },
         {
-          "title": "Schuldenquote Deutschland: So hoch ist die Staatsverschuldung aktuell",
-          "link": "https://www.wiwo.de/politik/deutschland/staatsverschuldung-in-deutschland-eu-laendern-und-usa-2026/26683850.html",
-          "published": "2026-10-19T14:51:00+00:00",
-          "summary": "Sondervermögen haben die Schuldenquote im vergangenen Jahr nach oben getrieben. Bereits in den Vorjahren wurden Rekordschulden gezählt. Wie steht es aktuell um die Staatsverschuldung?"
+          "title": "Chipkonzern: Bund kooperiert mit Nvidia bei Entwicklung von KI-Robotik",
+          "link": "https://www.wiwo.de/politik/deutschland/nvidia-bund-kooperiert-mit-chipkonzern-bei-entwicklung-von-ki-robotik/100262650.html",
+          "published": "2026-10-19T18:56:00+00:00",
+          "summary": "Der Bund und Nvidia wollen industrielle KI in Deutschland voranbringen. Nvidia-Chef Huang warnt in Berlin davor, deutsches Wissen aus der Hand zu geben."
         },
         {
-          "title": "BörsenTag: Wenn Anthropic wächst, dann auch der Beitrag zum Gemeinwohl",
-          "link": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-was-hinter-dem-gemeinwohl-vorstoss-steckt/100263199.html",
-          "published": "2026-10-19T14:38:55+00:00",
-          "summary": "Anthropic plant, fünf Prozent seiner Aktien in einen Gemeinwohlfonds einzubringen. Ganz ohne Eigennutz ist das nicht – gerade mit Blick auf den bevorstehenden Börsengang."
+          "title": "Ausgangssperre verhängt: Inflation und soziale Ungleichheit sind Grund für die Unruhen in Frankreich",
+          "link": "https://www.wiwo.de/politik/ausland/proteste-in-frankreich-warum-in-frankreich-protestiert-wird/100263219.html",
+          "published": "2026-10-19T17:46:00+00:00",
+          "summary": "Ungleichheit, Kürzungen bei öffentlichen Ausgaben und die Inflation treiben die Menschen in Frankreich auf die Straßen. Es wird von Szenen „wie in einem Kriegsgebiet“ berichtet."
         }
       ],
       "error": null
@@ -229,16 +229,16 @@
           "summary": "Hydraulische und elektromechanische Antriebe haben ihre Berechtigung - bei der Auswahl gilt es, die Systemgrenzen zu beachten."
         },
         {
+          "title": "Abschiedssprüche für Kollegen: 50 Ideen von herzlich bis lustig",
+          "link": "https://www.ingenieur.de/abschiedssprueche-fuer-kollegen-ideen-von-nachdenklich-bis-humorvoll-dc01aaf8-b4b9-46d5-912a-581492386ece/",
+          "published": "2026-10-19T12:30:00+00:00",
+          "summary": "Kurze, lustige und herzliche Abschiedssprüche für Kollegen: 50 Ideen für Jobwechsel, Ruhestand und Abschiedskarten – mit fertigen Textvorlagen."
+        },
+        {
           "title": "Neuer Ansatz macht Polystyrol nachhaltig",
           "link": "https://www.ingenieur.de/neuer-ansatz-fuer-nachhaltige-kunststoffe-153c3286-e99f-49c7-b88b-0c661b4183b2/",
           "published": "2026-10-19T12:30:00+00:00",
           "summary": "Ein Helmholtz Forschungsinstitut hat ein alternatives Polystyrol entwickelt. Im Gegensatz zu herkömmlichem Polystyrol enthält es nachwachsende Rohstoffe und ist recyclebar."
-        },
-        {
-          "title": "Richtlinen: Die VDI 3810 Blatt 4 wurde überarbeitet: Was ist neu?",
-          "link": "https://www.ingenieur.de/richtlinen-die-vdi-3810-blatt-4-wurde-ueberarbeitet-was-ist-neu-3a42c18f-064a-45b0-8660-b47dcdc01890/",
-          "published": "2026-10-19T12:00:00+00:00",
-          "summary": "Der Verein Deutscher Ingenieure hat die Richtlinie VDI 3810 Blatt 4 „Betreiben und Instandhalten von Gebäuden und gebäudetechnischen Anlagen – Raumlufttechnische Anlagen“ überarbeitet. Das Regelwerk …"
         }
       ],
       "error": null
