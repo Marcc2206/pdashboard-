@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:59:49+00:00",
+  "generatedAt": "2026-10-20T07:08:30+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -9,33 +9,33 @@
       "items": [
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669242.html",
-          "published": "2026-10-20T00:27:58+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669298.html",
+          "published": "2026-10-20T07:06:07+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81620.html",
-          "published": "2026-10-19T22:55:46+00:00",
+          "title": "\"A Brushstroke for Life\" in Mexiko, Sting in Tennessee, Schwimmerinnen in San Diego",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10516.html",
+          "published": "2026-10-20T06:36:25+00:00",
           "summary": ""
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12938.html",
-          "published": "2026-10-19T21:09:33+00:00",
+          "title": "\"Spielen in Weltspitze mit\", Dorothee Bär, CSU, Ministerin für Forschung, Technologie und Raumfahrt, zum Investoren-Gipfel",
+          "link": "https://www.tagesschau.de/video/video-1669282.html",
+          "published": "2026-10-20T06:21:30+00:00",
           "summary": ""
         },
         {
-          "title": "Japan startet Mission zu Mars-Monden",
-          "link": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html",
-          "published": "2026-10-19T20:43:14+00:00",
-          "summary": "Der Mars-Mond Phobos steht im Mittelpunkt der jüngsten Weltraummission: Nun ist die Trägerrakete vom japanischen Weltraumbahnhof Tanegashima aufgebrochen. Es ist die erste Mission, bei der Material …"
+          "title": "Wahlen in den USA: Was zu den Midterms wichtig ist",
+          "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
+          "published": "2026-10-20T06:00:43+00:00",
+          "summary": "Es ist ein wichtiger Stimmungstest für Präsident Trump: In zwei Wochen sind die US-Bürger zu den Zwischenwahlen aufgerufen. Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen …"
         },
         {
-          "title": "\"Schattenkrieger\" auf Seiten der Ukraine im russischen Angriffskrieg",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1669222.html",
-          "published": "2026-10-19T20:41:46+00:00",
-          "summary": ""
+          "title": "Marktbericht: Anleger warten auf US-Bilanzen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+          "published": "2026-10-20T05:35:01+00:00",
+          "summary": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Autotest: Der Hyundai Ioniq 3 ist ein cooler Konter aus Korea",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/autotest-der-hyundai-ioniq-3-ist-ein-cooler-konter-aus-korea/100263386.html",
-          "published": "2026-10-20T00:22:06+00:00",
-          "summary": "Hyundai beweist bei der Ioniq-Familie einmal mehr Mut zu buchstäblich schrägem Design. Der neue Dreier ist zwar technisch nur Durchschnitt, aber übersehen kann den Aero-Hatchback dafür keiner."
+          "title": "USA: Gesetze, Klagen, Steuervorteil – so streitet Amerika über Trinkgeld",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/trinkgeld-warum-der-freiwillige-dank-in-den-usa-zum-streitfall-wird/100261411.html",
+          "published": "2026-10-20T06:55:00+00:00",
+          "summary": "Roboter-Barista erbitten Trinkgeld, New York zwingt Liefer-Apps zur Abfrage. Der freiwillige Dank wird in Amerika zur Machtfrage und beschäftigt Gerichte – mit Signalwirkung für Deutschland."
         },
         {
-          "title": "Ukraine-Krieg: Trump: Haben der Ukraine viel gegeben - und sie uns nichts",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-haben-der-ukraine-viel-gegeben-und-sie-uns-nichts/100263384.html",
-          "published": "2026-10-20T00:07:57+00:00",
-          "summary": "US-Präsident Trump verschärft den Ton gegenüber der Ukraine immer weiter. Einem Bericht zufolge sollen die USA nun auch Waffenlieferungen zurückhalten."
+          "title": "Interview: Forscher: „Selbst wenn Meta nachts Instagram abschaltet, soll niemand glauben, dass die Pisa-Leistungen explodieren“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bildung-schule-muss-eine-anstrengungskultur-vermitteln/100255718.html",
+          "published": "2026-10-20T06:51:00+00:00",
+          "summary": "Olaf Köller sieht starke Defizite im deutschen Bildungssystem. Als Hauptursache nennt er nicht Zuwanderung oder Social Media, sondern einen ganz anderen Punkt."
         },
         {
-          "title": "Gesundheitsreform: Kassenärzte sagen längere Termin-Wartezeiten voraus",
-          "link": "https://www.handelsblatt.com/politik/deutschland/gesundheitsreform-kassenaerzte-sagen-laengere-termin-wartezeiten-voraus/100263379.html",
-          "published": "2026-10-19T22:06:04+00:00",
-          "summary": "Ärzte sollen künftig eine feste Zahl freier Termine melden, bislang konnten sie den Umfang selbst bestimmen. Warum die Kassenärztliche Bundesvereinigung darin keinen Weg zu schnelleren Terminen sieht."
+          "title": "Lebensmittel: Nudeln kommen in Europa meist aus Italien",
+          "link": "https://www.handelsblatt.com/politik/deutschland/lebensmittel-nudeln-kommen-in-europa-meist-aus-italien/100263437.html",
+          "published": "2026-10-20T06:40:36+00:00",
+          "summary": "Fast sieben von zehn in der EU produzierten Nudeln kommen aus Italien. Doch beim Ei in der Pasta tickt Deutschland immer noch ein bisschen anders."
         },
         {
-          "title": "Investitionsgipfel: „Ihr bekommt keine weitere Chance“: Wie der Nvidia-Chef die deutsche Industrie revolutionieren will",
-          "link": "https://www.handelsblatt.com/politik/deutschland/investitionsgipfel-wie-der-kanzler-und-der-chipboss-die-industrie-revolutionieren-wollen/100263171.html",
-          "published": "2026-10-19T20:54:44+00:00",
-          "summary": "Beim Auftakt der Investorenkonferenz sprechen Kanzler Merz und Nvidia-Chef Huang über die Fabriken der Zukunft – und eine fast symbiotische Beziehung, die dafür entstehen soll."
+          "title": "Erste Prognosen: Medien: Mehrheit in Alberta gegen Unabhängigkeit von Kanada",
+          "link": "https://www.handelsblatt.com/politik/international/erste-prognosen-medien-mehrheit-in-alberta-gegen-unabhaengigkeit-von-kanada/100263436.html",
+          "published": "2026-10-20T06:38:42+00:00",
+          "summary": "Die kanadische Provinz Alberta stimmt über den Weg in die Unabhängigkeit ab. Erste Prognosen zeigen: Die Mehrheit will nicht, dass weitere Schritte in diese Richtung gegangen werden."
         },
         {
-          "title": "Mars-Mission: „Idefix“ fliegt zu Marsmond – Japanische Raummission startet",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/mars-mission-idefix-fliegt-zu-marsmond-japanische-raummission-startet/100263372.html",
-          "published": "2026-10-19T19:56:43+00:00",
-          "summary": "Japan will erstmals Proben von einem der Marsmonde zur Erde holen. Mit an Bord der Raumsonde: ein kleiner deutsch-französischer Rover namens „Idefix“."
+          "title": "Spanien: Schwere Überschwemmungen in Valencia und auf Mallorca",
+          "link": "https://www.handelsblatt.com/politik/international/spanien-schwere-ueberschwemmungen-in-valencia-und-auf-mallorca/100263429.html",
+          "published": "2026-10-20T06:37:06+00:00",
+          "summary": "Mehrere Menschen sind bei Überschwemmungen in Spanien ums Leben gekommen. In der Nacht hat es auch die Urlaubsinsel Mallorca getroffen. Bisher gibt es keine Entwarnung."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Rekordzins wegen des Iran-Kriegs: Immobilienkredite so teuer wie zur Finanzkrise 2009",
+          "link": "https://www.n-tv.de/wirtschaft/Immobilienkredite-so-teuer-wie-zur-Finanzkrise-2009-id31436330.html",
+          "published": "2026-10-20T03:43:56+00:00",
+          "summary": "Wer ein Haus kaufen will, muss für die Zinsen derzeit besonders tief in die Tasche greifen. Der Iran-Krieg treibt die Inflation, was in einer Kettenreaktion auf Baudarlehen durchschlägt. Sogar die …"
+        },
         {
           "title": "Reform \"ändert die Regeln\": Charité-Chef: Sparpaket sorgt für \"massiv mehr Bürokratie\"",
           "link": "https://www.n-tv.de/wirtschaft/Charite-Chef-Sparpaket-sorgt-fuer-massiv-mehr-Buerokratie-id31435661.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Langjaehriger-Miele-Chef-stirbt-im-Alter-von-98-Jahren-id31435965.html",
           "published": "2026-10-19T19:59:59+00:00",
           "summary": "Miele trauert um Peter Christian Zinkann: Der langjährige Chef des Haushaltsgeräte-Herstellers ist im Alter von 98 Jahren gestorben. Über vier Jahrzehnte prägte er die Entwicklung des Gütersloher …"
-        },
-        {
-          "title": "Technologie trifft auf Industrie: Bund kooperiert mit Nvidia bei Entwicklung von KI-Robotik",
-          "link": "https://www.n-tv.de/wirtschaft/Bund-kooperiert-mit-Nvidia-bei-Entwicklung-von-KI-Robotik-id31435883.html",
-          "published": "2026-10-19T19:59:04+00:00",
-          "summary": "Beim Investitionsgipfel in Berlin unterzeichnen zwei Ministerien eine Absichtserklärung mit dem US-Chipriesen Nvidia. Gemeinsam sollen KI-Modelle für Roboter und Industrieanlagen entstehen. Kanzler …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Neue Woche, neue Sorgen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-          "published": "2026-10-19T16:29:58+00:00",
-          "summary": "Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich."
+          "title": "Marktbericht: Anleger warten auf US-Bilanzen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+          "published": "2026-10-20T05:35:01+00:00",
+          "summary": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach."
         },
         {
           "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
@@ -178,28 +178,28 @@
           "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
         },
         {
-          "title": "Die Höhle der Löwen: „Keiner ernährt sich nur von Kaviar und Gänseleber“",
-          "link": "https://www.wiwo.de/erfolg/trends/die-hoehle-der-loewen-wie-ging-es-mit-start-up-fryzza-nach-der-sendung-weiter/100263204.html",
-          "published": "2026-10-19T21:00:00+00:00",
-          "summary": "Fryzza feiert Erfolge mit Tiefkühlpizza für Airfryer. Das schmeckt den Investoren Ralph Dümmel und Frank Thelen. Doch wie will das Start-up Konkurrenten auf Abstand halten?"
+          "title": "Mars-Mission: „Idefix“ fliegt zu Marsmond – japanische Mission erfolgreich gestartet",
+          "link": "https://www.wiwo.de/technologie/forschung/mars-mission-idefix-fliegt-zu-marsmond-japanische-mission-gestartet/100263399.html",
+          "published": "2026-10-20T06:37:00+00:00",
+          "summary": "Erstmals sollen Proben von einem der Mars-Monde zur Erde geholt werden. Mit an Bord der ins Weltall geschossenen Raumsonde: ein kleiner deutsch-französischer Rover namens „Idefix“."
+        },
+        {
+          "title": "Berlin: „Investoren dieser Welt, schaut auf diese Stadt!“",
+          "link": "https://www.wiwo.de/politik/deutschland/berlin-investoren-dieser-welt-schaut-auf-diese-stadt/100263076.html",
+          "published": "2026-10-20T06:24:00+00:00",
+          "summary": "Linke, SPD und Grüne einigen sich auf ein Sondierungspapier: mit Enteignungen und der Kriminalisierung von Vermietern. Ein Kommentar."
         },
         {
           "title": "Investitionsgipfel Berlin: „Deutschland ist bereit, schneller zu wachsen“",
-          "link": "https://www.wiwo.de/politik/deutschland/investitionsgipfel-berlin-kanzler-friedrich-merz-wirbt-mit-nvidia-um-private-investoren/100263153.html",
-          "published": "2026-10-19T19:01:00+00:00",
+          "link": "https://www.wiwo.de/politik/deutschland/investitionsgipfel-berlin-merz-wirbt-mit-nvidia-um-investoren/100263153.html",
+          "published": "2026-10-20T06:17:00+00:00",
           "summary": "Die Bundesregierung zieht alle Register, um mehr Investoren nach Deutschland zu locken. Eine Konferenz soll ein Willkommens-Signal senden. Stargast des Eröffnungsabends ist der Nvidia-Chef."
         },
         {
-          "title": "Chipkonzern: Bund kooperiert mit Nvidia bei Entwicklung von KI-Robotik",
-          "link": "https://www.wiwo.de/politik/deutschland/nvidia-bund-kooperiert-mit-chipkonzern-bei-entwicklung-von-ki-robotik/100262650.html",
-          "published": "2026-10-19T18:56:00+00:00",
-          "summary": "Der Bund und Nvidia wollen industrielle KI in Deutschland voranbringen. Nvidia-Chef Huang warnt in Berlin davor, deutsches Wissen aus der Hand zu geben."
-        },
-        {
-          "title": "Ausgangssperre verhängt: Inflation und soziale Ungleichheit sind Grund für die Unruhen in Frankreich",
-          "link": "https://www.wiwo.de/politik/ausland/proteste-in-frankreich-warum-in-frankreich-protestiert-wird/100263219.html",
-          "published": "2026-10-19T17:46:00+00:00",
-          "summary": "Ungleichheit, Kürzungen bei öffentlichen Ausgaben und die Inflation treiben die Menschen in Frankreich auf die Straßen. Es wird von Szenen „wie in einem Kriegsgebiet“ berichtet."
+          "title": "Volkswagen: VW-Betriebsräte halten Umsetzung der Gehaltspläne für „wenig realistisch“",
+          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-will-gehaelter-einfrieren-betriebsraete-schaetzen-plaene-als-wenig-realistisch-ein/100263256.html",
+          "published": "2026-10-20T06:09:00+00:00",
+          "summary": "Nun ist es offiziell: Volkswagen will die Gehälter einfrieren. Aber geht das überhaupt? Wie die IG Metall die rabiaten Pläne des VW-Managements einschätzt."
         }
       ],
       "error": null
@@ -210,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Warum blieb Materie übrig und welche Rolle spielt ein schweres Neutrino?",
+          "link": "https://www.ingenieur.de/warum-blieb-materie-uebrig-forscher-pruefen-die-rolle-eines-schweren-neutrinos-0834fd44-0730-4ca7-aa5a-0c52e8df3372/",
+          "published": "2026-10-20T05:28:28+00:00",
+          "summary": "Ein schweres Neutrino könnte beeinflusst haben, warum Materie nach dem Urknall übrig blieb. Neue Berechnungen zeigen mögliche Spuren in Gravitationswellen."
+        },
+        {
+          "title": "Wenn der Luftdruck abstürzt: Wie ein Bombenzyklon entsteht",
+          "link": "https://www.ingenieur.de/bombenzyklon-was-ist-das-wie-entsteht-er-149f491e-6468-4ead-a35b-9c2ec553ea5e/",
+          "published": "2026-10-20T04:54:39+00:00",
+          "summary": "Was macht ein Tief zum Bombenzyklon? Wie der schnelle Druckabfall entsteht und welches Sturmrisiko der DWD aktuell für Deutschland sieht."
+        },
         {
           "title": "Nur Schrott, kein frisches Metall: KI macht Eisen bis zu 15 % fester",
           "link": "https://www.ingenieur.de/nur-schrott-kein-frisches-metall-ki-macht-eisen-bis-zu-15-fester-12edf7b4-ba2b-4536-8bf5-1a040f964d3b/",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/hydraulik-oder-elektromechanik-8191be8f-a77e-4119-9435-b11066b5d102/",
           "published": "2026-10-19T13:00:00+00:00",
           "summary": "Hydraulische und elektromechanische Antriebe haben ihre Berechtigung - bei der Auswahl gilt es, die Systemgrenzen zu beachten."
-        },
-        {
-          "title": "Abschiedssprüche für Kollegen: 50 Ideen von herzlich bis lustig",
-          "link": "https://www.ingenieur.de/abschiedssprueche-fuer-kollegen-ideen-von-nachdenklich-bis-humorvoll-dc01aaf8-b4b9-46d5-912a-581492386ece/",
-          "published": "2026-10-19T12:30:00+00:00",
-          "summary": "Kurze, lustige und herzliche Abschiedssprüche für Kollegen: 50 Ideen für Jobwechsel, Ruhestand und Abschiedskarten – mit fertigen Textvorlagen."
-        },
-        {
-          "title": "Neuer Ansatz macht Polystyrol nachhaltig",
-          "link": "https://www.ingenieur.de/neuer-ansatz-fuer-nachhaltige-kunststoffe-153c3286-e99f-49c7-b88b-0c661b4183b2/",
-          "published": "2026-10-19T12:30:00+00:00",
-          "summary": "Ein Helmholtz Forschungsinstitut hat ein alternatives Polystyrol entwickelt. Im Gegensatz zu herkömmlichem Polystyrol enthält es nachwachsende Rohstoffe und ist recyclebar."
         }
       ],
       "error": null
