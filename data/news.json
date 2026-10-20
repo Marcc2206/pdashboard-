@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:18:37+00:00",
+  "generatedAt": "2026-10-20T18:19:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Arne Bartram, ARD Stockholm, zzt. Oslo, über das Treffen von Selenskyj mit Witkoff in Norwegen",
-          "link": "https://www.tagesschau.de/video/video-1669452.html",
-          "published": "2026-10-20T13:10:40+00:00",
-          "summary": ""
-        },
-        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81600.html",
-          "published": "2026-10-20T13:10:19+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81606.html",
+          "published": "2026-10-20T18:18:08+00:00",
           "summary": ""
         },
         {
-          "title": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
-          "link": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html",
-          "published": "2026-10-20T13:07:51+00:00",
-          "summary": "Inflation, Lebenshaltungskosten, Treibstoffpreise: Viele Amerikaner machen Präsident Trump für die hohen Preise verantwortlich. Für die Republikaner könnte das vor den Midterms zum Problem werden. …"
+          "title": "Livestream: Die Nachrichten auf tagesschau24",
+          "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
+          "published": "2026-10-20T18:15:06+00:00",
+          "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier."
         },
         {
-          "title": "Demian von Osten, ARD Berlin, über den Investitionsgipfel mit Kanzler Merz und Finanzminister Klingbeil",
-          "link": "https://www.tagesschau.de/video/video-1669446.html",
-          "published": "2026-10-20T13:06:23+00:00",
-          "summary": ""
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-10-20T17:52:53+00:00",
+          "summary": "Am Mittwoch gibt es meist viele Wolken und verbreitet fällt Regen. Ganz im Osten ist es trocken und zum Teil sonnig. Auch im Westen fällt nur gebietsweise Regen. 8 bis 18 Grad."
         },
         {
-          "title": "Berliner Linke berät über umstrittene Abgeordnete Emde",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-linke-abgeordnete-emde-100.html",
-          "published": "2026-10-20T13:02:47+00:00",
-          "summary": "Seit dem Wahlsieg der Berliner Linke wird bundesweit über Antisemitismus und Israel-Kritik in ihren Reihen diskutiert. Nun will die Fraktion klären, wie sie mit einer Abgeordneten umgeht, die wegen …"
+          "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
+          "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
+          "published": "2026-10-20T17:49:19+00:00",
+          "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die …"
+        },
+        {
+          "title": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
+          "published": "2026-10-20T17:41:17+00:00",
+          "summary": "Ab 2027 wird in Arztpraxen ein festes Kontingent an Terminen festgelegt. Die Kassenärztliche Bundesvereinigung befürchtet noch längere Wartezeiten auf Termine - die Krankenkassen sehen darin …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Dax aktuell: Hohe Erzeugerpreise drücken Dax ins Minus – Ölpreis über 110 Dollar",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-eroeffnet-im-minus-hohe-erzeugerpreise-druecken-markt/100263427.html",
-          "published": "2026-10-20T13:07:04+00:00",
-          "summary": "Anleger reagieren in dieser Woche verunsichert auf die Proteste in Europa. Konjunkturzahlen setzen den Dax unter Druck. Eine positive Berichtssaison könnte wieder Kaufimpulse liefern."
+          "title": "Deep Read: „Die folgenreichste Wirkung seiner Präsidentschaft“: Trumps diabolischer Pakt mit dem Silicon Valley",
+          "link": "https://www.handelsblatt.com/technik/it-internet/usa-donald-trumps-diabolischer-pakt-mit-dem-silicon-valley/100262339.html",
+          "published": "2026-10-20T18:03:55+00:00",
+          "summary": "Die Tech-Fürsten stehen dem US-Präsidenten so nah wie nie – dabei diktiert Trump die Bedingungen. Zwei Wochen vor den Kongresswahlen wächst vor allem auf einer Seite das Risiko."
         },
         {
-          "title": "KI und Arbeitsmarkt: Schnittstelle zwischen Agent und Mensch als kritischer Erfolgsfaktor: Was Anthropic über Jobs verrät",
-          "link": "https://www.handelsblatt.com/technik/ki/ki-und-arbeitsmarkt-engpass-mensch-was-anthropic-ueber-jobs-verraet/100263274.html",
-          "published": "2026-10-20T13:03:52+00:00",
-          "summary": "Der Claude-Hersteller hat vermessen, wie die eigene KI die interne Arbeit verändert. Der Bericht zeigt, welche deutlichen Veränderungen auf Mitarbeiter und Unternehmen überall zukommen."
+          "title": "Quartalszahlen: Deutsche Börse hebt nach starkem Quartal Ziele erneut an",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/quartalszahlen-deutsche-boerse-hebt-nach-starkem-quartal-ziele-erneut-an/100263716.html",
+          "published": "2026-10-20T17:46:08+00:00",
+          "summary": "Kursturbulenzen und wachsende Geldanlagen am Kapitalmarkt treiben das Geschäft der Deutschen Börse an. Der Konzern erhöht seine Jahresziele zum zweiten Mal binnen weniger Monate."
         },
         {
-          "title": "Israel-Kritik: Berliner Linke kann Konflikt um Abgeordnete nicht lösen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/israel-kritik-berliner-linke-kann-konflikt-um-abgeordnete-nicht-loesen/100263651.html",
-          "published": "2026-10-20T12:54:11+00:00",
-          "summary": "Eine Abgeordnete, die in ihrer Israel-Kritik immer wieder nachlegt, und eine Fraktionsspitze, die ein Problem mit ihr hat: Im Berliner Koalitionspoker bleibt der Streit um Vanessa Emde ungelöst."
+          "title": "Nach Ausschreitungen: Festnahme nach Brandstiftung im Rathaus von Limoges",
+          "link": "https://www.handelsblatt.com/politik/international/nach-ausschreitungen-festnahme-nach-brandstiftung-im-rathaus-von-limoges/100263468.html",
+          "published": "2026-10-20T17:30:39+00:00",
+          "summary": "Das historische Rathaus von Limoges wurde bei den Ausschreitungen am Samstag schwer beschädigt. Nun haben Fahnder einen mutmaßlich an der Brandstiftung beteiligten polizeibekannten Mann festgenommen."
         },
         {
-          "title": "Arbeitsmarkt: BMW schließt Abfindungsprogramm für Mitarbeiter",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/arbeitsmarkt-bmw-schliesst-abfindungsprogramm-fuer-mitarbeiter/100263648.html",
-          "published": "2026-10-20T12:52:50+00:00",
-          "summary": "Tausende BMW-Beschäftigte wollen den Konzern gegen eine Abfindung verlassen. Der Autobauer beendet das Programm nun doch früher als geplant."
+          "title": "Quartalszahlen: Adidas erzielt Rekordergebnisse und hebt Gewinnprognose an",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/quartalszahlen-adidas-erzielt-rekordergebnisse-und-hebt-gewinnprognose-an/100263709.html",
+          "published": "2026-10-20T17:07:34+00:00",
+          "summary": "Nach dem höchsten Quartalsgewinn seiner Geschichte hebt Adidas die Jahresprognose an. Rückerstattete US-Zölle und geringere Rabatte geben dem Sportartikelkonzern Rückenwind."
         },
         {
-          "title": "Cloud-Dienste gestört: Großausfall bei Google führt zu Störungen bei Banken",
-          "link": "https://www.handelsblatt.com/technik/it-internet/cloud-dienste-gestoert-grossausfall-bei-google-fuehrt-zu-stoerungen-bei-banken/100263575.html",
-          "published": "2026-10-20T12:49:29+00:00",
-          "summary": "Nicht nur Bank-Apps waren betroffen: Auch Webseiten und Unternehmensdienste kämpften mit Störungen. Google arbeitet an der Behebung – doch Ursache und Ausmaß sind noch offen."
+          "title": "Sportartikel: Adidas schraubt Prognose nach Rekord-Quartal nach oben",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sportartikel-adidas-schraubt-prognose-nach-rekord-quartal-nach-oben/100263711.html",
+          "published": "2026-10-20T17:05:29+00:00",
+          "summary": "Adidas ist in der Erfolgsspur. Die Drei-Streifen-Marke setzte noch nie so viel in einem Quartal um wie zuletzt und legte auch beim Ergebnis kräftig zu."
         }
       ],
       "error": null
@@ -86,7 +86,25 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Gericht gibt Eigentümer recht: Google darf Satellitenbilder von Grundstück nicht veröffentlichen",
+          "title": "Etwa 10.000 Wagen in Deutschland: VW ruft wegen fehlerhafter Batterien mehr als 70.000 E-Autos zurück",
+          "link": "https://www.n-tv.de/wirtschaft/VW-ruft-wegen-fehlerhafter-Batterien-mehr-als-70-000-E-Autos-zurueck-id31439241.html",
+          "published": "2026-10-20T14:36:38+00:00",
+          "summary": "Es ist erst wenige Wochen her, dass VW Millionen seiner Fahrzeuge wegen einer korrosionsanfälligen Schraube in die Werkstätten rufen musste. Nun sorgen fehlerhafte Batterien für eine erneute …"
+        },
+        {
+          "title": "IT-Zentrum in London betroffen: Cloud-Störung bei Google legt Banken lahm",
+          "link": "https://www.n-tv.de/wirtschaft/Cloud-Stoerung-bei-Google-legt-Banken-lahm-id31438812.html",
+          "published": "2026-10-20T14:08:15+00:00",
+          "summary": "Plötzlich kein Zugriff aufs Konto: Ein Cloud-Ausfall bei Google stellt Bankkunden in Europa vor Probleme. Das Ausmaß der Störung ist noch nicht bekannt."
+        },
+        {
+          "title": "Sentiment im Chart-Check: Historisch hohe Aktienquoten!",
+          "link": "https://www.n-tv.de/wirtschaft/boerse/Historisch-hohe-Aktienquoten-id30347915.html",
+          "published": "2026-10-20T13:44:00+00:00",
+          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um die Asset Allocation-Umfrage …"
+        },
+        {
+          "title": "Detaillierte 3D-Aufnahmen: Google darf Satellitenbilder von Grundstück nicht veröffentlichen",
           "link": "https://www.n-tv.de/wirtschaft/Google-darf-Satellitenbilder-von-Grundstueck-nicht-veroeffentlichen-id31437987.html",
           "published": "2026-10-20T13:01:25+00:00",
           "summary": "Ein Mann aus Frankfurt wehrt sich erfolgreich dagegen, dass sein Wohnhaus bei den Google-Diensten Maps und Earth zu sehen ist. In dem Fall zeigten die Bilder auch den Teil des Grundstücks, der von …"
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Bundeskanzler-Merz-Unternehmen-wollen-800-Milliarden-Euro-in-Deutschland-investieren-id31437916.html",
           "published": "2026-10-20T12:17:56+00:00",
           "summary": "In Berlin steigt derzeit der Investitionsgipfel \"Invest in Germany\". Bundeskanzler Friedrich Merz und die Minister rühren vor Ort kräftig die Werbetrommel bei ausländischen Unternehmen. Anscheinend …"
-        },
-        {
-          "title": "Höchster Anstieg aller Zeiten: Standardbrief-Porto steigt zum Jahreswechsel auf 1,15 Euro",
-          "link": "https://www.n-tv.de/wirtschaft/Standardbrief-Porto-steigt-zum-Jahreswechsel-auf-1-15-Euro-id31438130.html",
-          "published": "2026-10-20T11:03:19+00:00",
-          "summary": "Die Deutsche Post möchte das Porto für einen Standardbrief zum Jahreswechsel um 20 Cent anheben - so viel wie noch nie zuvor. Das Unternehmen begründet den Schritt mit sinkenden Briefmengen und …"
-        },
-        {
-          "title": "Logistik, KI, Raketen: Amazon will 16 Milliarden Euro in Deutschland investieren",
-          "link": "https://www.n-tv.de/wirtschaft/Amazon-will-16-Milliarden-Euro-in-Deutschland-investieren-id31437761.html",
-          "published": "2026-10-20T10:37:46+00:00",
-          "summary": "Der Internetriese Amazon will allein im nächsten Jahr einen zweistelligen Milliardenbetrag in sein Deutschland-Geschäft stecken. Dadurch sollen Tausende neue Jobs entstehen. Zudem ist geplant, Europa …"
-        },
-        {
-          "title": "Es fehlen die Fachkräfte: KI-Weltspitze? Deutschland tritt laut Studie auf der Stelle",
-          "link": "https://www.n-tv.de/wirtschaft/KI-Weltspitze-Japan-und-Suedkorea-holen-auf-Deutschland-hinkt-hinterher-id31437542.html",
-          "published": "2026-10-20T09:58:11+00:00",
-          "summary": "Beim Thema Künstliche Intelligenz soll Deutschland weltweit ganz vorn mitspielen. Bundeskanzler Friedrich Merz möchte dafür eng mit dem Chip-Giganten Nvidia zusammenarbeiten. Eine aktuelle Studie …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Kurswende am Nachmittag",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+          "published": "2026-10-20T16:37:23+00:00",
+          "summary": "Ein ganzer Strauß von Belastungen hatte den DAX zunächst nach unten befördert. Dann die Kurswende: Neue Gerüchte über eine Lösung im Iran-Krieg machten die Runde."
+        },
+        {
           "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
           "published": "2026-10-20T12:15:27+00:00",
           "summary": "Neue Angriffe im Persischen Golf machen Öl wieder so teuer wie im Mai. Das schürt die Sorge vor einem neuen Inflationsschub. Die einzige Hoffnung bleibt derzeit eine Annäherung der Kriegsparteien."
-        },
-        {
-          "title": "Marktbericht: \"Unsicherheitscocktail\" belastet die Aktienbörsen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-          "published": "2026-10-20T08:33:17+00:00",
-          "summary": "Zinsängste und politische Unruhen in europäischen Städten drücken auf die Stimmung. Jetzt rückt der KI-Boom in den Vordergrund: Viele Tech-Konzerne lassen sich in den kommenden Tagen in die Bücher …"
         },
         {
           "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Bitcoin-Hashrate: Hashrate legt zu – was die Rate über das Bitcoin-Netzwerk aussagt",
-          "link": "https://www.wiwo.de/finanzen/boerse/bitcoin-hashrate-legt-zu-was-die-rate-ueber-das-bitcoin-netzwerk-aussagt/29214032.html",
-          "published": "2026-10-20T13:00:00+00:00",
-          "summary": "Während der Bitcoin-Kurs weiterhin um die Marke von 80.000 Dollar notiert, legt die Hashrate wieder zu. Doch was bedeutet dieser Wert eigentlich?"
+          "title": "Konjunktur: Warum uns die hohe Inflation erhalten bleibt",
+          "link": "https://www.wiwo.de/politik/konjunktur/inflation-darum-koennte-es-2027-zu-einem-preisschub-kommen/100259029.html",
+          "published": "2026-10-20T16:59:18+00:00",
+          "summary": "Die Teuerung in Deutschland und Europa ist nicht unter Kontrolle. Mehrere ­Faktoren lassen befürchten, dass es 2027 mit den Preisen weiter nach oben geht."
+        },
+        {
+          "title": "Demonstrationen: Frankreich mobilisiert zusätzliche Polizisten für neue Proteste",
+          "link": "https://www.wiwo.de/politik/ausland/demonstrationen-frankreich-mobilisiert-zusaetzliche-polizisten-fuer-neue-proteste/100263699.html",
+          "published": "2026-10-20T16:19:56+00:00",
+          "summary": "Am Samstag wollen erneut zahlreiche Franzosen auf die Straße gehen. Der französische Innenminister erwägt, die Demonstrationen zu verbieten."
+        },
+        {
+          "title": "Klimaschutz: EU-Parlament einig über schwächeres CO2-Abbauziel für Autos",
+          "link": "https://www.wiwo.de/politik/europa/klimaschutz-eu-parlament-einig-ueber-schwaecheres-co2-abbauziel-fuer-autos/100263678.html",
+          "published": "2026-10-20T15:30:16+00:00",
+          "summary": "Mit der Entscheidung kommt das Parlament den Autoherstellern entgegen. Sie halten ein komplettes Verbrenneraus bis 2035 nicht für machbar."
+        },
+        {
+          "title": "Auto-Abo: Wie lange kann das deutsche Einhorn Finn die Spur halten?",
+          "link": "https://www.wiwo.de/unternehmen/auto/finn-auto-abo-der-riskante-weg-des-einhorns-zum-boersengang/100261963.html",
+          "published": "2026-10-20T14:13:44+00:00",
+          "summary": "Der Münchner Auto-Abo-Anbieter Finn wächst rasend schnell. Unicorn. Börsengang. ­Können die Gründer ihr Tempo mitgehen?"
         },
         {
           "title": "Invest in Germany: Danke, Donald, für die Investitionsförderung in Deutschland!",
           "link": "https://www.wiwo.de/unternehmen/dienstleister/investitionsgipfel-berlin-warum-donald-trump-deutschland-hilft/100263610.html",
-          "published": "2026-10-20T12:57:16+00:00",
+          "published": "2026-10-20T14:04:15+00:00",
           "summary": "Beim Investitionsgipfel in Berlin sammelt die Bundesregierung Milliarden ein – und Donald Trump unterstützt dabei tatkräftig. Ein Kommentar."
-        },
-        {
-          "title": "Deutsche Post: Briefporto wird wohl so teuer wie noch nie",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/deutsche-post-briefporto-wird-wohl-so-teuer-wie-noch-nie/100261521.html",
-          "published": "2026-10-20T11:47:00+00:00",
-          "summary": "Das Briefporto soll zum Januar 2027 um 20 Cent steigen. Ein Standardbrief wird dann ein Porto von mehr als einem Euro haben. Die Bundesnetzagentur muss noch zustimmen."
-        },
-        {
-          "title": "Digitale Souveränität: So umgeht Microsoft die Trump-Falle",
-          "link": "https://www.wiwo.de/unternehmen/it/microsoft-azure-schuetzt-der-cloud-umbau-vor-trump-sanktionen/100263446.html",
-          "published": "2026-10-20T11:20:01+00:00",
-          "summary": "Auf seiner Europa-Tour kündigt der Microsoft-CEO Satya Nadella tiefgreifende Umbauten seines Cloud-Dienstes Azure an, um Kunden vor Sanktionen der US-Regierung zu schützen. Reicht das?"
-        },
-        {
-          "title": "Importentwicklung: So fällt die Importentwicklung in Deutschland aus",
-          "link": "https://www.wiwo.de/politik/konjunktur/importentwicklung-erklaerung-ursachen-und-aktueller-chart/100261788.html",
-          "published": "2026-10-20T11:12:26+00:00",
-          "summary": "Der Importindex gilt als unverzichtbarer Frühindikator für die binnenwirtschaftliche Nachfrage und die Produktionsaktivität. Die wichtigsten Fragen im Überblick."
         }
       ],
       "error": null
@@ -211,6 +211,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "220.000 t Sprit aus Speiseöl: Hamburgs Wasserstoffnetz bekommt seinen größten Abnehmer",
+          "link": "https://www.ingenieur.de/220-000-t-sprit-aus-speiseol-hamburgs-wasserstoffnetz-bekommt-seinen-grossten-abnehmer-3c54cdff-b262-4172-a889-3bf6fd2703b3/",
+          "published": "2026-10-20T14:03:15+00:00",
+          "summary": "Hamburgs Wasserstoffnetz HH-WIN hat einen neuen Großabnehmer: Die Raffinerie in Harburg will mit dem Gas Diesel und Flugkraftstoff aus gebrauchtem Speiseöl herstellen. Der Vertrag wurde auf der …"
+        },
+        {
+          "title": "Einfache Inbetriebnahme: Plug-and-Play im Schaltschrankbau",
+          "link": "https://www.ingenieur.de/einfache-inbetriebnahme-plug-and-play-im-schaltschrankbau-41a6d14b-7b8f-43d6-bccf-59698ad451d3/",
+          "published": "2026-10-20T13:00:00+00:00",
+          "summary": "Damit Plug-and-Play funktioniert, müssen Maschinenbauer und Schaltschrankbauer schon beim Engineering eng zusammenarbeiten."
+        },
+        {
+          "title": "CRA-Umsetzung: Sicherheit in der industriellen Automation erhöhen",
+          "link": "https://www.ingenieur.de/cra-umsetzung-sicherheit-in-der-industriellen-automation-erhohen-8608882d-4209-40bb-aa1a-a2fa3367905c/",
+          "published": "2026-10-20T12:30:00+00:00",
+          "summary": "Neue Anforderungen an digitale, vernetzte Produkte stehen im Fokus des Cyber Resilience Acts. Die Anforderungen gelten auch für Sensor- und Automatisierungslösungen in vernetzten Anlagen."
+        },
+        {
           "title": "Erst nach außen, dann zur Seite: Dieses Fenster lüftet ungewöhnlich",
           "link": "https://www.ingenieur.de/erst-nach-aussen-dann-zur-seite-dieses-fenster-lueftet-nach-allen-4-seiten-e3982667-ff78-472b-a22b-b51b5f0ee8a1/",
           "published": "2026-10-20T11:30:00+00:00",
@@ -221,24 +239,6 @@
           "link": "https://www.ingenieur.de/wasserstoff-in-deutschland-mit-diesen-zehn-massnahmen-will-die-bundesregierung-den-hochlauf-retten-6bdacd82-6832-48de-92c9-cb6acea636c5/",
           "published": "2026-10-20T11:00:00+00:00",
           "summary": "Die Preise für Wasserstoff sinken langsamer als erwartet, räumt das Wirtschaftsministerium ein. Ein Zehn-Punkte-Plan soll den Markt jetzt anschieben: mit Fördergeld, Leitmärkten und Importen aus der …"
-        },
-        {
-          "title": "Welche KI-Kenntnisse Ingenieure brauchen und wie sie diese belegen",
-          "link": "https://www.ingenieur.de/ki-kenntnisse-werden-zur-einstellungsvoraussetzung-welche-skills-unternehmen-wirklich-suchen-d2dd7e1c-588e-4223-9b72-8089181b88d7/",
-          "published": "2026-10-20T10:30:00+00:00",
-          "summary": "KI-Kenntnisse als Einstellungsvoraussetzung: Welche Fähigkeiten Ingenieurinnen und Ingenieure brauchen und wie sie diese in Bewerbungen belegen."
-        },
-        {
-          "title": "Fünf Stunden für 73,5 t Stahl: ÖBB heben Hilfsbrücke in Wien ein",
-          "link": "https://www.ingenieur.de/fuenf-stunden-fuer-735-t-stahl-oebb-heben-hilfsbruecke-in-wien-ein-7a69f98a-d214-43d9-8a82-a7fbaf1ea16d/",
-          "published": "2026-10-20T10:00:00+00:00",
-          "summary": "Zwei Schienenkräne hoben eine 73,5 t schwere Hilfsbrücke an der Wiener Verbindungsbahn ein. Für den nächtlichen Einhub standen nur fünf Stunden zur Verfügung, damit die Erneuerung zweier …"
-        },
-        {
-          "title": "Bei Schaeffler montieren Humanoide, was andere Roboter bewegt",
-          "link": "https://www.ingenieur.de/humanoide-fertigen-humanoide-4e309175-30b5-455d-83a5-2d4b4ed9f465/",
-          "published": "2026-10-20T09:30:00+00:00",
-          "summary": "Schaeffler lässt in China sechs humanoide Roboter Komponenten für weitere Humanoide montieren und testet ihre Fähigkeiten im Produktionsalltag."
         }
       ],
       "error": null
