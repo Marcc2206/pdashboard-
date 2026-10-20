@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:58:31+00:00",
+  "generatedAt": "2026-10-20T00:59:49+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669242.html",
+          "published": "2026-10-20T00:27:58+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81620.html",
+          "published": "2026-10-19T22:55:46+00:00",
+          "summary": ""
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12938.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1669222.html",
           "published": "2026-10-19T20:41:46+00:00",
           "summary": ""
-        },
-        {
-          "title": "\"Invest in Germany Summit\": Mühsame Suche nach Investoren für Deutschland",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1669220.html",
-          "published": "2026-10-19T20:38:34+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Claire Demesmay, Politikwissenschaftlerin, zu den Ausschreitungen in Frankreich",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1669214.html",
-          "published": "2026-10-19T20:37:12+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,6 +47,24 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Autotest: Der Hyundai Ioniq 3 ist ein cooler Konter aus Korea",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/autotest-der-hyundai-ioniq-3-ist-ein-cooler-konter-aus-korea/100263386.html",
+          "published": "2026-10-20T00:22:06+00:00",
+          "summary": "Hyundai beweist bei der Ioniq-Familie einmal mehr Mut zu buchstäblich schrägem Design. Der neue Dreier ist zwar technisch nur Durchschnitt, aber übersehen kann den Aero-Hatchback dafür keiner."
+        },
+        {
+          "title": "Ukraine-Krieg: Trump: Haben der Ukraine viel gegeben - und sie uns nichts",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-haben-der-ukraine-viel-gegeben-und-sie-uns-nichts/100263384.html",
+          "published": "2026-10-20T00:07:57+00:00",
+          "summary": "US-Präsident Trump verschärft den Ton gegenüber der Ukraine immer weiter. Einem Bericht zufolge sollen die USA nun auch Waffenlieferungen zurückhalten."
+        },
+        {
+          "title": "Gesundheitsreform: Kassenärzte sagen längere Termin-Wartezeiten voraus",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gesundheitsreform-kassenaerzte-sagen-laengere-termin-wartezeiten-voraus/100263379.html",
+          "published": "2026-10-19T22:06:04+00:00",
+          "summary": "Ärzte sollen künftig eine feste Zahl freier Termine melden, bislang konnten sie den Umfang selbst bestimmen. Warum die Kassenärztliche Bundesvereinigung darin keinen Weg zu schnelleren Terminen sieht."
+        },
+        {
           "title": "Investitionsgipfel: „Ihr bekommt keine weitere Chance“: Wie der Nvidia-Chef die deutsche Industrie revolutionieren will",
           "link": "https://www.handelsblatt.com/politik/deutschland/investitionsgipfel-wie-der-kanzler-und-der-chipboss-die-industrie-revolutionieren-wollen/100263171.html",
           "published": "2026-10-19T20:54:44+00:00",
@@ -57,24 +75,6 @@
           "link": "https://www.handelsblatt.com/technik/forschung-innovation/mars-mission-idefix-fliegt-zu-marsmond-japanische-raummission-startet/100263372.html",
           "published": "2026-10-19T19:56:43+00:00",
           "summary": "Japan will erstmals Proben von einem der Marsmonde zur Erde holen. Mit an Bord der Raumsonde: ein kleiner deutsch-französischer Rover namens „Idefix“."
-        },
-        {
-          "title": "Haushaltsgeräte: Langjähriger Miele-Chef stirbt im Alter von 98 Jahren",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/haushaltsgeraete-langjaehriger-miele-chef-stirbt-im-alter-von-98-jahren/100263368.html",
-          "published": "2026-10-19T19:54:37+00:00",
-          "summary": "Als er anfing bei Miele, war Adenauer Kanzler; als er aufhörte, neigte sich Schröders Kanzlerschaft dem Ende entgegen. Nun ist der einstige Miele-Patron Peter Christian Zinkann gestorben."
-        },
-        {
-          "title": "Berlin: SPD und Grüne stimmen für Verhandlungen über Koalition mit der Linken",
-          "link": "https://www.handelsblatt.com/politik/deutschland/berlin-spd-und-gruene-stimmen-fuer-verhandlungen-ueber-koalition-mit-der-linken/100263173.html",
-          "published": "2026-10-19T19:41:37+00:00",
-          "summary": "Trotz heftigen Widerstands aus der Bundestagsfraktion hat die Berliner Landes-SPD für Koalitionsverhandlungen mit der Linken gestimmt. Am Abend folgten auch die Grünen."
-        },
-        {
-          "title": "Regierungsbildung: Berlin: Grüne und SPD für Koalitionsgespräche mit Linke",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-berlin-gruene-und-spd-fuer-koalitionsgespraeche-mit-linke/100263126.html",
-          "published": "2026-10-19T19:25:16+00:00",
-          "summary": "Nach erfolgreichen Sondierungen in Berlin steuern drei Parteien Koalitionsverhandlungen an. Grüne und SPD haben am Abend entschieden. Warum die Linke sich noch Zeit lässt."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Reform \"ändert die Regeln\": Charité-Chef: Sparpaket sorgt für \"massiv mehr Bürokratie\"",
+          "link": "https://www.n-tv.de/wirtschaft/Charite-Chef-Sparpaket-sorgt-fuer-massiv-mehr-Buerokratie-id31435661.html",
+          "published": "2026-10-19T22:04:18+00:00",
+          "summary": "Mit dem Sparpaket will die Bundesregierung die Krankenkassen entlasten. Doch die Kosten verschieben sich anscheinend nur. Die Charité verliert nach eigenen Angaben 80 Millionen Euro an Einnahmen …"
+        },
+        {
+          "title": "Bei Verzicht auf Enteignung: CDU-Wirtschaftsrat: Mehr als 200.000 neue Wohnungen in Berlin möglich",
+          "link": "https://www.n-tv.de/wirtschaft/CDU-Wirtschaftsrat-Mehr-als-200-000-neue-Wohnungen-in-Berlin-moeglich-id31436096.html",
+          "published": "2026-10-19T22:02:25+00:00",
+          "summary": "Mit 16 Milliarden Euro will die Linke in Berlin rund 160.000 Wohnungen in den kommunalen Bestand zurückholen. Der CDU-Wirtschaftsrat legt die Gegenrechnung vor: Mit der Summe könnten noch mehr …"
+        },
         {
           "title": "Erholung bei Tech-Werten: Wall Street lässt Talfahrt hinter sich",
           "link": "https://www.n-tv.de/wirtschaft/Wall-Street-laesst-Talfahrt-hinter-sich-id31436082.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Bund-kooperiert-mit-Nvidia-bei-Entwicklung-von-KI-Robotik-id31435883.html",
           "published": "2026-10-19T19:59:04+00:00",
           "summary": "Beim Investitionsgipfel in Berlin unterzeichnen zwei Ministerien eine Absichtserklärung mit dem US-Chipriesen Nvidia. Gemeinsam sollen KI-Modelle für Roboter und Industrieanlagen entstehen. Kanzler …"
-        },
-        {
-          "title": "\"Historische Chance\": Siemens und Nvidia entwickeln KI-betriebene Fabrik",
-          "link": "https://www.n-tv.de/wirtschaft/Siemens-und-Nvidia-entwickeln-KI-betriebene-Fabrik-id31435038.html",
-          "published": "2026-10-19T15:31:09+00:00",
-          "summary": "Der Siemens-Konzern und das US-Unternehmen Nvidia treiben in Erlangen ihre Pläne einer vollständig von Künstlicher Intelligenz getriebenen Fabrik voran. Ziel ist es, Prozesse schneller und flexibler …"
-        },
-        {
-          "title": "Corona, Kriege, Krisen: Studie: Investitionsausfälle wachsen auf gigantisches Ausmaß",
-          "link": "https://www.n-tv.de/wirtschaft/Krisen-fuehren-seit-2020-zu-Investitionsausfaellen-von-420-Milliarden-Euro-id31434873.html",
-          "published": "2026-10-19T15:29:51+00:00",
-          "summary": "Die Nachwehen der Corona-Krise und internationale Konflikte machen der deutschen Wirtschaft zu schaffen. Private Unternehmen investieren seit Jahren deutlich weniger. Eine Studie veröffentlicht nun …"
         }
       ],
       "error": null
