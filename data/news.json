@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T07:08:30+00:00",
+  "generatedAt": "2026-10-20T13:18:37+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669298.html",
-          "published": "2026-10-20T07:06:07+00:00",
+          "title": "Arne Bartram, ARD Stockholm, zzt. Oslo, über das Treffen von Selenskyj mit Witkoff in Norwegen",
+          "link": "https://www.tagesschau.de/video/video-1669452.html",
+          "published": "2026-10-20T13:10:40+00:00",
           "summary": ""
         },
         {
-          "title": "\"A Brushstroke for Life\" in Mexiko, Sting in Tennessee, Schwimmerinnen in San Diego",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10516.html",
-          "published": "2026-10-20T06:36:25+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81600.html",
+          "published": "2026-10-20T13:10:19+00:00",
           "summary": ""
         },
         {
-          "title": "\"Spielen in Weltspitze mit\", Dorothee Bär, CSU, Ministerin für Forschung, Technologie und Raumfahrt, zum Investoren-Gipfel",
-          "link": "https://www.tagesschau.de/video/video-1669282.html",
-          "published": "2026-10-20T06:21:30+00:00",
+          "title": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
+          "link": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html",
+          "published": "2026-10-20T13:07:51+00:00",
+          "summary": "Inflation, Lebenshaltungskosten, Treibstoffpreise: Viele Amerikaner machen Präsident Trump für die hohen Preise verantwortlich. Für die Republikaner könnte das vor den Midterms zum Problem werden. …"
+        },
+        {
+          "title": "Demian von Osten, ARD Berlin, über den Investitionsgipfel mit Kanzler Merz und Finanzminister Klingbeil",
+          "link": "https://www.tagesschau.de/video/video-1669446.html",
+          "published": "2026-10-20T13:06:23+00:00",
           "summary": ""
         },
         {
-          "title": "Wahlen in den USA: Was zu den Midterms wichtig ist",
-          "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
-          "published": "2026-10-20T06:00:43+00:00",
-          "summary": "Es ist ein wichtiger Stimmungstest für Präsident Trump: In zwei Wochen sind die US-Bürger zu den Zwischenwahlen aufgerufen. Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen …"
-        },
-        {
-          "title": "Marktbericht: Anleger warten auf US-Bilanzen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-          "published": "2026-10-20T05:35:01+00:00",
-          "summary": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach."
+          "title": "Berliner Linke berät über umstrittene Abgeordnete Emde",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-linke-abgeordnete-emde-100.html",
+          "published": "2026-10-20T13:02:47+00:00",
+          "summary": "Seit dem Wahlsieg der Berliner Linke wird bundesweit über Antisemitismus und Israel-Kritik in ihren Reihen diskutiert. Nun will die Fraktion klären, wie sie mit einer Abgeordneten umgeht, die wegen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "USA: Gesetze, Klagen, Steuervorteil – so streitet Amerika über Trinkgeld",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/trinkgeld-warum-der-freiwillige-dank-in-den-usa-zum-streitfall-wird/100261411.html",
-          "published": "2026-10-20T06:55:00+00:00",
-          "summary": "Roboter-Barista erbitten Trinkgeld, New York zwingt Liefer-Apps zur Abfrage. Der freiwillige Dank wird in Amerika zur Machtfrage und beschäftigt Gerichte – mit Signalwirkung für Deutschland."
+          "title": "Dax aktuell: Hohe Erzeugerpreise drücken Dax ins Minus – Ölpreis über 110 Dollar",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-eroeffnet-im-minus-hohe-erzeugerpreise-druecken-markt/100263427.html",
+          "published": "2026-10-20T13:07:04+00:00",
+          "summary": "Anleger reagieren in dieser Woche verunsichert auf die Proteste in Europa. Konjunkturzahlen setzen den Dax unter Druck. Eine positive Berichtssaison könnte wieder Kaufimpulse liefern."
         },
         {
-          "title": "Interview: Forscher: „Selbst wenn Meta nachts Instagram abschaltet, soll niemand glauben, dass die Pisa-Leistungen explodieren“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bildung-schule-muss-eine-anstrengungskultur-vermitteln/100255718.html",
-          "published": "2026-10-20T06:51:00+00:00",
-          "summary": "Olaf Köller sieht starke Defizite im deutschen Bildungssystem. Als Hauptursache nennt er nicht Zuwanderung oder Social Media, sondern einen ganz anderen Punkt."
+          "title": "KI und Arbeitsmarkt: Schnittstelle zwischen Agent und Mensch als kritischer Erfolgsfaktor: Was Anthropic über Jobs verrät",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-und-arbeitsmarkt-engpass-mensch-was-anthropic-ueber-jobs-verraet/100263274.html",
+          "published": "2026-10-20T13:03:52+00:00",
+          "summary": "Der Claude-Hersteller hat vermessen, wie die eigene KI die interne Arbeit verändert. Der Bericht zeigt, welche deutlichen Veränderungen auf Mitarbeiter und Unternehmen überall zukommen."
         },
         {
-          "title": "Lebensmittel: Nudeln kommen in Europa meist aus Italien",
-          "link": "https://www.handelsblatt.com/politik/deutschland/lebensmittel-nudeln-kommen-in-europa-meist-aus-italien/100263437.html",
-          "published": "2026-10-20T06:40:36+00:00",
-          "summary": "Fast sieben von zehn in der EU produzierten Nudeln kommen aus Italien. Doch beim Ei in der Pasta tickt Deutschland immer noch ein bisschen anders."
+          "title": "Israel-Kritik: Berliner Linke kann Konflikt um Abgeordnete nicht lösen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/israel-kritik-berliner-linke-kann-konflikt-um-abgeordnete-nicht-loesen/100263651.html",
+          "published": "2026-10-20T12:54:11+00:00",
+          "summary": "Eine Abgeordnete, die in ihrer Israel-Kritik immer wieder nachlegt, und eine Fraktionsspitze, die ein Problem mit ihr hat: Im Berliner Koalitionspoker bleibt der Streit um Vanessa Emde ungelöst."
         },
         {
-          "title": "Erste Prognosen: Medien: Mehrheit in Alberta gegen Unabhängigkeit von Kanada",
-          "link": "https://www.handelsblatt.com/politik/international/erste-prognosen-medien-mehrheit-in-alberta-gegen-unabhaengigkeit-von-kanada/100263436.html",
-          "published": "2026-10-20T06:38:42+00:00",
-          "summary": "Die kanadische Provinz Alberta stimmt über den Weg in die Unabhängigkeit ab. Erste Prognosen zeigen: Die Mehrheit will nicht, dass weitere Schritte in diese Richtung gegangen werden."
+          "title": "Arbeitsmarkt: BMW schließt Abfindungsprogramm für Mitarbeiter",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/arbeitsmarkt-bmw-schliesst-abfindungsprogramm-fuer-mitarbeiter/100263648.html",
+          "published": "2026-10-20T12:52:50+00:00",
+          "summary": "Tausende BMW-Beschäftigte wollen den Konzern gegen eine Abfindung verlassen. Der Autobauer beendet das Programm nun doch früher als geplant."
         },
         {
-          "title": "Spanien: Schwere Überschwemmungen in Valencia und auf Mallorca",
-          "link": "https://www.handelsblatt.com/politik/international/spanien-schwere-ueberschwemmungen-in-valencia-und-auf-mallorca/100263429.html",
-          "published": "2026-10-20T06:37:06+00:00",
-          "summary": "Mehrere Menschen sind bei Überschwemmungen in Spanien ums Leben gekommen. In der Nacht hat es auch die Urlaubsinsel Mallorca getroffen. Bisher gibt es keine Entwarnung."
+          "title": "Cloud-Dienste gestört: Großausfall bei Google führt zu Störungen bei Banken",
+          "link": "https://www.handelsblatt.com/technik/it-internet/cloud-dienste-gestoert-grossausfall-bei-google-fuehrt-zu-stoerungen-bei-banken/100263575.html",
+          "published": "2026-10-20T12:49:29+00:00",
+          "summary": "Nicht nur Bank-Apps waren betroffen: Auch Webseiten und Unternehmensdienste kämpften mit Störungen. Google arbeitet an der Behebung – doch Ursache und Ausmaß sind noch offen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Rekordzins wegen des Iran-Kriegs: Immobilienkredite so teuer wie zur Finanzkrise 2009",
-          "link": "https://www.n-tv.de/wirtschaft/Immobilienkredite-so-teuer-wie-zur-Finanzkrise-2009-id31436330.html",
-          "published": "2026-10-20T03:43:56+00:00",
-          "summary": "Wer ein Haus kaufen will, muss für die Zinsen derzeit besonders tief in die Tasche greifen. Der Iran-Krieg treibt die Inflation, was in einer Kettenreaktion auf Baudarlehen durchschlägt. Sogar die …"
+          "title": "Gericht gibt Eigentümer recht: Google darf Satellitenbilder von Grundstück nicht veröffentlichen",
+          "link": "https://www.n-tv.de/wirtschaft/Google-darf-Satellitenbilder-von-Grundstueck-nicht-veroeffentlichen-id31437987.html",
+          "published": "2026-10-20T13:01:25+00:00",
+          "summary": "Ein Mann aus Frankfurt wehrt sich erfolgreich dagegen, dass sein Wohnhaus bei den Google-Diensten Maps und Earth zu sehen ist. In dem Fall zeigten die Bilder auch den Teil des Grundstücks, der von …"
         },
         {
-          "title": "Reform \"ändert die Regeln\": Charité-Chef: Sparpaket sorgt für \"massiv mehr Bürokratie\"",
-          "link": "https://www.n-tv.de/wirtschaft/Charite-Chef-Sparpaket-sorgt-fuer-massiv-mehr-Buerokratie-id31435661.html",
-          "published": "2026-10-19T22:04:18+00:00",
-          "summary": "Mit dem Sparpaket will die Bundesregierung die Krankenkassen entlasten. Doch die Kosten verschieben sich anscheinend nur. Die Charité verliert nach eigenen Angaben 80 Millionen Euro an Einnahmen …"
+          "title": "Kanzler auf Werbetour: Merz: Unternehmen wollen 800 Milliarden Euro investieren",
+          "link": "https://www.n-tv.de/wirtschaft/Bundeskanzler-Merz-Unternehmen-wollen-800-Milliarden-Euro-in-Deutschland-investieren-id31437916.html",
+          "published": "2026-10-20T12:17:56+00:00",
+          "summary": "In Berlin steigt derzeit der Investitionsgipfel \"Invest in Germany\". Bundeskanzler Friedrich Merz und die Minister rühren vor Ort kräftig die Werbetrommel bei ausländischen Unternehmen. Anscheinend …"
         },
         {
-          "title": "Bei Verzicht auf Enteignung: CDU-Wirtschaftsrat: Mehr als 200.000 neue Wohnungen in Berlin möglich",
-          "link": "https://www.n-tv.de/wirtschaft/CDU-Wirtschaftsrat-Mehr-als-200-000-neue-Wohnungen-in-Berlin-moeglich-id31436096.html",
-          "published": "2026-10-19T22:02:25+00:00",
-          "summary": "Mit 16 Milliarden Euro will die Linke in Berlin rund 160.000 Wohnungen in den kommunalen Bestand zurückholen. Der CDU-Wirtschaftsrat legt die Gegenrechnung vor: Mit der Summe könnten noch mehr …"
+          "title": "Höchster Anstieg aller Zeiten: Standardbrief-Porto steigt zum Jahreswechsel auf 1,15 Euro",
+          "link": "https://www.n-tv.de/wirtschaft/Standardbrief-Porto-steigt-zum-Jahreswechsel-auf-1-15-Euro-id31438130.html",
+          "published": "2026-10-20T11:03:19+00:00",
+          "summary": "Die Deutsche Post möchte das Porto für einen Standardbrief zum Jahreswechsel um 20 Cent anheben - so viel wie noch nie zuvor. Das Unternehmen begründet den Schritt mit sinkenden Briefmengen und …"
         },
         {
-          "title": "Erholung bei Tech-Werten: Wall Street lässt Talfahrt hinter sich",
-          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-laesst-Talfahrt-hinter-sich-id31436082.html",
-          "published": "2026-10-19T20:46:42+00:00",
-          "summary": "Eine historisch lange Verlustserie bei den Halbleiterwerten geht zu Ende. Ein Börsianer kommentiert scherzhaft: Zwischen Freitag auf Montag habe sich nichts geändert. Aber es sei am Wochenende eben …"
+          "title": "Logistik, KI, Raketen: Amazon will 16 Milliarden Euro in Deutschland investieren",
+          "link": "https://www.n-tv.de/wirtschaft/Amazon-will-16-Milliarden-Euro-in-Deutschland-investieren-id31437761.html",
+          "published": "2026-10-20T10:37:46+00:00",
+          "summary": "Der Internetriese Amazon will allein im nächsten Jahr einen zweistelligen Milliardenbetrag in sein Deutschland-Geschäft stecken. Dadurch sollen Tausende neue Jobs entstehen. Zudem ist geplant, Europa …"
         },
         {
-          "title": "Vier Jahrzehnte im Unternehmen: Langjähriger Miele-Chef stirbt im Alter von 98 Jahren",
-          "link": "https://www.n-tv.de/wirtschaft/Langjaehriger-Miele-Chef-stirbt-im-Alter-von-98-Jahren-id31435965.html",
-          "published": "2026-10-19T19:59:59+00:00",
-          "summary": "Miele trauert um Peter Christian Zinkann: Der langjährige Chef des Haushaltsgeräte-Herstellers ist im Alter von 98 Jahren gestorben. Über vier Jahrzehnte prägte er die Entwicklung des Gütersloher …"
+          "title": "Es fehlen die Fachkräfte: KI-Weltspitze? Deutschland tritt laut Studie auf der Stelle",
+          "link": "https://www.n-tv.de/wirtschaft/KI-Weltspitze-Japan-und-Suedkorea-holen-auf-Deutschland-hinkt-hinterher-id31437542.html",
+          "published": "2026-10-20T09:58:11+00:00",
+          "summary": "Beim Thema Künstliche Intelligenz soll Deutschland weltweit ganz vorn mitspielen. Bundeskanzler Friedrich Merz möchte dafür eng mit dem Chip-Giganten Nvidia zusammenarbeiten. Eine aktuelle Studie …"
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Anleger warten auf US-Bilanzen",
+          "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
+          "published": "2026-10-20T12:15:27+00:00",
+          "summary": "Neue Angriffe im Persischen Golf machen Öl wieder so teuer wie im Mai. Das schürt die Sorge vor einem neuen Inflationsschub. Die einzige Hoffnung bleibt derzeit eine Annäherung der Kriegsparteien."
+        },
+        {
+          "title": "Marktbericht: \"Unsicherheitscocktail\" belastet die Aktienbörsen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-          "published": "2026-10-20T05:35:01+00:00",
-          "summary": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach."
+          "published": "2026-10-20T08:33:17+00:00",
+          "summary": "Zinsängste und politische Unruhen in europäischen Städten drücken auf die Stimmung. Jetzt rückt der KI-Boom in den Vordergrund: Viele Tech-Konzerne lassen sich in den kommenden Tagen in die Bücher …"
         },
         {
           "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
           "published": "2026-10-16T12:17:39+00:00",
           "summary": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag …"
-        },
-        {
-          "title": "Wie Anleger bei ETFs den Überblick behalten",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/etf-geldanlage-kosten-risiken-100.html",
-          "published": "2026-10-16T11:25:34+00:00",
-          "summary": "Einfach, günstig, transparent: Damit haben ETFs Millionen Anleger überzeugt. Doch die Branche bringt immer kompliziertere Produkte auf den Markt - oft mit höheren Gebühren und zusätzlichen Risiken. …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Alexander Schweitzer: „Ich habe damals deutlich gespürt: Ich muss aktiv werden“",
-          "link": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
-          "published": "2026-12-12T18:50:00+00:00",
-          "summary": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte."
+          "title": "Bitcoin-Hashrate: Hashrate legt zu – was die Rate über das Bitcoin-Netzwerk aussagt",
+          "link": "https://www.wiwo.de/finanzen/boerse/bitcoin-hashrate-legt-zu-was-die-rate-ueber-das-bitcoin-netzwerk-aussagt/29214032.html",
+          "published": "2026-10-20T13:00:00+00:00",
+          "summary": "Während der Bitcoin-Kurs weiterhin um die Marke von 80.000 Dollar notiert, legt die Hashrate wieder zu. Doch was bedeutet dieser Wert eigentlich?"
         },
         {
-          "title": "Mars-Mission: „Idefix“ fliegt zu Marsmond – japanische Mission erfolgreich gestartet",
-          "link": "https://www.wiwo.de/technologie/forschung/mars-mission-idefix-fliegt-zu-marsmond-japanische-mission-gestartet/100263399.html",
-          "published": "2026-10-20T06:37:00+00:00",
-          "summary": "Erstmals sollen Proben von einem der Mars-Monde zur Erde geholt werden. Mit an Bord der ins Weltall geschossenen Raumsonde: ein kleiner deutsch-französischer Rover namens „Idefix“."
+          "title": "Invest in Germany: Danke, Donald, für die Investitionsförderung in Deutschland!",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/investitionsgipfel-berlin-warum-donald-trump-deutschland-hilft/100263610.html",
+          "published": "2026-10-20T12:57:16+00:00",
+          "summary": "Beim Investitionsgipfel in Berlin sammelt die Bundesregierung Milliarden ein – und Donald Trump unterstützt dabei tatkräftig. Ein Kommentar."
         },
         {
-          "title": "Berlin: „Investoren dieser Welt, schaut auf diese Stadt!“",
-          "link": "https://www.wiwo.de/politik/deutschland/berlin-investoren-dieser-welt-schaut-auf-diese-stadt/100263076.html",
-          "published": "2026-10-20T06:24:00+00:00",
-          "summary": "Linke, SPD und Grüne einigen sich auf ein Sondierungspapier: mit Enteignungen und der Kriminalisierung von Vermietern. Ein Kommentar."
+          "title": "Deutsche Post: Briefporto wird wohl so teuer wie noch nie",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/deutsche-post-briefporto-wird-wohl-so-teuer-wie-noch-nie/100261521.html",
+          "published": "2026-10-20T11:47:00+00:00",
+          "summary": "Das Briefporto soll zum Januar 2027 um 20 Cent steigen. Ein Standardbrief wird dann ein Porto von mehr als einem Euro haben. Die Bundesnetzagentur muss noch zustimmen."
         },
         {
-          "title": "Investitionsgipfel Berlin: „Deutschland ist bereit, schneller zu wachsen“",
-          "link": "https://www.wiwo.de/politik/deutschland/investitionsgipfel-berlin-merz-wirbt-mit-nvidia-um-investoren/100263153.html",
-          "published": "2026-10-20T06:17:00+00:00",
-          "summary": "Die Bundesregierung zieht alle Register, um mehr Investoren nach Deutschland zu locken. Eine Konferenz soll ein Willkommens-Signal senden. Stargast des Eröffnungsabends ist der Nvidia-Chef."
+          "title": "Digitale Souveränität: So umgeht Microsoft die Trump-Falle",
+          "link": "https://www.wiwo.de/unternehmen/it/microsoft-azure-schuetzt-der-cloud-umbau-vor-trump-sanktionen/100263446.html",
+          "published": "2026-10-20T11:20:01+00:00",
+          "summary": "Auf seiner Europa-Tour kündigt der Microsoft-CEO Satya Nadella tiefgreifende Umbauten seines Cloud-Dienstes Azure an, um Kunden vor Sanktionen der US-Regierung zu schützen. Reicht das?"
         },
         {
-          "title": "Volkswagen: VW-Betriebsräte halten Umsetzung der Gehaltspläne für „wenig realistisch“",
-          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-will-gehaelter-einfrieren-betriebsraete-schaetzen-plaene-als-wenig-realistisch-ein/100263256.html",
-          "published": "2026-10-20T06:09:00+00:00",
-          "summary": "Nun ist es offiziell: Volkswagen will die Gehälter einfrieren. Aber geht das überhaupt? Wie die IG Metall die rabiaten Pläne des VW-Managements einschätzt."
+          "title": "Importentwicklung: So fällt die Importentwicklung in Deutschland aus",
+          "link": "https://www.wiwo.de/politik/konjunktur/importentwicklung-erklaerung-ursachen-und-aktueller-chart/100261788.html",
+          "published": "2026-10-20T11:12:26+00:00",
+          "summary": "Der Importindex gilt als unverzichtbarer Frühindikator für die binnenwirtschaftliche Nachfrage und die Produktionsaktivität. Die wichtigsten Fragen im Überblick."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Warum blieb Materie übrig und welche Rolle spielt ein schweres Neutrino?",
-          "link": "https://www.ingenieur.de/warum-blieb-materie-uebrig-forscher-pruefen-die-rolle-eines-schweren-neutrinos-0834fd44-0730-4ca7-aa5a-0c52e8df3372/",
-          "published": "2026-10-20T05:28:28+00:00",
-          "summary": "Ein schweres Neutrino könnte beeinflusst haben, warum Materie nach dem Urknall übrig blieb. Neue Berechnungen zeigen mögliche Spuren in Gravitationswellen."
+          "title": "Erst nach außen, dann zur Seite: Dieses Fenster lüftet ungewöhnlich",
+          "link": "https://www.ingenieur.de/erst-nach-aussen-dann-zur-seite-dieses-fenster-lueftet-nach-allen-4-seiten-e3982667-ff78-472b-a22b-b51b5f0ee8a1/",
+          "published": "2026-10-20T11:30:00+00:00",
+          "summary": "MOVISTA fährt nach außen und öffnet einen Lüftungsspalt an vier Seiten. Wie die Technik funktioniert und was Forschende der TU Wien untersucht haben."
         },
         {
-          "title": "Wenn der Luftdruck abstürzt: Wie ein Bombenzyklon entsteht",
-          "link": "https://www.ingenieur.de/bombenzyklon-was-ist-das-wie-entsteht-er-149f491e-6468-4ead-a35b-9c2ec553ea5e/",
-          "published": "2026-10-20T04:54:39+00:00",
-          "summary": "Was macht ein Tief zum Bombenzyklon? Wie der schnelle Druckabfall entsteht und welches Sturmrisiko der DWD aktuell für Deutschland sieht."
+          "title": "Wasserstoff bleibt teuer: Was Reiches 10-Punkte-Plan ändern soll",
+          "link": "https://www.ingenieur.de/wasserstoff-in-deutschland-mit-diesen-zehn-massnahmen-will-die-bundesregierung-den-hochlauf-retten-6bdacd82-6832-48de-92c9-cb6acea636c5/",
+          "published": "2026-10-20T11:00:00+00:00",
+          "summary": "Die Preise für Wasserstoff sinken langsamer als erwartet, räumt das Wirtschaftsministerium ein. Ein Zehn-Punkte-Plan soll den Markt jetzt anschieben: mit Fördergeld, Leitmärkten und Importen aus der …"
         },
         {
-          "title": "Nur Schrott, kein frisches Metall: KI macht Eisen bis zu 15 % fester",
-          "link": "https://www.ingenieur.de/nur-schrott-kein-frisches-metall-ki-macht-eisen-bis-zu-15-fester-12edf7b4-ba2b-4536-8bf5-1a040f964d3b/",
-          "published": "2026-10-19T14:30:00+00:00",
-          "summary": "Verunreinigungen im Schrott gelten beim Metallrecycling als Problem. Ein Team mit Düsseldorfer Beteiligung macht daraus besseres Eisen: Eine KI entwirft Legierungen, die Störelemente gezielt …"
+          "title": "Welche KI-Kenntnisse Ingenieure brauchen und wie sie diese belegen",
+          "link": "https://www.ingenieur.de/ki-kenntnisse-werden-zur-einstellungsvoraussetzung-welche-skills-unternehmen-wirklich-suchen-d2dd7e1c-588e-4223-9b72-8089181b88d7/",
+          "published": "2026-10-20T10:30:00+00:00",
+          "summary": "KI-Kenntnisse als Einstellungsvoraussetzung: Welche Fähigkeiten Ingenieurinnen und Ingenieure brauchen und wie sie diese in Bewerbungen belegen."
         },
         {
-          "title": "26 Minuten, die die Herzmedizin veränderten",
-          "link": "https://www.ingenieur.de/26-minuten-die-die-herzmedizin-veraenderten-6b549f75-b1bd-4764-b762-ab523d5d8e8f/",
-          "published": "2026-10-19T13:54:27+00:00",
-          "summary": "Von der Herz-Lungen-Maschine bis zur Impella: Wie technische Herzunterstützung Herzchirurgie, Schrittmacher und Implantate revolutionierte."
+          "title": "Fünf Stunden für 73,5 t Stahl: ÖBB heben Hilfsbrücke in Wien ein",
+          "link": "https://www.ingenieur.de/fuenf-stunden-fuer-735-t-stahl-oebb-heben-hilfsbruecke-in-wien-ein-7a69f98a-d214-43d9-8a82-a7fbaf1ea16d/",
+          "published": "2026-10-20T10:00:00+00:00",
+          "summary": "Zwei Schienenkräne hoben eine 73,5 t schwere Hilfsbrücke an der Wiener Verbindungsbahn ein. Für den nächtlichen Einhub standen nur fünf Stunden zur Verfügung, damit die Erneuerung zweier …"
         },
         {
-          "title": "Hydraulik oder Elektromechanik? Kriterien für die Auswahl",
-          "link": "https://www.ingenieur.de/hydraulik-oder-elektromechanik-8191be8f-a77e-4119-9435-b11066b5d102/",
-          "published": "2026-10-19T13:00:00+00:00",
-          "summary": "Hydraulische und elektromechanische Antriebe haben ihre Berechtigung - bei der Auswahl gilt es, die Systemgrenzen zu beachten."
+          "title": "Bei Schaeffler montieren Humanoide, was andere Roboter bewegt",
+          "link": "https://www.ingenieur.de/humanoide-fertigen-humanoide-4e309175-30b5-455d-83a5-2d4b4ed9f465/",
+          "published": "2026-10-20T09:30:00+00:00",
+          "summary": "Schaeffler lässt in China sechs humanoide Roboter Komponenten für weitere Humanoide montieren und testet ihre Fähigkeiten im Produktionsalltag."
         }
       ],
       "error": null
