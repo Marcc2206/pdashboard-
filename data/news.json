@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:19:16+00:00",
+  "generatedAt": "2026-10-20T22:55:12+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Champions League: Stuttgart verpasst die Überraschung gegen Atletico",
+          "link": "https://www.sportschau.de/fussball/championsleague/stuttgart-verpasst-die-dicke-ueberraschung,spielbericht-vfb-stuttgart-atletico-madrid-100.html",
+          "published": "2026-10-20T22:18:11+00:00",
+          "summary": "Stuttgart zeigt am dritten Spieltag der Königsklasse gegen Atletico Madrid eine starke erste Halbzeit. Die Krönung gelingt ihnen nach einem Platzverweis gegen die Spanier allerdings nicht."
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81606.html",
-          "published": "2026-10-20T18:18:08+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81676.html",
+          "published": "2026-10-20T22:07:33+00:00",
           "summary": ""
         },
         {
-          "title": "Livestream: Die Nachrichten auf tagesschau24",
-          "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
-          "published": "2026-10-20T18:15:06+00:00",
-          "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier."
+          "title": "Champions League: Guirassy schießt BVB zum Arbeitssieg über Sabah FK",
+          "link": "https://www.sportschau.de/fussball/championsleague/doppelter-guirassy-beendet-dortmunder-ergebniskrise,spielbericht-sabah-fk-borussia-dortmund-100.html",
+          "published": "2026-10-20T20:58:42+00:00",
+          "summary": "Spielerisch nicht wirklich überzeugend, dafür aber mal wieder siegreich: Borussia Dortmund hat gegen Sabah FK in der Champions League einen wichtigen Dreier eingefahren."
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-20T17:52:53+00:00",
-          "summary": "Am Mittwoch gibt es meist viele Wolken und verbreitet fällt Regen. Ganz im Osten ist es trocken und zum Teil sonnig. Auch im Westen fällt nur gebietsweise Regen. 8 bis 18 Grad."
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12934.html",
+          "published": "2026-10-20T20:57:32+00:00",
+          "summary": ""
         },
         {
-          "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-          "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
-          "published": "2026-10-20T17:49:19+00:00",
-          "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die …"
-        },
-        {
-          "title": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
-          "published": "2026-10-20T17:41:17+00:00",
-          "summary": "Ab 2027 wird in Arztpraxen ein festes Kontingent an Terminen festgelegt. Die Kassenärztliche Bundesvereinigung befürchtet noch längere Wartezeiten auf Termine - die Krankenkassen sehen darin …"
+          "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+          "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+          "published": "2026-10-20T20:01:00+00:00",
+          "summary": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Deep Read: „Die folgenreichste Wirkung seiner Präsidentschaft“: Trumps diabolischer Pakt mit dem Silicon Valley",
-          "link": "https://www.handelsblatt.com/technik/it-internet/usa-donald-trumps-diabolischer-pakt-mit-dem-silicon-valley/100262339.html",
-          "published": "2026-10-20T18:03:55+00:00",
-          "summary": "Die Tech-Fürsten stehen dem US-Präsidenten so nah wie nie – dabei diktiert Trump die Bedingungen. Zwei Wochen vor den Kongresswahlen wächst vor allem auf einer Seite das Risiko."
+          "title": "Potenzieller Megadeal: Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
+          "link": "https://www.handelsblatt.com/technik/it-internet/potenzieller-megadeal-musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss/100263743.html",
+          "published": "2026-10-20T22:36:56+00:00",
+          "summary": "Über eine mögliche Fusion des Autobauers Tesla und der Weltraumfirma SpaceX wird schon lange spekuliert. Jetzt verkündet Elon Musk, der beide Unternehmen führt, einen ersten Schritt in diese Richtung."
         },
         {
-          "title": "Quartalszahlen: Deutsche Börse hebt nach starkem Quartal Ziele erneut an",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/quartalszahlen-deutsche-boerse-hebt-nach-starkem-quartal-ziele-erneut-an/100263716.html",
-          "published": "2026-10-20T17:46:08+00:00",
-          "summary": "Kursturbulenzen und wachsende Geldanlagen am Kapitalmarkt treiben das Geschäft der Deutschen Börse an. Der Konzern erhöht seine Jahresziele zum zweiten Mal binnen weniger Monate."
+          "title": "Streamingdienst: Netflix-Wachstum schwächt sich weiter ab - Verhaltener Ausblick",
+          "link": "https://www.handelsblatt.com/unternehmen/it-medien/streamingdienst-netflix-wachstum-schwaecht-sich-weiter-ab-verhaltener-ausblick/100263733.html",
+          "published": "2026-10-20T21:28:08+00:00",
+          "summary": "Trotz eines hohen Quartalsgewinns strafen die Investoren Netflix hart ab. Die Kosten für einen Stellenabbau und die harte Konkurrenz im auf dem Streamingmarkt belasten die Bilanz."
         },
         {
-          "title": "Nach Ausschreitungen: Festnahme nach Brandstiftung im Rathaus von Limoges",
-          "link": "https://www.handelsblatt.com/politik/international/nach-ausschreitungen-festnahme-nach-brandstiftung-im-rathaus-von-limoges/100263468.html",
-          "published": "2026-10-20T17:30:39+00:00",
-          "summary": "Das historische Rathaus von Limoges wurde bei den Ausschreitungen am Samstag schwer beschädigt. Nun haben Fahnder einen mutmaßlich an der Brandstiftung beteiligten polizeibekannten Mann festgenommen."
+          "title": "Elon Musk: Raumfahrtkonzern SpaceX meldet Milliardengewinn – Tesla-Übernahme rückt näher",
+          "link": "https://www.handelsblatt.com/technik/it-internet/elon-musk-raumfahrtkonzern-spacex-meldet-milliardengewinn-tesla-uebernahme-rueckt-naeher/100262899.html",
+          "published": "2026-10-20T21:27:45+00:00",
+          "summary": "Das Geschäft mit Satelliteninternet und Rechenzentren treibt den Gewinn. Laut Konzernchef Elon Musk prüfen Sonderausschüsse von SpaceX und Tesla einen möglichen Zusammenschluss."
         },
         {
-          "title": "Quartalszahlen: Adidas erzielt Rekordergebnisse und hebt Gewinnprognose an",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/quartalszahlen-adidas-erzielt-rekordergebnisse-und-hebt-gewinnprognose-an/100263709.html",
-          "published": "2026-10-20T17:07:34+00:00",
-          "summary": "Nach dem höchsten Quartalsgewinn seiner Geschichte hebt Adidas die Jahresprognose an. Rückerstattete US-Zölle und geringere Rabatte geben dem Sportartikelkonzern Rückenwind."
+          "title": "Video-Streaming: Netflix wächst langsamer - Aktie fällt",
+          "link": "https://www.handelsblatt.com/technik/it-internet/video-streaming-netflix-waechst-langsamer-aktie-faellt/100263737.html",
+          "published": "2026-10-20T21:10:28+00:00",
+          "summary": "Netflix ist die klare Nummer eins beim Videostreaming - doch das Wachstum lässt nach. Jetzt will die Firma das Ruder herumreißen."
         },
         {
-          "title": "Sportartikel: Adidas schraubt Prognose nach Rekord-Quartal nach oben",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sportartikel-adidas-schraubt-prognose-nach-rekord-quartal-nach-oben/100263711.html",
-          "published": "2026-10-20T17:05:29+00:00",
-          "summary": "Adidas ist in der Erfolgsspur. Die Drei-Streifen-Marke setzte noch nie so viel in einem Quartal um wie zuletzt und legte auch beim Ergebnis kräftig zu."
+          "title": "Weltraumfirma: Musks SpaceX mit Milliarden-Quartalsgewinn",
+          "link": "https://www.handelsblatt.com/technik/it-internet/weltraumfirma-musks-spacex-mit-milliarden-quartalsgewinn/100263736.html",
+          "published": "2026-10-20T21:06:58+00:00",
+          "summary": "Die Weltraumfirma SpaceX fuhr lange einen Milliardenverlust nach dem anderen ein. Dank Erlösen aus KI-Rechenzentren und dem Satelliten-Dienst Starlink gibt es nun schwarze Zahlen."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Rekordquartal dank Starlink: Musks SpaceX erreicht mit Milliardenplus die Gewinnzone",
+          "link": "https://www.n-tv.de/wirtschaft/Musks-SpaceX-erreicht-mit-Milliardenplus-die-Gewinnzone-id31440439.html",
+          "published": "2026-10-20T21:29:19+00:00",
+          "summary": "Mit glänzenden Quartalszahlen übertrifft der Weltraumkonzern SpaceX die Erwartungen der Analysten. Starlink und KI-Rechenzentren erwirtschaften einen Gewinn von 4,4 Milliarden Dollar und …"
+        },
+        {
+          "title": "Rekorde bei Gesundheitsaktien: US-Anleger lassen die Finger von Tech-Werten",
+          "link": "https://www.n-tv.de/wirtschaft/US-Anleger-lassen-die-Finger-von-Tech-Werten-id31440407.html",
+          "published": "2026-10-20T20:49:14+00:00",
+          "summary": "Mit Skepsis schauen Analysten weiterhin auf die hohen Kosten für Künstliche Intelligenz. Techwerte bekommen den Gegenwind zu spüren. US-Anleger schichten ihre Depots um und setzen auf Aktien der …"
+        },
+        {
+          "title": "Prognose angepasst: Adidas meldet Rekord-Quartal",
+          "link": "https://www.n-tv.de/wirtschaft/Adidas-meldet-Rekord-Quartal-id31440177.html",
+          "published": "2026-10-20T18:22:04+00:00",
+          "summary": "Eine Zoll-Rückerstattung von 200 Millionen Euro verhilft dem Sportartikelhersteller Adidas im dritten Quartal zu einem Rekordergebnis. Im vierten Quartal soll es deshalb mehr Investitionen geben."
+        },
+        {
           "title": "Etwa 10.000 Wagen in Deutschland: VW ruft wegen fehlerhafter Batterien mehr als 70.000 E-Autos zurück",
           "link": "https://www.n-tv.de/wirtschaft/VW-ruft-wegen-fehlerhafter-Batterien-mehr-als-70-000-E-Autos-zurueck-id31439241.html",
           "published": "2026-10-20T14:36:38+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Cloud-Stoerung-bei-Google-legt-Banken-lahm-id31438812.html",
           "published": "2026-10-20T14:08:15+00:00",
           "summary": "Plötzlich kein Zugriff aufs Konto: Ein Cloud-Ausfall bei Google stellt Bankkunden in Europa vor Probleme. Das Ausmaß der Störung ist noch nicht bekannt."
-        },
-        {
-          "title": "Sentiment im Chart-Check: Historisch hohe Aktienquoten!",
-          "link": "https://www.n-tv.de/wirtschaft/boerse/Historisch-hohe-Aktienquoten-id30347915.html",
-          "published": "2026-10-20T13:44:00+00:00",
-          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um die Asset Allocation-Umfrage …"
-        },
-        {
-          "title": "Detaillierte 3D-Aufnahmen: Google darf Satellitenbilder von Grundstück nicht veröffentlichen",
-          "link": "https://www.n-tv.de/wirtschaft/Google-darf-Satellitenbilder-von-Grundstueck-nicht-veroeffentlichen-id31437987.html",
-          "published": "2026-10-20T13:01:25+00:00",
-          "summary": "Ein Mann aus Frankfurt wehrt sich erfolgreich dagegen, dass sein Wohnhaus bei den Google-Diensten Maps und Earth zu sehen ist. In dem Fall zeigten die Bilder auch den Teil des Grundstücks, der von …"
-        },
-        {
-          "title": "Kanzler auf Werbetour: Merz: Unternehmen wollen 800 Milliarden Euro investieren",
-          "link": "https://www.n-tv.de/wirtschaft/Bundeskanzler-Merz-Unternehmen-wollen-800-Milliarden-Euro-in-Deutschland-investieren-id31437916.html",
-          "published": "2026-10-20T12:17:56+00:00",
-          "summary": "In Berlin steigt derzeit der Investitionsgipfel \"Invest in Germany\". Bundeskanzler Friedrich Merz und die Minister rühren vor Ort kräftig die Werbetrommel bei ausländischen Unternehmen. Anscheinend …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Konjunktur: Warum uns die hohe Inflation erhalten bleibt",
-          "link": "https://www.wiwo.de/politik/konjunktur/inflation-darum-koennte-es-2027-zu-einem-preisschub-kommen/100259029.html",
-          "published": "2026-10-20T16:59:18+00:00",
-          "summary": "Die Teuerung in Deutschland und Europa ist nicht unter Kontrolle. Mehrere ­Faktoren lassen befürchten, dass es 2027 mit den Preisen weiter nach oben geht."
+          "title": "Leistungsbilanzüberschuss: So hoch fällt der Leistungsbilanzüberschuss Deutschlands aus",
+          "link": "https://www.wiwo.de/politik/konjunktur/leistungsbilanzueberschuss-erklaerung-ursachen-und-chart/100261939.html",
+          "published": "2026-10-20T18:48:44+00:00",
+          "summary": "Deutschland exportiert mehr, als es importiert. Ob dieser Leistungsbilanzüberschuss gut oder schlecht ist, hängt von Ursache und Dauer ab."
         },
         {
-          "title": "Demonstrationen: Frankreich mobilisiert zusätzliche Polizisten für neue Proteste",
-          "link": "https://www.wiwo.de/politik/ausland/demonstrationen-frankreich-mobilisiert-zusaetzliche-polizisten-fuer-neue-proteste/100263699.html",
-          "published": "2026-10-20T16:19:56+00:00",
-          "summary": "Am Samstag wollen erneut zahlreiche Franzosen auf die Straße gehen. Der französische Innenminister erwägt, die Demonstrationen zu verbieten."
+          "title": "Exportüberschuss: So hoch fällt der Exportüberschuss Deutschlands 2026 aus",
+          "link": "https://www.wiwo.de/politik/konjunktur/handelsbilanzueberschuss-2026-erklaerung-ursachen-und-chart/100261784.html",
+          "published": "2026-10-20T18:48:11+00:00",
+          "summary": "Deutschland verkauft mehr Waren ins Ausland, als es einkauft. Ob dieser Handelsbilanzüberschuss gut oder schlecht ist, hängt von Ursache und Dauer ab. Ein Überblick."
         },
         {
-          "title": "Klimaschutz: EU-Parlament einig über schwächeres CO2-Abbauziel für Autos",
-          "link": "https://www.wiwo.de/politik/europa/klimaschutz-eu-parlament-einig-ueber-schwaecheres-co2-abbauziel-fuer-autos/100263678.html",
-          "published": "2026-10-20T15:30:16+00:00",
-          "summary": "Mit der Entscheidung kommt das Parlament den Autoherstellern entgegen. Sie halten ein komplettes Verbrenneraus bis 2035 nicht für machbar."
+          "title": "Preisfrage: So viel Marge steckt in einem Selbstbräuner",
+          "link": "https://www.wiwo.de/unternehmen/handel/selbstbraeuner-so-viel-marge-steckt-in-den-kosmetika/100261630.html",
+          "published": "2026-10-20T18:46:04+00:00",
+          "summary": "Mit Selbstbräunungsmitteln lässt sich der Sommerteint auch an trüben Herbsttagen erhalten – ohne schädliche Strahlenbelastung. Hersteller und Händler verdienen gut daran."
         },
         {
-          "title": "Auto-Abo: Wie lange kann das deutsche Einhorn Finn die Spur halten?",
-          "link": "https://www.wiwo.de/unternehmen/auto/finn-auto-abo-der-riskante-weg-des-einhorns-zum-boersengang/100261963.html",
-          "published": "2026-10-20T14:13:44+00:00",
-          "summary": "Der Münchner Auto-Abo-Anbieter Finn wächst rasend schnell. Unicorn. Börsengang. ­Können die Gründer ihr Tempo mitgehen?"
+          "title": "Sportartikel: „Großartiges Quartal“ – Adidas erwartet dank Zollerstattung mehr Gewinn",
+          "link": "https://www.wiwo.de/unternehmen/handel/grossartiges-quartal-adidas-erwartet-dank-zollerstattung-mehr-gewinn/100263719.html",
+          "published": "2026-10-20T18:30:27+00:00",
+          "summary": "Während der Konkurrent Nike einen Gewinnrückgang erwartet, rechnet Adidas mit höheren Umsätzen und Gewinnen. Die Aktie profitiert."
         },
         {
-          "title": "Invest in Germany: Danke, Donald, für die Investitionsförderung in Deutschland!",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/investitionsgipfel-berlin-warum-donald-trump-deutschland-hilft/100263610.html",
-          "published": "2026-10-20T14:04:15+00:00",
-          "summary": "Beim Investitionsgipfel in Berlin sammelt die Bundesregierung Milliarden ein – und Donald Trump unterstützt dabei tatkräftig. Ein Kommentar."
+          "title": "Quartalszahlen: Deutsche Börse hebt dank höherer Zinsen Ziele an",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/quartalszahlen-deutsche-boerse-hebt-dank-hoeherer-zinsen-ziele-an/100263718.html",
+          "published": "2026-10-20T18:24:17+00:00",
+          "summary": "Die Börse erwartet auch höhere Gewinne. In den meisten Geschäftsbereichen wachsen die Umsätze um mehr als zehn Prozent an."
         }
       ],
       "error": null
