@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:55:12+00:00",
+  "generatedAt": "2026-10-21T03:15:14+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Tödliches Virus: Nigeria bestätigt ersten Ebola-Fall",
+          "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
+          "published": "2026-10-21T01:11:10+00:00",
+          "summary": "Nun auch der erste Fall von Ebola in Nigeria: Es ist nun das vierte Land in Afrika mit mindestens einem bestätigten Ebola-Fall. 44 Kontaktpersonen der infizierten Frau wurden bisher ermittelt."
+        },
+        {
+          "title": "Panne soll behoben werden: Höhere Tabaksteuer gilt aus Versehen ab sofort",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+          "published": "2026-10-21T00:53:00+00:00",
+          "summary": "Ab 2027 sollen die Tabaksteuern schrittweise steigen und das Rauchen verteuern, so dachte man. Doch nun wurde verkündet: Sie gilt bereits ab sofort. Dem Ministerium ist dabei ein Fehler unterlaufen."
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669800.html",
+          "published": "2026-10-21T00:11:07+00:00",
+          "summary": ""
+        },
         {
           "title": "Champions League: Stuttgart verpasst die Überraschung gegen Atletico",
           "link": "https://www.sportschau.de/fussball/championsleague/stuttgart-verpasst-die-dicke-ueberraschung,spielbericht-vfb-stuttgart-atletico-madrid-100.html",
@@ -18,24 +36,6 @@
           "link": "https://www.tagesschau.de/tagesschau/ts-81676.html",
           "published": "2026-10-20T22:07:33+00:00",
           "summary": ""
-        },
-        {
-          "title": "Champions League: Guirassy schießt BVB zum Arbeitssieg über Sabah FK",
-          "link": "https://www.sportschau.de/fussball/championsleague/doppelter-guirassy-beendet-dortmunder-ergebniskrise,spielbericht-sabah-fk-borussia-dortmund-100.html",
-          "published": "2026-10-20T20:58:42+00:00",
-          "summary": "Spielerisch nicht wirklich überzeugend, dafür aber mal wieder siegreich: Borussia Dortmund hat gegen Sabah FK in der Champions League einen wichtigen Dreier eingefahren."
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12934.html",
-          "published": "2026-10-20T20:57:32+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
-          "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
-          "published": "2026-10-20T20:01:00+00:00",
-          "summary": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Potenzieller Megadeal: Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
-          "link": "https://www.handelsblatt.com/technik/it-internet/potenzieller-megadeal-musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss/100263743.html",
-          "published": "2026-10-20T22:36:56+00:00",
-          "summary": "Über eine mögliche Fusion des Autobauers Tesla und der Weltraumfirma SpaceX wird schon lange spekuliert. Jetzt verkündet Elon Musk, der beide Unternehmen führt, einen ersten Schritt in diese Richtung."
+          "title": "+++ Ukraine-Krieg +++: Trump-Gesandter Witkoff reist nach Russland",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-gesandter-witkoff-reist-nach-russland/27982126.html",
+          "published": "2026-10-21T02:58:00+00:00",
+          "summary": "Trump fordert Ukraine zu Abkommen mit Russland auf +++ Kiew erhält vor Angriffen wieder Frühwarnungen +++ Norwegen und Finnland nach Ukraine-Gesprächen zuversichtlich +++ Der Newsblog."
         },
         {
-          "title": "Streamingdienst: Netflix-Wachstum schwächt sich weiter ab - Verhaltener Ausblick",
-          "link": "https://www.handelsblatt.com/unternehmen/it-medien/streamingdienst-netflix-wachstum-schwaecht-sich-weiter-ab-verhaltener-ausblick/100263733.html",
-          "published": "2026-10-20T21:28:08+00:00",
-          "summary": "Trotz eines hohen Quartalsgewinns strafen die Investoren Netflix hart ab. Die Kosten für einen Stellenabbau und die harte Konkurrenz im auf dem Streamingmarkt belasten die Bilanz."
+          "title": "US-Flugzeugbauer: Boeing bekommt Zulassung für größte 737-Max-Variante",
+          "link": "https://www.handelsblatt.com/technik/it-internet/us-flugzeugbauer-boeing-bekommt-zulassung-fuer-groesste-737-max-variante/100263774.html",
+          "published": "2026-10-21T02:54:59+00:00",
+          "summary": "Ein neuer Software-Fehler drohte, die Zulassung der größten Variante des wichtigen Boeing-Modells 737 Max noch weiter hinauszuzögern. Doch nun ist der US-Flugzeugbauer am Ziel."
         },
         {
-          "title": "Elon Musk: Raumfahrtkonzern SpaceX meldet Milliardengewinn – Tesla-Übernahme rückt näher",
-          "link": "https://www.handelsblatt.com/technik/it-internet/elon-musk-raumfahrtkonzern-spacex-meldet-milliardengewinn-tesla-uebernahme-rueckt-naeher/100262899.html",
-          "published": "2026-10-20T21:27:45+00:00",
-          "summary": "Das Geschäft mit Satelliteninternet und Rechenzentren treibt den Gewinn. Laut Konzernchef Elon Musk prüfen Sonderausschüsse von SpaceX und Tesla einen möglichen Zusammenschluss."
+          "title": "Medienbericht: Musk ordnete offenbar Drosselung von Starlink für Ukraine an",
+          "link": "https://www.handelsblatt.com/politik/international/medienbericht-musk-ordnete-offenbar-drosselung-von-starlink-fuer-ukraine-an/100263772.html",
+          "published": "2026-10-21T02:54:28+00:00",
+          "summary": "Das ukrainische Militär beklagt, das Satelliteninternet des US-Anbieters Starlink funktioniere nicht wie gewohnt. Ist Elon Musk als Besitzer der Betreiberfirma dafür verantwortlich?"
         },
         {
-          "title": "Video-Streaming: Netflix wächst langsamer - Aktie fällt",
-          "link": "https://www.handelsblatt.com/technik/it-internet/video-streaming-netflix-waechst-langsamer-aktie-faellt/100263737.html",
-          "published": "2026-10-20T21:10:28+00:00",
-          "summary": "Netflix ist die klare Nummer eins beim Videostreaming - doch das Wachstum lässt nach. Jetzt will die Firma das Ruder herumreißen."
+          "title": "+++ Iran-Krieg +++: Teheran will „nicht einen Partikel“ angereicherten Urans aushändigen",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-teheran-will-nicht-einen-partikel-angereicherten-urans-aushaendigen/100136895.html",
+          "published": "2026-10-21T02:45:00+00:00",
+          "summary": "Hegseth in Israel – Gespräch mit Netanjahu über Iran +++ Netanjahu deutet neue gemeinsame Angriffe auf den Iran an +++ Pakistans Armeechef als Vermittler nach Teheran gereist +++ Der Newsblog."
         },
         {
-          "title": "Weltraumfirma: Musks SpaceX mit Milliarden-Quartalsgewinn",
-          "link": "https://www.handelsblatt.com/technik/it-internet/weltraumfirma-musks-spacex-mit-milliarden-quartalsgewinn/100263736.html",
-          "published": "2026-10-20T21:06:58+00:00",
-          "summary": "Die Weltraumfirma SpaceX fuhr lange einen Milliardenverlust nach dem anderen ein. Dank Erlösen aus KI-Rechenzentren und dem Satelliten-Dienst Starlink gibt es nun schwarze Zahlen."
+          "title": "Ukraine-Krieg: Trump-Gesandter Witkoff reist nach Russland",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-gesandter-witkoff-reist-nach-russland/100263769.html",
+          "published": "2026-10-21T02:41:25+00:00",
+          "summary": "Erst traf er den ukrainischen Präsidenten und europäische Verbündete in Oslo, nun geht es weiter nach St. Petersburg. Dort will US-Unterhändler Witkoff den Russen neue Friedensvorschläge vorlegen."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Finde, das ist eine gute Idee\": Musk bestätigt Fusionspläne für Tesla und SpaceX",
+          "link": "https://www.n-tv.de/wirtschaft/Musk-bestaetigt-Fusionsplaene-fuer-Tesla-und-SpaceX-id31440589.html",
+          "published": "2026-10-21T03:09:34+00:00",
+          "summary": "Spekulationen über einen Zusammenschluss von Tesla und SpaceX bekommen ein Fundament: Großaktionär und Konzern-Chef Musk lässt Ausschüsse für die Fusion einsetzen. Er selbst darf nicht teilnehmen …"
+        },
+        {
+          "title": "Aktivität der Nutzer lässt nach: Netflix wächst langsamer - Aktie fällt",
+          "link": "https://www.n-tv.de/wirtschaft/Netflix-waechst-langsamer-Aktie-faellt-id31440496.html",
+          "published": "2026-10-20T23:14:06+00:00",
+          "summary": "Noch ist Netflix der Platzhirsch beim Videostreaming - doch die Wachstumsdynamik schwächelt. Nach der Präsentation der Quartalszahlen geht die Aktie auf Tauchstation. Jetzt sollen neue Chefs die …"
+        },
         {
           "title": "Rekordquartal dank Starlink: Musks SpaceX erreicht mit Milliardenplus die Gewinnzone",
           "link": "https://www.n-tv.de/wirtschaft/Musks-SpaceX-erreicht-mit-Milliardenplus-die-Gewinnzone-id31440439.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Adidas-meldet-Rekord-Quartal-id31440177.html",
           "published": "2026-10-20T18:22:04+00:00",
           "summary": "Eine Zoll-Rückerstattung von 200 Millionen Euro verhilft dem Sportartikelhersteller Adidas im dritten Quartal zu einem Rekordergebnis. Im vierten Quartal soll es deshalb mehr Investitionen geben."
-        },
-        {
-          "title": "Etwa 10.000 Wagen in Deutschland: VW ruft wegen fehlerhafter Batterien mehr als 70.000 E-Autos zurück",
-          "link": "https://www.n-tv.de/wirtschaft/VW-ruft-wegen-fehlerhafter-Batterien-mehr-als-70-000-E-Autos-zurueck-id31439241.html",
-          "published": "2026-10-20T14:36:38+00:00",
-          "summary": "Es ist erst wenige Wochen her, dass VW Millionen seiner Fahrzeuge wegen einer korrosionsanfälligen Schraube in die Werkstätten rufen musste. Nun sorgen fehlerhafte Batterien für eine erneute …"
-        },
-        {
-          "title": "IT-Zentrum in London betroffen: Cloud-Störung bei Google legt Banken lahm",
-          "link": "https://www.n-tv.de/wirtschaft/Cloud-Stoerung-bei-Google-legt-Banken-lahm-id31438812.html",
-          "published": "2026-10-20T14:08:15+00:00",
-          "summary": "Plötzlich kein Zugriff aufs Konto: Ein Cloud-Ausfall bei Google stellt Bankkunden in Europa vor Probleme. Das Ausmaß der Störung ist noch nicht bekannt."
         }
       ],
       "error": null
