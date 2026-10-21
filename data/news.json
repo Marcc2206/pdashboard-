@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T19:54:40+00:00",
+  "generatedAt": "2026-10-21T23:00:24+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Jetzt live - Intensiver Kampf zwischen Bayern und Arsenal",
-          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12517788/bayern-muenchen_arsenal-fc/liveticker",
-          "published": "2026-10-21T19:48:48+00:00",
-          "summary": "Ein intensives und schnelles Spiel zwischen dem FC Bayern und dem FC Arsenal geht mit einem verdienten Remis in die Pause. Wer kommt besser aus der Kabine?"
-        },
-        {
-          "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
-          "published": "2026-10-21T18:54:59+00:00",
-          "summary": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview …"
-        },
-        {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1670354.html",
-          "published": "2026-10-21T18:50:04+00:00",
-          "summary": "Treffen von US-Sondergesandtem Witkoff und Russlands Präsident Putin in Sankt Petersburg, Frankreich unter Schock nach landesweiten Ausschreitungen, Gravierende Sicherheitslücke in Programmiersprache …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12320.html",
-          "published": "2026-10-21T18:47:56+00:00",
-          "summary": ""
-        },
-        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81554.html",
-          "published": "2026-10-21T18:44:00+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81642.html",
+          "published": "2026-10-21T22:42:37+00:00",
           "summary": ""
+        },
+        {
+          "title": "Champions League: Bayern und Arsenal mit intensivem Unentschieden",
+          "link": "https://www.sportschau.de/fussball/championsleague/vier-tore-kein-sieger-remis-zwischen-bayern-und-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
+          "published": "2026-10-21T22:13:20+00:00",
+          "summary": "Es war ein intensives Duell zwischen dem FC Bayern und Arsenal. Ohne mehrere Topkräfte reicht es den Münchnern nach Toren von Davies und Kane aber nicht zum Sieg - am Ende stand es 2:2."
+        },
+        {
+          "title": "Am Ende deutlich - Leipzig unterliegt Real Madrid",
+          "link": "https://www.sportschau.de/fussball/championsleague/am-ende-deutlich-leipzig-unterliegt-real-madrid,spielbericht-real-madrid-rb-leipzig-100.html",
+          "published": "2026-10-21T21:36:49+00:00",
+          "summary": "RB Leipzig hat es den Königlichen lange schwer gemacht, kann nach der Halbzeit aber nicht mehr genug gegenhalten - und muss sich Real Madrid mit 1:4 schließlich doch deutlich geschlagen geben."
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12928.html",
+          "published": "2026-10-21T21:35:48+00:00",
+          "summary": ""
+        },
+        {
+          "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
+          "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
+          "published": "2026-10-21T21:02:37+00:00",
+          "summary": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert. Antworten auf die …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Ukraine-Krieg +++: Selenskyj wäre mit Status quo an der aktuellen Frontlinie einverstanden",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-waere-mit-status-quo-an-frontlinie-einverstanden/27982126.html",
-          "published": "2026-10-21T19:00:00+00:00",
-          "summary": "Putin zu neuen Ukraine-Gesprächen bereit +++ Merz warnt vor hybriden russischen Angriffen auf Deutschland – und lehnt eine Kapitulation der Ukraine ab +++ Der Newsblog."
+          "title": "Digitalpolitik: EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
+          "link": "https://www.handelsblatt.com/technik/it-internet/digitalpolitik-eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet/100264047.html",
+          "published": "2026-10-21T22:01:04+00:00",
+          "summary": "Annehmen, Ablehnen oder irgendwas dazwischen: Cookie-Abfragen sind zur dauerhaften Begleiterscheinung beim Surfen geworden. Eine Idee aus Brüssel soll das ändern - hat es aber schwer."
         },
         {
-          "title": "Wall Street: Techwerte profitieren – Wall Street dreht ins Plus",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-dreht-ins-plus/100263972.html",
-          "published": "2026-10-21T18:15:00+00:00",
-          "summary": "Während Anleger bei Techwerten zugreifen, bleiben dennoch Risikofaktoren am Markt bestehen. Auch aus der derzeit gefragten Branche bleibt Unsicherheit."
+          "title": "Künstliche Intelligenz: Meta investiert mindestens 135 Milliarden Dollar in KI",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-meta-investiert-mindestens-135-milliarden-dollar-in-ki/100264044.html",
+          "published": "2026-10-21T21:20:03+00:00",
+          "summary": "Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern."
         },
         {
-          "title": "Pakete: EU-Staaten wollen Ausnahme bei umstrittener Verpackungsregel",
-          "link": "https://www.handelsblatt.com/politik/international/pakete-eu-staaten-wollen-ausnahme-bei-umstrittener-verpackungsregel/100264026.html",
-          "published": "2026-10-21T18:11:17+00:00",
-          "summary": "Schon eine einzelne Bestellung ins Ausland kann kleine Händler vor neue Pflichten stellen. Für sie ein Ärgernis. Die EU-Staaten wollen sie entlasten."
+          "title": "Quartalszahlen: Meta investiert mindestens 135 Milliarden Dollar in KI",
+          "link": "https://www.handelsblatt.com/technik/it-internet/quartalszahlen-meta-investiert-mindestens-135-milliarden-dollar-in-ki/100262901.html",
+          "published": "2026-10-21T21:06:32+00:00",
+          "summary": "Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern."
         },
         {
-          "title": "Datenschutz: US-Richter verurteilt Facebook-Mutter Meta zu 25 Milliarden Dollar Strafe",
-          "link": "https://www.handelsblatt.com/technik/it-internet/datenschutz-us-richter-verurteilt-meta-zu-25-milliarden-dollar-strafe/100264023.html",
-          "published": "2026-10-21T18:06:05+00:00",
-          "summary": "Ein Gericht in New Mexico verurteilt Meta zu 25 Milliarden Dollar Strafe. Der Konzern soll Nutzer über den Umgang mit ihren persönlichen Daten getäuscht haben."
+          "title": "Software: SAP steigert Umsatz und Gewinn – Aktie nachbörslich im Plus",
+          "link": "https://www.handelsblatt.com/technik/it-internet/software-sap-steigert-umsatz-und-gewinn-aktie-nachboerslich-im-plus/100262108.html",
+          "published": "2026-10-21T21:02:42+00:00",
+          "summary": "Dank einer robusten Nachfrage hat sich das Wachstum des wichtigen Cloudgeschäfts im dritten Quartal wieder etwas beschleunigt. So gab der Softwarekonzern einen optimistischeren Ausblick."
         },
         {
-          "title": "Video: US-Börsenexperte Koch: „Die SpaceX-Zahlen waren ausgesprochen stark“",
-          "link": "https://www.handelsblatt.com/video/finanzen/us-boersenexperte-koch-die-spacex-zahlen-waren-ausgesprochen-stark/100264011.html",
-          "published": "2026-10-21T18:05:44+00:00",
-          "summary": "Die SpaceX-Aktie lag am Mittwoch nach Meldung der Quartalszahlen zeitweise zweistellig im Plus. Eine Aussage von CEO Elon Musk im Investorengespräch des Raumfahrtkonzerns habe jedoch den Kurs des …"
+          "title": "Elon Musk: Tesla-Umsatz leicht über Erwartungen – Aktie legt zu",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/elon-musk-tesla-umsatz-leicht-ueber-erwartungen-aktie-legt-zu/100262900.html",
+          "published": "2026-10-21T20:41:41+00:00",
+          "summary": "Der E-Autobauer hat rund 25.000 mehr Fahrzeuge ausgeliefert, als erwartet. Auch beim Umsatz stimmt der E-Autobauer seine Investoren positiv."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Konzern investiert kräftig in KI: Metas Gewinn bricht nach teurem Vergleich ein",
+          "link": "https://www.n-tv.de/wirtschaft/Metas-Gewinn-bricht-nach-teurem-Vergleich-ein-id31444554.html",
+          "published": "2026-10-21T21:59:16+00:00",
+          "summary": "Wenige Stunden nachdem ein Gericht eine Milliardenstrafe gegen Meta verhängt, legt der Facebook-Konzern seine Quartalszahlen offen. Die sehen überraschend gut aus, allerdings nur, was den Umsatz …"
+        },
+        {
+          "title": "Chipwerte legen zu: Wall Street reagiert erleichtert auf SpaceX-Zahlen",
+          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-reagiert-erleichtert-auf-SpaceX-Zahlen-id31444535.html",
+          "published": "2026-10-21T21:08:14+00:00",
+          "summary": "Überzeugende Zahlen, unter anderem von SpaceX, lassen die Zweifel an der Rentabilität des KI-Geschäfts in den Hintergrund treten. Es geht wieder aufwärts an den US-Börsen, vor allem Tech-Werte sind …"
+        },
         {
           "title": "Cambridge-Analytica-Skandal: Facebook-Mutter Meta zu 25 Milliarden Dollar Strafe verurteilt",
           "link": "https://www.n-tv.de/wirtschaft/Facebook-Mutter-Meta-zu-25-Milliarden-Dollar-Strafe-verurteilt-id31444308.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Deutschlandticket-light-kommt-erst-mal-nicht-id31443667.html",
           "published": "2026-10-21T16:22:06+00:00",
           "summary": "Hamburg und NRW haben eine Idee: Gelegenheitsfahrer sollen genauso unkompliziert mit Bus und Bahn unterwegs sein können wie Vielfahrer. Der Vorschlag ist eine Abwandlung des Deutschlandtickets. Doch …"
-        },
-        {
-          "title": "Urlauber dreist abgezockt: Gefälschte Hotelanzeigen: EU ermittelt gegen Booking.com",
-          "link": "https://www.n-tv.de/wirtschaft/EU-Kommission-ermittelt-gegen-Reiseportal-Booking-com-wegen-Betrugsfaellen-id31442973.html",
-          "published": "2026-10-21T15:12:21+00:00",
-          "summary": "\"Einfache, schnelle und sichere Buchungen\" - so wirbt das Reiseportal Booking.com. Doch der vermeintliche Traumurlaub entpuppt sich für viele Urlauber als teure Abzocke. Denn die Zahl der …"
-        },
-        {
-          "title": "Mega-Fusion im Anmarsch: Musks Tech-Imperium für Erde und All rückt immer näher",
-          "link": "https://www.n-tv.de/wirtschaft/Musks-Tech-Imperium-fuer-Erde-und-All-rueckt-immer-naeher-id31442382.html",
-          "published": "2026-10-21T12:23:25+00:00",
-          "summary": "Aus zwei Tech-Giganten soll ein beispielloser Superkonzern entstehen: Die Fusion von Tesla und SpaceX würde autonome Mobilität, Raumfahrt und KI unter einem Dach bündeln. Elon Musks Vision nimmt …"
         }
       ],
       "error": null
@@ -211,6 +211,18 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Supernovae sollten Licht den Weg freimachen, neue Hubble-Daten widersprechen",
+          "link": "https://www.ingenieur.de/supernovae-sollten-licht-den-weg-freimachen-neue-hubble-daten-widersprechen-358142f8-ff5c-4dad-b06f-aa2d63d75afa/",
+          "published": "2026-10-21T18:45:22+00:00",
+          "summary": "Hubble entdeckt einen Widerspruch: Gewaltige Sternexplosionen könnten die Ausbreitung energiereicher Strahlung behindert haben. Warum?"
+        },
+        {
+          "title": "Nachhaltige TGA für ­Nullemissionsgebäude",
+          "link": "https://www.ingenieur.de/nachhaltige-tga-fuer-nullemissionsgebaeude-f1ca19fe-1720-4c61-bc69-070065c81f95/",
+          "published": "2026-10-21T18:28:42+00:00",
+          "summary": "Die EU-Gebäuderichtlinie EPBD [1] schreibt vor, dass für alle größeren Neubauten ab 2030 eine Berechnung des Treibhauspotenzials über den gesamten Lebenszyklus vorliegen soll. Den größten Anteil der …"
+        },
+        {
           "title": "Überdimensionierte Heizkörper als Schlüssel zur Wärmepumpenintegration",
           "link": "https://www.ingenieur.de/ueberdimensionierte-heizkoerper-als-schluessel-zur-waermepumpenintegration-03e36f8b-8154-4e2c-8d2b-c326e7542a57/",
           "published": "2026-10-21T16:02:12+00:00",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/gleiches-erdbeben-andere-schaeden-welche-rolle-der-untergrund-spielt-263032e6-2d9a-4a36-8529-454e521fa7e1/",
           "published": "2026-10-21T13:30:00+00:00",
           "summary": "Warum kippen Häuser bei Erdbeben? Wie weiche Böden Schwingungen verstärken, Sand seine Festigkeit verliert und Ingenieure Gebäude schützen können."
-        },
-        {
-          "title": "Zink-Ionen statt Lithium: Was der Wasserbatterie zum Durchbruch fehlt",
-          "link": "https://www.ingenieur.de/zink-ionen-statt-lithium-was-der-wasserbatterie-zum-durchbruch-fehlt-896fd798-b4a0-4162-bb73-15ccb37c5b34/",
-          "published": "2026-10-21T13:00:00+00:00",
-          "summary": "Zink-Ionen-Batterien gelten als besonders brandsicher und kommen ohne Lithium aus. Doch den Sprung in den Markt haben sie noch nicht geschafft. Wie die Zellen funktionieren, wo sie stehen und wann …"
-        },
-        {
-          "title": "3I/ATLAS: Wie viel vom interstellaren Kometen ist verschwunden?",
-          "link": "https://www.ingenieur.de/3i-atlas-wie-viel-vom-interstellaren-kometen-ist-verschwunden-a263e43a-340f-41f2-bae9-bf32d6696e71/",
-          "published": "2026-10-21T12:30:00+00:00",
-          "summary": "Die Sonne hat Spuren an 3I/ATLAS hinterlassen. Eine neue Studie berechnet, wie viel Substanz der interstellare Komet verloren hat."
         }
       ],
       "error": null
