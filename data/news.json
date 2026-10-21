@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:06:02+00:00",
+  "generatedAt": "2026-10-21T14:50:34+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
-          "published": "2026-10-21T08:52:52+00:00",
-          "summary": "Die Gewalteskalation beim landesweiten Protesttag hat Frankreich schwer erschüttert. Wer waren die Randalierer und Plünderer? Für den Premierminister ist die Antwort klar, doch die Wirklichkeit ist …"
+          "title": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
+          "link": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
+          "published": "2026-10-21T14:35:26+00:00",
+          "summary": "Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Sicherheit und …"
         },
         {
-          "title": "Marktbericht: DAX startet kaum verändert",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
-          "published": "2026-10-21T08:52:33+00:00",
-          "summary": "Der DAX ist verhalten in den Handel gestartet. Während KI-Werte sich dank SpaceX erholen, bleiben Investoren mit Blick auf weitere Tech-Bilanzen, die Unruhen in Frankreich und die Ölpreise vorsichtig."
+          "title": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
+          "published": "2026-10-21T14:34:31+00:00",
+          "summary": "Die Tabaksteuer soll ab 2027 schrittweise steigen. Doch durch einen Fehler im Gesetzestext gelten eigentlich schon jetzt erhöhte Steuern auf Tabakwaren - allerdings nur auf dem Papier. Wie kam es …"
         },
         {
-          "title": "Alice Schwarzer stellt Magazin \"Emma\" ein",
-          "link": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
-          "published": "2026-10-21T08:40:09+00:00",
-          "summary": "Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\""
+          "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+          "published": "2026-10-21T14:15:08+00:00",
+          "summary": "Zahlreiche Webseiten und Onlinedienste weltweit sind derzeit in Gefahr: Grund ist eine Sicherheitslücke in der weitverbreiteten Programmiersprache PHP. Das Gefahrenpotenzial ist demnach extrem hoch."
         },
         {
-          "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
-          "published": "2026-10-21T08:20:43+00:00",
-          "summary": "Netflix war jahrelang der unumstrittene Marktführer beim Streaming. Doch der Konzern kämpft gegen immer stärkere Konkurrenz. Neue Produktionen sollen helfen, die Zuschauer wieder mehr zu fesseln …"
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81552.html",
+          "published": "2026-10-21T14:09:39+00:00",
+          "summary": ""
         },
         {
-          "title": "US-Vermittler Witkoff berät mit Putin über Ukraine",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
-          "published": "2026-10-21T08:15:02+00:00",
-          "summary": "Nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo ist US-Unterhändler Witkoff zu Verhandlungen mit der russischen Führung in St. Petersburg eingetroffen. US-Präsident Trump hatte …"
+          "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
+          "link": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
+          "published": "2026-10-21T13:56:23+00:00",
+          "summary": "Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Schufa: Auskunft über alten Score – BGH hebt Urteile auf",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/schufa-auskunft-ueber-alten-score-bgh-hebt-urteile-auf/100263852.html",
-          "published": "2026-10-21T09:03:35+00:00",
-          "summary": "Vier Kläger halten den alten Schufa-Score für intransparent und nicht nachvollziehbar. Der jüngsten Einschätzung des OLG Dresden stellt sich der BGH nun entgegen."
+          "title": "Luftfahrt: Emirates fliegt vorerst nicht nach Berlin",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-emirates-fliegt-vorerst-nicht-nach-berlin/100263812.html",
+          "published": "2026-10-21T14:48:19+00:00",
+          "summary": "Die Fluggesellschaft aus Dubai wird die zusätzlichen Verkehrsrechte nicht nutzen. Es gibt wohl wohl Fragen, wie das Abkommen genau zu verstehen ist."
         },
         {
-          "title": "Beratung: M&A-Beratung Saxenhammer will Umsatz in fünf Jahren verdoppeln",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/beratung-ma-beratung-saxenhammer-will-umsatz-in-fuenf-jahren-verdoppeln/100262835.html",
-          "published": "2026-10-21T09:00:29+00:00",
-          "summary": "Saxenhammer zählt zu den Top zehn M&A-Boutiqueberatungen für den Mittelstand in Deutschland. Jetzt will das Unternehmen weiter expandieren, auch durch Zukäufe."
+          "title": "Online-Marktplatz: Ebay will mehr als 1000 Arbeitsplätze streichen",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/ebay-online-marktplatz-streicht-mehr-als-1000-arbeitsplaetze/100263993.html",
+          "published": "2026-10-21T14:45:38+00:00",
+          "summary": "Der US-Konzern verlagert mit dem Schritt seinen Schwerpunkt auf die wachstumsstarken Geschäftsbereiche. Dabei ist es nicht die erste Stellenstreichung dieser Größenordnung."
         },
         {
-          "title": "Frankreich: Zweite Nacht Ausgangssperre: Angespannte Ruhe in Paris",
-          "link": "https://www.handelsblatt.com/video/politik/frankreich-zweite-nacht-ausgangssperre-angespannte-ruhe-in-paris/100263858.html",
-          "published": "2026-10-21T08:55:30+00:00",
-          "summary": "Nach den Unruhen in Frankreich ist der Place de la République in der Nacht zu Mittwoch abgeriegelt geblieben. Polizeikräfte patrouillierten, ein Hubschrauber kreiste über Paris. Doch an der …"
+          "title": "Wall Street: Techwerte profitieren – Wall Street notiert uneinheitlich",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-uneinheitlich/100263972.html",
+          "published": "2026-10-21T14:43:17+00:00",
+          "summary": "Während Anleger bei Techwerten zugreifen, bleiben dennoch Risikofaktoren am Markt bestehen. Auch aus der derzeit gefragten Branche bleibt Unsicherheit."
         },
         {
-          "title": "Luftverkehr: Ryanair-Chef rechnet mit Rekordanstieg der Flugpreise in Europa",
-          "link": "https://www.handelsblatt.com/video/unternehmen/luftverkehr-ryanair-chef-rechnet-mit-rekordanstieg-der-flugpreise-in-europa/100263857.html",
-          "published": "2026-10-21T08:55:25+00:00",
-          "summary": "Laut Michael O'Leary könnten Flugtickets in Europa im Jahr 2027 um bis zu 20 Prozent teurer werden. Als Gründe nannte der Ryanair-Chef höhere Kerosinkosten und ein geringeres Sitzplatzangebot."
+          "title": "Mögliche Übernahme: Was Qiagen für Finanzinvestoren so attraktiv macht",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/qiagen-uebernahme-warum-eqt-und-kkr-um-den-dax-konzern-ringen/100263996.html",
+          "published": "2026-10-21T14:38:54+00:00",
+          "summary": "Der Investor EQT bietet offensichtlich für das Biotech-Unternehmen Qiagen, ein Konkurrent hält dagegen. Nach der Krise bietet das Laborgeschäft wieder Potenzial."
         },
         {
-          "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
-          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-diese-fachkraefte-haben-gute-chancen-in-der-ruestungsindustrie/100211178.html",
-          "published": "2026-10-21T08:51:00+00:00",
-          "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts."
+          "title": "Cyberkriminalität: Gravierende Sicherheitslücke bedroht weltweit Webseiten – Experte: „Wir sehen erste Angriffe“",
+          "link": "https://www.handelsblatt.com/technik/it-internet/php-webskriptsprache-gravierende-sicherheitsluecke-bedroht-weltweit-webseiten/100263968.html",
+          "published": "2026-10-21T14:38:24+00:00",
+          "summary": "Blogs, Shops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die Lücke ermöglicht die Übernahme ganzer Server. Städte und Behörden nehmen Dienste offline."
         }
       ],
       "error": null
@@ -86,7 +86,19 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Umweltschützer entsetzt : London genehmigt Gasprojekt in der Nordsee",
+          "title": "Mega-Fusion im Anmarsch: Musks Tech-Imperium für Erde und All rückt immer näher",
+          "link": "https://www.n-tv.de/wirtschaft/Musks-Tech-Imperium-fuer-Erde-und-All-rueckt-immer-naeher-id31442382.html",
+          "published": "2026-10-21T12:23:25+00:00",
+          "summary": "Aus zwei Tech-Giganten soll ein beispielloser Superkonzern entstehen: Die Fusion von Tesla und SpaceX würde autonome Mobilität, Raumfahrt und KI unter einem Dach bündeln. Elon Musks Vision nimmt …"
+        },
+        {
+          "title": "Putin kann Krieg finanzieren: Wirtschaftsexperten sehen Ukraine \"mit dem Rücken zur Wand\"",
+          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsexperten-sehen-Ukraine-mit-dem-Ruecken-zur-Wand-id31441660.html",
+          "published": "2026-10-21T09:37:13+00:00",
+          "summary": "Russland leidet unter Sanktionen und einer Treibstoffkrise - doch Putin kann den Krieg Experten zufolge weiter finanzieren. Gleichzeitig gerät die Ukraine immer stärker unter Druck. Dafür gibt es …"
+        },
+        {
+          "title": "Umweltschützer entsetzt: London genehmigt Gasprojekt in der Nordsee",
           "link": "https://www.n-tv.de/wirtschaft/London-genehmigt-Gasprojekt-in-der-Nordsee-id31441692.html",
           "published": "2026-10-21T09:01:21+00:00",
           "summary": "Im vergangenen Jahr erreichen Umweltschützer mit einer Klage, dass die Lizenzen für zwei Energieprojekte in der Nordsee aufgehoben werden. Nun erlaubt die britische Regierung Bohrungen vor der …"
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/US-Behoerde-erteilt-Boeing-Zulassung-fuer-groesste-737-Max-Variante-id31440869.html",
           "published": "2026-10-21T05:20:17+00:00",
           "summary": "Erst vor wenigen Wochen drohte ein neuer Software-Fehler bei Boeings 737 Max 10 die Pläne des Flugzeugbauers zu durchkreuzen. Doch jetzt ist der Weg frei für die Auslieferung. Der Modelltyp brachte …"
-        },
-        {
-          "title": "\"Finde, das ist eine gute Idee\": Musk bestätigt Fusionspläne für Tesla und SpaceX",
-          "link": "https://www.n-tv.de/wirtschaft/Musk-bestaetigt-Fusionsplaene-fuer-Tesla-und-SpaceX-id31440589.html",
-          "published": "2026-10-21T03:09:34+00:00",
-          "summary": "Spekulationen über einen Zusammenschluss von Tesla und SpaceX bekommen ein Fundament: Großaktionär und Konzern-Chef Musk lässt Ausschüsse für die Fusion einsetzen. Er selbst darf nicht teilnehmen …"
-        },
-        {
-          "title": "Aktivität der Nutzer lässt nach: Netflix wächst langsamer - Aktie fällt",
-          "link": "https://www.n-tv.de/wirtschaft/Netflix-waechst-langsamer-Aktie-faellt-id31440496.html",
-          "published": "2026-10-20T23:14:06+00:00",
-          "summary": "Noch ist Netflix der Platzhirsch beim Videostreaming - doch die Wachstumsdynamik schwächelt. Nach der Präsentation der Quartalszahlen geht die Aktie auf Tauchstation. Jetzt sollen neue Chefs die …"
         }
       ],
       "error": null
@@ -132,6 +132,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Gewinnprognose erhöht: Rekordgewinn für Adidas",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-adidas-100.html",
+          "published": "2026-10-21T12:31:29+00:00",
+          "summary": "Das hören Aktionäre und Investoren immer gerne: der Sportartikelkonzern Adidas erhöht nach einem Rekordquartal die Prognose. Im DAX gehört die Aktie zu den größten Gewinnern."
+        },
         {
           "title": "Marktbericht: DAX startet kaum verändert",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
           "published": "2026-10-16T14:25:09+00:00",
           "summary": "Nach der Zustimmung der EZB-Aufseher steht einer Mehrheitsübernahme der Commerzbank durch die italienische Großbank UniCredit fast nichts mehr im Weg. Was sind die nächsten Schritte - und die Folgen? …"
-        },
-        {
-          "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
-          "published": "2026-10-16T12:17:39+00:00",
-          "summary": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Löhne bei VW und Co.: Den Gehaltsbonus der Autobauer gibt es noch – er schrumpft aber stetig",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-und-co.-den-gehaltsbonus-gibt-es-noch-er-schrumpft-aber-stetig/100263494.html",
-          "published": "2026-10-21T08:59:00+00:00",
-          "summary": "Volkswagen will weniger für die Gehälter seiner Beschäftigten zahlen. Trotz inzwischen mehrjähriger Krise sind die Unterschiede zu anderen Branchen noch immer groß."
+          "title": "Mögliche Übernahme: Was Qiagen für Finanzinvestoren so attraktiv macht",
+          "link": "https://www.wiwo.de/unternehmen/industrie/qiagen-uebernahme-warum-eqt-und-kkr-um-den-dax-konzern-ringen/100263847.html",
+          "published": "2026-10-21T13:55:38+00:00",
+          "summary": "Der Investor EQT bietet offensichtlich für das Biotech-Unternehmen Qiagen, ein Konkurrent hält dagegen. Nach der Krise bietet das Laborgeschäft wieder Potenzial."
         },
         {
-          "title": "Invest in Germany: Danke, Donald, für die Investitionsförderung in Deutschland!",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/investitionsgipfel-berlin-warum-donald-trump-deutschland-hilft/100263610.html",
-          "published": "2026-10-21T08:50:00+00:00",
-          "summary": "Beim Investitionsgipfel in Berlin sammelt die Bundesregierung Milliarden ein – und Donald Trump unterstützt dabei tatkräftig. Ein Kommentar."
+          "title": "Mercedes-Benz: So viel Abfindung zahlt Mercedes in der neuen Runde",
+          "link": "https://www.wiwo.de/unternehmen/auto/mercedes-abfindung-so-viel-geld-zahlt-der-konzern-ab-dezember/100263930.html",
+          "published": "2026-10-21T13:43:25+00:00",
+          "summary": "Das Abfindungsprogramm von Mercedes geht in die heiße Phase. Der Autobauer hat seine Betriebsräte über die geplanten Konditionen informiert. So viel Geld gibt es ab Dezember."
         },
         {
-          "title": "Gehaltsrechner: Gehören Sie zur Mittelschicht – oder sind Sie schon reich?",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/einkommensrechner-2026-gehoeren-sie-zur-mittelschichtoder-sind-sie-reich/100262863.html",
-          "published": "2026-10-21T08:46:00+00:00",
-          "summary": "Arm, reich oder Mittelschicht: Wo stehen Sie mit Ihrem Einkommen? Mit unserem Gehaltsrechner finden Sie es heraus."
+          "title": "Baufinanzierung: Wie die hohen Bauzinsen den Immobilienmarkt belasten",
+          "link": "https://www.wiwo.de/finanzen/immobilien/bauzinsen-steigen-was-das-fuer-die-immobilienpreise-bedeutet/100263841.html",
+          "published": "2026-10-21T13:12:54+00:00",
+          "summary": "Die Zinsen für Baukredite sind so hoch wie zuletzt 2009. Das wird auch Folgen für die Immobilienmärkte haben. Eine Objekt-Gattung trifft es besonders hart."
         },
         {
-          "title": "McDonald’s: McRib fliegt aus dem Sortiment – die Geschichte eines deutschen Sonderfalls",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/mcrib-bei-mcdonalds-das-aus-des-burgers-und-die-geschichte-eines-deutschen-sonderfalls/100262416.html",
-          "published": "2026-10-21T08:42:00+00:00",
-          "summary": "Auf den Speisekarten von Deutschlands McDonald’s-Filialen behauptete sich der McRib seit Kanzler Kohls Zeiten. Eine Rückkehr ist nicht ganz ausgeschlossen."
+          "title": "PHP-Webskriptsprache: Gravierende Sicherheitslücke bedroht weltweit Webseiten",
+          "link": "https://www.wiwo.de/unternehmen/it/kritische-php-sicherheitsluecke-gefahr-fuer-server-und-webseiten/100263975.html",
+          "published": "2026-10-21T12:50:07+00:00",
+          "summary": "Blogs, Onlineshops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?"
         },
         {
-          "title": "Gegen Starlink: Vier Konzerne wollen Musk beim Satellitenfunk Konkurrenz machen",
-          "link": "https://www.wiwo.de/politik/europa/eu-will-elon-musks-starlink-bremsen-streit-um-satellitenfrequenzen/100263263.html",
-          "published": "2026-10-21T08:40:00+00:00",
-          "summary": "Brüssel will die Dominanz des US-Giganten Starlink von Elon Musk eindämmen. Bei den Satellitenverbindungen sollen mehr europäische Anbieter berücksichtigt werden."
+          "title": "BörsenTag: Mögliche Fusion von SpaceX und Tesla – Macht für Musk, Risiken für Anleger",
+          "link": "https://www.wiwo.de/finanzen/boerse/tesla-und-spacex-was-die-mega-fusion-fuer-aktionaere-bedeutet/100263835.html",
+          "published": "2026-10-21T12:36:00+00:00",
+          "summary": "Elon Musk könnte mit der Fusion von SpaceX und Tesla einen der wertvollsten Konzerne der Welt erschaffen. Für Aktionäre würde das teuer."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Kernfusion unter Kontrolle? Neuer KI-Chip besteht ersten Datentest",
-          "link": "https://www.ingenieur.de/kernfusion-unter-kontrolle-neuer-ki-chip-besteht-ersten-datentest-350f74ef-4f92-411f-86a6-147d5d4d1a3a/",
-          "published": "2026-10-21T07:00:00+00:00",
-          "summary": "Ein neuronales Netz direkt im Chip: US-Forschende testen supraleitende Hardware mit Daten einer Fusionsanlage. So funktioniert der Ansatz."
+          "title": "Gleiches Erdbeben, andere Schäden: Welche Rolle der Untergrund spielt",
+          "link": "https://www.ingenieur.de/gleiches-erdbeben-andere-schaeden-welche-rolle-der-untergrund-spielt-263032e6-2d9a-4a36-8529-454e521fa7e1/",
+          "published": "2026-10-21T13:30:00+00:00",
+          "summary": "Warum kippen Häuser bei Erdbeben? Wie weiche Böden Schwingungen verstärken, Sand seine Festigkeit verliert und Ingenieure Gebäude schützen können."
         },
         {
-          "title": "Neue Kollegen verdienen mehr als erfahrene Mitarbeiter: Wie Gehaltskompression entsteht",
-          "link": "https://www.ingenieur.de/neue-kollegen-verdienen-mehr-als-erfahrene-mitarbeiter-wie-gehaltskompression-entsteht-213abb75-2923-46b2-8cf1-4178c8c2ea97/",
-          "published": "2026-10-21T06:00:00+00:00",
-          "summary": "Jahrelange Erfahrung, fundiertes Produktwissen, Verantwortung im Team – und trotzdem verdient der neue Kollege kaum weniger oder sogar mehr. Wenn Unternehmen beim Recruiting höhere Gehälter zahlen …"
+          "title": "Zink-Ionen statt Lithium: Was der Wasserbatterie zum Durchbruch fehlt",
+          "link": "https://www.ingenieur.de/zink-ionen-statt-lithium-was-der-wasserbatterie-zum-durchbruch-fehlt-896fd798-b4a0-4162-bb73-15ccb37c5b34/",
+          "published": "2026-10-21T13:00:00+00:00",
+          "summary": "Zink-Ionen-Batterien gelten als besonders brandsicher und kommen ohne Lithium aus. Doch den Sprung in den Markt haben sie noch nicht geschafft. Wie die Zellen funktionieren, wo sie stehen und wann …"
         },
         {
-          "title": "Hausbau mit Kunststoffsteinen: Wie klimafreundlich kann das sein?",
-          "link": "https://www.ingenieur.de/haeuser-aus-kunststoff-statt-beton-wie-klimafreundlich-sind-die-neuen-bausteine-16f40e53-082b-47b2-8d7d-a8facb7d90e9/",
-          "published": "2026-10-21T05:22:53+00:00",
-          "summary": "Eine US-Firma baut Häuser aus Kunststoff-Verbundsteinen. Eine Studie zeigt CO₂-Vorteile gegenüber Stahlbeton, doch bei anderen Vergleichen sieht es anders aus."
+          "title": "3I/ATLAS: Wie viel vom interstellaren Kometen ist verschwunden?",
+          "link": "https://www.ingenieur.de/3i-atlas-wie-viel-vom-interstellaren-kometen-ist-verschwunden-a263e43a-340f-41f2-bae9-bf32d6696e71/",
+          "published": "2026-10-21T12:30:00+00:00",
+          "summary": "Die Sonne hat Spuren an 3I/ATLAS hinterlassen. Eine neue Studie berechnet, wie viel Substanz der interstellare Komet verloren hat."
         },
         {
-          "title": "220.000 t Sprit aus Speiseöl: Hamburgs Wasserstoffnetz bekommt seinen größten Abnehmer",
-          "link": "https://www.ingenieur.de/220-000-t-sprit-aus-speiseol-hamburgs-wasserstoffnetz-bekommt-seinen-grossten-abnehmer-3c54cdff-b262-4172-a889-3bf6fd2703b3/",
-          "published": "2026-10-20T14:03:15+00:00",
-          "summary": "Hamburgs Wasserstoffnetz HH-WIN hat einen neuen Großabnehmer: Die Raffinerie in Harburg will mit dem Gas Diesel und Flugkraftstoff aus gebrauchtem Speiseöl herstellen. Der Vertrag wurde auf der …"
+          "title": "Wie Meggle Molke-Reste für Energie und Rohstoffe nutzen will",
+          "link": "https://www.ingenieur.de/wie-meggle-molke-reste-fur-energie-und-rohstoffe-nutzen-will-7ba40c4f-b49c-4772-8400-92504e3917d9/",
+          "published": "2026-10-21T12:00:00+00:00",
+          "summary": "Eine Biogasanlage, die ein Nebenprodukt der Molke-Verarbeitung energetisch nutzen und Calciumphosphat zurückgewinnen soll, plant Meggle. Der Bund fördert das Demonstrationsprojekt mit 7,5 Mio. €."
         },
         {
-          "title": "Einfache Inbetriebnahme: Plug-and-Play im Schaltschrankbau",
-          "link": "https://www.ingenieur.de/einfache-inbetriebnahme-plug-and-play-im-schaltschrankbau-41a6d14b-7b8f-43d6-bccf-59698ad451d3/",
-          "published": "2026-10-20T13:00:00+00:00",
-          "summary": "Damit Plug-and-Play funktioniert, müssen Maschinenbauer und Schaltschrankbauer schon beim Engineering eng zusammenarbeiten."
+          "title": "GTC in Berlin: Deutscher Roboterhersteller steht bei Nvidia im Fokus",
+          "link": "https://www.ingenieur.de/gtc-in-berlin-deutscher-roboterhersteller-steht-bei-nvidia-im-fokus-8f4debc7-8c5b-4c8f-8093-a18d45b0ea73/",
+          "published": "2026-10-21T11:30:00+00:00",
+          "summary": "Auf der KI-Konferenz GTC in Berlin erhält Agile Robots aus München besondere Aufmeksamkeit. Nvidia erprobt neue Roboter-Technologien mit dem Unternehmen. Ein Blick hinter die Kulissen."
         }
       ],
       "error": null
