@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:00:24+00:00",
+  "generatedAt": "2026-10-22T03:13:35+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1670460.html",
+          "published": "2026-10-22T03:03:26+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
+          "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
+          "published": "2026-10-22T00:05:26+00:00",
+          "summary": "Mehrere Raketenangriffe haben in der Nacht erneut Kiew erschüttert. Bürgermeister Klitschko sprach von mindestens sechs Verletzten."
+        },
         {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-81642.html",
@@ -24,18 +36,6 @@
           "link": "https://www.sportschau.de/fussball/championsleague/am-ende-deutlich-leipzig-unterliegt-real-madrid,spielbericht-real-madrid-rb-leipzig-100.html",
           "published": "2026-10-21T21:36:49+00:00",
           "summary": "RB Leipzig hat es den Königlichen lange schwer gemacht, kann nach der Halbzeit aber nicht mehr genug gegenhalten - und muss sich Real Madrid mit 1:4 schließlich doch deutlich geschlagen geben."
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12928.html",
-          "published": "2026-10-21T21:35:48+00:00",
-          "summary": ""
-        },
-        {
-          "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-          "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-          "published": "2026-10-21T21:02:37+00:00",
-          "summary": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert. Antworten auf die …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Digitalpolitik: EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
-          "link": "https://www.handelsblatt.com/technik/it-internet/digitalpolitik-eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet/100264047.html",
-          "published": "2026-10-21T22:01:04+00:00",
-          "summary": "Annehmen, Ablehnen oder irgendwas dazwischen: Cookie-Abfragen sind zur dauerhaften Begleiterscheinung beim Surfen geworden. Eine Idee aus Brüssel soll das ändern - hat es aber schwer."
+          "title": "Elektroautos: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern",
+          "link": "https://www.handelsblatt.com/technik/it-internet/elektroautos-musk-schwaermt-nach-tesla-gewinneinbruch-von-robotern/100264080.html",
+          "published": "2026-10-22T03:01:16+00:00",
+          "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge."
         },
         {
-          "title": "Künstliche Intelligenz: Meta investiert mindestens 135 Milliarden Dollar in KI",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-meta-investiert-mindestens-135-milliarden-dollar-in-ki/100264044.html",
-          "published": "2026-10-21T21:20:03+00:00",
-          "summary": "Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern."
+          "title": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz",
+          "link": "https://www.handelsblatt.com/technik/it-internet/elektroautos-tesla-mit-gewinneinbruch-und-stagnierendem-umsatz/100264040.html",
+          "published": "2026-10-22T02:49:25+00:00",
+          "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge."
         },
         {
-          "title": "Quartalszahlen: Meta investiert mindestens 135 Milliarden Dollar in KI",
-          "link": "https://www.handelsblatt.com/technik/it-internet/quartalszahlen-meta-investiert-mindestens-135-milliarden-dollar-in-ki/100262901.html",
-          "published": "2026-10-21T21:06:32+00:00",
-          "summary": "Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern."
+          "title": "Proteste gegen US-Präsidenten: „Großartig“: Trump bejubelt Prügel für Wahlkampf-Störer",
+          "link": "https://www.handelsblatt.com/politik/international/proteste-gegen-us-praesidenten-grossartig-trump-bejubelt-pruegel-fuer-wahlkampf-stoerer/100264075.html",
+          "published": "2026-10-22T02:45:02+00:00",
+          "summary": "Erneut werden bei einer Rede Donald Trumps etliche Störer abgeführt. Doch diesmal kommt es auch zu Übergriffen. Der Präsident fragt anerkennend: „Wer ist der Typ, der diesen Schlag gelandet hat?“"
         },
         {
-          "title": "Software: SAP steigert Umsatz und Gewinn – Aktie nachbörslich im Plus",
-          "link": "https://www.handelsblatt.com/technik/it-internet/software-sap-steigert-umsatz-und-gewinn-aktie-nachboerslich-im-plus/100262108.html",
-          "published": "2026-10-21T21:02:42+00:00",
-          "summary": "Dank einer robusten Nachfrage hat sich das Wachstum des wichtigen Cloudgeschäfts im dritten Quartal wieder etwas beschleunigt. So gab der Softwarekonzern einen optimistischeren Ausblick."
+          "title": "PHP-Sicherheitslücke: Experte: Ungeschützte Webseiten abschalten",
+          "link": "https://www.handelsblatt.com/technik/it-internet/php-sicherheitsluecke-experte-ungeschuetzte-webseiten-abschalten/100264073.html",
+          "published": "2026-10-22T02:30:07+00:00",
+          "summary": "Eine PHP-Schwachstelle kann Angreifern im Web die vollständige Kontrolle über Server geben. IT-Experten fordern Betreiber zu einem drastischen Schritt auf."
         },
         {
-          "title": "Elon Musk: Tesla-Umsatz leicht über Erwartungen – Aktie legt zu",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/elon-musk-tesla-umsatz-leicht-ueber-erwartungen-aktie-legt-zu/100262900.html",
-          "published": "2026-10-21T20:41:41+00:00",
-          "summary": "Der E-Autobauer hat rund 25.000 mehr Fahrzeuge ausgeliefert, als erwartet. Auch beim Umsatz stimmt der E-Autobauer seine Investoren positiv."
+          "title": "Handelspolitik: Kann man es mit dem Schutz vor China übertreiben? Wie neue Stahlzölle die Industrie spalten",
+          "link": "https://www.handelsblatt.com/politik/deutschland/handelspolitik-wie-neue-stahlzoelle-die-industrie-spalten/100263347.html",
+          "published": "2026-10-22T02:09:27+00:00",
+          "summary": "Kanzler Merz hat eine Kehrtwende in der deutschen China-Politik hingelegt. Doch ein wichtiges Produkt aus Deutschland zeigt, wie kompliziert die neue Härte ist: Elektrostahl aus Gelsenkirchen."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Trotz Gewinneinbruch: Tesla enttäuscht die Wall Street nicht",
+          "link": "https://www.n-tv.de/wirtschaft/Tesla-enttaeuscht-die-Wall-Street-nicht-id31444576.html",
+          "published": "2026-10-21T23:10:09+00:00",
+          "summary": "Tesla-Chef Musk will den Konzern auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden. Da gab es zuletzt zwar Rückgänge, die Wall …"
+        },
         {
           "title": "Konzern investiert kräftig in KI: Metas Gewinn bricht nach teurem Vergleich ein",
           "link": "https://www.n-tv.de/wirtschaft/Metas-Gewinn-bricht-nach-teurem-Vergleich-ein-id31444554.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/GCP-Deal-zeigt-Schieflage-des-Wohnungsmarkts-id31443877.html",
           "published": "2026-10-21T17:29:35+00:00",
           "summary": "Der Deal überrascht die Börse am Morgen: Die luxemburgische GCP wird Hauptaktionär bei einem großen deutschen Wohnkonzern. Die Kurse der beteiligten Unternehmen profitieren im Tagesverlauf, von …"
-        },
-        {
-          "title": "Kritik aus Bayern: \"Deutschlandticket light\" kommt erst mal nicht",
-          "link": "https://www.n-tv.de/wirtschaft/Deutschlandticket-light-kommt-erst-mal-nicht-id31443667.html",
-          "published": "2026-10-21T16:22:06+00:00",
-          "summary": "Hamburg und NRW haben eine Idee: Gelegenheitsfahrer sollen genauso unkompliziert mit Bus und Bahn unterwegs sein können wie Vielfahrer. Der Vorschlag ist eine Abwandlung des Deutschlandtickets. Doch …"
         }
       ],
       "error": null
