@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:08:33+00:00",
+  "generatedAt": "2026-10-22T14:51:19+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html",
-          "published": "2026-10-22T08:56:23+00:00",
-          "summary": "Die gegenseitigen Angriffe gehen ungeachtet der US-Vermittlungsbemühungen weiter: Russland griff in der Nacht erneut die ukrainische Hauptstadt Kiew an, aus Moskau wurden Drohnenangriffe gemeldet."
-        },
-        {
-          "title": "Kanada gehen die Ahornsirup-Reserven aus",
-          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-ahornsirup-exporte-usa-deutschland-100.html",
-          "published": "2026-10-22T08:52:53+00:00",
-          "summary": "Kanada hat eine strategische Ahornsirup-Reserve - und die geht zur Neige. Bis Ende Februar kommenden Jahres dürfte sie komplett leer sein. Im vergangenen Jahr hatte es Hamsterkäufe von Importeuren …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1670546.html",
-          "published": "2026-10-22T08:48:18+00:00",
-          "summary": ""
-        },
-        {
           "title": "Landtag Sachsen-Anhalt: CDU-Politiker will bei Siegmund-Wahl im Saal bleiben",
-          "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-wahl-afd-ministerpraesident,heuer-cdu-100.html",
-          "published": "2026-10-22T08:41:09+00:00",
+          "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-afd-ministerpraesidentenwahl-heuer,heuer-cdu-100.html",
+          "published": "2026-10-22T14:48:56+00:00",
           "summary": "Die CDU-Fraktion in Sachsen-Anhalt hatte angekündigt, den Plenarsaal zu verlassen, wenn AfD-Politiker Siegmund zur Ministerpräsidentenwahl antritt. Nun stellt sich der CDU-Abgeordnete Heuer gegen …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-22T08:40:27+00:00",
-          "summary": "Am Donnerstag gibt es bei wechselnder Bewölkung vom Westen und Norden bis in die Mitte Schauer. In der Südosthälfte bleibt es dagegen trocken und zum Teil ist es sonnig. Es ist windig bei 7 bis 17 …"
+          "title": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr?",
+          "link": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
+          "published": "2026-10-22T14:35:15+00:00",
+          "summary": "Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des …"
+        },
+        {
+          "title": "EU-Parlament diskutiert Lockerung des Verbrenner-Aus",
+          "link": "https://www.tagesschau.de/video/video-1670714.html",
+          "published": "2026-10-22T14:17:31+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
+          "published": "2026-10-22T14:11:16+00:00",
+          "summary": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt."
+        },
+        {
+          "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
+          "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
+          "published": "2026-10-22T13:41:31+00:00",
+          "summary": "Experten warnen vor einer schwerwiegenden Sicherheitslücke bei Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Was bedeutet das für Internetnutzer? Wie gravierend sind die …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Künstliche Intelligenz: Chinesisches KI-Start-up Deepseek sammelt wohl 15 Milliarden Dollar ein",
-          "link": "https://www.handelsblatt.com/technik/it-internet/deepseek-chinesisches-ki-start-up-sammelt-wohl-15-milliarden-dollar-ein/100264160.html",
-          "published": "2026-10-22T08:44:23+00:00",
-          "summary": "Es beteiligten sich offenbar mehr als 15 Investoren – darunter Batteriehersteller CATL und WeChat-Betreiber Tencent. Die Finanzierungsrunde gilt als Signal für einen möglichen Börsengang."
+          "title": "Software: Wie viel Geld verdient SAP mit Künstlicher Intelligenz, Herr Klein?",
+          "link": "https://www.handelsblatt.com/technik/it-internet/software-wie-viel-verdient-sap-mit-kuenstlicher-intelligenz-herr-klein/100262119.html",
+          "published": "2026-10-22T14:50:12+00:00",
+          "summary": "Viele Prototypen, wenig Umsatz: SAP hat das Portfolio auf KI ausgerichtet – aber in der Bilanz ist davon wenig zu sehen. Vorstandschef Christian Klein stellt mehr Transparenz in Aussicht."
         },
         {
-          "title": "AWS-Manager Wood: „Wir haben Vorbestellungen in Höhe von 225 Milliarden Dollar“",
-          "link": "https://www.handelsblatt.com/technik/medizin/background-digitalisierung-und-ki/aws-manager-wood-wir-haben-vorbestellungen-in-hoehe-von-225-milliarden-dollar/100263956.html",
-          "published": "2026-10-22T08:42:54+00:00",
-          "summary": "Amazon setzt neben Nvidia auf eigene KI-Chips und macht damit inzwischen hohe Umsätze. Im Interview erklärt AWS Chief AI & Technology Officer Matt Wood, warum ihm KI-Sicherheit keine Sorgen macht."
+          "title": "Mobilität: „Neue Fahrzeugklasse“: Novus will Autofahrer für seine Lightbikes begeistern",
+          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mobilitaet-wie-lightbike-hersteller-novus-autofahrer-ueberzeugen-will-01/100261783.html",
+          "published": "2026-10-22T14:50:00+00:00",
+          "summary": "Das Start-up gewinnt namhafte Investoren. Die Entwicklung des Elektrozweirads dauerte länger als geplant – doch jetzt haben die Macher ehrgeizige Pläne."
         },
         {
-          "title": "Interview: „Privatjets und Superjachten gehören in einer Energiekrise verboten“",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/oekonomin-verlustaengste-haben-auch-wirtschaftliche-gruende/100260658.html",
-          "published": "2026-10-22T08:35:00+00:00",
-          "summary": "Die Ökonomin Isabella Weber fordert eine Margenbeschränkung für lebenswichtige Güter, staatliche Pufferlager – und sagt, Wirtschaftspolitik entscheide über den Aufstieg der extremen Rechten."
+          "title": "+++ Ukraine-Krieg +++: Russland setzt offenbar ballistische Raketen mit Streumunition gegen Ukraine ein",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-setzt-offenbar-streumunition-gegen-ukraine-ein/27982126.html",
+          "published": "2026-10-22T14:49:00+00:00",
+          "summary": "Mutmaßlicher Russland-Spion in Brandenburg gefasst +++ Selenskyj wäre mit Status quo an Frontlinie einverstanden +++ Russland meldet erneut schwere Angriffe auf Odessa +++ Der Newsblog."
         },
         {
-          "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
-          "link": "https://www.handelsblatt.com/finanzen/friendflation-was-tun-wenn-freunde-unterschiedlich-viel-geld-haben/100154689.html",
-          "published": "2026-10-22T08:35:00+00:00",
-          "summary": "Wer gute Freunde hat, kommt leichter durchs Leben, hat eine bessere Beziehung und verringert sein Sterberisiko. Nur was, wenn die Freundschaft am Geld scheitert?"
+          "title": "Immobilien: Hohe Zinsen bremsen den Immobilienmarkt: Wo Verkäufer besonders lange auf Käufer warten",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-diesen-staedten-finden-eigentuemer-am-schnellsten-einen-kaeufer-01/100260831.html",
+          "published": "2026-10-22T14:46:00+00:00",
+          "summary": "Die hohen Preise zeigen Wirkung: Eine exklusive Auswertung zeigt starke Unterschiede bei der Vermarktungsdauer von Wohnanzeigen. In welchen Städten es für Verkäufer nun am schnellsten geht."
         },
         {
-          "title": "USA: Gesetze, Klagen, Steuervorteil – so streitet Amerika über Trinkgeld",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/gastronomie-es-sollte-den-kunden-ueberlassen-sein-ob-sie-trinkgeld-geben-wollen/100261411.html",
-          "published": "2026-10-22T08:34:00+00:00",
-          "summary": "Roboter-Barista erbitten Trinkgeld, New York zwingt Liefer-Apps zur Abfrage. Der freiwillige Dank wird in Amerika zur Machtfrage und beschäftigt Gerichte – mit Signalwirkung für Deutschland."
+          "title": "Immobilien: Das sind die zehn deutschen Städte mit den höchsten Wohnungspreisen und Mieten",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-sind-die-preise-fuer-wohnraum-am-staerksten-gestiegen-01/100170988.html",
+          "published": "2026-10-22T14:44:00+00:00",
+          "summary": "Bestandswohnungen haben sich im dritten Quartal stärker verteuert als Neubauten. Exklusive Daten der 400 deutschen Kreise zeigen, wo Wohnraum teurer und wo er günstiger geworden ist."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Börse dennoch sehr zufrieden: Tesla bricht der Gewinn drastisch ein",
-          "link": "https://www.n-tv.de/wirtschaft/Tesla-bricht-der-Gewinn-drastisch-ein-id31444576.html",
-          "published": "2026-10-22T05:35:00+00:00",
-          "summary": "Tesla-Chef Musk will den Konzern auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden. Da gab es zuletzt zwar Rückgänge, die Wall …"
+          "title": "Angriffe von Huthi-Miliz: Ölkonzern Saudi Aramco evakuiert Zentrale",
+          "link": "https://www.n-tv.de/wirtschaft/Oelkonzern-Saudi-Aramco-evakuiert-Zentrale-id31447921.html",
+          "published": "2026-10-22T14:29:26+00:00",
+          "summary": "Der Iran-Krieg lässt den Konflikt zwischen Saudi-Arabien und der jemenitischen Huthi-Miliz erneut aufflammen. Nun räumt der weltweit größte Ölkonzern aus Saudi-Arabien Berichten zufolge seine …"
         },
         {
-          "title": "Konzern investiert kräftig in KI: Metas Gewinn bricht nach teurem Vergleich ein",
-          "link": "https://www.n-tv.de/wirtschaft/Metas-Gewinn-bricht-nach-teurem-Vergleich-ein-id31444554.html",
-          "published": "2026-10-21T21:59:16+00:00",
-          "summary": "Wenige Stunden nachdem ein Gericht eine Milliardenstrafe gegen Meta verhängt, legt der Facebook-Konzern seine Quartalszahlen offen. Die sehen überraschend gut aus, allerdings nur, was den Umsatz …"
+          "title": "11.200 Euro pro Quadratmeter : Eine Neubauwohnung in München ist teurer als in Paris",
+          "link": "https://www.n-tv.de/wirtschaft/Eine-Neubauwohnung-in-Muenchen-ist-teurer-als-in-Paris-id31447177.html",
+          "published": "2026-10-22T13:43:20+00:00",
+          "summary": "Deutschland dominiert laut einer neuen Auswertung die Top Ten der Städte mit den teuersten Neubauten in Europa. London? Paris? Fehlanzeige."
         },
         {
-          "title": "Chipwerte legen zu: Wall Street reagiert erleichtert auf SpaceX-Zahlen",
-          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-reagiert-erleichtert-auf-SpaceX-Zahlen-id31444535.html",
-          "published": "2026-10-21T21:08:14+00:00",
-          "summary": "Überzeugende Zahlen, unter anderem von SpaceX, lassen die Zweifel an der Rentabilität des KI-Geschäfts in den Hintergrund treten. Es geht wieder aufwärts an den US-Börsen, vor allem Tech-Werte sind …"
+          "title": "62.500 Beschäftigte betroffen: Bosch stellt sich neu auf - zentrale Bereiche werden ausgegliedert",
+          "link": "https://www.n-tv.de/wirtschaft/Bosch-stellt-sich-neu-auf-zentrale-Bereiche-werden-ausgegliedert-id31447267.html",
+          "published": "2026-10-22T13:42:23+00:00",
+          "summary": "Der Technologiekonzern Bosch will schneller und flexibler werden, um besser mit der Konkurrenz aus Asien mithalten zu können. Dazu ordnet das Unternehmen seine Struktur neu. Außer Zentrale und …"
         },
         {
-          "title": "Cambridge-Analytica-Skandal: Facebook-Mutter Meta zu 25 Milliarden Dollar Strafe verurteilt",
-          "link": "https://www.n-tv.de/wirtschaft/Facebook-Mutter-Meta-zu-25-Milliarden-Dollar-Strafe-verurteilt-id31444308.html",
-          "published": "2026-10-21T17:52:01+00:00",
-          "summary": "Die Firma Cambridge Analytica erlangt 2018 weltweite Bekanntheit durch den Missbrauch der Daten von Millionen Facebook-Nutzern. Nun fällt ein Urteil, das den Mutterkonzern des sozialen Netzwerks hart …"
+          "title": "Milliarden-Vorrat versiegt: Irans Schattenflotte sitzt auf dem Trockenen",
+          "link": "https://www.n-tv.de/wirtschaft/Irans-Schattenflotte-sitzt-auf-dem-Trockenen-id31447057.html",
+          "published": "2026-10-22T12:55:08+00:00",
+          "summary": "Lange umging der Iran die US-Sanktionen mit einer geheimen Flotte. Nun sind die schwimmenden Ölreserven auf See komplett erschöpft. Für das Regime in Teheran bricht damit eine wichtige Einnahmequelle …"
         },
         {
-          "title": "Lieber Bestand als Baustelle?: GCP-Deal zeigt Schieflage des Wohnungsmarkts",
-          "link": "https://www.n-tv.de/wirtschaft/GCP-Deal-zeigt-Schieflage-des-Wohnungsmarkts-id31443877.html",
-          "published": "2026-10-21T17:29:35+00:00",
-          "summary": "Der Deal überrascht die Börse am Morgen: Die luxemburgische GCP wird Hauptaktionär bei einem großen deutschen Wohnkonzern. Die Kurse der beteiligten Unternehmen profitieren im Tagesverlauf, von …"
+          "title": "Umsteigen adé: Berlin - Paris: ICE-Direktverbindung kommt bis Dezember zurück",
+          "link": "https://www.n-tv.de/wirtschaft/Nonstop-von-Berlin-nach-Paris-Deutsche-Bahn-plant-ICE-Comeback-id31446738.html",
+          "published": "2026-10-22T12:30:39+00:00",
+          "summary": "Seit mehr als zwei Monaten ist die beliebte Bahnstrecke Berlin - Paris unterbrochen. Grund sind technische Probleme. Fahrgäste, die von Hauptstadt zu Hauptstadt wollen, müssen bislang in Frankfurt …"
         }
       ],
       "error": null
@@ -132,6 +132,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Marktbericht: SAP-Umbau trägt Früchte",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
+          "published": "2026-10-22T12:10:58+00:00",
+          "summary": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das."
+        },
         {
           "title": "Marktbericht: Anleger zweifeln an KI-Rally",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
           "published": "2026-10-19T12:05:00+00:00",
           "summary": "Die Gewalteskalation in Frankreich lastet auch auf den Finanzmärkten. Sie lässt die Sorge um die französischen Staatsfinanzen wieder aufleben. Der Euro fiel zeitweise wieder unter 1,12 Dollar zurück."
-        },
-        {
-          "title": "Wie es mit der Commerzbank nun weitergeht",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
-          "published": "2026-10-16T14:25:09+00:00",
-          "summary": "Nach der Zustimmung der EZB-Aufseher steht einer Mehrheitsübernahme der Commerzbank durch die italienische Großbank UniCredit fast nichts mehr im Weg. Was sind die nächsten Schritte - und die Folgen? …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Sozialdemokratie: Kommt die SPD aus dem roten Bereich?",
-          "link": "https://www.wiwo.de/politik/deutschland/fuehrungskrise-der-spd-steht-lars-klingbeil-vor-der-abloesung/100263657.html",
-          "published": "2026-10-22T08:23:14+00:00",
-          "summary": "Eine historisch schwache SPD sucht Führung, Profil, Orientierung. Und sehnt sich – ja, wonach eigentlich?"
+          "title": "Krankenversicherung: Was Sie beim Tarifwechsel in der PKV beachten sollten",
+          "link": "https://www.wiwo.de/finanzen/vorsorge/pkv-wechsel-zu-unisex-was-wird-aus-den-alterungsrueckstellungen/100262514.html",
+          "published": "2026-10-22T14:28:00+00:00",
+          "summary": "Der Leser ist in der PKV versichert und will in einen Unisex-Tarif wechseln. Er fragt, ob er Alterungsrückstellungen und leistungsfreie Jahre mitnehmen kann."
         },
         {
-          "title": "Programmiersprache: Was die PHP-Sicherheitslücke für das Internet bedeutet",
-          "link": "https://www.wiwo.de/unternehmen/it/php-sicherheitsluecke-php2shell-millionen-hacker-versuche-viele-webseiten-offline/100263975.html",
-          "published": "2026-10-22T08:03:00+00:00",
-          "summary": "Notfall-Updates sind verfügbar, doch weltweit suchen Angreifer weiter nach ungeschützten Servern. Wann kann bei der PHP-Sicherheitslücke Entwarnung gegeben werden?"
+          "title": "Streik der Piloten: Schlichtung bei Lufthansa ohne Einigung beendet",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/lufthansa-schlichtung-endet-ohne-einigung-vorerst-keine-weiteren-streiks/100264312.html",
+          "published": "2026-10-22T14:12:48+00:00",
+          "summary": "Die Schlichtung zwischen Lufthansa und ihren Piloten ist gescheitert – doch erneute Streiks drohen vorerst nicht. Hinter verschlossenen Türen läuft ein zweiter Versuch zu einer umfassenden Einigung."
         },
         {
-          "title": "Ölpreis aktuell: Ölpreise steigen deutlich nach Angriff auf Ölfeld in Saudi Arabien",
-          "link": "https://www.wiwo.de/finanzen/oelpreis-aktuell-angriff-auf-oelfeld-in-saudi-arabien-oelpreis-ueber-112-dollar/100207502.html",
-          "published": "2026-10-22T07:59:00+00:00",
-          "summary": "Der Angriff auf ein Ölfeld in Saudi-Arabien schürt am Markt die Sorge vor einer Verknappung des Ölangebots. Die Ölpreise legen in der Folge weiter zu."
+          "title": "Investmentcheck: Drei Prozent bis Ende 2027 – das kann das MehrZins-Konto der Bayerischen",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/mehrzins-konto-der-bayerischen-im-check-darauf-sollten-sparer-achten/100264122.html",
+          "published": "2026-10-22T14:04:44+00:00",
+          "summary": "Der Münchener Versicherer bietet attraktive Konditionen für Sparer mit mittlerem Zeithorizont. Interessenten sollten einige Punkte beachten."
         },
         {
-          "title": "Energiekrise: Angriff auf Ölfeld in Saudi-Arabien – Ölpreise steigen deutlich",
-          "link": "https://www.wiwo.de/unternehmen/energie/naher-osten-oelpreise-steigen-nach-angriff-auf-oelfeld-in-saudi-arabien/100264140.html",
-          "published": "2026-10-22T07:44:37+00:00",
-          "summary": "Angriffe auf die Ölförderung in Saudi-Arabien lassen den Ölpreis am Donnerstag stark steigen."
+          "title": "Steuerschätzung: Nur 3,3 Milliarden Euro mehr Steuern – die Merz-Regierung ist blank",
+          "link": "https://www.wiwo.de/politik/deutschland/steuerschaetzung-2026-warum-merz-und-klingbeil-ein-drama-bevorsteht/100264226.html",
+          "published": "2026-10-22T14:02:40+00:00",
+          "summary": "Die Hoffnung des Bundeskanzlers löst sich in Luft auf: Es gibt nicht noch mehr Geld, um die Strukturprobleme der Regierung unter den Teppich zu kehren. Ein Kommentar."
         },
         {
-          "title": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz",
-          "link": "https://www.wiwo.de/unternehmen/auto/elektroautos-tesla-mit-gewinneinbruch-und-stagnierendem-umsatz/100264041.html",
-          "published": "2026-10-22T07:39:00+00:00",
-          "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Das aktuelle Hauptgeschäft, der Verkauf von Elektroautos, leidet vorerst aber."
+          "title": "Start-up der Woche: Dieses Start-up will bald ein kompostierbares Haus drucken",
+          "link": "https://www.wiwo.de/erfolg/gruender/willowprint-wie-dieses-start-up-bald-ein-kompostierbares-haus-drucken-will/100264181.html",
+          "published": "2026-10-22T13:49:20+00:00",
+          "summary": "Willowprint entwickelt biologisch abbaubares Material für 3D-Drucker. Aktuell stellt das Unternehmen so Möbel her, bald sollen es Häuser sein."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Welche OLED hält länger? Ein Magnetfeld liefert frühe Hinweise",
-          "link": "https://www.ingenieur.de/welche-oled-haelt-laenger-ein-magnetfeld-liefert-fruehe-hinweise-eae39722-bc03-461f-b7e6-48df5dd09003/",
-          "published": "2026-10-22T06:30:00+00:00",
-          "summary": "Welche OLED verliert langsamer an Helligkeit? Ein Magnetfeldtest liefert frühe Hinweise und könnte die Entwicklung langlebiger Displays beschleunigen."
+          "title": "Autorecycling: Wie BMW, Bosch und BASF Autoteile vor dem Schredder retten wollen",
+          "link": "https://www.ingenieur.de/autorecycling-wie-bmw-bosch-und-basf-altautos-vor-dem-schredder-retten-wollen-ce79216c-b9dd-47b6-8669-8edce0e456a3/",
+          "published": "2026-10-22T13:30:00+00:00",
+          "summary": "Ob ein Bauteil aus einem Altauto wiederverwendet oder geschreddert wird, entscheidet oft die Erfahrung des Verwerters. Ein Projekt mit BMW, Bosch und BASF zeigt, wie geteilte Materialdaten das ändern …"
         },
         {
-          "title": "13 Milliarden Jahre altes Rätsel: Hubble findet neue Spur bei Sternexplosionen",
-          "link": "https://www.ingenieur.de/13-milliarden-jahre-altes-raetsel-hubble-findet-neue-spur-bei-sternexplosionen-358142f8-ff5c-4dad-b06f-aa2d63d75afa/",
-          "published": "2026-10-22T06:00:49+00:00",
-          "summary": "Wie wurde das frühe Universum ionisiert? Neue Hubble-Daten werfen ein anderes Licht auf die Rolle gewaltiger Supernovae."
+          "title": "326 PS und ein Motor, der rückwärts dreht: Dieses Motorrad ist anders",
+          "link": "https://www.ingenieur.de/furion-taran-franzosen-bauen-e-motorrad-mit-allradantrieb-2-naben-axialmotoren-200-km-und-326-ps-bf84d5af-761a-4934-93a4-59f55b7fd7cf/",
+          "published": "2026-10-22T13:00:00+00:00",
+          "summary": "Die Furion Taran soll 326 PS leisten und Bremsenergie am Vorderrad zurückgewinnen. Was der gegenläufige Elektromotor bewirken soll."
         },
         {
-          "title": "Nachhaltige TGA für ­Nullemissionsgebäude",
-          "link": "https://www.ingenieur.de/nachhaltige-tga-fuer-nullemissionsgebaeude-f1ca19fe-1720-4c61-bc69-070065c81f95/",
-          "published": "2026-10-21T18:28:42+00:00",
-          "summary": "Die EU-Gebäuderichtlinie EPBD [1] schreibt vor, dass für alle größeren Neubauten ab 2030 eine Berechnung des Treibhauspotenzials über den gesamten Lebenszyklus vorliegen soll. Den größten Anteil der …"
+          "title": "Ein Diamant, ein Laser und ein erstaunlicher Effekt: Freiburger Forscher lösen altes Sensorproblem",
+          "link": "https://www.ingenieur.de/ein-diamant-ein-laser-und-ein-erstaunlicher-effekt-freiburger-forscher-loesen-altes-sensorproblem-454fb7ad-b08d-49be-a4be-a8384d6ec652/",
+          "published": "2026-10-22T12:30:00+00:00",
+          "summary": "Ein Diamant kann einen Laser ausschalten. Freiburger Forschende nutzen diesen Effekt für einen Quantensensor mit ungewöhnlichen Eigenschaften."
         },
         {
-          "title": "Überdimensionierte Heizkörper als Schlüssel zur Wärmepumpenintegration",
-          "link": "https://www.ingenieur.de/ueberdimensionierte-heizkoerper-als-schluessel-zur-waermepumpenintegration-03e36f8b-8154-4e2c-8d2b-c326e7542a57/",
-          "published": "2026-10-21T16:02:12+00:00",
-          "summary": "Der Vorbehalt, dass Wärmepumpen im unsanierten Bestand nicht einsetzbar seien, hält sich hartnäckig – auch wenn ein Umdenken zunehmend erkennbar ist. Dabei gelten die hohen Vorlauftemperaturen als …"
+          "title": "Aus alten Betonbrocken sollen neue Decken entstehen: So funktioniert es",
+          "link": "https://www.ingenieur.de/aus-alten-betonbrocken-sollen-neue-decken-entstehen-so-funktioniert-es-051c8e3c-8a67-46d6-a3d5-35ce581abd56/",
+          "published": "2026-10-22T11:10:41+00:00",
+          "summary": "Erst scannen, dann zuschneiden: Die TU Darmstadt will Betonbruch erneut zum Tragen bringen. Ein Prototyp soll das Verfahren erproben."
         },
         {
-          "title": "Kritische PHP-Schwachstellen: BSI warnt vor Angriffen auf Webserver",
-          "link": "https://www.ingenieur.de/kritische-php-luecken-bsi-warnt-vor-angriffen-auf-webserver-e0529b4b-15c8-444a-974a-00919edb30b6/",
-          "published": "2026-10-21T14:09:14+00:00",
-          "summary": "Zwei kritische Schwachstellen in PHP bedrohen Webanwendungen weltweit. Das BSI warnt vor möglichen Angriffswellen, Sicherheitsfirmen melden erste Attacken. Betreiber sollen gefährdete Systeme …"
+          "title": "Deutsches Carbon-Bike fährt 130 km/h, jetzt fließen Millionen",
+          "link": "https://www.ingenieur.de/deutsches-carbon-bike-faehrt-130-km-h-jetzt-fliessen-millionen-28e55efa-621e-48b3-86f4-b08763619fc7/",
+          "published": "2026-10-22T10:30:00+00:00",
+          "summary": "Das Carbon-Lightbike Novus One aus Braunschweig wiegt 121 kg, fährt bis zu 130 km/h und erhält Millionen für Expansion und ein günstigeres Modell."
         }
       ],
       "error": null
