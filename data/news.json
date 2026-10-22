@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:43:30+00:00",
+  "generatedAt": "2026-10-22T22:57:00+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
-          "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
-          "published": "2026-10-22T19:34:07+00:00",
-          "summary": "Korallen bieten im Meer einer großen Artenvielfalt ein Zuhause. Doch die Riffe sind durch die Erhitzung der Meere erheblich gefährdet. Eine Studie zeigt nun das ganze Ausmaß."
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81594.html",
+          "published": "2026-10-22T22:29:13+00:00",
+          "summary": ""
         },
         {
-          "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
-          "published": "2026-10-22T19:27:54+00:00",
-          "summary": "Unter US-Wählern gewinnt vor den Zwischenwahlen ein Thema an Bedeutung und das ist besonders heikel für Präsident Trump. Immer mehr Bürger registrieren, wie sehr das Vermögen Trumps und seines …"
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671004.html",
+          "published": "2026-10-22T22:07:42+00:00",
+          "summary": ""
         },
         {
-          "title": "Hofmann nutzt seine Chance - Bayer Leverkusen gewinnt gegen OFI Kreta",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-hofmann-schiesst-leverkusen-zum-sieg-auf-kreta-100.html",
-          "published": "2026-10-22T19:06:00+00:00",
-          "summary": "Erst stand Jonas Hofmann gar nicht im Kader, dann wurde er bei Leverkusen nachnominiert. Im Europa-League-Spiel gegen OFI Kreta erzielte er die einzigen beiden Tore - und avancierte damit zum …"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12936.html",
+          "published": "2026-10-22T21:28:13+00:00",
+          "summary": ""
         },
         {
-          "title": "Jetzt live - AS Monaco gegen SC Freiburg",
-          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520653/as-monaco_sc-freiburg/liveticker",
-          "published": "2026-10-22T18:55:19+00:00",
-          "summary": "Am 2. Spieltag der Conference League empfängt die AS Monaco den SC Freiburg."
+          "title": "Nach Brunners Traumtor: Freiburg verliert in Monaco",
+          "link": "https://www.sportschau.de/regional/swr/swr-brunner-knackt-den-sc-freiburg-verliert-bei-der-as-monaco-100.html",
+          "published": "2026-10-22T21:20:54+00:00",
+          "summary": "Am zweiten Spieltag der Conference League haben die Fußballer des SC Freiburg bei der AS Monaco die erste Niederlage kassiert."
         },
         {
-          "title": "Jetzt live - TSG Hoffenheim gegen Olympique Lyon",
-          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520275/tsg-hoffenheim_olympique-lyon/liveticker",
-          "published": "2026-10-22T18:49:52+00:00",
-          "summary": "Am dritten Spieltag empfängt die in der Bundesliga kriselnde TSG Hoffenheim Olympique Lyon aus Frankreich."
+          "title": "Hoffenheim gewinnt mit 3:0 gegen Lyon",
+          "link": "https://www.sportschau.de/regional/swr/swr-deutlicher-sieg-hoffenheim-schlaegt-olympique-lyon-100.html",
+          "published": "2026-10-22T21:16:24+00:00",
+          "summary": "Die TSG Hoffenheim hat im Heimspiel in der Europa League gegen Olympique Lyon gesiegt. Damit jubelten die Kraichgauer über den ersten Dreier in der laufenden Europa-League-Saison."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert 7,0 Prozent",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-70-prozent/100264154.html",
+          "title": "Midterms: Trump und Republikaner streiten über Wahlkampfvideo in Ohio",
+          "link": "https://www.handelsblatt.com/politik/international/midterms-trump-und-republikaner-streiten-ueber-wahlkampfvideo-in-ohio/100264354.html",
+          "published": "2026-10-22T21:17:09+00:00",
+          "summary": "Der Gouverneurskandidat der Republikaner in Ohio will seine Kontrahentin als Lügnerin darstellen und holt dafür ihre Mutter vor die Kamera. Selbst Republikaner kritisieren das Video - und Trump?"
+        },
+        {
+          "title": "Autokonzern: Wie die neuen Modelle von Mercedes anlaufen – und welche noch folgen",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/autos-wie-die-neuen-modelle-von-mercedes-anlaufen-und-welche-noch-folgen/100263196.html",
+          "published": "2026-10-22T20:10:00+00:00",
+          "summary": "Mit der größten Modelloffensive in der Konzerngeschichte will der Dax-Konzern die Wende erreichen. Das Handelsblatt hat die ersten Zulassungszahlen ausgewertet."
+        },
+        {
+          "title": "Autobauer: Der langfristige Rettungsplan des Ola Källenius – wie Mercedes die Krise überwinden will",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-wie-mercedes-die-krise-ueberwinden-will/100262094.html",
+          "published": "2026-10-22T20:05:00+00:00",
+          "summary": "Der Autokonzern ist in eine gefährliche Abwärtsspirale aus sinkenden Gewinnen und Verkaufszahlen geraten. Das Handelsblatt zeigt, wie das Management gegensteuern will."
+        },
+        {
+          "title": "Pharma: Krebsimpfstoff-Daten von Moderna und Merck vorzeitig veröffentlicht – Aktien fallen",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-kursrutsch-nach-daten-leak-moderna-bis-zu-26-prozent-im-minus/100264349.html",
+          "published": "2026-10-22T19:52:55+00:00",
+          "summary": "Vorzeitig bekannt gewordene Studiendaten zu einem Krebsimpfstoff setzen Moderna und Merck & Co. unter Druck. Zeitweise verlor die Moderna-Aktie bis zu 26 Prozent."
+        },
+        {
+          "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert sieben Prozent",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-sieben-prozent/100264154.html",
           "published": "2026-10-22T19:28:26+00:00",
-          "summary": "Steigende Ölpreise und Sorgen im KI‑Sektor lassen zahlreiche Kurse einbrechen. Die Rendite der zehnjährigen US‑Bonds fällt dagegen wieder unter 5,0 Prozent."
-        },
-        {
-          "title": "+++ Ukraine-Krieg +++: Trump verhandelt angeblich mit Musk über Starlink-Beschränkungen",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-trump-verhandelt-angeblich-mit-musk-ueber-starlink-beschraenkungen/27982126.html",
-          "published": "2026-10-22T19:27:00+00:00",
-          "summary": "Dänemark kauft weitreichende Präzisionsraketen +++ Murmaßlicher Russland-Spion in Brandenburg gefasst +++ Russland setzt offenbar Streumunition gegen Ukraine ein +++ Der Newsblog."
-        },
-        {
-          "title": "Fünfte Auflage: Neuauflage des BMW X5 startet zum Jahresende für 94.800 Euro",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/fuenfte-auflage-neuauflage-des-bmw-x5-startet-zum-jahresende-fuer-94800-euro/100264347.html",
-          "published": "2026-10-22T19:01:04+00:00",
-          "summary": "Er wird nur einen Hauch größer, bietet aber mehr digitale Erlebnisse und vor allem zwei neue Antriebsvarianten - so rollt die fünfte Generation des BMW X5 vor."
-        },
-        {
-          "title": "Trump-Watch: Wird Trump zum Wahlkampfrisiko? – Die Trump-News der Woche",
-          "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-wird-trump-zum-wahlkampfrisiko-die-trump-news-der-woche/100264335.html",
-          "published": "2026-10-22T17:53:55+00:00",
-          "summary": "Trumps Unterstützung könnte zur Belastung für republikanische Kandidaten werden. Und: Die Ukraine wartet auf Luftabwehrraketen, während in Kalifornien Wahlbehörden unter Druck geraten."
-        },
-        {
-          "title": "PDF: Handelsblatt vom 23. Oktober 2026",
-          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-23.-oktober-2026/100264337.html",
-          "published": "2026-10-22T17:00:37+00:00",
-          "summary": ""
+          "summary": "Steigende Ölpreise und Sorgen im KI‑Sektor lassen zahlreiche Kurse einbrechen. Die Rendite der zehnjährigen US‑Bonds fällt dagegen wieder unter fünf Prozent."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Größter Tagesverlust seit Juni: KI-Sorgen setzen dem Nasdaq zu",
+          "link": "https://www.n-tv.de/wirtschaft/KI-Sorgen-setzen-dem-Nasdaq-zu-id31449020.html",
+          "published": "2026-10-22T21:32:08+00:00",
+          "summary": "Die Furcht vor einem kostspieligen KI-Wettrüsten schickt die US-Börsen auf Talfahrt. Besonders Technologiewerte geraten unter Druck. Die Anleihenrenditen geben deutlich nach."
+        },
         {
           "title": "Vereinbarung anders verstanden: Emirates fliegt vorerst doch nicht vom Flughafen BER",
           "link": "https://www.n-tv.de/wirtschaft/Emirates-fliegt-vorerst-doch-nicht-vom-Flughafen-BER-id31448309.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Eine-Neubauwohnung-in-Muenchen-ist-teurer-als-in-Paris-id31447177.html",
           "published": "2026-10-22T13:43:20+00:00",
           "summary": "Deutschland dominiert laut einer neuen Auswertung die Top Ten der Städte mit den teuersten Neubauten in Europa. London? Paris? Fehlanzeige."
-        },
-        {
-          "title": "62.500 Beschäftigte betroffen: Bosch stellt sich neu auf - zentrale Bereiche werden ausgegliedert",
-          "link": "https://www.n-tv.de/wirtschaft/Bosch-stellt-sich-neu-auf-zentrale-Bereiche-werden-ausgegliedert-id31447267.html",
-          "published": "2026-10-22T13:42:23+00:00",
-          "summary": "Der Technologiekonzern Bosch will schneller und flexibler werden, um besser mit der Konkurrenz aus Asien mithalten zu können. Dazu ordnet das Unternehmen seine Struktur neu. Außer Zentrale und …"
         }
       ],
       "error": null
@@ -211,9 +211,15 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Nach 5000 Flügen ist Schluss, doch Bochumer Forscher wollen Turbinenschaufeln retten",
-          "link": "https://www.ingenieur.de/nach-5000-fluegen-ist-schluss-doch-bochumer-forscher-wollen-turbinenschaufeln-retten-a092a667-6d0d-45ab-adbe-0d8ffe1f0e17/",
-          "published": "2026-10-22T15:30:00+00:00",
+          "title": "Sieht aus wie ein Fahrrad, fährt 130 km/h und bekommt jetzt Millionen",
+          "link": "https://www.ingenieur.de/sieht-aus-wie-ein-fahrrad-faehrt-130-km-h-und-bekommt-jetzt-millionen-28e55efa-621e-48b3-86f4-b08763619fc7/",
+          "published": "2026-10-22T18:00:00+00:00",
+          "summary": "Das Carbon-Lightbike Novus One aus Braunschweig wiegt 121 kg, fährt bis zu 130 km/h und erhält Millionen für Expansion und ein günstigeres Modell."
+        },
+        {
+          "title": "Metall wie neu: Forscher wollen die Alterung von Turbinenschaufeln rückgängig machen",
+          "link": "https://www.ingenieur.de/metall-wie-neu-forscher-wollen-die-alterung-von-turbinenschaufeln-rueckgaengig-machen-a092a667-6d0d-45ab-adbe-0d8ffe1f0e17/",
+          "published": "2026-10-22T17:30:00+00:00",
           "summary": "Turbinenschaufeln altern durch Hitze und Fliehkräfte. Ein Forschungsprojekt soll zeigen, ob sich die teuren Bauteile regenerieren lassen."
         },
         {
@@ -229,16 +235,10 @@
           "summary": "Europas Hochschulen und Forschungsinstitute melden heute mehr als doppelt so viele Patente an wie vor 20 Jahren. Doch viele davon kommen nie auf den Markt. Eine erste europaweite Studie zeigt, woran …"
         },
         {
-          "title": "326 PS und Radnabenmotor: Das Superbike Furion Taran fährt sich anders",
-          "link": "https://www.ingenieur.de/326-ps-und-radnabenmotor-das-superbike-fusion-taran-faehrt-sich-anders-bf84d5af-761a-4934-93a4-59f55b7fd7cf/",
-          "published": "2026-10-22T14:00:00+00:00",
-          "summary": "Die Furion Taran soll 326 PS leisten und Bremsenergie am Vorderrad zurückgewinnen. Was der gegenläufige Elektromotor bewirken soll."
-        },
-        {
-          "title": "Autorecycling: Wie BMW, Bosch und BASF Autoteile vor dem Schredder retten wollen",
-          "link": "https://www.ingenieur.de/autorecycling-wie-bmw-bosch-und-basf-altautos-vor-dem-schredder-retten-wollen-ce79216c-b9dd-47b6-8669-8edce0e456a3/",
-          "published": "2026-10-22T13:30:00+00:00",
-          "summary": "Ob ein Bauteil aus einem Altauto wiederverwendet oder geschreddert wird, entscheidet oft die Erfahrung des Verwerters. Ein Projekt mit BMW, Bosch und BASF zeigt, wie geteilte Materialdaten das ändern …"
+          "title": "Wie ein Steinbogen, nur flach? Forschende tüfteln an Decken aus Betonbruch",
+          "link": "https://www.ingenieur.de/wie-ein-steinbogen-nur-flach-forschende-tuefteln-an-decken-aus-betonbruch-051c8e3c-8a67-46d6-a3d5-35ce581abd56/",
+          "published": "2026-10-22T14:10:00+00:00",
+          "summary": "Erst scannen, dann zuschneiden: Die TU Darmstadt will Betonbruch erneut zum Tragen bringen. Ein Prototyp soll das Verfahren erproben."
         }
       ],
       "error": null
