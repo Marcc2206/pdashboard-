@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:51:19+00:00",
+  "generatedAt": "2026-10-22T19:43:30+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Landtag Sachsen-Anhalt: CDU-Politiker will bei Siegmund-Wahl im Saal bleiben",
-          "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-afd-ministerpraesidentenwahl-heuer,heuer-cdu-100.html",
-          "published": "2026-10-22T14:48:56+00:00",
-          "summary": "Die CDU-Fraktion in Sachsen-Anhalt hatte angekündigt, den Plenarsaal zu verlassen, wenn AfD-Politiker Siegmund zur Ministerpräsidentenwahl antritt. Nun stellt sich der CDU-Abgeordnete Heuer gegen …"
+          "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
+          "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
+          "published": "2026-10-22T19:34:07+00:00",
+          "summary": "Korallen bieten im Meer einer großen Artenvielfalt ein Zuhause. Doch die Riffe sind durch die Erhitzung der Meere erheblich gefährdet. Eine Studie zeigt nun das ganze Ausmaß."
         },
         {
-          "title": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr?",
-          "link": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
-          "published": "2026-10-22T14:35:15+00:00",
-          "summary": "Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des …"
+          "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
+          "published": "2026-10-22T19:27:54+00:00",
+          "summary": "Unter US-Wählern gewinnt vor den Zwischenwahlen ein Thema an Bedeutung und das ist besonders heikel für Präsident Trump. Immer mehr Bürger registrieren, wie sehr das Vermögen Trumps und seines …"
         },
         {
-          "title": "EU-Parlament diskutiert Lockerung des Verbrenner-Aus",
-          "link": "https://www.tagesschau.de/video/video-1670714.html",
-          "published": "2026-10-22T14:17:31+00:00",
-          "summary": ""
+          "title": "Hofmann nutzt seine Chance - Bayer Leverkusen gewinnt gegen OFI Kreta",
+          "link": "https://www.sportschau.de/regional/wdr/wdr-hofmann-schiesst-leverkusen-zum-sieg-auf-kreta-100.html",
+          "published": "2026-10-22T19:06:00+00:00",
+          "summary": "Erst stand Jonas Hofmann gar nicht im Kader, dann wurde er bei Leverkusen nachnominiert. Im Europa-League-Spiel gegen OFI Kreta erzielte er die einzigen beiden Tore - und avancierte damit zum …"
         },
         {
-          "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-          "published": "2026-10-22T14:11:16+00:00",
-          "summary": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt."
+          "title": "Jetzt live - AS Monaco gegen SC Freiburg",
+          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520653/as-monaco_sc-freiburg/liveticker",
+          "published": "2026-10-22T18:55:19+00:00",
+          "summary": "Am 2. Spieltag der Conference League empfängt die AS Monaco den SC Freiburg."
         },
         {
-          "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-          "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-          "published": "2026-10-22T13:41:31+00:00",
-          "summary": "Experten warnen vor einer schwerwiegenden Sicherheitslücke bei Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Was bedeutet das für Internetnutzer? Wie gravierend sind die …"
+          "title": "Jetzt live - TSG Hoffenheim gegen Olympique Lyon",
+          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520275/tsg-hoffenheim_olympique-lyon/liveticker",
+          "published": "2026-10-22T18:49:52+00:00",
+          "summary": "Am dritten Spieltag empfängt die in der Bundesliga kriselnde TSG Hoffenheim Olympique Lyon aus Frankreich."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Software: Wie viel Geld verdient SAP mit Künstlicher Intelligenz, Herr Klein?",
-          "link": "https://www.handelsblatt.com/technik/it-internet/software-wie-viel-verdient-sap-mit-kuenstlicher-intelligenz-herr-klein/100262119.html",
-          "published": "2026-10-22T14:50:12+00:00",
-          "summary": "Viele Prototypen, wenig Umsatz: SAP hat das Portfolio auf KI ausgerichtet – aber in der Bilanz ist davon wenig zu sehen. Vorstandschef Christian Klein stellt mehr Transparenz in Aussicht."
+          "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert 7,0 Prozent",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-70-prozent/100264154.html",
+          "published": "2026-10-22T19:28:26+00:00",
+          "summary": "Steigende Ölpreise und Sorgen im KI‑Sektor lassen zahlreiche Kurse einbrechen. Die Rendite der zehnjährigen US‑Bonds fällt dagegen wieder unter 5,0 Prozent."
         },
         {
-          "title": "Mobilität: „Neue Fahrzeugklasse“: Novus will Autofahrer für seine Lightbikes begeistern",
-          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mobilitaet-wie-lightbike-hersteller-novus-autofahrer-ueberzeugen-will-01/100261783.html",
-          "published": "2026-10-22T14:50:00+00:00",
-          "summary": "Das Start-up gewinnt namhafte Investoren. Die Entwicklung des Elektrozweirads dauerte länger als geplant – doch jetzt haben die Macher ehrgeizige Pläne."
+          "title": "+++ Ukraine-Krieg +++: Trump verhandelt angeblich mit Musk über Starlink-Beschränkungen",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-trump-verhandelt-angeblich-mit-musk-ueber-starlink-beschraenkungen/27982126.html",
+          "published": "2026-10-22T19:27:00+00:00",
+          "summary": "Dänemark kauft weitreichende Präzisionsraketen +++ Murmaßlicher Russland-Spion in Brandenburg gefasst +++ Russland setzt offenbar Streumunition gegen Ukraine ein +++ Der Newsblog."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Russland setzt offenbar ballistische Raketen mit Streumunition gegen Ukraine ein",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-setzt-offenbar-streumunition-gegen-ukraine-ein/27982126.html",
-          "published": "2026-10-22T14:49:00+00:00",
-          "summary": "Mutmaßlicher Russland-Spion in Brandenburg gefasst +++ Selenskyj wäre mit Status quo an Frontlinie einverstanden +++ Russland meldet erneut schwere Angriffe auf Odessa +++ Der Newsblog."
+          "title": "Fünfte Auflage: Neuauflage des BMW X5 startet zum Jahresende für 94.800 Euro",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/fuenfte-auflage-neuauflage-des-bmw-x5-startet-zum-jahresende-fuer-94800-euro/100264347.html",
+          "published": "2026-10-22T19:01:04+00:00",
+          "summary": "Er wird nur einen Hauch größer, bietet aber mehr digitale Erlebnisse und vor allem zwei neue Antriebsvarianten - so rollt die fünfte Generation des BMW X5 vor."
         },
         {
-          "title": "Immobilien: Hohe Zinsen bremsen den Immobilienmarkt: Wo Verkäufer besonders lange auf Käufer warten",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-diesen-staedten-finden-eigentuemer-am-schnellsten-einen-kaeufer-01/100260831.html",
-          "published": "2026-10-22T14:46:00+00:00",
-          "summary": "Die hohen Preise zeigen Wirkung: Eine exklusive Auswertung zeigt starke Unterschiede bei der Vermarktungsdauer von Wohnanzeigen. In welchen Städten es für Verkäufer nun am schnellsten geht."
+          "title": "Trump-Watch: Wird Trump zum Wahlkampfrisiko? – Die Trump-News der Woche",
+          "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-wird-trump-zum-wahlkampfrisiko-die-trump-news-der-woche/100264335.html",
+          "published": "2026-10-22T17:53:55+00:00",
+          "summary": "Trumps Unterstützung könnte zur Belastung für republikanische Kandidaten werden. Und: Die Ukraine wartet auf Luftabwehrraketen, während in Kalifornien Wahlbehörden unter Druck geraten."
         },
         {
-          "title": "Immobilien: Das sind die zehn deutschen Städte mit den höchsten Wohnungspreisen und Mieten",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-sind-die-preise-fuer-wohnraum-am-staerksten-gestiegen-01/100170988.html",
-          "published": "2026-10-22T14:44:00+00:00",
-          "summary": "Bestandswohnungen haben sich im dritten Quartal stärker verteuert als Neubauten. Exklusive Daten der 400 deutschen Kreise zeigen, wo Wohnraum teurer und wo er günstiger geworden ist."
+          "title": "PDF: Handelsblatt vom 23. Oktober 2026",
+          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-23.-oktober-2026/100264337.html",
+          "published": "2026-10-22T17:00:37+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Vereinbarung anders verstanden: Emirates fliegt vorerst doch nicht vom Flughafen BER",
+          "link": "https://www.n-tv.de/wirtschaft/Emirates-fliegt-vorerst-doch-nicht-vom-Flughafen-BER-id31448309.html",
+          "published": "2026-10-22T15:47:54+00:00",
+          "summary": "Im September war die Freude groß, dass die Fluggesellschaft Emirates in Zukunft auch Langstreckenflüge vom Hauptstadtflughafen BER anbietet. Nun gibt es Missverständnisse zwischen der …"
+        },
+        {
+          "title": "Drohen nun Streiks?: Schlichtung zwischen Lufthansa und Piloten gescheitert",
+          "link": "https://www.n-tv.de/wirtschaft/Lufthansa-Schlichtung-mit-Piloten-ohne-Ergebnis-beendet-id31447660.html",
+          "published": "2026-10-22T15:22:43+00:00",
+          "summary": "Die Lufthansa und ihre Pilotenvertreter treffen sich zur Schlichtung. Es geht um Gehaltserhöhungen und die betriebliche Altersversorgung. Eine Einigung gibt es nicht. Hinter verschlossenen Türen …"
+        },
         {
           "title": "Angriffe von Huthi-Miliz: Ölkonzern Saudi Aramco evakuiert Zentrale",
           "link": "https://www.n-tv.de/wirtschaft/Oelkonzern-Saudi-Aramco-evakuiert-Zentrale-id31447921.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Bosch-stellt-sich-neu-auf-zentrale-Bereiche-werden-ausgegliedert-id31447267.html",
           "published": "2026-10-22T13:42:23+00:00",
           "summary": "Der Technologiekonzern Bosch will schneller und flexibler werden, um besser mit der Konkurrenz aus Asien mithalten zu können. Dazu ordnet das Unternehmen seine Struktur neu. Außer Zentrale und …"
-        },
-        {
-          "title": "Milliarden-Vorrat versiegt: Irans Schattenflotte sitzt auf dem Trockenen",
-          "link": "https://www.n-tv.de/wirtschaft/Irans-Schattenflotte-sitzt-auf-dem-Trockenen-id31447057.html",
-          "published": "2026-10-22T12:55:08+00:00",
-          "summary": "Lange umging der Iran die US-Sanktionen mit einer geheimen Flotte. Nun sind die schwimmenden Ölreserven auf See komplett erschöpft. Für das Regime in Teheran bricht damit eine wichtige Einnahmequelle …"
-        },
-        {
-          "title": "Umsteigen adé: Berlin - Paris: ICE-Direktverbindung kommt bis Dezember zurück",
-          "link": "https://www.n-tv.de/wirtschaft/Nonstop-von-Berlin-nach-Paris-Deutsche-Bahn-plant-ICE-Comeback-id31446738.html",
-          "published": "2026-10-22T12:30:39+00:00",
-          "summary": "Seit mehr als zwei Monaten ist die beliebte Bahnstrecke Berlin - Paris unterbrochen. Grund sind technische Probleme. Fahrgäste, die von Hauptstadt zu Hauptstadt wollen, müssen bislang in Frankfurt …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: DAX fällt wieder zurück",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+          "published": "2026-10-22T16:36:57+00:00",
+          "summary": "Der DAX hat bei volatilem Handel einen Teil seiner Gewinne vom Vortag wieder abgegeben. Er folgte einer schwachen Wall Street. Es waren mal wieder Nachrichten aus dem US-Tech-Sektor, die die Kurse …"
+        },
+        {
           "title": "Marktbericht: SAP-Umbau trägt Früchte",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
           "published": "2026-10-22T12:10:58+00:00",
           "summary": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das."
-        },
-        {
-          "title": "Marktbericht: Anleger zweifeln an KI-Rally",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-          "published": "2026-10-22T08:39:51+00:00",
-          "summary": "Trotz starker SAP-Zahlen gibt der DAX im frühen Handel deutlich nach. Die Bilanzen von Meta und Tesla erfüllen die hohen Erwartungen der Anleger nicht, die Schwäche bei den Technologie-Werten setzt …"
         },
         {
           "title": "Gewinnprognose erhöht: Rekordgewinn für Adidas",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Krankenversicherung: Was Sie beim Tarifwechsel in der PKV beachten sollten",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/pkv-wechsel-zu-unisex-was-wird-aus-den-alterungsrueckstellungen/100262514.html",
-          "published": "2026-10-22T14:28:00+00:00",
-          "summary": "Der Leser ist in der PKV versichert und will in einen Unisex-Tarif wechseln. Er fragt, ob er Alterungsrückstellungen und leistungsfreie Jahre mitnehmen kann."
+          "title": "PHP-Sicherheitslücke: „Die Angreifer hatten einen zeitlichen Vorsprung“",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/php-sicherheitsluecke-diese-risiken-bleiben-fuer-unternehmen/100264162.html",
+          "published": "2026-10-22T18:43:00+00:00",
+          "summary": "Lücken in der Programmiersprache PHP bedrohen weltweit Webserver – und damit auch Unternehmen. Welche Gefahr trotz der Notfallupdates bleibt."
         },
         {
-          "title": "Streik der Piloten: Schlichtung bei Lufthansa ohne Einigung beendet",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/lufthansa-schlichtung-endet-ohne-einigung-vorerst-keine-weiteren-streiks/100264312.html",
-          "published": "2026-10-22T14:12:48+00:00",
-          "summary": "Die Schlichtung zwischen Lufthansa und ihren Piloten ist gescheitert – doch erneute Streiks drohen vorerst nicht. Hinter verschlossenen Türen läuft ein zweiter Versuch zu einer umfassenden Einigung."
+          "title": "Ministerpräsidentenkonferenz: Länder fordern Tempo bei Stromsteuer und Spritpreisdeckel",
+          "link": "https://www.wiwo.de/politik/deutschland/ministerpraesidentenkonferenz-laender-fordern-tempo-bei-stromsteuer-und-spritpreisdeckel/100264217.html",
+          "published": "2026-10-22T17:58:00+00:00",
+          "summary": "Die Bezahlbarkeit des täglichen Lebens war zentrales Thema beim Treffen der Länderregierungschefinnen und ‑chefs. Sie mahnen den Bund bei einigen Vorhaben zur Eile und sprechen von Gerechtigkeit."
         },
         {
-          "title": "Investmentcheck: Drei Prozent bis Ende 2027 – das kann das MehrZins-Konto der Bayerischen",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/mehrzins-konto-der-bayerischen-im-check-darauf-sollten-sparer-achten/100264122.html",
-          "published": "2026-10-22T14:04:44+00:00",
-          "summary": "Der Münchener Versicherer bietet attraktive Konditionen für Sparer mit mittlerem Zeithorizont. Interessenten sollten einige Punkte beachten."
+          "title": "Wirtschaft von oben: Jetzt will China die Welt auch mit E-Fuels fluten",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/kraftstoffe-jetzt-will-china-die-welt-auch-mit-e-fuels-fluten/100263882.html",
+          "published": "2026-10-22T15:38:31+00:00",
+          "summary": "In Europa haben es Hersteller von E-Fuels bislang schwer. China aber steigt nun energisch in die Produktion grüner Kraftstoffe ein, belegen neueste Satellitenbilder."
         },
         {
-          "title": "Steuerschätzung: Nur 3,3 Milliarden Euro mehr Steuern – die Merz-Regierung ist blank",
-          "link": "https://www.wiwo.de/politik/deutschland/steuerschaetzung-2026-warum-merz-und-klingbeil-ein-drama-bevorsteht/100264226.html",
-          "published": "2026-10-22T14:02:40+00:00",
-          "summary": "Die Hoffnung des Bundeskanzlers löst sich in Luft auf: Es gibt nicht noch mehr Geld, um die Strukturprobleme der Regierung unter den Teppich zu kehren. Ein Kommentar."
+          "title": "Anlageideen: Die nächsten 25 Börsenstars",
+          "link": "https://www.wiwo.de/finanzen/boerse/wachstumschancen-auch-ohne-ki-das-sind-die-naechsten-25-boersenstars/100263833.html",
+          "published": "2026-10-22T15:23:00+00:00",
+          "summary": "Von Biotech bis Robotik: Die Zukunft hat mehr zu bieten als KI. Wir stellen fünf Wachstumsbranchen vor – und jeweils fünf Aktien mit besonders viel Potenzial."
         },
         {
-          "title": "Start-up der Woche: Dieses Start-up will bald ein kompostierbares Haus drucken",
-          "link": "https://www.wiwo.de/erfolg/gruender/willowprint-wie-dieses-start-up-bald-ein-kompostierbares-haus-drucken-will/100264181.html",
-          "published": "2026-10-22T13:49:20+00:00",
-          "summary": "Willowprint entwickelt biologisch abbaubares Material für 3D-Drucker. Aktuell stellt das Unternehmen so Möbel her, bald sollen es Häuser sein."
+          "title": "Autobauer: VW stellt Fahrassistenz-Entwicklung in Europa neu auf",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-autobauer-stellt-fahrassistenz-entwicklung-cariad-in-europa-neu-auf/100264327.html",
+          "published": "2026-10-22T15:18:23+00:00",
+          "summary": "Gas geben, bremsen, die Spur halten – und bald Hände vom Steuer? Die Entwicklung automatisierter Fahrfunktionen ist kompliziert. Volkswagen bündelt nun die Kräfte in Europa."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Nach 5000 Flügen ist Schluss, doch Bochumer Forscher wollen Turbinenschaufeln retten",
+          "link": "https://www.ingenieur.de/nach-5000-fluegen-ist-schluss-doch-bochumer-forscher-wollen-turbinenschaufeln-retten-a092a667-6d0d-45ab-adbe-0d8ffe1f0e17/",
+          "published": "2026-10-22T15:30:00+00:00",
+          "summary": "Turbinenschaufeln altern durch Hitze und Fliehkräfte. Ein Forschungsprojekt soll zeigen, ob sich die teuren Bauteile regenerieren lassen."
+        },
+        {
+          "title": "Chemie in der Krise: So will das Umweltbundesamt die Industrie bis 2050 umbauen",
+          "link": "https://www.ingenieur.de/chemie-in-der-krise-so-will-das-umweltbundesamt-die-industrie-bis-2050-umbauen-968120c1-aa91-44c5-b2af-02d66dc7a014/",
+          "published": "2026-10-22T15:00:00+00:00",
+          "summary": "Das Umweltbundesamt hat skizziert, wie Europas Chemieindustrie bis 2050 ohne Erdöl und klimaneutral produzieren soll. Branchenverband und Gewerkschaft suchen den Dialog, warnen aber vor …"
+        },
+        {
+          "title": "Vier von zehn Hochschulpatenten verfallen: Warum Europa Erfindungen liegen lässt",
+          "link": "https://www.ingenieur.de/vier-von-zehn-hochschulpatenten-verfallen-warum-europa-erfindungen-liegen-lasst-ad8de697-e403-4350-9822-9a4537d003ab/",
+          "published": "2026-10-22T14:35:58+00:00",
+          "summary": "Europas Hochschulen und Forschungsinstitute melden heute mehr als doppelt so viele Patente an wie vor 20 Jahren. Doch viele davon kommen nie auf den Markt. Eine erste europaweite Studie zeigt, woran …"
+        },
+        {
+          "title": "326 PS und Radnabenmotor: Das Superbike Furion Taran fährt sich anders",
+          "link": "https://www.ingenieur.de/326-ps-und-radnabenmotor-das-superbike-fusion-taran-faehrt-sich-anders-bf84d5af-761a-4934-93a4-59f55b7fd7cf/",
+          "published": "2026-10-22T14:00:00+00:00",
+          "summary": "Die Furion Taran soll 326 PS leisten und Bremsenergie am Vorderrad zurückgewinnen. Was der gegenläufige Elektromotor bewirken soll."
+        },
+        {
           "title": "Autorecycling: Wie BMW, Bosch und BASF Autoteile vor dem Schredder retten wollen",
           "link": "https://www.ingenieur.de/autorecycling-wie-bmw-bosch-und-basf-altautos-vor-dem-schredder-retten-wollen-ce79216c-b9dd-47b6-8669-8edce0e456a3/",
           "published": "2026-10-22T13:30:00+00:00",
           "summary": "Ob ein Bauteil aus einem Altauto wiederverwendet oder geschreddert wird, entscheidet oft die Erfahrung des Verwerters. Ein Projekt mit BMW, Bosch und BASF zeigt, wie geteilte Materialdaten das ändern …"
-        },
-        {
-          "title": "326 PS und ein Motor, der rückwärts dreht: Dieses Motorrad ist anders",
-          "link": "https://www.ingenieur.de/furion-taran-franzosen-bauen-e-motorrad-mit-allradantrieb-2-naben-axialmotoren-200-km-und-326-ps-bf84d5af-761a-4934-93a4-59f55b7fd7cf/",
-          "published": "2026-10-22T13:00:00+00:00",
-          "summary": "Die Furion Taran soll 326 PS leisten und Bremsenergie am Vorderrad zurückgewinnen. Was der gegenläufige Elektromotor bewirken soll."
-        },
-        {
-          "title": "Ein Diamant, ein Laser und ein erstaunlicher Effekt: Freiburger Forscher lösen altes Sensorproblem",
-          "link": "https://www.ingenieur.de/ein-diamant-ein-laser-und-ein-erstaunlicher-effekt-freiburger-forscher-loesen-altes-sensorproblem-454fb7ad-b08d-49be-a4be-a8384d6ec652/",
-          "published": "2026-10-22T12:30:00+00:00",
-          "summary": "Ein Diamant kann einen Laser ausschalten. Freiburger Forschende nutzen diesen Effekt für einen Quantensensor mit ungewöhnlichen Eigenschaften."
-        },
-        {
-          "title": "Aus alten Betonbrocken sollen neue Decken entstehen: So funktioniert es",
-          "link": "https://www.ingenieur.de/aus-alten-betonbrocken-sollen-neue-decken-entstehen-so-funktioniert-es-051c8e3c-8a67-46d6-a3d5-35ce581abd56/",
-          "published": "2026-10-22T11:10:41+00:00",
-          "summary": "Erst scannen, dann zuschneiden: Die TU Darmstadt will Betonbruch erneut zum Tragen bringen. Ein Prototyp soll das Verfahren erproben."
-        },
-        {
-          "title": "Deutsches Carbon-Bike fährt 130 km/h, jetzt fließen Millionen",
-          "link": "https://www.ingenieur.de/deutsches-carbon-bike-faehrt-130-km-h-jetzt-fliessen-millionen-28e55efa-621e-48b3-86f4-b08763619fc7/",
-          "published": "2026-10-22T10:30:00+00:00",
-          "summary": "Das Carbon-Lightbike Novus One aus Braunschweig wiegt 121 kg, fährt bis zu 130 km/h und erhält Millionen für Expansion und ein günstigeres Modell."
         }
       ],
       "error": null
