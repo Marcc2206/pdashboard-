@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T22:57:00+00:00",
+  "generatedAt": "2026-10-23T03:19:18+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671042.html",
+          "published": "2026-10-23T03:04:12+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
+          "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
+          "published": "2026-10-23T03:01:38+00:00",
+          "summary": "Die von China kontrollierte autonome Region Tibet wurde von einem Erdbeben getroffen. Dabei sind Häuser zerstört worden - es gibt bisher 16 Tote und Dutzende Verletzte."
+        },
+        {
+          "title": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
+          "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
+          "published": "2026-10-23T02:28:21+00:00",
+          "summary": "Das ukrainische Militär beklagt eine Drosselung von Elon Musks Satelliteninternet. Laut einem Medienbericht soll Trump nun die Aufhebung befohlen haben. Der US-Präsident bezieht selbst Stellung dazu …"
+        },
+        {
+          "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
+          "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
+          "published": "2026-10-23T02:01:08+00:00",
+          "summary": "Drei Tage vor der Parlamentswahl am Sonntag ist in der serbischen Hauptstadt Belgrad eine riesige Menschenmenge zur Abschlusskundgebung der oppositionellen \"Studentenliste\" gekommen."
+        },
+        {
           "title": "tagesschau",
           "link": "https://www.tagesschau.de/tagesschau/ts-81594.html",
           "published": "2026-10-22T22:29:13+00:00",
           "summary": ""
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671004.html",
-          "published": "2026-10-22T22:07:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12936.html",
-          "published": "2026-10-22T21:28:13+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Nach Brunners Traumtor: Freiburg verliert in Monaco",
-          "link": "https://www.sportschau.de/regional/swr/swr-brunner-knackt-den-sc-freiburg-verliert-bei-der-as-monaco-100.html",
-          "published": "2026-10-22T21:20:54+00:00",
-          "summary": "Am zweiten Spieltag der Conference League haben die Fußballer des SC Freiburg bei der AS Monaco die erste Niederlage kassiert."
-        },
-        {
-          "title": "Hoffenheim gewinnt mit 3:0 gegen Lyon",
-          "link": "https://www.sportschau.de/regional/swr/swr-deutlicher-sieg-hoffenheim-schlaegt-olympique-lyon-100.html",
-          "published": "2026-10-22T21:16:24+00:00",
-          "summary": "Die TSG Hoffenheim hat im Heimspiel in der Europa League gegen Olympique Lyon gesiegt. Damit jubelten die Kraichgauer über den ersten Dreier in der laufenden Europa-League-Saison."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Midterms: Trump und Republikaner streiten über Wahlkampfvideo in Ohio",
-          "link": "https://www.handelsblatt.com/politik/international/midterms-trump-und-republikaner-streiten-ueber-wahlkampfvideo-in-ohio/100264354.html",
-          "published": "2026-10-22T21:17:09+00:00",
-          "summary": "Der Gouverneurskandidat der Republikaner in Ohio will seine Kontrahentin als Lügnerin darstellen und holt dafür ihre Mutter vor die Kamera. Selbst Republikaner kritisieren das Video - und Trump?"
+          "title": "Historisches Gedenken: 70 Jahre Ungarn-Aufstand: Der lange Kampf um die Freiheit",
+          "link": "https://www.handelsblatt.com/politik/international/historisches-gedenken-70-jahre-ungarn-aufstand-der-lange-kampf-um-die-freiheit/100264390.html",
+          "published": "2026-10-23T03:00:08+00:00",
+          "summary": "Der Aufstand der Ungarn im Jahr 1956 wurde blutig niedergeschlagen. Die Erinnerung daran war jahrzehntelang tabuisiert. Nun stehen die Feierlichkeiten auch im Zeichen eines politischen Umbruchs."
         },
         {
-          "title": "Autokonzern: Wie die neuen Modelle von Mercedes anlaufen – und welche noch folgen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/autos-wie-die-neuen-modelle-von-mercedes-anlaufen-und-welche-noch-folgen/100263196.html",
-          "published": "2026-10-22T20:10:00+00:00",
-          "summary": "Mit der größten Modelloffensive in der Konzerngeschichte will der Dax-Konzern die Wende erreichen. Das Handelsblatt hat die ersten Zulassungszahlen ausgewertet."
+          "title": "Situation der Krabbenfischer: Warum die Krabbensaison an der Nordsee schlecht läuft",
+          "link": "https://www.handelsblatt.com/politik/deutschland/situation-der-krabbenfischer-warum-die-krabbensaison-an-der-nordsee-schlecht-laeuft/100264389.html",
+          "published": "2026-10-23T03:00:06+00:00",
+          "summary": "Nach einer außergewöhnlich guten Vorsaison erleben die deutschen Krabbenfischer aktuell enttäuschende Fänge. Worauf sie hoffen - und warum Krabbenbrötchen trotzdem nicht viel teurer werden dürften."
         },
         {
-          "title": "Autobauer: Der langfristige Rettungsplan des Ola Källenius – wie Mercedes die Krise überwinden will",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-wie-mercedes-die-krise-ueberwinden-will/100262094.html",
-          "published": "2026-10-22T20:05:00+00:00",
-          "summary": "Der Autokonzern ist in eine gefährliche Abwärtsspirale aus sinkenden Gewinnen und Verkaufszahlen geraten. Das Handelsblatt zeigt, wie das Management gegensteuern will."
+          "title": "Karriere und Partnerschaft: Jobwechsel in der Partnerschaft: Wie wird der Schritt fair?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/karriere-und-partnerschaft-jobwechsel-in-der-partnerschaft-wie-wird-der-schritt-fair/100264379.html",
+          "published": "2026-10-23T02:35:05+00:00",
+          "summary": "Ein Jobwechsel betrifft oft nicht nur die Person, die ihn anstößt: Plötzlich verschieben sich Zeit, Aufgaben und Belastungen im gemeinsamen Alltag. Wie finden Paare heraus, was für beide fair ist?"
         },
         {
-          "title": "Pharma: Krebsimpfstoff-Daten von Moderna und Merck vorzeitig veröffentlicht – Aktien fallen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-kursrutsch-nach-daten-leak-moderna-bis-zu-26-prozent-im-minus/100264349.html",
-          "published": "2026-10-22T19:52:55+00:00",
-          "summary": "Vorzeitig bekannt gewordene Studiendaten zu einem Krebsimpfstoff setzen Moderna und Merck & Co. unter Druck. Zeitweise verlor die Moderna-Aktie bis zu 26 Prozent."
+          "title": "Außenhandel: Zollstreit mit Trump: Pharmabranche erwartet weniger Umsatz",
+          "link": "https://www.handelsblatt.com/politik/deutschland/aussenhandel-zollstreit-mit-trump-pharmabranche-erwartet-weniger-umsatz/100264378.html",
+          "published": "2026-10-23T02:30:16+00:00",
+          "summary": "Drohungen, Unsicherheit, kaum Planbarkeit: Der Streit um Pharmazölle mit Donald Trump hinterlässt Spuren in der Arzneibranche. Nach einem starken Vorjahr geht es abwärts - mit Folgen für die Jobs."
         },
         {
-          "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert sieben Prozent",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-sieben-prozent/100264154.html",
-          "published": "2026-10-22T19:28:26+00:00",
-          "summary": "Steigende Ölpreise und Sorgen im KI‑Sektor lassen zahlreiche Kurse einbrechen. Die Rendite der zehnjährigen US‑Bonds fällt dagegen wieder unter fünf Prozent."
+          "title": "PHP-Sicherheitslücke: IT-Experten fordern umfassende Maßnahmen über Updates hinaus",
+          "link": "https://www.handelsblatt.com/technik/it-internet/php-sicherheitsluecke-it-experten-fordern-umfassende-massnahmen-ueber-updates-hinaus/100264377.html",
+          "published": "2026-10-23T02:30:07+00:00",
+          "summary": "Ein Update ist eingespielt – und trotzdem könnten Hacker längst im System sein. Sicherheitsexperten empfehlen, Logdaten bis zu einem bestimmten Datum zurück zu prüfen. Warum gerade dann?"
         }
       ],
       "error": null
