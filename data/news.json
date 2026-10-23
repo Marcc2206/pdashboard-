@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:45:39+00:00",
+  "generatedAt": "2026-10-23T22:52:31+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-          "published": "2026-10-23T19:45:20+00:00",
-          "summary": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er forderte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12324.html",
-          "published": "2026-10-23T18:37:28+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12932.html",
+          "published": "2026-10-23T20:52:03+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81582.html",
-          "published": "2026-10-23T18:35:13+00:00",
+          "title": "Flughafen Berlin-Brandenburg: Ryanair streicht Verbindungen und schließt Basis",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1671658.html",
+          "published": "2026-10-23T20:45:22+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671568.html",
-          "published": "2026-10-23T18:30:49+00:00",
-          "summary": "CSU trifft sich zu Parteitag in München, Leak wirft neues Licht auf AfD-Spendenskandal, Israel verschärft Kontrollen an der Grenze zum Westjordanland, Musk hebt Starlink-Drosselung laut US-Präsident …"
+          "title": "Saudischer Kronprinz Mohammed bin Salman durch Huthi-Angriffe unter Druck",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1671656.html",
+          "published": "2026-10-23T20:44:25+00:00",
+          "summary": ""
         },
         {
-          "title": "Söder fordert bei CSU-Parteitag Extremistenklausel für Länderfinanzausgleich",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671542.html",
-          "published": "2026-10-23T18:29:49+00:00",
+          "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1671648.html",
+          "published": "2026-10-23T20:41:38+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Markus Söder, CSU-Vorsitzender, \"Herausforderung für die Demokratie sehr, sehr groß\"",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1671644.html",
+          "published": "2026-10-23T20:40:35+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "„Terroristische Tat“: Schüsse in Frankreich – was wir wissen und was nicht",
-          "link": "https://www.handelsblatt.com/politik/international/terroristische-tat-schuesse-in-frankreich-was-wir-wissen-und-was-nicht/100264579.html",
-          "published": "2026-10-23T19:08:44+00:00",
-          "summary": "Bei Schüssen in der Region Paris stirbt ein Mensch, weitere werden verletzt. Der Innenminister spricht von einer „terroristischen Tat“. Was sind die Hintergründe?"
+          "title": "CSU-Parteitag: Führende CSU-Politiker setzen Merz in P-Frage unter Druck",
+          "link": "https://www.handelsblatt.com/politik/deutschland/csu-parteitag-fuehrende-csu-politiker-setzen-merz-in-p-frage-unter-druck/100264620.html",
+          "published": "2026-10-23T22:30:04+00:00",
+          "summary": "Wenn Kanzler Merz am Samstag in München seine Rede hält, warten alle Delegierte auf die Nennung des Namens Ilse Aigner. Die Erwartungen an den CDU-Chef sind konkret und hoch zugleich."
         },
         {
-          "title": "Schüsse aus Auto: „Blutbad“ bei Paris - Terrorermittlungen im Gange",
-          "link": "https://www.handelsblatt.com/politik/international/schuesse-aus-auto-blutbad-bei-paris-terrorermittlungen-im-gange/100264566.html",
-          "published": "2026-10-23T18:55:14+00:00",
-          "summary": "Während Frankreich angespannt auf die am Samstag bevorstehenden Proteste blickt, ereignet sich in der Nähe von Paris eine Schreckenstat. Ein Mensch stirbt, mehrere sind verletzt. Was steckt dahinter?"
+          "title": "Künstliche Intelligenz: Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren/100264618.html",
+          "published": "2026-10-23T22:01:04+00:00",
+          "summary": "OpenAI verschärfte nach Hacking-Attacken durch seine KI die Sicherheits-Maßnahmen. Jetzt geht die ChatGPT-Firma noch weiter und will Top-Modelle lieber in „Offline-Welten“ trainieren."
         },
         {
-          "title": "Midterms: Namen bei Wahl zu ähnlich? Trump befiehlt Klage gegen Alaska",
-          "link": "https://www.handelsblatt.com/politik/international/midterms-namen-bei-wahl-zu-aehnlich-trump-befiehlt-klage-gegen-alaska/100264607.html",
-          "published": "2026-10-23T18:50:53+00:00",
-          "summary": "Ein abgekartetes Spiel der Demokraten oder doch reiner Zufall? Im nördlichsten US-Bundesstaat konkurrieren zwei Republikaner um einen Senatsposten. Nun hat sich der Präsident eingeschaltet."
+          "title": "Staatsfinanzen: Frankreichs Schuldenkrise verschärft sich – Moody’s hält Kreditrating trotzdem stabil",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/frankreich-moodys-haelt-kreditrating-trotz-schuldenkrise-stabil/100264304.html",
+          "published": "2026-10-23T21:48:00+00:00",
+          "summary": "Die Risikoaufschläge für französische Staatsanleihen steigen weiter. Immerhin bleibt dem Land eine Herabstufung der Kreditwürdigkeit erspart. Doch Experten sehen nur eine Atempause."
         },
         {
-          "title": "US-Börsen: Wall Street notiert im Minus – Anleiherenditen sinken",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-anleiherenditen-sinken/100264495.html",
-          "published": "2026-10-23T18:44:00+00:00",
-          "summary": "Trotz starker Quartalsberichte verlieren Techunternehmen. Dabei sorgen sich Anleger nicht nur um die aktuellen Gewinne, sondern um die künftigen. Daher flüchten sie in sichere Anlagen."
+          "title": "Nahost: Israel startet im Westjordanland „Anti-Terror-Operation“",
+          "link": "https://www.handelsblatt.com/politik/international/nahost-israel-startet-im-westjordanland-anti-terror-operation/100264615.html",
+          "published": "2026-10-23T21:42:16+00:00",
+          "summary": "Am Abend startet Israels Armee eigenen Angaben zufolge eine „Anti-Terror-Operation“ im Westjordanland. Damit reagiere man auf den Angriff vom Morgen, heißt es. Am Dienstag wird in dem Land gewählt."
         },
         {
-          "title": "Kriminalität: Minister spricht von „terroristischer Tat“ in Frankreich",
-          "link": "https://www.handelsblatt.com/politik/international/kriminalitaet-minister-spricht-von-terroristischer-tat-in-frankreich/100264561.html",
-          "published": "2026-10-23T18:43:00+00:00",
-          "summary": "Nach den Schüssen in der Region Paris ermittelt die Anti-Terrorstaatsanwaltschaft. Was ist bislang über mögliche Hintergründe bekannt?"
+          "title": "Ukraine-Krieg: Waffenruhe um Oleschky: Moskau und Kiew stimmen zu",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-waffenruhe-um-oleschky-moskau-und-kiew-stimmen-zu/100264605.html",
+          "published": "2026-10-23T20:04:51+00:00",
+          "summary": "Die Menschen in der Kleinstadt Oleschky an der Front leiden. Nach einer US-Mitteilung über eine lokale Waffenruhe kommen auch aus Moskau und Kiew positive Signale."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Nach Druck von Republikanern: USA heben einige Zölle gegen Kanada auf",
+          "link": "https://www.n-tv.de/wirtschaft/USA-heben-einige-Zoelle-gegen-Kanada-auf-id31453130.html",
+          "published": "2026-10-23T22:46:47+00:00",
+          "summary": "Trumps Zölle gegen Kanada bereiten nordischen US-Bundesstaaten teils so große Probleme, dass Republikaner auf Distanz zum Präsidenten gehen. Nun gibt es Hoffnung - wohl auch zur Unterstützung der …"
+        },
+        {
+          "title": "Verbraucherlaune auf Rekordtief: Hoher Ölpreis schickt Wall Street lädiert ins Wochenende",
+          "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-schickt-Wall-Street-laediert-ins-Wochenende-id31453148.html",
+          "published": "2026-10-23T20:44:20+00:00",
+          "summary": "Die schwindelerregenden Investitionen in die KI setzen den Chipaktien zu. Nach tagelangem Aderlass beruhigt sich die Stimmung gegenüber den Tech-Werten ein wenig, während der Ölpreis steigt. Ein …"
+        },
         {
           "title": "\"Deutscher Betriebsrat schließt\": Pilotengewerkschaft wirft Ryanair gezielte Zerstörung vor",
           "link": "https://www.n-tv.de/wirtschaft/Pilotengewerkschaft-wirft-Ryanair-gezielte-Zerstoerung-vor-id31452691.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/IG-Metall-stellt-Volkswagen-Ultimatum-bis-Ende-Oktober-id31451916.html",
           "published": "2026-10-23T13:59:10+00:00",
           "summary": "Der Ton zwischen Volkswagen und seinen Beschäftigten wird rauer. Die IG Metall warnt vor einer \"gewaltigen Maschinerie\", falls der Konzern die Kündigungen der Haustarifverträge nicht zurücknimmt. Zum …"
-        },
-        {
-          "title": "Wochenvorschau: Termine bis 1. November 2026",
-          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-1-November-2026-id31452064.html",
-          "published": "2026-10-23T13:46:15+00:00",
-          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
-        },
-        {
-          "title": "Desaströses Quartal: Autobauer Volvo streicht 2500 Jobs",
-          "link": "https://www.n-tv.de/wirtschaft/Schwedischer-Autohersteller-Volvo-baut-2-500-Stellen-ab-id31450190.html",
-          "published": "2026-10-23T09:27:45+00:00",
-          "summary": "Der schwedische Autohersteller Volvo steckt weiter tief in der Krise. In China bricht der Absatz fast um die Hälfte ein, auch in den USA läuft es schlecht. Der Konzern reagiert. Erneut müssen …"
         }
       ],
       "error": null
