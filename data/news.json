@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:19:18+00:00",
+  "generatedAt": "2026-10-23T09:05:13+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+          "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
+          "published": "2026-10-23T09:03:12+00:00",
+          "summary": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor waren zwei Männer getötet worden, die einen Anschlag geplant …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671042.html",
-          "published": "2026-10-23T03:04:12+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671164.html",
+          "published": "2026-10-23T08:50:14+00:00",
           "summary": ""
         },
         {
-          "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
-          "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
-          "published": "2026-10-23T03:01:38+00:00",
-          "summary": "Die von China kontrollierte autonome Region Tibet wurde von einem Erdbeben getroffen. Dabei sind Häuser zerstört worden - es gibt bisher 16 Tote und Dutzende Verletzte."
+          "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+          "published": "2026-10-23T08:45:11+00:00",
+          "summary": "Sorgen um den Technologiesektor und die Angst vor einer erneuten Eskalation im Nahen Osten drücken auf die Stimmung der Anleger. Der Ölpreis legt kräftig zu, damit steigen auch die Inflationsgefahren."
         },
         {
-          "title": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
-          "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
-          "published": "2026-10-23T02:28:21+00:00",
-          "summary": "Das ukrainische Militär beklagt eine Drosselung von Elon Musks Satelliteninternet. Laut einem Medienbericht soll Trump nun die Aufhebung befohlen haben. Der US-Präsident bezieht selbst Stellung dazu …"
+          "title": "Pferdekutschen im New Yorker Central Park sollen abgeschafft werden",
+          "link": "https://www.tagesschau.de/ausland/amerika/new-york-pferdekutschen-100.html",
+          "published": "2026-10-23T08:36:32+00:00",
+          "summary": "In New York geht eine Ära zu Ende. Die berühmten Pferdekutschen im Central Park werden schrittweise bis Juni 2028 abgeschafft. Der Stadtrat stimmte einem Gesetzesentwurf von Bürgermeister Mamdani zu. …"
         },
         {
-          "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
-          "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
-          "published": "2026-10-23T02:01:08+00:00",
-          "summary": "Drei Tage vor der Parlamentswahl am Sonntag ist in der serbischen Hauptstadt Belgrad eine riesige Menschenmenge zur Abschlusskundgebung der oppositionellen \"Studentenliste\" gekommen."
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81594.html",
-          "published": "2026-10-22T22:29:13+00:00",
-          "summary": ""
+          "title": "Erste schwerere Herbststürme in Deutschland erwartet",
+          "link": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
+          "published": "2026-10-23T08:33:26+00:00",
+          "summary": "Gleich zwei Sturmtiefs ziehen auf Deutschland zu und bringen am Wochenende in weiten Teilen des Landes Sturmböen und viel Regen mit sich. Der Deutsche Wetterdienst hat für viele Regionen Warnungen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Historisches Gedenken: 70 Jahre Ungarn-Aufstand: Der lange Kampf um die Freiheit",
-          "link": "https://www.handelsblatt.com/politik/international/historisches-gedenken-70-jahre-ungarn-aufstand-der-lange-kampf-um-die-freiheit/100264390.html",
-          "published": "2026-10-23T03:00:08+00:00",
-          "summary": "Der Aufstand der Ungarn im Jahr 1956 wurde blutig niedergeschlagen. Die Erinnerung daran war jahrzehntelang tabuisiert. Nun stehen die Feierlichkeiten auch im Zeichen eines politischen Umbruchs."
+          "title": "+++ Ukraine-Krieg +++: Musk hat Starlink-Zugang für Ukraine laut Trump wiederhergestellt",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-musk-hat-starlink-zugang-fuer-ukraine-laut-trump-wiederhergestellt/27982126.html",
+          "published": "2026-10-23T08:54:13+00:00",
+          "summary": "Erster russischer Diesel-Tanker auf dem Weg in die USA +++ Stromausfall für 500.000 Menschen nach russischen Angriffen +++ Österreich weist vier russische Diplomaten aus +++ Der Newsblog."
         },
         {
-          "title": "Situation der Krabbenfischer: Warum die Krabbensaison an der Nordsee schlecht läuft",
-          "link": "https://www.handelsblatt.com/politik/deutschland/situation-der-krabbenfischer-warum-die-krabbensaison-an-der-nordsee-schlecht-laeuft/100264389.html",
-          "published": "2026-10-23T03:00:06+00:00",
-          "summary": "Nach einer außergewöhnlich guten Vorsaison erleben die deutschen Krabbenfischer aktuell enttäuschende Fänge. Worauf sie hoffen - und warum Krabbenbrötchen trotzdem nicht viel teurer werden dürften."
+          "title": "Gehalt: Einkommensrechner 2026: So viel verdienen Sie im Vergleich",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gehalt-finden-sie-heraus-ob-sie-zu-den-spitzenverdienern-gehoeren/100261943.html",
+          "published": "2026-10-23T08:54:00+00:00",
+          "summary": "Gehören Sie zur Oberschicht? Eine neue Studie zeigt den Vergleich: Der interaktive Rechner ermittelt, wo Sie stehen. Für eine Gruppe ist der Aufstieg zu den Topverdienern besonders schwer."
         },
         {
-          "title": "Karriere und Partnerschaft: Jobwechsel in der Partnerschaft: Wie wird der Schritt fair?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/karriere-und-partnerschaft-jobwechsel-in-der-partnerschaft-wie-wird-der-schritt-fair/100264379.html",
-          "published": "2026-10-23T02:35:05+00:00",
-          "summary": "Ein Jobwechsel betrifft oft nicht nur die Person, die ihn anstößt: Plötzlich verschieben sich Zeit, Aufgaben und Belastungen im gemeinsamen Alltag. Wie finden Paare heraus, was für beide fair ist?"
+          "title": "Rohstoffe: Bundesregierung startet Strategie zur Sicherung der Raffinerien",
+          "link": "https://www.handelsblatt.com/politik/deutschland/rohstoffe-bundesregierung-startet-strategie-zur-sicherung-der-raffinerien/100264454.html",
+          "published": "2026-10-23T08:38:54+00:00",
+          "summary": "Der Wegfall von Raffinerien könnte laut Wirtschaftsministerium erhebliche Folgen für die Industrie haben. Vor allem die Chemieindustrie wäre stark betroffen."
         },
         {
-          "title": "Außenhandel: Zollstreit mit Trump: Pharmabranche erwartet weniger Umsatz",
-          "link": "https://www.handelsblatt.com/politik/deutschland/aussenhandel-zollstreit-mit-trump-pharmabranche-erwartet-weniger-umsatz/100264378.html",
-          "published": "2026-10-23T02:30:16+00:00",
-          "summary": "Drohungen, Unsicherheit, kaum Planbarkeit: Der Streit um Pharmazölle mit Donald Trump hinterlässt Spuren in der Arzneibranche. Nach einem starken Vorjahr geht es abwärts - mit Folgen für die Jobs."
+          "title": "Nahost: Westjordanland: Israel bereitet Abriegelung vor",
+          "link": "https://www.handelsblatt.com/politik/international/nahost-westjordanland-israel-bereitet-abriegelung-vor/100264460.html",
+          "published": "2026-10-23T08:30:19+00:00",
+          "summary": "Kurz vor der Wahl in Israel sollen zwei Palästinenser nahe Hebron fünf Menschen bei einem Angriff verletzt haben. Israels Ministerpräsident Netanjahu kündigt Maßnahmen an."
         },
         {
-          "title": "PHP-Sicherheitslücke: IT-Experten fordern umfassende Maßnahmen über Updates hinaus",
-          "link": "https://www.handelsblatt.com/technik/it-internet/php-sicherheitsluecke-it-experten-fordern-umfassende-massnahmen-ueber-updates-hinaus/100264377.html",
-          "published": "2026-10-23T02:30:07+00:00",
-          "summary": "Ein Update ist eingespielt – und trotzdem könnten Hacker längst im System sein. Sicherheitsexperten empfehlen, Logdaten bis zu einem bestimmten Datum zurück zu prüfen. Warum gerade dann?"
+          "title": "Konjunktur: Rohstoffe, Reformen, Rechtsruck: Steht Südamerika vor einem neuen Superzyklus?",
+          "link": "https://www.handelsblatt.com/politik/international/konjunktur-steht-suedamerika-vor-einem-neuen-rohstoff-superzyklus/100261673.html",
+          "published": "2026-10-23T08:28:22+00:00",
+          "summary": "Der weltweite Rohstoffhunger und wirtschaftsfreundliche Regierungen wecken Hoffnungen auf einen neuen Boom. Deutsche Unternehmen sind besonders optimistisch."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "\"Endlich Licht am Horizont\": Baubranche verbucht Rekordzuwachs bei Neuaufträgen",
+          "link": "https://www.n-tv.de/wirtschaft/Baubranche-verbucht-Rekordzuwachs-bei-Neuauftraegen-id31450240.html",
+          "published": "2026-10-23T08:52:08+00:00",
+          "summary": "Staatliche Großaufträge zeigen Wirkung: Im August zählt die Baubranche so viele eingegangene Aufträge wie seit Jahren nicht. Besonders im Straßenbau verzeichnen die Betriebe ein deutliches Plus. Doch …"
+        },
+        {
+          "title": "25 Prozent im Minus: Krebs-Impfstoff erfolgreich - Moderna-Aktie bricht trotzdem ein",
+          "link": "https://www.n-tv.de/wirtschaft/Krebs-Impfstoff-erfolgreich-Moderna-Aktie-bricht-trotzdem-ein-id31450116.html",
+          "published": "2026-10-23T08:49:42+00:00",
+          "summary": "Eine groß angelegte Patientenstudie bestätigt das hohe Potenzial personalisierter Immuntherapien gegen Hautkrebs. Trotz der überzeugenden Studienergebnisse beim Melanom gerät die Aktie von Moderna …"
+        },
+        {
+          "title": "Seltenes Eingeständnis: Heineken warnt vor Umsatzrückgang durch Abnehmspritzen",
+          "link": "https://www.n-tv.de/wirtschaft/Heineken-warnt-vor-Umsatzrueckgang-durch-Abnehmspritzen-id31450076.html",
+          "published": "2026-10-23T08:02:08+00:00",
+          "summary": "Mittel wie Ozempic und Wegovy verändern offenbar nicht nur das Ess-, sondern auch das Trinkverhalten. Heineken sieht darin ein wachsendes Geschäftsrisiko für Brauereien und britische Pubs. Kleinere …"
+        },
+        {
+          "title": "Gewerkschaft mit Fragenkatalog: VW und IG Metall treffen sich zum Krisengipfel - mal wieder",
+          "link": "https://www.n-tv.de/wirtschaft/Autobauer-in-Not-VW-und-IG-Metall-treffen-sich-erneut-zum-Krisengipfel-in-Wolfsburg-id31449692.html",
+          "published": "2026-10-23T06:19:07+00:00",
+          "summary": "Der Autohersteller Volkswagen steckt wie die gesamte Branche in der Krise. Der Konzern will mit einem Mega-Sparpaket gegensteuern. Zahlreiche Vereinbarungen mit der Gewerkschaft sind bereits …"
+        },
+        {
           "title": "Größter Tagesverlust seit Juni: KI-Sorgen setzen dem Nasdaq zu",
           "link": "https://www.n-tv.de/wirtschaft/KI-Sorgen-setzen-dem-Nasdaq-zu-id31449020.html",
           "published": "2026-10-22T21:32:08+00:00",
           "summary": "Die Furcht vor einem kostspieligen KI-Wettrüsten schickt die US-Börsen auf Talfahrt. Besonders Technologiewerte geraten unter Druck. Die Anleihenrenditen geben deutlich nach."
-        },
-        {
-          "title": "Vereinbarung anders verstanden: Emirates fliegt vorerst doch nicht vom Flughafen BER",
-          "link": "https://www.n-tv.de/wirtschaft/Emirates-fliegt-vorerst-doch-nicht-vom-Flughafen-BER-id31448309.html",
-          "published": "2026-10-22T15:47:54+00:00",
-          "summary": "Im September war die Freude groß, dass die Fluggesellschaft Emirates in Zukunft auch Langstreckenflüge vom Hauptstadtflughafen BER anbietet. Nun gibt es Missverständnisse zwischen der …"
-        },
-        {
-          "title": "Drohen nun Streiks?: Schlichtung zwischen Lufthansa und Piloten gescheitert",
-          "link": "https://www.n-tv.de/wirtschaft/Lufthansa-Schlichtung-mit-Piloten-ohne-Ergebnis-beendet-id31447660.html",
-          "published": "2026-10-22T15:22:43+00:00",
-          "summary": "Die Lufthansa und ihre Pilotenvertreter treffen sich zur Schlichtung. Es geht um Gehaltserhöhungen und die betriebliche Altersversorgung. Eine Einigung gibt es nicht. Hinter verschlossenen Türen …"
-        },
-        {
-          "title": "Angriffe von Huthi-Miliz: Ölkonzern Saudi Aramco evakuiert Zentrale",
-          "link": "https://www.n-tv.de/wirtschaft/Oelkonzern-Saudi-Aramco-evakuiert-Zentrale-id31447921.html",
-          "published": "2026-10-22T14:29:26+00:00",
-          "summary": "Der Iran-Krieg lässt den Konflikt zwischen Saudi-Arabien und der jemenitischen Huthi-Miliz erneut aufflammen. Nun räumt der weltweit größte Ölkonzern aus Saudi-Arabien Berichten zufolge seine …"
-        },
-        {
-          "title": "11.200 Euro pro Quadratmeter : Eine Neubauwohnung in München ist teurer als in Paris",
-          "link": "https://www.n-tv.de/wirtschaft/Eine-Neubauwohnung-in-Muenchen-ist-teurer-als-in-Paris-id31447177.html",
-          "published": "2026-10-22T13:43:20+00:00",
-          "summary": "Deutschland dominiert laut einer neuen Auswertung die Top Ten der Städte mit den teuersten Neubauten in Europa. London? Paris? Fehlanzeige."
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX fällt wieder zurück",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-          "published": "2026-10-22T16:36:57+00:00",
-          "summary": "Der DAX hat bei volatilem Handel einen Teil seiner Gewinne vom Vortag wieder abgegeben. Er folgte einer schwachen Wall Street. Es waren mal wieder Nachrichten aus dem US-Tech-Sektor, die die Kurse …"
+          "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+          "published": "2026-10-23T08:45:11+00:00",
+          "summary": "Sorgen um den Technologiesektor und die Angst vor einer erneuten Eskalation im Nahen Osten drücken auf die Stimmung der Anleger. Der Ölpreis legt kräftig zu, damit steigen auch die Inflationsgefahren."
         },
         {
           "title": "Marktbericht: SAP-Umbau trägt Früchte",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "PHP-Sicherheitslücke: „Die Angreifer hatten einen zeitlichen Vorsprung“",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/php-sicherheitsluecke-diese-risiken-bleiben-fuer-unternehmen/100264162.html",
-          "published": "2026-10-22T18:43:00+00:00",
-          "summary": "Lücken in der Programmiersprache PHP bedrohen weltweit Webserver – und damit auch Unternehmen. Welche Gefahr trotz der Notfallupdates bleibt."
+          "title": "Programmiersprache: Viele Webseiten sind nach PHP-Lücke wieder erreichbar",
+          "link": "https://www.wiwo.de/unternehmen/it/php-luecke-viele-webseiten-sind-nach-sicherheitsupdate-wieder-erreichbar/100263975.html",
+          "published": "2026-10-23T08:57:00+00:00",
+          "summary": "Die PHP-Lücke ist geschlossen, aber damit ist die Gefahr nicht gebannt: Hacker könnten sich schon vor dem Update eingenistet haben. Worauf es bei der Suche nach Spuren ankommt."
         },
         {
-          "title": "Ministerpräsidentenkonferenz: Länder fordern Tempo bei Stromsteuer und Spritpreisdeckel",
-          "link": "https://www.wiwo.de/politik/deutschland/ministerpraesidentenkonferenz-laender-fordern-tempo-bei-stromsteuer-und-spritpreisdeckel/100264217.html",
-          "published": "2026-10-22T17:58:00+00:00",
-          "summary": "Die Bezahlbarkeit des täglichen Lebens war zentrales Thema beim Treffen der Länderregierungschefinnen und ‑chefs. Sie mahnen den Bund bei einigen Vorhaben zur Eile und sprechen von Gerechtigkeit."
+          "title": "Mineralölwirtschaft: Bundesregierung startet Strategie zur Sicherung der Raffinerien",
+          "link": "https://www.wiwo.de/unternehmen/energie/raffinerien-bundesregierung-startet-strategie-zur-sicherung-der-mineraloelwirtschaft/100264456.html",
+          "published": "2026-10-23T08:54:56+00:00",
+          "summary": "Die deutschen Raffinerien im Inland produzieren wieder mehr Benzin und Diesel. Trotzdem steht die Raffinerieindustrie weiter unter Druck."
         },
         {
-          "title": "Wirtschaft von oben: Jetzt will China die Welt auch mit E-Fuels fluten",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/kraftstoffe-jetzt-will-china-die-welt-auch-mit-e-fuels-fluten/100263882.html",
-          "published": "2026-10-22T15:38:31+00:00",
-          "summary": "In Europa haben es Hersteller von E-Fuels bislang schwer. China aber steigt nun energisch in die Produktion grüner Kraftstoffe ein, belegen neueste Satellitenbilder."
+          "title": "Telekom-Glasfaserausbau: „Dass sich die Schnäppchenjäger nicht trauen, ist bemerkenswert“",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/telekom-kauft-ruhrfibre-in-essen-droht-ein-glasfaser-monopol/100263910.html",
+          "published": "2026-10-23T08:44:00+00:00",
+          "summary": "Versucht die Telekom, sich durch Übernahmen lokale Monopole zu sichern? Die Marktexpertin Sandra Thomas hält diese Frage für berechtigt."
         },
         {
-          "title": "Anlageideen: Die nächsten 25 Börsenstars",
-          "link": "https://www.wiwo.de/finanzen/boerse/wachstumschancen-auch-ohne-ki-das-sind-die-naechsten-25-boersenstars/100263833.html",
-          "published": "2026-10-22T15:23:00+00:00",
-          "summary": "Von Biotech bis Robotik: Die Zukunft hat mehr zu bieten als KI. Wir stellen fünf Wachstumsbranchen vor – und jeweils fünf Aktien mit besonders viel Potenzial."
+          "title": "Karriere und Beziehung: Jobwechsel in der Partnerschaft – wie wird der Schritt fair?",
+          "link": "https://www.wiwo.de/erfolg/beruf/karriere-und-partnerschaft-jobwechsel-in-der-partnerschaft-wie-wird-der-schritt-fair/100264384.html",
+          "published": "2026-10-23T08:35:19+00:00",
+          "summary": "Ein Jobwechsel betrifft oft nicht nur eine Person: Plötzlich verschieben sich Zeit und Belastungen im gemeinsamen Alltag. Wie finden Paare heraus, was gerecht machbar ist?"
         },
         {
-          "title": "Autobauer: VW stellt Fahrassistenz-Entwicklung in Europa neu auf",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-autobauer-stellt-fahrassistenz-entwicklung-cariad-in-europa-neu-auf/100264327.html",
-          "published": "2026-10-22T15:18:23+00:00",
-          "summary": "Gas geben, bremsen, die Spur halten – und bald Hände vom Steuer? Die Entwicklung automatisierter Fahrfunktionen ist kompliziert. Volkswagen bündelt nun die Kräfte in Europa."
+          "title": "Konjunktur: Mehr Großaufträge bescheren Bauindustrie einen Boom",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/baugewerbe-mehr-grossauftraege-bescheren-bauunternehmen-einen-boom/100264445.html",
+          "published": "2026-10-23T08:26:00+00:00",
+          "summary": "Der Anstieg ist der steilste seit Einführung der Statistik. Besonders der Tiefbau treibt den Anstieg, während der Hochbau nur langsam zunimmt."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Für 100.000 Jahre gebaut: Finnland genehmigt das erste Atommüll-Endlager",
+          "link": "https://www.ingenieur.de/fuer-100000-jahre-gebaut-finnland-genehmigt-erstes-atommuell-endlager-9af7f0e4-be56-4e18-b965-5be08d28ef82/",
+          "published": "2026-10-23T08:00:00+00:00",
+          "summary": "Finnland genehmigt das erste Endlager für abgebrannte Brennelemente. Wie Kupfer, Ton und uralter Fels den Atommüll 100.000 Jahre einschließen sollen."
+        },
+        {
+          "title": "Gold aus Quecksilber: Start-up meldet Alchemie per Kernfusion, Bitcoin-Szene jubelt",
+          "link": "https://www.ingenieur.de/gold-aus-quecksilber-start-up-meldet-alchemie-per-kernfusion-bitcoin-szene-jubelt-cb400206-b56a-4e0b-8a55-fcc5d407ee74/",
+          "published": "2026-10-23T07:30:00+00:00",
+          "summary": "Ein US-Start-up meldet, es habe Quecksilber per Kernfusion in Gold verwandelt, zehnmal schneller als zuvor das CERN. Daten dazu fehlen bislang. Die Bitcoin-Szene sieht Gold als Wertspeicher trotzdem …"
+        },
+        {
+          "title": "Monatelang gefangen: Physiker schaffen das fast Unmögliche mit Antimaterie",
+          "link": "https://www.ingenieur.de/monatelang-gefangen-physiker-schaffen-das-fast-unmoegliche-mit-antimaterie-449b837d-9459-405c-b5ed-ec410c330e68/",
+          "published": "2026-10-23T06:00:00+00:00",
+          "summary": "Antimaterie-Teilchen gezähmt: Physiker halten ein Positron monatelang gefangen und kontrollieren seine Quantenzustände."
+        },
+        {
+          "title": "100-mal schneller, 1000-mal weniger Energie: Funken mit Störrauschen",
+          "link": "https://www.ingenieur.de/100-mal-schneller-forscher-machen-aus-stoerrauschen-eine-funkverbindung-a48334fc-b264-4118-956a-77735db12efb/",
+          "published": "2026-10-23T04:48:11+00:00",
+          "summary": "Elektrisches Rauschen gilt als Störfaktor in der Funktechnik. Stanford-Forscher machen es zum Datenträger – und steigern die Übertragungsrate um das Hundertfache."
+        },
+        {
           "title": "Sieht aus wie ein Fahrrad, fährt 130 km/h und bekommt jetzt Millionen",
           "link": "https://www.ingenieur.de/sieht-aus-wie-ein-fahrrad-faehrt-130-km-h-und-bekommt-jetzt-millionen-28e55efa-621e-48b3-86f4-b08763619fc7/",
           "published": "2026-10-22T18:00:00+00:00",
           "summary": "Das Carbon-Lightbike Novus One aus Braunschweig wiegt 121 kg, fährt bis zu 130 km/h und erhält Millionen für Expansion und ein günstigeres Modell."
-        },
-        {
-          "title": "Metall wie neu: Forscher wollen die Alterung von Turbinenschaufeln rückgängig machen",
-          "link": "https://www.ingenieur.de/metall-wie-neu-forscher-wollen-die-alterung-von-turbinenschaufeln-rueckgaengig-machen-a092a667-6d0d-45ab-adbe-0d8ffe1f0e17/",
-          "published": "2026-10-22T17:30:00+00:00",
-          "summary": "Turbinenschaufeln altern durch Hitze und Fliehkräfte. Ein Forschungsprojekt soll zeigen, ob sich die teuren Bauteile regenerieren lassen."
-        },
-        {
-          "title": "Chemie in der Krise: So will das Umweltbundesamt die Industrie bis 2050 umbauen",
-          "link": "https://www.ingenieur.de/chemie-in-der-krise-so-will-das-umweltbundesamt-die-industrie-bis-2050-umbauen-968120c1-aa91-44c5-b2af-02d66dc7a014/",
-          "published": "2026-10-22T15:00:00+00:00",
-          "summary": "Das Umweltbundesamt hat skizziert, wie Europas Chemieindustrie bis 2050 ohne Erdöl und klimaneutral produzieren soll. Branchenverband und Gewerkschaft suchen den Dialog, warnen aber vor …"
-        },
-        {
-          "title": "Vier von zehn Hochschulpatenten verfallen: Warum Europa Erfindungen liegen lässt",
-          "link": "https://www.ingenieur.de/vier-von-zehn-hochschulpatenten-verfallen-warum-europa-erfindungen-liegen-lasst-ad8de697-e403-4350-9822-9a4537d003ab/",
-          "published": "2026-10-22T14:35:58+00:00",
-          "summary": "Europas Hochschulen und Forschungsinstitute melden heute mehr als doppelt so viele Patente an wie vor 20 Jahren. Doch viele davon kommen nie auf den Markt. Eine erste europaweite Studie zeigt, woran …"
-        },
-        {
-          "title": "Wie ein Steinbogen, nur flach? Forschende tüfteln an Decken aus Betonbruch",
-          "link": "https://www.ingenieur.de/wie-ein-steinbogen-nur-flach-forschende-tuefteln-an-decken-aus-betonbruch-051c8e3c-8a67-46d6-a3d5-35ce581abd56/",
-          "published": "2026-10-22T14:10:00+00:00",
-          "summary": "Erst scannen, dann zuschneiden: Die TU Darmstadt will Betonbruch erneut zum Tragen bringen. Ein Prototyp soll das Verfahren erproben."
         }
       ],
       "error": null
