@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:49:11+00:00",
+  "generatedAt": "2026-10-24T17:11:08+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
-          "published": "2026-10-24T13:47:08+00:00",
-          "summary": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in …"
+          "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
+          "published": "2026-10-24T16:51:47+00:00",
+          "summary": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein …"
         },
         {
-          "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-          "published": "2026-10-24T13:41:52+00:00",
-          "summary": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen …"
+          "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
+          "published": "2026-10-24T16:19:11+00:00",
+          "summary": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter …"
         },
         {
-          "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
-          "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
-          "published": "2026-10-24T13:36:26+00:00",
-          "summary": "Flávio Bolsonaro will seinen verurteilten Vater als Präsident beerben - und wohl auch aus der Haft befreien. Trotz allem: Für seine Anhänger ist der Familienname sein wichtigstes Kapital bei der …"
+          "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
+          "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html",
+          "published": "2026-10-24T16:06:57+00:00",
+          "summary": "Nach dem tödlichen Angriff auf israelische Soldaten geht die Armee weiter gegen Palästinenser in Hebron vor. Hunderte Menschen mussten überstürzt ihre Häuser verlassen. Von Bettina Meier."
         },
         {
-          "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-100.html",
-          "published": "2026-10-24T13:33:20+00:00",
-          "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich finden heute erneut große Demonstrationen statt. Bis zum frühen Nachmittag gab es mehr als 100 Festnahmen. 70.000 Ordnungskräfte sind im …"
+          "title": "Halbzit-Gala von RB Leipzig schickt SV Elversberg in die Auswärtskrise",
+          "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+          "published": "2026-10-24T15:39:52+00:00",
+          "summary": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde."
         },
         {
-          "title": "Israelische Armee startet Einsatz in Hebron",
-          "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
-          "published": "2026-10-24T13:23:19+00:00",
-          "summary": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische …"
+          "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+          "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+          "published": "2026-10-24T15:29:30+00:00",
+          "summary": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Interview mit Christian Freuding: „Modernität bemisst sich nicht mehr in der Dicke des Panzerstahls“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-modernitaet-bemisst-sich-nicht-mehr-in-der-dicke-des-panzerstahls/100262564.html",
-          "published": "2026-10-24T13:15:13+00:00",
-          "summary": "Heeresinspekteur Freuding über seine Erwartung an den „App-Store“ der Bundeswehr, die Enttäuschung über Rüstungsprojekte und die Frage, warum 50 Jahre alte Schützenpanzer digital funken müssen."
+          "title": "Einsatz von Tränengas: 410.000 Menschen nehmen an Protesten in Frankreich teil",
+          "link": "https://www.handelsblatt.com/politik/international/einsatz-von-traenengas-410000-menschen-nehmen-an-protesten-in-frankreich-teil/100264684.html",
+          "published": "2026-10-24T16:35:27+00:00",
+          "summary": "In Frankreich gehen am Wochenende wieder Hunderttausende auf die Straße. Zunächst bleibt es weitgehend ruhig. Am späten Nachmittag heizt sich die Stimmung in mehreren Städten auf."
         },
         {
-          "title": "Demonstrationen: Protesttag in Frankreich: Viele Kontrollen und Festnahmen",
-          "link": "https://www.handelsblatt.com/politik/international/demonstrationen-protesttag-in-frankreich-viele-kontrollen-und-festnahmen/100264684.html",
-          "published": "2026-10-24T13:03:33+00:00",
-          "summary": "70.000 Beamte, Demo-Verbote in Innenstädten und Streit um Routen: Frankreich geht mit massiver Polizeipräsenz und Einschränkungen gegen mögliche Ausschreitungen vor. Zunächst bleibt es ruhig."
+          "title": "Deutschland: Keine Angst vor 2033 – auch der Weltuntergang ist nicht mehr das, was er einmal war",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/deutschland-wir-sollten-erinnerung-nicht-mit-einer-prognose-verwechseln/100263609.html",
+          "published": "2026-10-24T15:56:05+00:00",
+          "summary": "Deutschland ist in vielen Bereichen Weltmarktführer – auch für den Weltuntergang. Die Zukunft ist zum Glück aber immer anders als die Vergangenheit – und als gedacht. Ein Essay."
         },
         {
-          "title": "CSU-Parteitag: Die große Ilse-Aigner-Show",
-          "link": "https://www.handelsblatt.com/politik/deutschland/csu-parteitag-die-grosse-ilse-aigner-show/100264620.html",
-          "published": "2026-10-24T12:34:12+00:00",
-          "summary": "Küsschen rechts, Küsschen links: So begrüßt der Kanzler Ilse Aigner – woraufhin der CSU-Parteitag in Jubel ausbricht. Zur P-Frage kommt aber dann: nichts."
+          "title": "Frankreich: Bardella als Parteichef der Rechtsnationalen wiedergewählt",
+          "link": "https://www.handelsblatt.com/politik/international/frankreich-bardella-als-parteichef-der-rechtsnationalen-wiedergewaehlt/100264694.html",
+          "published": "2026-10-24T15:10:27+00:00",
+          "summary": "Für Marine Le Pens politischen Ziehsohn läuft es bei der Wahl letztlich wie geplant. Dabei ziehen während der Veranstaltung des Rassemblement National Demonstrierende durch die Stadt."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Satellitenverbindung von SpaceX laut Ukraine wieder stabil",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-satellitenverbindung-von-spacex-laut-ukraine-wieder-stabil/27982126.html",
-          "published": "2026-10-24T12:31:20+00:00",
-          "summary": "Stromausfälle auf der Krim +++ Angriff auf ukrainischen Hafen und Frachtschiff +++ Waffenruhe um Oleschky: Moskau und Kiew reagieren positiv +++ Der Newsblog."
+          "title": "Elektroautos: Die Spritpreise steigen – und gebrauchte E-Autos sind plötzlich gefragt",
+          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/gebrauchte-elektroautos-warum-die-restwerte-ploetzlich-steigen/100264471.html",
+          "published": "2026-10-24T14:40:29+00:00",
+          "summary": "Jahrelang galten gebrauchte Elektroautos als Ladenhüter. Seit Jahresbeginn ziehen die Preise plötzlich an. Bei den einzelnen Marken und Modellen gibt es große Unterschiede."
         },
         {
-          "title": "Frankreich: Terrortat bei Paris – Festnahmen im Umfeld des Verdächtigen",
-          "link": "https://www.handelsblatt.com/politik/international/frankreich-terrortat-bei-paris-festnahmen-im-umfeld-des-verdaechtigen/100264683.html",
-          "published": "2026-10-24T12:21:45+00:00",
-          "summary": "Ein Toter und fünf Verletzte: Nach den Schüssen in Trappes und La Verrière bleibt der Hauptverdächtige in Polizeigewahrsam. Die Ermittler prüfen Spuren in seinem engeren Umfeld."
+          "title": "Medien: Deutsche TV-Sender fluten Youtube – trotz des Risikos",
+          "link": "https://www.handelsblatt.com/unternehmen/it-medien/medien-deutsche-tv-sender-fluten-youtube-trotz-des-risikos/100263241.html",
+          "published": "2026-10-24T14:39:17+00:00",
+          "summary": "Die Plattform bringt RTL und Pro Sieben Millionenumsätze und ein junges Publikum. Zugleich wächst die Abhängigkeit vom Algorithmus und von Zahlen, die die Sender nicht kontrollieren."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Thema noch nicht begraben?: Verkehrsminister Bilger findet flexibles Deutschlandticket \"spannende Idee\"",
+          "link": "https://www.n-tv.de/wirtschaft/Verkehrsminister-Bilger-findet-flexibles-Deutschlandticket-spannende-Idee-id31454568.html",
+          "published": "2026-10-24T16:09:07+00:00",
+          "summary": "Der Vorschlag eines Deutschlandtickets für Gelegenheitsfahrer findet im Bund einen prominenten Fürsprecher: Bundesverkehrsminister Bilger zeigt sich offen für ein bundesweites Nahverkehrsticket, bei …"
+        },
         {
           "title": "Plan in Auftrag gegeben: Sorge vor Bankensanktionen - Netanjahu erwägt Kryptowährungen",
           "link": "https://www.n-tv.de/wirtschaft/Sorge-vor-Bankensanktionen-Netanjahu-erwaegt-Kryptowaehrungen-id31454137.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Streit-mit-Zulieferer-legt-offenbar-Produktion-des-Boeing-Frachters-777-lahm-id31453633.html",
           "published": "2026-10-24T08:24:27+00:00",
           "summary": "Insidern zufolge ruht bei Boeing die Produktion des Frachtflugzeugs 777, weil ein \"unverzichtbares\" Bauteil für die Tragflächen fehlt. Der Lieferstopp soll den Konzern mehrere Millionen Dollar pro …"
-        },
-        {
-          "title": "Kaum eine Chance gegen China: Europas letztem Penicillin-Werk droht das Ende",
-          "link": "https://www.n-tv.de/wirtschaft/Europas-letztem-Penicillin-Werk-droht-das-Ende-id31444257.html",
-          "published": "2026-10-24T07:28:46+00:00",
-          "summary": "2022 werden die Vorräte an Penicillin knapp. Die EU gibt Gelder frei, um das einzige europäische Werk in Kundl auszubauen. Doch hohe Kosten und Billigware aus China machen der Fabrik schwer zu …"
         }
       ],
       "error": null
@@ -172,6 +172,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Studie: Verdirbt Geld tatsächlich den Charakter?",
+          "link": "https://www.wiwo.de/erfolg/beruf/veraendert-geld-den-charakter-was-eine-langzeitstudie-zeigt/100263849.html",
+          "published": "2026-10-24T15:59:00+00:00",
+          "summary": "Ein Forscherteam hat ausgewertet, wie Einkommen und Persönlichkeit zusammenhängen. Ein Ergebnis: Wer mehr verdient, wird weniger gesellig. Woran das liegen könnte."
+        },
+        {
           "title": "WiWo History: Neckermann macht's nicht mehr möglich – das Ende eines Katalog-Imperiums",
           "link": "https://www.wiwo.de/unternehmen/handel/wiwo-history-so-endete-das-katalog-imperium-von-neckermann/100246489.html",
           "published": "2026-10-24T13:14:00+00:00",
@@ -194,12 +200,6 @@
           "link": "https://www.wiwo.de/unternehmen/handel/lindt-schokolade-chef-adalbert-lechner-erhoehte-die-preise-und-verlor-seinen-job/100263240.html",
           "published": "2026-10-24T12:45:00+00:00",
           "summary": "Der Schokoladenhersteller hat bei den Preisen den Bogen überspannt. Jetzt muss er nachsteuern – mit attraktiveren Produkten und einem neuen Chef."
-        },
-        {
-          "title": "Mercedes-Benz: Mit diesen Abfindungen dürfen Mercedes-Mitarbeiter rechnen",
-          "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-das-sind-die-neuen-konditionen-fuer-abfindung-und-turbopraemie/100263930.html",
-          "published": "2026-10-24T12:40:00+00:00",
-          "summary": "Das Abfindungsprogramm von Mercedes geht in die heiße Phase. Der Autobauer hat seine Betriebsräte über die geplanten Konditionen informiert. So viel Geld gibt es ab Dezember."
         }
       ],
       "error": null
