@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T03:13:00+00:00",
+  "generatedAt": "2026-10-24T08:37:26+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
+          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+          "published": "2026-10-24T08:27:08+00:00",
+          "summary": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81666.html",
+          "published": "2026-10-24T08:15:59+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+          "published": "2026-10-24T08:11:10+00:00",
+          "summary": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen …"
+        },
+        {
+          "title": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht",
+          "link": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
+          "published": "2026-10-24T07:43:46+00:00",
+          "summary": "Vincent Kompany ist nach einer Trainingseinheit zusammengebrochen und wurde in ein Münchner Krankenhaus gebracht. Der Verein bestätigte entsprechende Medienberichte. Sein Zustand sei stabil."
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671698.html",
-          "published": "2026-10-24T03:06:15+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Wie sieht die Zukunft der Raffinerien aus?",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
-          "published": "2026-10-24T01:06:57+00:00",
-          "summary": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. …"
-        },
-        {
-          "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-          "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
-          "published": "2026-10-24T01:01:43+00:00",
-          "summary": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte …"
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12932.html",
-          "published": "2026-10-23T20:52:03+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Flughafen Berlin-Brandenburg: Ryanair streicht Verbindungen und schließt Basis",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1671658.html",
-          "published": "2026-10-23T20:45:22+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671726.html",
+          "published": "2026-10-24T07:37:04+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Proteste: Anspannung in Frankreich vor Demos und möglichen Krawallen",
-          "link": "https://www.handelsblatt.com/politik/international/proteste-anspannung-in-frankreich-vor-demos-und-moeglichen-krawallen/100264643.html",
-          "published": "2026-10-24T03:00:09+00:00",
-          "summary": "70.000 Beamte, verbotene Kundgebungen und verrammelte Schaufenster: Frankreich bereitet sich auf neue Proteste vor. Doch selbst bei erlaubten Demos gibt es Streit um die Route."
+          "title": "KI: Moonshot bremst Hacking-Fähigkeiten des neuesten Modells",
+          "link": "https://www.handelsblatt.com/technik/ki/ki-moonshot-bremst-hacking-faehigkeiten-des-neuesten-modells/100264662.html",
+          "published": "2026-10-24T08:34:18+00:00",
+          "summary": "Moonshot AI schränkt sein eigenes KI-Modell ein. Kimi K3.1 Pro soll weniger gut hacken können. Dazu wurden Cybersicherheits-Daten aus dem Training entfernt."
         },
         {
-          "title": "Künstliche Intelligenz: Umfrage: Große Mehrheit für weltweit gültige KI-Regeln",
-          "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-umfrage-grosse-mehrheit-fuer-weltweit-gueltige-ki-regeln/100264640.html",
-          "published": "2026-10-24T02:39:04+00:00",
-          "summary": "International wird über weltweit gültige Regeln für den Einsatz von Künstlicher Intelligenz (KI) diskutiert. Wie sehen das die Deutschen?"
+          "title": "Luftfahrt: Boeing stoppt Produktion des Frachters 777",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/luftfahrt-boeing-stoppt-produktion-des-frachters-777/100264660.html",
+          "published": "2026-10-24T08:32:39+00:00",
+          "summary": "Der Grund für die Stilllegung sei Insidern zufolge ein Streit mit dem Zulieferer. Auch die Fertigung des Modells 767 sei betroffen. Boeing will sich künftig selbst absichern."
         },
         {
-          "title": "P-Frage: Merz beim CSU-Parteitag unter Zugzwang",
-          "link": "https://www.handelsblatt.com/politik/deutschland/p-frage-merz-beim-csu-parteitag-unter-zugzwang/100264638.html",
-          "published": "2026-10-24T02:30:04+00:00",
-          "summary": "Die CSU will Aigner. Wen will Merz? Der Druck auf den Kanzler wächst, die Kandidatur für das Bundespräsidentenamt zu klären. Lässt er heute auf großer Bühne etwas durchblicken?"
+          "title": "Raumfahrt: Nasa hält trotz Herausforderungen an Mond-Plänen fest",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-nasa-haelt-trotz-herausforderungen-an-mond-plaenen-fest/100264659.html",
+          "published": "2026-10-24T08:12:44+00:00",
+          "summary": "Nach der erfolgreichen „Artemis 2“-Mission feilt die US-Raumfahrtbehörde weiter an neuen Mond-Plänen. Können sich schon in einigen Jahren dort dauerhaft Menschen aufhalten?"
         },
         {
-          "title": "Die Lage im Überblick: Israel startet „Anti-Terror-Operation“ im Westjordanland",
-          "link": "https://www.handelsblatt.com/politik/international/die-lage-im-ueberblick-israel-startet-anti-terror-operation-im-westjordanland/100264615.html",
-          "published": "2026-10-24T02:14:35+00:00",
-          "summary": "Am Abend beginnt Israels Armee eigenen Angaben zufolge einen Einsatz gegen Terroristen im Westjordanland. Damit reagiere man auf den Angriff vom Morgen, heißt es. Am Dienstag wird in Israel gewählt."
+          "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
+          "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html",
+          "published": "2026-10-24T08:00:00+00:00",
+          "summary": "Laut allen Umfragen der vergangenen Monate verliert Israels Premier seine Mehrheit. Es gibt allerdings drei Szenarien, wie er dennoch an der Macht bleiben könnte."
         },
         {
-          "title": "Die Lage im Überblick: Waffenruhe um Frontstadt Oleschky - Zeichen aus Moskau?",
-          "link": "https://www.handelsblatt.com/politik/international/die-lage-im-ueberblick-waffenruhe-um-frontstadt-oleschky-zeichen-aus-moskau/100264605.html",
-          "published": "2026-10-24T02:00:32+00:00",
-          "summary": "Die Menschen in der Kleinstadt Oleschky an der Front leiden. Nach einer US-Mitteilung über eine lokale Waffenruhe kommen auch aus Moskau und Kiew positive Signale. Gehen sie über den einen Ort hinaus?"
+          "title": "Zollstreit: Trump hebt Zölle auf bestimmte kanadische Waren auf",
+          "link": "https://www.handelsblatt.com/politik/international/zollstreit-trump-hebt-zoelle-auf-bestimmte-kanadische-waren-auf/100264655.html",
+          "published": "2026-10-24T07:38:19+00:00",
+          "summary": "Kurz vor den Zwischenwahlen am 3. November lockert das Weiße Haus die Zölle auf Agrar- und Forstprodukte aus Kanada. Andere Güter wurden jedoch neu auf die Liste gesetzt."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Nach Druck von Republikanern: USA heben einige Zölle gegen Kanada auf",
-          "link": "https://www.n-tv.de/wirtschaft/USA-heben-einige-Zoelle-gegen-Kanada-auf-id31453130.html",
-          "published": "2026-10-23T22:46:47+00:00",
-          "summary": "Trumps Zölle gegen Kanada bereiten nordischen US-Bundesstaaten teils so große Probleme, dass Republikaner auf Distanz zum Präsidenten gehen. Nun gibt es Hoffnung - wohl auch zur Unterstützung der …"
+          "title": "Ausnahmen drohen wegzufallen: Fischern in der Ostsee könnte \"einziger Strohhalm\" genommen werden",
+          "link": "https://www.n-tv.de/wirtschaft/Fischern-in-der-Ostsee-koennte-einziger-Strohhalm-genommen-werden-id31453704.html",
+          "published": "2026-10-24T08:36:54+00:00",
+          "summary": "Die EU-Landwirtschaftsminister entscheiden über neue Fangquoten für die Ostsee. Ein von der Kommission eingebrachter Vorschlag birgt keine guten Nachrichten für die Ostseefischer."
         },
         {
-          "title": "Verbraucherlaune auf Rekordtief: Hoher Ölpreis schickt Wall Street lädiert ins Wochenende",
-          "link": "https://www.n-tv.de/wirtschaft/Hoher-Oelpreis-schickt-Wall-Street-laediert-ins-Wochenende-id31453148.html",
-          "published": "2026-10-23T20:44:20+00:00",
-          "summary": "Die schwindelerregenden Investitionen in die KI setzen den Chipaktien zu. Nach tagelangem Aderlass beruhigt sich die Stimmung gegenüber den Tech-Werten ein wenig, während der Ölpreis steigt. Ein …"
+          "title": "Flugzeugbauer klagt: Streit mit Zulieferer legt offenbar Produktion des Boeing-Frachters 777 lahm",
+          "link": "https://www.n-tv.de/wirtschaft/Streit-mit-Zulieferer-legt-offenbar-Produktion-des-Boeing-Frachters-777-lahm-id31453633.html",
+          "published": "2026-10-24T08:24:27+00:00",
+          "summary": "Insidern zufolge ruht bei Boeing die Produktion des Frachtflugzeugs 777, weil ein \"unverzichtbares\" Bauteil für die Tragflächen fehlt. Der Lieferstopp soll den Konzern mehrere Millionen Dollar pro …"
         },
         {
-          "title": "\"Deutscher Betriebsrat schließt\": Pilotengewerkschaft wirft Ryanair gezielte Zerstörung vor",
-          "link": "https://www.n-tv.de/wirtschaft/Pilotengewerkschaft-wirft-Ryanair-gezielte-Zerstoerung-vor-id31452691.html",
-          "published": "2026-10-23T17:15:01+00:00",
-          "summary": "Ryanair schließt seine Basis in Berlin. Die \"Vereinigung Cockpit\" wirft der Airline daraufhin gezielte Schwächung von gewerkschaftlichen Strukturen vor. Im April hatte die Gewerkschaft noch einen …"
+          "title": "Kaum eine Chance gegen China: Europas letztem Penicillin-Werk droht das Ende",
+          "link": "https://www.n-tv.de/wirtschaft/Europas-letztem-Penicillin-Werk-droht-das-Ende-id31444257.html",
+          "published": "2026-10-24T07:28:46+00:00",
+          "summary": "2022 werden die Vorräte an Penicillin knapp. Die EU gibt Gelder frei, um das einzige europäische Werk in Kundl auszubauen. Doch hohe Kosten und Billigware aus China machen der Fabrik schwer zu …"
         },
         {
-          "title": "Beinahe-Unfall in München : Behörde stuft missglückte Airbus-Landung als \"schwere Störung\" ein",
-          "link": "https://www.n-tv.de/wirtschaft/Behoerde-stuft-missglueckte-Airbus-Landung-als-schwere-Stoerung-ein-id31451904.html",
-          "published": "2026-10-23T14:06:27+00:00",
-          "summary": "Mitte August landet ein Flugzeug der Lufthansa am Münchner Flughafen deutlich zu früh. Mehrere Reifen der Maschine sowie Beleuchtungsanlagen nahe der Landebahn werden beschädigt. Die zuständige …"
+          "title": "Tarifstreit wird brenzlig: VW und IG Metall steuern auf beispiellose Eskalation zu",
+          "link": "https://www.n-tv.de/wirtschaft/VW-und-IG-Metall-steuern-auf-beispiellose-Eskalation-zu-id31453501.html",
+          "published": "2026-10-24T06:28:00+00:00",
+          "summary": "Volkswagen will im großen Stil Stellen streichen. Dagegen wehrt sich die IG Metall. Vieles spricht dafür, dass sich die anstehenden Verhandlungen bis ins kommende Jahr ziehen werden. Um welche Punkte …"
         },
         {
-          "title": "\"Wir sind vorbereitet\": IG Metall stellt Volkswagen Ultimatum bis Ende Oktober",
-          "link": "https://www.n-tv.de/wirtschaft/IG-Metall-stellt-Volkswagen-Ultimatum-bis-Ende-Oktober-id31451916.html",
-          "published": "2026-10-23T13:59:10+00:00",
-          "summary": "Der Ton zwischen Volkswagen und seinen Beschäftigten wird rauer. Die IG Metall warnt vor einer \"gewaltigen Maschinerie\", falls der Konzern die Kündigungen der Haustarifverträge nicht zurücknimmt. Zum …"
+          "title": "Übernahme erfolgreich: Briten übernehmen das Ruder bei Hugo Boss",
+          "link": "https://www.n-tv.de/wirtschaft/Briten-uebernehmen-das-Ruder-bei-Hugo-Boss-id31453453.html",
+          "published": "2026-10-24T05:14:22+00:00",
+          "summary": "Hugo Boss hat einen neuen Mehrheitseigentümer. Die britische Frasers-Holding von Milliardär Mike Ashley stockt den eigenen Anteil am schwäbischen Modekonzern auf über 50 Prozent auf."
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Immobilien: „Da bahnt sich ein neues Drama an“ – wie McMakler um den Neuanfang ringt",
-          "link": "https://www.wiwo.de/finanzen/immobilien/mcmakler-neuer-jahresabschluss-schuert-zweifel-an-der-unternehmenszukunft/100262793.html",
-          "published": "2026-10-23T16:48:30+00:00",
-          "summary": "Bei McMakler bröckelt das Geschäft weiter weg. Eine neue Führung will das Start-up nun endlich in die Gewinnzone führen. Kann das gelingen?"
+          "title": "Leben mit Aktien: „Nicht alle Eier in einen Korb“ – wie Sie die Börsenregel richtig umsetzen",
+          "link": "https://www.wiwo.de/finanzen/boerse/geldanlage-so-funktioniert-die-diversifizierung-im-portfolio/100264119.html",
+          "published": "2026-10-24T08:00:00+00:00",
+          "summary": "Wer breit streut, ist besser vor Verlusten geschützt, besagt eine alte Börsenregel. Die breite Streuung ist aber schwieriger umzusetzen, als es scheint."
         },
         {
-          "title": "Zeitumstellung 2026: Wann genau werden die Uhren auf Winterzeit umgestellt?",
-          "link": "https://www.wiwo.de/politik/deutschland/zeitumstellung-2026-wann-genau-werden-die-uhren-auf-winterzeit-umgestellt/29166720.html",
-          "published": "2026-10-23T16:03:00+00:00",
-          "summary": "Seit über 40 Jahren werden in Deutschland die Uhren regelmäßig umgestellt – darüber wird heftig debattiert. Bald steht die nächste Zeitumstellung an."
+          "title": "Deutsche Konjunktur: Hoffnung für unsere Exporteure",
+          "link": "https://www.wiwo.de/politik/konjunktur/deutsche-konjunktur-hoffnung-fuer-unsere-exporteure/100259030.html",
+          "published": "2026-10-24T07:52:24+00:00",
+          "summary": "Das Exportklima hellt sich leicht auf. Fachleute sehen allerdings noch keine echte Trendwende. Die Hoffnung liegt auf einem weltweiten Aufschwung."
         },
         {
-          "title": "Übernahmepoker: Dieses US-Unternehmen könnte Evonik vor einer Übernahme durch BASF schützen",
-          "link": "https://www.wiwo.de/unternehmen/industrie/evonik-prueft-ashland-kauf-abwehr-gegen-uebernahme-durch-basf/100264549.html",
-          "published": "2026-10-23T15:32:15+00:00",
-          "summary": "Evonik erwägt, in den USA zuzukaufen: Ashland, gut 3,3 Milliarden Dollar wert, steht unter dem Druck aktivistischer Investoren. Warum das Unternehmen ein attraktives Übernahmeziel ist."
+          "title": "Handelskonflikt: USA passt einige Kanada-Zölle an – Druck aus Grenzstaaten",
+          "link": "https://www.wiwo.de/politik/ausland/handelskonflikt-usa-passt-einige-kanada-zoelle-an-druck-aus-grenzstaaten/100264657.html",
+          "published": "2026-10-24T07:27:22+00:00",
+          "summary": "Der Handelskonflikt mit Kanada belastet viele grenznahe US-Bundesstaaten – und damit auch den Wahlkampf einiger Kandidaten aus Trumps Partei."
         },
         {
-          "title": "IG-Metall-Drohung: Was braut sich da über VW zusammen?",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-kuendigt-haustarif-ig-metall-droht-mit-historischem-konflikt/100264580.html",
-          "published": "2026-10-23T15:30:00+00:00",
-          "summary": "Zehn gekündigte Tarifverträge, 130.000 betroffene Beschäftigte und ein Ultimatum der IG Metall: Bei VW steuert der Konflikt um Sparpläne und Stellenabbau auf eine historische Eskalation zu."
+          "title": "Wirtschaft von oben: Jetzt will China die Welt auch mit E-Fuels fluten",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/e-fuels-so-will-china-die-welt-auch-mit-gruenen-kraftstoffen-fluten/100263882.html",
+          "published": "2026-10-24T06:15:00+00:00",
+          "summary": "In Europa haben es Hersteller von E-Fuels bislang schwer. China aber steigt nun energisch in die Produktion grüner Kraftstoffe ein, belegen neueste Satellitenbilder."
         },
         {
-          "title": "Rohstoffe: Bundesregierung gibt weiteren Teil der Ölreserve frei",
-          "link": "https://www.wiwo.de/politik/deutschland/oelpreis-bundesregierung-gibt-weiteren-teil-der-oelreserve-frei/100264574.html",
-          "published": "2026-10-23T14:45:05+00:00",
-          "summary": "Anfang Oktober hatten die G7 beschlossen, Ölvorräte auf den Markt zu werfen. Deutschland kommt dem nun nach. Damit sollen die Ölpreise stabilisiert werden."
+          "title": "Nvidia-CEO Jensen Huang: Der Tech-Superstar und sein gefährlicher Geld-Kreislauf",
+          "link": "https://www.wiwo.de/unternehmen/it/nvidia-wie-der-fall-coreweave-den-riskanten-geldkreislauf-im-ki-boom-zeigt/100264111.html",
+          "published": "2026-10-24T04:09:00+00:00",
+          "summary": "Nvidia verdient Milliarden am KI-Boom, der CEO wird gefeiert, wo immer er auftaucht. Weniger beachtet: Nvidia finanziert einen bedeutenden Teil dieses Hypes inzwischen selbst."
         }
       ],
       "error": null
@@ -210,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Kehlsteinhaus in Flammen: Wie das Bauwerk auf 1834 Metern entstand",
+          "link": "https://www.ingenieur.de/kehlsteinhaus-in-flammen-wie-das-bauwerk-auf-1834-metern-entstand-4b819204-8746-4cca-905b-99e54c534688/",
+          "published": "2026-10-24T07:15:39+00:00",
+          "summary": "Kehlsteinhaus in Flammen: 3800 Arbeiter, fünf Tunnel und ein Aufzug mitten im Fels. So entstand das Bauwerk auf 1834 m Höhe."
+        },
+        {
+          "title": "40 m in acht Tagen: Wie in Hamburg zwei Betontürme rund um die Uhr wuchsen",
+          "link": "https://www.ingenieur.de/40-m-in-die-hoehe-in-acht-tagen-b647f39b-9b65-43b6-b78a-05b953a004fb/",
+          "published": "2026-10-24T06:00:00+00:00",
+          "summary": "Für das neue Gaskraftwerk Dradenau in Hamburg entstanden zwei 40 m hohe Treppentürme in je acht Tagen. Möglich machte das eine Schalung, die rund um die Uhr mit dem Beton nach oben wandert."
+        },
         {
           "title": "Ein zusätzlicher Computer soll Biogasanlagen fit für Dunkelflauten machen",
           "link": "https://www.ingenieur.de/ein-zusaetzlicher-computer-soll-biogasanlagen-fit-fuer-dunkelflauten-machen-1279ec2c-8c5e-40ff-969b-fe891d767a18/",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/bosch-macht-autogeschaeft-eigenstaendig-was-wird-aus-der-milliardenforschung-94d8ecd7-6ed6-47b7-85fe-5fa7ba3a2a70/",
           "published": "2026-10-23T12:30:00+00:00",
           "summary": "Bosch macht sein Autogeschäft eigenständig. Die zentrale Forschung bleibt. Was bedeutet das für 5,9 Mrd. € Forschungs- und Entwicklungskosten?"
-        },
-        {
-          "title": "Wie 256 Lautsprecher einen Wasserstrahl durch die Luft lenken",
-          "link": "https://www.ingenieur.de/wie-256-lautsprecher-einen-wasserstrahl-durch-die-luft-lenken-b02593f1-570b-453f-8996-b5629190a6ac/",
-          "published": "2026-10-23T12:00:00+00:00",
-          "summary": "Forscher der Universität Helsinki haben eine wandlose Röhre gebaut: Nichts als Schall hält das Material in der Spur. Der Prototyp leitet Wasser waagerecht durch die Luft und könnte Stoffe befördern …"
-        },
-        {
-          "title": "Kung-Fu-Roboter H2-X: Humanoide können kämpfen, aber nicht Treppen steigen",
-          "link": "https://www.ingenieur.de/kung-fu-roboter-h2-x-humanoide-konnen-kampfen-aber-nicht-treppen-steigen-49c7c5d3-6089-4293-beca-b86cae39d9af/",
-          "published": "2026-10-23T11:30:00+00:00",
-          "summary": "In Werbevideos zeigen humanoide Roboter Saltos und Kung-Fu-Tritte. Im Alltag scheitern sie teils schon an Treppen. Fachleute erklären, woran das liegt und warum die Videos täuschen können."
         }
       ],
       "error": null
