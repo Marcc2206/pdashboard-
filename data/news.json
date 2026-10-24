@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:11:08+00:00",
+  "generatedAt": "2026-10-24T20:10:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
-          "published": "2026-10-24T16:51:47+00:00",
-          "summary": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein …"
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672128.html",
+          "published": "2026-10-24T19:05:29+00:00",
+          "summary": ""
         },
         {
-          "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
-          "published": "2026-10-24T16:19:11+00:00",
-          "summary": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter …"
+          "title": "Spektakuläre Rettungsaktion: Ukrainischer Soldat mit Drohne von der Front gerettet",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672116.html",
+          "published": "2026-10-24T19:01:56+00:00",
+          "summary": ""
         },
         {
-          "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
-          "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html",
-          "published": "2026-10-24T16:06:57+00:00",
-          "summary": "Nach dem tödlichen Angriff auf israelische Soldaten geht die Armee weiter gegen Palästinenser in Hebron vor. Hunderte Menschen mussten überstürzt ihre Häuser verlassen. Von Bettina Meier."
+          "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+          "published": "2026-10-24T19:00:39+00:00",
+          "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der …"
         },
         {
-          "title": "Halbzit-Gala von RB Leipzig schickt SV Elversberg in die Auswärtskrise",
-          "link": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-          "published": "2026-10-24T15:39:52+00:00",
-          "summary": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde."
+          "title": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+          "link": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+          "published": "2026-10-24T18:59:09+00:00",
+          "summary": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus."
         },
         {
-          "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
-          "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
-          "published": "2026-10-24T15:29:30+00:00",
-          "summary": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen."
+          "title": "Proteste gegen die hohen Lebenshaltungskosten in Italien",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672118.html",
+          "published": "2026-10-24T18:56:43+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,10 +47,22 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Einsatz von Tränengas: 410.000 Menschen nehmen an Protesten in Frankreich teil",
-          "link": "https://www.handelsblatt.com/politik/international/einsatz-von-traenengas-410000-menschen-nehmen-an-protesten-in-frankreich-teil/100264684.html",
-          "published": "2026-10-24T16:35:27+00:00",
-          "summary": "In Frankreich gehen am Wochenende wieder Hunderttausende auf die Straße. Zunächst bleibt es weitgehend ruhig. Am späten Nachmittag heizt sich die Stimmung in mehreren Städten auf."
+          "title": "Demonstrationen: Frankreich: Hunderttausende demonstrieren - Gewalt am Abend",
+          "link": "https://www.handelsblatt.com/politik/international/demonstrationen-frankreich-hunderttausende-demonstrieren-gewalt-am-abend/100264684.html",
+          "published": "2026-10-24T19:09:51+00:00",
+          "summary": "70.000 Sicherheitskräfte, Wasserwerfer und gepanzerte Fahrzeuge: Frankreich rüstet sich für einen langen Protesttag. In Paris bleibt es zunächst ruhig – doch am Abend ändert sich das."
+        },
+        {
+          "title": "+++ Iran-Krieg +++: Iran nimmt offenbar US-Diplomaten in Nahost ins Visier",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-nimmt-offenbar-us-diplomaten-in-nahost-ins-visier/100136895.html",
+          "published": "2026-10-24T18:10:00+00:00",
+          "summary": "Huthi melden Angriffe auf Ölanlagen und Flughäfen in Saudi-Arabien +++ Trinkwasser in der von den Huthi belagerten Stadt Tais im Jemen wird knapp +++ Der Newsblog."
+        },
+        {
+          "title": "Frankreich und Italien: Vereinzelte Ausschreitungen bei Protesten – Polizei im Großeinsatz",
+          "link": "https://www.handelsblatt.com/politik/international/frankreich-und-italien-vereinzelte-ausschreitungen-bei-protesten-polizei-im-grosseinsatz/100264699.html",
+          "published": "2026-10-24T17:47:53+00:00",
+          "summary": "70.000 Sicherheitskräfte sind in Frankreich im Einsatz. In Paris kommt es am Abend zu Ausschreitungen, auch in Italien eskalieren einzelne Proteste. Die Behörden reagieren mit einem Großaufgebot."
         },
         {
           "title": "Deutschland: Keine Angst vor 2033 – auch der Weltuntergang ist nicht mehr das, was er einmal war",
@@ -63,18 +75,6 @@
           "link": "https://www.handelsblatt.com/politik/international/frankreich-bardella-als-parteichef-der-rechtsnationalen-wiedergewaehlt/100264694.html",
           "published": "2026-10-24T15:10:27+00:00",
           "summary": "Für Marine Le Pens politischen Ziehsohn läuft es bei der Wahl letztlich wie geplant. Dabei ziehen während der Veranstaltung des Rassemblement National Demonstrierende durch die Stadt."
-        },
-        {
-          "title": "Elektroautos: Die Spritpreise steigen – und gebrauchte E-Autos sind plötzlich gefragt",
-          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/gebrauchte-elektroautos-warum-die-restwerte-ploetzlich-steigen/100264471.html",
-          "published": "2026-10-24T14:40:29+00:00",
-          "summary": "Jahrelang galten gebrauchte Elektroautos als Ladenhüter. Seit Jahresbeginn ziehen die Preise plötzlich an. Bei den einzelnen Marken und Modellen gibt es große Unterschiede."
-        },
-        {
-          "title": "Medien: Deutsche TV-Sender fluten Youtube – trotz des Risikos",
-          "link": "https://www.handelsblatt.com/unternehmen/it-medien/medien-deutsche-tv-sender-fluten-youtube-trotz-des-risikos/100263241.html",
-          "published": "2026-10-24T14:39:17+00:00",
-          "summary": "Die Plattform bringt RTL und Pro Sieben Millionenumsätze und ein junges Publikum. Zugleich wächst die Abhängigkeit vom Algorithmus und von Zahlen, die die Sender nicht kontrollieren."
         }
       ],
       "error": null
@@ -172,6 +172,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Luxusimmobilien: Das erstaunlich robuste Geschäft mit den deutschen Millionenvillen",
+          "link": "https://www.wiwo.de/finanzen/immobilien/luxusimmobilien-das-erstaunlich-robuste-geschaeft-mit-den-deutschen-millionenvillen/100264254.html",
+          "published": "2026-10-24T18:00:00+00:00",
+          "summary": "Weinkeller, Zweitküche, Marmorkamin: Zwei Makler für Luxusimmobilien geben Einblicke in geheime Wohnwelten – und einen Markt, der allen Krisen trotzt."
+        },
+        {
           "title": "Studie: Verdirbt Geld tatsächlich den Charakter?",
           "link": "https://www.wiwo.de/erfolg/beruf/veraendert-geld-den-charakter-was-eine-langzeitstudie-zeigt/100263849.html",
           "published": "2026-10-24T15:59:00+00:00",
@@ -194,12 +200,6 @@
           "link": "https://www.wiwo.de/politik/deutschland/buergergeldreform-friedrich-merz-hat-mit-der-grundsicherung-enttaeuscht/100264195.html",
           "published": "2026-10-24T12:45:00+00:00",
           "summary": "Die neue Grundsicherung spart kaum Geld. Dringender als Bürgergeld-Kosmetik braucht es daher endlich eine echte Sozialstaatsreform. Ein Kommentar."
-        },
-        {
-          "title": "Schokoladenhersteller: Der Lindt-Chef setzte auf immer höhere Preise – und ist nun seinen Job los",
-          "link": "https://www.wiwo.de/unternehmen/handel/lindt-schokolade-chef-adalbert-lechner-erhoehte-die-preise-und-verlor-seinen-job/100263240.html",
-          "published": "2026-10-24T12:45:00+00:00",
-          "summary": "Der Schokoladenhersteller hat bei den Preisen den Bogen überspannt. Jetzt muss er nachsteuern – mit attraktiveren Produkten und einem neuen Chef."
         }
       ],
       "error": null
@@ -210,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "2000 Jahre alte Erfindung wird zum Motor aus einem einzigen Molekül",
+          "link": "https://www.ingenieur.de/2000-jahre-alte-erfindung-wird-zum-motor-aus-einem-einzigen-molekuel-9a8b3b6f-f09a-4099-abe5-5a823c9b3cb4/",
+          "published": "2026-10-24T17:12:47+00:00",
+          "summary": "Ein winziger Motor nach dem Vorbild der Archimedischen Schraube: Forschende zeigen, wie Elektronen ein Molekül drehen und seinen Stromfluss verändern."
+        },
+        {
+          "title": "Kehlsteinhaus zerstört: Was 3800 Arbeiter einst auf dem Gipfel schufen",
+          "link": "https://www.ingenieur.de/kehlsteinhaus-zerstoert-was-3800-arbeiter-einst-auf-dem-gipfel-schufen-4b819204-8746-4cca-905b-99e54c534688/",
+          "published": "2026-10-24T16:27:22+00:00",
+          "summary": "Ein Großbrand zerstört das Kehlsteinhaus. Seine Baugeschichte führt zurück zu 3800 Arbeitern, einer spektakulären Bergstraße und einem Aufzug im Fels."
+        },
         {
           "title": "Was Rettungsdecken mit der nächsten Mondstation zu tun haben",
           "link": "https://www.ingenieur.de/was-rettungsdecken-mit-der-naechsten-mondstation-zu-tun-haben-599a4345-7d82-46d3-ac17-b89c2a5bd41a/",
@@ -223,22 +235,10 @@
           "summary": "Was löste vor 13.000 Jahren eine lange Kaltzeit aus? Neue Funde aus Schweden bringen eine umstrittene Einschlaghypothese zurück in die Diskussion."
         },
         {
-          "title": "Kehlsteinhaus in Flammen: Wie das Bauwerk auf 1834 Metern entstand",
-          "link": "https://www.ingenieur.de/kehlsteinhaus-in-flammen-wie-das-bauwerk-auf-1834-metern-entstand-4b819204-8746-4cca-905b-99e54c534688/",
-          "published": "2026-10-24T07:15:39+00:00",
-          "summary": "Kehlsteinhaus in Flammen: 3800 Arbeiter, fünf Tunnel und ein Aufzug mitten im Fels. So entstand das Bauwerk auf 1834 m Höhe."
-        },
-        {
           "title": "40 m in acht Tagen: Wie in Hamburg zwei Betontürme rund um die Uhr wuchsen",
           "link": "https://www.ingenieur.de/40-m-in-die-hoehe-in-acht-tagen-b647f39b-9b65-43b6-b78a-05b953a004fb/",
           "published": "2026-10-24T06:00:00+00:00",
           "summary": "Für das neue Gaskraftwerk Dradenau in Hamburg entstanden zwei 40 m hohe Treppentürme in je acht Tagen. Möglich machte das eine Schalung, die rund um die Uhr mit dem Beton nach oben wandert."
-        },
-        {
-          "title": "Ein zusätzlicher Computer soll Biogasanlagen fit für Dunkelflauten machen",
-          "link": "https://www.ingenieur.de/ein-zusaetzlicher-computer-soll-biogasanlagen-fit-fuer-dunkelflauten-machen-1279ec2c-8c5e-40ff-969b-fe891d767a18/",
-          "published": "2026-10-23T17:51:17+00:00",
-          "summary": "Fraunhofer will Biogasanlagen ohne große Umbauten digital nachrüsten. Das neue System berechnet, wann sich die Stromerzeugung besonders lohnt."
         }
       ],
       "error": null
