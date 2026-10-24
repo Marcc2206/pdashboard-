@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:52:31+00:00",
+  "generatedAt": "2026-10-24T03:13:00+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671698.html",
+          "published": "2026-10-24T03:06:15+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Wie sieht die Zukunft der Raffinerien aus?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
+          "published": "2026-10-24T01:06:57+00:00",
+          "summary": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. …"
+        },
+        {
+          "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+          "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+          "published": "2026-10-24T01:01:43+00:00",
+          "summary": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte …"
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12932.html",
@@ -17,24 +35,6 @@
           "title": "Flughafen Berlin-Brandenburg: Ryanair streicht Verbindungen und schließt Basis",
           "link": "https://www.tagesschau.de/tagesthemen/video-1671658.html",
           "published": "2026-10-23T20:45:22+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Saudischer Kronprinz Mohammed bin Salman durch Huthi-Angriffe unter Druck",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1671656.html",
-          "published": "2026-10-23T20:44:25+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1671648.html",
-          "published": "2026-10-23T20:41:38+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Markus Söder, CSU-Vorsitzender, \"Herausforderung für die Demokratie sehr, sehr groß\"",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1671644.html",
-          "published": "2026-10-23T20:40:35+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "CSU-Parteitag: Führende CSU-Politiker setzen Merz in P-Frage unter Druck",
-          "link": "https://www.handelsblatt.com/politik/deutschland/csu-parteitag-fuehrende-csu-politiker-setzen-merz-in-p-frage-unter-druck/100264620.html",
-          "published": "2026-10-23T22:30:04+00:00",
-          "summary": "Wenn Kanzler Merz am Samstag in München seine Rede hält, warten alle Delegierte auf die Nennung des Namens Ilse Aigner. Die Erwartungen an den CDU-Chef sind konkret und hoch zugleich."
+          "title": "Proteste: Anspannung in Frankreich vor Demos und möglichen Krawallen",
+          "link": "https://www.handelsblatt.com/politik/international/proteste-anspannung-in-frankreich-vor-demos-und-moeglichen-krawallen/100264643.html",
+          "published": "2026-10-24T03:00:09+00:00",
+          "summary": "70.000 Beamte, verbotene Kundgebungen und verrammelte Schaufenster: Frankreich bereitet sich auf neue Proteste vor. Doch selbst bei erlaubten Demos gibt es Streit um die Route."
         },
         {
-          "title": "Künstliche Intelligenz: Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren/100264618.html",
-          "published": "2026-10-23T22:01:04+00:00",
-          "summary": "OpenAI verschärfte nach Hacking-Attacken durch seine KI die Sicherheits-Maßnahmen. Jetzt geht die ChatGPT-Firma noch weiter und will Top-Modelle lieber in „Offline-Welten“ trainieren."
+          "title": "Künstliche Intelligenz: Umfrage: Große Mehrheit für weltweit gültige KI-Regeln",
+          "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-umfrage-grosse-mehrheit-fuer-weltweit-gueltige-ki-regeln/100264640.html",
+          "published": "2026-10-24T02:39:04+00:00",
+          "summary": "International wird über weltweit gültige Regeln für den Einsatz von Künstlicher Intelligenz (KI) diskutiert. Wie sehen das die Deutschen?"
         },
         {
-          "title": "Staatsfinanzen: Frankreichs Schuldenkrise verschärft sich – Moody’s hält Kreditrating trotzdem stabil",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/frankreich-moodys-haelt-kreditrating-trotz-schuldenkrise-stabil/100264304.html",
-          "published": "2026-10-23T21:48:00+00:00",
-          "summary": "Die Risikoaufschläge für französische Staatsanleihen steigen weiter. Immerhin bleibt dem Land eine Herabstufung der Kreditwürdigkeit erspart. Doch Experten sehen nur eine Atempause."
+          "title": "P-Frage: Merz beim CSU-Parteitag unter Zugzwang",
+          "link": "https://www.handelsblatt.com/politik/deutschland/p-frage-merz-beim-csu-parteitag-unter-zugzwang/100264638.html",
+          "published": "2026-10-24T02:30:04+00:00",
+          "summary": "Die CSU will Aigner. Wen will Merz? Der Druck auf den Kanzler wächst, die Kandidatur für das Bundespräsidentenamt zu klären. Lässt er heute auf großer Bühne etwas durchblicken?"
         },
         {
-          "title": "Nahost: Israel startet im Westjordanland „Anti-Terror-Operation“",
-          "link": "https://www.handelsblatt.com/politik/international/nahost-israel-startet-im-westjordanland-anti-terror-operation/100264615.html",
-          "published": "2026-10-23T21:42:16+00:00",
-          "summary": "Am Abend startet Israels Armee eigenen Angaben zufolge eine „Anti-Terror-Operation“ im Westjordanland. Damit reagiere man auf den Angriff vom Morgen, heißt es. Am Dienstag wird in dem Land gewählt."
+          "title": "Die Lage im Überblick: Israel startet „Anti-Terror-Operation“ im Westjordanland",
+          "link": "https://www.handelsblatt.com/politik/international/die-lage-im-ueberblick-israel-startet-anti-terror-operation-im-westjordanland/100264615.html",
+          "published": "2026-10-24T02:14:35+00:00",
+          "summary": "Am Abend beginnt Israels Armee eigenen Angaben zufolge einen Einsatz gegen Terroristen im Westjordanland. Damit reagiere man auf den Angriff vom Morgen, heißt es. Am Dienstag wird in Israel gewählt."
         },
         {
-          "title": "Ukraine-Krieg: Waffenruhe um Oleschky: Moskau und Kiew stimmen zu",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-waffenruhe-um-oleschky-moskau-und-kiew-stimmen-zu/100264605.html",
-          "published": "2026-10-23T20:04:51+00:00",
-          "summary": "Die Menschen in der Kleinstadt Oleschky an der Front leiden. Nach einer US-Mitteilung über eine lokale Waffenruhe kommen auch aus Moskau und Kiew positive Signale."
+          "title": "Die Lage im Überblick: Waffenruhe um Frontstadt Oleschky - Zeichen aus Moskau?",
+          "link": "https://www.handelsblatt.com/politik/international/die-lage-im-ueberblick-waffenruhe-um-frontstadt-oleschky-zeichen-aus-moskau/100264605.html",
+          "published": "2026-10-24T02:00:32+00:00",
+          "summary": "Die Menschen in der Kleinstadt Oleschky an der Front leiden. Nach einer US-Mitteilung über eine lokale Waffenruhe kommen auch aus Moskau und Kiew positive Signale. Gehen sie über den einen Ort hinaus?"
         }
       ],
       "error": null
