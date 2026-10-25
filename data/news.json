@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:42:47+00:00",
+  "generatedAt": "2026-10-25T22:16:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-25T18:22:03+00:00",
-          "summary": "Am Montag im Norden ab und an Regen, sonst Sonne und Wolken, im Westen zieht es ab dem Nachmittag zu, etwas Regen folgt."
+          "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+          "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+          "published": "2026-10-25T21:24:09+00:00",
+          "summary": "Bei der vorgezogenen Parlamentswahl in Serbien hat der Spitzenkandidat der regierenden SNS-Partei, Vucic, seine Niederlage eingestanden. Die oppositionelle Studentenliste habe die Wahl gewonnen …"
         },
         {
-          "title": "Hoffenheim siegt im Endspurt gegen Leverkusen",
-          "link": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
-          "published": "2026-10-25T18:08:40+00:00",
-          "summary": "Die TSG Hoffenheim hat das Duell mit Bayer 04 Leverkusen 3:0 für sich entschieden. Es war ein später Arbeitssieg der Kraichgauer in einer lange ausgeglichenen Partie."
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672552.html",
+          "published": "2026-10-25T21:17:11+00:00",
+          "summary": ""
+        },
+        {
+          "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+          "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
+          "published": "2026-10-25T20:43:16+00:00",
+          "summary": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für …"
         },
         {
           "title": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
           "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
-          "published": "2026-10-25T17:57:08+00:00",
-          "summary": "Rund zehn Monate nach ihrer heimlichen Ausreise aus Venezuela ist die Friedensnobelpreisträgerin Machado in ihr Heimatland zurückgekehrt. „Ich bin hier. Bei euch“, teilte Machado auf der Plattform X …"
+          "published": "2026-10-25T19:41:15+00:00",
+          "summary": "Rund zehn Monate nach ihrer heimlichen Ausreise aus Venezuela ist die Friedensnobelpreisträgerin Machado in ihre Heimat zurückgekehrt. Den Weg freigemacht hätten von den USA unterstützte …"
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81682.html",
-          "published": "2026-10-25T17:15:12+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Razzien wegen Metalldiebstählen in Ostdeutschland und Nordbayern",
-          "link": "https://www.tagesschau.de/video/video-1672390.html",
-          "published": "2026-10-25T17:02:57+00:00",
-          "summary": ""
+          "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
+          "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
+          "published": "2026-10-25T19:25:14+00:00",
+          "summary": "Die rechtspopulistische französische Präsidentschaftskandidatin Le Pen führt derzeit in den Umfragen. Zum Auftakt der Wahlkampagne ihres Rassemblement National warb sie für einen politischen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Frankreich: Sechs Monate vor der Wahl – wie gut sind Le Pens Chancen?",
-          "link": "https://www.handelsblatt.com/politik/international/frankreich-sechs-monate-vor-der-wahl-wie-gut-sind-le-pens-chancen/100263928.html",
-          "published": "2026-10-25T18:30:11+00:00",
-          "summary": "Die rechtsnationale Kandidatin gibt sich beim Wahlkampfauftakt siegessicher. Doch um Präsidentin zu werden, braucht sie Stimmen jenseits ihrer Anhängerschaft. Das führt zu Widersprüchen."
+          "title": "Brasilien: Oberster Gerichtshof verlängert Stimmabgabe landesweit",
+          "link": "https://www.handelsblatt.com/politik/international/brasilien-oberster-gerichtshof-verlaengert-stimmabgabe-landesweit/100264825.html",
+          "published": "2026-10-25T21:31:12+00:00",
+          "summary": "Probleme mit dem öffentlichen Nahverkehr haben Folgen für die Stichwahl um das Präsidentenamt in Brasilien. Die Auszählung war bereits angelaufen, als das Oberste Gericht eingriff."
         },
         {
-          "title": "Kommentar: Die KI-Transformation scheitert am Engpass Mensch",
-          "link": "https://www.handelsblatt.com/meinung/kommentar-die-ki-transformation-scheitert-am-engpass-mensch/100264470.html",
-          "published": "2026-10-25T17:40:38+00:00",
-          "summary": "Unternehmen fragen sich, warum der KI-Effekt ausbleibt – und investieren weiter in leistungsfähige Modelle. Dabei liegt es nicht an der Technik, sondern am Menschen. Warum ändern wir das nicht?"
+          "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
+          "link": "https://www.handelsblatt.com/politik/international/vor-regierungswechsel-vucic-studentenliste-gewinnt-wahl-in-serbien/100264743.html",
+          "published": "2026-10-25T21:13:22+00:00",
+          "summary": "Die meisten Wähler fassten die Abstimmung als Referendum über die Führung durch Langzeitherrscher Vucic auf. Nun muss Vucic seine Niederlage eingestehen. Ein Regierungswechsel zeichnet sich ab."
         },
         {
-          "title": "Wagniskapital: Revolut bietet Kunden jetzt Investments in junge Start-ups an",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/wagniskapital-revolut-bietet-kunden-jetzt-investments-in-junge-start-ups-an/100264587.html",
-          "published": "2026-10-25T17:00:00+00:00",
-          "summary": "Über die App sollen Kunden der britischen Neobank Revolut künftig in junge, privat gehaltene Unternehmen investieren können. Der neue Wagniskapitalfonds ist innovativ, aber auch riskant."
+          "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+          "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html",
+          "published": "2026-10-25T21:12:55+00:00",
+          "summary": "Die meisten Wähler fassten die Abstimmung als Referendum über die Führung durch Langzeitherrscher Vucic auf. Nun muss Vucic seine Niederlage eingestehen. Ein Regierungswechsel zeichnet sich ab."
+        },
+        {
+          "title": "Friedensnobelpreisträgerin: Venezuelas Opposition meldet Rückkehr von Machado",
+          "link": "https://www.handelsblatt.com/politik/international/friedensnobelpreistraegerin-venezuelas-opposition-meldet-rueckkehr-von-machado/100264807.html",
+          "published": "2026-10-25T19:36:39+00:00",
+          "summary": "Nach Monaten im Verborgenen ist die venezolanische Oppositionsführerin Machado ihrer Partei zufolge wieder in ihrer Heimat. US-Außenminister Marco Rubio äußert sich dazu, was im Vorfeld passierte."
         },
         {
           "title": "Venezuela: Oppositionelle Machado kehrt überraschend nach Venezuela zurück",
           "link": "https://www.handelsblatt.com/politik/international/venezuela-oppositionelle-machado-kehrt-ueberraschend-nach-venezuela-zurueck/100264806.html",
-          "published": "2026-10-25T16:36:16+00:00",
+          "published": "2026-10-25T18:46:39+00:00",
           "summary": "Nach fast zehn Monaten im Exil ist Venezuelas wichtigste Oppositionspolitikerin wieder im Land. Sie fordert das Regime von Delcy Rodríguez damit heraus – aber auch US-Präsident Donald Trump."
-        },
-        {
-          "title": "Oppositionspolitikerin: Oppositionsführerin Machado soll zurück in Venezuela sein",
-          "link": "https://www.handelsblatt.com/politik/international/oppositionspolitikerin-oppositionsfuehrerin-machado-soll-zurueck-in-venezuela-sein/100264807.html",
-          "published": "2026-10-25T16:32:12+00:00",
-          "summary": "Oppositionsführerin Machado soll in ihr Heimatland Venezuela zurückgekehrt sein. Auf der Plattform X hinterlässt sie eine kurze Botschaft."
         }
       ],
       "error": null
@@ -211,6 +211,12 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Trotz Schlepperhilfe: „Mein Schiff 3“ rammt Containerschiff in Bremerhaven",
+          "link": "https://www.ingenieur.de/trotz-schlepperhilfe-mein-schiff-3-rammt-containerschiff-in-bremerhaven-fc60692d-5479-4d02-80bd-de26f634fd0d/",
+          "published": "2026-10-25T19:47:54+00:00",
+          "summary": "Mein Schiff 3“ rammt in Bremerhaven ein Containerschiff – trotz Schlepperhilfe. Was über Schäden, Windverhältnisse und den Unfall bekannt ist."
+        },
+        {
           "title": "Kann ein Schwarzes Loch zerbrechen? Physiker entdecken ein Schlupfloch",
           "link": "https://www.ingenieur.de/kann-ein-schwarzes-loch-zerbrechen-physiker-entdecken-ein-schlupfloch-3d903de0-799a-4908-8eba-c366d69faaa8/",
           "published": "2026-10-25T17:27:53+00:00",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/warum-die-erde-vielleicht-nicht-der-beste-planet-fuer-leben-ist-7919ba03-8006-4f24-b3a7-2b76aab83d18/",
           "published": "2026-10-25T09:13:47+00:00",
           "summary": "Warum sollte ausgerechnet die Erde der beste Planet für Leben sein? Neue Studien zeigen, welche fremden Welten noch günstigere Bedingungen bieten könnten."
-        },
-        {
-          "title": "Kehlsteinhaus zerstört: Was 3800 Arbeiter einst auf dem Gipfel schufen",
-          "link": "https://www.ingenieur.de/kehlsteinhaus-zerstoert-was-3800-arbeiter-einst-auf-dem-gipfel-schufen-4b819204-8746-4cca-905b-99e54c534688/",
-          "published": "2026-10-24T16:27:22+00:00",
-          "summary": "Ein Großbrand zerstört das Kehlsteinhaus. Seine Baugeschichte führt zurück zu 3800 Arbeitern, einer spektakulären Bergstraße und einem Aufzug im Fels."
         }
       ],
       "error": null
