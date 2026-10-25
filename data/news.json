@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:58:33+00:00",
+  "generatedAt": "2026-10-25T04:15:03+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12940.html",
-          "published": "2026-10-24T21:49:15+00:00",
+          "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
+          "published": "2026-10-25T04:10:34+00:00",
+          "summary": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. …"
+        },
+        {
+          "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+          "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
+          "published": "2026-10-25T04:10:13+00:00",
+          "summary": "Serbiens autoritärer Präsident Aleksandar Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von …"
+        },
+        {
+          "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+          "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+          "published": "2026-10-25T04:07:12+00:00",
+          "summary": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672158.html",
+          "published": "2026-10-25T03:50:55+00:00",
           "summary": ""
         },
         {
-          "title": "Die Meinung von Achim Wendler, BR, zum CSU-Parteitag",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1672140.html",
-          "published": "2026-10-24T21:35:09+00:00",
-          "summary": ""
-        },
-        {
-          "title": "CSU-Parteitag in München: Kanzler Merz fordert Geschlossenheit",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1672138.html",
-          "published": "2026-10-24T21:32:09+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Israel vor den Wahlen: Militäroperation im Westjordanland",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1672136.html",
-          "published": "2026-10-24T21:29:23+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Italiens Jugend protestiert erneut gegen die hohen Lebenshaltungskosten",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1672134.html",
-          "published": "2026-10-24T21:26:29+00:00",
-          "summary": ""
+          "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
+          "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+          "published": "2026-10-25T01:11:58+00:00",
+          "summary": "Es ist wieder so weit: Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ USA +++: Trump hat Stimme für Midterms abgegeben",
-          "link": "https://www.handelsblatt.com/politik/international/usa-trump-hat-stimme-fuer-midterms-abgegeben/29669594.html",
-          "published": "2026-10-24T22:39:00+00:00",
-          "summary": "25 Milliarden Dollar Strafe für Meta im Cambridge-Analytica-Skandal +++ Justizministerium prüft Vorwürfe gegen Lewandowski +++ Kanada untersagt Diplomaten Kontakte zu US-Wahlkandidaten +++ Der …"
+          "title": "Machthaber unter Druck: Richtungswahl entscheidet über die Zukunft Serbiens",
+          "link": "https://www.handelsblatt.com/politik/international/machthaber-unter-druck-richtungswahl-entscheidet-ueber-die-zukunft-serbiens/100264743.html",
+          "published": "2026-10-25T04:01:04+00:00",
+          "summary": "Die Bürger des Landes haben die Wahl zwischen dem Autokraten Vucic und der Liste der demokratischen Studentenbewegung. Der Ausgang ist ungewiss. Was dabei für Europa auf dem Spiel steht."
         },
         {
-          "title": "Demonstrationen: Mindestens 1.000 Festnahmen nach Protesten in Frankreich",
-          "link": "https://www.handelsblatt.com/politik/international/demonstrationen-mindestens-1000-festnahmen-nach-protesten-in-frankreich/100264717.html",
-          "published": "2026-10-24T22:36:36+00:00",
-          "summary": "In Frankreich gehen Hunderttausende Menschen friedlich auf die Straßen. Es gibt aber auch wieder Gewalt - trotz eines Großaufgebots der Polizei. Die Bilanz ist noch unvollständig."
+          "title": "Koalition der Willigen: Deutsche Stabsoffiziere und Tankflugzeuge für Ukraine-Übung",
+          "link": "https://www.handelsblatt.com/politik/international/koalition-der-willigen-deutsche-stabsoffiziere-und-tankflugzeuge-fuer-ukraine-uebung/100264742.html",
+          "published": "2026-10-25T04:00:52+00:00",
+          "summary": "Die Verbündeten der Ukraine bauen eine Truppe auf, um einen möglichen Waffenstillstand mit Russland abzusichern. Im November übt sie erstmals - mit deutscher Beteiligung."
         },
         {
-          "title": "US-Parlamentswahlen: Er kam persönlich: Trump hat Stimme für Midterms abgegeben",
-          "link": "https://www.handelsblatt.com/politik/international/us-parlamentswahlen-er-kam-persoenlich-trump-hat-stimme-fuer-midterms-abgegeben/100264714.html",
-          "published": "2026-10-24T22:28:51+00:00",
-          "summary": "Er spricht sich gegen Briefwahl aus, machte davon aber schon selbst Gebrauch. Vor den Parlamentswahlen wählt Donald Trump einen anderen Weg."
+          "title": "Wegweisende Abstimmung: Schicksalswahl in Israel: Es geht um mehr als Netanjahu",
+          "link": "https://www.handelsblatt.com/politik/international/wegweisende-abstimmung-schicksalswahl-in-israel-es-geht-um-mehr-als-netanjahu/100264744.html",
+          "published": "2026-10-25T04:00:07+00:00",
+          "summary": "Kann Netanjahu trotz des Versagens vom 7. Oktober und dreier harter Kriegsjahre seine Macht behaupten? Oder gelingt es der liberaleren Opposition, ihn nach Jahren an der Regierungsspitze abzulösen?"
         },
         {
-          "title": "Luftfahrt: Ryanair streicht Angebot am BER deutlich zusammen",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/luftfahrt-ryanair-streicht-angebot-am-ber-deutlich-zusammen/100264711.html",
-          "published": "2026-10-24T22:21:52+00:00",
-          "summary": "Ryanair nimmt zum Winterflugplan zwölf Verbindungen am BER aus dem Angebot. Für sechs Ziele gibt es künftig gar keine Direktverbindung mehr. Der Standort in Schönefeld ist nicht allein betroffen."
+          "title": "Präsidentenwahl: Kann Lula das Ruder in Brasilien noch herumreißen?",
+          "link": "https://www.handelsblatt.com/politik/international/praesidentenwahl-kann-lula-das-ruder-in-brasilien-noch-herumreissen/100264745.html",
+          "published": "2026-10-25T04:00:06+00:00",
+          "summary": "Flávio Bolsonaro geht mit Rückenwind in die Stichwahl. Lula setzt im Endspurt auf große Kundgebungen - und auf die Erfolge seiner Regierung. Reicht das, um die Wahl noch zu drehen?"
         },
         {
-          "title": "Flugreisen: Ryanair streicht Angebot am BER deutlich zusammen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/flugreisen-ryanair-streicht-angebot-am-ber-deutlich-zusammen/100264712.html",
-          "published": "2026-10-24T22:10:04+00:00",
-          "summary": "Ryanair nimmt zum Winterflugplan zwölf Verbindungen am BER aus dem Angebot. Für sechs Ziele gibt es künftig gar keine Direktverbindung mehr. Der Standort in Schönefeld ist nicht allein betroffen."
+          "title": "Nervige Daddelei: Umfrage: Zwei Drittel wollen keine Handys am Esstisch",
+          "link": "https://www.handelsblatt.com/technik/it-internet/nervige-daddelei-umfrage-zwei-drittel-wollen-keine-handys-am-esstisch/100264739.html",
+          "published": "2026-10-25T03:17:04+00:00",
+          "summary": "Jetzt guckt der schon wieder auf sein Handy. Solche Gedanken dürften Hochkonjunktur haben im Digitalzeitalter. Eine Umfrage zeigt, wann Menschen genervt sind vom Daddeln des Gegenübers."
         }
       ],
       "error": null
