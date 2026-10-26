@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:28:02+00:00",
+  "generatedAt": "2026-10-26T22:16:30+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81754.html",
-          "published": "2026-10-26T16:17:40+00:00",
+          "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+          "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
+          "published": "2026-10-26T22:07:24+00:00",
+          "summary": "Trotz der geplanten Wiederaufnahme von Gesprächen unter US-Vermittlung will Russland die Ukraine weiter angreifen. Das teilte Kremlsprecher Peskow mit. In Charkiw wurden bei einer russischen Attacke …"
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12950.html",
+          "published": "2026-10-26T21:58:41+00:00",
           "summary": ""
         },
         {
-          "title": "Gesetzentwurf für günstiges und schnelles Bauen",
-          "link": "https://www.tagesschau.de/video/video-1672892.html",
-          "published": "2026-10-26T16:13:54+00:00",
+          "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1673134.html",
+          "published": "2026-10-26T21:35:29+00:00",
           "summary": ""
         },
         {
-          "title": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
-          "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
-          "published": "2026-10-26T16:11:54+00:00",
-          "summary": "Absolute Mehrheit für die Studentenliste: In Serbien hat sie überraschend klar die Parlamentswahl gewonnen. Aber wie kann aus einer Protestbewegung eine Regierung werden? Vieles ist unklar - und die …"
-        },
-        {
-          "title": "Lula da Silva gewinnt Präsidentschaftswahl in Brasilien",
-          "link": "https://www.tagesschau.de/video/video-1672890.html",
-          "published": "2026-10-26T16:11:05+00:00",
+          "title": "Vedran Dzihic, Österreichisches Institut für internationale Politik, über die politischen Entwicklungen auf dem westlichen Balkan",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1673132.html",
+          "published": "2026-10-26T21:32:24+00:00",
           "summary": ""
         },
         {
-          "title": "Oppositionelle Studentenliste gewinnt Parlamentswahl in Serbien",
-          "link": "https://www.tagesschau.de/video/video-1672886.html",
-          "published": "2026-10-26T16:08:28+00:00",
+          "title": "Studentenliste gewinnt bei Wahl in Serbien",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html",
+          "published": "2026-10-26T21:26:29+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Handelsblatt Live: US-Börsenexperte Koch: Meta plant massive Kapitalaufnahme",
-          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-meta-plant-massive-kapitalaufnahme/100265067.html",
-          "published": "2026-10-26T16:25:38+00:00",
-          "summary": "Der Tech-Konzern will insgesamt rund 95 Milliarden US-Dollar über Aktien- und Vorzugsaktienverkäufe aufnehmen. „Die Frage wird sein, wie der Kapitalmarkt so viele neue Aktien überhaupt verdauen …"
+          "title": "Software: Microsoft bietet rund 60.000 Mitarbeitern Abfindungen an",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/software-microsoft-bietet-rund-60.000-mitarbeitern-abfindungen-an/100265086.html",
+          "published": "2026-10-26T20:30:57+00:00",
+          "summary": "Gut ein Viertel der Belegschaft kommt theoretisch infrage. Das Angebot gilt in vier Ländern. Parallel steigert der Konzern seine Ausgaben für Künstliche Intelligenz."
         },
         {
-          "title": "Biodiversitätsstrategie: EU droht Meeresschutzziel für 2030 zu verfehlen",
-          "link": "https://www.handelsblatt.com/politik/international/biodiversitaetsstrategie-eu-droht-meeresschutzziel-fuer-2030-zu-verfehlen/100265064.html",
-          "published": "2026-10-26T16:12:15+00:00",
-          "summary": "Der Europäische Rechnungshof hat untersucht, ob die EU ihre Meeresschutzziele für 2030 erreichen kann. Das Ergebnis fällt ernüchternd aus."
+          "title": "Vor den Midterms: Trump verspricht Millionen für Hinweise auf Wahlbetrug",
+          "link": "https://www.handelsblatt.com/politik/international/vor-den-midterms-trump-verspricht-millionen-fuer-hinweise-auf-wahlbetrug/100265100.html",
+          "published": "2026-10-26T20:24:38+00:00",
+          "summary": "Immer wieder behauptet Präsident Trump, bei US-Wahlen würde im großen Stil betrogen. Nun lockt er Hinweisgeber mit einer Belohnung."
         },
         {
-          "title": "Today: Wahlkampf: Auftritt bei Trump von Audi-Chef Döllner geplant? | Ifo: Unternehmer etwas optimistischer",
-          "link": "https://www.handelsblatt.com/audio/today/today-war-der-auftritt-bei-trump-von-audi-chef-doellner-geplant/100265060.html",
-          "published": "2026-10-26T16:11:00+00:00",
-          "summary": "Audi-Chef Döllner wird kritisiert für den Auftritt bei Trumps Wahlkampf-Rede. Wie kam es dazu? Und: die Daten zum neuen Ifo-Geschäftsklimaindex."
+          "title": "Software-Konzern: Microsoft bietet rund 60.000 Mitarbeitern Abfindungen an",
+          "link": "https://www.handelsblatt.com/technik/it-internet/software-konzern-microsoft-bietet-rund-60000-mitarbeitern-abfindungen-an/100265098.html",
+          "published": "2026-10-26T20:11:10+00:00",
+          "summary": "Zahlreiche Microsoft-Mitarbeiter bekommen ein Abfindungsangebot. Der Windows-Konzern geht jedoch selbst davon aus, dass nur ein geringer Teil von ihnen es annehmen wird."
         },
         {
-          "title": "Deep Reed: Die Teilzeitrepublik",
-          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-die-teilzeitrepublik/100230798.html",
-          "published": "2026-10-26T15:57:33+00:00",
-          "summary": "Deutschland klagt über Fachkräftemangel, gleichzeitig arbeiten viele gut qualifizierte Mütter in Teilzeit oder gar nicht. Der Vergleich mit anderen Ländern zeigt: Es geht auch anders."
+          "title": "Grundbesitz Europa: „Persönliche Belastung für Anleger möglich“: DWS schränkt Rücknahme bei Immobilienfonds ein",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/geldanlage-dws-beschraenkt-ruecknahme-ihres-groessten-offenen-immobilienfonds/100265044.html",
+          "published": "2026-10-26T20:00:09+00:00",
+          "summary": "Anleger des Immobilienfonds „Grundbesitz Europa“ kommen vorerst nur begrenzt an ihr Geld. Die Deutsche-Bank-Tochter beschränkt die Auszahlungsquote für fällige Rücknahmeaufträge."
         },
         {
-          "title": "Bahn: Rechnungshof sieht Fehlentwicklungen bei Bahn-Sanierungen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bahn-rechnungshof-sieht-fehlentwicklungen-bei-bahn-sanierungen/100265048.html",
-          "published": "2026-10-26T15:42:39+00:00",
-          "summary": "Mit „Korridorsanierungen“ soll das teils marode Schienennetz auf Vordermann gebracht werden. Der Rechnungshof aber fordert Nachsteuerungen."
+          "title": "Altersvorsorge: Muss jetzt die Bafin bei den Versorgungswerken eingreifen?",
+          "link": "https://www.handelsblatt.com/finanzen/vorsorge/versorgungswerke-muss-jetzt-die-bafin-eingreifen/100265050.html",
+          "published": "2026-10-26T19:54:07+00:00",
+          "summary": "Einige berufsständische Versorgungswerke haben viel Geld in riskanten Investments versenkt. Das hat ein juristisches Nachspiel."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Sparmaßnahmen im Konzern: Volkswagen setzt bei Software auf günstige China-Variante",
-          "link": "https://www.n-tv.de/wirtschaft/Volkswagen-setzt-bei-Software-auf-guenstige-China-Variante-id31460184.html",
-          "published": "2026-10-26T16:14:48+00:00",
-          "summary": "Volkswagen sucht unter hohem Kostendruck nach einer günstigeren und schnelleren Softwarelösung für zentrale Zukunftsmodelle. Ein intern diskutierter Kurswechsel könnte dem Konzern Einsparungen in …"
+          "title": "Halbleiterwerte im Aufwind: Naher Anthropic-Börsengang treibt Wall Street an",
+          "link": "https://www.n-tv.de/wirtschaft/Naher-Anthropic-Boersengang-treibt-Wall-Street-an-id31461171.html",
+          "published": "2026-10-26T21:41:59+00:00",
+          "summary": "Auf die US-Anleger wartet eine aufregende Woche. Die Fed entscheidet über ihren nächsten Zinsschritt und drei KI-Riesen schlagen ihre Bilanzen auf. Die Aussicht auf den Börsengang von Anthropic sorgt …"
         },
         {
-          "title": "Rasantes Wachstum, rote Zahlen: Anthropic legt Informationen für möglichen Weltrekord-Börsengang offen",
-          "link": "https://www.n-tv.de/wirtschaft/wirtschaft_startup/Anthropic-legt-Informationen-fuer-moeglichen-Weltrekord-Boersengang-offen-id31460024.html",
-          "published": "2026-10-26T15:43:19+00:00",
-          "summary": "Das US-Startup Anthropic plant als erster großer KI-Rivale von OpenAI den Gang an die US-Börse Nasdaq. Aus Branchenkreisen verlautet, das Volumen könne sogar das des bisherigen Rekordbörsengangs des …"
+          "title": "Sparen für den KI-Boom: Microsoft bietet jedem vierten Mitarbeiter eine Abfindung an",
+          "link": "https://www.n-tv.de/wirtschaft/Microsoft-bietet-jedem-vierten-Mitarbeiter-eine-Abfindung-an-id31460912.html",
+          "published": "2026-10-26T20:12:40+00:00",
+          "summary": "Microsoft steckt immer größere Summen in Rechenzentren und Chips für Künstliche Intelligenz. Zugleich soll die Belegschaft flexibler und der Konzern günstiger werden. Dafür legt der Tech-Riese …"
         },
         {
-          "title": "Im Verbraucherschutz nachbessern: Temu kündigt nach Millionenstrafe der EU Änderungen an",
-          "link": "https://www.n-tv.de/wirtschaft/Temu-kuendigt-nach-Millionenstrafe-der-EU-Aenderungen-an-id31459391.html",
-          "published": "2026-10-26T14:44:39+00:00",
-          "summary": "Der chinesische Online-Händler Temu steht vor einer EU-Strafe von 200 Millionen Euro, weil er beim Verbraucherschutz europäisches Recht bricht. Nun macht das Unternehmen Zugeständnisse an Brüssel."
+          "title": "Unter Bedingungen: Deutsche Ostseefischer dürfen weiterhin Heringe fangen",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Ostseefischer-duerfen-weiterhin-Heringe-fangen-id31460801.html",
+          "published": "2026-10-26T19:00:04+00:00",
+          "summary": "Die EU legt in jedem Herbst die Fisch-Fangquoten für das kommende Jahr fest. Vor allem für kleine Fischer in Deutschland geht es dabei nicht selten um die Existenz. Sie dürfen aber auch weiterhin …"
         },
         {
-          "title": "\"Opportunistisch, unterwürfig\": Autoanalyst Pieper rechnet mit Audi-Chef Döllner ab",
-          "link": "https://www.n-tv.de/wirtschaft/Autoanalyst-Pieper-rechnet-mit-Audi-Chef-Doellner-ab-id31459452.html",
-          "published": "2026-10-26T14:10:34+00:00",
-          "summary": "Der gemeinsame Auftritt von Audi-Chef Döllner und US-Präsident Trump löst eine Welle der Entrüstung aus. Branchenkenner kritisieren die politische Inszenierung zwar scharf. Wirtschaftlich ist der Bau …"
+          "title": "Plus für deutsche Speicher offen: Sefe schließt LNG-Liefervertrag mit Kanada",
+          "link": "https://www.n-tv.de/wirtschaft/Sefe-schliesst-LNG-Liefervertrag-mit-Kanada-id31460293.html",
+          "published": "2026-10-26T18:35:04+00:00",
+          "summary": "Eine frühere deutsche Gazprom-Tochter, die mittlerweile dem Bund gehört, vereinbart mit einem kanadischen Gasexporteur die Lieferung von jährlich einer Million Tonnen Flüssiggas. Ob das die deutsche …"
         },
         {
-          "title": "Mit eigens entwickeltem Modell: Helsing steigt ins Geschäft mit Luftverteidigungssystemen ein",
-          "link": "https://www.n-tv.de/wirtschaft/Helsing-steigt-ins-Geschaeft-mit-Luftverteidigungssystemen-ein-id31458683.html",
-          "published": "2026-10-26T12:52:51+00:00",
-          "summary": "Die Bedrohung aus Russland wächst: Moskau baut seine Produktion von strahlgetriebenen Drohnen und Marschflugkörpern aus. Der Münchner Hersteller Helsing setzt dem nun ein neues System entgegen. Wie …"
+          "title": "Kritik an Korridorsanierungen: Bundesrechnungshof wirft DB \"gravierende Fehlentwicklung\" vor",
+          "link": "https://www.n-tv.de/wirtschaft/Bundesrechnungshof-wirft-DB-gravierende-Fehlentwicklung-vor-id31460090.html",
+          "published": "2026-10-26T18:33:03+00:00",
+          "summary": "Mit Korridorsanierungen soll das teils marode Schienennetz auf Vordermann gebracht werden. Der Rechnungshof aber fordert Nachsteuerungen und beschwert sich über den Bruch beinahe aller Versprechen."
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Klare Gewinne zum Wochenstart",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+          "published": "2026-10-26T17:05:23+00:00",
+          "summary": "Dank eines robusten ifo-Geschäftsklimas konnte sich der DAX zum Wochenstart deutlich erholen. Eine Trendwende ist das aber noch nicht. In dieser Woche stehen noch einige gewichtige Daten an."
+        },
+        {
           "title": "Brasiliens Kapitalmärkte stürzen ab",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html",
           "published": "2026-10-26T13:47:15+00:00",
           "summary": "Während die EU die Wiederwahl von Brasiliens Präsident Lula begrüßt, hat diese einen Kurssturz bei brasilianischen Aktien und Anleihen ausgelöst. An den Märkten gibt es Sorgen wegen Brasiliens hoher …"
-        },
-        {
-          "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-          "published": "2026-10-26T10:19:27+00:00",
-          "summary": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom …"
         },
         {
           "title": "Marktbericht: Nasdaq kommt unter die Räder",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Die Höhle der Löwen: „Bauen und Renovieren sind wahnsinnig teuer geworden“",
+          "link": "https://www.wiwo.de/erfolg/gruender/mein-haus-digital-in-der-hoehle-der-loewen-so-ging-es-nach-dem-deal-mit-maschmeyer-weiter/100265045.html",
+          "published": "2026-10-26T22:00:00+00:00",
+          "summary": "Für ihren Baubegleiter rufen die Mein-Haus-Digital-Gründerinnen eine hohe Bewertung aus. Die Löwen gehen trotzdem in einen Bieterwettstreit. Wie es nach der Aufzeichnung weiterging."
+        },
+        {
           "title": "EU-Binnenmarkt: „Wir können die Ukraine inzwischen ohne die USA verteidigen“",
           "link": "https://www.wiwo.de/politik/europa/enrico-letta-im-interview-wie-trump-den-eu-binnenmarkt-einigt/100264957.html",
-          "published": "2026-10-26T16:17:00+00:00",
+          "published": "2026-10-26T20:20:04+00:00",
           "summary": "Auch wenn es keine Absicht der US-Regierung war: Der EU-Reformer und Ex-Ministerpräsident Enrico Letta sieht Brüssel durch Washingtons Druck gestärkt."
         },
         {
-          "title": "Abfindungsprogramme: Selbst 492.000 Euro Abfindung schmelzen schnell weg",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/abfindung-wie-lange-reicht-das-geld-so-rechnen-sie-richtig/100264285.html",
-          "published": "2026-10-26T16:11:00+00:00",
-          "summary": "Selbst sechsstellige Summen, wie sie die Autobranche jetzt teils bietet, können rasch aufgezehrt sein. Wie Betroffene rechnen sollten – und wie nicht."
+          "title": "Windows-Konzern: Microsoft bietet 60.000 Angestellten Abfindung an",
+          "link": "https://www.wiwo.de/unternehmen/it/microsoft-windows-konzern-bietet-60.000-angestellten-abfindung-an/100265087.html",
+          "published": "2026-10-26T19:24:00+00:00",
+          "summary": "Microsoft bietet rund einem Viertel seiner Belegschaft eine Abfindung für einen freiwilligen Jobverzicht an. Der Konzern setzt stark auf KI."
         },
         {
           "title": "Neues Werk in den USA: Darum ist Audis US-Strategie riskant",
           "link": "https://www.wiwo.de/unternehmen/auto/neues-audi-werk-in-den-usa-darum-ist-die-us-strategie-der-vw-tochter-riskant/100264953.html",
-          "published": "2026-10-26T15:57:00+00:00",
+          "published": "2026-10-26T19:09:00+00:00",
           "summary": "Audi will sein erstes Werk in den USA eröffnen – auch, um das schwache Geschäft dort anzukurbeln. Geht das zulasten anderer Standorte?"
         },
         {
-          "title": "Volkswagen: Kehrtwende bei VW – CEO Blume wusste von Audi-Auftritt bei Trump",
-          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-kehrtwende-bei-vw-ceo-blume-wusste-von-audi-auftritt-bei-trump/100264980.html",
-          "published": "2026-10-26T15:55:00+00:00",
-          "summary": "Nachdem Insider berichtet hatten, VW-Chef Blume habe nichts von dem Auftritt des Audi-Chefs im US-Wahlkampf gewusst, erklärt der Konzern nun: Blume war in die Planungen eingebunden."
-        },
-        {
-          "title": "Gebäudetyp E: Einfacher und billiger bauen – das ist schwieriger als gedacht",
-          "link": "https://www.wiwo.de/finanzen/immobilien/gebaeudetyp-e-warum-das-gesetz-guenstigeres-bauen-bremsen-kann/100264940.html",
-          "published": "2026-10-26T15:42:00+00:00",
-          "summary": "Das Bundesjustizministerium hat einen Gesetzentwurf für einen neuen, einfacheren Baustandard vorgelegt. Kritiker bemängeln Rechtsrisiken, die günstiges Bauen verhindern."
+          "title": "Schäden am Falt-Display: Apple bestätigt Probleme bei einigen Falt-iPhones",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/schaeden-am-falt-display-apple-bestaetigt-probleme-bei-einigen-falt-iphones/100265090.html",
+          "published": "2026-10-26T19:04:47+00:00",
+          "summary": "Einige Käufer des faltbaren iPhone Duo beklagten sich schnell über Schäden am inneren Display der Geräte. Apple reagiert."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "1800 Grad heiß und Wolken aus Gestein? James Webb verblüfft Astronomen",
+          "link": "https://www.ingenieur.de/1800-grad-heiss-und-wolken-aus-gestein-james-web-verbluefft-astronomen-f2098432-71bc-49e9-a303-b1974523e020/",
+          "published": "2026-10-26T18:40:04+00:00",
+          "summary": "James Webb liefert Hinweise auf eine dichte Atmosphäre von TOI-561 b: Mineralwolken könnten 74 % des Sternenlichts reflektieren."
+        },
+        {
+          "title": "Pleiten, Rückzüge, China: Wie Wasserstoff-Zulieferer durch die Flaute kommen",
+          "link": "https://www.ingenieur.de/pleiten-ruckzuge-china-wie-wasserstoff-zulieferer-die-flaute-uberleben-5cac79b8-3655-4715-9d57-850e03ea81fb/",
+          "published": "2026-10-26T17:57:45+00:00",
+          "summary": "Auf der Hydrogen Technology Expo in Hamburg zeigte sich eine gespaltene Branche: Während einige Wasserstoff-Zulieferer über fehlende oder versandende Projekte klagen, beobachten andere einen …"
+        },
+        {
+          "title": "Kehlsteinhaus zerstört: Was 3800 Arbeiter einst auf dem Gipfel schufen",
+          "link": "https://www.ingenieur.de/kehlsteinhaus-zerstoert-was-3800-arbeiter-einst-auf-dem-gipfel-schufen-4b819204-8746-4cca-905b-99e54c534688/",
+          "published": "2026-10-26T16:27:00+00:00",
+          "summary": "Ein Großbrand zerstört das Kehlsteinhaus. Seine Baugeschichte führt zurück zu 3800 Arbeitern, einer spektakulären Bergstraße und einem Aufzug im Fels."
+        },
+        {
           "title": "Baukasten für die Energieoptimierung von Werkzeugmaschinen",
           "link": "https://www.ingenieur.de/baukasten-fur-die-energieoptimierung-von-werkzeugmaschinen-17b0a3ef-cbf7-40ee-b5e5-94ad1fe07f2a/",
           "published": "2026-10-26T15:00:00+00:00",
           "summary": "Hohe Energiekosten und CO₂-Ziele machen Energiemonitoring unverzichtbar. Erfahren Sie, wie sich der Energiebedarf von Maschinen mit möglichst wenig Sensorik überwachen lässt."
         },
         {
-          "title": "Die Maschine ist fertig – die Software fährt hinterher",
+          "title": "Mechanik, Software, Service: Wann ist eine Maschine wirklich fertig?",
           "link": "https://www.ingenieur.de/die-maschine-ist-fertig-die-software-faehrt-hinterher-6b85a47e-b47e-43b0-b57b-1f70b096ab67/",
           "published": "2026-10-26T15:00:00+00:00",
-          "summary": "Eine starke Konstruktion allein macht noch kein wirtschaftlich erfolgreiches Produkt. Erst wenn Mechanik, Bedienung, Software, Daten und Service zusammenspielen, entsteht für den Kunden ein …"
-        },
-        {
-          "title": "1,5 Gbit/s mit UV-Licht: Warum Forscher auf winzige LEDs setzen",
-          "link": "https://www.ingenieur.de/schneller-datenfunk-mit-uv-licht-der-rekord-hat-einen-haken-2de191e5-9a64-4d0e-b501-41420675afd4/",
-          "published": "2026-10-26T14:30:00+00:00",
-          "summary": "Forschende erreichen mit winzigen UV-LEDs 1,5 Gbit/s. Die neue Technik könnte Daten auch ohne direkte Sichtverbindung übertragen."
-        },
-        {
-          "title": "Gefahr von oben: Was in Hunderten Boeing 737 jetzt geändert werden muss",
-          "link": "https://www.ingenieur.de/gefahr-von-oben-was-in-hunderten-boeing-737-jetzt-geaendert-werden-muss-c37f18dc-71ea-49a0-8363-8d66805d2cd0/",
-          "published": "2026-10-26T14:00:00+00:00",
-          "summary": "Bei einer harten Landung lösten sich Monitore aus einer Boeing 737. Die FAA schreibt eine Nachrüstung vor. Auch europäische Airlines sind betroffen."
-        },
-        {
-          "title": "Bis zu 283 m hoch: Wie China riesige Brückenpylone im Gebirge baut",
-          "link": "https://www.ingenieur.de/283-m-hoch-200-t-tragkraft-so-entsteht-chinas-naechste-mega-bruecke-732e10d9-eeab-40bb-bb2c-9b516a058c24/",
-          "published": "2026-10-26T13:30:00+00:00",
-          "summary": "Mit 200-t-Kranen baut China eine gewaltige Hängebrücke im Gebirge. Wie Fernsteuerung und besondere Bautechnik dabei helfen."
+          "summary": "Konstruktion, Software und Service können jeweils hervorragend sein, und trotzdem ist die Maschine für den Kunden komplizierter als nötig. Warum Unternehmen jemanden brauchen, der das Gesamtsystem …"
         }
       ],
       "error": null
