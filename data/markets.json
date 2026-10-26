@@ -1,30 +1,13 @@
 {
-  "generatedAt": "2026-10-25T22:16:44+00:00",
+  "generatedAt": "2026-10-26T03:08:16+00:00",
   "werte": [
     {
       "id": "dax",
       "name": "DAX",
       "symbol": "^GDAXI",
       "typ": "index",
-      "error": null,
-      "kurs": 25181.65,
-      "waehrung": "EUR",
-      "veraenderung": -190.03391250465938,
-      "prozent": -0.749,
-      "vortag": 25371.68391250466,
-      "hoch52": 26618.74,
-      "tief52": 21863.81,
-      "stand": 1792771200,
-      "boerse": "XETRA",
-      "verlauf": [
-        25382.619140625,
-        25622.609375,
-        25319.76953125,
-        25304.419921875,
-        25645.0390625,
-        25371.75,
-        25181.65
-      ]
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
+      "kurs": null
     },
     {
       "id": "bitcoin",
@@ -32,23 +15,23 @@
       "symbol": "bitcoin",
       "typ": "krypto",
       "error": null,
-      "kurs": 71662,
+      "kurs": 71015,
       "waehrung": "EUR",
-      "veraenderung": -103.73498037581157,
-      "prozent": -0.1445466703631957,
-      "vortag": 71765.73498037581,
+      "veraenderung": -1157.4694165081019,
+      "prozent": -1.6037547639229672,
+      "vortag": 72172.4694165081,
       "hoch52": null,
       "tief52": null,
       "stand": null,
       "boerse": "CoinGecko",
       "verlauf": [
-        72873.27472237384,
-        72782.49527271636,
-        73707.18274436673,
-        73091.07583471456,
-        72910.47894181233,
-        71817.15643086877,
-        71625.4393007265
+        73616.89560340291,
+        72802.60458899861,
+        74162.05671813211,
+        73061.88993476485,
+        72696.20195266002,
+        71872.01208523037,
+        70996.81617388519
       ]
     },
     {
@@ -56,75 +39,24 @@
       "name": "SAP",
       "symbol": "SAP.DE",
       "typ": "aktie",
-      "error": null,
-      "kurs": 214.4,
-      "waehrung": "EUR",
-      "veraenderung": -0.9496921423477716,
-      "prozent": -0.441,
-      "vortag": 215.34969214234778,
-      "hoch52": 235.8,
-      "tief52": 127.5,
-      "stand": 1792769726,
-      "boerse": "XETRA",
-      "verlauf": [
-        201.25,
-        199.22000122070312,
-        199.83999633789062,
-        201.5500030517578,
-        208.64999389648438,
-        215.35000610351562,
-        214.4
-      ]
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
+      "kurs": null
     },
     {
       "id": "siemens",
       "name": "Siemens",
       "symbol": "SIE.DE",
       "typ": "aktie",
-      "error": null,
-      "kurs": 256.8,
-      "waehrung": "EUR",
-      "veraenderung": 1.0995120979786748,
-      "prozent": 0.43,
-      "vortag": 255.70048790202134,
-      "hoch52": 291.7,
-      "tief52": 198.0,
-      "stand": 1792769860,
-      "boerse": "XETRA",
-      "verlauf": [
-        270.6499938964844,
-        270.6499938964844,
-        266.20001220703125,
-        260.25,
-        266.75,
-        255.6999969482422,
-        256.8
-      ]
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
+      "kurs": null
     },
     {
       "id": "allianz",
       "name": "Allianz",
       "symbol": "ALV.DE",
       "typ": "aktie",
-      "error": null,
-      "kurs": 427.9,
-      "waehrung": "EUR",
-      "veraenderung": -4.698014436783467,
-      "prozent": -1.086,
-      "vortag": 432.59801443678344,
-      "hoch52": 454.6,
-      "tief52": 338.8,
-      "stand": 1792769710,
-      "boerse": "XETRA",
-      "verlauf": [
-        429.79998779296875,
-        433.8999938964844,
-        425.8999938964844,
-        431.6000061035156,
-        436.79998779296875,
-        432.6000061035156,
-        427.9
-      ]
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
+      "kurs": null
     }
   ]
 }
