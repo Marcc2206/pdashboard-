@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:40:20+00:00",
+  "generatedAt": "2026-10-26T16:28:02+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Alexander Franz, ARD-aktuell, zur Kollision eines Kreuzfahrtschiffes und eines Frachters in Bremerhaven",
-          "link": "https://www.tagesschau.de/video/video-1672666.html",
-          "published": "2026-10-26T09:27:37+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81754.html",
+          "published": "2026-10-26T16:17:40+00:00",
           "summary": ""
         },
         {
-          "title": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
-          "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
-          "published": "2026-10-26T09:26:01+00:00",
-          "summary": "Bei hohen Wellen und starkem Wind hat ein Kreuzfahrtschiff in Bremerhaven zwei Containerschiffe gerammt. Insgesamt verlief die Sturmnacht im Norden relativ glimpflich. Doch für den Mittag gibt es …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672662.html",
-          "published": "2026-10-26T09:22:48+00:00",
+          "title": "Gesetzentwurf für günstiges und schnelles Bauen",
+          "link": "https://www.tagesschau.de/video/video-1672892.html",
+          "published": "2026-10-26T16:13:54+00:00",
           "summary": ""
         },
         {
-          "title": "Wie die Ukraine einen Soldaten per Drohne rettete",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html",
-          "published": "2026-10-26T09:17:03+00:00",
-          "summary": "Der Ukraine ist eine spektakuläre Mission gelungen: Erstmals wurde ein verwundeter Soldat aus dem Frontgebiet mit einer Drohne ausgeflogen. Im ARD-Interview berichtet er, wie er seine Rettung …"
+          "title": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
+          "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
+          "published": "2026-10-26T16:11:54+00:00",
+          "summary": "Absolute Mehrheit für die Studentenliste: In Serbien hat sie überraschend klar die Parlamentswahl gewonnen. Aber wie kann aus einer Protestbewegung eine Regierung werden? Vieles ist unklar - und die …"
         },
         {
-          "title": "Klarer Sieg der Opposition bei Parlamentswahl in Serbien",
-          "link": "https://www.tagesschau.de/video/video-1672652.html",
-          "published": "2026-10-26T09:16:34+00:00",
+          "title": "Lula da Silva gewinnt Präsidentschaftswahl in Brasilien",
+          "link": "https://www.tagesschau.de/video/video-1672890.html",
+          "published": "2026-10-26T16:11:05+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Oppositionelle Studentenliste gewinnt Parlamentswahl in Serbien",
+          "link": "https://www.tagesschau.de/video/video-1672886.html",
+          "published": "2026-10-26T16:08:28+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Südamerika: Lula bleibt Präsident von Brasilien – Bolsonaro will Wahl anfechten",
-          "link": "https://www.handelsblatt.com/video/politik/suedamerika-lula-bleibt-praesident-von-brasilien-bolsonaro-will-wahl-anfechten/100264933.html",
-          "published": "2026-10-26T09:36:17+00:00",
-          "summary": "Nach der Stichwahl um das Präsidentenamt in Brasilien steht Luiz da Silva vor seiner vierten Amtszeit. Der Sieg des linken Amtsinhabers gilt als überraschend. Sein rechter Herausforderer Flavio …"
+          "title": "Handelsblatt Live: US-Börsenexperte Koch: Meta plant massive Kapitalaufnahme",
+          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-meta-plant-massive-kapitalaufnahme/100265067.html",
+          "published": "2026-10-26T16:25:38+00:00",
+          "summary": "Der Tech-Konzern will insgesamt rund 95 Milliarden US-Dollar über Aktien- und Vorzugsaktienverkäufe aufnehmen. „Die Frage wird sein, wie der Kapitalmarkt so viele neue Aktien überhaupt verdauen …"
         },
         {
-          "title": "Serbien: Ende der Vucic-Ära: Studentenbewegung triumphiert bei Parlamentswahl",
-          "link": "https://www.handelsblatt.com/video/politik/serbien-ende-der-vucic-aera-studentenbewegung-triumphiert-bei-parlamentswahl/100264932.html",
-          "published": "2026-10-26T09:36:12+00:00",
-          "summary": "Der bisher mächtigste Mann Serbiens hat seine Niederlage gegen die oppositionelle Studentenliste bei der vorgezogenen Parlamentswahl eingeräumt. Aleksandar Vucic hatte seit 2014 als Ministerpräsident …"
+          "title": "Biodiversitätsstrategie: EU droht Meeresschutzziel für 2030 zu verfehlen",
+          "link": "https://www.handelsblatt.com/politik/international/biodiversitaetsstrategie-eu-droht-meeresschutzziel-fuer-2030-zu-verfehlen/100265064.html",
+          "published": "2026-10-26T16:12:15+00:00",
+          "summary": "Der Europäische Rechnungshof hat untersucht, ob die EU ihre Meeresschutzziele für 2030 erreichen kann. Das Ergebnis fällt ernüchternd aus."
         },
         {
-          "title": "Video: Obama wirft Trump Bereicherung auf Kosten der Amerikaner vor",
-          "link": "https://www.handelsblatt.com/video/politik/obama-wirft-trump-bereicherung-auf-kosten-der-amerikaner-vor/100264924.html",
-          "published": "2026-10-26T09:35:53+00:00",
-          "summary": "Der frühere US-Präsident Obama hat sich mit Kritik an seinem republikanischen Nachfolger Trump in den Midterms-Wahlkampf eingeschaltet. Die Geschäfte, die Trump und seine Familie gemacht hätten …"
+          "title": "Today: Wahlkampf: Auftritt bei Trump von Audi-Chef Döllner geplant? | Ifo: Unternehmer etwas optimistischer",
+          "link": "https://www.handelsblatt.com/audio/today/today-war-der-auftritt-bei-trump-von-audi-chef-doellner-geplant/100265060.html",
+          "published": "2026-10-26T16:11:00+00:00",
+          "summary": "Audi-Chef Döllner wird kritisiert für den Auftritt bei Trumps Wahlkampf-Rede. Wie kam es dazu? Und: die Daten zum neuen Ifo-Geschäftsklimaindex."
         },
         {
-          "title": "Konjunktur: Ifo-Index steigt sechstes Mal in Folge – „Konjunkturbelebung setzt sich fort“",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-ifo-geschaeftsklima-steigt-sechsten-monat-in-folge/100264921.html",
-          "published": "2026-10-26T09:23:41+00:00",
-          "summary": "In der deutschen Wirtschaft scheint sich die Stimmung aufzuhellen. Der Ifo-Geschäftsklimaindex stieg im Oktober auf über 90 Punkte."
+          "title": "Deep Reed: Die Teilzeitrepublik",
+          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-die-teilzeitrepublik/100230798.html",
+          "published": "2026-10-26T15:57:33+00:00",
+          "summary": "Deutschland klagt über Fachkräftemangel, gleichzeitig arbeiten viele gut qualifizierte Mütter in Teilzeit oder gar nicht. Der Vergleich mit anderen Ländern zeigt: Es geht auch anders."
         },
         {
-          "title": "Studentenbewegung triumphiert: Serbien steht nach Parlamentswahl vor einem Machtwechsel",
-          "link": "https://www.handelsblatt.com/politik/international/studentenbewegung-triumphiert-serbien-steht-nach-parlamentswahl-vor-einem-machtwechsel/100264844.html",
-          "published": "2026-10-26T09:23:00+00:00",
-          "summary": "14 Jahre lang bestimmte Aleksandar Vucic die Politik seines Landes im Alleingang. Doch eine Protestbewegung von Studierenden wuchs ihm über den Kopf. Bricht für Serbien nun eine bessere Zukunft an?"
+          "title": "Bahn: Rechnungshof sieht Fehlentwicklungen bei Bahn-Sanierungen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bahn-rechnungshof-sieht-fehlentwicklungen-bei-bahn-sanierungen/100265048.html",
+          "published": "2026-10-26T15:42:39+00:00",
+          "summary": "Mit „Korridorsanierungen“ soll das teils marode Schienennetz auf Vordermann gebracht werden. Der Rechnungshof aber fordert Nachsteuerungen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "\"Vor Scham im Boden versinken\": Scharfe Kritik an Audi-Chef für Wahlkampfauftritt mit Trump",
-          "link": "https://www.n-tv.de/wirtschaft/Scharfe-Kritik-an-Audi-Chef-fuer-Wahlkampfauftritt-mit-Trump-id31457681.html",
-          "published": "2026-10-26T08:18:18+00:00",
-          "summary": "Bei einer Wahlkampfveranstaltung im US-Bundesstaat Georgia kündigt US-Präsident Trump den Bau eines Audi-Werks in Georgia an. Anschließend bittet er den Audi-Chef auf die Bühne, der sich bei Trump …"
+          "title": "Sparmaßnahmen im Konzern: Volkswagen setzt bei Software auf günstige China-Variante",
+          "link": "https://www.n-tv.de/wirtschaft/Volkswagen-setzt-bei-Software-auf-guenstige-China-Variante-id31460184.html",
+          "published": "2026-10-26T16:14:48+00:00",
+          "summary": "Volkswagen sucht unter hohem Kostendruck nach einer günstigeren und schnelleren Softwarelösung für zentrale Zukunftsmodelle. Ein intern diskutierter Kurswechsel könnte dem Konzern Einsparungen in …"
         },
         {
-          "title": "Für Kauf von KI-Chips: SpaceX sichert sich Kredit über 40 Milliarden Dollar",
-          "link": "https://www.n-tv.de/wirtschaft/SpaceX-sichert-sich-Kredit-ueber-40-Milliarden-Dollar-id31457091.html",
-          "published": "2026-10-26T01:49:27+00:00",
-          "summary": "In seinen jüngsten Quartalszahlen weist SpaceX erstmals Gewinn aus. Gründer Musk setzt die Bonität seines Raumfahrtkonzerns ein, um einen Milliardenkredit für den Kauf von Nvidia-Prozessoren zu …"
+          "title": "Rasantes Wachstum, rote Zahlen: Anthropic legt Informationen für möglichen Weltrekord-Börsengang offen",
+          "link": "https://www.n-tv.de/wirtschaft/wirtschaft_startup/Anthropic-legt-Informationen-fuer-moeglichen-Weltrekord-Boersengang-offen-id31460024.html",
+          "published": "2026-10-26T15:43:19+00:00",
+          "summary": "Das US-Startup Anthropic plant als erster großer KI-Rivale von OpenAI den Gang an die US-Börse Nasdaq. Aus Branchenkreisen verlautet, das Volumen könne sogar das des bisherigen Rekordbörsengangs des …"
         },
         {
-          "title": "Unter britischer Führung: Bericht: Airbus prüft Einstieg in internationales Kampfjet-Projekt",
-          "link": "https://www.n-tv.de/wirtschaft/Bericht-Airbus-prueft-Einstieg-in-internationales-Kampfjet-Projekt-id31456523.html",
-          "published": "2026-10-25T16:36:42+00:00",
-          "summary": "Nach dem Scheitern des FCAS-Projekts prüft Airbus laut einem Medienbericht Kooperationsgespräche mit dem britischen Rüstungskonzern BAE Systems. Ziel ist die gemeinsame Entwicklung eines …"
+          "title": "Im Verbraucherschutz nachbessern: Temu kündigt nach Millionenstrafe der EU Änderungen an",
+          "link": "https://www.n-tv.de/wirtschaft/Temu-kuendigt-nach-Millionenstrafe-der-EU-Aenderungen-an-id31459391.html",
+          "published": "2026-10-26T14:44:39+00:00",
+          "summary": "Der chinesische Online-Händler Temu steht vor einer EU-Strafe von 200 Millionen Euro, weil er beim Verbraucherschutz europäisches Recht bricht. Nun macht das Unternehmen Zugeständnisse an Brüssel."
         },
         {
-          "title": "\"Tiefe Besorgnis\": Zentralbank und Experten zerfetzen Netanjahus Krypto-Vorstoß",
-          "link": "https://www.n-tv.de/wirtschaft/Zentralbank-und-Experten-zerfetzen-Netanjahus-Krypto-Vorstoss-id31456394.html",
-          "published": "2026-10-25T15:10:38+00:00",
-          "summary": "Für den Fall internationaler Sanktionen will Israels Premier eine \"alternative Wirtschaft\" aufbauen, unter anderem mit Kryptowährungen. Nicht nur der Zentralbank stellen sich die Nackenhaare auf. Sie …"
+          "title": "\"Opportunistisch, unterwürfig\": Autoanalyst Pieper rechnet mit Audi-Chef Döllner ab",
+          "link": "https://www.n-tv.de/wirtschaft/Autoanalyst-Pieper-rechnet-mit-Audi-Chef-Doellner-ab-id31459452.html",
+          "published": "2026-10-26T14:10:34+00:00",
+          "summary": "Der gemeinsame Auftritt von Audi-Chef Döllner und US-Präsident Trump löst eine Welle der Entrüstung aus. Branchenkenner kritisieren die politische Inszenierung zwar scharf. Wirtschaftlich ist der Bau …"
         },
         {
-          "title": "Bis zu 12.000 Arbeitsplätze: Schweizer Bankgewerkschaft fürchtet Job-Kahlschlag bei UBS",
-          "link": "https://www.n-tv.de/wirtschaft/Schweizerischer-Bankpersonalverband-12-000-Arbeitsplaetze-bei-UBS-koennten-wegfallen-id31456241.html",
-          "published": "2026-10-25T14:03:42+00:00",
-          "summary": "Die Schweizer Politik plant härtere Vorgaben für Großbanken. Sollte die UBS das Land deshalb verlassen, könnten bis zu 12.000 Arbeitsplätze verloren gehen, warnt der Schweizer Bankpersonalverband. …"
+          "title": "Mit eigens entwickeltem Modell: Helsing steigt ins Geschäft mit Luftverteidigungssystemen ein",
+          "link": "https://www.n-tv.de/wirtschaft/Helsing-steigt-ins-Geschaeft-mit-Luftverteidigungssystemen-ein-id31458683.html",
+          "published": "2026-10-26T12:52:51+00:00",
+          "summary": "Die Bedrohung aus Russland wächst: Moskau baut seine Produktion von strahlgetriebenen Drohnen und Marschflugkörpern aus. Der Münchner Hersteller Helsing setzt dem nun ein neues System entgegen. Wie …"
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Anleger versuchen DAX zu stabilisieren",
+          "title": "Brasiliens Kapitalmärkte stürzen ab",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html",
+          "published": "2026-10-26T13:47:15+00:00",
+          "summary": "Während die EU die Wiederwahl von Brasiliens Präsident Lula begrüßt, hat diese einen Kurssturz bei brasilianischen Aktien und Anleihen ausgelöst. An den Märkten gibt es Sorgen wegen Brasiliens hoher …"
+        },
+        {
+          "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-          "published": "2026-10-26T06:27:39+00:00",
-          "summary": "Die Zahl der Sorgen bleibt groß. Neben den anhaltend hohen Ölpreisen dämpfen die Sorgen um den KI-Boom die Stimmung. Jetzt hoffen die Anleger auf gute Unternehmensbilanzen und Hilfe von den …"
+          "published": "2026-10-26T10:19:27+00:00",
+          "summary": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom …"
         },
         {
           "title": "Marktbericht: Nasdaq kommt unter die Räder",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
           "published": "2026-10-22T12:10:58+00:00",
           "summary": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das."
-        },
-        {
-          "title": "Gewinnprognose erhöht: Rekordgewinn für Adidas",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-adidas-100.html",
-          "published": "2026-10-21T12:31:29+00:00",
-          "summary": "Das hören Aktionäre und Investoren immer gerne: der Sportartikelkonzern Adidas erhöht nach einem Rekordquartal die Prognose. Im DAX gehört die Aktie zu den größten Gewinnern."
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Debatten: Warum Talkshows so schwer Unternehmer als Gäste gewinnen",
-          "link": "https://www.wiwo.de/unternehmen/handel/dm-chef-christoph-werner-warum-meiden-unternehmer-talkshows/100264288.html",
-          "published": "2026-10-26T09:31:00+00:00",
-          "summary": "Wer als Unternehmer in der Öffentlichkeit steht, kann seine Marke in die Bredouille bringen. Trotzdem werden ihre Wortmeldungen gebraucht. Eine Kolumne."
+          "title": "EU-Binnenmarkt: „Wir können die Ukraine inzwischen ohne die USA verteidigen“",
+          "link": "https://www.wiwo.de/politik/europa/enrico-letta-im-interview-wie-trump-den-eu-binnenmarkt-einigt/100264957.html",
+          "published": "2026-10-26T16:17:00+00:00",
+          "summary": "Auch wenn es keine Absicht der US-Regierung war: Der EU-Reformer und Ex-Ministerpräsident Enrico Letta sieht Brüssel durch Washingtons Druck gestärkt."
         },
         {
-          "title": "Autohersteller: Tief in den roten Zahlen – Chinas Autobranche muss sich konsolidieren",
-          "link": "https://www.wiwo.de/unternehmen/auto/chinas-autobranche-in-der-krise-peking-erzwingt-die-fusionen/100263495.html",
-          "published": "2026-10-26T09:30:00+00:00",
-          "summary": "Zu viele Hersteller, zu wenig Gewinn: Peking will die chinesische Autoindustrie gründlich umbauen. Ist die Lage eine Chance für die deutsche Konkurrenz?"
+          "title": "Abfindungsprogramme: Selbst 492.000 Euro Abfindung schmelzen schnell weg",
+          "link": "https://www.wiwo.de/finanzen/vorsorge/abfindung-wie-lange-reicht-das-geld-so-rechnen-sie-richtig/100264285.html",
+          "published": "2026-10-26T16:11:00+00:00",
+          "summary": "Selbst sechsstellige Summen, wie sie die Autobranche jetzt teils bietet, können rasch aufgezehrt sein. Wie Betroffene rechnen sollten – und wie nicht."
         },
         {
-          "title": "Altersvorsorge: Muss jetzt die Bafin bei den Versorgungswerken eingreifen?",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/versorgungswerke-muss-jetzt-die-bafin-eingreifen/100264330.html",
-          "published": "2026-10-26T09:26:00+00:00",
-          "summary": "Einige berufsständische Versorgungswerke haben viel Geld in riskanten Investments versenkt. Das hat ein juristisches Nachspiel."
+          "title": "Neues Werk in den USA: Darum ist Audis US-Strategie riskant",
+          "link": "https://www.wiwo.de/unternehmen/auto/neues-audi-werk-in-den-usa-darum-ist-die-us-strategie-der-vw-tochter-riskant/100264953.html",
+          "published": "2026-10-26T15:57:00+00:00",
+          "summary": "Audi will sein erstes Werk in den USA eröffnen – auch, um das schwache Geschäft dort anzukurbeln. Geht das zulasten anderer Standorte?"
         },
         {
-          "title": "Porsche: „KI könnte Bildschirme im Auto komplett ersetzen“",
-          "link": "https://www.wiwo.de/unternehmen/auto/porsche-mission-s-warum-der-superwagen-bildschirme-verbannt-und-auf-ki-setzt/100263485.html",
-          "published": "2026-10-26T09:24:00+00:00",
-          "summary": "Teslas Roadster hebt mit Raketentechnik ab, Porsche setzt beim Mission S auf ein Retrodesign. Designchef Tobias Sühlmann über den neuen Supersportwagen."
+          "title": "Volkswagen: Kehrtwende bei VW – CEO Blume wusste von Audi-Auftritt bei Trump",
+          "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-kehrtwende-bei-vw-ceo-blume-wusste-von-audi-auftritt-bei-trump/100264980.html",
+          "published": "2026-10-26T15:55:00+00:00",
+          "summary": "Nachdem Insider berichtet hatten, VW-Chef Blume habe nichts von dem Auftritt des Audi-Chefs im US-Wahlkampf gewusst, erklärt der Konzern nun: Blume war in die Planungen eingebunden."
         },
         {
-          "title": "Deutsche Wirtschaft: „Konjunkturbelebung setzt sich fort“",
-          "link": "https://www.wiwo.de/politik/konjunktur/deutsche-wirtschaft-konjunkturbelebung-setzt-sich-fort/100264920.html",
-          "published": "2026-10-26T09:23:50+00:00",
-          "summary": "Der Ifo-Geschäftsklimaindex signalisiert mehr Zuversicht. Doch schwache private Investitionen bremsen den erhofften nachhaltigen Aufschwung."
+          "title": "Gebäudetyp E: Einfacher und billiger bauen – das ist schwieriger als gedacht",
+          "link": "https://www.wiwo.de/finanzen/immobilien/gebaeudetyp-e-warum-das-gesetz-guenstigeres-bauen-bremsen-kann/100264940.html",
+          "published": "2026-10-26T15:42:00+00:00",
+          "summary": "Das Bundesjustizministerium hat einen Gesetzentwurf für einen neuen, einfacheren Baustandard vorgelegt. Kritiker bemängeln Rechtsrisiken, die günstiges Bauen verhindern."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Mehr Verantwortung ohne neuen Titel: Wenn die stille Beförderung zum Problem wird",
-          "link": "https://www.ingenieur.de/mehr-verantwortung-ohne-neuen-titel-wenn-die-stille-beforderung-zum-problem-wird-204f4870-db20-40c0-bb72-53600f811a2d/",
-          "published": "2026-10-26T09:30:00+00:00",
-          "summary": "Beförderung ohne Gehalt: Wann Dry und Ghost Promotions zur Belastung werden und wie Ingenieurinnen und Ingenieure wirksam reagieren können."
+          "title": "Baukasten für die Energieoptimierung von Werkzeugmaschinen",
+          "link": "https://www.ingenieur.de/baukasten-fur-die-energieoptimierung-von-werkzeugmaschinen-17b0a3ef-cbf7-40ee-b5e5-94ad1fe07f2a/",
+          "published": "2026-10-26T15:00:00+00:00",
+          "summary": "Hohe Energiekosten und CO₂-Ziele machen Energiemonitoring unverzichtbar. Erfahren Sie, wie sich der Energiebedarf von Maschinen mit möglichst wenig Sensorik überwachen lässt."
         },
         {
-          "title": "Warum moderne Gebäude den Brandschutz komplizierter machen",
-          "link": "https://www.ingenieur.de/warum-moderne-gebaeude-den-brandschutz-komplizierter-machen-9a80f2e8-d04d-40ca-9b9a-7986b1022e52/",
-          "published": "2026-10-26T07:30:00+00:00",
-          "summary": "Holz-Hybridbau, Solaranlagen und Modulbau stellen den Brandschutz vor neue Aufgaben. Wo Vorschriften an Grenzen stoßen und was sich 2026 geändert hat."
+          "title": "Die Maschine ist fertig – die Software fährt hinterher",
+          "link": "https://www.ingenieur.de/die-maschine-ist-fertig-die-software-faehrt-hinterher-6b85a47e-b47e-43b0-b57b-1f70b096ab67/",
+          "published": "2026-10-26T15:00:00+00:00",
+          "summary": "Eine starke Konstruktion allein macht noch kein wirtschaftlich erfolgreiches Produkt. Erst wenn Mechanik, Bedienung, Software, Daten und Service zusammenspielen, entsteht für den Kunden ein …"
         },
         {
-          "title": "Trotz Schlepperhilfe: „Mein Schiff 3“ rammt zwei Frachter: Rettungsboote beschädigt",
-          "link": "https://www.ingenieur.de/trotz-schlepperhilfe-mein-schiff-3-rammt-containerschiff-in-bremerhaven-fc60692d-5479-4d02-80bd-de26f634fd0d/",
-          "published": "2026-10-26T06:32:37+00:00",
-          "summary": "Mein Schiff 3“ kollidiert in Bremerhaven mit Frachtern. Rettungsboote beschädigt, Weiterfahrt unklar. Was über Unfall und Schäden bekannt ist."
+          "title": "1,5 Gbit/s mit UV-Licht: Warum Forscher auf winzige LEDs setzen",
+          "link": "https://www.ingenieur.de/schneller-datenfunk-mit-uv-licht-der-rekord-hat-einen-haken-2de191e5-9a64-4d0e-b501-41420675afd4/",
+          "published": "2026-10-26T14:30:00+00:00",
+          "summary": "Forschende erreichen mit winzigen UV-LEDs 1,5 Gbit/s. Die neue Technik könnte Daten auch ohne direkte Sichtverbindung übertragen."
         },
         {
-          "title": "Kann ein Schwarzes Loch zerbrechen? Physiker entdecken ein Schlupfloch",
-          "link": "https://www.ingenieur.de/kann-ein-schwarzes-loch-zerbrechen-physiker-entdecken-ein-schlupfloch-3d903de0-799a-4908-8eba-c366d69faaa8/",
-          "published": "2026-10-25T17:27:53+00:00",
-          "summary": "Kann ein Schwarzes Loch in zwei zerbrechen? Forscher entdecken eine theoretische Ausnahme. Entscheidend ist die extrem schnelle Rotation."
+          "title": "Gefahr von oben: Was in Hunderten Boeing 737 jetzt geändert werden muss",
+          "link": "https://www.ingenieur.de/gefahr-von-oben-was-in-hunderten-boeing-737-jetzt-geaendert-werden-muss-c37f18dc-71ea-49a0-8363-8d66805d2cd0/",
+          "published": "2026-10-26T14:00:00+00:00",
+          "summary": "Bei einer harten Landung lösten sich Monitore aus einer Boeing 737. Die FAA schreibt eine Nachrüstung vor. Auch europäische Airlines sind betroffen."
         },
         {
-          "title": "Archimedes hätte gestaunt: Seine Schraube funktioniert jetzt im Nanomaßstab",
-          "link": "https://www.ingenieur.de/archimedes-haette-gestaunt-seine-schraube-funktioniert-jetzt-im-nanomassstab-9a8b3b6f-f09a-4099-abe5-5a823c9b3cb4/",
-          "published": "2026-10-25T15:49:55+00:00",
-          "summary": "Ein winziger Motor nach dem Vorbild der Archimedischen Schraube: Forschende zeigen, wie Elektronen ein Molekül drehen und seinen Stromfluss verändern."
+          "title": "Bis zu 283 m hoch: Wie China riesige Brückenpylone im Gebirge baut",
+          "link": "https://www.ingenieur.de/283-m-hoch-200-t-tragkraft-so-entsteht-chinas-naechste-mega-bruecke-732e10d9-eeab-40bb-bb2c-9b516a058c24/",
+          "published": "2026-10-26T13:30:00+00:00",
+          "summary": "Mit 200-t-Kranen baut China eine gewaltige Hängebrücke im Gebirge. Wie Fernsteuerung und besondere Bautechnik dabei helfen."
         }
       ],
       "error": null
