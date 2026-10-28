@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T07:53:51+00:00",
+  "generatedAt": "2026-10-28T14:50:08+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,25 +7,25 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-28T08:45",
-    "temperatur": 10.0,
-    "gefuehlt": 8.2,
-    "luftfeuchte": 95,
+    "zeit": "2026-10-28T15:45",
+    "temperatur": 12.3,
+    "gefuehlt": 10.4,
+    "luftfeuchte": 74,
     "niederschlag": 0.0,
-    "wind": 10.7,
+    "wind": 9.6,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 3,
-      "text": "Bedeckt",
-      "icon": "☁️"
+      "code": 2,
+      "text": "Teils bewölkt",
+      "icon": "⛅"
     }
   },
   "tage": [
     {
       "datum": "2026-10-28",
       "max": 12.5,
-      "min": 8.7,
+      "min": 9.2,
       "regenwahrscheinlichkeit": 98,
       "sonnenaufgang": "2026-10-28T07:13",
       "sonnenuntergang": "2026-10-28T17:04",
@@ -37,21 +37,21 @@
     },
     {
       "datum": "2026-10-29",
-      "max": 13.9,
-      "min": 7.5,
-      "regenwahrscheinlichkeit": 25,
+      "max": 13.2,
+      "min": 7.0,
+      "regenwahrscheinlichkeit": 43,
       "sonnenaufgang": "2026-10-29T07:15",
       "sonnenuntergang": "2026-10-29T17:02",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
-        "icon": "🌦️"
+        "code": 45,
+        "text": "Nebel",
+        "icon": "🌫️"
       }
     },
     {
       "datum": "2026-10-30",
-      "max": 12.3,
-      "min": 6.8,
+      "max": 10.8,
+      "min": 7.0,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-30T07:17",
       "sonnenuntergang": "2026-10-30T17:00",
@@ -63,8 +63,8 @@
     },
     {
       "datum": "2026-10-31",
-      "max": 11.2,
-      "min": 8.1,
+      "max": 10.9,
+      "min": 8.0,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-10-31T07:19",
       "sonnenuntergang": "2026-10-31T16:59",
