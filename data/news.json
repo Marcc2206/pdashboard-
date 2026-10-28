@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:50:04+00:00",
+  "generatedAt": "2026-10-28T20:45:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Liveblog zur Israel-Wahl: ++ Präsident Herzog will weitere Wahlrunde vermeiden ++",
-          "link": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
-          "published": "2026-10-28T14:48:10+00:00",
-          "summary": "Israels Präsident Herzog will ein Scheitern der Regierungsbildung unter allen Umständen verhindern. Weiterhin erreicht kein Parteienbündnis die nötige Mehrheit, doch das Lager um Premier Netanjahu …"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12954.html",
+          "published": "2026-10-28T20:44:13+00:00",
+          "summary": ""
         },
         {
-          "title": "Nach illegaler Ausreise aus Brasilien: Flávio Bolsonaro in Miami gelandet",
-          "link": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-102.html",
-          "published": "2026-10-28T14:37:14+00:00",
-          "summary": "Der brasilianische Wahlverlierer Flávio Bolsonaro hat sich trotz eines Ausreiseverbots in die USA abgesetzt. Ein Privatflugzeug brachte ihn und seine Familie nach Miami. Gegen Bolsonaro wird unter …"
+          "title": "DFB-Pokal: Dynamo Dresden schießt furchtbar harmlose Schalker ab",
+          "link": "https://www.sportschau.de/fussball/dfbpokal/dresden-schafft-die-ueberraschung-gegen-schalke-04,spielbericht-dfb-pokal-dresden-schalke-100.html",
+          "published": "2026-10-28T20:06:52+00:00",
+          "summary": "Zweitligist Dynamo Dresden hat sich mit einem verdienten Sieg gegen Bundesligist Schalke 04 für das Achtelfinale im DFB-Pokal qualifiziert."
+        },
+        {
+          "title": "tagesschau 20:00 Uhr",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674272.html",
+          "published": "2026-10-28T19:40:05+00:00",
+          "summary": "Mindestens 68 Tote nach Zugunglück in Spanien, Keine klaren Mehrheiten bei Parlamentswahl in Israel, Bundeskanzler Merz besucht auf seiner Asienreise Japan, Zweitägiger Russland-Afrika-Gipfel in …"
         },
         {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81778.html",
-          "published": "2026-10-28T14:29:24+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81784.html",
+          "published": "2026-10-28T19:21:33+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1674020.html",
-          "published": "2026-10-28T14:22:07+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Philip Kuntschner, ARD Berlin, mit Details zu Änderungen beim Elterngeld",
-          "link": "https://www.tagesschau.de/video/video-1674012.html",
-          "published": "2026-10-28T14:12:06+00:00",
+          "title": "Gespräche zu deutsch-japanischen Beziehungen bei Merz' Staatsbesuch in Tokio",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674252.html",
+          "published": "2026-10-28T19:20:53+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Steuererklärung: Bonus bekommen? So sparen Prämierte auch noch Steuern",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-wie-sie-bei-bonuszahlungen-auch-noch-steuern-sparen-koennen/100003952.html",
-          "published": "2026-10-28T14:47:00+00:00",
-          "summary": "Einige Chefs zahlen ihren Angestellten bei guten Leistungen Prämien. Je nachdem, wann und wie der Bonus ausgeschüttet wird, sinkt die Steuer – oder entfällt ganz."
+          "title": "+++ Iran-Krieg +++: Irans Präsident trifft den Emir von Katar – und danach Putin?",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-praesident-trifft-den-emir-von-katar-und-danach-putin/100136895.html",
+          "published": "2026-10-28T20:23:00+00:00",
+          "summary": "Likud-Partei wirft arabischen Parteien Wahlbetrug vor +++ Israels Militär meldet weitere Festnahmen im Westjordanland +++ Öltanker nach Minentreffer nahe Straße von Hormus in Brand +++ Der Newsblog."
         },
         {
-          "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-so-koennen-gutverdiener-mit-neubauwohnungen-steuern-sparen/100193212.html",
-          "published": "2026-10-28T14:46:00+00:00",
-          "summary": "Über steuerliche Abschreibungen können Immobilieninvestoren viel Geld zurückbekommen. Wie das funktioniert, welches Eigenkapital dafür nötig ist und welche Fehler es zu vermeiden gilt."
+          "title": "US-Börsen: US-Börsen schließen leicht im Plus – Anleger halten sich trotz Fed-Zinsentscheid zurück",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-leicht-im-plus-anleger-halten-sich-zurueck/100265527.html",
+          "published": "2026-10-28T20:11:00+00:00",
+          "summary": "Der Fed-Entscheid über die Leitzinsen bewegte die US-Börsen am Mittwoch kaum. Anleger warteten auf die Quartalszahlen zweier „Magnificent Seven“-Konzerne. Doch Chipwerte profitierten."
         },
         {
-          "title": "Energie: Europäischer Gaspreis steigt auf mehr als 100 Euro – kalter Winter könnte Preise weiter steigen lassen",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/energie-europaeischer-gaspreis-steigt-auf-mehr-als-100-euro/100265601.html",
-          "published": "2026-10-28T14:44:31+00:00",
-          "summary": "Die Preise für Gas sind auf dem Kontinent aktuell so hoch wie seit Ende 2022 nicht mehr. Der Irankrieg und die hohe Nachfrage in Asien treiben die Kosten weltweit nach oben."
+          "title": "Übernahme: Telekom legt Fusion mit T-Mobile US vorerst auf Eis",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/uebernahme-telekom-legt-fusion-mit-t-mobile-us-vorerst-auf-eis/100265710.html",
+          "published": "2026-10-28T19:52:12+00:00",
+          "summary": "Die Fusion der Telekom mit T-Mobile US steht offenbar vor dem Scheitern. Widerstand des Betriebsrats und ein möglicherweise geringerer Einfluss des Bundes erschweren die Übernahme."
         },
         {
-          "title": "Ranking: Unterschätzt, aber dynamisch: Zehn Städte und Regionen, die derzeit gute Jobchancen bieten",
-          "link": "https://www.handelsblatt.com/karriere/karriere-diese-zehn-regionen-bieten-trotz-angespanntem-arbeitsmarkt-jobchancen/100241065.html",
-          "published": "2026-10-28T14:44:00+00:00",
-          "summary": "Attraktive Jobangebote sind rar. Ein Ranking der Plattform LinkedIn zeigt, in welchen Regionen Arbeitsuchende dennoch gute Aussichten haben – abseits der großen Metropolen."
+          "title": "Geldpolitik: Fed hält Zinsen unverändert – weniger Zinsentscheidungen ab 2027",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-fed-haelt-zinsen-unveraendert-weniger-zinsentscheidungen-ab-2027/100264521.html",
+          "published": "2026-10-28T19:35:00+00:00",
+          "summary": "Nach der ersten Zinserhöhung seit mehr als drei Jahren legt die Fed eine Pause ein. An den Märkten sind die Erwartungen für die kommenden Monate derweil eindeutig."
         },
         {
-          "title": "Vermögen: Risiko Pflegeheim – wann Sie für Ihre Eltern zahlen müssen",
-          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/pflegeheim-muessen-kinder-fuer-die-pflegekosten-ihrer-eltern-aufkommen/100246311.html",
-          "published": "2026-10-28T14:42:00+00:00",
-          "summary": "Zahlt das Sozialamt das Pflegeheim, werden Kinder in Regress genommen. Doch die Rechte des Amts sind begrenzt und ein neues Urteil gibt für die Rückforderung von Geldschenkungen weniger Zeit."
+          "title": "US-Wirtschaft: Fed legt Zinspause ein - nächste Erhöhung schon im Dezember?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/us-wirtschaft-fed-legt-zinspause-ein-naechste-erhoehung-schon-im-dezember/100265703.html",
+          "published": "2026-10-28T19:24:29+00:00",
+          "summary": "Die Fed hatte im September erstmals seit mehr als drei Jahren den Leitzins erhöht. Jetzt bleiben die Zinsen erst einmal konstant. Das dürfte allerdings nicht lange so bleiben."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Spott vom Rivalen Samsung : \"Crack-Gate\" kratzt am Image des neuen Apple-Chefs",
-          "link": "https://www.n-tv.de/wirtschaft/Crack-Gate-kratzt-am-Image-des-neuen-Apple-Chefs-id31467514.html",
-          "published": "2026-10-28T14:03:41+00:00",
-          "summary": "Der Start des neuen Falt-Handys Duo ist für Apple in mehrerer Hinsicht ein wichtiger Schritt. Zunächst legt das selbst für iPhone-Verhältnisse extrem teure Gerät einen glänzenden Verkaufsstart hin. …"
+          "title": "Warsh macht überraschende Ansage: Fed tastet Leitzins trotz Uneinigkeit nicht an",
+          "link": "https://www.n-tv.de/wirtschaft/Fed-tastet-Leitzins-trotz-Uneinigkeit-nicht-an-id31469591.html",
+          "published": "2026-10-28T18:42:45+00:00",
+          "summary": "Kurz vor den richtungsweisenden Midterms fasst die US-Notenbank den Leitzins nicht mehr an - trotz hoher Inflation und zwei Währungshüterinnen, die eigentlich dafür wären. Dennoch könnte noch in …"
         },
         {
-          "title": "Letztes Werk geschlossen: Playmobilfabrik wird zu Rechenzentrum",
-          "link": "https://www.n-tv.de/wirtschaft/Playmobilfabrik-wird-zu-Rechenzentrum-id31467316.html",
-          "published": "2026-10-28T14:02:14+00:00",
-          "summary": "Da, wo früher kleine Figürchen die Fließbänder verließen, soll nun ein Rechenzentrum entstehen: \"Playmobil digital\" soll wichtige Infrastruktur für die digitale Zukunft ermöglichen. Die Figuren …"
+          "title": "Wettgewinne, Filmmillionen: So sieht das Geldwäsche-Geflecht von Flávio Bolsonaro aus",
+          "link": "https://www.n-tv.de/wirtschaft/So-sieht-das-Geldwaesche-Geflecht-von-Flavio-Bolsonaro-aus-id31469265.html",
+          "published": "2026-10-28T17:33:37+00:00",
+          "summary": "Nach seiner Wahlniederlage hat Flávio Bolsonaro Brasilien in Richtung USA verlassen. Hintergrund sind wohl Ermittlungen gegen den Präsidentschaftskandidaten. Es geht um einen Privatjet, ein …"
         },
         {
-          "title": "Tigergarnelen mit Tigern: Pannen ohne Ende: Lieferando stoppt KI-Essensbilder",
-          "link": "https://www.n-tv.de/wirtschaft/Lieferando-stoppt-KI-generierte-Essensbilder-nach-Pannen-id31467632.html",
-          "published": "2026-10-28T13:51:12+00:00",
-          "summary": "Wohl um den Appetit seiner Kunden anzuregen, setzt der Lieferservice Lieferando auf Künstliche Intelligenz bei der Erstellung von Essensbildern. Die Ergebnisse sind jedoch mehr als fragwürdig und …"
+          "title": "\"Gesamtmarkt ist im freien Fall\": Volkswagen rechnet mit Einbruch seines China-Geschäfts",
+          "link": "https://www.n-tv.de/wirtschaft/Volkswagen-rechnet-mit-Einbruch-seines-China-Geschaefts-id31468526.html",
+          "published": "2026-10-28T15:53:10+00:00",
+          "summary": "Einst verkaufte VW in China über vier Millionen Autos pro Jahr. Doch diese Zeiten scheinen vorbei. Volkswagens Top-Mann in der Volksrepublik spricht von einem Markt im freien Fall. Nun richtet der …"
         },
         {
-          "title": "Abfindungsprogramm ab Dezember: Mercedes plant weiteren Stellenabbau",
-          "link": "https://www.n-tv.de/wirtschaft/Mercedes-plant-weiteren-Stellenabbau-id31467684.html",
-          "published": "2026-10-28T13:20:07+00:00",
-          "summary": "Am Dienstag senkt Mercedes seine Umsatz- und Gewinnerwartung. Nun klagt Konzernchef Källenius: \"Deutschland macht etwa 15 Prozent des Umsatzes aus, aber zwei Drittel unserer Beschäftigten und …"
+          "title": "Erstmals seit 2022: Europäischer Gaspreis steigt über 100 Euro",
+          "link": "https://www.n-tv.de/wirtschaft/Europaeischer-Gaspreis-steigt-ueber-100-Euro-id31468733.html",
+          "published": "2026-10-28T15:52:17+00:00",
+          "summary": "Der Ölpreis geht durch den Krieg der USA und Israels gegen den Iran bereits massiv nach oben. Gleiches betrifft auch den Gaspreis - allerdings lange nicht so massiv. Seit Mitte September gibt es …"
         },
         {
-          "title": "Erwartungen übertroffen: Heineken profitiert von teurem und alkoholfreiem Bier",
-          "link": "https://www.n-tv.de/wirtschaft/Heineken-profitiert-von-teurem-und-alkoholfreiem-Bier-id31466091.html",
-          "published": "2026-10-28T09:59:21+00:00",
-          "summary": "Heinekens neuer Chef ist noch unzufrieden und fordert \"eine stärkere Leistungskultur\". Doch die Zahlen des Brauereikonzerns sind im dritten Quartal gar nicht so schlecht."
+          "title": "Füllstand nicht erreicht: Winter-Poker auf dem Gasmarkt setzt Europa unter Preisdruck",
+          "link": "https://www.n-tv.de/wirtschaft/Winter-Poker-auf-dem-Gasmarkt-setzt-Europa-unter-Preisdruck-id31468560.html",
+          "published": "2026-10-28T15:50:59+00:00",
+          "summary": "Mit einem verfehlten Füllstandsziel geht Deutschland in die kalte Jahreszeit. Im globalen Bieterwettbewerb um LNG gerät das Land unter Druck. Als zentraler Handelsplatz beeinflusst das deutsche …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Der DAX behauptet sich",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
+          "published": "2026-10-28T17:38:51+00:00",
+          "summary": "Der Handelstag im DAX endet mit leichten Gewinnen. Die Investoren haben viele Quartalszahlen zu verarbeiten, außerdem richtet sich der Blick in die USA. Die hohen Energiepreise dämpfen indes …"
+        },
+        {
           "title": "Marktbericht: Deutsche Bank will \"europäischer Champion\" werden",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-deutsche-bank-100.html",
           "published": "2026-10-28T14:05:32+00:00",
           "summary": "Banken verdienen wieder gut - nach der Konkurrenz kann jetzt auch die Deutsche Bank gute Quartalszahlen vorlegen. In einem umkämpften Markt will der Konzern nun aufholen gegenüber den größten …"
-        },
-        {
-          "title": "Marktbericht: DAX noch unentschieden",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-          "published": "2026-10-28T09:36:36+00:00",
-          "summary": "Positive und negative Einflüsse halten sich zum Tagesstart die Waage. Der DAX schwankt um seinen Vortagesschluss. Neben einer Reihe von Quartalszahlen beschäftigen der KI-Boom und der Ölpreis den …"
         },
         {
           "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Zwischenbilanz: Deutsche Bank wird nach neuem Gewinnplus optimistischer",
-          "link": "https://www.wiwo.de/unternehmen/banken/deutsche-bank-nach-neuem-gewinnplus-optimistischer/100265465.html",
-          "published": "2026-10-28T14:42:00+00:00",
-          "summary": "Die Deutsche Bank setzt ihren Rekordkurs fort und übertrifft die Erwartungen. Bankchef Christian Sewing sieht weiteres Gewinnpotenzial. Die Aktie befindet sich im Aufwind."
-        },
-        {
-          "title": "Mercedes-Abfindungen: „Inzwischen ist mir die Summe der Abfindung eigentlich egal“",
-          "link": "https://www.wiwo.de/erfolg/beruf/abfindung-bei-mercedes-warum-ein-mitarbeiter-freiwillig-gehen-will/100265355.html",
-          "published": "2026-10-28T14:37:00+00:00",
-          "summary": "Bald startet Mercedes seine nächste Abfindungswelle. Einer will das Angebot auf jeden Fall annehmen, wegen Aussagen von Vorstandschef Källenius. Protokoll eines Enttäuschten."
-        },
-        {
           "title": "Chemie: BASF-Chef unter Druck – wird Evoniks Offerte zur Falle für Kamieth?",
           "link": "https://www.wiwo.de/unternehmen/industrie/chemie-basf-chef-markus-kamieth-unter-druck-wird-die-evonik-offerte-zur-falle/100265487.html",
-          "published": "2026-10-28T14:36:00+00:00",
+          "published": "2026-10-28T20:11:00+00:00",
           "summary": "Kamieth hat die Übernahmefantasien ins Rollen gebracht. Nun muss er liefern, mit Evonik oder ohne. Doch Evoniks eigene Pläne erhöhen den Zeitdruck und ein Plan B fehlt."
         },
         {
-          "title": "Audi im US-Wahlkampf: Und dann landete der VW-Flieger direkt neben dem Golfplatz von Trump",
-          "link": "https://www.wiwo.de/unternehmen/auto/audi-im-uswahlkampf-dann-landete-der-vw-flieger-neben-trumps-golfplatz/100265312.html",
-          "published": "2026-10-28T14:35:00+00:00",
-          "summary": "Vor dem Auftritt von Audi-Chef Döllner im Trump-Wahlkampf gab es intensive Verhandlungen mit der US‑Regierung. Daten der VW-Flugzeugflotte zeigen hektische Aktivitäten im Vorfeld."
+          "title": "Parfümeriekette: Plötzlich attackieren die Angreifer Douglas von allen Seiten zugleich",
+          "link": "https://www.wiwo.de/unternehmen/handel/douglas-wie-amazon-tiktok-und-flaconi-den-riesen-bedraengen/100263667.html",
+          "published": "2026-10-28T19:19:00+00:00",
+          "summary": "Noch ist Douglas Europas Marktführer im Handel mit Kosmetik. Doch Wachstum verzeichnen gerade nur die Wettbewerber. Kann der neue CEO in diesem Kampf bestehen?"
         },
         {
-          "title": "Thyssenkrupp: Accelis-Abspaltung führt zu milliardenschwerer Aufwertung",
-          "link": "https://www.wiwo.de/finanzen/boerse/thyssenkrupp-accelis-abspaltung-fuehrt-zu-milliardenschwerer-aufwertung/100265186.html",
-          "published": "2026-10-28T14:35:00+00:00",
-          "summary": "Mit Börsenstart seines Ablegers TK Accelis wird Thyssenkrupp immer mehr zu einer Finanzholding. Beide Aktien werden für Anleger so interessanter."
+          "title": "Fed-Zinsentscheid: Kevin Warsh kündigt Sitzungen ohne Zinsentscheid an",
+          "link": "https://www.wiwo.de/politik/ausland/fed-zinsentscheid-heute-us-notenbank-legt-kurz-vor-midterms-leitzinspause-ein/100265383.html",
+          "published": "2026-10-28T19:17:00+00:00",
+          "summary": "US-Notenbankchef Warsh setzt vor den Midterms auf Zurückhaltung: Der Leitzins bleibt unverändert. Mit der Überraschung wartete der Fed-Chef bis zur Pressekonferenz."
+        },
+        {
+          "title": "EZB-Sitzung: Verstärkt die EZB den Druck auf Frankreichs Staatsfinanzen?",
+          "link": "https://www.wiwo.de/politik/konjunktur/ezb-zinsentscheid-verstaerkt-die-ezb-den-druck-auf-frankreichs-staatsfinanzen/100265023.html",
+          "published": "2026-10-28T18:41:00+00:00",
+          "summary": "Inflation und Energiepreise steigen, die Lage in Frankreich bleibt explosiv, die Fed legt eine Zinspause ein. Was die Märkte nun von der Europäischen Notenbank erwarten."
+        },
+        {
+          "title": "Boommarkt Stromnetze: Siemens Energy verhökerte einen Rohdiamanten – eine verpasste Chance?",
+          "link": "https://www.wiwo.de/unternehmen/energie/ge-vernova-kauft-trench-group-verpasste-siemens-energy-eine-chance/100265609.html",
+          "published": "2026-10-28T17:39:00+00:00",
+          "summary": "GE Vernova kauft für neun Milliarden US-Dollar die deutsche Trench Group. Siemens Energy hatte das Unternehmen vor zwei Jahren für weit weniger als ein Zehntel losgeschlagen. Ein Fehler?"
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Diesel-Aus in Westfalen, Tempo 350 in Spanien: Was Siemens jetzt auf die Schiene bringt",
-          "link": "https://www.ingenieur.de/diesel-aus-in-westfalen-tempo-350-in-spanien-was-siemens-jetzt-auf-die-schiene-bringt-cab83a58-14a4-411d-b291-7abfaf93dddb/",
-          "published": "2026-10-28T13:00:00+00:00",
-          "summary": "61 Batteriezüge sollen ab 2029 in Westfalen den Diesel ablösen, 30 neue Schnellzüge sollen in Spanien mit 350 km/h fahren. Beide Siemens-Züge nutzen Batterien, aber für ganz unterschiedliche Zwecke."
+          "title": "Solarzellen: Neuer Halbleiter reduziert Ladungsverluste um 75 %",
+          "link": "https://www.ingenieur.de/solarzellen-neuer-halbleiter-reduziert-ladungsverluste-um-75-c04b83f9-9cdf-4c6e-9f3a-0cd5261c9569/",
+          "published": "2026-10-28T17:56:23+00:00",
+          "summary": "Ein Halbleiter widerspricht einer bekannten Regel der Photovoltaik. Oxford-Forscher haben herausgefunden, warum."
         },
         {
-          "title": "Bis zu 1500 km groß: Neuer Himmelskörper hinter Pluto entdeckt",
-          "link": "https://www.ingenieur.de/bis-zu-1500-km-gross-neuer-himmelskoerper-hinter-pluto-entdeckt-74619f94-b138-4111-91e1-7b851669bce0/",
-          "published": "2026-10-28T12:30:00+00:00",
-          "summary": "Seit 20 Jahren gab es keinen vergleichbaren Fund: Astronomen entdecken hinter Pluto einen Himmelskörper, der bis zu 1500 km groß sein könnte."
+          "title": "Erst „40 GW bis 2040“, jetzt Stillstand: Was ist los bei Deutschlands neuer Geothermie?",
+          "link": "https://www.ingenieur.de/erst-40-gw-bis-2040-jetzt-stillstand-was-ist-los-bei-deutschlands-neuer-geothermie-4633f530-3b6d-40fa-9ed1-5abb33e679e9/",
+          "published": "2026-10-28T16:34:43+00:00",
+          "summary": "Vor einem Jahr sprach Eavor noch von 40 GW bis 2040. Jetzt stehen die Bohranlagen in Bayern still, Hannover hat abgesagt, und in Neu-Ulm wartet man auf eine Entscheidung. Was ist passiert?"
         },
         {
-          "title": "Zugunglück in Spanien: Wie konnten zwei Schnellzüge zusammenstoßen?",
-          "link": "https://www.ingenieur.de/zugunglueck-in-spanien-wie-konnten-zwei-schnellzuege-zusammenstossen-78bfe151-b76d-43bc-926f-52d3e1e45578/",
-          "published": "2026-10-28T11:40:54+00:00",
-          "summary": "Zugunglück in Spanien: Bei Urda stießen zwei Schnellzüge zusammen. Mindestens 30 Menschen starben, die Ursache ist noch unklar."
+          "title": "London sperrt Oxford Street für Autos und Fahrräder: Berühmte Einkaufsstraße wird Fußgängerzone",
+          "link": "https://www.ingenieur.de/london-sperrt-die-oxford-street-fur-autos-und-fahrrader-beruhmte-einkaufsstrasse-wird-fussgangerzone-0c0f5f45-77de-445e-8e54-5a7a93c461b8/",
+          "published": "2026-10-28T16:00:00+00:00",
+          "summary": "Seit Montag ist ein Kilometer der Oxford Street für Autos, Busse, Taxis und Fahrräder gesperrt. Bis zum Frühjahr 2027 sollen dort mehr als 50 Bäume, 100 Sitzplätze und zwei neue Plätze entstehen. …"
         },
         {
-          "title": "Hochleistungs-Umrichter: geschälte Rippen verschieben die Leistungsgrenzen",
-          "link": "https://www.ingenieur.de/kuehlkoerper-im-skived-fin-verfahren-fuer-hochleistungs-umrichter-6c0fe6cd-f6b3-4134-b4ea-b310c7c8a94e/",
-          "published": "2026-10-28T11:00:00+00:00",
-          "summary": "Im Skived Fin-Verfahren hergestellte Kühlkörper verschieben die Leistungsgrenzen von Hochleistungs-Umrichtern."
+          "title": "200 Jahre Ohm’sches Gesetz: Nürnberg feiert den Physiker, den seine Kollegen erst verspotteten",
+          "link": "https://www.ingenieur.de/200-jahre-ohmsches-gesetz-nurnberg-feiert-den-physiker-den-seine-kollegen-erst-verspotteten-cff892b5-7e98-494f-aca1-ce50ad7d2f43/",
+          "published": "2026-10-28T15:30:00+00:00",
+          "summary": "200 Jahre U = R · I: Einst als Gedankenspiel abgetan, bildet Ohms Forschung bis heute eine Grundlage der Elektrotechnik. Wie der Quanten-Hall-Effekt präzise Widerstandsmessungen ermöglicht."
         },
         {
-          "title": "Hefe frisst CO₂: Ein neuer Reaktor produziert Rohstoffe für Kunststoffe",
-          "link": "https://www.ingenieur.de/hefe-frisst-co2-ein-neuer-reaktor-produziert-rohstoffe-fuer-kunststoffe-94f20b55-cca4-40bf-a2ca-313b9b71f0dd/",
-          "published": "2026-10-28T09:30:00+00:00",
-          "summary": "Ein neuer Bioreaktor macht aus CO₂ einen Rohstoff für Kunststoffe. Wie Strom und Hefe zusammenarbeiten und warum die Ausbeute noch gering ist."
+          "title": "Zugunglück in Spanien: Warum stoppte die Technik den zweiten Zug nicht?",
+          "link": "https://www.ingenieur.de/zugunglueck-in-spanien-warum-stoppte-die-technik-den-zweiten-zug-nicht-78bfe151-b76d-43bc-926f-52d3e1e45578/",
+          "published": "2026-10-28T15:00:00+00:00",
+          "summary": "Zwei Schnellzüge kollidieren in Spanien. Die Zugsicherung soll ausgefallen sein. Doch warum durfte der zweite Zug trotzdem weiterfahren?"
         }
       ],
       "error": null
