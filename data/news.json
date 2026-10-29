@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T15:09:08+00:00",
+  "generatedAt": "2026-10-29T20:51:03+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+          "link": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
+          "published": "2026-10-29T20:12:03+00:00",
+          "summary": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus. So soll auf Veränderungen in der …"
+        },
+        {
+          "title": "tagesschau 20:00 Uhr",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674820.html",
+          "published": "2026-10-29T19:38:04+00:00",
+          "summary": "Diskussion über Spiegel-Interview der Berliner Linken-Politikerin Eralp, Bundeskanzler Merz hebt in Südkorea die Zusammenarbeit hervor, Bundespräsident Steinmeier hält in Peking eine Grundsatzrede zu …"
+        },
+        {
+          "title": "tagesschau mit Gebärdensprache",
+          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12340.html",
+          "published": "2026-10-29T19:36:23+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt",
+          "link": "https://www.sportschau.de/tennis/zverev-ab-montag-die-nummer-eins-der-tennis-welt,atp-wien-zverev-griekspoor-100.html",
+          "published": "2026-10-29T19:35:30+00:00",
+          "summary": "Alexander Zverev hat den Tennisthron erklommen und wird ab Montag erstmals die Weltrangliste anführen. Durch seinen Viertelfinaleinzug in Wien erreichte der Hamburger das nächste große Karriereziel."
+        },
+        {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81742.html",
-          "published": "2026-10-29T15:08:32+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81738.html",
+          "published": "2026-10-29T19:33:35+00:00",
           "summary": ""
-        },
-        {
-          "title": "Eralp reagiert auf Spiegel-Bericht",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/nach-spiegel-bericht-eralp-100.html",
-          "published": "2026-10-29T14:55:38+00:00",
-          "summary": "In nicht für die Öffentlichkeit bestimmten Anmerkungen zu einem Spiegel-Interview sorgte sich Linken-Politikerin Elif Eralp um ihre Sicherheit. Nun bekräftigte sie, klar gegen Gewalt vorgehen zu …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1674556.html",
-          "published": "2026-10-29T14:35:04+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
-          "link": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
-          "published": "2026-10-29T14:25:14+00:00",
-          "summary": "Vor fast einem Monat ist die Neuauflage des \"Tankrabatts\" in Kraft getreten. Für die Bundesregierung war es eine Beruhigungspille kurz vor den Wahlen, meint Jan Zimmermann. Der Frust an der …"
-        },
-        {
-          "title": "Hohe Spritpreise: Bringt der \"Tankrabatt\" wirklich etwas?",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-entlastung-bilanz-100.html",
-          "published": "2026-10-29T14:23:49+00:00",
-          "summary": "Seit dem 1. Oktober gilt ein neuer \"Tankrabatt\". Experten zufolge geben die Mineralölkonzerne die Ersparnis nur zum Teil an die Autofahrer weiter. Der Interessenverband der Branche widerspricht. Von …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Iran-Krieg +++: Netanjahu-Lager spricht von Wahlbetrug – ohne Beweise",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-netanjahu-lager-spricht-von-wahlbetrug-ohne-beweise/100136895.html",
-          "published": "2026-10-29T15:05:02+00:00",
-          "summary": "Iraner fürchten neue Angriffe nach Wahlen in USA und Israel +++ USA loten offenbar Basis für Verhandlungen mit Iran aus +++ Israels Militär meldet weitere Festnahmen im Westjordanland +++ Der …"
+          "title": "Chiphersteller: Intel-Prognose enttäuscht Börse – Aktie bricht ein",
+          "link": "https://www.handelsblatt.com/technik/it-internet/chiphersteller-intel-prognose-enttaeuscht-boerse-aktie-bricht-ein/100266014.html",
+          "published": "2026-10-29T20:41:17+00:00",
+          "summary": "Der Chipriese Intel schien nach langer Durststrecke auf dem Weg der Besserung. Doch jetzt sorgen hohe Speicherpreise dafür, dass weniger Computer gekauft werden – und Intel leidet darunter."
         },
         {
-          "title": "Geldpolitik: US-Inflation bleibt hoch: Anleihemarkt preist bereits die nächste Zinserhöhung in den USA ein",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-anleihemarkt-preist-die-naechste-zinserhoehung-in-den-usa-ein/100265841.html",
-          "published": "2026-10-29T15:02:12+00:00",
-          "summary": "Die US-Notenbank hat sich am Mittwoch gegen eine Zinserhöhung entschieden. Bereits am Donnerstag zeigen die privaten Konsumausgaben, dass die Zinspause nicht lange dauern dürfte."
+          "title": "+++ Geschäftszahlen +++: Intel enttäuscht mit Umsatz- und Gewinnprognose – Aktie bricht nachbörslich ein",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-intel-enttaeuscht-mit-umsatz-und-gewinnprognose-aktie-faellt/24098412.html",
+          "published": "2026-10-29T20:35:00+00:00",
+          "summary": "Henkel erhöht Umsatzziel nach starkem Quartal +++ Gewinn von BYD wächst langsamer als erwartet +++ Eli Lilly profitiert von Abnehmspritzen-Boom +++ Der Newsblog."
         },
         {
-          "title": "Angst vor Palästinaaktivisten: Nach Eralp-Interview nimmt Kritik an Berliner Linken zu",
-          "link": "https://www.handelsblatt.com/politik/deutschland/angst-vor-palaestinaaktivisten-nach-eralp-interview-nimmt-kritik-an-berliner-linken-zu/100265868.html",
-          "published": "2026-10-29T14:57:56+00:00",
-          "summary": "Elif Eralp will Berlins erste linke Regierende Bürgermeisterin werden. Interne Anmerkungen zu einem Interview bringen sie in Erklärungsnot. Was werfen ihr Kritiker vor?"
+          "title": "Chipkonzern: Intel-Prognose enttäuscht Börse - Aktie bricht ein",
+          "link": "https://www.handelsblatt.com/technik/it-internet/chipkonzern-intel-prognose-enttaeuscht-boerse-aktie-bricht-ein/100266013.html",
+          "published": "2026-10-29T20:34:49+00:00",
+          "summary": "Der Chipriese Intel schien nach langer Durststrecke auf dem Weg der Besserung. Doch jetzt sorgen hohe Speicherpreise dafür, dass weniger Computer gekauft werden - und Intel leidet darunter."
         },
         {
-          "title": "Geldpolitik: Chrstine Lagardes Rückzug bringt Tempo in Nachbesetzung der EZB-Spitze",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-praesidentin-christine-lagarde-tritt-im-februar-2027-vorzeitig-ab/100265875.html",
-          "published": "2026-10-29T14:50:38+00:00",
-          "summary": "Nach monatelangen Spekulationen steht der vorzeitige Rücktritt der 70‑Jährigen von der EZB-Spitze fest. Die Staats- und Regierungschefs arbeiten unter Hochdruck an einem Personalpaket."
+          "title": "+++ Iran-Krieg +++: Iran meldet drei brennende Tanker in der Straße von Hormus",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-meldet-drei-brennende-tanker-in-der-strasse-von-hormus/100136895.html",
+          "published": "2026-10-29T20:06:00+00:00",
+          "summary": "Pattsituation im Parlament nach Wahl in Israel +++ Iraner fürchten neue Angriffe nach Wahlen in USA und Israel +++ USA loten offenbar Basis für Verhandlungen mit Iran aus +++ Der Newsblog."
         },
         {
-          "title": "Krankmeldung: Wie sich Arbeitgeber gegen Blaumacher wehren können",
-          "link": "https://www.handelsblatt.com/karriere/krankmeldung-wie-arbeitgeber-beim-verdacht-auf-blaumachen-vorgehen-sollten/100180160.html",
-          "published": "2026-10-29T14:45:00+00:00",
-          "summary": "Aus dem Handelsblatt-Archiv: Ein Mitarbeiter meldet sich immer an Brückentagen und montags krank? Diese rechtlichen Möglichkeiten haben Firmen bei Verdacht auf Blaumachen."
+          "title": "+++ Ukraine-Krieg +++: Putin warnt vor Eskalation in der Ostsee: „Will keine Situation wie in Hormus“",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-putin-warnt-vor-ostsee-situation-wie-in-strasse-von-hormus/27982126.html",
+          "published": "2026-10-29T19:43:00+00:00",
+          "summary": "Selenskyj: Russland vor neuen Angriffen mit ballistischen Raketen +++ 1000 Einwohner wollen Oleschky verlassen +++ Russland verlängert Diesel-Exportverbot – Ausnahme für USA +++ Der Newsblog."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Umsätze steigen fast überall: Die ganze Welt trägt Adidas - nur nicht die Heimat",
+          "link": "https://www.n-tv.de/wirtschaft/Enormer-Zuwachs-fuer-Adidas-Nur-der-Heimatmarkt-schwaechelt-id31473531.html",
+          "published": "2026-10-29T17:10:33+00:00",
+          "summary": "Der Sportartikelhersteller Adidas kann sich über ein steigendes Interesse freuen. Die Umsätze des Unternehmens wachsen überall - nur zu Hause läuft es zuletzt nicht rund. Das soll sich ändern."
+        },
+        {
+          "title": "Autobauer in der Krise: Milliardenverlust bei Volkswagen - das sind die Gründe",
+          "link": "https://www.n-tv.de/wirtschaft/Milliardenverlust-bei-Volkswagen-das-sind-die-Gruende-id31472978.html",
+          "published": "2026-10-29T16:28:05+00:00",
+          "summary": "Europas größter Autobauer steckt tief in der Krise: Milliardenabschreibungen bei Porsche, ein einbrechender China-Markt und teure Umbaukosten reißen ein tiefes Loch in die Bilanz. Selbst der …"
+        },
+        {
+          "title": "Inflation und Krieg zum Trotz: Starkes Wachstum der US-Wirtschaft überrascht Analysten",
+          "link": "https://www.n-tv.de/wirtschaft/Starkes-Wachstum-der-US-Wirtschaft-ueberrascht-Analysten-id31473224.html",
+          "published": "2026-10-29T15:48:36+00:00",
+          "summary": "Dank eines starken privaten Konsums und des \"Boosters\" KI kann sich das Wachstum der US-amerikanischen Wirtschaft sehen lassen. Doch Experten warnen, dass die positive Entwicklung nicht von Dauer …"
+        },
+        {
+          "title": "Für Fabrikbau in den USA: Trump soll Audi Zollerleichterungen in Aussicht gestellt haben",
+          "link": "https://www.n-tv.de/wirtschaft/Trump-soll-Audi-Zollerleichterungen-in-Aussicht-gestellt-haben-id31473195.html",
+          "published": "2026-10-29T15:44:29+00:00",
+          "summary": "Audi will für vier Milliarden Dollar ein Montagewerk im US-Bundesstaat Georgia errichten. Im Gegenzug soll Washington der Volkswagen-Tochter Erleichterungen bei Importzöllen zugesagt haben. Das …"
+        },
+        {
           "title": "Trotz hoher Inflation: EZB belässt Leitzins bei 2,5 Prozent",
           "link": "https://www.n-tv.de/wirtschaft/EZB-belaesst-Leitzins-bei-2-5-Prozent-id31472688.html",
           "published": "2026-10-29T13:55:46+00:00",
           "summary": "Die Teuerung im Euroraum liegt weiter deutlich über zwei Prozent. Dennoch belässt die Europäische Zentralbank den Leitzins bei 2,50 Prozent. An den Märkten rechnet man für Dezember mit einer Anhebung."
-        },
-        {
-          "title": "Höhere Abgaben für Banken: Italien plant milliardenschwere Steuerentlastung für Mittelschicht",
-          "link": "https://www.n-tv.de/wirtschaft/Italien-plant-milliardenschwere-Steuerentlastung-fuer-Mittelschicht-id31471486.html",
-          "published": "2026-10-29T13:10:30+00:00",
-          "summary": "Für das Wahljahr 2027 kündigt die italienische Regierung eine Entlastung Selbstständiger und mittlerer Einkommen an. Finanziert wird dies vor allem durch höhere Abgaben für Banken, Versicherer und …"
-        },
-        {
-          "title": "Europa treibt Wachstum: Weltweite Nachfrage nach Elektroautos erreicht Rekord",
-          "link": "https://www.n-tv.de/wirtschaft/Weltweite-Nachfrage-nach-Elektroautos-erreicht-Rekord-id31471343.html",
-          "published": "2026-10-29T10:54:25+00:00",
-          "summary": "Nicht zuletzt wegen der massiv gestiegenen Preise für Kraftstoffe werden Elektroautos immer beliebter. In diesem Jahr gilt das besonders für Europa, wo die Verkäufe deutlich anziehen. Anders sieht es …"
-        },
-        {
-          "title": "4907 Euro pro Kopf: Schulden deutscher Kommunen steigen immer schneller",
-          "link": "https://www.n-tv.de/wirtschaft/Schulden-deutscher-Kommunen-steigen-immer-schneller-id31471068.html",
-          "published": "2026-10-29T10:34:14+00:00",
-          "summary": "Die Finanzlage vieler deutscher Kommunen spitzt sich zu. Im zweiten Jahr in Folge häufen sich Rekorddefizite an, die Schulden wachsen in allen Bundesländern. Doch neue Zahlen des Statistischen …"
-        },
-        {
-          "title": "Noch vor der Wahl in Frankreich: EZB-Präsidentin Lagarde tritt im Februar vorzeitig zurück",
-          "link": "https://www.n-tv.de/wirtschaft/EZB-Praesidentin-Lagarde-tritt-vorzeitig-zurueck-id31471565.html",
-          "published": "2026-10-29T10:07:56+00:00",
-          "summary": "Christine Lagarde wird Anfang des Jahres nicht mehr Chefin der EZB sein. Regulär hätte sie noch bis Oktober weitermachen können. Ein Deutscher ist als möglicher Nachfolger im Gespräch."
         }
       ],
       "error": null
@@ -133,6 +133,12 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: DAX setzt Klettertour fort",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+          "published": "2026-10-29T17:32:38+00:00",
+          "summary": "Die großen Notenbanken halten vorerst die Füße still - die Botschaft hat die Kauflust der Anleger beflügelt, der DAX beendet den Handelstag im Plus. Auch der VW-Schock vom Morgen wurde gut verdaut."
+        },
+        {
           "title": "Marktbericht: Warum Autoreparaturen immer teurer werden",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html",
           "published": "2026-10-29T13:14:08+00:00",
@@ -143,12 +149,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
           "published": "2026-10-29T12:51:29+00:00",
           "summary": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich …"
-        },
-        {
-          "title": "Marktbericht: DAX trotz VW-Bilanz im grünen Bereich",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
-          "published": "2026-10-29T10:16:25+00:00",
-          "summary": "Vor dem EZB-Zinsentscheid legt der DAX weiter zu. Mit einer Zinserhöhung rechnen die Anleger nicht, sie wird erst für den Dezember erwartet. Aus der Autobranche meldet VW einen Milliardenverlust."
         },
         {
           "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Energiepreise: Wird das Gas noch teurer?",
-          "link": "https://www.wiwo.de/unternehmen/energie/gaspreise-ueber-100-euro-warum-heizen-im-winter-wieder-teurer-wird/100265816.html",
-          "published": "2026-10-29T15:02:38+00:00",
-          "summary": "Der europäische Gaspreis klettert erstmals seit 2022 wieder über 100 Euro. Was der Iran-Krieg für Deutschlands Winter bedeutet."
+          "title": "Russischer Diesel für USA: Putins Diesel-Lieferung ist gerade mal ein Tässchen voll für jeden Amerikaner",
+          "link": "https://www.wiwo.de/unternehmen/energie/russischer-diesel-fuer-die-usa-darum-wird-putins-hilfe-wirkungslos-bleiben/100265968.html",
+          "published": "2026-10-29T19:26:00+00:00",
+          "summary": "Die Diesel-Lieferung, die Putin gerade als Wahlkampfhilfe in die USA schickt, wird die Tankstellenpreise nicht bessern. Darf das Schiff überhaupt anlegen?"
+        },
+        {
+          "title": "Luftfahrt: „Boeing kommt wieder in Angriffslaune“",
+          "link": "https://www.wiwo.de/unternehmen/industrie/boeing-gegen-airbus-warum-der-us-konzern-gefaehrlich-bleibt/100265660.html",
+          "published": "2026-10-29T19:10:00+00:00",
+          "summary": "Mit dem schwachen Ausblick hat Boeing Anleger verschreckt. Für Airbus kein Grund zur Entwarnung: Der US-Konkurrent ist stark genug für einen Wiederaufstieg."
         },
         {
           "title": "KI-Unternehmen: Die Kryptowelt spielt den Anthropic-IPO schon mal durch",
           "link": "https://www.wiwo.de/finanzen/geldanlage/hyperliquid-die-kryptowelt-spielt-den-anthropic-boersengang-schon-mal-durch/100265357.html",
-          "published": "2026-10-29T14:24:25+00:00",
+          "published": "2026-10-29T19:09:00+00:00",
           "summary": "Der anstehende Börsengang von Anthropic ist ein Stimmungstest für den KI-Hype. Auf speziellen Kryptoplattformen lässt sich das Unternehmen schon handeln. Doch die Risiken sind groß."
         },
         {
-          "title": "Video: Microsoft-Chef Satya Nadella im exklusiven WirtschaftsWoche-Interview",
-          "link": "https://www.wiwo.de/unternehmen/it/satya-nadella-im-interview-microsoft-chef-ueber-ki-nutzen-und-rechenzentren/100265518.html",
-          "published": "2026-10-29T14:00:00+00:00",
-          "summary": "Beim Treffen in Köln spricht der Tech-Manager über profitable KI und Microsofts Milliardeninvestitionen in deutsche Rechenzentren. Sehen Sie hier den Mitschnitt."
+          "title": "Volkswagen: Die Gründe für den Milliardenverlust bei VW",
+          "link": "https://www.wiwo.de/unternehmen/auto/vw-quartalszahlen-die-gruende-fuer-den-milliardenverlust-bei-volkswagen/100265812.html",
+          "published": "2026-10-29T17:21:00+00:00",
+          "summary": "Das schwache China-Geschäft und hohe Sonderbelastungen brocken VW ein milliardenschweres Minus ein. Vom E-Auto-Boom profitiert der Konzern kaum."
         },
         {
-          "title": "Microsoft: „Jeder KI‑Agent ist ein potenzielles Insider-Risiko“",
-          "link": "https://www.wiwo.de/unternehmen/it/microsoft-chef-satya-nadella-jeder-kiagent-ist-ein-potenzielles-insider-risiko/100265514.html",
-          "published": "2026-10-29T14:00:00+00:00",
-          "summary": "Microsoft-Chef Satya Nadella verspricht, seinen KI‑Modellen konsequent zu misstrauen – und setzt auf maßgeschneiderte Sicherheitslösungen."
-        },
-        {
-          "title": "Microsoft: Wie Satya Nadella Microsoft zum zweiten Mal neu erfinden will",
-          "link": "https://www.wiwo.de/unternehmen/it/microsofts-neue-ki-strategie-was-satya-nadellas-agenten-wette-bedeutet/100265512.html",
-          "published": "2026-10-29T14:00:00+00:00",
-          "summary": "Künstliche Intelligenz zwingt Microsoft zur Kurskorrektur. Der US-Konzern will mit KI-Agenten unentbehrlich bleiben – und buhlt um das Vertrauen seiner europäischen Kunden."
+          "title": "Weltmarktführer Innovation Day: „Uns fehlen nicht die Visionen“",
+          "link": "https://www.wiwo.de/unternehmen/mittelstand/weltmarktfuehrer-innovation-day-uns-fehlen-nicht-die-visionen/100265955.html",
+          "published": "2026-10-29T17:19:10+00:00",
+          "summary": "Deutschlands Wirtschaft steckt in der Strukturkrise. Auf lange Sicht hilft nur: Innovation. Siemens und der Autozulieferer Voss zeigen, wie es wieder was werden kann."
         }
       ],
       "error": null
@@ -210,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Ein Dach für 200 t Bühnentechnik: München startet Mega-Bauprojekt",
+          "link": "https://www.ingenieur.de/ein-dach-fuer-200-t-buehnentechnik-muenchen-startet-mega-bauprojekt-d493f504-0090-4fa7-8b76-d3b4a6e57843/",
+          "published": "2026-10-29T19:07:08+00:00",
+          "summary": "100 m Spannweite ohne Stützen, ein Dach aus Holz und Stahl und Platz für 20.000 Fans: Was Münchens neue Konzertarena so besonders macht."
+        },
+        {
+          "title": "500 Wh/kg: Warum diese Zahl über die Zukunft von Solarflugzeugen entscheidet",
+          "link": "https://www.ingenieur.de/500-wh-kg-warum-diese-zahl-ueber-die-zukunft-von-solarflugzeugen-entscheidet-a19e68aa-27bc-4abf-82a8-bc634e347168/",
+          "published": "2026-10-29T15:41:20+00:00",
+          "summary": "Harvard-Forschende haben berechnet, wann Batterien nicht mehr der größte Engpass sind. Das könnte die Einsatzmöglichkeiten von Solarflugzeugen erweitern."
+        },
         {
           "title": "Zugunglück in Spanien: Warum durfte der AVE trotz rotem Signal weiterfahren?",
           "link": "https://www.ingenieur.de/zugunglueck-in-spanien-warum-durfte-der-ave-trotz-rotem-signal-weiterfahren-78bfe151-b76d-43bc-926f-52d3e1e45578/",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/adac-reflexkleidung-bringt-notbremsassistenten-an-grenzen-kind-mit-schulranzen-wuerde-plattgefahren-5590b6ae-1725-46f7-a181-18ac4631f93b/",
           "published": "2026-10-29T12:00:00+00:00",
           "summary": "Reflexstreifen machen Menschen im Dunkeln sichtbarer. Doch mehrere Notbremsassistenten reagieren darauf zu spät. Dahinter können Schwierigkeiten bei der Bildaufnahme und der Erkennung von Menschen …"
-        },
-        {
-          "title": "Interoperabilität: Wie große KI-Modelle das Zusammenspiel von Robotern erleichtern",
-          "link": "https://www.ingenieur.de/interoperabilitaet-wie-grosse-ki-modelle-das-zusammenspiel-von-robotern-erleichtern-5966047f-82e6-49a2-97e0-0971f5b4096f/",
-          "published": "2026-10-29T11:30:00+00:00",
-          "summary": "Unterschiedliche Roboter sollen künftig gemeinsam Aufgaben lösen – in Intralogistik, Produktion oder im Rettungseinsatz. Ein neues Impulspapier der Plattform Lernende Systeme zeigt, wie große …"
-        },
-        {
-          "title": "Harzinjektionen sollen viktorianische Tunnelwände retten",
-          "link": "https://www.ingenieur.de/harzinjektionen-sollen-viktorianische-tunnelwaende-retten-82d0f508-818c-432b-a42f-2c201a4b3c26/",
-          "published": "2026-10-29T11:05:00+00:00",
-          "summary": "Wasser dringt durch viktorianische Tunnelwände. Jetzt sollen 6400 Bohrlöcher und 197 Entwässerungsöffnungen das Problem lösen."
         }
       ],
       "error": null
