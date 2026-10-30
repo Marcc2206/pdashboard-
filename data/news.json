@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:31:44+00:00",
+  "generatedAt": "2026-10-30T08:01:39+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1674894.html",
-          "published": "2026-10-30T01:04:04+00:00",
-          "summary": ""
+          "title": "Hilfstransporte für die ukrainische Frontstadt Oleschky sollen anlaufen",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html",
+          "published": "2026-10-30T08:00:11+00:00",
+          "summary": "Die Bewohner der von Russland besetzten ukrainischen Frontstadt Oleschky können bald mit Hilfe rechnen. Die Route ist von Minen geräumt. Auch eine Evakuierung wird vorbereitet. Die Waffenruhe gilt …"
         },
         {
-          "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
-          "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
-          "published": "2026-10-30T00:01:06+00:00",
-          "summary": "Die Auszählung der Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von …"
+          "title": "Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-rheinland-pfalz-100.html",
+          "published": "2026-10-30T07:56:44+00:00",
+          "summary": "Ein ehemaliger Schüler verklagt das Land Rheinland-Pfalz, weil während seiner Oberstufenzeit zu viel Unterricht ausgefallen sein soll. Mit dem Fall beschäftigt sich jetzt das Verwaltungsgericht …"
         },
         {
-          "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
-          "link": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
-          "published": "2026-10-29T23:05:38+00:00",
-          "summary": "In dem einstigen Bürgerkriegsland Bosnien-Herzegowina verunglückt ein Militärhelikopter der EU-Friedensmission. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar."
+          "title": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
+          "published": "2026-10-30T07:55:53+00:00",
+          "summary": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt. Was hat Gesetz bislang gebracht? Von Axel …"
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12948.html",
-          "published": "2026-10-29T22:27:56+00:00",
-          "summary": ""
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-10-30T07:39:11+00:00",
+          "summary": "Am Freitag herrscht ruhiges Herbstwetter. Dabei ist es im Norden und Osten überwiegend trüb. Sonst scheint neben Nebel- und Hochnebelfeldern gebietsweise auch die Sonne. 7 bis 15 Grad."
         },
         {
-          "title": "Nach dem Zugunglück: Wie Spanien mit der Tragödie umgeht",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1674870.html",
-          "published": "2026-10-29T21:36:17+00:00",
-          "summary": ""
+          "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+          "published": "2026-10-30T07:24:20+00:00",
+          "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Iran-Krieg +++: Iran meldet drei brennende Tanker in der Straße von Hormus",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-meldet-drei-brennende-tanker-in-der-strasse-von-hormus/100136895.html",
-          "published": "2026-10-30T01:24:00+00:00",
-          "summary": "Behörde: Brennendes Schiff in der Straße von Hormus +++ Pattsituation im Parlament nach Wahl in Israel +++ Iraner fürchten neue Angriffe nach Wahlen in USA und Israel +++ Der Newsblog."
+          "title": "Sportartikel: Puma macht weniger Umsatz – und schreibt Verlust",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/puma-sportartikelhersteller-macht-weniger-umsatz/100264478.html",
+          "published": "2026-10-30T07:40:14+00:00",
+          "summary": "Der Sportartikelkonzern verliert weiter Boden auf den größeren Konkurrenten Adidas. Allerdings gilt der chinesische Großaktionär Anta zumindest als geduldig."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Putin warnt vor Eskalation in der Ostsee: „Will keine Situation wie in Hormus“",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-putin-warnt-vor-ostsee-situation-wie-in-strasse-von-hormus/27982126.html",
-          "published": "2026-10-30T01:23:00+00:00",
-          "summary": "Bericht: Die Ukraine setzt Angriffe auf russische Raffinerien auf Druck der USA aus +++ IAEA: Mitarbeiter von AKW Saporischschja bei Drohnenangriff getötet +++ Der Newsblog."
+          "title": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
+          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-warum-auch-high-performer-sich-mit-der-jobsuche-schwertun/100228751.html",
+          "published": "2026-10-30T07:31:00+00:00",
+          "summary": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt."
         },
         {
-          "title": "Gipfel in Montreal: Partner in unsicheren Zeiten: Was die EU und Kanada planen",
-          "link": "https://www.handelsblatt.com/politik/international/gipfel-in-montreal-partner-in-unsicheren-zeiten-was-die-eu-und-kanada-planen/100266031.html",
-          "published": "2026-10-30T01:10:10+00:00",
-          "summary": "Die Politik von US-Präsident Trump treibt die EU und Kanada enger zusammen. Bei ihrem Gipfel in Montreal vereinbaren sie zahlreiche Vorhaben. Doch es bleiben noch Unstimmigkeiten."
+          "title": "Unkrautvernichter: Bayer gewinnt Glyphosat-Prozess – Aktie steigt vorbörslich",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/unkrautvernichter-bayer-gewinnt-glyphosat-prozess-aktie-steigt/100266089.html",
+          "published": "2026-10-30T07:29:44+00:00",
+          "summary": "Der Prozess ist der zweite innerhalb weniger Monate, den Bayer in der Cause Glyphosat gewonnen hat. Bei einer weiteren Klage steht ein Urteil noch aus. Für Bayer geht es um Milliarden."
         },
         {
-          "title": "Chipkonzern: Intel-Aktie stürzt nach Enttäuschung über Prognose ab",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chipkonzern-intel-aktie-stuerzt-nach-enttaeuschung-ueber-prognose-ab/100266028.html",
-          "published": "2026-10-30T00:29:06+00:00",
-          "summary": "Der Chipriese Intel schien nach langer Durststrecke auf dem Weg der Besserung. Doch jetzt sorgen hohe Speicherpreise dafür, dass weniger Computer gekauft werden - und Intel leidet darunter."
+          "title": "Umfrage: Mehrheit findet Auftritt von Audi-Chef mit Trump falsch",
+          "link": "https://www.handelsblatt.com/politik/deutschland/umfrage-mehrheit-findet-auftritt-von-audi-chef-mit-trump-falsch/100265198.html",
+          "published": "2026-10-30T07:27:53+00:00",
+          "summary": "Es gibt aber auch Verständnis für den Manager - unter anderem aus der bayerischen Politik. Die IG Metall fordert Zusagen für Neckarsulm."
         },
         {
-          "title": "Automobilindustrie: Rivian meldet geringeren Verlust als erwartet – Erfolge mit neuem SUV",
-          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/automobilindustrie-rivian-meldet-geringeren-verlust-als-erwartet-erfolge-mit-neuem-suv/100266025.html",
-          "published": "2026-10-30T00:12:11+00:00",
-          "summary": "Rivian übertrifft mit einem geringeren Verlust und einem Umsatzplus von 38 Prozent die Erwartungen der Wall Street. Das SUV-Modell R2 ist zum meistverkauften Fahrzeug der Marke aufgestiegen."
+          "title": "USA: Warum Trump die Bolsonaro-Familie schützt",
+          "link": "https://www.handelsblatt.com/politik/international/usa-warum-trump-die-bolsonaro-familie-schuetzt-01/100265741.html",
+          "published": "2026-10-30T07:24:00+00:00",
+          "summary": "Der US-Präsident half dem verurteilten brasilianischen Ex-Präsidenten Jair Bolsonaro – jetzt unterstützt er dessen geflüchteten Sohn. Welche Strategie steckt dahinter?"
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Schaden in Milliardenhöhe: Größter Krypto-Diebstahl der Geschichte? Binance meldet Hackerangriff",
+          "link": "https://www.n-tv.de/wirtschaft/Groesster-Krypto-Diebstahl-der-Geschichte-Binance-meldet-Hackerangriff-id31475051.html",
+          "published": "2026-10-30T06:13:47+00:00",
+          "summary": "Es begann möglicherweise mit dem gehackten Laptop eines Ingenieurs: Die weltgrößte Kryptowährungsbörse Binance meldet einen Sicherheitsvorfall. Er reiht sich in eine Serie von Krypto-Diebstählen ein …"
+        },
+        {
+          "title": "Reserven weitgehend aufgebraucht: Krankenhäuser fürchten neue Milliardenlöcher und Pleiten",
+          "link": "https://www.n-tv.de/wirtschaft/Krankenhaeuser-fuerchten-neue-Milliardenloecher-und-Pleiten-id31475079.html",
+          "published": "2026-10-30T06:12:51+00:00",
+          "summary": "Viele Krankenhäuser haben die Hoffnung auf schwarze Zahlen bereits aufgegeben. Zu diesem Ergebnis kommt die neue Krankenhausstudie. Personalabbau in der Pflege könnte die Folge sein."
+        },
+        {
+          "title": "Fertigstellungen auf Tiefstand: Forscher senken Prognose für Wohnungsneubau",
+          "link": "https://www.n-tv.de/wirtschaft/Forscher-senken-Prognose-fuer-Wohnungsneubau-id31474867.html",
+          "published": "2026-10-30T04:06:16+00:00",
+          "summary": "Der Bund hat Verfahren für den Wohnungsbau beschleunigt. Doch das allein reicht nicht. Viele genehmigte Projekte scheitern am Geld. Das Ifo-Institut rechnet für 2027 und 2028 mit weit weniger …"
+        },
+        {
           "title": "Sorge ums Weihnachtsgeschäft: KI-Kosten reißen Milliardenloch in Amazons Bilanz",
           "link": "https://www.n-tv.de/wirtschaft/KI-Kosten-reissen-Milliardenloch-in-Amazons-Bilanz-id31474608.html",
           "published": "2026-10-29T22:56:00+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/US-Anleger-verlieren-den-KI-Optimismus-id31474586.html",
           "published": "2026-10-29T22:01:02+00:00",
           "summary": "Nach unbefriedigenden Zahlen der Google-Mutter Alphabet stürzt die Aktie um 13 Prozent ab und zieht die wichtigsten US-Indizes mit. An der Wall Street wachsen die Zweifel, ob sich die Kosten für den …"
-        },
-        {
-          "title": "Umsätze steigen fast überall: Die ganze Welt trägt Adidas - nur nicht die Heimat",
-          "link": "https://www.n-tv.de/wirtschaft/Enormer-Zuwachs-fuer-Adidas-Nur-der-Heimatmarkt-schwaechelt-id31473531.html",
-          "published": "2026-10-29T17:10:33+00:00",
-          "summary": "Der Sportartikelhersteller Adidas kann sich über ein steigendes Interesse freuen. Die Umsätze des Unternehmens wachsen überall - nur zu Hause läuft es zuletzt nicht rund. Das soll sich ändern."
-        },
-        {
-          "title": "Autobauer in der Krise: Milliardenverlust bei Volkswagen - das sind die Gründe",
-          "link": "https://www.n-tv.de/wirtschaft/Milliardenverlust-bei-Volkswagen-das-sind-die-Gruende-id31472978.html",
-          "published": "2026-10-29T16:28:05+00:00",
-          "summary": "Europas größter Autobauer steckt tief in der Krise: Milliardenabschreibungen bei Porsche, ein einbrechender China-Markt und teure Umbaukosten reißen ein tiefes Loch in die Bilanz. Selbst der …"
-        },
-        {
-          "title": "Inflation und Krieg zum Trotz: Starkes Wachstum der US-Wirtschaft überrascht Analysten",
-          "link": "https://www.n-tv.de/wirtschaft/Starkes-Wachstum-der-US-Wirtschaft-ueberrascht-Analysten-id31473224.html",
-          "published": "2026-10-29T15:48:36+00:00",
-          "summary": "Dank eines starken privaten Konsums und des \"Boosters\" KI kann sich das Wachstum der US-amerikanischen Wirtschaft sehen lassen. Doch Experten warnen, dass die positive Entwicklung nicht von Dauer …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX setzt Klettertour fort",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
-          "published": "2026-10-29T17:32:38+00:00",
-          "summary": "Die großen Notenbanken halten vorerst die Füße still - die Botschaft hat die Kauflust der Anleger beflügelt, der DAX beendet den Handelstag im Plus. Auch der VW-Schock vom Morgen wurde gut verdaut."
+          "title": "Marktbericht: Kann der DAX die 26.000 verteidigen?",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+          "published": "2026-10-30T06:44:55+00:00",
+          "summary": "Der DAX hat wieder die Marke von 26.000 Punkten übersprungen. Schwache Zahlen von Intel und Amazon dürften den Anlegern aber nicht gefallen. Der deutsche Leitindex könnte zum Handelsstart leicht …"
         },
         {
           "title": "Marktbericht: Warum Autoreparaturen immer teurer werden",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Russischer Diesel für USA: Putins Diesel-Lieferung ist gerade mal ein Tässchen voll für jeden Amerikaner",
-          "link": "https://www.wiwo.de/unternehmen/energie/russischer-diesel-fuer-die-usa-darum-wird-putins-hilfe-wirkungslos-bleiben/100265968.html",
-          "published": "2026-10-29T19:26:00+00:00",
-          "summary": "Die Diesel-Lieferung, die Putin gerade als Wahlkampfhilfe in die USA schickt, wird die Tankstellenpreise nicht bessern. Darf das Schiff überhaupt anlegen?"
+          "title": "Baukonjunktur: Weniger als 200.000 neue Wohnungen für 2027 und 2028 prognostiziert",
+          "link": "https://www.wiwo.de/finanzen/immobilien/baukonjunktur-ifo-institut-senkt-prognose-fuer-neue-wohnungen-bis-2028/100266083.html",
+          "published": "2026-10-30T07:50:00+00:00",
+          "summary": "Der Bund hat Verfahren für den Wohnungsbau beschleunigt, doch die Baukosten sind deutlich gestiegen. Gleichzeitig ging die Bauförderung zurück."
         },
         {
-          "title": "Luftfahrt: „Boeing kommt wieder in Angriffslaune“",
-          "link": "https://www.wiwo.de/unternehmen/industrie/boeing-gegen-airbus-warum-der-us-konzern-gefaehrlich-bleibt/100265660.html",
-          "published": "2026-10-29T19:10:00+00:00",
-          "summary": "Mit dem schwachen Ausblick hat Boeing Anleger verschreckt. Für Airbus kein Grund zur Entwarnung: Der US-Konkurrent ist stark genug für einen Wiederaufstieg."
+          "title": "Zinsen: Japans Notenbank hält Zinsen stabil – Inflationsrisiken im Blick",
+          "link": "https://www.wiwo.de/politik/konjunktur/zinsen-japans-notenbank-haelt-zinsen-stabil-inflationsrisiken-im-blick/100266078.html",
+          "published": "2026-10-30T07:44:00+00:00",
+          "summary": "Die Bank of Japan hält den Leitzins bei 1,25 Prozent. Steigende Inflationsrisiken erhöhen jedoch den Druck auf die Notenbank."
         },
         {
-          "title": "KI-Unternehmen: Die Kryptowelt spielt den Anthropic-IPO schon mal durch",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/hyperliquid-die-kryptowelt-spielt-den-anthropic-boersengang-schon-mal-durch/100265357.html",
-          "published": "2026-10-29T19:09:00+00:00",
-          "summary": "Der anstehende Börsengang von Anthropic ist ein Stimmungstest für den KI-Hype. Auf speziellen Kryptoplattformen lässt sich das Unternehmen schon handeln. Doch die Risiken sind groß."
+          "title": "Kryptobörse: Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+          "link": "https://www.wiwo.de/unternehmen/handel/binance-milliardenschwerer-hackerangriff-auf-boerse-fuer-kryptowaehrungen/100266077.html",
+          "published": "2026-10-30T07:41:00+00:00",
+          "summary": "Der Sicherheitsvorfall bei Binance könnte der größte Krypto-Diebstahl der Geschichte sein. Der Vorfall verunsichert Anleger."
         },
         {
-          "title": "Volkswagen: Die Gründe für den Milliardenverlust bei VW",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-quartalszahlen-die-gruende-fuer-den-milliardenverlust-bei-volkswagen/100265812.html",
-          "published": "2026-10-29T17:21:00+00:00",
-          "summary": "Das schwache China-Geschäft und hohe Sonderbelastungen brocken VW ein milliardenschweres Minus ein. Vom E-Auto-Boom profitiert der Konzern kaum."
+          "title": "Angekündigte Proteste: Die Sorge vor dem Frankreich-Szenario erreicht deutsche Innenstädte",
+          "link": "https://www.wiwo.de/unternehmen/handel/gen-z-regelt-proteste-die-sorge-vor-dem-frankreich-szenario-erreicht-deutsche-innenstaedte/100265835.html",
+          "published": "2026-10-30T07:39:08+00:00",
+          "summary": "Die für Samstag angekündigten Proteste besorgen auch die Einzelhändler. Manche machen vorsorglich dicht – bei Schäden kommt es auf den richtigen Versicherungsschutz an."
         },
         {
-          "title": "Weltmarktführer Innovation Day: „Uns fehlen nicht die Visionen“",
-          "link": "https://www.wiwo.de/unternehmen/mittelstand/weltmarktfuehrer-innovation-day-uns-fehlen-nicht-die-visionen/100265955.html",
-          "published": "2026-10-29T17:19:10+00:00",
-          "summary": "Deutschlands Wirtschaft steckt in der Strukturkrise. Auf lange Sicht hilft nur: Innovation. Siemens und der Autozulieferer Voss zeigen, wie es wieder was werden kann."
+          "title": "Gipfel in Montreal: Partner in unsicheren Zeiten – was die EU und Kanada planen",
+          "link": "https://www.wiwo.de/politik/ausland/gipfel-in-montreal-partner-in-unsicheren-zeiten-was-die-eu-und-kanada-planen/100266032.html",
+          "published": "2026-10-30T07:38:00+00:00",
+          "summary": "Die Politik von US-Präsident Trump treibt die EU und Kanada enger zusammen. Bei ihrem Gipfel in Montreal vereinbaren sie zahlreiche Vorhaben. Doch es bleiben noch Unstimmigkeiten."
         }
       ],
       "error": null
@@ -211,10 +211,10 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Edge Layer: Enabler für eine datengetriebene Produktion",
-          "link": "https://www.ingenieur.de/edge-layer-das-zusammenspiel-entscheidet-02ca6f47-2616-40db-bc22-197dbc174b3a/",
-          "published": "2026-10-29T23:00:00+00:00",
-          "summary": "Die industrielle Digitalisierung verändert die Architektur von Produktionssystemen ­grundlegend. Wo früher die klassische Automatisierungspyramide mit klar getrennten Ebenen dominierte, entstehen …"
+          "title": "Größter Krypto-Hack aller Zeiten: 6,3 Mrd. $ gestohlen. Spur führt nach Nordkorea",
+          "link": "https://www.ingenieur.de/63-mrd-gestohlen-groesster-krypto-hack-aller-zeiten-spur-fuehrt-nach-nordkorea-7ae973b9-7821-4a3a-af7f-db12788ba6b2/",
+          "published": "2026-10-30T05:07:28+00:00",
+          "summary": "Ein kompromittierter Laptop, zehn Blockchains und Milliardenverluste: Neue Analysen zeigen, wie der bislang größte Krypto-Hack abgelaufen sein soll."
         },
         {
           "title": "Ein Dach für 200 t Bühnentechnik: München startet Mega-Bauprojekt",
