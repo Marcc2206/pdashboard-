@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:51:03+00:00",
+  "generatedAt": "2026-10-30T01:31:44+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
-          "link": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
-          "published": "2026-10-29T20:12:03+00:00",
-          "summary": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus. So soll auf Veränderungen in der …"
-        },
-        {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674820.html",
-          "published": "2026-10-29T19:38:04+00:00",
-          "summary": "Diskussion über Spiegel-Interview der Berliner Linken-Politikerin Eralp, Bundeskanzler Merz hebt in Südkorea die Zusammenarbeit hervor, Bundespräsident Steinmeier hält in Peking eine Grundsatzrede zu …"
-        },
-        {
-          "title": "tagesschau mit Gebärdensprache",
-          "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12340.html",
-          "published": "2026-10-29T19:36:23+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1674894.html",
+          "published": "2026-10-30T01:04:04+00:00",
           "summary": ""
         },
         {
-          "title": "Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt",
-          "link": "https://www.sportschau.de/tennis/zverev-ab-montag-die-nummer-eins-der-tennis-welt,atp-wien-zverev-griekspoor-100.html",
-          "published": "2026-10-29T19:35:30+00:00",
-          "summary": "Alexander Zverev hat den Tennisthron erklommen und wird ab Montag erstmals die Weltrangliste anführen. Durch seinen Viertelfinaleinzug in Wien erreichte der Hamburger das nächste große Karriereziel."
+          "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
+          "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
+          "published": "2026-10-30T00:01:06+00:00",
+          "summary": "Die Auszählung der Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von …"
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81738.html",
-          "published": "2026-10-29T19:33:35+00:00",
+          "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+          "link": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
+          "published": "2026-10-29T23:05:38+00:00",
+          "summary": "In dem einstigen Bürgerkriegsland Bosnien-Herzegowina verunglückt ein Militärhelikopter der EU-Friedensmission. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar."
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12948.html",
+          "published": "2026-10-29T22:27:56+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Nach dem Zugunglück: Wie Spanien mit der Tragödie umgeht",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1674870.html",
+          "published": "2026-10-29T21:36:17+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Chiphersteller: Intel-Prognose enttäuscht Börse – Aktie bricht ein",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chiphersteller-intel-prognose-enttaeuscht-boerse-aktie-bricht-ein/100266014.html",
-          "published": "2026-10-29T20:41:17+00:00",
-          "summary": "Der Chipriese Intel schien nach langer Durststrecke auf dem Weg der Besserung. Doch jetzt sorgen hohe Speicherpreise dafür, dass weniger Computer gekauft werden – und Intel leidet darunter."
-        },
-        {
-          "title": "+++ Geschäftszahlen +++: Intel enttäuscht mit Umsatz- und Gewinnprognose – Aktie bricht nachbörslich ein",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-intel-enttaeuscht-mit-umsatz-und-gewinnprognose-aktie-faellt/24098412.html",
-          "published": "2026-10-29T20:35:00+00:00",
-          "summary": "Henkel erhöht Umsatzziel nach starkem Quartal +++ Gewinn von BYD wächst langsamer als erwartet +++ Eli Lilly profitiert von Abnehmspritzen-Boom +++ Der Newsblog."
-        },
-        {
-          "title": "Chipkonzern: Intel-Prognose enttäuscht Börse - Aktie bricht ein",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chipkonzern-intel-prognose-enttaeuscht-boerse-aktie-bricht-ein/100266013.html",
-          "published": "2026-10-29T20:34:49+00:00",
-          "summary": "Der Chipriese Intel schien nach langer Durststrecke auf dem Weg der Besserung. Doch jetzt sorgen hohe Speicherpreise dafür, dass weniger Computer gekauft werden - und Intel leidet darunter."
-        },
-        {
           "title": "+++ Iran-Krieg +++: Iran meldet drei brennende Tanker in der Straße von Hormus",
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-meldet-drei-brennende-tanker-in-der-strasse-von-hormus/100136895.html",
-          "published": "2026-10-29T20:06:00+00:00",
-          "summary": "Pattsituation im Parlament nach Wahl in Israel +++ Iraner fürchten neue Angriffe nach Wahlen in USA und Israel +++ USA loten offenbar Basis für Verhandlungen mit Iran aus +++ Der Newsblog."
+          "published": "2026-10-30T01:24:00+00:00",
+          "summary": "Behörde: Brennendes Schiff in der Straße von Hormus +++ Pattsituation im Parlament nach Wahl in Israel +++ Iraner fürchten neue Angriffe nach Wahlen in USA und Israel +++ Der Newsblog."
         },
         {
           "title": "+++ Ukraine-Krieg +++: Putin warnt vor Eskalation in der Ostsee: „Will keine Situation wie in Hormus“",
           "link": "https://www.handelsblatt.com/politik/international/ukraine-putin-warnt-vor-ostsee-situation-wie-in-strasse-von-hormus/27982126.html",
-          "published": "2026-10-29T19:43:00+00:00",
-          "summary": "Selenskyj: Russland vor neuen Angriffen mit ballistischen Raketen +++ 1000 Einwohner wollen Oleschky verlassen +++ Russland verlängert Diesel-Exportverbot – Ausnahme für USA +++ Der Newsblog."
+          "published": "2026-10-30T01:23:00+00:00",
+          "summary": "Bericht: Die Ukraine setzt Angriffe auf russische Raffinerien auf Druck der USA aus +++ IAEA: Mitarbeiter von AKW Saporischschja bei Drohnenangriff getötet +++ Der Newsblog."
+        },
+        {
+          "title": "Gipfel in Montreal: Partner in unsicheren Zeiten: Was die EU und Kanada planen",
+          "link": "https://www.handelsblatt.com/politik/international/gipfel-in-montreal-partner-in-unsicheren-zeiten-was-die-eu-und-kanada-planen/100266031.html",
+          "published": "2026-10-30T01:10:10+00:00",
+          "summary": "Die Politik von US-Präsident Trump treibt die EU und Kanada enger zusammen. Bei ihrem Gipfel in Montreal vereinbaren sie zahlreiche Vorhaben. Doch es bleiben noch Unstimmigkeiten."
+        },
+        {
+          "title": "Chipkonzern: Intel-Aktie stürzt nach Enttäuschung über Prognose ab",
+          "link": "https://www.handelsblatt.com/technik/it-internet/chipkonzern-intel-aktie-stuerzt-nach-enttaeuschung-ueber-prognose-ab/100266028.html",
+          "published": "2026-10-30T00:29:06+00:00",
+          "summary": "Der Chipriese Intel schien nach langer Durststrecke auf dem Weg der Besserung. Doch jetzt sorgen hohe Speicherpreise dafür, dass weniger Computer gekauft werden - und Intel leidet darunter."
+        },
+        {
+          "title": "Automobilindustrie: Rivian meldet geringeren Verlust als erwartet – Erfolge mit neuem SUV",
+          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/automobilindustrie-rivian-meldet-geringeren-verlust-als-erwartet-erfolge-mit-neuem-suv/100266025.html",
+          "published": "2026-10-30T00:12:11+00:00",
+          "summary": "Rivian übertrifft mit einem geringeren Verlust und einem Umsatzplus von 38 Prozent die Erwartungen der Wall Street. Das SUV-Modell R2 ist zum meistverkauften Fahrzeug der Marke aufgestiegen."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Sorge ums Weihnachtsgeschäft: KI-Kosten reißen Milliardenloch in Amazons Bilanz",
+          "link": "https://www.n-tv.de/wirtschaft/KI-Kosten-reissen-Milliardenloch-in-Amazons-Bilanz-id31474608.html",
+          "published": "2026-10-29T22:56:00+00:00",
+          "summary": "Der Bau neuer Rechenzentren verschlingt auch bei Amazon Unsummen. Der Cashflow bricht ein, Anleger machen sich Sorgen. Konzernchef Jassy will trotzdem nachlegen."
+        },
+        {
+          "title": "Schwarzer Tag für Alphabet : US-Anleger verlieren den KI-Optimismus",
+          "link": "https://www.n-tv.de/wirtschaft/US-Anleger-verlieren-den-KI-Optimismus-id31474586.html",
+          "published": "2026-10-29T22:01:02+00:00",
+          "summary": "Nach unbefriedigenden Zahlen der Google-Mutter Alphabet stürzt die Aktie um 13 Prozent ab und zieht die wichtigsten US-Indizes mit. An der Wall Street wachsen die Zweifel, ob sich die Kosten für den …"
+        },
         {
           "title": "Umsätze steigen fast überall: Die ganze Welt trägt Adidas - nur nicht die Heimat",
           "link": "https://www.n-tv.de/wirtschaft/Enormer-Zuwachs-fuer-Adidas-Nur-der-Heimatmarkt-schwaechelt-id31473531.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Starkes-Wachstum-der-US-Wirtschaft-ueberrascht-Analysten-id31473224.html",
           "published": "2026-10-29T15:48:36+00:00",
           "summary": "Dank eines starken privaten Konsums und des \"Boosters\" KI kann sich das Wachstum der US-amerikanischen Wirtschaft sehen lassen. Doch Experten warnen, dass die positive Entwicklung nicht von Dauer …"
-        },
-        {
-          "title": "Für Fabrikbau in den USA: Trump soll Audi Zollerleichterungen in Aussicht gestellt haben",
-          "link": "https://www.n-tv.de/wirtschaft/Trump-soll-Audi-Zollerleichterungen-in-Aussicht-gestellt-haben-id31473195.html",
-          "published": "2026-10-29T15:44:29+00:00",
-          "summary": "Audi will für vier Milliarden Dollar ein Montagewerk im US-Bundesstaat Georgia errichten. Im Gegenzug soll Washington der Volkswagen-Tochter Erleichterungen bei Importzöllen zugesagt haben. Das …"
-        },
-        {
-          "title": "Trotz hoher Inflation: EZB belässt Leitzins bei 2,5 Prozent",
-          "link": "https://www.n-tv.de/wirtschaft/EZB-belaesst-Leitzins-bei-2-5-Prozent-id31472688.html",
-          "published": "2026-10-29T13:55:46+00:00",
-          "summary": "Die Teuerung im Euroraum liegt weiter deutlich über zwei Prozent. Dennoch belässt die Europäische Zentralbank den Leitzins bei 2,50 Prozent. An den Märkten rechnet man für Dezember mit einer Anhebung."
         }
       ],
       "error": null
@@ -211,6 +211,12 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Edge Layer: Enabler für eine datengetriebene Produktion",
+          "link": "https://www.ingenieur.de/edge-layer-das-zusammenspiel-entscheidet-02ca6f47-2616-40db-bc22-197dbc174b3a/",
+          "published": "2026-10-29T23:00:00+00:00",
+          "summary": "Die industrielle Digitalisierung verändert die Architektur von Produktionssystemen ­grundlegend. Wo früher die klassische Automatisierungspyramide mit klar getrennten Ebenen dominierte, entstehen …"
+        },
+        {
           "title": "Ein Dach für 200 t Bühnentechnik: München startet Mega-Bauprojekt",
           "link": "https://www.ingenieur.de/ein-dach-fuer-200-t-buehnentechnik-muenchen-startet-mega-bauprojekt-d493f504-0090-4fa7-8b76-d3b4a6e57843/",
           "published": "2026-10-29T19:07:08+00:00",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/solarzellen-koennten-mehr-licht-nutzen-dank-eines-tricks-mit-graphen-59d02220-ba74-4d33-b737-da568f9cc2bd/",
           "published": "2026-10-29T12:30:00+00:00",
           "summary": "Ein Teil des Sonnenlichts bleibt ungenutzt. Ein ungewöhnlicher Trick mit Graphen und Magnetfeldern könnte das ändern."
-        },
-        {
-          "title": "Notbremsassistenten: Warum Reflexkleidung zum Problem wird",
-          "link": "https://www.ingenieur.de/adac-reflexkleidung-bringt-notbremsassistenten-an-grenzen-kind-mit-schulranzen-wuerde-plattgefahren-5590b6ae-1725-46f7-a181-18ac4631f93b/",
-          "published": "2026-10-29T12:00:00+00:00",
-          "summary": "Reflexstreifen machen Menschen im Dunkeln sichtbarer. Doch mehrere Notbremsassistenten reagieren darauf zu spät. Dahinter können Schwierigkeiten bei der Bildaufnahme und der Erkennung von Menschen …"
         }
       ],
       "error": null
