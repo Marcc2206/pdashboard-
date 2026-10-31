@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:42:18+00:00",
+  "generatedAt": "2026-10-31T23:03:35+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81764.html",
-          "published": "2026-10-31T19:33:34+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12952.html",
+          "published": "2026-10-31T22:45:34+00:00",
           "summary": ""
         },
         {
-          "title": "FC Bayern im Bundesliga-Topspiel gegen Dortmund",
-          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-          "published": "2026-10-31T19:29:06+00:00",
-          "summary": "Mit Joshua Kimmich in der Startelf geht der FC Bayern ins Topspiel der Bundesliga gegen Borussia Dortmund. Der letzte BVB-Sieg in der Liga liegt zweieinhalb Jahre zurück. Der Liveticker zum Spiel."
+          "title": "Erneut Proteste und Zusammenstöße in Frankreich",
+          "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+          "published": "2026-10-31T22:32:55+00:00",
+          "summary": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der …"
         },
         {
-          "title": "Protestanten feiern Reformationstag",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675894.html",
-          "published": "2026-10-31T19:28:19+00:00",
-          "summary": ""
+          "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+          "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+          "published": "2026-10-31T20:36:43+00:00",
+          "summary": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu."
         },
         {
-          "title": "Linke in Berlin macht Weg frei für Koalitionsverhandlungen",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675892.html",
-          "published": "2026-10-31T19:27:09+00:00",
-          "summary": ""
+          "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+          "published": "2026-10-31T20:33:42+00:00",
+          "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. …"
         },
         {
-          "title": "Machtkampf um Verfassungsgericht in Polen spitzt sich zu",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675896.html",
-          "published": "2026-10-31T19:25:25+00:00",
-          "summary": ""
+          "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+          "published": "2026-10-31T20:11:14+00:00",
+          "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude …"
         }
       ],
       "error": null
@@ -47,16 +47,16 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Tränengas und Explosionen: 320.000 auf Straßen in Frankreich - Spannungen am Abend",
-          "link": "https://www.handelsblatt.com/politik/international/traenengas-und-explosionen-320000-auf-strassen-in-frankreich-spannungen-am-abend/100266337.html",
-          "published": "2026-10-31T19:17:16+00:00",
-          "summary": "Die Demonstrationszüge in Frankreich verlaufen erst friedlich. Am späten Nachmittag und Abend kommt es dann zu immer mehr Zusammenstößen mit Sicherheitskräften."
+          "title": "Demonstrationen: Plünderungen und Gewalt überschatten Gen-Z-Demonstrationen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-pluenderungen-und-gewalt-ueberschatten-gen-z-demonstrationen/100266315.html",
+          "published": "2026-10-31T21:45:16+00:00",
+          "summary": "Zehntausende Menschen gehen bei Jugendprotesten auf die Straße. Anfangs bleibt es friedlich. Doch das ändert sich vor allem in Frankfurt und Köln - es kommt bei Dunkelheit zu schlimmen Szenen."
         },
         {
-          "title": "Demonstrationen: Ausschreitungen in mehreren Städten nach friedlichem Protest",
-          "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-ausschreitungen-in-mehreren-staedten-nach-friedlichem-protest/100266315.html",
-          "published": "2026-10-31T18:24:03+00:00",
-          "summary": "Mehrere Zehntausend Menschen gehen bei Jugendprotesten in mehr als 30 Städten auf die Straße. Anfangs bleibt es meist friedlich. Später ändert sich mancherorts die Lage."
+          "title": "Tränengas und Explosionen: 320.000 auf Straßen in Frankreich - Spannungen am Abend",
+          "link": "https://www.handelsblatt.com/politik/international/traenengas-und-explosionen-320000-auf-strassen-in-frankreich-spannungen-am-abend/100266337.html",
+          "published": "2026-10-31T19:46:08+00:00",
+          "summary": "Die Demonstrationszüge in Frankreich verlaufen erst friedlich. Am späten Nachmittag und Abend kommt es dann zu immer mehr Zusammenstößen mit Sicherheitskräften."
         },
         {
           "title": "+++ Ukraine-Krieg +++: Oleschky-Flüchtlinge in der Ukraine angekommen – Evakuierung von ukrainischer Frontstadt beendet",
@@ -211,6 +211,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "James Webb findet etwas, das auf keinem Bild zu sehen ist",
+          "link": "https://www.ingenieur.de/james-webb-findet-etwas-das-auf-keinem-bild-zu-sehen-ist-0c73d9c5-6ce3-45b3-a83a-9abf02562a48/",
+          "published": "2026-10-31T20:57:42+00:00",
+          "summary": "James Webb empfängt ein ungewöhnliches Signal aus dem All. Die Lichtquelle müsste eigentlich sichtbar sein – doch Astronomen finden keine Spur."
+        },
+        {
+          "title": "Berliner Forscher knacken Silikon, mit einer gefährlichen Methode",
+          "link": "https://www.ingenieur.de/berliner-forscher-knacken-silikon-mit-einer-gefaehrlichen-methode-ad16c843-7087-441e-9064-daca89260cf8/",
+          "published": "2026-10-31T19:04:00+00:00",
+          "summary": "Forschende gewinnen aus alten Silikonprodukten bis zu 99 % eines wichtigen Rohstoffs zurück. Doch das neue Verfahren hat einen gefährlichen Haken."
+        },
+        {
+          "title": "Kleine Windräder, große Enttäuschung? Was die Physik verrät",
+          "link": "https://www.ingenieur.de/kleine-windraeder-grosse-enttaeuschung-was-die-physik-verraet-6e5ad9e0-4cfe-435e-80c5-0c39916e998f/",
+          "published": "2026-10-31T18:32:21+00:00",
+          "summary": "Kleinwindkraftanlagen liefern im Wohngebiet oft wenig Strom: Turbulenzen, schwacher Wind und geringe Erträge bremsen die Wirtschaftlichkeit."
+        },
+        {
           "title": "305 m Spannweite, keine Pylone: Wie hält diese Donaubrücke?",
           "link": "https://www.ingenieur.de/305-m-spannweite-keine-pylone-wie-haelt-diese-donaubruecke-7a39da83-ce92-4a6e-9955-b2bfefd62f65/",
           "published": "2026-10-31T13:54:44+00:00",
@@ -221,24 +239,6 @@
           "link": "https://www.ingenieur.de/85-m-unter-der-erde-wie-die-erbauer-von-derinkuyu-den-fels-bezwangen-4d052a8d-1d74-42f7-9afd-d035310961b5/",
           "published": "2026-10-31T13:04:50+00:00",
           "summary": "Bis zu 85 m tief, ein Labyrinth aus Tunneln und schweren Steintüren: Wie entstand Derinkuyu? Neue Forschung zeigt, wie die unterirdische Stadt funktionierte."
-        },
-        {
-          "title": "Winziger Glaschip macht aus zwei Teleskopen ein einziges",
-          "link": "https://www.ingenieur.de/winziger-glaschip-macht-aus-zwei-teleskopen-ein-einziges-845080e4-6d76-4e91-a5bd-25f544cb9fb9/",
-          "published": "2026-10-31T08:07:20+00:00",
-          "summary": "Ein winziger Glaschip verbindet zwei Teleskope zu einem Instrument. Nach 15 Jahren Forschung funktioniert die Technik erstmals bei echten Sternbeobachtungen."
-        },
-        {
-          "title": "Berliner Forschern gelingt fast vollständiges Recycling von Silikon, mit einem Haken",
-          "link": "https://www.ingenieur.de/berliner-forschern-gelingt-fast-vollstaendiges-recycling-von-silikon-mit-einem-haken-ad16c843-7087-441e-9064-daca89260cf8/",
-          "published": "2026-10-31T07:30:00+00:00",
-          "summary": "Forschende gewinnen aus alten Silikonprodukten bis zu 99 % eines wichtigen Rohstoffs zurück. Doch das neue Verfahren hat einen gefährlichen Haken."
-        },
-        {
-          "title": "3 Mio. m³ Fels müssen weg: Norwegens gigantischer Schiffstunnel",
-          "link": "https://www.ingenieur.de/3-millionen-fels-muessen-weg-norwegens-gigantischer-schiffstunnel-c00cf04c-ceb5-4596-87a2-1170a9d07656/",
-          "published": "2026-10-30T20:51:55+00:00",
-          "summary": "Norwegen baut den weltweit ersten Schiffstunnel für große Seeschiffe. 50 m hoch, 36 m breit: So soll die gewaltige Wasserstraße durch den Fels entstehen."
         }
       ],
       "error": null

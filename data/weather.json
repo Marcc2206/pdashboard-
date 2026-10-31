@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:42:22+00:00",
+  "generatedAt": "2026-10-31T23:03:40+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-10-31T20:30",
-    "temperatur": 9.1,
-    "gefuehlt": 7.6,
-    "luftfeuchte": 92,
+    "zeit": "2026-11-01T00:00",
+    "temperatur": 8.5,
+    "gefuehlt": 6.9,
+    "luftfeuchte": 93,
     "niederschlag": 0.0,
-    "wind": 6.2,
+    "wind": 6.5,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -23,12 +23,12 @@
   },
   "tage": [
     {
-      "datum": "2026-10-31",
+      "datum": "2026-11-01",
       "max": 10.4,
-      "min": 6.6,
-      "regenwahrscheinlichkeit": 0,
-      "sonnenaufgang": "2026-10-31T07:19",
-      "sonnenuntergang": "2026-10-31T16:59",
+      "min": 7.9,
+      "regenwahrscheinlichkeit": 18,
+      "sonnenaufgang": "2026-11-01T07:20",
+      "sonnenuntergang": "2026-11-01T16:57",
       "wetter": {
         "code": 61,
         "text": "Leichter Regen",
@@ -36,23 +36,10 @@
       }
     },
     {
-      "datum": "2026-11-01",
-      "max": 10.0,
-      "min": 7.7,
-      "regenwahrscheinlichkeit": 5,
-      "sonnenaufgang": "2026-11-01T07:20",
-      "sonnenuntergang": "2026-11-01T16:57",
-      "wetter": {
-        "code": 45,
-        "text": "Nebel",
-        "icon": "🌫️"
-      }
-    },
-    {
       "datum": "2026-11-02",
-      "max": 9.2,
-      "min": 7.1,
-      "regenwahrscheinlichkeit": 58,
+      "max": 8.9,
+      "min": 7.0,
+      "regenwahrscheinlichkeit": 53,
       "sonnenaufgang": "2026-11-02T07:22",
       "sonnenuntergang": "2026-11-02T16:55",
       "wetter": {
@@ -63,15 +50,28 @@
     },
     {
       "datum": "2026-11-03",
-      "max": 7.2,
-      "min": 4.7,
-      "regenwahrscheinlichkeit": 3,
+      "max": 8.1,
+      "min": 6.5,
+      "regenwahrscheinlichkeit": 10,
       "sonnenaufgang": "2026-11-03T07:24",
       "sonnenuntergang": "2026-11-03T16:53",
       "wetter": {
         "code": 61,
         "text": "Leichter Regen",
         "icon": "🌦️"
+      }
+    },
+    {
+      "datum": "2026-11-04",
+      "max": 7.5,
+      "min": 4.1,
+      "regenwahrscheinlichkeit": 0,
+      "sonnenaufgang": "2026-11-04T07:26",
+      "sonnenuntergang": "2026-11-04T16:51",
+      "wetter": {
+        "code": 3,
+        "text": "Bedeckt",
+        "icon": "☁️"
       }
     }
   ]
