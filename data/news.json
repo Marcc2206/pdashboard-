@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:55:14+00:00",
+  "generatedAt": "2026-10-31T01:24:56+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+          "published": "2026-10-31T01:03:28+00:00",
+          "summary": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei umstellte das Gebäude, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung …"
+        },
+        {
+          "title": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+          "published": "2026-10-30T23:56:24+00:00",
+          "summary": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium …"
+        },
         {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12942.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1675532.html",
           "published": "2026-10-30T21:13:39+00:00",
           "summary": ""
-        },
-        {
-          "title": "Enthüllungen vor den Midterms zur kreativen Stimmzettelgestaltung in Alaska",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1675536.html",
-          "published": "2026-10-30T21:12:29+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Carsten Kühntopp, ARD Washington, zzt. Atlanta, zu den Themen beim G20-Außenministertreffen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1675526.html",
-          "published": "2026-10-30T21:08:53+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Midterms: Alaska: Ministerium will Stimmzettel getrennt lagern lassen",
+          "link": "https://www.handelsblatt.com/politik/international/midterms-alaska-ministerium-will-stimmzettel-getrennt-lagern-lassen/100266274.html",
+          "published": "2026-10-31T00:49:30+00:00",
+          "summary": "Bis zu den US-Kongresswahlen sind es nur noch wenige Tage - doch ein Rechtsstreit um das wichtige Senatsrennen in Alaska ist noch ungeklärt. Nun unternimmt Trumps Regierung einen weiteren Schritt."
+        },
+        {
+          "title": "Umstrittener Justizumbau: Turbulenzen in Polen: Präsident besucht Verfassungsgericht",
+          "link": "https://www.handelsblatt.com/politik/international/umstrittener-justizumbau-turbulenzen-in-polen-praesident-besucht-verfassungsgericht/100266276.html",
+          "published": "2026-10-31T00:49:12+00:00",
+          "summary": "Das Parlament nominiert fünf neue Richter, doch der rechtskonservative Präsident Nawrocki will sie nicht vereidigen. In der Nacht begibt er sich selbst zum Gericht, vor dem Demonstranten ausharren."
+        },
+        {
+          "title": "Demonstrationen: Zehntausende protestieren in Italien – Kundgebungen auch in Deutschland erwartet",
+          "link": "https://www.handelsblatt.com/politik/international/demonstrationen-zehntausende-protestieren-in-italien-kundgebungen-auch-in-deutschland-erwartet/100266270.html",
+          "published": "2026-10-30T23:07:17+00:00",
+          "summary": "Höhere Löhne und bessere öffentliche Dienstleistungen gehören zu den Forderungen der Demonstranten. Die Proteste verliefen überwiegend friedlich, in Rom und Turin setzte die Polizei jedoch …"
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: Lawrow – keine Entspannung zwischen Moskau und Washington",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-lawrow-keine-entspannung-zwischen-moskau-und-washington/27982126.html",
+          "published": "2026-10-30T22:46:00+00:00",
+          "summary": "Selenskyj kündigt „wichtige“ Gespräche in der Türkei an +++ Evakuierung aus russisch besetztem Oleschky abgeschlossen +++ Der Newsblog."
+        },
+        {
           "title": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert rund 29 Prozent",
           "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-100-auf-talfahrt-intel-aktie-verliert-29-prozent/100266181.html",
           "published": "2026-10-30T19:57:39+00:00",
           "summary": "An den US-Börsen brechen die Kurse zahlreicher Tech-Konzerne nach Sorgen im KI-Sektor ein. Die Preise für Gold und Silber liegen derweil so niedrig wie seit einem Jahr nicht mehr."
-        },
-        {
-          "title": "Technologie: Papst fordert institutionelle Aufsicht für die Entwicklung von KI",
-          "link": "https://www.handelsblatt.com/technik/ki/technologie-papst-fordert-institutionelle-aufsicht-fuer-die-entwicklung-von-ki/100266262.html",
-          "published": "2026-10-30T19:11:02+00:00",
-          "summary": "Bereits im Frühjahr hatte sich Papst Leo XIV. in seiner Enzyklika zu der Entwicklung von Künstlicher Intelligenz geäußert. Nun macht er seine Forderungen noch deutlicher."
-        },
-        {
-          "title": "+++ Iran-Krieg +++: Militärchef berät wohl Trump über Optionen im Iran-Krieg",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-militaerchef-beraet-wohl-trump-ueber-optionen-im-iran-krieg/100136895.html",
-          "published": "2026-10-30T18:52:00+00:00",
-          "summary": "USA ziehen Regierungsmitarbeiter aus Saudi-Arabien ab +++ Vermittler aus Katar wohl zu Gesprächen in den Iran gereist +++ Brennender Supertanker in Straße von Hormus +++ Der Newsblog."
-        },
-        {
-          "title": "Gipfel in Montreal: EU und Kanada schmieden Allianz für die Zukunft",
-          "link": "https://www.handelsblatt.com/politik/international/gipfel-in-montreal-eu-und-kanada-schmieden-allianz-fuer-die-zukunft/100266031.html",
-          "published": "2026-10-30T18:18:48+00:00",
-          "summary": "Die Politik von US-Präsident Trump bringt die EU und Kanada enger zusammen. Bei ihrem Gipfel in Montreal vereinbaren sie zahlreiche Vorhaben. Doch es bleiben noch Unstimmigkeiten."
-        },
-        {
-          "title": "Deep Read: „Trumps Ziel macht ihn bedrohlicher als Marine Le Pen in Frankreich oder die AfD in Deutschland“",
-          "link": "https://www.handelsblatt.com/politik/international/usa-wenn-trump-diesen-kurs-nicht-beendet-droht-eine-tiefe-wirtschaftskrise/100263638.html",
-          "published": "2026-10-30T18:17:22+00:00",
-          "summary": "Daron Acemoglu prophezeit eine tiefe Wirtschaftskrise, wenn der US-Präsident seinen „Zerstörungskurs“ nicht beende. Der Nobelpreisträger sagt: „Ich möchte heute nicht jung sein.“"
         }
       ],
       "error": null
@@ -211,9 +211,9 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "50 m hoch, 36 m breit: Norwegens gewaltiger Schiffstunnel geht in die Bauphase",
-          "link": "https://www.ingenieur.de/50-meter-hoch-36-meter-breit-norwegens-gewaltiger-schiffstunnel-geht-in-die-bauphase-c00cf04c-ceb5-4596-87a2-1170a9d07656/",
-          "published": "2026-10-30T18:07:42+00:00",
+          "title": "3 Mio. m³ Fels müssen weg: Norwegens gigantischer Schiffstunnel",
+          "link": "https://www.ingenieur.de/3-millionen-fels-muessen-weg-norwegens-gigantischer-schiffstunnel-c00cf04c-ceb5-4596-87a2-1170a9d07656/",
+          "published": "2026-10-30T20:51:55+00:00",
           "summary": "Norwegen baut den weltweit ersten Schiffstunnel für große Seeschiffe. 50 m hoch, 36 m breit: So soll die gewaltige Wasserstraße durch den Fels entstehen."
         },
         {
@@ -221,6 +221,12 @@
           "link": "https://www.ingenieur.de/6-3-milliarden-dollar-in-20-minuten-gestohlen-wie-hacker-binance-ausraubten-7ae973b9-7821-4a3a-af7f-db12788ba6b2/",
           "published": "2026-10-30T17:30:00+00:00",
           "summary": "Binance-Hack: Angreifer erbeuten in 20 Minuten Kryptowährungen im Wert von 6,3 Mrd. Dollar. Ermittler prüfen kompromittierte Systeme und Zugänge."
+        },
+        {
+          "title": "E-Lkw verdienen Geld, während sie auf dem Betriebshof stehen",
+          "link": "https://www.ingenieur.de/e-lkw-verdienen-geld-waehrend-sie-auf-dem-betriebshof-stehen-3949b8ce-15d3-44a5-88a7-3e185b7c4ea3/",
+          "published": "2026-10-30T17:30:00+00:00",
+          "summary": "E-Lkw als mobile Stromspeicher: Eine TUM-Analyse zeigt, wie Speditionen Energiekosten senken können und welche Probleme noch ungelöst sind."
         },
         {
           "title": "Die 10 größten Klimasünder der Welt, Deutschland nicht mehr dabei",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/edge-layer-enabler-fur-eine-datengetriebene-produktion-02ca6f47-2616-40db-bc22-197dbc174b3a/",
           "published": "2026-10-30T16:24:43+00:00",
           "summary": "Im Zeitalter der industriellen Digitalisierung tauschen Maschinen, ­Steuerungen, IT-Systeme und Cloud-Dienste ihre Daten in Echtzeit ­aus. Der Edge Layer dient als Enabler."
-        },
-        {
-          "title": "Autonome Fahrzeuge: Was passiert, wenn die Technik plötzlich versagt?",
-          "link": "https://www.ingenieur.de/autonome-fahrzeuge-was-passiert-wenn-die-technik-ploetzlich-versagt-632eb48a-79d5-45e3-beac-7d59cb307add/",
-          "published": "2026-10-30T14:29:00+00:00",
-          "summary": "Autonome Fahrzeuge müssen bei Sensor- und Systemausfällen sicher reagieren. Forschung zeigt, wie Redundanz, KI und klare Einsatzgrenzen schützen."
         }
       ],
       "error": null
