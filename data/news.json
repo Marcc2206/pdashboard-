@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:26:05+00:00",
+  "generatedAt": "2026-10-31T19:42:18+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-          "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-          "published": "2026-10-31T13:57:56+00:00",
-          "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude …"
-        },
-        {
-          "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
-          "published": "2026-10-31T13:45:21+00:00",
-          "summary": "In Berlin läuft der Parteitag der Linkspartei. Fraktionschefin Eralp verteidigte das Sondierungspapier mit Grünen sowie SPD und warb für Koalitionsverhandlungen. Sie äußerte sich auch zur …"
-        },
-        {
-          "title": "Catrina am Dia de los Muertos, Krokusblüten, Olympische Jugendspiele",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10538.html",
-          "published": "2026-10-31T13:42:16+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81764.html",
+          "published": "2026-10-31T19:33:34+00:00",
           "summary": ""
         },
         {
-          "title": "Palina Milling, ARD Warschau, zu Protesten um Verfassungsgericht",
-          "link": "https://www.tagesschau.de/video/video-1675706.html",
-          "published": "2026-10-31T13:22:26+00:00",
+          "title": "FC Bayern im Bundesliga-Topspiel gegen Dortmund",
+          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
+          "published": "2026-10-31T19:29:06+00:00",
+          "summary": "Mit Joshua Kimmich in der Startelf geht der FC Bayern ins Topspiel der Bundesliga gegen Borussia Dortmund. Der letzte BVB-Sieg in der Liga liegt zweieinhalb Jahre zurück. Der Liveticker zum Spiel."
+        },
+        {
+          "title": "Protestanten feiern Reformationstag",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675894.html",
+          "published": "2026-10-31T19:28:19+00:00",
           "summary": ""
         },
         {
-          "title": "Claudia Kornmeier, ARD Paris, zu Protestankündigungen in Frankreich",
-          "link": "https://www.tagesschau.de/video/video-1675690.html",
-          "published": "2026-10-31T13:14:36+00:00",
+          "title": "Linke in Berlin macht Weg frei für Koalitionsverhandlungen",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675892.html",
+          "published": "2026-10-31T19:27:09+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Machtkampf um Verfassungsgericht in Polen spitzt sich zu",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675896.html",
+          "published": "2026-10-31T19:25:25+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ukraine-Krieg: Selenskyj: Oleschky-Flüchtlinge sind wieder in der Ukraine",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-oleschky-fluechtlinge-sind-wieder-in-der-ukraine/100266307.html",
-          "published": "2026-10-31T14:12:19+00:00",
-          "summary": "US-First-Lady Melania Trump vermittelte eine Evakuierung aus der von Moskaus Truppen besetzten südukrainischen Frontstadt Oleschky. Nach einer Zwischenetappe ging es für Flüchtlinge in die Ukraine."
+          "title": "Tränengas und Explosionen: 320.000 auf Straßen in Frankreich - Spannungen am Abend",
+          "link": "https://www.handelsblatt.com/politik/international/traenengas-und-explosionen-320000-auf-strassen-in-frankreich-spannungen-am-abend/100266337.html",
+          "published": "2026-10-31T19:17:16+00:00",
+          "summary": "Die Demonstrationszüge in Frankreich verlaufen erst friedlich. Am späten Nachmittag und Abend kommt es dann zu immer mehr Zusammenstößen mit Sicherheitskräften."
         },
         {
-          "title": "Demonstrationen: Bundesweite Jugendproteste gestartet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-bundesweite-jugendproteste-gestartet/100266315.html",
-          "published": "2026-10-31T14:09:06+00:00",
-          "summary": "In mehr als 30 Städten wollen Jugendliche auf die Straße gehen, mehr als 182.000 Menschen haben ihre Teilnahme an den Protesten zugesagt. Ob sie am Ende alle kommen, ist offen."
+          "title": "Demonstrationen: Ausschreitungen in mehreren Städten nach friedlichem Protest",
+          "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-ausschreitungen-in-mehreren-staedten-nach-friedlichem-protest/100266315.html",
+          "published": "2026-10-31T18:24:03+00:00",
+          "summary": "Mehrere Zehntausend Menschen gehen bei Jugendprotesten in mehr als 30 Städten auf die Straße. Anfangs bleibt es meist friedlich. Später ändert sich mancherorts die Lage."
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: Oleschky-Flüchtlinge in der Ukraine angekommen – Evakuierung von ukrainischer Frontstadt beendet",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-oleschky-fluechtlinge-in-der-ukraine-angekommen/27982126.html",
+          "published": "2026-10-31T17:59:54+00:00",
+          "summary": "Erdogan nennt Angriffe auf Handelsschiffe im Schwarzen Meer inakzeptabel +++ Selenskyj: Habe mit Erdogan über bevorstehende Verhandlungen beraten +++ Der Newsblog."
         },
         {
           "title": "+++ Iran-Krieg +++: Irans Außenminister sieht keine Notwendigkeit für USA-Treffen",
           "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-aussenminister-sieht-keine-notwendigkeit-fuer-usa-treffen/100136895.html",
-          "published": "2026-10-31T14:08:01+00:00",
-          "summary": "Iran: US-Angriff auf Fischerboote nahe Insel Keschm +++ Hebrons Bürgermeister warnt vor Folgen der Abriegelung +++ Chamenei fordert eine wirksame Reaktion auf jede Bedrohung +++ Der Newsblog."
+          "published": "2026-10-31T17:32:51+00:00",
+          "summary": "Rubio: Noch keine Entscheidung zu weiterem US-Militäreinsatz gegen Iran +++ Von Huthi entführter UN-Mitarbeiter tot +++ Iran: US-Angriff auf Fischerboote nahe Insel Keschm +++ Der Newsblog."
         },
         {
-          "title": "Trump-Watch: Steht MAGA noch hinter Trump? – mit Politologin Julia Simon",
-          "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-steht-maga-noch-hinter-trump-mit-politologin-julia-simon/100266284.html",
-          "published": "2026-10-31T14:06:47+00:00",
-          "summary": "Frühere Verbündete wenden sich von Donald Trump ab, die Zwischenwahlen stehen kurz bevor und die Frage nach den Präsidentschaftskandidaten 2028 wird lauter. Steckt MAGA in der Krise?"
-        },
-        {
-          "title": "Großes Polizeiaufgebot: Frankreich unter Spannung am landesweiten Protesttag",
-          "link": "https://www.handelsblatt.com/politik/international/grosses-polizeiaufgebot-frankreich-unter-spannung-am-landesweiten-protesttag/100266337.html",
-          "published": "2026-10-31T14:05:57+00:00",
-          "summary": "In Frankreichs Großstädten werden mehrere Hunderttausend Menschen zu Protesten erwartet. Die Sorge vor einer Wiederholung der Ausschreitungen ist groß. Die Behörden treffen besondere Maßnahmen."
+          "title": "Proteste: 320.000 bei Protesten in Frankreich – Weniger Demonstranten als in Vorwochen",
+          "link": "https://www.handelsblatt.com/politik/international/proteste-320.000-bei-protesten-in-frankreich-weniger-demonstranten-als-in-vorwochen/100266355.html",
+          "published": "2026-10-31T17:09:17+00:00",
+          "summary": "Zunächst verläuft der Protesttag in Frankreich ruhig. Am späten Nachmittag gibt es erste chaotische Bilder. Die Polizei war erneut mit einem Großaufgebot im Einsatz."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Anthropic-Börsengang voraus: Verkraftet die Börse den Kapitalhunger der KI-Firmen?",
+          "link": "https://www.n-tv.de/wirtschaft/Verkraftet-die-Boerse-den-Kapitalhunger-der-KI-Firmen-id31475510.html",
+          "published": "2026-10-31T14:30:00+00:00",
+          "summary": ""
+        },
         {
           "title": "Kosten von 1,4 Millionen Euro: Hoher Silberpreis: Ministerium musste Münzen einschmelzen lassen",
           "link": "https://www.n-tv.de/wirtschaft/Hoher-Silberpreis-Ministerium-musste-Muenzen-einschmelzen-lassen-id31479792.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Rekord-Hack-bei-Binance-alarmiert-Kryptobranche-id31479065.html",
           "published": "2026-10-31T08:25:17+00:00",
           "summary": "6,3 Milliarden Dollar erbeutet, Auszahlungen gestoppt: Ein gigantischer Hack bei Binance erschüttert die Kryptowelt. Konkurrenten verschärfen ihre Sicherheitsvorkehrungen. Der Angriff legt offen, wie …"
-        },
-        {
-          "title": "Dino-Investor Angermayer: \"Keine meiner Wohnungen bot ausreichend Platz für das Dinosaurierskelett\"",
-          "link": "https://www.n-tv.de/wirtschaft/Keine-meiner-Wohnungen-bot-ausreichend-Platz-fuer-das-Dinosaurierskelett-id31475789.html",
-          "published": "2026-10-31T08:03:34+00:00",
-          "summary": "Christian Angermayer investiert etwa in psychedelische Wirkstoffe und Firmen, die das Altern aufhalten wollen. Der Selfmade-Milliardär steckt sein Geld auch in Dinosaurier. Im Interview mit ntv …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "„GenZ regelt“: Bundesweite Jugendproteste in ersten Städten gestartet",
-          "link": "https://www.wiwo.de/politik/deutschland/gen-z-regelt-bundesweite-jugendproteste-in-ersten-staedten-gestartet/100266314.html",
-          "published": "2026-10-31T14:00:00+00:00",
-          "summary": "In mehr als 30 Städten wollen Jugendliche auf die Straße gehen, mehr als 182.000 Menschen haben ihre Teilnahme an den Protesten zugesagt. Ob sie am Ende alle kommen, ist offen."
+          "title": "Wirtschaft von oben: Hier überdachen das Disneyland und deutsche Firmen ihre Parkplätze mit Solarmodulen",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/solarkraftwerke-auf-parkplaetzen-hier-werden-parkplaetze-zu-kraftwerken/100265599.html",
+          "published": "2026-10-31T17:22:00+00:00",
+          "summary": "Parkplätze bieten riesiges Potenzial für Solarstrom. Satellitenbilder zeigen, welche Firmen es ausschöpfen."
         },
         {
-          "title": "Steuern: So haben sich die deutschen Steuereinnahmen seit 1999 entwickelt",
-          "link": "https://www.wiwo.de/politik/konjunktur/steuern-wie-haben-sich-die-deutschen-steuereinnahmen-seit-1999-entwickelt/100261983.html",
-          "published": "2026-10-31T13:40:35+00:00",
-          "summary": "Die Steuereinnahmen sind die zentrale Finanzierungsgrundlage für öffentliche Aufgaben in Deutschland. Wie viel Geld Bund, Länder und Kommunen in den vergangenen Jahren eingenommen haben."
+          "title": "Proteste: „Solche Proteste sind Ausdruck eines sehr starken Vertrauensverlustes“",
+          "link": "https://www.wiwo.de/politik/konjunktur/wirtschaftsexperte-zu-protesten-der-wunsch-nach-vergeltung-nimmt-zu/100260004.html",
+          "published": "2026-10-31T17:19:00+00:00",
+          "summary": "Verhaltensökonom Ernst Fehr über die volkswirtschaftliche Bedeutung von Fairness und Vertrauen – und eine polarisierte Gesellschaft im Krisenmodus."
         },
         {
-          "title": "Wohnungsbau: So haben sich die Baugenehmigungen für Wohngebäude in Deutschland entwickelt",
-          "link": "https://www.wiwo.de/politik/deutschland/wohnungsbau-so-haben-sich-die-baugenehmigungen-fuer-wohngebaeude-entwickelt/100261604.html",
-          "published": "2026-10-31T13:33:06+00:00",
-          "summary": "Die Zahl der Baugenehmigungen für Wohngebäude ist ein wichtiger Gradmesser dafür, wie sich das Angebot an Wohnraum perspektivisch wohl entwickeln wird. Die Genehmigungen seit 2007 in der Übersicht."
+          "title": "„GenZ regelt“: Zehntausende protestieren bundesweit – Polizei muss teilweise eingreifen",
+          "link": "https://www.wiwo.de/politik/deutschland/gen-z-regelt-bundesweite-jugendproteste-laufen-polizei-muss-teilweise-eingreifen/100266314.html",
+          "published": "2026-10-31T17:17:00+00:00",
+          "summary": "Mehrere Zehntausend Menschen gingen am Samstag in weiten Teilen friedlich auf die Straßen. In einigen Städten gab es vereinzelte Ausschreitungen – und Pyrotechnik wurde gezündet."
         },
         {
-          "title": "US-Zwischenwahlen: Warum Trumps große KI-Wette plötzlich zum Problem für die Republikaner wird",
-          "link": "https://www.wiwo.de/politik/ausland/midterms-2026-warum-trumps-grosse-ki-wette-ploetzlich-zum-problem-fuer-die-republikaner-wird/100265560.html",
-          "published": "2026-10-31T13:17:00+00:00",
-          "summary": "In Pennsylvania macht der KI-Boom einige zu Millionären. Andere zerreißen vor Wut 10.000-Dollar-Schecks. Der Zorn könnte für die Republikaner teuer werden."
+          "title": "Regierungsbildung in Berlin: Berliner Linke geben Weg für Rot-Rot-Grün frei",
+          "link": "https://www.wiwo.de/politik/deutschland/regierungsbildung-in-berlin-berliner-linke-geben-weg-fuer-rot-rot-gruen-frei/100266321.html",
+          "published": "2026-10-31T17:00:00+00:00",
+          "summary": "Die Berliner Linke hat Koalitionsverhandlungen mit SPD und Grünen nun zugestimmt – trotz bundesweiter Kontroversen und Druck von außen. Doch die Gespräche ab Montag könnten schwierig werden."
         },
         {
-          "title": "Leben mit Aktien: Welche Sektor-ETFs sich für Anleger wirklich lohnen",
-          "link": "https://www.wiwo.de/finanzen/boerse/zukunftsbranchen-welche-sektor-etfs-sich-fuer-anleger-wirklich-lohnen/100265830.html",
-          "published": "2026-10-31T12:40:00+00:00",
-          "summary": "Die KI‑Euphorie hat viel Kapital angezogen. Andere Branchen sind aus dem Fokus geraten. Für Anleger ergibt sich daraus eine attraktive Einstiegsmöglichkeit."
+          "title": "Luxusküche: Jetzt will der edle Herdspezialist Bora die ganze Küche verfeinern",
+          "link": "https://www.wiwo.de/unternehmen/handel/luxuskuechen-von-bora-das-plant-der-sueddeutsche-herdspezialist/100265587.html",
+          "published": "2026-10-31T15:07:20+00:00",
+          "summary": "Bora hat den Dunstabzug ins Kochfeld verlegt – und damit die Luxusküche revolutioniert. Jetzt will das Unternehmen dasselbe mit Geschirrspüler, Backofen und Kühlschrank wiederholen."
         }
       ],
       "error": null
