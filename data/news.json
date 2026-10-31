@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T07:58:17+00:00",
+  "generatedAt": "2026-10-31T14:26:05+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-10-31T07:51:52+00:00",
-          "summary": "Am Samstag überwiegend stark bewölkt oder trüb und bevorzugt im Osten mitunter etwas Regen. Vor allem in der Südwesthälfte gebietsweise Sonnenschein. 6 bis 13 Grad."
+          "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+          "published": "2026-10-31T13:57:56+00:00",
+          "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude …"
         },
         {
-          "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-          "published": "2026-10-31T07:45:19+00:00",
-          "summary": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert."
+          "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+          "published": "2026-10-31T13:45:21+00:00",
+          "summary": "In Berlin läuft der Parteitag der Linkspartei. Fraktionschefin Eralp verteidigte das Sondierungspapier mit Grünen sowie SPD und warb für Koalitionsverhandlungen. Sie äußerte sich auch zur …"
         },
         {
-          "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
-          "published": "2026-10-31T07:43:12+00:00",
-          "summary": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank …"
+          "title": "Catrina am Dia de los Muertos, Krokusblüten, Olympische Jugendspiele",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10538.html",
+          "published": "2026-10-31T13:42:16+00:00",
+          "summary": ""
         },
         {
-          "title": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-          "link": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
-          "published": "2026-10-31T07:09:41+00:00",
-          "summary": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte."
+          "title": "Palina Milling, ARD Warschau, zu Protesten um Verfassungsgericht",
+          "link": "https://www.tagesschau.de/video/video-1675706.html",
+          "published": "2026-10-31T13:22:26+00:00",
+          "summary": ""
         },
         {
-          "title": "Jugendproteste in mehr als 30 Städten geplant",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
-          "published": "2026-10-31T04:52:31+00:00",
-          "summary": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. …"
+          "title": "Claudia Kornmeier, ARD Paris, zu Protestankündigungen in Frankreich",
+          "link": "https://www.tagesschau.de/video/video-1675690.html",
+          "published": "2026-10-31T13:14:36+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Morning Briefing Plus: Wenn das Private öffentlich werden darf",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-wenn-das-private-oeffentlich-werden-darf/100266157.html",
-          "published": "2026-10-31T07:46:45+00:00",
-          "summary": "Die Linken-Politikerin Elif Eralp offenbart in internen Bemerkungen Angst, einen Terrorsympathisanten namentlich zu benennen. Die Frage nach ihrer Regierungsfähigkeit ist berechtigt."
+          "title": "Ukraine-Krieg: Selenskyj: Oleschky-Flüchtlinge sind wieder in der Ukraine",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-oleschky-fluechtlinge-sind-wieder-in-der-ukraine/100266307.html",
+          "published": "2026-10-31T14:12:19+00:00",
+          "summary": "US-First-Lady Melania Trump vermittelte eine Evakuierung aus der von Moskaus Truppen besetzten südukrainischen Frontstadt Oleschky. Nach einer Zwischenetappe ging es für Flüchtlinge in die Ukraine."
         },
         {
-          "title": "Russlands Krieg: Russland: Ukrainische Oleschky-Flüchtlinge ausgeflogen",
-          "link": "https://www.handelsblatt.com/politik/international/russlands-krieg-russland-ukrainische-oleschky-fluechtlinge-ausgeflogen/100266307.html",
-          "published": "2026-10-31T07:23:21+00:00",
-          "summary": "Nach der von US-First-Lady Melania Trump vermittelten Evakuierung in der besetzten Frontstadt Oleschky fliegen Ukrainer in Richtung Belarus. Wird Russland weitere solche humanitären Aktionen zulassen?"
+          "title": "Demonstrationen: Bundesweite Jugendproteste gestartet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-bundesweite-jugendproteste-gestartet/100266315.html",
+          "published": "2026-10-31T14:09:06+00:00",
+          "summary": "In mehr als 30 Städten wollen Jugendliche auf die Straße gehen, mehr als 182.000 Menschen haben ihre Teilnahme an den Protesten zugesagt. Ob sie am Ende alle kommen, ist offen."
         },
         {
-          "title": "US-Kongresswahlen: Auf diese Wählergruppen kommt es bei den Midterms an",
-          "link": "https://www.handelsblatt.com/politik/international/us-kongresswahlen-auf-diese-waehlergruppen-kommt-es-bei-den-midterms-an/100266305.html",
-          "published": "2026-10-31T07:00:05+00:00",
-          "summary": "2024 konnte Donald Trump viele Latino-Stimmen für sich gewinnen. Bei den Midterms könnte es anders kommen. Welche Wählergruppen könnten bei den US-Kongresswahlen den Ausschlag geben?"
+          "title": "+++ Iran-Krieg +++: Irans Außenminister sieht keine Notwendigkeit für USA-Treffen",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-aussenminister-sieht-keine-notwendigkeit-fuer-usa-treffen/100136895.html",
+          "published": "2026-10-31T14:08:01+00:00",
+          "summary": "Iran: US-Angriff auf Fischerboote nahe Insel Keschm +++ Hebrons Bürgermeister warnt vor Folgen der Abriegelung +++ Chamenei fordert eine wirksame Reaktion auf jede Bedrohung +++ Der Newsblog."
         },
         {
-          "title": "Deutschland: „Mehr Begeisterung führt zu mehr Gelassenheit“ - Dieser Merz-Berater empfiehlt weniger Angst vor der AfD",
-          "link": "https://www.handelsblatt.com/politik/deutschland/deutschland-dieser-merz-berater-empfiehlt-weniger-angst-vor-der-afd/100264898.html",
-          "published": "2026-10-31T06:56:00+00:00",
-          "summary": "Der Historiker Jens Nordalm hat ein Buch darüber geschrieben, warum wir noch immer in einem der besten Länder der Welt leben. Wie kommt er darauf? Eine Begegnung."
+          "title": "Trump-Watch: Steht MAGA noch hinter Trump? – mit Politologin Julia Simon",
+          "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-steht-maga-noch-hinter-trump-mit-politologin-julia-simon/100266284.html",
+          "published": "2026-10-31T14:06:47+00:00",
+          "summary": "Frühere Verbündete wenden sich von Donald Trump ab, die Zwischenwahlen stehen kurz bevor und die Frage nach den Präsidentschaftskandidaten 2028 wird lauter. Steckt MAGA in der Krise?"
         },
         {
-          "title": "Ebola im Kongo: Schon mehr als 5.000 Ebola-Tote im Kongo",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-schon-mehr-als-5000-ebola-tote-im-kongo/100266298.html",
-          "published": "2026-10-31T05:23:30+00:00",
-          "summary": "Erst vor wenigen Tagen wurden aus dem Kongo mehr als 10.000 Ebola-Fälle gemeldet, auch die Zahl der Toten überschreitet nun eine weitere Schwelle. Ein Ende ist nicht in Sicht."
+          "title": "Großes Polizeiaufgebot: Frankreich unter Spannung am landesweiten Protesttag",
+          "link": "https://www.handelsblatt.com/politik/international/grosses-polizeiaufgebot-frankreich-unter-spannung-am-landesweiten-protesttag/100266337.html",
+          "published": "2026-10-31T14:05:57+00:00",
+          "summary": "In Frankreichs Großstädten werden mehrere Hunderttausend Menschen zu Protesten erwartet. Die Sorge vor einer Wiederholung der Ausschreitungen ist groß. Die Behörden treffen besondere Maßnahmen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Nasdaq mit Rekordtagesverlust : Wall Street geht gefleddert ins Wochenende",
-          "link": "https://www.n-tv.de/wirtschaft/Wall-Street-geht-gefleddert-ins-Wochenende-id31478576.html",
-          "published": "2026-10-30T21:04:53+00:00",
-          "summary": "Die neuesten Quartalszahlen von Amazon und Intel verschärfen an der Wall Street die Alarmstimmung. Vor allem der Chiphersteller zieht mit einem Kursrutsch von 30 Prozent die ganze Tech-Sparte ins …"
+          "title": "Kosten von 1,4 Millionen Euro: Hoher Silberpreis: Ministerium musste Münzen einschmelzen lassen",
+          "link": "https://www.n-tv.de/wirtschaft/Hoher-Silberpreis-Ministerium-musste-Muenzen-einschmelzen-lassen-id31479792.html",
+          "published": "2026-10-31T13:27:00+00:00",
+          "summary": "Münzen aus Silber können Geldanlage oder Geschenk sein. Der stark gestiegene Preis für die Feinunze Silber vor einem Jahr machte jedoch die Kalkulation für die Hersteller zunichte. Auch das …"
         },
         {
-          "title": "Staatliche Hacker auf Beutezug: Kryptodiebstähle sind Nordkoreas wichtigste Devisenquelle",
-          "link": "https://www.n-tv.de/wirtschaft/Kryptodiebstaehle-sind-Nordkoreas-wichtigste-Devisenquelle-id31477755.html",
-          "published": "2026-10-30T17:14:00+00:00",
-          "summary": "Die Spur vom bislang größten Kryptowährungsraub aller Zeiten führt nach Pjöngjang. Ganze Einheiten des nordkoreanischen Geheimdienstes sind auf Cyberangriffe spezialisiert, deren Einnahmen die …"
+          "title": "Autos im \"Affentempo\": Mercedes' Baukastenpläne: Eine \"Notlösung\" mit Milliardenpotenzial",
+          "link": "https://www.n-tv.de/wirtschaft/Mercedes-Baukastenplaene-Eine-Notloesung-mit-Milliardenpotenzial-id31465244.html",
+          "published": "2026-10-31T10:40:17+00:00",
+          "summary": "Eine erneute Gewinnwarnung erhöht den Druck auf Mercedes: Die Kosten müssen runter und neue Modelle schneller auf die Straße. Eine stärker modularisierte Architektur nach chinesischem Vorbild soll …"
         },
         {
-          "title": "\"So kann es nicht weitergehen\": Preisverfall: Deutsche Schweinehalter fordern Eingreifen der Politik",
-          "link": "https://www.n-tv.de/wirtschaft/Preisverfall-Deutsche-Schweinehalter-fordern-Eingreifen-der-Politik-id31478007.html",
-          "published": "2026-10-30T16:57:09+00:00",
-          "summary": "Der Schlachtpreis für Schweinefleisch fällt auf 1,32 Euro pro Kilogramm. Schweinehalter sprechen von einem ruinösen Wettbewerb und fordern die Politik zum Handeln auf. Ein Branchenverband bringt …"
+          "title": "Für Süßes, Kostüme und Deko: Halloween-Umsätze überraschen Handelsverband",
+          "link": "https://www.n-tv.de/wirtschaft/Halloween-Umsaetze-ueberraschen-Handelsverband-id31479061.html",
+          "published": "2026-10-31T10:17:21+00:00",
+          "summary": "Trotz schwacher Konsumstimmung rechnet der Einzelhandel durch Halloween mit Rekorderlösen. Doch bei einer Warengruppe wollen Verbraucher und Verbraucherinnen nicht mehr so tief in die Tasche greifen …"
         },
         {
-          "title": "Riss- und Lochgefahr: Frankreich ruft sieben Millionen Kondome in Europa zurück",
-          "link": "https://www.n-tv.de/wirtschaft/Frankreich-ruft-sieben-Millionen-unsichere-Kondome-in-Europa-zurueck-id31477615.html",
-          "published": "2026-10-30T15:24:26+00:00",
-          "summary": "Erst im Sommer rief Frankreich Hunderttausende potenziell unsichere Kondome zurück. Nach weiteren Untersuchungen wird klar: Das Ausmaß ist wesentlich größer. Millionen Kondome in ganz Europa sind …"
+          "title": "6,3 Milliarden Dollar weg: Rekord-Hack bei Binance alarmiert Kryptobranche",
+          "link": "https://www.n-tv.de/wirtschaft/Rekord-Hack-bei-Binance-alarmiert-Kryptobranche-id31479065.html",
+          "published": "2026-10-31T08:25:17+00:00",
+          "summary": "6,3 Milliarden Dollar erbeutet, Auszahlungen gestoppt: Ein gigantischer Hack bei Binance erschüttert die Kryptowelt. Konkurrenten verschärfen ihre Sicherheitsvorkehrungen. Der Angriff legt offen, wie …"
         },
         {
-          "title": "Wochenvorschau: Termine bis 6. November 2026",
-          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-6-November-2026-id31477691.html",
-          "published": "2026-10-30T14:54:00+00:00",
-          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+          "title": "Dino-Investor Angermayer: \"Keine meiner Wohnungen bot ausreichend Platz für das Dinosaurierskelett\"",
+          "link": "https://www.n-tv.de/wirtschaft/Keine-meiner-Wohnungen-bot-ausreichend-Platz-fuer-das-Dinosaurierskelett-id31475789.html",
+          "published": "2026-10-31T08:03:34+00:00",
+          "summary": "Christian Angermayer investiert etwa in psychedelische Wirkstoffe und Firmen, die das Altern aufhalten wollen. Der Selfmade-Milliardär steckt sein Geld auch in Dinosaurier. Im Interview mit ntv …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Fragen und Antworten: Was von den Gen‑Z‑Protesten zu erwarten ist",
-          "link": "https://www.wiwo.de/politik/deutschland/gen-z-regelt-was-von-den-genzdemonstrationen-am-samstag-zu-erwarten-ist/100265863.html",
-          "published": "2026-10-31T07:26:00+00:00",
-          "summary": "Knapp 30 Städte, ein Protestaufruf und eine Gruppierung im Aufbau: „Gen Z regelt“ mobilisiert für Samstag. Kann es zu Ausschreitungen wie in Frankreich kommen?"
+          "title": "„GenZ regelt“: Bundesweite Jugendproteste in ersten Städten gestartet",
+          "link": "https://www.wiwo.de/politik/deutschland/gen-z-regelt-bundesweite-jugendproteste-in-ersten-staedten-gestartet/100266314.html",
+          "published": "2026-10-31T14:00:00+00:00",
+          "summary": "In mehr als 30 Städten wollen Jugendliche auf die Straße gehen, mehr als 182.000 Menschen haben ihre Teilnahme an den Protesten zugesagt. Ob sie am Ende alle kommen, ist offen."
+        },
+        {
+          "title": "Steuern: So haben sich die deutschen Steuereinnahmen seit 1999 entwickelt",
+          "link": "https://www.wiwo.de/politik/konjunktur/steuern-wie-haben-sich-die-deutschen-steuereinnahmen-seit-1999-entwickelt/100261983.html",
+          "published": "2026-10-31T13:40:35+00:00",
+          "summary": "Die Steuereinnahmen sind die zentrale Finanzierungsgrundlage für öffentliche Aufgaben in Deutschland. Wie viel Geld Bund, Länder und Kommunen in den vergangenen Jahren eingenommen haben."
+        },
+        {
+          "title": "Wohnungsbau: So haben sich die Baugenehmigungen für Wohngebäude in Deutschland entwickelt",
+          "link": "https://www.wiwo.de/politik/deutschland/wohnungsbau-so-haben-sich-die-baugenehmigungen-fuer-wohngebaeude-entwickelt/100261604.html",
+          "published": "2026-10-31T13:33:06+00:00",
+          "summary": "Die Zahl der Baugenehmigungen für Wohngebäude ist ein wichtiger Gradmesser dafür, wie sich das Angebot an Wohnraum perspektivisch wohl entwickeln wird. Die Genehmigungen seit 2007 in der Übersicht."
+        },
+        {
+          "title": "US-Zwischenwahlen: Warum Trumps große KI-Wette plötzlich zum Problem für die Republikaner wird",
+          "link": "https://www.wiwo.de/politik/ausland/midterms-2026-warum-trumps-grosse-ki-wette-ploetzlich-zum-problem-fuer-die-republikaner-wird/100265560.html",
+          "published": "2026-10-31T13:17:00+00:00",
+          "summary": "In Pennsylvania macht der KI-Boom einige zu Millionären. Andere zerreißen vor Wut 10.000-Dollar-Schecks. Der Zorn könnte für die Republikaner teuer werden."
         },
         {
           "title": "Leben mit Aktien: Welche Sektor-ETFs sich für Anleger wirklich lohnen",
           "link": "https://www.wiwo.de/finanzen/boerse/zukunftsbranchen-welche-sektor-etfs-sich-fuer-anleger-wirklich-lohnen/100265830.html",
-          "published": "2026-10-31T07:24:20+00:00",
+          "published": "2026-10-31T12:40:00+00:00",
           "summary": "Die KI‑Euphorie hat viel Kapital angezogen. Andere Branchen sind aus dem Fokus geraten. Für Anleger ergibt sich daraus eine attraktive Einstiegsmöglichkeit."
-        },
-        {
-          "title": "Ältestes Familienunternehmen: Das Geheimnis des Stahl-Spezialisten Coatinc Company",
-          "link": "https://www.wiwo.de/unternehmen/industrie/coatinc-company-wie-das-traditionsunternehmen-mehr-als-500-jahre-ueberstand/100265502.html",
-          "published": "2026-10-31T07:23:39+00:00",
-          "summary": "Rund um Siegen begann die deutsche Industrialisierung. Noch heute bearbeitet und veredelt die Coatinc Company dort Stahl. Wie überlebt ein Unternehmen 524 Jahre?"
-        },
-        {
-          "title": "Jugendproteste: Wird Friedrich Merz noch zum Kanzler der Kinder?",
-          "link": "https://www.wiwo.de/politik/deutschland/jugendproteste-wird-friedrich-merz-noch-zum-kanzler-der-kinder/100265570.html",
-          "published": "2026-10-31T07:23:00+00:00",
-          "summary": "Wenn es um Bildung geht, wird der Regierungschef schnell emotional. Was für eine Chance – gerade jetzt, wo auch in Deutschland die Jugend auf die Straße geht. Ein Kommentar."
-        },
-        {
-          "title": "US-Zwischenwahlen: Wie Rechenzentren Donald Trump die Zwischenwahlen kosten könnten",
-          "link": "https://www.wiwo.de/politik/ausland/ki-rechenzentren-donald-trumps-risiko-bei-den-us-zwischenwahlen/100265560.html",
-          "published": "2026-10-31T07:21:35+00:00",
-          "summary": "In Pennsylvania macht der KI-Boom einige zu Millionären. Andere zerreißen vor Wut 10.000-Dollar-Schecks. Der Zorn könnte für die Republikaner teuer werden."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "305 m Spannweite, keine Pylone: Wie hält diese Donaubrücke?",
+          "link": "https://www.ingenieur.de/305-m-spannweite-keine-pylone-wie-haelt-diese-donaubruecke-7a39da83-ce92-4a6e-9955-b2bfefd62f65/",
+          "published": "2026-10-31T13:54:44+00:00",
+          "summary": "Eine Hängebrücke ohne Türme: In Linz tragen 24 Stahlseile eine 305 m lange Autobahnbrücke. 200 Felsanker halten die Konstruktion fest."
+        },
+        {
+          "title": "85 m unter der Erde: Wie die Erbauer von Derinkuyu den Fels bezwangen",
+          "link": "https://www.ingenieur.de/85-m-unter-der-erde-wie-die-erbauer-von-derinkuyu-den-fels-bezwangen-4d052a8d-1d74-42f7-9afd-d035310961b5/",
+          "published": "2026-10-31T13:04:50+00:00",
+          "summary": "Bis zu 85 m tief, ein Labyrinth aus Tunneln und schweren Steintüren: Wie entstand Derinkuyu? Neue Forschung zeigt, wie die unterirdische Stadt funktionierte."
+        },
+        {
+          "title": "Winziger Glaschip macht aus zwei Teleskopen ein einziges",
+          "link": "https://www.ingenieur.de/winziger-glaschip-macht-aus-zwei-teleskopen-ein-einziges-845080e4-6d76-4e91-a5bd-25f544cb9fb9/",
+          "published": "2026-10-31T08:07:20+00:00",
+          "summary": "Ein winziger Glaschip verbindet zwei Teleskope zu einem Instrument. Nach 15 Jahren Forschung funktioniert die Technik erstmals bei echten Sternbeobachtungen."
+        },
+        {
+          "title": "Berliner Forschern gelingt fast vollständiges Recycling von Silikon, mit einem Haken",
+          "link": "https://www.ingenieur.de/berliner-forschern-gelingt-fast-vollstaendiges-recycling-von-silikon-mit-einem-haken-ad16c843-7087-441e-9064-daca89260cf8/",
+          "published": "2026-10-31T07:30:00+00:00",
+          "summary": "Forschende gewinnen aus alten Silikonprodukten bis zu 99 % eines wichtigen Rohstoffs zurück. Doch das neue Verfahren hat einen gefährlichen Haken."
+        },
+        {
           "title": "3 Mio. m³ Fels müssen weg: Norwegens gigantischer Schiffstunnel",
           "link": "https://www.ingenieur.de/3-millionen-fels-muessen-weg-norwegens-gigantischer-schiffstunnel-c00cf04c-ceb5-4596-87a2-1170a9d07656/",
           "published": "2026-10-30T20:51:55+00:00",
           "summary": "Norwegen baut den weltweit ersten Schiffstunnel für große Seeschiffe. 50 m hoch, 36 m breit: So soll die gewaltige Wasserstraße durch den Fels entstehen."
-        },
-        {
-          "title": "6,3 Mrd. $ in 20 Minuten gestohlen: Wie Hacker Binance ausraubten",
-          "link": "https://www.ingenieur.de/6-3-milliarden-dollar-in-20-minuten-gestohlen-wie-hacker-binance-ausraubten-7ae973b9-7821-4a3a-af7f-db12788ba6b2/",
-          "published": "2026-10-30T17:30:00+00:00",
-          "summary": "Binance-Hack: Angreifer erbeuten in 20 Minuten Kryptowährungen im Wert von 6,3 Mrd. Dollar. Ermittler prüfen kompromittierte Systeme und Zugänge."
-        },
-        {
-          "title": "E-Lkw verdienen Geld, während sie auf dem Betriebshof stehen",
-          "link": "https://www.ingenieur.de/e-lkw-verdienen-geld-waehrend-sie-auf-dem-betriebshof-stehen-3949b8ce-15d3-44a5-88a7-3e185b7c4ea3/",
-          "published": "2026-10-30T17:30:00+00:00",
-          "summary": "E-Lkw als mobile Stromspeicher: Eine TUM-Analyse zeigt, wie Speditionen Energiekosten senken können und welche Probleme noch ungelöst sind."
-        },
-        {
-          "title": "Die 10 größten Klimasünder der Welt, Deutschland nicht mehr dabei",
-          "link": "https://www.ingenieur.de/die-10-groessten-klimasuender-der-welt-deutschland-nicht-mehr-dabei-4fce51ea-f007-40e3-b601-3fdf04d454c2/",
-          "published": "2026-10-30T16:36:08+00:00",
-          "summary": "Die 10 größten Klimasünder 2025: China führt vor USA und Indien. Deutschland fällt aus den Top 10, Kanada rückt nach."
-        },
-        {
-          "title": "Edge Layer: Enabler für eine datengetriebene Produktion",
-          "link": "https://www.ingenieur.de/edge-layer-enabler-fur-eine-datengetriebene-produktion-02ca6f47-2616-40db-bc22-197dbc174b3a/",
-          "published": "2026-10-30T16:24:43+00:00",
-          "summary": "Im Zeitalter der industriellen Digitalisierung tauschen Maschinen, ­Steuerungen, IT-Systeme und Cloud-Dienste ihre Daten in Echtzeit ­aus. Der Edge Layer dient als Enabler."
         }
       ],
       "error": null
