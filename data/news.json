@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T23:03:35+00:00",
+  "generatedAt": "2026-11-01T04:18:14+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12952.html",
-          "published": "2026-10-31T22:45:34+00:00",
+          "title": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
+          "published": "2026-11-01T03:48:45+00:00",
+          "summary": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1675980.html",
+          "published": "2026-11-01T03:47:06+00:00",
           "summary": ""
         },
         {
-          "title": "Erneut Proteste und Zusammenstöße in Frankreich",
-          "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
-          "published": "2026-10-31T22:32:55+00:00",
-          "summary": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der …"
+          "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+          "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+          "published": "2026-11-01T02:32:36+00:00",
+          "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten …"
         },
         {
-          "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
-          "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-          "published": "2026-10-31T20:36:43+00:00",
-          "summary": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu."
+          "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+          "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+          "published": "2026-11-01T02:06:07+00:00",
+          "summary": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI …"
         },
         {
-          "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-          "published": "2026-10-31T20:33:42+00:00",
-          "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. …"
-        },
-        {
-          "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-          "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-          "published": "2026-10-31T20:11:14+00:00",
-          "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude …"
+          "title": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+          "published": "2026-11-01T01:44:46+00:00",
+          "summary": "Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein \"Gen Z\"-Sprecher. Von Gewalt hatte sich die Initiative stets distanziert. Ihr Fazit der Jugendproteste fällt positiv aus. …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Demonstrationen: Plünderungen und Gewalt überschatten Gen-Z-Demonstrationen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-pluenderungen-und-gewalt-ueberschatten-gen-z-demonstrationen/100266315.html",
-          "published": "2026-10-31T21:45:16+00:00",
-          "summary": "Zehntausende Menschen gehen bei Jugendprotesten auf die Straße. Anfangs bleibt es friedlich. Doch das ändert sich vor allem in Frankfurt und Köln - es kommt bei Dunkelheit zu schlimmen Szenen."
+          "title": "Fernverkehr: Bahn verlängert Last-Minute-Tickets und Jugend-Bahncard",
+          "link": "https://www.handelsblatt.com/politik/deutschland/fernverkehr-bahn-verlaengert-last-minute-tickets-und-jugend-bahncard/100266392.html",
+          "published": "2026-11-01T04:00:14+00:00",
+          "summary": "Seit Mai können Kurzentschlossene am Wochenende noch günstige Bahnfahrten für die Folgewoche kaufen. Nun verlängert der bundeseigene Konzern diese Last-Minute-Möglichkeit um ein Jahr."
         },
         {
-          "title": "Tränengas und Explosionen: 320.000 auf Straßen in Frankreich - Spannungen am Abend",
-          "link": "https://www.handelsblatt.com/politik/international/traenengas-und-explosionen-320000-auf-strassen-in-frankreich-spannungen-am-abend/100266337.html",
-          "published": "2026-10-31T19:46:08+00:00",
-          "summary": "Die Demonstrationszüge in Frankreich verlaufen erst friedlich. Am späten Nachmittag und Abend kommt es dann zu immer mehr Zusammenstößen mit Sicherheitskräften."
+          "title": "Gerichtsstreit in Polen: Tusk: Im Rechtsstaat gilt nicht das Gesetz des Dschungels",
+          "link": "https://www.handelsblatt.com/politik/international/gerichtsstreit-in-polen-tusk-im-rechtsstaat-gilt-nicht-das-gesetz-des-dschungels/100266386.html",
+          "published": "2026-11-01T03:30:08+00:00",
+          "summary": "Nach dem umstrittenen Auftritt von Polens Präsident Nawrocki im Verfassungsgericht verschärft Regierungschef Tusk den Ton. Den Gesprächen im Präsidentenpalast bleibt seine Partei fern."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Oleschky-Flüchtlinge in der Ukraine angekommen – Evakuierung von ukrainischer Frontstadt beendet",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-oleschky-fluechtlinge-in-der-ukraine-angekommen/27982126.html",
-          "published": "2026-10-31T17:59:54+00:00",
-          "summary": "Erdogan nennt Angriffe auf Handelsschiffe im Schwarzen Meer inakzeptabel +++ Selenskyj: Habe mit Erdogan über bevorstehende Verhandlungen beraten +++ Der Newsblog."
+          "title": "Gasversorgung: Vorgaben bei Gasspeichern verfehlt - was bedeutet das?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-vorgaben-bei-gasspeichern-verfehlt-was-bedeutet-das/100266387.html",
+          "published": "2026-11-01T03:30:07+00:00",
+          "summary": "Der Winter steht bevor - und die Gasspeicher in Deutschland sind vergleichsweise gering befüllt. Vorgaben werden nicht eingehalten. Was nun?"
         },
         {
-          "title": "+++ Iran-Krieg +++: Irans Außenminister sieht keine Notwendigkeit für USA-Treffen",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-aussenminister-sieht-keine-notwendigkeit-fuer-usa-treffen/100136895.html",
-          "published": "2026-10-31T17:32:51+00:00",
-          "summary": "Rubio: Noch keine Entscheidung zu weiterem US-Militäreinsatz gegen Iran +++ Von Huthi entführter UN-Mitarbeiter tot +++ Iran: US-Angriff auf Fischerboote nahe Insel Keschm +++ Der Newsblog."
+          "title": "Streit um Markenrechte: Ritter Sport vs. Haferriegel: Darum geht es in dem Streit",
+          "link": "https://www.handelsblatt.com/politik/deutschland/streit-um-markenrechte-ritter-sport-vs-haferriegel-darum-geht-es-in-dem-streit/100266384.html",
+          "published": "2026-11-01T03:00:14+00:00",
+          "summary": "Der Schokoproduzent klagt gegen den Quadrat-Haferriegel „Monnemer Quadrat Bio“. Das Oberlandesgericht Stuttgart unterstützt die Klage. Was könnte das für andere Produkte wie „Knoppers“ bedeuten?"
         },
         {
-          "title": "Proteste: 320.000 bei Protesten in Frankreich – Weniger Demonstranten als in Vorwochen",
-          "link": "https://www.handelsblatt.com/politik/international/proteste-320.000-bei-protesten-in-frankreich-weniger-demonstranten-als-in-vorwochen/100266355.html",
-          "published": "2026-10-31T17:09:17+00:00",
-          "summary": "Zunächst verläuft der Protesttag in Frankreich ruhig. Am späten Nachmittag gibt es erste chaotische Bilder. Die Polizei war erneut mit einem Großaufgebot im Einsatz."
+          "title": "Kommentar: Das Gebaren Lawrows ist unerträglich – Trump macht’s möglich",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-das-gebaren-lawrows-ist-unertraeglich-trump-machts-moeglich/100266363.html",
+          "published": "2026-11-01T02:37:51+00:00",
+          "summary": "Mit Russlands Außenminister plaudern, während Putin seine Blutspur durch die Ukraine zieht – das G20-Treffen zeigt, wie sehr die politischen und ethischen Maßstäbe verrückt sind."
         }
       ],
       "error": null
