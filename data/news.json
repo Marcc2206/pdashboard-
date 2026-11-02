@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:21:25+00:00",
+  "generatedAt": "2026-11-02T04:20:14+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676422.html",
+          "published": "2026-11-02T03:46:23+00:00",
+          "summary": ""
+        },
+        {
+          "title": "IG Metall weitet im Tarifstreit Warnstreiks aus",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
+          "published": "2026-11-02T02:15:40+00:00",
+          "summary": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief …"
+        },
+        {
+          "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
+          "published": "2026-11-02T01:09:27+00:00",
+          "summary": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und …"
+        },
+        {
+          "title": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
+          "published": "2026-11-01T23:50:04+00:00",
+          "summary": "Seit 100 Tagen ist der neue ukrainische Armeechef Drapatyj im Amt. Er verändert Führungsstrukturen und setzt auf mehr Eigenverantwortung an der Front. Auch kremlkritische russische Analysten bemerken …"
+        },
+        {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12946.html",
           "published": "2026-11-01T23:12:32+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Ukraine greift mit selbstentwickelten Langstreckendrohnen Ziele im russischen Hinterland an",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1676404.html",
-          "published": "2026-11-01T23:08:05+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Gipfel in Bahrain: Golfstaaten fürchten Wiederaufflammen des Irankriegs",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1676402.html",
-          "published": "2026-11-01T23:05:46+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Roman Poseck, Innenminister Hessen, zu den Krawallen und Plünderungen in Frankfurt am Main",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1676400.html",
-          "published": "2026-11-01T23:04:01+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Debatte über Ursachen nach Ausschreitungen im Anschluss an Protesten von \"Gen Z regelt\"",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1676398.html",
-          "published": "2026-11-01T23:03:57+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ US-Midterms +++: Streit zwischen Demokraten in Michigan droht zu eskalieren",
-          "link": "https://www.handelsblatt.com/politik/international/usa-streit-zwischen-demokraten-in-michigan-droht-zu-eskalieren/29669594.html",
-          "published": "2026-11-01T23:09:00+00:00",
-          "summary": "Trump setzt vor US-Wahlen Regierungshilfen als Druckmittel ein +++ Gericht weist Trump-Klage zu Wahl in Alaska ab +++ Washington D.C. und Virginia klagen gegen Trumps Triumphbogen +++ Der Newsblog."
+          "title": "Hackerangriff: FBI: Nordkoreanische Hacker stecken hinter milliardenschwerem Krypto-Diebstahl bei Binance",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-fbi-sieht-nordkoreanische-hacker-hinter-krypto-diebstahl/100266403.html",
+          "published": "2026-11-02T04:08:02+00:00",
+          "summary": "Der US-Bundespolizei zufolge soll die Gruppe TraderTraitor hinter dem weltweit größten digitalen Raubzug stecken. Binance will wieder mit Auszahlungen starten."
         },
         {
-          "title": "+++ Iran-Krieg +++: Israelischer Oppositionspolitiker warnt vor neuem Krieg mit Iran unter Netanjahu",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-israelische-opposition-warnt-vor-neuem-krieg-mit-iran/100136895.html",
-          "published": "2026-11-01T22:12:00+00:00",
-          "summary": "Revolutionsgarde: Zwei Tanker nach Kollision mit Minen explodiert +++ Hunderte Festnahmen bei Gaza-Demo in London +++ Israels Präsident kündigt Gespräche zur Regierungsbildung an +++ Der Newsblog."
+          "title": "Midterms: Auf diese Rennen sollte man bei den US-Zwischenwahlen achten",
+          "link": "https://www.handelsblatt.com/politik/international/midterms-auf-diese-rennen-sollte-man-bei-den-us-zwischenwahlen-achten/100266510.html",
+          "published": "2026-11-02T04:05:05+00:00",
+          "summary": "50 Bundesstaaten, Hunderte Rennen und die große Frage: Wechselt die Mehrheit in einer oder beiden Kammern des US-Parlaments? Wo man am Wahlabend genauer hinschauen sollte."
         },
         {
-          "title": "+++ US-Zollpolitik +++: Carney zieht positives Fazit nach Gespräch mit Trump",
-          "link": "https://www.handelsblatt.com/politik/international/us-zoelle-carney-zieht-positives-fazit-nach-gespraech-mit-trump/30026990.html",
-          "published": "2026-11-01T21:32:00+00:00",
-          "summary": "Bericht: USA heben Zölle auf bestimmte kanadische Waren auf +++ USA und Kanada verhandeln laut Insidern über Lockerung von Zöllen +++ Der Newsblog."
+          "title": "Treffen der Kreisvorsitzenden: Alarmstufe „dunkelrot“: Kanzler trifft auf verärgerte Basis",
+          "link": "https://www.handelsblatt.com/politik/deutschland/treffen-der-kreisvorsitzenden-alarmstufe-dunkelrot-kanzler-trifft-auf-veraergerte-basis/100266508.html",
+          "published": "2026-11-02T04:00:19+00:00",
+          "summary": "Die CDU-Basis macht die Bundespolitik für die tiefe Krise der Partei verantwortlich. Bei einer Konferenz in Berlin prallen nun beide Seiten aufeinander. Für den Kanzler dürfte es ungemütlich werden."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Festnahme nach Terrorhinweis – russischer FSB dankt USA",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-festnahme-nach-terrorhinweis-russischer-fsb-dankt-usa/27982126.html",
-          "published": "2026-11-01T21:28:00+00:00",
-          "summary": "Ukrainische Luftwaffe: Warn-App für Luftangriffe wurde gehackt +++ Selenskyj zu Treffen mit Putin in der Türkei bereit +++ Russische Industrieanlage bei Drohnenangriff beschädigt +++ Der Newsblog."
+          "title": "Steinmeier-Nachfolge: SPD nominiert Michel Friedman für die Bundesversammlung",
+          "link": "https://www.handelsblatt.com/politik/deutschland/steinmeier-nachfolge-spd-nominiert-michel-friedman-fuer-die-bundesversammlung/100266509.html",
+          "published": "2026-11-02T04:00:17+00:00",
+          "summary": "Michel Friedman soll nach dem Willen der Hessen-SPD mitentscheiden, wer auf Frank-Walter Steinmeier als Bundespräsident folgt - aus Sicht des Publizisten eine Wahl „von höchster Bedeutung“."
         },
         {
-          "title": "Sicherheit: ARD: Warnung vor Spähsoftware auf Politiker-Handys",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sicherheit-ard-warnung-vor-spaehsoftware-auf-politiker-handys/100266473.html",
-          "published": "2026-11-01T19:30:50+00:00",
-          "summary": "Müssen sich Bundespolitiker Sorgen machen, dass sich auf ihren iPhones Schadsoftware befindet? Der Digitalminister bestätigt einen amtlichen Hinweis."
+          "title": "Midterms: Das Wichtigste zu den Parlamentswahlen in den USA",
+          "link": "https://www.handelsblatt.com/politik/international/midterms-das-wichtigste-zu-den-parlamentswahlen-in-den-usa/100266511.html",
+          "published": "2026-11-02T04:00:08+00:00",
+          "summary": "Am Dienstag entscheidet sich, ob das Parlament in Washington künftig eher mit oder gegen US-Präsident Trump arbeitet. Wie die Midterms ablaufen - und warum sie so wichtig sind."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Streiks passen nicht zur Lage\": Bayerns Arbeitgeber gehen IG Metall scharf an",
+          "link": "https://www.n-tv.de/wirtschaft/Bayerns-Arbeitgeber-gehen-IG-Metall-scharf-an-id31483049.html",
+          "published": "2026-11-02T01:15:47+00:00",
+          "summary": "Die Autoindustrie steckt in einer existenziellen Krise, die IG Metall beschließt dennoch Warnstreiks. Von den Arbeitgebern aus Bayern kommen dazu harte Töne. Für Arbeitskämpfe sei es nicht die …"
+        },
         {
           "title": "Auszahlungen laufen wieder: Binance erlebt Abhebungswelle nach Rekord-Hack",
           "link": "https://www.n-tv.de/wirtschaft/Binance-erlebt-Abhebungswelle-nach-Rekord-Hack-id31482691.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Netzagentur-Chef-rechnet-mit-erheblich-hoeheren-Heizkosten-id31481181.html",
           "published": "2026-11-01T10:44:12+00:00",
           "summary": "Deutschland verfehlt vor dem nahenden Winter offenbar die vorgeschriebenen Speicherziele für Erdgas. Die Bundesnetzagentur sieht die Versorgung dennoch gesichert. Doch bei extremer Kälte könnte es zu …"
-        },
-        {
-          "title": "Zwei Euro Aufschlag: EU erhebt neue Gebühr auf Produkte aus Nicht-EU-Ländern",
-          "link": "https://www.n-tv.de/wirtschaft/EU-erhebt-neue-Gebuehr-auf-Produkte-aus-Nicht-EU-Laendern-id31481285.html",
-          "published": "2026-11-01T08:37:10+00:00",
-          "summary": "Sechs Milliarden Pakete erreichten 2025 die Zollämter der EU, 90 Prozent davon aus China. Eine neue Abgabe soll diese Flut eindämmen und gleichzeitig Kontrollkosten decken. Die wichtigsten Antworten …"
         }
       ],
       "error": null
