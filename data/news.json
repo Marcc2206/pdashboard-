@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T23:18:06+00:00",
+  "generatedAt": "2026-11-03T05:17:11+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12966.html",
-          "published": "2026-11-02T21:56:39+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1677056.html",
+          "published": "2026-11-03T05:06:15+00:00",
           "summary": ""
         },
         {
-          "title": "Wie sieht die Realität Jugendlicher heutzutage aus?, Burak Caniperk, Sozialarbeiter",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1676962.html",
-          "published": "2026-11-02T21:40:38+00:00",
-          "summary": ""
+          "title": "USA greifen iranische Ziele in Straße von Hormus an",
+          "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
+          "published": "2026-11-03T04:05:38+00:00",
+          "summary": "Kurz vor den Midterms in den USA sollen die USA wieder Iran angegriffen haben. Dabei soll es sich um einzelne Angriffe handeln - und keine vollständige Wiederaufnahme der Kampfhandlungen."
         },
         {
-          "title": "Debatte um Dobrindt-Äußerung nach deutschlandweiten Gen-Z-Demonstrationen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1676960.html",
-          "published": "2026-11-02T21:34:02+00:00",
-          "summary": ""
+          "title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
+          "link": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
+          "published": "2026-11-03T03:55:28+00:00",
+          "summary": "Die USA, Russland und die Ukraine haben zuletzt im Februar im Dreierformat miteinander gesprochen. Kommende Woche wollen sie wieder zusammenkommen. US-Sondergesandter Wittkoff hat konkrete Ziele."
         },
         {
-          "title": "Wie wird KI die deutsche Industrie verändern?",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1676958.html",
-          "published": "2026-11-02T21:31:23+00:00",
-          "summary": ""
+          "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
+          "published": "2026-11-03T02:25:42+00:00",
+          "summary": "Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab. Zuvor wurden der Gerichtspräsident und sein Stellvertreter suspendiert. Ein …"
         },
         {
-          "title": "Bundesregierung will Deutschland für KI-Wettbewerb stärken",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1676956.html",
-          "published": "2026-11-02T21:25:52+00:00",
-          "summary": ""
+          "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+          "link": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
+          "published": "2026-11-03T00:44:25+00:00",
+          "summary": "Wegen der enormen Preissteigerungen durch Trumps Zölle und den Iran-Krieg könnten die Republikaner bei den Midterms abgestraft werden. Die Folge wäre ein politisches Patt. Droht den USA der …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "iPhone-Konzern: Apples iPhone-Geschäft über Börsenerwartungen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/iphone-konzern-apples-iphone-geschaeft-ueber-boersenerwartungen/100266784.html",
-          "published": "2026-11-02T22:11:31+00:00",
-          "summary": "Vor dem wichtigen Weihnachtsgeschäft konnte Apple das iPhone-Geschäft ausbauen. Beim ersten aufklappbaren Modell iPhone Duo gibt es aber weiter Engpässe."
+          "title": "Morning Briefing: Das beste Gesetz, das Katherina Reiche bisher vorgelegt hat",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-das-beste-gesetz-das-katherina-reiche-bisher-vorgelegt-hat/100266780.html",
+          "published": "2026-11-03T04:52:56+00:00",
+          "summary": "Die Wirtschaftsministerin macht eine Forderung des letzten Koalitionsausschusses konkret. Das gewünschte Ziel wird wohl verfehlt – dafür vermeidet Reiche es, sich ökonomisch zu verheddern."
         },
         {
-          "title": "Tech-Konzern: Starker iPhone-Absatz – Apple mit erneutem Rekordergebnis",
-          "link": "https://www.handelsblatt.com/technik/it-internet/tech-konzern-starker-iphone-absatz-apple-mit-erneutem-rekordergebnis/100265411.html",
-          "published": "2026-11-02T22:10:58+00:00",
-          "summary": "Vor dem wichtigen Weihnachtsgeschäft konnte Apple das iPhone-Geschäft ausbauen. Beim ersten aufklappbaren Modell iPhone Duo gibt es aber weiter Engpässe."
+          "title": "Kopsi und CSI 300: US-Zwischenwahlen im Fokus – Anleger in Asien agieren vorsichtig",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/kopsi-und-csi-300-us-zwischenwahlen-im-fokus-anleger-in-asien-agieren-vorsichtig/100266822.html",
+          "published": "2026-11-03T04:51:18+00:00",
+          "summary": "Anleger zeigen sich vor den Zwischenwahlen in den USA sowie weiteren Quartalszahlen großer US-Tech-Konzerne zurückhaltend. Die Aktien der Chip-Hersteller verlieren."
         },
         {
-          "title": "Midterms: Trump nutzt die letzte Rede vor der Wahl um über sein Renovierungsprojekt zu reden",
-          "link": "https://www.handelsblatt.com/politik/international/midterms-trump-nutzt-die-letzte-rede-vor-der-wahl-um-ueber-sein-renovierungsprojekt-zu-reden/100266711.html",
-          "published": "2026-11-02T21:23:46+00:00",
-          "summary": "Die Amerikaner plagen hohe Preise, teurer Sprit, die Republikaner drohen, die Mehrheit im Kongress zu verlieren – aber ihr Präsident spricht lieber über den Reflecting Pool in Washington."
+          "title": "Web- und App-Tipp: Crash-Fakten auf einen Klick: Unfallatlas online",
+          "link": "https://www.handelsblatt.com/technik/it-internet/web-und-app-tipp-crash-fakten-auf-einen-klick-unfallatlas-online/100266823.html",
+          "published": "2026-11-03T04:33:04+00:00",
+          "summary": "Wann kommen die meisten Menschen durch Verkehrsunfälle zu Schaden? Und verunglücken tatsächlich von Jahr zu Jahr mehr E-Scooter-Fahrende? Diese und andere Fragen beantwortet der Unfallatlas online."
         },
         {
-          "title": "Bundespräsidentenwahl: Merz will eine Frau an der Staatsspitze",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-merz-will-eine-frau-an-der-staatsspitze/100266760.html",
-          "published": "2026-11-02T20:38:37+00:00",
-          "summary": "Lange hat der Kanzler in der Debatte über die Nachfolge von Bundespräsident Steinmeier geschwiegen. Jetzt gibt er erstmals eine Richtung vor."
+          "title": "Ausschreitungen: Polizeigewerkschaft kontert Kritik an Zuordnung der Krawalle",
+          "link": "https://www.handelsblatt.com/politik/deutschland/ausschreitungen-polizeigewerkschaft-kontert-kritik-an-zuordnung-der-krawalle/100266818.html",
+          "published": "2026-11-03T04:05:04+00:00",
+          "summary": "Die Zuordnung der Randalierer vom Wochenende zu einem „migrantischen Milieu“ stößt auch in der Union auf Widerspruch. Die GdP hat aber kein Verständnis für die Debatte."
         },
         {
-          "title": "Stahlarbeiter: Gewerkschaft fordert fünf Prozent mehr Lohn in Stahlbranche",
-          "link": "https://www.handelsblatt.com/politik/deutschland/stahlarbeiter-gewerkschaft-fordert-fuenf-prozent-mehr-lohn-in-stahlbranche/100266740.html",
-          "published": "2026-11-02T20:29:49+00:00",
-          "summary": "Der Wettbewerb mit den Konkurrenten aus Asien ist hart, außerdem kämpft Deutschlands Stahlbranche mit hohen Kosten. Doch die IG Metall sieht Anzeichen der Besserung - und fordert mehr Geld."
+          "title": "Digital-Gipfel: Sechs Bundesländer starten Open-Source-Bildungsplattform",
+          "link": "https://www.handelsblatt.com/technik/it-internet/digital-gipfel-sechs-bundeslaender-starten-open-source-bildungsplattform/100266817.html",
+          "published": "2026-11-03T04:00:12+00:00",
+          "summary": "Microsoft und Google sollen im Schulalltag künftig weniger selbstverständlich sein: Sechs Bundesländer setzen auf eine Open-Source-Plattform. Was sie Schulen bieten soll."
         }
       ],
       "error": null
@@ -172,6 +172,18 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Luftfahrt: USA greifen offenbar iranische Ziele in Straße von Hormus an",
+          "link": "https://www.wiwo.de/unternehmen/industrie/boeing-gegen-airbus-warum-der-us-konzern-trotz-verlusten-gefaehrlich-bleibt/100265660.html",
+          "published": "2026-11-03T05:09:00+00:00",
+          "summary": "Iran könnte Straße von Hormus binnen zwei Tagen öffnen +++ Israels Wahlkommission sieht Wahlergebnis nicht gefährdet +++ Israels Armee zieht aus Westjordanland ab +++ Der Newsblog."
+        },
+        {
+          "title": "Chemie: Wieso Evonik auf die USA wettet, während BASF auf Deutschland setzt",
+          "link": "https://www.wiwo.de/unternehmen/industrie/chemie-wieso-evonik-auf-die-usa-wettet-waehrend-basf-auf-deutschland-setzt/100266581.html",
+          "published": "2026-11-03T05:05:14+00:00",
+          "summary": "Die Branche ist sich einig: Europas Chemie muss sich neu ordnen. Nur wie? BASF will einen deutschen Champion formen, Evonik in den USA zukaufen – riskant ist beides."
+        },
+        {
           "title": "Verteidigung: Pistorius will schnell Klarheit über Kampfjet-Kooperation",
           "link": "https://www.wiwo.de/politik/deutschland/verteidigung-pistorius-will-schnell-klarheit-ueber-kampfjet-kooperation/100266770.html",
           "published": "2026-11-02T18:55:03+00:00",
@@ -188,18 +200,6 @@
           "link": "https://www.wiwo.de/unternehmen/industrie/rheinmetall-aktie-sackt-ab-bericht-ueber-verzoegerte-boxer-bestellung/100266767.html",
           "published": "2026-11-02T18:49:15+00:00",
           "summary": "Rheinmetall verliert an der Börse. Eine verzögerte Boxer-Bestellung belastet die Aktie. Wie Analysten die Aussichten des Rüstungskonzerns bewerten."
-        },
-        {
-          "title": "Bundespräsidentenwahl: Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
-          "link": "https://www.wiwo.de/politik/deutschland/bundespraesidentenwahl-merz-spricht-sich-bei-steinmeier-nachfolge-fuer-frau-aus/100266762.html",
-          "published": "2026-11-02T17:35:25+00:00",
-          "summary": "Lange hat der Kanzler in der Debatte über die Nachfolge von Bundespräsident Steinmeier geschwiegen. Jetzt gibt er erstmals eine Richtung vor."
-        },
-        {
-          "title": "Künstliche Intelligenz: KI-Firma Anthropic mit Milliarden-Verlusten vor Börsengang",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-ki-firma-anthropic-mit-milliarden-verlusten-vor-boersengang/100266754.html",
-          "published": "2026-11-02T17:23:18+00:00",
-          "summary": "Anthropic ließ in ihrem Börsenprospekt zunächst die Zahlen für das dritte Quartal aus. Aus einem Nachtrag geht hervor: Es gab auch da tiefrote Zahlen."
         }
       ],
       "error": null
@@ -210,6 +210,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Tesla Roadster fliegt durch die Luft, doch seine Technik hat einen Haken",
+          "link": "https://www.ingenieur.de/tesla-roadster-fliegt-durch-die-luft-doch-seine-technik-hat-einen-haken-87277c73-39f9-40b4-8e5e-5b19b2e9c0f1/",
+          "published": "2026-11-02T22:17:09+00:00",
+          "summary": "TDer Tesla Roadster springt, dreht sich in der Luft und fährt kopfüber. Wie Kaltgasdüsen, Stickstofftanks und Unterdrucksystem zusammenarbeiten."
+        },
         {
           "title": "Das Elbtower-Debakel in Hamburg geht einfach immer weiter",
           "link": "https://www.ingenieur.de/elbtower-debakel-wie-hamburg-sein-prestigeprojekt-retten-will-ea03dd86-baff-4f09-bbb9-471ee58b10e7/",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/was-passiert-wirklich-langfristig-mit-eis-und-permafrost-wenn-wir-15-grad-ueberschreiten-bdd728c6-a105-402e-8f77-37d6cb86c637/",
           "published": "2026-11-02T14:00:00+00:00",
           "summary": "Bis zu fünf Zentimeter pro Jahr könnte der Meeresspiegel bis 2150 steigen. Forschende warnen: Ohne Klimaschutz überfordert das den Küstenschutz."
-        },
-        {
-          "title": "250-mal leistungsfähiger: Etwas Titan macht aus Abwärme Strom",
-          "link": "https://www.ingenieur.de/250-mal-leistungsfahiger-etwas-titan-macht-aus-abwarme-strom-69615f91-31bb-4326-9a1c-32b1b64c4e0d/",
-          "published": "2026-11-02T13:00:00+00:00",
-          "summary": "Fast alles, was Strom verbraucht, gibt Wärme ab, die niemand nutzt. Forscher in Japan haben eine hauchdünne Schicht entwickelt, die daraus Strom macht. Ein kleiner Zusatz Titan steigert ihre Leistung …"
         }
       ],
       "error": null
