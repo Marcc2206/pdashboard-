@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:36:27+00:00",
+  "generatedAt": "2026-11-03T20:24:41+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
-          "published": "2026-11-03T13:25:20+00:00",
-          "summary": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikfachhändler MediaMarktSaturn übernehmen. Das hat die EU-Kommission entschieden. Doch aus Brüssel kommen Auflagen."
+          "title": "Jetzt live - Bayern gegen mutige Madrilenen um Kontrolle bemüht",
+          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12517728/atletico-madrid_bayern-muenchen/liveticker",
+          "published": "2026-11-03T20:23:11+00:00",
+          "summary": "Bayern München muss ersatzgeschwächt bei Atletico Madrid bestehen. Der deutsche Meister macht das Spiel - zeigt sich aber auch anfällig für Konter."
         },
         {
-          "title": "Liveblog zu den Midterms: ++ Erste Wahllokale haben geöffnet ++",
+          "title": "Champions League: VfB Stuttgart verliert in Istanbul bei Galatasaray",
+          "link": "https://www.sportschau.de/fussball/championsleague/stuttgart-laesst-bei-galatasaray-zu-viel-liegen,spielbericht-cl-galatasaray-stuttgart-100.html",
+          "published": "2026-11-03T20:16:15+00:00",
+          "summary": "Am vierten Spieltag der Champions League hat Stuttgart erstmals verloren. Der VfB hatte bei Galatasaray Istanbul mehrere dicke Chancen, fährt aber nach zwei frühen Gegentreffern ohne Punkte nach …"
+        },
+        {
+          "title": "Liveblog zu den Midterms: ++ US-Justizministerium schickt Wahlbeobachter in alle Bundesstaaten ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-          "published": "2026-11-03T13:20:08+00:00",
-          "summary": "Im Osten der USA haben die ersten Wahllokale geöffnet. In mehreren Bundesstaaten wird ein spannendes Rennen erwartet. Bei diesen Midterms geht es um mehr als nur die Neubesetzung des Kongresses. Die …"
+          "published": "2026-11-03T20:15:10+00:00",
+          "summary": "Das US-Justizministerium schickt zahlreiche Wahlbeobachter in alle Bundesstaaten, Kritiker befürchten eine abschreckende Wirkung durch deren Präsenz. Bei den US-Midterms wird ein spannendes Rennen …"
         },
         {
-          "title": "Selenskyj in Berlin: Neue Millionen-Winterhilfe und Sorge vor der Kälte",
-          "link": "https://www.tagesschau.de/video/video-1677282.html",
-          "published": "2026-11-03T13:16:02+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Judoka Jolina Reinhold holt erstes deutsches Gold",
-          "link": "https://www.sportschau.de/olympia/judoka-jolina-reinhold-holt-erstes-deutsches-gold,youth-olympic-games-2026-108.html",
-          "published": "2026-11-03T13:12:55+00:00",
-          "summary": "Am zweiten Wettkampftag der Youth Olympic Games hat Fahnenträgerin Jolina Reinhold die erste deutsche Medaille geholt: Gold im Judo."
+          "title": "Tausende protestieren gegen tschechische Rundfunk-Pläne",
+          "link": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
+          "published": "2026-11-03T19:52:48+00:00",
+          "summary": "Tschechiens Regierung will den öffentlich-rechtlichen Rundfunk künftig aus dem Staatshaushalt finanzieren. Viele sorgen sich deshalb um die Unabhängigkeit der Sender. Tausende gingen auf die Straße …"
         },
         {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81866.html",
-          "published": "2026-11-03T13:11:44+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81856.html",
+          "published": "2026-11-03T19:18:17+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Steuerdelikt: Durchsuchungen bei National-Bank in NRW und Hessen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/steuerdelikt-durchsuchungen-bei-national-bank-in-nrw-und-hessen/100267010.html",
-          "published": "2026-11-03T13:35:03+00:00",
-          "summary": "Bei der National-Bank AG in Essen sind Geschäftsräume durchsucht worden. Laut Staatsanwaltschaft gab es wohl einen Verdacht auf Steuerhinterziehung – weitere Aktionen sollen folgen."
+          "title": "Autoindustrie: BMW passt Prognose zum zweiten Mal in diesem Jahr an",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bmw-passt-prognose-zum-zweiten-mal-in-diesem-jahr-an/100267097.html",
+          "published": "2026-11-03T20:19:46+00:00",
+          "summary": "Der Autobauer schreibt Teile seines Produktportfolios ab. Das wird das Ergebnis deutlich belasten. Auch der beschleunigte Personalabbau wirkt sich aus. Die BMW-Aktie fällt nachbörslich."
         },
         {
-          "title": "USA: Trump betont traditionell schwierige Zwischenwahlen für die Regierungspartei",
-          "link": "https://www.handelsblatt.com/video/politik/usa-trump-betont-traditionell-schwierige-zwischenwahlen-fuer-die-regierungspartei/100266973.html",
-          "published": "2026-11-03T13:29:00+00:00",
-          "summary": "Seit knapp zwei Jahren haben die US-Republikaner Mehrheiten in beiden Kongresskammern. Das könnte sich nun ändern. Der Präsident sieht ein historisches Muster: „Aus irgendeinem Grund gewinnt der …"
+          "title": "+++ US-Midterms +++: US-Justizministerium entsendet Rekordzahl von Wahlbeobachtern",
+          "link": "https://www.handelsblatt.com/politik/international/us-midterms-us-justizministerium-entsendet-rekordzahl-von-wahlbeobachtern/29669594.html",
+          "published": "2026-11-03T19:43:00+00:00",
+          "summary": "Texanischer Gouverneur setzt Genehmigungen für Rechenzentren aus +++ US-Vizepräsident Vance wirbt am Wahltag mit Steuersenkungen +++ Der Newsblog."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Jetzt live: Kanzler Merz und Ukraines Präsident Selenskyj sprechen bei Berliner Sicherheitskonferenz",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-jetzt-live-kanzler-merz-und-ukraines-praesident-selenskyj-sprechen-bei-berliner-sicherheitskonferenz/27982126.html",
-          "published": "2026-11-03T13:28:00+00:00",
-          "summary": "Möglicher Gipfel zwischen Trump, Putin und Xi +++ Merz kündigt Selenskyj-Besuch in Berlin an +++ Russland meldet massive Angriffe auf Energieanlagen +++ Der Newsblog."
+          "title": "Geldpolitik: Bundesbankpräsident Nagel: EZB-Zinserhöhung im Dezember wahrscheinlich",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-nagel-zinserhoehung-im-dezember-wahrscheinlich/100267104.html",
+          "published": "2026-11-03T19:23:26+00:00",
+          "summary": "Die Teuerungsrate im Euroraum ist bei Weitem nicht da, wo die Euro-Währungshüter sie haben wollen. Der Bundesbank-Präsident hat eine klare Meinung dazu, was die EZB im Dezember tun sollte."
         },
         {
-          "title": "Midterms: Die Zwischenwahlen in den USA im Überblick – das müssen Sie wissen",
-          "link": "https://www.handelsblatt.com/politik/international/midterms-was-sie-zu-den-zwischenwahlen-in-den-usa-wissen-muessen/100266607.html",
-          "published": "2026-11-03T13:27:00+00:00",
-          "summary": "Am Dienstag wird in den USA gewählt. So laufen die Wahlen ab, dann kommen erste Ergebnisse und diese Auswirkungen haben die Midterms auf die zweite Hälfte der Amtszeit Donald Trumps."
+          "title": "Kommentar: Deutschland ist ein zunehmend hilfloser „Partner Nummer eins“ für die Ukraine",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-deutschland-ist-ein-zunehmend-hilfloser-partner-nummer-eins/100266952.html",
+          "published": "2026-11-03T19:17:06+00:00",
+          "summary": "Berlin ist der wichtigste Unterstützer Kiews gegen Russland. Doch über das Schicksal der Ukraine wird in Moskau und Washington entschieden."
         },
         {
-          "title": "Gehalt: Top-Verdiener in Deutschland: In diesen Berufen wird am besten bezahlt",
-          "link": "https://www.handelsblatt.com/karriere/geld-welche-jobs-auch-in-zukunft-ein-top-gehalt-garantieren/100201057.html",
-          "published": "2026-11-03T13:21:00+00:00",
-          "summary": "Gehören Sie zu den absoluten Top-Verdienern in Deutschland? Eine exklusive Auswertung zeigt, welche Berufe an der Gehaltsspitze stehen."
+          "title": "Luftverkehr: Lufthansa und Lissabon unterzeichnen Tap-Einstieg",
+          "link": "https://www.handelsblatt.com/politik/deutschland/luftverkehr-lufthansa-und-lissabon-unterzeichnen-tap-einstieg/100267084.html",
+          "published": "2026-11-03T19:15:30+00:00",
+          "summary": "Der Einstieg bei der portugiesischen Tap soll sich für die Lufthansa schnell rechnen. Insbesondere die Verbindungen nach Lateinamerika stehen im Fokus."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Kerosin treibt die Kosten: Lufthansa kündigt deutlichen Anstieg von Flugpreisen an",
-          "link": "https://www.n-tv.de/wirtschaft/Lufthansa-kuendigt-deutlichen-Anstieg-von-Flugpreisen-an-id31489744.html",
-          "published": "2026-11-03T13:28:55+00:00",
-          "summary": "Die Lufthansa steigert ihren Gewinn im dritten Quartal, obwohl sie über eine halbe Milliarde Euro zusätzliche Kerosinkosten aufbringen muss. Für das kommende Jahr kündigt Konzernchef Carsten Spohr …"
+          "title": "Zum zweiten Mal dieses Jahr: BMW korrigiert Gewinnziel drastisch nach unten",
+          "link": "https://www.n-tv.de/wirtschaft/BMW-korrigiert-Gewinnziel-drastisch-nach-unten-id31491565.html",
+          "published": "2026-11-03T19:28:25+00:00",
+          "summary": "BMW senkt seine Gewinnprognose zum zweiten Mal in diesem Jahr drastisch. Statt einer Rendite von bis zu drei Prozent droht im Autogeschäft nun sogar ein Verlust. Neben schwächeren Verkäufen belasten …"
         },
         {
-          "title": "Subventionen im Fokus: EU genehmigt chinesische Übernahme von Mediamarkt-Saturn",
-          "link": "https://www.n-tv.de/wirtschaft/EU-genehmigt-chinesische-Uebernahme-von-Mediamarkt-Saturn-id31489199.html",
-          "published": "2026-11-03T13:12:33+00:00",
-          "summary": "Die chinesische Online-Handelsplattform JD.com will den Düsseldorfer Konzern Ceconomy übernehmen, zu dem Mediamarkt und Saturn gehören. Jetzt stimmt Brüssel zu - unter Auflagen. Dabei geht es vor …"
+          "title": "\"Toxische\" Arbeitssituationen: Betriebsrat beklagt Missstände bei Biontech",
+          "link": "https://www.n-tv.de/wirtschaft/Betriebsrat-beklagt-Missstaende-bei-Biontech-id31491525.html",
+          "published": "2026-11-03T19:25:15+00:00",
+          "summary": "Mitten in einer großen Umbruchphase sorgt ein Betriebsrat-Brief bei Biontech für Unruhe. Die Arbeitnehmervertreter berichten von \"toxischen Arbeitsplatzsituationen\" und Beschäftigten, die sich mit …"
         },
         {
-          "title": "Ausgerechnet zur US-Wahl: US-Angriffe auf Iran lassen Ölpreise wieder steigen",
-          "link": "https://www.n-tv.de/wirtschaft/Zu-Midterms-Oelpreise-steigen-nach-US-Angriffen-im-Iran-id31489353.html",
-          "published": "2026-11-03T12:46:50+00:00",
-          "summary": "Ob das bis zu Ende gedacht war? Kurz vor den wichtigen Zwischenwahlen in den USA bombardieren diese den Iran. Mit Folgen für die Ölpreise. Den Amerikanern dürfte das nicht gefallen."
+          "title": "Der Knall ist programmiert: VW hängt die Latte für Manager-Boni tiefer - ein fatales Signal",
+          "link": "https://www.n-tv.de/wirtschaft/VW-haengt-die-Latte-fuer-Manager-Boni-tiefer-ein-fatales-Signal-id31490438.html",
+          "published": "2026-11-03T18:05:58+00:00",
+          "summary": "Während Volkswagen von seiner Belegschaft weitere Opfer verlangt, soll der Aufsichtsrat die Hürden für Managerboni deutlich gesenkt haben. Ausgerechnet die Rendite, die als viel zu niedrig galt, soll …"
         },
         {
-          "title": "Nachteil für Batteriespeicher: Nur Gaskraftwerke erhalten staatliche Förderung",
-          "link": "https://www.n-tv.de/wirtschaft/Nur-Gaskraftwerke-erhalten-staatliche-Foerderung-id31488879.html",
-          "published": "2026-11-03T12:44:43+00:00",
-          "summary": "Neue Gaskraftwerke sollen beim Kohleausstieg helfen und bei sogenannten \"Dunkelflauten\" einspringen. Nun stehen elf Projekte fest, die das Bundeswirtschaftsministerium fördert. Die Kosten sollen auf …"
+          "title": "Steuersenkungen in Aussicht: Merz macht der Luftfahrtbranche Hoffnung",
+          "link": "https://www.n-tv.de/wirtschaft/Merz-macht-der-Luftfahrtbranche-Hoffnung-id31491030.html",
+          "published": "2026-11-03T17:26:59+00:00",
+          "summary": "Hohe Steuern und Gebühren bremsen den Luftverkehrsstandort Deutschland aus. Airlines ziehen Flugzeuge ab, Verbindungen fallen weg. Nun greift die Bundesregierung Forderungen der Branche auf: Kanzler …"
         },
         {
-          "title": "An Investor übergeben : Irans Oberster Führer verliert sein Promi-Hotel in Deutschland",
-          "link": "https://www.n-tv.de/wirtschaft/Irans-Oberster-Fuehrer-verliert-sein-Promi-Hotel-in-Deutschland-id31488991.html",
-          "published": "2026-11-03T12:04:53+00:00",
-          "summary": "Seine Verbindung zum iranischen Regime wurden dem Luxushotel bei Frankfurt zum Verhängnis. Internationale Sanktionen machten einen Betrieb unmöglich und erschwerten einen Verkauf. Nun darf ein …"
+          "title": "Trotzdem besteht Hoffnung: Die Autokrise trifft Zulieferer mit voller Wucht",
+          "link": "https://www.n-tv.de/wirtschaft/Die-Autokrise-trifft-Zulieferer-mit-voller-Wucht-id31490590.html",
+          "published": "2026-11-03T17:23:18+00:00",
+          "summary": "Schaeffler schließt mehrere Standorte und streicht Tausende Jobs. Kein Einzelfall, sondern symptomatisch für die schwierige Lage der deutschen Autozulieferer. Zehntausende weitere Arbeitsplätze …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: DAX fällt leicht zurück",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
+          "published": "2026-11-03T17:10:25+00:00",
+          "summary": "Inmitten der Zahlenflut zum dritten Quartal und angesichts des Wahltages in den USA hielten sich die Anleger bedeckt. Der DAX konnte seine anfänglichen Verluste aber eingrenzen."
+        },
+        {
           "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
           "published": "2026-11-03T13:33:24+00:00",
           "summary": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser."
-        },
-        {
-          "title": "Marktbericht: Anleger scheuen vor US-Zwischenwahlen das Risiko",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
-          "published": "2026-11-03T09:15:35+00:00",
-          "summary": "Die Sorge vor einer erneuten Eskalation im Nahen Osten drückt auf die Stimmung der Anleger. Und vor den US-Zwischenwahlen herrscht ohnehin Nervosität. Der DAX fällt zum Handelsstart weiter zurück."
         },
         {
           "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Auktion für Gaskraftwerke: Milliardär Křetínský räumt ab",
-          "link": "https://www.wiwo.de/unternehmen/energie/neue-gaskraftwerke-in-deutschland-kretinskys-coup-gewinnt-ausschreibung/100266953.html",
-          "published": "2026-11-03T13:21:00+00:00",
-          "summary": "Die Sieger der ersten Ausschreibungsrunde für Gaskraftwerke sind der tschechische Milliardär und RWE-Chef Markus Krebber. Die Frage lautet: Was machen die Verlierer? Vier Erkenntnisse."
+          "title": "US-Zwischenwahlen: US-Wahlprognosen sehen die Demokraten vorn",
+          "link": "https://www.wiwo.de/politik/ausland/midterms-2026-aktuelle-umfragen-und-prognosen-zu-den-zwischenwahlen-in-den-usa/100263318.html",
+          "published": "2026-11-03T19:51:00+00:00",
+          "summary": "Laut aktuellen Prognosen werden die Demokraten die US-Zwischenwahlen gewinnen. Doch was würde das für Donald Trump bedeuten? Ein Überblick."
         },
         {
-          "title": "Trump-Dämmerung?: Nach den Midterms wird der US-Präsident noch unberechenbarer",
-          "link": "https://www.wiwo.de/politik/ausland/midterms-2026-so-unberechenbar-wird-donald-trump-nach-den-us-zwischenwahlen/100266072.html",
-          "published": "2026-11-03T13:10:00+00:00",
-          "summary": "Den Republikanern droht bei den Zwischenwahlen ein Debakel. Doch ein Sieg der Demokraten würde Donald Trump noch lange nicht zur lahmen Ente machen. Im Gegenteil."
+          "title": "Schaeffler-Stellenabbau: „Das ist Fehlsteuerung und keine Transformation“",
+          "link": "https://www.wiwo.de/unternehmen/auto/schaeffler-stellenabbau-das-ist-fehlsteuerung-und-keine-transformation/100266955.html",
+          "published": "2026-11-03T19:40:00+00:00",
+          "summary": "Schaeffler hatte sich für das Elektrozeitalter gerüstet. Jetzt muss der Konzern eingestehen, dass die Ziele nicht zu erreichen sind. Das kostet viele Stellen – und löst intern Frust aus."
         },
         {
-          "title": "Gehaltsrechner: Wie reich bin ich? Vergleichen Sie ihr Einkommen",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/einkommensrechner-2026-wie-reich-bin-ich-vergleichen-sie-ihr-einkommen/100262863.html",
-          "published": "2026-11-03T13:09:00+00:00",
-          "summary": "Arm, reich oder Mittelschicht: Wo stehen Sie mit Ihrem Einkommen? Mit unserem Gehaltsrechner finden Sie es heraus."
+          "title": "Midterms: Deshalb sind die USA das gelobte Land für Deutschlands Weltmarktführer",
+          "link": "https://www.wiwo.de/politik/ausland/midterms-2026-trotz-oder-wegen-trump-deutsche-weltmarktfuehrer-in-den-usa/100259050.html",
+          "published": "2026-11-03T19:38:00+00:00",
+          "summary": "Audi will Milliarden investieren, wo die Hidden Champions bereits glänzende Geschäfte machen: in den USA. Firmen wie Trumpf und Ebm-papst wachsen rasant – nicht nur wegen des KI-Booms."
         },
         {
-          "title": "Onlinehandel: Amazon will den deutschen Lebensmittelhandel aufmischen",
-          "link": "https://www.wiwo.de/unternehmen/handel/amazon-so-will-der-haendler-den-deutschen-lebensmittelhandel-aufmischen/100266613.html",
-          "published": "2026-11-03T13:08:00+00:00",
-          "summary": "Amazon liefert in Deutschland nun auch den Wocheneinkauf. Das kann sich lohnen: Lebensmittel gehören derzeit zur heißesten Ware im Onlinehandel."
+          "title": "Autoindustrie: Sparprogramm sorgt für Gewinnwarnung bei BMW",
+          "link": "https://www.wiwo.de/unternehmen/auto/autoindustrie-sparprogramm-sorgt-fuer-gewinnwarnung-bei-bmw/100267100.html",
+          "published": "2026-11-03T19:19:09+00:00",
+          "summary": "Die Münchner erwarten, im Automobilgeschäft weniger zu verdienen. Schuld ist unter anderem der Erfolg des Jobabbauprogramms."
         },
         {
-          "title": "Chemie: Evonik wettet auf die USA, während BASF auf Deutschland setzt",
-          "link": "https://www.wiwo.de/unternehmen/industrie/chemie-evonik-wettet-auf-die-usa-waehrend-basf-auf-deutschland-setzt/100266581.html",
-          "published": "2026-11-03T13:03:00+00:00",
-          "summary": "Die Branche ist sich einig: Europas Chemie muss sich neu ordnen. Nur wie? BASF will einen deutschen Champion formen, Evonik in den USA zukaufen – riskant ist beides."
+          "title": "Ukraine-Krieg: Und dann mischt sich Selenskyj in Deutschlands Innenpolitik ein",
+          "link": "https://www.wiwo.de/politik/deutschland/selenskyj-rede-in-berlin-warnung-vor-rechtsruck-in-europa/100267078.html",
+          "published": "2026-11-03T19:12:24+00:00",
+          "summary": "Der Präsident der Ukraine präsentiert auf der diesjährigen Berliner Sicherheitskonferenz eine bemerkenswerte Grundsatzrede. Und fragt nach Deutschlands Selbstbewusstsein."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Alstom: Warum sechs deutsche Zugprojekte in der Krise stecken",
-          "link": "https://www.ingenieur.de/faehrt-alstom-aufs-abstellgleis-6-vertraege-in-d-ueber-5-mrd-drohen-wg-tech-probleme-zu-platzen-d7e89a32-ca62-4407-b902-828002ffb28f/",
-          "published": "2026-11-03T11:28:26+00:00",
-          "summary": "Der französische Zughersteller Alstom muss seine Planungen für den Doppelstockzug Coradia Max überarbeiten: technische Probleme, stockende Zulassungen und Verluste bei allen sechs deutschen …"
+          "title": "45 t schwer, 452 PS stark: Komatsu zeigt seine neue Riesenraupe",
+          "link": "https://www.ingenieur.de/45-t-schwer-452-ps-stark-komatsu-zeigt-seine-neue-riesenraupe-bf311cac-3d34-44ad-8c43-c5faaa75578d/",
+          "published": "2026-11-03T17:37:20+00:00",
+          "summary": "Komatsu bringt die D175AX-10 nach Europa: 45,5 t Gewicht, 452 PS und bis zu 25 % mehr Produktivität. Was die neue Planierraupe besser macht."
         },
         {
-          "title": "Neue Gaskraftwerke: Erste Standorte stehen fest – ein Braunkohlekonzern räumt ab",
-          "link": "https://www.ingenieur.de/neue-gaskraftwerke-erste-standorte-stehen-fest-ein-braunkohlekonzern-raeumt-ab-c4aa91c9-1ea2-41af-a354-b853c48975e4/",
-          "published": "2026-11-03T10:50:25+00:00",
-          "summary": "Die Bundesnetzagentur hat festgelegt, wer die ersten neuen Gaskraftwerke für Dunkelflauten bauen darf. Fast 60 % der Leistung gehen an einen Braunkohlekonzern. Wer jetzt wo bauen darf, was es kostet …"
+          "title": "Verbrenner-Aus: Brüssel macht einen Rückzieher, die Jobs sind trotzdem weg",
+          "link": "https://www.ingenieur.de/verbrenner-aus-brussel-macht-einen-ruckzieher-die-jobs-sind-trotzdem-weg-1c70cc6c-0616-4d75-a85c-a5f5555deb7e/",
+          "published": "2026-11-03T15:31:02+00:00",
+          "summary": "Das EU-Parlament zieht beim Verbrenner-Aus die Notbremse: 87,5 % statt 100 % CO₂-Minderung müssen 2035 reichen. Für die Beschäftigten bei zahlreichen Zulieferern ändert das nichts mehr, 3460 Stellen …"
         },
         {
-          "title": "Tesla Roadster fliegt durch die Luft, doch seine Technik hat einen Haken",
-          "link": "https://www.ingenieur.de/tesla-roadster-fliegt-durch-die-luft-doch-seine-technik-hat-einen-haken-87277c73-39f9-40b4-8e5e-5b19b2e9c0f1/",
-          "published": "2026-11-02T22:17:09+00:00",
-          "summary": "Der Tesla Roadster springt, dreht sich in der Luft und fährt kopfüber. Wie Kaltgasdüsen, Stickstofftanks und Unterdrucksystem zusammenarbeiten."
+          "title": "Werkzeugüberwachung zur Senkung von Hartmetallkosten",
+          "link": "https://www.ingenieur.de/werkzeuguberwachung-zur-senkung-von-hartmetallkosten-1f18935b-7b45-4a52-9c3f-4d0dd6255bca/",
+          "published": "2026-11-03T15:00:00+00:00",
+          "summary": "Wie prozessbegleitende Werkzeugüberwachung Hartmetallkosten senkt und Standzeiten optimiert."
         },
         {
-          "title": "Das Elbtower-Debakel in Hamburg geht einfach immer weiter",
-          "link": "https://www.ingenieur.de/elbtower-debakel-wie-hamburg-sein-prestigeprojekt-retten-will-ea03dd86-baff-4f09-bbb9-471ee58b10e7/",
-          "published": "2026-11-02T20:55:10+00:00",
-          "summary": "Der Elbtower in Hamburg steht weiter still: Ein günstigeres Museumsangebot gefährdet den 595-Millionen-Euro-Rettungsplan und die Finanzierung."
+          "title": "Mikrorillen per Laser: So sollen Flugzeuge bis zu 3 % Kerosin sparen",
+          "link": "https://www.ingenieur.de/stroemungsguenstige-flugzeughaut-der-hai-als-vorbild-aad4da01-275c-43e7-a6cd-0feb0b6c2ffe/",
+          "published": "2026-11-03T14:00:00+00:00",
+          "summary": "Feine Rillen nach dem Vorbild der Haifischhaut senken den Luftwiderstand von Flugzeugen. 4Jet aus Alsdorf lasert sie direkt in den Lack, eine ganze Tragfläche in einer Schicht. Ein 9 m hoher …"
         },
         {
-          "title": "Was auf der Erde rieselt, bleibt auf dem Mond stecken und das ist der Grund",
-          "link": "https://www.ingenieur.de/was-auf-der-erde-rieselt-bleibt-auf-dem-mond-stecken-das-ist-der-grund-014a07a5-81d9-454e-ace2-9aa1f15eb0d5/",
-          "published": "2026-11-02T15:00:00+00:00",
-          "summary": "Weniger Schwerkraft, aber mehr Verstopfungen: Ein Experiment im Bremer GraviTower zeigt, warum Mondstaub für Maschinen problematisch werden kann."
+          "title": "3360 MW Kraftwerksleistung für die Lausitz: Warum der Osten jetzt vorn liegt",
+          "link": "https://www.ingenieur.de/3360-mw-kraftwerksleistung-fur-die-lausitz-warum-der-osten-jetzt-absahnt-120803a1-71fb-4d22-a58e-eebba18b7976/",
+          "published": "2026-11-03T13:46:43+00:00",
+          "summary": "Bei der ersten Ausschreibung für Langzeitkapazitäten sichert sich Leag sechs von elf Zuschlägen – dank günstiger Umrüstung statt Neubau. Ein Kommentar von Stephan W. Eder."
         }
       ],
       "error": null
