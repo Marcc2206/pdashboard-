@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:24:41+00:00",
+  "generatedAt": "2026-11-04T01:52:59+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Jetzt live - Bayern gegen mutige Madrilenen um Kontrolle bemüht",
-          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12517728/atletico-madrid_bayern-muenchen/liveticker",
-          "published": "2026-11-03T20:23:11+00:00",
-          "summary": "Bayern München muss ersatzgeschwächt bei Atletico Madrid bestehen. Der deutsche Meister macht das Spiel - zeigt sich aber auch anfällig für Konter."
+          "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+          "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+          "published": "2026-11-04T01:44:04+00:00",
+          "summary": "In immer mehr US-Bundesstaaten haben die Wahllokale geschlossen und die Auszählung läuft. Wie ist der Stand bei den Wahlen zum Senat, zum Repräsentantenhaus und zu den Gouverneuren? Ergebnisse in …"
         },
         {
-          "title": "Champions League: VfB Stuttgart verliert in Istanbul bei Galatasaray",
-          "link": "https://www.sportschau.de/fussball/championsleague/stuttgart-laesst-bei-galatasaray-zu-viel-liegen,spielbericht-cl-galatasaray-stuttgart-100.html",
-          "published": "2026-11-03T20:16:15+00:00",
-          "summary": "Am vierten Spieltag der Champions League hat Stuttgart erstmals verloren. Der VfB hatte bei Galatasaray Istanbul mehrere dicke Chancen, fährt aber nach zwei frühen Gegentreffern ohne Punkte nach …"
-        },
-        {
-          "title": "Liveblog zu den Midterms: ++ US-Justizministerium schickt Wahlbeobachter in alle Bundesstaaten ++",
+          "title": "Liveblog zu den Midterms: ++ Demokrat erobert Senatssitz in North Carolina ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-          "published": "2026-11-03T20:15:10+00:00",
-          "summary": "Das US-Justizministerium schickt zahlreiche Wahlbeobachter in alle Bundesstaaten, Kritiker befürchten eine abschreckende Wirkung durch deren Präsenz. Bei den US-Midterms wird ein spannendes Rennen …"
-        },
-        {
-          "title": "Tausende protestieren gegen tschechische Rundfunk-Pläne",
-          "link": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
-          "published": "2026-11-03T19:52:48+00:00",
-          "summary": "Tschechiens Regierung will den öffentlich-rechtlichen Rundfunk künftig aus dem Staatshaushalt finanzieren. Viele sorgen sich deshalb um die Unabhängigkeit der Sender. Tausende gingen auf die Straße …"
+          "published": "2026-11-04T01:43:55+00:00",
+          "summary": "Im Bundesstaat North Carolina haben die Demokraten bei der Wahl zum US-Senat Hochrechnungen zufolge einen Sitz hinzugewonnen. Auch für das Repräsentantenhaus gibt es erste Ergebnisse. Die …"
         },
         {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81856.html",
-          "published": "2026-11-03T19:18:17+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-81820.html",
+          "published": "2026-11-03T23:16:53+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Champions League: Bayern München gewinnt bei Atletico Madrid",
+          "link": "https://www.sportschau.de/fussball/championsleague/karl-und-laimer-treffen-bayern-gelingen-big-points-in-madrid,spielbericht-cl-atletico-bayern-100.html",
+          "published": "2026-11-03T22:54:11+00:00",
+          "summary": "Superwichtiger Sieg für den FC Bayern: Im gefürchteten Metropolitano wurde Atletico Madrid mit einem starken Auftritt in die Schranken gewiesen."
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12960.html",
+          "published": "2026-11-03T21:52:42+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Autoindustrie: BMW passt Prognose zum zweiten Mal in diesem Jahr an",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bmw-passt-prognose-zum-zweiten-mal-in-diesem-jahr-an/100267097.html",
-          "published": "2026-11-03T20:19:46+00:00",
-          "summary": "Der Autobauer schreibt Teile seines Produktportfolios ab. Das wird das Ergebnis deutlich belasten. Auch der beschleunigte Personalabbau wirkt sich aus. Die BMW-Aktie fällt nachbörslich."
+          "title": "Midterms: Demokrat nimmt Republikanern Senatssitz in North Carolina ab",
+          "link": "https://www.handelsblatt.com/politik/international/midterms-demokrat-nimmt-republikanern-senatssitz-in-north-carolina-ab/100267121.html",
+          "published": "2026-11-04T01:39:22+00:00",
+          "summary": "North Carolina zählt zu den entscheidenden Schauplätzen im Kampf um die Mehrheit im Senat. Jetzt steht ein Sieger fest."
         },
         {
-          "title": "+++ US-Midterms +++: US-Justizministerium entsendet Rekordzahl von Wahlbeobachtern",
-          "link": "https://www.handelsblatt.com/politik/international/us-midterms-us-justizministerium-entsendet-rekordzahl-von-wahlbeobachtern/29669594.html",
-          "published": "2026-11-03T19:43:00+00:00",
-          "summary": "Texanischer Gouverneur setzt Genehmigungen für Rechenzentren aus +++ US-Vizepräsident Vance wirbt am Wahltag mit Steuersenkungen +++ Der Newsblog."
+          "title": "Korea-Konflikt: Südkorea: Nordkorea testet mutmaßlich erneut Rakete",
+          "link": "https://www.handelsblatt.com/politik/international/korea-konflikt-suedkorea-nordkorea-testet-mutmasslich-erneut-rakete/100267126.html",
+          "published": "2026-11-04T01:37:06+00:00",
+          "summary": "Nordkorea hat laut südkoreanischer Militärführung erneut ein Geschoss in Richtung Japanisches Meer abgefeuert. Die Details werden noch untersucht."
         },
         {
-          "title": "Geldpolitik: Bundesbankpräsident Nagel: EZB-Zinserhöhung im Dezember wahrscheinlich",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-nagel-zinserhoehung-im-dezember-wahrscheinlich/100267104.html",
-          "published": "2026-11-03T19:23:26+00:00",
-          "summary": "Die Teuerungsrate im Euroraum ist bei Weitem nicht da, wo die Euro-Währungshüter sie haben wollen. Der Bundesbank-Präsident hat eine klare Meinung dazu, was die EZB im Dezember tun sollte."
+          "title": "+++ Iran-Krieg +++: Trump lässt Frage neuer Iran-Angriffe offen",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-laesst-frage-neuer-iran-angriffe-offen/100136895.html",
+          "published": "2026-11-04T01:24:00+00:00",
+          "summary": "Behörde: Tanker vor Oman von Geschossen getroffen +++ Konsultationen zur Regierungsbildung in Israel beginnen +++ Trump bestätigt US-Angriffe auf iranische Ziele +++ Der Newsblog."
         },
         {
-          "title": "Kommentar: Deutschland ist ein zunehmend hilfloser „Partner Nummer eins“ für die Ukraine",
-          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-deutschland-ist-ein-zunehmend-hilfloser-partner-nummer-eins/100266952.html",
-          "published": "2026-11-03T19:17:06+00:00",
-          "summary": "Berlin ist der wichtigste Unterstützer Kiews gegen Russland. Doch über das Schicksal der Ukraine wird in Moskau und Washington entschieden."
+          "title": "+++ US-Midterms +++: Demokrat nimmt Republikanern Senatssitz in North Carolina ab",
+          "link": "https://www.handelsblatt.com/politik/international/us-midterms-demokrat-nimmt-republikanern-senatssitz-in-north-carolina-ab/29669594.html",
+          "published": "2026-11-04T01:05:00+00:00",
+          "summary": "Demokrat Jon Ossoff verteidigt wichtigen Senatssitz in Georgia +++ Erste Entscheidung im Senat – Demokrat erobert Sitz in Virginia +++ Demokraten sichern sich erste Sitze im Repräsentantenhaus +++ …"
         },
         {
-          "title": "Luftverkehr: Lufthansa und Lissabon unterzeichnen Tap-Einstieg",
-          "link": "https://www.handelsblatt.com/politik/deutschland/luftverkehr-lufthansa-und-lissabon-unterzeichnen-tap-einstieg/100267084.html",
-          "published": "2026-11-03T19:15:30+00:00",
-          "summary": "Der Einstieg bei der portugiesischen Tap soll sich für die Lufthansa schnell rechnen. Insbesondere die Verbindungen nach Lateinamerika stehen im Fokus."
+          "title": "US-Parlamentswahlen: USA wählen Kongress mit viel Ärger über Trump",
+          "link": "https://www.handelsblatt.com/politik/international/us-parlamentswahlen-usa-waehlen-kongress-mit-viel-aerger-ueber-trump/100267117.html",
+          "published": "2026-11-04T00:13:19+00:00",
+          "summary": "Das Ergebnis der US-Parlamentswahl wird die letzten zwei Amtsjahre von Donald Trump prägen. Viele Amerikaner gingen zur Abstimmung mit Wut über die Wirtschaftslage."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Tarifkonflikt mit IG Metall: Arbeitgeber sehen weitere 300.000 Jobs in Industrie in Gefahr",
+          "link": "https://www.n-tv.de/wirtschaft/Arbeitgeber-sehen-weitere-300-000-Jobs-in-Industrie-in-Gefahr-id31491828.html",
+          "published": "2026-11-04T00:53:11+00:00",
+          "summary": "Der Arbeitgeberverband Gesamtmetall streitet sich mit der Arbeitnehmervertretung der Metall- und Elektroindustrie um höhere Entgelte. Derzeit ist kein Ende des Tarifkonflikts in Sicht - vor diesem …"
+        },
+        {
+          "title": "Lob für heimische Hersteller: Umweltminister Schneider prophezeit deutsche Aufholjagd bei E-Autos",
+          "link": "https://www.n-tv.de/wirtschaft/Umweltminister-Schneider-prophezeit-deutsche-Aufholjagd-bei-E-Autos-id31491820.html",
+          "published": "2026-11-04T00:05:35+00:00",
+          "summary": "Europäische Autobauer dürfen höchstwahrscheinlicher auch nach 2035 weiterhin Verbrenner verkaufen. Umweltminister Schneider besorgt das nicht. Der SPD-Politiker ist überzeugt: Die deutschen Autobauer …"
+        },
+        {
+          "title": "Vorsicht vor den US-Wahlen: Tech-Aktien drehen auf - Apple agiert als Bremsklotz",
+          "link": "https://www.n-tv.de/wirtschaft/Tech-Aktien-drehen-auf-Apple-agiert-als-Bremsklotz-id31491769.html",
+          "published": "2026-11-03T22:27:04+00:00",
+          "summary": "An der Wall Street greifen Anleger wieder bei KI- und Chip-Aktien zu: Nvidia, Microsoft und Amazon legen deutlich zu, während Apple unter Druck gerät. Vor den richtungsweisenden US-Zwischenwahlen …"
+        },
+        {
           "title": "Zum zweiten Mal dieses Jahr: BMW korrigiert Gewinnziel drastisch nach unten",
           "link": "https://www.n-tv.de/wirtschaft/BMW-korrigiert-Gewinnziel-drastisch-nach-unten-id31491565.html",
           "published": "2026-11-03T19:28:25+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Betriebsrat-beklagt-Missstaende-bei-Biontech-id31491525.html",
           "published": "2026-11-03T19:25:15+00:00",
           "summary": "Mitten in einer großen Umbruchphase sorgt ein Betriebsrat-Brief bei Biontech für Unruhe. Die Arbeitnehmervertreter berichten von \"toxischen Arbeitsplatzsituationen\" und Beschäftigten, die sich mit …"
-        },
-        {
-          "title": "Der Knall ist programmiert: VW hängt die Latte für Manager-Boni tiefer - ein fatales Signal",
-          "link": "https://www.n-tv.de/wirtschaft/VW-haengt-die-Latte-fuer-Manager-Boni-tiefer-ein-fatales-Signal-id31490438.html",
-          "published": "2026-11-03T18:05:58+00:00",
-          "summary": "Während Volkswagen von seiner Belegschaft weitere Opfer verlangt, soll der Aufsichtsrat die Hürden für Managerboni deutlich gesenkt haben. Ausgerechnet die Rendite, die als viel zu niedrig galt, soll …"
-        },
-        {
-          "title": "Steuersenkungen in Aussicht: Merz macht der Luftfahrtbranche Hoffnung",
-          "link": "https://www.n-tv.de/wirtschaft/Merz-macht-der-Luftfahrtbranche-Hoffnung-id31491030.html",
-          "published": "2026-11-03T17:26:59+00:00",
-          "summary": "Hohe Steuern und Gebühren bremsen den Luftverkehrsstandort Deutschland aus. Airlines ziehen Flugzeuge ab, Verbindungen fallen weg. Nun greift die Bundesregierung Forderungen der Branche auf: Kanzler …"
-        },
-        {
-          "title": "Trotzdem besteht Hoffnung: Die Autokrise trifft Zulieferer mit voller Wucht",
-          "link": "https://www.n-tv.de/wirtschaft/Die-Autokrise-trifft-Zulieferer-mit-voller-Wucht-id31490590.html",
-          "published": "2026-11-03T17:23:18+00:00",
-          "summary": "Schaeffler schließt mehrere Standorte und streicht Tausende Jobs. Kein Einzelfall, sondern symptomatisch für die schwierige Lage der deutschen Autozulieferer. Zehntausende weitere Arbeitsplätze …"
         }
       ],
       "error": null
