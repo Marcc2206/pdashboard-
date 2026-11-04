@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T08:35:22+00:00",
+  "generatedAt": "2026-11-04T17:44:02+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Demian von Osten, ARD Berlin, zu Reaktionen aus deutscher Politik auf Midterms",
-          "link": "https://www.tagesschau.de/video/video-1677838.html",
-          "published": "2026-11-04T08:28:47+00:00",
+          "title": "Marktbericht: DAX-Anleger in Kauflaune",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
+          "published": "2026-11-04T17:31:22+00:00",
+          "summary": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind."
+        },
+        {
+          "title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
+          "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+          "published": "2026-11-04T17:16:46+00:00",
+          "summary": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als …"
+        },
+        {
+          "title": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
+          "link": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
+          "published": "2026-11-04T16:50:16+00:00",
+          "summary": "Das Rezept der Republikaner, ganz auf US-Präsident Trump und viel Geld zu setzen, ist nicht aufgegangen. Den Demokraten gelang es, Zuversicht zu vermitteln, meint Samuel Jackisch. Diese Chance müssen …"
+        },
+        {
+          "title": "Jörg Schönenborn, ARD-Wahlexperte, zum Ergebnis der US-Midterms",
+          "link": "https://www.tagesschau.de/video/video-1678106.html",
+          "published": "2026-11-04T16:49:59+00:00",
           "summary": ""
         },
         {
-          "title": "Trump zu Midterms: \"Herzlichen Glückwunsch an die Demokraten!\"",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html",
-          "published": "2026-11-04T08:28:00+00:00",
-          "summary": "Entgegen mancher Befürchtungen hat US-Präsident Trump den Midterm-Sieg der Demokraten anerkannt. Diese hätten \"gute Arbeit geleistet\", nun werde man eben kooperieren. An ihm habe die Pleite aber …"
-        },
-        {
-          "title": "BMW erwirtschaftet noch weniger Gewinn",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
-          "published": "2026-11-04T08:21:37+00:00",
-          "summary": "Die Absatzkrise in China lässt den Gewinn von BMW im dritten Quartal weiter einbrechen. Auch teure Abfindungen und das vorgezogene Aus älterer Modelle verhageln dem Münchner Autobauer die Bilanz."
-        },
-        {
-          "title": "Jörg Schönenborn, ARD-Wahlexperte, zum Sieg der Demokraten bei US-Zwischenwahlen",
-          "link": "https://www.tagesschau.de/video/video-1677836.html",
-          "published": "2026-11-04T08:21:11+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1677826.html",
-          "published": "2026-11-04T08:18:27+00:00",
-          "summary": ""
+          "title": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
+          "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
+          "published": "2026-11-04T16:49:39+00:00",
+          "summary": "Lahme Ente oder entfesselter Kampfhahn - Meinungen darüber, was die Politik von US-Präsident Trump in den verbleibenden zwei Jahren ausmachen wird, variieren. Die Demokraten jedenfalls kündigen große …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Gehalt: Einkommensrechner 2026: So viel verdienen Sie im Vergleich",
-          "link": "https://www.handelsblatt.com/politik/deutschland/gehalt-so-vergleichen-sie-ihr-einkommen-mit-anderen-haushalten/100261943.html",
-          "published": "2026-11-04T08:30:00+00:00",
-          "summary": "Gehören Sie zur Oberschicht? Eine neue Studie zeigt den Vergleich: Der interaktive Rechner ermittelt, wo Sie stehen. Für eine Gruppe ist der Aufstieg zu den Topverdienern besonders schwer."
+          "title": "US-Parlamentswahl: Vance: Iran-Krieg ist Grund für Wahlniederlage",
+          "link": "https://www.handelsblatt.com/politik/international/us-parlamentswahl-vance-iran-krieg-ist-grund-fuer-wahlniederlage/100267117.html",
+          "published": "2026-11-04T17:31:56+00:00",
+          "summary": "Der von Präsident Trump begonnene Iran-Krieg war eine schwere Belastung für die Republikaner im Midterms-Wahlkampf. Das thematisiert nun auch Trumps Vize überraschend deutlich."
         },
         {
-          "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert die Antwort",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-gelten-sie-als-reich-im-vergleich-zu-anderen-deutschen/100149729.html",
-          "published": "2026-11-04T08:30:00+00:00",
-          "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen."
+          "title": "Sicherheit: „Wir sind nicht vorbereitet“ – NRW will Infrastruktur gegen hybride Angriffe stärken",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sicherheit-nrw-will-resilienz-gegen-hybride-angriffe-staerken/100267071.html",
+          "published": "2026-11-04T17:31:19+00:00",
+          "summary": "NRW sieht sich als Industrieregion besonders bedroht und möchte von abwehrbereiten Ländern lernen. Klare Strategien haben etwa die baltischen Staaten und Polen entwickelt."
         },
         {
-          "title": "Private Krankenversicherung: Höhere Beiträge für Privatversicherte: So stark unterscheiden sich die Kosten bei den Anbietern",
-          "link": "https://www.handelsblatt.com/politik/deutschland/versicherung-welche-beitragserhoehungen-privatversicherte-2027-erwarten/100263445.html",
-          "published": "2026-11-04T08:29:00+00:00",
-          "summary": "Millionen Privatversicherte müssen sich auf höhere Beiträge einstellen. Wie stark die Kosten steigen, unterscheidet sich je nach Anbieter erheblich."
+          "title": "Today: Trumps Reaktion auf Demokraten-Sieg lässt Kurse steigen – ING-Chefökonom Brzeski ordnet ein",
+          "link": "https://www.handelsblatt.com/audio/today/today-trumps-reaktion-auf-demokraten-sieg-laesst-kurse-steigen-ing-chefoekonom-brzeski-ordnet-ein/100267378.html",
+          "published": "2026-11-04T17:21:28+00:00",
+          "summary": "Die Reaktionen auf die Midterms-Ergebnisse fallen am Aktienmarkt deutlich positiver aus als zuvor erwartet. Eine Ausnahme ist der KI-Sektor, der nun mehr Regulierung fürchtet."
         },
         {
-          "title": "Millennials: „Sie haben ihre Boomer-Chefs erlebt und sich gesagt: Ich mache es anders“",
-          "link": "https://www.handelsblatt.com/unternehmen/management/karriere-millennials-sind-sehr-perfektionistisch/100255043.html",
-          "published": "2026-11-04T08:29:00+00:00",
-          "summary": "Millennials sind 32 bis 45, gut ausgebildet, oft Führungskräfte – und hinterfragen zunehmend ihr Leben. Warum? Und was unterscheidet sie von der Gen Z? Eine Expertin gibt Antworten."
+          "title": "Mobilfunk: Telekom-Chef wirbt bei der Bundesregierung für Mega-Fusion",
+          "link": "https://www.handelsblatt.com/technik/it-internet/mobilfunk-telekom-chef-wirbt-bei-der-bundesregierung-fuer-mega-fusion/100265960.html",
+          "published": "2026-11-04T17:21:01+00:00",
+          "summary": "Höttges arbeitet im Hintergrund weiter am großen Deal. Es geht um eine der größten Fusionen börsennotierter Unternehmen aller Zeiten – und das Vetorecht der Bundesregierung."
         },
         {
-          "title": "Deutschland: „Mehr Begeisterung führt zu mehr Gelassenheit“ - Dieser Merz-Berater empfiehlt weniger Angst vor der AfD",
-          "link": "https://www.handelsblatt.com/politik/deutschland/deutschland-wie-ein-merz-berater-fuer-mehr-vertrauen-in-die-demokratie-wirbt/100264898.html",
-          "published": "2026-11-04T08:28:00+00:00",
-          "summary": "Der Historiker Jens Nordalm hat ein Buch darüber geschrieben, warum wir noch immer in einem der besten Länder der Welt leben. Wie kommt er darauf? Eine Begegnung."
+          "title": "Verkehr: EU-Abgeordnete stimmen für Aufweichung des Verbrenner-Aus",
+          "link": "https://www.handelsblatt.com/politik/deutschland/verkehr-eu-abgeordnete-stimmen-fuer-aufweichung-des-verbrenner-aus/100267340.html",
+          "published": "2026-11-04T17:15:35+00:00",
+          "summary": "Neue Verbrenner könnten auch nach 2035 noch auf Europas Straßen kommen. Im EU-Parlament hat der Umweltausschuss sich für eine Lockerung ausgesprochen. Doch die entscheidende Abstimmung steht noch aus."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Wut auf Rechenzentren steigt: Die \"blaue Welle\" könnte den KI-Sektor überschwemmen",
-          "link": "https://www.n-tv.de/wirtschaft/Wut-auf-Rechenzentren-Die-blaue-Welle-der-Midterms-koennte-den-KI-Sektor-ueberschwemmen-id31492111.html",
-          "published": "2026-11-04T07:26:00+00:00",
-          "summary": "Für über die Hälfte der Wähler in den USA sind KI-Rechenzentren ein wichtiger Faktor bei der Wahlentscheidung. Kandidaten, die sich für ein Moratorium für Rechenzentren einsetzen, gewinnen vor allem …"
+          "title": "Zivilklausel in der Forschung: Uni Kassel öffnet Pforten für Rüstungsindustrie",
+          "link": "https://www.n-tv.de/wirtschaft/Uni-Kassel-oeffnet-Pforten-fuer-Ruestungsindustrie-id31495436.html",
+          "published": "2026-11-04T16:34:40+00:00",
+          "summary": "An der Universität Kassel tobt seit Monaten ein Grundsatzstreit über die Grenzen wissenschaftlicher Forschung. Nun fällt der Senat eine umstrittene Entscheidung. Hunderte Studierende reagieren mit …"
         },
         {
-          "title": "Tarifkonflikt mit IG Metall: Arbeitgeber sehen weitere 300.000 Jobs in Industrie in Gefahr",
-          "link": "https://www.n-tv.de/wirtschaft/Arbeitgeber-sehen-weitere-300-000-Jobs-in-Industrie-in-Gefahr-id31491828.html",
-          "published": "2026-11-04T00:53:11+00:00",
-          "summary": "Der Arbeitgeberverband Gesamtmetall streitet sich mit der Arbeitnehmervertretung der Metall- und Elektroindustrie um höhere Entgelte. Derzeit ist kein Ende des Tarifkonflikts in Sicht - vor diesem …"
+          "title": "Wette auf Republikaner geplatzt: Elon Musk verzockt eine halbe Milliarde Dollar - und macht Witze darüber",
+          "link": "https://www.n-tv.de/wirtschaft/Elon-Musk-verzockt-eine-halbe-Milliarde-Dollar-und-macht-Witze-darueber-id31493540.html",
+          "published": "2026-11-04T15:50:11+00:00",
+          "summary": "Elon Musk hat den Wahlkampf der Republikaner mit mehreren Hundert Millionen Dollar unterstützt. Doch statt eines politischen Sieges gibt es eine krachende Niederlage - auch in seiner Wahlheimat …"
         },
         {
-          "title": "Lob für heimische Hersteller: Umweltminister Schneider prophezeit deutsche Aufholjagd bei E-Autos",
-          "link": "https://www.n-tv.de/wirtschaft/Umweltminister-Schneider-prophezeit-deutsche-Aufholjagd-bei-E-Autos-id31491820.html",
-          "published": "2026-11-04T00:05:35+00:00",
-          "summary": "Europäische Autobauer dürfen höchstwahrscheinlicher auch nach 2035 weiterhin Verbrenner verkaufen. Umweltminister Schneider besorgt das nicht. Der SPD-Politiker ist überzeugt: Die deutschen Autobauer …"
+          "title": "Prämie als Treibstoff: Pkw-Markt zieht mit Boom bei E-Autos an",
+          "link": "https://www.n-tv.de/wirtschaft/Pkw-Markt-zieht-mit-Boom-bei-E-Autos-an-id31495592.html",
+          "published": "2026-11-04T15:07:00+00:00",
+          "summary": "Der Kauf von E-Autos wird vom Staat gefördert - und schlägt sich auch im Oktober in den Verkaufszahlen nieder. Nur noch gut jeder vierte neu zugelassene Pkw ist ein reiner Verbrenner. Da der …"
         },
         {
-          "title": "Vorsicht vor den US-Wahlen: Tech-Aktien drehen auf - Apple agiert als Bremsklotz",
-          "link": "https://www.n-tv.de/wirtschaft/Tech-Aktien-drehen-auf-Apple-agiert-als-Bremsklotz-id31491769.html",
-          "published": "2026-11-03T22:27:04+00:00",
-          "summary": "An der Wall Street greifen Anleger wieder bei KI- und Chip-Aktien zu: Nvidia, Microsoft und Amazon legen deutlich zu, während Apple unter Druck gerät. Vor den richtungsweisenden US-Zwischenwahlen …"
+          "title": "Berechnungen des Kartellamts: Ölkonzerne geben Tankrabatt bei Benzin wohl nur zu 60 Prozent weiter",
+          "link": "https://www.n-tv.de/wirtschaft/Benzin-Tankrabatt-wird-wohl-nur-zu-60-Prozent-weitergegeben-id31494324.html",
+          "published": "2026-11-04T12:40:23+00:00",
+          "summary": "Autofahrer hegen den Verdacht schon länger: Der Tankrabatt kommt nicht in vollem Umfang bei ihnen an. Berechnungen des Kartellamts untermauern dies nun vor allem bei Benzin. Deutlich besser sieht es …"
         },
         {
-          "title": "Zum zweiten Mal dieses Jahr: BMW korrigiert Gewinnziel drastisch nach unten",
-          "link": "https://www.n-tv.de/wirtschaft/BMW-korrigiert-Gewinnziel-drastisch-nach-unten-id31491565.html",
-          "published": "2026-11-03T19:28:25+00:00",
-          "summary": "BMW senkt seine Gewinnprognose zum zweiten Mal in diesem Jahr drastisch. Statt einer Rendite von bis zu drei Prozent droht im Autogeschäft nun sogar ein Verlust. Neben schwächeren Verkäufen belasten …"
+          "title": "Cyberangriffe auf Supermärkte: Wie Hacker Kühlanlagen zum Heizen bringen",
+          "link": "https://www.n-tv.de/wirtschaft/Wie-Hacker-Kuehlanlagen-zum-Heizen-bringen-id31493468.html",
+          "published": "2026-11-04T10:21:56+00:00",
+          "summary": "Über Nacht manipulieren Hacker die Kühlanlagen mehrerer Supermärkte aus der Ferne. Auch deutsche Händler müssen Lebensmittel entsorgen. Wie die Täter eine Funktion der Geräte ausnutzen, was es mit …"
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Zwischen Zahlenflut und US-Politik",
+          "title": "Marktbericht: DAX-Anleger in Kauflaune",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
-          "published": "2026-11-04T06:46:08+00:00",
-          "summary": "An der Börse geht die Berichtssaison der Unternehmen zur Wochenmitte weiter. Zudem blicken die Anleger auf die US-Kongresswahlen, wo die oppositionellen Demokraten auf dem Vormarsch sind."
+          "published": "2026-11-04T17:31:22+00:00",
+          "summary": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind."
+        },
+        {
+          "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
+          "published": "2026-11-04T13:11:29+00:00",
+          "summary": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den …"
         },
         {
           "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
           "published": "2026-11-02T08:59:47+00:00",
           "summary": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar …"
-        },
-        {
-          "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-          "published": "2026-10-31T07:45:19+00:00",
-          "summary": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert."
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Führungskräfte-Gehalt: Frauen in Führungspositionen verdienen deutlich weniger",
-          "link": "https://www.wiwo.de/politik/deutschland/zahlen-fuer-2025-weibliche-fuehrungskraefte-verdienen-weniger/100267189.html",
-          "published": "2026-11-04T08:24:00+00:00",
-          "summary": "In Deutschland haben weniger Erwerbstätige eine Führungsposition als im EU-Schnitt. Bei der Bezahlung gibt es Unterschiede zwischen den Geschlechtern."
+          "title": "Europaparlament: EU-Abgeordnete stimmen für Aufweichung des Verbrenner-Aus",
+          "link": "https://www.wiwo.de/politik/europa/europaparlament-eu-abgeordnete-stimmen-fuer-aufweichung-des-verbrenner-aus/100267343.html",
+          "published": "2026-11-04T16:38:00+00:00",
+          "summary": "Neue Verbrenner könnten auch nach 2035 noch auf Europas Straßen kommen. Im EU-Parlament hat der Umweltausschuss sich für eine Lockerung ausgesprochen. Doch die entscheidende Abstimmung steht noch aus."
         },
         {
-          "title": "US-Zwischenwahlen: Deshalb fällt die Abrechnung mit Donald Trump so heftig aus",
-          "link": "https://www.wiwo.de/politik/ausland/us-midterms-2026-deshalb-faellt-die-abrechnung-mit-donald-trump-so-heftig-aus/100265742.html",
-          "published": "2026-11-04T08:20:52+00:00",
-          "summary": "Die Demokraten erobern bei den Zwischenwahlen das Repräsentantenhaus, den Senat und selbst republikanische Hochburgen. Das sind die drei Gründe für ihren Triumph. Ein Kommentar."
+          "title": "Personaldienstleister: Warum bei Office People jetzt eine Sanierungskanzlei das Sagen hat",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/office-people-bei-dem-personaldienstleister-gibt-es-schon-wieder-einen-eigentuemerwechsel/100267235.html",
+          "published": "2026-11-04T16:28:34+00:00",
+          "summary": "Vor wenigen Monaten wurde die Zeitarbeitsgruppe Office People verkauft. Nun gibt es schon wieder einen Eigentümerwechsel. Was steckt dahinter?"
         },
         {
-          "title": "US-Kongress: Sieg der Demokraten belastet Tech-Aktien und stärkt Anleihen",
-          "link": "https://www.wiwo.de/finanzen/boerse/us-midterms-so-reagieren-aktien-und-anleihen/100267173.html",
-          "published": "2026-11-04T08:16:18+00:00",
-          "summary": "Die Ergebnisse der US-Midterms sorgen an den Börsen für eine Neubewertung. Besonders im Bereich KI hängt nun viel an der Strategie der Demokraten."
+          "title": "US-Midterms: So unterschiedlich reagieren US-Aktien auf die Wahl",
+          "link": "https://www.wiwo.de/finanzen/boerse/us-midterms-so-unterschiedlich-reagieren-us-aktien-auf-die-wahl/100266968.html",
+          "published": "2026-11-04T16:20:00+00:00",
+          "summary": "Der Midterms-Sieg der Demokraten erhöht den Druck auf den KI-Sektor, die Aktienkurse spezialisierter Unternehmen leiden. Doch andere Branchen profitieren."
         },
         {
-          "title": "Abnehmpille: Novo Nordisk macht Gewinnsprung dank starker Wegovy-Nachfrage",
-          "link": "https://www.wiwo.de/unternehmen/industrie/wegovy-novo-nordisk-macht-gewinnsprung-dank-starker-nachfrage-nach-der-abnehmpille/100267178.html",
-          "published": "2026-11-04T08:14:11+00:00",
-          "summary": "Die Abnehmpille Wegovy treibt Novo Nordisk an: Das Betriebsergebnis steigt währungsbereinigt um 27 Prozent."
+          "title": "Deutsche Finance Group: Korruptionsverdacht bei Versorgungswerk",
+          "link": "https://www.wiwo.de/finanzen/vorsorge/deutsche-finance-group-korruptionsverdacht-bei-versorgungswerk/100264330.html",
+          "published": "2026-11-04T16:02:00+00:00",
+          "summary": "Die Münchener Staatsanwaltschaft durchsucht Büros eines Anlageberaters berufsständischer Versorgungswerke: Bei der Investmentgesellschaft Deutsche Finance Group besteht Verdacht auf Korruption."
         },
         {
-          "title": "Ifo-Index: Stimmung in der Autoindustrie hellt sich deutlich auf",
-          "link": "https://www.wiwo.de/unternehmen/auto/konjunktur-ifo-stimmung-in-der-autoindustrie-springt-nach-oben/100267180.html",
-          "published": "2026-11-04T08:07:00+00:00",
-          "summary": "Die Stimmung in der kriselnden deutschen Automobilindustrie hat sich im Oktober deutlich verbessert: Der Ifo-Index springt um fast 30 Punkte nach oben."
+          "title": "Schaeffler: 100 Millionen Euro Lohn sparen – 1000 Stellen retten",
+          "link": "https://www.wiwo.de/unternehmen/auto/schaeffler-100-millionen-euro-gehaltsverzicht-soll-jobs-retten/100267329.html",
+          "published": "2026-11-04T15:00:22+00:00",
+          "summary": "Der Autozulieferer Schaeffler wünscht sich von seinen Mitarbeitern einen freiwilligen Gehaltsverzicht. Nun soll das Management eine erste Vorstellung übermittelt haben."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "45 t schwer, 452 PS stark: Komatsu zeigt seine neue Riesenraupe",
-          "link": "https://www.ingenieur.de/45-t-schwer-452-ps-stark-komatsu-zeigt-seine-neue-riesenraupe-bf311cac-3d34-44ad-8c43-c5faaa75578d/",
-          "published": "2026-11-03T17:37:20+00:00",
-          "summary": "Komatsu bringt die D175AX-10 nach Europa: 45,5 t Gewicht, 452 PS und bis zu 25 % mehr Produktivität. Was die neue Planierraupe besser macht."
+          "title": "15 Cent gegen Gebäudeschäden: Dieser Betonklotz erkennt unsichtbare Risse",
+          "link": "https://www.ingenieur.de/15-cent-gegen-gebaeudeschaeden-dieser-betonklotz-erkennt-unsichtbare-risse-132e32ed-2b3b-496b-aebc-37db33f251f7/",
+          "published": "2026-11-04T17:00:00+00:00",
+          "summary": "Ein Betonabstandhalter für 15 Cent soll verborgene Gebäudeschäden erkennen. Wie Sentinel funktioniert und warum der Erfinder den Dyson Award gewinnt."
         },
         {
-          "title": "Verbrenner-Aus: Brüssel macht einen Rückzieher, die Jobs sind trotzdem weg",
-          "link": "https://www.ingenieur.de/verbrenner-aus-brussel-macht-einen-ruckzieher-die-jobs-sind-trotzdem-weg-1c70cc6c-0616-4d75-a85c-a5f5555deb7e/",
-          "published": "2026-11-03T15:31:02+00:00",
-          "summary": "Das EU-Parlament zieht beim Verbrenner-Aus die Notbremse: 87,5 % statt 100 % CO₂-Minderung müssen 2035 reichen. Für die Beschäftigten bei zahlreichen Zulieferern ändert das nichts mehr, 3460 Stellen …"
+          "title": "Aluminium-Ionen-Akkus: Wie das Metall der Getränkedose Lithium herausfordert",
+          "link": "https://www.ingenieur.de/aluminium-ionen-akkus-wie-das-metall-der-getrankedose-lithium-herausfordert-fd3f8152-9965-42bc-bff9-3fcdff98b8fe/",
+          "published": "2026-11-04T16:35:03+00:00",
+          "summary": "Akkus aus Aluminium verlassen das Labor: Seit Oktober liefert ein australisches Unternehmen erste Zellen an Testkunden. Sie laden in wenigen Minuten und versprechen eine hohe Lebensdauer, speichern …"
         },
         {
-          "title": "Werkzeugüberwachung zur Senkung von Hartmetallkosten",
-          "link": "https://www.ingenieur.de/werkzeuguberwachung-zur-senkung-von-hartmetallkosten-1f18935b-7b45-4a52-9c3f-4d0dd6255bca/",
-          "published": "2026-11-03T15:00:00+00:00",
-          "summary": "Wie prozessbegleitende Werkzeugüberwachung Hartmetallkosten senkt und Standzeiten optimiert."
+          "title": "KI entdeckt 253 Unstimmigkeiten in Bauplan, 29 davon sind kritisch",
+          "link": "https://www.ingenieur.de/ki-entdeckt-253-unstimmigkeiten-in-bauplan-29-davon-sind-kritisch-76ded62e-e9f4-4432-8543-a3c7f9589e40/",
+          "published": "2026-11-04T16:00:00+00:00",
+          "summary": "Neue KI prüft statische Berechnungen und Baupläne. In einem Wohnungsbauprojekt entdeckt sie 253 Unstimmigkeiten 29 davon gelten als kritisch."
         },
         {
-          "title": "Mikrorillen per Laser: So sollen Flugzeuge bis zu 3 % Kerosin sparen",
-          "link": "https://www.ingenieur.de/stroemungsguenstige-flugzeughaut-der-hai-als-vorbild-aad4da01-275c-43e7-a6cd-0feb0b6c2ffe/",
-          "published": "2026-11-03T14:00:00+00:00",
-          "summary": "Feine Rillen nach dem Vorbild der Haifischhaut senken den Luftwiderstand von Flugzeugen. 4Jet aus Alsdorf lasert sie direkt in den Lack, eine ganze Tragfläche in einer Schicht. Ein 9 m hoher …"
+          "title": "Falsche Atomwarnungen: Auch deutsche Warn-App hackbar?",
+          "link": "https://www.ingenieur.de/falsche-atomwarnungen-auch-deutsche-warn-app-hackbar-8fb0f7dd-4891-44ab-8e81-8af0daf39b07/",
+          "published": "2026-11-04T13:30:00+00:00",
+          "summary": "Hacker haben in der Ukraine und in Russland gefälschte Atom- und Chemiewarnungen verschickt. Könnte das auch über die deutsche Warn-App NINA passieren? Ein Blick auf mögliche Angriffswege und die …"
         },
         {
-          "title": "3360 MW Kraftwerksleistung für die Lausitz: Warum der Osten jetzt vorn liegt",
-          "link": "https://www.ingenieur.de/3360-mw-kraftwerksleistung-fur-die-lausitz-warum-der-osten-jetzt-absahnt-120803a1-71fb-4d22-a58e-eebba18b7976/",
-          "published": "2026-11-03T13:46:43+00:00",
-          "summary": "Bei der ersten Ausschreibung für Langzeitkapazitäten sichert sich Leag sechs von elf Zuschlägen – dank günstiger Umrüstung statt Neubau. Ein Kommentar von Stephan W. Eder."
+          "title": "Blei, PFAS, Pestizide: Wie die Welt den Umgang mit Chemikalien sicherer machen will",
+          "link": "https://www.ingenieur.de/weltweite-chemikaliensicherheit-ist-erreichbar-fde2f46a-53fa-4097-bdc5-ce2d595ecc5e/",
+          "published": "2026-11-04T12:00:00+00:00",
+          "summary": "Die internationale Chemikalienpolitik geht voran: In Genf soll das \"Global Framework on Chemicals\", das 2023 in Bonn beschlossen wurde, mit Leben gefüllt werden. Ein weltweit sicherer Umgang mit …"
         }
       ],
       "error": null
