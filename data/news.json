@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:57:46+00:00",
+  "generatedAt": "2026-11-05T20:57:40+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Nach den US-Kongresswahlen suchen Parteien nach künftigen Kurs",
-          "link": "https://www.tagesschau.de/video/video-1678624.html",
-          "published": "2026-11-05T13:45:55+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Mord an Litwinenko: \"Der Westen hat einen großen Fehler gemacht\"",
-          "link": "https://www.tagesschau.de/ausland/europa/20-jahre-mord-litwinenko-100.html",
-          "published": "2026-11-05T13:42:57+00:00",
-          "summary": "Vor 20 Jahren wurde der russische Ex-Agent Litwinenko in London vergiftet. Seine Witwe treibt heute vor allem eins um: Hat der Westen mit seiner zaghaften Reaktion damals Putins heutige Aggression …"
+          "title": "Jetzt live - Leverkusen gegen Olympique Marseille",
+          "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520164/bayer-leverkusen_olympique-marseille/liveticker",
+          "published": "2026-11-05T20:51:21+00:00",
+          "summary": "Bayer Leverkusen hat in der Europa League noch keinen Punkt abgegeben und auch noch kein Gegentor kassiert. Gegen Marseille soll das auch so bleiben, noch steht's 0:0."
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678620.html",
-          "published": "2026-11-05T13:41:59+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678938.html",
+          "published": "2026-11-05T20:50:56+00:00",
           "summary": ""
         },
         {
-          "title": "Bis 2029: Harry Kane verlängert beim FC Bayern",
-          "link": "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html",
-          "published": "2026-11-05T13:37:07+00:00",
-          "summary": "Harry Kane verlängert seinen Vertrag beim FC Bayern um zwei Jahre bis 2029. Das hat der deutsche Rekordmeister heute bekanntgegeben. Damit geht die Rekordjagd des Engländers in München weiter."
+          "title": "SC Freiburg siegt dank starker Nerven",
+          "link": "https://www.sportschau.de/regional/swr/swr-sc-freiburg-gewinnt-auswaertsspiel-bei-trabzonspor-dank-starker-nerven-100.html",
+          "published": "2026-11-05T20:25:04+00:00",
+          "summary": "Der SC Freiburg gewinnt in der Ligaphase der Conference League im Nordosten der Türkei. Beim 1:0-Sieg gegen Trabzonspor beweist das Team von Trainer Julian Schuster starke Nerven."
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81898.html",
-          "published": "2026-11-05T13:26:58+00:00",
-          "summary": ""
+          "title": "Hoffenheim vergibt Sieg bei Crystal Palace",
+          "link": "https://www.sportschau.de/regional/swr/swr-trotz-ueberzahl-hoffenheim-gibt-sieg-bei-crystal-palace-in-der-nachspielzeit-aus-der-hand-100.html",
+          "published": "2026-11-05T20:24:26+00:00",
+          "summary": "Am 4. Spieltag der Europa League hat die TSG Hoffenheim bei Crystal Palace 1:1 gespielt. Trotz Überzahl kassierten die Kraichgauer den Ausgleichstreffer in der Nachspielzeit."
+        },
+        {
+          "title": "tagesschau 20:00 Uhr",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678914.html",
+          "published": "2026-11-05T19:56:09+00:00",
+          "summary": "Freie Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben, Schlechte Stimmung bei den US-Republikanern nach verlorenen Kongresswahlen, Frankreichs Gewerkschaften rufen …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Volkswagen: Jetzt auch die Verbrenner: Sinkende Gebrauchtwagenpreise machen der VW-Finanzsparte zu schaffen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-jetzt-werden-auch-gebrauchte-verbrenner-fuer-vw-zum-risiko/100266777.html",
-          "published": "2026-11-05T13:48:24+00:00",
-          "summary": "Sinkende Restwerte und schwächerer Autoabsatz erhöhen den Druck auf Volkswagen Financial Services. Deren Chef will mit Sparen und Reorganisation gegensteuern – mit Folgen für die Belegschaft."
+          "title": "+++ US-Midterms +++: Demokraten kündigen Korruptionsermittlungen gegen Trump an",
+          "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-demokraten-kuendigen-korruptionsermittlungen-gegen-trump-an/29669594.html",
+          "published": "2026-11-05T20:15:57+00:00",
+          "summary": "Newsom wandelt alle Todesstrafen in Haftstrafen um +++ Demokraten kündigen Korruptionsermittlungen gegen Trump an +++ US-Regierung bringt Sanktionen gegen Kuba auf den Weg +++ Der Newsblog."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: EU zahlt Ukraine weitere Milliardensumme aus",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-eu-zahlt-ukraine-weitere-milliardensumme-aus/27982126.html",
-          "published": "2026-11-05T13:44:09+00:00",
-          "summary": "Umjerow: Ukraine-Gespräche in Brüssel gehen weiter +++ Meloni warnt vor Europas Bedeutungsverlust bei Friedensgesprächen +++ Russland: Sieben Tote bei Angriffen in Luhansk +++ Der Newsblog."
+          "title": "+++ Geschäftszahlen +++: Abschreibungen brocken Autozulieferer Stabilus Verlust ein",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-abschreibungen-brocken-autozulieferer-stabilus-verlust-ein/24098412.html",
+          "published": "2026-11-05T20:07:25+00:00",
+          "summary": "Hochtief wächst rasant – Nachfrage nach Rechenzentren +++ Bechtle erwartet mehr als zehn Prozent mehr Gewinn +++ Lkw-Zulieferer SAF-Holland mit Plus bei Umsatz und Gewinn +++ Der Newsblog."
         },
         {
-          "title": "Immobilien: „Verdacht von Korruptionsstraftaten“: Behörden durchsuchen Bayerische Versorgungskammer",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/immobilien-behoerden-durchsuchen-bayerische-versorgungskammer/100267516.html",
-          "published": "2026-11-05T13:40:59+00:00",
-          "summary": "Die Staatsanwaltschaft München durchsucht die größte deutsche Versorgungskammer. Es ist schon die zweite Razzia der Ermittler in dieser Woche wegen eines Korruptionsverdachts."
+          "title": "Proteste: Erneute Massenproteste in Frankreich – Zusammenstöße mit Polizei",
+          "link": "https://www.handelsblatt.com/politik/international/proteste-erneute-massenproteste-in-frankreich-zusammenstoesse-mit-polizei/100267683.html",
+          "published": "2026-11-05T19:53:15+00:00",
+          "summary": "Frühere Proteste wurden wiederholt von Plünderungen überschattet. Am Donnerstag ist die Stimmung zunächst heiter. Doch aus Paris und Lyon werden Ausschreitungen gemeldet."
         },
         {
-          "title": "Leistungsfähigkeit: Warum Firmen ihre Mitarbeiter ausschlafen lassen sollten",
-          "link": "https://www.handelsblatt.com/karriere/arbeitszeit-wie-ihr-biorhythmus-ihre-leistungsfaehigkeit-beeinflusst/100231866.html",
-          "published": "2026-11-05T13:40:00+00:00",
-          "summary": "Die innere Uhr wirkt sich maßgeblich auf die Produktivität aus. Trotzdem arbeiten viele gegen ihren eigenen Rhythmus. Wie lässt sich das verhindern?"
+          "title": "Wall Street: „KI-Blutbad“ an US-Börsen – S&P 500 bricht um vier Prozent ein",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/wall-street-ki-blutbad-an-boerse-sp-500-dow-und-nasdaq-brechen-ein/100267625.html",
+          "published": "2026-11-05T19:37:39+00:00",
+          "summary": "Zwei Tage nach der US-Wahl bricht die Wall Street ein. Die Sorge vor einer schärferen KI-Regulierung löst einen Ausverkauf aus. Doch ein anderer Faktor verstärkt den Kursrutsch."
         },
         {
-          "title": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
-          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-wenn-der-steile-karriereweg-ploetzlich-in-eine-sackgasse-fuehrt/100228751.html",
-          "published": "2026-11-05T13:40:00+00:00",
-          "summary": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt."
+          "title": "Erneute Demonstrationen: 448 Festnahmen und wieder Gewalt bei Protesten in Frankreich",
+          "link": "https://www.handelsblatt.com/politik/international/erneute-demonstrationen-448-festnahmen-und-wieder-gewalt-bei-protesten-in-frankreich/100267639.html",
+          "published": "2026-11-05T19:21:55+00:00",
+          "summary": "Steine, Boule-Kugeln und improvisierte Sprengsätze gegen Polizisten: Frankreich meldet 448 Festnahmen und 53 verletzte Beamte. Erneut eskalieren die Proteste."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Familie vermietet an Konkurrenz: Peek und Cloppenburg droht der Verlust seiner besten Adressen",
-          "link": "https://www.n-tv.de/wirtschaft/Peek-und-Cloppenburg-droht-der-Verlust-seiner-besten-Adressen-id31498006.html",
-          "published": "2026-11-05T12:39:25+00:00",
-          "summary": "Der Düsseldorfer Modehändler Peek und Cloppenburg verliert voraussichtlich seine prominenten Häuser in Berlin, Frankfurt und Düsseldorf. Die Immobilie in der Heimatstadt muss angeblich schon in einem …"
+          "title": "Für 500 Milliarden Dollar: Erneuerbare und Atomkraft: Türkei schnürt gigantisches Strom-Paket",
+          "link": "https://www.n-tv.de/wirtschaft/Erneuerbare-und-Atomkraft-Tuerkei-schnuert-gigantisches-Strom-Paket-id31501273.html",
+          "published": "2026-11-05T20:13:52+00:00",
+          "summary": "Der Iran-Krieg geht auch nicht spurlos an der Türkei vorbei. Um bei der Energieversorgung endlich unabhängig zu werden, nimmt das Land eine Menge Geld in die Hand. Es fließt möglicherweise auch in …"
         },
         {
-          "title": "\"Thema ernst nehmen\": Telekom hebt Prognose an und spürt den rauen Wind durch Starlink",
-          "link": "https://www.n-tv.de/wirtschaft/Telekom-hebt-Prognose-an-und-spuert-den-rauen-Wind-durch-Starlink-id31499227.html",
-          "published": "2026-11-05T12:38:37+00:00",
-          "summary": "Die Telekom legt einen mehr als soliden Sommer hin. Umsatz und Ergebnis legen zu. Die Aktionäre sollen davon profitieren. In den USA erwächst den Bonnern mit Musks Starlink-Plänen jedoch neue …"
+          "title": "4900 Euro sind möglich : Wie viel Altenpfleger verdienen",
+          "link": "https://www.n-tv.de/wirtschaft/Wie-viel-Altenpfleger-verdienen-id31500219.html",
+          "published": "2026-11-05T18:02:39+00:00",
+          "summary": "In der Pflege lässt sich heute deutlich mehr verdienen als in der Vergangenheit. Ausgebildete Fachkräfte müssen auch den Vergleich zu anderen Berufen nicht scheuen. Pflegeeinrichtungen sind nicht nur …"
         },
         {
-          "title": "Einkommensungleichheit im Fokus: Armut bleibt hoch, Reiche werden noch reicher",
-          "link": "https://www.n-tv.de/wirtschaft/Studie-Armut-waechst-Einkommensungleichheit-auf-zweithoechstem-Stand-seit-1992-id31498291.html",
-          "published": "2026-11-05T11:03:30+00:00",
-          "summary": "Deutschland ist ein wohlhabendes Land - eigentlich. Denn das Vermögen ist besonders ungleich verteilt. Die Armutsquote erreicht fast einen neuen Rekord, während die Zahl der einkommensreichen …"
+          "title": "Fünf Millionen erschwindelt: Signa-Gründer Benko wegen Betrugs zu weiteren zwei Jahren Haft verurteilt",
+          "link": "https://www.n-tv.de/wirtschaft/Signa-Gruender-Benko-wegen-Betrugs-zu-weiteren-zwei-Jahren-Haft-verurteilt-id31500943.html",
+          "published": "2026-11-05T17:43:16+00:00",
+          "summary": "Das Landesgericht Innsbruck verhängt gegen den einstigen Milliardär René Benko eine Zusatzstrafe. In einem zweiten Anklagepunkt wird der Gründer der Immobilien- und Handelsgruppe Signa dagegen …"
         },
         {
-          "title": "Kahlschlag am Standort Abstatt: Bosch streicht wegen Konkurrenz aus China noch mehr Arbeitsplätze",
-          "link": "https://www.n-tv.de/wirtschaft/Bosch-streicht-wegen-Konkurrenz-aus-China-noch-mehr-Arbeitsplaetze-id31497409.html",
-          "published": "2026-11-05T08:33:24+00:00",
-          "summary": "Immer wieder werden vom Bosch-Konzern Stellenstreichungen verkündet. Nun trifft es einen Standort in Baden-Württemberg, der Teil der leidgeplagten Mobilitätssparte ist. Vor allem die Konkurrenz bei …"
+          "title": "Reaktion auf Midterms: \"Echte Panik\": KI-Blutbad hält Wall Street in Atem",
+          "link": "https://www.n-tv.de/wirtschaft/Echte-Panik-KI-Blutbad-haelt-Wall-Street-in-Atem-id31500888.html",
+          "published": "2026-11-05T17:04:17+00:00",
+          "summary": "Die Ergebnisse der Midterms erreichen die Wall Street: Eigene KI-Profiteure müssen sogar zweistellige Kursverluste vertragen. Auch die Branchenführer sorgen sich vor mehr Regulierung durch die …"
         },
         {
-          "title": "Anstieg um 134 Prozent: Ausländische Investoren kaufen reihenweise deutsche Firmen",
-          "link": "https://www.n-tv.de/wirtschaft/Studie-zeigt-Auslaendische-Investoren-kaufen-reihenweise-deutsche-Firmen-id31497167.html",
-          "published": "2026-11-05T07:42:30+00:00",
-          "summary": "Es klingt nach Ausverkauf: Investoren aus dem Ausland, allen voran den USA, kaufen deutsche Firmen wie schon lange nicht mehr. Das Übernahmevolumen steigt laut einer Analyse der Beratungsgesellschaft …"
+          "title": "Aktie schwer getroffen: Rheinmetall erschreckt mit erneuter Prognosesenkung",
+          "link": "https://www.n-tv.de/wirtschaft/Rheinmetall-erschreckt-mit-erneuter-Prognosesenkung-id31500603.html",
+          "published": "2026-11-05T15:55:17+00:00",
+          "summary": "Erst löst sich ein Fregatten-Auftrag in Luft auf, dann werden Milliarden-Deals wohl erst später unterzeichnet. Trotz starken Wachstums bekommt die Rheinmetall-Story schrammen. Der Konzern muss die …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: DAX springt auf Rekordhoch",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+          "published": "2026-11-05T17:16:27+00:00",
+          "summary": "Die Märkte bleiben im Aufwind: Nach den US-Zwischenwahlen erreicht der DAX im frühen Handel einen neuen Höchststand. Rückenwind erhält er von günstigeren Ölpreisen und positiven Signalen aus der …"
+        },
+        {
           "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
           "published": "2026-11-05T13:18:40+00:00",
           "summary": "Öl wird günstiger und damit auch Benzin. Diesel allerdings bleibt teuer. Nach den Midterms hoffen Anleger auf Entspannung im Iran-Krieg - aber die Lage bleibt weiter angespannt."
-        },
-        {
-          "title": "Marktbericht: DAX springt auf Rekordhoch",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-          "published": "2026-11-05T10:58:48+00:00",
-          "summary": "Die Euphorie an den Börsen nach den US-Zwischenwahlen hält an: Der DAX klettert im frühen Handel auf ein neues Rekordhoch. Der sinkende Ölpreis und erfreuliche Industriedaten treiben den Markt …"
         },
         {
           "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Bundeswehr: „Alarmierende Berichte“ – Union fordert Aufklärung nach Ersatzteil-Störung",
-          "link": "https://www.wiwo.de/politik/deutschland/bundeswehr-ersatzteile-union-fordert-aufklaerung-von-boris-pistorius/100267501.html",
-          "published": "2026-11-05T13:38:23+00:00",
-          "summary": "Die Probleme bei der Ersatzteilversorgung des Heers erreichen die Chef-Ebene. Der Koalitionspartner verlangt Aufklärung von SPD-Verteidigungsminister Boris Pistorius."
+          "title": "Börse: Techaktien stürzen ab – das steckt dahinter",
+          "link": "https://www.wiwo.de/finanzen/boerse/nasdaq-bricht-ein-warum-halbleiter-und-ki-aktien-abstuerzen/100267704.html",
+          "published": "2026-11-05T19:19:00+00:00",
+          "summary": "Aktien aus dem KI- und Neocloud-Bereich geben deutlich nach und schicken den Nasdaq 100 nach unten. Das sind die Gründe dafür."
         },
         {
-          "title": "Telekommunikation: Telekom-Aktie fällt trotz Rekorden – ist Musk schuld?",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/telekom-aktie-faellt-trotz-rekorden-ist-wirklich-musk-schuld/100267564.html",
-          "published": "2026-11-05T13:35:45+00:00",
-          "summary": "Die Telekom liefert neue Rekordzahlen, doch der Kurs verliert deutlich. Steckt dahinter mehr als nur die mögliche Konkurrenz durch Starlink?"
+          "title": "Altersvorsorgedepot: Vier Fallbeispiele zeigen, wer vom Altersvorsorge-Depot profitiert",
+          "link": "https://www.wiwo.de/finanzen/vorsorge/altersvorsorgedepot-fuer-wen-sich-die-neue-zusatzrente-lohnt/100267511.html",
+          "published": "2026-11-05T19:02:00+00:00",
+          "summary": "Das Altersvorsorgedepot ist ein Meilenstein für ein auskömmliches Leben im Ruhestand. Die richtigen Anbieter und Produkte für Ihren Vermögensaufbau."
         },
         {
-          "title": "Bundesagentur für Arbeit: Bund muss Arbeitsagentur 2026 mit neun Milliarden Euro aushelfen",
-          "link": "https://www.wiwo.de/politik/deutschland/bundesagentur-fuer-arbeit-bund-muss-arbeitsagentur-2026-mit-neun-milliarden-euro-aushelfen/100267615.html",
-          "published": "2026-11-05T13:18:53+00:00",
-          "summary": "Hohe Arbeitslosigkeit und eine schwache Konjunktur belasten die Arbeitsagentur. Der Bund hilft 2026 mit einem Darlehen von neun Milliarden Euro aus."
+          "title": "US-Börsen: Stimmungsumbruch an der Wall Street stoppt Rally nach US-Wahl",
+          "link": "https://www.wiwo.de/finanzen/boerse/wall-street-stoppt-rally-nasdaq-und-dax-drehen-ins-minus/100267679.html",
+          "published": "2026-11-05T18:06:00+00:00",
+          "summary": "Nach den Wahlen in den USA kommt es zu einem Kursrutsch an der Technologiebörse Nasdaq. Vor allem Papiere aus der Chipbranche sind betroffen."
         },
         {
-          "title": "Auto im Abo: Maximilian Wühr machte Finn zum Einhorn – darum muss er trotzdem gehen",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/finn-ceo-maximilian-wuehr-geht-warum-der-gruender-weichen-muss/100267562.html",
-          "published": "2026-11-05T13:16:31+00:00",
-          "summary": "Maximilian Wühr übergibt den Autoabo-Anbieter Finn an einen externen Manager. Vor allem eine Kompetenz sollen die Investoren bei dem Mitgründer vermisst haben."
+          "title": "Wirtschaft von oben: Hier zeigt sich, wie weit ausländische Investitionen Javier Milei tragen",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/javier-mileis-wirtschaftspolitik-investitionsboom-statt-staat/100266695.html",
+          "published": "2026-11-05T18:02:41+00:00",
+          "summary": "Der argentinische Präsident boostert mit Investitionsanreizen für Energieprojekte den wirtschaftlichen Aufbruch – zulasten der heimischen Infrastruktur."
         },
         {
-          "title": "Supersportwagen: Mit 900 PS in die Krise – der Leichtbauspezialist Capricorn ist insolvent",
-          "link": "https://www.wiwo.de/unternehmen/auto/capricorn-insolvent-leichtbauspezialist-kaempft-um-fortbestand/100267348.html",
-          "published": "2026-11-05T13:04:50+00:00",
-          "summary": "Capricorn produziert Spezialkomponenten für Sportwagen und entwickelt ein 3-Millionen-Euro-Hypercar. Nun steuert ein Insolvenzverwalter die Firma."
+          "title": "Signa-Gründer: René Benko wegen Millionenbetrugs verurteilt",
+          "link": "https://www.wiwo.de/unternehmen/handel/signa-gruender-rene-benko-wegen-millionenbetrugs-verurteilt/100267709.html",
+          "published": "2026-11-05T17:34:58+00:00",
+          "summary": "René Benko soll einem Investor mit einer Garantie fünf Millionen Euro entlockt haben. Das Gericht folgte der Darstellung der Anklage. Weitere Ermittlungen gegen den Ex-Milliardär laufen."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Das Wasser ist weg, die Gefahr nicht: Was Betriebe nach Hochwasser beachten sollten",
-          "link": "https://www.ingenieur.de/das-wasser-ist-weg-die-gefahr-nicht-was-betriebe-nach-hochwasser-beachten-sollten-9939c610-0410-4edc-96c8-3402f2796d31/",
-          "published": "2026-11-05T12:00:00+00:00",
-          "summary": "Überflutete Elektroanlagen, austretende Chemikalien und Schimmel können Beschäftigte auch nach einem Hochwasser gefährden. Ein neuer Leitfaden der EU-Arbeitsschutzagentur zeigt, wie sich Betriebe …"
+          "title": "5828 Neutrinos, 2450 m Meerestiefe: Physiker testen Einsteins Theorie",
+          "link": "https://www.ingenieur.de/5828-neutrinos-2450-m-meerestiefe-physiker-testen-einsteins-theorie-6891acc1-24a9-4249-a014-11d355aae3cc/",
+          "published": "2026-11-05T17:49:58+00:00",
+          "summary": "Gelten Einsteins Naturgesetze wirklich überall? Ein Teleskop tief im Mittelmeer sucht nach Abweichungen und liefert überraschend präzise Ergebnisse."
         },
         {
-          "title": "KI findet neue Security-Lücken in Bitcoin: Kommen die Entwickler noch hinterher?",
-          "link": "https://www.ingenieur.de/ki-findet-neue-security-lucken-in-bitcoin-kommen-die-entwickler-noch-hinterher-ca43b999-aa4f-4f33-b649-1e9628886195/",
-          "published": "2026-11-05T11:30:00+00:00",
-          "summary": "Eine KI hat drei Sicherheitslücken in der wichtigsten Bitcoin-Software entdeckt. Gestohlen werden konnte nichts, die Fehler sind behoben. Nach dem Rekord-Hack bei Binance wächst aber die Sorge, dass …"
+          "title": "USA testen neue Atomraketen-Technik, bei 24.000 km/h wird es extrem",
+          "link": "https://www.ingenieur.de/usa-testen-neue-atomraketen-technik-bei-24000-kmh-wird-es-extrem-944ce791-7eff-4ab0-9c59-9755416177fe/",
+          "published": "2026-11-05T17:11:00+00:00",
+          "summary": "USA testen den Mk21A-Wiedereintrittskörper für die Sentinel-Rakete. Er soll Atomsprengköpfe bei bis zu 24.000 km/h vor extremer Hitze schützen."
         },
         {
-          "title": "Neue Luegbrücke am Brenner: 65 m hohe Pfeiler wachsen in einen rutschenden Hang",
-          "link": "https://www.ingenieur.de/luegbruecke-am-brenner-wie-65-m-hohe-pfeiler-mit-spezialschalung-entstehen-3af445b0-8dff-4bf7-8c30-8b4d379745b5/",
-          "published": "2026-11-05T11:00:00+00:00",
-          "summary": "Die 46 Pfeiler des ersten neuen Luegbrücken-Tragwerks an der Brennerautobahn sollen noch in diesem Herbst fertiggestellt werden. Spezielle Schalungskonstruktionen und Sensoren unterstützen den Bau …"
+          "title": "Der große Quanten-Irrtum: Warum Forscher oft dasselbe messen und Verschiedenes finden",
+          "link": "https://www.ingenieur.de/der-grosse-quanten-irrtum-warum-forscher-oft-dasselbe-messen-und-verschiedenes-finden-f8343b0e-d3aa-41e6-bb00-497f3aaa62bc/",
+          "published": "2026-11-05T16:29:31+00:00",
+          "summary": "Warum liefern scheinbar identische Quantenmaterialien andere Ergebnisse? Defekte, Messartefakte und Auswertung entscheiden über Reproduzierbarkeit."
         },
         {
-          "title": "Maschinenbau auf Englisch: Hochschule Bochum startet neuen Master",
-          "link": "https://www.ingenieur.de/hochschule-bochum-neuer-maschinenbau-master-startet-2027-d236a331-41cb-408f-8b70-66b817015646/",
-          "published": "2026-11-05T10:00:00+00:00",
-          "summary": "Die Hochschule Bochum bietet einen neuen englischsprachigen Masterstudiengang im Maschinenbau an. Die Bewerbung startet Anfang Dezember 2026, für Interessierte aus Nicht-EU-Staaten läuft sie bereits."
+          "title": "Billige Kernfusion? Magnete vom Fließband sollen ein Kostenproblem lösen",
+          "link": "https://www.ingenieur.de/billige-kernfusion-300-magnete-vom-fliessband-sollen-ein-grosses-kostenproblem-losen-bf9c2c74-148e-425d-9d75-5886ce6640ab/",
+          "published": "2026-11-05T15:30:09+00:00",
+          "summary": "Die Magnete, die bei der Kernfusion 100 Mio. °C heißes Plasma einschließen, sind handgefertigte Einzelstücke. Ein US-Start-up will sie durch flache Serienteile ersetzen und testet dies jetzt am MIT. …"
         },
         {
-          "title": "Der Mars galt als tot, jetzt findet die Esa Spuren eines aktiven Vulkans",
-          "link": "https://www.ingenieur.de/der-mars-galt-als-tot-jetzt-findet-eine-esa-sonde-spuren-eines-aktiven-vulkans-491374ed-ff27-4dc1-8e56-b8d09db5f60c/",
-          "published": "2026-11-05T09:14:00+00:00",
-          "summary": "Dass der Mars einst vulkanisch war, ist bekannt. Messdaten einer Esa-Sonde deuten nun darauf hin, dass der Planet bis heute vulkanisch aktiv sein könnte."
+          "title": "100.000 t Erde bewegt und keine einzige Tunnelbohrmaschine im Einsatz",
+          "link": "https://www.ingenieur.de/100-000-t-erde-bewegt-und-keine-einzige-tunnelbohrmaschine-um-einsatz-44edcefa-b7d3-45df-9941-57539377befa/",
+          "published": "2026-11-05T15:30:00+00:00",
+          "summary": "100.000 t Erde, 720 m Tunnel und keine Tunnelbohrmaschine: Warum Ingenieure in London auf Bagger setzten und beim Durchbruch Betonblöcke verschoben."
         }
       ],
       "error": null
