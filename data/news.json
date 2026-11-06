@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:58:46+00:00",
+  "generatedAt": "2026-11-06T09:12:10+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Staatskrise in Paraguay wegen Zusammenbruchs der Digitalbank \"Ueno\"",
+          "link": "https://www.tagesschau.de/video/video-1679084.html",
+          "published": "2026-11-06T09:09:49+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678972.html",
-          "published": "2026-11-06T00:57:56+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1679082.html",
+          "published": "2026-11-06T09:05:18+00:00",
           "summary": ""
         },
         {
-          "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
-          "published": "2026-11-06T00:55:35+00:00",
-          "summary": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück."
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-06T08:46:23+00:00",
+          "summary": "Am Freitag ist es Richtung Nordosten öfter trüb durch Nebel oder Hochnebel. Auch im Süden ist es gebietsweise neblig-trüb und im Südwesten gibt es Wolken mit regionalem Regen. Sonst ist es aber …"
         },
         {
-          "title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
-          "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
-          "published": "2026-11-05T23:44:38+00:00",
-          "summary": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in …"
+          "title": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
+          "link": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
+          "published": "2026-11-06T08:25:15+00:00",
+          "summary": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador."
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81844.html",
-          "published": "2026-11-05T23:20:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12964.html",
-          "published": "2026-11-05T22:39:03+00:00",
-          "summary": ""
+          "title": "Nach Gefahrgutunfall bei Krefeld ist die A57 gesperrt",
+          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/krefeld-saeureunfall-strassensperrung-100.html",
+          "published": "2026-11-06T08:16:00+00:00",
+          "summary": "Nach einem Unfall mit einem Säure-Lkw in Krefeld sind zehn Tonnen Salpetersäure ausgelaufen. Die Behörden warnen vor extremer Gefahr. Die A57 ist gesperrt, zahlreiche Züge fallen aus."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Gebrauchtwagen-Check: Businessgleiter und Dauerlutscher: Der BMW 5er bei der HU",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/gebrauchtwagen-check-businessgleiter-und-dauerlutscher-der-bmw-5er-bei-der-hu/100267759.html",
-          "published": "2026-11-06T01:22:04+00:00",
-          "summary": "Luxus und Lapsus, passt das zusammen? Beim Modell der oberen Mittelklasse aus München schon. Er zeigt Mängel bei der HU, die sich aber gut begründen lassen. Und die Preise sind trotzdem stattlich."
+          "title": "Kommentar: Der Crash an der Wall Street ist kein Unfall",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-crash-an-der-wall-street-ist-kein-unfall/100267813.html",
+          "published": "2026-11-06T09:02:53+00:00",
+          "summary": "Die politischen Sorgen der Anleger sind nicht unberechtigt. Aber sie sind eher der Katalysator für eine Neubewertung des KI-Booms, die sich schon länger angedeutet hat."
         },
         {
-          "title": "Staatskrise in Paraguay: Kongress nimmt Peñas Rücktritt nicht an und will Verfahren",
-          "link": "https://www.handelsblatt.com/politik/international/staatskrise-in-paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren/100267756.html",
-          "published": "2026-11-06T00:28:24+00:00",
-          "summary": "In Paraguay geht es mitten in einem Finanzskandal politisch drunter und drüber. Präsident Peña erklärt seinen Rücktritt. Der Kongress nimmt diesen nicht an und eröffnet ein Amtsenthebungsverfahren."
+          "title": "Klima: Studie: Chinas CO₂‑Ausstoß sinkt so stark wie während Corona-Lockdowns",
+          "link": "https://www.handelsblatt.com/politik/international/klima-chinas-coausstoss-sinkt-so-stark-wie-waehrend-corona-lockdowns/100267769.html",
+          "published": "2026-11-06T09:02:25+00:00",
+          "summary": "Die CO₂‑Emissionen in China haben sich im dritten Quartal deutlich verringert, zeigt eine unabhängige Analyse kurz vor der Weltklimakonferenz COP. Was sind die Gründe für den Rückgang?"
         },
         {
-          "title": "Justiz-Vorstoß: Kaliforniens Gouverneur ändert Todesurteile zu Haftstrafen",
-          "link": "https://www.handelsblatt.com/politik/international/justiz-vorstoss-kaliforniens-gouverneur-aendert-todesurteile-zu-haftstrafen/100267754.html",
-          "published": "2026-11-06T00:18:11+00:00",
-          "summary": "Kalifornien vollstreckt seit 2006 keine Hinrichtungen mehr, doch es gibt noch mehr als 500 zum Tode Verurteilte. Der scheidende Gouverneur Gavin Newsom will Gnade walten lassen."
+          "title": "The Spark: Technologien für effizientere Chips und Fusionsenergie erhalten Digitalpreis",
+          "link": "https://www.handelsblatt.com/technik/it-internet/the-spark-digitalpreis-fuer-photonikchips-und-fusionsenergie/100266591.html",
+          "published": "2026-11-06T09:00:21+00:00",
+          "summary": "Effizienter als Nvidia? Q.ant entwickelt eine neuartige Chiptechnologie, die ein großes Problem lösen könnte. Damit gewinnt das Start-up den Deutschen Digitalpreis The Spark."
         },
         {
-          "title": "Klima: Chinas CO2-Ausstoß laut Analyse deutlich gesunken",
-          "link": "https://www.handelsblatt.com/politik/deutschland/klima-chinas-co2-ausstoss-laut-analyse-deutlich-gesunken/100267750.html",
-          "published": "2026-11-06T00:01:04+00:00",
-          "summary": "China stieß im dritten Quartal dieses Jahres deutlich weniger CO2 aus. Zu dieser Schätzung kommt eine unabhängige Analyse kurz vor der Weltklimakonferenz. Was sind die Gründe für den Rückgang?"
+          "title": "Cybersicherheit: US-Behörden warnen weltweit vor Angriffen auf Kühlanlagen",
+          "link": "https://www.handelsblatt.com/politik/international/cyberattacke-us-behoerden-warnenweltweit-vor-angriffen-auf-kuehlanlagen/100267843.html",
+          "published": "2026-11-06T08:50:31+00:00",
+          "summary": "Cyberkriminelle können aus der Ferne die Temperatur in Kühlanlagen erhöhen. Nun schlagen US-Behörden Alarm – weltweit könnten Supermärkte und Gesundheitseinrichtungen ins Visier geraten."
         },
         {
-          "title": "US-Regierung: Rubio zu Rücktrittsgerücht: Ich liebe meinen Job",
-          "link": "https://www.handelsblatt.com/politik/international/us-regierung-rubio-zu-ruecktrittsgeruecht-ich-liebe-meinen-job/100267748.html",
-          "published": "2026-11-05T23:49:39+00:00",
-          "summary": "Zwei Tage nach den Midterms kommt in Medienberichten das Gerücht auf, es könnte zu einem Rücktritt im Trump-Kabinett kommen. Außenminister Rubio bezieht dazu Stellung."
+          "title": "Lkw-Hersteller: Hunderte Millionen Zollzurückzahlung – Gewinn von Daimler Truck steigt um 73 Prozent",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/zoll-rueckzahlungen-gewinn-von-daimler-truck-steigt-um-73-prozent/100267801.html",
+          "published": "2026-11-06T08:49:52+00:00",
+          "summary": "Der Lkw-Bauer hat ein gutes Quartal hinter sich. Dafür sorgen allerdings auch Sondereffekte in erheblicher Höhe – und das hat mit Donald Trump zu tun."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Insider: Zweifel an Werbetour: Börsengang von Anthropic wackelt",
+          "link": "https://www.n-tv.de/wirtschaft/Insider-Boersengang-von-Anthropic-verzoegert-sich-id31502538.html",
+          "published": "2026-11-06T08:54:19+00:00",
+          "summary": "Nach dem Sieg der Demokraten bei den Midterms stürzen die Tech-Aktien ab. Die Unsicherheit ist groß. Nun soll sich auch der geplante Börsengang der für seinen Chatbot Claude bekannten KI-Firma …"
+        },
+        {
+          "title": "Panikverkäufe wegen KI und Öl : Börsen in Fernost sacken ab - TSMC, Samsung und SK Hynix leiden",
+          "link": "https://www.n-tv.de/wirtschaft/Boersen-in-Fernost-sacken-ab-TSMC-Samsung-und-SK-Hynix-leiden-id31502170.html",
+          "published": "2026-11-06T07:29:38+00:00",
+          "summary": "Der Ausverkauf der Tech-Aktien schwappt von den USA nach Asien über. Der südkoreanische Leitindex bricht um mehr als acht Prozent ein. Auch in Taiwan, Japan und China rauschen die Kurse nach unten."
+        },
+        {
+          "title": "Weil viele keinen Job haben: Gehalt soll künftig in britischen Stellenanzeigen stehen",
+          "link": "https://www.n-tv.de/wirtschaft/Grossbritannien-will-Gehaltsangaben-in-Stellenanzeigen-vorschreiben-id31502127.html",
+          "published": "2026-11-06T06:47:54+00:00",
+          "summary": "Die Arbeitslosigkeit bei jungen Menschen ist hoch, die Bezahlung zwischen Frauen und Männern oft ungleich: Um den entgegenzuwirken, will Großbritannien ein neues Gesetz auf den Weg bringen. Im Kern …"
+        },
+        {
+          "title": "Heizen könnte noch teurer werden: Verivox sagt weitreichende Gaspreiserhöhungen vorher",
+          "link": "https://www.n-tv.de/wirtschaft/Verivox-sagt-weitreichende-Gaspreiserhoehungen-vorher-id31501836.html",
+          "published": "2026-11-06T05:51:47+00:00",
+          "summary": "Die deutschen Gasspeicher sind vergleichsweise leer, ein Versorgungsengpass droht laut Verivox vorerst aber nicht. Doch die Kosten für Verbraucher könnten weiter steigen. Von der Bundesregierung …"
+        },
+        {
           "title": "Weitere drei Milliarden Dollar: Audi erwägt Erweiterung an geplanter US-Fabrik",
           "link": "https://www.n-tv.de/wirtschaft/Audi-erwaegt-Erweiterung-an-geplanter-US-Fabrik-id31501541.html",
           "published": "2026-11-06T00:16:54+00:00",
           "summary": "Im US-Bundesstaat Georgia will Audi für vier Milliarden Dollar eine SUV-Fabrik bauen. Pläne zeigen nun, dass der Autobauer noch größere Pläne hat und dafür weitere drei Milliarden Dollar ausgeben …"
-        },
-        {
-          "title": "Für 500 Milliarden Dollar: Erneuerbare und Atomkraft: Türkei schnürt gigantisches Strom-Paket",
-          "link": "https://www.n-tv.de/wirtschaft/Erneuerbare-und-Atomkraft-Tuerkei-schnuert-gigantisches-Strom-Paket-id31501273.html",
-          "published": "2026-11-05T20:13:52+00:00",
-          "summary": "Der Iran-Krieg geht auch nicht spurlos an der Türkei vorbei. Um bei der Energieversorgung endlich unabhängig zu werden, nimmt das Land eine Menge Geld in die Hand. Es fließt möglicherweise auch in …"
-        },
-        {
-          "title": "4900 Euro sind möglich : Wie viel Altenpfleger verdienen",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-viel-Altenpfleger-verdienen-id31500219.html",
-          "published": "2026-11-05T18:02:39+00:00",
-          "summary": "In der Pflege lässt sich heute deutlich mehr verdienen als in der Vergangenheit. Ausgebildete Fachkräfte müssen auch den Vergleich zu anderen Berufen nicht scheuen. Pflegeeinrichtungen sind nicht nur …"
-        },
-        {
-          "title": "Fünf Millionen erschwindelt: Signa-Gründer Benko wegen Betrugs zu weiteren zwei Jahren Haft verurteilt",
-          "link": "https://www.n-tv.de/wirtschaft/Signa-Gruender-Benko-wegen-Betrugs-zu-weiteren-zwei-Jahren-Haft-verurteilt-id31500943.html",
-          "published": "2026-11-05T17:43:16+00:00",
-          "summary": "Das Landesgericht Innsbruck verhängt gegen den einstigen Milliardär René Benko eine Zusatzstrafe. In einem zweiten Anklagepunkt wird der Gründer der Immobilien- und Handelsgruppe Signa dagegen …"
-        },
-        {
-          "title": "Reaktion auf Midterms: \"Echte Panik\": KI-Blutbad hält Wall Street in Atem",
-          "link": "https://www.n-tv.de/wirtschaft/Echte-Panik-KI-Blutbad-haelt-Wall-Street-in-Atem-id31500888.html",
-          "published": "2026-11-05T17:04:17+00:00",
-          "summary": "Die Ergebnisse der Midterms erreichen die Wall Street: Eigene KI-Profiteure müssen sogar zweistellige Kursverluste vertragen. Auch die Branchenführer sorgen sich vor mehr Regulierung durch die …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX springt auf Rekordhoch",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-          "published": "2026-11-05T17:16:27+00:00",
-          "summary": "Die Märkte bleiben im Aufwind: Nach den US-Zwischenwahlen erreicht der DAX im frühen Handel einen neuen Höchststand. Rückenwind erhält er von günstigeren Ölpreisen und positiven Signalen aus der …"
+          "title": "Marktbericht: Aus Wahleuphorie wird Wahlkater",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+          "published": "2026-11-06T06:26:17+00:00",
+          "summary": "Die Furcht vor einer schärferen KI-Regulierung hat die Wall Street auf Talfahrt geschickt, vor allem Tech-Werte brechen ein. Der DAX wird sich dem Abwärtstrend nicht entziehen können."
         },
         {
           "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Börse: Techaktien stürzen ab – das steckt dahinter",
-          "link": "https://www.wiwo.de/finanzen/boerse/nasdaq-bricht-ein-warum-halbleiter-und-ki-aktien-abstuerzen/100267704.html",
-          "published": "2026-11-05T19:19:00+00:00",
-          "summary": "Aktien aus dem KI- und Neocloud-Bereich geben deutlich nach und schicken den Nasdaq 100 nach unten. Das sind die Gründe dafür."
+          "title": "Börsenkurse: KI-Rücksetzer rauscht durch die Asienbörsen",
+          "link": "https://www.wiwo.de/finanzen/boerse/boersenkurse-ki-ruecksetzer-rauscht-durch-die-asienboersen/100267819.html",
+          "published": "2026-11-06T08:14:13+00:00",
+          "summary": "Die US-Wahl verspricht stärkere Regulierung für die KI-Branche, das sorgt an der Börse für Verluste. Die Auswirkungen bestimmen in der Folge die Kurse weltweit."
         },
         {
-          "title": "Altersvorsorgedepot: Vier Fallbeispiele zeigen, wer vom Altersvorsorge-Depot profitiert",
-          "link": "https://www.wiwo.de/finanzen/vorsorge/altersvorsorgedepot-fuer-wen-sich-die-neue-zusatzrente-lohnt/100267511.html",
-          "published": "2026-11-05T19:02:00+00:00",
-          "summary": "Das Altersvorsorgedepot ist ein Meilenstein für ein auskömmliches Leben im Ruhestand. Die richtigen Anbieter und Produkte für Ihren Vermögensaufbau."
+          "title": "Weitere 3 Milliarden Dollar: Audi erwägt Erweiterung von geplantem US-Werk",
+          "link": "https://www.wiwo.de/unternehmen/auto/audi-prueft-werk-ausbau-in-den-usa-weitere-3-milliarden-dollar/100267808.html",
+          "published": "2026-11-06T07:16:20+00:00",
+          "summary": "Behörden-Dokumente offenbaren weitere Details zu Audis Deal mit den USA: Der Autobauer prüft eine Milliarden-Erweiterung für sein neues US-Werk in Georgia."
         },
         {
-          "title": "US-Börsen: Stimmungsumbruch an der Wall Street stoppt Rally nach US-Wahl",
-          "link": "https://www.wiwo.de/finanzen/boerse/wall-street-stoppt-rally-nasdaq-und-dax-drehen-ins-minus/100267679.html",
-          "published": "2026-11-05T18:06:00+00:00",
-          "summary": "Nach den Wahlen in den USA kommt es zu einem Kursrutsch an der Technologiebörse Nasdaq. Vor allem Papiere aus der Chipbranche sind betroffen."
+          "title": "Nutzfahrzeughersteller: Daimler Truck mit Gewinnplus von 73 Prozent",
+          "link": "https://www.wiwo.de/unternehmen/auto/nutzfahrzeughersteller-daimler-truck-mit-gewinnplus-von-73-prozent/100267807.html",
+          "published": "2026-11-06T07:03:51+00:00",
+          "summary": "Der Markt für Nutzfahrzeuge erholt sich – vor allem in Nordamerika. Davon profitiert der Lkw-Bauer Daimler Truck. Beim Gewinn geht es nach Rückschlägen wieder deutlich nach oben."
         },
         {
-          "title": "Wirtschaft von oben: Hier zeigt sich, wie weit ausländische Investitionen Javier Milei tragen",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/javier-mileis-wirtschaftspolitik-investitionsboom-statt-staat/100266695.html",
-          "published": "2026-11-05T18:02:41+00:00",
-          "summary": "Der argentinische Präsident boostert mit Investitionsanreizen für Energieprojekte den wirtschaftlichen Aufbruch – zulasten der heimischen Infrastruktur."
+          "title": "Insolvenzverwalter: „Gut ist die Insolvenzserie von Galeria für unseren Berufsstand nicht“",
+          "link": "https://www.wiwo.de/unternehmen/insolvenzwelle-in-deutschland-vid-chef-widerspricht-alarmismus/100267690.html",
+          "published": "2026-11-06T06:49:31+00:00",
+          "summary": "Christoph Niering, Vorsitzender des Insolvenzverwalter-Verbands VID, über die Galeria-Insolvenz, Pleiten-Alarmismus und den Streit ums Berufsrecht."
         },
         {
-          "title": "Signa-Gründer: René Benko wegen Millionenbetrugs verurteilt",
-          "link": "https://www.wiwo.de/unternehmen/handel/signa-gruender-rene-benko-wegen-millionenbetrugs-verurteilt/100267709.html",
-          "published": "2026-11-05T17:34:58+00:00",
-          "summary": "René Benko soll einem Investor mit einer Garantie fünf Millionen Euro entlockt haben. Das Gericht folgte der Darstellung der Anklage. Weitere Ermittlungen gegen den Ex-Milliardär laufen."
+          "title": "Anwaltsranking: Wird die Steuer einfacher und fairer? Top-Steuerrechtler bezweifeln es",
+          "link": "https://www.wiwo.de/finanzen/steuern-recht/anwaltsranking-wird-die-steuer-einfacher-top-steuerrechtler-zweifeln/100265545.html",
+          "published": "2026-11-06T06:43:16+00:00",
+          "summary": "Vor Gerichten gibt es weniger Steuerklagen. Doch die Top-Experten aus unserem Anwaltsranking warnen vor verfrühter Freude: Hinter dem Trend steckten andere Gründe als erhofft."
         }
       ],
       "error": null
@@ -211,6 +211,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Schweizer Start-up will humanoide Roboter sicher machen: Der Trick sitzt in der Schulter",
+          "link": "https://www.ingenieur.de/schweizer-start-up-will-humanoide-roboter-sicher-machen-der-trick-sitzt-in-der-schulter-b1214473-27b7-4f19-921d-0bffd2ebb3e2/",
+          "published": "2026-11-06T08:00:00+00:00",
+          "summary": "Europa hat ein neues Robotik-Start-up. Auf dem Humanoid Europe Summit in München will heute die Schweizer Firma Embodied AI erstmals ihren industrietauglichen humanoiden Roboter AIR vorstellen. Er …"
+        },
+        {
+          "title": "Salpetersäure läuft aus Lkw: Warum Krefeld jetzt höchste Alarmstufe hat",
+          "link": "https://www.ingenieur.de/salpetersaeure-laeuft-aus-lkw-warum-krefeld-jetzt-hoechste-alarmstufe-hat-b3823efc-43f1-4169-a3a5-be21f68f16ed/",
+          "published": "2026-11-06T07:01:55+00:00",
+          "summary": "150 Einsatzkräfte, 1000 m Sperrzone: In Krefeld tritt Salpetersäure aus einem Lkw aus. Warum ist die Chemikalie so gefährlich?"
+        },
+        {
+          "title": "Zwei Tropfen Metall reichen: Wie eine Rettungsweste aus Wellen Strom gewinnt",
+          "link": "https://www.ingenieur.de/zwei-tropfen-metall-reichen-wie-eine-rettungsweste-aus-wellen-strom-gewinnt-ac20e8ec-1d00-4bc4-98d8-b73b0b0c6b6b/",
+          "published": "2026-11-06T06:29:19+00:00",
+          "summary": "40 kleine Energiewandler liefern 2 V: Forschende lassen eine Rettungsweste mit Wellenenergie SOS blinken. Dahinter steckt Flüssigmetall."
+        },
+        {
           "title": "5828 Neutrinos, 2450 m Meerestiefe: Physiker testen Einsteins Theorie",
           "link": "https://www.ingenieur.de/5828-neutrinos-2450-m-meerestiefe-physiker-testen-einsteins-theorie-6891acc1-24a9-4249-a014-11d355aae3cc/",
           "published": "2026-11-05T17:49:58+00:00",
@@ -221,24 +239,6 @@
           "link": "https://www.ingenieur.de/usa-testen-neue-atomraketen-technik-bei-24000-kmh-wird-es-extrem-944ce791-7eff-4ab0-9c59-9755416177fe/",
           "published": "2026-11-05T17:11:00+00:00",
           "summary": "USA testen den Mk21A-Wiedereintrittskörper für die Sentinel-Rakete. Er soll Atomsprengköpfe bei bis zu 24.000 km/h vor extremer Hitze schützen."
-        },
-        {
-          "title": "Der große Quanten-Irrtum: Warum Forscher oft dasselbe messen und Verschiedenes finden",
-          "link": "https://www.ingenieur.de/der-grosse-quanten-irrtum-warum-forscher-oft-dasselbe-messen-und-verschiedenes-finden-f8343b0e-d3aa-41e6-bb00-497f3aaa62bc/",
-          "published": "2026-11-05T16:29:31+00:00",
-          "summary": "Warum liefern scheinbar identische Quantenmaterialien andere Ergebnisse? Defekte, Messartefakte und Auswertung entscheiden über Reproduzierbarkeit."
-        },
-        {
-          "title": "Billige Kernfusion? Magnete vom Fließband sollen ein Kostenproblem lösen",
-          "link": "https://www.ingenieur.de/billige-kernfusion-300-magnete-vom-fliessband-sollen-ein-grosses-kostenproblem-losen-bf9c2c74-148e-425d-9d75-5886ce6640ab/",
-          "published": "2026-11-05T15:30:09+00:00",
-          "summary": "Die Magnete, die bei der Kernfusion 100 Mio. °C heißes Plasma einschließen, sind handgefertigte Einzelstücke. Ein US-Start-up will sie durch flache Serienteile ersetzen und testet dies jetzt am MIT. …"
-        },
-        {
-          "title": "100.000 t Erde bewegt und keine einzige Tunnelbohrmaschine im Einsatz",
-          "link": "https://www.ingenieur.de/100-000-t-erde-bewegt-und-keine-einzige-tunnelbohrmaschine-um-einsatz-44edcefa-b7d3-45df-9941-57539377befa/",
-          "published": "2026-11-05T15:30:00+00:00",
-          "summary": "100.000 t Erde, 720 m Tunnel und keine Tunnelbohrmaschine: Warum Ingenieure in London auf Bagger setzten und beim Durchbruch Betonblöcke verschoben."
         }
       ],
       "error": null
