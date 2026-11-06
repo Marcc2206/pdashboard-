@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:09:35+00:00",
+  "generatedAt": "2026-11-06T22:41:32+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "HSV schießt Gladbach zurück in die Krise",
+          "link": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
+          "published": "2026-11-06T22:24:16+00:00",
+          "summary": "Der HSV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach mit 3:1 für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim."
+        },
+        {
+          "title": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1679596.html",
+          "published": "2026-11-06T21:40:59+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1679594.html",
+          "published": "2026-11-06T21:39:46+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+          "published": "2026-11-06T20:54:46+00:00",
+          "summary": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend …"
+        },
+        {
           "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
           "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
-          "published": "2026-11-06T16:47:36+00:00",
+          "published": "2026-11-06T20:36:48+00:00",
           "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der …"
-        },
-        {
-          "title": "Höhere Strafen für Einsatz von K.o.-Tropfen",
-          "link": "https://www.tagesschau.de/video/video-1679332.html",
-          "published": "2026-11-06T16:44:16+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
-          "link": "https://www.tagesschau.de/video/video-1679336.html",
-          "published": "2026-11-06T16:44:14+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Art Cologne öffnet die Türen für das Publikum",
-          "link": "https://www.tagesschau.de/video/video-1679340.html",
-          "published": "2026-11-06T16:44:06+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Prozessauftakt gegen Mitglieder der Reichsbürger-Bewegung \"Königreich Deutschland\"",
-          "link": "https://www.tagesschau.de/video/video-1679338.html",
-          "published": "2026-11-06T16:41:59+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Handelsblatt Live: US-Börsenexperte Koch: Vorsichtige Erholung an der Wall Street",
-          "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-vorsichtige-erholung-an-der-wall-street/100267994.html",
-          "published": "2026-11-06T16:59:36+00:00",
-          "summary": "Nach großen Verlusten am Donnerstag, insbesondere an der Technologiebörse Nasdaq, stehen die US-Märkte am Freitag wieder im Plus. Markus Koch warnt jedoch: „Ein Bounce an einem Freitag hat für …"
-        },
-        {
-          "title": "Bundespräsidentenwahl: Uneitel und bürgernah: Aigners Weg nach oben",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-uneitel-und-buergernah-aigners-weg-nach-oben/100267992.html",
-          "published": "2026-11-06T16:41:51+00:00",
-          "summary": "Ilse Aigner könnte Deutschlands nächste Bundespräsidentin werden. Über eine ungeplante politische Karriere und wie man es ohne Machtgier bis ganz an die Spitze schaffen könnte."
-        },
-        {
-          "title": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
-          "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html",
-          "published": "2026-11-06T16:35:37+00:00",
-          "summary": "Die Entscheidung in der CDU über die Kandidatin für das höchste Staatsamt scheint näher zu rücken. Laut mehreren Medienberichten will die CDU Ilse Aigner nominieren."
+          "title": "Cloud: Microsoft beendet laut einem Bericht den KI-Vertrag mit Oracle",
+          "link": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
+          "published": "2026-11-06T20:52:42+00:00",
+          "summary": "Ältere Nvidia-Chips sollen den Anforderungen des Windows-Konzerns nicht mehr genügt haben. Laut der Agentur Bloomberg überprüft Microsoft auch andere Cloud-Partnerschaften in Milliardenhöhe."
         },
         {
           "title": "USA: Börsencrash und Regulierung – was droht Big Tech nach den Midterms?",
           "link": "https://www.handelsblatt.com/technik/it-internet/usa-boersencrash-und-regulierung-was-droht-big-tech-nach-den-midterms/100267849.html",
-          "published": "2026-11-06T16:33:26+00:00",
+          "published": "2026-11-06T20:34:47+00:00",
           "summary": "Mit dem Durchmarsch der US-Demokraten ist die Tech-Branche in einer neuen Welt aufgewacht. Denn beim Bau von Rechenzentren ist nun eine weitere umkämpfte Ressource entscheidend: die Wähler."
         },
         {
-          "title": "Im Fall der Fälle: Gefahrenlage: Wie werde ich gewarnt, was muss ich tun?",
-          "link": "https://www.handelsblatt.com/technik/medizin/im-fall-der-faelle-gefahrenlage-wie-werde-ich-gewarnt-was-muss-ich-tun/100267991.html",
-          "published": "2026-11-06T16:26:51+00:00",
-          "summary": "Unfall, Unwetter, Großbrand: In solchen Lagen kursieren oft widersprüchliche Hinweise. Das kann wiederum gefährlich sein. Wie Sie sich vorbereiten - und was Sie tun sollten, wenn es eine Warnung gibt."
+          "title": "Nach Wahldebakel: Trump ersetzt Stabschefin Wiles durch Hardliner Miller",
+          "link": "https://www.handelsblatt.com/politik/international/nach-wahldebakel-trump-ersetzt-stabschefin-wiles-durch-hardliner-miller/100268013.html",
+          "published": "2026-11-06T20:29:08+00:00",
+          "summary": "Nach der Klatsche für die Republikaner bei den Midterms gibt es eine erste personelle Konsequenz. Eine wichtige Strippenzieherin aus Trumps engstem Machtzirkel geht."
+        },
+        {
+          "title": "EZB: Spanien nominiert Pablo Hernandez de Cos für Lagarde-Nachfolge",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-spanien-nominiertpablo-hernandez-de-cos-fuer-lagarde-nachfolge/100267919.html",
+          "published": "2026-11-06T20:00:05+00:00",
+          "summary": "Nach den Niederlanden reicht nun auch Spanien einen Kandidaten für das oberste Amt der EZB ein. Die Euro-Finanzminister wollen die Nominierungen am Montag sichten."
+        },
+        {
+          "title": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
+          "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html",
+          "published": "2026-11-06T19:47:17+00:00",
+          "summary": "Die Entscheidung in der CDU über die Kandidatin für das höchste Staatsamt scheint näher zu rücken. Laut mehreren Medienberichten will die CDU Ilse Aigner nominieren."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Nasdaq legt zu: KI-Werte erholen sich vom Kursgemetzel",
+          "link": "https://www.n-tv.de/wirtschaft/KI-Werte-erholen-sich-vom-Kursgemetzel-id31505838.html",
+          "published": "2026-11-06T22:22:56+00:00",
+          "summary": "Der Preisrutsch bei KI-Werten ist beendet. Vor dem Wochenende nutzen Schnäppchenjäger ihre Chance und greifen unter anderem bei Chipherstellern zu. Für Erstaunen an der Wall Street sorgt der jüngste …"
+        },
+        {
+          "title": "Kommt die Königslinie zurück?: Unternehmen kündigt schnelle Fährverbindung nach Schweden an - Hafen überrascht",
+          "link": "https://www.n-tv.de/wirtschaft/Unternehmen-kuendigt-schnelle-Faehrverbindung-nach-Schweden-an-Hafen-ueberrascht-id31504204.html",
+          "published": "2026-11-06T17:29:00+00:00",
+          "summary": "Vor sieben Jahren endet der Fracht-Fährverkehr zwischen Sassnitz und Trelleborg. Es ist das Ende einer geschichtsträchtigen Verbindung. Ab kommendem Sommer soll sie wiederbelebt werden. Der …"
+        },
         {
           "title": "Gegenwind von US-Demokraten: Dieser Crash markiert das Ende der blinden KI-Euphorie",
           "link": "https://www.n-tv.de/wirtschaft/Dieser-Crash-markiert-das-Ende-der-blinden-KI-Euphorie-id31504673.html",
@@ -98,22 +110,10 @@
           "summary": "EZB-Chefin Lagarde hat ihren Rückzug angekündigt. Die Euro-Länder wollen den Posten möglichst rasch besetzen. Schon Mitte Dezember könnte eine Vorentscheidung fallen. Sie wird aller Voraussicht Teil …"
         },
         {
-          "title": "Königslinie kommt zurück: Neue Fährverbindung nach Schweden verkürzt Fahrzeit drastisch",
-          "link": "https://www.n-tv.de/wirtschaft/Neue-Faehrverbindung-nach-Schweden-verkuerzt-Fahrzeit-drastisch-id31504204.html",
-          "published": "2026-11-06T14:20:50+00:00",
-          "summary": "Vor sieben Jahren endet der Fracht-Fährverkehr zwischen Sassnitz und Trelleborg. Es ist das Ende einer geschichtsträchtigen Verbindung. Ab kommendem Sommer soll sie wiederbelebt werden."
-        },
-        {
           "title": "Stellenabbau unklar : Insolventer Discounter Mäc Geiz schließt jede dritte Filiale",
           "link": "https://www.n-tv.de/wirtschaft/Insolventer-Discounter-Maec-Geiz-schliesst-jede-dritte-Filiale-id31503796.html",
           "published": "2026-11-06T12:33:28+00:00",
           "summary": "Kaufzurückhaltung, steigende Kosten und starke Online-Konkurrenz setzen Mäc Geiz unter Druck. Nach der Insolvenz muss die Handelskette aus Sachsen-Anhalt mehrere ihrer Filialen schließen. Hunderte …"
-        },
-        {
-          "title": "Brüssel droht mit Geldstrafe: EU-Kommission weist Tiktok zu Änderung von Algorithmus an",
-          "link": "https://www.n-tv.de/wirtschaft/EU-Kommission-weist-Tiktok-zu-Aenderung-von-Algorithmus-an-id31503722.html",
-          "published": "2026-11-06T12:30:32+00:00",
-          "summary": "Endloses Scrollen auf Tiktok kann psychische Krankheiten verstärken - so die EU-Kommission. Nun fordert Brüssel die Social-Media App dazu auf, ihren Algorithmus grundlegend zu ändern. Nutzern sollen …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+          "published": "2026-11-06T17:30:36+00:00",
+          "summary": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln."
+        },
+        {
           "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
           "published": "2026-11-06T13:22:11+00:00",
           "summary": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die …"
-        },
-        {
-          "title": "Marktbericht: DAX fällt im Sog der Nasdaq",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-          "published": "2026-11-06T09:29:32+00:00",
-          "summary": "Der DAX kann sich dem Abwärtssog der Wall Street nicht entziehen. Der deutsche Leitindex stürzt zurück unter die Marke von 26.000 Punkten. Wie könnte es am Markt jetzt weitergehen?"
         },
         {
           "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
@@ -172,6 +172,24 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Weißes Haus: Donald Trump entlässt seine Stabschefin Susie Wiles",
+          "link": "https://www.wiwo.de/politik/ausland/donald-trump-us-praesident-feuert-stabschefin-susie-wiles/100268010.html",
+          "published": "2026-11-06T19:13:29+00:00",
+          "summary": "Nach dem Wahldebakel für die Republikaner bei den Midterms gibt es eine erste personelle Konsequenz: Eine wichtige Strippenzieherin aus Trumps engstem Machtzirkel muss gehen."
+        },
+        {
+          "title": "S&P 500, Nasdaq, Dow Jones: Der historische Absturz an den US-Börsen in Charts",
+          "link": "https://www.wiwo.de/finanzen/boerse/sp-500-nasdaq-dow-jones-der-historische-absturz-an-den-us-boersen-in-charts/100267907.html",
+          "published": "2026-11-06T18:35:00+00:00",
+          "summary": "Infolge der US-Zwischenwahlen verloren amerikanische Aktien 6,25 Billionen Dollar an Wert – so viel wie nie zuvor. Und dennoch gab es schwärzere Tage an der Börse."
+        },
+        {
+          "title": "HUK-Coburg: „Viele BYD-Käufer kommen von VW“",
+          "link": "https://www.wiwo.de/unternehmen/auto/e-auto-praemie-so-bewertet-huk-coburg-chef-klaus-juergen-heitmann-sie/100267603.html",
+          "published": "2026-11-06T17:54:52+00:00",
+          "summary": "HUK-Coburg-Chef Klaus-Jürgen Heitmann ­erkennt die Mängel bei der Förderung von E-Autos, ihre Profiteure und warum Vielfahrer häufiger elektrisch fahren."
+        },
+        {
           "title": "Bundespräsidentin: Söders Coup, Merz' Versäumnis",
           "link": "https://www.wiwo.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-soeders-coup-merz-versaeumnis/100267985.html",
           "published": "2026-11-06T16:50:02+00:00",
@@ -182,24 +200,6 @@
           "link": "https://www.wiwo.de/unternehmen/industrie/thyssenkrupp-steel-europe-start-der-produktionsanlage-fuer-gruenstahl-verzoegert-sich/100267977.html",
           "published": "2026-11-06T16:07:55+00:00",
           "summary": "Stahlproduktion und Klimaschutz passten bislang nicht wirklich zusammen. Mit grünem Stahl soll sich das ändern. Ein Hoffnungsprojekt steht in Duisburg – doch bis es da losgeht, dauert es noch Jahre."
-        },
-        {
-          "title": "Straßenbau: Suche nach Investitionen – Verkehrsminister plant Autobahnreform",
-          "link": "https://www.wiwo.de/politik/deutschland/strassenbau-suche-nach-investitionen-verkehrsminister-plant-autobahnreform/100267956.html",
-          "published": "2026-11-06T15:42:57+00:00",
-          "summary": "Um Fahrbahnen und Brücken zu erhalten, will Verkehrsminister Bilger die Finanzierung ausweiten. Kritiker halten dagegen und warnen vor einem neuem Schuldentopf."
-        },
-        {
-          "title": "Bundespräsidentin: CDU will Ilse Aigner als nächste Bundespräsidentin",
-          "link": "https://www.wiwo.de/politik/deutschland/ilse-aigner-cdu-will-politikerin-als-naechste-bundespraesidentin/100267969.html",
-          "published": "2026-11-06T15:41:19+00:00",
-          "summary": "Die CSU ist schon lange für sie. Jetzt herrscht auch Einigkeit in der CDU-Führung, dass Aigner Bundespräsidentin werden soll. Auch wenn der Kanzler sich öffentlich noch nicht dazu äußert."
-        },
-        {
-          "title": "S&P 500, Nasdaq, Dow Jones: Der historische Absturz an den US-Börsen in Charts",
-          "link": "https://www.wiwo.de/finanzen/boerse/sp-500-nasdaq-dow-jones-der-historische-absturz-an-den-us-boersen-in-charts/100267907.html",
-          "published": "2026-11-06T15:34:54+00:00",
-          "summary": "Infolge der US-Zwischenwahlen verloren amerikanische Aktien 6,25 Billionen Dollar an Wert – so viel wie nie zuvor. Und dennoch gab es schwärzere Tage an der Börse."
         }
       ],
       "error": null
@@ -211,10 +211,16 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Brücke versagt beim Test, Wochen später stürzt sie ins Hafenbecken",
-          "link": "https://www.ingenieur.de/bruecke-versagt-beim-test-wochen-spaeter-stuerzt-sie-ins-hafenbecken-69ce1f58-bbb3-49d4-92c1-4fa52be654b1/",
-          "published": "2026-11-06T13:30:00+00:00",
-          "summary": "Elf Wochen hängt eine Brücke schief über dem Hafen. Dann rutscht sie trotz Sicherungsseilen ins Wasser. Die Schäden waren schon länger bekannt."
+          "title": "Warum Uranus und Neptun magnetisch aus der Reihe tanzen",
+          "link": "https://www.ingenieur.de/warum-uranus-und-neptun-magnetisch-aus-der-reihe-tanzen-ad6279b8-0b6a-463f-96a4-287bc8d65c61/",
+          "published": "2026-11-06T17:36:34+00:00",
+          "summary": "Warum sind die Magnetfelder von Uranus und Neptun so ungewöhnlich? Forschende haben eine mögliche Erklärung gefunden, tief im Inneren der Eisriesen."
+        },
+        {
+          "title": "Brücke versagt gleich zweimal, jetzt muss ein Schwimmkran helfen",
+          "link": "https://www.ingenieur.de/bruecke-versagt-gleich-zweimal-jetzt-muss-ein-schwimmkran-helfen-69ce1f58-bbb3-49d4-92c1-4fa52be654b1/",
+          "published": "2026-11-06T17:11:21+00:00",
+          "summary": "Nach zwei Schäden an Bristols Pero’s Bridge soll ein Schwerlastponton die bewegliche Fußgängerbrücke bergen. Korrosion war bereits bekannt."
         },
         {
           "title": "Chemische Reaktionen im Alltag: 10 Beispiele, die jeder kennt",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/700-t-kran-am-abgrund-zwei-seiner-stuetzen-stehen-4-m-tiefer-a839a0bb-77e0-47b2-9d64-d8f45409605f/",
           "published": "2026-11-06T12:00:00+00:00",
           "summary": "175 t Ballast, 44 t am Haken und zwei Stützen 4 m tiefer: Wie ein Liebherr-Großkran eine alte Bogenbrücke auf engstem Raum zerlegte."
-        },
-        {
-          "title": "China baut die Bremse der Zukunft, bei Bosch fallen 750 Stellen weg",
-          "link": "https://www.ingenieur.de/china-uebernimmt-bei-brake-by-wire-die-technologische-fuehrungsrolle-bosch-streicht-750-entwickler-a68e5f78-1dc6-4fe6-a9fc-329eaffd9371/",
-          "published": "2026-11-06T11:30:00+00:00",
-          "summary": "China bringt mit dem Exeed EX7 die elektromechanische Bremse ohne Hydraulik in Serie. Gleichzeitig streicht Bosch 750 Stellen in Abstatt."
         }
       ],
       "error": null
