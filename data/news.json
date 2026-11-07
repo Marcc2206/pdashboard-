@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:27:28+00:00",
+  "generatedAt": "2026-11-07T23:24:15+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-11-07T18:20:03+00:00",
-          "summary": "Sonntag gibts viele Wolken, Hochnebel oder Nebel. Stellenweise fällt etwas Regen. Später lockert es regional auf. Den meisten Sonnenschein gibts im Osten und Südwesten. 4 bis 13 Grad."
+          "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+          "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+          "published": "2026-11-07T23:00:48+00:00",
+          "summary": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist."
         },
         {
-          "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
-          "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-          "published": "2026-11-07T18:19:08+00:00",
-          "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden."
-        },
-        {
-          "title": "Tote nach Schüssen in Krakau - Rupert Wiederwald, ARD Warschau",
-          "link": "https://www.tagesschau.de/video/video-1679924.html",
-          "published": "2026-11-07T18:13:54+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12968.html",
+          "published": "2026-11-07T22:53:12+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1679912.html",
-          "published": "2026-11-07T17:36:49+00:00",
+          "title": "US-Präsident Trump baut sein Team um: Stephen Miller wird neuer Stabschef im Weißen Haus",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1680088.html",
+          "published": "2026-11-07T22:49:43+00:00",
           "summary": ""
         },
         {
-          "title": "FC Bayern schlägt Mainz - Neuer verletzt sich im Rekordspiel",
-          "link": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
-          "published": "2026-11-07T17:11:07+00:00",
-          "summary": "Der FC Bayern marschiert weiter: Auch wenn Mainz 05 sich nach Kräften wehrte, behaupteten die Münchner mit einem 2:1-Sieg letztlich die Bundesliga-Tabellenführung."
+          "title": "Französischer Linkspolitiker Jean-Luc Mélenchon stellt Wahlprogramm vor",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1680090.html",
+          "published": "2026-11-07T22:49:36+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Tote und Verletzte nach Schüssen in Krakau",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1680086.html",
+          "published": "2026-11-07T22:42:38+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Kriminalität: Sechs Tote und mehr als fünfzehn Verletzte bei Schießerei in Krakau",
-          "link": "https://www.handelsblatt.com/politik/international/kriminalitaet-sechs-tote-und-mehr-als-fuenfzehn-verletzte-bei-schiesserei-in-krakau/100268120.html",
-          "published": "2026-11-07T18:03:36+00:00",
-          "summary": "Auf dem Großen Ring im polnischen Krakau fallen Schüsse aus einem Auto. Die Polizei überwältigte den mutmaßlichen Täter. Er wurde angeschossen und in ein Krankenhaus gebracht."
+          "title": "US-Präsident: Kampfsport-Unternehmer als Sprecher im Weißen Haus?",
+          "link": "https://www.handelsblatt.com/politik/international/us-praesident-kampfsport-unternehmer-als-sprecher-im-weissen-haus/100268137.html",
+          "published": "2026-11-07T22:49:17+00:00",
+          "summary": "Der Sprecherposten im Weißen Haus ist seit Wochen unbesetzt. Nach der Schlappe bei der Parlamentswahl prescht Präsident Donald Trump mit einem ungewöhnlichen Kandidaten vor. Meint er es ernst?"
         },
         {
-          "title": "Deep Read: „Wir leben in einer Gesellschaft mit blockierten Aufstiegswegen“",
-          "link": "https://www.handelsblatt.com/politik/deutschland/krise-die-leute-denken-mit-deutschland-geht-es-den-bach-runter/100266004.html",
-          "published": "2026-11-07T17:04:32+00:00",
-          "summary": "Der Soziologe Steffen Mau glaubt nicht, dass der Jugendaufstand lange anhält. Erheblichen Frust sieht er dennoch im Land – die AfD werde davon noch auf Jahre hinaus profitieren."
+          "title": "Dana White: Trump will Kampfsport-Manager als Sprecher des Weißen Hauses",
+          "link": "https://www.handelsblatt.com/politik/international/dana-white-trump-will-kampfsport-manager-als-sprecher-des-weissen-hauses/100268144.html",
+          "published": "2026-11-07T20:49:25+00:00",
+          "summary": "Donald Trump sieht in UFC-Präsident Dana White einen „gewalttätigen Kämpfer und Krieger“. Nach seinem Wunsch sollen White auch sechs UFC-Titelträger bei seinem neuen Job begleiten."
         },
         {
-          "title": "Elektrische Luxus-Lounge: Rolls-Royce im Visier: Diese Luxuslimousine dreht im Stand",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/elektrische-luxus-lounge-rolls-royce-im-visier-diese-luxuslimousine-dreht-im-stand/100268124.html",
-          "published": "2026-11-07T17:01:04+00:00",
-          "summary": "Der BYD-Ableger Yangwang will mit dem Altior auf den Auto-Thron - und in die Liga von Rolls-Royce & Co aufsteigen. Die Luxuslimousine setzt dabei auf Technik, die selbst im Stand für Bewegung sorgt."
+          "title": "Nahost: Netanjahu-Rivale Eisenkot in Israel mit Regierungsbildung beauftragt",
+          "link": "https://www.handelsblatt.com/politik/international/nahost-netanjahu-rivale-eisenkot-in-israel-mit-regierungsbildung-beauftragt/100268142.html",
+          "published": "2026-11-07T20:32:05+00:00",
+          "summary": "Die jüngsten Wahlen in Israel hatten eine Patt-Situation zwischen Netanjahu und seinem Rivalen Eisenkot hervorgebracht. Nun soll der Oppositionspolitiker versuchen, eine Regierung zu bilden."
         },
         {
-          "title": "Insight Innovation: Mehr Reichweite, mehr Beweglichkeit: Wie Doppelrotoren den Elektromotor revolutionieren",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/technologie-doppelrotoren-revolutionieren-den-elektromotor/100261664.html",
-          "published": "2026-11-07T16:33:19+00:00",
-          "summary": "Ein Münchener Start-up entwickelt einen neuartigen Elektromotor, der die Autobranche aufhorchen lässt. Das Konzept könnte auch für eine ganz andere Schlüsseltechnologie wichtig werden."
+          "title": "Nach der Wahl: Israels Präsident beauftragt Eisenkot mit Regierungsbildung",
+          "link": "https://www.handelsblatt.com/politik/international/nach-der-wahl-israels-praesident-beauftragt-eisenkot-mit-regierungsbildung/100268139.html",
+          "published": "2026-11-07T20:25:18+00:00",
+          "summary": "Oppositionspolitiker Eisenkot erhält erwartungsgemäß den Auftrag zur Regierungsbildung. Ihm stehen komplexe und schwierige Verhandlungen bevor."
         },
         {
-          "title": "Quartalszahlen: Berkshire meldet Gewinnrückgang, doch die Aktie profitiert",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html",
-          "published": "2026-11-07T15:57:11+00:00",
-          "summary": "Berkshire Hathaway kaufte im dritten Quartal eigene Aktien für 9,6 Milliarden Dollar. Buffetts Nachfolger Greg Abel profitiert zudem von der KI-Angst an der Wall Street."
+          "title": "Stephen Miller: Drei Dinge, die man zu Trumps neuem Stabschef im Weißen Haus wissen muss",
+          "link": "https://www.handelsblatt.com/politik/international/stephen-miller-drei-dinge-die-man-zu-trumps-neuem-stabschef-im-weissen-haus-wissen-muss/100268118.html",
+          "published": "2026-11-07T20:25:11+00:00",
+          "summary": "Nach dem Wahldebakel der Republikaner verleiht der US-Präsident seinem loyalsten und radikalsten Weggefährten noch mehr Macht. Wer ist der Mann, der seit Jahren US-Politik prägt?"
         }
       ],
       "error": null
@@ -211,6 +211,18 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Liebherr schickt Wasserstoff-Koloss in den Hafen, jetzt zählt die Leistung",
+          "link": "https://www.ingenieur.de/liebherr-schickt-wasserstoff-koloss-in-den-hafen-jetzt-zaehlt-die-leistung-5e7307b5-56e9-411c-a9b6-d24251ea4dd3/",
+          "published": "2026-11-07T20:51:53+00:00",
+          "summary": "Liebherr testet den Wasserstoff-Radlader L 566 H im Bremerhavener Hafen: Eine Tankfüllung soll für eine Schicht reichen – nun zählt die Praxisleistung."
+        },
+        {
+          "title": "Deutschlands Brenner-Dilemma: Milliardenkosten, Proteste und kein Baubeginn",
+          "link": "https://www.ingenieur.de/deutschlands-brenner-dilemma-milliardkosten-proteste-und-kein-bauginn-80b2c68d-14e5-4b40-80e4-01d15a3c645b/",
+          "published": "2026-11-07T19:58:14+00:00",
+          "summary": "Milliardenkosten, Bürgerproteste und politische Konflikte: Warum kommt der deutsche Brenner-Nordzulauf nicht voran – und was passiert jetzt?"
+        },
+        {
           "title": "Strom ohne Widerstand: Forscher lösen Teil eines großen Physikrätsels",
           "link": "https://www.ingenieur.de/strom-ohne-widerstand-forscher-loesen-teil-eines-grossen-physikraetsels-b034dc02-8dff-4dda-be78-4de1e16039a4/",
           "published": "2026-11-07T13:26:47+00:00",
@@ -223,22 +235,10 @@
           "summary": "Drei Rotorblätter, jeweils 15 t schwer und 62 m lang: Beim höchsten Windrad der Welt blieb kaum Platz. Eine Spezialtraverse machte die Montage möglich."
         },
         {
-          "title": "Brenner-Nordzulauf: Milliardenprojekt hängt weiter im Bundestag fest",
-          "link": "https://www.ingenieur.de/brenner-nordzulauf-milliardenprojekt-haengt-weiter-im-bundestag-fest-80b2c68d-14e5-4b40-80e4-01d15a3c645b/",
-          "published": "2026-11-07T07:50:09+00:00",
-          "summary": "16 Mrd. € stehen beim Brenner-Nordzulauf im Raum. Doch der Bundestag vertagt die Entscheidung erneut. Wie geht es mit dem Bahnprojekt weiter?"
-        },
-        {
           "title": "Uranus und Neptun: Ihre Magnetpole könnten in wenigen Jahrzehnten wandern",
           "link": "https://www.ingenieur.de/uranus-und-neptun-ihre-magnetpole-koennten-in-wenigen-jahrzehnten-wandern-ad6279b8-0b6a-463f-96a4-287bc8d65c61/",
           "published": "2026-11-07T06:18:00+00:00",
           "summary": "Neue Simulationen zeigen: Die Magnetpole von Uranus und Neptun könnten sich erstaunlich schnell verschieben. Was steckt hinter dem Phänomen?"
-        },
-        {
-          "title": "Brenner-Nordzulauf: warum die Bahn drei Alternativen ablehnt",
-          "link": "https://www.ingenieur.de/warum-die-bahn-alternativen-zum-brenner-nordzulauf-ablehnt-93237e11-a8b6-4766-bed5-1695b0dbd5ab/",
-          "published": "2026-11-07T06:14:00+00:00",
-          "summary": "Bestandsausbau, Wildbarren oder Innunterquerung: Warum die DB die Alternativen ablehnt und welche Fragen offenbleiben."
         }
       ],
       "error": null
