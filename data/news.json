@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:24:15+00:00",
+  "generatedAt": "2026-11-08T04:22:04+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680110.html",
+          "published": "2026-11-08T04:06:48+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
+          "published": "2026-11-08T03:28:25+00:00",
+          "summary": "Vom Sondervermögen des Bundes sollen auch Schulen, Kitas und Wissenschaft profitieren. Doch von den vorgesehenen Mitteln ist bislang offenbar nur ein Bruchteil in die Bildungsinfrastruktur geflossen. …"
+        },
+        {
+          "title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+          "published": "2026-11-08T02:28:44+00:00",
+          "summary": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. …"
+        },
+        {
+          "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
+          "published": "2026-11-08T01:50:38+00:00",
+          "summary": "Ein Mann schießt in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrößte Stadt unter Schock. Ermittler suchen Antworten auf die bohrende …"
+        },
+        {
           "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
           "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-          "published": "2026-11-07T23:00:48+00:00",
-          "summary": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist."
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12968.html",
-          "published": "2026-11-07T22:53:12+00:00",
-          "summary": ""
-        },
-        {
-          "title": "US-Präsident Trump baut sein Team um: Stephen Miller wird neuer Stabschef im Weißen Haus",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1680088.html",
-          "published": "2026-11-07T22:49:43+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Französischer Linkspolitiker Jean-Luc Mélenchon stellt Wahlprogramm vor",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1680090.html",
-          "published": "2026-11-07T22:49:36+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Tote und Verletzte nach Schüssen in Krakau",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1680086.html",
-          "published": "2026-11-07T22:42:38+00:00",
-          "summary": ""
+          "published": "2026-11-08T01:27:38+00:00",
+          "summary": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch eine deutsche. Was bislang über die Tat bekannt ist."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "US-Präsident: Kampfsport-Unternehmer als Sprecher im Weißen Haus?",
-          "link": "https://www.handelsblatt.com/politik/international/us-praesident-kampfsport-unternehmer-als-sprecher-im-weissen-haus/100268137.html",
-          "published": "2026-11-07T22:49:17+00:00",
-          "summary": "Der Sprecherposten im Weißen Haus ist seit Wochen unbesetzt. Nach der Schlappe bei der Parlamentswahl prescht Präsident Donald Trump mit einem ungewöhnlichen Kandidaten vor. Meint er es ernst?"
+          "title": "Aigner vor der Nominierung: Was die Entscheidung in der P-Frage bedeutet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/aigner-vor-der-nominierung-was-die-entscheidung-in-der-p-frage-bedeutet/100268162.html",
+          "published": "2026-11-08T04:00:13+00:00",
+          "summary": "Die CSU hat sich schon lange auf Ilse Aigner als nächste Bundespräsidentin festgelegt. Die SPD hat ihre Unterstützung zugesichert. Jetzt fehlt noch das offizielle Votum der CDU."
         },
         {
-          "title": "Dana White: Trump will Kampfsport-Manager als Sprecher des Weißen Hauses",
-          "link": "https://www.handelsblatt.com/politik/international/dana-white-trump-will-kampfsport-manager-als-sprecher-des-weissen-hauses/100268144.html",
-          "published": "2026-11-07T20:49:25+00:00",
-          "summary": "Donald Trump sieht in UFC-Präsident Dana White einen „gewalttätigen Kämpfer und Krieger“. Nach seinem Wunsch sollen White auch sechs UFC-Titelträger bei seinem neuen Job begleiten."
+          "title": "Prozessbeginn in Aachen: Prozess nach Sprengsatz-Angriff im ICE beginnt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/prozessbeginn-in-aachen-prozess-nach-sprengsatz-angriff-im-ice-beginnt/100268161.html",
+          "published": "2026-11-08T04:00:12+00:00",
+          "summary": "Ein Mann soll im April bei Siegburg in einem Zug Sprengkörper geworfen und zehn Passagiere verletzt haben. Zwei Männer verhinderten damals, dass Schlimmeres passiert. Das Motiv des Täters? Unklar."
         },
         {
-          "title": "Nahost: Netanjahu-Rivale Eisenkot in Israel mit Regierungsbildung beauftragt",
-          "link": "https://www.handelsblatt.com/politik/international/nahost-netanjahu-rivale-eisenkot-in-israel-mit-regierungsbildung-beauftragt/100268142.html",
-          "published": "2026-11-07T20:32:05+00:00",
-          "summary": "Die jüngsten Wahlen in Israel hatten eine Patt-Situation zwischen Netanjahu und seinem Rivalen Eisenkot hervorgebracht. Nun soll der Oppositionspolitiker versuchen, eine Regierung zu bilden."
+          "title": "Handel: Preisschock zu Weihnachten: KI-Chips verteuern Elektronik",
+          "link": "https://www.handelsblatt.com/technik/it-internet/handel-preisschock-zu-weihnachten-ki-chips-verteuern-elektronik/100268159.html",
+          "published": "2026-11-08T04:00:09+00:00",
+          "summary": "Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf den weltweiten KI-Boom trifft, sind die Preise für Laptops, Handys und Hardware vor Weihnachten spürbar gestiegen."
         },
         {
-          "title": "Nach der Wahl: Israels Präsident beauftragt Eisenkot mit Regierungsbildung",
-          "link": "https://www.handelsblatt.com/politik/international/nach-der-wahl-israels-praesident-beauftragt-eisenkot-mit-regierungsbildung/100268139.html",
-          "published": "2026-11-07T20:25:18+00:00",
-          "summary": "Oppositionspolitiker Eisenkot erhält erwartungsgemäß den Auftrag zur Regierungsbildung. Ihm stehen komplexe und schwierige Verhandlungen bevor."
+          "title": "Weltklimakonferenz COP31: Klimagipfel in der Türkei – Worum es geht und woran es hakt",
+          "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-cop31-klimagipfel-in-der-tuerkei-worum-es-geht-und-woran-es-hakt/100268163.html",
+          "published": "2026-11-08T04:00:08+00:00",
+          "summary": "Die Klimakrise spitzt sich zu – doch die Welt ist durch Kriege und Konflikte abgelenkt. Bei der Weltklimakonferenz in Antalya wird sich zeigen, ob die Staaten doch noch in den Notfallmodus schalten."
         },
         {
-          "title": "Stephen Miller: Drei Dinge, die man zu Trumps neuem Stabschef im Weißen Haus wissen muss",
-          "link": "https://www.handelsblatt.com/politik/international/stephen-miller-drei-dinge-die-man-zu-trumps-neuem-stabschef-im-weissen-haus-wissen-muss/100268118.html",
-          "published": "2026-11-07T20:25:11+00:00",
-          "summary": "Nach dem Wahldebakel der Republikaner verleiht der US-Präsident seinem loyalsten und radikalsten Weggefährten noch mehr Macht. Wer ist der Mann, der seit Jahren US-Politik prägt?"
+          "title": "Nach der Parlamentswahl: Israels Präsident beauftragt Eisenkot mit Regierungsbildung",
+          "link": "https://www.handelsblatt.com/politik/international/nach-der-parlamentswahl-israels-praesident-beauftragt-eisenkot-mit-regierungsbildung/100268160.html",
+          "published": "2026-11-08T03:58:05+00:00",
+          "summary": "Dem Oppositionspolitiker Eisenkot fehlen 13 Mandate für eine eigene Regierungsmehrheit. Arabische oder ultraorthodoxe Parteien könnten ihm helfen. Doch beide Optionen bergen großes Konfliktpotenzial."
         }
       ],
       "error": null
