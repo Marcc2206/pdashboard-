@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:43:50+00:00",
+  "generatedAt": "2026-11-08T18:38:39+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Feuerwerks- und Drohnenfestival in London, Kunst in Gizeh, Herbst in New York",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10554.html",
-          "published": "2026-11-08T11:30:30+00:00",
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-08T17:58:48+00:00",
+          "summary": "Montag ist es zunächst meist bedeckt durch Nebel und Hochnebel. Später gibts regional Sonnenschein. Im Süden breitet sich am Nachmittag mit dichten Wolken Regen aus. 2 bis 11 Grad."
+        },
+        {
+          "title": "Wieder deutlich mehr Flüchtlinge auf dem gefährlichen Weg von Afrika auf die Kanaren",
+          "link": "https://www.tagesschau.de/video/video-1680306.html",
+          "published": "2026-11-08T17:12:47+00:00",
           "summary": ""
         },
         {
-          "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
-          "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
-          "published": "2026-11-08T11:19:37+00:00",
-          "summary": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder …"
-        },
-        {
-          "title": "Massive Stromausfälle nach russischen Angriffen auf Ukraine",
-          "link": "https://www.tagesschau.de/video/video-1680170.html",
-          "published": "2026-11-08T11:15:10+00:00",
+          "title": "Bundeswehrbeteiligung an UN-Mission Unifil im Libanon läuft Ende des Jahres aus",
+          "link": "https://www.tagesschau.de/video/video-1680304.html",
+          "published": "2026-11-08T17:10:54+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81874.html",
-          "published": "2026-11-08T11:08:12+00:00",
+          "title": "Israels Präsident Herzog erteilt bisherigem Oppositionspolitiker Eisenkot Auftrag zur Regierungsbildung",
+          "link": "https://www.tagesschau.de/video/video-1680302.html",
+          "published": "2026-11-08T17:09:03+00:00",
           "summary": ""
         },
         {
-          "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
-          "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-          "published": "2026-11-08T11:04:42+00:00",
-          "summary": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstoßen haben soll. Iran meldet den Brand zweier Frachter in der Straße von Hormus. Huthis greifen …"
+          "title": "Viele ungeklärte Punkte für Bundeshaushalt 2027",
+          "link": "https://www.tagesschau.de/video/video-1680296.html",
+          "published": "2026-11-08T17:06:59+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Deep Read: Die Krankheit, die Millionen Menschen vom Leben ausschließt",
-          "link": "https://www.handelsblatt.com/technik/medizin/me-cfs-die-krankheit-die-millionen-menschen-vom-leben-ausschliesst/100265063.html",
-          "published": "2026-11-08T12:03:47+00:00",
-          "summary": "Die chronische Multisystemerkrankung ME/CFS macht eine halbe Million Menschen zu Schwerkranken und verursacht einen Milliardenschaden. Therapien fehlen, nun aber könnte sich etwas ändern."
+          "title": "Robotik: ABB und Softbank erwägen für Robotik Abspaltung des China-Geschäfts",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/robotik-abb-und-softbank-erwaegen-fuer-robotik-abspaltung-des-china-geschaefts/100268252.html",
+          "published": "2026-11-08T17:26:50+00:00",
+          "summary": "China hat den Verkauf der ABB-Robotiksparte an Softbank untersagt. Laut Bloomberg prüfen die Technologiekonzerne nun eine Ausgliederung des China-Geschäfts. ABB erwägt zudem weitere Käufer."
         },
         {
-          "title": "Versicherungen: Fehlgriffe bei Privatmarkt-Anlagen belasten Frankfurter Leben",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-fehlgriffe-bei-privatmarkt-anlagen-belasten-frankfurter-leben/100263978.html",
-          "published": "2026-11-08T11:52:21+00:00",
-          "summary": "Der Lebensversicherer hat Hunderte Millionen an den privaten Kreditmärkten verliehen. Ein Dutzend Investments steckt in der Krise. Das Unternehmen betont, Verluste seien nicht zu befürchten."
+          "title": "Bundespräsidentin: Erste Frau im Amt – Ilse Aigner soll Bundespräsidentin werden",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-erste-frau-im-amt-ilse-aigner-soll-bundespraesidentin-werden/100268202.html",
+          "published": "2026-11-08T17:00:01+00:00",
+          "summary": "Nach langem Hin und Her und unter großem Druck hat sich nun auch CDU-Chef Friedrich Merz festgelegt: Die CSU-Politikerin Ilse Aigner soll das höchste Staatsamt bekleiden."
         },
         {
-          "title": "Kirche im Fokus: Zentralratspräsident Schuster fordert Mut zum Widerspruch",
-          "link": "https://www.handelsblatt.com/politik/deutschland/kirche-im-fokus-zentralratspraesident-schuster-fordert-mut-zum-widerspruch/100268207.html",
-          "published": "2026-11-08T11:31:38+00:00",
-          "summary": "Ob am Arbeitsplatz, in der Schule oder beim Familienessen: Zentralratspräsident Schuster fordert, Unrecht klar zu benennen. Wer damit anfange, könne auch anderen den Schritt erleichtern."
+          "title": "Konflikt mit Saudi-Arabien: Huthi greifen Wolkenkratzer im Zentrum von Riad an",
+          "link": "https://www.handelsblatt.com/politik/international/konflikt-mit-saudi-arabien-huthi-greifen-wolkenkratzer-im-zentrum-von-riad-an/100268197.html",
+          "published": "2026-11-08T16:48:59+00:00",
+          "summary": "Die fast täglichen Angriffe der Huthi hinterlassen Kratzer am Image Saudi-Arabiens als sicherer Ort für Geschäfte und Tourismus. Jetzt wird der Geschäftsbezirk von Riad direkt getroffen."
         },
         {
-          "title": "US-Präsident: Kampfsport-Chef trifft Trump: Wird er White-House-Sprecher?",
-          "link": "https://www.handelsblatt.com/politik/international/us-praesident-kampfsport-chef-trifft-trump-wird-er-white-house-sprecher/100268205.html",
-          "published": "2026-11-08T11:10:29+00:00",
-          "summary": "Wie ernst ist Trumps Angebot an Dana White zu nehmen? Der UFC-Chef gilt als ein ungewöhnlicher Kandidat für den Sprecherposten. Klarheit könnte ein Treffen der beiden am Montag in Washington bringen."
+          "title": "Klimakonferenz: Der Trump-Effekt: Unsicherheit für Öl und Gas, Schwung für die Energiewende",
+          "link": "https://www.handelsblatt.com/politik/deutschland/klimakonferenz-wie-der-us-praesident-unfreiwillig-die-erneuerbaren-antreibt/100262559.html",
+          "published": "2026-11-08T16:44:34+00:00",
+          "summary": "Trump setzt auf Öl und Gas, doch Irankrieg und Energiekrise machen Erneuerbare attraktiver. Was bedeutet seine Niederlage bei den US-Zwischenwahlen für die Klimakonferenz in der Türkei?"
         },
         {
-          "title": "Gewinnverlagerung: Apple spart offenbar 2,7 Milliarden Dollar Steuern in Singapur",
-          "link": "https://www.handelsblatt.com/technik/it-internet/gewinnverlagerung-apple-spart-offenbar-27-milliarden-dollar-steuern-in-singapur/100268191.html",
-          "published": "2026-11-08T11:05:31+00:00",
-          "summary": "Der US-Techkonzern spart durch die Verschiebung von Unternehmensgewinnen nach Singapur Milliarden von Dollar an Steuern. Möglich macht das sogenanntes Profit-Shifting."
+          "title": "Netanjahu vor dem Aus?: Ex-Militärchef Eisenkot will Israel aus der Krise führen",
+          "link": "https://www.handelsblatt.com/politik/international/netanjahu-vor-dem-aus-ex-militaerchef-eisenkot-will-israel-aus-der-krise-fuehren/100268241.html",
+          "published": "2026-11-08T16:39:20+00:00",
+          "summary": "Ex-Militärchef Eisenkot will eine Regierung bilden, obwohl seine Partei bei der Wahl nur zweitstärkste Kraft wurde. Nun muss er zwischen tiefen politischen Gräben einen Weg zur Mehrheit finden."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Mehr Frauen in Dax-Vorständen: Top-Managerinnen holen bei Gehältern auf",
+          "link": "https://www.n-tv.de/wirtschaft/Top-Managerinnen-holen-bei-Gehaeltern-auf-id31509046.html",
+          "published": "2026-11-08T15:43:59+00:00",
+          "summary": "Weibliche Vorstandsmitglieder holen bei der Vergütung in deutschen Börsenunternehmen deutlich auf. Doch während sich die Gehälter im Dax annähern, wächst der Abstand in MDax und SDax. Eine EY-Studie …"
+        },
         {
           "title": "Kostspielige Bescherung: Handys, Laptops und andere Elektronik werden deutlich teurer",
           "link": "https://www.n-tv.de/wirtschaft/Handys-Laptops-und-andere-Elektronik-werden-deutlich-teurer-id31508087.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Experten-sehen-Versorgungssicherheit-in-NRW-durch-Kohleausstieg-gefaehrdet-id31507021.html",
           "published": "2026-11-07T15:32:24+00:00",
           "summary": "Der vorgezogene Braunkohleausstieg in Nordrhein-Westfalen gerät zunehmend unter Druck. Energieexperten warnen vor Engpässen und steigenden Strompreisen, weil neue Gaskraftwerke erst nach dem …"
-        },
-        {
-          "title": "Einkaufen ohne Stress: Amazon und Rewe liefern Lebensmittel jetzt noch schneller nach Hause",
-          "link": "https://www.n-tv.de/wirtschaft/Amazon-und-Rewe-liefern-Lebensmittel-jetzt-noch-schneller-nach-Hause-id31506931.html",
-          "published": "2026-11-07T14:40:12+00:00",
-          "summary": "Immer mehr Menschen in Deutschland lassen sich Lebensmittel und Produkte des täglichen Bedarfs nach Hause liefern. Amazon und Rewe bauen deswegen ihre Lieferdienste aus und setzen auf schnelle …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Städteranking 2026: Das sind Deutschlands beste Großstädte für Familien",
-          "link": "https://www.wiwo.de/politik/deutschland/staedteranking-2026-das-sind-deutschlands-beste-grossstaedte-fuer-familien/100263646.html",
-          "published": "2026-11-08T11:51:00+00:00",
-          "summary": "Eine Sonderauswertung des WirtschaftsWoche-Städtetests hat die Familienfreundlichkeit in den Blick genommen. Vor allem Bonn scheint vieles richtig zu machen. Ein Vor-Ort-Besuch."
+          "title": "Aktienkurse: Der KI-Schock und die Politik im Depot",
+          "link": "https://www.wiwo.de/finanzen/boerse/politische-risiken-bei-aktien-der-ki-schock-und-die-politik-im-depot/100267947.html",
+          "published": "2026-11-08T16:04:59+00:00",
+          "summary": "Politische Risiken beeinflussen Aktienkurse stärker als gedacht. Drei wissenschaftliche Befunde zeigen, worauf aktive Anleger bei Wahlen im Depot achten müssen. Eine Kolumne."
         },
         {
-          "title": "GTA 6: GTA VI Release steht bevor – alle Infos zu Preisen, Editionen, Preload und Release",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/gta-6-release-preise-editionen-und-preload-von-grand-theft-auto-vi/100235784.html",
-          "published": "2026-11-08T11:10:00+00:00",
-          "summary": "Der Release von GTA VI steht kurz bevor. Rockstar Games schmeißt die Marketingmaschine an und wirbt unter anderem in Berlin - in XXL."
+          "title": "Maschinenbauer Reinhausen: Wie ein Regensburger Patent von 1926 die Netze bis heute regelt",
+          "link": "https://www.wiwo.de/unternehmen/mittelstand/maschinenbauer-reinhausen-wie-ein-patent-von-1926-die-stromnetze-regelt/100265373.html",
+          "published": "2026-11-08T15:48:28+00:00",
+          "summary": "Vor 100 Jahren machte eine Erfindung aus Regensburg die Stromnetze stabiler. Heute stehen sie weltweit wieder am Limit – und der Weltmarktführer Reinhausen wächst so schnell wie nie"
         },
         {
-          "title": "Rotkäppchen-Chefin Silvia Wiesner: „Ich sehe jeden dritten Arbeitsplatz in Gefahr“",
-          "link": "https://www.wiwo.de/unternehmen/handel/schaumweinsteuer-rotkaeppchen-chefin-warnt-vor-jobverlusten/100267646.html",
-          "published": "2026-11-08T10:55:21+00:00",
-          "summary": "Die Regierung will Sekt und andere Schaumweine teurer machen. Rotkäppchen-Chefin Wiesner warnt vor Jobverlusten – und bezweifelt, dass der Staat profitiert."
+          "title": "Innovationen: Fördert der Staat richtig? Da sind sich nicht alle Weltmarktführer einig",
+          "link": "https://www.wiwo.de/politik/deutschland/staatliche-innovationsfoerderung-was-dem-mittelstand-fehlt/100259049.html",
+          "published": "2026-11-08T15:47:12+00:00",
+          "summary": "Ohne Innovationen fallen deutsche Top-Unternehmen im Wettbewerb zurück. Die Regierung kann ihnen helfen – aber nicht allen helfen alle Rezepte gleich gut."
         },
         {
-          "title": "Gesundheit: Korrupte Ärzte und Doppelgänger – so läuft der Betrug in den Wartezimmern",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/krankschreibung-mit-doc-holiday-korrupte-aerzte-und-doppelgaenger-so-laeuft-der-betrug-in-wartezimmern/100267551.html",
-          "published": "2026-11-08T10:03:00+00:00",
-          "summary": "Durch Betrug entsteht den Krankenkassen jährlich wohl ein Milliardenschaden. Ein Fall aus Ostwestfalen zeigt im Detail, wie einfach die Täter vorgehen."
+          "title": "Förderung für Elektroautos: Sind die Töpfe der E-Auto-Kaufprämie schon bald leer?",
+          "link": "https://www.wiwo.de/technologie/mobilitaet/foerderung-fuer-elektroautos-sind-die-toepfe-der-e-auto-kaufpraemie-schon-bald-leer/100267882.html",
+          "published": "2026-11-08T15:46:41+00:00",
+          "summary": "Drei Milliarden Euro hat die Regierung in den Fördertopf für die E-Auto-Prämie gepackt. Klingt viel. Doch das Geld könnte schnell weg sein. Sollten Interessenten sich mit ihrer Kaufentscheidung …"
         },
         {
-          "title": "Hackerattacken: Erst die Supermärkte, dann das Zuhause?",
-          "link": "https://www.wiwo.de/unternehmen/it/hackerattacken-erst-die-supermaerkte-dann-das-zuhause/100267901.html",
-          "published": "2026-11-08T10:00:00+00:00",
-          "summary": "Erst Supermärkte, dann Blutbanken – und bald vielleicht das eigene Zuhause? Cyberangriffe auf vernetzte Technik zeigen, wie nah die digitale Gefahr der realen Welt kommt."
+          "title": "Neuer Stabschef im Weißen Haus: Mit Hardliner Miller setzt Trump auch im Handel auf Konfrontation",
+          "link": "https://www.wiwo.de/politik/ausland/stephen-miller-mit-hardliner-miller-setzt-trump-auch-im-handel-auf-konfrontation/100268064.html",
+          "published": "2026-11-08T15:05:00+00:00",
+          "summary": "Susie Wiles geht, Stephen Miller kommt: Nach dem Midterms-Debakel befördert Donald Trump ausgerechnet seinen radikalsten Berater. Ein Kommentar."
         }
       ],
       "error": null
@@ -211,6 +211,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "ZF dreht auf 30.000 U/min und macht den Elektroantrieb ein Viertel kleiner",
+          "link": "https://www.ingenieur.de/zf-dreht-auf-30-000-u-min-und-macht-den-elektroantrieb-ein-viertel-kleiner-581d2455-4b0d-4948-8f3a-580aac3ccb11/",
+          "published": "2026-11-08T16:29:44+00:00",
+          "summary": "30.000 U/min, 25 % weniger Gewicht und halb so viele Magnete: ZF zeigt einen neuen Elektroantrieb. Wie die Technik funktioniert."
+        },
+        {
+          "title": "Der erste Schritt zu gigantischen Bauwerken im All ist gelungen",
+          "link": "https://www.ingenieur.de/der-erste-schritt-zu-gigantischen-bauwerken-im-all-ist-gelungen-514d7a0d-7d2d-42a3-bf42-9186b75b3678/",
+          "published": "2026-11-08T16:20:00+00:00",
+          "summary": "Premiere im Erdorbit: Der Roboter ASTRA montiert erstmals eine Tragstruktur. Wie die Weltraumtechnik funktioniert und warum die Antenne nicht fertig wurde."
+        },
+        {
+          "title": "Flettner-Rotor: Wie rotierende Zylinder riesige Schiffe antreiben",
+          "link": "https://www.ingenieur.de/der-flettner-rotor-eine-fast-vergessene-erfindung-4028640c-66e2-4eaf-b849-b4105441b864/",
+          "published": "2026-11-08T14:03:00+00:00",
+          "summary": "Wie treiben rotierende Zylinder riesige Frachtschiffe an? Der Flettner-Rotor nutzt den Magnus-Effekt und kann den Treibstoffverbrauch deutlich senken."
+        },
+        {
           "title": "Die größten Bahnhöfe der Welt: Einer schafft 2,7 Millionen Reisende am Tag",
           "link": "https://www.ingenieur.de/die-groessten-bahnhoefe-der-welt-cb5d63cb-dd3c-41e7-8066-1fac27b8bc42/",
           "published": "2026-11-08T10:59:33+00:00",
@@ -221,24 +239,6 @@
           "link": "https://www.ingenieur.de/liebherr-schickt-wasserstoff-koloss-in-den-hafen-jetzt-zaehlt-die-leistung-5e7307b5-56e9-411c-a9b6-d24251ea4dd3/",
           "published": "2026-11-07T20:51:53+00:00",
           "summary": "Liebherr testet den Wasserstoff-Radlader L 566 H im Bremerhavener Hafen: Eine Tankfüllung soll für eine Schicht reichen – nun zählt die Praxisleistung."
-        },
-        {
-          "title": "Deutschlands Brenner-Dilemma: Milliardenkosten, Proteste und kein Baubeginn",
-          "link": "https://www.ingenieur.de/deutschlands-brenner-dilemma-milliardkosten-proteste-und-kein-bauginn-80b2c68d-14e5-4b40-80e4-01d15a3c645b/",
-          "published": "2026-11-07T19:58:14+00:00",
-          "summary": "Milliardenkosten, Bürgerproteste und politische Konflikte: Warum kommt der deutsche Brenner-Nordzulauf nicht voran – und was passiert jetzt?"
-        },
-        {
-          "title": "Strom ohne Widerstand: Forscher lösen Teil eines großen Physikrätsels",
-          "link": "https://www.ingenieur.de/strom-ohne-widerstand-forscher-loesen-teil-eines-grossen-physikraetsels-b034dc02-8dff-4dda-be78-4de1e16039a4/",
-          "published": "2026-11-07T13:26:47+00:00",
-          "summary": "Forschende entdecken, warum Elektronenpaare allein nicht für Supraleitung reichen. Was bedeutet das für Strom ohne Widerstand bei Raumtemperatur?"
-        },
-        {
-          "title": "Die schwierige Montage der Rotorblätter am Gicon-Höhenwindturm",
-          "link": "https://www.ingenieur.de/die-schwierige-montage-der-rotorblaetter-am-gicon-hoehenwindturm-2238c023-b892-4e28-9621-b203203f24fb/",
-          "published": "2026-11-07T12:58:29+00:00",
-          "summary": "Drei Rotorblätter, jeweils 15 t schwer und 62 m lang: Beim höchsten Windrad der Welt blieb kaum Platz. Eine Spezialtraverse machte die Montage möglich."
         }
       ],
       "error": null
