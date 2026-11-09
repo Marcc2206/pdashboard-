@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:07:53+00:00",
+  "generatedAt": "2026-11-09T23:57:07+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Luca Manns, Forschungsstelle Nachrichtendienste Uni Köln, zum Spionageverdacht bei Nvidia",
-          "link": "https://www.tagesschau.de/video/video-1680800.html",
-          "published": "2026-11-09T14:50:44+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82024.html",
+          "published": "2026-11-09T23:35:30+00:00",
           "summary": ""
         },
         {
-          "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
-          "published": "2026-11-09T14:48:54+00:00",
-          "summary": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680798.html",
-          "published": "2026-11-09T14:48:48+00:00",
+          "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html",
+          "published": "2026-11-09T22:35:25+00:00",
           "summary": ""
         },
         {
-          "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
-          "published": "2026-11-09T14:45:20+00:00",
-          "summary": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht …"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12970.html",
+          "published": "2026-11-09T21:54:07+00:00",
+          "summary": ""
         },
         {
-          "title": "G7-Außenminister sprechen über Ukraine und Iran",
-          "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
-          "published": "2026-11-09T14:21:47+00:00",
-          "summary": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau."
+          "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
+          "published": "2026-11-09T21:27:31+00:00",
+          "summary": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" …"
+        },
+        {
+          "title": "Republikaner Massie will Hegseth des Amtes entheben",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
+          "published": "2026-11-09T20:48:39+00:00",
+          "summary": "Nach der Wahlniederlage bei den Midterms wächst der Druck auf die US-Republikaner - auch wegen des Iran-Kriegs. Nun hat der Trump-kritische Republikaner Massie ein Amtsenthebungsverfahren gegen …"
         }
       ],
       "error": null
@@ -45,8 +45,39 @@
       "name": "Handelsblatt",
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
-      "items": [],
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "items": [
+        {
+          "title": "Finanzierung der Ukraine: Merz dringt auf Bekenntnis aller EU-Staaten zu Ukraine-Hilfe",
+          "link": "https://www.handelsblatt.com/politik/international/finanzierung-der-ukraine-merz-dringt-auf-bekenntnis-aller-eu-staaten-zu-ukraine-hilfe/100268555.html",
+          "published": "2026-11-09T23:30:04+00:00",
+          "summary": "45 zusätzliche EU-Milliarden sollen nächstes Jahr in die Ukraine fließen. Nicht alle Mitgliedstaaten wollen da mitmachen. Der Kanzler erhöht vor einem informellen EU-Gipfel den Druck."
+        },
+        {
+          "title": "Chip-Riese: Trump: FBI ermittelt bei Affäre des Nvidia-Chefs Huang",
+          "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-trump-fbi-ermittelt-bei-affaere-des-nvidia-chefs-huang/100268572.html",
+          "published": "2026-11-09T23:15:23+00:00",
+          "summary": "Nvidia-Chef Huang hatte eine Affäre mit einer Frau, die eine chinesische Spionin gewesen sein könnte. US-Präsident Trump zeigt sich unbeeindruckt – trotz angeblicher FBI-Ermittlungen."
+        },
+        {
+          "title": "Haushalt: Drei Milliarden Euro zusätzlich – Regierung muss Bundesagentur für Arbeit mit neuem Kredit helfen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/haushalt-regierung-muss-arbeitsagentur-mit-milliarden-kredit-helfen/100267082.html",
+          "published": "2026-11-09T22:58:41+00:00",
+          "summary": "Finanzminister Klingbeil nimmt in letzter Sekunde einige Veränderungen am Etat 2027 vor. Die Bundesagentur bekommt ein größeres Darlehen. Und auch für die Käufer von E-Autos gibt es mehr Geld."
+        },
+        {
+          "title": "Nvidia: FBI ermittelt laut Trump wegen Affäre von Nvidia-Chef Huang",
+          "link": "https://www.handelsblatt.com/politik/international/nvidia-fbi-ermittelt-laut-trump-wegen-affaere-von-nvidia-chef-huang/100268570.html",
+          "published": "2026-11-09T22:46:45+00:00",
+          "summary": "Inmitten der Vorwürfe gegen Nvidia-Chef Jensen Huang hat der US-Präsident nach eigenen Angaben mit ihm telefoniert. Zugleich bestätigte Trump, dass das FBI in der Angelegenheit ermittelt."
+        },
+        {
+          "title": "Nach den Midterms: Trump: Iran-Krieg ist militärisch „effektiv vorüber“",
+          "link": "https://www.handelsblatt.com/politik/international/nach-den-midterms-trump-iran-krieg-ist-militaerisch-effektiv-vorueber/100268567.html",
+          "published": "2026-11-09T22:18:20+00:00",
+          "summary": "Zuletzt war mit weiteren Angriffen der USA und Israels gegen den Iran gerechnet worden. Doch von Angriffsplänen scheint Präsident Trump nun abzurücken."
+        }
+      ],
+      "error": null
     },
     {
       "id": "ntv-wirtschaft",
@@ -55,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Ölpreis sinkt: US-Aktien erholen sich kräftig - nur Nvidia nicht",
+          "link": "https://www.n-tv.de/wirtschaft/US-Aktien-erholen-sich-kraeftig-nur-Nvidia-nicht-id31514132.html",
+          "published": "2026-11-09T21:58:49+00:00",
+          "summary": "Die Wall Street hat den Midterms-Schock überwunden: Zum Wochenauftakt legen die US-Börsen kräftig zu, was auch mit einer Äußerung des US-Präsidenten zum Iran zu tun hat. Nvidia-Papiere fassen die …"
+        },
+        {
+          "title": "\"Kompromittierende Situationen\": Verfassungsschutz: Ausländische Geheimdienste wollen Manager in Falle locken",
+          "link": "https://www.n-tv.de/wirtschaft/Verfassungsschutz-Auslaendische-Geheimdienste-wollen-Manager-in-Falle-locken-id31513875.html",
+          "published": "2026-11-09T19:26:51+00:00",
+          "summary": "Die Affäre des Nvidia-Chefs soll laut Medienberichten Verbindungen zum chinesischen Geheimdienst haben. Auch hierzulande könnten intime Beziehungen von Führungskräften missbraucht werden, warnt das …"
+        },
+        {
+          "title": "Milliarden fürs Schienennetz: Verkehrsminister Bilger kündigt Trendwende bei Bahn-Sanierung an",
+          "link": "https://www.n-tv.de/wirtschaft/Verkehrsminister-Bilger-kuendigt-Trendwende-bei-Bahn-Sanierung-an-id31513043.html",
+          "published": "2026-11-09T17:14:10+00:00",
+          "summary": "Seit rund 100 Tagen ist Steffen Bilger Bundesverkehrsminister. Er will die Generalsanierung vielbefahrener Bahnstrecken grundlegend ändern. Weniger gleichzeitige Baustellen sollen die Züge …"
+        },
+        {
+          "title": "Ein Euro mehr: Aldi Süd und Lidl heben firmeneigene Mindestlöhne an",
+          "link": "https://www.n-tv.de/wirtschaft/Aldi-Sued-und-Lidl-heben-firmeneigene-Mindestloehne-an-id31512941.html",
+          "published": "2026-11-09T15:22:57+00:00",
+          "summary": "Mit Beginn des neuen Jahres steigt die bundesweite Lohnuntergrenze. Die großen Discounter Aldi Süd und Lidl heben in ihren Unternehmen die Bezahlung in der untersten Lohngruppe schon einen Monat …"
+        },
+        {
           "title": "\"Peinlich für ihn\": Droht Nvidia-Chef Huang nach Spionage-Affäre der Rauswurf?",
           "link": "https://www.n-tv.de/wirtschaft/Droht-Nvidia-Chef-Huang-nach-Spionage-Affaere-der-Rauswurf-id31512274.html",
           "published": "2026-11-09T14:00:51+00:00",
           "summary": "Schlagzeilen um eine Affäre mit einer mutmaßlichen chinesischen Spionin bringen Nvidia-Ikone Huang in Bedrängnis. Während einige Experten ihn für unersetzlich halten, wächst an der Wall Street der …"
-        },
-        {
-          "title": "Spionin im Dienste Chinas?: Die Frau, die den Nvidia-Chef in die Honigfalle lockte",
-          "link": "https://www.n-tv.de/wirtschaft/Die-Frau-die-den-Nvidia-Chef-in-die-Honigfalle-lockte-id31511718.html",
-          "published": "2026-11-09T13:29:38+00:00",
-          "summary": "Die Affäre ist höchstpeinlich für Nvidia-Chef Jensen Huang: Eine mutmaßliche chinesische Spionin soll seine Geliebte gewesen sein. Doch wer genau ist die Frau und was ist über ihre Beziehung zu Huang …"
-        },
-        {
-          "title": "Unternehmen will sparen: Vodafone streicht 2300 Stellen in Deutschland",
-          "link": "https://www.n-tv.de/wirtschaft/Vodafone-streicht-2-300-Stellen-in-Deutschland-Marcel-De-Groot-begruendet-Stellenabbau-id31511540.html",
-          "published": "2026-11-09T13:22:41+00:00",
-          "summary": "Der Mobilfunkkonzern Vodafone steht nach eigenen Angaben unter wirtschaftlichem Druck. Deswegen reagiert der Konzern nun mit harten Maßnahmen."
-        },
-        {
-          "title": "Geheimes Spitzentreffen: BASF umgarnt Evonik und blitzt erneut ab",
-          "link": "https://www.n-tv.de/wirtschaft/BASF-umgarnt-Evonik-und-blitzt-erneut-ab-id31512022.html",
-          "published": "2026-11-09T13:22:06+00:00",
-          "summary": "BASF will Evonik übernehmen. Der Essener Konkurrent hält von der Idee jedoch wenig, auch ein Spitzentreffen am Wochenende bringt keine Annäherung. Ein Grund dafür: Evonik hat eigene Expansionspläne."
-        },
-        {
-          "title": "Was wollte Chinas Geheimdienst? : Was über die Nvidia-Spionageaffäre bekannt ist",
-          "link": "https://www.n-tv.de/wirtschaft/Was-ueber-die-Nvidia-Spionageaffaere-bekannt-ist-id31511589.html",
-          "published": "2026-11-09T12:34:47+00:00",
-          "summary": "Es geht in diesem Fall wohl um weit mehr als technologische Geheimnisse und Wirtschaftsspionage: Die Affäre von Nvidia-Boss Jensen Huang mit einer mutmaßlichen Agentin lässt den Aktienkurs des …"
         }
       ],
       "error": null
@@ -102,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: DAX erholt sich kräftig",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
+          "published": "2026-11-09T17:18:50+00:00",
+          "summary": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite."
+        },
+        {
           "title": "Nvidia-Affäre lässt Aktie einbrechen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
           "published": "2026-11-09T13:44:48+00:00",
           "summary": "Die mutmaßliche Spionageaffäre um Nvidia-Chef Huang trifft den Chiphersteller und die gesamte KI-Branche zu einem äußerst ungünstigen Zeitpunkt. Wie es weitergeht, müssen nun Fakten entscheiden. Von …"
-        },
-        {
-          "title": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-          "published": "2026-11-09T09:25:58+00:00",
-          "summary": "Der DAX macht zwar einen Teil der Kursverluste vom Freitag wieder wett, aber noch scheuen die Investoren das Risiko. Unterstützung kommt von Konjunkturseite, die Exporte fallen unerwartet stark aus."
         },
         {
           "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
@@ -139,8 +170,39 @@
       "name": "Wirtschaftswoche",
       "site": "https://www.wiwo.de",
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
-      "items": [],
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "items": [
+        {
+          "title": "Pete Hegseth: Amtsenthebungsverfahren gegen US-Verteidigungsminister beantragt",
+          "link": "https://www.wiwo.de/politik/ausland/pete-hegseth-amtsenthebungsverfahren-gegen-us-verteidigungsminister-beantragt/100268548.html",
+          "published": "2026-11-09T19:53:51+00:00",
+          "summary": "Die US-Regierung steht wegen ihres Vorgehens im Iran-Krieg unter Druck. Nun wurde ein Amtsenthebungsverfahren gegen Pete Hegseth eingebracht."
+        },
+        {
+          "title": "Modekonzern: Nach Übernahme – bei Hugo Boss geht der nächste Vorstand",
+          "link": "https://www.wiwo.de/unternehmen/handel/hugo-boss-nach-uebernahme-bei-hugo-boss-geht-der-naechste-vorstand/100268543.html",
+          "published": "2026-11-09T19:16:54+00:00",
+          "summary": "Nach Finanzvorstand Yves Müller verlässt ein weiterer Vorstand den Modekonzern Hugo Boss. Vertriebsvorstand Oliver Timm geht."
+        },
+        {
+          "title": "Wissensmanagement: So sichern sich Unternehmen die Erfahrung der Boomer",
+          "link": "https://www.wiwo.de/erfolg/management/boomer-und-rente-so-sichern-firmen-die-erfahrung-langjaehriger-mitarbeiter/100263677.html",
+          "published": "2026-11-09T18:41:40+00:00",
+          "summary": "Millionen erfahrene Mitarbeiter werden Deutschlands Weltmarktführer bald verlassen. Wertvolles Wissen nehmen sie mit. Wie sollten sich die Unternehmen vorbereiten?"
+        },
+        {
+          "title": "KI-News aktuell: KI beschleunigt eigene Entwicklung – Demokraten wollen stärkere Regulierung",
+          "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-nvidia-chef-hatte-wohl-affaere-mit-chinesischer-spionin/100245205.html",
+          "published": "2026-11-09T17:30:00+00:00",
+          "summary": "Das KI-Modell von Anthropic hat eigenständig die Bezahlschranke einer US-Behördenseite umgangen. Kimi K3.1 Pro hat OpenAIs Spitzenmodell Astra überholt."
+        },
+        {
+          "title": "Hidden Agenda: So entgehen Sie Hinterhalten Ihrer Bürokollegen",
+          "link": "https://www.wiwo.de/erfolg/beruf/hidden-agenda-im-job-so-entlarven-sie-fiese-taktierer-im-buero/100267893.html",
+          "published": "2026-11-09T17:03:00+00:00",
+          "summary": "Vorsicht, Falle: Es gibt Kollegen, die gemeinsame Ziele ausrufen – und dabei im Geheimen nur ihre eigene Agenda verfolgen. Darauf sollten Sie sich vorbereiten."
+        }
+      ],
+      "error": null
     },
     {
       "id": "ingenieur-de",
@@ -148,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "60-m-Katapult schießt Menschen aus Europas höchstem Schornstein",
+          "link": "https://www.ingenieur.de/60-m-katapult-schiesst-menschen-aus-europas-hoechstem-schornstein-799ef315-6595-461e-b11f-1c49254aa81c/",
+          "published": "2026-11-09T19:18:07+00:00",
+          "summary": "Ein 60-m-Katapult in Europas höchstem Schornstein: Zwei Extremsportler stellen Weltrekorde auf. Die Technik dahinter ist außergewöhnlich."
+        },
+        {
+          "title": "Elbtower-Debakel: Baufirma baut ersten Kran ab und droht mit Rückzug",
+          "link": "https://www.ingenieur.de/elbtower-debakel-baufirma-baut-ersten-kran-ab-und-droht-mit-rueckzug-ea03dd86-baff-4f09-bbb9-471ee58b10e7/",
+          "published": "2026-11-09T15:28:38+00:00",
+          "summary": "Am 19. November soll der erste Kran am Elbtower verschwinden. Lupp droht mit dem Abzug der Spezialtechnik. Kann Hamburg den Weiterbau noch retten?"
+        },
         {
           "title": "Forscher bauen Fehler in Metall ein und machen es dadurch stärker",
           "link": "https://www.ingenieur.de/metall-gegen-hitze-winzige-atomschichten-stoppen-schleichende-verformung-70240044-5619-4f4e-b47b-97dabbe5a1e5/",
@@ -165,18 +239,6 @@
           "link": "https://www.ingenieur.de/2000-c-in-05-sekunden-forscher-jagen-strom-durch-windrad-schrott-und-gewinnen-rohstoffe-098bbae2-fe3f-45c9-8da4-0689dacd9def/",
           "published": "2026-11-09T13:00:00+00:00",
           "summary": "Allein in Deutschland fallen jährlich Tausende Tonnen alter Rotorblätter an. Recyceln lässt sich der Hightech-Schrott bislang kaum. Forscher aus Peking wollen ihn jetzt in Werkstoffe für neue …"
-        },
-        {
-          "title": "Lazarettzüge für die Bundeswehr: Was Deutschland von der Ukraine lernen kann",
-          "link": "https://www.ingenieur.de/krankenhauszug-wird-realitaet-alstom-und-siemens-wollen-ihn-bringen-00a599a1-060b-46bb-8246-76964b45ac51/",
-          "published": "2026-11-09T12:30:00+00:00",
-          "summary": "Lazarettzüge für die Bundeswehr: Siemens und Rheinmetall entwickeln Konzepte. Die Ukraine zeigt mit 70 Medizinwagen, worauf es ankommt."
-        },
-        {
-          "title": "Plant Manager: Aufgaben, Verantwortung, Gehalt und Karriere",
-          "link": "https://www.ingenieur.de/kategorie-berufsprofile-plant-manager-a64fc74c-cf3c-4a8f-9e99-bdb74a966166/",
-          "published": "2026-11-09T12:02:00+00:00",
-          "summary": "Plant Manager: Aufgaben wie die Leitung eines gesamten Produktionsbetriebs sowie die Verantwortung für Personal, Qualität und Wirtschaftlichkeit, Infos zum Studium, Gehalt und Karriere im Überblick."
         }
       ],
       "error": null
