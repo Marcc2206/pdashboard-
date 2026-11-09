@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:36:01+00:00",
+  "generatedAt": "2026-11-09T15:07:53+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "ARD-Umfrage: Was die Deutschen an der Demokratie kritisieren",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html",
-          "published": "2026-11-09T04:01:12+00:00",
-          "summary": "Die Demokratie genießt breiten Rückhalt. Aber nur jeder Dritte ist der Meinung, dass sie in Deutschland gut funktioniert. Warum das so ist und was helfen kann, zeigt die ARD-Aktion \"Deine Meinung …"
-        },
-        {
-          "title": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
-          "link": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
-          "published": "2026-11-09T03:59:05+00:00",
-          "summary": "Im türkischen Antalya beginnt die 31. Klimakonferenz der Vereinten Nationen. Zwei Wochen lang beraten Vertreter von fast 200 Ländern über Maßnahmen gegen die Erderwärmung. UN-Generalsekretär Guterres …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680542.html",
-          "published": "2026-11-09T03:48:06+00:00",
+          "title": "Luca Manns, Forschungsstelle Nachrichtendienste Uni Köln, zum Spionageverdacht bei Nvidia",
+          "link": "https://www.tagesschau.de/video/video-1680800.html",
+          "published": "2026-11-09T14:50:44+00:00",
           "summary": ""
         },
         {
-          "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
-          "published": "2026-11-09T03:34:40+00:00",
-          "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von …"
+          "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+          "published": "2026-11-09T14:48:54+00:00",
+          "summary": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist …"
         },
         {
-          "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
-          "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
-          "published": "2026-11-09T03:32:51+00:00",
-          "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen …"
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680798.html",
+          "published": "2026-11-09T14:48:48+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
+          "published": "2026-11-09T14:45:20+00:00",
+          "summary": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht …"
+        },
+        {
+          "title": "G7-Außenminister sprechen über Ukraine und Iran",
+          "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+          "published": "2026-11-09T14:21:47+00:00",
+          "summary": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau."
         }
       ],
       "error": null
@@ -45,39 +45,8 @@
       "name": "Handelsblatt",
       "site": "https://www.handelsblatt.com",
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
-      "items": [
-        {
-          "title": "Asien: Chinas Erzeugerpreise steigen so stark wie seit fast über vier Jahren nicht mehr",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/asien-chinas-erzeugerpreise-steigen-so-stark-wie-seit-fast-ueber-vier-jahren-nicht-mehr/100268319.html",
-          "published": "2026-11-09T04:26:31+00:00",
-          "summary": "Hohe Energiekosten treiben die Erzeugerpreise in China an. Auf Jahressicht lag das Plus im Oktober bei 5,7 Prozent. Auch im September waren die Preise bereits deutlich gestiegen."
-        },
-        {
-          "title": "Chip-Riese: Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin/100268300.html",
-          "published": "2026-11-09T04:19:56+00:00",
-          "summary": "Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms. Seine Affäre mit einer Frau, die eine chinesische Spionin gewesen sein könnte, birgt politischen Zündstoff."
-        },
-        {
-          "title": "Russischer Angriffskrieg: Trump: Ukraine wird „etwas andere Form“ haben",
-          "link": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-trump-ukraine-wird-etwas-andere-form-haben/100268317.html",
-          "published": "2026-11-09T04:13:10+00:00",
-          "summary": "Der Krieg in der Ukraine werde bald enden, sagt Präsident Donald Trump abermals. Diesmal äußert er sich auch zu möglichen Gebietsabtretungen des angegriffenen Landes."
-        },
-        {
-          "title": "Märkte Asien: Zweifel an Zukunft von Nvidia-Chef Huang bremsen Südkoreas Börse",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/zweifel-an-zukunft-von-nvidia-chef-huang-bremsen-suedkoreas-boerse/100268306.html",
-          "published": "2026-11-09T04:06:11+00:00",
-          "summary": "Die Börsen in Japan und Taiwan legen kräftig zu, doch Südkorea hinkt hinterher. Die Affäre von Nvidia-Chef Huang dämpft die Stimmung. Für Samsung und SK Hynix steht viel auf dem Spiel."
-        },
-        {
-          "title": "Steinmeier-Nachfolge: Krisenmanagerin und Brückenbauerin in rauen Zeiten gefragt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/steinmeier-nachfolge-krisenmanagerin-und-brueckenbauerin-in-rauen-zeiten-gefragt/100268313.html",
-          "published": "2026-11-09T04:00:10+00:00",
-          "summary": "Das politische Klima wird immer ruppiger. Welche Anforderungen stellt das an die Nachfolgerin von Bundespräsident Steinmeier? Was braucht sie für das Amt? Und welche Gestaltungsspielräume hat sie?"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "ntv-wirtschaft",
@@ -86,34 +55,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Affäre mit möglicher Spionin: Nvidia leitet Untersuchungen gegen Chef Huang ein",
-          "link": "https://www.n-tv.de/wirtschaft/Nvidia-leitet-Untersuchungen-gegen-Chef-Huang-ein-id31509683.html",
-          "published": "2026-11-08T21:02:59+00:00",
-          "summary": "In einer E-Mail an seine Belegschaft bestätigt Nvidia-Chef Huang eine Affäre. Berichten zufolge wurde die Frau vom chinesischen Geheimdienst angeworben. Der Chipkonzern leitet daraufhin eine interne …"
+          "title": "\"Peinlich für ihn\": Droht Nvidia-Chef Huang nach Spionage-Affäre der Rauswurf?",
+          "link": "https://www.n-tv.de/wirtschaft/Droht-Nvidia-Chef-Huang-nach-Spionage-Affaere-der-Rauswurf-id31512274.html",
+          "published": "2026-11-09T14:00:51+00:00",
+          "summary": "Schlagzeilen um eine Affäre mit einer mutmaßlichen chinesischen Spionin bringen Nvidia-Ikone Huang in Bedrängnis. Während einige Experten ihn für unersetzlich halten, wächst an der Wall Street der …"
         },
         {
-          "title": "17 Hektar sollen gerodet werden: Umweltschützer protestieren gegen Red Bull-Fabrik bei Berlin",
-          "link": "https://www.n-tv.de/wirtschaft/Umweltschuetzer-protestieren-gegen-Red-Bull-Fabrik-bei-Berlin-id31509407.html",
-          "published": "2026-11-08T19:46:37+00:00",
-          "summary": "Im brandenburgischen Baruth will Red Bull ein neues Dosenwerk errichten. Dafür müssen rund 17 Hektar Wald gerodet werden, was Umweltschützer auf den Plan ruft."
+          "title": "Spionin im Dienste Chinas?: Die Frau, die den Nvidia-Chef in die Honigfalle lockte",
+          "link": "https://www.n-tv.de/wirtschaft/Die-Frau-die-den-Nvidia-Chef-in-die-Honigfalle-lockte-id31511718.html",
+          "published": "2026-11-09T13:29:38+00:00",
+          "summary": "Die Affäre ist höchstpeinlich für Nvidia-Chef Jensen Huang: Eine mutmaßliche chinesische Spionin soll seine Geliebte gewesen sein. Doch wer genau ist die Frau und was ist über ihre Beziehung zu Huang …"
         },
         {
-          "title": "Mehr Frauen in Dax-Vorständen: Top-Managerinnen holen bei Gehältern auf",
-          "link": "https://www.n-tv.de/wirtschaft/Top-Managerinnen-holen-bei-Gehaeltern-auf-id31509046.html",
-          "published": "2026-11-08T15:43:59+00:00",
-          "summary": "Weibliche Vorstandsmitglieder holen bei der Vergütung in deutschen Börsenunternehmen deutlich auf. Doch während sich die Gehälter im Dax annähern, wächst der Abstand in MDax und SDax. Eine EY-Studie …"
+          "title": "Unternehmen will sparen: Vodafone streicht 2300 Stellen in Deutschland",
+          "link": "https://www.n-tv.de/wirtschaft/Vodafone-streicht-2-300-Stellen-in-Deutschland-Marcel-De-Groot-begruendet-Stellenabbau-id31511540.html",
+          "published": "2026-11-09T13:22:41+00:00",
+          "summary": "Der Mobilfunkkonzern Vodafone steht nach eigenen Angaben unter wirtschaftlichem Druck. Deswegen reagiert der Konzern nun mit harten Maßnahmen."
         },
         {
-          "title": "Kostspielige Bescherung: Handys, Laptops und andere Elektronik werden deutlich teurer",
-          "link": "https://www.n-tv.de/wirtschaft/Handys-Laptops-und-andere-Elektronik-werden-deutlich-teurer-id31508087.html",
-          "published": "2026-11-08T07:59:22+00:00",
-          "summary": "In wenigen Wochen ist Weihnachten. Doch wer plant, Technik zu verschenken, erlebt derzeit einen kleinen Schock: Die Preise für elektronische Geräte sind massiv gestiegen. Experten erklären die Gründe …"
+          "title": "Geheimes Spitzentreffen: BASF umgarnt Evonik und blitzt erneut ab",
+          "link": "https://www.n-tv.de/wirtschaft/BASF-umgarnt-Evonik-und-blitzt-erneut-ab-id31512022.html",
+          "published": "2026-11-09T13:22:06+00:00",
+          "summary": "BASF will Evonik übernehmen. Der Essener Konkurrent hält von der Idee jedoch wenig, auch ein Spitzentreffen am Wochenende bringt keine Annäherung. Ein Grund dafür: Evonik hat eigene Expansionspläne."
         },
         {
-          "title": "Aufholjagd bei E-Autos läuft: Deutsche Autobauer können chinesische Konkurrenten überholen",
-          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Autobauer-koennen-chinesische-Konkurrenten-ueberholen-id31504850.html",
-          "published": "2026-11-08T07:35:16+00:00",
-          "summary": "Bei Elektroautos ist die deutsche Autoindustrie von China abgehängt. Das muss nicht so bleiben. In Bezug auf Innovationen stoßen chinesische Hersteller an ihre Grenzen. Die deutschen Autobauer holen …"
+          "title": "Was wollte Chinas Geheimdienst? : Was über die Nvidia-Spionageaffäre bekannt ist",
+          "link": "https://www.n-tv.de/wirtschaft/Was-ueber-die-Nvidia-Spionageaffaere-bekannt-ist-id31511589.html",
+          "published": "2026-11-09T12:34:47+00:00",
+          "summary": "Es geht in diesem Fall wohl um weit mehr als technologische Geheimnisse und Wirtschaftsspionage: Die Affäre von Nvidia-Boss Jensen Huang mit einer mutmaßlichen Agentin lässt den Aktienkurs des …"
         }
       ],
       "error": null
@@ -133,16 +102,22 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Nvidia-Affäre lässt Aktie einbrechen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
+          "published": "2026-11-09T13:44:48+00:00",
+          "summary": "Die mutmaßliche Spionageaffäre um Nvidia-Chef Huang trifft den Chiphersteller und die gesamte KI-Branche zu einem äußerst ungünstigen Zeitpunkt. Wie es weitergeht, müssen nun Fakten entscheiden. Von …"
+        },
+        {
+          "title": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
+          "published": "2026-11-09T09:25:58+00:00",
+          "summary": "Der DAX macht zwar einen Teil der Kursverluste vom Freitag wieder wett, aber noch scheuen die Investoren das Risiko. Unterstützung kommt von Konjunkturseite, die Exporte fallen unerwartet stark aus."
+        },
+        {
           "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
           "published": "2026-11-08T07:35:33+00:00",
           "summary": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina …"
-        },
-        {
-          "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-          "published": "2026-11-06T17:30:36+00:00",
-          "summary": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln."
         },
         {
           "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
@@ -155,12 +130,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
           "published": "2026-11-05T13:18:40+00:00",
           "summary": "Öl wird günstiger und damit auch Benzin. Diesel allerdings bleibt teuer. Nach den Midterms hoffen Anleger auf Entspannung im Iran-Krieg - aber die Lage bleibt weiter angespannt."
-        },
-        {
-          "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
-          "published": "2026-11-04T13:11:29+00:00",
-          "summary": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den …"
         }
       ],
       "error": null
@@ -170,39 +139,8 @@
       "name": "Wirtschaftswoche",
       "site": "https://www.wiwo.de",
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
-      "items": [
-        {
-          "title": "Aktienkurse: Der KI-Schock und die Politik im Depot",
-          "link": "https://www.wiwo.de/finanzen/boerse/politische-risiken-bei-aktien-der-ki-schock-und-die-politik-im-depot/100267947.html",
-          "published": "2026-11-08T16:04:59+00:00",
-          "summary": "Politische Risiken beeinflussen Aktienkurse stärker als gedacht. Drei wissenschaftliche Befunde zeigen, worauf aktive Anleger bei Wahlen im Depot achten müssen. Eine Kolumne."
-        },
-        {
-          "title": "Maschinenbauer Reinhausen: Wie ein Regensburger Patent von 1926 die Netze bis heute regelt",
-          "link": "https://www.wiwo.de/unternehmen/mittelstand/maschinenbauer-reinhausen-wie-ein-patent-von-1926-die-stromnetze-regelt/100265373.html",
-          "published": "2026-11-08T15:48:28+00:00",
-          "summary": "Vor 100 Jahren machte eine Erfindung aus Regensburg die Stromnetze stabiler. Heute stehen sie weltweit wieder am Limit – und der Weltmarktführer Reinhausen wächst so schnell wie nie"
-        },
-        {
-          "title": "Innovationen: Fördert der Staat richtig? Da sind sich nicht alle Weltmarktführer einig",
-          "link": "https://www.wiwo.de/politik/deutschland/staatliche-innovationsfoerderung-was-dem-mittelstand-fehlt/100259049.html",
-          "published": "2026-11-08T15:47:12+00:00",
-          "summary": "Ohne Innovationen fallen deutsche Top-Unternehmen im Wettbewerb zurück. Die Regierung kann ihnen helfen – aber nicht allen helfen alle Rezepte gleich gut."
-        },
-        {
-          "title": "Förderung für Elektroautos: Sind die Töpfe der E-Auto-Kaufprämie schon bald leer?",
-          "link": "https://www.wiwo.de/technologie/mobilitaet/foerderung-fuer-elektroautos-sind-die-toepfe-der-e-auto-kaufpraemie-schon-bald-leer/100267882.html",
-          "published": "2026-11-08T15:46:41+00:00",
-          "summary": "Drei Milliarden Euro hat die Regierung in den Fördertopf für die E-Auto-Prämie gepackt. Klingt viel. Doch das Geld könnte schnell weg sein. Sollten Interessenten sich mit ihrer Kaufentscheidung …"
-        },
-        {
-          "title": "Neuer Stabschef im Weißen Haus: Mit Hardliner Miller setzt Trump auch im Handel auf Konfrontation",
-          "link": "https://www.wiwo.de/politik/ausland/stephen-miller-mit-hardliner-miller-setzt-trump-auch-im-handel-auf-konfrontation/100268064.html",
-          "published": "2026-11-08T15:05:00+00:00",
-          "summary": "Susie Wiles geht, Stephen Miller kommt: Nach dem Midterms-Debakel befördert Donald Trump ausgerechnet seinen radikalsten Berater. Ein Kommentar."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "ingenieur-de",
@@ -211,34 +149,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "ZF dreht auf 30.000 U/min und macht den Elektroantrieb ein Viertel kleiner",
-          "link": "https://www.ingenieur.de/zf-dreht-auf-30-000-u-min-und-macht-den-elektroantrieb-ein-viertel-kleiner-581d2455-4b0d-4948-8f3a-580aac3ccb11/",
-          "published": "2026-11-08T16:29:44+00:00",
-          "summary": "30.000 U/min, 25 % weniger Gewicht und halb so viele Magnete: ZF zeigt einen neuen Elektroantrieb. Wie die Technik funktioniert."
+          "title": "Forscher bauen Fehler in Metall ein und machen es dadurch stärker",
+          "link": "https://www.ingenieur.de/metall-gegen-hitze-winzige-atomschichten-stoppen-schleichende-verformung-70240044-5619-4f4e-b47b-97dabbe5a1e5/",
+          "published": "2026-11-09T14:00:00+00:00",
+          "summary": "Gezielte Fehler im Kristallgitter machen eine Superlegierung widerstandsfähiger. Bei 750 °C sinkt ihre Kriechrate auf weniger als ein Drittel."
         },
         {
-          "title": "Der erste Schritt zu gigantischen Bauwerken im All ist gelungen",
-          "link": "https://www.ingenieur.de/der-erste-schritt-zu-gigantischen-bauwerken-im-all-ist-gelungen-514d7a0d-7d2d-42a3-bf42-9186b75b3678/",
-          "published": "2026-11-08T16:20:00+00:00",
-          "summary": "Premiere im Erdorbit: Der Roboter ASTRA montiert erstmals eine Tragstruktur. Wie die Weltraumtechnik funktioniert und warum die Antenne nicht fertig wurde."
+          "title": "Diese Hollywood-Figuren haben 142.000 Gesichter, dank deutscher Software",
+          "link": "https://www.ingenieur.de/diese-hollywood-figuren-haben-142-000-gesichter-dank-deutscher-software-7d12636e-09b2-4ed4-b606-c936b0bfd9b1/",
+          "published": "2026-11-09T13:30:00+00:00",
+          "summary": "Für den Animationsfilm „Wildwood“ entstanden 142.000 Gesichtsausdrücke im 3D-Drucker. Dahinter steckt eine spezielle Software aus Darmstadt."
         },
         {
-          "title": "Flettner-Rotor: Wie rotierende Zylinder riesige Schiffe antreiben",
-          "link": "https://www.ingenieur.de/der-flettner-rotor-eine-fast-vergessene-erfindung-4028640c-66e2-4eaf-b849-b4105441b864/",
-          "published": "2026-11-08T14:03:00+00:00",
-          "summary": "Wie treiben rotierende Zylinder riesige Frachtschiffe an? Der Flettner-Rotor nutzt den Magnus-Effekt und kann den Treibstoffverbrauch deutlich senken."
+          "title": "2000 °C in 0,5 Sekunden: Forscher jagen Strom durch Windrad-Schrott und gewinnen Rohstoffe",
+          "link": "https://www.ingenieur.de/2000-c-in-05-sekunden-forscher-jagen-strom-durch-windrad-schrott-und-gewinnen-rohstoffe-098bbae2-fe3f-45c9-8da4-0689dacd9def/",
+          "published": "2026-11-09T13:00:00+00:00",
+          "summary": "Allein in Deutschland fallen jährlich Tausende Tonnen alter Rotorblätter an. Recyceln lässt sich der Hightech-Schrott bislang kaum. Forscher aus Peking wollen ihn jetzt in Werkstoffe für neue …"
         },
         {
-          "title": "Die größten Bahnhöfe der Welt: Einer schafft 2,7 Millionen Reisende am Tag",
-          "link": "https://www.ingenieur.de/die-groessten-bahnhoefe-der-welt-cb5d63cb-dd3c-41e7-8066-1fac27b8bc42/",
-          "published": "2026-11-08T10:59:33+00:00",
-          "summary": "Welcher ist der größte Bahnhof der Welt? Neun Bahnhöfe im Vergleich – mit Rekorden bei Gleisen, Bahnsteigen, Fläche und Fahrgastzahlen."
+          "title": "Lazarettzüge für die Bundeswehr: Was Deutschland von der Ukraine lernen kann",
+          "link": "https://www.ingenieur.de/krankenhauszug-wird-realitaet-alstom-und-siemens-wollen-ihn-bringen-00a599a1-060b-46bb-8246-76964b45ac51/",
+          "published": "2026-11-09T12:30:00+00:00",
+          "summary": "Lazarettzüge für die Bundeswehr: Siemens und Rheinmetall entwickeln Konzepte. Die Ukraine zeigt mit 70 Medizinwagen, worauf es ankommt."
         },
         {
-          "title": "Liebherr schickt Wasserstoff-Koloss in den Hafen, jetzt zählt die Leistung",
-          "link": "https://www.ingenieur.de/liebherr-schickt-wasserstoff-koloss-in-den-hafen-jetzt-zaehlt-die-leistung-5e7307b5-56e9-411c-a9b6-d24251ea4dd3/",
-          "published": "2026-11-07T20:51:53+00:00",
-          "summary": "Liebherr testet den Wasserstoff-Radlader L 566 H im Bremerhavener Hafen: Eine Tankfüllung soll für eine Schicht reichen – nun zählt die Praxisleistung."
+          "title": "Plant Manager: Aufgaben, Verantwortung, Gehalt und Karriere",
+          "link": "https://www.ingenieur.de/kategorie-berufsprofile-plant-manager-a64fc74c-cf3c-4a8f-9e99-bdb74a966166/",
+          "published": "2026-11-09T12:02:00+00:00",
+          "summary": "Plant Manager: Aufgaben wie die Leitung eines gesamten Produktionsbetriebs sowie die Verantwortung für Personal, Qualität und Wirtschaftlichkeit, Infos zum Studium, Gehalt und Karriere im Überblick."
         }
       ],
       "error": null
