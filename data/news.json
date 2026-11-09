@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:24:44+00:00",
+  "generatedAt": "2026-11-09T04:36:01+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "ARD-Umfrage: Was die Deutschen an der Demokratie kritisieren",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html",
+          "published": "2026-11-09T04:01:12+00:00",
+          "summary": "Die Demokratie genießt breiten Rückhalt. Aber nur jeder Dritte ist der Meinung, dass sie in Deutschland gut funktioniert. Warum das so ist und was helfen kann, zeigt die ARD-Aktion \"Deine Meinung …"
+        },
+        {
+          "title": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
+          "link": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
+          "published": "2026-11-09T03:59:05+00:00",
+          "summary": "Im türkischen Antalya beginnt die 31. Klimakonferenz der Vereinten Nationen. Zwei Wochen lang beraten Vertreter von fast 200 Ländern über Maßnahmen gegen die Erderwärmung. UN-Generalsekretär Guterres …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680542.html",
+          "published": "2026-11-09T03:48:06+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+          "published": "2026-11-09T03:34:40+00:00",
+          "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von …"
+        },
+        {
           "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
           "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
-          "published": "2026-11-08T23:11:37+00:00",
+          "published": "2026-11-09T03:32:51+00:00",
           "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen …"
-        },
-        {
-          "title": "Leverkusen gewinnt in Köln 2:1",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
-          "published": "2026-11-08T23:00:17+00:00",
-          "summary": "Der 1. FC Köln rutscht immer tiefer in die Abstiegszone: Gegen den ungeliebten Nachbarn aus Leverkusen gab es eine 1:2 Heimpleite."
-        },
-        {
-          "title": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet",
-          "link": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-          "published": "2026-11-08T23:00:17+00:00",
-          "summary": "Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen."
-        },
-        {
-          "title": "Ein Tor, aber keine Punkte für den FC Schalke 04",
-          "link": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-          "published": "2026-11-08T23:00:00+00:00",
-          "summary": "Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte."
-        },
-        {
-          "title": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf",
-          "link": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
-          "published": "2026-11-08T23:00:00+00:00",
-          "summary": "Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Papst auf Reisen: Papst Leo fordert in Argentinien mehr Rücksicht auf Schwache",
-          "link": "https://www.handelsblatt.com/politik/international/papst-auf-reisen-papst-leo-fordert-in-argentinien-mehr-ruecksicht-auf-schwache/100268282.html",
-          "published": "2026-11-08T23:02:04+00:00",
-          "summary": "Der argentinische Papst Franziskus kehrte nie mehr in seine Heimat zurück. Jetzt rollt Präsident Milei dessen Nachfolger den roten Teppich aus. Aber Leo XIV. findet auch kritische Worte."
+          "title": "Asien: Chinas Erzeugerpreise steigen so stark wie seit fast über vier Jahren nicht mehr",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/asien-chinas-erzeugerpreise-steigen-so-stark-wie-seit-fast-ueber-vier-jahren-nicht-mehr/100268319.html",
+          "published": "2026-11-09T04:26:31+00:00",
+          "summary": "Hohe Energiekosten treiben die Erzeugerpreise in China an. Auf Jahressicht lag das Plus im Oktober bei 5,7 Prozent. Auch im September waren die Preise bereits deutlich gestiegen."
         },
         {
-          "title": "Iran-Krieg: US-Militär ergänzt Iran-Seeblockade mit Maßnahmen an Land",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-militaer-ergaenzt-iran-seeblockade-mit-massnahmen-an-land/100268278.html",
-          "published": "2026-11-08T22:08:20+00:00",
-          "summary": "Mit einer Seeblockade wollen die USA iranische Ölexporte trockenlegen. Jetzt folgen Maßnahmen auf dem Festland."
+          "title": "Chip-Riese: Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
+          "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin/100268300.html",
+          "published": "2026-11-09T04:19:56+00:00",
+          "summary": "Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms. Seine Affäre mit einer Frau, die eine chinesische Spionin gewesen sein könnte, birgt politischen Zündstoff."
         },
         {
-          "title": "Chip-Riese: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-chef/100268273.html",
-          "published": "2026-11-08T21:07:33+00:00",
-          "summary": "Nvidia-Chef Jensen Huang räumt eine Affäre ein. Laut Medienberichten vermuten US-Behörden, dass die Frau vom chinesischen Geheimdienst angeworben wurde."
+          "title": "Russischer Angriffskrieg: Trump: Ukraine wird „etwas andere Form“ haben",
+          "link": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-trump-ukraine-wird-etwas-andere-form-haben/100268317.html",
+          "published": "2026-11-09T04:13:10+00:00",
+          "summary": "Der Krieg in der Ukraine werde bald enden, sagt Präsident Donald Trump abermals. Diesmal äußert er sich auch zu möglichen Gebietsabtretungen des angegriffenen Landes."
         },
         {
-          "title": "Spionageverdacht: Hatte Jensen Huang eine Affäre mit einer Spionin? – Nvidia will Medienberichte prüfen",
-          "link": "https://www.handelsblatt.com/technik/ki/spionageverdacht-nvidia-will-berichte-ueber-auslaendische-spionage-gegen-chef-pruefen/100268272.html",
-          "published": "2026-11-08T21:03:43+00:00",
-          "summary": "Nvidia-CEO Jensen Huang sagt, er sei seiner Frau untreu gewesen. Laut Medienberichten vermuten US-Behörden, dass die Frau vom chinesischen Geheimdienst angeworben wurde."
+          "title": "Märkte Asien: Zweifel an Zukunft von Nvidia-Chef Huang bremsen Südkoreas Börse",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/zweifel-an-zukunft-von-nvidia-chef-huang-bremsen-suedkoreas-boerse/100268306.html",
+          "published": "2026-11-09T04:06:11+00:00",
+          "summary": "Die Börsen in Japan und Taiwan legen kräftig zu, doch Südkorea hinkt hinterher. Die Affäre von Nvidia-Chef Huang dämpft die Stimmung. Für Samsung und SK Hynix steht viel auf dem Spiel."
         },
         {
-          "title": "Papst auf Reisen: Leo XIV. zu Besuch in Argentinien gelandet",
-          "link": "https://www.handelsblatt.com/politik/international/papst-auf-reisen-leo-xiv-zu-besuch-in-argentinien-gelandet/100268266.html",
-          "published": "2026-11-08T20:51:07+00:00",
-          "summary": "Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land. Leos argentinischer Vorgänger Franziskus kehrte nie dorthin zurück. Jetzt dürfte es auch um Politik gehen."
+          "title": "Steinmeier-Nachfolge: Krisenmanagerin und Brückenbauerin in rauen Zeiten gefragt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/steinmeier-nachfolge-krisenmanagerin-und-brueckenbauerin-in-rauen-zeiten-gefragt/100268313.html",
+          "published": "2026-11-09T04:00:10+00:00",
+          "summary": "Das politische Klima wird immer ruppiger. Welche Anforderungen stellt das an die Nachfolgerin von Bundespräsident Steinmeier? Was braucht sie für das Amt? Und welche Gestaltungsspielräume hat sie?"
         }
       ],
       "error": null

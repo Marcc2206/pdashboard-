@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:24:47+00:00",
+  "generatedAt": "2026-11-09T04:36:05+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,25 +7,25 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-11-09T00:15",
-    "temperatur": 5.6,
-    "gefuehlt": 3.8,
-    "luftfeuchte": 92,
+    "zeit": "2026-11-09T05:30",
+    "temperatur": 5.3,
+    "gefuehlt": 3.3,
+    "luftfeuchte": 93,
     "niederschlag": 0.0,
-    "wind": 3.1,
+    "wind": 3.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 3,
-      "text": "Bedeckt",
-      "icon": "☁️"
+      "code": 61,
+      "text": "Leichter Regen",
+      "icon": "🌦️"
     }
   },
   "tage": [
     {
       "datum": "2026-11-09",
-      "max": 9.9,
-      "min": 4.9,
+      "max": 9.3,
+      "min": 4.4,
       "regenwahrscheinlichkeit": 3,
       "sonnenaufgang": "2026-11-09T07:35",
       "sonnenuntergang": "2026-11-09T16:43",
@@ -37,21 +37,21 @@
     },
     {
       "datum": "2026-11-10",
-      "max": 6.2,
-      "min": 1.1,
+      "max": 5.5,
+      "min": 0.8,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-11-10T07:37",
       "sonnenuntergang": "2026-11-10T16:41",
       "wetter": {
-        "code": 45,
-        "text": "Nebel",
-        "icon": "🌫️"
+        "code": 51,
+        "text": "Leichter Sprühregen",
+        "icon": "🌦️"
       }
     },
     {
       "datum": "2026-11-11",
-      "max": 6.4,
-      "min": 4.0,
+      "max": 5.2,
+      "min": 2.6,
       "regenwahrscheinlichkeit": 74,
       "sonnenaufgang": "2026-11-11T07:39",
       "sonnenuntergang": "2026-11-11T16:40",
@@ -63,15 +63,15 @@
     },
     {
       "datum": "2026-11-12",
-      "max": 7.2,
-      "min": 1.7,
+      "max": 6.7,
+      "min": 1.4,
       "regenwahrscheinlichkeit": 45,
       "sonnenaufgang": "2026-11-12T07:40",
       "sonnenuntergang": "2026-11-12T16:38",
       "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
+        "code": 45,
+        "text": "Nebel",
+        "icon": "🌫️"
       }
     }
   ]
