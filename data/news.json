@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:30:50+00:00",
+  "generatedAt": "2026-11-10T16:04:14+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
-          "published": "2026-11-10T06:26:38+00:00",
-          "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die …"
+          "title": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
+          "published": "2026-11-10T15:51:55+00:00",
+          "summary": "Machtmissbrauch im Iran-Krieg - unter anderem wegen dieses Vorwurfs könnte ein Amtsenthebungsverfahren gegen Pentagon-Chef Hegseth eingeleitet werden. Auf einer Pressekonferenz wies er die …"
         },
         {
-          "title": "Republikaner Massie will Hegseth des Amtes entheben",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
-          "published": "2026-11-10T06:12:18+00:00",
-          "summary": "Nach dem Wahldebakel der Republikaner sehen Gegner von US-Verteidigungsminister Hegseth eine neue Gelegenheit, ihn loszuwerden. Ob es tatsächlich zur Amtsenthebung kommt, ist aber fraglich. Präsident …"
+          "title": "Schüsse in der Hamburger Hafencity - Verdächtiger tot aufgefunden",
+          "link": "https://www.tagesschau.de/inland/regional/hamburg/schuesse-in-der-hafencity-verdaechtiger-tot-weitere-leichen-in-sueddeutschland,schuesse-170.html",
+          "published": "2026-11-10T15:51:22+00:00",
+          "summary": "In der Hamburger Hafencity sind zwei Menschen durch Schüsse verletzt worden. Der mutmaßliche Täter wurde später in einem Hotelzimmer in der Elbphilharmonie tot aufgefunden."
         },
         {
-          "title": "15 Minuten: KI-Rechenzentren, \"Bratwurststeuer\", Weinberge",
-          "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15min-podcast-ki-rechenzentren-bratwurststeuer-weinberge-100.html",
-          "published": "2026-11-10T05:56:39+00:00",
-          "summary": "Für den KI-Boom bauen Unternehmen immer größere Rechenzentren - dagegen gibt es Proteste. Wer muss bald \"Bratwurststeuer\" zahlen? Weinbau in der Krise: Warum Winzer ihre Weinberge roden. Die Themen …"
+          "title": "Maschinenbauer \"fassungslos\" über Bundesregierung",
+          "link": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
+          "published": "2026-11-10T15:43:59+00:00",
+          "summary": "Die Koalition ringt um Reformen. Viel zu zögerlich, findet der Maschinenbauverband VDMA. Er wirft der Bundesregierung vor, mit internem Streit und Reformstau den Industriestandort Deutschland zu …"
         },
         {
-          "title": "Ticket-Zweitmarkt: Preisdeckel für Ticketbörsen in der Planung",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
-          "published": "2026-11-10T04:10:12+00:00",
-          "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung."
+          "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
+          "published": "2026-11-10T15:37:43+00:00",
+          "summary": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der …"
         },
         {
-          "title": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
-          "link": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
-          "published": "2026-11-10T04:01:04+00:00",
-          "summary": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein …"
+          "title": "Zwei Tote in Baden-Württemberg: Polizei prüft Verbindungen zu Schüssen in Hamburg",
+          "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/schuesse-hamburg-verbindungen-reutlingen-100.html",
+          "published": "2026-11-10T15:14:00+00:00",
+          "summary": "In einer Wohnung südlich von Stuttgart sind zwei Tote gefunden worden. Die Polizei prüft nach eigenen Angaben einen Zusammenhang zu dem Vorfall in Hamburg, bei dem zwei Menschen wohl durch Schüsse …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Arbeitsmarkt: Jobkiller KI? Schlechtere Chancen vor allem für Berufseinsteiger",
-          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-warum-ki-vor-allem-die-jobchancen-fuer-berufseinsteiger-mindert/100267601.html",
-          "published": "2026-11-10T06:28:00+00:00",
-          "summary": "Ein neuer Indikator des Ifo-Instituts zeigt die Auswirkungen von KI auf 140 verschiedene Berufe – nach Altersgruppen. Dabei gilt der Berufseinstieg als Frühwarnsystem für den Arbeitsmarkt."
+          "title": "Gastkommentar: Bildung: Was Deutschland von Estland und Japan lernen kann",
+          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-deutschland-kann-von-estland-und-japan-in-der-bildung-lernen/100266715.html",
+          "published": "2026-11-10T15:58:01+00:00",
+          "summary": "Beide Länder nutzen KI in Schulen nur sparsam. Und beide ermöglichen über gute Bildung sozialen Aufstieg. In Deutschland ist das anders, meint Yuri Belfali, Expertin für Schulen bei der OECD."
         },
         {
-          "title": "Außenhandel: China überwindet Billionenmarke – und treibt Exporte weiter an",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/aussenhandel-china-ueberwindet-billionenmarke-und-treibt-exporte-weiter-an/100268598.html",
-          "published": "2026-11-10T06:27:10+00:00",
-          "summary": "China exportiert immer mehr ins Ausland, auch nach Deutschland. Zugleich jährt sich der Beitritt zur Welthandelsorganisation. Kritiker halten ihn für einen Fehler. Zurecht?"
+          "title": "Stellenabbau: Warsteiner Braugruppe trennt sich von Hunderten Mitarbeitern",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/stellenabbau-warsteiner-braugruppe-trennt-sich-von-hunderten-mitarbeitern/100268860.html",
+          "published": "2026-11-10T15:55:12+00:00",
+          "summary": "Mehr als 330 Beschäftigte sind von den Einschnitten beim Warsteiner Bierkonzern betroffen. Zugleich wandern Marken und Anlagen nach Warstein. In Paderborn müssen Mitarbeiter weiter bangen."
         },
         {
-          "title": "Nvidia: „Der Spion, der mich liebte“: So spottet das Netz über Jensen Huangs Affäre",
-          "link": "https://www.handelsblatt.com/technik/ki/nvidia-so-spottet-das-internet-ueber-die-affaere-des-nvidia-chefs-01/100268495.html",
-          "published": "2026-11-10T06:27:00+00:00",
-          "summary": "Der Nvidia-CEO wurde beim Seitensprung erwischt. Obendrein war seine Geliebte mutmaßlich eine chinesische Spionin. Das Netz ist sich nicht zu schade, um das aufzugreifen."
+          "title": "Immobilien: Neuer Millionenpoker: Was plant Aroundtown beim Rivalen LEG?",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-neuer-millionenpoker-was-plant-aroundtown-beim-rivalen-leg/100266866.html",
+          "published": "2026-11-10T15:50:06+00:00",
+          "summary": "Der neue Großaktionär Grand City Properties und der Düsseldorfer Vermieter legen diese Woche erstmals nach dem Einstieg Zahlen vor. So bewerten Experten die Lage und die Anlegerchancen."
         },
         {
-          "title": "Rentenalter: Rentenalter 68: Griechenlands Beschäftigte müssen bald länger arbeiten",
-          "link": "https://www.handelsblatt.com/politik/international/rentenalter-griechenlands-beschaeftigte-muessen-bald-laenger-arbeiten-01/100268102.html",
-          "published": "2026-11-10T06:24:00+00:00",
-          "summary": "Die EU-Kommission erwartet, dass Griechenland das gesetzliche Renteneintrittsalter bis 2030 auf 68 Jahre anhebt. Ein Vorbild für Deutschland?"
+          "title": "Wall Street: Heiße Inflation verschärft das Fed-Risiko. Tech unter Druck.",
+          "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-heisse-inflation-verschaerft-das-fed-risiko-tech-unter-druck/100268864.html",
+          "published": "2026-11-10T15:47:00+00:00",
+          "summary": "Wall Street mit Markus Koch vom 10.11.2026"
         },
         {
-          "title": "Interview: Tech-Investor Beckers zu KI-Aktien: „Ein Sicherheitsereignis könnte einen großen Schock auslösen“",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/tech-investor-ein-sicherheitsereignis-koennte-einen-grossen-schock-ausloesen/100266549.html",
-          "published": "2026-11-10T06:24:00+00:00",
-          "summary": "Jan Beckers ist einer der bekanntesten Technologie-Investoren in Deutschland. Im Interview verrät er, welche Unternehmen nach dem jüngsten Kursrutsch bei Tech-Aktien besonders attraktiv sind."
+          "title": "Friedensgespräche: Russland und Ukraine kehren nach acht Monaten an den Verhandlungstisch zurück",
+          "link": "https://www.handelsblatt.com/video/politik/friedensgespraeche-russland-und-ukraine-kehren-nach-acht-monaten-an-den-verhandlungstisch-zurueck/100268788.html",
+          "published": "2026-11-10T15:42:00+00:00",
+          "summary": "Ziel der zweitägigen Gespräche in Abu Dhabi ist es laut den Verhandlungsführern aus Moskau und Kiew, einen dauerhaften Frieden zu erreichen. Das trilaterale Treffen wurde von den USA vermittelt."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Nur noch 59 Prozent Füllstand: Verband warnt vor Gasengpässen bei Extremwinter",
-          "link": "https://www.n-tv.de/wirtschaft/Verband-warnt-vor-Gasengpaessen-bei-Extremwinter-id31514509.html",
-          "published": "2026-11-10T06:16:44+00:00",
-          "summary": "Eigentlich müssen die meisten Gasspeicher in Deutschland bis zum 1. November zu mindestens 80 Prozent gefüllt sein. Tatsächlich liegt der Stand in diesem Jahr deutlich niedriger. Das beunruhigt den …"
+          "title": "\"Abzocke beenden\": Preisdeckel für Ticketbörsen soll vor nächstem Sommer kommen",
+          "link": "https://www.n-tv.de/wirtschaft/Justizministerin-Hubig-Preisdeckel-fuer-Ticketboersen-bis-naechsten-Sommer-id31517791.html",
+          "published": "2026-11-10T15:31:33+00:00",
+          "summary": "Preise für den Wiederverkauf von Konzerttickets sollen durch ein Gesetz des Justizministeriums gedeckelt werden. Ministerin Hubig möchte damit gegen den Wucher auf Zweitplattformen vorgehen."
         },
         {
-          "title": "2026 nur 34 Kilometer mehr: Güterbahnenverband kritisiert Bahn für Schienenbau-Debakel",
-          "link": "https://www.n-tv.de/wirtschaft/Gueterbahnenverband-kritisiert-Bahn-fuer-Schienenbau-Debakel-id31514486.html",
-          "published": "2026-11-10T05:50:27+00:00",
-          "summary": "2026 werden lediglich 34 Kilometer Streckennetz der DB Infrago neu gebaut oder instand gesetzt. Viel zu wenig, kritisiert der Verband der privaten Güterbahnen. Und noch weniger als in den Vorjahren. …"
+          "title": "Einnahmen in Milliardenhöhe: Anthropic strebt Börsengang mit Billionen-Bewertung an",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-strebt-Boersengang-mit-Billionen-Bewertung-an-id31517693.html",
+          "published": "2026-11-10T15:06:32+00:00",
+          "summary": "Der geplante Börsengang von Anthropic wird zum Belastungstest für die KI-Branche. Derzeit peilt das US-Unternehmen eine Bewertung von bis zu einer Billion US-Dollar an. Ursprünglich war von einer …"
         },
         {
-          "title": "Deal mit Eigentümerfamilien: Bund lässt sich KNDS-Einstieg 6,6 Milliarden Euro kosten",
-          "link": "https://www.n-tv.de/wirtschaft/Bund-laesst-sich-KNDS-Einstieg-6-6-Milliarden-Euro-kosten-id31514391.html",
-          "published": "2026-11-10T04:44:54+00:00",
-          "summary": "Nach dem geplatzten Börsengang von KNDS steigt der Bund direkt beim deutsch-französischen Rüstungskonzern ein. Der \"Spiegel\" nennt nun einen konkreten Preis. Er enthält auch einen Aufschlag für …"
+          "title": "Umgehung von US-Sanktionen?: Geliebte des Nvidia-Chefs schleuste mutmaßlich KI-Chips nach China",
+          "link": "https://www.n-tv.de/wirtschaft/Geliebte-des-Nvidia-Chefs-schleuste-mutmasslich-KI-Chips-nach-China-id31517600.html",
+          "published": "2026-11-10T15:05:53+00:00",
+          "summary": "Der intime Seitensprung des verheirateten Nvidia-Mitgründers Huang soll Peking laut einem Medienbericht Zugriff auf sensible KI-Technologie ermöglicht haben. Der Verwaltungsrat des Konzerns und das …"
         },
         {
-          "title": "Trump verteidigt Konzernchef : Aktionäre reichen Sammelklage gegen Nvidia ein",
-          "link": "https://www.n-tv.de/wirtschaft/Aktionaere-reichen-Sammelklage-gegen-Nvidia-ein-id31514178.html",
-          "published": "2026-11-10T00:51:17+00:00",
-          "summary": "Das Liebesleben des Nvidia-Chefs wird zum massiven Problem für den Konzern. Wegen der Affäre mit einer mutmaßlichen chinesischen Spionin bricht der Börsenwert ein. Gesetze, gegen die sich der …"
+          "title": "S&P 500 im Check: \"Midterms\" als idealer Investmentzeitraum?",
+          "link": "https://www.n-tv.de/wirtschaft/boerse/Midterms-als-idealer-Investmentzeitraum-id30347915.html",
+          "published": "2026-11-10T14:48:00+00:00",
+          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um dem S&P 500."
         },
         {
-          "title": "Ölpreis sinkt: US-Aktien erholen sich kräftig - nur Nvidia nicht",
-          "link": "https://www.n-tv.de/wirtschaft/US-Aktien-erholen-sich-kraeftig-nur-Nvidia-nicht-id31514132.html",
-          "published": "2026-11-09T21:58:49+00:00",
-          "summary": "Die Wall Street hat den Midterms-Schock überwunden: Zum Wochenauftakt legen die US-Börsen kräftig zu, was auch mit einer Äußerung des US-Präsidenten zum Iran zu tun hat. Nvidia-Papiere fassen die …"
+          "title": "Iran-Krieg \"effektiv vorüber\"?: Ölpreis fällt nach Trump-Ankündigung unter 90 Dollar",
+          "link": "https://www.n-tv.de/wirtschaft/Oelpreis-faellt-nach-Trump-Ankuendigung-unter-90-Dollar-id31516850.html",
+          "published": "2026-11-10T13:56:33+00:00",
+          "summary": "Schon oft kündigt der US-Präsident ein nahes Ende des Iran-Kriegs an. Bisher tritt das aber nicht ein. Das könnte nach den US-Midterms nun anders sein. Der weltweite Ölpreis reagiert auf neuerliche …"
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX nähert sich wieder dem Rekordhoch",
+          "title": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
+          "published": "2026-11-10T13:33:44+00:00",
+          "summary": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms."
+        },
+        {
+          "title": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-          "published": "2026-11-10T06:26:27+00:00",
-          "summary": "Nach dem Kursrutsch folgt die Erholungsrally: Der DAX dürfte auch heute deutlich zulegen, der Sprung bis zum Allzeithoch ist nicht mehr weit. Vor allem die gesunkenen Ölpreise stützen den Markt."
+          "published": "2026-11-10T09:06:52+00:00",
+          "summary": "Die Kauflaune der Anleger hält an: Die Erholungsrally treibt den DAX wieder zurück in die Nähe seines Rekords. Die sinkenden Ölpreise locken die Investoren in den Markt, auch die Zahlen von Infineon …"
         },
         {
           "title": "Nvidia-Affäre lässt Aktie einbrechen",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
           "published": "2026-11-06T13:22:11+00:00",
           "summary": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die …"
-        },
-        {
-          "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
-          "published": "2026-11-05T13:18:40+00:00",
-          "summary": "Öl wird günstiger und damit auch Benzin. Diesel allerdings bleibt teuer. Nach den Midterms hoffen Anleger auf Entspannung im Iran-Krieg - aber die Lage bleibt weiter angespannt."
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Automobilindustrie: Fehlende Teile – BMW lässt Schichten ausfallen",
-          "link": "https://www.wiwo.de/unternehmen/auto/automobilindustrie-fehlende-teile-bmw-laesst-schichten-ausfallen/100268630.html",
-          "published": "2026-11-10T06:15:02+00:00",
-          "summary": "Insgesamt sollen drei Werke betroffen sein, heißt es aus Kreisen. Es geht dabei nur um einzelne Schichten – jede davon dürfte aber hunderte Autos betreffen."
+          "title": "Neobroker: So setzt Trade Republic die Börsen unter Druck",
+          "link": "https://www.wiwo.de/finanzen/boerse/trade-republic-warum-etablierte-boersen-den-berliner-neobroker-kritisieren/100267334.html",
+          "published": "2026-11-10T16:01:00+00:00",
+          "summary": "Der Neobroker Trade Republic wickelt inzwischen viele Kundenorders selbst ab – und bedroht damit das Geschäft kleinerer Börsen. Die erheben nun schwere Vorwürfe."
         },
         {
-          "title": "Verteidigung: Bund zahlt 6,6 Milliarden Euro für KNDS-Einstieg",
-          "link": "https://www.wiwo.de/politik/deutschland/verteidigung-bund-zahlt-66-milliarden-euro-fuer-knds-einstieg/100268628.html",
-          "published": "2026-11-10T06:04:51+00:00",
-          "summary": "Der Bund steigt für Milliarden beim KNDS ein, um sich wichtige Schlüsseltechnologien zu sichern. Derweil gerät ein Großauftrag beim Rüstungskonzern ins Stocken."
+          "title": "Künstliche Intelligenz: Anthropic peilt Börsenbewertung von einer Billion Dollar an",
+          "link": "https://www.wiwo.de/unternehmen/it/anthropic-ipo-boersengang-soll-64-milliarden-us-dollar-bringen/100268790.html",
+          "published": "2026-11-10T15:55:57+00:00",
+          "summary": "Anthropic strebt mit seinem Börsengang eine Milliardenbewertung an. Doch Zweifel am KI-Boom könnten die Nachfrage bremsen."
         },
         {
-          "title": "Ukraine-Krieg: „Putin fehlt die Option, einen Frieden zu schließen“",
-          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-putin-fehlt-die-option-einen-frieden-zu-schliessen/100268444.html",
-          "published": "2026-11-10T05:04:35+00:00",
-          "summary": "Vertreter Russlands, der Ukraine und der USA treffen sich in Abu Dhabi – zu Friedensverhandlungen. Aber Frieden erwartet dabei wohl niemand."
+          "title": "Schlaganfall-Medikament: Bayers Top-Medikament hilft vorerst nur am anderen Ende der Welt",
+          "link": "https://www.wiwo.de/unternehmen/industrie/asundexian-bayers-neues-medikament-hilft-nur-in-china-und-den-usa/100268689.html",
+          "published": "2026-11-10T15:53:32+00:00",
+          "summary": "In China und den USA hat Bayer die Zulassung für ein neues Schlaganfall-Medikament erhalten. Deutsche Patienten müssen sich noch gedulden. So läuft es immer häufiger."
         },
         {
-          "title": "Verkehr: Schienennetz wächst 2026 nur um gut 34 Kilometer",
-          "link": "https://www.wiwo.de/politik/deutschland/verkehr-auf-der-schiene-verband-schienennetz-waechst-2026-nur-um-gut-34-kilometer/100268607.html",
-          "published": "2026-11-10T04:00:25+00:00",
-          "summary": "Der Ausbau des deutschen Schienennetzes kommt kaum voran. Die Priorität liegt auf der Sanierung maroder Bahnstrecken. Darin sieht der Verband der Güterbahnen ein wachsendes Problem."
+          "title": "Zinsvergleich: Die besten Autokredite",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/zinsvergleich-das-sind-die-besten-autokredite-in-deutschland/100268753.html",
+          "published": "2026-11-10T15:44:09+00:00",
+          "summary": "Immer öfter werden Autos finanziert. Für potenzielle Käufer und Kreditnehmer lohnt es sich, die Zinsen zu vergleichen."
         },
         {
-          "title": "Pete Hegseth: Amtsenthebungsverfahren gegen US-Verteidigungsminister beantragt",
-          "link": "https://www.wiwo.de/politik/ausland/pete-hegseth-amtsenthebungsverfahren-gegen-us-verteidigungsminister-beantragt/100268548.html",
-          "published": "2026-11-09T19:53:51+00:00",
-          "summary": "Die US-Regierung steht wegen ihres Vorgehens im Iran-Krieg unter Druck. Nun wurde ein Amtsenthebungsverfahren gegen Pete Hegseth eingebracht."
+          "title": "Anthropic-Aktie: Die wichtigsten Antworten zum Anthropic-Börsengang",
+          "link": "https://www.wiwo.de/finanzen/boerse/anthropic-ipo-die-wichtigsten-antworten-zur-aktie-des-ki-entwicklers/100268848.html",
+          "published": "2026-11-10T15:35:00+00:00",
+          "summary": "Der Entwickler des KI-Sprachmodells Claude gibt neue Informationen zum anstehenden Börsengang bekannt. Das sollten interessierte Anleger jetzt wissen."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "5,4 Mrd. $ für ABB-Roboter: Warum China den Verkauf stoppt",
+          "link": "https://www.ingenieur.de/54-mrd-fur-abb-roboter-warum-china-den-verkauf-stoppt-8937af7f-f333-4add-a95f-39f91bbf25b7/",
+          "published": "2026-11-10T13:00:00+00:00",
+          "summary": "ABB wollte seine Roboter für 5,4 Mrd. $ an Softbank verkaufen, Chinas Kartellwächter hatten schon zugestimmt. Dann kam das Nein aus einer zweiten Prüfung. Peking stört sich Berichten zufolge an …"
+        },
+        {
+          "title": "Ludwigshafen: Wie die Entwässerung der Hochstraße Süd neu gedacht wurde",
+          "link": "https://www.ingenieur.de/ludwigshafen-wie-die-entwasserung-der-hochstrasse-sud-neu-gedacht-wurde-b8814d05-fa71-46dd-9b4c-6b2b6cb9688c/",
+          "published": "2026-11-10T12:30:00+00:00",
+          "summary": "Die Sanierung der Weißen Hochstraße in Ludwigshafen stellte auch die Fahrbahnentwässerung vor besondere Herausforderungen. Eine neu entwickelte Hohlbordrinne schafft trotz beengter Einbauverhältnisse …"
+        },
+        {
+          "title": "13.000 m² für humanoide Roboter: Heilbronn plant Zentrum für Härtetests",
+          "link": "https://www.ingenieur.de/neue-greiftechnik-mehr-ki-nationales-robotikzentrum-fur-die-industrie-geplant-0e7044db-f2ec-4aa2-bdf5-76b21e2d2a79/",
+          "published": "2026-11-10T12:00:26+00:00",
+          "summary": "Humanoide Roboter, KI-Modelle und neue Greifer sollen in der Fabrik erprobt werden. Für den geplanten Robo-Hub ProLog in Baden-Württemberg ist ein Projektvolumen von rund 70 Mio. € vorgesehen."
+        },
+        {
+          "title": "14 cm tief in den Stahl: Deutscher Laser bricht Weltrekord",
+          "link": "https://www.ingenieur.de/14-cm-tief-in-den-stahl-schwarzwald-laser-bricht-weltrekord-627162fe-43a6-405e-b966-46238024ad69/",
+          "published": "2026-11-10T11:00:00+00:00",
+          "summary": "Ein Laser hat sich in einem einzigen Durchgang 14 cm tief in massiven Stahl geschweißt. Bisher wachsen solche Nähte für Windräder oder Schiffe mühsam Schicht für Schicht. Für den Rekord mussten die …"
+        },
+        {
           "title": "60-m-Katapult schießt Menschen aus Europas höchstem Schornstein",
           "link": "https://www.ingenieur.de/60-m-katapult-schiesst-menschen-aus-europas-hoechstem-schornstein-799ef315-6595-461e-b11f-1c49254aa81c/",
           "published": "2026-11-09T19:18:07+00:00",
           "summary": "Ein 60-m-Katapult in Europas höchstem Schornstein: Zwei Extremsportler stellen Weltrekorde auf. Die Technik dahinter ist außergewöhnlich."
-        },
-        {
-          "title": "Elbtower-Debakel: Baufirma baut ersten Kran ab und droht mit Rückzug",
-          "link": "https://www.ingenieur.de/elbtower-debakel-baufirma-baut-ersten-kran-ab-und-droht-mit-rueckzug-ea03dd86-baff-4f09-bbb9-471ee58b10e7/",
-          "published": "2026-11-09T15:28:38+00:00",
-          "summary": "Am 19. November soll der erste Kran am Elbtower verschwinden. Lupp droht mit dem Abzug der Spezialtechnik. Kann Hamburg den Weiterbau noch retten?"
-        },
-        {
-          "title": "Forscher bauen Fehler in Metall ein und machen es dadurch stärker",
-          "link": "https://www.ingenieur.de/metall-gegen-hitze-winzige-atomschichten-stoppen-schleichende-verformung-70240044-5619-4f4e-b47b-97dabbe5a1e5/",
-          "published": "2026-11-09T14:00:00+00:00",
-          "summary": "Gezielte Fehler im Kristallgitter machen eine Superlegierung widerstandsfähiger. Bei 750 °C sinkt ihre Kriechrate auf weniger als ein Drittel."
-        },
-        {
-          "title": "Diese Hollywood-Figuren haben 142.000 Gesichter, dank deutscher Software",
-          "link": "https://www.ingenieur.de/diese-hollywood-figuren-haben-142-000-gesichter-dank-deutscher-software-7d12636e-09b2-4ed4-b606-c936b0bfd9b1/",
-          "published": "2026-11-09T13:30:00+00:00",
-          "summary": "Für den Animationsfilm „Wildwood“ entstanden 142.000 Gesichtsausdrücke im 3D-Drucker. Dahinter steckt eine spezielle Software aus Darmstadt."
-        },
-        {
-          "title": "2000 °C in 0,5 Sekunden: Forscher jagen Strom durch Windrad-Schrott und gewinnen Rohstoffe",
-          "link": "https://www.ingenieur.de/2000-c-in-05-sekunden-forscher-jagen-strom-durch-windrad-schrott-und-gewinnen-rohstoffe-098bbae2-fe3f-45c9-8da4-0689dacd9def/",
-          "published": "2026-11-09T13:00:00+00:00",
-          "summary": "Allein in Deutschland fallen jährlich Tausende Tonnen alter Rotorblätter an. Recyceln lässt sich der Hightech-Schrott bislang kaum. Forscher aus Peking wollen ihn jetzt in Werkstoffe für neue …"
         }
       ],
       "error": null
