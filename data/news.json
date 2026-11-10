@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T23:57:07+00:00",
+  "generatedAt": "2026-11-10T06:30:50+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-82024.html",
-          "published": "2026-11-09T23:35:30+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html",
-          "published": "2026-11-09T22:35:25+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12970.html",
-          "published": "2026-11-09T21:54:07+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
-          "published": "2026-11-09T21:27:31+00:00",
-          "summary": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" …"
+          "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+          "published": "2026-11-10T06:26:38+00:00",
+          "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die …"
         },
         {
           "title": "Republikaner Massie will Hegseth des Amtes entheben",
           "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
-          "published": "2026-11-09T20:48:39+00:00",
-          "summary": "Nach der Wahlniederlage bei den Midterms wächst der Druck auf die US-Republikaner - auch wegen des Iran-Kriegs. Nun hat der Trump-kritische Republikaner Massie ein Amtsenthebungsverfahren gegen …"
+          "published": "2026-11-10T06:12:18+00:00",
+          "summary": "Nach dem Wahldebakel der Republikaner sehen Gegner von US-Verteidigungsminister Hegseth eine neue Gelegenheit, ihn loszuwerden. Ob es tatsächlich zur Amtsenthebung kommt, ist aber fraglich. Präsident …"
+        },
+        {
+          "title": "15 Minuten: KI-Rechenzentren, \"Bratwurststeuer\", Weinberge",
+          "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15min-podcast-ki-rechenzentren-bratwurststeuer-weinberge-100.html",
+          "published": "2026-11-10T05:56:39+00:00",
+          "summary": "Für den KI-Boom bauen Unternehmen immer größere Rechenzentren - dagegen gibt es Proteste. Wer muss bald \"Bratwurststeuer\" zahlen? Weinbau in der Krise: Warum Winzer ihre Weinberge roden. Die Themen …"
+        },
+        {
+          "title": "Ticket-Zweitmarkt: Preisdeckel für Ticketbörsen in der Planung",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+          "published": "2026-11-10T04:10:12+00:00",
+          "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung."
+        },
+        {
+          "title": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+          "link": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+          "published": "2026-11-10T04:01:04+00:00",
+          "summary": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Finanzierung der Ukraine: Merz dringt auf Bekenntnis aller EU-Staaten zu Ukraine-Hilfe",
-          "link": "https://www.handelsblatt.com/politik/international/finanzierung-der-ukraine-merz-dringt-auf-bekenntnis-aller-eu-staaten-zu-ukraine-hilfe/100268555.html",
-          "published": "2026-11-09T23:30:04+00:00",
-          "summary": "45 zusätzliche EU-Milliarden sollen nächstes Jahr in die Ukraine fließen. Nicht alle Mitgliedstaaten wollen da mitmachen. Der Kanzler erhöht vor einem informellen EU-Gipfel den Druck."
+          "title": "Arbeitsmarkt: Jobkiller KI? Schlechtere Chancen vor allem für Berufseinsteiger",
+          "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-warum-ki-vor-allem-die-jobchancen-fuer-berufseinsteiger-mindert/100267601.html",
+          "published": "2026-11-10T06:28:00+00:00",
+          "summary": "Ein neuer Indikator des Ifo-Instituts zeigt die Auswirkungen von KI auf 140 verschiedene Berufe – nach Altersgruppen. Dabei gilt der Berufseinstieg als Frühwarnsystem für den Arbeitsmarkt."
         },
         {
-          "title": "Chip-Riese: Trump: FBI ermittelt bei Affäre des Nvidia-Chefs Huang",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-trump-fbi-ermittelt-bei-affaere-des-nvidia-chefs-huang/100268572.html",
-          "published": "2026-11-09T23:15:23+00:00",
-          "summary": "Nvidia-Chef Huang hatte eine Affäre mit einer Frau, die eine chinesische Spionin gewesen sein könnte. US-Präsident Trump zeigt sich unbeeindruckt – trotz angeblicher FBI-Ermittlungen."
+          "title": "Außenhandel: China überwindet Billionenmarke – und treibt Exporte weiter an",
+          "link": "https://www.handelsblatt.com/politik/konjunktur/aussenhandel-china-ueberwindet-billionenmarke-und-treibt-exporte-weiter-an/100268598.html",
+          "published": "2026-11-10T06:27:10+00:00",
+          "summary": "China exportiert immer mehr ins Ausland, auch nach Deutschland. Zugleich jährt sich der Beitritt zur Welthandelsorganisation. Kritiker halten ihn für einen Fehler. Zurecht?"
         },
         {
-          "title": "Haushalt: Drei Milliarden Euro zusätzlich – Regierung muss Bundesagentur für Arbeit mit neuem Kredit helfen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/haushalt-regierung-muss-arbeitsagentur-mit-milliarden-kredit-helfen/100267082.html",
-          "published": "2026-11-09T22:58:41+00:00",
-          "summary": "Finanzminister Klingbeil nimmt in letzter Sekunde einige Veränderungen am Etat 2027 vor. Die Bundesagentur bekommt ein größeres Darlehen. Und auch für die Käufer von E-Autos gibt es mehr Geld."
+          "title": "Nvidia: „Der Spion, der mich liebte“: So spottet das Netz über Jensen Huangs Affäre",
+          "link": "https://www.handelsblatt.com/technik/ki/nvidia-so-spottet-das-internet-ueber-die-affaere-des-nvidia-chefs-01/100268495.html",
+          "published": "2026-11-10T06:27:00+00:00",
+          "summary": "Der Nvidia-CEO wurde beim Seitensprung erwischt. Obendrein war seine Geliebte mutmaßlich eine chinesische Spionin. Das Netz ist sich nicht zu schade, um das aufzugreifen."
         },
         {
-          "title": "Nvidia: FBI ermittelt laut Trump wegen Affäre von Nvidia-Chef Huang",
-          "link": "https://www.handelsblatt.com/politik/international/nvidia-fbi-ermittelt-laut-trump-wegen-affaere-von-nvidia-chef-huang/100268570.html",
-          "published": "2026-11-09T22:46:45+00:00",
-          "summary": "Inmitten der Vorwürfe gegen Nvidia-Chef Jensen Huang hat der US-Präsident nach eigenen Angaben mit ihm telefoniert. Zugleich bestätigte Trump, dass das FBI in der Angelegenheit ermittelt."
+          "title": "Rentenalter: Rentenalter 68: Griechenlands Beschäftigte müssen bald länger arbeiten",
+          "link": "https://www.handelsblatt.com/politik/international/rentenalter-griechenlands-beschaeftigte-muessen-bald-laenger-arbeiten-01/100268102.html",
+          "published": "2026-11-10T06:24:00+00:00",
+          "summary": "Die EU-Kommission erwartet, dass Griechenland das gesetzliche Renteneintrittsalter bis 2030 auf 68 Jahre anhebt. Ein Vorbild für Deutschland?"
         },
         {
-          "title": "Nach den Midterms: Trump: Iran-Krieg ist militärisch „effektiv vorüber“",
-          "link": "https://www.handelsblatt.com/politik/international/nach-den-midterms-trump-iran-krieg-ist-militaerisch-effektiv-vorueber/100268567.html",
-          "published": "2026-11-09T22:18:20+00:00",
-          "summary": "Zuletzt war mit weiteren Angriffen der USA und Israels gegen den Iran gerechnet worden. Doch von Angriffsplänen scheint Präsident Trump nun abzurücken."
+          "title": "Interview: Tech-Investor Beckers zu KI-Aktien: „Ein Sicherheitsereignis könnte einen großen Schock auslösen“",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/tech-investor-ein-sicherheitsereignis-koennte-einen-grossen-schock-ausloesen/100266549.html",
+          "published": "2026-11-10T06:24:00+00:00",
+          "summary": "Jan Beckers ist einer der bekanntesten Technologie-Investoren in Deutschland. Im Interview verrät er, welche Unternehmen nach dem jüngsten Kursrutsch bei Tech-Aktien besonders attraktiv sind."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Nur noch 59 Prozent Füllstand: Verband warnt vor Gasengpässen bei Extremwinter",
+          "link": "https://www.n-tv.de/wirtschaft/Verband-warnt-vor-Gasengpaessen-bei-Extremwinter-id31514509.html",
+          "published": "2026-11-10T06:16:44+00:00",
+          "summary": "Eigentlich müssen die meisten Gasspeicher in Deutschland bis zum 1. November zu mindestens 80 Prozent gefüllt sein. Tatsächlich liegt der Stand in diesem Jahr deutlich niedriger. Das beunruhigt den …"
+        },
+        {
+          "title": "2026 nur 34 Kilometer mehr: Güterbahnenverband kritisiert Bahn für Schienenbau-Debakel",
+          "link": "https://www.n-tv.de/wirtschaft/Gueterbahnenverband-kritisiert-Bahn-fuer-Schienenbau-Debakel-id31514486.html",
+          "published": "2026-11-10T05:50:27+00:00",
+          "summary": "2026 werden lediglich 34 Kilometer Streckennetz der DB Infrago neu gebaut oder instand gesetzt. Viel zu wenig, kritisiert der Verband der privaten Güterbahnen. Und noch weniger als in den Vorjahren. …"
+        },
+        {
+          "title": "Deal mit Eigentümerfamilien: Bund lässt sich KNDS-Einstieg 6,6 Milliarden Euro kosten",
+          "link": "https://www.n-tv.de/wirtschaft/Bund-laesst-sich-KNDS-Einstieg-6-6-Milliarden-Euro-kosten-id31514391.html",
+          "published": "2026-11-10T04:44:54+00:00",
+          "summary": "Nach dem geplatzten Börsengang von KNDS steigt der Bund direkt beim deutsch-französischen Rüstungskonzern ein. Der \"Spiegel\" nennt nun einen konkreten Preis. Er enthält auch einen Aufschlag für …"
+        },
+        {
+          "title": "Trump verteidigt Konzernchef : Aktionäre reichen Sammelklage gegen Nvidia ein",
+          "link": "https://www.n-tv.de/wirtschaft/Aktionaere-reichen-Sammelklage-gegen-Nvidia-ein-id31514178.html",
+          "published": "2026-11-10T00:51:17+00:00",
+          "summary": "Das Liebesleben des Nvidia-Chefs wird zum massiven Problem für den Konzern. Wegen der Affäre mit einer mutmaßlichen chinesischen Spionin bricht der Börsenwert ein. Gesetze, gegen die sich der …"
+        },
+        {
           "title": "Ölpreis sinkt: US-Aktien erholen sich kräftig - nur Nvidia nicht",
           "link": "https://www.n-tv.de/wirtschaft/US-Aktien-erholen-sich-kraeftig-nur-Nvidia-nicht-id31514132.html",
           "published": "2026-11-09T21:58:49+00:00",
           "summary": "Die Wall Street hat den Midterms-Schock überwunden: Zum Wochenauftakt legen die US-Börsen kräftig zu, was auch mit einer Äußerung des US-Präsidenten zum Iran zu tun hat. Nvidia-Papiere fassen die …"
-        },
-        {
-          "title": "\"Kompromittierende Situationen\": Verfassungsschutz: Ausländische Geheimdienste wollen Manager in Falle locken",
-          "link": "https://www.n-tv.de/wirtschaft/Verfassungsschutz-Auslaendische-Geheimdienste-wollen-Manager-in-Falle-locken-id31513875.html",
-          "published": "2026-11-09T19:26:51+00:00",
-          "summary": "Die Affäre des Nvidia-Chefs soll laut Medienberichten Verbindungen zum chinesischen Geheimdienst haben. Auch hierzulande könnten intime Beziehungen von Führungskräften missbraucht werden, warnt das …"
-        },
-        {
-          "title": "Milliarden fürs Schienennetz: Verkehrsminister Bilger kündigt Trendwende bei Bahn-Sanierung an",
-          "link": "https://www.n-tv.de/wirtschaft/Verkehrsminister-Bilger-kuendigt-Trendwende-bei-Bahn-Sanierung-an-id31513043.html",
-          "published": "2026-11-09T17:14:10+00:00",
-          "summary": "Seit rund 100 Tagen ist Steffen Bilger Bundesverkehrsminister. Er will die Generalsanierung vielbefahrener Bahnstrecken grundlegend ändern. Weniger gleichzeitige Baustellen sollen die Züge …"
-        },
-        {
-          "title": "Ein Euro mehr: Aldi Süd und Lidl heben firmeneigene Mindestlöhne an",
-          "link": "https://www.n-tv.de/wirtschaft/Aldi-Sued-und-Lidl-heben-firmeneigene-Mindestloehne-an-id31512941.html",
-          "published": "2026-11-09T15:22:57+00:00",
-          "summary": "Mit Beginn des neuen Jahres steigt die bundesweite Lohnuntergrenze. Die großen Discounter Aldi Süd und Lidl heben in ihren Unternehmen die Bezahlung in der untersten Lohngruppe schon einen Monat …"
-        },
-        {
-          "title": "\"Peinlich für ihn\": Droht Nvidia-Chef Huang nach Spionage-Affäre der Rauswurf?",
-          "link": "https://www.n-tv.de/wirtschaft/Droht-Nvidia-Chef-Huang-nach-Spionage-Affaere-der-Rauswurf-id31512274.html",
-          "published": "2026-11-09T14:00:51+00:00",
-          "summary": "Schlagzeilen um eine Affäre mit einer mutmaßlichen chinesischen Spionin bringen Nvidia-Ikone Huang in Bedrängnis. Während einige Experten ihn für unersetzlich halten, wächst an der Wall Street der …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX erholt sich kräftig",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-          "published": "2026-11-09T17:18:50+00:00",
-          "summary": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite."
+          "title": "Marktbericht: DAX nähert sich wieder dem Rekordhoch",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
+          "published": "2026-11-10T06:26:27+00:00",
+          "summary": "Nach dem Kursrutsch folgt die Erholungsrally: Der DAX dürfte auch heute deutlich zulegen, der Sprung bis zum Allzeithoch ist nicht mehr weit. Vor allem die gesunkenen Ölpreise stützen den Markt."
         },
         {
           "title": "Nvidia-Affäre lässt Aktie einbrechen",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Automobilindustrie: Fehlende Teile – BMW lässt Schichten ausfallen",
+          "link": "https://www.wiwo.de/unternehmen/auto/automobilindustrie-fehlende-teile-bmw-laesst-schichten-ausfallen/100268630.html",
+          "published": "2026-11-10T06:15:02+00:00",
+          "summary": "Insgesamt sollen drei Werke betroffen sein, heißt es aus Kreisen. Es geht dabei nur um einzelne Schichten – jede davon dürfte aber hunderte Autos betreffen."
+        },
+        {
+          "title": "Verteidigung: Bund zahlt 6,6 Milliarden Euro für KNDS-Einstieg",
+          "link": "https://www.wiwo.de/politik/deutschland/verteidigung-bund-zahlt-66-milliarden-euro-fuer-knds-einstieg/100268628.html",
+          "published": "2026-11-10T06:04:51+00:00",
+          "summary": "Der Bund steigt für Milliarden beim KNDS ein, um sich wichtige Schlüsseltechnologien zu sichern. Derweil gerät ein Großauftrag beim Rüstungskonzern ins Stocken."
+        },
+        {
+          "title": "Ukraine-Krieg: „Putin fehlt die Option, einen Frieden zu schließen“",
+          "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-putin-fehlt-die-option-einen-frieden-zu-schliessen/100268444.html",
+          "published": "2026-11-10T05:04:35+00:00",
+          "summary": "Vertreter Russlands, der Ukraine und der USA treffen sich in Abu Dhabi – zu Friedensverhandlungen. Aber Frieden erwartet dabei wohl niemand."
+        },
+        {
+          "title": "Verkehr: Schienennetz wächst 2026 nur um gut 34 Kilometer",
+          "link": "https://www.wiwo.de/politik/deutschland/verkehr-auf-der-schiene-verband-schienennetz-waechst-2026-nur-um-gut-34-kilometer/100268607.html",
+          "published": "2026-11-10T04:00:25+00:00",
+          "summary": "Der Ausbau des deutschen Schienennetzes kommt kaum voran. Die Priorität liegt auf der Sanierung maroder Bahnstrecken. Darin sieht der Verband der Güterbahnen ein wachsendes Problem."
+        },
+        {
           "title": "Pete Hegseth: Amtsenthebungsverfahren gegen US-Verteidigungsminister beantragt",
           "link": "https://www.wiwo.de/politik/ausland/pete-hegseth-amtsenthebungsverfahren-gegen-us-verteidigungsminister-beantragt/100268548.html",
           "published": "2026-11-09T19:53:51+00:00",
           "summary": "Die US-Regierung steht wegen ihres Vorgehens im Iran-Krieg unter Druck. Nun wurde ein Amtsenthebungsverfahren gegen Pete Hegseth eingebracht."
-        },
-        {
-          "title": "Modekonzern: Nach Übernahme – bei Hugo Boss geht der nächste Vorstand",
-          "link": "https://www.wiwo.de/unternehmen/handel/hugo-boss-nach-uebernahme-bei-hugo-boss-geht-der-naechste-vorstand/100268543.html",
-          "published": "2026-11-09T19:16:54+00:00",
-          "summary": "Nach Finanzvorstand Yves Müller verlässt ein weiterer Vorstand den Modekonzern Hugo Boss. Vertriebsvorstand Oliver Timm geht."
-        },
-        {
-          "title": "Wissensmanagement: So sichern sich Unternehmen die Erfahrung der Boomer",
-          "link": "https://www.wiwo.de/erfolg/management/boomer-und-rente-so-sichern-firmen-die-erfahrung-langjaehriger-mitarbeiter/100263677.html",
-          "published": "2026-11-09T18:41:40+00:00",
-          "summary": "Millionen erfahrene Mitarbeiter werden Deutschlands Weltmarktführer bald verlassen. Wertvolles Wissen nehmen sie mit. Wie sollten sich die Unternehmen vorbereiten?"
-        },
-        {
-          "title": "KI-News aktuell: KI beschleunigt eigene Entwicklung – Demokraten wollen stärkere Regulierung",
-          "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-nvidia-chef-hatte-wohl-affaere-mit-chinesischer-spionin/100245205.html",
-          "published": "2026-11-09T17:30:00+00:00",
-          "summary": "Das KI-Modell von Anthropic hat eigenständig die Bezahlschranke einer US-Behördenseite umgangen. Kimi K3.1 Pro hat OpenAIs Spitzenmodell Astra überholt."
-        },
-        {
-          "title": "Hidden Agenda: So entgehen Sie Hinterhalten Ihrer Bürokollegen",
-          "link": "https://www.wiwo.de/erfolg/beruf/hidden-agenda-im-job-so-entlarven-sie-fiese-taktierer-im-buero/100267893.html",
-          "published": "2026-11-09T17:03:00+00:00",
-          "summary": "Vorsicht, Falle: Es gibt Kollegen, die gemeinsame Ziele ausrufen – und dabei im Geheimen nur ihre eigene Agenda verfolgen. Darauf sollten Sie sich vorbereiten."
         }
       ],
       "error": null
