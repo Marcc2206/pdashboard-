@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:31:30+00:00",
+  "generatedAt": "2026-11-11T21:02:10+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
-          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
-          "published": "2026-11-11T13:30:06+00:00",
-          "summary": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach."
-        },
-        {
-          "title": "Juli Kurz, ARD Berlin, zum Integrationsbericht der Bundesregierung",
-          "link": "https://www.tagesschau.de/video/video-1681976.html",
-          "published": "2026-11-11T13:21:33+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1682294.html",
+          "published": "2026-11-11T20:42:55+00:00",
           "summary": ""
         },
         {
-          "title": "Iris Sayram, ARD Berlin, zu Konsequenzen aus der Dunkelfeldstudie über sexualisiertes Fehlverhalten bei der Bundeswehr",
-          "link": "https://www.tagesschau.de/video/video-1681974.html",
-          "published": "2026-11-11T13:17:09+00:00",
+          "title": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
+          "published": "2026-11-11T20:29:48+00:00",
+          "summary": "In den Karnevalshochburgen Köln und Düsseldorf haben die Jecken die fünfte Jahreszeit eingeläutet. Laut Polizei verliefen die Feiern auf den Straßen und in den Kneipen meist friedlich. Nur das Wetter …"
+        },
+        {
+          "title": "Weltklimakonferenz in Antalya: Deutschlands Rolle beim Klimaschutz",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682252.html",
+          "published": "2026-11-11T19:39:52+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-81986.html",
-          "published": "2026-11-11T13:11:53+00:00",
-          "summary": ""
+          "title": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
+          "link": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
+          "published": "2026-11-11T19:26:10+00:00",
+          "summary": "Am polnischen Unabhängigkeitstag findet traditionell eine Großdemonstration von Rechtsnationalisten statt. Der sogenannte Unabhängigkeitsmarsch durch Warschau ist umstritten - und zieht doch …"
         },
         {
-          "title": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
-          "published": "2026-11-11T12:40:59+00:00",
-          "summary": "Die EU-Kommission will mit einem Digital Fairness Act (DFA) Verbraucher in der digitalen Welt schützen. Der nun vorgestellte Entwurf soll unlautere Praktiken unterbinden. Die deutschen Verleger sind …"
+          "title": "Die deutsche Wirtschaft entwickelt sich besser als erwartet",
+          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682248.html",
+          "published": "2026-11-11T19:18:47+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Tarifkonflikt Metallindustrie: Bezirke der IG Metall wollen ganztägige Warnstreiks",
-          "link": "https://www.handelsblatt.com/politik/deutschland/tarifkonflikt-metallindustrie-bezirke-der-ig-metall-wollen-ganztaegige-warnstreiks/100269133.html",
-          "published": "2026-11-11T13:23:26+00:00",
-          "summary": "Im Tarifkonflikt der Metall- und Elektroindustrie bereitet die IG Metall ganztägige Warnstreiks vor. Die seltene Eskalationsstufe soll Bewegung in die Verhandlungen bringen – was dafür nötig ist."
+          "title": "Haushalt: Koalition findet bisher kein Geld für Stromsteuer-Senkung",
+          "link": "https://www.handelsblatt.com/politik/deutschland/haushalt-koalition-findet-bisher-kein-geld-fuer-stromsteuer-senkung/100269235.html",
+          "published": "2026-11-11T20:34:39+00:00",
+          "summary": "Kanzler Merz setzt sich vehement dafür ein: eine Stromsteuersenkung für alle. Bisher gibt es aber noch keine Einigung. Kann die Koalition in wenigen Stunden noch Milliarden auftreiben?"
         },
         {
-          "title": "Stellenabbau: So vermeiden Führungskräfte die teuersten Fehler bei der Abfindung",
-          "link": "https://www.handelsblatt.com/karriere/kuendigung-wie-sie-als-top-manager-teure-fehler-vermeiden-koennen/100252136.html",
-          "published": "2026-11-11T13:23:00+00:00",
-          "summary": "Freistellung, Bonus, Dienstwagen: Bei der Verhandlung zählt jedes Detail – Manager verschenken leicht einen fünf- bis sechsstelligen Betrag. Eine Checkliste und Beispielrechnungen zeigen, worauf es …"
+          "title": "Spionage: Bundeswehr verschärft Sicherheitsregeln für vernetzte Autos – auch für Tesla und BYD",
+          "link": "https://www.handelsblatt.com/politik/deutschland/spionage-bundeswehr-verschaerft-sicherheitsregeln-fuer-vernetzte-autos/100269227.html",
+          "published": "2026-11-11T20:33:46+00:00",
+          "summary": "Kameras, Mikrofone und Sensoren in Autos könnten sensible Daten erfassen. Die Bundeswehr hat daher strenge Regeln für ihre Liegenschaften festgelegt. Betroffen sind auch Tesla und BYD."
         },
         {
-          "title": "Pharma: Das zweifelhafte Milliardengeschäft mit Frauen in den Wechseljahren",
-          "link": "https://www.handelsblatt.com/technik/medizin/technologie-was-hinter-dem-milliarden-geschaeft-mit-den-wechseljahren-steckt/100247911.html",
-          "published": "2026-11-11T13:23:00+00:00",
-          "summary": "Aus dem Handelsblatt-Archiv: Investoren und Pharmafirmen stecken Milliarden in Produkte für Frauen in der Menopause. Dennoch fehlt es an wirksamen Therapien. Ein deutscher Anbieter profitiert."
+          "title": "+++ Bundespolitik +++: Koalition verschiebt Einführung von Zuckersteuer auf 2028",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-koalition-verschiebt-einfuehrung-von-zuckersteuer-auf-2028/100137034.html",
+          "published": "2026-11-11T20:16:00+00:00",
+          "summary": "Haushaltsverhandlungen: Koalition nimmt geplante Kürzungen bei Sozialem zurück +++ Plastiksteuer laut laut Unions- und SPD-Fraktion vorerst vom Tisch +++ Der Newsblog."
         },
         {
-          "title": "Management: „Ich halte die Purpose-Debatte für überhöht“",
-          "link": "https://www.handelsblatt.com/karriere/unternehmen-ki-ruettelt-nicht-an-den-grundprinzipien-einer-organisation/100231883.html",
-          "published": "2026-11-11T13:22:00+00:00",
-          "summary": "Die Organisationssoziologin Judith Muster forscht dazu, warum Prozesse und Projekte in Unternehmen scheitern. Im Interview erklärt sie, weshalb daran selten bloß die Führungskräfte schuld sind."
+          "title": "Finanzen des Bundes: Koalition verschiebt Start der Zuckersteuer auf 2028",
+          "link": "https://www.handelsblatt.com/politik/deutschland/finanzen-des-bundes-koalition-verschiebt-start-der-zuckersteuer-auf-2028/100269233.html",
+          "published": "2026-11-11T20:10:34+00:00",
+          "summary": "Bei Limonaden, Colas und Co. soll ein Steueraufschlag kommen – um zu einer gesünderen Ernährung beizutragen und auch Geld in den Bundeshaushalt zu bringen. Nun steht eine Verständigung dafür."
         },
         {
-          "title": "Ransomware: „Der schlimmste Fehler ist ein CEO, der fragt: Wie zahle ich?“",
-          "link": "https://www.handelsblatt.com/technik/it-internet/ransomware-der-schlimmste-fehler-ist-ein-ceo-der-fragt-wie-zahle-ich/100229829.html",
-          "published": "2026-11-11T13:22:00+00:00",
-          "summary": "Cyber-Attacken legen ganze Produktionen lahm und treffen zunehmend auch den Mittelstand. Zwei Experten erklären, wie Firmen mit Erpressern verhandeln sollten – und sich besser schützen können."
+          "title": "Pharmaindustrie: Fresenius platziert FMC-Aktien für 523 Millionen Euro",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/pharmaindustrie-fresenius-platziert-fmc-aktien-fuer-523-millionen-euro/100269228.html",
+          "published": "2026-11-11T19:52:05+00:00",
+          "summary": "Fresenius verkauft weitere Anteile an seiner ehemaligen Dialyse-Tochter FMC. Mit dem Erlös will der Konzern Spielraum für Investitionen in Wachstumsbereiche schaffen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Inflation zieht an : Wirtschaftsweise erhöhen ihre Konjunkturprognose kräftig",
-          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsweise-erhoehen-ihre-Konjunkturprognose-kraeftig-id31520666.html",
-          "published": "2026-11-11T13:30:34+00:00",
-          "summary": "Die Aussichten für die deutsche Wirtschaft haben sich im vergangenen halben Jahr stark verbessert. Die Wirtschaftsweisen setzen ihre Prognose deutlich hoch. Doch das Gutachten des Expertengremiums …"
+          "title": "Hoher Investitionsbedarf: Eon erfüllt die Erwartungen",
+          "link": "https://www.n-tv.de/wirtschaft/Eon-erfuellt-die-Erwartungen-id31522956.html",
+          "published": "2026-11-11T15:50:38+00:00",
+          "summary": "Die Netze müssen ausgebaut werden, Strom von Norden nach Süden fließen und mit den vielen Rechenzentren steigt der Bedarf. Der Energienetzbetreiber Eon profitiert. Alle Jahresziele sind greifbar."
         },
         {
-          "title": "Keine Arbeit in Volkswagenwerk: Generalstreik legt Teile der spanischen Wirtschaft lahm",
-          "link": "https://www.n-tv.de/wirtschaft/Generalstreik-legt-Teile-der-spanischen-Wirtschaft-lahm-id31520924.html",
-          "published": "2026-11-11T13:20:45+00:00",
-          "summary": "Der Frust über steigende Mieten und Zwangsräumungen ist groß in Spanien. Der Protest führt zum ersten Generalstreik seit 14 Jahren. Allein in der Autoindustrie folgten 90 Prozent der Beschäftigten …"
+          "title": "Entwurf aus Ministerium: Arbeitsminister Schweitzer will Sonntagsarbeit in Bäckereien ausweiten",
+          "link": "https://www.n-tv.de/wirtschaft/Arbeitsminister-Schweitzer-will-Sonntagsarbeit-in-Baeckereien-ausweiten-id31522311.html",
+          "published": "2026-11-11T15:17:51+00:00",
+          "summary": "Arbeitsminister Alexander Schweitzer will Unternehmen die Einstellungen erleichtern. Dazu sollen Befristungen ausgeweitet und mehr Sonntagsarbeit erlaubt werden. Beim Kündigungsschutz plant der …"
         },
         {
-          "title": "Zweistelliges Wachstum: Siemens Energy sieht sich vor Boom-Jahren",
-          "link": "https://www.n-tv.de/wirtschaft/Siemens-Energy-sieht-sich-vor-Boom-Jahren-id31521799.html",
-          "published": "2026-11-11T13:00:48+00:00",
-          "summary": "Bis zum Ende des Jahrzehnts will der Energietechniker Siemens Energy jährlich zweistellig bei Umsatz und Ergebnis zulegen. Getrieben werde die Entwicklung vom weltweiten Energiehunger durch KI. Die …"
+          "title": "Investitionen auf dem Prüfstand: VW stoppt Projekt \"Gamechanger\" - Betriebsrat droht mit Golf-Veto",
+          "link": "https://www.n-tv.de/wirtschaft/VW-stoppt-Projekt-Gamechanger-Betriebsrat-droht-mit-Golf-Veto-id31522400.html",
+          "published": "2026-11-11T15:06:19+00:00",
+          "summary": "Mit einem neuen Produktionsverfahren wollte Volkswagen einzelne Bauteile für E-Autos kostengünstiger herstellen. Doch der Konzern scheut nun die Anfangsinvestition. Kurz vor der Grundsteinlegung wird …"
         },
         {
-          "title": "Affäre um mutmaßliche Spionin: Was Nvidia-Boss Huang zu Fall bringen könnte",
-          "link": "https://www.n-tv.de/wirtschaft/Wie-Nvidia-Boss-Jensen-Huang-stuerzen-koennte-id31520460.html",
-          "published": "2026-11-11T11:38:39+00:00",
-          "summary": "Jensen Huang hält sich trotz eines Skandals bisher an der Spitze von Nvidia. Doch er besitzt nur 3,6 Prozent der Aktien und kein Vetorecht. Welche Macht haben also Anleger und Aufsichtsräte, wenn der …"
+          "title": "Hunderte Milliarden jährlich: Wirtschaftsweise warnen vor \"historischen\" Mega-Haushaltslöchern",
+          "link": "https://www.n-tv.de/wirtschaft/Wirtschaftsweise-warnen-vor-historischen-Mega-Haushaltsloechern-id31522044.html",
+          "published": "2026-11-11T14:59:11+00:00",
+          "summary": "In den kommenden Jahren dürften die Lücken, die sich in der Finanzplanung der Bundesregierung auftun, auf gigantische Summen ansteigen, warnen die Wirtschaftsweisen. Selbst umfassende Reformen und …"
         },
         {
-          "title": "Tankrabatt dämpft Teuerung: Inflation fällt unter Drei-Prozent-Marke",
-          "link": "https://www.n-tv.de/wirtschaft/Inflation-faellt-unter-Drei-Prozent-Marke-id31520141.html",
-          "published": "2026-11-11T10:16:14+00:00",
-          "summary": "Wer einkaufen will, muss derzeit hart im Nehmen sein. Die Preise steigen und steigen. Immerhin im Oktober etwas weniger als noch im Vormonat. Das hat vor allem einen Grund."
+          "title": "Kleinteile können sich ablösen: Tonies ruft Figur von Helene Fischer zurück",
+          "link": "https://www.n-tv.de/wirtschaft/Tonies-ruft-Figur-von-Helene-Fischer-zurueck-id31521690.html",
+          "published": "2026-11-11T14:09:32+00:00",
+          "summary": "Keine Musik von Helene Fischer für Kinder mit Toniebox: Um mit dem Gerät die Kinderlieder der Schlagersängerin hören zu können, muss eine entsprechende Figur auf die Box gestellt werden. Doch …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: DAX pirscht sich ans Rekordhoch heran",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
+          "published": "2026-11-11T17:13:36+00:00",
+          "summary": "Im Handelsverlauf hatte es ausgesehen, als würde dem DAX die Luft ausgehen. Doch dann endet der Handelstag mit einem Index nahe am Rekordhoch. Die Wirtschaftsweisen schüren Optimismus, zudem treten …"
+        },
+        {
           "title": "Marktbericht: Der DAX-Rally geht die Puste aus",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rally-geht-puste-aus-100.html",
           "published": "2026-11-11T12:40:08+00:00",
           "summary": "Am dritten Tag erlahmt die DAX-Rally. Die Quartalszahlen waren zwar überwiegend positiv, aber für die Höhe der Bewertungen erwarten Investoren mehr. Dazu kommen unbefriedigende Entwicklungen bei Öl …"
-        },
-        {
-          "title": "Marktbericht: DAX macht sich wieder nach oben auf",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-          "published": "2026-11-11T09:42:50+00:00",
-          "summary": "Zur Wochenmitte hat der DAX seine Rekordjagd wieder aufgenommen. Neue Zuversicht im Technologiesektor stützt die Kurse. Besonders gut kommen die Zahlen von Siemens Energy an."
         },
         {
           "title": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "KI-gestützte Plattform: Rüstungs-Startup Helsing stellt europäische Gefechtsfeld-KI vor",
-          "link": "https://www.wiwo.de/unternehmen/industrie/ki-gestuetzte-plattform-ruestungs-startup-helsing-stellt-europaeische-gefechtsfeld-ki-vor/100269119.html",
-          "published": "2026-11-11T13:20:19+00:00",
-          "summary": "Die Bundeswehr will Unabhängigkeit von den USA und Palantir in Sachen Gefechtsfeldtechnik. Die in Deutschland entwickelte Plattform soll bereits getestet werden."
+          "title": "Versicherer: Allianz schraubt Gewinnprognose nach oben",
+          "link": "https://www.wiwo.de/unternehmen/versicherer/versicherer-allianz-schraubt-gewinnprognose-nach-oben/100269222.html",
+          "published": "2026-11-11T19:22:17+00:00",
+          "summary": "Der Versicherungskonzern erhöht vor der Bekanntgabe der Quartalszahlen seine Gewinnprognose. Damit werden die Erwartungen von Analysten übertroffen."
         },
         {
           "title": "BörsenTag: Die Affäre des Nvidia-Chefs wird für Anleger zur Einstiegschance",
-          "link": "https://www.wiwo.de/finanzen/boerse/nvidia-aktie-die-affaere-des-nvidia-chefs-wird-fuer-anleger-zur-einstiegschance/100269048.html",
-          "published": "2026-11-11T13:15:30+00:00",
+          "link": "https://www.wiwo.de/finanzen/boerse/nvidia-aktie-jensen-huangs-affaere-wird-fuer-anleger-zur-einstiegschance/100269048.html",
+          "published": "2026-11-11T19:20:00+00:00",
           "summary": "Der Fehltritt von Konzernchef Jensen Huang hat Nvidias Aktie schwer getroffen, sie steht so tief wie lange nicht. Das Geschäft wächst aber weiter rasant."
         },
         {
-          "title": "Gaming: Verändert GTA VI die Spielewelt für immer?",
-          "link": "https://www.wiwo.de/unternehmen/it/gta-6-release-steht-kurz-bevor-veraendert-gta-6-die-spielewelt-fuer-immer/100268690.html",
-          "published": "2026-11-11T12:47:03+00:00",
-          "summary": "Der Hype um den neuesten Teil der Spielereihe Grand Theft Auto verspricht, die Games-Branche für absehbare Zeit zu prägen. Nicht bei allem ist der Beifall der Nutzer sicher."
+          "title": "Wirtschaftsspionage: So nutzen Agenten aus Russland und China die Schwächen deutscher Manager aus",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/fall-nvidia-wie-spione-die-schwaechen-deutscher-manager-nutzen/100269216.html",
+          "published": "2026-11-11T19:01:59+00:00",
+          "summary": "Nicht nur Nvidia: Ausländische Agenten nehmen deutsche Unternehmen ins Visier – durch Verführung, Verrat und Sabotage. Wie Firmen sich schützen können."
         },
         {
-          "title": "Volkswagen: VW stoppt Produktionsprojekt „Gamechanger“",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-stoppt-gamechanger-aus-fuer-grossguss-empoert-betriebsrat/100269111.html",
-          "published": "2026-11-11T12:44:31+00:00",
-          "summary": "Volkswagen stoppt das Produktionsprojekt „Gamechanger“ und verzichtet auf das Großgusszentrum in Wolfsburg. Der Betriebsrat spricht von Tarifbruch."
+          "title": "Neue Anlage in den USA: BASF vs. China, die nächste Runde",
+          "link": "https://www.wiwo.de/unternehmen/industrie/basf-verdoppelt-us-mdi-kapazitaet-machtkampf-mit-chinas-wanhua/100268815.html",
+          "published": "2026-11-11T19:00:00+00:00",
+          "summary": "Matratzen, Dämmung, Kleber: Kunststoffhersteller sind auf das Vorprodukt MDI dringend angewiesen. China dominiert den Markt. Wie BASF und Covestro nun dagegenhalten."
         },
         {
-          "title": "Konjunktur: Wirtschaftsweisen erwarten Wachstum von mindestens einem Prozent",
-          "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutschland-wirtschaftsweise-legen-jahresgutachten-vor/100268877.html",
-          "published": "2026-11-11T12:14:00+00:00",
-          "summary": "Die deutsche Wirtschaft ist laut den Wirtschaftsweisen auf Erholungskurs. Aber wie nachhaltig ist der Aufschwung?"
+          "title": "Bundeshaushalt: Ringen um Haushalt – Sondersitzungen der Koalitionsfraktionen",
+          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-ringen-um-haushalt-sondersitzungen-der-koalitionsfraktionen/100269212.html",
+          "published": "2026-11-11T18:48:44+00:00",
+          "summary": "Bei der Ausgestaltung der Zucker- und Plastiksteuer herrscht weiterhin keine Klarheit. Auch die „kalte Progression“ soll eine Rolle bei den Verhandlungen spielen."
         }
       ],
       "error": null
@@ -211,6 +211,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "Bennu ist anders als gedacht: Neue Analysen liefern erstaunliche Erkenntnisse",
+          "link": "https://www.ingenieur.de/bennu-ist-anders-als-gedacht-neue-analysen-liefern-erstaunliche-erkenntnisse-839855ad-b355-4b33-9afb-83e42e8f899a/",
+          "published": "2026-11-11T17:54:10+00:00",
+          "summary": "Neue Analysen des Asteroiden Bennu überraschen die Forschung: Seine Bausteine des Lebens haben eine andere Geschichte als gedacht."
+        },
+        {
+          "title": "Freundlich kündigen: So führen Sie das Gespräch mit Ihrem Chef",
+          "link": "https://www.ingenieur.de/freundlich-kuendigen-so-trennen-sich-ingenieure-professionell-e4145071-c1eb-4fc1-88b1-9f08fa2b6b46/",
+          "published": "2026-11-11T17:02:45+00:00",
+          "summary": "Sie möchten freundlich kündigen? So führen Sie das Gespräch mit Ihrem Chef, erklären Ihre Entscheidung und verabschieden sich professionell."
+        },
+        {
+          "title": "23.155 km ohne Landung: Airbus bricht Boeing-Weltrekord von 2005",
+          "link": "https://www.ingenieur.de/23-155-km-ohne-landung-airbus-bricht-boeing-weltrekord-von-2005-68cb2159-d057-423a-a899-19c713f4c765/",
+          "published": "2026-11-11T14:53:55+00:00",
+          "summary": "Airbus A350-1000ULR fliegt 23.155 km nonstop und bricht Boeings Weltrekord. Der Test ebnet Qantas-Flüge von Sydney nach London."
+        },
+        {
           "title": "Neuer Master in Regensburg: Autoelektronik trifft KI und Cybersecurity",
           "link": "https://www.ingenieur.de/neuer-master-in-regensburg-autoelektronik-trifft-ki-und-cybersecurity-0297cc8f-b1bf-41a9-b6ae-14837c5ea28c/",
           "published": "2026-11-11T12:30:00+00:00",
@@ -221,24 +239,6 @@
           "link": "https://www.ingenieur.de/46-jahre-fur-ein-drittes-gleis-das-lange-warten-der-niederlander-auf-die-deutsche-bahn-b80d66ef-65e0-4a62-ab39-7d27e7a62a12/",
           "published": "2026-11-11T12:00:00+00:00",
           "summary": "Deutschland und die Niederlande wollen auf der Schiene enger zusammenarbeiten. Wie zäh das werden kann, zeigt die Güterstrecke vom Rotterdamer Hafen ins Ruhrgebiet: 1992 vereinbarten beide Länder den …"
-        },
-        {
-          "title": "Österreichs höchstes 3D-Druck-Gebäude: Ein Roboter baut vier Stockwerke",
-          "link": "https://www.ingenieur.de/oesterreichs-hoechstes-3d-druck-gebaeude-ein-roboter-baut-vier-stockwerke-a46d4af4-8cca-4eaa-96b4-48c85238aed2/",
-          "published": "2026-11-11T11:30:00+00:00",
-          "summary": "In Tirol baut ein Roboter Österreichs höchstes 3D-Druck-Gebäude: 682 m² Betonwände entstehen in 18 Tagen – mit Herausforderungen bei Statik und Frost."
-        },
-        {
-          "title": "Fast 1 Mrd. € Schaden pro Hitzetag: Wie sich Firmen jetzt wappnen",
-          "link": "https://www.ingenieur.de/fast-1-mrd-pro-hitzetag-wie-sich-firmen-jetzt-wappnen-a1b727a3-d7e5-4c58-adf4-c36dad22a4dd/",
-          "published": "2026-11-11T11:00:00+00:00",
-          "summary": "In Antalya suchen Fachleute und die Politik nach Wegen, den Klimawandel weltweit zu begrenzen und die Folgen abzufedern. Doch bereits jetzt spüren ihn Unternehmen in Deutschland. Sie suchen Rat und …"
-        },
-        {
-          "title": "Bundesumweltminister exklusiv: Warum alte Gebäude zu wertvoll für den Abriss sind",
-          "link": "https://www.ingenieur.de/exklusiv-bundesumweltminister-fordert-einen-kurswechsel-beim-bauen-8ee19dd8-ec0c-46cd-bbe1-6f3c5a24a591/",
-          "published": "2026-11-11T10:30:00+00:00",
-          "summary": "Bundesumweltminister Carsten Schneider nennt in einem exklusiven Gastbeitrag im Fachmagazin Bauingenieur seine Vorstellungen für eine nachhaltigere Bauwirtschaft. Recycelte Baustoffe, digitale …"
         }
       ],
       "error": null
