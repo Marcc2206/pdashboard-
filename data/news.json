@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:50:37+00:00",
+  "generatedAt": "2026-11-13T19:11:03+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Steffen Krach: Staatsanwaltschaft beantragt Aufhebung der Immunität",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/steffen-krach-immunitaet-100.html",
-          "published": "2026-11-13T11:38:36+00:00",
-          "summary": "Die Staatsanwaltschaft Hannover will die Immunität von Berlins SPD-Fraktionschef Steffen Krach aufheben lassen. Gegen ihn wird unter anderem wegen des Verdachts der Vorteilsannahme ermittelt."
+          "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+          "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+          "published": "2026-11-13T19:06:39+00:00",
+          "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm …"
         },
         {
-          "title": "Tina Hassel, ARD Brüssel, zzt. Dublin, zur Rolle der EU bei den Ukraine-Verhandlungen",
-          "link": "https://www.tagesschau.de/video/video-1683140.html",
-          "published": "2026-11-13T11:23:13+00:00",
+          "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+          "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+          "published": "2026-11-13T18:44:23+00:00",
+          "summary": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und …"
+        },
+        {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-13T18:18:56+00:00",
+          "summary": "Samstag ist es in der Südwesthälfte nach Nebelauflösung oft sonnig oder nur locker bewölkt., sonst gibts einen Mix aus Sonne und Wolken mit einzelnen Schauern. 4 bis 11 Grad."
+        },
+        {
+          "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
+          "published": "2026-11-13T17:57:57+00:00",
+          "summary": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent."
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1683380.html",
+          "published": "2026-11-13T17:47:31+00:00",
           "summary": ""
-        },
-        {
-          "title": "Anklage gegen drei Menschen erhoben",
-          "link": "https://www.tagesschau.de/inland/regional/niedersachsen/sechsfach-mord-in-stade-anklage-gegen-drei-menschen-erhoben,stade-406.html",
-          "published": "2026-11-13T11:21:09+00:00",
-          "summary": "Im Fall der Schüsse in Stade mit sechs Toten ist Anklage gegen drei Menschen erhoben worden - unter anderem gegen die Lebensgefährtin des mutmaßlichen Täters sowie die Fahrerin des Fluchtwagens."
-        },
-        {
-          "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-          "published": "2026-11-13T11:09:32+00:00",
-          "summary": "Weltweit sind seit vielen Stunden Dienste des US-Softwarekonzerns Microsoft ausgefallen oder gestört, unter anderem das E-Mail-Programm Outlook. Wer davon betroffen ist und welche Hintergründe …"
-        },
-        {
-          "title": "Kritik auch aus der Union an ausbleibender Stromsteuer-Senkung",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html",
-          "published": "2026-11-13T11:09:28+00:00",
-          "summary": "Der Bund darf 2027 sehr viel Geld ausgeben: Geplant sind mehr als 560 Milliarden Euro im Haushalt. Für eine Senkung der Stromsteuer reicht es - Stand jetzt - aber nicht. Die Kritik ist massiv, nicht …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Steffen Krach: Staatsanwaltschaft will Immunität des Berliner SPD-Chefs aufheben",
-          "link": "https://www.handelsblatt.com/politik/deutschland/berliner-spd-chef-staatsanwaltschaft-hannover-will-krachs-immunitaet-aufheben/100269712.html",
-          "published": "2026-11-13T11:40:15+00:00",
-          "summary": "Seit Krachs Einzug ins Abgeordnetenhaus ruhen die Ermittlungen zum Verkauf eines Klinikgeländes in Lehrte. Ob das Parlament zustimmt, ist offen."
+          "title": "Sachverständigenrat: „In ihren Rechten verletzt“ – Grimm siegt vor Gericht im Streit der Wirtschaftsweisen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sachverstaendigenrat-grimm-siegt-vor-gericht-im-streit-der-wirtschaftsweisen/100269802.html",
+          "published": "2026-11-13T19:03:33+00:00",
+          "summary": "Im Zwist um das Aufsichtsratsmandat von Veronika Grimm hat ein Gericht geurteilt: Die anderen Wirtschaftsweisen dürfen sie nicht zu Transparenzregeln zwingen – und auch keine Prüfungen anordnen."
         },
         {
-          "title": "Lappen weg?: Ein Monat ohne Führerschein: So läuft das Fahrverbot ab",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/lappen-weg-ein-monat-ohne-fuehrerschein-so-laeuft-das-fahrverbot-ab/100269714.html",
-          "published": "2026-11-13T11:38:12+00:00",
-          "summary": "TV-Moderatorin Barbara Schöneberger muss nach Medienberichten ihren Führerschein für einen Monat abgeben. Wichtige Fristen oder der beste Zeitpunkt: Was ein Monat Fahrverbot genau bedeutet."
+          "title": "Börsengang: Anthropics 64-Milliarden-Dollar-Wette: Das sagt Amodei zu Chancen, Profit und KI-Sicherheit",
+          "link": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html",
+          "published": "2026-11-13T18:57:33+00:00",
+          "summary": "Kurz vor einem der größten Börsengänge der Geschichte werben Anthropic-Chef Dario Amodei und Jamie Dimon von JP Morgan gemeinsam um Anleger. Die Aktie ist bereits sechsfach überzeichnet."
         },
         {
-          "title": "Wohnungsbau: „Mieten deutlich günstiger“ – Bundesbaugesellschaft soll rasch starten",
-          "link": "https://www.handelsblatt.com/politik/deutschland/immobilien-bundesbaugesellschaft-fuer-guenstigen-wohnraum-soll-rasch-starten-01/100269519.html",
-          "published": "2026-11-13T11:37:33+00:00",
-          "summary": "Die Regierung macht Ernst mit einer Entlastung deutscher Ballungsräume beim Bau bezahlbarer Mietwohnungen. Mit ihr soll auch ein Standortproblem für die Wirtschaft verhindert werden."
+          "title": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
+          "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html",
+          "published": "2026-11-13T18:20:56+00:00",
+          "summary": "Spott aus Washington, tagelanger Streit in Brüssel, dann die Lösung in Dublin: Die EU hat entschieden, wer sie bei möglichen Verhandlungen über den Krieg in der Ukraine vertritt."
         },
         {
-          "title": "+++ Geschäftszahlen +++: Tata Motors rutscht überraschend in die Verlustzone",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-tata-motors-rutscht-ueberraschend-in-die-verlustzone/24098412.html",
-          "published": "2026-11-13T11:31:08+00:00",
-          "summary": "Cisco hebt Umsatzprognose an +++ Cartier-Mutter Richemont verdient im Halbjahr deutlich mehr +++ CTS Eventim bleibt bei vorsichtigem Ausblick +++ Der Newsblog."
+          "title": "Nach Chef-Abgang: Wie geht es weiter nach dem Nvidia-Eklat?",
+          "link": "https://www.handelsblatt.com/technik/it-internet/nach-chef-abgang-wie-geht-es-weiter-nach-dem-nvidia-eklat/100269564.html",
+          "published": "2026-11-13T18:10:04+00:00",
+          "summary": "Mit Jensen Huang an der Spitze wurde Nvidia zum Motor im Maschinenraum des KI-Booms. Künftig wird der Chip-Riese ohne ihn auskommen. Der plötzliche Fall Huangs könnte Folgen bis ins US-Kabinett haben."
         },
         {
-          "title": "Cloud-Probleme: Microsoft-Ausfall zeigt Risiken digitaler Abhängigkeit",
-          "link": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-microsoft-ausfall-zeigt-risiken-digitaler-abhaengigkeit/100269709.html",
-          "published": "2026-11-13T11:27:18+00:00",
-          "summary": "Eine Großstörung bei Microsoft 365 hat weltweit Unternehmen und Behörden ausgebremst. Ein Blick auf Ursachen, Risiken sowie Alternativen und Ausweichmöglichkeiten."
+          "title": "+++ Ukraine-Krieg +++: Großflächige Stromausfälle in der Ukraine",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-grossflaechige-stromausfaelle-in-der-ukraine/27982126.html",
+          "published": "2026-11-13T18:08:50+00:00",
+          "summary": "Peskow äußert sich zurückhaltend zu europäischer Gesprächsbeteiligung +++ Russische Behörden melden sieben Tote bei ukrainischen Angriffen +++ Der Newsblog."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Singapur zog ihren Reisepass ein: Ist die Affäre des Nvidia-Chefs gar keine chinesische Spionin?",
-          "link": "https://www.n-tv.de/wirtschaft/Affaere-des-Nvidia-Chefs-doch-keine-chinesische-Spionin-id31529310.html",
-          "published": "2026-11-13T10:37:49+00:00",
-          "summary": "Ex-Nvidia-Chef Jensen Huang hat - wahrscheinlich - seine Ehe durch Affären zerstört. Besonders die Liaison mit einer mutmaßlichen chinesischen Spionin erschüttert zudem den Konzern, der an Börsenwert …"
+          "title": "Architekt des Billionen-Booms: Mit Jensen Huang verliert der KI-Hype seinen \"Zentralbanker\"",
+          "link": "https://www.n-tv.de/wirtschaft/Mit-Jensen-Huang-verliert-der-KI-Hype-seinen-Zentralbanker-id31531887.html",
+          "published": "2026-11-13T17:43:01+00:00",
+          "summary": "Jensen Huang war bislang die zentrale Figur des Billionen Dollar schweren KI-Booms. Nicht nur weil Nvidia die notwendige Technologie lieferte. Huang machte das Unternehmen auch zur \"Zentralbank\" des …"
         },
         {
-          "title": "\"Intergalaktische Freak-Show\": Nvidia-Eklat: Huangs Fall könnte noch weite Kreise ziehen",
-          "link": "https://www.n-tv.de/wirtschaft/Nvidia-Eklat-Huangs-Fall-koennte-noch-weite-Kreise-ziehen-id31529287.html",
-          "published": "2026-11-13T08:57:36+00:00",
-          "summary": "Der Chipkonzern Nvidia muss künftig ohne Jensen Huang auskommen und dringend überlegen, wer den charismatischen Chef ersetzen kann. Sein Fall könnte Folgen bis ins US-Kabinett haben. Wie geht es nun …"
+          "title": "Nach Rücktritt von Jensen Huang: Chinas KI-Chip-Schmuggel läuft auf Hochtouren",
+          "link": "https://www.n-tv.de/wirtschaft/Chinas-KI-Chip-Schmuggel-laeuft-auf-Hochtouren-id31531580.html",
+          "published": "2026-11-13T17:08:42+00:00",
+          "summary": "Die Affäre von Nvidia-Chef Jensen Huang mit einer angeblichen chinesischen Spionin ist nur der sichtbarste Teil des Problems: Peking nutzt jedes Mittel, um Zugang zu den KI-Chips der Firma zu …"
         },
         {
-          "title": "Pendler hatten protestiert: Drei Stunden für eine Fahrt von Berlin nach Wolfsburg - Bahn reagiert",
-          "link": "https://www.n-tv.de/wirtschaft/Drei-Stunden-fuer-eine-Fahrt-von-Berlin-nach-Wolfsburg-Bahn-reagiert-id31529572.html",
-          "published": "2026-11-13T08:56:35+00:00",
-          "summary": "Eigentlich dauert die Bahnfahrt zwischen Wolfsburg und Berlin eine Stunde, durch Sanierungen aktuell allerdings drei. Pendler sind verärgert, der Fahrgastverband Pro Bahn spricht von einem Ruin für …"
+          "title": "Riskante Eskalation: Mercedes steuert mit Vollgas auf die VW-Falle zu",
+          "link": "https://www.n-tv.de/wirtschaft/Mercedes-steuert-mit-Vollgas-auf-die-VW-Falle-zu-id31532051.html",
+          "published": "2026-11-13T16:36:16+00:00",
+          "summary": "Der Streit um die Arbeitskosten bei Mercedes-Benz eskaliert. Damit erhöhen die Stuttgarter die Gefahr, nicht rechtzeitig die Kurve zu kriegen."
         },
         {
-          "title": "\"Erfahrungswerte fehlen\": Vollkasko für chinesische E-Autos fast doppelt so teuer",
-          "link": "https://www.n-tv.de/wirtschaft/Vollkasko-fuer-chinesische-E-Autos-fast-doppelt-so-teuer-id31529068.html",
-          "published": "2026-11-13T08:42:49+00:00",
-          "summary": "Bis zu 870 Euro Preisunterschied: Die Versicherungskosten für chinesische Elektroautos liegen je nach Modell deutlich über denen eines vergleichbaren Wagens aus Europa, den USA oder Japan. Dafür …"
+          "title": "Streit um persönliche Daten: EU verhängt Millionenstrafe gegen Tinder",
+          "link": "https://www.n-tv.de/wirtschaft/EU-verhaengt-Millionenstrafe-gegen-Tinder-id31531604.html",
+          "published": "2026-11-13T16:31:54+00:00",
+          "summary": "Wer bei Tinder eine Kopie seiner persönlichen Daten anfordert, erhält offenbar nicht alle Informationen. Datenschützer der EU werfen dem Betreiber daher Fehlverhalten vor. Die Match Group will gegen …"
         },
         {
-          "title": "Ebenfalls Mitarbeiterin: Noch eine Affäre von Ex-Nvidia-Chef Huang kolportiert",
-          "link": "https://www.n-tv.de/wirtschaft/Noch-eine-Affaere-von-Ex-Nvidia-Chef-Huang-kolportiert-id31528535.html",
-          "published": "2026-11-13T07:36:00+00:00",
-          "summary": "Der Mann, der bislang an Nvidias Spitze stand, hatte mehr als nur eine außereheliche Liaison. Insider berichten über eine weitere Affäre Huangs, die Frau soll ebenfalls bei Nvidia arbeiten oder …"
+          "title": "Brandgefahr bei 721.000 Pkw: BMW-Fahrer in den USA sollen Fahrzeuge nicht drinnen parken",
+          "link": "https://www.n-tv.de/wirtschaft/BMW-Fahrer-in-den-USA-sollen-Fahrzeuge-nicht-drinnen-parken-id31531603.html",
+          "published": "2026-11-13T15:56:51+00:00",
+          "summary": "Erneuter Ärger in den Vereinigten Staaten für BMW-Fahrer. Nach einer großen Rückrufaktion vor zwei Jahren müssen die Betroffenen ihre Fahrzeuge nun nochmals in die Werkstatt bringen. Bis dahin sollen …"
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX schwächelt nach vier Gewinntagen",
+          "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-          "published": "2026-11-13T09:25:51+00:00",
-          "summary": "Nach vier Gewinntagen in Folge gehen es die Anleger heute etwas langsamer an - der DAX fällt leicht zurück. Auf Wochensicht liegt der deutsche Leitindex bislang aber noch weit in der Gewinnzone."
+          "published": "2026-11-13T17:57:57+00:00",
+          "summary": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent."
+        },
+        {
+          "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
+          "published": "2026-11-13T13:00:43+00:00",
+          "summary": "In Deutschland wurden im August so viele Unternehmensinsolvenzen registriert wie seit 13 Jahren nicht mehr. Die Pleitewelle dürfte weitergehen, meinen Experten. Gleichzeitig wird aber auch mehr …"
         },
         {
           "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rally-geht-puste-aus-100.html",
           "published": "2026-11-11T12:40:08+00:00",
           "summary": "Am dritten Tag erlahmt die DAX-Rally. Die Quartalszahlen waren zwar überwiegend positiv, aber für die Höhe der Bewertungen erwarten Investoren mehr. Dazu kommen unbefriedigende Entwicklungen bei Öl …"
-        },
-        {
-          "title": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
-          "published": "2026-11-10T13:33:44+00:00",
-          "summary": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms."
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Ukrainekrieg: Alle reden über „Frieden“. Aber warum stellt er sich dann nicht ein?",
-          "link": "https://www.wiwo.de/politik/ausland/ukrainekrieg-alle-reden-ueber-frieden.-aber-warum-stellt-er-sich-dann-nicht-ein/100269639.html",
-          "published": "2026-11-13T11:38:54+00:00",
-          "summary": "Eine Woche internationale Dauerdiplomatie hat für Kiew kaum Fortschritte gebracht. Alle möglichen Verhandlungspartner verfolgen auch noch eigene Interessen."
+          "title": "Gea: Dieser Mann soll Deutschlands einzigen Maschinenbauer im DAX leiten",
+          "link": "https://www.wiwo.de/unternehmen/industrie/gea-dieser-mann-soll-deutschlands-einzigen-maschinenbauer-im-dax-leiten/100269650.html",
+          "published": "2026-11-13T18:50:00+00:00",
+          "summary": "Gea-Chef Stefan Klebert hat seinen Rücktritt angekündigt. Sein Nachfolger schlug in einem internen Auswahlverfahren alle Wettbewerber um Längen."
         },
         {
-          "title": "Microsoft: Warum der Outlook-Ausfall ein Segen sein könnte",
-          "link": "https://www.wiwo.de/erfolg/trends/microsoft-outlook-stoerung-warum-der-ausfall-ein-segen-sein-koennte/100269656.html",
-          "published": "2026-11-13T11:22:49+00:00",
-          "summary": "Die Aufregung über die Outlook-Störung ist groß. Dabei hat Microsoft selbst kürzlich klargemacht, warum die Funkstille auch etwas Gutes haben könnte."
+          "title": "Microsoft und Nvidia: US-Börsen fallen – Nvidia-Talfahrt setzt KI-Aktien unter Druck",
+          "link": "https://www.wiwo.de/finanzen/boerse/us-boersen-im-minus-nvidia-und-microsoft-druecken-techwerte/100269787.html",
+          "published": "2026-11-13T18:37:00+00:00",
+          "summary": "Die Wall Street gerät zum Wochenausklang unter Druck: Kursverluste bei Nvidia nach dem Chef-Rücktritt und ein Microsoft-Ausfall belasten die US-Techaktien."
         },
         {
-          "title": "Outlook-Störung: Stundenlanger Ausfall von Microsoft-Diensten trifft Wirtschaft und Behörden",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/microsoft-outlook-stoerung-trifft-wirtschaft-und-behoerden-microsoft-aktie-faellt/100269543.html",
-          "published": "2026-11-13T11:22:00+00:00",
-          "summary": "Bei Outlook, Teams und weiteren Cloud-Dienste von Microsoft kommt es weltweit zu Störungen. Der Konzern kämpft weiter mit den Ausfällen, bisher ohne durchschlagenden Erfolg."
+          "title": "Atomtechnik: Militärische Bedeutung treibt Bund offenbar zu Einstieg bei Atomfirma Urenco",
+          "link": "https://www.wiwo.de/politik/deutschland/urenco-bund-plant-laut-medienberichten-einstieg-bei-atomtechnikkonzern/100269763.html",
+          "published": "2026-11-13T16:43:53+00:00",
+          "summary": "Der Bund will laut Insidern bei der Atomfirma Urenco einsteigen und Anteile von E.ON und RWE übernehmen. Hintergrund ist auch die militärische Bedeutung."
         },
         {
-          "title": "Logistik: Preiserhöhung bei der Deutschen Post – Paketsendungen werden teurer",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/logistik-preiserhoehung-bei-deutscher-post-paketsendungen-werden-teurer/100269673.html",
-          "published": "2026-11-13T10:34:17+00:00",
-          "summary": "Entscheidung der Bundesnetzagentur zwingt das Unternehmen, die Paketpreise anzuheben. Privat- und Geschäftskunden zahlen ab 2027 mehr."
+          "title": "Europäische Zentralbank: Rennen um EZB-Führungspositionen geht in heiße Phase",
+          "link": "https://www.wiwo.de/politik/europa/ezb-nachfolge-merz-kuendigt-deutschen-personalvorschlag-an/100269336.html",
+          "published": "2026-11-13T16:40:00+00:00",
+          "summary": "Beim EU-Gipfel treibt Friedrich Merz die EZB-Nachfolge voran. Deutschland will nächste Woche Vorschläge für Spitzenposten bei der Notenbank vorlegen."
         },
         {
-          "title": "Quantum Systems: Bundeswehr-Drohnen fliegen nach Cyberangriff wieder",
-          "link": "https://www.wiwo.de/unternehmen/industrie/quantum-systems-drohnenhersteller-meldet-cyberangriff/100269620.html",
-          "published": "2026-11-13T10:32:10+00:00",
-          "summary": "Quantum-Drohnen unterstützen die ukrainischen Streitkräfte, nun meldet der Hersteller einen Cyberangriff durch feindliche Akteure."
+          "title": "Cyberattacken und Sabotage: So versucht Russland deutsche Rüstungsfirmen einzuschüchtern",
+          "link": "https://www.wiwo.de/unternehmen/industrie/quantum-systems-cyberangriff-offenbart-bedrohung-fuer-ruester/100269735.html",
+          "published": "2026-11-13T16:11:02+00:00",
+          "summary": "Der Drohnenbauer Quantum Systems ist Ziel einer Cyberattacke geworden. Wer dahintersteckt, ist noch unklar – ins Schema russischer hybrider Kriegsführung passt der Vorfall allerdings."
         }
       ],
       "error": null
@@ -210,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Liebesschlösser verhindern Tests, dann rutscht die Brücke ins Wasser",
+          "link": "https://www.ingenieur.de/liebesschloesser-verhindern-tests-dann-rutscht-die-bruecke-ins-wasser-69ce1f58-bbb3-49d4-92c1-4fa52be654b1/",
+          "published": "2026-11-13T16:54:01+00:00",
+          "summary": "Zehn Jahre verhinderten Liebesschlösser Testhübe an Bristols Pero’s Bridge. Dann versagte sie zweimal. Was der Untersuchungsbericht zeigt."
+        },
+        {
+          "title": "700 kg aus Schweißdraht: Wie WAAM riesige Metallteile druckt",
+          "link": "https://www.ingenieur.de/700-kg-aus-schweissdraht-so-druckt-die-industrie-riesige-metallteile-d767c565-1c90-4ed6-80d8-060fc5f36b75/",
+          "published": "2026-11-13T12:30:00+00:00",
+          "summary": "Tragende Verbindungsknoten und ein 700 kg schweres Verdichterrad: WAAM macht große Metallbauteile aus dem 3D-Drucker möglich. Wie funktioniert das Verfahren mit Draht und Lichtbogen, wo liegen seine …"
+        },
         {
           "title": "5 Jahre und 210 Mio. € später: Bad Lauchstädt hat grünen Wasserstoff. Und jetzt?",
           "link": "https://www.ingenieur.de/5-jahre-und-210-mio-spater-bad-lauchstadt-hat-grunen-wasserstoff-und-jetzt-954e7bbc-c150-4b88-b346-965958f82c58/",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/kuendigungsschreiben-fuer-ingenieure-was-korrekt-ist-und-was-riskant-c7ff4ec0-c57a-4afa-8ec8-cf7cc0c9b89e/",
           "published": "2026-11-13T09:00:00+00:00",
           "summary": "Kündigungsschreiben richtig formulieren: Welche Angaben sind Pflicht, welche Fehler sollten Sie vermeiden? Mit Muster und Tipps zur sicheren Zustellung."
-        },
-        {
-          "title": "Pflanzenöl und Seife sollen historische Lehmhäuser vor Regen schützen",
-          "link": "https://www.ingenieur.de/pflanzenoel-und-seife-sollen-historische-lehmhaeuser-vor-regen-schuetzen-ebcb9759-0146-43df-aa30-a7431c462d4d/",
-          "published": "2026-11-13T07:47:32+00:00",
-          "summary": "Pflanzenöl und Seife gegen Schlagregen: Forschende entwickeln eine neue Schutzschicht, die historische Lehmhäuser erhalten und Sanierungen erleichtern soll."
-        },
-        {
-          "title": "Outlook, Teams, Copilot: Ein Serverproblem legt Microsoft-Dienste lahm",
-          "link": "https://www.ingenieur.de/outlook-teams-copilot-ein-serverproblem-legt-microsoft-dienste-lahm-f712344e-b052-41e4-a25a-a86ac8d84989/",
-          "published": "2026-11-13T06:45:44+00:00",
-          "summary": "Microsoft kämpft mit einer weltweiten Störung. Outlook, Teams und Copilot sind betroffen. Warum selbst neu gestartete Server wieder ausfallen."
         }
       ],
       "error": null
