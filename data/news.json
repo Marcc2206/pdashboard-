@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:17:11+00:00",
+  "generatedAt": "2026-11-13T02:21:42+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
-          "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
-          "published": "2026-11-12T21:09:07+00:00",
-          "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits …"
+          "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+          "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+          "published": "2026-11-13T02:19:34+00:00",
+          "summary": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit Ankündigungen aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen."
+        },
+        {
+          "title": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+          "published": "2026-11-13T02:10:29+00:00",
+          "summary": "Ein großflächiger Ausfall von Microsoft-Diensten, darunter Outlook: Innerhalb der Anwendungspalette des Technologiekonzerns kommt es weltweit zu Störungen. Das Unternehmen arbeite mit Hochdruck an …"
+        },
+        {
+          "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
+          "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
+          "published": "2026-11-13T01:22:12+00:00",
+          "summary": "Das Treffen in Dublin bringt neue Dynamik in die Friedensverhandlungen - am Abend kommen noch die US-Unterhändler Witkoff und Kushner aus Moskau angereist. NATO-Chef Rutte sieht Fortschritte. Von K. …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1682924.html",
-          "published": "2026-11-12T21:06:27+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1682968.html",
+          "published": "2026-11-13T00:59:21+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682890.html",
-          "published": "2026-11-12T19:50:06+00:00",
-          "summary": "Union und SPD ringen über den Bundeshaushalt 2027, Gipfel der Europäischen Politischen Gemeinschaft in Dublin, Nvidia-Chef Huang tritt nach Spionageaffäre zurück, Mercedes-Benz will Investitionen in …"
-        },
-        {
-          "title": "Finale Verhandlungen um Bundeshaushalt 2027",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682874.html",
-          "published": "2026-11-12T19:29:39+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Welche Rolle spielt Europa bei den Verhandlungen um ein Ende des Ukraine-Krieges?",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682876.html",
-          "published": "2026-11-12T19:29:38+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82006.html",
+          "published": "2026-11-12T23:18:47+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Wohnungsbau: „Mieten deutlich günstiger“ – Bundesbaugesellschaft soll rasch starten",
-          "link": "https://www.handelsblatt.com/politik/deutschland/immobilien-bundesbaugesellschaft-fuer-guenstigen-wohnraum-soll-rasch-starten/100269519.html",
-          "published": "2026-11-12T20:55:54+00:00",
-          "summary": "Die Regierung macht Ernst mit einer Entlastung deutscher Ballungsräume beim Bau bezahlbarer Mietwohnungen. Mit ihr soll auch ein Standortproblem für die Wirtschaft verhindert werden."
+          "title": "WM-Investorendeal: Gericht in New York weist FIFA-Anträge ab",
+          "link": "https://www.handelsblatt.com/unternehmen/wm-investorendeal-gericht-in-new-york-weist-fifa-antraege-ab/100269555.html",
+          "published": "2026-11-13T01:01:57+00:00",
+          "summary": "Das hat sich Gianni Infantino anders erhofft. Ein US-Gericht weist einen FIFA-Antrag im Machtkampf mit der UEFA ab. Es geht um die Herausgabe von möglicherweise brisanten Unterlagen."
         },
         {
-          "title": "Rüstungs-Start-up: Drohnenhersteller Quantum Systems meldet massiven Cyberangriff",
-          "link": "https://www.handelsblatt.com/politik/deutschland/quantum-systems-drohnenhersteller-meldet-massiven-cyberangriff/100269533.html",
-          "published": "2026-11-12T20:46:19+00:00",
-          "summary": "Der Drohnenhersteller aus Bayern meldet einen Angriff durch „feindliche Akteure“. Laut einem Medienbericht hat die Bundeswehr Drohnen des Unternehmens vorsorglich aus dem Verkehr gezogen."
+          "title": "Störung: Ausfall bei Microsoft beeinträchtigt Outlook und Teams",
+          "link": "https://www.handelsblatt.com/technik/it-internet/stoerung-ausfall-bei-microsoft-beeintraechtigt-outlook-und-teams/100269552.html",
+          "published": "2026-11-13T00:35:34+00:00",
+          "summary": "Viele Unternehmen und Verbraucher nutzen ihre E-Mails über den Outlook-Dienst von Microsoft. Der ist am Donnerstag stundenlang nicht erreichbar. Auch die Produkte Teams und Copilot sind betroffen."
         },
         {
-          "title": "Regierung in der Krise: Niederlande: Regierungskrise eskaliert",
-          "link": "https://www.handelsblatt.com/politik/international/regierung-in-der-krise-niederlande-regierungskrise-eskaliert/100269534.html",
-          "published": "2026-11-12T20:39:22+00:00",
-          "summary": "Nach knapp neun Monaten steht die Minderheitsregierung von Ministerpräsident Jetten vor dem Aus. Ein Streit um die Millionärsteuer spaltet die Koalition. Ist ein Neuanfang möglich?"
+          "title": "Trump-Familie: Donald Trump Jr. verlässt Beraterrolle bei Wettplattform Kalshi",
+          "link": "https://www.handelsblatt.com/technik/it-internet/trump-familie-donald-trump-jr.-verlaesst-beraterrolle-bei-wettplattform-kalshi/100269553.html",
+          "published": "2026-11-13T00:29:38+00:00",
+          "summary": "Hintergrund der Trennung ist eine Investition von 1789 Capital, an der Trump Jr. beteiligt ist, in den größten Konkurrenten Polymarket. Die Trennung sei einvernehmlich."
         },
         {
-          "title": "Gipfel in Dublin: Europäer benennen vorerst keinen Ukraine-Chefverhandler",
-          "link": "https://www.handelsblatt.com/politik/international/gipfel-in-dublin-europaeer-benennen-vorerst-keinen-ukraine-chefverhandler/100269283.html",
-          "published": "2026-11-12T20:34:33+00:00",
-          "summary": "Welcher Europäer würde bei einem Treffen von Putin, Selenskyj und Trump mit am Tisch sitzen? Donald Trumps Schwiegersohn bringt neue Brisanz in eine schwierige Debatte."
+          "title": "+++ Ukraine-Krieg +++: Europäer knüpfen Sicherheitsgespräche mit Russland an Bedingungen",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-europaeer-knuepfen-sicherheitsgespraeche-mit-russland-an-bedingungen/27982126.html",
+          "published": "2026-11-12T23:52:00+00:00",
+          "summary": "Selenskyj: Waffenruhe soll Thema bei nächsten Friedensgesprächen sein +++ US-Satelliteninternet Starshield laut Ukraine wieder gedrosselt +++ Treffen der US-Unterhändler mit Putin vorbei +++ Der …"
         },
         {
-          "title": "Nvidia: So reagieren Politik und Wirtschaft auf Huangs Rücktritt",
-          "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-so-reagieren-politik-und-wirtschaft-auf-huangs-ruecktritt/100269516.html",
-          "published": "2026-11-12T20:00:04+00:00",
-          "summary": "Während Donald Trump schon den ehemaligen Apple-Chef bei Nvidia ins Spiel bringt, dominieren die politischen Auswirkungen die Debatte. Der Tech-Superstar erfährt aber auch Rückhalt."
+          "title": "Neue Drohung: Trump bekräftigt Interesse an Machtwechsel auf Kuba",
+          "link": "https://www.handelsblatt.com/politik/international/neue-drohung-trump-bekraeftigt-interesse-an-machtwechsel-auf-kuba/100269550.html",
+          "published": "2026-11-12T23:46:33+00:00",
+          "summary": "Donald Trump sprach schon häufiger von einer Militärintervention auf Kuba. Jetzt setzt sich der US-Präsident eine Frist."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Ebenfalls Nvidia-Mitarbeiterin: Jensen Huang soll noch eine dritte Affäre gehabt haben",
+          "link": "https://www.n-tv.de/wirtschaft/Jensen-Huang-soll-noch-eine-dritte-Affaere-gehabt-haben-id31528535.html",
+          "published": "2026-11-12T23:51:51+00:00",
+          "summary": "Der Mann, der bislang an Nvidias Spitze stand, hatte mehr als nur eine außereheliche Liaison. Insider berichten über eine weitere Affäre Huangs, die Frau soll ebenfalls bei Nvidia arbeiten oder …"
+        },
+        {
+          "title": "KI-Werte unter Druck: Nvidia-Turbulenzen belasten die Wall Street",
+          "link": "https://www.n-tv.de/wirtschaft/Nvidia-Turbulenzen-belasten-die-Wall-Street-id31528491.html",
+          "published": "2026-11-12T22:38:16+00:00",
+          "summary": "Der Rauswurf von Nvidia-Chef Huang erschüttert den Technologiesektor. Die Aktie rutscht weiter ab, ein paar direkte Konkurrenten profitieren, doch insgesamt sehen die Händler das Thema KI derzeit …"
+        },
         {
           "title": "Zocken statt Arbeit: Personaldisponenten melden zum GTA-VI-Start auffällig viele Urlaubsanträge",
           "link": "https://www.n-tv.de/wirtschaft/Personaldisponenten-melden-zum-GTA-VI-Start-auffaellig-viele-Urlaubsantraege-id31528105.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Volkswagen-startet-Produktion-des-ID-Tiguan-in-Emden-id31527432.html",
           "published": "2026-11-12T16:01:53+00:00",
           "summary": "Volkswagen beginnt in Emden mit der Serienfertigung des ID. Tiguan. Für Ostfriesland und den Konzern fällt der Produktionsstart in eine entscheidende Phase. Denn die Zukunft des Werks ist ungewiss."
-        },
-        {
-          "title": "Wegen hoher Sonderbelastungen: VW soll pro verkauftem Auto nur Mini-Betrag verdienen",
-          "link": "https://www.n-tv.de/wirtschaft/VW-soll-pro-verkauftem-Auto-nur-Mini-Betrag-verdienen-id31527106.html",
-          "published": "2026-11-12T15:56:23+00:00",
-          "summary": "Wenn ein Volkswagen verkauft wird, verdient der Konzern daran laut einer Untersuchung fast nichts. Bei zwei großen deutschen Konkurrenten sieht es hingegen deutlich besser aus."
-        },
-        {
-          "title": "Anstieg bei jungen Menschen: Schuldenfalle: Jeder zehnte Erwachsene überschuldet",
-          "link": "https://www.n-tv.de/wirtschaft/Ueberschuldung-nimmt-zu-mehr-als-7-3-Millionen-Betroffene-id31526333.html",
-          "published": "2026-11-12T14:58:47+00:00",
-          "summary": "Die Zahl der überschuldeten Menschen ist gestiegen - das geht aus dem neuen \"Schuldneratlas\" von Creditreform hervor. Hohe Energiepreise und gestiegene Lebenshaltungskosten belasten vor allem Jüngere …"
         }
       ],
       "error": null
