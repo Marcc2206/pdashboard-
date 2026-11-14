@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T08:34:08+00:00",
+  "generatedAt": "2026-11-14T16:21:24+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Flugstopp in den USA aufgehoben - Veraltete Kommunikationstechnik Ursache für Stillstand",
-          "link": "https://www.tagesschau.de/video/video-1683610.html",
-          "published": "2026-11-14T08:27:20+00:00",
+          "title": "Erster Slalom-Sieg - Aicher jubelt in Levi",
+          "link": "https://www.sportschau.de/wintersport/ski-alpin/erster-slalom-sieg-aicher-jubelt-in-levi,ski-alpin-levi-erster-slalom-sieg-emma-aicher-100.html",
+          "published": "2026-11-14T16:09:52+00:00",
+          "summary": "Großer Jubel beim Deutschen Ski-Verband: Emma Aicher macht im finnischen Levi ein fast perfektes Rennen und rast zum ersten Slalom-Sieg ihrer Weltcup-Karriere."
+        },
+        {
+          "title": "Pläne für höhere Abzüge bei vorgezogener Rente",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+          "published": "2026-11-14T15:37:32+00:00",
+          "summary": "Die Einsparungen der Regierung treffen die Rentenversicherung mehr als geplant - und damit stellt sich die Frage, wie die Einbußen ausgeglichen werden können. Die CSU bringt nun höhere Abschläge bei …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1683816.html",
+          "published": "2026-11-14T15:34:16+00:00",
           "summary": ""
         },
         {
-          "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-          "published": "2026-11-14T08:24:29+00:00",
-          "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet …"
+          "title": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
+          "published": "2026-11-14T15:22:57+00:00",
+          "summary": "Es war der längste Ausfall des US-Flugbetriebs seit Jahrzehnten. Vier Stunden lang galt ein Startverbot. Warum - und mit welchen Folgen? Könnte in Deutschland Ähnliches geschehen? Ein Überblick."
         },
         {
-          "title": "Trump kündigt Dreiertreffen mit Putin und Xi in China an",
-          "link": "https://www.tagesschau.de/video/video-1683612.html",
-          "published": "2026-11-14T08:21:32+00:00",
+          "title": "Laura Hönes, MDR, über den Landesparteitag BSW in Sachsen-Anhalt",
+          "link": "https://www.tagesschau.de/video/video-1683808.html",
+          "published": "2026-11-14T15:18:46+00:00",
           "summary": ""
-        },
-        {
-          "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
-          "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
-          "published": "2026-11-14T08:15:06+00:00",
-          "summary": "Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich …"
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-11-14T08:03:28+00:00",
-          "summary": "Samstag ist es in der Südwesthälfte nach Nebelauflösung oft sonnig oder nur locker bewölkt., sonst gibts einen Mix aus Sonne und Wolken mit einzelnen Schauern. 4 bis 11 Grad."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Rente: Mit der Aktie ins Alter: Die zwölf wichtigsten Antworten zum Vorsorgedepot",
-          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
-          "published": "2026-11-14T08:04:00+00:00",
-          "summary": "Das Altersvorsorgedepot ersetzt ab 2027 die Riester-Rente und lockt mit staatlicher Förderung. Das sorgt bei vielen Fachleuten für Begeisterung. Doch die neue Förderrente ist nicht in allen Belangen …"
+          "title": "Schiffbau: Staat steht offenbar vor Ausstieg aus Meyer Werft",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/schiffbau-staat-steht-offenbar-vor-ausstieg-aus-meyer-werft/100269911.html",
+          "published": "2026-11-14T16:02:06+00:00",
+          "summary": "Die letzte große deutsche Kreuzfahrtschiffwerft könnte laut einem Medienbericht an den weltgrößten Reedereikonzern MSC gehen. Der Ausstieg des Staates käme damit früher als erwartet."
         },
         {
-          "title": "Morning Briefing Plus: Eine dramatische Warnung auf 458 Seiten",
-          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-eine-dramatische-warnung-auf-458-seiten/100269685.html",
-          "published": "2026-11-14T07:35:08+00:00",
-          "summary": "Die Wirtschaftsweisen sehen eine Staatsschuldenkrise aufziehen und machen kluge Vorschläge, um sie zu vermeiden. Der Haushalt der Koalition sendet eine ganz andere Botschaft – leider."
+          "title": "Treffen am Rande des Gipfels: Trump trifft Xi und Putin in China",
+          "link": "https://www.handelsblatt.com/politik/international/treffen-am-rande-des-gipfels-trump-trifft-xi-und-putin-in-china/100269826.html",
+          "published": "2026-11-14T16:00:24+00:00",
+          "summary": "Es bahnt sich ein Dreiertreffen auf höchster Ebene zwischen den USA, China und Russland an. Was wird bei dem historischen Zusammenkommen besprochen?"
         },
         {
-          "title": "Outlook und Teams: Microsoft-Dienste für Verbraucher arbeiten nach Störung wieder",
-          "link": "https://www.handelsblatt.com/technik/it-internet/outlook-und-teams-microsoft-dienste-fuer-verbraucher-arbeiten-nach-stoerung-wieder/100269854.html",
-          "published": "2026-11-14T07:24:26+00:00",
-          "summary": "Ein massiver Ausfall von Microsoft-Diensten hatte weltweit Nutzer beeinträchtigt. Verbraucher können die Dienste nun wieder vollständig nutzen. Für Firmenkunden gilt das noch nicht."
+          "title": "Urteil: Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+          "link": "https://www.handelsblatt.com/unternehmen/it-medien/urteil-italien-verhaengt-805-millionen-euro-strafe-gegen-meta/100269913.html",
+          "published": "2026-11-14T15:55:42+00:00",
+          "summary": "Eine Funktion, die Facebook-Nutzern Ideen für eigene Beiträge liefern sollte, wird für Meta zum Problem. Im Mittelpunkt steht der Zugriff auf private Fotos und Videos auf Millionen Geräten."
         },
         {
-          "title": "Nach Internet-Drosselung: US-Senatoren wollen Antworten zu Starlink in der Ukraine",
-          "link": "https://www.handelsblatt.com/politik/international/nach-internet-drosselung-us-senatoren-wollen-antworten-zu-starlink-in-der-ukraine/100269853.html",
-          "published": "2026-11-14T07:05:46+00:00",
-          "summary": "Die Ukraine ist unter anderem zur Drohnenabwehr auf Elon Musks Satelliten-Internet angewiesen - doch zuletzt hakte es damit. Senatoren der Demokraten laufen sich für eine Untersuchung warm."
+          "title": "Erstmals seit 1998: Demokrat gewinnt Gouverneurswahl in Alaska",
+          "link": "https://www.handelsblatt.com/politik/international/erstmals-seit-1998-demokrat-gewinnt-gouverneurswahl-in-alaska/100269916.html",
+          "published": "2026-11-14T15:53:15+00:00",
+          "summary": "Nach zwei Amtszeiten durfte Alaskas republikanischer Gouverneur Michael Dunleavy nicht mehr antreten. Nun wurde erstmals seit 1998 wieder ein Demokrat zum Gouverneur gewählt."
         },
         {
-          "title": "Musks Autobauer: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/musks-autobauer-tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen/100269846.html",
-          "published": "2026-11-14T05:55:06+00:00",
-          "summary": "Tesla will mit seinem Cybercab die Robotaxi-Branche aufrollen. Nun sollen einige der Wagen auch in Privatbesitz gehen - noch während die Firma wegen des Fahrzeugs Ärger mit einer US-Behörde hat."
+          "title": "Energiepolitik: Solarförderung für kleine Anlagen soll bleiben",
+          "link": "https://www.handelsblatt.com/politik/deutschland/energiepolitik-solarfoerderung-fuer-kleine-anlagen-soll-bleiben/100269915.html",
+          "published": "2026-11-14T15:48:06+00:00",
+          "summary": "Für kleine Solaranlagen bis 25 Kilowatt soll die Einspeisevergütung erhalten bleiben. Doch beim Gesamtpaket zur Energiepolitik sind Union und SPD noch nicht einig."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Flüge aus Deutschland gestrichen: Technische Panne legt US-Luftverkehr stundenlang lahm",
-          "link": "https://www.n-tv.de/wirtschaft/Technische-Panne-legt-US-Luftverkehr-stundenlang-lahm-id31533283.html",
-          "published": "2026-11-14T01:49:33+00:00",
-          "summary": "Rund vier Stunden müssen sämtliche Flugzeuge in den USA wegen technischer Probleme am Boden bleiben. Jetzt ist der Luftraum wieder freigegeben. Es dürfte aber noch eine Weile dauern, bis sich das …"
+          "title": "Tiefrot ins Nasdaq-Debüt: Geht Anthropics riskante Börsenwette auf?",
+          "link": "https://www.n-tv.de/wirtschaft/Geht-Anthropics-riskante-Boersenwette-auf-id31531417.html",
+          "published": "2026-11-14T14:58:01+00:00",
+          "summary": "Zwischen gewaltigem Umsatzplus und Milliardenverlusten wagt KI-Entwickler Anthropic trotz eines schwierigen Marktumfelds den Sprung aufs Parkett. Sollte das Börsendebüt glücken, dürfte das eine …"
         },
         {
-          "title": "Wochenvorschau: Termine bis 22. November 2026",
-          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-22-November-2026-id31504788.html",
-          "published": "2026-11-13T23:01:00+00:00",
-          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+          "title": "\"Risikobewusstsein muss da sein\": Mit Anlagezertifikaten fürs Alter sparen?",
+          "link": "https://www.n-tv.de/wirtschaft/Mit-Anlagezertifikaten-fuers-Alter-sparen-id31530767.html",
+          "published": "2026-11-14T14:30:00+00:00",
+          "summary": "Wer einen langfristigen Anlagehorizont hat, kann kurzfristige Marktschwankungen aussitzen. Dafür können Anlagezertifikate sinnvoll sein. Discountzertifikate nutzen die Schwankungen der Märkte gezielt …"
         },
         {
-          "title": "Dow tritt auf der Stelle: Chip-Werte kommen unter die Räder",
-          "link": "https://www.n-tv.de/wirtschaft/Chip-Werte-kommen-unter-die-Raeder-id31533210.html",
-          "published": "2026-11-13T22:55:00+00:00",
-          "summary": "Die Krise bei Nvidia greift um sich, der Halbleitersektor geht mit kräftigen Verlusten aus dem Handel. Kurz bevor die Schlussglocke ertönt, ereilt die Wall Street die Meldung vom landesweiten …"
+          "title": "Als angemessen dargestellt: Huang soll Nvidia-Führungskräfte über Affäre getäuscht haben",
+          "link": "https://www.n-tv.de/wirtschaft/Huang-soll-Nvidia-Fuehrungskraefte-ueber-Affaere-getaeuscht-haben-id31534364.html",
+          "published": "2026-11-14T14:27:48+00:00",
+          "summary": "Von seinem Chefposten bei Nvidia ist Huang bereits zurückgetreten. Ruhe kehrt in der Affäre um seine Liaison mit einer möglichen chinesischen Spionin allerdings nicht ein. Einem Bericht zufolge belog …"
         },
         {
-          "title": "Störung im Kommunikationssystem: Landesweiter Stopp von Starts an US-Flughäfen",
-          "link": "https://www.n-tv.de/wirtschaft/Landesweiter-Stopp-von-Starts-an-US-Flughaefen-id31533009.html",
-          "published": "2026-11-13T21:30:34+00:00",
-          "summary": "Die Flugkontrollzentren in den USA melden Kommunikationsprobleme. Die Folge: Derzeit dürfen landesweit keine Flugzeuge mehr starten. Nach den Terroranschlägen vom 11. September 2001 ist diese …"
+          "title": "Staat steigt aus: Weltgrößte Reederei MSC will offenbar Meyer Werft kaufen",
+          "link": "https://www.n-tv.de/wirtschaft/Weltgroesste-Reederei-MSC-will-offenbar-Meyer-Werft-kaufen-id31534236.html",
+          "published": "2026-11-14T13:34:59+00:00",
+          "summary": "Einem Medienbericht zufolge will die Genfer Reederei MSC den Großteil der Meyer Werft übernehmen. Dafür müssten der Bund und Niedersachsen deutlich früher bei Deutschlands letzter großen …"
         },
         {
-          "title": "Unter Vier-Billionen-Marke: Nvidias Börsenwert fällt um 650 Milliarden Dollar - in einer Woche",
-          "link": "https://www.n-tv.de/wirtschaft/Nvidias-Boersenwert-faellt-um-650-Milliarden-Dollar-in-einer-Woche-id31532436.html",
-          "published": "2026-11-13T19:07:38+00:00",
-          "summary": "KI-Titel stehen spätestens seit Wochen unter Druck. Die Midterms verschärften dies zumindest kurzzeitig. Und die Fehltritte vom Chef des Branchenprimus Nvidia sorgen für neuen Abgabedruck. Huangs …"
+          "title": "Stau am Umspannwerk: Das Stromnetz ist Deutschlands größte KI-Bremse",
+          "link": "https://www.n-tv.de/wirtschaft/Das-Stromnetz-ist-Deutschlands-groesste-KI-Bremse-id31523000.html",
+          "published": "2026-11-14T10:39:08+00:00",
+          "summary": "Das Kapital ist da, die Nachfrage auch. Trotzdem hinken Deutschland und Europa beim Bau von Rechenzentren hinter den USA und China her. Bei Hochspannungsanschlüssen herrscht ein Stau, der den …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Kompletter Vorstand weg: Was hinter dem Führungsbeben bei Hugo Boss steckt",
-          "link": "https://www.wiwo.de/unternehmen/handel/hugo-boss-was-hinter-dem-ruecktritt-von-daniel-grieder-steckt/100269646.html",
-          "published": "2026-11-14T07:57:00+00:00",
-          "summary": "Binnen zwei Monaten sind der Aufsichtsratschef und der komplette Vorstand gegangen. Was das mit dem neuen britischen Mehrheitsaktionär Frasers zu tun hat."
+          "title": "Wirtschaft von oben: Das wurde aus Benkos Pleitehäusern",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/rene-benkos-immobilien-was-aus-den-signa-pleitehaeusern-wurde/100268498.html",
+          "published": "2026-11-14T15:15:00+00:00",
+          "summary": "Signa-Gründer René Benko kaufte mit seinem Konzern in Deutschland und Österreich Immobilien in den besten Lagen. Was wurde aus den Häusern nach der Pleite?"
         },
         {
-          "title": "Colette Kress: „Genau die, die man jetzt braucht“ – das ist die neue Nvidia-Chefin",
-          "link": "https://www.wiwo.de/unternehmen/it/nvidia-chefin-colette-kress-jetzt-sitzt-das-reh-auf-dem-chefsessel/100269497.html",
-          "published": "2026-11-14T07:54:00+00:00",
-          "summary": "Colette Kress übernimmt einen Konzern, der ganz auf seinen Gründer Jensen Huang zugeschnitten war. Diese Schwachstellen muss sie beseitigen, damit Nvidia vorn bleibt."
+          "title": "Reedereikonzern: MSC steht wohl kurz vor Kauf der Meyer Werft",
+          "link": "https://www.wiwo.de/unternehmen/industrie/reedereikonzern-msc-steht-wohl-kurz-vor-kauf-der-meyer-werft/100269889.html",
+          "published": "2026-11-14T14:47:21+00:00",
+          "summary": "Der Bund will laut einem Medienbericht MSC ein Kaufrecht auf die Meyer Werft einräumen. Kommende Woche soll eine Vereinbarung unterzeichnet werden."
         },
         {
-          "title": "BörsenWoche 585: Warum der Nvidia-Effekt auf KI-Aktien nur vorübergehend sein dürfte",
-          "link": "https://www.wiwo.de/finanzen/boerse/jensen-huang-affaere-was-der-nvidia-schock-fuer-ki-aktien-heiss/100269313.html",
-          "published": "2026-11-14T07:48:00+00:00",
-          "summary": "Die Affären des Ex-Nvidia-Chefs Jensen Huang belasten die Kurse mancher Branchenaktien. Doch mittelfristig zählen Zahlen – und die sehen gut aus."
+          "title": "Ukraine-Krieg: USA bringen laut Selenskyj Nato-Beitritt gegen Gebietsabtritt ins Spiel",
+          "link": "https://www.wiwo.de/politik/europa/nato-usa-bringen-laut-selenskyj-beitritt-gegen-gebietsabtritt-ins-spiel/100269907.html",
+          "published": "2026-11-14T14:39:56+00:00",
+          "summary": "Der Donbass gegen eine Nato-Perspektive? Selenskyj zufolge haben die USA erstmals diesen Vorschlag gemacht."
         },
         {
-          "title": "Gea: Dieser Mann soll Deutschlands einzigen Maschinenbauer im Dax leiten",
-          "link": "https://www.wiwo.de/unternehmen/industrie/gea-dieser-mann-soll-deutschlands-einzigen-maschinenbauer-im-dax-leiten/100269650.html",
-          "published": "2026-11-14T07:47:00+00:00",
-          "summary": "Gea-Chef Stefan Klebert hat seinen Rücktritt angekündigt. Sein Nachfolger schlug in einem internen Auswahlverfahren alle Wettbewerber um Längen."
+          "title": "Erstmal die Fakten: Weg von den Brennstoffen",
+          "link": "https://www.wiwo.de/unternehmen/energie/cop31-weg-von-den-brennstoffen/100269524.html",
+          "published": "2026-11-14T14:31:15+00:00",
+          "summary": "Zur Weltklimakonferenz COP31 in der Türkei zeigt sich: Deutschland hat noch einen langen Weg vor sich, um auf Kohle, Öl und Gas zu verzichten."
         },
         {
-          "title": "Microsoft: Warum der Outlook-Ausfall ein Segen gewesen sein könnte",
-          "link": "https://www.wiwo.de/erfolg/trends/microsoft-outlook-stoerung-warum-der-ausfall-ein-segen-sein-koennte/100269656.html",
-          "published": "2026-11-14T07:44:00+00:00",
-          "summary": "Die Aufregung über die Outlook-Störung war groß. Dabei hat Microsoft selbst kürzlich klargemacht, warum die Funkstille auch etwas Gutes haben könnte."
+          "title": "Spirituosenkonzern: Wann die Campari-Aktie wieder zum Kauf wird",
+          "link": "https://www.wiwo.de/finanzen/boerse/campari-aktie-wann-der-einstieg-wieder-lohnt/100268488.html",
+          "published": "2026-11-14T14:30:00+00:00",
+          "summary": "An den Börsen sind wieder defensive Qualitäten gefragt. Davon profitieren sollte die Aktie des traditionsreichen Mailänder Spirituosenkonzerns Campari."
         }
       ],
       "error": null
@@ -211,6 +211,24 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
+          "title": "160-m-Tanker rammt Kreuzfahrtschiff – Minuten später liegt es auf der Seite",
+          "link": "https://www.ingenieur.de/tanker-ausser-kontrolle-kreuzfahrtschiff-kentert-auf-dem-mississippi-7bd61d2f-3f9c-41d6-b825-3bf03b39f905/",
+          "published": "2026-11-14T10:40:09+00:00",
+          "summary": "Nach einer Tanker-Kollision kentert ein Kreuzfahrtschiff auf dem Mississippi. Wie Wassereinbruch und Stabilitätsverlust zusammenhängen."
+        },
+        {
+          "title": "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
+          "link": "https://www.ingenieur.de/sie-ist-nur-23-cm-gross-und-sucht-selbststaendig-nach-rissen-in-bruecken-ddacd0fe-df20-4f24-b92c-bb415f1f5a7d/",
+          "published": "2026-11-14T10:10:25+00:00",
+          "summary": "Nur 23 cm groß: Bochumer Forschende entwickeln eine Drohne, die ohne GPS durch Brückenhohlkästen fliegt und mit KI Risse im Beton erkennt."
+        },
+        {
+          "title": "Ein Netzwerkfehler, Millionen Meldungen: So kam es zur Microsoft-Störung",
+          "link": "https://www.ingenieur.de/ein-netzwerkfehler-millionen-meldungen-so-kam-es-zur-microsoft-stoerung-f712344e-b052-41e4-a25a-a86ac8d84989/",
+          "published": "2026-11-14T08:55:00+00:00",
+          "summary": "Microsoft hat die weltweite Störung von Outlook, Teams und Copilot behoben. Ein Netzwerkfehler war der Auslöser. Was technisch schiefging."
+        },
+        {
           "title": "Liebesschlösser verhindern Tests, dann rutscht die Brücke ins Wasser",
           "link": "https://www.ingenieur.de/liebesschloesser-verhindern-tests-dann-rutscht-die-bruecke-ins-wasser-69ce1f58-bbb3-49d4-92c1-4fa52be654b1/",
           "published": "2026-11-13T16:54:01+00:00",
@@ -221,24 +239,6 @@
           "link": "https://www.ingenieur.de/700-kg-aus-schweissdraht-so-druckt-die-industrie-riesige-metallteile-d767c565-1c90-4ed6-80d8-060fc5f36b75/",
           "published": "2026-11-13T12:30:00+00:00",
           "summary": "Tragende Verbindungsknoten und ein 700 kg schweres Verdichterrad: WAAM macht große Metallbauteile aus dem 3D-Drucker möglich. Wie funktioniert das Verfahren mit Draht und Lichtbogen, wo liegen seine …"
-        },
-        {
-          "title": "5 Jahre und 210 Mio. € später: Bad Lauchstädt hat grünen Wasserstoff. Und jetzt?",
-          "link": "https://www.ingenieur.de/5-jahre-und-210-mio-spater-bad-lauchstadt-hat-grunen-wasserstoff-und-jetzt-954e7bbc-c150-4b88-b346-965958f82c58/",
-          "published": "2026-11-13T09:28:21+00:00",
-          "summary": "Fünf Jahre nach dem Förderbescheid erzeugt der Energiepark Bad Lauchstädt seinen ersten grünen Wasserstoff. Acht Windräder liefern den Strom, eine alte Erdgasleitung führt 25 km weit nach Leuna. Was …"
-        },
-        {
-          "title": "Eigenkündigung vorbereiten: Diese 10 Punkte sollten Sie vorher klären",
-          "link": "https://www.ingenieur.de/eigenkuendigung-als-ingenieur-vorbereiten-darauf-kommt-es-an-6fc36868-384f-4e08-9eb0-f716024d1639/",
-          "published": "2026-11-13T09:00:00+00:00",
-          "summary": "Wer selbst kündigt, sollte vorher Verträge, Fristen, Finanzen und laufende Projekte prüfen. Diese Checkliste hilft Ingenieuren beim Jobwechsel."
-        },
-        {
-          "title": "Kündigungsschreiben richtig formulieren: 7 Fehler und ein Muster",
-          "link": "https://www.ingenieur.de/kuendigungsschreiben-fuer-ingenieure-was-korrekt-ist-und-was-riskant-c7ff4ec0-c57a-4afa-8ec8-cf7cc0c9b89e/",
-          "published": "2026-11-13T09:00:00+00:00",
-          "summary": "Kündigungsschreiben richtig formulieren: Welche Angaben sind Pflicht, welche Fehler sollten Sie vermeiden? Mit Muster und Tipps zur sicheren Zustellung."
         }
       ],
       "error": null
