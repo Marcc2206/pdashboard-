@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:11:03+00:00",
+  "generatedAt": "2026-11-14T00:38:55+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
-          "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
-          "published": "2026-11-13T19:06:39+00:00",
-          "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm …"
+          "title": "US-Luftfahrtbehörde stoppt alle Starts in den USA",
+          "link": "https://www.tagesschau.de/eilmeldung/usa-flugverbot-100.html",
+          "published": "2026-11-14T00:31:37+00:00",
+          "summary": "Die US-Luftfahrtbehörde FAA hat alle Starts an US-Flughäfen gestoppt. Hintergrund sind laut US-Regierung Kommunikationsprobleme im Flugkontrollsystem. Es gebe aber bisher keine Hinweise auf eine …"
         },
         {
-          "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-          "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
-          "published": "2026-11-13T18:44:23+00:00",
-          "summary": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und …"
+          "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+          "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+          "published": "2026-11-14T00:02:40+00:00",
+          "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. …"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-11-13T18:18:56+00:00",
-          "summary": "Samstag ist es in der Südwesthälfte nach Nebelauflösung oft sonnig oder nur locker bewölkt., sonst gibts einen Mix aus Sonne und Wolken mit einzelnen Schauern. 4 bis 11 Grad."
+          "title": "Einzelkritik Serbien gegen Deutschland: Gruda zockt, ter Stegen wackelt",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/der-geile-zocker-zockt-ter-stegen-wackelt,einzelkritik-serbien-deutschland-100.html",
+          "published": "2026-11-13T23:00:09+00:00",
+          "summary": "Debütant Brajan Gruda hat nicht nur wegen seines wunderbaren Treffers beim deutschen Sieg gegen Serbien überzeugt. Weiter hinten gab es nicht nur Licht - die DFB-Elf in der Einzelkritik."
         },
         {
-          "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-          "published": "2026-11-13T17:57:57+00:00",
-          "summary": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent."
+          "title": "DFB-Team sichert sich gegen Serbien sein Endspiel gegen Niederlande",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-sichert-sich-sein-endspiel-gegen-niederlande,serbien-deutschland-spielbericht-100.html",
+          "published": "2026-11-13T23:00:00+00:00",
+          "summary": "Deutschland hat in der Nations League das Weiterkommen wieder in der eigenen Hand. Im Regen von Belgrad zeigte das Klopp-Team eine starke Leistung und siegte 3:1."
         },
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1683380.html",
-          "published": "2026-11-13T17:47:31+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12976.html",
+          "published": "2026-11-13T21:49:04+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Sachverständigenrat: „In ihren Rechten verletzt“ – Grimm siegt vor Gericht im Streit der Wirtschaftsweisen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sachverstaendigenrat-grimm-siegt-vor-gericht-im-streit-der-wirtschaftsweisen/100269802.html",
-          "published": "2026-11-13T19:03:33+00:00",
-          "summary": "Im Zwist um das Aufsichtsratsmandat von Veronika Grimm hat ein Gericht geurteilt: Die anderen Wirtschaftsweisen dürfen sie nicht zu Transparenzregeln zwingen – und auch keine Prüfungen anordnen."
+          "title": "USA: „Kommunikationsproblem“ – US‑Luftfahrtbehörde stoppt Flugverkehr im gesamten Land",
+          "link": "https://www.handelsblatt.com/politik/international/usa-kommunikationsproblem-usluftfahrtbehoerde-stoppt-flugverkehr-im-gesamten-land/100269817.html",
+          "published": "2026-11-13T21:19:36+00:00",
+          "summary": "Nach Anordnung der FAA dürfen bis auf Weiteres keine Flugzeuge in den USA starten. Zu den Gründen nannte die Behörde „außergewöhnliche Umstände und Sicherheit“."
         },
         {
-          "title": "Börsengang: Anthropics 64-Milliarden-Dollar-Wette: Das sagt Amodei zu Chancen, Profit und KI-Sicherheit",
-          "link": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html",
-          "published": "2026-11-13T18:57:33+00:00",
-          "summary": "Kurz vor einem der größten Börsengänge der Geschichte werben Anthropic-Chef Dario Amodei und Jamie Dimon von JP Morgan gemeinsam um Anleger. Die Aktie ist bereits sechsfach überzeichnet."
+          "title": "Cloud-Probleme: Langer Ausfall bei Microsoft löst gravierende Störungen aus",
+          "link": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-langer-ausfall-bei-microsoft-loest-gravierende-stoerungen-aus/100269542.html",
+          "published": "2026-11-13T20:27:22+00:00",
+          "summary": "Unternehmen und Verbraucher müssen weltweit wegen einer Großstörung bei Microsoft massive Einschränkungen hinnehmen. Nach vielen Stunden kommen die Dienste wieder ins Laufen."
         },
         {
-          "title": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
-          "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html",
-          "published": "2026-11-13T18:20:56+00:00",
-          "summary": "Spott aus Washington, tagelanger Streit in Brüssel, dann die Lösung in Dublin: Die EU hat entschieden, wer sie bei möglichen Verhandlungen über den Krieg in der Ukraine vertritt."
+          "title": "Nach Cloud-Ausfall: Microsoft: Störung ging auf Netzwerk-Upgrade zurück",
+          "link": "https://www.handelsblatt.com/technik/it-internet/nach-cloud-ausfall-microsoft-stoerung-ging-auf-netzwerk-upgrade-zurueck/100269813.html",
+          "published": "2026-11-13T20:01:30+00:00",
+          "summary": "Eine stundenlange Störung bei Cloud-Diensten von Microsoft traf viele Unternehmen und Verbraucher. Der Software-Riese äußert sich nun zu den Gründen."
         },
         {
-          "title": "Nach Chef-Abgang: Wie geht es weiter nach dem Nvidia-Eklat?",
-          "link": "https://www.handelsblatt.com/technik/it-internet/nach-chef-abgang-wie-geht-es-weiter-nach-dem-nvidia-eklat/100269564.html",
-          "published": "2026-11-13T18:10:04+00:00",
-          "summary": "Mit Jensen Huang an der Spitze wurde Nvidia zum Motor im Maschinenraum des KI-Booms. Künftig wird der Chip-Riese ohne ihn auskommen. Der plötzliche Fall Huangs könnte Folgen bis ins US-Kabinett haben."
+          "title": "Endspurt für neue Regierung: Mecklenburg-Vorpommern: Linke stimmt Koalitionsvertrag zu",
+          "link": "https://www.handelsblatt.com/politik/deutschland/endspurt-fuer-neue-regierung-mecklenburg-vorpommern-linke-stimmt-koalitionsvertrag-zu/100269810.html",
+          "published": "2026-11-13T19:58:40+00:00",
+          "summary": "In Mecklenburg-Vorpommern steht die Regierungsbildung kurz vor dem Abschluss. Nun müssen die Parteien dem Koalitionsvertrag zustimmen. Die Linke hat auf einem Parteitag als erste Partei entschieden."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Großflächige Stromausfälle in der Ukraine",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-grossflaechige-stromausfaelle-in-der-ukraine/27982126.html",
-          "published": "2026-11-13T18:08:50+00:00",
-          "summary": "Peskow äußert sich zurückhaltend zu europäischer Gesprächsbeteiligung +++ Russische Behörden melden sieben Tote bei ukrainischen Angriffen +++ Der Newsblog."
+          "title": "+++ Bundespolitik +++: Linke stimmt in Mecklenburg-Vorpommern Koalitionsvertrag zu",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-linke-stimmt-in-mecklenburg-vorpommern-koalitionsvertrag-zu/100137034.html",
+          "published": "2026-11-13T19:57:00+00:00",
+          "summary": "Wohnungsbaugesellschaft des Bundes soll 2027 gegründet werden +++ SPD fordert wirksamen Spritpreisdeckel +++ Bundestag verlängert Mandat für Einsatz im Mittelmeer +++ Der Newsblog."
         }
       ],
       "error": null
@@ -86,6 +86,24 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Wochenvorschau: Termine bis 22. November 2026",
+          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-22-November-2026-id31504788.html",
+          "published": "2026-11-13T23:01:00+00:00",
+          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+        },
+        {
+          "title": "Störung im Kommunikationssystem: Landesweiter Stopp von Starts an US-Flughäfen",
+          "link": "https://www.n-tv.de/wirtschaft/Landesweiter-Stopp-von-Starts-an-US-Flughaefen-id31533009.html",
+          "published": "2026-11-13T21:30:34+00:00",
+          "summary": "Die Flugkontrollzentren in den USA melden Kommunikationsprobleme. Die Folge: Derzeit dürfen landesweit keine Flugzeuge mehr starten. Nach den Terroranschlägen vom 11. September 2001 ist diese …"
+        },
+        {
+          "title": "Unter Vier-Billionen-Marke: Nvidias Börsenwert fällt um 650 Milliarden Dollar - in einer Woche",
+          "link": "https://www.n-tv.de/wirtschaft/Nvidias-Boersenwert-faellt-um-650-Milliarden-Dollar-in-einer-Woche-id31532436.html",
+          "published": "2026-11-13T19:07:38+00:00",
+          "summary": "KI-Titel stehen spätestens seit Wochen unter Druck. Die Midterms verschärften dies zumindest kurzzeitig. Und die Fehltritte vom Chef des Branchenprimus Nvidia sorgen für neuen Abgabedruck. Huangs …"
+        },
+        {
           "title": "Architekt des Billionen-Booms: Mit Jensen Huang verliert der KI-Hype seinen \"Zentralbanker\"",
           "link": "https://www.n-tv.de/wirtschaft/Mit-Jensen-Huang-verliert-der-KI-Hype-seinen-Zentralbanker-id31531887.html",
           "published": "2026-11-13T17:43:01+00:00",
@@ -96,24 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Chinas-KI-Chip-Schmuggel-laeuft-auf-Hochtouren-id31531580.html",
           "published": "2026-11-13T17:08:42+00:00",
           "summary": "Die Affäre von Nvidia-Chef Jensen Huang mit einer angeblichen chinesischen Spionin ist nur der sichtbarste Teil des Problems: Peking nutzt jedes Mittel, um Zugang zu den KI-Chips der Firma zu …"
-        },
-        {
-          "title": "Riskante Eskalation: Mercedes steuert mit Vollgas auf die VW-Falle zu",
-          "link": "https://www.n-tv.de/wirtschaft/Mercedes-steuert-mit-Vollgas-auf-die-VW-Falle-zu-id31532051.html",
-          "published": "2026-11-13T16:36:16+00:00",
-          "summary": "Der Streit um die Arbeitskosten bei Mercedes-Benz eskaliert. Damit erhöhen die Stuttgarter die Gefahr, nicht rechtzeitig die Kurve zu kriegen."
-        },
-        {
-          "title": "Streit um persönliche Daten: EU verhängt Millionenstrafe gegen Tinder",
-          "link": "https://www.n-tv.de/wirtschaft/EU-verhaengt-Millionenstrafe-gegen-Tinder-id31531604.html",
-          "published": "2026-11-13T16:31:54+00:00",
-          "summary": "Wer bei Tinder eine Kopie seiner persönlichen Daten anfordert, erhält offenbar nicht alle Informationen. Datenschützer der EU werfen dem Betreiber daher Fehlverhalten vor. Die Match Group will gegen …"
-        },
-        {
-          "title": "Brandgefahr bei 721.000 Pkw: BMW-Fahrer in den USA sollen Fahrzeuge nicht drinnen parken",
-          "link": "https://www.n-tv.de/wirtschaft/BMW-Fahrer-in-den-USA-sollen-Fahrzeuge-nicht-drinnen-parken-id31531603.html",
-          "published": "2026-11-13T15:56:51+00:00",
-          "summary": "Erneuter Ärger in den Vereinigten Staaten für BMW-Fahrer. Nach einer großen Rückrufaktion vor zwei Jahren müssen die Betroffenen ihre Fahrzeuge nun nochmals in die Werkstatt bringen. Bis dahin sollen …"
         }
       ],
       "error": null
