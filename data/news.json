@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:38:55+00:00",
+  "generatedAt": "2026-11-14T08:34:08+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "US-Luftfahrtbehörde stoppt alle Starts in den USA",
-          "link": "https://www.tagesschau.de/eilmeldung/usa-flugverbot-100.html",
-          "published": "2026-11-14T00:31:37+00:00",
-          "summary": "Die US-Luftfahrtbehörde FAA hat alle Starts an US-Flughäfen gestoppt. Hintergrund sind laut US-Regierung Kommunikationsprobleme im Flugkontrollsystem. Es gebe aber bisher keine Hinweise auf eine …"
-        },
-        {
-          "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-          "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
-          "published": "2026-11-14T00:02:40+00:00",
-          "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. …"
-        },
-        {
-          "title": "Einzelkritik Serbien gegen Deutschland: Gruda zockt, ter Stegen wackelt",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/der-geile-zocker-zockt-ter-stegen-wackelt,einzelkritik-serbien-deutschland-100.html",
-          "published": "2026-11-13T23:00:09+00:00",
-          "summary": "Debütant Brajan Gruda hat nicht nur wegen seines wunderbaren Treffers beim deutschen Sieg gegen Serbien überzeugt. Weiter hinten gab es nicht nur Licht - die DFB-Elf in der Einzelkritik."
-        },
-        {
-          "title": "DFB-Team sichert sich gegen Serbien sein Endspiel gegen Niederlande",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-sichert-sich-sein-endspiel-gegen-niederlande,serbien-deutschland-spielbericht-100.html",
-          "published": "2026-11-13T23:00:00+00:00",
-          "summary": "Deutschland hat in der Nations League das Weiterkommen wieder in der eigenen Hand. Im Regen von Belgrad zeigte das Klopp-Team eine starke Leistung und siegte 3:1."
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12976.html",
-          "published": "2026-11-13T21:49:04+00:00",
+          "title": "Flugstopp in den USA aufgehoben - Veraltete Kommunikationstechnik Ursache für Stillstand",
+          "link": "https://www.tagesschau.de/video/video-1683610.html",
+          "published": "2026-11-14T08:27:20+00:00",
           "summary": ""
+        },
+        {
+          "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+          "published": "2026-11-14T08:24:29+00:00",
+          "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet …"
+        },
+        {
+          "title": "Trump kündigt Dreiertreffen mit Putin und Xi in China an",
+          "link": "https://www.tagesschau.de/video/video-1683612.html",
+          "published": "2026-11-14T08:21:32+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+          "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+          "published": "2026-11-14T08:15:06+00:00",
+          "summary": "Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich …"
+        },
+        {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-14T08:03:28+00:00",
+          "summary": "Samstag ist es in der Südwesthälfte nach Nebelauflösung oft sonnig oder nur locker bewölkt., sonst gibts einen Mix aus Sonne und Wolken mit einzelnen Schauern. 4 bis 11 Grad."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "USA: „Kommunikationsproblem“ – US‑Luftfahrtbehörde stoppt Flugverkehr im gesamten Land",
-          "link": "https://www.handelsblatt.com/politik/international/usa-kommunikationsproblem-usluftfahrtbehoerde-stoppt-flugverkehr-im-gesamten-land/100269817.html",
-          "published": "2026-11-13T21:19:36+00:00",
-          "summary": "Nach Anordnung der FAA dürfen bis auf Weiteres keine Flugzeuge in den USA starten. Zu den Gründen nannte die Behörde „außergewöhnliche Umstände und Sicherheit“."
+          "title": "Rente: Mit der Aktie ins Alter: Die zwölf wichtigsten Antworten zum Vorsorgedepot",
+          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
+          "published": "2026-11-14T08:04:00+00:00",
+          "summary": "Das Altersvorsorgedepot ersetzt ab 2027 die Riester-Rente und lockt mit staatlicher Förderung. Das sorgt bei vielen Fachleuten für Begeisterung. Doch die neue Förderrente ist nicht in allen Belangen …"
         },
         {
-          "title": "Cloud-Probleme: Langer Ausfall bei Microsoft löst gravierende Störungen aus",
-          "link": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-langer-ausfall-bei-microsoft-loest-gravierende-stoerungen-aus/100269542.html",
-          "published": "2026-11-13T20:27:22+00:00",
-          "summary": "Unternehmen und Verbraucher müssen weltweit wegen einer Großstörung bei Microsoft massive Einschränkungen hinnehmen. Nach vielen Stunden kommen die Dienste wieder ins Laufen."
+          "title": "Morning Briefing Plus: Eine dramatische Warnung auf 458 Seiten",
+          "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-eine-dramatische-warnung-auf-458-seiten/100269685.html",
+          "published": "2026-11-14T07:35:08+00:00",
+          "summary": "Die Wirtschaftsweisen sehen eine Staatsschuldenkrise aufziehen und machen kluge Vorschläge, um sie zu vermeiden. Der Haushalt der Koalition sendet eine ganz andere Botschaft – leider."
         },
         {
-          "title": "Nach Cloud-Ausfall: Microsoft: Störung ging auf Netzwerk-Upgrade zurück",
-          "link": "https://www.handelsblatt.com/technik/it-internet/nach-cloud-ausfall-microsoft-stoerung-ging-auf-netzwerk-upgrade-zurueck/100269813.html",
-          "published": "2026-11-13T20:01:30+00:00",
-          "summary": "Eine stundenlange Störung bei Cloud-Diensten von Microsoft traf viele Unternehmen und Verbraucher. Der Software-Riese äußert sich nun zu den Gründen."
+          "title": "Outlook und Teams: Microsoft-Dienste für Verbraucher arbeiten nach Störung wieder",
+          "link": "https://www.handelsblatt.com/technik/it-internet/outlook-und-teams-microsoft-dienste-fuer-verbraucher-arbeiten-nach-stoerung-wieder/100269854.html",
+          "published": "2026-11-14T07:24:26+00:00",
+          "summary": "Ein massiver Ausfall von Microsoft-Diensten hatte weltweit Nutzer beeinträchtigt. Verbraucher können die Dienste nun wieder vollständig nutzen. Für Firmenkunden gilt das noch nicht."
         },
         {
-          "title": "Endspurt für neue Regierung: Mecklenburg-Vorpommern: Linke stimmt Koalitionsvertrag zu",
-          "link": "https://www.handelsblatt.com/politik/deutschland/endspurt-fuer-neue-regierung-mecklenburg-vorpommern-linke-stimmt-koalitionsvertrag-zu/100269810.html",
-          "published": "2026-11-13T19:58:40+00:00",
-          "summary": "In Mecklenburg-Vorpommern steht die Regierungsbildung kurz vor dem Abschluss. Nun müssen die Parteien dem Koalitionsvertrag zustimmen. Die Linke hat auf einem Parteitag als erste Partei entschieden."
+          "title": "Nach Internet-Drosselung: US-Senatoren wollen Antworten zu Starlink in der Ukraine",
+          "link": "https://www.handelsblatt.com/politik/international/nach-internet-drosselung-us-senatoren-wollen-antworten-zu-starlink-in-der-ukraine/100269853.html",
+          "published": "2026-11-14T07:05:46+00:00",
+          "summary": "Die Ukraine ist unter anderem zur Drohnenabwehr auf Elon Musks Satelliten-Internet angewiesen - doch zuletzt hakte es damit. Senatoren der Demokraten laufen sich für eine Untersuchung warm."
         },
         {
-          "title": "+++ Bundespolitik +++: Linke stimmt in Mecklenburg-Vorpommern Koalitionsvertrag zu",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-linke-stimmt-in-mecklenburg-vorpommern-koalitionsvertrag-zu/100137034.html",
-          "published": "2026-11-13T19:57:00+00:00",
-          "summary": "Wohnungsbaugesellschaft des Bundes soll 2027 gegründet werden +++ SPD fordert wirksamen Spritpreisdeckel +++ Bundestag verlängert Mandat für Einsatz im Mittelmeer +++ Der Newsblog."
+          "title": "Musks Autobauer: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
+          "link": "https://www.handelsblatt.com/technik/it-internet/musks-autobauer-tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen/100269846.html",
+          "published": "2026-11-14T05:55:06+00:00",
+          "summary": "Tesla will mit seinem Cybercab die Robotaxi-Branche aufrollen. Nun sollen einige der Wagen auch in Privatbesitz gehen - noch während die Firma wegen des Fahrzeugs Ärger mit einer US-Behörde hat."
         }
       ],
       "error": null
@@ -86,10 +86,22 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Flüge aus Deutschland gestrichen: Technische Panne legt US-Luftverkehr stundenlang lahm",
+          "link": "https://www.n-tv.de/wirtschaft/Technische-Panne-legt-US-Luftverkehr-stundenlang-lahm-id31533283.html",
+          "published": "2026-11-14T01:49:33+00:00",
+          "summary": "Rund vier Stunden müssen sämtliche Flugzeuge in den USA wegen technischer Probleme am Boden bleiben. Jetzt ist der Luftraum wieder freigegeben. Es dürfte aber noch eine Weile dauern, bis sich das …"
+        },
+        {
           "title": "Wochenvorschau: Termine bis 22. November 2026",
           "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-22-November-2026-id31504788.html",
           "published": "2026-11-13T23:01:00+00:00",
           "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
+        },
+        {
+          "title": "Dow tritt auf der Stelle: Chip-Werte kommen unter die Räder",
+          "link": "https://www.n-tv.de/wirtschaft/Chip-Werte-kommen-unter-die-Raeder-id31533210.html",
+          "published": "2026-11-13T22:55:00+00:00",
+          "summary": "Die Krise bei Nvidia greift um sich, der Halbleitersektor geht mit kräftigen Verlusten aus dem Handel. Kurz bevor die Schlussglocke ertönt, ereilt die Wall Street die Meldung vom landesweiten …"
         },
         {
           "title": "Störung im Kommunikationssystem: Landesweiter Stopp von Starts an US-Flughäfen",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Nvidias-Boersenwert-faellt-um-650-Milliarden-Dollar-in-einer-Woche-id31532436.html",
           "published": "2026-11-13T19:07:38+00:00",
           "summary": "KI-Titel stehen spätestens seit Wochen unter Druck. Die Midterms verschärften dies zumindest kurzzeitig. Und die Fehltritte vom Chef des Branchenprimus Nvidia sorgen für neuen Abgabedruck. Huangs …"
-        },
-        {
-          "title": "Architekt des Billionen-Booms: Mit Jensen Huang verliert der KI-Hype seinen \"Zentralbanker\"",
-          "link": "https://www.n-tv.de/wirtschaft/Mit-Jensen-Huang-verliert-der-KI-Hype-seinen-Zentralbanker-id31531887.html",
-          "published": "2026-11-13T17:43:01+00:00",
-          "summary": "Jensen Huang war bislang die zentrale Figur des Billionen Dollar schweren KI-Booms. Nicht nur weil Nvidia die notwendige Technologie lieferte. Huang machte das Unternehmen auch zur \"Zentralbank\" des …"
-        },
-        {
-          "title": "Nach Rücktritt von Jensen Huang: Chinas KI-Chip-Schmuggel läuft auf Hochtouren",
-          "link": "https://www.n-tv.de/wirtschaft/Chinas-KI-Chip-Schmuggel-laeuft-auf-Hochtouren-id31531580.html",
-          "published": "2026-11-13T17:08:42+00:00",
-          "summary": "Die Affäre von Nvidia-Chef Jensen Huang mit einer angeblichen chinesischen Spionin ist nur der sichtbarste Teil des Problems: Peking nutzt jedes Mittel, um Zugang zu den KI-Chips der Firma zu …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Gea: Dieser Mann soll Deutschlands einzigen Maschinenbauer im DAX leiten",
+          "title": "Kompletter Vorstand weg: Was hinter dem Führungsbeben bei Hugo Boss steckt",
+          "link": "https://www.wiwo.de/unternehmen/handel/hugo-boss-was-hinter-dem-ruecktritt-von-daniel-grieder-steckt/100269646.html",
+          "published": "2026-11-14T07:57:00+00:00",
+          "summary": "Binnen zwei Monaten sind der Aufsichtsratschef und der komplette Vorstand gegangen. Was das mit dem neuen britischen Mehrheitsaktionär Frasers zu tun hat."
+        },
+        {
+          "title": "Colette Kress: „Genau die, die man jetzt braucht“ – das ist die neue Nvidia-Chefin",
+          "link": "https://www.wiwo.de/unternehmen/it/nvidia-chefin-colette-kress-jetzt-sitzt-das-reh-auf-dem-chefsessel/100269497.html",
+          "published": "2026-11-14T07:54:00+00:00",
+          "summary": "Colette Kress übernimmt einen Konzern, der ganz auf seinen Gründer Jensen Huang zugeschnitten war. Diese Schwachstellen muss sie beseitigen, damit Nvidia vorn bleibt."
+        },
+        {
+          "title": "BörsenWoche 585: Warum der Nvidia-Effekt auf KI-Aktien nur vorübergehend sein dürfte",
+          "link": "https://www.wiwo.de/finanzen/boerse/jensen-huang-affaere-was-der-nvidia-schock-fuer-ki-aktien-heiss/100269313.html",
+          "published": "2026-11-14T07:48:00+00:00",
+          "summary": "Die Affären des Ex-Nvidia-Chefs Jensen Huang belasten die Kurse mancher Branchenaktien. Doch mittelfristig zählen Zahlen – und die sehen gut aus."
+        },
+        {
+          "title": "Gea: Dieser Mann soll Deutschlands einzigen Maschinenbauer im Dax leiten",
           "link": "https://www.wiwo.de/unternehmen/industrie/gea-dieser-mann-soll-deutschlands-einzigen-maschinenbauer-im-dax-leiten/100269650.html",
-          "published": "2026-11-13T18:50:00+00:00",
+          "published": "2026-11-14T07:47:00+00:00",
           "summary": "Gea-Chef Stefan Klebert hat seinen Rücktritt angekündigt. Sein Nachfolger schlug in einem internen Auswahlverfahren alle Wettbewerber um Längen."
         },
         {
-          "title": "Microsoft und Nvidia: US-Börsen fallen – Nvidia-Talfahrt setzt KI-Aktien unter Druck",
-          "link": "https://www.wiwo.de/finanzen/boerse/us-boersen-im-minus-nvidia-und-microsoft-druecken-techwerte/100269787.html",
-          "published": "2026-11-13T18:37:00+00:00",
-          "summary": "Die Wall Street gerät zum Wochenausklang unter Druck: Kursverluste bei Nvidia nach dem Chef-Rücktritt und ein Microsoft-Ausfall belasten die US-Techaktien."
-        },
-        {
-          "title": "Atomtechnik: Militärische Bedeutung treibt Bund offenbar zu Einstieg bei Atomfirma Urenco",
-          "link": "https://www.wiwo.de/politik/deutschland/urenco-bund-plant-laut-medienberichten-einstieg-bei-atomtechnikkonzern/100269763.html",
-          "published": "2026-11-13T16:43:53+00:00",
-          "summary": "Der Bund will laut Insidern bei der Atomfirma Urenco einsteigen und Anteile von E.ON und RWE übernehmen. Hintergrund ist auch die militärische Bedeutung."
-        },
-        {
-          "title": "Europäische Zentralbank: Rennen um EZB-Führungspositionen geht in heiße Phase",
-          "link": "https://www.wiwo.de/politik/europa/ezb-nachfolge-merz-kuendigt-deutschen-personalvorschlag-an/100269336.html",
-          "published": "2026-11-13T16:40:00+00:00",
-          "summary": "Beim EU-Gipfel treibt Friedrich Merz die EZB-Nachfolge voran. Deutschland will nächste Woche Vorschläge für Spitzenposten bei der Notenbank vorlegen."
-        },
-        {
-          "title": "Cyberattacken und Sabotage: So versucht Russland deutsche Rüstungsfirmen einzuschüchtern",
-          "link": "https://www.wiwo.de/unternehmen/industrie/quantum-systems-cyberangriff-offenbart-bedrohung-fuer-ruester/100269735.html",
-          "published": "2026-11-13T16:11:02+00:00",
-          "summary": "Der Drohnenbauer Quantum Systems ist Ziel einer Cyberattacke geworden. Wer dahintersteckt, ist noch unklar – ins Schema russischer hybrider Kriegsführung passt der Vorfall allerdings."
+          "title": "Microsoft: Warum der Outlook-Ausfall ein Segen gewesen sein könnte",
+          "link": "https://www.wiwo.de/erfolg/trends/microsoft-outlook-stoerung-warum-der-ausfall-ein-segen-sein-koennte/100269656.html",
+          "published": "2026-11-14T07:44:00+00:00",
+          "summary": "Die Aufregung über die Outlook-Störung war groß. Dabei hat Microsoft selbst kürzlich klargemacht, warum die Funkstille auch etwas Gutes haben könnte."
         }
       ],
       "error": null
