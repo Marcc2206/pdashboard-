@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:47:26+00:00",
+  "generatedAt": "2026-11-15T22:27:21+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-11-15T17:45",
-    "temperatur": 8.0,
-    "gefuehlt": 4.8,
-    "luftfeuchte": 80,
+    "zeit": "2026-11-15T23:15",
+    "temperatur": 8.7,
+    "gefuehlt": 5.8,
+    "luftfeuchte": 90,
     "niederschlag": 0.0,
-    "wind": 13.0,
+    "wind": 14.8,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -24,9 +24,9 @@
   "tage": [
     {
       "datum": "2026-11-15",
-      "max": 9.8,
+      "max": 9.0,
       "min": 0.5,
-      "regenwahrscheinlichkeit": 98,
+      "regenwahrscheinlichkeit": 100,
       "sonnenaufgang": "2026-11-15T07:46",
       "sonnenuntergang": "2026-11-15T16:34",
       "wetter": {
@@ -37,9 +37,9 @@
     },
     {
       "datum": "2026-11-16",
-      "max": 9.7,
-      "min": 3.8,
-      "regenwahrscheinlichkeit": 93,
+      "max": 9.6,
+      "min": 3.4,
+      "regenwahrscheinlichkeit": 95,
       "sonnenaufgang": "2026-11-16T07:47",
       "sonnenuntergang": "2026-11-16T16:32",
       "wetter": {
@@ -50,28 +50,28 @@
     },
     {
       "datum": "2026-11-17",
-      "max": 11.9,
-      "min": 2.3,
-      "regenwahrscheinlichkeit": 99,
+      "max": 12.6,
+      "min": 2.5,
+      "regenwahrscheinlichkeit": 100,
       "sonnenaufgang": "2026-11-17T07:49",
       "sonnenuntergang": "2026-11-17T16:31",
       "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
+        "code": 63,
+        "text": "Regen",
+        "icon": "🌧️"
       }
     },
     {
       "datum": "2026-11-18",
-      "max": 10.7,
-      "min": 8.4,
-      "regenwahrscheinlichkeit": 75,
+      "max": 10.4,
+      "min": 8.7,
+      "regenwahrscheinlichkeit": 81,
       "sonnenaufgang": "2026-11-18T07:51",
       "sonnenuntergang": "2026-11-18T16:30",
       "wetter": {
-        "code": 95,
-        "text": "Gewitter",
-        "icon": "⛈️"
+        "code": 80,
+        "text": "Leichte Schauer",
+        "icon": "🌦️"
       }
     }
   ]
