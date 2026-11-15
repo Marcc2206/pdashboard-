@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:33:40+00:00",
+  "generatedAt": "2026-11-15T08:47:50+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-82224.html",
-          "published": "2026-11-15T00:18:46+00:00",
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1684110.html",
+          "published": "2026-11-15T08:46:12+00:00",
           "summary": ""
         },
         {
-          "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
-          "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
-          "published": "2026-11-14T23:12:16+00:00",
-          "summary": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere …"
-        },
-        {
-          "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
-          "published": "2026-11-14T21:31:18+00:00",
-          "summary": "In Berlin haben Hunderte Menschen bei einer \"Gen Z regelt\"-Demo mitgemacht. Es ging unter anderem um kaputte Schulen, Wehrpflicht sowie Uni- und Sozialkürzungen. Mehrere Menschen wurden festgenommen."
-        },
-        {
-          "title": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1684012.html",
-          "published": "2026-11-14T21:20:43+00:00",
+          "title": "Erfolg für SpaceX: Rakete kehrt nach Flug zur Startrampe zurück",
+          "link": "https://www.tagesschau.de/video/video-1684100.html",
+          "published": "2026-11-15T08:29:03+00:00",
           "summary": ""
         },
         {
-          "title": "Startverbot für Flugzeuge legt US-Luftverkehr für mehrere Stunden lahm",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1684010.html",
-          "published": "2026-11-14T21:18:55+00:00",
+          "title": "Mehr als 200 Festnahmen: Proteste in Frankreich dauern an",
+          "link": "https://www.tagesschau.de/video/video-1684098.html",
+          "published": "2026-11-15T08:20:51+00:00",
           "summary": ""
+        },
+        {
+          "title": "Krieg gegen die Ukraine: Verletzte bei russischen Angriffen",
+          "link": "https://www.tagesschau.de/video/video-1684096.html",
+          "published": "2026-11-15T08:09:54+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-15T07:44:22+00:00",
+          "summary": "Heute von Südwesten dichte Wolken und gebietsweise etwas Regen. Im Norden und Osten noch länger sonnig oder freundlich und auch meist trocken. 2 Grad im Fichtelgebirge, bis 15 Grad am Oberrhein."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269942.html",
-          "published": "2026-11-14T23:34:57+00:00",
-          "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert - mit einem Erfolg und einem Rückschlag."
+          "title": "Immobilien: Vorbild New York: Diese Stadt plant jetzt einen Park auf einer alten Bahntrasse",
+          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vorbild-new-york-diese-stadt-plant-jetzt-park-auf-bahntrasse/100268687.html",
+          "published": "2026-11-15T08:36:10+00:00",
+          "summary": "Die High Line zählt zu den großen Touristenmagneten in Big Apple: ein langer Park auf einer stillgelegten Bahnstrecke mitten in Manhattan. Nun ahmt eine deutsche Metropole die Idee nach."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: USA schlagen laut Selenskyj Donbass-Rückzug gegen Nato-Beitritt vor",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selenskyj-donbass-rueckzug-gegen-nato-beitritt-vor/27982126.html",
-          "published": "2026-11-14T22:38:00+00:00",
-          "summary": "USA: Direkter Kontakt zwischen Russland und europäischen Partnern angestrebt +++ Russland: Haben ukrainischen Ort Tersjanka eingenommen +++ Starlink-Störungen: Senatoren fordern Unterlagen von Musk …"
+          "title": "+++ Iran-Krieg +++: Iran: Revolutionsgarden greifen US-Stützpunkt in Bahrain an",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html",
+          "published": "2026-11-15T08:31:57+00:00",
+          "summary": "Bahrain wehrt iranische Luftangriffe ab +++ Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand +++ Koalition fängt Huthi-Raketen ab +++ Der Newsblog."
         },
         {
-          "title": "+++ Iran-Krieg +++: Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-drei-oeltanker-in-strasse-von-hormus-nach-minenkontakt-in-brand/100136895.html",
-          "published": "2026-11-14T22:36:00+00:00",
-          "summary": "Hamas-Kommandeur bei israelischem Luftangriff im Gazastreifen getötet +++ Iran lehnt Gespräche zu Atominspektionen ab +++ IAEA besorgt über iranische Urananreicherungsanlage in Isfahan +++ Der …"
+          "title": "+++ Ukraine-Krieg +++: Russland greift Frachtschiff im Hafen Tschornomorsk an",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-russland-greift-frachtschiff-im-hafen-tschornomorsk-an/27982126.html",
+          "published": "2026-11-15T08:29:11+00:00",
+          "summary": "Russland: Ukraine greift Industrieanlagen an +++ USA: Direkter Kontakt zwischen Russland und europäischen Partnern angestrebt +++ USA schlagen laut Selenskyj Donbass-Rückzug gegen Nato-Beitritt vor …"
         },
         {
-          "title": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
-          "link": "https://www.handelsblatt.com/technik/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269941.html",
-          "published": "2026-11-14T21:39:22+00:00",
-          "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert – mit einem Rückschlag und einem Erfolg."
+          "title": "Dauerhaft Infektionsketten: USA verlieren Status „masernfrei“ - Wie ernst ist die Lage?",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/dauerhaft-infektionsketten-usa-verlieren-status-masernfrei-wie-ernst-ist-die-lage/100269983.html",
+          "published": "2026-11-15T08:22:33+00:00",
+          "summary": "Deutschland war noch nie offiziell als frei von Masern eingestuft. Die USA hingegen können sich damit seit mehr als 25 Jahren rühmen. Nun aber wird der Status wohl aberkannt. Was heißt das?"
         },
         {
-          "title": "SPD-Vorsitz: Der Parteisoldat strebt an die Macht – Hubertus Heil will SPD-Chef werden",
-          "link": "https://www.handelsblatt.com/politik/deutschland/spd-vorsitz-der-parteisoldat-strebt-an-die-macht-hubertus-heil-will-spd-chef-werden/100269930.html",
-          "published": "2026-11-14T21:15:24+00:00",
-          "summary": "Der frühere Arbeitsminister will beim Bundesparteitag im Januar kandidieren. Dabei hatte er jüngst noch beklagt, dass die SPD aktuell eher zu männerlastig aufgestellt sei."
+          "title": "Iran-Krieg: Iran greift Ziele in Bahrain mit Drohnen an",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-greift-ziele-in-bahrain-mit-drohnen-an/100269980.html",
+          "published": "2026-11-15T07:31:39+00:00",
+          "summary": "Das US-Militär nimmt immer wieder Radaranlagen und Raketenabschussrampen an der iranischen Küste ins Visier. Als Reaktion meldet der Iran nun erneut einen Angriff auf den US-Verbündeten Bahrain."
         }
       ],
       "error": null
@@ -86,10 +86,22 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Streit um Traditionsbranche : Geld für Chemie-Dinos? Ökonom legt sich mit Wacker-Chef an",
+          "link": "https://www.n-tv.de/wirtschaft/Wacker-Boss-Hartel-und-Oekonom-Schularick-streiten-ueber-Zukunft-der-Chemie-Industrie-id31521209.html",
+          "published": "2026-11-15T05:27:12+00:00",
+          "summary": "Deutschland ist der führende Chemiestandort Europas. Doch die Lage ist angespannt. Die Branche kämpft mit schwacher Nachfrage, hohen Energiekosten und starker Konkurrenz aus China. Was tun? Im …"
+        },
+        {
+          "title": "Software-Fehler sorgt für Chaos: Nach Ausfall von 14.500 US-Flügen Normalisierung erst am Sonntag",
+          "link": "https://www.n-tv.de/wirtschaft/Nach-Ausfall-von-14-500-US-Fluegen-Normalisierung-erst-am-Sonntag-id31535062.html",
+          "published": "2026-11-15T04:19:46+00:00",
+          "summary": "Ein landesweites Startverbot sorgt für ein mehrtägiges Flugchaos in den USA. US-Verkehrsminister Duffy identifiziert das Problem in veralteter Software. Allerdings geht bei der live im Fernsehen …"
+        },
+        {
           "title": "\"Stilles Sterben der Betriebe\": Handwerkspräsident prophezeit riesige Job-Verluste",
           "link": "https://www.n-tv.de/wirtschaft/Handwerkspraesident-prophezeit-riesige-Job-Verluste-id31534919.html",
           "published": "2026-11-15T00:18:08+00:00",
-          "summary": "Den Umgang der schwarz-roten Koalition mit dem Handwerk findet der Präsident des Zentralverbandes \"unwürdig\". Hohe Lohnnebenkosten setze den Betrieben zu. Die Krise werde bis zu 80.000 Arbeitsplätze …"
+          "summary": "Den Umgang der schwarz-roten Koalition mit dem Handwerk findet der Präsident des Zentralverbandes \"unwürdig\". Hohe Lohnnebenkosten setzten den Betrieben zu. Die Krise werde bis zu 80.000 …"
         },
         {
           "title": "Tiefrot ins Nasdaq-Debüt: Geht Anthropics riskante Börsenwette auf?",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Mit-Anlagezertifikaten-fuers-Alter-sparen-id31530767.html",
           "published": "2026-11-14T14:30:00+00:00",
           "summary": "Wer einen langfristigen Anlagehorizont hat, kann kurzfristige Marktschwankungen aussitzen. Dafür können Anlagezertifikate sinnvoll sein. Discountzertifikate nutzen die Schwankungen der Märkte gezielt …"
-        },
-        {
-          "title": "Als angemessen dargestellt: Huang soll Nvidia-Führungskräfte über Affäre getäuscht haben",
-          "link": "https://www.n-tv.de/wirtschaft/Huang-soll-Nvidia-Fuehrungskraefte-ueber-Affaere-getaeuscht-haben-id31534364.html",
-          "published": "2026-11-14T14:27:48+00:00",
-          "summary": "Von seinem Chefposten bei Nvidia ist Huang bereits zurückgetreten. Ruhe kehrt in der Affäre um seine Liaison mit einer möglichen chinesischen Spionin allerdings nicht ein. Einem Bericht zufolge belog …"
-        },
-        {
-          "title": "Staat steigt aus: Weltgrößte Reederei MSC will offenbar Meyer Werft kaufen",
-          "link": "https://www.n-tv.de/wirtschaft/Weltgroesste-Reederei-MSC-will-offenbar-Meyer-Werft-kaufen-id31534236.html",
-          "published": "2026-11-14T13:34:59+00:00",
-          "summary": "Einem Medienbericht zufolge will die Genfer Reederei MSC den Großteil der Meyer Werft übernehmen. Dafür müssten der Bund und Niedersachsen deutlich früher bei Deutschlands letzter großen …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wirtschaft von oben: Das wurde aus Benkos Pleitehäusern",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/rene-benkos-immobilien-was-aus-den-signa-pleitehaeusern-wurde/100268498.html",
-          "published": "2026-11-14T15:15:00+00:00",
-          "summary": "Signa-Gründer René Benko kaufte mit seinem Konzern in Deutschland und Österreich Immobilien in den besten Lagen. Was wurde aus den Häusern nach der Pleite?"
+          "title": "Frühindikator BA-X: Was der Stellenindex der Arbeitsagentur verrät",
+          "link": "https://www.wiwo.de/politik/konjunktur/fruehindikator-ba-x-was-der-stellenindex-der-arbeitsagentur-verraet/100261775.html",
+          "published": "2026-11-15T08:42:28+00:00",
+          "summary": "Der BA-X misst die Nachfrage nach Arbeitskräften in Deutschland und zeigt frühzeitig Konjunkturentwicklungen auf. Alle relevanten Informationen auf einen Blick."
         },
         {
-          "title": "Reedereikonzern: MSC steht wohl kurz vor Kauf der Meyer Werft",
-          "link": "https://www.wiwo.de/unternehmen/industrie/reedereikonzern-msc-steht-wohl-kurz-vor-kauf-der-meyer-werft/100269889.html",
-          "published": "2026-11-14T14:47:21+00:00",
-          "summary": "Der Bund will laut einem Medienbericht MSC ein Kaufrecht auf die Meyer Werft einräumen. Kommende Woche soll eine Vereinbarung unterzeichnet werden."
+          "title": "Arbeitslosenquote: So haben sich die Arbeitslosenzahlen auf jährlicher Basis entwickelt",
+          "link": "https://www.wiwo.de/politik/konjunktur/arbeitslosenquote-so-haben-sich-die-arbeitslosenzahlen-auf-jaehrlicher-basis-entwickelt/100261613.html",
+          "published": "2026-11-15T08:30:43+00:00",
+          "summary": "Die Arbeitslosenquote gibt Aufschluss über den Zustand des Arbeitsmarktes und die Konjunkturlage. Das sind die Arbeitslosenzahlen der vergangenen Jahre."
         },
         {
-          "title": "Ukraine-Krieg: USA bringen laut Selenskyj Nato-Beitritt gegen Gebietsabtritt ins Spiel",
-          "link": "https://www.wiwo.de/politik/europa/nato-usa-bringen-laut-selenskyj-beitritt-gegen-gebietsabtritt-ins-spiel/100269907.html",
-          "published": "2026-11-14T14:39:56+00:00",
-          "summary": "Der Donbass gegen eine Nato-Perspektive? Selenskyj zufolge haben die USA erstmals diesen Vorschlag gemacht."
+          "title": "Betrugsverfahren: Der fragwürdige Verkauf des Family Office von Wanja Oberhof",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/wanja-oberhof-der-fragwuerdige-verkauf-des-family-office/100265883.html",
+          "published": "2026-11-15T08:18:33+00:00",
+          "summary": "Mit WAOW Entrepreneurship investierte Oberhof in zahlreiche Unternehmen. Im März bekam die Firma einen neuen Alleingesellschafter. Die Spur führt ins Obdachlosenmilieu."
         },
         {
-          "title": "Erstmal die Fakten: Weg von den Brennstoffen",
-          "link": "https://www.wiwo.de/unternehmen/energie/cop31-weg-von-den-brennstoffen/100269524.html",
-          "published": "2026-11-14T14:31:15+00:00",
-          "summary": "Zur Weltklimakonferenz COP31 in der Türkei zeigt sich: Deutschland hat noch einen langen Weg vor sich, um auf Kohle, Öl und Gas zu verzichten."
+          "title": "Telefon: Darum ließ der Siegeszug des Tastentelefons Jahrzehnte auf sich warten",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/erstes-tastentelefon-kam-1976-der-lange-weg-aus-dem-postmonopol/100269614.html",
+          "published": "2026-11-15T08:02:00+00:00",
+          "summary": "1976 stellt die Deutsche Bundespost den „Fernsprechtischapparat 751“ vor. Wer ein Telefon mit Tasten will, kann es nun mieten – aber nur bei der Post."
         },
         {
-          "title": "Spirituosenkonzern: Wann die Campari-Aktie wieder zum Kauf wird",
-          "link": "https://www.wiwo.de/finanzen/boerse/campari-aktie-wann-der-einstieg-wieder-lohnt/100268488.html",
-          "published": "2026-11-14T14:30:00+00:00",
-          "summary": "An den Börsen sind wieder defensive Qualitäten gefragt. Davon profitieren sollte die Aktie des traditionsreichen Mailänder Spirituosenkonzerns Campari."
+          "title": "Hansa Carré in Dortmund: Wenn aus einem leeren Kaufhaus eine Bildungsstätte wird",
+          "link": "https://www.wiwo.de/finanzen/immobilien/hansa-carre-in-dortmund-wenn-aus-einem-leeren-kaufhaus-eine-bildungsstaette-wird/100268857.html",
+          "published": "2026-11-15T07:50:42+00:00",
+          "summary": "Verlassene Gewerbeimmobilien lassen sich umnutzen. Das ist nachhaltig und wertet Innenstädte auf. Wie das gelingen kann, zeigt ein Beispiel aus Dortmund. Ein Gastbeitrag."
         }
       ],
       "error": null

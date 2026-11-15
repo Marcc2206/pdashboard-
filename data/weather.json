@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:33:43+00:00",
+  "generatedAt": "2026-11-15T08:47:53+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,39 +7,39 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-11-15T02:30",
-    "temperatur": 0.9,
-    "gefuehlt": -2.8,
-    "luftfeuchte": 88,
+    "zeit": "2026-11-15T09:45",
+    "temperatur": 3.6,
+    "gefuehlt": 0.2,
+    "luftfeuchte": 84,
     "niederschlag": 0.0,
-    "wind": 10.0,
+    "wind": 10.1,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 0,
-      "text": "Klar",
-      "icon": "☀️"
+      "code": 61,
+      "text": "Leichter Regen",
+      "icon": "🌦️"
     }
   },
   "tage": [
     {
       "datum": "2026-11-15",
-      "max": 9.6,
+      "max": 9.0,
       "min": 0.5,
       "regenwahrscheinlichkeit": 73,
       "sonnenaufgang": "2026-11-15T07:46",
       "sonnenuntergang": "2026-11-15T16:34",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
+        "code": 80,
+        "text": "Leichte Schauer",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-11-16",
-      "max": 9.6,
-      "min": 4.5,
-      "regenwahrscheinlichkeit": 88,
+      "max": 9.7,
+      "min": 3.5,
+      "regenwahrscheinlichkeit": 85,
       "sonnenaufgang": "2026-11-16T07:47",
       "sonnenuntergang": "2026-11-16T16:32",
       "wetter": {
@@ -50,9 +50,9 @@
     },
     {
       "datum": "2026-11-17",
-      "max": 12.6,
-      "min": 3.3,
-      "regenwahrscheinlichkeit": 99,
+      "max": 10.7,
+      "min": 3.1,
+      "regenwahrscheinlichkeit": 96,
       "sonnenaufgang": "2026-11-17T07:49",
       "sonnenuntergang": "2026-11-17T16:31",
       "wetter": {
@@ -63,9 +63,9 @@
     },
     {
       "datum": "2026-11-18",
-      "max": 9.9,
-      "min": 8.4,
-      "regenwahrscheinlichkeit": 70,
+      "max": 9.8,
+      "min": 8.3,
+      "regenwahrscheinlichkeit": 73,
       "sonnenaufgang": "2026-11-18T07:51",
       "sonnenuntergang": "2026-11-18T16:30",
       "wetter": {
