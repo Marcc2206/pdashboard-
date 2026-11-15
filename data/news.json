@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T08:47:50+00:00",
+  "generatedAt": "2026-11-15T16:47:23+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html",
+          "published": "2026-11-15T16:16:20+00:00",
+          "summary": "Mit Bildern von einem Wolf im Schafspelz hatte der Verfassungsschutz vor Islamisten gewarnt. Bremens Innensenatorin sagt nun: Das Ziel der Kampagne war richtig, die Umsetzung aber nicht."
+        },
+        {
+          "title": "Zehntausende protestieren gegen Rundfunkreform in Tschechien",
+          "link": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
+          "published": "2026-11-15T15:40:55+00:00",
+          "summary": "Zehntausende sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie fürchten, die Regierung könnte die Sender mit der Reform …"
+        },
+        {
+          "title": "Mobile Notaufnahme im Saarland: Nicht mehr in die Klinik",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/mobile-notaufnahme-saarland-100.html",
+          "published": "2026-11-15T15:37:17+00:00",
+          "summary": "Klinikaufenthalte werden von vielen älteren Menschen gefürchtet, auch wenn sie nur der Untersuchung dienen. Im Saarland läuft deshalb seit September ein Modellprojekt, bei dem ein Diagnostik-Lkw …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1684110.html",
-          "published": "2026-11-15T08:46:12+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1684196.html",
+          "published": "2026-11-15T15:30:05+00:00",
           "summary": ""
         },
         {
-          "title": "Erfolg für SpaceX: Rakete kehrt nach Flug zur Startrampe zurück",
-          "link": "https://www.tagesschau.de/video/video-1684100.html",
-          "published": "2026-11-15T08:29:03+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Mehr als 200 Festnahmen: Proteste in Frankreich dauern an",
-          "link": "https://www.tagesschau.de/video/video-1684098.html",
-          "published": "2026-11-15T08:20:51+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Krieg gegen die Ukraine: Verletzte bei russischen Angriffen",
-          "link": "https://www.tagesschau.de/video/video-1684096.html",
-          "published": "2026-11-15T08:09:54+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-11-15T07:44:22+00:00",
-          "summary": "Heute von Südwesten dichte Wolken und gebietsweise etwas Regen. Im Norden und Osten noch länger sonnig oder freundlich und auch meist trocken. 2 Grad im Fichtelgebirge, bis 15 Grad am Oberrhein."
+          "title": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
+          "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
+          "published": "2026-11-15T15:29:20+00:00",
+          "summary": "Am Wochenende hat es eine Serie russischer Angriffe auf die Ukraine gegeben - laut Präsident Selenskyj sind auch Energieanlagen darunter. Die Ukraine wiederum griff offenbar eine petrochemische …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Immobilien: Vorbild New York: Diese Stadt plant jetzt einen Park auf einer alten Bahntrasse",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vorbild-new-york-diese-stadt-plant-jetzt-park-auf-bahntrasse/100268687.html",
-          "published": "2026-11-15T08:36:10+00:00",
-          "summary": "Die High Line zählt zu den großen Touristenmagneten in Big Apple: ein langer Park auf einer stillgelegten Bahnstrecke mitten in Manhattan. Nun ahmt eine deutsche Metropole die Idee nach."
+          "title": "Flugverkehr: Airlines streichen weitere Flüge – US-Präsident Trump schaltet sich ein",
+          "link": "https://www.handelsblatt.com/politik/international/flugverkehr-tausende-fluege-gestrichen-trump-schaltet-sich-ein/100269925.html",
+          "published": "2026-11-15T16:39:17+00:00",
+          "summary": "Die Nachwirkungen des mehrstündigen Startverbots in den USA sind über das gesamte Wochenende zu spüren. Auf die Ursache reagiert US-Präsident Trump mit Forderungen an den Kongress."
         },
         {
-          "title": "+++ Iran-Krieg +++: Iran: Revolutionsgarden greifen US-Stützpunkt in Bahrain an",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html",
-          "published": "2026-11-15T08:31:57+00:00",
-          "summary": "Bahrain wehrt iranische Luftangriffe ab +++ Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand +++ Koalition fängt Huthi-Raketen ab +++ Der Newsblog."
+          "title": "PDF: Handelsblatt vom 16. November 2026",
+          "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-16.-november-2026/100270028.html",
+          "published": "2026-11-15T16:32:46+00:00",
+          "summary": ""
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Russland greift Frachtschiff im Hafen Tschornomorsk an",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-russland-greift-frachtschiff-im-hafen-tschornomorsk-an/27982126.html",
-          "published": "2026-11-15T08:29:11+00:00",
-          "summary": "Russland: Ukraine greift Industrieanlagen an +++ USA: Direkter Kontakt zwischen Russland und europäischen Partnern angestrebt +++ USA schlagen laut Selenskyj Donbass-Rückzug gegen Nato-Beitritt vor …"
+          "title": "Südamerika-Reise: Papst feiert Gottesdienst in 3.700 Metern Höhe in den Anden",
+          "link": "https://www.handelsblatt.com/politik/international/suedamerika-reise-papst-feiert-gottesdienst-in-3700-metern-hoehe-in-den-anden/100270029.html",
+          "published": "2026-11-15T16:30:26+00:00",
+          "summary": "Schon für Gesunde kann die dünne Höhenluft in den Anden eine Herausforderung sein. Angesichts der Lungen-OP des Papstes galt die Reise nach Cusco deshalb als heikel. Nun hält Leo dort eine Messe."
         },
         {
-          "title": "Dauerhaft Infektionsketten: USA verlieren Status „masernfrei“ - Wie ernst ist die Lage?",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/dauerhaft-infektionsketten-usa-verlieren-status-masernfrei-wie-ernst-ist-die-lage/100269983.html",
-          "published": "2026-11-15T08:22:33+00:00",
-          "summary": "Deutschland war noch nie offiziell als frei von Masern eingestuft. Die USA hingegen können sich damit seit mehr als 25 Jahren rühmen. Nun aber wird der Status wohl aberkannt. Was heißt das?"
+          "title": "Gastkommentar: Finger weg von der Unabhängigkeit der EZB",
+          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-finger-weg-von-der-unabhaengigkeit-der-ezb/100269214.html",
+          "published": "2026-11-15T16:28:16+00:00",
+          "summary": "Politiker versuchen zunehmend, die EZB für ihre Zwecke zu instrumentalisieren. Die Nachfolge von Christine Lagarde ist deshalb mehr als eine Personalie, meint DIW-Chef Marcel Fratzscher."
         },
         {
-          "title": "Iran-Krieg: Iran greift Ziele in Bahrain mit Drohnen an",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-greift-ziele-in-bahrain-mit-drohnen-an/100269980.html",
-          "published": "2026-11-15T07:31:39+00:00",
-          "summary": "Das US-Militär nimmt immer wieder Radaranlagen und Raketenabschussrampen an der iranischen Küste ins Visier. Als Reaktion meldet der Iran nun erneut einen Angriff auf den US-Verbündeten Bahrain."
+          "title": "Interview: Wirtschaftsweiser Werding: „Wir haben einen Riesenschritt in die richtige Richtung gemacht“",
+          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorgedepot-riesenschritt-in-die-richtige-richtung-gemacht/100265684.html",
+          "published": "2026-11-15T16:00:00+00:00",
+          "summary": "Martin Werding ist einer der Ideengeber für das Altersvorsorgedepot. Im Interview erklärt der Ökonom, wo Sparer aufpassen müssen und was er mit dem Geld für den Tankrabatt machen würde."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Noch immer teurer als 2022: Weihnachtsschokolade wird teilweise wieder günstiger",
+          "link": "https://www.n-tv.de/wirtschaft/Weihnachtsschokolade-wird-teilweise-wieder-guenstiger-id31535407.html",
+          "published": "2026-11-15T10:54:03+00:00",
+          "summary": "Jahrelang steigen die Preise für Schoko-Weihnachtsmänner, Dominosteine und Lebkuchen. Nun zeichnet sich eine leichte Entspannung ab. Ein Preisvergleich zeigt jedoch deutliche Unterschiede zwischen …"
+        },
+        {
+          "title": "Vom KI-Mahner zum Börsen-Pionier : Anthropic-Chef wechselte als Autodidakt in die Informatik",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-Chef-wechselte-als-Autodidakt-in-die-Informatik-id31535523.html",
+          "published": "2026-11-15T10:48:52+00:00",
+          "summary": "Anthropic steht kurz vor seinem Börsengang, die angestrebte Bewertung: 1,4 Billionen Dollar. An der Spitze des KI-Unternehmens steht eine der prägendsten Figuren der Techbranche. Schon an der Uni …"
+        },
+        {
+          "title": "Vom Spott zur Auto-Supermacht: \"Deutsche Autobauer verstehen Chinas Tempo bis heute nicht\"",
+          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Autobauer-verstehen-Chinas-Tempo-bis-heute-nicht-id31517972.html",
+          "published": "2026-11-15T10:32:18+00:00",
+          "summary": "Vom Reißbrett auf die Straße in weniger als 18 Monaten: In China geht das, in Deutschland nicht. ntv.de spricht mit dem Autoexperten Ferdinand Dudenhöffer darüber, was Chinas Hersteller antreibt …"
+        },
+        {
+          "title": "Abschreckung gegen Russland: MBDA: Entwicklung von Hyperschallwaffen kommt schnell voran",
+          "link": "https://www.n-tv.de/wirtschaft/MBDA-Entwicklung-von-Hyperschallwaffen-kommt-schnell-voran-id31535309.html",
+          "published": "2026-11-15T09:31:51+00:00",
+          "summary": "Bereits 2025 kündigen Deutschland und Großbritannien die Entwicklung neuer Hyperschallwaffen an - auch mit Blick auf die Bedrohung durch Russland. Nun gewährt Hersteller MBDA erstmals Einblicke in …"
+        },
+        {
           "title": "Streit um Traditionsbranche : Geld für Chemie-Dinos? Ökonom legt sich mit Wacker-Chef an",
           "link": "https://www.n-tv.de/wirtschaft/Wacker-Boss-Hartel-und-Oekonom-Schularick-streiten-ueber-Zukunft-der-Chemie-Industrie-id31521209.html",
           "published": "2026-11-15T05:27:12+00:00",
           "summary": "Deutschland ist der führende Chemiestandort Europas. Doch die Lage ist angespannt. Die Branche kämpft mit schwacher Nachfrage, hohen Energiekosten und starker Konkurrenz aus China. Was tun? Im …"
-        },
-        {
-          "title": "Software-Fehler sorgt für Chaos: Nach Ausfall von 14.500 US-Flügen Normalisierung erst am Sonntag",
-          "link": "https://www.n-tv.de/wirtschaft/Nach-Ausfall-von-14-500-US-Fluegen-Normalisierung-erst-am-Sonntag-id31535062.html",
-          "published": "2026-11-15T04:19:46+00:00",
-          "summary": "Ein landesweites Startverbot sorgt für ein mehrtägiges Flugchaos in den USA. US-Verkehrsminister Duffy identifiziert das Problem in veralteter Software. Allerdings geht bei der live im Fernsehen …"
-        },
-        {
-          "title": "\"Stilles Sterben der Betriebe\": Handwerkspräsident prophezeit riesige Job-Verluste",
-          "link": "https://www.n-tv.de/wirtschaft/Handwerkspraesident-prophezeit-riesige-Job-Verluste-id31534919.html",
-          "published": "2026-11-15T00:18:08+00:00",
-          "summary": "Den Umgang der schwarz-roten Koalition mit dem Handwerk findet der Präsident des Zentralverbandes \"unwürdig\". Hohe Lohnnebenkosten setzten den Betrieben zu. Die Krise werde bis zu 80.000 …"
-        },
-        {
-          "title": "Tiefrot ins Nasdaq-Debüt: Geht Anthropics riskante Börsenwette auf?",
-          "link": "https://www.n-tv.de/wirtschaft/Geht-Anthropics-riskante-Boersenwette-auf-id31531417.html",
-          "published": "2026-11-14T14:58:01+00:00",
-          "summary": "Zwischen gewaltigem Umsatzplus und Milliardenverlusten wagt KI-Entwickler Anthropic trotz eines schwierigen Marktumfelds den Sprung aufs Parkett. Sollte das Börsendebüt glücken, dürfte das eine …"
-        },
-        {
-          "title": "\"Risikobewusstsein muss da sein\": Mit Anlagezertifikaten fürs Alter sparen?",
-          "link": "https://www.n-tv.de/wirtschaft/Mit-Anlagezertifikaten-fuers-Alter-sparen-id31530767.html",
-          "published": "2026-11-14T14:30:00+00:00",
-          "summary": "Wer einen langfristigen Anlagehorizont hat, kann kurzfristige Marktschwankungen aussitzen. Dafür können Anlagezertifikate sinnvoll sein. Discountzertifikate nutzen die Schwankungen der Märkte gezielt …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Frühindikator BA-X: Was der Stellenindex der Arbeitsagentur verrät",
-          "link": "https://www.wiwo.de/politik/konjunktur/fruehindikator-ba-x-was-der-stellenindex-der-arbeitsagentur-verraet/100261775.html",
-          "published": "2026-11-15T08:42:28+00:00",
-          "summary": "Der BA-X misst die Nachfrage nach Arbeitskräften in Deutschland und zeigt frühzeitig Konjunkturentwicklungen auf. Alle relevanten Informationen auf einen Blick."
+          "title": "Wohnen im Alter: Das sprudelnde Geschäft mit den Seniorenwohnungen",
+          "link": "https://www.wiwo.de/unternehmen/handel/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100265348.html",
+          "published": "2026-11-15T14:04:00+00:00",
+          "summary": "Bis 2055 könnten 7,6 Millionen Deutsche pflegebedürftig sein. Wo sollen sie leben? Besuche in Luxusheimen und in früheren Kaufhäusern zeigen Lösungen."
         },
         {
-          "title": "Arbeitslosenquote: So haben sich die Arbeitslosenzahlen auf jährlicher Basis entwickelt",
-          "link": "https://www.wiwo.de/politik/konjunktur/arbeitslosenquote-so-haben-sich-die-arbeitslosenzahlen-auf-jaehrlicher-basis-entwickelt/100261613.html",
-          "published": "2026-11-15T08:30:43+00:00",
-          "summary": "Die Arbeitslosenquote gibt Aufschluss über den Zustand des Arbeitsmarktes und die Konjunkturlage. Das sind die Arbeitslosenzahlen der vergangenen Jahre."
+          "title": "Richard Mille: So ticken die Macher hinter der exklusivsten Uhrenmarke der Welt",
+          "link": "https://www.wiwo.de/unternehmen/handel/richard-mille-so-ticken-die-macher-der-exklusivsten-uhrenmarke-der-welt/100267910.html",
+          "published": "2026-11-15T13:56:00+00:00",
+          "summary": "Mit gerade einmal 6000 Uhren jährlich macht das Unternehmen rund 1,9 Milliarden Umsatz. Jetzt übernimmt die nächste Generation vom Gründer."
         },
         {
-          "title": "Betrugsverfahren: Der fragwürdige Verkauf des Family Office von Wanja Oberhof",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/wanja-oberhof-der-fragwuerdige-verkauf-des-family-office/100265883.html",
-          "published": "2026-11-15T08:18:33+00:00",
-          "summary": "Mit WAOW Entrepreneurship investierte Oberhof in zahlreiche Unternehmen. Im März bekam die Firma einen neuen Alleingesellschafter. Die Spur führt ins Obdachlosenmilieu."
+          "title": "Bundespolizei: Dieser Mann lässt die Schattenflotte einhegen und Drohnen abwehren",
+          "link": "https://www.wiwo.de/politik/deutschland/dieter-romann-wer-ist-der-chef-der-bundespolizei/100269985.html",
+          "published": "2026-11-15T13:50:00+00:00",
+          "summary": "Dieter Romann ist seit über vierzehn Jahren Chef der Bundespolizei. Bei einer Begegnung spricht er lieber über Führung durch Zuneigung. Wer ist der Mann?"
         },
         {
-          "title": "Telefon: Darum ließ der Siegeszug des Tastentelefons Jahrzehnte auf sich warten",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/erstes-tastentelefon-kam-1976-der-lange-weg-aus-dem-postmonopol/100269614.html",
-          "published": "2026-11-15T08:02:00+00:00",
-          "summary": "1976 stellt die Deutsche Bundespost den „Fernsprechtischapparat 751“ vor. Wer ein Telefon mit Tasten will, kann es nun mieten – aber nur bei der Post."
+          "title": "Gehaltsreport 2026: So viel verdienen Personaler in den verschiedenen Branchen",
+          "link": "https://www.wiwo.de/erfolg/beruf/gehaltsreport-2026-so-viel-verdienen-personaler-in-den-verschiedenen-branchen/100268436.html",
+          "published": "2026-11-15T13:13:00+00:00",
+          "summary": "Abfindungsprogramme, KI‑Schulungen, Kündigungsschutzklagen – der Job von Personalern ist gerade anspruchsvoll. Wo zeigt sich das auch im Gehalt?"
         },
         {
-          "title": "Hansa Carré in Dortmund: Wenn aus einem leeren Kaufhaus eine Bildungsstätte wird",
-          "link": "https://www.wiwo.de/finanzen/immobilien/hansa-carre-in-dortmund-wenn-aus-einem-leeren-kaufhaus-eine-bildungsstaette-wird/100268857.html",
-          "published": "2026-11-15T07:50:42+00:00",
-          "summary": "Verlassene Gewerbeimmobilien lassen sich umnutzen. Das ist nachhaltig und wertet Innenstädte auf. Wie das gelingen kann, zeigt ein Beispiel aus Dortmund. Ein Gastbeitrag."
+          "title": "Automarkt: VW-Chef Blume will 2030 Rekordrendite erreichen",
+          "link": "https://www.wiwo.de/unternehmen/auto/automarkt-vw-chef-blume-will-2030-rekordrendite-erreichen/100270009.html",
+          "published": "2026-11-15T13:02:11+00:00",
+          "summary": "Volkswagen kämpft um Werke und Arbeitsplätze. Doch Konzernchef Oliver Blume plant bereits wieder mit hohen Renditezielen."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Seine Schaufel wiegt 11 t, doch sieben Zähne bereiten Probleme",
-          "link": "https://www.ingenieur.de/seine-schaufel-wiegt-11-t-doch-sieben-zaehne-bereiten-probleme-e5c54a57-9de0-4095-a03f-2b8175d4da88/",
-          "published": "2026-11-14T20:37:32+00:00",
-          "summary": "Der Cat 395 FS mit 11-Tonnen-Schaufel bewährt sich im Quarzporphyr-Steinbruch Schwerz – doch seine sieben Zähne verschleißen schnell."
+          "title": "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
+          "link": "https://www.ingenieur.de/sydney-harbour-bridge-wie-zwei-riesige-stahlboegen-1930-zusammenfanden-c75d8664-7f84-4b06-9862-266759faaf63/",
+          "published": "2026-11-15T10:55:36+00:00",
+          "summary": "Wie Ingenieure 1930 die zwei Stahlbögen der Sydney Harbour Bridge ohne Stützgerüst millimetergenau über dem Hafen zusammenführten."
         },
         {
-          "title": "Heizen mit Heizlüfter: Wann es sinnvoll ist und wann es teuer wird",
-          "link": "https://www.ingenieur.de/heizen-mit-heizluefter-wann-es-sinnvoll-ist-und-wann-es-teuer-wird-6ddfc19f-a594-42b5-be13-c38a590590f0/",
-          "published": "2026-11-14T20:33:30+00:00",
-          "summary": "Heizlüfter liefern schnell Wärme, können bei längerem Betrieb aber teuer werden. Kosten, Einsatzbereiche und Vergleich zur Wärmepumpe."
+          "title": "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
+          "link": "https://www.ingenieur.de/2-2-sonnenmassen-und-unsichtbar-ist-es-ein-neutronenstern-0c4511c1-9a18-4b1c-a48d-10c814a03ac6/",
+          "published": "2026-11-15T10:00:00+00:00",
+          "summary": "Ein unsichtbares Objekt mit 2,2 Sonnenmassen könnte ein schwerer Neutronenstern sein. Doch 300.000 Simulationen erklären seine Umlaufbahn nicht."
         },
         {
-          "title": "Alte Router, Kupferkabel, Disketten: So marode ist die US-Flugsicherung",
-          "link": "https://www.ingenieur.de/alte-router-kupferkabel-disketten-so-marode-ist-die-us-flugsicherung-1fc737c5-b6cb-4776-85bd-ab88f824cb17/",
-          "published": "2026-11-14T17:10:23+00:00",
-          "summary": "Alte Router, Kupferkabel und sogar Disketten: Nach dem US-Flugstopp zeigen neue Details, wie anfällig die Technik der Flugsicherung ist."
+          "title": "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
+          "link": "https://www.ingenieur.de/48-stunden-fuer-ein-hallo-voyager-1-erreichte-eine-unfassbare-entfernung-72b34a62-281d-4b7f-ad4b-151fc9ee4798/",
+          "published": "2026-11-15T08:35:42+00:00",
+          "summary": "25,9 Mrd. km entfernt: Voyager 1 knackt eine historische Marke. So hält die Nasa ihre fast 50 Jahre alte Sonde am Leben."
         },
         {
-          "title": "Sonnensturm trifft Erde: Was passiert mit Stromnetz und Satelliten?",
-          "link": "https://www.ingenieur.de/sonnensturm-trifft-erde-was-passiert-mit-stromnetz-und-satelliten-1a7348dc-42f6-4fa5-8b73-c741776b464f/",
-          "published": "2026-11-14T16:43:05+00:00",
-          "summary": "Sonnenstürme können Stromnetze, Satelliten und GPS stören. Wie sie entstehen, welche Risiken drohen und warum Polarlichter leuchten."
+          "title": "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
+          "link": "https://www.ingenieur.de/geschichte-des-verbrennungsmotors-wie-otto-diesel-und-benz-die-welt-veraenderten-f4769b54-ec38-477b-85a2-5fe5cc8636ea/",
+          "published": "2026-11-15T08:27:00+00:00",
+          "summary": "150 Jahre Verbrennungsmotor: Wie Ottos Viertaktprinzip Autos prägte und warum Elektroantriebe, Wasserstoff und E-Fuels seine Zukunft bestimmen."
         },
         {
-          "title": "160-m-Tanker rammt Kreuzfahrtschiff – Minuten später liegt es auf der Seite",
-          "link": "https://www.ingenieur.de/tanker-ausser-kontrolle-kreuzfahrtschiff-kentert-auf-dem-mississippi-7bd61d2f-3f9c-41d6-b825-3bf03b39f905/",
-          "published": "2026-11-14T10:40:09+00:00",
-          "summary": "Nach einer Tanker-Kollision kentert ein Kreuzfahrtschiff auf dem Mississippi. Wie Wassereinbruch und Stabilitätsverlust zusammenhängen."
+          "title": "Neuer Job nach Kündigung: So gelingt Ingenieuren der Wiedereinstieg",
+          "link": "https://www.ingenieur.de/neustart-nach-kuendigung-was-ingenieure-jetzt-wissen-muessen-b89cfe69-92be-49a7-9ab4-8fd45ebacfb9/",
+          "published": "2026-11-15T06:32:00+00:00",
+          "summary": "Neustart nach Kündigung: Was Ingenieure jetzt beachten sollten, welche Fehler Zeit und Geld kosten und wie Sie Ihre Karriere strategisch neu ausrichten."
         }
       ],
       "error": null

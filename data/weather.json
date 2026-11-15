@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T08:47:53+00:00",
+  "generatedAt": "2026-11-15T16:47:26+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,39 +7,39 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-11-15T09:45",
-    "temperatur": 3.6,
-    "gefuehlt": 0.2,
-    "luftfeuchte": 84,
+    "zeit": "2026-11-15T17:45",
+    "temperatur": 8.0,
+    "gefuehlt": 4.8,
+    "luftfeuchte": 80,
     "niederschlag": 0.0,
-    "wind": 10.1,
+    "wind": 13.0,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 61,
-      "text": "Leichter Regen",
-      "icon": "🌦️"
+      "code": 3,
+      "text": "Bedeckt",
+      "icon": "☁️"
     }
   },
   "tage": [
     {
       "datum": "2026-11-15",
-      "max": 9.0,
+      "max": 9.8,
       "min": 0.5,
-      "regenwahrscheinlichkeit": 73,
+      "regenwahrscheinlichkeit": 98,
       "sonnenaufgang": "2026-11-15T07:46",
       "sonnenuntergang": "2026-11-15T16:34",
       "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
+        "code": 61,
+        "text": "Leichter Regen",
         "icon": "🌦️"
       }
     },
     {
       "datum": "2026-11-16",
       "max": 9.7,
-      "min": 3.5,
-      "regenwahrscheinlichkeit": 85,
+      "min": 3.8,
+      "regenwahrscheinlichkeit": 93,
       "sonnenaufgang": "2026-11-16T07:47",
       "sonnenuntergang": "2026-11-16T16:32",
       "wetter": {
@@ -50,9 +50,9 @@
     },
     {
       "datum": "2026-11-17",
-      "max": 10.7,
-      "min": 3.1,
-      "regenwahrscheinlichkeit": 96,
+      "max": 11.9,
+      "min": 2.3,
+      "regenwahrscheinlichkeit": 99,
       "sonnenaufgang": "2026-11-17T07:49",
       "sonnenuntergang": "2026-11-17T16:31",
       "wetter": {
@@ -63,15 +63,15 @@
     },
     {
       "datum": "2026-11-18",
-      "max": 9.8,
-      "min": 8.3,
-      "regenwahrscheinlichkeit": 73,
+      "max": 10.7,
+      "min": 8.4,
+      "regenwahrscheinlichkeit": 75,
       "sonnenaufgang": "2026-11-18T07:51",
       "sonnenuntergang": "2026-11-18T16:30",
       "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
+        "code": 95,
+        "text": "Gewitter",
+        "icon": "⛈️"
       }
     }
   ]
