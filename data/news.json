@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:57:10+00:00",
+  "generatedAt": "2026-11-15T01:33:40+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,18 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82224.html",
+          "published": "2026-11-15T00:18:46+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+          "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+          "published": "2026-11-14T23:12:16+00:00",
+          "summary": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere …"
+        },
         {
           "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
           "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
@@ -24,18 +36,6 @@
           "link": "https://www.tagesschau.de/tagesthemen/video-1684010.html",
           "published": "2026-11-14T21:18:55+00:00",
           "summary": ""
-        },
-        {
-          "title": "Moritz Rödle, ARD Berlin, über die Kandidatur von Ex-Arbeitsminister Hubertus Heil für SPD-Vorsitz",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1684008.html",
-          "published": "2026-11-14T21:15:55+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12972.html",
-          "published": "2026-11-14T21:10:00+00:00",
-          "summary": ""
         }
       ],
       "error": null
@@ -48,33 +48,33 @@
       "items": [
         {
           "title": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
-          "link": "https://www.handelsblatt.com/technik/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269941.html",
-          "published": "2026-11-14T21:39:22+00:00",
-          "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert – mit einem Rückschlag und einem Erfolg."
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269942.html",
+          "published": "2026-11-14T23:34:57+00:00",
+          "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert - mit einem Erfolg und einem Rückschlag."
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: USA schlagen laut Selenskyj Donbass-Rückzug gegen Nato-Beitritt vor",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selenskyj-donbass-rueckzug-gegen-nato-beitritt-vor/27982126.html",
+          "published": "2026-11-14T22:38:00+00:00",
+          "summary": "USA: Direkter Kontakt zwischen Russland und europäischen Partnern angestrebt +++ Russland: Haben ukrainischen Ort Tersjanka eingenommen +++ Starlink-Störungen: Senatoren fordern Unterlagen von Musk …"
+        },
+        {
+          "title": "+++ Iran-Krieg +++: Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-drei-oeltanker-in-strasse-von-hormus-nach-minenkontakt-in-brand/100136895.html",
+          "published": "2026-11-14T22:36:00+00:00",
+          "summary": "Hamas-Kommandeur bei israelischem Luftangriff im Gazastreifen getötet +++ Iran lehnt Gespräche zu Atominspektionen ab +++ IAEA besorgt über iranische Urananreicherungsanlage in Isfahan +++ Der …"
         },
         {
           "title": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269942.html",
-          "published": "2026-11-14T21:29:18+00:00",
-          "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert - mit einem Rückschlag und einem Erfolg."
+          "link": "https://www.handelsblatt.com/technik/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269941.html",
+          "published": "2026-11-14T21:39:22+00:00",
+          "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert – mit einem Rückschlag und einem Erfolg."
         },
         {
           "title": "SPD-Vorsitz: Der Parteisoldat strebt an die Macht – Hubertus Heil will SPD-Chef werden",
           "link": "https://www.handelsblatt.com/politik/deutschland/spd-vorsitz-der-parteisoldat-strebt-an-die-macht-hubertus-heil-will-spd-chef-werden/100269930.html",
           "published": "2026-11-14T21:15:24+00:00",
           "summary": "Der frühere Arbeitsminister will beim Bundesparteitag im Januar kandidieren. Dabei hatte er jüngst noch beklagt, dass die SPD aktuell eher zu männerlastig aufgestellt sei."
-        },
-        {
-          "title": "Gesundheitspolitik: Medien: USA verlieren Status als masernfreies Land",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/gesundheitspolitik-medien-usa-verlieren-status-als-masernfreies-land/100269935.html",
-          "published": "2026-11-14T19:03:32+00:00",
-          "summary": "Mehr als 25 Jahre lang galten die USA als masernfrei. Nun soll das Land diesen Status verlieren, heißt es in Medienberichten. Grund dafür sind anhaltende Ausbrüche der hochansteckenden Krankheit."
-        },
-        {
-          "title": "Hohe Lebenshaltungskosten: 200 Festnahmen bei Protesten in Frankreich",
-          "link": "https://www.handelsblatt.com/politik/international/hohe-lebenshaltungskosten-200-festnahmen-bei-protesten-in-frankreich/100269934.html",
-          "published": "2026-11-14T19:02:22+00:00",
-          "summary": "Seit Wochen demonstrieren Menschen in Frankreich gegen hohe Kosten. Erneut gehen nun weniger auf die Straße. Reißt der Protest ab?"
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Stilles Sterben der Betriebe\": Handwerkspräsident prophezeit riesige Job-Verluste",
+          "link": "https://www.n-tv.de/wirtschaft/Handwerkspraesident-prophezeit-riesige-Job-Verluste-id31534919.html",
+          "published": "2026-11-15T00:18:08+00:00",
+          "summary": "Den Umgang der schwarz-roten Koalition mit dem Handwerk findet der Präsident des Zentralverbandes \"unwürdig\". Hohe Lohnnebenkosten setze den Betrieben zu. Die Krise werde bis zu 80.000 Arbeitsplätze …"
+        },
         {
           "title": "Tiefrot ins Nasdaq-Debüt: Geht Anthropics riskante Börsenwette auf?",
           "link": "https://www.n-tv.de/wirtschaft/Geht-Anthropics-riskante-Boersenwette-auf-id31531417.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Weltgroesste-Reederei-MSC-will-offenbar-Meyer-Werft-kaufen-id31534236.html",
           "published": "2026-11-14T13:34:59+00:00",
           "summary": "Einem Medienbericht zufolge will die Genfer Reederei MSC den Großteil der Meyer Werft übernehmen. Dafür müssten der Bund und Niedersachsen deutlich früher bei Deutschlands letzter großen …"
-        },
-        {
-          "title": "Stau am Umspannwerk: Das Stromnetz ist Deutschlands größte KI-Bremse",
-          "link": "https://www.n-tv.de/wirtschaft/Das-Stromnetz-ist-Deutschlands-groesste-KI-Bremse-id31523000.html",
-          "published": "2026-11-14T10:39:08+00:00",
-          "summary": "Das Kapital ist da, die Nachfrage auch. Trotzdem hinken Deutschland und Europa beim Bau von Rechenzentren hinter den USA und China her. Bei Hochspannungsanschlüssen herrscht ein Stau, der den …"
         }
       ],
       "error": null
