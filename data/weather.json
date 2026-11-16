@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:41:34+00:00",
+  "generatedAt": "2026-11-16T14:45:12+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,17 +7,17 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-11-16T05:30",
-    "temperatur": 8.9,
-    "gefuehlt": 6.1,
-    "luftfeuchte": 92,
-    "niederschlag": 0.9,
-    "wind": 14.7,
+    "zeit": "2026-11-16T15:45",
+    "temperatur": 8.0,
+    "gefuehlt": 3.8,
+    "luftfeuchte": 85,
+    "niederschlag": 0.3,
+    "wind": 21.1,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 61,
-      "text": "Leichter Regen",
+      "code": 80,
+      "text": "Leichte Schauer",
       "icon": "🌦️"
     }
   },
@@ -25,8 +25,8 @@
     {
       "datum": "2026-11-16",
       "max": 9.7,
-      "min": 3.6,
-      "regenwahrscheinlichkeit": 95,
+      "min": 2.7,
+      "regenwahrscheinlichkeit": 100,
       "sonnenaufgang": "2026-11-16T07:47",
       "sonnenuntergang": "2026-11-16T16:32",
       "wetter": {
@@ -37,8 +37,8 @@
     },
     {
       "datum": "2026-11-17",
-      "max": 11.6,
-      "min": 1.0,
+      "max": 11.5,
+      "min": 1.2,
       "regenwahrscheinlichkeit": 100,
       "sonnenaufgang": "2026-11-17T07:49",
       "sonnenuntergang": "2026-11-17T16:31",
@@ -50,9 +50,9 @@
     },
     {
       "datum": "2026-11-18",
-      "max": 10.5,
-      "min": 6.3,
-      "regenwahrscheinlichkeit": 81,
+      "max": 10.1,
+      "min": 6.6,
+      "regenwahrscheinlichkeit": 80,
       "sonnenaufgang": "2026-11-18T07:51",
       "sonnenuntergang": "2026-11-18T16:30",
       "wetter": {
@@ -63,15 +63,15 @@
     },
     {
       "datum": "2026-11-19",
-      "max": 9.8,
-      "min": 4.2,
-      "regenwahrscheinlichkeit": 83,
+      "max": 9.2,
+      "min": 5.2,
+      "regenwahrscheinlichkeit": 71,
       "sonnenaufgang": "2026-11-19T07:52",
       "sonnenuntergang": "2026-11-19T16:28",
       "wetter": {
-        "code": 80,
-        "text": "Leichte Schauer",
-        "icon": "🌦️"
+        "code": 63,
+        "text": "Regen",
+        "icon": "🌧️"
       }
     }
   ]

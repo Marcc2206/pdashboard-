@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:41:31+00:00",
+  "generatedAt": "2026-11-16T14:45:09+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Deutschland plant Abschiebezentrum in Ruanda - Andreas Herz, ARD Wien",
+          "link": "https://www.tagesschau.de/video/video-1684718.html",
+          "published": "2026-11-16T14:34:54+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1684422.html",
-          "published": "2026-11-16T03:54:10+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1684720.html",
+          "published": "2026-11-16T14:32:57+00:00",
           "summary": ""
         },
         {
-          "title": "Papst besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet",
-          "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html",
-          "published": "2026-11-16T03:22:31+00:00",
-          "summary": "Kurz vor Abschluss seiner Südamerika-Tour hat Papst Leo XIV. indigene Lebenswelten in den Anden und am Amazonas besucht. Dort kritisiert er mit deutlichen Worten Umweltverschmutzung und soziale …"
+          "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+          "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+          "published": "2026-11-16T14:25:12+00:00",
+          "summary": "Der US-Elektroautobauer Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Wie das Unternehmen mitteilte, soll damit zunächst ein neues …"
         },
         {
-          "title": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
-          "link": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
-          "published": "2026-11-16T00:35:10+00:00",
-          "summary": "In Antalya geht die Weltklimakonferenz in die entscheidende Phase: Die Ministerinnen und Minister kommen. Für Bundesumweltminister Schneider gibt es viel zu tun - und Erfolg dürfte wohl auch von …"
+          "title": "Älterer Programmfehler löste Ausfall von Microsoft-Diensten aus",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-fehler-100.html",
+          "published": "2026-11-16T14:22:45+00:00",
+          "summary": "Ausfälle bei Outlook oder Teams - und das über viele Stunden. Ende letzter Woche hatte die Microsoft-Störung weltweit für massive Schäden gesorgt. Jetzt ist klar, wie es dazu kommen konnte - und …"
         },
         {
-          "title": "Volkstrauertag - Soldaten erinnern an ihre gefallenen Kameraden",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1684410.html",
-          "published": "2026-11-15T22:11:57+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12980.html",
-          "published": "2026-11-15T22:08:38+00:00",
+          "title": "Vergesellschaftung von Immobilienkonzernen: Konflikt zwischen Bund und Berlin",
+          "link": "https://www.tagesschau.de/video/video-1684708.html",
+          "published": "2026-11-16T14:15:48+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Gefühle verarbeiten: Stimmt etwas nicht mit mir, wenn ich (fast) nie weine?",
-          "link": "https://www.handelsblatt.com/technik/medizin/gefuehle-verarbeiten-stimmt-etwas-nicht-mit-mir-wenn-ich-fast-nie-weine/100270081.html",
-          "published": "2026-11-16T04:12:05+00:00",
-          "summary": "Einige Menschen sind nah am Wasser gebaut, andere kilometerweit weg. Gehören Sie zur zweiten Fraktion, können Sie sich fragen: Bin ich einfach so - oder verbiete ich mir nur unangenehme Gefühle?"
+          "title": "Stahlgipfel: Branche dringt auf Entlastung beim Strompreis",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/stahlgipfel-branche-dringt-auf-entlastung-beim-strompreis/100270214.html",
+          "published": "2026-11-16T14:33:00+00:00",
+          "summary": "Hohe Energiepreise und globale Überkapazitäten setzen Deutschlands Stahlerzeuger unter Druck. Beim Gipfel in Salzgitter fordert die Branche von der Regierung Entlastung."
         },
         {
-          "title": "Börse Asien: Asiens Börsen geben nach – Nvidia-Zahlen und Anthropic-Börsengang im Blick",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boerse-asien-asiens-boersen-geben-nach-nvidia-zahlen-und-anthropic-boersengang-im-blick/100270076.html",
-          "published": "2026-11-16T04:07:10+00:00",
-          "summary": "Asiens Investoren richten den Blick weiterhin auf die Tech-Branche. Insbesondere die Zukunft von Nvidia ohne Chef Jensen Huang dürfte in dieser Woche im Mittelpunkt stehen."
+          "title": "BundID: Hackerangriff auf Bürgerkonten mit „massenhaften Log-in-Versuchen“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundid-hackerangriff-auf-buergerkonten-mit-massenhaften-log-in-versuchen/100270238.html",
+          "published": "2026-11-16T14:31:44+00:00",
+          "summary": "Das digitale Bürgerkonto des Bundes ist Ziel eines Hackerangriffs geworden. Die Cyberbehörde BSI bestätigt entsprechende Informationen des Handelsblatts. Zahlreiche Konten wurden gesperrt."
         },
         {
-          "title": "Bundesverfassungsgericht: Neue Regeln für TV-Verträge – Karlsruhe spricht Urteil",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundesverfassungsgericht-neue-regeln-fuer-tv-vertraege-karlsruhe-spricht-urteil/100270079.html",
-          "published": "2026-11-16T04:00:07+00:00",
-          "summary": "Den Fernsehanschluss über die Nebenkosten abrechnen? Seit zwei Jahren ist das nicht mehr möglich. In Folge wurden zahlreiche Verträge gekündigt. Drei TV-Anbieter hoffen jetzt auf Karlsruhe."
+          "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+          "link": "https://www.handelsblatt.com/karriere/karriere-wie-ein-bewerbungsgespraech-mit-ki-recruitern-ablaeuft/100248546.html",
+          "published": "2026-11-16T14:30:00+00:00",
+          "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am …"
         },
         {
-          "title": "Studie: Industrie steigert Umsatz – doch 140.000 Jobs fallen weg",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/studie-industrie-steigert-umsatz-doch-140.000-jobs-fallen-weg/100270074.html",
-          "published": "2026-11-16T03:49:05+00:00",
-          "summary": "Die Industrie verbucht das dritte Quartalsplus in Folge – Grund ist auch der KI-Boom. Doch gleichzeitig verschwinden immer mehr Jobs – in allen Branchen."
+          "title": "Nach Sabotageangriff: Estland schließt Grenzübergänge zu Russland ab Dezember",
+          "link": "https://www.handelsblatt.com/video/politik/nach-sabotageangriff-estland-schliesst-grenzuebergaenge-zu-russland-ab-dezember/100270195.html",
+          "published": "2026-11-16T14:15:00+00:00",
+          "summary": "Die Regierung in Tallinn macht Russland für einen Sabotageangriff auf den Drohnenhersteller Threod Systems verantwortlich. Am Wochenende waren acht Verdächtige festgenommen worden. Moskau kritisierte …"
         },
         {
-          "title": "Brodeln in der Partei: Gründungsmitglieder des BSW fordern Distanz zur AfD",
-          "link": "https://www.handelsblatt.com/politik/deutschland/brodeln-in-der-partei-gruendungsmitglieder-des-bsw-fordern-distanz-zur-afd/100270072.html",
-          "published": "2026-11-16T03:30:05+00:00",
-          "summary": "Nach der Landtagswahl in Sachsen-Anhalt hat das BSW mehrfach mit der AfD gestimmt. In den Reihen der Wagenknecht-Partei wächst die Sorge vor einem Ruck nach rechts."
+          "title": "Kommentar: Arbeitskampf eskaliert – Mercedes schadet sich damit nur selbst",
+          "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-arbeitskampf-eskaliert-mercedes-schadet-sich-damit-nur-selbst/100269662.html",
+          "published": "2026-11-16T14:14:34+00:00",
+          "summary": "Wolfsburger Verhältnisse in Stuttgart. Die Folgen der Arbeitszeitdebatte bei Mercedes sind hochgefährlich. Eine schnelle Lösung muss her – auch wenn beide Seiten recht haben."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Auch Musk unterschreibt Petition: Tausende Nvidia-Mitarbeiter fordern Rückkehr von Huang",
-          "link": "https://www.n-tv.de/wirtschaft/Tausende-Nvidia-Mitarbeiter-fordern-Rueckkehr-von-Huang-id31536753.html",
-          "published": "2026-11-16T00:13:24+00:00",
-          "summary": "Nach dem Rücktritt des langjährigen Nvidia-Chefs beruhigt sich die Lage bei dem Chip-Entwickler nicht. Ein offener Brief drängt auf Huangs Rückkehr und trägt nicht nur die Unterschrift von …"
+          "title": "Baubeginn für 2027 geplant: Tesla will drei Milliarden Euro in Werk in Grünheide bei Berlin investieren",
+          "link": "https://www.n-tv.de/wirtschaft/Tesla-will-drei-Milliarden-Euro-in-Werk-in-Gruenheide-bei-Berlin-investieren-id31539327.html",
+          "published": "2026-11-16T13:47:43+00:00",
+          "summary": "Die Pläne für einen Ausbau der Tesla-Fabrik in Grünheide liegen schon länger vor. Nun wird es konkret: Bei Berlin sollen in Zukunft in einem neuen Produktionsgebäude mehrere Hunderttausend Cybercabs …"
         },
         {
-          "title": "\"127.000 Jobs sind bedroht\": Kliniken befürchten neue Pleitewelle",
-          "link": "https://www.n-tv.de/wirtschaft/Kliniken-befuerchten-neue-Pleitewelle-id31536718.html",
-          "published": "2026-11-15T23:01:39+00:00",
-          "summary": "Die Gesundheitsreform kommt mit Macht bei den Krankenhäusern an. Die Deutsche Krankenhausgesellschaft rechnet mit hohen Rückforderungen der Krankenkassen. Insgesamt werden die Kürzungen die Kliniken …"
+          "title": "Unglücklicher Dominoeffekt: Microsoft erklärt Ursache für weltweiten Programm-Ausfall",
+          "link": "https://www.n-tv.de/wirtschaft/Microsoft-erklaert-Ursache-fuer-weltweiten-Programm-Ausfall-id31538489.html",
+          "published": "2026-11-16T12:43:16+00:00",
+          "summary": "Am vergangenen Donnerstag versagen ausgerechnet zur Hauptnutzungszeit weltweit Microsoft-Anwendungen. Der US-Konzern führt dies auf eine Kettenreaktion zurück. Durch weitere Faktoren sei ein bereits …"
         },
         {
-          "title": "Nach landesweitem Flugstopp: Flugverkehr in den USA wohl erst am Montag vollständig normalisiert",
-          "link": "https://www.n-tv.de/wirtschaft/Flugverkehr-in-den-USA-wohl-erst-am-Montag-vollstaendig-normalisiert-id31536490.html",
-          "published": "2026-11-15T19:21:07+00:00",
-          "summary": "Am Freitag löst veraltete Technik bei der Flugsicherung einen mehrstündigen Flugstopp im US-Luftverkehr aus. Die vollständige Normalisierung dauert länger als ursprünglich angenommen. Unterdessen …"
+          "title": "Missbrauch der Marktmacht: Studie: Konzerne nutzten Energiekrise für zusätzliche Milliardeneinnahmen",
+          "link": "https://www.n-tv.de/wirtschaft/Studie-Konzerne-nutzten-Energiekrise-fuer-zusaetzliche-Milliardeneinnahmen-id31538030.html",
+          "published": "2026-11-16T10:40:49+00:00",
+          "summary": "Während der Energiekrise in den Jahren 2021 und 2022 kommt es in Deutschland zu Rekordstrompreisen. Doch diese sind einer Studie zufolge nicht allein auf die äußeren Umstände zurückzuführen. Die …"
         },
         {
-          "title": "Noch immer teurer als 2022: Weihnachtsschokolade wird teilweise wieder günstiger",
-          "link": "https://www.n-tv.de/wirtschaft/Weihnachtsschokolade-wird-teilweise-wieder-guenstiger-id31535407.html",
-          "published": "2026-11-15T10:54:03+00:00",
-          "summary": "Jahrelang steigen die Preise für Schoko-Weihnachtsmänner, Dominosteine und Lebkuchen. Nun zeichnet sich eine leichte Entspannung ab. Ein Preisvergleich zeigt jedoch deutliche Unterschiede zwischen …"
+          "title": "\"Keine Auflagen\": EU gibt Unicredit grünes Licht für Commerzbank-Übernahme",
+          "link": "https://www.n-tv.de/wirtschaft/EU-gibt-Unicredit-gruenes-Licht-fuer-Commerzbank-Uebernahme-id31538214.html",
+          "published": "2026-11-16T10:35:48+00:00",
+          "summary": "Die italienische Unicredit darf die Commerzbank übernehmen. Die EU hat keine wettbewerbsrechtlichen Bedenken gegen den Zusammenschluss der beiden Geldinstitute. Brüssel erhofft sich durch den Schritt …"
         },
         {
-          "title": "Vom KI-Mahner zum Börsen-Pionier : Anthropic-Chef wechselte als Autodidakt in die Informatik",
-          "link": "https://www.n-tv.de/wirtschaft/Anthropic-Chef-wechselte-als-Autodidakt-in-die-Informatik-id31535523.html",
-          "published": "2026-11-15T10:48:52+00:00",
-          "summary": "Anthropic steht kurz vor seinem Börsengang, die angestrebte Bewertung: 1,4 Billionen Dollar. An der Spitze des KI-Unternehmens steht eine der prägendsten Figuren der Techbranche. Schon an der Uni …"
+          "title": "Deutliche Umsatzsteigerung: Studie: Industrie baut über 140.000 Arbeitsplätze ab",
+          "link": "https://www.n-tv.de/wirtschaft/Studie-Industrie-baut-ueber-140-000-Arbeitsplaetze-ab-id31537140.html",
+          "published": "2026-11-16T06:35:57+00:00",
+          "summary": "Die Industrie in Deutschland kann beim Umsatz kräftig zulegen. Laut einer Studie verzeichnet der Sektor das höchste Quartalsplus seit vier Jahren. Doch in zwei Schlüsselbranchen sieht es schlecht aus."
         }
       ],
       "error": null
@@ -133,10 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-          "published": "2026-11-13T17:57:57+00:00",
-          "summary": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent."
+          "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html",
+          "published": "2026-11-16T11:22:36+00:00",
+          "summary": "Der Goldpreis und die Kryptowährung Bitcoin fallen zum Wochenauftakt überdurchschnittlich. Gold ist so günstig wie seit gut einem Jahr nicht und der Bitcoin hat in diesem Jahr rund ein Drittel an …"
+        },
+        {
+          "title": "Marktbericht: Anleger bleiben vor Nvidia-Bilanz vorsichtig",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+          "published": "2026-11-16T09:58:43+00:00",
+          "summary": "Das Thema Nvidia bleibt auch in der neuen Woche aktuell: Bevor der Chipkonzern am Dienstag seine Bilanz vorstellt, könnten die Investoren zurückhaltend bleiben. Zum Wochenstart rührt sich der DAX …"
         },
         {
           "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html",
           "published": "2026-11-12T13:29:26+00:00",
           "summary": "Die Hoffnung auf Frieden im Nahen Osten und gute Geschäftsaussichten der deutschen Unternehmen überzeugen viele Anleger. Manche Analysten sehen das als Nährboden für eine Jahresend-Rally beim DAX."
-        },
-        {
-          "title": "Marktbericht: Der DAX-Rally geht die Puste aus",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rally-geht-puste-aus-100.html",
-          "published": "2026-11-11T12:40:08+00:00",
-          "summary": "Am dritten Tag erlahmt die DAX-Rally. Die Quartalszahlen waren zwar überwiegend positiv, aber für die Höhe der Bewertungen erwarten Investoren mehr. Dazu kommen unbefriedigende Entwicklungen bei Öl …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Globale Logistik: Die komplexe neue Aufgabe des ehemaligen Schenker-Chefs",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/jochen-thewes-was-der-ex-schenker-chef-fuer-abu-dhabi-plant/100269319.html",
-          "published": "2026-11-15T16:52:59+00:00",
-          "summary": "Abu Dhabi will an die Weltspitze in der Logistik – mit Jochen Thewes. Der einstige Schenker-Chef soll bis 2031 aus dem Nichts ein globales Imperium bauen."
+          "title": "BörsenTag: Diese Woche wird für den KI-Hype an den Börsen entscheidend",
+          "link": "https://www.wiwo.de/finanzen/boerse/nvidia-quartalszahlen-und-der-anthropic-ipo-bewegen-die-boerse/100270122.html",
+          "published": "2026-11-16T14:32:00+00:00",
+          "summary": "Nvidia veröffentlicht Zahlen, Anthropic strebt an die Börse: Die laufende Woche dürfte neue Impulse für den KI-Börsenboom liefern."
         },
         {
-          "title": "Agentic Investing: KI-Agenten könnten die Geldanlage revolutionieren",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/agentic-investing-wie-ki-agenten-uns-zu-besseren-anlegern-machen-sollen/100269014.html",
-          "published": "2026-11-15T16:50:00+00:00",
-          "summary": "Depots analysieren, Orders anstoßen oder Anlagestrategien umsetzen: KI‑Agenten sollen die Geldanlage automatisieren. Was sie bereits können – und was bald möglich sein soll."
+          "title": "Nike: Der DFB-Deal könnte für Nike zum Risiko werden",
+          "link": "https://www.wiwo.de/unternehmen/handel/nike-statt-adidas-der-dfb-deal-koennte-fuer-den-konzern-zum-risiko-werden/100270124.html",
+          "published": "2026-11-16T14:28:00+00:00",
+          "summary": "Die deutsche Mannschaft spielt vorerst zum letzten Mal in Adidas-Trikots. Ab 2027 übernimmt Nike – obwohl der Konzern weiter in der Krise steckt."
         },
         {
-          "title": "Wohnen im Alter: Das sprudelnde Geschäft mit den Senioren-Wohnungen",
-          "link": "https://www.wiwo.de/unternehmen/handel/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100265348.html",
-          "published": "2026-11-15T16:45:00+00:00",
-          "summary": "Bis 2055 könnten 7,6 Millionen Deutsche pflegebedürftig sein. Wo sollen sie leben? Besuche in Luxusheimen und in früheren Kaufhäusern zeigen Lösungen."
+          "title": "SPD-Vorsitz: Heil möchte an die SPD‑Spitze – er könnte an seiner Strategie scheitern",
+          "link": "https://www.wiwo.de/politik/deutschland/hubertus-heil-will-spd-vorsitz-warum-seine-kandidatur-wackelt/100270145.html",
+          "published": "2026-11-16T14:21:41+00:00",
+          "summary": "Der Ex-Arbeitsminister hat mit seiner Kandidatur die Startglocke für den Kampf um die SPD‑Spitze geläutet. Er bringt viel Erfahrung mit. Vielleicht zu viel?"
         },
         {
-          "title": "Richard Mille: So ticken die Macher hinter der exklusivsten Uhrenmarke der Welt",
-          "link": "https://www.wiwo.de/unternehmen/handel/richard-mille-so-ticken-die-macher-der-exklusivsten-uhrenmarke-der-welt/100267910.html",
-          "published": "2026-11-15T13:56:00+00:00",
-          "summary": "Mit gerade einmal 6000 Uhren jährlich macht das Unternehmen rund 1,9 Milliarden Umsatz. Jetzt übernimmt die nächste Generation vom Gründer."
+          "title": "E-Autos: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
+          "link": "https://www.wiwo.de/unternehmen/auto/tesla-in-gruenheide-3-milliarden-euro-fuer-ausbau-und-robotaxis/100270269.html",
+          "published": "2026-11-16T14:21:00+00:00",
+          "summary": "Tesla setzt den Ausbau in Grünheide fort. Ab 2029 sollen dort Robotaxis produziert werden. Mehrere Hundert neue Stellen sollen entstehen."
         },
         {
-          "title": "Bundespolizei: Dieser Mann lässt die Schattenflotte einhegen und Drohnen abwehren",
-          "link": "https://www.wiwo.de/politik/deutschland/dieter-romann-wer-ist-der-chef-der-bundespolizei/100269985.html",
-          "published": "2026-11-15T13:50:00+00:00",
-          "summary": "Dieter Romann ist seit über vierzehn Jahren Chef der Bundespolizei. Bei einer Begegnung spricht er lieber über Führung durch Zuneigung. Wer ist der Mann?"
+          "title": "Energiekonzern: Uniper stellt Mittelfristziele ins Schaufenster – Privatisierung nimmt Form an",
+          "link": "https://www.wiwo.de/unternehmen/energie/uniper-privatisierung-energiekonzern-hebt-investitions-und-gewinnziele/100270234.html",
+          "published": "2026-11-16T14:16:00+00:00",
+          "summary": "Der Bund muss seine Uniper-Beteiligung bis 2028 deutlich reduzieren. Neue Ergebnisziele und Investitionen sollen den Konzern attraktiver machen."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
-          "link": "https://www.ingenieur.de/301-m-lang-248000-ps-stark-jetzt-liegt-der-rekordliner-auf-dem-meeresgrund-84605d88-091f-4ffd-a926-6977787fc063/",
-          "published": "2026-11-15T17:14:51+00:00",
-          "summary": "Die SS United States liegt vor Florida auf dem Meeresboden: Der einstige Rekordliner wird zum weltweit größten künstlichen Riff aus einem Schiff."
+          "title": "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
+          "link": "https://www.ingenieur.de/nur-30-m-abstand-dlr-jet-jagt-passagierflugzeug-fuer-klimaexperiment-0d73be42-3878-40f5-b6cc-798e5fa1cfe8/",
+          "published": "2026-11-16T13:07:03+00:00",
+          "summary": "Nur 30 m Abstand bei 700 km/h: Das DLR misst Abgase hinter einem Passagierjet. Schwefelarmes Kerosin liefert erste überraschende Ergebnisse."
         },
         {
-          "title": "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
-          "link": "https://www.ingenieur.de/sydney-harbour-bridge-wie-zwei-riesige-stahlboegen-1930-zusammenfanden-c75d8664-7f84-4b06-9862-266759faaf63/",
-          "published": "2026-11-15T10:55:36+00:00",
-          "summary": "Wie Ingenieure 1930 die zwei Stahlbögen der Sydney Harbour Bridge ohne Stützgerüst millimetergenau über dem Hafen zusammenführten."
+          "title": "8294 Teilchensignale: Juno kommt dem Neutrino-Rätsel näher",
+          "link": "https://www.ingenieur.de/8294-teilchensignale-juno-kommt-dem-neutrino-raetsel-naeher-1a36065b-be0f-44c9-ae40-bd6547a07b4d/",
+          "published": "2026-11-16T12:29:10+00:00",
+          "summary": "8294 Teilchensignale, 700 m unter der Erde: Chinas JUNO-Detektor liefert neue Hinweise auf eines der größten Rätsel der Neutrinophysik."
         },
         {
-          "title": "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
-          "link": "https://www.ingenieur.de/2-2-sonnenmassen-und-unsichtbar-ist-es-ein-neutronenstern-0c4511c1-9a18-4b1c-a48d-10c814a03ac6/",
-          "published": "2026-11-15T10:00:00+00:00",
-          "summary": "Ein unsichtbares Objekt mit 2,2 Sonnenmassen könnte ein schwerer Neutronenstern sein. Doch 300.000 Simulationen erklären seine Umlaufbahn nicht."
+          "title": "Deutschlands CO₂-Netz könnte 7.000 km lang werden und 17 Mrd. € kosten",
+          "link": "https://www.ingenieur.de/deutschlands-co2-netz-konnte-7-000-km-lang-werden-und-17-mrd-kosten-a966cb1b-a28a-4c50-ab01-b3e0d0c763e5/",
+          "published": "2026-11-16T08:30:00+00:00",
+          "summary": "Fraunhofer-Forschende haben ein mögliches deutsches CO₂-Pipelinenetz simuliert. Das Ergebnis: rund 7.000 km Leitungen, 17 Mrd. € Investitionen und technische Hürden."
         },
         {
-          "title": "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
-          "link": "https://www.ingenieur.de/48-stunden-fuer-ein-hallo-voyager-1-erreichte-eine-unfassbare-entfernung-72b34a62-281d-4b7f-ad4b-151fc9ee4798/",
-          "published": "2026-11-15T08:35:42+00:00",
-          "summary": "25,9 Mrd. km entfernt: Voyager 1 knackt eine historische Marke. So hält die Nasa ihre fast 50 Jahre alte Sonde am Leben."
+          "title": "Kanada-Rekord: Deutsche bauen 40,5 m tiefe Spezial-Wand am Fraser River",
+          "link": "https://www.ingenieur.de/kanada-rekord-deutsche-bauen-405-m-tiefe-spezial-wand-am-fraser-river-2f43f167-ed5a-40a0-b1ef-a35c9eac8bbd/",
+          "published": "2026-11-16T07:42:41+00:00",
+          "summary": "Bauer baut in Kanada eine 40,5 m tiefe CSM-Dichtwand am Fraser River – Landesrekord nach 433 Vorbohrungen im schwierigen Baugrund."
         },
         {
-          "title": "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
-          "link": "https://www.ingenieur.de/geschichte-des-verbrennungsmotors-wie-otto-diesel-und-benz-die-welt-veraenderten-f4769b54-ec38-477b-85a2-5fe5cc8636ea/",
-          "published": "2026-11-15T08:27:00+00:00",
-          "summary": "150 Jahre Verbrennungsmotor: Wie Ottos Viertaktprinzip Autos prägte und warum Elektroantriebe, Wasserstoff und E-Fuels seine Zukunft bestimmen."
+          "title": "Premiere endet im Totalverlust: Neue Vulcan-Variante VC6L versagt bei Amazon-Start",
+          "link": "https://www.ingenieur.de/10-minuten-nach-dem-start-vulcan-rakete-versagt-40-amazon-satelliten-verloren-60250056-2d04-4fed-bc9d-33b17a686f1f/",
+          "published": "2026-11-16T06:47:27+00:00",
+          "summary": "Eine Vulcan-Rakete scheitert zehn Minuten nach dem Start. 40 Amazon-Satelliten sind verloren. Was über den Fehler und die Folgen bekannt ist."
         }
       ],
       "error": null
