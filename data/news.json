@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:27:17+00:00",
+  "generatedAt": "2026-11-16T04:41:31+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -7,6 +7,24 @@
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1684422.html",
+          "published": "2026-11-16T03:54:10+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Papst besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet",
+          "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html",
+          "published": "2026-11-16T03:22:31+00:00",
+          "summary": "Kurz vor Abschluss seiner Südamerika-Tour hat Papst Leo XIV. indigene Lebenswelten in den Anden und am Amazonas besucht. Dort kritisiert er mit deutlichen Worten Umweltverschmutzung und soziale …"
+        },
+        {
+          "title": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
+          "link": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
+          "published": "2026-11-16T00:35:10+00:00",
+          "summary": "In Antalya geht die Weltklimakonferenz in die entscheidende Phase: Die Ministerinnen und Minister kommen. Für Bundesumweltminister Schneider gibt es viel zu tun - und Erfolg dürfte wohl auch von …"
+        },
         {
           "title": "Volkstrauertag - Soldaten erinnern an ihre gefallenen Kameraden",
           "link": "https://www.tagesschau.de/tagesthemen/video-1684410.html",
@@ -17,24 +35,6 @@
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12980.html",
           "published": "2026-11-15T22:08:38+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Textilindustrie in Bangladesch unter Druck - gestiegene Energiepreise sorgen für Firmenschließungen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1684408.html",
-          "published": "2026-11-15T22:08:22+00:00",
-          "summary": ""
-        },
-        {
-          "title": "In Prag demonstrieren Hunderttausende Menschen für Medienunabhängigkeit",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1684406.html",
-          "published": "2026-11-15T22:00:26+00:00",
-          "summary": ""
-        },
-        {
-          "title": "SPD auf der Suche nach neuer Führung - Unterstützer von Parteichef Klingbeil melden sich zu Wort",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1684404.html",
-          "published": "2026-11-15T21:57:44+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Chip-Konzern: Bericht: Jensen Huang spricht über Rückkehr an Nvidia-Spitze",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-bericht-jensen-huang-spricht-ueber-rueckkehr-an-nvidia-spitze/100270046.html",
-          "published": "2026-11-15T21:42:26+00:00",
-          "summary": "Jensen Huang galt bis zu seinem Abgang als nahezu unersetzlich bei Nvidia. Könnte er wieder an die Spitze des Chip-Konzerns auftauchen?"
+          "title": "Gefühle verarbeiten: Stimmt etwas nicht mit mir, wenn ich (fast) nie weine?",
+          "link": "https://www.handelsblatt.com/technik/medizin/gefuehle-verarbeiten-stimmt-etwas-nicht-mit-mir-wenn-ich-fast-nie-weine/100270081.html",
+          "published": "2026-11-16T04:12:05+00:00",
+          "summary": "Einige Menschen sind nah am Wasser gebaut, andere kilometerweit weg. Gehören Sie zur zweiten Fraktion, können Sie sich fragen: Bin ich einfach so - oder verbiete ich mir nur unangenehme Gefühle?"
         },
         {
-          "title": "Nvidia: Huang spricht offenbar über Rückkehr an Nvidia-Spitze – Bessent fordert neuen Chef von außerhalb",
-          "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-huang-spricht-offenbar-ueber-rueckkehr-an-nvidia-spitze-bessent-fordert-neuen-chef-von-ausserhalb/100270044.html",
-          "published": "2026-11-15T21:32:48+00:00",
-          "summary": "Der in Ungnade gefallene Nvidia-Chef spricht mit Verbündeten offenbar über eine mögliche Rückkehr. Rückhalt aus dem Weißen Haus wird indes unwahrscheinlich."
+          "title": "Börse Asien: Asiens Börsen geben nach – Nvidia-Zahlen und Anthropic-Börsengang im Blick",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boerse-asien-asiens-boersen-geben-nach-nvidia-zahlen-und-anthropic-boersengang-im-blick/100270076.html",
+          "published": "2026-11-16T04:07:10+00:00",
+          "summary": "Asiens Investoren richten den Blick weiterhin auf die Tech-Branche. Insbesondere die Zukunft von Nvidia ohne Chef Jensen Huang dürfte in dieser Woche im Mittelpunkt stehen."
         },
         {
-          "title": "Südamerika-Reise: Papst warnt vor Zerstörung des Amazonas-Regenwalds",
-          "link": "https://www.handelsblatt.com/politik/international/suedamerika-reise-papst-warnt-vor-zerstoerung-des-amazonas-regenwalds/100270029.html",
-          "published": "2026-11-15T21:01:15+00:00",
-          "summary": "Eine Messe auf 3.700 Metern Höhe, dann hinunter an den Amazonas. Leo XIV. absolviert auf seine Peru-Reise ein hartes Programm. Die Gesundheit macht mit, trotz der Krebs-OP vor einem Monat."
+          "title": "Bundesverfassungsgericht: Neue Regeln für TV-Verträge – Karlsruhe spricht Urteil",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundesverfassungsgericht-neue-regeln-fuer-tv-vertraege-karlsruhe-spricht-urteil/100270079.html",
+          "published": "2026-11-16T04:00:07+00:00",
+          "summary": "Den Fernsehanschluss über die Nebenkosten abrechnen? Seit zwei Jahren ist das nicht mehr möglich. In Folge wurden zahlreiche Verträge gekündigt. Drei TV-Anbieter hoffen jetzt auf Karlsruhe."
         },
         {
-          "title": "Flugverkehr: Airlines streichen weitere Flüge – US-Präsident Trump schaltet sich ein",
-          "link": "https://www.handelsblatt.com/politik/international/flugverkehr-tausende-fluege-gestrichen-trump-schaltet-sich-ein/100269925.html",
-          "published": "2026-11-15T20:18:11+00:00",
-          "summary": "Die Nachwirkungen des mehrstündigen Startverbots in den USA sind über das gesamte Wochenende zu spüren. Auf die Ursache reagiert US-Präsident Trump mit Forderungen an den Kongress."
+          "title": "Studie: Industrie steigert Umsatz – doch 140.000 Jobs fallen weg",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/studie-industrie-steigert-umsatz-doch-140.000-jobs-fallen-weg/100270074.html",
+          "published": "2026-11-16T03:49:05+00:00",
+          "summary": "Die Industrie verbucht das dritte Quartalsplus in Folge – Grund ist auch der KI-Boom. Doch gleichzeitig verschwinden immer mehr Jobs – in allen Branchen."
         },
         {
-          "title": "Wirtschaftspolitik: US-Finanzminister fordert neuen Nvidia-Chef von außerhalb",
-          "link": "https://www.handelsblatt.com/technik/it-internet/wirtschaftspolitik-us-finanzminister-fordert-neuen-nvidia-chef-von-ausserhalb/100270039.html",
-          "published": "2026-11-15T19:52:25+00:00",
-          "summary": "Nach dem Rücktritt von Nvidia-Chef Huang nimmt US-Finanzminister Bessent den gesamten Konzern ins Visier. Er fordert einen externen Führungswechsel bei Nvidia und Antworten zu Chipverkäufen."
+          "title": "Brodeln in der Partei: Gründungsmitglieder des BSW fordern Distanz zur AfD",
+          "link": "https://www.handelsblatt.com/politik/deutschland/brodeln-in-der-partei-gruendungsmitglieder-des-bsw-fordern-distanz-zur-afd/100270072.html",
+          "published": "2026-11-16T03:30:05+00:00",
+          "summary": "Nach der Landtagswahl in Sachsen-Anhalt hat das BSW mehrfach mit der AfD gestimmt. In den Reihen der Wagenknecht-Partei wächst die Sorge vor einem Ruck nach rechts."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Auch Musk unterschreibt Petition: Tausende Nvidia-Mitarbeiter fordern Rückkehr von Huang",
+          "link": "https://www.n-tv.de/wirtschaft/Tausende-Nvidia-Mitarbeiter-fordern-Rueckkehr-von-Huang-id31536753.html",
+          "published": "2026-11-16T00:13:24+00:00",
+          "summary": "Nach dem Rücktritt des langjährigen Nvidia-Chefs beruhigt sich die Lage bei dem Chip-Entwickler nicht. Ein offener Brief drängt auf Huangs Rückkehr und trägt nicht nur die Unterschrift von …"
+        },
+        {
+          "title": "\"127.000 Jobs sind bedroht\": Kliniken befürchten neue Pleitewelle",
+          "link": "https://www.n-tv.de/wirtschaft/Kliniken-befuerchten-neue-Pleitewelle-id31536718.html",
+          "published": "2026-11-15T23:01:39+00:00",
+          "summary": "Die Gesundheitsreform kommt mit Macht bei den Krankenhäusern an. Die Deutsche Krankenhausgesellschaft rechnet mit hohen Rückforderungen der Krankenkassen. Insgesamt werden die Kürzungen die Kliniken …"
+        },
         {
           "title": "Nach landesweitem Flugstopp: Flugverkehr in den USA wohl erst am Montag vollständig normalisiert",
           "link": "https://www.n-tv.de/wirtschaft/Flugverkehr-in-den-USA-wohl-erst-am-Montag-vollstaendig-normalisiert-id31536490.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Anthropic-Chef-wechselte-als-Autodidakt-in-die-Informatik-id31535523.html",
           "published": "2026-11-15T10:48:52+00:00",
           "summary": "Anthropic steht kurz vor seinem Börsengang, die angestrebte Bewertung: 1,4 Billionen Dollar. An der Spitze des KI-Unternehmens steht eine der prägendsten Figuren der Techbranche. Schon an der Uni …"
-        },
-        {
-          "title": "Vom Spott zur Auto-Supermacht: \"Deutsche Autobauer verstehen Chinas Tempo bis heute nicht\"",
-          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Autobauer-verstehen-Chinas-Tempo-bis-heute-nicht-id31517972.html",
-          "published": "2026-11-15T10:32:18+00:00",
-          "summary": "Vom Reißbrett auf die Straße in weniger als 18 Monaten: In China geht das, in Deutschland nicht. ntv.de spricht mit dem Autoexperten Ferdinand Dudenhöffer darüber, was Chinas Hersteller antreibt …"
-        },
-        {
-          "title": "Abschreckung gegen Russland: MBDA: Entwicklung von Hyperschallwaffen kommt schnell voran",
-          "link": "https://www.n-tv.de/wirtschaft/MBDA-Entwicklung-von-Hyperschallwaffen-kommt-schnell-voran-id31535309.html",
-          "published": "2026-11-15T09:31:51+00:00",
-          "summary": "Bereits 2025 kündigen Deutschland und Großbritannien die Entwicklung neuer Hyperschallwaffen an - auch mit Blick auf die Bedrohung durch Russland. Nun gewährt Hersteller MBDA erstmals Einblicke in …"
         }
       ],
       "error": null

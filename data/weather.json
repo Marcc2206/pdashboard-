@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:27:21+00:00",
+  "generatedAt": "2026-11-16T04:41:34+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,38 +7,25 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-11-15T23:15",
-    "temperatur": 8.7,
-    "gefuehlt": 5.8,
-    "luftfeuchte": 90,
-    "niederschlag": 0.0,
-    "wind": 14.8,
+    "zeit": "2026-11-16T05:30",
+    "temperatur": 8.9,
+    "gefuehlt": 6.1,
+    "luftfeuchte": 92,
+    "niederschlag": 0.9,
+    "wind": 14.7,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 3,
-      "text": "Bedeckt",
-      "icon": "☁️"
+      "code": 61,
+      "text": "Leichter Regen",
+      "icon": "🌦️"
     }
   },
   "tage": [
     {
-      "datum": "2026-11-15",
-      "max": 9.0,
-      "min": 0.5,
-      "regenwahrscheinlichkeit": 100,
-      "sonnenaufgang": "2026-11-15T07:46",
-      "sonnenuntergang": "2026-11-15T16:34",
-      "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
-        "icon": "🌦️"
-      }
-    },
-    {
       "datum": "2026-11-16",
-      "max": 9.6,
-      "min": 3.4,
+      "max": 9.7,
+      "min": 3.6,
       "regenwahrscheinlichkeit": 95,
       "sonnenaufgang": "2026-11-16T07:47",
       "sonnenuntergang": "2026-11-16T16:32",
@@ -50,24 +37,37 @@
     },
     {
       "datum": "2026-11-17",
-      "max": 12.6,
-      "min": 2.5,
+      "max": 11.6,
+      "min": 1.0,
       "regenwahrscheinlichkeit": 100,
       "sonnenaufgang": "2026-11-17T07:49",
       "sonnenuntergang": "2026-11-17T16:31",
       "wetter": {
-        "code": 63,
-        "text": "Regen",
-        "icon": "🌧️"
+        "code": 80,
+        "text": "Leichte Schauer",
+        "icon": "🌦️"
       }
     },
     {
       "datum": "2026-11-18",
-      "max": 10.4,
-      "min": 8.7,
+      "max": 10.5,
+      "min": 6.3,
       "regenwahrscheinlichkeit": 81,
       "sonnenaufgang": "2026-11-18T07:51",
       "sonnenuntergang": "2026-11-18T16:30",
+      "wetter": {
+        "code": 80,
+        "text": "Leichte Schauer",
+        "icon": "🌦️"
+      }
+    },
+    {
+      "datum": "2026-11-19",
+      "max": 9.8,
+      "min": 4.2,
+      "regenwahrscheinlichkeit": 83,
+      "sonnenaufgang": "2026-11-19T07:52",
+      "sonnenuntergang": "2026-11-19T16:28",
       "wetter": {
         "code": 80,
         "text": "Leichte Schauer",
