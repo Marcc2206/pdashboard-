@@ -1,44 +1,13 @@
 {
-  "generatedAt": "2026-11-18T00:30:13+00:00",
+  "generatedAt": "2026-11-18T09:42:36+00:00",
   "feeds": [
     {
       "id": "tagesschau",
       "name": "Tagesschau",
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
-      "items": [
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-82214.html",
-          "published": "2026-11-17T23:59:32+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12984.html",
-          "published": "2026-11-17T22:26:43+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Proteste in Frankreich für höhere Gehälter und für bessere Bildungschancen",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1685624.html",
-          "published": "2026-11-17T21:54:15+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Klima-Risiko-Index von Umweltorganisation Germanwatch: Immense Auswirkungen von Extremwetter",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1685620.html",
-          "published": "2026-11-17T21:53:19+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Neuanfang in Serbien: Studentenbewegung zieht ins Parlament ein",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1685618.html",
-          "published": "2026-11-17T21:46:23+00:00",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "id": "handelsblatt",
@@ -47,34 +16,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Prediction Markets: US-Aufsicht stoppt Wetten auf Trumps Aussagen bei Kalshi",
-          "link": "https://www.handelsblatt.com/politik/international/prediction-markets-us-aufsicht-stoppt-wetten-auf-trumps-aussagen-bei-kalshi/100270761.html",
-          "published": "2026-11-18T00:25:09+00:00",
-          "summary": "Ein Mitarbeiter des Weißen Hauses verdiente mit Insiderwissen mehr als 100.000 Dollar – er hatte Trumps Teleprompter bedient. Nun greifen die Behörden bei solchen Wetten ein."
+          "title": "Dreiergipfel: Trump erwartet Gespräche über Ukraine und Taiwan mit Putin und Xi",
+          "link": "https://www.handelsblatt.com/video/politik/dreiergipfel-trump-erwartet-gespraeche-ueber-ukraine-und-taiwan-mit-putin-und-xi/100270705.html",
+          "published": "2026-11-18T16:00:00+00:00",
+          "summary": "Vor dem Dreiergipfel mit China und Russland hat sich US-Präsident Trump mit den Staats- und Regierungschefs von Indien, Japan und Australien getroffen. Der chinesische Präsident Xi hatte die …"
         },
         {
-          "title": "Prognose: Boom um KI – Gelder für deutsche Start-ups fast verdoppelt",
-          "link": "https://www.handelsblatt.com/technik/ki/prognose-boom-um-ki-gelder-fuer-deutsche-start-ups-fast-verdoppelt/100270756.html",
-          "published": "2026-11-17T23:41:47+00:00",
-          "summary": "Der Trend zu KI und Aufrüstung treibt die Investitionen in deutsche Techfirmen. Das Kapital konzentriert sich auf wenige Firmen – und Europas Rückstand zu den USA ist groß."
+          "title": "Dax aktuell: Dax notiert unverändert – Ölpreis sinkt",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-unveraendert-oelpreis-sinkt/100270820.html",
+          "published": "2026-11-18T09:25:53+00:00",
+          "summary": "Nach den deutlichen Verlusten vom Dienstag zeigt sich der deutsche Leitindex zurückhaltend. Im Fokus stehen neue Inflationsdaten und die geopolitischen Gespräche am Rande des Apec-Gipfels."
         },
         {
-          "title": "Nach Angriff auf Krim-Brücke: Selenskyj: Sind bei Waffenentwicklung Nummer eins in Europa",
-          "link": "https://www.handelsblatt.com/politik/international/nach-angriff-auf-krim-bruecke-selenskyj-sind-bei-waffenentwicklung-nummer-eins-in-europa/100270754.html",
-          "published": "2026-11-17T23:10:16+00:00",
-          "summary": "Der ukrainische Präsident rühmt nach dem Angriff auf die Krim-Brücke die technologischen Fortschritte seines Landes - und droht Russland mit weiteren Attacken."
+          "title": "Verteidigung: Eine Drohne wie ein Kampfjet: So lockt General Atomics die Bundeswehr",
+          "link": "https://www.handelsblatt.com/politik/international/verteidigung-general-atomics-will-bundeswehr-jagdbomberdrohnen-liefern/100268803.html",
+          "published": "2026-11-18T09:19:01+00:00",
+          "summary": "Das US-Unternehmen bietet der deutschen Luftwaffe eine völlig neue Generation von Drohnen an. Die Konkurrenten Helsing, Airbus und Rheinmetall müssen sich sputen, um zum Zuge zu kommen."
         },
         {
-          "title": "Prognose: Boom um KI: Gelder für deutsche Start-ups fast verdoppelt",
-          "link": "https://www.handelsblatt.com/technik/it-internet/prognose-boom-um-ki-gelder-fuer-deutsche-start-ups-fast-verdoppelt/100270752.html",
-          "published": "2026-11-17T23:05:06+00:00",
-          "summary": "Der Trend zu Künstlicher Intelligenz und Aufrüstung treibt die Investitionen in deutsche Techfirmen. Doch das Kapital konzentriert sich auf wenige Firmen – und Europas Rückstand zu den USA ist groß."
+          "title": "Märkte: Risiko für die Finanzstabilität: EZB mahnt vor Stimmungswende im KI-Sektor",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-euro-notenbank-mahnt-vor-stimmungswende-im-ki-sektor/100268686.html",
+          "published": "2026-11-18T09:11:26+00:00",
+          "summary": "Die Märkte funktionieren bislang geordnet, bilanziert die EZB. Sie warnt in ihrem neuen Finanzstabilitätsbericht aber davor, dass „ambitionierte Gewinnerwartungen“ überzogen sein könnten."
         },
         {
-          "title": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn – keine Pläne für Rückkehr Huangs",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-plaene-fuer-rueckkehr-huangs/100268998.html",
-          "published": "2026-11-17T22:57:26+00:00",
-          "summary": "Investoren müssen sich nach dem Abgang Huangs an neue Gesichter bei den Quartalskonferenzen gewöhnen. Im vergangenen Quartal lief das Geschäft noch auf Hochtouren."
+          "title": "Gastkommentar: Abschluss in Etappen – Wie Ungelernte zu Fachkräften werden",
+          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-abschluss-in-etappen-wie-ungelernte-zu-fachkraeften-werden/100269994.html",
+          "published": "2026-11-18T09:11:09+00:00",
+          "summary": "Fast jeder fünfte junge Erwachsene hat keinen Berufsabschluss. Es ist höchste Zeit für flexible Alternativen zum traditionellen Ausbildungssystem, mahnt Multiaufsichtsrätin Ariane Reinhart."
         }
       ],
       "error": null
@@ -85,6 +54,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Kooperation vereinbart: Deutscher Rüstungskonzern MBDA will Waffen ins All bringen",
+          "link": "https://www.n-tv.de/wirtschaft/Deutscher-Ruestungskonzern-MBDA-will-Waffen-ins-All-bringen-id31546416.html",
+          "published": "2026-11-18T09:22:34+00:00",
+          "summary": "Die Stationierung von Militärgerät im Weltall ist umstritten: Die beiden deutschen Unternehmen, der Konzern MBDA und die Atmos Space Cargo GmbH, wollen nun genau in diesem Bereich zusammenarbeiten."
+        },
+        {
+          "title": "Nach Zwischenfällen: Waymo stoppt autonome Fahrten auf US-Autobahnen",
+          "link": "https://www.n-tv.de/wirtschaft/Waymo-stoppt-autonome-Fahrten-auf-US-Autobahnen-id31546206.html",
+          "published": "2026-11-18T05:29:15+00:00",
+          "summary": "Autonomes Fahren wird als der nächste große Hype angesehen. Zwischenfälle bremsen die Technik jedoch aus. In den USA werden einem Anbieter nun Fahrten auf Autobahnen verboten. Zuvor hatten mehrere …"
+        },
         {
           "title": "US-Börsen geben nach: Zinssorgen und Tech-Schwäche ziehen Dow Jones nach unten",
           "link": "https://www.n-tv.de/wirtschaft/Zinssorgen-und-Tech-Schwaeche-ziehen-Dow-Jones-nach-unten-id31545844.html",
@@ -102,18 +83,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Ikea-BBC-und-Air-France-Opfer-von-Cyberangriffen-gegen-Apple-Nutzer-geworden-id31545635.html",
           "published": "2026-11-17T20:34:57+00:00",
           "summary": "Hacker haben Berichten zufolge versucht, über stark genutzte Websites von Unternehmen die Finanzdaten von Apple-Nutzern zu klauen. Die Geräte sollten mit schädlichen Codes infiziert werden. Der …"
-        },
-        {
-          "title": "\"Wäre mir eine Ehre\": Huang ist kurz nach Rücktritt bereit für Nvidia-Comeback",
-          "link": "https://www.n-tv.de/wirtschaft/Huang-ist-kurz-nach-Ruecktritt-bereit-fuer-Nvidia-Comeback-id31545374.html",
-          "published": "2026-11-17T18:44:14+00:00",
-          "summary": "Jensen Huang räumt seinen Chef-Posten bei Nvidia, nachdem mehrere außereheliche Affären bekannt geworden sind. Trotzdem erhält er nicht nur aus der Tech-Branche mächtigen Zuspruch. Weniger als eine …"
-        },
-        {
-          "title": "Enormer Erfolgsdruck: Kann GTA 6 wirklich nicht mehr floppen?",
-          "link": "https://www.n-tv.de/wirtschaft/Kann-GTA-6-wirklich-nicht-mehr-floppen-id31537518.html",
-          "published": "2026-11-17T16:02:31+00:00",
-          "summary": "Seit fast einem Jahrzehnt werkelt der Entwickler Rockstar Games am Videospiel GTA 6. Noch immer bringt der Vorgänger jeden Tag rund zwei Millionen Dollar ein. Doch der Nachfolger ist längst ein …"
         }
       ],
       "error": null
@@ -133,10 +102,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-          "published": "2026-11-17T17:26:00+00:00",
-          "summary": "Das Warten auf Zahlen des US-Chipkonzerns Nvidia hat den Handel an der Börse gelähmt. Überschattet wurde das Marktgeschehen von einem riesigen Datenleck bei der Deutschen Bank - was die Aktie tief …"
+          "title": "Wenig Bewegung beim DAX",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+          "published": "2026-11-18T09:32:04+00:00",
+          "summary": "Starke Zahlen des US-Chipherstellers Nvidia bringen nicht den erhofften Befreiungsschlag. Tech-Sorgen belasten auch weiter den Aktienmarkt."
+        },
+        {
+          "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+          "published": "2026-11-18T04:02:36+00:00",
+          "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht …"
         },
         {
           "title": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
@@ -155,12 +130,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
           "published": "2026-11-13T13:00:43+00:00",
           "summary": "In Deutschland wurden im August so viele Unternehmensinsolvenzen registriert wie seit 13 Jahren nicht mehr. Die Pleitewelle dürfte weitergehen, meinen Experten. Gleichzeitig wird aber auch mehr …"
-        },
-        {
-          "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-          "published": "2026-11-12T17:31:15+00:00",
-          "summary": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von …"
         }
       ],
       "error": null
@@ -172,34 +141,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Kertsch-Brücke: Putins Krim-Brücke in Schutt und Asche",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/kertsch-bruecke-zerstoert-putins-krim-bruecke-in-schutt-und-asche/100270576.html",
-          "published": "2026-11-17T22:26:00+00:00",
-          "summary": "Der Ukraine ist es gelungen, die Verbindung zwischen Russland und der Krim zum Einsturz zu bringen. Es ist ein symbolischer Schlag: Das Bauwerk war bereits geschwächt."
-        },
-        {
-          "title": "Nach Huang-Abgang: Nvidia-Quartalszahlen treiben Aktie nachbörslich nach oben",
-          "link": "https://www.wiwo.de/unternehmen/it/nach-huang-abgang-nvidia-quartalszahlen-treiben-aktie-nachboerslich-nach-oben/100270745.html",
-          "published": "2026-11-17T21:52:13+00:00",
-          "summary": "Erstmals hat Colette Kress als Interim-CEO die Geschäftszahlen des Chipkonzerns präsentiert. Die erste Reaktion an der Börse fällt positiv aus."
-        },
-        {
-          "title": "Markus Brunnermeier: Vier Gründe, warum dieser EZB-Kandidat die Krisen der Eurozone meistern könnte",
-          "link": "https://www.wiwo.de/politik/europa/neuer-ezb-chefvolkswirt-warum-markus-brunnermeier-nominiert-wird/100270485.html",
-          "published": "2026-11-17T21:44:54+00:00",
-          "summary": "Princeton-Professor Markus Brunnermeier ist Deutschlands Kandidat für den Posten des Chefvolkswirts in der EZB. Experten feiern die Wahl – nicht nur, weil der Ökonom extrem schlau ist."
+          "title": "Staatsanleihen: Wie hoch sind die Renditen für 30-jährige Bundesanleihen aktuell?",
+          "link": "https://www.wiwo.de/finanzen/geldanlage/staatsanleihen-wie-hoch-sind-die-renditen-fuer-30-jaehrige-bundesanleihen/100261947.html",
+          "published": "2026-11-18T09:29:56+00:00",
+          "summary": "Für Anleger, denen Aktien zu riskant sind, können Staatsanleihen eine Alternative sein. Für anfallende Zins- und Rückzahlungen haftet das jeweilige Land."
         },
         {
           "title": "EU-Finanzen: „Deutschlands EU-Beitrag ist die Investition in seinen größten Exportmarkt“",
           "link": "https://www.wiwo.de/politik/europa/eu-finanzen-deutschlands-eu-beitrag-ist-die-investition-in-seinen-groessten-exportmarkt/100270642.html",
-          "published": "2026-11-17T19:37:48+00:00",
+          "published": "2026-11-18T09:25:00+00:00",
           "summary": "EU-Regionalpräsidentin Kata Tüttő argumentiert gegen die geplanten Kürzungen im nächsten EU‑Budget, vor allem für Landwirtschaft und Regionalförderung."
         },
         {
-          "title": "Apec-Gipfel: Xi Jinpings Charmeoffensive gerät ins Wanken",
-          "link": "https://www.wiwo.de/politik/ausland/apec-gipfel-in-shenzhen-xi-jinping-steht-ein-geopolitischer-haertetest-bevor/100267401.html",
-          "published": "2026-11-17T19:30:00+00:00",
-          "summary": "Chinas Staatschef inszeniert sein Land als freundlichen Handelspartner. Diese Strategie hat Grenzen. Ein anstehender Gipfel mit Trump und Putin könnte heikel werden."
+          "title": "Schuldenpolitik: Wie hoch sind die Staatsschulden Deutschlands?",
+          "link": "https://www.wiwo.de/politik/konjunktur/schuldenpolitik-wie-hoch-sind-die-staatsschulden-von-deutschland/100261982.html",
+          "published": "2026-11-18T09:13:34+00:00",
+          "summary": "Lange waren die deutschen Staatsschulden stabil, zeitweise sogar rückläufig. Doch seit einigen Jahren steigen die Schulden der Bundesrepublik wieder."
+        },
+        {
+          "title": "Recruiting: So viel Einsatz verlangt Anthropic von seinen Mitarbeitern",
+          "link": "https://www.wiwo.de/erfolg/management/anthropic-bewerbung-warum-der-ki-pionier-talente-abschreckt/100270339.html",
+          "published": "2026-11-18T09:11:34+00:00",
+          "summary": "Der KI-Anbieter Anthropic setzt bei der Personalauswahl auf Abschreckung, um die besten Talente zu bekommen. Kann das wirklich funktionieren?"
+        },
+        {
+          "title": "Arbeitsmarkt: So hoch ist die Zahl der gemeldeten Arbeitsstellen jährlich",
+          "link": "https://www.wiwo.de/politik/konjunktur/arbeitsmarkt-so-hoch-ist-die-zahl-der-gemeldeten-arbeitsstellen-jaehrlich/100261776.html",
+          "published": "2026-11-18T09:07:10+00:00",
+          "summary": "Die Zahl der gemeldeten Arbeitsstellen ist Grundlage für den Stellenindex BA-X. Wie viele offene Stellen werden jährlich der Agentur für Arbeit gemeldet?"
         }
       ],
       "error": null
