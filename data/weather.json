@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:21:30+00:00",
+  "generatedAt": "2026-11-18T00:30:16+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,39 +7,26 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-11-17T18:15",
-    "temperatur": 11.1,
-    "gefuehlt": 7.0,
-    "luftfeuchte": 75,
-    "niederschlag": 0.0,
-    "wind": 22.7,
+    "zeit": "2026-11-18T01:30",
+    "temperatur": 8.9,
+    "gefuehlt": 5.2,
+    "luftfeuchte": 87,
+    "niederschlag": 0.1,
+    "wind": 20.2,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
-      "code": 3,
-      "text": "Bedeckt",
-      "icon": "☁️"
+      "code": 61,
+      "text": "Leichter Regen",
+      "icon": "🌦️"
     }
   },
   "tage": [
     {
-      "datum": "2026-11-17",
-      "max": 11.6,
-      "min": 1.0,
-      "regenwahrscheinlichkeit": 100,
-      "sonnenaufgang": "2026-11-17T07:49",
-      "sonnenuntergang": "2026-11-17T16:31",
-      "wetter": {
-        "code": 63,
-        "text": "Regen",
-        "icon": "🌧️"
-      }
-    },
-    {
       "datum": "2026-11-18",
-      "max": 9.3,
-      "min": 6.9,
-      "regenwahrscheinlichkeit": 88,
+      "max": 9.5,
+      "min": 6.0,
+      "regenwahrscheinlichkeit": 95,
       "sonnenaufgang": "2026-11-18T07:51",
       "sonnenuntergang": "2026-11-18T16:30",
       "wetter": {
@@ -50,9 +37,9 @@
     },
     {
       "datum": "2026-11-19",
-      "max": 9.8,
-      "min": 6.8,
-      "regenwahrscheinlichkeit": 82,
+      "max": 8.6,
+      "min": 6.6,
+      "regenwahrscheinlichkeit": 85,
       "sonnenaufgang": "2026-11-19T07:52",
       "sonnenuntergang": "2026-11-19T16:28",
       "wetter": {
@@ -63,15 +50,28 @@
     },
     {
       "datum": "2026-11-20",
-      "max": 7.1,
-      "min": -0.1,
-      "regenwahrscheinlichkeit": 43,
+      "max": 7.5,
+      "min": 0.0,
+      "regenwahrscheinlichkeit": 38,
       "sonnenaufgang": "2026-11-20T07:54",
       "sonnenuntergang": "2026-11-20T16:27",
       "wetter": {
-        "code": 61,
-        "text": "Leichter Regen",
-        "icon": "🌦️"
+        "code": 45,
+        "text": "Nebel",
+        "icon": "🌫️"
+      }
+    },
+    {
+      "datum": "2026-11-21",
+      "max": 6.0,
+      "min": -2.0,
+      "regenwahrscheinlichkeit": 14,
+      "sonnenaufgang": "2026-11-21T07:56",
+      "sonnenuntergang": "2026-11-21T16:26",
+      "wetter": {
+        "code": 45,
+        "text": "Nebel",
+        "icon": "🌫️"
       }
     }
   ]

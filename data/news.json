@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:21:28+00:00",
+  "generatedAt": "2026-11-18T00:30:13+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
-          "published": "2026-11-17T16:52:59+00:00",
-          "summary": "In einer Nachtsitzung suchen die Koalitionsspitzen Milliarden, um die Stromsteuer senken zu können. Zuvor hatte sich Kanzler Merz weit aus dem Fenster gelehnt. Setzt er sein Versprechen durch? Von N. …"
-        },
-        {
-          "title": "Linken-Vorstand beantragt Ausschluss der Abgeordneten Emde",
-          "link": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
-          "published": "2026-11-17T16:52:47+00:00",
-          "summary": "Der Vorstand der Linken-Fraktion im Berliner Abgeordnetenhaus hat offiziell den Ausschluss von Vanessa Emde beantragt. In einer Mitteilung wurde das mit dem Verhalten der umstrittenen Abgeordneten …"
-        },
-        {
-          "title": "Warum eine Konjunkturerholung noch kein Ende der Jobkrise bedeutet",
-          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/industrie-aufschwung-jobabbau-100.html",
-          "published": "2026-11-17T16:47:06+00:00",
-          "summary": "Aus der Industrie kommen vorsichtige Zeichen der Zuversicht. Trotzdem könnte der Stellenabbau Experten zufolge erst einmal weitergehen. Warum ein Schub für den Arbeitsmarkt auf sich warten lässt. Von …"
-        },
-        {
-          "title": "NDR-Recherche zeigt Betrug bei Grauer-Star-Operation",
-          "link": "https://www.tagesschau.de/video/video-1685410.html",
-          "published": "2026-11-17T16:44:16+00:00",
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82214.html",
+          "published": "2026-11-17T23:59:32+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau in Einfacher Sprache",
-          "link": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1514.html",
-          "published": "2026-11-17T16:43:00+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12984.html",
+          "published": "2026-11-17T22:26:43+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Proteste in Frankreich für höhere Gehälter und für bessere Bildungschancen",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1685624.html",
+          "published": "2026-11-17T21:54:15+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Klima-Risiko-Index von Umweltorganisation Germanwatch: Immense Auswirkungen von Extremwetter",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1685620.html",
+          "published": "2026-11-17T21:53:19+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Neuanfang in Serbien: Studentenbewegung zieht ins Parlament ein",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1685618.html",
+          "published": "2026-11-17T21:46:23+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "KI: Huang zeigt sich bereit zu Rückkehr an Nvidia-Spitze",
-          "link": "https://www.handelsblatt.com/technik/ki/ki-huang-zeigt-sich-bereit-zu-rueckkehr-an-nvidia-spitze/100270714.html",
-          "published": "2026-11-17T17:08:01+00:00",
-          "summary": "Fans von Jensen Huang wollen seine Rückkehr an die Nvidia-Spitze. Der Chip-Konzern zeigt bisher kein Interesse – aber Huang erklärt sich schon mal bereit dazu."
+          "title": "Prediction Markets: US-Aufsicht stoppt Wetten auf Trumps Aussagen bei Kalshi",
+          "link": "https://www.handelsblatt.com/politik/international/prediction-markets-us-aufsicht-stoppt-wetten-auf-trumps-aussagen-bei-kalshi/100270761.html",
+          "published": "2026-11-18T00:25:09+00:00",
+          "summary": "Ein Mitarbeiter des Weißen Hauses verdiente mit Insiderwissen mehr als 100.000 Dollar – er hatte Trumps Teleprompter bedient. Nun greifen die Behörden bei solchen Wetten ein."
         },
         {
-          "title": "Kreative Zerstörung: Künstliche Intelligenz ist wie Mikroplastik: Sie verseucht uns von innen",
-          "link": "https://www.handelsblatt.com/meinung/kolumnen/technologie-ki-ist-wie-mikroplastik-sie-verseucht-uns-von-innen/100270364.html",
-          "published": "2026-11-17T17:04:07+00:00",
-          "summary": "Kunststoff startete als große Verheißung – und wurde durch falsche Benutzung zu einem der größten Probleme unserer Zeit. Bei der KI wiederholen wir diese Fehler gerade."
+          "title": "Prognose: Boom um KI – Gelder für deutsche Start-ups fast verdoppelt",
+          "link": "https://www.handelsblatt.com/technik/ki/prognose-boom-um-ki-gelder-fuer-deutsche-start-ups-fast-verdoppelt/100270756.html",
+          "published": "2026-11-17T23:41:47+00:00",
+          "summary": "Der Trend zu KI und Aufrüstung treibt die Investitionen in deutsche Techfirmen. Das Kapital konzentriert sich auf wenige Firmen – und Europas Rückstand zu den USA ist groß."
         },
         {
-          "title": "EZB: Von Landshut über die USA zum zweitmächtigsten Geldpolitiker Europas: Wer ist Markus Brunnermeier?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/oekonom-kuenftiger-ezb-chefvolkswirt-wer-ist-markus-brunnermeier/100270545.html",
-          "published": "2026-11-17T16:57:41+00:00",
-          "summary": "Der Princeton-Professor soll neuer Chefökonom der Europäischen Zentralbank werden. Wer ist dieser Deutsche, der international einen so guten Ruf genießt? Und was hat die EZB zu erwarten?"
+          "title": "Nach Angriff auf Krim-Brücke: Selenskyj: Sind bei Waffenentwicklung Nummer eins in Europa",
+          "link": "https://www.handelsblatt.com/politik/international/nach-angriff-auf-krim-bruecke-selenskyj-sind-bei-waffenentwicklung-nummer-eins-in-europa/100270754.html",
+          "published": "2026-11-17T23:10:16+00:00",
+          "summary": "Der ukrainische Präsident rühmt nach dem Angriff auf die Krim-Brücke die technologischen Fortschritte seines Landes - und droht Russland mit weiteren Attacken."
         },
         {
-          "title": "Dauerhaft Infektionsketten: USA verlieren Status „masernfrei“ - Wie ernst ist die Lage?",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/dauerhaft-infektionsketten-usa-verlieren-status-masernfrei-wie-ernst-ist-die-lage/100270710.html",
-          "published": "2026-11-17T16:56:29+00:00",
-          "summary": "Deutschland war noch nie offiziell als frei von Masern eingestuft. Die USA hingegen konnten sich damit mehr als 25 Jahre lang rühmen. Nun aber wurde der Status aberkannt. Was heißt das?"
+          "title": "Prognose: Boom um KI: Gelder für deutsche Start-ups fast verdoppelt",
+          "link": "https://www.handelsblatt.com/technik/it-internet/prognose-boom-um-ki-gelder-fuer-deutsche-start-ups-fast-verdoppelt/100270752.html",
+          "published": "2026-11-17T23:05:06+00:00",
+          "summary": "Der Trend zu Künstlicher Intelligenz und Aufrüstung treibt die Investitionen in deutsche Techfirmen. Doch das Kapital konzentriert sich auf wenige Firmen – und Europas Rückstand zu den USA ist groß."
         },
         {
-          "title": "Chip-Riese: Wie im Nvidia-Drama Affären, China und KI zusammenkamen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-wie-im-nvidia-drama-affaeren-china-und-ki-zusammenkamen/100270434.html",
-          "published": "2026-11-17T16:50:40+00:00",
-          "summary": "Jensen Huang musste den Chefposten beim Chip-Riesen Nvidia nach außerehelichen Affären räumen. Doch auf den Star-Manager könnten noch viel größere Probleme zukommen."
+          "title": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn – keine Pläne für Rückkehr Huangs",
+          "link": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-plaene-fuer-rueckkehr-huangs/100268998.html",
+          "published": "2026-11-17T22:57:26+00:00",
+          "summary": "Investoren müssen sich nach dem Abgang Huangs an neue Gesichter bei den Quartalskonferenzen gewöhnen. Im vergangenen Quartal lief das Geschäft noch auf Hochtouren."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "US-Börsen geben nach: Zinssorgen und Tech-Schwäche ziehen Dow Jones nach unten",
+          "link": "https://www.n-tv.de/wirtschaft/Zinssorgen-und-Tech-Schwaeche-ziehen-Dow-Jones-nach-unten-id31545844.html",
+          "published": "2026-11-17T22:55:07+00:00",
+          "summary": "Zum vierten Mal in Folge schließen die US-Börsen mit Verlusten. Aktuelle Pläne der US-Regierung sowie erwartete Quartalszahlen von Nvidia sorgen bei den Anlegern für eine angespannte Stimmung."
+        },
+        {
+          "title": "Trotz glänzender Zahlen: Nvidia will Ex-Chef Huang nicht zurückholen",
+          "link": "https://www.n-tv.de/wirtschaft/Nvidia-will-Ex-Chef-Huang-nicht-zurueckholen-id31545824.html",
+          "published": "2026-11-17T22:27:17+00:00",
+          "summary": "Mitten in der Führungskrise legt Nvidia überraschend starke Zahlen vor. Die sind noch unter dem zurückgetretenen Konzernchef Huang zustande gekommen. Der wäre auch zu einer Rückkehr bereit, doch der …"
+        },
+        {
+          "title": "Ikea und Air France betroffen: Cyberattacken auf fast 200 namhafte Websites",
+          "link": "https://www.n-tv.de/wirtschaft/Ikea-BBC-und-Air-France-Opfer-von-Cyberangriffen-gegen-Apple-Nutzer-geworden-id31545635.html",
+          "published": "2026-11-17T20:34:57+00:00",
+          "summary": "Hacker haben Berichten zufolge versucht, über stark genutzte Websites von Unternehmen die Finanzdaten von Apple-Nutzern zu klauen. Die Geräte sollten mit schädlichen Codes infiziert werden. Der …"
+        },
+        {
+          "title": "\"Wäre mir eine Ehre\": Huang ist kurz nach Rücktritt bereit für Nvidia-Comeback",
+          "link": "https://www.n-tv.de/wirtschaft/Huang-ist-kurz-nach-Ruecktritt-bereit-fuer-Nvidia-Comeback-id31545374.html",
+          "published": "2026-11-17T18:44:14+00:00",
+          "summary": "Jensen Huang räumt seinen Chef-Posten bei Nvidia, nachdem mehrere außereheliche Affären bekannt geworden sind. Trotzdem erhält er nicht nur aus der Tech-Branche mächtigen Zuspruch. Weniger als eine …"
+        },
+        {
           "title": "Enormer Erfolgsdruck: Kann GTA 6 wirklich nicht mehr floppen?",
           "link": "https://www.n-tv.de/wirtschaft/Kann-GTA-6-wirklich-nicht-mehr-floppen-id31537518.html",
           "published": "2026-11-17T16:02:31+00:00",
           "summary": "Seit fast einem Jahrzehnt werkelt der Entwickler Rockstar Games am Videospiel GTA 6. Noch immer bringt der Vorgänger jeden Tag rund zwei Millionen Dollar ein. Doch der Nachfolger ist längst ein …"
-        },
-        {
-          "title": "Stühlerücken nach Lagarde-Abgang: Klingbeil will Markus Brunnermeier als neuen EZB-Chefökonomen",
-          "link": "https://www.n-tv.de/wirtschaft/Klingbeil-will-Markus-Brunnermeier-als-neuen-EZB-Chefoekonomen-id31544351.html",
-          "published": "2026-11-17T15:45:49+00:00",
-          "summary": "Nach der Rücktrittsankündigung von EZB-Chefin Lagarde sollen auch weitere Spitzenpositionen neu besetzt werden, darunter der Posten des Chefökonoms. Dieser bereitet die Zinsentscheidungen vor. …"
-        },
-        {
-          "title": "EUR/USD im Check: Euro besitzt Schlagseite",
-          "link": "https://www.n-tv.de/wirtschaft/boerse/Euro-besitzt-Schlagseite-id30347915.html",
-          "published": "2026-11-17T14:56:00+00:00",
-          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den Euro."
-        },
-        {
-          "title": "20 Milliarden Euro an Strafen: Diese Skandale holen die Deutsche Bank jetzt ein",
-          "link": "https://www.n-tv.de/wirtschaft/Diese-Skandale-holen-die-Deutsche-Bank-jetzt-ein-id31544100.html",
-          "published": "2026-11-17T14:39:03+00:00",
-          "summary": "Immer wieder haben Skandale den Ruf der Deutschen Bank beschädigt. Mehr als 20 Milliarden Euro zahlte Deutschlands größtes Geldhaus seit der Finanzkrise 2008/2009 an Strafen und Vergleichen. Die …"
-        },
-        {
-          "title": "Probleme bei Testkäufen: EU mahnt Mängel bei chinesischem Onlinehändler Temu an",
-          "link": "https://www.n-tv.de/wirtschaft/EU-mahnt-Maengel-bei-chinesischem-Onlinehaendler-Temu-an-id31543605.html",
-          "published": "2026-11-17T14:21:48+00:00",
-          "summary": "Ladegeräte fallen bei Sicherheitstests durch, Babyspielzeuge überschreiten Chemikalien-Grenzwerte: Temu unternimmt laut vorläufigen Ermittlungen der EU-Kommission nicht genug gegen unsichere Produkte …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
+          "published": "2026-11-17T17:26:00+00:00",
+          "summary": "Das Warten auf Zahlen des US-Chipkonzerns Nvidia hat den Handel an der Börse gelähmt. Überschattet wurde das Marktgeschehen von einem riesigen Datenleck bei der Deutschen Bank - was die Aktie tief …"
+        },
+        {
           "title": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
           "published": "2026-11-17T13:08:30+00:00",
           "summary": "Aktien der Deutschen Bank fallen deutlich. Grund dafür ist ein Datenleck, das Millionen interner Papiere offengelegt haben soll, in denen unter anderem von Geldwäsche die Rede ist. Das Bankhaus …"
-        },
-        {
-          "title": "Marktbericht: DAX-Rückschlag vor Nvidia-Zahlen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-          "published": "2026-11-17T09:57:57+00:00",
-          "summary": "Die Unsicherheiten in der Tech-Branche machen die Anleger nervös. Vor den Quartalszahlen von Nvidia fahren die Anleger ihre Risiken zurück. Im Fokus stehen aber neue Vorwürfe gegen die Deutsche Bank."
         },
         {
           "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Personalwechsel: Dieser Mann soll der wichtigste Ökonom der Europäischen Zentralbank werden",
+          "title": "Kertsch-Brücke: Putins Krim-Brücke in Schutt und Asche",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/kertsch-bruecke-zerstoert-putins-krim-bruecke-in-schutt-und-asche/100270576.html",
+          "published": "2026-11-17T22:26:00+00:00",
+          "summary": "Der Ukraine ist es gelungen, die Verbindung zwischen Russland und der Krim zum Einsturz zu bringen. Es ist ein symbolischer Schlag: Das Bauwerk war bereits geschwächt."
+        },
+        {
+          "title": "Nach Huang-Abgang: Nvidia-Quartalszahlen treiben Aktie nachbörslich nach oben",
+          "link": "https://www.wiwo.de/unternehmen/it/nach-huang-abgang-nvidia-quartalszahlen-treiben-aktie-nachboerslich-nach-oben/100270745.html",
+          "published": "2026-11-17T21:52:13+00:00",
+          "summary": "Erstmals hat Colette Kress als Interim-CEO die Geschäftszahlen des Chipkonzerns präsentiert. Die erste Reaktion an der Börse fällt positiv aus."
+        },
+        {
+          "title": "Markus Brunnermeier: Vier Gründe, warum dieser EZB-Kandidat die Krisen der Eurozone meistern könnte",
           "link": "https://www.wiwo.de/politik/europa/neuer-ezb-chefvolkswirt-warum-markus-brunnermeier-nominiert-wird/100270485.html",
-          "published": "2026-11-17T17:08:05+00:00",
+          "published": "2026-11-17T21:44:54+00:00",
           "summary": "Princeton-Professor Markus Brunnermeier ist Deutschlands Kandidat für den Posten des Chefvolkswirts in der EZB. Experten feiern die Wahl – nicht nur, weil der Ökonom extrem schlau ist."
         },
         {
-          "title": "X-Post: Ex-Nvidia-Chef Jensen Huang kann sich Rückkehr vorstellen",
-          "link": "https://www.wiwo.de/unternehmen/it/x-post-ex-nvidia-chef-jensen-huang-kann-sich-rueckkehr-vorstellen/100270707.html",
-          "published": "2026-11-17T17:07:00+00:00",
-          "summary": "Jensen Huang ist wegen seiner Beziehung zu einer mutmaßlichen chinesischen Spionin als Nvidia-Chef zurückgetreten. Falls das Unternehmen dies wünsche, würde er aber zurückkehren."
+          "title": "EU-Finanzen: „Deutschlands EU-Beitrag ist die Investition in seinen größten Exportmarkt“",
+          "link": "https://www.wiwo.de/politik/europa/eu-finanzen-deutschlands-eu-beitrag-ist-die-investition-in-seinen-groessten-exportmarkt/100270642.html",
+          "published": "2026-11-17T19:37:48+00:00",
+          "summary": "EU-Regionalpräsidentin Kata Tüttő argumentiert gegen die geplanten Kürzungen im nächsten EU‑Budget, vor allem für Landwirtschaft und Regionalförderung."
         },
         {
-          "title": "Apec-Gipfel: Zwischen Nvidia und Kiew – Xi Jinping steht ein Härtetest bevor",
+          "title": "Apec-Gipfel: Xi Jinpings Charmeoffensive gerät ins Wanken",
           "link": "https://www.wiwo.de/politik/ausland/apec-gipfel-in-shenzhen-xi-jinping-steht-ein-geopolitischer-haertetest-bevor/100267401.html",
-          "published": "2026-11-17T16:26:47+00:00",
+          "published": "2026-11-17T19:30:00+00:00",
           "summary": "Chinas Staatschef inszeniert sein Land als freundlichen Handelspartner. Diese Strategie hat Grenzen. Ein anstehender Gipfel mit Trump und Putin könnte heikel werden."
-        },
-        {
-          "title": "BörsenTag: Wie vorbörsliche Investoren mit ihrem Anthropic-Investment umgehen",
-          "link": "https://www.wiwo.de/finanzen/boerse/anthropic-ipo-wie-private-beteiligungsfonds-mit-ihrem-investment-umgehen/100270498.html",
-          "published": "2026-11-17T15:50:00+00:00",
-          "summary": "Private Beteiligungsfonds waren lange vor dem Börsengang in Anthropic investiert. So geht es bei ihnen nach dem Börsenstart des KI-Riesen weiter."
-        },
-        {
-          "title": "Spitzentreffen im Kanzleramt: Showdown um die Stromsteuer im Koalitionsausschuss",
-          "link": "https://www.wiwo.de/politik/deutschland/spitzentreffen-im-kanzleramt-showdown-um-die-stromsteuer-im-koalitionsausschuss/100270402.html",
-          "published": "2026-11-17T15:47:00+00:00",
-          "summary": "Der Kanzler ist angezählt, der Vizekanzler auch, und die Koalition steht vor einem Haufen Probleme. Kann da heute im Koalitionsausschuss etwas Gutes herauskommen?"
         }
       ],
       "error": null
