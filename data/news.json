@@ -1,13 +1,44 @@
 {
-  "generatedAt": "2026-11-18T09:42:36+00:00",
+  "generatedAt": "2026-11-18T18:37:56+00:00",
   "feeds": [
     {
       "id": "tagesschau",
       "name": "Tagesschau",
       "site": "https://www.tagesschau.de",
       "url": "https://www.tagesschau.de/index~rss2.xml",
-      "items": [],
-      "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
+      "items": [
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686060.html",
+          "published": "2026-11-18T18:35:39+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-18T18:14:51+00:00",
+          "summary": "Donnerstag breiten sich teilweise kräftige Regenfälle aus der Südwesthälfte in den Norden und Osten aus. Dahinter locket es auf und es folgen Schauer. Dabei ist es windig bis stürmisch. 4 bis 14 Grad."
+        },
+        {
+          "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
+          "link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
+          "published": "2026-11-18T18:11:40+00:00",
+          "summary": "Trotz Vorbehalten einiger Progressiver haben die US-Demokraten ihren Fraktionschef Jeffries für den Vorsitz des US-Repräsentantenhauses nominiert. Als solcher könnte er auch Untersuchungen gegen die …"
+        },
+        {
+          "title": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
+          "published": "2026-11-18T18:02:26+00:00",
+          "summary": "Die Ukraine braucht dringend Geld - den Großteil soll die EU nach Willen der Kommission übernehmen. Für die Rückzahlung sollen künftige russische Reparationen genutzt werden. Doch einige …"
+        },
+        {
+          "title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
+          "published": "2026-11-18T17:55:38+00:00",
+          "summary": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?"
+        }
+      ],
+      "error": null
     },
     {
       "id": "handelsblatt",
@@ -16,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Dreiergipfel: Trump erwartet Gespräche über Ukraine und Taiwan mit Putin und Xi",
-          "link": "https://www.handelsblatt.com/video/politik/dreiergipfel-trump-erwartet-gespraeche-ueber-ukraine-und-taiwan-mit-putin-und-xi/100270705.html",
-          "published": "2026-11-18T16:00:00+00:00",
-          "summary": "Vor dem Dreiergipfel mit China und Russland hat sich US-Präsident Trump mit den Staats- und Regierungschefs von Indien, Japan und Australien getroffen. Der chinesische Präsident Xi hatte die …"
+          "title": "Geldpolitik: US-Notenbanker Waller dringt auf kräftige Zinserhöhung",
+          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-us-notenbanker-waller-dringt-auf-kraeftige-zinserhoehung/100271048.html",
+          "published": "2026-11-18T17:46:33+00:00",
+          "summary": "Einen Zinsschritt um 0,5 Prozentpunkte fordert der Fed-Notenbanker nicht zum ersten Mal. Er fürchtet, dass sich Firmen zu sehr an die aktuelle erhöhte Inflation gewöhnen."
         },
         {
-          "title": "Dax aktuell: Dax notiert unverändert – Ölpreis sinkt",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-unveraendert-oelpreis-sinkt/100270820.html",
-          "published": "2026-11-18T09:25:53+00:00",
-          "summary": "Nach den deutlichen Verlusten vom Dienstag zeigt sich der deutsche Leitindex zurückhaltend. Im Fokus stehen neue Inflationsdaten und die geopolitischen Gespräche am Rande des Apec-Gipfels."
+          "title": "Präsidentschaftskandidat: Istanbuls Ex-Bürgermeister Imamoglu mit Politikverbot belegt",
+          "link": "https://www.handelsblatt.com/politik/international/praesidentschaftskandidat-istanbuls-ex-buergermeister-imamoglu-mit-politikverbot-belegt/100271047.html",
+          "published": "2026-11-18T17:42:58+00:00",
+          "summary": "Ekrem Imamoglu sitzt in Untersuchungshaft, bei der nächsten Wahl will er gegen Präsident Erdogan antreten. Ein neues Urteil könnte die Pläne der Opposition allerdings durchkreuzen."
         },
         {
-          "title": "Verteidigung: Eine Drohne wie ein Kampfjet: So lockt General Atomics die Bundeswehr",
-          "link": "https://www.handelsblatt.com/politik/international/verteidigung-general-atomics-will-bundeswehr-jagdbomberdrohnen-liefern/100268803.html",
-          "published": "2026-11-18T09:19:01+00:00",
-          "summary": "Das US-Unternehmen bietet der deutschen Luftwaffe eine völlig neue Generation von Drohnen an. Die Konkurrenten Helsing, Airbus und Rheinmetall müssen sich sputen, um zum Zuge zu kommen."
+          "title": "Brasilien: Isoliert lebende Indigene erscheinen in Amazonasdorf",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/brasilien-isoliert-lebende-indigene-erscheinen-in-amazonasdorf/100271049.html",
+          "published": "2026-11-18T17:39:33+00:00",
+          "summary": "Eine Gruppe von rund 20 Indigenen eines brasilianischen Volkes hat überraschend ihre Isolation kurzzeitig verlassen. Was könnte sie aus dem Regenwald getrieben haben?"
         },
         {
-          "title": "Märkte: Risiko für die Finanzstabilität: EZB mahnt vor Stimmungswende im KI-Sektor",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-euro-notenbank-mahnt-vor-stimmungswende-im-ki-sektor/100268686.html",
-          "published": "2026-11-18T09:11:26+00:00",
-          "summary": "Die Märkte funktionieren bislang geordnet, bilanziert die EZB. Sie warnt in ihrem neuen Finanzstabilitätsbericht aber davor, dass „ambitionierte Gewinnerwartungen“ überzogen sein könnten."
+          "title": "Koalitionsausschuss: Nach der Einigung der Koalition: So stark werden die Steuerzahler 2027 entlastet",
+          "link": "https://www.handelsblatt.com/politik/deutschland/steuern-kompromiss-der-koalition-bringt-familien-bis-zu-552-euro-entlastung/100270934.html",
+          "published": "2026-11-18T17:32:42+00:00",
+          "summary": "Union und SPD haben sich im Steuerstreit geeinigt. Berechnungen für das Handelsblatt zeigen, wie sich die Beschlüsse für Steuerzahler und Stromverbraucher auswirken."
         },
         {
-          "title": "Gastkommentar: Abschluss in Etappen – Wie Ungelernte zu Fachkräften werden",
-          "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-abschluss-in-etappen-wie-ungelernte-zu-fachkraeften-werden/100269994.html",
-          "published": "2026-11-18T09:11:09+00:00",
-          "summary": "Fast jeder fünfte junge Erwachsene hat keinen Berufsabschluss. Es ist höchste Zeit für flexible Alternativen zum traditionellen Ausbildungssystem, mahnt Multiaufsichtsrätin Ariane Reinhart."
+          "title": "Märkte Insight: Vorsicht, die Renditen steigen wieder",
+          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-vorsicht-die-renditen-steigen-wieder/100269631.html",
+          "published": "2026-11-18T17:31:20+00:00",
+          "summary": "Die Turbulenzen am Anleihemarkt sind noch nicht ausgestanden. Höhere Zinsen werden zum Dauerproblem für die Börsen, warnt Michael Maisch."
         }
       ],
       "error": null
@@ -55,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Kooperation vereinbart: Deutscher Rüstungskonzern MBDA will Waffen ins All bringen",
-          "link": "https://www.n-tv.de/wirtschaft/Deutscher-Ruestungskonzern-MBDA-will-Waffen-ins-All-bringen-id31546416.html",
-          "published": "2026-11-18T09:22:34+00:00",
-          "summary": "Die Stationierung von Militärgerät im Weltall ist umstritten: Die beiden deutschen Unternehmen, der Konzern MBDA und die Atmos Space Cargo GmbH, wollen nun genau in diesem Bereich zusammenarbeiten."
+          "title": "Folge ukrainischer Angriffe: Insider: Russlands Ölverarbeitung bricht massiv ein",
+          "link": "https://www.n-tv.de/wirtschaft/Insider-Russlands-Oelverarbeitung-bricht-massiv-ein-id31550107.html",
+          "published": "2026-11-18T17:53:48+00:00",
+          "summary": "Fast täglich schlagen ukrainische Drohnen in russischen Raffinerien ein. Viele der großen Anlagen stehen still oder arbeiten nur eingeschränkt. Die verarbeitete Rohölmenge sinkt laut Insidern allein …"
         },
         {
-          "title": "Nach Zwischenfällen: Waymo stoppt autonome Fahrten auf US-Autobahnen",
-          "link": "https://www.n-tv.de/wirtschaft/Waymo-stoppt-autonome-Fahrten-auf-US-Autobahnen-id31546206.html",
-          "published": "2026-11-18T05:29:15+00:00",
-          "summary": "Autonomes Fahren wird als der nächste große Hype angesehen. Zwischenfälle bremsen die Technik jedoch aus. In den USA werden einem Anbieter nun Fahrten auf Autobahnen verboten. Zuvor hatten mehrere …"
+          "title": "Dritthöchste Schulden in EU: EZB zählt Defizit-Sorgenkind Frankreich an",
+          "link": "https://www.n-tv.de/wirtschaft/EZB-zaehlt-Defizit-Sorgenkind-Frankreich-an-id31550197.html",
+          "published": "2026-11-18T17:53:23+00:00",
+          "summary": "Die riesigen Investitionen in künstliche Intelligenz sind zunächst Wirtschaftstreiber. Zuletzt sorgen die Unsummen jedoch für viel Skepsis. Der EZB bereitet auch ein zweiter Umstand Sorgen: die hohen …"
         },
         {
-          "title": "US-Börsen geben nach: Zinssorgen und Tech-Schwäche ziehen Dow Jones nach unten",
-          "link": "https://www.n-tv.de/wirtschaft/Zinssorgen-und-Tech-Schwaeche-ziehen-Dow-Jones-nach-unten-id31545844.html",
-          "published": "2026-11-17T22:55:07+00:00",
-          "summary": "Zum vierten Mal in Folge schließen die US-Börsen mit Verlusten. Aktuelle Pläne der US-Regierung sowie erwartete Quartalszahlen von Nvidia sorgen bei den Anlegern für eine angespannte Stimmung."
+          "title": "Der Börsen-Tag: Nvidia verbreitet gute Laune an der Wall Street",
+          "link": "https://www.n-tv.de/wirtschaft/Nvidia-verbreitet-gute-Laune-an-der-Wall-Street-id31548778.html",
+          "published": "2026-11-18T13:28:10+00:00",
+          "summary": ""
         },
         {
-          "title": "Trotz glänzender Zahlen: Nvidia will Ex-Chef Huang nicht zurückholen",
-          "link": "https://www.n-tv.de/wirtschaft/Nvidia-will-Ex-Chef-Huang-nicht-zurueckholen-id31545824.html",
-          "published": "2026-11-17T22:27:17+00:00",
-          "summary": "Mitten in der Führungskrise legt Nvidia überraschend starke Zahlen vor. Die sind noch unter dem zurückgetretenen Konzernchef Huang zustande gekommen. Der wäre auch zu einer Rückkehr bereit, doch der …"
+          "title": "Mit chinesischer KI-Firma: Uber startet Robotaxi-Pilotprojekt in München",
+          "link": "https://www.n-tv.de/wirtschaft/Robotaxis-fahren-kostenlos-durch-Muenchen-id31547212.html",
+          "published": "2026-11-18T11:06:09+00:00",
+          "summary": "In den USA, China und den Vereinigten Arabischen Emiraten sind selbstfahrende Taxis längst Normalität. Nun fahren auch in München die ersten Autos selbstständig durch die Stadt - zunächst jedoch noch …"
         },
         {
-          "title": "Ikea und Air France betroffen: Cyberattacken auf fast 200 namhafte Websites",
-          "link": "https://www.n-tv.de/wirtschaft/Ikea-BBC-und-Air-France-Opfer-von-Cyberangriffen-gegen-Apple-Nutzer-geworden-id31545635.html",
-          "published": "2026-11-17T20:34:57+00:00",
-          "summary": "Hacker haben Berichten zufolge versucht, über stark genutzte Websites von Unternehmen die Finanzdaten von Apple-Nutzern zu klauen. Die Geräte sollten mit schädlichen Codes infiziert werden. Der …"
+          "title": "Jobabbau in Industrie: Zahl der Erwerbstätigen sinkt im Sommer erneut leicht",
+          "link": "https://www.n-tv.de/wirtschaft/Zahl-der-Erwerbstaetigen-sinkt-im-Sommer-erneut-leicht-id31547387.html",
+          "published": "2026-11-18T10:38:08+00:00",
+          "summary": "Seit mehreren Quartalen sinkt die Zahl der Erwerbstätigen in Deutschland kontinuierlich. Dieser Negativtrend setzt sich auch zwischen Juli und September dieses Jahres fort. Zumindest in einem …"
         }
       ],
       "error": null
@@ -102,34 +133,34 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Wenig Bewegung beim DAX",
+          "title": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
-          "published": "2026-11-18T09:32:04+00:00",
-          "summary": "Starke Zahlen des US-Chipherstellers Nvidia bringen nicht den erhofften Befreiungsschlag. Tech-Sorgen belasten auch weiter den Aktienmarkt."
+          "published": "2026-11-18T17:45:45+00:00",
+          "summary": "Das Rekordhoch der vergangenen Woche ist längst wieder passé. Der Leitindex DAX endet mit einem deutlichen Minus und fällt bis auf 25.736 Punkte. Da helfen auch gute Zahlen aus der Industrie nichts."
+        },
+        {
+          "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
+          "published": "2026-11-18T15:36:01+00:00",
+          "summary": "Die Bundesregierung schlägt Markus Brunnermeier als nächsten Chefvolkswirt der Europäischen Zentralbank vor. Der Posten gilt als einflussreich, wenn es um geldpolitische Entscheidungen der Notenbank …"
+        },
+        {
+          "title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
+          "published": "2026-11-18T13:48:13+00:00",
+          "summary": "Die Deutsche Bank bemüht sich nach dem XXL-Datenleak um Schadensbegrenzung. Anleger gehen auf Nummer sicher und verkaufen weiter ihre Aktien."
+        },
+        {
+          "title": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html",
+          "published": "2026-11-18T10:17:57+00:00",
+          "summary": "Nach dem Rücktritt von Jensen Huang hat die Nvidia-Aktie massiv an Wert verloren. Weil sie im MSCI World gelistet ist, betrifft das viele ETF-Sparer. Wie schwer der Kursrutsch wiegt - und wo jetzt …"
         },
         {
           "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
           "published": "2026-11-18T04:02:36+00:00",
           "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht …"
-        },
-        {
-          "title": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
-          "published": "2026-11-17T13:08:30+00:00",
-          "summary": "Aktien der Deutschen Bank fallen deutlich. Grund dafür ist ein Datenleck, das Millionen interner Papiere offengelegt haben soll, in denen unter anderem von Geldwäsche die Rede ist. Das Bankhaus …"
-        },
-        {
-          "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html",
-          "published": "2026-11-16T11:22:36+00:00",
-          "summary": "Der Goldpreis und die Kryptowährung Bitcoin fallen zum Wochenauftakt überdurchschnittlich. Gold ist so günstig wie seit gut einem Jahr nicht und der Bitcoin hat in diesem Jahr rund ein Drittel an …"
-        },
-        {
-          "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
-          "published": "2026-11-13T13:00:43+00:00",
-          "summary": "In Deutschland wurden im August so viele Unternehmensinsolvenzen registriert wie seit 13 Jahren nicht mehr. Die Pleitewelle dürfte weitergehen, meinen Experten. Gleichzeitig wird aber auch mehr …"
         }
       ],
       "error": null
@@ -141,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Staatsanleihen: Wie hoch sind die Renditen für 30-jährige Bundesanleihen aktuell?",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/staatsanleihen-wie-hoch-sind-die-renditen-fuer-30-jaehrige-bundesanleihen/100261947.html",
-          "published": "2026-11-18T09:29:56+00:00",
-          "summary": "Für Anleger, denen Aktien zu riskant sind, können Staatsanleihen eine Alternative sein. Für anfallende Zins- und Rückzahlungen haftet das jeweilige Land."
+          "title": "Cyber-Sicherheit: Warnung vor Sicherheitslücken in Programmiersprache Java",
+          "link": "https://www.wiwo.de/politik/ausland/sicherheitsluecken-in-java-behoerden-warnen-vor-schwachstellen-in-programmiersprache/100271044.html",
+          "published": "2026-11-18T18:23:49+00:00",
+          "summary": "Verschiedene Technik-Pannen bestimmten in den letzten Tagen die Schlagzeilen, nun warnen verschiedene Behörden weltweit vor Schwachstellen in Java."
         },
         {
-          "title": "EU-Finanzen: „Deutschlands EU-Beitrag ist die Investition in seinen größten Exportmarkt“",
-          "link": "https://www.wiwo.de/politik/europa/eu-finanzen-deutschlands-eu-beitrag-ist-die-investition-in-seinen-groessten-exportmarkt/100270642.html",
-          "published": "2026-11-18T09:25:00+00:00",
-          "summary": "EU-Regionalpräsidentin Kata Tüttő argumentiert gegen die geplanten Kürzungen im nächsten EU‑Budget, vor allem für Landwirtschaft und Regionalförderung."
+          "title": "Ukraine-Krieg: Drohnenangriffe lassen offenbar russische Ölverarbeitung einbrechen",
+          "link": "https://www.wiwo.de/politik/europa/russische-oelverarbeitung-ukrainische-drohnenangriffe-lassen-betrieb-einbrechen/100271038.html",
+          "published": "2026-11-18T17:16:51+00:00",
+          "summary": "Die Ukraine halbiert Russlands Raffinerieleistung mit schweren Angriffen beinahe. Der Druck auf den weltweiten Kraftstoffmarkt könnte weiter steigen."
         },
         {
-          "title": "Schuldenpolitik: Wie hoch sind die Staatsschulden Deutschlands?",
-          "link": "https://www.wiwo.de/politik/konjunktur/schuldenpolitik-wie-hoch-sind-die-staatsschulden-von-deutschland/100261982.html",
-          "published": "2026-11-18T09:13:34+00:00",
-          "summary": "Lange waren die deutschen Staatsschulden stabil, zeitweise sogar rückläufig. Doch seit einigen Jahren steigen die Schulden der Bundesrepublik wieder."
+          "title": "Größter Banken-Leak: Datenschutzaufsicht leitet Untersuchung gegen Deutsche Bank ein",
+          "link": "https://www.wiwo.de/unternehmen/banken/untersuchung-datenschutzaufsicht-leitet-verfahren-gegen-deutsche-bank-ein/100271033.html",
+          "published": "2026-11-18T17:15:50+00:00",
+          "summary": "Rund 15 Millionen interne Dokumente des Geldhauses wurden bekannt. Nun untersucht der hessische Datenschutzbeauftragte, ob die Deutsche Bank gegen die DSGVO verstoßen hat."
         },
         {
-          "title": "Recruiting: So viel Einsatz verlangt Anthropic von seinen Mitarbeitern",
-          "link": "https://www.wiwo.de/erfolg/management/anthropic-bewerbung-warum-der-ki-pionier-talente-abschreckt/100270339.html",
-          "published": "2026-11-18T09:11:34+00:00",
-          "summary": "Der KI-Anbieter Anthropic setzt bei der Personalauswahl auf Abschreckung, um die besten Talente zu bekommen. Kann das wirklich funktionieren?"
+          "title": "Markus Brunnermeier: Warum der EZB-Posten für Deutschland so wichtig ist",
+          "link": "https://www.wiwo.de/politik/europa/warum-es-so-wichtig-ist-dass-deutschland-den-ezb-chefoekonomen-stellt/100270643.html",
+          "published": "2026-11-18T17:12:59+00:00",
+          "summary": "Lange hat es gedauert, bis die Bundesregierung ihren Kandidaten für den Chefökonomenposten in der EZB nominierte. Sie unterschätzt, wie einflussreich die Position ist."
         },
         {
-          "title": "Arbeitsmarkt: So hoch ist die Zahl der gemeldeten Arbeitsstellen jährlich",
-          "link": "https://www.wiwo.de/politik/konjunktur/arbeitsmarkt-so-hoch-ist-die-zahl-der-gemeldeten-arbeitsstellen-jaehrlich/100261776.html",
-          "published": "2026-11-18T09:07:10+00:00",
-          "summary": "Die Zahl der gemeldeten Arbeitsstellen ist Grundlage für den Stellenindex BA-X. Wie viele offene Stellen werden jährlich der Agentur für Arbeit gemeldet?"
+          "title": "Destinus: Die niederländische Firma, die half, die Krim-Brücke zu Fall zu bringen",
+          "link": "https://www.wiwo.de/unternehmen/industrie/destinus-die-niederlaendische-firma-die-half-die-krim-bruecke-zu-fall-zu-bringen/100271030.html",
+          "published": "2026-11-18T17:03:13+00:00",
+          "summary": "Beim Schlag gegen die Krim-Brücke setzte die Ukraine nur Waffen aus eigener Entwicklung ein – und zwei Systeme einer niederländischen Firma, die auch hierzulande große Pläne hat."
         }
       ],
       "error": null
@@ -180,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
-          "link": "https://www.ingenieur.de/stuttgart-21-warum-der-bonatzbau-schwieriger-zu-sanieren-war-als-gedacht-8e5760d2-7a53-4d34-bc33-462adcbe51c8/",
-          "published": "2026-11-17T07:20:24+00:00",
-          "summary": "Alte Baupläne, Kriegsschäden und ein Fassadeneinsturz: Warum die Sanierung des Bonatzbaus so schwierig war. Jetzt öffnet die Schalterhalle."
+          "title": "Neuer Wasserstoff-Katalysator übersteht Tausende Lastwechsel",
+          "link": "https://www.ingenieur.de/neuer-wasserstoff-katalysator-uebersteht-tausende-lastwechsel-c6425050-89de-475f-ac7a-9dd90b11c058/",
+          "published": "2026-11-18T16:00:00+00:00",
+          "summary": "Ein Lithium-Katalysator senkt im Labortest die Zellspannung eines Wasserstoff-Elektrolyseurs. Selbst bei Tausenden Start-Stopp-Zyklen bleibt die Degradation gering."
         },
         {
-          "title": "63.000 Sensoren sollen das größte Rätsel des Urknalls lösen",
-          "link": "https://www.ingenieur.de/63-000-sensoren-sollen-das-groesste-raetsel-des-urknalls-loesen-c794d4d0-0de3-47cc-b1be-e8a9d3f7175d/",
-          "published": "2026-11-17T06:47:39+00:00",
-          "summary": "63.000 supraleitende Sensoren suchen nach Spuren des Urknalls. Das Simons Observatory liefert erste Ergebnisse und übertrifft teilweise Planck."
+          "title": "SCHUNK-Spin-off für Roboterhände geht nach München",
+          "link": "https://www.ingenieur.de/roboterhaende-was-steckt-hinter-dem-tech-spin-off-schunk-humanoid-robotics-gmbh-6c4834f3-4900-479f-9424-9789cfc8e67a/",
+          "published": "2026-11-18T15:30:00+00:00",
+          "summary": "Schunks Robotik-Spin-off heißt jetzt Tactilia. Es entwickelt Hände für wechselnde Industrieaufgaben. Ob dafür ein humanoider Roboter nötig ist, entscheidet die Anwendung – die technische …"
         },
         {
-          "title": "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
-          "link": "https://www.ingenieur.de/1516-betonplatten-ein-125-t-kran-wandert-ueber-eisenbahnbruecken-0e6e2a66-6b58-489a-86bc-a5079d3b04f5/",
-          "published": "2026-11-16T17:59:48+00:00",
-          "summary": "Ein 125 t schwerer Portalkran soll in Birmingham 1516 Betonplatten auf Eisenbahnviadukten verlegen. Einzelne Fertigteile wiegen bis zu 19 t."
+          "title": "Bauvergaben in NRW: Neun von zehn Zuschlägen ohne Summe",
+          "link": "https://www.ingenieur.de/bauvergaben-in-nrw-neun-von-zehn-zuschlaegen-ohne-summe-1b8584b9-5c1d-4a18-adf9-411019ee8478/",
+          "published": "2026-11-18T15:00:00+00:00",
+          "summary": "Wie prüfbar sind kommunale Vergaben nach dem Wegfall der Wertgrenzen in Nordrhein-Westfalen? Eine Auswertung von 26.390 Bekanntmachungen."
         },
         {
-          "title": "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
-          "link": "https://www.ingenieur.de/messe-stuttgart-kauft-logimat-veranstalter-und-einen-ganzen-fachverlag-d61a9dd0-6a8d-4bd6-af8a-5252c4f188ae/",
-          "published": "2026-11-16T17:25:09+00:00",
-          "summary": "Messe Stuttgart übernimmt den LogiMAT-Veranstalter EUROEXPO und den HUSS-Verlag. Was hinter dem Kauf steckt und was sich für die Logistikbranche ändert."
+          "title": "Wertschätzung fast so wichtig wie Gehalt: Was Beschäftigte in KMU erwarten",
+          "link": "https://www.ingenieur.de/was-beschaftigten-in-kmu-am-arbeitsplatz-wirklich-wichtig-ist-e1222d53-799e-46e7-b958-15b39689166a/",
+          "published": "2026-11-18T14:30:00+00:00",
+          "summary": "Gehalt, Jobsicherheit oder Anerkennung? Eine Studie zeigt, welche fünf Faktoren Beschäftigten in kleinen und mittleren Unternehmen besonders wichtig sind."
         },
         {
-          "title": "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
-          "link": "https://www.ingenieur.de/nur-30-m-abstand-dlr-jet-jagt-passagierflugzeug-fuer-klimaexperiment-0d73be42-3878-40f5-b6cc-798e5fa1cfe8/",
-          "published": "2026-11-16T13:07:03+00:00",
-          "summary": "Nur 30 m Abstand bei 700 km/h: Das DLR misst Abgase hinter einem Passagierjet. Schwefelarmes Kerosin liefert erste überraschende Ergebnisse."
+          "title": "Trotz ERP und KI: Warum Unternehmen noch immer so viel von Hand erledigen",
+          "link": "https://www.ingenieur.de/trotz-erp-und-ki-warum-unternehmen-noch-immer-so-viel-von-hand-erledigen-1943300e-5ee0-410e-85ab-18a6cb3c41ee/",
+          "published": "2026-11-18T14:00:00+00:00",
+          "summary": "Trotz ERP und KI bleibt viel Handarbeit: Nur 8 % der Unternehmen arbeiten überwiegend automatisiert. Eine Studie zeigt die Ursachen."
         }
       ],
       "error": null
