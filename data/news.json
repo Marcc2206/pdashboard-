@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:41:47+00:00",
+  "generatedAt": "2026-11-19T09:51:18+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-          "published": "2026-11-19T01:06:22+00:00",
-          "summary": "Die italienische Bank und deren Chef Orcel sind bei der Übernahme der Commerzbank einen wichtigen Schritt weiter - die Bundesregierung einigte sich mit UniCredit."
+          "title": "ARD-Reporter zum Dreiertreffen in China",
+          "link": "https://www.tagesschau.de/video/video-1685800.html",
+          "published": "2026-11-19T09:49:20+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Liveblog zum APEC-Gipfel: ++ Gipfel mit Xi, Trump und Putin hat begonnen ++",
+          "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
+          "published": "2026-11-19T09:33:28+00:00",
+          "summary": "Beim Gipfel der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (APEC) hat das Treffen von Chinas Präsident Xi, US-Präsident Trump und Russlands Präsident Putin begonnen. Zuvor hatte es Zweiergespräche …"
+        },
+        {
+          "title": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
+          "published": "2026-11-19T09:31:32+00:00",
+          "summary": "Der DAX startet nach den gestrigen Kursverlusten einen Erholungsversuch und legt im frühen Handel zu. Der Optimismus vor dem Anthropic-Börsengang in den USA macht Anleger mutiger."
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686220.html",
-          "published": "2026-11-19T00:54:14+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686346.html",
+          "published": "2026-11-19T09:30:35+00:00",
           "summary": ""
         },
         {
-          "title": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
-          "link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
-          "published": "2026-11-18T23:33:32+00:00",
-          "summary": "Es gilt schon vorab als historisch - das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel in Shenzhen. Doch die Positionen der drei Präsidenten bei den Themen atomare Abrüstung, Iran …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-82102.html",
-          "published": "2026-11-18T23:27:38+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12992.html",
-          "published": "2026-11-18T22:16:34+00:00",
-          "summary": ""
+          "title": "Verteidigungsminister Pistorius wirbt in Polen für mehr Zusammenarbeit",
+          "link": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html",
+          "published": "2026-11-19T09:27:34+00:00",
+          "summary": "In Sicherheitsfragen arbeiten Polen und Deutschland eng zusammen, doch die Beziehung ist historisch belastet. Mit seinem zweitägigen Besuch will Verteidigungsminister Pistorius im Nachbarland für …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Kinder im Krieg: 589 Millionen Kinder in Konfliktgebieten - neuer Höchststand",
-          "link": "https://www.handelsblatt.com/politik/international/kinder-im-krieg-589-millionen-kinder-in-konfliktgebieten-neuer-hoechststand/100271090.html",
-          "published": "2026-11-19T01:18:09+00:00",
-          "summary": "In Gaza und der Ukraine, im Sudan und im Kongo - noch nie haben so viele Kinder und Jugendliche weltweit in Konfliktgebieten gelebt. Das geht aus einem Bericht einer Kinderschutzorganisation hervor."
+          "title": "Sicherheit: Hackerangriffe werden durch KI schneller und wirkungsvoller – so schützen sich Unternehmen",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/sicherheit-so-schuetzen-sich-unternehmen-gegen-ki-gestuetzte-hackerangriffe/100266917.html",
+          "published": "2026-11-19T09:40:51+00:00",
+          "summary": "Cyberkriminelle erhöhen die Wirksamkeit ihrer Angriffe mit Künstlicher Intelligenz. IT-Verantwortliche in Unternehmen müssen umdenken und neue Schutzmaßnahmen ergreifen."
         },
         {
-          "title": "Künstliche Intelligenz: KI-Firma Anthropic schafft Rekord-Börsengang",
-          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-firma-anthropic-schafft-rekord-boersengang/100271093.html",
-          "published": "2026-11-19T00:17:09+00:00",
-          "summary": "Die Nachfrage beim Börsengang von Anthropic war so groß, dass die KI-Firma sogar mehr Aktien zum Verkauf anbot. Nun ist es der bisher größte Börsengang geworden."
+          "title": "Atommächte: Dreiertreffen Xi, Trump und Putin gestartet",
+          "link": "https://www.handelsblatt.com/politik/international/atommaechte-dreiertreffen-xi-trump-und-putin-gestartet/100271097.html",
+          "published": "2026-11-19T09:32:57+00:00",
+          "summary": "Es ist ein historisches Treffen. Die drei Staatschefs aus China, den USA und Russland saßen bislang nie exklusiv an einem Tisch."
         },
         {
-          "title": "„Grand Theft Auto VI“: Computerspiel GTA 6 ist in Deutschland verfügbar",
-          "link": "https://www.handelsblatt.com/technik/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html",
-          "published": "2026-11-18T23:54:46+00:00",
-          "summary": "Seit Tagen konnten Vorbesteller GTA 6 auf ihre Konsolen laden, jetzt wird das Videospiel nach und nach rund um die Welt spielbar. Nun sind auch Gamer in Deutschland dabei."
+          "title": "Offener Renner: Sturmwarnung: Lamborghini Temerario kommt auch als Spyder",
+          "link": "https://www.handelsblatt.com/mobilitaet/motor/offener-renner-sturmwarnung-lamborghini-temerario-kommt-auch-als-spyder/100271205.html",
+          "published": "2026-11-19T09:28:29+00:00",
+          "summary": "Dach runter, Mundwinkel rauf: Als wäre der Lamborghini Temerario nicht schon emotional genug, kommt der Sportler auch als stürmischer Spyder. Aber wie das Auto ist auch der Preis nach oben offen."
         },
         {
-          "title": "Nach langem Warten: Computerspiel GTA 6 ist in Deutschland verfügbar",
-          "link": "https://www.handelsblatt.com/technik/it-internet/nach-langem-warten-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271084.html",
-          "published": "2026-11-18T23:41:51+00:00",
-          "summary": "Seit Tagen konnten Vorbesteller GTA 6 auf ihre Konsolen laden, jetzt wird das mit Spannung erwartete Videospiel nach und nach rund um die Welt spielbar. Nun sind auch Gamer in Deutschland dabei."
+          "title": "Metall- und Elektroindustrie: IG Metall startet ganztägige Warnstreiks",
+          "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-ig-metall-startet-ganztaegige-warnstreiks/100271206.html",
+          "published": "2026-11-19T09:27:19+00:00",
+          "summary": "In der Metall- und Elektroindustrie kommen die Verhandlungen nicht voran. Nun legt die IG Metall ganze Schichten lahm – welche Betriebe betroffen sind und was die Gewerkschaft fordert."
         },
         {
-          "title": "Brasilien: Indigene zeigen sich am Waldrand und bitten um Nahrung",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/brasilien-indigene-zeigen-sich-am-waldrand-und-bitten-um-nahrung/100271049.html",
-          "published": "2026-11-18T23:30:04+00:00",
-          "summary": "Männer, Frauen und Kinder des Awá-Volkes tauchen mit Speeren und Halsketten am Rande des Regenwalds auf. Eine Menschenrechtsorganisation spricht von einem „beunruhigenden Zeichen“."
+          "title": "Renault Twingo E-Tech im Test: Charmantes Comeback des kleinen Franzosen",
+          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/e-auto-wie-alltagstauglich-ist-der-neue-renault-twingo/100267938.html",
+          "published": "2026-11-19T09:26:00+00:00",
+          "summary": "Renault bringt den Twingo zurück und schafft es, nicht nur optisch, an die guten alten Zeiten zu erinnern. Die neue E-Variante überzeugt mit einem guten Preis, gibt aber auch Rätsel auf."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "SpaceX-Rekord pulverisiert: Anthropic sammelt bei Börsengang 81 Milliarden Dollar ein",
-          "link": "https://www.n-tv.de/wirtschaft/Anthropic-sammelt-bei-Boersengang-81-Milliarden-Dollar-ein-id31550766.html",
+          "title": "100 Millionen Euro investiert: Telekom steigt bei europäischer KI-Hoffnung Mistral ein",
+          "link": "https://www.n-tv.de/wirtschaft/Telekom-steigt-bei-europaeischer-KI-Hoffnung-Mistral-ein-id31551993.html",
+          "published": "2026-11-19T08:55:24+00:00",
+          "summary": "Das in Frankreich beheimatete Startup Mistral ist die europäische Hoffnung im Bereich Künstlicher Intelligenz. Die Telekom steigt in der jüngsten Finanzierungsrunde nun mit 100 Millionen Euro bei dem …"
+        },
+        {
+          "title": "\"Wir müssen ihn zurückbringen\": Tech-Elite trommelt für Rückkehr Huangs zu Nvidia",
+          "link": "https://www.n-tv.de/wirtschaft/Tech-Elite-trommelt-fuer-Rueckkehr-Huangs-zu-Nvidia-id31551286.html",
+          "published": "2026-11-19T06:36:15+00:00",
+          "summary": "Nach Bekanntwerden mehrerer Affären - eine davon mit einer möglichen chinesischen Spionin - ist Firmen-Gründer Huang seinen Chefposten bei Nvidia los. Dass der Verwaltungsrat seine mögliche Rückkehr …"
+        },
+        {
+          "title": "Klingbeil: Gemeinsame Basis: Berlin macht Weg für Commerzbank-Übernahme durch Unicredit frei",
+          "link": "https://www.n-tv.de/wirtschaft/Berlin-macht-Weg-fuer-Commerzbank-Uebernahme-durch-Unicredit-frei-id31550967.html",
+          "published": "2026-11-19T04:32:45+00:00",
+          "summary": "Der Kampf um Deutschlands zweitgrößte Privatbank ist entschieden: Die Bundesregierung wird sich laut Finanzminister Klingbeil mit der italienischen Unicredit einig. Deren Chef Orcel macht acht …"
+        },
+        {
+          "title": "SpaceX-Rekord pulverisiert: Anthropic sammelt bei Börsengang 107,3 Milliarden Dollar ein",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-sammelt-bei-Boersengang-107-3-Milliarden-Dollar-ein-id31550766.html",
           "published": "2026-11-19T00:04:39+00:00",
-          "summary": "Anthropics Börsengang elektrisiert die Investoren: Die Nachfrage ist so groß, dass der KI-Entwickler mehr Aktien anbietet als geplant - und das zu einem höheren Preis als ursprünglich geplant. Damit …"
+          "summary": "Anthropics Börsengang elektrisiert die Investoren: Die Nachfrage ist so groß, dass der KI-Entwickler mehr Aktien anbietet als geplant - und das zu einem höheren Preis als avisiert. Damit nimmt das …"
         },
         {
           "title": "Deutlich höher als geplant: Berichte: Anthropic setzt Ausgabepreis auf 83 Dollar fest",
           "link": "https://www.n-tv.de/wirtschaft/Berichte-Anthropic-setzt-Ausgabepreis-auf-83-Dollar-fest-id31550683.html",
           "published": "2026-11-18T22:49:24+00:00",
           "summary": "Anthropic wird beim bevorstehenden Börsengang aller Voraussicht nach mehr Aktien verkaufen als ursprünglich geplant - und das zu einem höheren Preis als erwartet. Nach übereinstimmenden …"
-        },
-        {
-          "title": "Warten auf Anthropic: Glänzende Zahlen halten Nvidias Talfahrt nicht auf",
-          "link": "https://www.n-tv.de/wirtschaft/Glaenzende-Zahlen-halten-Nvidias-Talfahrt-nicht-auf-id31550687.html",
-          "published": "2026-11-18T22:25:37+00:00",
-          "summary": "Während die Wall Street auf Details zum Anthropic-Börsengang wartet, finden die US-Börsen keine gemeinsame Richtung. Bei Nvidia ist die Tendenz allerdings klar: Es geht weiter abwärts, daran ändern …"
-        },
-        {
-          "title": "Bewegung auf dem Paketmarkt: GLS und DPD wollen fusionieren und DHL mehr Konkurrenz machen",
-          "link": "https://www.n-tv.de/wirtschaft/GLS-und-DPD-wollen-fusionieren-und-DHL-mehr-Konkurrenz-machen-id31550359.html",
-          "published": "2026-11-18T18:50:16+00:00",
-          "summary": "Unter den Paketdiensten in Deutschland ist DHL Marktführer. Die beiden Wettbewerber GLS und DPD wollen nun ihre Kräfte bündeln und den Druck auf den Spitzenreiter erhöhen. Das Kartellamt muss der …"
-        },
-        {
-          "title": "Folge ukrainischer Angriffe: Insider: Russlands Ölverarbeitung bricht massiv ein",
-          "link": "https://www.n-tv.de/wirtschaft/Insider-Russlands-Oelverarbeitung-bricht-massiv-ein-id31550107.html",
-          "published": "2026-11-18T17:53:48+00:00",
-          "summary": "Fast täglich schlagen ukrainische Drohnen in russischen Raffinerien ein. Viele der großen Anlagen stehen still oder arbeiten nur eingeschränkt. Die verarbeitete Rohölmenge sinkt laut Insidern allein …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
-          "published": "2026-11-18T17:45:45+00:00",
-          "summary": "Das Rekordhoch der vergangenen Woche ist längst wieder passé. Der Leitindex DAX endet mit einem deutlichen Minus und fällt bis auf 25.736 Punkte. Da helfen auch gute Zahlen aus der Industrie nichts."
+          "title": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
+          "published": "2026-11-19T09:31:32+00:00",
+          "summary": "Der DAX startet nach den gestrigen Kursverlusten einen Erholungsversuch und legt im frühen Handel zu. Der Optimismus vor dem Anthropic-Börsengang in den USA macht Anleger mutiger."
         },
         {
           "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Börse USA: Euphorie der US-Anleger nach Nvidia-Zahlen hält nicht an",
-          "link": "https://www.wiwo.de/finanzen/boerse/boerse-usa-euphorie-der-us-anleger-nach-nvidia-zahlen-haelt-nicht-an/100271011.html",
-          "published": "2026-11-18T19:40:00+00:00",
-          "summary": "Unsicherheit vor dem Börsengang von Anthropic und nach den Quartalszahlen von Nvidia sorgen für einen holprigen Start. Der Nasdaq hat sich am Mittwoch aber stabilisiert."
+          "title": "Gehaltsreport 2026: So viel verdienen Vertriebler in den verschiedenen Branchen",
+          "link": "https://www.wiwo.de/erfolg/beruf/gehaltsreport-2026-in-diesen-branchen-verdienen-vertriebler-am-meisten/100263211.html",
+          "published": "2026-11-19T09:30:55+00:00",
+          "summary": "Mit allen Bonuszahlungen waren Verkäufer lange die absoluten Spitzenverdiener. Das hat sich geändert. Ist es ein Einbruch oder eine Normalisierung?"
         },
         {
-          "title": "Erste Kritiken: „GTA VI“ begeistert Kritiker – Take-Two mit Kurssprung",
-          "link": "https://www.wiwo.de/unternehmen/industrie/erste-kritiken-gta-vi-begeistert-kritiker-take-two-mit-kurssprung/100271056.html",
-          "published": "2026-11-18T19:29:23+00:00",
-          "summary": "Die positiven Kritiken für das neueste Spiel der Reihe „Grand Theft Auto“ helfen auch den Aktien von anderen Studios. Das Spiel wurde bereits rund 17 Millionen Mal verkauft."
+          "title": "Staatliche Beteiligung: Bund hält aus Sicherheitsinteresse an Telekom-Anteil fest",
+          "link": "https://www.wiwo.de/politik/deutschland/digitale-souveraenitaet-bund-haelt-aus-sicherheitsinteresse-an-telekom-anteil-fest/100271193.html",
+          "published": "2026-11-19T09:28:00+00:00",
+          "summary": "Die Monopolkommission hält die Beteiligung für nicht notwendig. Doch die Bundesregierung argumentiert mit digitaler Souveränität."
         },
         {
-          "title": "„Koalition der Willigen“: Merz empfängt Selenskyj und Ukraine-Verbündete in Berlin",
-          "link": "https://www.wiwo.de/politik/europa/koalition-der-willigen-merz-empfaengt-selenskyj-und-ukraine-verbuendete-in-berlin/100271053.html",
-          "published": "2026-11-18T18:53:33+00:00",
-          "summary": "Zwei bedeutende Gipfeltreffen an einem Tag: Kurz nach dem Dreiertreffen von Trump, Putin und Xi in Shenzhen kommen in Berlin die Verbündeten der Ukraine zusammen."
+          "title": "Spionagegefahr: „Entscheidend ist, in welchem Umfeld ein Fahrzeug eingesetzt wird“",
+          "link": "https://www.wiwo.de/unternehmen/dienstleister/bundeswehr-verbietet-china-autos-experte-ueber-spionagegefahr/100269046.html",
+          "published": "2026-11-19T09:26:28+00:00",
+          "summary": "Das Verbot chinesischer Autos auf Bundeswehr-Stützpunkten hält Cybersicherheitsexperte Stephan Blankenburg für richtig. Er warnt: Jedes vernetzte Produkt ist angreifbar."
         },
         {
-          "title": "Cyber-Sicherheit: Warnung vor Sicherheitslücken in Programmiersprache Java",
-          "link": "https://www.wiwo.de/politik/ausland/sicherheitsluecken-in-java-behoerden-warnen-vor-schwachstellen-in-programmiersprache/100271044.html",
-          "published": "2026-11-18T18:23:49+00:00",
-          "summary": "Verschiedene Technik-Pannen bestimmten in den letzten Tagen die Schlagzeilen, nun warnen verschiedene Behörden weltweit vor Schwachstellen in Java."
+          "title": "China und die USA: Die Präsidenten umarmen sich, während im Hintergrund der Tech-Krieg eskaliert",
+          "link": "https://www.wiwo.de/politik/ausland/usa-gegen-china-warum-der-tech-krieg-trotz-apec-gipfel-eskaliert/100271045.html",
+          "published": "2026-11-19T09:23:17+00:00",
+          "summary": "Xi Jinping und Donald Trump demonstrieren die Stabilität ihrer Beziehung. Dabei schaukelt sich der technologische Wettstreit im Hintergrund längst immer weiter hoch."
         },
         {
-          "title": "Ukraine-Krieg: Drohnenangriffe lassen offenbar russische Ölverarbeitung einbrechen",
-          "link": "https://www.wiwo.de/politik/europa/russische-oelverarbeitung-ukrainische-drohnenangriffe-lassen-betrieb-einbrechen/100271038.html",
-          "published": "2026-11-18T17:16:51+00:00",
-          "summary": "Die Ukraine halbiert Russlands Raffinerieleistung mit schweren Angriffen beinahe. Der Druck auf den weltweiten Kraftstoffmarkt könnte weiter steigen."
+          "title": "Bankübernahme: Bund einigt sich mit Unicredit bei Commerzbank-Übernahme",
+          "link": "https://www.wiwo.de/unternehmen/banken/commerzbank-bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig/100271151.html",
+          "published": "2026-11-19T09:22:00+00:00",
+          "summary": "Im Ringen um die Commerzbank hat der Bund mit der Unicredit eine Einigung erzielt. Sie enthält wichtige Punkte für deutsche Interessen."
         }
       ],
       "error": null
