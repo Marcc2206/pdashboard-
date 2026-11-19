@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:51:18+00:00",
+  "generatedAt": "2026-11-19T18:50:52+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "ARD-Reporter zum Dreiertreffen in China",
-          "link": "https://www.tagesschau.de/video/video-1685800.html",
-          "published": "2026-11-19T09:49:20+00:00",
-          "summary": ""
+          "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+          "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
+          "published": "2026-11-19T18:30:48+00:00",
+          "summary": "Beim Gipfel von Xi, Trump und Putin ging es um schöne Bilder und Schmeicheleien. Konkrete Politik? Fehlanzeige. Doch China gelang es, ein Thema zu setzen, das vor allem seinen Interessen und denen …"
         },
         {
-          "title": "Liveblog zum APEC-Gipfel: ++ Gipfel mit Xi, Trump und Putin hat begonnen ++",
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-19T18:28:11+00:00",
+          "summary": "Freitag gibt es in der Mitte zum Teil länger andauernde und ergiebige Regenfälle, m Süden windiges bis stürmisches Schauerwetter. Im Norden ist es dagegen teilweise sonnig. 4 bis 12 Grad."
+        },
+        {
+          "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
+          "published": "2026-11-19T18:22:57+00:00",
+          "summary": "Die \"Koalition der Willigen\" verspricht, der Ukraine \"so lange wie nötig\" zu helfen. Nach dem Gipfel in Berlin rief Kanzler Merz Russlands Präsident Putin auf, die Waffen niederzulegen. Einen Frieden …"
+        },
+        {
+          "title": "Liveticker zu Gipfeln: ++ Macron: NATO-Beitritt der Ukraine neu verhandeln ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
-          "published": "2026-11-19T09:33:28+00:00",
-          "summary": "Beim Gipfel der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (APEC) hat das Treffen von Chinas Präsident Xi, US-Präsident Trump und Russlands Präsident Putin begonnen. Zuvor hatte es Zweiergespräche …"
+          "published": "2026-11-19T18:21:46+00:00",
+          "summary": "Frankreichs Präsident Macron will erneut über einen Beitritt der Ukraine zur NATO sprechen. Der britische Premierminister Burnham sieht Europa nach entschlossenen Gesprächen bereit für Verhandlungen."
         },
         {
-          "title": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-          "published": "2026-11-19T09:31:32+00:00",
-          "summary": "Der DAX startet nach den gestrigen Kursverlusten einen Erholungsversuch und legt im frühen Handel zu. Der Optimismus vor dem Anthropic-Börsengang in den USA macht Anleger mutiger."
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686346.html",
-          "published": "2026-11-19T09:30:35+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Verteidigungsminister Pistorius wirbt in Polen für mehr Zusammenarbeit",
-          "link": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html",
-          "published": "2026-11-19T09:27:34+00:00",
-          "summary": "In Sicherheitsfragen arbeiten Polen und Deutschland eng zusammen, doch die Beziehung ist historisch belastet. Mit seinem zweitägigen Besuch will Verteidigungsminister Pistorius im Nachbarland für …"
+          "title": "Kompany zu Zusammenbruch: \"Es war ein Schock\"",
+          "link": "https://www.sportschau.de/regional/br/br-fc-bayern-trainer-kompany-zu-zusammenbruch-es-war-ein-schock-102.html",
+          "published": "2026-11-19T17:51:33+00:00",
+          "summary": "Nach seinem Zusammenbruch und einer Hirnhautreizung ist Vincent Kompany zurück. Vor seinem Comeback gegen Köln spricht der Bayern-Trainer offen über die wohl schwierigste Phase seiner Amtszeit: \"Es …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Sicherheit: Hackerangriffe werden durch KI schneller und wirkungsvoller – so schützen sich Unternehmen",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/sicherheit-so-schuetzen-sich-unternehmen-gegen-ki-gestuetzte-hackerangriffe/100266917.html",
-          "published": "2026-11-19T09:40:51+00:00",
-          "summary": "Cyberkriminelle erhöhen die Wirksamkeit ihrer Angriffe mit Künstlicher Intelligenz. IT-Verantwortliche in Unternehmen müssen umdenken und neue Schutzmaßnahmen ergreifen."
+          "title": "Buy now, pay later: Unzer sichert sich Finanzierungszusage über 200 Millionen Euro",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ratenkaeufe-unzer-erhaelt-finanzierungszusage-ueber-200-millionen-euro/100271191.html",
+          "published": "2026-11-19T18:34:06+00:00",
+          "summary": "Der deutsche Zahlungsdienstleister Unzer erhält von einem US-Investor frisches Fremdkapital, um das Geschäft mit Ratenkäufen auszubauen. Von Freitag an gelten für dieses Geschäft schärfere …"
         },
         {
-          "title": "Atommächte: Dreiertreffen Xi, Trump und Putin gestartet",
-          "link": "https://www.handelsblatt.com/politik/international/atommaechte-dreiertreffen-xi-trump-und-putin-gestartet/100271097.html",
-          "published": "2026-11-19T09:32:57+00:00",
-          "summary": "Es ist ein historisches Treffen. Die drei Staatschefs aus China, den USA und Russland saßen bislang nie exklusiv an einem Tisch."
+          "title": "Gipfel im Kanzleramt: Merz lästert über „Bildtermin“ von Trump, Putin und Xi",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gipfel-im-kanzleramt-merz-laestert-ueber-bildtermin-von-trump-putin-und-xi/100271270.html",
+          "published": "2026-11-19T18:26:36+00:00",
+          "summary": "Kurz nach dem Dreiertreffen der drei größten Atommächte in China kommen in Berlin die Verbündeten der Ukraine zu einer Art Gegengipfel zusammen. Sie wollen ein Diktat der Supermächte verhindern."
         },
         {
-          "title": "Offener Renner: Sturmwarnung: Lamborghini Temerario kommt auch als Spyder",
-          "link": "https://www.handelsblatt.com/mobilitaet/motor/offener-renner-sturmwarnung-lamborghini-temerario-kommt-auch-als-spyder/100271205.html",
-          "published": "2026-11-19T09:28:29+00:00",
-          "summary": "Dach runter, Mundwinkel rauf: Als wäre der Lamborghini Temerario nicht schon emotional genug, kommt der Sportler auch als stürmischer Spyder. Aber wie das Auto ist auch der Preis nach oben offen."
+          "title": "Ukraine-Koalition: Merz kritisiert Dreiergipfel von Shenzhen: „Wird den Frieden nicht bringen“",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-merz-kritisiert-gipfel-in-china-wird-frieden-nicht-bringen/100270859.html",
+          "published": "2026-11-19T18:20:34+00:00",
+          "summary": "Nach dem Treffen von Trump, Putin und Xi in China versammelt der Kanzler die Ukraine-Unterstützer in Berlin zum Gegengipfel. Die Botschaft an Putin und Trump war klar."
         },
         {
-          "title": "Metall- und Elektroindustrie: IG Metall startet ganztägige Warnstreiks",
-          "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-ig-metall-startet-ganztaegige-warnstreiks/100271206.html",
-          "published": "2026-11-19T09:27:19+00:00",
-          "summary": "In der Metall- und Elektroindustrie kommen die Verhandlungen nicht voran. Nun legt die IG Metall ganze Schichten lahm – welche Betriebe betroffen sind und was die Gewerkschaft fordert."
+          "title": "US-Börsen: US-Börsen rutschen nach Anthropic-IPO ins Minus",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-rutschen-nach-anthropic-ipo-ins-minus/100271288.html",
+          "published": "2026-11-19T18:20:00+00:00",
+          "summary": "Die Euphorie nach dem Börsengang des KI-Entwicklers hält nicht an. Alle wichtigen US-Indizes können ihren starken Handelsbeginn nicht fortsetzen. Anthropic zieht die Aufmerksamkeit auf sich."
         },
         {
-          "title": "Renault Twingo E-Tech im Test: Charmantes Comeback des kleinen Franzosen",
-          "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/e-auto-wie-alltagstauglich-ist-der-neue-renault-twingo/100267938.html",
-          "published": "2026-11-19T09:26:00+00:00",
-          "summary": "Renault bringt den Twingo zurück und schafft es, nicht nur optisch, an die guten alten Zeiten zu erinnern. Die neue E-Variante überzeugt mit einem guten Preis, gibt aber auch Rätsel auf."
+          "title": "Sachsen-Anhalt: Sondersitzung des Parlaments angesetzt: Siegmund kandidiert am 8. Dezember als Ministerpräsident",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-afd-erwaegt-ministerpraesidentenwahl-schon-am-8-dezember/100271210.html",
+          "published": "2026-11-19T18:01:23+00:00",
+          "summary": "Ulrich Siegmund braucht drei Stimmen aus anderen Fraktionen, um Ministerpräsident zu werden. Die CDU will den Saal verlassen, das BSW sich enthalten – wie er zur Mehrheit kommt, ist offen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "100 Millionen Euro investiert: Telekom steigt bei europäischer KI-Hoffnung Mistral ein",
-          "link": "https://www.n-tv.de/wirtschaft/Telekom-steigt-bei-europaeischer-KI-Hoffnung-Mistral-ein-id31551993.html",
-          "published": "2026-11-19T08:55:24+00:00",
-          "summary": "Das in Frankreich beheimatete Startup Mistral ist die europäische Hoffnung im Bereich Künstlicher Intelligenz. Die Telekom steigt in der jüngsten Finanzierungsrunde nun mit 100 Millionen Euro bei dem …"
+          "title": "Grüne fordern mehr Erneuerbare: Teures Gas könnte Strompreis im Winter um mehr als 60 Prozent verteuern",
+          "link": "https://www.n-tv.de/wirtschaft/Teures-Gas-koennte-Strompreis-im-Winter-um-mehr-als-60-Prozent-verteuern-id31555248.html",
+          "published": "2026-11-19T18:04:09+00:00",
+          "summary": "Das Merit-Order-Prinzip legt fest, dass sich der Strompreis über den Preis des teuersten Mix-Bestandteils berechnet. Da Gas im Winter benötigt wird und derzeit besonders teuer ist, könnten die Kosten …"
         },
         {
-          "title": "\"Wir müssen ihn zurückbringen\": Tech-Elite trommelt für Rückkehr Huangs zu Nvidia",
-          "link": "https://www.n-tv.de/wirtschaft/Tech-Elite-trommelt-fuer-Rueckkehr-Huangs-zu-Nvidia-id31551286.html",
-          "published": "2026-11-19T06:36:15+00:00",
-          "summary": "Nach Bekanntwerden mehrerer Affären - eine davon mit einer möglichen chinesischen Spionin - ist Firmen-Gründer Huang seinen Chefposten bei Nvidia los. Dass der Verwaltungsrat seine mögliche Rückkehr …"
+          "title": "Von British Gas bis Anthropic: Das sind die größten Börsengänge der Geschichte",
+          "link": "https://www.n-tv.de/wirtschaft/Das-sind-die-groessten-Boersengaenge-der-Geschichte-id31555467.html",
+          "published": "2026-11-19T18:01:09+00:00",
+          "summary": "Ende des 20. Jahrhunderts wird westliche Infrastruktur privatisiert, in den 2000ern sorgen chinesische Banken für Aufmerksamkeit. Bis zu Anthropics imponierenden Auftritt auf dem Börsenparkett weiß …"
         },
         {
-          "title": "Klingbeil: Gemeinsame Basis: Berlin macht Weg für Commerzbank-Übernahme durch Unicredit frei",
-          "link": "https://www.n-tv.de/wirtschaft/Berlin-macht-Weg-fuer-Commerzbank-Uebernahme-durch-Unicredit-frei-id31550967.html",
-          "published": "2026-11-19T04:32:45+00:00",
-          "summary": "Der Kampf um Deutschlands zweitgrößte Privatbank ist entschieden: Die Bundesregierung wird sich laut Finanzminister Klingbeil mit der italienischen Unicredit einig. Deren Chef Orcel macht acht …"
+          "title": "20 Investoren wollen übernehmen: Bericht: Fast jede zweite Galeria-Filiale könnte schließen",
+          "link": "https://www.n-tv.de/wirtschaft/Bericht-Fast-jede-zweite-Galeria-Filiale-koennte-schliessen-id31554516.html",
+          "published": "2026-11-19T17:57:06+00:00",
+          "summary": "Nach zahlreichen Insolvenzen ist die Zukunft der Warenhauskette Galeria noch immer ungewiss. Für eine Übernahme des Unternehmens gibt es dennoch zahlreiche Interessenten. Ohne Härten wird die Rettung …"
         },
         {
-          "title": "SpaceX-Rekord pulverisiert: Anthropic sammelt bei Börsengang 107,3 Milliarden Dollar ein",
-          "link": "https://www.n-tv.de/wirtschaft/Anthropic-sammelt-bei-Boersengang-107-3-Milliarden-Dollar-ein-id31550766.html",
-          "published": "2026-11-19T00:04:39+00:00",
-          "summary": "Anthropics Börsengang elektrisiert die Investoren: Die Nachfrage ist so groß, dass der KI-Entwickler mehr Aktien anbietet als geplant - und das zu einem höheren Preis als avisiert. Damit nimmt das …"
+          "title": "Rekord-Börsengang: Aktien von Anthropic legen bei Debüt um 34 Prozent zu",
+          "link": "https://www.n-tv.de/wirtschaft/Aktien-von-Anthropic-legen-bei-Debuet-um-34-Prozent-zu-id31555472.html",
+          "published": "2026-11-19T16:53:04+00:00",
+          "summary": "Knapp sechs Jahre nach Gründung des Unternehmens gelingt Anthropic der größte Börsengang der Geschichte. Das KI-Unternehmen startet mit deutlichem Kursplus in den Handel. Berichten zufolge werden …"
         },
         {
-          "title": "Deutlich höher als geplant: Berichte: Anthropic setzt Ausgabepreis auf 83 Dollar fest",
-          "link": "https://www.n-tv.de/wirtschaft/Berichte-Anthropic-setzt-Ausgabepreis-auf-83-Dollar-fest-id31550683.html",
-          "published": "2026-11-18T22:49:24+00:00",
-          "summary": "Anthropic wird beim bevorstehenden Börsengang aller Voraussicht nach mehr Aktien verkaufen als ursprünglich geplant - und das zu einem höheren Preis als erwartet. Nach übereinstimmenden …"
+          "title": "\"Mit dem Messer in den Rücken\": Wie viel VW-Mitarbeiter verdienen",
+          "link": "https://www.n-tv.de/wirtschaft/Wie-viel-VW-Mitarbeiter-verdienen-id31388650.html",
+          "published": "2026-11-19T16:00:00+00:00",
+          "summary": "Die übliche Gehaltserhöhung bei Volkswagen fällt bereits im vergangenen Tarifstreit den drastischen Sparplänen zum Opfer. Im Vergleich zu anderen Arbeitgebern zahlt der Autobauer trotzdem noch …"
         }
       ],
       "error": null
@@ -133,10 +133,22 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
+          "title": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-          "published": "2026-11-19T09:31:32+00:00",
-          "summary": "Der DAX startet nach den gestrigen Kursverlusten einen Erholungsversuch und legt im frühen Handel zu. Der Optimismus vor dem Anthropic-Börsengang in den USA macht Anleger mutiger."
+          "published": "2026-11-19T17:33:52+00:00",
+          "summary": "Trotz der guten Stimmung im Technologiesektor rund um den Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit mehr als drei Wochen."
+        },
+        {
+          "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+          "published": "2026-11-19T16:54:27+00:00",
+          "summary": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun …"
+        },
+        {
+          "title": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
+          "published": "2026-11-19T12:57:07+00:00",
+          "summary": "Unternehmen und Behörden sollen durch eine Beteiligung der Telekom am französischen Start-up Mistral mit \"vertrauenswürdiger KI aus Europa\" versorgt werden. Der Rekord-Börsengang von Anthropic …"
         },
         {
           "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
@@ -149,18 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
           "published": "2026-11-18T13:48:13+00:00",
           "summary": "Die Deutsche Bank bemüht sich nach dem XXL-Datenleak um Schadensbegrenzung. Anleger gehen auf Nummer sicher und verkaufen weiter ihre Aktien."
-        },
-        {
-          "title": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html",
-          "published": "2026-11-18T10:17:57+00:00",
-          "summary": "Nach dem Rücktritt von Jensen Huang hat die Nvidia-Aktie massiv an Wert verloren. Weil sie im MSCI World gelistet ist, betrifft das viele ETF-Sparer. Wie schwer der Kursrutsch wiegt - und wo jetzt …"
-        },
-        {
-          "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-          "published": "2026-11-18T04:02:36+00:00",
-          "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Gehaltsreport 2026: So viel verdienen Vertriebler in den verschiedenen Branchen",
-          "link": "https://www.wiwo.de/erfolg/beruf/gehaltsreport-2026-in-diesen-branchen-verdienen-vertriebler-am-meisten/100263211.html",
-          "published": "2026-11-19T09:30:55+00:00",
-          "summary": "Mit allen Bonuszahlungen waren Verkäufer lange die absoluten Spitzenverdiener. Das hat sich geändert. Ist es ein Einbruch oder eine Normalisierung?"
+          "title": "Anthropic: Wie Anthropic ohne Trumps Segen den größten Börsengang der Geschichte schafft",
+          "link": "https://www.wiwo.de/unternehmen/it/anthropic-boersengang-warum-dario-amodei-auf-distanz-zu-donald-trump-geht/100271168.html",
+          "published": "2026-11-19T18:43:00+00:00",
+          "summary": "34 Prozent Plus zum Handelsstart, zwei Billionen Dollar Börsenwert: Anthropics Börsengang bricht alle Rekorde – und ist so politisch wie wohl keiner zuvor. Zahlt sich Dario Amodeis Widerstand gegen …"
         },
         {
-          "title": "Staatliche Beteiligung: Bund hält aus Sicherheitsinteresse an Telekom-Anteil fest",
-          "link": "https://www.wiwo.de/politik/deutschland/digitale-souveraenitaet-bund-haelt-aus-sicherheitsinteresse-an-telekom-anteil-fest/100271193.html",
-          "published": "2026-11-19T09:28:00+00:00",
-          "summary": "Die Monopolkommission hält die Beteiligung für nicht notwendig. Doch die Bundesregierung argumentiert mit digitaler Souveränität."
+          "title": "BörsenTag: Aktienvergütungen könnten für Anthropic zur Belastung werden",
+          "link": "https://www.wiwo.de/finanzen/boerse/anthropic-ipo-warum-aktienverguetungen-zur-belastung-werden-koennten/100271243.html",
+          "published": "2026-11-19T18:39:00+00:00",
+          "summary": "Der Börsengang von Anthropic macht viele Beschäftigte zu Multimillionären. Möglich macht das eine großzügige Aktienvergütung – auf Kosten der Anleger."
         },
         {
-          "title": "Spionagegefahr: „Entscheidend ist, in welchem Umfeld ein Fahrzeug eingesetzt wird“",
-          "link": "https://www.wiwo.de/unternehmen/dienstleister/bundeswehr-verbietet-china-autos-experte-ueber-spionagegefahr/100269046.html",
-          "published": "2026-11-19T09:26:28+00:00",
-          "summary": "Das Verbot chinesischer Autos auf Bundeswehr-Stützpunkten hält Cybersicherheitsexperte Stephan Blankenburg für richtig. Er warnt: Jedes vernetzte Produkt ist angreifbar."
+          "title": "Wirtschaft von oben: Amerikas verkümmerte Werften lassen sich von Europäern anlernen",
+          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/eisbrecher-der-usa-amerikas-werften-brauchen-hilfe-aus-europa/100270915.html",
+          "published": "2026-11-19T18:00:00+00:00",
+          "summary": "Nach Jahrzehnten bauen die USA wieder Arktiseisbrecher. Satellitenbilder zeigen, wie schwer das dem Land fällt – weil die industrielle Basis verloren gegangen ist."
         },
         {
-          "title": "China und die USA: Die Präsidenten umarmen sich, während im Hintergrund der Tech-Krieg eskaliert",
-          "link": "https://www.wiwo.de/politik/ausland/usa-gegen-china-warum-der-tech-krieg-trotz-apec-gipfel-eskaliert/100271045.html",
-          "published": "2026-11-19T09:23:17+00:00",
-          "summary": "Xi Jinping und Donald Trump demonstrieren die Stabilität ihrer Beziehung. Dabei schaukelt sich der technologische Wettstreit im Hintergrund längst immer weiter hoch."
+          "title": "Commerzbank-Übernahme: UniCredit verspricht bei der Commerzbank heiße Luft – der Vizekanzler jubelt",
+          "link": "https://www.wiwo.de/unternehmen/banken/unicredit-verspricht-bei-der-commerzbank-heisse-luft-der-vizekanzler-jubelt/100271294.html",
+          "published": "2026-11-19T17:59:00+00:00",
+          "summary": "Die Bundesregierung verkündet eine Einigung mit UniCredit über die Commerzbank. Damit gesteht sie ihr Scheitern ein – und schadet womöglich Steuerzahlern. Ein Kommentar."
         },
         {
-          "title": "Bankübernahme: Bund einigt sich mit Unicredit bei Commerzbank-Übernahme",
-          "link": "https://www.wiwo.de/unternehmen/banken/commerzbank-bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig/100271151.html",
-          "published": "2026-11-19T09:22:00+00:00",
-          "summary": "Im Ringen um die Commerzbank hat der Bund mit der Unicredit eine Einigung erzielt. Sie enthält wichtige Punkte für deutsche Interessen."
+          "title": "Anthropic-IPO: Anthropic mit Rekord-Börsengang – 107,3 Milliarden Dollar",
+          "link": "https://www.wiwo.de/unternehmen/it/selbst-ohne-zeichnung-im-depot-anthropic-aktien-verpasst-was-sie-mit-1000-euro-tun-koennen/100271312.html",
+          "published": "2026-11-19T17:43:19+00:00",
+          "summary": "Die Nachfrage nach Aktien von Anthropic war so groß, dass die KI-Firma sogar mehr Papiere zum Verkauf anbot. Es ist der bisher größte Börsengang geworden."
         }
       ],
       "error": null
