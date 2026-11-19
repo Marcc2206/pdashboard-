@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:37:56+00:00",
+  "generatedAt": "2026-11-19T01:41:47+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+          "published": "2026-11-19T01:06:22+00:00",
+          "summary": "Die italienische Bank und deren Chef Orcel sind bei der Übernahme der Commerzbank einen wichtigen Schritt weiter - die Bundesregierung einigte sich mit UniCredit."
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686060.html",
-          "published": "2026-11-18T18:35:39+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686220.html",
+          "published": "2026-11-19T00:54:14+00:00",
           "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-11-18T18:14:51+00:00",
-          "summary": "Donnerstag breiten sich teilweise kräftige Regenfälle aus der Südwesthälfte in den Norden und Osten aus. Dahinter locket es auf und es folgen Schauer. Dabei ist es windig bis stürmisch. 4 bis 14 Grad."
+          "title": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
+          "link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
+          "published": "2026-11-18T23:33:32+00:00",
+          "summary": "Es gilt schon vorab als historisch - das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel in Shenzhen. Doch die Positionen der drei Präsidenten bei den Themen atomare Abrüstung, Iran …"
         },
         {
-          "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
-          "link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
-          "published": "2026-11-18T18:11:40+00:00",
-          "summary": "Trotz Vorbehalten einiger Progressiver haben die US-Demokraten ihren Fraktionschef Jeffries für den Vorsitz des US-Repräsentantenhauses nominiert. Als solcher könnte er auch Untersuchungen gegen die …"
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82102.html",
+          "published": "2026-11-18T23:27:38+00:00",
+          "summary": ""
         },
         {
-          "title": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
-          "published": "2026-11-18T18:02:26+00:00",
-          "summary": "Die Ukraine braucht dringend Geld - den Großteil soll die EU nach Willen der Kommission übernehmen. Für die Rückzahlung sollen künftige russische Reparationen genutzt werden. Doch einige …"
-        },
-        {
-          "title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
-          "published": "2026-11-18T17:55:38+00:00",
-          "summary": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?"
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12992.html",
+          "published": "2026-11-18T22:16:34+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Geldpolitik: US-Notenbanker Waller dringt auf kräftige Zinserhöhung",
-          "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-us-notenbanker-waller-dringt-auf-kraeftige-zinserhoehung/100271048.html",
-          "published": "2026-11-18T17:46:33+00:00",
-          "summary": "Einen Zinsschritt um 0,5 Prozentpunkte fordert der Fed-Notenbanker nicht zum ersten Mal. Er fürchtet, dass sich Firmen zu sehr an die aktuelle erhöhte Inflation gewöhnen."
+          "title": "Kinder im Krieg: 589 Millionen Kinder in Konfliktgebieten - neuer Höchststand",
+          "link": "https://www.handelsblatt.com/politik/international/kinder-im-krieg-589-millionen-kinder-in-konfliktgebieten-neuer-hoechststand/100271090.html",
+          "published": "2026-11-19T01:18:09+00:00",
+          "summary": "In Gaza und der Ukraine, im Sudan und im Kongo - noch nie haben so viele Kinder und Jugendliche weltweit in Konfliktgebieten gelebt. Das geht aus einem Bericht einer Kinderschutzorganisation hervor."
         },
         {
-          "title": "Präsidentschaftskandidat: Istanbuls Ex-Bürgermeister Imamoglu mit Politikverbot belegt",
-          "link": "https://www.handelsblatt.com/politik/international/praesidentschaftskandidat-istanbuls-ex-buergermeister-imamoglu-mit-politikverbot-belegt/100271047.html",
-          "published": "2026-11-18T17:42:58+00:00",
-          "summary": "Ekrem Imamoglu sitzt in Untersuchungshaft, bei der nächsten Wahl will er gegen Präsident Erdogan antreten. Ein neues Urteil könnte die Pläne der Opposition allerdings durchkreuzen."
+          "title": "Künstliche Intelligenz: KI-Firma Anthropic schafft Rekord-Börsengang",
+          "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-firma-anthropic-schafft-rekord-boersengang/100271093.html",
+          "published": "2026-11-19T00:17:09+00:00",
+          "summary": "Die Nachfrage beim Börsengang von Anthropic war so groß, dass die KI-Firma sogar mehr Aktien zum Verkauf anbot. Nun ist es der bisher größte Börsengang geworden."
         },
         {
-          "title": "Brasilien: Isoliert lebende Indigene erscheinen in Amazonasdorf",
-          "link": "https://www.handelsblatt.com/technik/forschung-innovation/brasilien-isoliert-lebende-indigene-erscheinen-in-amazonasdorf/100271049.html",
-          "published": "2026-11-18T17:39:33+00:00",
-          "summary": "Eine Gruppe von rund 20 Indigenen eines brasilianischen Volkes hat überraschend ihre Isolation kurzzeitig verlassen. Was könnte sie aus dem Regenwald getrieben haben?"
+          "title": "„Grand Theft Auto VI“: Computerspiel GTA 6 ist in Deutschland verfügbar",
+          "link": "https://www.handelsblatt.com/technik/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html",
+          "published": "2026-11-18T23:54:46+00:00",
+          "summary": "Seit Tagen konnten Vorbesteller GTA 6 auf ihre Konsolen laden, jetzt wird das Videospiel nach und nach rund um die Welt spielbar. Nun sind auch Gamer in Deutschland dabei."
         },
         {
-          "title": "Koalitionsausschuss: Nach der Einigung der Koalition: So stark werden die Steuerzahler 2027 entlastet",
-          "link": "https://www.handelsblatt.com/politik/deutschland/steuern-kompromiss-der-koalition-bringt-familien-bis-zu-552-euro-entlastung/100270934.html",
-          "published": "2026-11-18T17:32:42+00:00",
-          "summary": "Union und SPD haben sich im Steuerstreit geeinigt. Berechnungen für das Handelsblatt zeigen, wie sich die Beschlüsse für Steuerzahler und Stromverbraucher auswirken."
+          "title": "Nach langem Warten: Computerspiel GTA 6 ist in Deutschland verfügbar",
+          "link": "https://www.handelsblatt.com/technik/it-internet/nach-langem-warten-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271084.html",
+          "published": "2026-11-18T23:41:51+00:00",
+          "summary": "Seit Tagen konnten Vorbesteller GTA 6 auf ihre Konsolen laden, jetzt wird das mit Spannung erwartete Videospiel nach und nach rund um die Welt spielbar. Nun sind auch Gamer in Deutschland dabei."
         },
         {
-          "title": "Märkte Insight: Vorsicht, die Renditen steigen wieder",
-          "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-vorsicht-die-renditen-steigen-wieder/100269631.html",
-          "published": "2026-11-18T17:31:20+00:00",
-          "summary": "Die Turbulenzen am Anleihemarkt sind noch nicht ausgestanden. Höhere Zinsen werden zum Dauerproblem für die Börsen, warnt Michael Maisch."
+          "title": "Brasilien: Indigene zeigen sich am Waldrand und bitten um Nahrung",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/brasilien-indigene-zeigen-sich-am-waldrand-und-bitten-um-nahrung/100271049.html",
+          "published": "2026-11-18T23:30:04+00:00",
+          "summary": "Männer, Frauen und Kinder des Awá-Volkes tauchen mit Speeren und Halsketten am Rande des Regenwalds auf. Eine Menschenrechtsorganisation spricht von einem „beunruhigenden Zeichen“."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "SpaceX-Rekord pulverisiert: Anthropic sammelt bei Börsengang 81 Milliarden Dollar ein",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-sammelt-bei-Boersengang-81-Milliarden-Dollar-ein-id31550766.html",
+          "published": "2026-11-19T00:04:39+00:00",
+          "summary": "Anthropics Börsengang elektrisiert die Investoren: Die Nachfrage ist so groß, dass der KI-Entwickler mehr Aktien anbietet als geplant - und das zu einem höheren Preis als ursprünglich geplant. Damit …"
+        },
+        {
+          "title": "Deutlich höher als geplant: Berichte: Anthropic setzt Ausgabepreis auf 83 Dollar fest",
+          "link": "https://www.n-tv.de/wirtschaft/Berichte-Anthropic-setzt-Ausgabepreis-auf-83-Dollar-fest-id31550683.html",
+          "published": "2026-11-18T22:49:24+00:00",
+          "summary": "Anthropic wird beim bevorstehenden Börsengang aller Voraussicht nach mehr Aktien verkaufen als ursprünglich geplant - und das zu einem höheren Preis als erwartet. Nach übereinstimmenden …"
+        },
+        {
+          "title": "Warten auf Anthropic: Glänzende Zahlen halten Nvidias Talfahrt nicht auf",
+          "link": "https://www.n-tv.de/wirtschaft/Glaenzende-Zahlen-halten-Nvidias-Talfahrt-nicht-auf-id31550687.html",
+          "published": "2026-11-18T22:25:37+00:00",
+          "summary": "Während die Wall Street auf Details zum Anthropic-Börsengang wartet, finden die US-Börsen keine gemeinsame Richtung. Bei Nvidia ist die Tendenz allerdings klar: Es geht weiter abwärts, daran ändern …"
+        },
+        {
+          "title": "Bewegung auf dem Paketmarkt: GLS und DPD wollen fusionieren und DHL mehr Konkurrenz machen",
+          "link": "https://www.n-tv.de/wirtschaft/GLS-und-DPD-wollen-fusionieren-und-DHL-mehr-Konkurrenz-machen-id31550359.html",
+          "published": "2026-11-18T18:50:16+00:00",
+          "summary": "Unter den Paketdiensten in Deutschland ist DHL Marktführer. Die beiden Wettbewerber GLS und DPD wollen nun ihre Kräfte bündeln und den Druck auf den Spitzenreiter erhöhen. Das Kartellamt muss der …"
+        },
+        {
           "title": "Folge ukrainischer Angriffe: Insider: Russlands Ölverarbeitung bricht massiv ein",
           "link": "https://www.n-tv.de/wirtschaft/Insider-Russlands-Oelverarbeitung-bricht-massiv-ein-id31550107.html",
           "published": "2026-11-18T17:53:48+00:00",
           "summary": "Fast täglich schlagen ukrainische Drohnen in russischen Raffinerien ein. Viele der großen Anlagen stehen still oder arbeiten nur eingeschränkt. Die verarbeitete Rohölmenge sinkt laut Insidern allein …"
-        },
-        {
-          "title": "Dritthöchste Schulden in EU: EZB zählt Defizit-Sorgenkind Frankreich an",
-          "link": "https://www.n-tv.de/wirtschaft/EZB-zaehlt-Defizit-Sorgenkind-Frankreich-an-id31550197.html",
-          "published": "2026-11-18T17:53:23+00:00",
-          "summary": "Die riesigen Investitionen in künstliche Intelligenz sind zunächst Wirtschaftstreiber. Zuletzt sorgen die Unsummen jedoch für viel Skepsis. Der EZB bereitet auch ein zweiter Umstand Sorgen: die hohen …"
-        },
-        {
-          "title": "Der Börsen-Tag: Nvidia verbreitet gute Laune an der Wall Street",
-          "link": "https://www.n-tv.de/wirtschaft/Nvidia-verbreitet-gute-Laune-an-der-Wall-Street-id31548778.html",
-          "published": "2026-11-18T13:28:10+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Mit chinesischer KI-Firma: Uber startet Robotaxi-Pilotprojekt in München",
-          "link": "https://www.n-tv.de/wirtschaft/Robotaxis-fahren-kostenlos-durch-Muenchen-id31547212.html",
-          "published": "2026-11-18T11:06:09+00:00",
-          "summary": "In den USA, China und den Vereinigten Arabischen Emiraten sind selbstfahrende Taxis längst Normalität. Nun fahren auch in München die ersten Autos selbstständig durch die Stadt - zunächst jedoch noch …"
-        },
-        {
-          "title": "Jobabbau in Industrie: Zahl der Erwerbstätigen sinkt im Sommer erneut leicht",
-          "link": "https://www.n-tv.de/wirtschaft/Zahl-der-Erwerbstaetigen-sinkt-im-Sommer-erneut-leicht-id31547387.html",
-          "published": "2026-11-18T10:38:08+00:00",
-          "summary": "Seit mehreren Quartalen sinkt die Zahl der Erwerbstätigen in Deutschland kontinuierlich. Dieser Negativtrend setzt sich auch zwischen Juli und September dieses Jahres fort. Zumindest in einem …"
         }
       ],
       "error": null
@@ -172,6 +172,24 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Börse USA: Euphorie der US-Anleger nach Nvidia-Zahlen hält nicht an",
+          "link": "https://www.wiwo.de/finanzen/boerse/boerse-usa-euphorie-der-us-anleger-nach-nvidia-zahlen-haelt-nicht-an/100271011.html",
+          "published": "2026-11-18T19:40:00+00:00",
+          "summary": "Unsicherheit vor dem Börsengang von Anthropic und nach den Quartalszahlen von Nvidia sorgen für einen holprigen Start. Der Nasdaq hat sich am Mittwoch aber stabilisiert."
+        },
+        {
+          "title": "Erste Kritiken: „GTA VI“ begeistert Kritiker – Take-Two mit Kurssprung",
+          "link": "https://www.wiwo.de/unternehmen/industrie/erste-kritiken-gta-vi-begeistert-kritiker-take-two-mit-kurssprung/100271056.html",
+          "published": "2026-11-18T19:29:23+00:00",
+          "summary": "Die positiven Kritiken für das neueste Spiel der Reihe „Grand Theft Auto“ helfen auch den Aktien von anderen Studios. Das Spiel wurde bereits rund 17 Millionen Mal verkauft."
+        },
+        {
+          "title": "„Koalition der Willigen“: Merz empfängt Selenskyj und Ukraine-Verbündete in Berlin",
+          "link": "https://www.wiwo.de/politik/europa/koalition-der-willigen-merz-empfaengt-selenskyj-und-ukraine-verbuendete-in-berlin/100271053.html",
+          "published": "2026-11-18T18:53:33+00:00",
+          "summary": "Zwei bedeutende Gipfeltreffen an einem Tag: Kurz nach dem Dreiertreffen von Trump, Putin und Xi in Shenzhen kommen in Berlin die Verbündeten der Ukraine zusammen."
+        },
+        {
           "title": "Cyber-Sicherheit: Warnung vor Sicherheitslücken in Programmiersprache Java",
           "link": "https://www.wiwo.de/politik/ausland/sicherheitsluecken-in-java-behoerden-warnen-vor-schwachstellen-in-programmiersprache/100271044.html",
           "published": "2026-11-18T18:23:49+00:00",
@@ -182,24 +200,6 @@
           "link": "https://www.wiwo.de/politik/europa/russische-oelverarbeitung-ukrainische-drohnenangriffe-lassen-betrieb-einbrechen/100271038.html",
           "published": "2026-11-18T17:16:51+00:00",
           "summary": "Die Ukraine halbiert Russlands Raffinerieleistung mit schweren Angriffen beinahe. Der Druck auf den weltweiten Kraftstoffmarkt könnte weiter steigen."
-        },
-        {
-          "title": "Größter Banken-Leak: Datenschutzaufsicht leitet Untersuchung gegen Deutsche Bank ein",
-          "link": "https://www.wiwo.de/unternehmen/banken/untersuchung-datenschutzaufsicht-leitet-verfahren-gegen-deutsche-bank-ein/100271033.html",
-          "published": "2026-11-18T17:15:50+00:00",
-          "summary": "Rund 15 Millionen interne Dokumente des Geldhauses wurden bekannt. Nun untersucht der hessische Datenschutzbeauftragte, ob die Deutsche Bank gegen die DSGVO verstoßen hat."
-        },
-        {
-          "title": "Markus Brunnermeier: Warum der EZB-Posten für Deutschland so wichtig ist",
-          "link": "https://www.wiwo.de/politik/europa/warum-es-so-wichtig-ist-dass-deutschland-den-ezb-chefoekonomen-stellt/100270643.html",
-          "published": "2026-11-18T17:12:59+00:00",
-          "summary": "Lange hat es gedauert, bis die Bundesregierung ihren Kandidaten für den Chefökonomenposten in der EZB nominierte. Sie unterschätzt, wie einflussreich die Position ist."
-        },
-        {
-          "title": "Destinus: Die niederländische Firma, die half, die Krim-Brücke zu Fall zu bringen",
-          "link": "https://www.wiwo.de/unternehmen/industrie/destinus-die-niederlaendische-firma-die-half-die-krim-bruecke-zu-fall-zu-bringen/100271030.html",
-          "published": "2026-11-18T17:03:13+00:00",
-          "summary": "Beim Schlag gegen die Krim-Brücke setzte die Ukraine nur Waffen aus eigener Entwicklung ein – und zwei Systeme einer niederländischen Firma, die auch hierzulande große Pläne hat."
         }
       ],
       "error": null
