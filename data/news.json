@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:37:50+00:00",
+  "generatedAt": "2026-11-20T09:38:40+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
+          "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
+          "published": "2026-11-20T09:34:09+00:00",
+          "summary": "Es ist eine Attacke ins Herz der ukrainischen Hauptstadt: Russland hat in Kiew erneut Brücken beschossen und beschädigt. Mehrere Menschen wurden getötet. In Polen musste wegen des Angriffs zeitweise …"
+        },
+        {
+          "title": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
+          "link": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
+          "published": "2026-11-20T09:22:00+00:00",
+          "summary": "Mehr Schutz für Verbraucher, mehr Kontrolle bei Krediten: Von heute an gilt die neue Verbraucherkreditrichtlinie. Selbst kleine Beträge wie bei \"Heute kaufen, später zahlen\" verlangen von Anbietern …"
+        },
+        {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686824.html",
-          "published": "2026-11-20T00:59:41+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686948.html",
+          "published": "2026-11-20T09:05:44+00:00",
           "summary": ""
         },
         {
-          "title": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
-          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html",
-          "published": "2026-11-20T00:41:04+00:00",
-          "summary": "In ganz Deutschland sollen Betriebe einen Tag lang stillstehen - seit Mitternacht rollt die Streikwelle der IG Metall an. Betroffen sind Betriebe der Metall- und Elektroindustrie."
+          "title": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gender-pay-gap-140.html",
+          "published": "2026-11-20T09:02:02+00:00",
+          "summary": "Von heute bis zum Jahresende arbeiten Frauen in der EU quasi unbezahlt - so groß ist die rechnerische Lohnlücke im Schnitt. Neue Transparenzregeln sollen Veränderung bringen, doch Deutschland hat die …"
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-82202.html",
-          "published": "2026-11-19T23:20:34+00:00",
-          "summary": ""
-        },
-        {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12986.html",
-          "published": "2026-11-19T21:54:40+00:00",
-          "summary": ""
-        },
-        {
-          "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html",
-          "published": "2026-11-19T21:41:43+00:00",
-          "summary": ""
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-20T09:01:48+00:00",
+          "summary": "Am Freitag kommt es in der Mitte zu zum Teil ergiebigen Regenfällen. Auch im Süden gibt es meist viele Wolken mit Schauern und es ist windig. Im Norden scheint neben Wolken oder Nebel die Sonne. …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Huang-Affäre: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen",
-          "link": "https://www.handelsblatt.com/technik/ki/huang-affaere-kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen/100271418.html",
-          "published": "2026-11-20T01:18:49+00:00",
-          "summary": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs noch lange nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Chip-Konzern zu."
+          "title": "+++ Ukraine-Krieg +++: Flugobjekt dringt in Polens Luftraum ein und stürzt ab",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-flugobjekt-dringt-in-polens-luftraum-ein-und-stuerzt-ab/27982126.html",
+          "published": "2026-11-20T09:33:52+00:00",
+          "summary": "Ukrainische AKWs müssen Produktion nach Angriffen drosseln +++ Schwerster Angriff auf Kiews Brücken laut Bürgermeister +++ Wadephul sieht „gute Chance“ für Fortschritte +++ Der Newsblog."
         },
         {
-          "title": "Chip-Riese: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen",
-          "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen/100271419.html",
-          "published": "2026-11-20T00:57:43+00:00",
-          "summary": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs noch lange nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Chip-Konzern zu."
+          "title": "Gehalt: Einkommensrechner 2026: So viel verdienen Sie im Vergleich",
+          "link": "https://www.handelsblatt.com/politik/deutschland/gehalt-wo-stehen-sie-im-vergleich-mit-anderen-deutschen-haushalten/100261943.html",
+          "published": "2026-11-20T09:31:00+00:00",
+          "summary": "Gehören Sie zur Oberschicht? Eine neue Studie zeigt den Vergleich: Der interaktive Rechner ermittelt, wo Sie stehen. Für eine Gruppe ist der Aufstieg zu den Topverdienern besonders schwer."
         },
         {
-          "title": "Regierungskoalition: Pistorius in Polen – Erinnerungskultur oder Wahlkampf in eigener Sache?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/regierungskoalition-pistorius-in-polen-erinnerungskultur-oder-wahlkampf-in-eigener-sache/100270841.html",
-          "published": "2026-11-20T00:28:56+00:00",
-          "summary": "Beim Besuch des früheren Konzentrationslagers Auschwitz zeigt der Verteidigungsminister Kanzlerformat. Auch sonst meldet er sich auffällig häufig zu Wort. Stehen dahinter höhere Ambitionen?"
+          "title": "Reform: Wie viel Netto bleibt Ihnen 2027 vom Gehalt?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/regierung-was-das-reformpaket-fuer-ihr-nettogehalt-2027-bedeutet/100260104.html",
+          "published": "2026-11-20T09:29:00+00:00",
+          "summary": "Profitieren Sie vom Reformpaket der Bundesregierung, oder stehen Sie schlechter da als vorher? Das Handelsblatt zeigt für Singles, Ehepaare und Eltern, wie sich das Nettogehalt 2027 verändert."
         },
         {
-          "title": "Metall- und Elektroindustrie: IG Metall lässt ganztägige Warnstreiks rollen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-ig-metall-laesst-ganztaegige-warnstreiks-rollen/100271412.html",
-          "published": "2026-11-19T23:15:04+00:00",
-          "summary": "BMW, Audi, Werften und Zulieferer: In ganz Deutschland sollen Betriebe einen Tag lang stillstehen. Warum die IG Metall gerade jetzt zu einer bislang seltenen Streikform greift."
+          "title": "Altersvorsorge: Wie der Staat Kindern bei der Altersvorsorge hilft",
+          "link": "https://www.handelsblatt.com/politik/deutschland/altersvorsorge-wie-der-staat-kindern-bei-der-altersvorsorge-hilft/100271506.html",
+          "published": "2026-11-20T09:25:45+00:00",
+          "summary": "Mit sechs schon an die Rente denken? Ein Zuschuss vom Staat soll Kinder an die Altersvorsorge heranführen. Wer jetzt 10 Euro im Monat bekommt - und wer nicht."
         },
         {
-          "title": "Führungskräfte: Die Firma vergisst nichts – und Manager sollten das wissen",
-          "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-die-firma-vergisst-nichts-und-manager-sollten-das-wissen/100260052.html",
-          "published": "2026-11-19T23:08:55+00:00",
-          "summary": "Warum scheitern Transformationen? Eine neue Studie legt einen überraschenden Grund nahe: Mitarbeiter haben ein kollektives Gedächtnis – das viele Chefs offenbar einfach ignorieren."
+          "title": "Rentnerparadies: Rente im Ausland: Dieses Tool zeigt, wohin Sie auswandern sollten",
+          "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-wie-sie-ein-passendes-land-zum-auswandern-im-alter-finden/100168299.html",
+          "published": "2026-11-20T09:21:00+00:00",
+          "summary": "Den Lebensabend im Ausland verbringen, davon träumen viele. Doch wie finden Sie zum Beispiel heraus, in welchem Land am Meer es sonnig und sicher ist? Das Handelsblatt hilft bei der Auswahl."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Trotz Anthropic-Börsengang: KI-Krise an der Wall Street hält an",
-          "link": "https://www.n-tv.de/wirtschaft/KI-Krise-an-der-Wall-Street-haelt-an-id31556066.html",
-          "published": "2026-11-19T21:59:56+00:00",
-          "summary": "Der Rekord-Börsengang des KI-Unternehmens Anthropic bringt der Wall Street die Begeisterung für Techwerte nicht zurück. Gespannt warten die US-Anleger nun, wie sich die Newcomer-Aktie entwickelt. Für …"
+          "title": "Markt mächtig in Bewegung: Stromexporte gleichen Einfuhren dieses Jahr nahezu aus",
+          "link": "https://www.n-tv.de/wirtschaft/Stromexporte-gleichen-Einfuhren-dieses-Jahr-nahezu-aus-id31557105.html",
+          "published": "2026-11-20T09:27:36+00:00",
+          "summary": "Im vergangenen Jahr muss Deutschland wesentlich mehr Strom aus dem Ausland importieren, als es abgibt. Dieses Jahr ändert sich die Statistik drastisch: Die Bilanz von Einfuhren und Ausfuhren von …"
         },
         {
-          "title": "Grüne fordern mehr Erneuerbare: Teures Gas könnte Strompreis im Winter um mehr als 60 Prozent verteuern",
-          "link": "https://www.n-tv.de/wirtschaft/Teures-Gas-koennte-Strompreis-im-Winter-um-mehr-als-60-Prozent-verteuern-id31555248.html",
-          "published": "2026-11-19T18:04:09+00:00",
-          "summary": "Das Merit-Order-Prinzip legt fest, dass sich der Strompreis über den Preis des teuersten Mix-Bestandteils berechnet. Da Gas im Winter benötigt wird und derzeit besonders teuer ist, könnten die Kosten …"
+          "title": "Kursrutsche wie seit 2020 nicht: KI-Skepsis wächst: Asien-Börsen erleben Woche zum Vergessen",
+          "link": "https://www.n-tv.de/wirtschaft/KI-Skepsis-waechst-Asien-Boersen-erleben-Woche-zum-Vergessen-id31557242.html",
+          "published": "2026-11-20T08:50:31+00:00",
+          "summary": "Auf den Boom folgt der Dämpfer: Nach den US-Zwischenwahlen und dem Bekanntwerden des Nvidia-Skandals wachsen die Zweifel am KI-Hype. In Asien geben die Kurse von Technologietiteln durch die Bank weg …"
         },
         {
-          "title": "Von British Gas bis Anthropic: Das sind die größten Börsengänge der Geschichte",
-          "link": "https://www.n-tv.de/wirtschaft/Das-sind-die-groessten-Boersengaenge-der-Geschichte-id31555467.html",
-          "published": "2026-11-19T18:01:09+00:00",
-          "summary": "Ende des 20. Jahrhunderts wird westliche Infrastruktur privatisiert, in den 2000ern sorgen chinesische Banken für Aufmerksamkeit. Bis zu Anthropics imponierenden Auftritt auf dem Börsenparkett weiß …"
+          "title": "264 Euro für Geschenke: Geld sitzt bei Deutschen zu Weihnachten trotz Krisen lockerer",
+          "link": "https://www.n-tv.de/wirtschaft/Geld-sitzt-bei-Deutschen-zu-Weihnachten-trotz-Krisen-lockerer-id31557006.html",
+          "published": "2026-11-20T08:49:49+00:00",
+          "summary": "Im Einzelhandel geht die heiße Phase los: In einem Monat ist Weihnachten, das Geschäft des Jahres lockt. Allen Krisen zum Trotz planen die Deutschen etwas höhere Ausgaben für Geschenke als noch …"
         },
         {
-          "title": "20 Investoren wollen übernehmen: Bericht: Fast jede zweite Galeria-Filiale könnte schließen",
-          "link": "https://www.n-tv.de/wirtschaft/Bericht-Fast-jede-zweite-Galeria-Filiale-koennte-schliessen-id31554516.html",
-          "published": "2026-11-19T17:57:06+00:00",
-          "summary": "Nach zahlreichen Insolvenzen ist die Zukunft der Warenhauskette Galeria noch immer ungewiss. Für eine Übernahme des Unternehmens gibt es dennoch zahlreiche Interessenten. Ohne Härten wird die Rettung …"
+          "title": "Chip-Lieferungen an China?: Kalifornien schaltet sich mit Ermittlungen in Nvidia-Affäre ein",
+          "link": "https://www.n-tv.de/wirtschaft/Kalifornien-schaltet-sich-mit-Ermittlungen-in-Nvidia-Affaere-ein-id31557053.html",
+          "published": "2026-11-20T08:42:58+00:00",
+          "summary": "Trotz des Rücktritts von Jensen Huang ist Nvidia die Affäre seines Ex-CEOs noch nicht los. Nach Berichten über Huangs Beziehung zu einer möglichen chinesischen Spionin rücken nun mutmaßlich Geschäfte …"
         },
         {
-          "title": "Rekord-Börsengang: Aktien von Anthropic legen bei Debüt um 34 Prozent zu",
-          "link": "https://www.n-tv.de/wirtschaft/Aktien-von-Anthropic-legen-bei-Debuet-um-34-Prozent-zu-id31555472.html",
-          "published": "2026-11-19T16:53:04+00:00",
-          "summary": "Knapp sechs Jahre nach Gründung des Unternehmens gelingt Anthropic der größte Börsengang der Geschichte. Das KI-Unternehmen startet mit deutlichem Kursplus in den Handel. Berichten zufolge werden …"
+          "title": "Personalpläne weiter schwach: KI-Boom hebt Stimmung im Maschinenbau erstmals seit 2023",
+          "link": "https://www.n-tv.de/wirtschaft/KI-Boom-hebt-Stimmung-im-Maschinenbau-erstmals-seit-2023-id31556919.html",
+          "published": "2026-11-20T08:42:08+00:00",
+          "summary": "Maschinenbauer kämpfen seit Jahren mit einer schwachen Konjunktur. Nach Erhebungen des Ifo-Instituts hellt sich die Stimmung erstmals seit drei Jahren wieder auf. Bei einem wichtigen Punkt bleiben …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-          "published": "2026-11-19T17:33:52+00:00",
-          "summary": "Trotz der guten Stimmung im Technologiesektor rund um den Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit mehr als drei Wochen."
+          "title": "Marktbericht: DAX dürfte trotz Anthropic-Hype weiter fallen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
+          "published": "2026-11-20T06:30:24+00:00",
+          "summary": "Der Anthropic-Funke ist nicht auf die Börsen übergesprungen: Der DAX dürfte deutlich schwächer starten, auch die Wall Street ist weit zurückgefallen. Aber nicht nur Technologiewerte verlieren."
         },
         {
           "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wohnungsmarkt: Miete, Heizen, Müllabfuhr – was die Wohnkosten in Deutschland treibt",
-          "link": "https://www.wiwo.de/politik/deutschland/mietenatlas-wo-wohnen-in-deutschland-wirklich-bezahlbar-ist/100270986.html",
-          "published": "2026-11-19T19:40:00+00:00",
-          "summary": "Ein Mietenatlas zeigt, wie viel von ihrem Nettoeinkommen die Deutschen für eine Wohnung ausgeben müssen – im Bestand und bei Neuverträgen."
+          "title": "Gescheiterte Übernahme: BASF und Evonik – schlecht getimt, rechtzeitig gestoppt",
+          "link": "https://www.wiwo.de/unternehmen/industrie/basf-stoppt-evonik-uebernahme-warum-der-chemie-deal-scheitert/100271329.html",
+          "published": "2026-11-20T08:42:00+00:00",
+          "summary": "Ausgerechnet vor der NRW-Landtagswahl wollte BASF Evonik kaufen. Am Ende war der Widerstand zu groß und ein höheres Gebot zu riskant. Was bleibt, sind offene Fragen."
         },
         {
-          "title": "Jugendproteste: Dieser Forscher erklärt, was die Jugend auf die Straße treibt",
-          "link": "https://www.wiwo.de/politik/deutschland/jugendproteste-die-jugend-glaubt-immer-seltener-an-das-aufstiegsversprechen/100270303.html",
-          "published": "2026-11-19T19:39:00+00:00",
-          "summary": "Am Freitag gehen bundesweit Schülerinnen und Schüler auf die Straße. Der Jugendforscher Simon Schnetzer sagt: Den Jugendlichen fehlt eine Perspektive."
+          "title": "VW-Tarifrunde: Volkswagen „vor Zerreißprobe“ – was auf Beschäftigte zukommen könnte",
+          "link": "https://www.wiwo.de/unternehmen/auto/kriselnder-autobauer-vw-fordert-nullrunden-und-einschnitte-bei-35-stunden-woche/100271339.html",
+          "published": "2026-11-20T08:30:00+00:00",
+          "summary": "Nullrunden, längere Arbeitszeiten und gestrichene Zulagen: VW verlangt von seiner Belegschaft deutliche Zugeständnisse. Was steckt hinter dem Forderungskatalog?"
         },
         {
-          "title": "Koalition der Willigen: Europäer demonstrieren Unterstützung für die Ukraine",
-          "link": "https://www.wiwo.de/politik/deutschland/koalition-der-willigen-us-unterhaendler-lobt-produktives-treffen-mit-merz/100271272.html",
-          "published": "2026-11-19T19:36:00+00:00",
-          "summary": "Kurz nach dem Gipfel der drei größten Atommächte in China kommen in Berlin die Verbündeten der Ukraine mit Selenskyj zusammen, um ein Zeichen zu setzen."
+          "title": "Verteidigung: Pistorius will Militärpakt mit Polen ausbauen",
+          "link": "https://www.wiwo.de/politik/deutschland/verteidigung-pistorius-will-militaerpakt-mit-polen-ausbauen/100271484.html",
+          "published": "2026-11-20T08:22:18+00:00",
+          "summary": "Deutschland und Polen planen weitere Schritte für ihr Verteidigungsabkommen. Vor allem die Kooperation in der Rüstungsindustrie soll wachsen."
         },
         {
-          "title": "KI-Aktien: Lohnt sich jetzt ein Einstieg bei Anthropic, Nvidia und Co.?",
-          "link": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-so-entscheidend-ist-der-ipo-fuer-den-ki-boom/100270980.html",
-          "published": "2026-11-19T19:33:00+00:00",
-          "summary": "Der Anthropic-Börsengang könnte dem KI-Hype neuen Schwung verleihen. Was diese Spätphase des Booms ausmacht – und auf welche Aktien Anleger setzen können."
+          "title": "Telekom und Mistral AI: Dieser Deal ist eine teure Versicherung für Europas KI-Souveränität",
+          "link": "https://www.wiwo.de/unternehmen/it/telekom-deal-mit-mistral-warum-konzerne-auf-europas-ki-setzen/100271362.html",
+          "published": "2026-11-20T08:09:20+00:00",
+          "summary": "Die Telekom investiert 100 Millionen Euro in Mistral AI – obwohl die Franzosen den US-Giganten hinterherhinken. Warum Europas Konzerne trotzdem genau diese Lösung brauchen."
         },
         {
-          "title": "E-Commerce: Diese Onlinehändler schlagen in ihren Nischen sogar den Unschlagbaren",
-          "link": "https://www.wiwo.de/unternehmen/handel/onlinehandel-gegen-amazon-wie-deutsche-nischenhaendler-siegen/100271298.html",
-          "published": "2026-11-19T19:04:18+00:00",
-          "summary": "Amazon beherrscht den Onlinehandel – und der Rest landet bei den Chinesen? Nicht ganz. In manchen Segmenten haben sich deutsche Unternehmen durch­gesetzt. Das sind ihre Strategien."
+          "title": "Konjunktur-Dashboard: Die Lage der Wirtschaft in Charts",
+          "link": "https://www.wiwo.de/in-eigener-sache/konjunktur-dashboard-die-lage-der-wirtschaft-in-charts/100271256.html",
+          "published": "2026-11-20T07:39:00+00:00",
+          "summary": "Wie steht es um die deutsche Wirtschaft? Und welche Zahlen zeigen, ob es wieder aufwärtsgeht? Unser neues Konjunktur-Dashboard schafft den Überblick."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Neuer Wasserstoff-Katalysator übersteht Tausende Lastwechsel",
-          "link": "https://www.ingenieur.de/neuer-wasserstoff-katalysator-uebersteht-tausende-lastwechsel-c6425050-89de-475f-ac7a-9dd90b11c058/",
-          "published": "2026-11-18T16:00:00+00:00",
-          "summary": "Ein Lithium-Katalysator senkt im Labortest die Zellspannung eines Wasserstoff-Elektrolyseurs. Selbst bei Tausenden Start-Stopp-Zyklen bleibt die Degradation gering."
+          "title": "Die Lausitz baut das höchste Windrad der Welt, jetzt liefert es Strom",
+          "link": "https://www.ingenieur.de/365-m-uber-der-lausitz-weltrekord-windrad-liefert-strom-100-weitere-sollen-folgen-6b5db71f-6b31-45f6-b75d-a93e915163dd/",
+          "published": "2026-11-20T08:29:26+00:00",
+          "summary": "In Schipkau in der Lausitz liefert das höchste Windrad der Welt jetzt Strom. Die Anlage ist 365 m hoch und damit nur 3 m niedriger als der Berliner Fernsehturm. Das Dresdner Unternehmen Gicon plant …"
         },
         {
-          "title": "SCHUNK-Spin-off für Roboterhände geht nach München",
-          "link": "https://www.ingenieur.de/roboterhaende-was-steckt-hinter-dem-tech-spin-off-schunk-humanoid-robotics-gmbh-6c4834f3-4900-479f-9424-9789cfc8e67a/",
-          "published": "2026-11-18T15:30:00+00:00",
-          "summary": "Schunks Robotik-Spin-off heißt jetzt Tactilia. Es entwickelt Hände für wechselnde Industrieaufgaben. Ob dafür ein humanoider Roboter nötig ist, entscheidet die Anwendung – die technische …"
+          "title": "Aus dem Mini-Labor: Dieser winzige Chip blickt direkt in chemische Reaktionen",
+          "link": "https://www.ingenieur.de/aus-dem-mini-labor-dieser-winzige-chip-blickt-direkt-in-chemische-reaktionen-2a68a681-f189-4c06-a536-197799627d07/",
+          "published": "2026-11-20T06:55:40+00:00",
+          "summary": "Ein 0,5 mm kleiner Chip überwacht 96 chemische Reaktionen gleichzeitig. Forschende messen damit Temperaturverläufe und erkennen Störungen."
         },
         {
-          "title": "Bauvergaben in NRW: Neun von zehn Zuschlägen ohne Summe",
-          "link": "https://www.ingenieur.de/bauvergaben-in-nrw-neun-von-zehn-zuschlaegen-ohne-summe-1b8584b9-5c1d-4a18-adf9-411019ee8478/",
-          "published": "2026-11-18T15:00:00+00:00",
-          "summary": "Wie prüfbar sind kommunale Vergaben nach dem Wegfall der Wertgrenzen in Nordrhein-Westfalen? Eine Auswertung von 26.390 Bekanntmachungen."
+          "title": "Driften statt Schleudern: Wie Physik ein Auto in der Kurve hält",
+          "link": "https://www.ingenieur.de/driften-statt-schleudern-wie-physik-ein-auto-in-der-kurve-haelt-c17e0c16-423f-4089-ac6b-4695d572b63c/",
+          "published": "2026-11-20T05:30:00+00:00",
+          "summary": "Warum können Rallyefahrer kontrolliert driften? Die Physik erklärt, wie Reifenkräfte wirken – und warum selbst autonome Autos quer fahren können."
         },
         {
-          "title": "Wertschätzung fast so wichtig wie Gehalt: Was Beschäftigte in KMU erwarten",
-          "link": "https://www.ingenieur.de/was-beschaftigten-in-kmu-am-arbeitsplatz-wirklich-wichtig-ist-e1222d53-799e-46e7-b958-15b39689166a/",
-          "published": "2026-11-18T14:30:00+00:00",
-          "summary": "Gehalt, Jobsicherheit oder Anerkennung? Eine Studie zeigt, welche fünf Faktoren Beschäftigten in kleinen und mittleren Unternehmen besonders wichtig sind."
+          "title": "Mercedes, BMW, VW: Warum die Autobauer ihre Lieferketten umbauen",
+          "link": "https://www.ingenieur.de/mercedes-bmw-vw-warum-die-autobauer-ihre-lieferketten-umbauen-06374335-ed62-47bb-98f2-b8c26e7b6f08/",
+          "published": "2026-11-20T04:30:00+00:00",
+          "summary": "Mercedes senkt Emissionen, BMW regionalisiert Lieferketten, VW setzt auf Recycling. Wie Deutschlands Autobauer Rohstoffe sichern und Kosten senken wollen."
         },
         {
-          "title": "Trotz ERP und KI: Warum Unternehmen noch immer so viel von Hand erledigen",
-          "link": "https://www.ingenieur.de/trotz-erp-und-ki-warum-unternehmen-noch-immer-so-viel-von-hand-erledigen-1943300e-5ee0-410e-85ab-18a6cb3c41ee/",
-          "published": "2026-11-18T14:00:00+00:00",
-          "summary": "Trotz ERP und KI bleibt viel Handarbeit: Nur 8 % der Unternehmen arbeiten überwiegend automatisiert. Eine Studie zeigt die Ursachen."
+          "title": "Extreme Angst, Rekord-Hack, Anleger auf der Flucht: Werden Bitcoin und Co. jetzt wertlos?",
+          "link": "https://www.ingenieur.de/extreme-angst-rekord-hack-anleger-auf-der-flucht-werden-bitcoin-und-co-jetzt-wertlos-ff8bba84-ac1b-4df5-b9ba-2d3828a1e610/",
+          "published": "2026-11-20T03:43:08+00:00",
+          "summary": "Bitcoin unter Druck: Extreme Angst, Milliarden-Hack und Kapitalabflüsse. Droht der nächste Crash oder steht eine Erholung bevor?"
         }
       ],
       "error": null
