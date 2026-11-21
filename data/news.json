@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:05:11+00:00",
+  "generatedAt": "2026-11-21T22:44:47+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "BVB holt sich mit 1:0-Sieg in Mönchengladbach die Tabellenführung",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
-          "published": "2026-11-21T17:01:00+00:00",
-          "summary": "Der BVB ist neuer Tabellenführer der Fußball-Bundesliga. Beim hart erkämpften Auswärtssieg bei Borussia Mönchengladbach profitierten die Schwarz-Gelben ausgerechnet von einem Patzer des bis dahin …"
-        },
-        {
-          "title": "Bayer Leverkusen schießt Paderborn ab",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
-          "published": "2026-11-21T16:57:00+00:00",
-          "summary": "Bayer 04 Leverkusen hat gegen den SC Paderborn einen deutlichen Heimsieg in der Fußball-Bundesliga verbucht."
-        },
-        {
-          "title": "Dominic Hebestreit, ARD Istanbul, zzt. in Antalya, erklärt, warum es noch keine Abschlusserklärung beim Weltklimagipfel gibt",
-          "link": "https://www.tagesschau.de/video/video-1687608.html",
-          "published": "2026-11-21T16:45:16+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-12990.html",
+          "published": "2026-11-21T22:33:06+00:00",
           "summary": ""
         },
         {
-          "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
-          "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
-          "published": "2026-11-21T16:29:37+00:00",
-          "summary": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben."
+          "title": "Kolumbien: UNICEF besorgt über die anhaltende Rekrutierung von Kindern als Guerillasoldaten",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1687820.html",
+          "published": "2026-11-21T22:29:42+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Münchner Autobahn A99 wegen Brückenabriss gesperrt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1687818.html",
+          "published": "2026-11-21T22:26:50+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Weltklimakonferenz in Antalya: Noch keine Einigung auf Abschlusserklärung",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1687816.html",
+          "published": "2026-11-21T22:22:07+00:00",
+          "summary": ""
         },
         {
           "title": "Scheitert die UN-Klimakonferenz in Antalya?",
           "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
-          "published": "2026-11-21T16:29:15+00:00",
+          "published": "2026-11-21T20:21:36+00:00",
           "summary": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder …"
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
+          "title": "Ostsee: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
+          "link": "https://www.handelsblatt.com/politik/international/ostsee-russisches-frachtschiff-nach-drohnenangriff-vor-finnland-in-brand/100271784.html",
+          "published": "2026-11-21T19:46:09+00:00",
+          "summary": "Finnland vermutet die Ukraine hinter dem Angriff. Der Frachter trieb in finnische Gewässer, wo die Behörden den Luft- und Seeverkehr einschränkten."
+        },
+        {
+          "title": "+++ Ukraine-Krieg +++: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
+          "link": "https://www.handelsblatt.com/politik/international/ukraine-russisches-frachtschiff-nach-drohnenangriff-vor-finnland-in-brand/27982126.html",
+          "published": "2026-11-21T19:04:00+00:00",
+          "summary": "Rutte spricht sich nach Vorfall für Verteidigung Polens aus +++ Selenskyj nennt Dreiergipfel Misserfolg für Putin +++ Wildberries-Chefin Kim tritt nach EU-Sanktionen zurück +++ Der Newsblog."
+        },
+        {
+          "title": "Italienisches Traditionshaus: Schmuckunternehmer Paolo Bulgari gestorben",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/italienisches-traditionshaus-schmuckunternehmer-paolo-bulgari-gestorben/100271779.html",
+          "published": "2026-11-21T18:41:00+00:00",
+          "summary": "Der Enkel des Firmengründers prägte mit seiner Expertise für Edelsteine den Stil des italienischen Schmuckhauses. Bulgari würdigt ihn als „wahre kreative Seele“."
+        },
+        {
+          "title": "COP31: Die Weltklimakonferenz ringt weiter um ein Abschlussdokument",
+          "link": "https://www.handelsblatt.com/politik/deutschland/cop31-die-weltklimakonferenz-ringt-weiter-um-ein-abschlussdokument/100270720.html",
+          "published": "2026-11-21T17:35:42+00:00",
+          "summary": "Das Verbrennen von Öl, Gas und Kohle lässt die Klimakrise eskalieren. Doch werden sie in der Abschlusserklärung erwähnt? Das ist nur eine der Fragen, um die man in Antalya streitet."
+        },
+        {
           "title": "Chip-Konzern: Aufsicht SEC überprüft laut Bericht Nvidia-Bilanzierung – Aktie fällt weiter",
           "link": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html",
           "published": "2026-11-21T16:33:31+00:00",
           "summary": "Nvidia droht neues Ungemach: Aufseher untersuchen offenbar die Buchhaltung des Konzerns – und den Schmuggel von Chips nach China. Präsident Trump fordert derweil die Rückkehr von Ex-Chef Huang."
-        },
-        {
-          "title": "+++ Ukraine-Krieg +++: Rutte spricht sich nach Vorfall für Verteidigung Polens aus",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-rutte-spricht-sich-nach-vorfall-fuer-verteidigung-polens-aus/27982126.html",
-          "published": "2026-11-21T16:09:00+00:00",
-          "summary": "Selenskyj nennt Dreiergipfel Misserfolg für Putin +++ Wildberries-Chefin Kim tritt nach EU-Sanktionen zurück +++ Umfrage: Fast jeder Zweite für Kürzung der Ukraine-Hilfen +++ Der Newsblog."
-        },
-        {
-          "title": "Zukunftsgestalter: Ein Schatz aus Schrott: Pforzheimer Start-up will Abhängigkeit von seltenen Erden durchbrechen",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/seltene-erden-pforzheimer-start-up-will-abhaengigkeit-mit-schrott-durchbrechen/100268500.html",
-          "published": "2026-11-21T15:52:08+00:00",
-          "summary": "Ein deutscher Professor zielt darauf, Europa von Chinas seltenen Erden unabhängiger zu machen. Mit seinem Start-up baut er eine vielversprechende Technik. Doch die Politik muss erst mitspielen."
-        },
-        {
-          "title": "Wohnen im Alter: Das Geschäft mit den Senioren-Wohnungen boomt",
-          "link": "https://www.handelsblatt.com/finanzen/immobilien/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100270250.html",
-          "published": "2026-11-21T15:24:41+00:00",
-          "summary": "Bis 2055 könnten 7,6 Millionen Deutsche pflegebedürftig sein. Wo sollen sie leben? Besuche in Luxusheimen und in früheren Kaufhäusern zeigen Lösungen."
-        },
-        {
-          "title": "Ringen um Billionen-Haushalt: Neue EU-Digitalsteuer soll Streit um Haushalt entschärfen",
-          "link": "https://www.handelsblatt.com/politik/international/ringen-um-billionen-haushalt-neue-eu-digitalsteuer-soll-streit-um-haushalt-entschaerfen/100271742.html",
-          "published": "2026-11-21T15:21:04+00:00",
-          "summary": "Eine neue EU-Digitalsteuer soll nach dem Willen EU-Ratspräsident Costa künftig zur Finanzierung der EU beitragen. Der Vorschlag ist Teil eines neuen Kompromissvorschlags."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Wahrhaft kreative Seele\" : Luxus-Juwelier Paolo Bulgari ist tot",
+          "link": "https://www.n-tv.de/wirtschaft/Luxus-Juwelier-Paolo-Bulgari-ist-tot-id31562488.html",
+          "published": "2026-11-21T17:29:36+00:00",
+          "summary": "Smaragde waren seine besondere Leidenschaft, doch Inspiration fand Paolo Bulgari nach eigenen Worten überall. Über Jahrzehnte prägte er das berühmte Familienunternehmen. Nun ist der Schmuckdesigner …"
+        },
         {
           "title": "Reichste Frau Russlands: Wildberries-Gründerin gibt nach neuen Sanktionen Chefposten ab",
           "link": "https://www.n-tv.de/wirtschaft/Wildberries-Gruenderin-gibt-nach-neuen-Sanktionen-Chefposten-ab-id31562326.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/China-startet-Linienverkehr-durch-die-Arktis-id31547269.html",
           "published": "2026-11-21T12:17:59+00:00",
           "summary": "China hat als erstes Land einen Linienverkehr auf der riskanten Nordostpassage etabliert. Auch Südkorea hat einen Frachter durch das arktische Eis nach Europa geschickt. Ist die Schifffahrtsroute …"
-        },
-        {
-          "title": "Trotz Senkung der Stromsteuer: Millionen Haushalte müssen mit Preiserhöhungen für Strom und Gas rechnen",
-          "link": "https://www.n-tv.de/wirtschaft/Millionen-Haushalte-muessen-mit-Preiserhoehungen-fuer-Strom-und-Gas-rechnen-id31561553.html",
-          "published": "2026-11-21T09:59:29+00:00",
-          "summary": "Haushalte, die Strom und Gas über den Grundversorgungstarif beziehen, müssen sich auf Preiserhöhungen einstellen. Auch die geplante Stromsteuersenkung kann den Anstieg nicht vollständig abfedern. …"
         }
       ],
       "error": null
@@ -172,6 +172,12 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Bayer: US-Richter genehmigt Milliarden-Vergleich zu Glyphosat",
+          "link": "https://www.wiwo.de/unternehmen/industrie/glyphosat-us-richter-genehmigt-milliarden-vergleich-fuer-bayer/100271729.html",
+          "published": "2026-11-21T16:31:00+00:00",
+          "summary": "Mit dem Glyphosat-Vergleich steht eine der größten Krisen in der Bayer-Historie vor dem Ende. Doch bald wird ein anderer Gefahrstoff mehr Probleme bereiten."
+        },
+        {
           "title": "Welthandel: EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
           "link": "https://www.wiwo.de/politik/europa/welthandel-eu-und-indonesien-unterzeichnen-weitreichenden-handelsdeal/100271767.html",
           "published": "2026-11-21T15:13:16+00:00",
@@ -194,12 +200,6 @@
           "link": "https://www.wiwo.de/unternehmen/auto/vw-tarifkonflikt-der-sparkurs-braucht-eine-perspektive-fuer-die-mitarbeiter/100271563.html",
           "published": "2026-11-21T15:00:00+00:00",
           "summary": "Bei VW droht ein kräftezehrender Tarifkonflikt. Das liegt auch am Management, das harte Einschnitte fordert, ohne Perspektiven aufzuzeigen. Ein Kommentar."
-        },
-        {
-          "title": "Commerzbank-Übernahme: UniCredit verspricht bei der Commerzbank heiße Luft – der Vizekanzler jubelt",
-          "link": "https://www.wiwo.de/unternehmen/banken/unicredit-verspricht-bei-der-commerzbank-heisse-luft-der-vizekanzler-jubelt/100271294.html",
-          "published": "2026-11-21T15:00:00+00:00",
-          "summary": "Die Bundesregierung verkündet eine Einigung mit UniCredit über die Commerzbank. Damit gesteht sie ihr Scheitern ein – und schadet womöglich Steuerzahlern. Ein Kommentar."
         }
       ],
       "error": null
@@ -211,10 +211,22 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Riemannsche Vermutung: KI liefert möglichen Beweis für 167 Jahre altes Rätsel",
-          "link": "https://www.ingenieur.de/riemannsche-vermutung-ki-liefert-moeglichen-beweis-fuer-167-jahre-altes-raetsel-134e428c-97fd-4992-ac52-45e3ed87b957/",
-          "published": "2026-11-21T13:01:44+00:00",
+          "title": "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
+          "link": "https://www.ingenieur.de/26-000-km-h-neuer-schutzschild-soll-astronauten-vor-weltraumschrott-schuetzen-138c9ff1-d369-490b-b338-f2d1623cec99/",
+          "published": "2026-11-21T20:31:34+00:00",
+          "summary": "Space Armor soll Astronauten vor Weltraumschrott schützen. Ein Einschlagtest mit fast 26.000 km/h zeigt, wie sich das Material schlägt."
+        },
+        {
+          "title": "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
+          "link": "https://www.ingenieur.de/riemannsche-vermutung-hat-ki-das-groesste-mathe-raetsel-nach-167-jahren-geloest-134e428c-97fd-4992-ac52-45e3ed87b957/",
+          "published": "2026-11-21T19:01:00+00:00",
           "summary": "KI-Modell Claude liefert einen formalen Beweis für die Riemannsche Vermutung. Unabhängige Prüfungen laufen – offiziell gelöst ist sie noch nicht."
+        },
+        {
+          "title": "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
+          "link": "https://www.ingenieur.de/air-india-absturz-ermittler-stehen-vor-dem-abschluss-doch-eine-frage-bleibt-8611fe76-9995-4087-ae19-219afae239f4/",
+          "published": "2026-11-21T18:50:00+00:00",
+          "summary": "Air-India-Absturz: Ermittler stehen vor dem Abschluss. Warum die Kraftstoffzufuhr beider Triebwerke von Flug AI171 ausfiel, bleibt offen."
         },
         {
           "title": "311 m Brücke, 950 t Stahl, doch dann machte der Rhein nicht mit",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/ueber-1500-t-schwer-152-m-lang-zwei-riesenmaschinen-graben-auf-new-york-zu-eda4eb99-ef6f-4697-8e60-787def72cb3c/",
           "published": "2026-11-20T21:15:35+00:00",
           "summary": "Zwei über 1500 t schwere Tunnelbohrmaschinen graben bei New York. Doch nach 1,5 km werden sie ausgetauscht. Warum sind vier Maschinen nötig?"
-        },
-        {
-          "title": "Winzige Schwarze Löcher könnten den Kosmos ein zweites Mal erhitzt haben",
-          "link": "https://www.ingenieur.de/winzige-schwarze-loecher-koennten-den-kosmos-ein-zweites-mal-erhitzt-haben-3caaf1b6-ec36-46a0-a939-6ec9e0a8e8ba/",
-          "published": "2026-11-20T16:30:00+00:00",
-          "summary": "Winzige Schwarze Löcher könnten das frühe Universum aufgeheizt haben. Neue Berechnungen aus Mainz zeigen, warum diese Theorie möglich bleibt."
-        },
-        {
-          "title": "10 Stunden Strom ohne Lithium: Deutsche Batterie geht nach Kalifornien",
-          "link": "https://www.ingenieur.de/zehn-stunden-strom-ohne-lithium-deutsche-batterie-geht-nach-kalifornien-1169b063-14a4-4e6c-87be-c4e02916a0aa/",
-          "published": "2026-11-20T15:30:00+00:00",
-          "summary": "Ein Unternehmen aus Unterfranken soll in Kalifornien einen Stromspeicher bauen, der zehn Stunden lang Energie liefert und ohne Lithium auskommt. Die Batterie speichert Strom in Flüssigkeiten und …"
         }
       ],
       "error": null
