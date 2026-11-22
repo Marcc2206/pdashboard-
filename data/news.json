@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T04:59:16+00:00",
+  "generatedAt": "2026-11-22T14:00:22+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
-          "published": "2026-11-22T03:50:01+00:00",
-          "summary": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt. Im Norden will die IG Metall Küste jetzt nachlegen: Nochmal soll für 24 Stunden gestreikt werden …"
-        },
-        {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1687834.html",
-          "published": "2026-11-22T03:49:35+00:00",
+          "title": "Katharina Willinger, ARD Istanbul, zu Protesten gegen Einschränkungen der Pressefreiheit",
+          "link": "https://www.tagesschau.de/video/video-1687946.html",
+          "published": "2026-11-22T13:38:47+00:00",
           "summary": ""
         },
         {
-          "title": "Klimakonferenz in Antalya: Neuer Entwurf soll den Durchbruch bringen",
-          "link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
-          "published": "2026-11-22T01:55:26+00:00",
-          "summary": "Eigentlich sollte die COP31 Freitag enden - doch die fast 200 Staaten ringen in der Türkei weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien. Ein neuer Entwurf …"
+          "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, zur fehlenden Einigung bei der Weltklimakonferenz",
+          "link": "https://www.tagesschau.de/video/video-1687942.html",
+          "published": "2026-11-22T13:23:08+00:00",
+          "summary": ""
         },
         {
           "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-82212.html",
-          "published": "2026-11-22T00:12:26+00:00",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82188.html",
+          "published": "2026-11-22T13:19:31+00:00",
           "summary": ""
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-12990.html",
-          "published": "2026-11-21T22:33:06+00:00",
-          "summary": ""
+          "title": "Wieder Absence bei Musiala - starke Kritik an Umgang des FCB",
+          "link": "https://www.sportschau.de/regional/br/br-wieder-absence-bei-musiala-starke-kritik-an-umgang-des-fcb-102.html",
+          "published": "2026-11-22T13:16:54+00:00",
+          "summary": "Der Umgang des FC Bayern mit Jamal Musialas gesundheitlichen Problemen sorgt für immer mehr Kritik. Neben internationalen Stars meldet sich auch die Spielergewerkschaft FIFPRO zu Wort."
+        },
+        {
+          "title": "Weltklimakonferenz: Keine Einigung auf Abschlusserklärung",
+          "link": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
+          "published": "2026-11-22T12:40:13+00:00",
+          "summary": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. Zuvor hatte es am Papier unter anderem von Deutschland und der EU …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Umwelt: Klimagipfel: Neuer Textentwurf erwähnt Öl und Gas nicht",
-          "link": "https://www.handelsblatt.com/politik/international/umwelt-klimagipfel-neuer-textentwurf-erwaehnt-oel-und-gas-nicht/100271812.html",
-          "published": "2026-11-22T04:16:47+00:00",
-          "summary": "Nach weit über 30 Stunden Verlängerung liegt der Konferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor. Darin wird eine bittere Wahrheit anerkannt."
+          "title": "Immobilien: Spanien will Banken für Wohnungsbau stärker zur Kasse bitten",
+          "link": "https://www.handelsblatt.com/politik/international/immobilien-spanien-will-banken-fuer-wohnungsbau-staerker-zur-kasse-bitten/100271867.html",
+          "published": "2026-11-22T13:42:22+00:00",
+          "summary": "Die Regierung von Pedro Sánchez will eine Sondersteuer auf Bankgewinne kurz vor der Wahl am 29. November verlängern. Die 1,4 Milliarden Euro sollen in den Wohnungsbau fließen."
         },
         {
-          "title": "Brennstoffe: Heizen mit Holz: Preise gestiegen - so lässt sich sparen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/brennstoffe-heizen-mit-holz-preise-gestiegen-so-laesst-sich-sparen/100271809.html",
-          "published": "2026-11-22T04:00:28+00:00",
-          "summary": "Der Winter steht vor der Tür und in den Wohnungen wird wieder geheizt. Öl und Gas sind wegen internationaler Krisen deutlich teurer geworden. Doch wie hat sich der Markt für Brennholz entwickelt?"
+          "title": "Kolumne Inside America: Wasser, Konserven und Stromgenerator: Warum Amerikaner sich auf den Ernstfall vorbereiten",
+          "link": "https://www.handelsblatt.com/meinung/kolumnen/kolumne-inside-america-warum-amerikaner-sich-auf-den-ernstfall-vorbereiten/100271367.html",
+          "published": "2026-11-22T13:40:05+00:00",
+          "summary": "IT-Ausfälle haben in den USA die Hamsterkäufe angeheizt. Doch die Angst vor einem digitalen Blackout ist nur ein Grund, warum immer mehr Amerikaner Vorräte anlegen."
         },
         {
-          "title": "Bundespräsidentenwahl: Umfrage: Aigner sollte sich bei AfD und Linken vorstellen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-umfrage-aigner-sollte-sich-bei-afd-und-linken-vorstellen/100271808.html",
-          "published": "2026-11-22T04:00:04+00:00",
-          "summary": "Sollte sich eine „Kandidatin der Mitte“ für das Bundespräsidentenamt bei AfD und Linken vorstellen? Ilse Aigner hat die Frage vorerst mit einem Nein beantwortet. Die Menschen im Land sehen das anders."
+          "title": "Deep Read: Zehn Wochen vom vertraulichen Brief bis zum Aus: So scheiterte der Milliarden-Plan von BASF",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/basf-und-evonik-der-zerplatzte-traum-vom-deutschen-chemie-champion/100271483.html",
+          "published": "2026-11-22T13:35:34+00:00",
+          "summary": "BASF-Chef Kamieth wollte mit Evonik einen global mächtigen Chemie-Champion schaffen. Doch sein Management unterschätzte den politischen Widerstand. Rekonstruktion eines Fehlschlags."
         },
         {
-          "title": "Pilgerort Okunoin: Durch Nacht und Nebel: Auf Japans größtem Friedhof",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/pilgerort-okunoin-durch-nacht-und-nebel-auf-japans-groesstem-friedhof/100271804.html",
-          "published": "2026-11-22T03:11:13+00:00",
-          "summary": "Seit alters pilgern Gläubige nach Koyasan - auf der Suche nach Erlösung, Erleuchtung und der Nähe eines Mönchs, der dem Glauben nach nie gestorben ist - und seit 1.200 Jahren mit Essen versorgt wird."
+          "title": "Börse: Chinas Börsen lockern Regeln für Wertpapierkredite",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/china-boersen-anleger-koennen-sich-ab-30-november-mehr-geld-fuer-aktien-leihen/100271866.html",
+          "published": "2026-11-22T13:34:44+00:00",
+          "summary": "Die chinesischen Leitindizes haben zuletzt deutlich nachgelassen. Darum werden nun die Vorgaben gelockert. Auch Südkorea und Taiwan planen Maßnahmen gegen fallende Kurse."
         },
         {
-          "title": "+++ Iran-Krieg +++: Bahrain gerät erneut unter iranischen Beschuss",
-          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss/100136895.html",
-          "published": "2026-11-22T02:26:00+00:00",
-          "summary": "Neue Angriffe auf Tanker in umkämpfter Straße von Hormus +++ Saudi-Arabien wehrt erneut Angriffe auf Riad ab +++ Neue Angriffe auf Tanker in Straße von Hormus +++ Der Newsblog."
+          "title": "Weltklimakonferenz: Wut und Frust in Antalya: Klimagipfel schafft keine Einigung",
+          "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-wut-und-frust-in-antalya-klimagipfel-schafft-keine-einigung/100271812.html",
+          "published": "2026-11-22T13:24:20+00:00",
+          "summary": "Zwei Wochen haben Tausende Diplomaten aus knapp 200 Staaten über Wege zur Eindämmung der Erderwärmung debattiert. Trotzdem endet der Gipfel ohne angemessene Antwort auf die eskalierende Krise."
         }
       ],
       "error": null
@@ -85,6 +85,18 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "Entlastung für Binnenschifffahrt: Ist im Rhein wieder genug Wasser?",
+          "link": "https://www.n-tv.de/wirtschaft/Ist-im-Rhein-wieder-genug-Wasser-id31563909.html",
+          "published": "2026-11-22T13:46:50+00:00",
+          "summary": "Nach Monaten extremer Trockenheit steigen die Pegel der Flüsse durch anhaltende Regenfälle wieder an. Selbst am Engpass Kaub im Rhein könnte der Wasserstand bald wieder über drei Meter sein. Das …"
+        },
+        {
+          "title": "Konzerne lösen Sammlungen auf: Warum sich Unternehmen von ihren Kunstwerken trennen",
+          "link": "https://www.n-tv.de/wirtschaft/Warum-sich-Unternehmen-von-ihren-Kunstwerken-trennen-id31563404.html",
+          "published": "2026-11-22T10:20:51+00:00",
+          "summary": "Ein Unternehmen mithilfe von Kunstwerken zu repräsentieren, war noch bis vor einigen Jahren üblich. Homeoffices, Workspaces und steigende Versicherungskosten machen Kunst für Firmen offenbar …"
+        },
         {
           "title": "\"Mich bestürzt das\": Lauterbach beklagt gewaltigen KI-Rückstand in Deutschland",
           "link": "https://www.n-tv.de/wirtschaft/Lauterbach-beklagt-gewaltigen-KI-Rueckstand-in-Deutschland-id31562722.html",
@@ -102,18 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Wildberries-Gruenderin-gibt-nach-neuen-Sanktionen-Chefposten-ab-id31562326.html",
           "published": "2026-11-21T16:44:45+00:00",
           "summary": "Wenige Tage nach neuen EU-Sanktionen räumt die vermögendste Frau Russlands ihren Chefsessel. Ein ehemaliger Beamter übernimmt nun die Führung bei Wildberries. Das Unternehmen fungiert als …"
-        },
-        {
-          "title": "\"Haben höhere Betriebskosten\": Reiche will Autobahntankstellen von Preisdeckel ausnehmen",
-          "link": "https://www.n-tv.de/wirtschaft/Reiche-will-Autobahntankstellen-von-Preisdeckel-ausnehmen-id31561962.html",
-          "published": "2026-11-21T15:31:54+00:00",
-          "summary": "An Tankstellen, die an Autobahnen stehen soll der geplante Spritpreisdeckel nicht gelten - wenn es nach Wirtschaftsministerin Katherina Reiche geht. Der geplante bundesweite Preisdeckel wäre laut …"
-        },
-        {
-          "title": "Hightech-Aktien im Abwärtsstrudel: Warum der Markt den Prognosen nicht glaubt",
-          "link": "https://www.n-tv.de/wirtschaft/Warum-der-Markt-den-Prognosen-nicht-glaubt-id31559990.html",
-          "published": "2026-11-21T14:30:00+00:00",
-          "summary": "Nvidia verdoppelt Gewinn und Umsatz, Anthropic legt einen erfolgreichen Börsengang hin: Trotzdem geraten die Tech-Aktien kurz danach in einen Abwärtsstrudel. Gleichzeitig prognostizieren Analysten …"
         }
       ],
       "error": null
@@ -132,6 +132,12 @@
       "site": "https://www.tagesschau.de/wirtschaft/finanzen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
+        {
+          "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
+          "published": "2026-11-22T10:25:29+00:00",
+          "summary": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und …"
+        },
         {
           "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
@@ -155,12 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
           "published": "2026-11-18T15:36:01+00:00",
           "summary": "Die Bundesregierung schlägt Markus Brunnermeier als nächsten Chefvolkswirt der Europäischen Zentralbank vor. Der Posten gilt als einflussreich, wenn es um geldpolitische Entscheidungen der Notenbank …"
-        },
-        {
-          "title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
-          "published": "2026-11-18T13:48:13+00:00",
-          "summary": "Die Deutsche Bank bemüht sich nach dem XXL-Datenleak um Schadensbegrenzung. Anleger gehen auf Nummer sicher und verkaufen weiter ihre Aktien."
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Bayer: US-Richter genehmigt Milliarden-Vergleich zu Glyphosat",
-          "link": "https://www.wiwo.de/unternehmen/industrie/glyphosat-us-richter-genehmigt-milliarden-vergleich-fuer-bayer/100271729.html",
-          "published": "2026-11-21T16:31:00+00:00",
-          "summary": "Mit dem Glyphosat-Vergleich steht eine der größten Krisen in der Bayer-Historie vor dem Ende. Doch bald wird ein anderer Gefahrstoff mehr Probleme bereiten."
+          "title": "Mein Wendepunkt: „Die Parteispitze und der Bundeskanzler waren gar nicht begeistert“",
+          "link": "https://www.wiwo.de/erfolg/management/tim-kluessendorf-wie-ein-parteitag-vor-drei-jahren-seine-karriere-praegte/100271242.html",
+          "published": "2026-11-22T13:00:32+00:00",
+          "summary": "Tim Klüssendorf widersetzte sich 2023 dem Willen der SPD-Parteispitze und brachte einen umstrittenen Antrag ein. Dieser Konflikt ebnete ihm seinen weiteren Weg."
         },
         {
-          "title": "Welthandel: EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-          "link": "https://www.wiwo.de/politik/europa/welthandel-eu-und-indonesien-unterzeichnen-weitreichenden-handelsdeal/100271767.html",
-          "published": "2026-11-21T15:13:16+00:00",
-          "summary": "Weniger Zölle auf Autos, besserer Zugang zu wichtigen Rohstoffen: Neue Abkommen mit dem weltgrößten Inselstaat sollen europäischen Unternehmen neue Chancen eröffnen."
+          "title": "Bildung: Schüler protestieren gegen Bildungskrise – doch was kostet sie wirtschaftlich?",
+          "link": "https://www.wiwo.de/politik/deutschland/bildungskrise-warum-deutschlands-schulmisere-billionen-kostet/100270603.html",
+          "published": "2026-11-22T12:59:00+00:00",
+          "summary": "Deutschlands Schüler schneiden so schlecht ab wie nie. Das könnte die Wirtschaft Billionen kosten. Warum bekommt die Politik die Krise nicht in den Griff?"
         },
         {
-          "title": "Globaler ETF: Das kann der besonders günstige Welt-ETF von iShares",
-          "link": "https://www.wiwo.de/finanzen/geldanlage/ishares-msci-world-imi-das-kann-der-besonders-guenstige-welt-etf/100271396.html",
-          "published": "2026-11-21T15:10:00+00:00",
-          "summary": "Die BlackRock-Tochter geht mit einem neuen, günstigen Indexfonds auf einen globalen Aktienindex an den Start. Ist das jetzt der ultimative Welt-ETF?"
+          "title": "COP31: Klimakonferenz scheitert an zentralem Abschlusstext",
+          "link": "https://www.wiwo.de/politik/ausland/cop31-klimakonferenz-scheitert-an-zentralem-abschlusstext/100271646.html",
+          "published": "2026-11-22T12:53:00+00:00",
+          "summary": "Zwei Wochen haben Diplomaten aus knapp 200 Staaten über Wege zur Eindämmung der Erderwärmung debattiert. Trotzdem endet der Gipfel ohne angemessene Antwort."
         },
         {
-          "title": "Arbeitsmarkt: „Die meisten Leute erhalten überschaubare Abfindungen“",
-          "link": "https://www.wiwo.de/politik/deutschland/arbeitsmarkt-die-meisten-leute-erhalten-ueberschaubare-abfindungen/100270474.html",
-          "published": "2026-11-21T15:05:00+00:00",
-          "summary": "Die geplante Arbeitsmarktreform dürfte nur wenig wirken, erwartet der Ökonom Holger Schäfer. Denn die Leerstellen bleiben: Wochenarbeitszeit und Arbeitsanreize."
+          "title": "Bildungssystem: Abi, Studium, Job, Haus – das Versprechen gilt nicht mehr",
+          "link": "https://www.wiwo.de/politik/deutschland/bundesschuelerkonferenz-warum-das-aufstiegsversprechen-bricht/100271340.html",
+          "published": "2026-11-22T12:47:35+00:00",
+          "summary": "Eine Schüler-Vertreterin über Defizite im Bildungssystem, politische Verantwortung und die Lebensrealität ihrer Generation. Ein Protokoll."
         },
         {
-          "title": "VW-Tarifkonflikt: Die VW-Mitarbeiter brauchen Aussichten – Oliver Blume muss sie liefern",
-          "link": "https://www.wiwo.de/unternehmen/auto/vw-tarifkonflikt-der-sparkurs-braucht-eine-perspektive-fuer-die-mitarbeiter/100271563.html",
-          "published": "2026-11-21T15:00:00+00:00",
-          "summary": "Bei VW droht ein kräftezehrender Tarifkonflikt. Das liegt auch am Management, das harte Einschnitte fordert, ohne Perspektiven aufzuzeigen. Ein Kommentar."
+          "title": "Spritpreisdeckel: Reiche will Autobahn-Tankstellen vom Preisdeckel ausnehmen",
+          "link": "https://www.wiwo.de/politik/deutschland/teures-tanken-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen/100271752.html",
+          "published": "2026-11-22T12:31:00+00:00",
+          "summary": "Ab Januar soll ein Preisdeckel für Benzin und Diesel gelten – doch vielleicht nicht an allen Tankstellen. Das plant zumindest Wirtschaftsministerin Reiche."
         }
       ],
       "error": null
@@ -210,6 +210,18 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
+          "link": "https://www.ingenieur.de/fuenfmal-laenger-haltbar-berliner-forscher-entwickeln-bruecke-aus-holz-und-granit-ae3f1e61-09b7-45d5-9ea8-409b586e563b/",
+          "published": "2026-11-22T09:24:11+00:00",
+          "summary": "Berliner Forscher entwickeln eine Brücke aus Holz und Granit, die bis zu fünfmal länger halten soll. Belastungstests zeigen, was die Konstruktion kann."
+        },
+        {
+          "title": "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
+          "link": "https://www.ingenieur.de/bayern-stellt-musialas-gehalt-infrage-duerfte-ihr-chef-das-auch-53bb18f8-afb3-403b-bf85-83e042c7fc53/",
+          "published": "2026-11-22T08:37:21+00:00",
+          "summary": "Bayern diskutiert über Musialas Gehalt nach gesundheitlichen Problemen. Dürfte Ihr Chef dasselbe tun? Was Arbeitsrecht und Fürsorgepflicht sagen."
+        },
         {
           "title": "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
           "link": "https://www.ingenieur.de/26-000-km-h-neuer-schutzschild-soll-astronauten-vor-weltraumschrott-schuetzen-138c9ff1-d369-490b-b338-f2d1623cec99/",
@@ -227,18 +239,6 @@
           "link": "https://www.ingenieur.de/air-india-absturz-ermittler-stehen-vor-dem-abschluss-doch-eine-frage-bleibt-8611fe76-9995-4087-ae19-219afae239f4/",
           "published": "2026-11-21T18:50:00+00:00",
           "summary": "Air-India-Absturz: Ermittler stehen vor dem Abschluss. Warum die Kraftstoffzufuhr beider Triebwerke von Flug AI171 ausfiel, bleibt offen."
-        },
-        {
-          "title": "311 m Brücke, 950 t Stahl, doch dann machte der Rhein nicht mit",
-          "link": "https://www.ingenieur.de/311-m-bruecke-950-t-stahl-doch-dann-machte-der-rhein-nicht-mit-e9e3e174-102f-4734-b4da-938586884fc5/",
-          "published": "2026-11-20T21:50:00+00:00",
-          "summary": "Niedrigwasser stoppte den Einhub der Pfaffendorfer Brücke: Nun sollen zwei 475-Tonnen-Stahlsegmente die letzte Lücke schließen."
-        },
-        {
-          "title": "Über 1500 t schwer, 152 m lang: Zwei deutsche Tunnelbohrer graben auf New York zu",
-          "link": "https://www.ingenieur.de/ueber-1500-t-schwer-152-m-lang-zwei-riesenmaschinen-graben-auf-new-york-zu-eda4eb99-ef6f-4697-8e60-787def72cb3c/",
-          "published": "2026-11-20T21:15:35+00:00",
-          "summary": "Zwei über 1500 t schwere Tunnelbohrmaschinen graben bei New York. Doch nach 1,5 km werden sie ausgetauscht. Warum sind vier Maschinen nötig?"
         }
       ],
       "error": null
