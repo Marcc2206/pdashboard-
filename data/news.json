@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:44:47+00:00",
+  "generatedAt": "2026-11-22T04:59:16+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
+          "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+          "published": "2026-11-22T03:50:01+00:00",
+          "summary": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt. Im Norden will die IG Metall Küste jetzt nachlegen: Nochmal soll für 24 Stunden gestreikt werden …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1687834.html",
+          "published": "2026-11-22T03:49:35+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Klimakonferenz in Antalya: Neuer Entwurf soll den Durchbruch bringen",
+          "link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+          "published": "2026-11-22T01:55:26+00:00",
+          "summary": "Eigentlich sollte die COP31 Freitag enden - doch die fast 200 Staaten ringen in der Türkei weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien. Ein neuer Entwurf …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82212.html",
+          "published": "2026-11-22T00:12:26+00:00",
+          "summary": ""
+        },
+        {
           "title": "tagesthemen",
           "link": "https://www.tagesschau.de/tagesthemen/tt-12990.html",
           "published": "2026-11-21T22:33:06+00:00",
           "summary": ""
-        },
-        {
-          "title": "Kolumbien: UNICEF besorgt über die anhaltende Rekrutierung von Kindern als Guerillasoldaten",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1687820.html",
-          "published": "2026-11-21T22:29:42+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Münchner Autobahn A99 wegen Brückenabriss gesperrt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1687818.html",
-          "published": "2026-11-21T22:26:50+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Weltklimakonferenz in Antalya: Noch keine Einigung auf Abschlusserklärung",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1687816.html",
-          "published": "2026-11-21T22:22:07+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Scheitert die UN-Klimakonferenz in Antalya?",
-          "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
-          "published": "2026-11-21T20:21:36+00:00",
-          "summary": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Ostsee: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
-          "link": "https://www.handelsblatt.com/politik/international/ostsee-russisches-frachtschiff-nach-drohnenangriff-vor-finnland-in-brand/100271784.html",
-          "published": "2026-11-21T19:46:09+00:00",
-          "summary": "Finnland vermutet die Ukraine hinter dem Angriff. Der Frachter trieb in finnische Gewässer, wo die Behörden den Luft- und Seeverkehr einschränkten."
+          "title": "Umwelt: Klimagipfel: Neuer Textentwurf erwähnt Öl und Gas nicht",
+          "link": "https://www.handelsblatt.com/politik/international/umwelt-klimagipfel-neuer-textentwurf-erwaehnt-oel-und-gas-nicht/100271812.html",
+          "published": "2026-11-22T04:16:47+00:00",
+          "summary": "Nach weit über 30 Stunden Verlängerung liegt der Konferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor. Darin wird eine bittere Wahrheit anerkannt."
         },
         {
-          "title": "+++ Ukraine-Krieg +++: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
-          "link": "https://www.handelsblatt.com/politik/international/ukraine-russisches-frachtschiff-nach-drohnenangriff-vor-finnland-in-brand/27982126.html",
-          "published": "2026-11-21T19:04:00+00:00",
-          "summary": "Rutte spricht sich nach Vorfall für Verteidigung Polens aus +++ Selenskyj nennt Dreiergipfel Misserfolg für Putin +++ Wildberries-Chefin Kim tritt nach EU-Sanktionen zurück +++ Der Newsblog."
+          "title": "Brennstoffe: Heizen mit Holz: Preise gestiegen - so lässt sich sparen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/brennstoffe-heizen-mit-holz-preise-gestiegen-so-laesst-sich-sparen/100271809.html",
+          "published": "2026-11-22T04:00:28+00:00",
+          "summary": "Der Winter steht vor der Tür und in den Wohnungen wird wieder geheizt. Öl und Gas sind wegen internationaler Krisen deutlich teurer geworden. Doch wie hat sich der Markt für Brennholz entwickelt?"
         },
         {
-          "title": "Italienisches Traditionshaus: Schmuckunternehmer Paolo Bulgari gestorben",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/italienisches-traditionshaus-schmuckunternehmer-paolo-bulgari-gestorben/100271779.html",
-          "published": "2026-11-21T18:41:00+00:00",
-          "summary": "Der Enkel des Firmengründers prägte mit seiner Expertise für Edelsteine den Stil des italienischen Schmuckhauses. Bulgari würdigt ihn als „wahre kreative Seele“."
+          "title": "Bundespräsidentenwahl: Umfrage: Aigner sollte sich bei AfD und Linken vorstellen",
+          "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-umfrage-aigner-sollte-sich-bei-afd-und-linken-vorstellen/100271808.html",
+          "published": "2026-11-22T04:00:04+00:00",
+          "summary": "Sollte sich eine „Kandidatin der Mitte“ für das Bundespräsidentenamt bei AfD und Linken vorstellen? Ilse Aigner hat die Frage vorerst mit einem Nein beantwortet. Die Menschen im Land sehen das anders."
         },
         {
-          "title": "COP31: Die Weltklimakonferenz ringt weiter um ein Abschlussdokument",
-          "link": "https://www.handelsblatt.com/politik/deutschland/cop31-die-weltklimakonferenz-ringt-weiter-um-ein-abschlussdokument/100270720.html",
-          "published": "2026-11-21T17:35:42+00:00",
-          "summary": "Das Verbrennen von Öl, Gas und Kohle lässt die Klimakrise eskalieren. Doch werden sie in der Abschlusserklärung erwähnt? Das ist nur eine der Fragen, um die man in Antalya streitet."
+          "title": "Pilgerort Okunoin: Durch Nacht und Nebel: Auf Japans größtem Friedhof",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/pilgerort-okunoin-durch-nacht-und-nebel-auf-japans-groesstem-friedhof/100271804.html",
+          "published": "2026-11-22T03:11:13+00:00",
+          "summary": "Seit alters pilgern Gläubige nach Koyasan - auf der Suche nach Erlösung, Erleuchtung und der Nähe eines Mönchs, der dem Glauben nach nie gestorben ist - und seit 1.200 Jahren mit Essen versorgt wird."
         },
         {
-          "title": "Chip-Konzern: Aufsicht SEC überprüft laut Bericht Nvidia-Bilanzierung – Aktie fällt weiter",
-          "link": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html",
-          "published": "2026-11-21T16:33:31+00:00",
-          "summary": "Nvidia droht neues Ungemach: Aufseher untersuchen offenbar die Buchhaltung des Konzerns – und den Schmuggel von Chips nach China. Präsident Trump fordert derweil die Rückkehr von Ex-Chef Huang."
+          "title": "+++ Iran-Krieg +++: Bahrain gerät erneut unter iranischen Beschuss",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss/100136895.html",
+          "published": "2026-11-22T02:26:00+00:00",
+          "summary": "Neue Angriffe auf Tanker in umkämpfter Straße von Hormus +++ Saudi-Arabien wehrt erneut Angriffe auf Riad ab +++ Neue Angriffe auf Tanker in Straße von Hormus +++ Der Newsblog."
         }
       ],
       "error": null
@@ -85,6 +85,12 @@
       "site": "https://www.n-tv.de/wirtschaft/",
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
+        {
+          "title": "\"Mich bestürzt das\": Lauterbach beklagt gewaltigen KI-Rückstand in Deutschland",
+          "link": "https://www.n-tv.de/wirtschaft/Lauterbach-beklagt-gewaltigen-KI-Rueckstand-in-Deutschland-id31562722.html",
+          "published": "2026-11-22T00:21:19+00:00",
+          "summary": "Eine Forschungsreise in die USA und China sorgt bei Ex-Gesundheitsminister Lauterbach für Alarmstimmung. Bei der KI-Entwicklung sei Deutschland abgehängt, mahnt der SPD-Politiker. Die Bundesregierung …"
+        },
         {
           "title": "\"Wahrhaft kreative Seele\" : Luxus-Juwelier Paolo Bulgari ist tot",
           "link": "https://www.n-tv.de/wirtschaft/Luxus-Juwelier-Paolo-Bulgari-ist-tot-id31562488.html",
@@ -108,12 +114,6 @@
           "link": "https://www.n-tv.de/wirtschaft/Warum-der-Markt-den-Prognosen-nicht-glaubt-id31559990.html",
           "published": "2026-11-21T14:30:00+00:00",
           "summary": "Nvidia verdoppelt Gewinn und Umsatz, Anthropic legt einen erfolgreichen Börsengang hin: Trotzdem geraten die Tech-Aktien kurz danach in einen Abwärtsstrudel. Gleichzeitig prognostizieren Analysten …"
-        },
-        {
-          "title": "Rekordverkehr auf \"Eis-Seidenstraße\": China startet Linienverkehr durch die Arktis",
-          "link": "https://www.n-tv.de/wirtschaft/China-startet-Linienverkehr-durch-die-Arktis-id31547269.html",
-          "published": "2026-11-21T12:17:59+00:00",
-          "summary": "China hat als erstes Land einen Linienverkehr auf der riskanten Nordostpassage etabliert. Auch Südkorea hat einen Frachter durch das arktische Eis nach Europa geschickt. Ist die Schifffahrtsroute …"
         }
       ],
       "error": null
