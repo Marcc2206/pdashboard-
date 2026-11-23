@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T21:30:49+00:00",
+  "generatedAt": "2026-11-23T02:12:31+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Bremen schlägt den HSV im Nordderby klar",
-          "link": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-          "published": "2026-11-22T20:07:14+00:00",
-          "summary": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen 4:0-Erfolg im Nordderby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe."
+          "title": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
+          "link": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
+          "published": "2026-11-23T00:55:05+00:00",
+          "summary": "Die Demokraten haben ihre Mehrheit im US-Repräsentantenhaus weiter ausgebaut. Ab Januar stellen sie dort mindestens 258 Abgeordnete - zuletzt gelang ihnen dies vor mehr als 30 Jahren zu Zeiten von …"
+        },
+        {
+          "title": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
+          "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+          "published": "2026-11-23T00:51:02+00:00",
+          "summary": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Angriff mit Drohnen aus. Berichten zufolge wird die Ukraine …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1688196.html",
-          "published": "2026-11-22T20:04:30+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1688236.html",
+          "published": "2026-11-23T00:47:50+00:00",
           "summary": ""
         },
         {
-          "title": "tagesschau 20:00 Uhr",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688180.html",
-          "published": "2026-11-22T20:04:03+00:00",
-          "summary": "Klimakonferenz COP31 im türkischen Antalya endet ohne Einigung auf gemeinsame Abschlusserklärung, CSU-Chef Söder fordert schnelle Entscheidungen zur Rentenreform, Kritik am Vorschlag um …"
+          "title": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
+          "link": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+          "published": "2026-11-22T23:00:09+00:00",
+          "summary": "Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte für Trainer Baum erstmals seit dem zweiten Spieltag wieder gewonnen. Der 3:1-Sieg verschärft die Krise des 1. FSV Mainz 05."
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82192.html",
-          "published": "2026-11-22T20:02:28+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
-          "link": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
-          "published": "2026-11-22T19:58:18+00:00",
-          "summary": "Der religiös motivierte Kronen-Jubel von BVB-Fußballer Nmecha hat für Diskussionen gesorgt. Bei der Mitgliederversammlung des Vereins äußerte sich Geschäftsführer Cramer nur indirekt. Nmecha sei ein …"
+          "title": "BVB holt sich mit 1:0-Sieg in Mönchengladbach die Tabellenführung",
+          "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
+          "published": "2026-11-22T23:00:08+00:00",
+          "summary": "Der BVB ist neuer Tabellenführer der Fußball-Bundesliga. Beim hart erkämpften Auswärtssieg bei Borussia Mönchengladbach profitierten die Schwarz-Gelben ausgerechnet von einem Patzer des bis dahin …"
         }
       ],
       "error": null
