@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:59:44+00:00",
+  "generatedAt": "2026-11-24T01:35:39+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1688456.html",
-          "published": "2026-11-23T13:46:28+00:00",
+          "title": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
+          "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+          "published": "2026-11-24T00:53:40+00:00",
+          "summary": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie …"
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82256.html",
+          "published": "2026-11-24T00:23:47+00:00",
           "summary": ""
         },
         {
-          "title": "Neue Warnstreiks in der Metall- und Elektroindustrie - Tina Fuchs, SWR",
-          "link": "https://www.tagesschau.de/video/video-1688380.html",
-          "published": "2026-11-23T13:39:10+00:00",
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-13002.html",
+          "published": "2026-11-23T21:54:42+00:00",
           "summary": ""
         },
         {
-          "title": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
-          "link": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html",
-          "published": "2026-11-23T13:34:43+00:00",
-          "summary": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu …"
+          "title": "Christian Mölling, Think Tanks Edina, zum Ukraine-Krieg und einer gefährlichen Eskalation in Europa",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1688802.html",
+          "published": "2026-11-23T21:43:07+00:00",
+          "summary": ""
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "published": "2026-11-23T13:34:16+00:00",
-          "summary": "Am Dienstag zwischen Ostsee und Erzgebirge örtliche Schnee- oder Regenschauer. Sonst trocken und oft auch sonnig. Regional halten sich aber dichte Wolken oder zäher Nebel."
-        },
-        {
-          "title": "Weidenzweige in Kaschmir, Schneefall in Japan, Rappbodetalsperre",
-          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10584.html",
-          "published": "2026-11-23T13:33:45+00:00",
+          "title": "Russische Atomwaffe im Weltall: Wie reagiert die NATO?",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1688800.html",
+          "published": "2026-11-23T21:37:33+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Deutschland: Führt Bürokratieabbau in den wirtschaftlichen Blindflug? Wie Deutschland um die richtige Balance ringt",
-          "link": "https://www.handelsblatt.com/politik/konjunktur/regierung-fuehrt-buerokratieabbau-in-den-wirtschaftlichen-blindflug/100267313.html",
-          "published": "2026-11-23T13:58:00+00:00",
-          "summary": "Mit einer großen Reform will die Bundesregierung die Unternehmen von Statistikpflichten befreien, ohne die Datengrundlage über die Wirtschaft zu gefährden. Kann das gut gehen?"
+          "title": "Nach Ermittlungen: USA setzen Firma in Nvidia-Kontroverse auf schwarze Liste",
+          "link": "https://www.handelsblatt.com/technik/it-internet/nach-ermittlungen-usa-setzen-firma-in-nvidia-kontroverse-auf-schwarze-liste/100272211.html",
+          "published": "2026-11-24T00:10:34+00:00",
+          "summary": "Die Firma Megaspeed geriet durch eine Affäre von Nvidia-Chef Jensen Huang plötzlich ins Rampenlicht. Nun wird sie mit einem Lieferstopp belegt."
         },
         {
-          "title": "Künstliche Intelligenz: „Das wird den ChatGPT-Moment in den Schatten stellen“: Wie KI ein deutsches Wirtschaftswunder schaffen kann",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/ki-wie-physical-ai-der-deutschen-industrie-neue-wachstumschancen-eroeffnet/100268868.html",
-          "published": "2026-11-23T13:57:00+00:00",
-          "summary": "Was die Milliardäre im Silicon Valley reich gemacht hat, erlebt Deutschland bislang nur als Kunde. Exklusive Zahlen und Ingenieure bei Siemens und Mercedes zeigen, wie sich das ändern ließe."
+          "title": "Graben zwischen Generationen: Junge sehen Aktien als gute Altersvorsorge – Ältere zögern",
+          "link": "https://www.handelsblatt.com/politik/deutschland/graben-zwischen-generationen-junge-sehen-aktien-als-gute-altersvorsorge-aeltere-zoegern/100272214.html",
+          "published": "2026-11-24T00:00:04+00:00",
+          "summary": "Das Vertrauen in die gesetzliche Rente sinkt. Besonders junge Menschen setzen laut einer Umfrage auf Aktien – im Gegensatz zu Älteren. Die beliebteste Form der Vorsorge ist allerdings eine andere."
         },
         {
-          "title": "KI: So spart ein Familienunternehmen hohe Beratungskosten",
-          "link": "https://www.handelsblatt.com/karriere/unternehmen-wie-ein-mittelstaendler-mit-ki-viel-geld-an-beratern-spart/100264889.html",
-          "published": "2026-11-23T13:56:00+00:00",
-          "summary": "Die Zeit der Pilotprojekte ist vorbei. Manager von der Otto Group und einem deutschen Mittelständler rechnen vor, wie sie KI in ihren Unternehmen zu messbarem Erfolg führen."
+          "title": "Luftraumverletzungen: Polen wendet sich nach Raketenvorfällen an Visegrad-Gruppe",
+          "link": "https://www.handelsblatt.com/politik/international/luftraumverletzungen-polen-wendet-sich-nach-raketenvorfaellen-an-visegrad-gruppe/100272209.html",
+          "published": "2026-11-23T23:34:10+00:00",
+          "summary": "Drei russische Marschflugkörper dringen in den polnischen Luftraum ein und stürzen ab. Die Nato reagiert mit zusätzlicher Überwachung. Am Abend gibt es erneut Alarm."
         },
         {
-          "title": "Tourismus: Wangen statt Washington: Urlaub in der Heimat ist im Trend – das nutzt Airbnb",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/tourismus-urlaub-in-der-heimat-ist-im-trend-das-nutzt-airbnb/100270979.html",
-          "published": "2026-11-23T13:48:24+00:00",
-          "summary": "Die enormen Preissteigerungen bei Flugreisen drücken die Ergebnisse von Tui und Booking.com. Profiteur ist die US-Plattform Airbnb, die auch deutschen Hotels den Umsatz kostet."
+          "title": "Getränkehersteller: Coca-Cola holt Finanzchef von Pharmakonzern Bristol Myers Squibb",
+          "link": "https://www.handelsblatt.com/unternehmen/getraenkehersteller-coca-cola-holt-finanzchef-von-pharmakonzern-bristol-myers-squibb/100272204.html",
+          "published": "2026-11-23T23:21:03+00:00",
+          "summary": "Der 58-jährige David Elkins wechselt in gleicher Funktion zu dem Getränkehersteller. Er wird seine Position im April des kommenden Jahres antreten."
         },
         {
-          "title": "Schokolade: Pralinen, Skulpturen, Insektenflügel – Die süßesten Innovationen der Welt",
-          "link": "https://www.handelsblatt.com/arts_und_style/innovation-wie-spitzen-chocolatiers-mit-technik-schokolade-revolutionieren/100265523.html",
-          "published": "2026-11-23T13:47:00+00:00",
-          "summary": "Bei den World Chocolate Masters zeigten einige der besten Chocolatiers der Welt, dass Innovation oft unspektakulär wirkt und dennoch eine Welt verändern kann. Ein Besuch in Antwerpen."
+          "title": "Nvidia-Skandal: USA setzen Chip-Firma Megaspeed wegen Spionageverdachts auf Sperrliste",
+          "link": "https://www.handelsblatt.com/politik/international/nvidia-skandal-usa-setzen-chip-firma-megaspeed-wegen-spionageverdachts-auf-sperrliste/100272205.html",
+          "published": "2026-11-23T23:16:27+00:00",
+          "summary": "Die mutmaßliche Spionin Alice Huang war Mehrheitsaktionärin bei Megaspeed. Der singapurische Konzern steht nun auf einer Handelssperrliste."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Marke Toom soll wegfallen: Baumärkte Obi und Toom schließen sich zusammen",
-          "link": "https://www.n-tv.de/wirtschaft/Baumaerkte-Obi-und-Toom-schliessen-sich-zusammen-id31567269.html",
-          "published": "2026-11-23T13:09:07+00:00",
-          "summary": "Der Wettbewerb zwischen den Baumärkten wird kleiner: Die Ketten Obi und Toom wollen fusionieren. Obi bleibt seinen Kunden mit gleichem Namen erhalten - und dürfte bald mehr als 600 Filialen in …"
+          "title": "Huangs Rückkehr euphorisiert: Neuer alter Nividia-Chef setzt Wall Street in Wallung",
+          "link": "https://www.n-tv.de/wirtschaft/Neuer-alter-Nividia-Chef-setzt-Wall-Street-in-Wallung-id31569221.html",
+          "published": "2026-11-23T21:57:47+00:00",
+          "summary": "Die Überraschung schlägt an der Wall Street ein, wie eine Bombe: Die Rückkehr des geschassten Nvidia-Chefs Huang beschert dem Chip-Hersteller einen Kurssprung von rund 950 Milliarden Dollar. Ob die …"
         },
         {
-          "title": "Mögliche Wettbewerbsverstöße: EU ermittelt gegen Coca-Cola-Abfüller",
-          "link": "https://www.n-tv.de/wirtschaft/EU-ermittelt-wegen-Wettbewerbsverstoss-gegen-Coca-Cola-Abfueller-id31566554.html",
-          "published": "2026-11-23T13:04:10+00:00",
-          "summary": "Der größte Abfüller von Coca-Cola-Produkten in Europa verstößt möglicherweise gegen Wettbewerbsrecht. Der Verdacht: Strategien, die den innereuropäischen Handel behindern und Preise erhöhen."
+          "title": "\"Wir lieben dich, Jensen\": Huang wird nach Comeback in Nvidia-Zentrale gefeiert",
+          "link": "https://www.n-tv.de/wirtschaft/Huang-wird-nach-Comeback-in-Nvidia-Zentrale-gefeiert-id31569111.html",
+          "published": "2026-11-23T20:07:48+00:00",
+          "summary": "Wenige Stunden nach seiner überraschenden Rückkehr an die Spitze von Nvidia zeigt sich Jensen Huang im Hauptquartier des Chip-Konzerns seinen Mitarbeitern. Die heißen ihn trotz seines …"
         },
         {
-          "title": "Baubeginn im nächsten Jahr: Lego steckt eine Milliarde Euro in Standort in Portugal",
-          "link": "https://www.n-tv.de/wirtschaft/Lego-steckt-eine-Milliarde-Euro-in-neuen-Standort-in-Portugal-id31566934.html",
-          "published": "2026-11-23T13:01:04+00:00",
-          "summary": "Der Spielzeughersteller aus Dänemark will nach Portugal. Lego kündigt an, in ein neues Werk eine Milliarde Euro investieren zu wollen. Der Konzern verzeichnet in den vergangenen Jahren ein …"
+          "title": "Chinas trojanisches Pferd?: US-Ausschuss droht Mercedes mit Verkaufsverbot",
+          "link": "https://www.n-tv.de/wirtschaft/US-Ausschuss-droht-Mercedes-mit-Verkaufsverbot-id31568512.html",
+          "published": "2026-11-23T17:19:23+00:00",
+          "summary": "Der US-Kongress will chinesische Autos aus dem Land drängen. Das könnte selbst Mercedes treffen, wenn sich nicht etwas ändert. Entweder am Gesetzentwurf oder an Mercedes. Der Autobauer müsste dafür …"
         },
         {
-          "title": "Gut 30 Milliarden Euro Umsatz: Deutsche Exporte nach Afrika legen kräftig zu",
-          "link": "https://www.n-tv.de/wirtschaft/Deutsche-Exporte-nach-Afrika-legen-kraeftig-zu-id31566055.html",
-          "published": "2026-11-23T11:04:59+00:00",
-          "summary": "Nach einem kräftigen Einbruch vor zwei Jahren nehmen die Exporte nach Afrika 2025 wieder zu. Auch 2026 werden mehr Waren verschifft. Der Anteil am deutschen Gesamtexport ist aber weiterhin enorm …"
+          "title": "Hauptsache, die Kurse steigen: Für Jensen Huang wirft Nvidia alle Prinzipien über Bord",
+          "link": "https://www.n-tv.de/wirtschaft/Fuer-Jensen-Huang-wirft-Nvidia-alle-Prinzipien-ueber-Bord-id31568590.html",
+          "published": "2026-11-23T16:39:24+00:00",
+          "summary": "Erst schließt Nvidia eine Rückkehr von Jensen Huang kategorisch aus - kurz darauf ist er wieder CEO. Das Comeback zeigt schonungslos, worauf es bei dem Konzern wirklich ankommt."
         },
         {
-          "title": "Tausende Baustellen bremsen aus: Neues IT-System bringt Fahrpläne der Deutschen Bahn durcheinander",
-          "link": "https://www.n-tv.de/wirtschaft/Neues-IT-System-bringt-Fahrplaene-der-Deutschen-Bahn-durcheinander-id31565781.html",
-          "published": "2026-11-23T10:34:43+00:00",
-          "summary": "Die Deutsche Bahn hat bereits mit vielen Problemen zu kämpfen. Einem Bericht zufolge ist ein weiteres hinzugekommen: ein neues IT-System. Das soll Informationen innerhalb Europas verlässlicher …"
+          "title": "Studie über Rüstungsunternehmer: Historiker: Krupp war das Leid der NS-Zwangsarbeiter gleichgültig",
+          "link": "https://www.n-tv.de/wirtschaft/Historiker-Krupp-war-das-Leid-der-NS-Zwangsarbeiter-gleichgueltig-id31567668.html",
+          "published": "2026-11-23T16:02:54+00:00",
+          "summary": "Mehr als 100.000 Zwangsarbeiter schufteten während des Zweiten Weltkrieges bei Krupp. Eine neue Studie zeigt, wie skrupellos sich der damalige Firmenchef Alfried Krupp dem NS-Regime anpasste. Selbst …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: Huang-Rückkehr lässt Aktienkurse steigen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+          "published": "2026-11-23T17:07:35+00:00",
+          "summary": "Der DAX erholt sich von seinem jüngsten Kursrutsch zunächst nur zaghaft. Doch dann sorgt die Nachricht von der Rückkehr des Nvidia-Chefs für Kurssprünge bei KI-Werten und an den Börsen weltweit."
+        },
+        {
           "title": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
           "published": "2026-11-23T11:49:55+00:00",
           "summary": "Nach dem Kursrutsch beim DAX von 2.000 Punkten in gut einer Woche setzt eine Erholung ein. Doch sie steht auf wackligen Beinen. Viele Negativ-Faktoren begleiten Investoren weiter. Die Stimmung bleibt …"
-        },
-        {
-          "title": "Marktbericht: Anleger kehren vorsichtig zurück in den Markt",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
-          "published": "2026-11-23T09:32:39+00:00",
-          "summary": "Der DAX stabilisiert sich, aber die Sorgen bleiben: Nach dem Tech-Crash der vergangenen Woche bleiben die Anleger tendenziell vorsichtig. Für eine wirklich schwungvolle Erholung fehlt es an positiven …"
         },
         {
           "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Wirtschaft von oben: So stark hinkt Amerikas verkümmerte Industrie den Europäern hinterher",
-          "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/eisbrecher-der-usa-so-stark-hinkt-amerikas-verkuemmerte-industrie-den-europaeern-hinterher/100270915.html",
-          "published": "2026-11-23T13:43:00+00:00",
-          "summary": "Nach Jahrzehnten bauen die USA wieder Arktiseisbrecher. Satellitenbilder zeigen, wie schwer das dem Land fällt – weil die industrielle Basis verloren gegangen ist."
+          "title": "Chipkonzern: Wie Trump Jensen Huang rettet – und Nvidia in die nächste Krise stürzt",
+          "link": "https://www.wiwo.de/unternehmen/it/nvidia-aktie-wie-trump-jensen-huang-rettet-und-nvidia-in-die-naechste-krise-stuerzt/100272177.html",
+          "published": "2026-11-23T18:46:26+00:00",
+          "summary": "Elf Tage nach seinem Fall ist Jensen Huang wieder Nvidia-Chef. Die Börse jubelt. Doch seine Rückkehr offenbart ein gewaltiges Problem: Wer kontrolliert eigentlich Nvidia?"
         },
         {
-          "title": "Tag des Satellitenjournalismus: Entwicklungen vorhersagen, statt später drüber zu staunen",
-          "link": "https://www.wiwo.de/technologie/tag-des-satellitenjournalismus-wie-daten-aus-dem-all-recherchen-veraendern/100272015.html",
-          "published": "2026-11-23T13:34:24+00:00",
-          "summary": "Nicht nur Militärs, auch Journalisten arbeiten immer mehr mit Daten aus dem All. Besonders wichtig sind für sie inzwischen europäische Satellitenkonstellationen."
+          "title": "Kochroboter: Bei Circus ist weiter Druck auf dem Kessel",
+          "link": "https://www.wiwo.de/unternehmen/industrie/circus-se-kochroboter-aktie-im-crash-gelingt-die-wende/100270503.html",
+          "published": "2026-11-23T17:12:51+00:00",
+          "summary": "Der Kochroboterhersteller hat seine Umsatzprognose zuletzt massiv gesenkt, die Aktie brach ein. Doch Gründer Nikolas Bullwinkel glaubt weiter an seine Mission."
         },
         {
-          "title": "Aktienmärkte: Kommt jetzt der Börsencrash?",
-          "link": "https://www.wiwo.de/finanzen/boerse/boersencrash-oder-korrektur-das-bedeutet-der-kursrutsch/100271772.html",
-          "published": "2026-11-23T13:30:00+00:00",
-          "summary": "Anleger starten mit Sorge in die neue Handelswoche. Die Vorwoche war von einem weltweiten Ausverkauf an den Börsen geprägt. Stürzen die Kurse nun weiter in die Tiefe?"
+          "title": "Rückkehr Jensen Huang: Donald Trump ist überzeugt – Er sei die Ursache für Huangs Rückkehr",
+          "link": "https://www.wiwo.de/finanzen/boerse/rueckkehr-jensen-huang-donald-trump-ist-ueberzeugt-er-sei-die-ursache-fuer-huangs-rueckkehr/100272163.html",
+          "published": "2026-11-23T17:07:53+00:00",
+          "summary": "Trump hat nach eigener Darstellung Einfluss auf den Verwaltungsrat von Nvidia genommen. Es gebe keine Bedenken zur Wiedereinstellung Jensen Huangs an die Nvidia-Spitze."
         },
         {
-          "title": "Satellitenjournalismus: Tag des Satellitenjournalismus in Bildern",
-          "link": "https://www.wiwo.de/technologie/satellitenjournalismus-tag-des-satellitenjournalismus-in-bildern/100272048.html",
-          "published": "2026-11-23T13:18:18+00:00",
-          "summary": "In Düsseldorf kamen Journalisten und Satellitenbetreiber zusammen, um über Gegenwart und Zukunft der Rechercheform zu sprechen."
+          "title": "The Platform Group: Dominik Benners Geschäfte mit Risiken und Nebenwirkungen",
+          "link": "https://www.wiwo.de/unternehmen/the-platform-group-dominik-benners-geschaefte-mit-risiken-und-nebenwirkungen/100272060.html",
+          "published": "2026-11-23T16:54:30+00:00",
+          "summary": "Im Pharmabereich wollte TPG durchstarten. Doch der Kauf des Großhändlers AEP wird zur Hängepartie und ein Streit um die Beteiligung ApoNow flammt auf."
         },
         {
-          "title": "Cybersicherheitsbranche: Crowdstrike übernimmt für 43,9 Milliarden Dollar Rivalen Zscaler",
-          "link": "https://www.wiwo.de/finanzen/boerse/crowdstrike-uebernimmt-zscaler-mega-deal-fuer-439-mrd.-dollar/100272056.html",
-          "published": "2026-11-23T13:17:00+00:00",
-          "summary": "Crowdstrike und Zscaler fusionieren zu einem Cybersicherheitsriesen. Der Zukauf soll Millionen Dollar sparen. Doch die Börse reagiert gespalten."
+          "title": "Nvidia-Rally: Fünf Risiken halten die Börsen in Atem",
+          "link": "https://www.wiwo.de/finanzen/boerse/boersen-comeback-nach-nvidia-absturz-fuenf-risiken-im-check/100271976.html",
+          "published": "2026-11-23T16:41:48+00:00",
+          "summary": "Nach 33 Tagen schwerer Kursverluste proben die Börsen das Comeback – dank Nvidia. Welche Risiken es dabei gibt und wann die Korrektur an den Aktienmärkten vorbei sein könnte."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "„CHANGE und CHANCE – das ist nur ein Strich“: Carsten Maschmeyer über Menschen, Ingenieure und den Standort Deutschland",
-          "link": "https://www.ingenieur.de/change-und-chance-das-ist-nur-ein-strich-carsten-maschmeyer-uber-menschen-ingenieure-und-den-standort-deutschland-ca610597-0623-4e9e-8bfc-9d8fff6dc260/",
-          "published": "2026-11-23T13:00:22+00:00",
-          "summary": "Im Gespräch mit ingenieur.de erklärt Investor Carsten Maschmeyer, warum Start-ups im Kern ein „People-Business“ sind, wie erfahrene Ingenieure ihre Stärken in jungen Tech-Unternehmen ausspielen …"
+          "title": "Bundesnetzagentur-Chef Klaus Müller: Von Habecks „Gasmann“ zu Reiches Stabilitätsanker",
+          "link": "https://www.ingenieur.de/klaus-mueller-habecks-gasmann-bleibt-chef-der-bundesnetzagentur-9fd48327-d21a-4fdb-b68b-534ca73ff069/",
+          "published": "2026-11-23T18:10:00+00:00",
+          "summary": "Klaus Müller soll weitere fünf Jahre Präsident der Bundesnetzagentur bleiben. Seine Krisenerfahrung und Konfliktstärke sind bei Netzentgelten gefragt."
         },
         {
-          "title": "Einstein stellt eine Grundregel der Chemie auf den Kopf, jetzt gibt es den Beweis",
-          "link": "https://www.ingenieur.de/einstein-stellt-eine-grundregel-der-chemie-auf-den-kopf-jetzt-gibt-es-den-beweis-f54b3cf6-953f-4137-b579-7d1a65258b44/",
-          "published": "2026-11-23T12:30:00+00:00",
-          "summary": "Einstein stellt eine Chemie-Lehrbuchregel infrage: Forschende beweisen, warum Dreifachbindungen bei schweren Elementen anders funktionieren."
+          "title": "Alte Batterien helfen bei der Wasserreinigung – doch es gibt ein Problem",
+          "link": "https://www.ingenieur.de/alte-batterien-helfen-bei-der-wasserreinigung-doch-es-gibt-ein-problem-8069ad67-42ac-4dc9-8c31-715d27c6d33f/",
+          "published": "2026-11-23T17:30:00+00:00",
+          "summary": "Aus Altbatterien und Eisenschrott erzeugte Nanopartikel entfernen den Farbstoff Kongorot blitzschnell aus Wasser. Doch die Forschenden stießen auch auf ein Problem: Nach der Behandlung wurde Nickel …"
         },
         {
-          "title": "79 % der Jobsuchenden bewerben sich mit KI. Ohne klappt es öfter",
-          "link": "https://www.ingenieur.de/79-bewerben-sich-mit-ki-doch-ohne-klappt-es-ofter-4b2c3028-a5cd-4036-9d08-986920e0f159/",
-          "published": "2026-11-23T12:00:00+00:00",
-          "summary": "Obwohl 79 % der Jobsuchenden KI-Tools nutzen, steigt der Bewerbungsaufwand – und Serienbewerbungen per Algorithmus scheitern öfter. Gleichzeitig legen nur wenige Industriekonzerne den eigenen …"
+          "title": "27.000 m³ Holz: Was vom größten Holzbau der Welt übrig bleibt",
+          "link": "https://www.ingenieur.de/27-000-m3-holz-was-vom-groessten-holzbau-der-welt-uebrig-bleibt-06d830c7-0c24-47b7-bce0-5a4beafb32a7/",
+          "published": "2026-11-23T16:27:57+00:00",
+          "summary": "Der größte Holzbau der Welt wird zerlegt. Was passiert mit den 27.000 m³ Holz? Neue Zahlen zeigen, wie viel tatsächlich weitergenutzt wird."
         },
         {
-          "title": "2,65 Mrd. $ für Ventilatoren: ABB kauft deutschen Technologieführer",
-          "link": "https://www.ingenieur.de/265-mrd-fuer-ventilatoren-abb-kauft-deutschen-technologiefuehrer-cafc227e-2490-4320-a00b-01d510fe6db0/",
-          "published": "2026-11-23T10:00:00+00:00",
-          "summary": "ABB will Ziehl-Abegg übernehmen. Der Unternehmenswert liegt bei 2,65 Mrd. $. Was hinter dem Milliardendeal steckt und welche Folgen er für Deutschland hat."
+          "title": "2600 Stahlträger verschwinden in einer Goldmine, für ein gewaltiges Bauprojekt",
+          "link": "https://www.ingenieur.de/2600-stahltraeger-verschwinden-in-einer-goldmine-fuer-ein-gewaltiges-bauprojekt-edf03621-ea9d-476a-97a9-d311ea480503/",
+          "published": "2026-11-23T15:00:00+00:00",
+          "summary": "In 1478 m Tiefe entsteht ein gigantischer Neutrinodetektor. 2600 Stahlträger, riesige Kavernen und extreme Kälte fordern die Ingenieure."
         },
         {
-          "title": "OPC UA: Der Schutz ist eingebaut, doch viele Fabriken nutzen ihn nicht",
-          "link": "https://www.ingenieur.de/opc-ua-der-schutz-ist-eingebaut-doch-viele-fabriken-nutzen-ihn-nicht-a2d0a8f7-f633-49a2-bdad-953fca2f1101/",
-          "published": "2026-11-23T09:30:00+00:00",
-          "summary": "Über den Standard OPC UA tauschen Maschinen in der Industrie ihre Daten aus. Verschlüsseln könnten sie dabei längst, doch in vielen Fabriken bleibt die Funktion ausgeschaltet. Forscher aus Karlsruhe …"
+          "title": "475 t am Haken: In Koblenz beginnt ein gewaltiger Brückeneinhub",
+          "link": "https://www.ingenieur.de/475-t-am-haken-in-koblenz-beginnt-ein-gewaltiger-brueckeneinhub-e9e3e174-102f-4734-b4da-938586884fc5/",
+          "published": "2026-11-23T14:00:00+00:00",
+          "summary": "Niedrigwasser stoppte den Einhub der Pfaffendorfer Brücke: Nun sollen zwei 475-Tonnen-Stahlsegmente die letzte Lücke schließen."
         }
       ],
       "error": null
