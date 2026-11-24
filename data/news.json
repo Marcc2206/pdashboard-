@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:58:41+00:00",
+  "generatedAt": "2026-11-24T22:14:51+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Wie das VW-Vorzeigewerk Zwickau in die Krise geriet",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-werk-zwickau-zukunft-100.html",
-          "published": "2026-11-24T11:49:57+00:00",
-          "summary": "Einst sollte Zwickau die Zukunft der deutschen Autoindustrie verkörpern. Heute ist die Zukunft des VW-Werks ungewiss - und eine ganze Region in Sorge. Wie konnte es dazu kommen? Von Cezary Bazydło."
+          "title": "RB Leipzig hält dem Druck gegen RC Lens stand",
+          "link": "https://www.sportschau.de/fussball/championsleague/rb-leipzig-haelt-dem-druck-gegen-rc-lens-stand,spielbericht-leipzig-lens-100.html",
+          "published": "2026-11-24T22:11:11+00:00",
+          "summary": "Es war ein hart erkämpfter Erfolg für RB Leipzig gegen RC Lens. Damit haben sich die Sachsen die Chance auf das Achtelfinale erhalten."
         },
         {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-82290.html",
-          "published": "2026-11-24T11:26:59+00:00",
+          "title": "Champions League: BVB liefert FC Arsenal einen großen Kampf",
+          "link": "https://www.sportschau.de/fussball/championsleague/bvb-liefert-dem-fc-arsenal-einen-grossen-kampf,spielbericht-arsenal-dortmund-100.html",
+          "published": "2026-11-24T22:00:18+00:00",
+          "summary": "Borussia Dortmund hat in der Champions League Mitfavorit FC Arsenal ein Remis abgetrotzt. Neben der kämpferischen Leistung war auch das Glück ein Faktor."
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-13008.html",
+          "published": "2026-11-24T21:53:59+00:00",
           "summary": ""
         },
         {
-          "title": "\"Sehr lang und kompliziert\", Christoph Kehlbach, SWR, zum Urteil des Europäischen Gerichtshofs für Menschenrechte zu Pushbacks",
-          "link": "https://www.tagesschau.de/video/video-1688938.html",
-          "published": "2026-11-24T11:22:50+00:00",
+          "title": "Stefanie Hubig, SPD/Bundesjustizministerin, zu häuslicher Gewalt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1689342.html",
+          "published": "2026-11-24T21:38:20+00:00",
           "summary": ""
         },
         {
-          "title": "Lautstarke Proteste zu Beginn der Tarifverhandlungen bei Volkswagen",
-          "link": "https://www.tagesschau.de/video/video-1688946.html",
-          "published": "2026-11-24T11:15:58+00:00",
-          "summary": ""
-        },
-        {
-          "title": "Innenminister Dobrindt bezeichnet aktuellen Bericht zur Gewalt an Frauen als zutiefst schockierend",
-          "link": "https://www.tagesschau.de/video/video-1688942.html",
-          "published": "2026-11-24T11:14:14+00:00",
+          "title": "Das unterschätzte Problem? Gewalt gegen Männer",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1689340.html",
+          "published": "2026-11-24T21:30:35+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "+++ Geschäftszahlen +++: Gewinneinbruch bei Xiaomi – Rückgänge bei Autos und Smartphones",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-gewinneinbruch-bei-xiaomi-rueckgaenge-bei-autos-und-smartphones/24098412.html",
-          "published": "2026-11-24T11:52:08+00:00",
-          "summary": "Schwan Stabilo wächst +++ Temu-Mutterkonzern PDD übertrifft Gewinnprognose +++ Alibaba steigert Ergebnis dank KI-Cloud-Diensten +++ Der Newsblog."
+          "title": "USA: US-Gericht spricht Huawei wegen Betrugs schuldig",
+          "link": "https://www.handelsblatt.com/politik/international/usa-us-gericht-spricht-huawei-wegen-betrugs-schuldig/100272531.html",
+          "published": "2026-11-24T21:36:32+00:00",
+          "summary": "Das chinesische Unternehmen wurde unter anderem wegen Bankbetrugs, Verstößen gegen Sanktionen und Diebstahl von Geschäftsgeheimnissen schuldig gesprochen. Huawei weist die Vorwürfe zurück."
         },
         {
-          "title": "Bayreuther Hell: Trotz Bierkrise: Warum Jeff Maisel eine Brauerei für 90 Millionen Euro gebaut hat",
-          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/bier-warum-jeff-maisel-eine-brauerei-fuer-90-millionen-euro-baut-01/100268743.html",
-          "published": "2026-11-24T11:42:00+00:00",
-          "summary": "Der Bayreuther Brauer in vierter Generation hat gerade eine Brauerei nur für Hellbier eröffnet. Die Sorte liegt im Trend, während der Bierkonsum schrumpft. Wie gewagt ist die Investition?"
+          "title": "Nvidia-Kontroverse: Medien: Huang will nach Rückkehr weiter keinen Nachfolgeplan",
+          "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-kontroverse-medien-huang-will-nach-rueckkehr-weiter-keinen-nachfolgeplan/100272526.html",
+          "published": "2026-11-24T20:47:32+00:00",
+          "summary": "Der alte und neue Nvidia-Chef Jensen Huang glaubt weiterhin nicht, dass Nvidia sich Gedanken über eine Nachfolgelösung für ihn machen muss. Und er sagt den Mitarbeitern, dass er in Therapie sei."
         },
         {
-          "title": "Karriereleiter seitwärts: Downgrade im Job: Wann ein Rücktritt sinnvoll sein kann",
-          "link": "https://www.handelsblatt.com/politik/deutschland/karriereleiter-seitwaerts-downgrade-im-job-wann-ein-ruecktritt-sinnvoll-sein-kann/100272400.html",
-          "published": "2026-11-24T11:33:21+00:00",
-          "summary": "Einen Aufstieg verbinden wir im Beruf mit Erfolg. Einen Abstieg mit Scheitern oder Überforderung. Dabei kann ein freiwilliges „Downgrade“ für die Karriere Vorteile bringen. Ein Jobcoach erklärt warum."
+          "title": "Mittelstandspreis: Warum Heino vor dem Kanzler singt",
+          "link": "https://www.handelsblatt.com/politik/deutschland/mittelstandspreis-warum-heino-vor-dem-kanzler-singt/100272524.html",
+          "published": "2026-11-24T20:32:45+00:00",
+          "summary": "Die Mittelstands- und Wirtschaftsunion feiert ihr 70-jähriges Bestehen – mit einem ganz besonderen Stargast. Der hat einen ziemlich hochrangigen Verehrer."
         },
         {
-          "title": "Haushaltsdebatte: Wie die Opposition die Haushaltspläne der Regierung zerreißt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/haushaltsdebatte-wie-die-opposition-die-haushaltsplaene-der-regierung-zerreisst/100272229.html",
-          "published": "2026-11-24T11:29:14+00:00",
-          "summary": "Die Haushaltswoche im Bundestag ist speziell. In diesem Jahr ganz besonders. Zum Auftakt müssen Kanzler und Vizekanzler einstecken."
+          "title": "Deep Read: „KI hackt besser als ich“: Was eine Cyberattacke aufs Handelsblatt über IT-Sicherheit lehrt",
+          "link": "https://www.handelsblatt.com/technik/it-internet/cyberattacken-was-ein-hackerangriff-aufs-handelsblatt-ueber-it-sicherheit-lehrt/100269783.html",
+          "published": "2026-11-24T19:51:30+00:00",
+          "summary": "Der Angriff auf die Redaktion läuft über Nacht ohne menschliche Hilfe: Eine Plattform sucht mit KI nach Sicherheitslücken und wird fündig. Ein Szenario, das jedes Unternehmen treffen kann."
         },
         {
-          "title": "Software: Rückschlag für Palantir – NRW entscheidet sich für Celonis bei Polizeisoftware",
-          "link": "https://www.handelsblatt.com/technik/it-internet/polizeisoftware-rueckschlag-fuer-palantir-nrw-entscheidet-sich-fuer-celonis/100272328.html",
-          "published": "2026-11-24T11:13:15+00:00",
-          "summary": "Das Bundesland war einer der ersten Kunden Palantirs in Deutschland. Jetzt will NRW den deutschen Anbieter Celonis nutzen. Der Auftrag hat Signalwirkung."
+          "title": "EU: Neue Russland-Sanktionen treffen Altkanzler Gerhard Schröder",
+          "link": "https://www.handelsblatt.com/politik/international/eu-neue-russland-sanktionen-treffen-altkanzler-gerhard-schroeder/100272497.html",
+          "published": "2026-11-24T19:45:19+00:00",
+          "summary": "Die EU will Europäern Führungsjobs in russischen Unternehmen verbieten. Putin-Freund Schröder müsste sein jüngstes Aufsichtsratsmandat niederlegen. Auch andere deutsche Manager sind betroffen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "1000 neue Jobs möglich: Ryanair-Chef O'Leary bietet Deutschland Wachstum für Steuerabschaffung",
-          "link": "https://www.n-tv.de/wirtschaft/Ryanair-Chef-O-Leary-bietet-Deutschland-Wachstum-fuer-Steuerabschaffung-id31570780.html",
-          "published": "2026-11-24T10:55:21+00:00",
-          "summary": "Ryanair stellt im Sommer 2025 zahlreiche Verbindungen in Deutschland ein. Begründet wird der Schritt mit hohen Abgaben und Steuern in Deutschland, die die Nachfrage deutlich dämpfen. Der Chef des …"
+          "title": "Starke Schwankungen: Butterpreis fällt unter einen Euro pro Packung",
+          "link": "https://www.n-tv.de/wirtschaft/Butterpreis-faellt-unter-einen-Euro-pro-Packung-id31573397.html",
+          "published": "2026-11-24T19:55:54+00:00",
+          "summary": "Vor einem Jahr zahlen Verbrauchen noch 2,39 Euro für 250 Gramm Butter. Bei zwei großen Discountern kostet eine Packung nun weniger als ein Euro. Die Händler verweisen auf gesunkene Rohstoff- und …"
         },
         {
-          "title": "\"Habe den Deal gemacht\": Huangs Rückkehr ist für Trump ein lukratives Geschäft",
-          "link": "https://www.n-tv.de/wirtschaft/Huangs-Rueckkehr-ist-fuer-Trump-ein-lukratives-Geschaeft-id31570590.html",
-          "published": "2026-11-24T09:49:48+00:00",
-          "summary": "Donald Trump nimmt für sich in Anspruch, Jensen Huang zurück an die Nvidia-Spitze gebracht zu haben. Der US-Präsident hat gute Gründe, sich über das Comeback zu freuen. Einer davon ist sein eigenes …"
+          "title": "Standorte, Preise, Sortiment: Worauf sich Kunden von Obi und Toom einstellen müssen",
+          "link": "https://www.n-tv.de/wirtschaft/Worauf-sich-Kunden-von-Obi-und-Toom-einstellen-muessen-id31572608.html",
+          "published": "2026-11-24T17:21:03+00:00",
+          "summary": "Obi und Toom schließen sich zusammen. Welche Kunden nun um \"ihren\" Baumarkt bangen müssen, welche Jobs in Gefahr sind und wie sich die Preise entwickeln werden, erklärt Handelsexperte Jörg Funder im …"
         },
         {
-          "title": "Maximal 15 Prozent über Vorjahr: EU deckelt Importe chinesischer Plug-in-Hybride ab Dezember",
-          "link": "https://www.n-tv.de/wirtschaft/EU-deckelt-Importe-chinesischer-Plug-in-Hybride-ab-Dezember-id31570304.html",
-          "published": "2026-11-24T09:39:55+00:00",
-          "summary": "Chinesische Autobauer machen den Europäern zunehmend Konkurrenz - vor allem, da Deutsche, Franzosen und Co. immer öfter Plug-in-Hybride kaufen. Die EU legt nun eine Importquote für chinesische …"
+          "title": "\"Solange wir noch was kriegen\": Top-Ökonom schlägt Verkauf von Volkswagen an China vor",
+          "link": "https://www.n-tv.de/wirtschaft/Top-Oekonom-schlaegt-Verkauf-von-Volkswagen-an-China-vor-id31572644.html",
+          "published": "2026-11-24T16:05:30+00:00",
+          "summary": "Bei einer Industriekonferenz sorgt Top-Ökonom Schularick für Raunen im Saal. Sein Vorschlag in Richtung Wolfsburg dürfte bei VW als gezielte Provokation gewertet werden. Der Präsident des …"
         },
         {
-          "title": "Ein Gewinn für China: Zulassungen von E-Autos schießen in der EU in die Höhe",
-          "link": "https://www.n-tv.de/wirtschaft/Zulassungen-von-E-Autos-schiessen-in-der-EU-in-die-Hoehe-id31570313.html",
-          "published": "2026-11-24T08:57:00+00:00",
-          "summary": "Die Zahl der Neuzulassungen von E-Autos im Oktober legt in der EU im Vergleich zum Vorjahresmonat kräftig zu. Der Herstellerverband Acea spricht von einem Anstieg um 61,4 Prozent. Europäische …"
+          "title": "Tech-Papiere unter Druck: Anthropic-Aktie fällt unter den Ausgabepreis",
+          "link": "https://www.n-tv.de/wirtschaft/Anthropic-Aktie-faellt-unter-den-Ausgabepreis-id31572716.html",
+          "published": "2026-11-24T15:14:16+00:00",
+          "summary": "34 Prozent über dem Ausgabepreis lagen die Papiere von Anthropic kurz nach deren Debüt an der Börse in der vergangenen Woche. Mittlerweile ist Ernüchterung eingezogen - die Aktie liegt unter dem …"
         },
         {
-          "title": "Trotz Wachstumsprognose: Umfrage: Unternehmen blicken pessimistisch auf 2027",
-          "link": "https://www.n-tv.de/wirtschaft/Umfrage-Unternehmen-blicken-pessimistisch-auf-2027-id31569967.html",
-          "published": "2026-11-24T08:27:08+00:00",
-          "summary": "Neues Jahr, neues \"Weiter so\" - das erwarten die meisten deutschen Unternehmen für die Wirtschaft 2027. Laut einer Umfrage des IW Köln rechnen neun von zehn Unternehmen weiterhin mit einer …"
+          "title": "S&P 500 im Chart-Check: Marktbreite: wichtige Signale für 2027",
+          "link": "https://www.n-tv.de/wirtschaft/boerse/Marktbreite-wichtige-Signale-fuer-2027-id30347915.html",
+          "published": "2026-11-24T14:56:00+00:00",
+          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den S&P 500 und wichtige …"
         }
       ],
       "error": null
@@ -133,10 +133,22 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX nach Kursrausch zurück im Alltag",
+          "title": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-          "published": "2026-11-24T09:31:50+00:00",
-          "summary": "Nach der Euphorie zum Wochenstart fällt der DAX im frühen Handel zurück. War der Nvidia-Rausch nur ein Strohfeuer? Positive Konjunktursignale kommen heute vom ifo-Geschäftsklimaindex."
+          "published": "2026-11-24T17:36:29+00:00",
+          "summary": "Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel. Und nicht nur das Papier des US-Chipkonzerns rutscht ab."
+        },
+        {
+          "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+          "published": "2026-11-24T14:51:13+00:00",
+          "summary": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte."
+        },
+        {
+          "title": "Nvidia hält die Märkte in Atem",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
+          "published": "2026-11-24T14:01:35+00:00",
+          "summary": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser."
         },
         {
           "title": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
@@ -149,18 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
           "published": "2026-11-22T10:25:29+00:00",
           "summary": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und …"
-        },
-        {
-          "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
-          "published": "2026-11-19T16:54:27+00:00",
-          "summary": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun …"
-        },
-        {
-          "title": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
-          "published": "2026-11-19T12:57:07+00:00",
-          "summary": "Unternehmen und Behörden sollen durch eine Beteiligung der Telekom am französischen Start-up Mistral mit \"vertrauenswürdiger KI aus Europa\" versorgt werden. Der Rekord-Börsengang von Anthropic …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "24-Stunden-Warnstreik: Darum sind die Fronten zwischen Kapital und Arbeit besonders verhärtet",
-          "link": "https://www.wiwo.de/unternehmen/industrie/ig-metall-warnstreiks-darum-sind-die-fronten-so-besonders-verhaertet/100271657.html",
-          "published": "2026-11-24T11:51:00+00:00",
-          "summary": "Die Autoindustrie kriselt, Rüstung und Energietechnik boomen. Wie soll da ein gemeinsamer Tarifvertrag entstehen?"
+          "title": "VW und Co.: 83.000 Euro Brutto-Gehalt – so entwickeln sich die Löhne in der Autoindustrie",
+          "link": "https://www.wiwo.de/erfolg/beruf/83.000-euro-brutto-gehalt-in-der-autoindustrie-so-viel-verdienen-beschaeftigte-trotz-krise/100271966.html",
+          "published": "2026-11-24T19:59:00+00:00",
+          "summary": "Volkswagen will seinen Beschäftigten weniger zahlen. Harte Einschnitte in einer Branche, die trotz allem noch immer gut verdient."
         },
         {
-          "title": "Bitcoin-Hashrate: Bitcoin-Kurs stürzt ab – Hashrate bleibt stabil",
-          "link": "https://www.wiwo.de/finanzen/boerse/bitcoin-kurs-stuerzt-ab-hashrate-bleibt-stabil-was-die-rate-ueber-das-netzwerk-aussagt/29214032.html",
-          "published": "2026-11-24T11:35:00+00:00",
-          "summary": "Während der Bitcoin-Kurs deutlich nachgibt, bewegt sich die Hashrate weiterhin um die Marke von einem Zetahash. Doch was bedeutet dieser Wert eigentlich?"
+          "title": "ABB will Ziehl-Abegg kaufen: Dem nächsten Weltmarktführer geht die Puste aus",
+          "link": "https://www.wiwo.de/unternehmen/mittelstand/ziehl-abegg-an-abb-verkauft-warum-der-ki-boom-zum-exit-zwingt/100271991.html",
+          "published": "2026-11-24T19:51:00+00:00",
+          "summary": "Nach EBM-Papst wird auch der zweite große Ventilatorenhersteller Ziehl-Abegg ins Ausland verkauft. Der Fall zeigt, warum vom KI-Boom erfasste Mittelständler immer öfter die Segel streichen müssen."
         },
         {
-          "title": "Rückkehr von Jensen Huang: Warum Investoren trotz Nvidia-Kursplus skeptisch bleiben",
-          "link": "https://www.wiwo.de/finanzen/boerse/jensen-huang-zurueck-bei-nvidia-warum-anleger-vorsichtig-bleiben/100272172.html",
-          "published": "2026-11-24T11:31:00+00:00",
-          "summary": "Die Rückkehr von Jensen Huang an die Spitze von Nvidia hat die Aktie in die Höhe katapultiert. Doch nun wird zunehmend Kritik an der Entscheidung laut, auch an der Börse."
+          "title": "Air-Berlin-Pleite: Ex-Chef von Air Berlin zahlt Millionen an die Insolvenzgläubiger",
+          "link": "https://www.wiwo.de/unternehmen/handel/air-berlin-insolvenz-ex-chef-winkelmann-zahlt-millionensumme-an-glaeubiger/100272437.html",
+          "published": "2026-11-24T19:49:00+00:00",
+          "summary": "Hat Air Berlin rechtzeitig Insolvenz angemeldet? Ein Vergleich mit dem Ex-Chef beendet den jahrelangen Streit, auch an Gläubiger könnte Geld fließen."
         },
         {
-          "title": "Rechenzentren, Cloud, KI: Kann die deutsche Rechenzentrums-Branche mit den US-Konzernen mithalten?",
-          "link": "https://www.wiwo.de/technologie/digitale-welt/rechenzentren-cloud-ki-kann-deutschland-mit-den-us-konzernen-mithalten/100270916.html",
-          "published": "2026-11-24T11:21:00+00:00",
-          "summary": "Die US-Korrektur bei KI-Aktien trifft deutsche Rechenzentren bislang kaum. Warum Cloud-Anbieter und Mittelständler andere Chancen haben."
+          "title": "Prothesenhersteller: Die Ottobock-Chefs haben geliefert, doch es reicht nicht",
+          "link": "https://www.wiwo.de/finanzen/boerse/ottobock-aktie-verliert-40-prozent-das-sind-die-wahren-risiken-fuer-anleger/100271060.html",
+          "published": "2026-11-24T19:48:00+00:00",
+          "summary": "Trotz guter Zahlen ist der Aktienkurs des Prothesenherstellers Ottobock um 40 Prozent gefallen. Es gibt eben ein paar Risiken, die nur schwer zu kalkulieren sind."
         },
         {
-          "title": "Handel: EU legt Obergrenzen für Importe von Hybridautos aus China fest",
-          "link": "https://www.wiwo.de/politik/europa/hybridautos-aus-china-eu-begrenzt-importe-auf-350.000-fahrzeuge-pro-jahr/100272371.html",
-          "published": "2026-11-24T11:05:00+00:00",
-          "summary": "Die Einigung zwischen Brüssel und Peking wird nun konkret. Auch für Hybride aus anderen Ländern soll künftig eine Quote gelten."
+          "title": "Haushaltsdebatte: Bundeshaushalt mit Rekordschulden – warum die Billionenwette bis 2030 scheitert",
+          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-mit-rekordschulden-warum-die-billionenwette-bis-2030-scheitert/100271221.html",
+          "published": "2026-11-24T19:30:00+00:00",
+          "summary": "210 Milliarden Euro Schulden 2027, eine Billion bis 2030 – und mit Ach und Krach senkt die Regierung die Stromsteuer. Und alle reden sich ein, dass wir danach wieder konsolidieren. Ein Kommentar."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Wuppertal – ein Hotspot der Kreislaufwirtschaft",
-          "link": "https://www.ingenieur.de/kreislaeufe-erfolgreich-kooperieren-bceb7b2f-57ed-4763-9d77-3db9063ece6d/",
-          "published": "2026-11-24T11:00:00+00:00",
-          "summary": "Zum fünften Mal trafen sich Verfechter zur Circular Valley-Konferenz in Wuppertal. Mit dabei die für die Kreislaufwirtschaft verantwortliche Kommissarin: Für sie ist klar: Die EU will mehr heimische …"
+          "title": "Drei Supermonde in Folge: Warum der Mond der Erde jetzt besonders nahe kommt",
+          "link": "https://www.ingenieur.de/drei-supermonde-in-folge-warum-der-mond-der-erde-jetzt-besonders-nahe-kommt-a1e0f026-ed40-411a-a066-630fbae33a42/",
+          "published": "2026-11-24T17:50:16+00:00",
+          "summary": "Drei Supermonde in Folge erwarten uns bis Januar 2027. Warum der Mond größer und heller erscheint und wann er der Erde besonders nahe kommt."
         },
         {
-          "title": "Forscher bringen 5-t-Baumaschine spektakuläre Kunststücke bei",
-          "link": "https://www.ingenieur.de/forscher-bringen-5-t-baumaschine-spektakulaere-kunststuecke-bei-b9632eb5-4998-4166-b8ce-57a55d37ecb5/",
-          "published": "2026-11-24T10:30:00+00:00",
-          "summary": "Eine 5 t schwere Baumaschine fährt dank KI auf zwei Rädern über 75 cm hohe Bodenwellen. Forschende zeigen, wie sie die Steuerung trainiert haben."
+          "title": "Bürgermeister kritisiert Kranabbau: Am Hamburger Elbtower eskaliert der Streit",
+          "link": "https://www.ingenieur.de/elbtower-debakel-baufirma-baut-ersten-kran-ab-und-droht-mit-rueckzug-ea03dd86-baff-4f09-bbb9-471ee58b10e7/",
+          "published": "2026-11-24T17:25:18+00:00",
+          "summary": "Am Hamburger Elbtower baut Lupp zwei Kräne ab. Rund 250 t Baugerät sollen verschwinden. Jetzt verschärft Hamburgs Bürgermeister den Streit um den Weiterbau."
         },
         {
-          "title": "Wasserstoffzug tankt Öl und fährt trotzdem ohne CO₂: Kann das funktionieren?",
-          "link": "https://www.ingenieur.de/wasserstoffzug-tankt-ol-und-fahrt-trotzdem-ohne-co2-f21e00fd-f6a5-44d9-90f2-c94977fbf1b6/",
-          "published": "2026-11-24T10:00:00+00:00",
-          "summary": "Wasserstoffzüge fielen in Deutschland bisher vor allem durch Pannen auf, oft haperte es schon am Tanken. Forschende haben einen Zug durchgerechnet, der statt Gas ein Öl tankt. Könnte es damit klappen?"
+          "title": "ETH-Forscher lassen 5-t-Baumaschine mit Hilfe von KI auf zwei Rädern tanzen",
+          "link": "https://www.ingenieur.de/eth-forscher-lassen-5-t-baumaschine-mit-hilfe-von-ki-auf-zwei-raedern-tanzen-b9632eb5-4998-4166-b8ce-57a55d37ecb5/",
+          "published": "2026-11-24T16:30:00+00:00",
+          "summary": "ETH-Forschende trainieren eine KI, die einen 5-Tonnen-Kompaktlader auf zwei Rädern balanciert und über 75 Zentimeter hohe Bodenwellen steuert."
         },
         {
-          "title": "Erst fehlte das Wasser, dann klemmte die Technik: 950 t Stahl für Koblenzer Brücke",
-          "link": "https://www.ingenieur.de/erst-fehlte-das-wasser-dann-klemmte-die-technik-950-t-stahl-fuer-koblenzer-bruecke-e9e3e174-102f-4734-b4da-938586884fc5/",
-          "published": "2026-11-24T09:30:00+00:00",
-          "summary": "In Koblenz ist das erste 475 t schwere Brückensegment eingehoben. Nach technischen Problemen folgt das zweite. Später muss die gesamte Rheinbrücke verschoben werden."
+          "title": "Heidelberger Astronomen finden den fernsten Quasar aller Zeiten",
+          "link": "https://www.ingenieur.de/heidelberger-astronomen-finden-den-fernsten-quasar-aller-zeiten-92be2895-bebc-4f38-98b1-1dd0894b27ad/",
+          "published": "2026-11-24T16:30:00+00:00",
+          "summary": "Der fernste bekannte Quasar beherbergt ein Schwarzes Loch mit 360 Millionen Sonnenmassen. Wie konnte es so kurz nach dem Urknall so stark wachsen?"
         },
         {
-          "title": "Was ABB und Madison Air an ebm-papst und Ziehl-Abegg so wertvoll finden",
-          "link": "https://www.ingenieur.de/was-abb-und-madison-air-an-ebm-papst-und-ziehl-abegg-so-wertvoll-finden-cafc227e-2490-4320-a00b-01d510fe6db0/",
-          "published": "2026-11-24T09:21:58+00:00",
-          "summary": "Zwei Milliardenübernahmen, zwei deutsche Technologieführer: Warum ABB und Madison Air für Ziehl-Abegg und ebm-papst Milliarden ausgeben wollen."
+          "title": "Neun Tunnelbohrmaschinen, 230 km Tunnelsystem: Historischer Meilenstein am Brenner",
+          "link": "https://www.ingenieur.de/neun-tunnelbohrmaschinen-230-km-tunnelsystem-historischer-meilenstein-am-brenner-70cc9730-e6b1-48ac-a072-5007cb1f2452/",
+          "published": "2026-11-24T16:01:28+00:00",
+          "summary": "Mehr als zwei Jahre arbeitete sich die deutsche Tunnelbohrmaschine Olga durch die Alpen. Jetzt sind beide Haupttunnelröhren vollständig ausgebrochen."
         }
       ],
       "error": null
