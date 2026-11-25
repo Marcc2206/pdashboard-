@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:14:51+00:00",
+  "generatedAt": "2026-11-25T06:56:03+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "RB Leipzig hält dem Druck gegen RC Lens stand",
-          "link": "https://www.sportschau.de/fussball/championsleague/rb-leipzig-haelt-dem-druck-gegen-rc-lens-stand,spielbericht-leipzig-lens-100.html",
-          "published": "2026-11-24T22:11:11+00:00",
-          "summary": "Es war ein hart erkämpfter Erfolg für RB Leipzig gegen RC Lens. Damit haben sich die Sachsen die Chance auf das Achtelfinale erhalten."
+          "title": "Heftiger Schlagabtausch bei Generaldebatte erwartet",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
+          "published": "2026-11-25T06:32:57+00:00",
+          "summary": "Kanzler Merz im Fokus: Bei der Haushaltswoche im Bundestag wird heute der Etat des Kanzleramts verhandelt. Traditionell eine Gelegenheit für die Opposition, mit der Regierung abzurechnen. Heftig …"
         },
         {
-          "title": "Champions League: BVB liefert FC Arsenal einen großen Kampf",
-          "link": "https://www.sportschau.de/fussball/championsleague/bvb-liefert-dem-fc-arsenal-einen-grossen-kampf,spielbericht-arsenal-dortmund-100.html",
-          "published": "2026-11-24T22:00:18+00:00",
-          "summary": "Borussia Dortmund hat in der Champions League Mitfavorit FC Arsenal ein Remis abgetrotzt. Neben der kämpferischen Leistung war auch das Glück ein Faktor."
+          "title": "Marktbericht: DAX vor holprigem Start",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
+          "published": "2026-11-25T06:28:06+00:00",
+          "summary": "Das Beben in der Technologiebranche ist noch nicht ausgestanden. In Asien fallen die Kurse, auch wegen neuer Zollsorgen. Diese könnten auch dem DAX zum Handelsstart zusetzen."
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-13008.html",
-          "published": "2026-11-24T21:53:59+00:00",
-          "summary": ""
+          "title": "11KM-Podcast: Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
+          "published": "2026-11-25T06:11:51+00:00",
+          "summary": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt."
         },
         {
-          "title": "Stefanie Hubig, SPD/Bundesjustizministerin, zu häuslicher Gewalt",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1689342.html",
-          "published": "2026-11-24T21:38:20+00:00",
-          "summary": ""
+          "title": "Deutsche Industrie: Wo es hakt und wo es rund läuft",
+          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html",
+          "published": "2026-11-25T05:28:36+00:00",
+          "summary": "Die Aussichten für die Wirtschaft haben sich zuletzt verbessert. Doch es gibt große Unterschiede: Während in manchen Branchen Firmen ums Überleben kämpfen, läuft das Geschäft anderswo prächtig. Ein …"
         },
         {
-          "title": "Das unterschätzte Problem? Gewalt gegen Männer",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1689340.html",
-          "published": "2026-11-24T21:30:35+00:00",
-          "summary": ""
+          "title": "Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen",
+          "link": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
+          "published": "2026-11-25T05:18:30+00:00",
+          "summary": "In Israel bleibt Gadi Eisenkot nicht mehr viel Zeit, eine Regierung zu bilden. Aktuell laufen die Gespräche mit Netanjahus Likud-Partei. Dabei gibt es große Differenzen - und kaum Alternativen. Von …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "USA: US-Gericht spricht Huawei wegen Betrugs schuldig",
-          "link": "https://www.handelsblatt.com/politik/international/usa-us-gericht-spricht-huawei-wegen-betrugs-schuldig/100272531.html",
-          "published": "2026-11-24T21:36:32+00:00",
-          "summary": "Das chinesische Unternehmen wurde unter anderem wegen Bankbetrugs, Verstößen gegen Sanktionen und Diebstahl von Geschäftsgeheimnissen schuldig gesprochen. Huawei weist die Vorwürfe zurück."
+          "title": "Chipindustrie: Samsung steigt bei AMS Osram ein",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/chipindustrie-samsung-steigt-bei-ams-osram-ein/100272424.html",
+          "published": "2026-11-25T06:30:00+00:00",
+          "summary": "Der hochverschuldete Osram-Konzern findet nach langer Suche eine Verwendung für sein ungenutztes Werk in Asien – und einen Ankeraktionär gleich dazu."
         },
         {
-          "title": "Nvidia-Kontroverse: Medien: Huang will nach Rückkehr weiter keinen Nachfolgeplan",
-          "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-kontroverse-medien-huang-will-nach-rueckkehr-weiter-keinen-nachfolgeplan/100272526.html",
-          "published": "2026-11-24T20:47:32+00:00",
-          "summary": "Der alte und neue Nvidia-Chef Jensen Huang glaubt weiterhin nicht, dass Nvidia sich Gedanken über eine Nachfolgelösung für ihn machen muss. Und er sagt den Mitarbeitern, dass er in Therapie sei."
+          "title": "Digitalbank: Neuer N26-Chef: „Wir wollen unsere Kundenzahl bis 2030 mindestens verdoppeln“",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/n26-chef-wir-wollen-unsere-kundenzahl-mindestens-verdoppeln/100270367.html",
+          "published": "2026-11-25T06:30:00+00:00",
+          "summary": "Mike Dargan spricht im ersten Interview als N26-Chef über seine Ziele und den Umbau der Digitalbank. Den Vorwurf, dass Bürokraten nun das Sagen hätten, weist er nicht nur verbal zurück."
         },
         {
-          "title": "Mittelstandspreis: Warum Heino vor dem Kanzler singt",
-          "link": "https://www.handelsblatt.com/politik/deutschland/mittelstandspreis-warum-heino-vor-dem-kanzler-singt/100272524.html",
-          "published": "2026-11-24T20:32:45+00:00",
-          "summary": "Die Mittelstands- und Wirtschaftsunion feiert ihr 70-jähriges Bestehen – mit einem ganz besonderen Stargast. Der hat einen ziemlich hochrangigen Verehrer."
+          "title": "Neubau und neuer Name: Memphis Art Museum eröffnet am Mississippi",
+          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/neubau-und-neuer-name-memphis-art-museum-eroeffnet-am-mississippi/100272590.html",
+          "published": "2026-11-25T06:10:04+00:00",
+          "summary": "Nach mehr als 100 Jahren zieht das Kunstmuseum von Memphis um: Der Neubau am Mississippi bietet viel mehr Platz – und zeigt auch Kunst unter freiem Himmel."
         },
         {
-          "title": "Deep Read: „KI hackt besser als ich“: Was eine Cyberattacke aufs Handelsblatt über IT-Sicherheit lehrt",
-          "link": "https://www.handelsblatt.com/technik/it-internet/cyberattacken-was-ein-hackerangriff-aufs-handelsblatt-ueber-it-sicherheit-lehrt/100269783.html",
-          "published": "2026-11-24T19:51:30+00:00",
-          "summary": "Der Angriff auf die Redaktion läuft über Nacht ohne menschliche Hilfe: Eine Plattform sucht mit KI nach Sicherheitslücken und wird fündig. Ein Szenario, das jedes Unternehmen treffen kann."
+          "title": "Energiewende: Solarstrom knackt erstmals die Marke von 100 Terawattstunden",
+          "link": "https://www.handelsblatt.com/unternehmen/energie/energiewende-solarstrom-knackt-erstmals-die-marke-von-100-terawattstunden/100272583.html",
+          "published": "2026-11-25T06:05:58+00:00",
+          "summary": "Noch nie wurde mehr Solarstrom in Deutschland erzeugt als in diesem Jahr. Darum lässt der Sonnenstrom bisherige Rekorde so weit hinter sich."
         },
         {
-          "title": "EU: Neue Russland-Sanktionen treffen Altkanzler Gerhard Schröder",
-          "link": "https://www.handelsblatt.com/politik/international/eu-neue-russland-sanktionen-treffen-altkanzler-gerhard-schroeder/100272497.html",
-          "published": "2026-11-24T19:45:19+00:00",
-          "summary": "Die EU will Europäern Führungsjobs in russischen Unternehmen verbieten. Putin-Freund Schröder müsste sein jüngstes Aufsichtsratsmandat niederlegen. Auch andere deutsche Manager sind betroffen."
+          "title": "Nvidia-Kontroverse: Trump: Begnadigung Huangs „immer eine Option“",
+          "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-kontroverse-trump-begnadigung-huangs-immer-eine-option/100272586.html",
+          "published": "2026-11-25T05:57:17+00:00",
+          "summary": "Donald Trump zeigt sich offen dafür, den alten und neuen Nvidia-Chef Jensen Huang bei Bedarf zu begnadigen. Auch könnte er sich eine Beteiligung der US-Regierung am Chip-Riesen vorstellen."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Starke Schwankungen: Butterpreis fällt unter einen Euro pro Packung",
-          "link": "https://www.n-tv.de/wirtschaft/Butterpreis-faellt-unter-einen-Euro-pro-Packung-id31573397.html",
-          "published": "2026-11-24T19:55:54+00:00",
-          "summary": "Vor einem Jahr zahlen Verbrauchen noch 2,39 Euro für 250 Gramm Butter. Bei zwei großen Discountern kostet eine Packung nun weniger als ein Euro. Die Händler verweisen auf gesunkene Rohstoff- und …"
+          "title": "Sachfremd und unrealistisch: Experten zerreißen Reiches Entwurf für Spritpreisdeckel",
+          "link": "https://www.n-tv.de/wirtschaft/Experten-zerreissen-Reiches-Entwurf-fuer-Spritpreisdeckel-id31574126.html",
+          "published": "2026-11-25T06:32:19+00:00",
+          "summary": "Die Kraftstoffpreise in Deutschland gehen zuletzt zurück, könnten aber jederzeit wieder in die Höhe schnellen. Ein Entwurf aus dem Wirtschaftsministerium soll in diesem Falle die Preise deckeln. Doch …"
         },
         {
-          "title": "Standorte, Preise, Sortiment: Worauf sich Kunden von Obi und Toom einstellen müssen",
-          "link": "https://www.n-tv.de/wirtschaft/Worauf-sich-Kunden-von-Obi-und-Toom-einstellen-muessen-id31572608.html",
-          "published": "2026-11-24T17:21:03+00:00",
-          "summary": "Obi und Toom schließen sich zusammen. Welche Kunden nun um \"ihren\" Baumarkt bangen müssen, welche Jobs in Gefahr sind und wie sich die Preise entwickeln werden, erklärt Handelsexperte Jörg Funder im …"
+          "title": "Massive Störung Mitte November: Microsoft ruft nach weltweitem Outlook-Ausfall intern höchste Alarmstufe aus",
+          "link": "https://www.n-tv.de/wirtschaft/Microsoft-ruft-nach-weltweitem-Outlook-Ausfall-intern-hoechste-Alarmstufe-aus-id31573759.html",
+          "published": "2026-11-24T23:54:11+00:00",
+          "summary": "Ein seit Juli unentdeckter IT-Fehler legte die Microsoft-Dienste Outlook und Teams für mehrere Stunden lahm. Interne Schreiben offenbaren laut einem Medienbericht chaotische Abläufe im Krisenstab. …"
         },
         {
-          "title": "\"Solange wir noch was kriegen\": Top-Ökonom schlägt Verkauf von Volkswagen an China vor",
-          "link": "https://www.n-tv.de/wirtschaft/Top-Oekonom-schlaegt-Verkauf-von-Volkswagen-an-China-vor-id31572644.html",
-          "published": "2026-11-24T16:05:30+00:00",
-          "summary": "Bei einer Industriekonferenz sorgt Top-Ökonom Schularick für Raunen im Saal. Sein Vorschlag in Richtung Wolfsburg dürfte bei VW als gezielte Provokation gewertet werden. Der Präsident des …"
+          "title": "Auch T-Mobile US ausgespäht: US-Gericht spricht Huawei wegen Iran-Geschäften und Technologiediebstahl schuldig",
+          "link": "https://www.n-tv.de/wirtschaft/US-Gericht-spricht-Huawei-wegen-Iran-Geschaeften-und-Technologiediebstahl-schuldig-id31573735.html",
+          "published": "2026-11-24T22:51:28+00:00",
+          "summary": "Die Geschworenen in New York befinden den chinesischen Netzwerkausrüster in mehreren Anklagepunkten für schuldig - darunter Sanktionsverstöße im Iran und der Diebstahl von Geschäftsgeheimnissen. …"
         },
         {
-          "title": "Tech-Papiere unter Druck: Anthropic-Aktie fällt unter den Ausgabepreis",
-          "link": "https://www.n-tv.de/wirtschaft/Anthropic-Aktie-faellt-unter-den-Ausgabepreis-id31572716.html",
-          "published": "2026-11-24T15:14:16+00:00",
-          "summary": "34 Prozent über dem Ausgabepreis lagen die Papiere von Anthropic kurz nach deren Debüt an der Börse in der vergangenen Woche. Mittlerweile ist Ernüchterung eingezogen - die Aktie liegt unter dem …"
+          "title": "Nasdaq gibt nach: Tech-Werte und Furcht vor neuen US-Strafzöllen belasten die Wall Street",
+          "link": "https://www.n-tv.de/wirtschaft/Tech-Werte-und-Furcht-vor-neuen-US-Strafzoellen-belasten-die-Wall-Street-id31573726.html",
+          "published": "2026-11-24T22:31:23+00:00",
+          "summary": "Gewinnmitnahmen im KI-Sektor nach der Rückkehr von Jensen Huang an die Nvidia-Spitze drücken den Nasdaq ins Minus. Berichte über neue US-Zollpläne schüren Nervosität an den Märkten. Die Modemarke …"
         },
         {
-          "title": "S&P 500 im Chart-Check: Marktbreite: wichtige Signale für 2027",
-          "link": "https://www.n-tv.de/wirtschaft/boerse/Marktbreite-wichtige-Signale-fuer-2027-id30347915.html",
-          "published": "2026-11-24T14:56:00+00:00",
-          "summary": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um den S&P 500 und wichtige …"
+          "title": "Keine Nachfolgeregelung geplant: Nvidia-Chef Huang geht nach Rückkehr in tägliche Therapiesitzungen",
+          "link": "https://www.n-tv.de/wirtschaft/Nvidia-Chef-Huang-geht-nach-Rueckkehr-in-taegliche-Therapiesitzungen-id31573699.html",
+          "published": "2026-11-24T22:19:00+00:00",
+          "summary": "Nach nur elf Tagen kehrt Jensen Huang zurück an die Nvidia-Spitze. Nach eigenen Angaben arbeitet er in 90-minütigen Therapiesitzungen an sich. Dutzende Manager berichten beim Chiphersteller direkt an …"
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-          "published": "2026-11-24T17:36:29+00:00",
-          "summary": "Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel. Und nicht nur das Papier des US-Chipkonzerns rutscht ab."
+          "title": "Marktbericht: DAX vor holprigem Start",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
+          "published": "2026-11-25T06:28:06+00:00",
+          "summary": "Das Beben in der Technologiebranche ist noch nicht ausgestanden. In Asien fallen die Kurse, auch wegen neuer Zollsorgen. Diese könnten auch dem DAX zum Handelsstart zusetzen."
         },
         {
           "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "VW und Co.: 83.000 Euro Brutto-Gehalt – so entwickeln sich die Löhne in der Autoindustrie",
-          "link": "https://www.wiwo.de/erfolg/beruf/83.000-euro-brutto-gehalt-in-der-autoindustrie-so-viel-verdienen-beschaeftigte-trotz-krise/100271966.html",
-          "published": "2026-11-24T19:59:00+00:00",
-          "summary": "Volkswagen will seinen Beschäftigten weniger zahlen. Harte Einschnitte in einer Branche, die trotz allem noch immer gut verdient."
+          "title": "Technologiekonzern: Dell hebt Jahresausblick an – boomende Nachfrage nach KI-Servern hält an",
+          "link": "https://www.wiwo.de/unternehmen/it/dell-aktie-technologiekonzern-hebt-jahresausblick-an-boomende-nachfrage-nach-ki-servern-haelt-an/100272592.html",
+          "published": "2026-11-25T06:45:23+00:00",
+          "summary": "Das Rekordhoch aus dem September ist nach der KI-Korrektur noch nicht wieder erreicht, dennoch profitiert der Technologiekonzern weiter stark vom Rechenzentren-Boom."
         },
         {
-          "title": "ABB will Ziehl-Abegg kaufen: Dem nächsten Weltmarktführer geht die Puste aus",
-          "link": "https://www.wiwo.de/unternehmen/mittelstand/ziehl-abegg-an-abb-verkauft-warum-der-ki-boom-zum-exit-zwingt/100271991.html",
-          "published": "2026-11-24T19:51:00+00:00",
-          "summary": "Nach EBM-Papst wird auch der zweite große Ventilatorenhersteller Ziehl-Abegg ins Ausland verkauft. Der Fall zeigt, warum vom KI-Boom erfasste Mittelständler immer öfter die Segel streichen müssen."
+          "title": "Jahrelanges Verfahren: US-Geschworene sprechen Huawei der Geldwäsche schuldig",
+          "link": "https://www.wiwo.de/politik/ausland/huawei-us-geschworene-sprechen-huawei-der-geldwaesche-schuldig/100272588.html",
+          "published": "2026-11-25T06:33:58+00:00",
+          "summary": "Die US-Staatsanwaltschaft sieht unter anderem den Diebstahl von Firmengeheimnissen durch den chinesischen Technologiekonzern als erwiesen an. Huawei will in Berufung gehen."
         },
         {
-          "title": "Air-Berlin-Pleite: Ex-Chef von Air Berlin zahlt Millionen an die Insolvenzgläubiger",
-          "link": "https://www.wiwo.de/unternehmen/handel/air-berlin-insolvenz-ex-chef-winkelmann-zahlt-millionensumme-an-glaeubiger/100272437.html",
-          "published": "2026-11-24T19:49:00+00:00",
-          "summary": "Hat Air Berlin rechtzeitig Insolvenz angemeldet? Ein Vergleich mit dem Ex-Chef beendet den jahrelangen Streit, auch an Gläubiger könnte Geld fließen."
+          "title": "Flugzeugbauer: Boeing erhält große Bestellung aus China",
+          "link": "https://www.wiwo.de/unternehmen/industrie/boeing-flugzeugbauer-erhaelt-grosse-bestellung-aus-china/100272584.html",
+          "published": "2026-11-25T06:21:58+00:00",
+          "summary": "Boeing erhält einen Großauftrag aus Asien. Es ist der erste seit Jahren. Was bisher bekannt ist."
         },
         {
-          "title": "Prothesenhersteller: Die Ottobock-Chefs haben geliefert, doch es reicht nicht",
-          "link": "https://www.wiwo.de/finanzen/boerse/ottobock-aktie-verliert-40-prozent-das-sind-die-wahren-risiken-fuer-anleger/100271060.html",
-          "published": "2026-11-24T19:48:00+00:00",
-          "summary": "Trotz guter Zahlen ist der Aktienkurs des Prothesenherstellers Ottobock um 40 Prozent gefallen. Es gibt eben ein paar Risiken, die nur schwer zu kalkulieren sind."
+          "title": "Bundeshaushalt 2027: Diese vier Grafiken zeigen, wie es um den Bundesetat steht",
+          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-wie-hoch-die-neuen-schulden-wirklich-sind/100272370.html",
+          "published": "2026-11-25T06:13:14+00:00",
+          "summary": "Die Haushaltswoche im Bundestag hat begonnen. Das Parlament verabschiedet in dieser Woche Rekordzahlen – nicht nur gute allerdings. Die Analyse in Zahlen."
         },
         {
-          "title": "Haushaltsdebatte: Bundeshaushalt mit Rekordschulden – warum die Billionenwette bis 2030 scheitert",
-          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-mit-rekordschulden-warum-die-billionenwette-bis-2030-scheitert/100271221.html",
-          "published": "2026-11-24T19:30:00+00:00",
-          "summary": "210 Milliarden Euro Schulden 2027, eine Billion bis 2030 – und mit Ach und Krach senkt die Regierung die Stromsteuer. Und alle reden sich ein, dass wir danach wieder konsolidieren. Ein Kommentar."
+          "title": "Nvidia-Rückkehr: Huang ist zurück – das Vertrauen wohl kaum",
+          "link": "https://www.wiwo.de/erfolg/management/jensen-huang-ist-zurueck-bei-nvidia-aber-wie-glaubwuerdig-ist-er-noch/100272366.html",
+          "published": "2026-11-25T05:38:51+00:00",
+          "summary": "Jensen Huang ist zurück bei Nvidia, die Börse jubelt. Auch die Mitarbeiter feiern die Rückkehr. Doch für sie könnten die Affären des Chefs noch ungeahnte Folgen haben."
         }
       ],
       "error": null
