@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T06:56:03+00:00",
+  "generatedAt": "2026-11-25T18:24:13+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Heftiger Schlagabtausch bei Generaldebatte erwartet",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
-          "published": "2026-11-25T06:32:57+00:00",
-          "summary": "Kanzler Merz im Fokus: Bei der Haushaltswoche im Bundestag wird heute der Etat des Kanzleramts verhandelt. Traditionell eine Gelegenheit für die Opposition, mit der Regierung abzurechnen. Heftig …"
+          "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+          "published": "2026-11-25T18:10:19+00:00",
+          "summary": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die …"
         },
         {
-          "title": "Marktbericht: DAX vor holprigem Start",
+          "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
+          "link": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
+          "published": "2026-11-25T17:37:52+00:00",
+          "summary": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als …"
+        },
+        {
+          "title": "Asteroiden-Abwehr - einfach Schießen und Hoffen reicht nicht",
+          "link": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
+          "published": "2026-11-25T17:30:09+00:00",
+          "summary": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach …"
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1689824.html",
+          "published": "2026-11-25T17:29:06+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Marktbericht: DAX fällt unter 25.000 Punkte-Marke",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
-          "published": "2026-11-25T06:28:06+00:00",
-          "summary": "Das Beben in der Technologiebranche ist noch nicht ausgestanden. In Asien fallen die Kurse, auch wegen neuer Zollsorgen. Diese könnten auch dem DAX zum Handelsstart zusetzen."
-        },
-        {
-          "title": "11KM-Podcast: Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
-          "published": "2026-11-25T06:11:51+00:00",
-          "summary": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt."
-        },
-        {
-          "title": "Deutsche Industrie: Wo es hakt und wo es rund läuft",
-          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html",
-          "published": "2026-11-25T05:28:36+00:00",
-          "summary": "Die Aussichten für die Wirtschaft haben sich zuletzt verbessert. Doch es gibt große Unterschiede: Während in manchen Branchen Firmen ums Überleben kämpfen, läuft das Geschäft anderswo prächtig. Ein …"
-        },
-        {
-          "title": "Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen",
-          "link": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
-          "published": "2026-11-25T05:18:30+00:00",
-          "summary": "In Israel bleibt Gadi Eisenkot nicht mehr viel Zeit, eine Regierung zu bilden. Aktuell laufen die Gespräche mit Netanjahus Likud-Partei. Dabei gibt es große Differenzen - und kaum Alternativen. Von …"
+          "published": "2026-11-25T17:17:11+00:00",
+          "summary": "Die Verunsicherung am deutschen Aktienmarkt nimmt weiter zu. Neue Zolldrohungen der US-Regierung und Zweifel am KI-Boom setzten den DAX unter Druck. Der Leitindex fiel auf den tiefsten Stand seit …"
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Chipindustrie: Samsung steigt bei AMS Osram ein",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/chipindustrie-samsung-steigt-bei-ams-osram-ein/100272424.html",
-          "published": "2026-11-25T06:30:00+00:00",
-          "summary": "Der hochverschuldete Osram-Konzern findet nach langer Suche eine Verwendung für sein ungenutztes Werk in Asien – und einen Ankeraktionär gleich dazu."
+          "title": "Wall Street: Erneuter Ausverkauf: US-Börsen brechen weiter ein – Nvidia verliert sieben Prozent",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-erneuter-ausverkauf-us-boersen-brechen-weiter-ein/100272701.html",
+          "published": "2026-11-25T18:09:00+00:00",
+          "summary": "Auch die Rückendeckung des US-Präsidenten für Nvidia-Chef Huang ändert nichts am Ausverkauf der Techwerte. Derweil denkt Trump sogar über eine Staatsbeteiligung bei dem Unternehmen nach."
         },
         {
-          "title": "Digitalbank: Neuer N26-Chef: „Wir wollen unsere Kundenzahl bis 2030 mindestens verdoppeln“",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/n26-chef-wir-wollen-unsere-kundenzahl-mindestens-verdoppeln/100270367.html",
-          "published": "2026-11-25T06:30:00+00:00",
-          "summary": "Mike Dargan spricht im ersten Interview als N26-Chef über seine Ziele und den Umbau der Digitalbank. Den Vorwurf, dass Bürokraten nun das Sagen hätten, weist er nicht nur verbal zurück."
+          "title": "Börsen: Neue Flucht aus Risikoanlagen: Warum sich der Ausverkauf nun beschleunigt",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/boersen-an-den-finanzmaerkten-verstaerkt-sich-die-flucht-aus-risikoanlagen/100272767.html",
+          "published": "2026-11-25T18:02:30+00:00",
+          "summary": "Am Mittwoch sind die US-Märkte erneut mit hohen Kursverlusten gestartet. Nicht nur Sorgen vor steigenden Zinsen und neue Zölle machen Anleger nervös."
         },
         {
-          "title": "Neubau und neuer Name: Memphis Art Museum eröffnet am Mississippi",
-          "link": "https://www.handelsblatt.com/unternehmen/dienstleister/neubau-und-neuer-name-memphis-art-museum-eroeffnet-am-mississippi/100272590.html",
-          "published": "2026-11-25T06:10:04+00:00",
-          "summary": "Nach mehr als 100 Jahren zieht das Kunstmuseum von Memphis um: Der Neubau am Mississippi bietet viel mehr Platz – und zeigt auch Kunst unter freiem Himmel."
+          "title": "Wirtschaft: EU verhängt Millionenstrafen gegen Parfümkartell",
+          "link": "https://www.handelsblatt.com/politik/international/wirtschaft-eu-verhaengt-millionenstrafen-gegen-parfuemkartell/100272803.html",
+          "published": "2026-11-25T17:44:24+00:00",
+          "summary": "Firmenich, Givaudan und IFF sollen jahrelang Preise und Geschäftsinformationen ausgetauscht haben. Die EU-Kommission verhängt Bußgelder von mehr als 470 Millionen Euro."
         },
         {
-          "title": "Energiewende: Solarstrom knackt erstmals die Marke von 100 Terawattstunden",
-          "link": "https://www.handelsblatt.com/unternehmen/energie/energiewende-solarstrom-knackt-erstmals-die-marke-von-100-terawattstunden/100272583.html",
-          "published": "2026-11-25T06:05:58+00:00",
-          "summary": "Noch nie wurde mehr Solarstrom in Deutschland erzeugt als in diesem Jahr. Darum lässt der Sonnenstrom bisherige Rekorde so weit hinter sich."
+          "title": "Genossenschaftsbanken: Genossenschaftsbanken bündeln Marketing in neuer Firma Coorelity",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-volksbanken-buendeln-drei-firmen-in-neuer-marketinggesellschaft/100272734.html",
+          "published": "2026-11-25T17:36:27+00:00",
+          "summary": "Die Volks- und Raiffeisenbanken schaffen einen zentralen Ansprechpartner für Marketing-Dienstleistungen. Der Chef des neuen Unternehmens kommt aus dem Sportartikelhandel."
         },
         {
-          "title": "Nvidia-Kontroverse: Trump: Begnadigung Huangs „immer eine Option“",
-          "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-kontroverse-trump-begnadigung-huangs-immer-eine-option/100272586.html",
-          "published": "2026-11-25T05:57:17+00:00",
-          "summary": "Donald Trump zeigt sich offen dafür, den alten und neuen Nvidia-Chef Jensen Huang bei Bedarf zu begnadigen. Auch könnte er sich eine Beteiligung der US-Regierung am Chip-Riesen vorstellen."
+          "title": "Prozessauftakt: Anklage erhebt schwere Vorwürfe gegen Jones-Day-Anwälte",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/prozessauftakt-anklage-erhebt-schwere-vorwuerfe-gegen-jones-day-anwaelte/100272503.html",
+          "published": "2026-11-25T17:24:08+00:00",
+          "summary": "Laut Staatsanwaltschaft haben die Juristen gemeinschaftlich die Interessen ihrer Mandantin North Channel Bank verraten. Die Verteidiger weisen die Anschuldigungen scharf zurück."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Sachfremd und unrealistisch: Experten zerreißen Reiches Entwurf für Spritpreisdeckel",
-          "link": "https://www.n-tv.de/wirtschaft/Experten-zerreissen-Reiches-Entwurf-fuer-Spritpreisdeckel-id31574126.html",
-          "published": "2026-11-25T06:32:19+00:00",
-          "summary": "Die Kraftstoffpreise in Deutschland gehen zuletzt zurück, könnten aber jederzeit wieder in die Höhe schnellen. Ein Entwurf aus dem Wirtschaftsministerium soll in diesem Falle die Preise deckeln. Doch …"
+          "title": "Teuer nicht nur wegen GTA 6: Warum Spielekonsolen fast überall ausverkauft sind",
+          "link": "https://www.n-tv.de/wirtschaft/Spielekonsolen-und-GTA6-warum-die-Konsolen-ausverkauft-sind-PS5-und-Xbox-id31577413.html",
+          "published": "2026-11-25T16:32:14+00:00",
+          "summary": "Das Videospiel GTA 6 sorgt für einen Ansturm auf Spielekonsolen. Die Geräte aber sind derzeit teuer oder komplett ausverkauft. Der Grund: in den Konsolen stecken Chips, die auch in der KI-Industrie …"
         },
         {
-          "title": "Massive Störung Mitte November: Microsoft ruft nach weltweitem Outlook-Ausfall intern höchste Alarmstufe aus",
-          "link": "https://www.n-tv.de/wirtschaft/Microsoft-ruft-nach-weltweitem-Outlook-Ausfall-intern-hoechste-Alarmstufe-aus-id31573759.html",
-          "published": "2026-11-24T23:54:11+00:00",
-          "summary": "Ein seit Juli unentdeckter IT-Fehler legte die Microsoft-Dienste Outlook und Teams für mehrere Stunden lahm. Interne Schreiben offenbaren laut einem Medienbericht chaotische Abläufe im Krisenstab. …"
+          "title": "Konzern bis März finanziert: Galeria-Insolvenzverwalter: \"Werden deutlich tiefer schneiden müssen\"",
+          "link": "https://www.n-tv.de/wirtschaft/Galeria-Insolvenzverwalter-Werden-deutlich-tiefer-schneiden-muessen-id31577178.html",
+          "published": "2026-11-25T15:47:48+00:00",
+          "summary": "Ein gutes Dutzend Interessenten prüft einen Kauf oder Teilkauf der Warenhauskette Galeria. Der Insolvenzverwalter will noch in diesem Jahr Klarheit. Zugleich macht er deutlich, dass der Umbau …"
         },
         {
-          "title": "Auch T-Mobile US ausgespäht: US-Gericht spricht Huawei wegen Iran-Geschäften und Technologiediebstahl schuldig",
-          "link": "https://www.n-tv.de/wirtschaft/US-Gericht-spricht-Huawei-wegen-Iran-Geschaeften-und-Technologiediebstahl-schuldig-id31573735.html",
-          "published": "2026-11-24T22:51:28+00:00",
-          "summary": "Die Geschworenen in New York befinden den chinesischen Netzwerkausrüster in mehreren Anklagepunkten für schuldig - darunter Sanktionsverstöße im Iran und der Diebstahl von Geschäftsgeheimnissen. …"
+          "title": "Verbraucherlaune trübt sich ein: US-Wirtschaft wächst deutlich kräftiger - Inflationsrate auch",
+          "link": "https://www.n-tv.de/wirtschaft/US-Wirtschaft-waechst-deutlich-kraeftiger-Inflationsrate-auch-id31577340.html",
+          "published": "2026-11-25T15:42:17+00:00",
+          "summary": "Im Sommer legt die US-Wirtschaft ein beeindruckendes Wachstumtempo an den Tag. Doch ausgerechnet der Konsum als Motor scheint zunehmend zu stottern. Die Verbraucherausgaben wachsen langsamer. …"
         },
         {
-          "title": "Nasdaq gibt nach: Tech-Werte und Furcht vor neuen US-Strafzöllen belasten die Wall Street",
-          "link": "https://www.n-tv.de/wirtschaft/Tech-Werte-und-Furcht-vor-neuen-US-Strafzoellen-belasten-die-Wall-Street-id31573726.html",
-          "published": "2026-11-24T22:31:23+00:00",
-          "summary": "Gewinnmitnahmen im KI-Sektor nach der Rückkehr von Jensen Huang an die Nvidia-Spitze drücken den Nasdaq ins Minus. Berichte über neue US-Zollpläne schüren Nervosität an den Märkten. Die Modemarke …"
+          "title": "Der Börsen-Tag: Tech-Ausverkauf an den US-Börsen verschärft sich",
+          "link": "https://www.n-tv.de/wirtschaft/boersenkurse/Tech-Ausverkauf-an-den-US-Boersen-verschaerft-sich-id31577126.html",
+          "published": "2026-11-25T14:45:41+00:00",
+          "summary": ""
         },
         {
-          "title": "Keine Nachfolgeregelung geplant: Nvidia-Chef Huang geht nach Rückkehr in tägliche Therapiesitzungen",
-          "link": "https://www.n-tv.de/wirtschaft/Nvidia-Chef-Huang-geht-nach-Rueckkehr-in-taegliche-Therapiesitzungen-id31573699.html",
-          "published": "2026-11-24T22:19:00+00:00",
-          "summary": "Nach nur elf Tagen kehrt Jensen Huang zurück an die Nvidia-Spitze. Nach eigenen Angaben arbeitet er in 90-minütigen Therapiesitzungen an sich. Dutzende Manager berichten beim Chiphersteller direkt an …"
+          "title": "Kartellamt legt Bericht vor: Keine günstigeren Strom- und Gaspreise in Sicht",
+          "link": "https://www.n-tv.de/wirtschaft/Keine-guenstigeren-Strom-und-Gaspreise-in-Sicht-id31576459.html",
+          "published": "2026-11-25T14:13:56+00:00",
+          "summary": "Mit dem Überfall Russlands auf die Ukraine sind die Energiepreise deutlich gestiegen. Und ein Rückgang auf das frühere Niveau ist nicht absehbar. Das hat auch mit den neuen Bezugsquellen zu tun."
         }
       ],
       "error": null
@@ -133,10 +133,10 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: DAX vor holprigem Start",
+          "title": "Marktbericht: DAX fällt unter 25.000 Punkte-Marke",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
-          "published": "2026-11-25T06:28:06+00:00",
-          "summary": "Das Beben in der Technologiebranche ist noch nicht ausgestanden. In Asien fallen die Kurse, auch wegen neuer Zollsorgen. Diese könnten auch dem DAX zum Handelsstart zusetzen."
+          "published": "2026-11-25T17:17:11+00:00",
+          "summary": "Die Verunsicherung am deutschen Aktienmarkt nimmt weiter zu. Neue Zolldrohungen der US-Regierung und Zweifel am KI-Boom setzten den DAX unter Druck. Der Leitindex fiel auf den tiefsten Stand seit …"
         },
         {
           "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Technologiekonzern: Dell hebt Jahresausblick an – boomende Nachfrage nach KI-Servern hält an",
-          "link": "https://www.wiwo.de/unternehmen/it/dell-aktie-technologiekonzern-hebt-jahresausblick-an-boomende-nachfrage-nach-ki-servern-haelt-an/100272592.html",
-          "published": "2026-11-25T06:45:23+00:00",
-          "summary": "Das Rekordhoch aus dem September ist nach der KI-Korrektur noch nicht wieder erreicht, dennoch profitiert der Technologiekonzern weiter stark vom Rechenzentren-Boom."
+          "title": "Nvidia-Krise: Warum sich Trump nach Huangs Rettung in heikle Widersprüche verstrickt",
+          "link": "https://www.wiwo.de/politik/ausland/nvidia-krise-trumps-heikle-intervention-fuer-jensen-huang/100272666.html",
+          "published": "2026-11-25T17:56:24+00:00",
+          "summary": "In den USA bahnt sich eine Staatsaffäre an: Hat Donald Trump den Nvidia-Chef Jensen Huang nur zurückgeholt, um den KI-Börsenboom zu retten – und sich selbst?"
         },
         {
-          "title": "Jahrelanges Verfahren: US-Geschworene sprechen Huawei der Geldwäsche schuldig",
-          "link": "https://www.wiwo.de/politik/ausland/huawei-us-geschworene-sprechen-huawei-der-geldwaesche-schuldig/100272588.html",
-          "published": "2026-11-25T06:33:58+00:00",
-          "summary": "Die US-Staatsanwaltschaft sieht unter anderem den Diebstahl von Firmengeheimnissen durch den chinesischen Technologiekonzern als erwiesen an. Huawei will in Berufung gehen."
+          "title": "Aktien: Ausverkauf bei KI-Werten und Zölle belasten US-Börsen",
+          "link": "https://www.wiwo.de/finanzen/boerse/aktien-ausverkauf-bei-ki-werten-und-zoelle-belasten-us-boersen/100272785.html",
+          "published": "2026-11-25T17:30:00+00:00",
+          "summary": "Die Trump-Regierung rückt von ihrer Zollpolitik nicht ab. Die Erholung vom Wochenanfang hat keinen Bestand. Besonders Chip- und KI-Werte sind betroffen."
         },
         {
-          "title": "Flugzeugbauer: Boeing erhält große Bestellung aus China",
-          "link": "https://www.wiwo.de/unternehmen/industrie/boeing-flugzeugbauer-erhaelt-grosse-bestellung-aus-china/100272584.html",
-          "published": "2026-11-25T06:21:58+00:00",
-          "summary": "Boeing erhält einen Großauftrag aus Asien. Es ist der erste seit Jahren. Was bisher bekannt ist."
+          "title": "Börsen: Dax schließt nach negativen Signalen aus den USA unter 25.000 Punkten",
+          "link": "https://www.wiwo.de/finanzen/boerse/boerse-dax-schliesst-nach-negativen-signalen-aus-den-usa-unter-25.000-punkten/100272595.html",
+          "published": "2026-11-25T17:25:00+00:00",
+          "summary": "Sinkende Kurse der US-Techbranche belasten auch den deutschen Leitindex. Der Dax beendet den Handel auf dem tiefsten Stand seit Juli."
         },
         {
-          "title": "Bundeshaushalt 2027: Diese vier Grafiken zeigen, wie es um den Bundesetat steht",
-          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-wie-hoch-die-neuen-schulden-wirklich-sind/100272370.html",
-          "published": "2026-11-25T06:13:14+00:00",
-          "summary": "Die Haushaltswoche im Bundestag hat begonnen. Das Parlament verabschiedet in dieser Woche Rekordzahlen – nicht nur gute allerdings. Die Analyse in Zahlen."
+          "title": "Mittelstand: So sehr kriselt es wirklich im Handwerk",
+          "link": "https://www.wiwo.de/unternehmen/mittelstand/handwerk-in-der-krise-so-ausgepraegt-ist-das-betriebssterben-wirklich/100270872.html",
+          "published": "2026-11-25T16:14:36+00:00",
+          "summary": "Sterben die Gewerke langsam dahin? Deutschlands Handwerkspräsident zeichnet jedenfalls düstere Szenarien. Doch nicht überall herrscht apokalyptische Stimmung."
         },
         {
-          "title": "Nvidia-Rückkehr: Huang ist zurück – das Vertrauen wohl kaum",
-          "link": "https://www.wiwo.de/erfolg/management/jensen-huang-ist-zurueck-bei-nvidia-aber-wie-glaubwuerdig-ist-er-noch/100272366.html",
-          "published": "2026-11-25T05:38:51+00:00",
-          "summary": "Jensen Huang ist zurück bei Nvidia, die Börse jubelt. Auch die Mitarbeiter feiern die Rückkehr. Doch für sie könnten die Affären des Chefs noch ungeahnte Folgen haben."
+          "title": "US-Zölle: „Wir sprechen von einer überschaubaren Erhöhung“",
+          "link": "https://www.wiwo.de/politik/ausland/neue-us-zoelle-was-europa-jetzt-erwarten-kann/100272766.html",
+          "published": "2026-11-25T15:38:57+00:00",
+          "summary": "Die USA drohen mit neuen Zöllen, doch die wirtschaftlichen Folgen dürften überschaubar bleiben. Ökonom Julian Hinz erklärt, warum der Zollstreit trotzdem weitergehen wird."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Drei Supermonde in Folge: Warum der Mond der Erde jetzt besonders nahe kommt",
-          "link": "https://www.ingenieur.de/drei-supermonde-in-folge-warum-der-mond-der-erde-jetzt-besonders-nahe-kommt-a1e0f026-ed40-411a-a066-630fbae33a42/",
-          "published": "2026-11-24T17:50:16+00:00",
-          "summary": "Drei Supermonde in Folge erwarten uns bis Januar 2027. Warum der Mond größer und heller erscheint und wann er der Erde besonders nahe kommt."
+          "title": "Stadiongroßer Krater: So sieht der Asteroid aus, den die Nasa absichtlich rammte",
+          "link": "https://www.ingenieur.de/stadiongrosser-krater-so-sieht-der-asteroid-aus-den-die-nasa-absichtlich-rammte-ba55f9a5-6b41-46b3-a107-9da673a6ced3/",
+          "published": "2026-11-25T17:30:00+00:00",
+          "summary": "2022 hat die Nasa ein Projektil in einen Asteroiden gejagt. Die Esa-Sonde Hera hat nun erste Fotos von der Verwüstung gemacht."
         },
         {
-          "title": "Bürgermeister kritisiert Kranabbau: Am Hamburger Elbtower eskaliert der Streit",
-          "link": "https://www.ingenieur.de/elbtower-debakel-baufirma-baut-ersten-kran-ab-und-droht-mit-rueckzug-ea03dd86-baff-4f09-bbb9-471ee58b10e7/",
-          "published": "2026-11-24T17:25:18+00:00",
-          "summary": "Am Hamburger Elbtower baut Lupp zwei Kräne ab. Rund 250 t Baugerät sollen verschwinden. Jetzt verschärft Hamburgs Bürgermeister den Streit um den Weiterbau."
+          "title": "9 Jahre Testmodus: Warum autonomes Fahren in Deutschland stockt",
+          "link": "https://www.ingenieur.de/9-jahre-testmodus-warum-autonomes-fahren-in-deutschland-stockt-708b462c-9ed7-48c7-961c-08842305a436/",
+          "published": "2026-11-25T13:00:00+00:00",
+          "summary": "Der Bundesrat will mit größeren Modellregionen den Übergang zum autonomen Regelbetrieb beschleunigen. Seit neun Jahren erprobt Deutschland selbstfahrende Busse im öffentlichen Nahverkehr. Zwei …"
         },
         {
-          "title": "ETH-Forscher lassen 5-t-Baumaschine mit Hilfe von KI auf zwei Rädern tanzen",
-          "link": "https://www.ingenieur.de/eth-forscher-lassen-5-t-baumaschine-mit-hilfe-von-ki-auf-zwei-raedern-tanzen-b9632eb5-4998-4166-b8ce-57a55d37ecb5/",
-          "published": "2026-11-24T16:30:00+00:00",
-          "summary": "ETH-Forschende trainieren eine KI, die einen 5-Tonnen-Kompaktlader auf zwei Rädern balanciert und über 75 Zentimeter hohe Bodenwellen steuert."
+          "title": "1700 m²: Netto eröffnet weltweit ersten Supermarkt aus dem 3D-Drucker",
+          "link": "https://www.ingenieur.de/ein-supermarkt-aus-dem-3d-drucker-mit-1300-m2-wandflaeche-zum-weltrekord-bb0d1e2f-6c31-47dc-8a72-d9cddd0a83f4/",
+          "published": "2026-11-25T12:00:00+00:00",
+          "summary": "Der Discounter Netto hat im baden-württembergischen Neubulach den nach eigenen Angaben weltweit ersten Supermarkt aus dem Betondrucker eröffnet. Das Projekt zeigt das Potenzial der additiven …"
         },
         {
-          "title": "Heidelberger Astronomen finden den fernsten Quasar aller Zeiten",
-          "link": "https://www.ingenieur.de/heidelberger-astronomen-finden-den-fernsten-quasar-aller-zeiten-92be2895-bebc-4f38-98b1-1dd0894b27ad/",
-          "published": "2026-11-24T16:30:00+00:00",
-          "summary": "Der fernste bekannte Quasar beherbergt ein Schwarzes Loch mit 360 Millionen Sonnenmassen. Wie konnte es so kurz nach dem Urknall so stark wachsen?"
+          "title": "Wo Gletscher schmelzen, könnten Tausende Kraftwerke entstehen",
+          "link": "https://www.ingenieur.de/wo-gletscher-schmelzen-konnten-tausende-neue-kraftwerke-entstehen-124dd953-0037-473e-bfa1-21c141edff46/",
+          "published": "2026-11-25T10:30:00+00:00",
+          "summary": "Wo Gletscher schmelzen, wachsen Seen, die ganze Täler bedrohen können. Forscher sehen in ihnen zugleich eine Stromquelle, im Himalaya wie in den Alpen. Wie viel Energie in den Seen steckt und was der …"
         },
         {
-          "title": "Neun Tunnelbohrmaschinen, 230 km Tunnelsystem: Historischer Meilenstein am Brenner",
-          "link": "https://www.ingenieur.de/neun-tunnelbohrmaschinen-230-km-tunnelsystem-historischer-meilenstein-am-brenner-70cc9730-e6b1-48ac-a072-5007cb1f2452/",
-          "published": "2026-11-24T16:01:28+00:00",
-          "summary": "Mehr als zwei Jahre arbeitete sich die deutsche Tunnelbohrmaschine Olga durch die Alpen. Jetzt sind beide Haupttunnelröhren vollständig ausgebrochen."
+          "title": "Kernfusion made in Germany: Erste Metallplatte für neue Magnetspule ist fertig",
+          "link": "https://www.ingenieur.de/kernfusion-made-in-germany-erste-metallplatte-fuer-neue-magnetspule-ist-fertig-b554b732-ddda-42c5-80e0-7177af80b972/",
+          "published": "2026-11-25T09:03:35+00:00",
+          "summary": "Proxima Fusion will in Deutschland ein Fusionskraftwerk bauen. Jetzt haben Industriepartner eine erste Radialplatte für die komplexe Magnettechnik geliefert."
         }
       ],
       "error": null
