@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:24:17+00:00",
+  "generatedAt": "2026-11-26T02:37:10+00:00",
   "ort": "Enger",
   "quelle": "Open-Meteo",
   "koordinaten": {
@@ -7,12 +7,12 @@
     "longitude": 8.55772
   },
   "jetzt": {
-    "zeit": "2026-11-25T19:15",
-    "temperatur": -0.7,
-    "gefuehlt": -5.7,
-    "luftfeuchte": 84,
+    "zeit": "2026-11-26T03:30",
+    "temperatur": -1.1,
+    "gefuehlt": -6.7,
+    "luftfeuchte": 68,
     "niederschlag": 0.0,
-    "wind": 16.7,
+    "wind": 18.3,
     "einheit": "°C",
     "windEinheit": "km/h",
     "wetter": {
@@ -23,12 +23,12 @@
   },
   "tage": [
     {
-      "datum": "2026-11-25",
-      "max": 0.7,
-      "min": -3.7,
+      "datum": "2026-11-26",
+      "max": 0.5,
+      "min": -2.6,
       "regenwahrscheinlichkeit": 0,
-      "sonnenaufgang": "2026-11-25T08:02",
-      "sonnenuntergang": "2026-11-25T16:22",
+      "sonnenaufgang": "2026-11-26T08:04",
+      "sonnenuntergang": "2026-11-26T16:21",
       "wetter": {
         "code": 3,
         "text": "Bedeckt",
@@ -36,12 +36,12 @@
       }
     },
     {
-      "datum": "2026-11-26",
-      "max": 0.0,
-      "min": -3.7,
+      "datum": "2026-11-27",
+      "max": -0.3,
+      "min": -3.9,
       "regenwahrscheinlichkeit": 0,
-      "sonnenaufgang": "2026-11-26T08:04",
-      "sonnenuntergang": "2026-11-26T16:21",
+      "sonnenaufgang": "2026-11-27T08:05",
+      "sonnenuntergang": "2026-11-27T16:20",
       "wetter": {
         "code": 2,
         "text": "Teils bewölkt",
@@ -49,22 +49,9 @@
       }
     },
     {
-      "datum": "2026-11-27",
-      "max": -0.9,
-      "min": -4.3,
-      "regenwahrscheinlichkeit": 0,
-      "sonnenaufgang": "2026-11-27T08:05",
-      "sonnenuntergang": "2026-11-27T16:20",
-      "wetter": {
-        "code": 3,
-        "text": "Bedeckt",
-        "icon": "☁️"
-      }
-    },
-    {
       "datum": "2026-11-28",
-      "max": 0.4,
-      "min": -4.1,
+      "max": 1.2,
+      "min": -3.4,
       "regenwahrscheinlichkeit": 0,
       "sonnenaufgang": "2026-11-28T08:07",
       "sonnenuntergang": "2026-11-28T16:19",
@@ -72,6 +59,19 @@
         "code": 3,
         "text": "Bedeckt",
         "icon": "☁️"
+      }
+    },
+    {
+      "datum": "2026-11-29",
+      "max": 3.3,
+      "min": -0.8,
+      "regenwahrscheinlichkeit": 41,
+      "sonnenaufgang": "2026-11-29T08:09",
+      "sonnenuntergang": "2026-11-29T16:18",
+      "wetter": {
+        "code": 61,
+        "text": "Leichter Regen",
+        "icon": "🌦️"
       }
     }
   ]

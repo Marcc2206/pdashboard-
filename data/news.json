@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:24:13+00:00",
+  "generatedAt": "2026-11-26T02:37:07+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
-          "published": "2026-11-25T18:10:19+00:00",
-          "summary": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die …"
-        },
-        {
-          "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-          "link": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-          "published": "2026-11-25T17:37:52+00:00",
-          "summary": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als …"
-        },
-        {
-          "title": "Asteroiden-Abwehr - einfach Schießen und Hoffen reicht nicht",
-          "link": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
-          "published": "2026-11-25T17:30:09+00:00",
-          "summary": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach …"
+          "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
+          "published": "2026-11-26T01:58:55+00:00",
+          "summary": "SpaceX plant im All ein Netz aus Satelliten, die als Rechenzentren dienen sollen. Die US-Behörden haben das Vorhaben nun erlaubt. Ziel ist es, die enorme Nachfrage nach Rechenleistung für Künstliche …"
         },
         {
           "title": "tagesschau in 100 Sekunden",
-          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1689824.html",
-          "published": "2026-11-25T17:29:06+00:00",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1690054.html",
+          "published": "2026-11-26T00:53:54+00:00",
           "summary": ""
         },
         {
-          "title": "Marktbericht: DAX fällt unter 25.000 Punkte-Marke",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
-          "published": "2026-11-25T17:17:11+00:00",
-          "summary": "Die Verunsicherung am deutschen Aktienmarkt nimmt weiter zu. Neue Zolldrohungen der US-Regierung und Zweifel am KI-Boom setzten den DAX unter Druck. Der Leitindex fiel auf den tiefsten Stand seit …"
+          "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+          "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+          "published": "2026-11-25T23:56:55+00:00",
+          "summary": "Andy Taylor, der ursprüngliche Gitarrist der englischen New-Wave-Band Duran Duran, ist gestorben. Mit seinen von Rock und Funk inspirierten Gitarrenriffs prägte Taylor den Sound der Band."
+        },
+        {
+          "title": "tagesthemen",
+          "link": "https://www.tagesschau.de/tagesthemen/tt-13000.html",
+          "published": "2026-11-25T23:42:32+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82288.html",
+          "published": "2026-11-25T23:41:42+00:00",
+          "summary": ""
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Wall Street: Erneuter Ausverkauf: US-Börsen brechen weiter ein – Nvidia verliert sieben Prozent",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-erneuter-ausverkauf-us-boersen-brechen-weiter-ein/100272701.html",
-          "published": "2026-11-25T18:09:00+00:00",
-          "summary": "Auch die Rückendeckung des US-Präsidenten für Nvidia-Chef Huang ändert nichts am Ausverkauf der Techwerte. Derweil denkt Trump sogar über eine Staatsbeteiligung bei dem Unternehmen nach."
+          "title": "Beige Book: US-Wirtschaft wächst laut Notenbank-Bericht leicht bis moderat",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/konjunktur-us-wirtschaft-waechst-laut-notenbank-bericht-leicht-bis-moderat/100272820.html",
+          "published": "2026-11-25T20:24:20+00:00",
+          "summary": "Im Konjunkturbericht Beige Book der Fed heißt es, zugleich bleibe die Inflation hartnäckig. Die Notenbanker zeigen sich zunehmend besorgt über die Teuerung."
         },
         {
-          "title": "Börsen: Neue Flucht aus Risikoanlagen: Warum sich der Ausverkauf nun beschleunigt",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/boersen-an-den-finanzmaerkten-verstaerkt-sich-die-flucht-aus-risikoanlagen/100272767.html",
-          "published": "2026-11-25T18:02:30+00:00",
-          "summary": "Am Mittwoch sind die US-Märkte erneut mit hohen Kursverlusten gestartet. Nicht nur Sorgen vor steigenden Zinsen und neue Zölle machen Anleger nervös."
+          "title": "Reformpläne: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
+          "link": "https://www.handelsblatt.com/politik/deutschland/reformplaene-unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor/100272818.html",
+          "published": "2026-11-25T20:07:40+00:00",
+          "summary": "Die vorgeschlagene Abschaffung der Rente mit 63 ist ein Knackpunkt bei der Reform der Alterssicherung. Fachpolitiker der CDU wollen die abschlagsfreie Frührente für Geringverdiener erhalten."
         },
         {
-          "title": "Wirtschaft: EU verhängt Millionenstrafen gegen Parfümkartell",
-          "link": "https://www.handelsblatt.com/politik/international/wirtschaft-eu-verhaengt-millionenstrafen-gegen-parfuemkartell/100272803.html",
-          "published": "2026-11-25T17:44:24+00:00",
-          "summary": "Firmenich, Givaudan und IFF sollen jahrelang Preise und Geschäftsinformationen ausgetauscht haben. Die EU-Kommission verhängt Bußgelder von mehr als 470 Millionen Euro."
+          "title": "Bonität: Ratingagentur S&P droht Nvidia nach Führungswirren mit Herabstufung",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ratingagentur-sp-droht-nvidia-nach-fuehrungswirren-mit-herabstufung/100272817.html",
+          "published": "2026-11-25T19:51:26+00:00",
+          "summary": "Die US-Ratingagentur sieht nach den jüngsten Turbulenzen an der Konzernspitze Schwächen in der Unternehmensführung des Chipkonzerns offengelegt. Darin liegt nach S&P-Ansicht Risikopotenzial."
         },
         {
-          "title": "Genossenschaftsbanken: Genossenschaftsbanken bündeln Marketing in neuer Firma Coorelity",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-volksbanken-buendeln-drei-firmen-in-neuer-marketinggesellschaft/100272734.html",
-          "published": "2026-11-25T17:36:27+00:00",
-          "summary": "Die Volks- und Raiffeisenbanken schaffen einen zentralen Ansprechpartner für Marketing-Dienstleistungen. Der Chef des neuen Unternehmens kommt aus dem Sportartikelhandel."
+          "title": "Börsen: Die Furcht vor einem KI-Crash will nicht weichen: Was kann die Angst der Anleger jetzt stoppen?",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/boersen-die-angst-vor-einem-ki-crash-haelt-an/100272767.html",
+          "published": "2026-11-25T19:01:06+00:00",
+          "summary": "Die US-Börsen haben ihre hohen Anfangsverluste am Mittwoch weitgehend aufgeholt. Nicht nur neue Zolldrohungen und die Aussicht auf höhere Zinsen belasten die Anleger."
         },
         {
-          "title": "Prozessauftakt: Anklage erhebt schwere Vorwürfe gegen Jones-Day-Anwälte",
-          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/prozessauftakt-anklage-erhebt-schwere-vorwuerfe-gegen-jones-day-anwaelte/100272503.html",
-          "published": "2026-11-25T17:24:08+00:00",
-          "summary": "Laut Staatsanwaltschaft haben die Juristen gemeinschaftlich die Interessen ihrer Mandantin North Channel Bank verraten. Die Verteidiger weisen die Anschuldigungen scharf zurück."
+          "title": "Reformpläne: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
+          "link": "https://www.handelsblatt.com/politik/deutschland/reformplaene-unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor/100272814.html",
+          "published": "2026-11-25T18:59:27+00:00",
+          "summary": "Die vorgeschlagene Abschaffung der sogenannten Rente mit 63 ist ein Knackpunkt bei der Reform der Alterssicherung. Nun machen Unionspolitiker einen Vorstoß, um „diesen Knoten zu lösen“."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Teuer nicht nur wegen GTA 6: Warum Spielekonsolen fast überall ausverkauft sind",
-          "link": "https://www.n-tv.de/wirtschaft/Spielekonsolen-und-GTA6-warum-die-Konsolen-ausverkauft-sind-PS5-und-Xbox-id31577413.html",
-          "published": "2026-11-25T16:32:14+00:00",
-          "summary": "Das Videospiel GTA 6 sorgt für einen Ansturm auf Spielekonsolen. Die Geräte aber sind derzeit teuer oder komplett ausverkauft. Der Grund: in den Konsolen stecken Chips, die auch in der KI-Industrie …"
+          "title": "Industriejobs unter Druck: Kretschmer hält die 35-Stunden-Woche für einen \"riesigen Irrtum\"",
+          "link": "https://www.n-tv.de/wirtschaft/Kretschmer-haelt-die-35-Stunden-Woche-fuer-einen-riesigen-Irrtum-id31578352.html",
+          "published": "2026-11-26T01:42:00+00:00",
+          "summary": "Monatlich verschwinden rund 15.000 Industriejobs - trotzdem pocht die IG Metall in den Tarifverhandlungen auf mehr Lohn. Für Sachsens Ministerpräsident Kretschmer ist das \"völlig aus der Zeit …"
         },
         {
-          "title": "Konzern bis März finanziert: Galeria-Insolvenzverwalter: \"Werden deutlich tiefer schneiden müssen\"",
-          "link": "https://www.n-tv.de/wirtschaft/Galeria-Insolvenzverwalter-Werden-deutlich-tiefer-schneiden-muessen-id31577178.html",
-          "published": "2026-11-25T15:47:48+00:00",
-          "summary": "Ein gutes Dutzend Interessenten prüft einen Kauf oder Teilkauf der Warenhauskette Galeria. Der Insolvenzverwalter will noch in diesem Jahr Klarheit. Zugleich macht er deutlich, dass der Umbau …"
+          "title": "\"Will niemandem Angst machen...\": Ukrainische Eisenbahn berät Deutsche Bahn bei Sabotage-Abwehr",
+          "link": "https://www.n-tv.de/wirtschaft/Ukrainische-Eisenbahn-beraet-Deutsche-Bahn-bei-Sabotage-Abwehr-id31578329.html",
+          "published": "2026-11-26T00:51:37+00:00",
+          "summary": "Täglich wehrt die ukrainische Staatsbahn russische Drohnen und Sabotage ab. Diese Erfahrungen teilt ihr Chef nun mit Verbündeten wie Deutschland. Demnach drohten auch ohne Krieg hierzulande hybride …"
         },
         {
-          "title": "Verbraucherlaune trübt sich ein: US-Wirtschaft wächst deutlich kräftiger - Inflationsrate auch",
-          "link": "https://www.n-tv.de/wirtschaft/US-Wirtschaft-waechst-deutlich-kraeftiger-Inflationsrate-auch-id31577340.html",
-          "published": "2026-11-25T15:42:17+00:00",
-          "summary": "Im Sommer legt die US-Wirtschaft ein beeindruckendes Wachstumtempo an den Tag. Doch ausgerechnet der Konsum als Motor scheint zunehmend zu stottern. Die Verbraucherausgaben wachsen langsamer. …"
+          "title": "\"Immer weniger wettbewerbsfähig\": VDA-Umfrage: Autozulieferer verlagern Investitionen ins Ausland",
+          "link": "https://www.n-tv.de/wirtschaft/VDA-Umfrage-Autozulieferer-verlagern-Investitionen-ins-Ausland-id31578284.html",
+          "published": "2026-11-26T00:01:08+00:00",
+          "summary": "Deutsche Autozulieferer verlieren laut einer VDA-Umfrage das Vertrauen in den heimischen Standort - nur noch sechs Prozent wollen hierzulande neue Jobs schaffen. Die Präsidentin des Verbands der …"
         },
         {
-          "title": "Der Börsen-Tag: Tech-Ausverkauf an den US-Börsen verschärft sich",
-          "link": "https://www.n-tv.de/wirtschaft/boersenkurse/Tech-Ausverkauf-an-den-US-Boersen-verschaerft-sich-id31577126.html",
-          "published": "2026-11-25T14:45:41+00:00",
-          "summary": ""
+          "title": "Chipwerte im Sturzflug: Nvidia reißt die Wall Street in die Tiefe",
+          "link": "https://www.n-tv.de/wirtschaft/Nvidia-reisst-die-Wall-Street-in-die-Tiefe-id31578217.html",
+          "published": "2026-11-25T21:39:11+00:00",
+          "summary": "Die KI-Euphorie an den US-Börsen bröckelt, der Nvidia-Kurs bricht um rund sechs Prozent ein. Steigende Energiepreise und neue Strafzölle gegen die EU verschärfen die Lage zusätzlich."
         },
         {
-          "title": "Kartellamt legt Bericht vor: Keine günstigeren Strom- und Gaspreise in Sicht",
-          "link": "https://www.n-tv.de/wirtschaft/Keine-guenstigeren-Strom-und-Gaspreise-in-Sicht-id31576459.html",
-          "published": "2026-11-25T14:13:56+00:00",
-          "summary": "Mit dem Überfall Russlands auf die Ukraine sind die Energiepreise deutlich gestiegen. Und ein Rückgang auf das frühere Niveau ist nicht absehbar. Das hat auch mit den neuen Bezugsquellen zu tun."
+          "title": "Bis zu einer Million Satelliten: Musk darf mit SpaceX Rechenzentren im All errichten",
+          "link": "https://www.n-tv.de/wirtschaft/Musk-darf-mit-SpaceX-Rechenzentren-im-All-errichten-id31578034.html",
+          "published": "2026-11-25T19:49:11+00:00",
+          "summary": "Rund 17.000 vom Menschen geschaffene Himmelskörper umkreisen derzeit die Erde. Geht es nach Elon Musk, soll in den kommenden Jahrzehnten ein Vielfaches hinzukommen. Hunderttausende kleine …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
+          "title": "Aktien: US-Börsen erholen sich nach großen KI-Verlusten teils",
+          "link": "https://www.wiwo.de/finanzen/boerse/aktien-us-boersen-erholen-sich-nach-grossen-ki-verlusten-teils/100272785.html",
+          "published": "2026-11-25T19:50:00+00:00",
+          "summary": "Die wichtigsten US-Indizes können den Schock vom Handelsbeginn abschütteln. Die Chip-Konzerne müssen dennoch Verluste hinnehmen."
+        },
+        {
+          "title": "Immobilien-Aktien: Auf die Mietrendite kommt es an",
+          "link": "https://www.wiwo.de/finanzen/boerse/immobilien-aktien-auf-die-mietrendite-kommt-es-an/100270353.html",
+          "published": "2026-11-25T19:01:44+00:00",
+          "summary": "Beim Vermieter LEG gilt der Einstieg eines Konkurrenten als Beleg dafür, dass der Börsenwert viel zu niedrig ist. Ist die Aktie wirklich ein Schnäppchen?"
+        },
+        {
+          "title": "Raumfahrt: SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All bringen",
+          "link": "https://www.wiwo.de/technologie/digitale-welt/raumfahrt-spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen/100272813.html",
+          "published": "2026-11-25T18:48:35+00:00",
+          "summary": "Bisher fliegen insgesamt nur rund 17.000 Satelliten im Erdorbit. US-Behörden erhoffen sich Vorteile für die Führungsrolle der USA bei KI und Raumfahrt."
+        },
+        {
+          "title": "Jugendproteste: „Es ist nicht attraktiv, Kinder zu bekommen“",
+          "link": "https://www.wiwo.de/politik/deutschland/familie-und-beruf-warum-es-unattraktiv-ist-kinder-zu-bekommen/100270516.html",
+          "published": "2026-11-25T18:36:12+00:00",
+          "summary": "Arbeit, Familie und Alltag können ein Kraftakt sein. Malin und Victor fehlt dafür oft die Wertschätzung der Regierung. Warum sie die Gen Z unterstützen."
+        },
+        {
           "title": "Nvidia-Krise: Warum sich Trump nach Huangs Rettung in heikle Widersprüche verstrickt",
           "link": "https://www.wiwo.de/politik/ausland/nvidia-krise-trumps-heikle-intervention-fuer-jensen-huang/100272666.html",
           "published": "2026-11-25T17:56:24+00:00",
           "summary": "In den USA bahnt sich eine Staatsaffäre an: Hat Donald Trump den Nvidia-Chef Jensen Huang nur zurückgeholt, um den KI-Börsenboom zu retten – und sich selbst?"
-        },
-        {
-          "title": "Aktien: Ausverkauf bei KI-Werten und Zölle belasten US-Börsen",
-          "link": "https://www.wiwo.de/finanzen/boerse/aktien-ausverkauf-bei-ki-werten-und-zoelle-belasten-us-boersen/100272785.html",
-          "published": "2026-11-25T17:30:00+00:00",
-          "summary": "Die Trump-Regierung rückt von ihrer Zollpolitik nicht ab. Die Erholung vom Wochenanfang hat keinen Bestand. Besonders Chip- und KI-Werte sind betroffen."
-        },
-        {
-          "title": "Börsen: Dax schließt nach negativen Signalen aus den USA unter 25.000 Punkten",
-          "link": "https://www.wiwo.de/finanzen/boerse/boerse-dax-schliesst-nach-negativen-signalen-aus-den-usa-unter-25.000-punkten/100272595.html",
-          "published": "2026-11-25T17:25:00+00:00",
-          "summary": "Sinkende Kurse der US-Techbranche belasten auch den deutschen Leitindex. Der Dax beendet den Handel auf dem tiefsten Stand seit Juli."
-        },
-        {
-          "title": "Mittelstand: So sehr kriselt es wirklich im Handwerk",
-          "link": "https://www.wiwo.de/unternehmen/mittelstand/handwerk-in-der-krise-so-ausgepraegt-ist-das-betriebssterben-wirklich/100270872.html",
-          "published": "2026-11-25T16:14:36+00:00",
-          "summary": "Sterben die Gewerke langsam dahin? Deutschlands Handwerkspräsident zeichnet jedenfalls düstere Szenarien. Doch nicht überall herrscht apokalyptische Stimmung."
-        },
-        {
-          "title": "US-Zölle: „Wir sprechen von einer überschaubaren Erhöhung“",
-          "link": "https://www.wiwo.de/politik/ausland/neue-us-zoelle-was-europa-jetzt-erwarten-kann/100272766.html",
-          "published": "2026-11-25T15:38:57+00:00",
-          "summary": "Die USA drohen mit neuen Zöllen, doch die wirtschaftlichen Folgen dürften überschaubar bleiben. Ökonom Julian Hinz erklärt, warum der Zollstreit trotzdem weitergehen wird."
         }
       ],
       "error": null
