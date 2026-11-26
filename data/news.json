@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:31:18+00:00",
+  "generatedAt": "2026-11-26T22:47:18+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Nationalspielerin Laura Freigang wegen verpasster Dopingtests gesperrt",
-          "link": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-laura-freigang-bis-oktober-2027-gesperrt-100.html",
-          "published": "2026-11-26T13:20:48+00:00",
-          "summary": "Wegen verpasster Dopingtests wird Fußball-Nationalspielerin Laura Freigang für knapp ein Jahr gesperrt. Einen entsprechenden Vergleich gab die Nationale Anti-Doping Agentur bekannt."
-        },
-        {
-          "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
-          "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
-          "published": "2026-11-26T13:20:47+00:00",
-          "summary": "Russland hat die Ukraine wieder massiv angegriffen. Auch bei einem ukrainischen Drohnenangriff im russisch besetzten Teil von Saporischschja gab es Tote. Beide Seiten tauschten die Leichen gefallener …"
-        },
-        {
-          "title": "tagesschau",
-          "link": "https://www.tagesschau.de/tagesschau/ts-82276.html",
-          "published": "2026-11-26T13:10:48+00:00",
+          "title": "Diskussion in der AfD über Abschiebungen und \"Remigration\"",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1690684.html",
+          "published": "2026-11-26T22:35:29+00:00",
           "summary": ""
         },
         {
-          "title": "Holger Schmidt, SWR, zur Festnahme von zwei mutmaßlichen Mitgliedern pro-iranischer Terrorgruppe",
-          "link": "https://www.tagesschau.de/video/video-1690336.html",
-          "published": "2026-11-26T13:09:22+00:00",
+          "title": "EU-Mitgliedstaaten ringen um Kompromiss für künftigen Haushalt",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1690682.html",
+          "published": "2026-11-26T22:34:24+00:00",
           "summary": ""
         },
         {
-          "title": "Bei Haushaltsverhandlungen prallen die Interessen von 27 EU-Staaten hart aufeinander",
-          "link": "https://www.tagesschau.de/video/video-1690332.html",
-          "published": "2026-11-26T13:06:20+00:00",
+          "title": "Philipp Köster, Chefredakteur des Fußballmagazins 11FREUNDE, zur Diskussion nach Erkrankung von Musiala",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1690680.html",
+          "published": "2026-11-26T22:32:16+00:00",
           "summary": ""
+        },
+        {
+          "title": "Festnahmen wegen mutmaßlichen Anschlagsplänen auf Synagoge in Köln: Welche Rolle spielt der Iran?",
+          "link": "https://www.tagesschau.de/tagesthemen/video-1690678.html",
+          "published": "2026-11-26T22:31:27+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Hoffenheim bekommt Graz mit Mühe in den Griff",
+          "link": "https://www.sportschau.de/regional/swr/swr-sieg-nach-rueckstand-hoffenheim-bekommt-graz-mit-muehe-in-den-griff-100.html",
+          "published": "2026-11-26T22:00:58+00:00",
+          "summary": "Am fünften Spieltag der Europa League hat die TSG Hoffenheim gegen Sturm Graz 3:1 gewonnen und damit den zweiten Sieg während der Ligaphase geholt."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Halbleiter: Neue US‑Exportregeln für Chips von Nvidia erschüttern Südostasiens KI-Boom",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/nvidia-neue-us-exportbeschraenkungen-erschuettern-suedostasiens-ki-boom/100272882.html",
-          "published": "2026-11-26T13:25:25+00:00",
-          "summary": "Heftiger Schlag für Malaysia, Singapur, Thailand und Indonesien: Wegen der Restriktionen für Nvidia-Chips steht jetzt der Bau zahlreicher Rechenzentren auf dem Spiel. Ein Milliarden-Risiko."
+          "title": "EU-Haushalt: EU-Sondergipfel zum Haushalt wird vorzeitig beendet",
+          "link": "https://www.handelsblatt.com/politik/international/eu-haushalt-eu-sondergipfel-zum-haushalt-wird-vorzeitig-beendet/100273137.html",
+          "published": "2026-11-26T22:22:26+00:00",
+          "summary": "Verhärtete Fronten: Trotz verschiedener Konstellationen bei den Verhandlungen gibt es keine Fortschritte beim Streit um den nächsten EU‑Haushalt. Wie geht es nun weiter?"
         },
         {
-          "title": "Urteil: Gericht gibt grünes Licht für Augenscreening in dm-Filialen",
-          "link": "https://www.handelsblatt.com/politik/deutschland/urteil-gericht-gibt-gruenes-licht-fuer-augenscreening-in-dm-filialen/100272841.html",
-          "published": "2026-11-26T13:24:51+00:00",
-          "summary": "Die Drogeriemarktkette dm bietet seit 2025 Augenscreenings in ausgewählten Märkten an. Das Landgericht Karlsruhe hat geprüft, ob das Angebot rechtlich zulässig ist."
+          "title": "Softwarekonzern: SAP: Haben „verdächtige Aktivitäten identifiziert“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/softwarekonzern-sap-haben-verdaechtige-aktivitaeten-identifiziert/100273127.html",
+          "published": "2026-11-26T22:02:15+00:00",
+          "summary": "SAP hat verdächtige Aktivitäten festgestellt und nach eigenen Angaben rasch reagiert. Was über den Vorfall bekannt ist – und welche Fragen offenbleiben."
         },
         {
-          "title": "Sondertreffen in Brüssel: Noch „Lichtjahre“ bis zur Einigung? EU streitet ums Geld",
-          "link": "https://www.handelsblatt.com/politik/international/sondertreffen-in-bruessel-noch-lichtjahre-bis-zur-einigung-eu-streitet-ums-geld/100272852.html",
-          "published": "2026-11-26T13:24:26+00:00",
-          "summary": "Warmlaufen für den Weihnachtsgipfel: Dass es beim jetzigen EU-Treffen in Brüssel noch keine Einigung geben wird, ist von Anfang an klar. Die Frage ist nur: Wie weit kommt man voran?"
+          "title": "Atomwaffen: Russland dementiert Berichte über Atomwaffe im Weltraum",
+          "link": "https://www.handelsblatt.com/politik/international/atomwaffen-russland-dementiert-berichte-ueber-atomwaffe-im-weltraum/100273135.html",
+          "published": "2026-11-26T21:58:48+00:00",
+          "summary": "Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende Berichte als „Unterstellungen“ zurück. Die russische Außenamtssprecherin glaubt, den Grund für die Vorwürfe zu kennen."
         },
         {
-          "title": "Schwarzes Meer: Russland greift zwei Getreideschiffe an – Wadephul protestiert",
-          "link": "https://www.handelsblatt.com/politik/international/schwarzes-meer-russland-greift-laut-kiew-zwei-getreideschiffe-an/100273027.html",
-          "published": "2026-11-26T13:19:44+00:00",
-          "summary": "Die ukrainischen Getreideexporte leiden unter neuen russischen Angriffen im Schwarzen Meer. Wadephul kündigt mehr Präsenz der Nato in der Region an."
+          "title": "Treffen in Brüssel: EU-Sondergipfel zum Haushalt wird vorzeitig beendet",
+          "link": "https://www.handelsblatt.com/politik/international/treffen-in-bruessel-eu-sondergipfel-zum-haushalt-wird-vorzeitig-beendet/100272852.html",
+          "published": "2026-11-26T21:42:34+00:00",
+          "summary": "Verhärtete Fronten: Trotz verschiedener Konstellationen bei den Verhandlungen gibt es keine Fortschritte beim Streit um den nächsten EU-Haushalt. Wie geht es nun weiter?"
         },
         {
-          "title": "+++ Bundespolitik +++: Linken droht nach Blockade-Aktion im Bundestag ein Ordnungsgeld",
-          "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-linken-droht-nach-blockade-aktion-im-bundestag-ein-ordnungsgeld/100137034.html",
-          "published": "2026-11-26T13:05:41+00:00",
-          "summary": "Merz – Haushaltsberatungen haben keinen Schönheitspreis verdient +++ Haßelmann findet Haushalt unseriös +++ Bundeskanzler Merz bekräftigt Unterstützung der Ukraine +++ Der Newsblog."
+          "title": "Synagogen im Visier: Regierung wertet Anschlagspläne als „gefährliche Eskalation“",
+          "link": "https://www.handelsblatt.com/politik/deutschland/synagogen-im-visier-regierung-wertet-anschlagsplaene-als-gefaehrliche-eskalation/100273126.html",
+          "published": "2026-11-26T21:34:03+00:00",
+          "summary": "Mutmaßliche Anschlagspläne einer proiranischen Terrorgruppe alarmieren die Bundesregierung. Die Grünen warnen vor einer zunehmenden Gefahr durch das iranische Regime."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
-          "title": "Milliarden vor Abflug ins All?: US-Behörde erlaubt, wovor sich Musks Geldgeber fürchten",
-          "link": "https://www.n-tv.de/wirtschaft/US-Behoerde-erlaubt-wovor-sich-Musks-Geldgeber-fuerchten-id31580613.html",
-          "published": "2026-11-26T12:34:57+00:00",
-          "summary": "Ende der vergangenen Woche wird bekannt, dass einigen Investoren, die den KI-Ausbau von SpaceX finanzieren, offenbar die Weltraum-Ambitionen von SpaceX-Chef Musk nicht geheuer sind. Nur Tage später …"
+          "title": "Softwarekonzern baut auf KI: SAP erwägt wohl Streichung von 10.000 Stellen",
+          "link": "https://www.n-tv.de/wirtschaft/SAP-erwaegt-wohl-Streichung-von-10-000-Stellen-id31582340.html",
+          "published": "2026-11-26T18:12:34+00:00",
+          "summary": "SAP beschäftigt mehr als 110.000 Menschen. Berichten zufolge droht nun ein Kahlschlag, der fast jede zehnte Stelle kosten könnte. Demnach sind die Bereiche Vertrieb und Produktentwicklung besonders …"
         },
         {
-          "title": "Deutsche Kette in Russland : Neue Sanktionen sollen Gerhard Schröder Job kosten",
-          "link": "https://www.n-tv.de/wirtschaft/Neue-Sanktionen-sollen-Gerhard-Schroeder-Job-kosten-id31580121.html",
-          "published": "2026-11-26T11:42:00+00:00",
-          "summary": "Seit Kurzem sitzt Ex-Kanzler Schröder im Aufsichtsrat einer Supermarktkette in Russland. Deren deutscher Eigentümer ist Milliardär und pflegt ebenfalls enge Kontakte in das Land. Die EU will die …"
+          "title": "Risiken für die Konjunktur: DIW-Chef: Wirtschaft muss sich 2027 auf \"viele Schocks\" einstellen",
+          "link": "https://www.n-tv.de/wirtschaft/DIW-Chef-Wirtschaft-muss-sich-2027-auf-viele-Schocks-einstellen-id31582156.html",
+          "published": "2026-11-26T17:49:01+00:00",
+          "summary": "Top-Ökonom Fratzscher sieht Deutschlands Wirtschaft auf Wachstumskurs, warnt aber zugleich vor Gefahren. Vor allem der private Konsum bleibe eine Schwachstelle. Für den Tankrabatt findet der DIW-Chef …"
         },
         {
-          "title": "Nach Huang-Affäre: Bericht: Nvidia verbietet Verkauf von Halbleitern in vier Länder",
-          "link": "https://www.n-tv.de/wirtschaft/Bericht-Nvidia-verbietet-Verkauf-von-Halbleitern-in-vier-Laender-id31580048.html",
-          "published": "2026-11-26T11:21:31+00:00",
-          "summary": "Aus Gründen der nationalen Sicherheit verbieten die USA den Export von Hochleistungschips von Nvidia nach China. Das Land besorgt sie sich möglicherweise dennoch. Der Chiphersteller zieht die Bremse …"
+          "title": "Hegseth laut Bericht beteiligt: Pentagon überlegte wohl, Huang mithilfe von Wehrgesetz zu reinstallieren",
+          "link": "https://www.n-tv.de/wirtschaft/Pentagon-ueberlegte-wohl-Huang-mithilfe-von-Wehrgesetz-zu-reinstallieren-id31581906.html",
+          "published": "2026-11-26T17:19:27+00:00",
+          "summary": "Präsident Trump wollte Nvidia-Chef Huang zurück an die Spitze des Unternehmens holen, Verteidigungsminister Hegseth wohl auch. Um die Rückkehr zu erzwingen, soll das Pentagon sogar überlegt haben …"
         },
         {
-          "title": "Zahlen zum Advent: Deutschland produziert weniger Schokolade und Lebkuchen",
-          "link": "https://www.n-tv.de/wirtschaft/Deutschland-produziert-weniger-Schokolade-und-Lebkuchen-id31579202.html",
-          "published": "2026-11-26T10:26:07+00:00",
-          "summary": "Deutschland ist mit Abstand der größte Lebkuchenproduzent innerhalb der EU. Doch die Mengen sinken. Der Abwärtstrend zeigt sich auch bei der Schokoladenherstellung."
+          "title": "Mehr Geld und Einmalzahlung: Tarifeinigung in Metallindustrie - Ausnahmen von 35-Stunden-Woche möglich",
+          "link": "https://www.n-tv.de/wirtschaft/Tarifeinigung-in-Metallindustrie-Ausnahmen-von-35-Stunden-Woche-moeglich-id31581845.html",
+          "published": "2026-11-26T16:35:00+00:00",
+          "summary": "Nach zähem Ringen in Mannheim fällt eine Entscheidung für Millionen Beschäftigte. IG Metall und Arbeitgeber finden im Tarifstreit zusammen. Es gibt mehr Geld, in bestimmten Fällen aber auch …"
         },
         {
-          "title": "Grünes Licht aus Polen: Unicredit-Chef Orcel peilt Aufsichtsratsvorsitz der Commerzbank an",
-          "link": "https://www.n-tv.de/wirtschaft/Unicredit-Chef-Orcel-peilt-Aufsichtsratsvorsitz-der-Commerzbank-an-id31579041.html",
-          "published": "2026-11-26T10:25:20+00:00",
-          "summary": "Zwei Jahre lang baut die Unicredit ihren Anteil an der Commerzbank trotz großer Widerstände aus. Nun räumt auch die letzte Finanzaufsicht den Weg für die Übernahme frei. Unicredit-Chef Orcel verliert …"
+          "title": "Nachfolger von Lagarde: Spanier Pablo Hernandez de Cos soll Chef der EZB werden",
+          "link": "https://www.n-tv.de/wirtschaft/Spanier-Pablo-Hernandez-de-Cos-soll-Chef-der-EZB-werden-id31581106.html",
+          "published": "2026-11-26T15:45:00+00:00",
+          "summary": "Christine Lagarde verlässt die EZB früher als geplant. Die Staats- und Regierungschefs der EU einigen sich auf Pablo Hernandez de Cos - einen erfahrener Zentralbanker aus Madrid. Deutschland setzt …"
         }
       ],
       "error": null
@@ -133,16 +133,16 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
+          "title": "Marktbericht: DAX macht einen Sprung nach vorn",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
+          "published": "2026-11-26T17:23:20+00:00",
+          "summary": "Mit Rückenwind der Technologie-Aktien springt der DAX am Donnerstag wieder über die Marke von 25.000 Punkten. Doch das Grundvertrauen, ob und wie weit die Erholung trägt, bleibt angeschlagen."
+        },
+        {
           "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-chancen-risiken-100.html",
           "published": "2026-11-26T12:04:38+00:00",
           "summary": "Nach einer massiven Talfahrt erholt sich der Aktienmarkt sprunghaft. Doch eine echte Trendwende an den Börsen ist derzeit nicht in Sicht. Chancen sind ebenso wie Risiken reichlich vorhanden."
-        },
-        {
-          "title": "Marktbericht: DAX macht einen Sprung nach vorn",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
-          "published": "2026-11-26T09:57:46+00:00",
-          "summary": "Mit einem großen Satz überspringt der DAX wieder die Marke von 25.000 Punkten. Die Tech-Erholung an der Wall Street lockt Schnäppchenjäger an. Aber die wesentlichen Fragen zum KI-Hype bleiben offen."
         },
         {
           "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Cyberangriff: Hackerangriff – Seite von NRW.Bank vorsorglich abgeschaltet",
-          "link": "https://www.wiwo.de/unternehmen/banken/nrw.bank-hackerangriff-seite-von-nrw.bank-vorsorglich-abgeschaltet/100273023.html",
-          "published": "2026-11-26T13:24:30+00:00",
-          "summary": "Nach einem Hackerangriff auf den IT-Dienstleister Planet IC ist die Website der NRW.Bank sicherheitshalber offline. Kundenportale bleiben erreichbar."
+          "title": "US-Militärpräsenz in Europa: Entscheidung über US-Truppenabzug verschiebt sich offenbar",
+          "link": "https://www.wiwo.de/politik/europa/us-militaerpraesenz-in-europa-entscheidung-ueber-us-truppenabzug-verschiebt-sich-offenbar/100273122.html",
+          "published": "2026-11-26T19:44:56+00:00",
+          "summary": "Vor Monaten gaben die USA bekannt, ihre Truppenpräsenz in Europa zu überprüfen. Im Dezember sollten Berichten zufolge die Ergebnisse vorgelegt werden. Daraus wird wohl zunächst nichts."
         },
         {
-          "title": "Wirtschaftsausblick: Ökonomen sehen rosigere Aussichten für deutsche Wirtschaft",
-          "link": "https://www.wiwo.de/unternehmen/industrie/wirtschaftsausblick-oekonomen-sehen-rosigere-aussichten-fuer-deutsche-wirtschaft/100273018.html",
-          "published": "2026-11-26T13:23:51+00:00",
-          "summary": "Die deutsche Konjunktur dürfte 2026 wieder wachsen, laut dem Deutschen Institut für Wirtschaftsforschung. Staatliche Investitionen stützen die Konjunktur."
+          "title": "Arbeitslosenzahlen: Wie stark ist die Herbstbelebung am Arbeitsmarkt?",
+          "link": "https://www.wiwo.de/politik/deutschland/arbeitslosenzahlen-wie-stark-ist-die-herbstbelebung-am-arbeitsmarkt/100273120.html",
+          "published": "2026-11-26T19:04:06+00:00",
+          "summary": "Die Konjunktur zeigt erste Aufwärtstendenzen, der Arbeitsmarkt hat bisher noch nicht nachgezogen. Die Bundesagentur für Arbeit stellt nun ihre November-Statistik vor."
         },
         {
-          "title": "Situational Awareness: Er galt als KI-Wunderkind der Wall Street – jetzt stürzt sein Fonds dramatisch ab",
-          "link": "https://www.wiwo.de/finanzen/boerse/leopold-aschenbrenner-galt-als-wunderkind-jetzt-stuerzt-sein-fonds-situational-awareness-ab/100272944.html",
-          "published": "2026-11-26T13:23:34+00:00",
-          "summary": "Der Hedgefonds Situational Awareness von Leopold Aschenbrenner brach im letzten Quartal um 65 Prozent ein. Nun will der Investor weniger ins Risiko gehen. Doch der Markt richtet sich gegen ihn."
+          "title": "Regierung: Bundestag soll Haushalt 2027 beschließen",
+          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-bundestag-soll-haushalt-beschliessen/100273119.html",
+          "published": "2026-11-26T19:01:02+00:00",
+          "summary": "Wie viele Milliarden kann der Bund im neuen Jahr ausgeben – und wofür? Nach monatelangem Ringen wollen Union und SPD den Etat durchs Parlament bringen. Geht da jetzt alles glatt?"
         },
         {
-          "title": "Pharmaindustrie: Bayer baut Pharmaproduktion in China für bis zu 500 Millionen Euro aus",
-          "link": "https://www.wiwo.de/unternehmen/industrie/bayer-konzern-baut-pharmaproduktion-in-china-fuer-bis-zu-500-millionen-euro-aus/100273016.html",
-          "published": "2026-11-26T13:22:53+00:00",
-          "summary": "Mit mehreren hundert Millionen Euro baut Bayer seine Pharmaproduktion in China aus. Die Anlage in Peking soll 2032 den Betrieb aufnehmen."
+          "title": "Verbraucherschutz: Temu lenkt ein – und soll bei Rabattangaben transparenter werden",
+          "link": "https://www.wiwo.de/unternehmen/verbraucherschutz-temu-lenkt-ein-mehr-klarheit-bei-preisen-und-bewertungen/100273056.html",
+          "published": "2026-11-26T18:56:00+00:00",
+          "summary": "Ärger hat der Online-Händler Temu in der EU immer wieder. Etwa wegen illegaler Produkte. Nun soll es für Verbraucher sichtbare Änderungen im Shop geben."
         },
         {
-          "title": "Commerzbank-Übernahme: Wie ruchlos kann man sein, Herr Orcel?",
-          "link": "https://www.wiwo.de/unternehmen/banken/commerzbank-uebernahme-wie-ruchlos-kann-man-sein-herr-orcel/100272978.html",
-          "published": "2026-11-26T13:16:54+00:00",
-          "summary": "Er zieht das wirklich durch: UniCredit-Chef Andrea Orcel setzt an, um die Commerzbank-Chefin zu schassen. Er schadet damit sich selbst. Ein Kommentar."
+          "title": "Job Crafting: Hilfe, mein Job erfüllt mich nicht mehr!",
+          "link": "https://www.wiwo.de/erfolg/beruf/boreout-wie-sie-mit-der-job-crafting-methode-wieder-sinn-und-erfuellung-finden/100272683.html",
+          "published": "2026-11-26T18:05:00+00:00",
+          "summary": "Was mache ich hier eigentlich – und warum? Fast jede Karriere kommt an diesen Punkt. Wie Sie neue Kraft schöpfen und Begeisterung finden."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Geheime KI-Durchbrüche: Ist Bitcoin in Gefahr?",
-          "link": "https://www.ingenieur.de/geheime-ki-durchbrueche-ist-bitcoin-in-gefahr-4a7fd3db-90aa-4286-b53f-729e49412eed/",
-          "published": "2026-11-26T11:30:00+00:00",
-          "summary": "Ein renommierter Informatiker warnt vor geheimen Durchbrüchen bei OpenAI und Anthropic. Was bedeutet das für die Sicherheit von Bitcoin?"
+          "title": "Baustelle auf 1834 m Höhe: So wird das ausgebrannte Kehlsteinhaus gerettet",
+          "link": "https://www.ingenieur.de/baustelle-auf-1834-m-hoehe-so-wird-das-ausgebrannte-kehlsteinhaus-gerettet-4b819204-8746-4cca-905b-99e54c534688/",
+          "published": "2026-11-26T19:43:53+00:00",
+          "summary": "Ein eingeflogener Baukran, ein neues Notdach und ein fast 90 Jahre alter Aufzug helfen dabei, das ausgebrannte Kehlsteinhaus zu sichern."
         },
         {
-          "title": "Gigacasting: Fraunhofer entwickelt Alternative zu Teslas Großguss",
-          "link": "https://www.ingenieur.de/alternative-zum-gigacasting-fraunhofer-stellt-teslas-fertigungsphilosophie-infrage-4d96c830-fe6e-4b41-b515-f3475138ecfe/",
-          "published": "2026-11-26T10:30:00+00:00",
-          "summary": "Fraunhofer entwickelt eine Alternative zum Gigacasting: Lasertechnik verschweißt kleinere Aluminiumgussteile zu modularen Fahrzeugstrukturen."
+          "title": "70 m über dem Neckartal: Die Hochbrücke Horb braucht bald keine Hilfsstützen mehr",
+          "link": "https://www.ingenieur.de/70-m-ueber-dem-neckartal-die-hochbruecke-horb-braucht-bald-keine-hilfsstuetzen-mehr-d97820c0-5204-4bff-9824-6339e21627c4/",
+          "published": "2026-11-26T15:30:00+00:00",
+          "summary": "Die 667 m lange Hochbrücke Horb ist im Rohbau fertig. Jetzt werden die letzten Schrägseile montiert, bevor die gewaltigen Traggerüste verschwinden."
         },
         {
-          "title": "81 m lange Stahlkolosse: Wie Ingenieure einen Windpark im Meeresboden verankern",
-          "link": "https://www.ingenieur.de/81-m-lange-stahlkolosse-wie-ingenieure-einen-windpark-um-meeresboden-verankern-f2073e6e-b049-4cbc-9779-21345751529d/",
-          "published": "2026-11-26T10:00:00+00:00",
-          "summary": "1350 t schwere Stahlrohre sollen einen Windpark vor Juist tragen. Wie Spezialschiffe und gewaltige Hydraulikrammen solche Fundamente im Meeresboden verankern."
+          "title": "Walzen statt Pressen: Wasserstoff-Bauteil wird fast 30 % billiger",
+          "link": "https://www.ingenieur.de/walzen-statt-pressen-wasserstoff-bauteil-wird-fast-30-billiger-bc14cd61-1b53-42db-bca2-48549a7dc1e5/",
+          "published": "2026-11-26T14:00:00+00:00",
+          "summary": "In einer Brennstoffzelle stecken Hunderte hauchdünne Metallplatten, die meist einzeln gepresst werden. Forscher aus Chemnitz haben durchgerechnet, was es bringt, sie stattdessen zu walzen. Was das …"
         },
         {
-          "title": "Erste Bilder nach dem Einschlag: Das passiert mit einem Asteroiden, den man beschießt",
-          "link": "https://www.ingenieur.de/stadiongrosser-krater-so-sieht-der-asteroid-aus-den-die-nasa-absichtlich-rammte-ba55f9a5-6b41-46b3-a107-9da673a6ced3/",
-          "published": "2026-11-25T17:30:00+00:00",
-          "summary": "2022 hat die Nasa ein Projektil in einen Asteroiden gejagt. Die Esa-Sonde Hera hat nun erste Fotos von der Verwüstung gemacht."
+          "title": "Quantencomputing: Planqc geht nach England und holt SAP stärker ins Boot",
+          "link": "https://www.ingenieur.de/quantencomputing-planqc-geht-nach-england-und-holt-sap-starker-ins-boot-0147a6ed-8763-4860-b2be-c9fe18edccad/",
+          "published": "2026-11-26T13:00:00+00:00",
+          "summary": "Planqc integriert Neutralatom-Quantencomputer in SAP-Logistik und investiert in Cambridge. Ziel sind skalierbare Systeme für Unternehmen."
         },
         {
-          "title": "9 Jahre Testmodus: Warum autonomes Fahren in Deutschland stockt",
-          "link": "https://www.ingenieur.de/9-jahre-testmodus-warum-autonomes-fahren-in-deutschland-stockt-708b462c-9ed7-48c7-961c-08842305a436/",
-          "published": "2026-11-25T13:00:00+00:00",
-          "summary": "Der Bundesrat will mit größeren Modellregionen den Übergang zum autonomen Regelbetrieb beschleunigen. Seit neun Jahren erprobt Deutschland selbstfahrende Busse im öffentlichen Nahverkehr. Zwei …"
+          "title": "Der Rhein soll liefern: Mannheim baut eine der größten Flusswärmepumpen der Welt",
+          "link": "https://www.ingenieur.de/der-rhein-soll-liefern-mannheim-baut-eine-der-groessten-flusswaermepumpen-der-welt-70230b1c-457f-4976-89db-911cc422e410/",
+          "published": "2026-11-26T12:30:00+00:00",
+          "summary": "165 MW Leistung, bis zu 130 °C heiße Fernwärme und 200 Mio. € Investitionsvolumen: Mannheim erschließt den Rhein als Wärmequelle im großen Maßstab."
         }
       ],
       "error": null
