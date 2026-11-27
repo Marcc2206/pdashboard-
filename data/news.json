@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:39:45+00:00",
+  "generatedAt": "2026-11-27T17:49:02+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,34 +8,34 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Anleger bleiben risikofreudig",
+          "title": "Marktbericht: Schnäppchenjagd an der Börse",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
-          "published": "2026-11-27T06:28:35+00:00",
-          "summary": "Auch ohne die Impulse von der Wall Street bleibt die Marktstimmung zum Wochenschluss positiv. Der DAX dürfte seinen Erholungskurs fortsetzen und die starken Vorlagen aus Asien aufnehmen."
+          "published": "2026-11-27T17:30:38+00:00",
+          "summary": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen."
         },
         {
-          "title": "Parlamentswahl: Wie Spaniens Volkspartei die Ära Sánchez abwickeln will",
-          "link": "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
-          "published": "2026-11-27T05:43:42+00:00",
-          "summary": "Spaniens konservative Volkspartei PP hat gute Aussichten, bei der Parlamentswahl am Wochenende stärkste Kraft zu werden. Sie verspricht dem Land tiefgreifende Änderungen. Wo will sie umsteuern? Von …"
+          "title": "Das plant Arbeitsminister Schweitzer für die Rente",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
+          "published": "2026-11-27T16:30:51+00:00",
+          "summary": "Seit Monaten ringt die Koalition um einen Kompromiss bei der Rente. Arbeitsminister Schweitzer hat nun einen ersten Entwurf vorgelegt. Einer der Punkte: Die \"Rente mit 63\" soll im Kern bestehen …"
         },
         {
-          "title": "Podcast 15 Minuten: Anschlagspläne, Kitaschließungen, Skisaison",
-          "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15min-podcast-anschlagsplaene-kitas-skisaison-100.html",
-          "published": "2026-11-27T05:31:57+00:00",
-          "summary": "Zwei Iraker sollen einen Anschlag auf die Kölner Synagoge geplant haben. Warum immer mehr Kitas schließen müssen. Und die Skisaison beginnt - wer kann sich Skifahren noch leisten? Die Themen im …"
+          "title": "Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter",
+          "link": "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
+          "published": "2026-11-27T16:26:55+00:00",
+          "summary": "Die \"Rente mit 63\" ist eine Umverteilung von unten nach oben, meint Dagmar Pepping. Arbeitsminister Schweitzer hätte ihr ein Ende setzen müssen. Stattdessen geht die Irrfahrt weiter - und der Streit …"
         },
         {
-          "title": "11KM-Podcast: Kommt es bei der Wahl in Spanien zum Rechtsruck?",
-          "link": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-wahl-spanien-100.html",
-          "published": "2026-11-27T05:13:12+00:00",
-          "summary": "Umfragen sehen bei der Parlamentswahl in Spanien ein Bündnis aus Konservativen und Rechtspopulisten vorn. Der Podcast 11KM fragt: Was bedeutet die Wahl für Ministerpräsident Sánchez? Und steht …"
+          "title": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
+          "published": "2026-11-27T16:09:18+00:00",
+          "summary": "Der Bundestag hat die Senkung der Stromsteuer für ein Jahr und eine Zuckersteuer bei Getränken beschlossen. Außerdem steigt die Abgabe auf hochprozentigen Alkohol. Auch Alkopops könnten teurer werden."
         },
         {
-          "title": "Neuseeland: Konservative verlieren Mehrheit - Labour hat auch keine",
-          "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
-          "published": "2026-11-27T05:09:05+00:00",
-          "summary": "Nach der Wahl zeichnete sich ein sehr knappes Rennen ab. Nun ist klar: Neuseelands rechtsgerichtete Regierungskoalition unter Premier Luxon hat keine Mehrheit mehr. Jetzt spielt eine neue Partei die …"
+          "title": "Helge Schneider sagt Tschüss - vielleicht",
+          "link": "https://www.tagesschau.de/kultur/helge-schneider-abschiedstournee-100.html",
+          "published": "2026-11-27T15:23:02+00:00",
+          "summary": "Helge Schneider verbindet avancierten Jazz mit anarchischem Humor. 2027 geht der selbsternannte Klimperclown auf Abschiedstournee. Fragt sich nur: Meint er das ernst? Von Christoph Ohrem."
         }
       ],
       "error": null
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Koalitionsverhandlungen: Wahl in Neuseeland macht Newcomerin zur Königsmacherin",
-          "link": "https://www.handelsblatt.com/politik/international/koalitionsverhandlungen-wahl-in-neuseeland-macht-newcomerin-zur-koenigsmacherin/100273195.html",
-          "published": "2026-11-27T06:27:41+00:00",
-          "summary": "Ein Sitz fehlt zur Mehrheit: Neuseelands Ministerpräsident Luxon muss nach der Parlamentswahl verhandeln. Eine Quereinsteigerin hält die Schlüssel zur Macht in der Hand. Drohen Neuwahlen?"
+          "title": "Sachsen-Anhalt: BSW‑Parteitag eröffnet – Ruhnert sieht große Chance",
+          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-bswparteitag-eroeffnet-ruhnert-sieht-grosse-chance/100273378.html",
+          "published": "2026-11-27T17:31:38+00:00",
+          "summary": "Die Wagenknecht-Partei hat kein leichtes Jahr hinter sich – die meisten Landtagswahlen gingen verloren. Nun wird im BSW über die AfD gestritten. Der Generalsekretär macht der Partei Mut."
         },
         {
-          "title": "Autohersteller: Stellantis stoppt Fabriken länger – wegen chinesischer Konkurrenz",
-          "link": "https://www.handelsblatt.com/unternehmen/industrie/autohersteller-stellantis-stoppt-fabriken-wegen-chinesischer-konkurrenz/100273192.html",
-          "published": "2026-11-27T06:17:30+00:00",
-          "summary": "Der französische Konzern plant für mehrere Werke Unterbrechungen in der Fertigung. Dafür macht Stellantis ausdrücklich den hohen Druck durch Wettbewerber aus China verantwortlich."
+          "title": "Parteitag in Dresden: BSW-Streit über die AfD – Droht die Spaltung?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/parteitag-in-dresden-bsw-streit-ueber-die-afd-droht-die-spaltung/100273173.html",
+          "published": "2026-11-27T17:25:25+00:00",
+          "summary": "Vor drei Jahren verließ Sahra Wagenknecht die Linke und startete ihr eigenes Projekt. Nach einer Serie von Rückschlägen folgt nun ein Richtungsstreit. Der Ton ist rau, ein Kompromiss nicht in Sicht."
         },
         {
-          "title": "Ministerpräsident: Bulli und Rüstung? Lies' Pläne für VW in Hannover",
-          "link": "https://www.handelsblatt.com/politik/deutschland/ministerpraesident-bulli-und-ruestung-lies-plaene-fuer-vw-in-hannover/100273194.html",
-          "published": "2026-11-27T06:07:28+00:00",
-          "summary": "Seit zwei Jahren lief kein klassischer Bulli mehr in Hannover vom Band. Das soll sich ändern, findet Niedersachsens Ministerpräsident."
+          "title": "Parteien: Klüssendorf rechnet „jetzt endlich“ mit AfD-Verbotsantrag",
+          "link": "https://www.handelsblatt.com/politik/deutschland/parteien-kluessendorf-rechnet-jetzt-endlich-mit-afd-verbotsantrag/100273380.html",
+          "published": "2026-11-27T17:20:43+00:00",
+          "summary": "Über ein AfD-Verbotsverfahren wird immer wieder diskutiert. Der SPD-Generalsekretär meint: Jetzt könnte es so weit sein."
         },
         {
-          "title": "Medien: Bundesregierung will KI-Anbieter zur Kasse bitten",
-          "link": "https://www.handelsblatt.com/politik/deutschland/medien-bundesregierung-will-ki-anbieter-zur-kasse-bitten/100273189.html",
-          "published": "2026-11-27T06:04:18+00:00",
-          "summary": "KI-Systeme erzeugen Texte, Musik und Videos, die mit den Werken von Kreativen konkurrieren. Die Bundesregierung will dafür eine Vergütung. Auch Medienunternehmen sollen besser geschützt werden."
+          "title": "Viruserkrankung mit Folgen: Kampf gegen Masern: Amerika und Europa im Blick der WHO",
+          "link": "https://www.handelsblatt.com/technik/forschung-innovation/viruserkrankung-mit-folgen-kampf-gegen-masern-amerika-und-europa-im-blick-der-who/100273374.html",
+          "published": "2026-11-27T17:01:04+00:00",
+          "summary": "Im Kampf gegen die hochansteckende Krankheit gab es in den vergangenen Jahren große Erfolge. Umso mehr warnen UN-Fachleute vor Rückschritten. Sie haben dabei etwa die USA und Europa im Blick."
         },
         {
-          "title": "Sachsen-Anhalt: BSW-Streit über die AfD – Droht die Spaltung?",
-          "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-bsw-streit-ueber-die-afd-droht-die-spaltung/100273186.html",
-          "published": "2026-11-27T05:51:35+00:00",
-          "summary": "Vor drei Jahren verließ Sahra Wagenknecht die Linke und startete ihr eigenes Projekt. Nach einer Serie von Rückschlägen kriselt es in der Partei. Der Ton ist rau, ein Kompromiss nicht in Sicht."
+          "title": "EU-Sanktionen: Wirtschaft warnt vor „Lex Schröder“ gegen Altkanzler und andere Manager in Russland",
+          "link": "https://www.handelsblatt.com/politik/deutschland/russland-warnungen-vor-eu-sanktionen-gegen-gerhard-schroeder-und-manager/100273308.html",
+          "published": "2026-11-27T16:59:43+00:00",
+          "summary": "EU-Kommissionspräsidentin von der Leyen will EU-Bürgern sämtliche Führungsjobs in Russland verbieten. Wirtschaftsverbände sind alarmiert, die Bundesregierung ist gespalten."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Experte für Viertagewoche: Fällt jetzt die 35-Stunden-Woche bei VW?",
+          "link": "https://www.n-tv.de/wirtschaft/Faellt-jetzt-die-35-Stunden-Woche-bei-VW-id31586657.html",
+          "published": "2026-11-27T17:06:04+00:00",
+          "summary": "In der Metall- und Elektroindustrie ist die Tür zu höheren Arbeitszeiten geöffnet. Auf die dringt auch das VW-Management. Das Ende der dortigen 35-Stunden-Woche scheint in Sicht. Ob künftig mehr oder …"
+        },
+        {
+          "title": "Hedgefonds sucht Risikomanager: KI-Wunderkind verlor 30 Milliarden Dollar und liegt trotzdem im Plus",
+          "link": "https://www.n-tv.de/wirtschaft/KI-Wunderkind-verlor-30-Milliarden-Dollar-und-liegt-trotzdem-im-Plus-id31586226.html",
+          "published": "2026-11-27T16:37:23+00:00",
+          "summary": "Nie zuvor verlor ein Hedgefonds-Manager so viel Geld auf einmal. Doch für den 25-jährigen Leopold Aschenbrenner ist nach einem 30-Milliarden-Dollar-Verlust noch lange nicht Schluss. Sein Fonds gehe …"
+        },
+        {
+          "title": "Mitten im Zollstreit mit den USA: Trump-Tower für eine Milliarde Dollar soll in Hanoi entstehen",
+          "link": "https://www.n-tv.de/wirtschaft/Trump-Tower-fuer-eine-Milliarde-Dollar-soll-in-Hanoi-entstehen-id31585115.html",
+          "published": "2026-11-27T13:24:10+00:00",
+          "summary": "Vietnam ringt mit den USA um ein Handelsabkommen, um hohe Zölle abzuwenden. Gleichzeitig treiben Geschäftspartner der Trump Organization Insidern zufolge ein milliardenschweres Bauprojekt in Hanoi …"
+        },
+        {
+          "title": "Mehr als 2,9 Millionen ohne Job: Arbeitsmarkt bleibt schwach - 51.000 Arbeitslose mehr als vor einem Jahr",
+          "link": "https://www.n-tv.de/wirtschaft/Arbeitsmarkt-bleibt-schwach-51-000-Arbeitslose-mehr-als-vor-einem-Jahr-id31584340.html",
+          "published": "2026-11-27T08:58:43+00:00",
+          "summary": "Die Zahl der Arbeitslosen in Deutschland sinkt im November saisonbedingt um 19.000 auf 2,936 Millionen . Die Arbeitslosenquote gibt zum Oktober um 0,1 Punkte auf 6,2 Prozent nach. Im Vergleich zum …"
+        },
+        {
           "title": "Berlin plant neue EU-Regel: KI-Anbieter sollen für erzeugte Texte, Musik und Videos zahlen",
           "link": "https://www.n-tv.de/wirtschaft/KI-Anbieter-sollen-fuer-erzeugte-Texte-Musik-und-Videos-zahlen-id31583377.html",
           "published": "2026-11-27T06:23:46+00:00",
           "summary": "KI komponiert Musik, schreibt Texte und produziert Videos. Daher streiten KI-Anbieter und Urheber seit Jahren über die Nutzung von Inhalten zum Training der Systeme. Doch die Bundesregierung sieht …"
-        },
-        {
-          "title": "Konzern zeigt sich unbeeindruckt: Verdi will am Black Friday elf Amazon-Standorte lahmlegen",
-          "link": "https://www.n-tv.de/wirtschaft/Verdi-macht-Amazon-Druck-Warnstreiks-am-Black-Friday-elf-Standorte-betroffen-id31583171.html",
-          "published": "2026-11-27T02:45:32+00:00",
-          "summary": "Ausgerechnet am umsatzstärksten Einkaufstag des Jahres sollen bei Amazon vielerorts die Paketbänder stillstehen. Gewerkschaftsvertreter klagen über \"monotone Arbeitsabläufe\" und magere Löhne. Der …"
-        },
-        {
-          "title": "\"Verdächtige Aktivitäten\": Softwarekonzern SAP räumt IT-Sicherheitsvorfall ein",
-          "link": "https://www.n-tv.de/wirtschaft/Softwarekonzern-SAP-raeumt-IT-Sicherheitsvorfall-ein-id31582944.html",
-          "published": "2026-11-26T22:56:22+00:00",
-          "summary": "Der IT-Konzern SAP registriert auffällige Vorkommnisse und ergreift nach eigenen Angaben sofort Schutzmaßnahmen. Kundendaten sollen nicht betroffen sein. Laut einem Medienbericht gab es zuvor …"
-        },
-        {
-          "title": "Softwarekonzern baut auf KI: SAP erwägt wohl Streichung von 10.000 Stellen",
-          "link": "https://www.n-tv.de/wirtschaft/SAP-erwaegt-wohl-Streichung-von-10-000-Stellen-id31582340.html",
-          "published": "2026-11-26T18:12:34+00:00",
-          "summary": "SAP beschäftigt mehr als 110.000 Menschen. Berichten zufolge droht nun ein Kahlschlag, der fast jede zehnte Stelle kosten könnte. Demnach sind die Bereiche Vertrieb und Produktentwicklung besonders …"
-        },
-        {
-          "title": "Risiken für die Konjunktur: DIW-Chef: Wirtschaft muss sich 2027 auf \"viele Schocks\" einstellen",
-          "link": "https://www.n-tv.de/wirtschaft/DIW-Chef-Wirtschaft-muss-sich-2027-auf-viele-Schocks-einstellen-id31582156.html",
-          "published": "2026-11-26T17:49:01+00:00",
-          "summary": "Top-Ökonom Fratzscher sieht Deutschlands Wirtschaft auf Wachstumskurs, warnt aber zugleich vor Gefahren. Vor allem der private Konsum bleibe eine Schwachstelle. Für den Tankrabatt findet der DIW-Chef …"
         }
       ],
       "error": null
@@ -133,10 +133,22 @@
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/index~rss2.xml",
       "items": [
         {
-          "title": "Marktbericht: Anleger bleiben risikofreudig",
+          "title": "Marktbericht: Schnäppchenjagd an der Börse",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
-          "published": "2026-11-27T06:28:35+00:00",
-          "summary": "Auch ohne die Impulse von der Wall Street bleibt die Marktstimmung zum Wochenschluss positiv. Der DAX dürfte seinen Erholungskurs fortsetzen und die starken Vorlagen aus Asien aufnehmen."
+          "published": "2026-11-27T17:30:38+00:00",
+          "summary": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen."
+        },
+        {
+          "title": "Anthropics wilde erste Börsenwoche",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html",
+          "published": "2026-11-27T13:44:03+00:00",
+          "summary": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus."
+        },
+        {
+          "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
+          "published": "2026-11-27T13:20:03+00:00",
+          "summary": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos steht eher für eine lockere Geldpolitik. In Zeiten hoher Inflation sind Konflikte …"
         },
         {
           "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
@@ -149,18 +161,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
           "published": "2026-11-24T14:51:13+00:00",
           "summary": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte."
-        },
-        {
-          "title": "Nvidia hält die Märkte in Atem",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
-          "published": "2026-11-24T14:01:35+00:00",
-          "summary": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser."
-        },
-        {
-          "title": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
-          "published": "2026-11-23T11:49:55+00:00",
-          "summary": "Nach dem Kursrutsch beim DAX von 2.000 Punkten in gut einer Woche setzt eine Erholung ein. Doch sie steht auf wackligen Beinen. Viele Negativ-Faktoren begleiten Investoren weiter. Die Stimmung bleibt …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "EU-Haushalt: Der EU-Gipfel scheitert früher als gedacht",
-          "link": "https://www.wiwo.de/politik/europa/eu-haushalt-der-eu-gipfel-scheitert-frueher-als-gedacht/100273191.html",
-          "published": "2026-11-27T06:23:59+00:00",
-          "summary": "Die Staatschefs tagen bis nach Mitternacht, finden aber keine Lösung im Budgetstreit. Die Gräben sind tief, auch zwischen Berlin und Paris."
+          "title": "Urananreicherung in Gronau: Atomausstieg? In Gronau drehen sich die Zentrifugen weiter",
+          "link": "https://www.wiwo.de/unternehmen/energie/urenco-einstieg-warum-der-bund-milliarden-in-atomkraft-stecken-will/100272699.html",
+          "published": "2026-11-27T17:10:47+00:00",
+          "summary": "Die Firma Urenco reichert in Gronau im Münsterland Uran an. Jetzt will der Bund offenbar einsteigen, drei Jahre nach dem Aus der Kernkraft. Was soll das?"
         },
         {
-          "title": "Regierung: Bundestag stimmt über Haushalt ab – das wird entschieden",
-          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-bundestag-soll-haushalt-beschliessen/100273119.html",
-          "published": "2026-11-27T06:05:00+00:00",
-          "summary": "Es ist einer der wichtigsten Beschlüsse im Bundestag: die Schlussabstimmung über den Haushalt. Wofür gibt Schwarz-Rot im nächsten Jahr Geld aus?"
+          "title": "IT-Sicherheitsvorfall: Was die GitHub-Attacke für SAP so gefährlich macht",
+          "link": "https://www.wiwo.de/unternehmen/it/hackerangriff-auf-sap-warum-der-vorfall-auf-github-alarmiert/100273346.html",
+          "published": "2026-11-27T16:29:02+00:00",
+          "summary": "Wie genau Hacker den Day-Konzern attackierten, ist noch unklar. Doch allein, dass es so weit kommen konnte, alarmiert die Szene."
         },
         {
-          "title": "EU-Haushalt: EU-Gipfel vorzeitig beendet",
-          "link": "https://www.wiwo.de/politik/ausland/sondertreffen-in-bruessel-geld-gipfel-vernuenftige-sieben-um-merz-bremsen-die-eu/100272855.html",
-          "published": "2026-11-27T06:03:00+00:00",
-          "summary": "Verhärtete Fronten nach Verhandlungen bis Mitternacht: Ein Ende des Streits um den EU-Haushalt ist nicht in Sicht. Wie geht es weiter?"
+          "title": "Rentenstreit: Arbeitsminister legt Rentenreform-Plan vor",
+          "link": "https://www.wiwo.de/politik/deutschland/haushaltsdebatte-im-bundestag-rentenstreit-schweitzer-froh-ueber-jeden-vorschlag/100273141.html",
+          "published": "2026-11-27T16:11:00+00:00",
+          "summary": "Seit Wochen streiten Union und SPD um ihre geplante Rentenreform. Nun liegt ein Reformkonzept auf dem Tisch – eine Einigung steht jedoch noch aus."
         },
         {
-          "title": "„Arminius“-Projekt: Neue Details zum Streit um historische Panzer-Bestellung",
-          "link": "https://www.wiwo.de/politik/deutschland/streit-um-projekt-arminius-warum-der-milliarden-deal-fuer-boxer-stockt/100272912.html",
-          "published": "2026-11-27T05:18:45+00:00",
-          "summary": "Eine Order für 25 Milliarden Euro, undurchsichtige Verträge und gegenseitiges Misstrauen. Ein internes Protokoll gibt Einsicht: So steht es um das wichtigste Panzerprojekt der Bundeswehr."
+          "title": "Koalition: Eine Rentenreform, die sich zu wenig traut",
+          "link": "https://www.wiwo.de/politik/deutschland/rentenreform-plaene-neuer-streit-um-die-fruehrente-droht/100273345.html",
+          "published": "2026-11-27T15:45:17+00:00",
+          "summary": "Arbeitsminister Schweitzer legt endlich einen Gesetzentwurf für die Rente vor. Nur ist der mit dem Koalitionspartner nicht fertig ausgehandelt. Das könnte für Ärger sorgen. Ein Kommentar."
         },
         {
-          "title": "US-Militärpräsenz in Europa: Entscheidung über US-Truppenabzug verschiebt sich offenbar",
-          "link": "https://www.wiwo.de/politik/europa/us-militaerpraesenz-in-europa-entscheidung-ueber-us-truppenabzug-verschiebt-sich-offenbar/100273122.html",
-          "published": "2026-11-26T19:44:56+00:00",
-          "summary": "Vor Monaten gaben die USA bekannt, ihre Truppenpräsenz in Europa zu überprüfen. Im Dezember sollten Berichten zufolge die Ergebnisse vorgelegt werden. Daraus wird wohl zunächst nichts."
+          "title": "IG-Metall-Tarifabschluss: Ist das der Befreiungsschlag für die Autoindustrie?",
+          "link": "https://www.wiwo.de/politik/deutschland/ig-metall-tarifabschluss-was-die-einigung-fuer-loehne-bedeutet/100273293.html",
+          "published": "2026-11-27T15:23:35+00:00",
+          "summary": "Die Tarifeinigung in der Metall- und Elektroindustrie könnte einige Beschäftigte Kaufkraft kosten. Für Betriebe werden Arbeitszeiterhöhungen wohl einfacher."
         }
       ],
       "error": null
@@ -211,34 +211,34 @@
       "url": "https://www.ingenieur.de/feed/",
       "items": [
         {
-          "title": "Baustelle auf 1834 m Höhe: So wird das ausgebrannte Kehlsteinhaus gerettet",
-          "link": "https://www.ingenieur.de/baustelle-auf-1834-m-hoehe-so-wird-das-ausgebrannte-kehlsteinhaus-gerettet-4b819204-8746-4cca-905b-99e54c534688/",
-          "published": "2026-11-26T19:43:53+00:00",
-          "summary": "Ein eingeflogener Baukran, ein neues Notdach und ein fast 90 Jahre alter Aufzug helfen dabei, das ausgebrannte Kehlsteinhaus zu sichern."
+          "title": "20 % billiger: Chinesische E-Lkw gibt es in Deutschland bald zur Miete",
+          "link": "https://www.ingenieur.de/20-billiger-chinesische-e-lkw-gibt-es-in-deutschland-bald-zur-miete-cc780c7f-2abf-4cea-822b-2d07f5eb9cfd/",
+          "published": "2026-11-27T13:30:00+00:00",
+          "summary": "Elektro-Lkw aus China kosten rund 20 % weniger als europäische Modelle, und deutsche Spediteure fragen gezielt danach. Ein Kölner Vermieter holt ab Februar den ersten in seine Flotte."
         },
         {
-          "title": "70 m über dem Neckartal: Die Hochbrücke Horb braucht bald keine Hilfsstützen mehr",
-          "link": "https://www.ingenieur.de/70-m-ueber-dem-neckartal-die-hochbruecke-horb-braucht-bald-keine-hilfsstuetzen-mehr-d97820c0-5204-4bff-9824-6339e21627c4/",
-          "published": "2026-11-26T15:30:00+00:00",
-          "summary": "Die 667 m lange Hochbrücke Horb ist im Rohbau fertig. Jetzt werden die letzten Schrägseile montiert, bevor die gewaltigen Traggerüste verschwinden."
+          "title": "SPS 2026: Automatisierer setzen auf Wachstum und Kooperationen",
+          "link": "https://www.ingenieur.de/sps-2026-automatisierung-auf-auf-wachstumkurs-595cb301-051d-4d8f-a1c9-67c55d9aef32/",
+          "published": "2026-11-27T12:30:00+00:00",
+          "summary": "Auf der Messe SPS 2026 in Nürnberg meldet der VDMA 8 % Umsatzwachstum in der elektrischen Automation. Kooperationen sollen Innovationen und Integration beschleunigen."
         },
         {
-          "title": "Walzen statt Pressen: Wasserstoff-Bauteil wird fast 30 % billiger",
-          "link": "https://www.ingenieur.de/walzen-statt-pressen-wasserstoff-bauteil-wird-fast-30-billiger-bc14cd61-1b53-42db-bca2-48549a7dc1e5/",
-          "published": "2026-11-26T14:00:00+00:00",
-          "summary": "In einer Brennstoffzelle stecken Hunderte hauchdünne Metallplatten, die meist einzeln gepresst werden. Forscher aus Chemnitz haben durchgerechnet, was es bringt, sie stattdessen zu walzen. Was das …"
+          "title": "Tesla greift nach EMAG: Wie begehrt Deutschlands industrielles Know-how ist",
+          "link": "https://www.ingenieur.de/tesla-und-emag-deutscher-maschinenbau-fuer-humanoide-roboter-eb093792-db5a-452b-94e0-224324300828/",
+          "published": "2026-11-27T12:00:00+00:00",
+          "summary": "Tesla interessiert sich offenbar für EMAG: Der Werkzeugmaschinenbauer könnte Know-how für die Serienfertigung humanoider Roboter liefern."
         },
         {
-          "title": "Quantencomputing: Planqc geht nach England und holt SAP stärker ins Boot",
-          "link": "https://www.ingenieur.de/quantencomputing-planqc-geht-nach-england-und-holt-sap-starker-ins-boot-0147a6ed-8763-4860-b2be-c9fe18edccad/",
-          "published": "2026-11-26T13:00:00+00:00",
-          "summary": "Planqc integriert Neutralatom-Quantencomputer in SAP-Logistik und investiert in Cambridge. Ziel sind skalierbare Systeme für Unternehmen."
+          "title": "Wasserstoff in 1500 m Tiefe: Uniper testet neue Speichertechnik",
+          "link": "https://www.ingenieur.de/wasserstoff-in-1-500-m-tiefe-uniper-testet-neue-speichertechnik-9b379eef-8e9a-4b42-a142-28c6148587d6/",
+          "published": "2026-11-27T11:30:00+00:00",
+          "summary": "Uniper investiert rund 120 Mio. € in den Gasspeicher Bierwang. In 1.500 m Tiefe testet der Konzern dort auch die Speicherung von reinem Wasserstoff in porösem Gestein. Das Verfahren könnte helfen …"
         },
         {
-          "title": "Der Rhein soll liefern: Mannheim baut eine der größten Flusswärmepumpen der Welt",
-          "link": "https://www.ingenieur.de/der-rhein-soll-liefern-mannheim-baut-eine-der-groessten-flusswaermepumpen-der-welt-70230b1c-457f-4976-89db-911cc422e410/",
-          "published": "2026-11-26T12:30:00+00:00",
-          "summary": "165 MW Leistung, bis zu 130 °C heiße Fernwärme und 200 Mio. € Investitionsvolumen: Mannheim erschließt den Rhein als Wärmequelle im großen Maßstab."
+          "title": "3500 E-Autos und Wärmepumpen helfen dem Stromnetz, die Besitzer merken das kaum",
+          "link": "https://www.ingenieur.de/3500-e-autos-und-warmepumpen-helfen-dem-stromnetz-die-besitzer-merken-das-kaum-08a96795-043d-4e16-a76b-ac11dbce15bc/",
+          "published": "2026-11-27T11:01:36+00:00",
+          "summary": "In einem Großtest helfen rund 3500 E-Autos, Wärmepumpen und Heimspeicher aus Privathaushalten dabei, Engpässe im Stromnetz zu entschärfen. Die Besitzer der E-Autos merken davon nichts. Wie das …"
         }
       ],
       "error": null
