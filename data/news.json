@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:03:32+00:00",
+  "generatedAt": "2026-11-28T09:46:27+00:00",
   "feeds": [
     {
       "id": "tagesschau",
@@ -8,33 +8,33 @@
       "url": "https://www.tagesschau.de/index~rss2.xml",
       "items": [
         {
-          "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
-          "published": "2026-11-27T23:35:35+00:00",
-          "summary": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte …"
+          "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+          "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+          "published": "2026-11-28T09:14:19+00:00",
+          "summary": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten …"
         },
         {
-          "title": "Gladbach und Bremen mit spektakulärem Remis",
-          "link": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
-          "published": "2026-11-27T22:37:07+00:00",
-          "summary": "Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen."
-        },
-        {
-          "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
-          "published": "2026-11-27T22:10:29+00:00",
-          "summary": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange …"
-        },
-        {
-          "title": "Unterschiedliche Reaktionen auf Kompromiss zur vorgeschlagenen Rentenreform",
-          "link": "https://www.tagesschau.de/tagesthemen/video-1691370.html",
-          "published": "2026-11-27T21:38:51+00:00",
+          "title": "Weihnachtsbeleuchtung in Kolumbien, Motorroller in Marokko, hohe Wellen in Kalifornien",
+          "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10594.html",
+          "published": "2026-11-28T09:10:20+00:00",
           "summary": ""
         },
         {
-          "title": "tagesthemen",
-          "link": "https://www.tagesschau.de/tagesthemen/tt-13012.html",
-          "published": "2026-11-27T21:23:36+00:00",
+          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+          "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+          "published": "2026-11-28T09:02:03+00:00",
+          "summary": "Heute teils Sonne, teils Hochnebel. Im Tagesverlauf mehr Sonnenanteile. Den meisten Sonnenschein gibt es vom Westen bis nach Süddeutschland. Trocken bei -4 Grad im Erzgebirge und +4 Grad am Rhein."
+        },
+        {
+          "title": "tagesschau",
+          "link": "https://www.tagesschau.de/tagesschau/ts-82268.html",
+          "published": "2026-11-28T08:52:01+00:00",
+          "summary": ""
+        },
+        {
+          "title": "tagesschau in 100 Sekunden",
+          "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1691432.html",
+          "published": "2026-11-28T08:43:58+00:00",
           "summary": ""
         }
       ],
@@ -47,34 +47,34 @@
       "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "items": [
         {
-          "title": "Schuldenkrise: Hohe Schulden, Politikrisiken: S&P droht Frankreich mit Abstufung",
-          "link": "https://www.handelsblatt.com/politik/international/schuldenkrise-hohe-schulden-politikrisiken-sp-droht-frankreich-mit-abstufung/100273395.html",
-          "published": "2026-11-27T22:40:39+00:00",
-          "summary": "Sozialproteste für höhere Löhne und gegen Sozialkürzungen und in wenigen Monaten eine Präsidentschaftswahl. Dazu kommen historisch hohe Schulden – und die könnten künftig noch teurer werden."
+          "title": "+++ Iran-Krieg +++: Verstoß gegen Blockade – US-Militär meldet Angriff auf Handelsschiff im Golf von Oman",
+          "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-militaer-beschiesst-frachter-im-golf-von-oman/100136895.html",
+          "published": "2026-11-28T09:31:00+00:00",
+          "summary": "Kuwait bestellt iranischen Botschafter ein +++ Iran meldet Explosion an Öltanker +++ Huthi melden Tote nach saudischen Angriffen +++ Der Newsblog."
         },
         {
-          "title": "Künstliche Intelligenz: OpenAI reicht im Streit um KI-Technologie Gegenklage gegen Apple ein",
-          "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-reicht-im-streit-um-ki-technologie-gegenklage-gegen-apple-ein/100273392.html",
-          "published": "2026-11-27T22:13:23+00:00",
-          "summary": "OpenAI wirft Apple den Diebstahl von Geschäftsgeheimnissen vor. Apple hatte zuvor ähnliche Vorwürfe gegen den ChatGPT-Entwickler erhoben."
+          "title": "Konflikte: Wie eine Mediation die Produktivität des Unternehmens wieder herstellen kann",
+          "link": "https://www.handelsblatt.com/unternehmen/management/konflikte-wie-eine-mediation-die-produktivitaet-wieder-herstellen-kann/100273294.html",
+          "published": "2026-11-28T08:53:13+00:00",
+          "summary": "Konflikte bei der Arbeit belasten Beschäftigte und kosten Geld. Mediatoren können sie lösen. Einfacher wäre es jedoch meist, Vorgesetzte frühzeitig besser in Konfliktmanagement zu schulen."
         },
         {
-          "title": "Debatte um Parteivorsitz: Schweitzer: Trennung von Amt und Mandat bringt SPD nichts",
-          "link": "https://www.handelsblatt.com/politik/deutschland/debatte-um-parteivorsitz-schweitzer-trennung-von-amt-und-mandat-bringt-spd-nichts/100273389.html",
-          "published": "2026-11-27T20:52:35+00:00",
-          "summary": "Die Kritik an Parteichef Klingbeil ist in der SPD-Basis groß - auch bei den Jusos. Sollte man gleichzeitig Minister sein und eine Partei führen?"
+          "title": "Umfrage: Große Enttäuschung in der deutschen Wirtschaft über Arbeit der Bundesregierung",
+          "link": "https://www.handelsblatt.com/politik/deutschland/umfrage-grosse-enttaeuschung-in-der-wirtschaft-ueber-bundesregierung/100273427.html",
+          "published": "2026-11-28T08:48:03+00:00",
+          "summary": "Die Bundesregierung hat im Sommer ein großes Reformpaket angekündigt. Vieles ist aber noch nicht umgesetzt. Firmen zeigen sich einer Umfrage zufolge unzufrieden."
         },
         {
-          "title": "Reformpläne: Schweitzer kündigt eine der „größten Rentenreformen“ an",
-          "link": "https://www.handelsblatt.com/politik/deutschland/reformplaene-schweitzer-kuendigt-eine-der-groessten-rentenreformen-an/100273140.html",
-          "published": "2026-11-27T19:12:13+00:00",
-          "summary": "Der Arbeitsminister legt vor: Bei der vorzeitigen Rente nach 45 Jahren soll es „harte Korrekturen“ geben, bei einer anderen Frührente höhere Abschläge. Kann das den Rentenstreit lösen?"
+          "title": "Mittelstand: Mittelstand blickt wieder optimistischer auf die Geschäfte der nächsten Monate",
+          "link": "https://www.handelsblatt.com/unternehmen/mittelstand/umfrage-mittelstand-blickt-wieder-optimistischer-auf-die-geschaefte/100273426.html",
+          "published": "2026-11-28T08:34:24+00:00",
+          "summary": "Die Perspektiven für die deutsche Wirtschaft hellen sich auf, auch der Mittelstand schöpft Hoffnung. Mehrere Branchen blicken zuversichtlicher in die nächsten Monate, so eine neue Studie."
         },
         {
-          "title": "Wall Street: US-Börsen schließen im Plus – Nvidia-Aktie sackt zwischenzeitlich ab",
-          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-schliessen-im-plus-anthropic-wieder-ueber-ausgabepreis/100273324.html",
-          "published": "2026-11-27T18:04:00+00:00",
-          "summary": "Die US-Börsen notierten an einem verkürzten Börsentag unter positiven Vorzeichen. Die Titel des KI-Entwicklers Anthropic notieren wieder über ihrem Ausgabepreis. Ein Medienbericht beeinflusste Nvidia."
+          "title": "Trump Watch: Von Memecoin bis Waffenversand: Wie die Trump-Familie Geschäfte macht",
+          "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-von-memecoin-bis-waffenversand-diegeschaefte-der-trump-familie/100273403.html",
+          "published": "2026-11-28T08:26:16+00:00",
+          "summary": "In der zweiten Amtszeit ist das Vermögen des US-Präsidenten um mehr als zwei Milliarden Dollar gestiegen. Interessenkonflikte sind die Regel, nicht die Ausnahme. Die Hosts analysieren Beispiele."
         }
       ],
       "error": null
@@ -86,34 +86,34 @@
       "url": "https://www.n-tv.de/wirtschaft/rss",
       "items": [
         {
+          "title": "Nachteilsausgleich für Menschen: Sogar Tech-Bosse fordern Steuer auf KI-Token",
+          "link": "https://www.n-tv.de/wirtschaft/Sogar-Tech-Bosse-fordern-Steuer-auf-KI-Token-id31585979.html",
+          "published": "2026-11-28T08:15:28+00:00",
+          "summary": "Experten, Politiker und sogar Tech-Milliardäre selbst fordern, die großen KI-Firmen an den gesellschaftlichen Kosten des Job-Blutbads zu beteiligen, das sie womöglich anrichten. Doch genau wie …"
+        },
+        {
+          "title": "Vertiefung kein Allheilmittel: Umweltminister will Umbau des Rheins",
+          "link": "https://www.n-tv.de/wirtschaft/Umweltminister-will-Umbau-des-Rheins-id31587917.html",
+          "published": "2026-11-28T06:26:00+00:00",
+          "summary": "Trockenheit und Hitze bedrohen die Schifffahrt auf dem Rhein. Umweltminister Carsten Schneider will die für die Wirtschaft wichtige Handelsroute deshalb grundlegend umgestalten. Dabei geht es jedoch …"
+        },
+        {
+          "title": "\"Als Ultima Ratio eine Maßnahme\": Bilger erwägt Ausdünnung des Bahn-Angebots für mehr Pünktlichkeit",
+          "link": "https://www.n-tv.de/wirtschaft/Bilger-erwaegt-Ausduennung-des-Bahn-Angebots-fuer-mehr-Puenktlichkeit-id31587847.html",
+          "published": "2026-11-28T04:37:56+00:00",
+          "summary": "Die Deutsche Bahn kämpft seit Jahren gegen die Unpünktlichkeit. \"Unser Netz ist an vielen Stellen deutlich überlastet\", räumt Verkehrsminister Bilger ein. Anfang 2027 soll eine Expertenkommission …"
+        },
+        {
+          "title": "Fachkräfte auch in Krise gefragt: Nahles erwartet Aufschwung am Arbeitsmarkt frühestens im Sommer",
+          "link": "https://www.n-tv.de/wirtschaft/Nahles-erwartet-Aufschwung-am-Arbeitsmarkt-fruehestens-im-Sommer-id31587731.html",
+          "published": "2026-11-28T03:34:33+00:00",
+          "summary": "Deutschland braucht trotz der schwachen Konjunktur \"mehr qualifizierte Zuwanderung\" mit Sprachkenntnissen, mahnt Andrea Nahles mit Blick auf den demografischen Wandel. Die Arbeitsagenturchefin wirbt …"
+        },
+        {
           "title": "Gerüchte um ChatGPT-Smartphone: OpenAI wirft Apple Diebstahl von Geschäftsgeheimnissen vor",
           "link": "https://www.n-tv.de/wirtschaft/OpenAI-wirft-Apple-Diebstahl-von-Geschaeftsgeheimnissen-vor-id31587640.html",
           "published": "2026-11-28T00:53:42+00:00",
           "summary": "Im Rennen um Künstliche Intelligenz zieht OpenAI vor ein Bundesgericht in Kalifornien. Der ChatGPT-Macher beschuldigt Apple, Technologien gestohlen zu haben. Branchenbeobachter vermuten, dass OpenAI …"
-        },
-        {
-          "title": "Wochenvorschau: Termine bis 6. Dezember 2026",
-          "link": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-6-Dezember-2026-id31559511.html",
-          "published": "2026-11-27T23:01:00+00:00",
-          "summary": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur."
-        },
-        {
-          "title": "Tankrabatt läuft Silvester aus: Koalition bei Berechnungsbasis des Spritpreisdeckels noch uneinig",
-          "link": "https://www.n-tv.de/wirtschaft/Koalition-bei-Berechnungsbasis-des-Spritpreisdeckels-noch-uneinig-id31587577.html",
-          "published": "2026-11-27T22:17:35+00:00",
-          "summary": "Angesichts des Iran-Krieges bleiben Benzin und Diesel weltweit knapp. Um den Preisanstieg für Autofahrer abzumildern, soll es ab Neujahr für vorerst drei Monate einen bundesweiten Spritpreisdeckel …"
-        },
-        {
-          "title": "Trübe Monatsbilanz: Die Käufer kehren an der Wall Street zurück",
-          "link": "https://www.n-tv.de/wirtschaft/Die-Kaeufer-kehren-an-der-Wall-Street-zurueck-id31587271.html",
-          "published": "2026-11-27T18:50:06+00:00",
-          "summary": "Nach dem satten Abschlag zu Wochenbeginn setzt die Gegenbewegung ein an der US-Börse ein. \"Unvermeidlich\" analysiert ein Experte. Vor allem bei Tech-Titel griffen Anleger wieder zu. Allerdings war …"
-        },
-        {
-          "title": "Experte für Viertagewoche: Fällt jetzt die 35-Stunden-Woche bei VW?",
-          "link": "https://www.n-tv.de/wirtschaft/Faellt-jetzt-die-35-Stunden-Woche-bei-VW-id31586657.html",
-          "published": "2026-11-27T17:06:04+00:00",
-          "summary": "In der Metall- und Elektroindustrie ist die Tür zu höheren Arbeitszeiten geöffnet. Auf die dringt auch das VW-Management. Das Ende der dortigen 35-Stunden-Woche scheint in Sicht. Ob künftig mehr oder …"
         }
       ],
       "error": null
@@ -172,34 +172,34 @@
       "url": "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen",
       "items": [
         {
-          "title": "Rente: Schweitzer kündigt eine der „größten Rentenreformen“ an",
-          "link": "https://www.wiwo.de/politik/deutschland/haushaltsdebatte-im-bundestag-rentenstreit-schweitzer-froh-ueber-jeden-vorschlag/100273141.html",
-          "published": "2026-11-27T18:05:00+00:00",
-          "summary": "Der Arbeitsminister legt vor: Bei der vorzeitigen Rente nach 45 Jahren soll es „harte Korrekturen“ geben, bei einer anderen Frührente höhere Abschläge. Kann das den Rentenstreit lösen?"
+          "title": "Bundeshaushalt: Niemand hat die Absicht, die Mehrwertsteuer zu erhöhen",
+          "link": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-niemand-hat-die-absicht-die-mehrwertsteuer-zu-erhoehen/100273086.html",
+          "published": "2026-11-28T09:26:00+00:00",
+          "summary": "Schwarz-Rot verabschiedet unter Schmerzen den Bundesetat. Doch die Aufstellung des Budgets für 2028 dürfte den Partnern ganz neue Probleme bereiten."
         },
         {
-          "title": "Großbank: Unicredit erwägt offenbar Aufstockung von Anteil an Generali",
-          "link": "https://www.wiwo.de/unternehmen/banken/grossbank-unicredit-erwaegt-offenbar-aufstockung-von-anteil-an-generali/100273375.html",
-          "published": "2026-11-27T17:52:54+00:00",
-          "summary": "Nach der Commerzbank-Übernahme prüft UniCredit offenbar eine Aufstockung bei Generali. Und will künftig enger zusammenarbeiten."
+          "title": "ZDK-Prognose: Erstmals über eine Million neue Elektroautos 2027",
+          "link": "https://www.wiwo.de/unternehmen/mobilitaet-2027-werden-mehr-als-eine-million-neue-elektroautos-erwartet/100273407.html",
+          "published": "2026-11-28T09:22:00+00:00",
+          "summary": "Laut einer Branchenprognose werden im kommenden Jahr erstmals über eine Million neue Elektroautos in Deutschland zugelassen. Dagegen sinkt die Zahl der neuen Verbrenner."
         },
         {
-          "title": "Ex-Milliardär vor Gericht: Weiteres Urteil gegen Benko – nun drei Jahre Haft",
-          "link": "https://www.wiwo.de/unternehmen/handel/ex-milliardaer-vor-gericht-weiteres-urteil-gegen-benko-nun-drei-jahre-haft/100273349.html",
-          "published": "2026-11-27T17:30:00+00:00",
-          "summary": "Der Prozessserie rund um den österreichischen Investor René Benko nimmt Fahrt auf. Nun hat das OLG Innsbruck die Strafe für ein Verfahren korrigiert."
+          "title": "Überwachungs-Software: Rheinmetalls Angriff auf Palantirs Revier",
+          "link": "https://www.wiwo.de/unternehmen/industrie/palantir-rheinmetall-und-telekom-planen-deutsche-alternative/100272988.html",
+          "published": "2026-11-28T09:10:00+00:00",
+          "summary": "Rheinmetall und die Deutsche Telekom bündeln Satelliten-, Radar- und Mobilfunkdaten in einer deutschen Cloud. Daraus soll ein neues Sicherheitsökosystem entstehen."
         },
         {
-          "title": "Urananreicherung in Gronau: Atomausstieg? In Gronau drehen sich die Zentrifugen weiter",
-          "link": "https://www.wiwo.de/unternehmen/energie/urenco-einstieg-warum-der-bund-milliarden-in-atomkraft-stecken-will/100272699.html",
-          "published": "2026-11-27T17:10:47+00:00",
-          "summary": "Die Firma Urenco reichert in Gronau im Münsterland Uran an. Jetzt will der Bund offenbar einsteigen, drei Jahre nach dem Aus der Kernkraft. Was soll das?"
+          "title": "Uhren-Dossier: Wie ein Kfz-Mechaniker Uhren und das Auto zusammengeführt hat",
+          "link": "https://www.wiwo.de/erfolg/trends/uhren-dossier-wie-ein-kfz-mechaniker-uhren-und-das-auto-zusammengefuehrt-hat/100273247.html",
+          "published": "2026-11-28T08:24:13+00:00",
+          "summary": "Seit 15 Jahren führt Wilhelm Schmid A. Lange & Söhne. Der ehemalige BMW-Manager sieht große Überschneidungen zwischen Uhren- und Autobranche."
         },
         {
-          "title": "IT-Sicherheitsvorfall: Was die GitHub-Attacke für SAP so gefährlich macht",
-          "link": "https://www.wiwo.de/unternehmen/it/hackerangriff-auf-sap-warum-der-vorfall-auf-github-alarmiert/100273346.html",
-          "published": "2026-11-27T16:29:02+00:00",
-          "summary": "Wie genau Hacker den Day-Konzern attackierten, ist noch unklar. Doch allein, dass es so weit kommen konnte, alarmiert die Szene."
+          "title": "Uhren-Spezial: Ein Quarzkrisen-Opfer kehrt zurück",
+          "link": "https://www.wiwo.de/unternehmen/handel/uhren-neue-breitling-marke-gallet-fernweh-fuers-handgelenk/100273051.html",
+          "published": "2026-11-28T08:21:35+00:00",
+          "summary": "Mit Gallet belebt Breitling-Chef Georges Kern eine fast vergessene Uhrenmarke neu. Sie soll das dritte Standbein im Portfolio werden. Reicht die Geschichte fürs Revival?"
         }
       ],
       "error": null
@@ -210,6 +210,12 @@
       "site": "https://www.ingenieur.de",
       "url": "https://www.ingenieur.de/feed/",
       "items": [
+        {
+          "title": "Weniger Autodiebstähle: Warum die Kasko trotzdem teuer bleibt",
+          "link": "https://www.ingenieur.de/weniger-autodiebstaehle-warum-die-kasko-trotzdem-teuer-bleibt-15122c0c-88a1-4b5e-8714-9f8d0ebed22a/",
+          "published": "2026-11-28T08:00:00+00:00",
+          "summary": "Autodiebstähle gehen deutlich zurück, doch teure Ersatzteile und Werkstattkosten halten den Druck auf die Kaskoversicherung hoch."
+        },
         {
           "title": "20 % billiger: Chinesische E-Lkw gibt es in Deutschland bald zur Miete",
           "link": "https://www.ingenieur.de/20-billiger-chinesische-e-lkw-gibt-es-in-deutschland-bald-zur-miete-cc780c7f-2abf-4cea-822b-2d07f5eb9cfd/",
@@ -233,12 +239,6 @@
           "link": "https://www.ingenieur.de/wasserstoff-in-1-500-m-tiefe-uniper-testet-neue-speichertechnik-9b379eef-8e9a-4b42-a142-28c6148587d6/",
           "published": "2026-11-27T11:30:00+00:00",
           "summary": "Uniper investiert rund 120 Mio. € in den Gasspeicher Bierwang. In 1.500 m Tiefe testet der Konzern dort auch die Speicherung von reinem Wasserstoff in porösem Gestein. Das Verfahren könnte helfen …"
-        },
-        {
-          "title": "3500 E-Autos und Wärmepumpen helfen dem Stromnetz, die Besitzer merken das kaum",
-          "link": "https://www.ingenieur.de/3500-e-autos-und-warmepumpen-helfen-dem-stromnetz-die-besitzer-merken-das-kaum-08a96795-043d-4e16-a76b-ac11dbce15bc/",
-          "published": "2026-11-27T11:01:36+00:00",
-          "summary": "In einem Großtest helfen rund 3500 E-Autos, Wärmepumpen und Heimspeicher aus Privathaushalten dabei, Engpässe im Stromnetz zu entschärfen. Die Besitzer der E-Autos merken davon nichts. Wie das …"
         }
       ],
       "error": null
